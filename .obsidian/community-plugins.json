@@ -62,5 +62,6 @@
   "js-engine",
   "custom-sort",
   "iconic",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-linter"
 ]

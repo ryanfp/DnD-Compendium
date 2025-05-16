@@ -1,3 +1,0 @@
-```meta-bind
-INPUT[SourceBooks][]
-```

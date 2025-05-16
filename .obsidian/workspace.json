@@ -21,8 +21,23 @@
               "icon": "lucide-file",
               "title": "tessssst"
             }
+          },
+          {
+            "id": "9bdce44871bcc00a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Untitled.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f4bf2f442f60c137",
@@ -266,13 +281,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5b3f0dc164b73b7f",
+  "active": "9bdce44871bcc00a",
   "lastOpenFiles": [
+    "templates/Format YouTube Link.md",
+    "templates/Untitled.md",
+    "templates/Table of Contents.md",
+    "templates/Insert Callout.md",
+    "templates/Session Notes.md",
+    "tessssst/Templates.md",
+    "tessssst/tessssst.md",
     "New Text Document.txt",
     "README.md",
     "git clone",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of the Created.md",
-    "tessssst/tessssst.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "image.png",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md",
@@ -292,19 +313,13 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Artificer.md",
     "3-Content/Compendiums/spells/skull-servant-ultimateadventurer.md",
     "📚 - Information Compendium/📝 - Rules & Mechanics/Basic Actions.md",
-    "⏰ - Archive/🖨 - Sourcebooks/🖨 - Sourcebooks.md",
-    "📚 - Information Compendium/🎒 - Inventory/Items - Loot/Items - Loot.md",
     "🌎 - Worldbuilding & Lore/Campaign Settings",
     "📚 - Information Compendium/🎒 - Inventory/Items - Loot/Miscellaneous",
     "📚 - Information Compendium/🎒 - Inventory/Items - Loot/Equipment & Accessories",
     "📚 - Information Compendium/🎒 - Inventory/Items - Loot/Armor",
     "📚 - Information Compendium/🎒 - Inventory/Items - Loot/Weapons",
     "📚 - Information Compendium/🎒 - Inventory/Items - Loot",
-    "📚 - Information Compendium/🎒 - Inventory/Loot.md",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/Damage Types.md",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/Conditions.md",
     "⏰ - Archive/✈ - Adventures",
-    "⏰ - Archive/🖨 - Sourcebooks",
     "Pasted image 20250510202249.png",
     "Pasted image 20250507211719.png"
   ]

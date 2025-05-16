@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "templates/Untitled.md"
+    },
+    {
+      "basename": "Format YouTube Link",
+      "path": "templates/Format YouTube Link.md"
+    },
+    {
+      "basename": "Table of Contents",
+      "path": "templates/Table of Contents.md"
+    },
+    {
+      "basename": "Insert Callout",
+      "path": "templates/Insert Callout.md"
+    },
+    {
+      "basename": "Session Notes",
+      "path": "templates/Session Notes.md"
+    },
+    {
+      "basename": "Templates",
+      "path": "tessssst/Templates.md"
+    },
+    {
       "basename": "tessssst",
       "path": "tessssst/tessssst.md"
     },
@@ -147,14 +171,6 @@
     {
       "basename": "Flavorful Feats",
       "path": "UNORGANIZED/Flavorful Feats.md"
-    },
-    {
-      "basename": "template",
-      "path": "templates/template.md"
-    },
-    {
-      "basename": "template 1",
-      "path": "templates/template 1.md"
     },
     {
       "basename": "Rules & Meta",
