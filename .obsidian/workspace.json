@@ -262,11 +262,13 @@
       "obisidian-note-linker:Note Linker": false,
       "custom-sort:Toggle custom sorting": false,
       "iconic:Open rulebook": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "5b3f0dc164b73b7f",
   "lastOpenFiles": [
+    "New Text Document.txt",
     "README.md",
     "git clone",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of the Created.md",
@@ -301,7 +303,6 @@
     "📚 - Information Compendium/🎒 - Inventory/Loot.md",
     "📚 - Information Compendium/📝 - Rules & Mechanics/Damage Types.md",
     "📚 - Information Compendium/📝 - Rules & Mechanics/Conditions.md",
-    "📚 - Information Compendium/⚔ - Combat/Spells.md",
     "⏰ - Archive/✈ - Adventures",
     "⏰ - Archive/🖨 - Sourcebooks",
     "Pasted image 20250510202249.png",
