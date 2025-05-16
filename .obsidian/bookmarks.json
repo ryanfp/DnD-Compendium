@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1747366899990,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1747366980106,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1747367007623,
+              "items": [],
+              "title": "👨🏻‍🤝‍👨🏻 - Player Options"
+            }
+          ],
+          "title": "📚 - Information Compendium"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}

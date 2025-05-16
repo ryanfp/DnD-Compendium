@@ -1,0 +1,53 @@
+{
+  "biggerIcons": "on",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": true,
+  "showAllFolderIcons": true,
+  "minimalFolderIcons": false,
+  "showItemName": "desktop",
+  "biggerSearchResults": "on",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {
+    "file-explorer": {
+      "color": "cyan"
+    }
+  },
+  "fileIcons": {
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed": {
+      "icon": "lucide-ghost",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md": {
+      "icon": "lucide-ghost",
+      "color": "purple"
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer": {
+      "icon": "lucide-anvil",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ],
+      "color": "yellow"
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
+}

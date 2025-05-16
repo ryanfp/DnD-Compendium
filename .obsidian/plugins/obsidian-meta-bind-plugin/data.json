@@ -1,0 +1,29 @@
+{
+  "devMode": false,
+  "ignoreCodeBlockRestrictions": false,
+  "preferredDateFormat": "YYYY-MM-DD",
+  "firstWeekday": {
+    "index": 1,
+    "name": "Monday",
+    "shortName": "Mo"
+  },
+  "syncInterval": 200,
+  "enableJs": false,
+  "viewFieldDisplayNullAsEmpty": true,
+  "enableSyntaxHighlighting": true,
+  "enableEditorRightClickMenu": true,
+  "inputFieldTemplates": [
+    {
+      "name": "SourceBooks",
+      "declaration": "INPUT[inlineSelect(option(Xanathar’s Guide to Everything), option(Tasha’s Cauldron of Everything), option(Eberron: Rising from the Last War), option(Sword Coast Adventurer’s Guide), option(Explorer’s Guide to Wildmount), option(Van Richten’s Guide to Ravenloft), option(Fizban’s Treasury of Dragons), option(Unearthed Arcana), option(Valda’s Spire of Secrets), option(Tome of Heroes), option(Tasha’s Crucible of Everything Else), option(Frontiers of Eberron: Quickstone), option(Feywild Companion Guide), option(Epic Characters Heroes Handbook), option(Crystalpunk Campaign Setting), option(KibblesTasty), option(LaserLlama), option(Xanathar’s Lost Notes to Everything Else), option(Mage Hand Press), option(Genuine Fantasy), option(Hit Point Press), option(The Griffon’s Saddlebag), option(Plus Three), option(Exandria Unlimited), option(DM’s Guild), option(The Ultimate Adventurer’s Guide), option(GM Binder), option(SoManyRobots))]"
+    },
+    {
+      "name": "test",
+      "declaration": "INPUT[slider(addLabels, minValue(0), maxValue(10))]"
+    }
+  ],
+  "buttonTemplates": [],
+  "excludedFolders": [
+    "templates"
+  ]
+}

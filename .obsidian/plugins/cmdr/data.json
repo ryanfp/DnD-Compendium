@@ -1,0 +1,67 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [
+    {
+      "id": "editor:insert-wikilink",
+      "icon": "bracket-glyph",
+      "name": "Add internal link",
+      "mode": "any"
+    },
+    {
+      "id": "insert-template",
+      "icon": "lucide-copy",
+      "name": "Templates: Insert template",
+      "mode": "any"
+    },
+    {
+      "id": "markdown:add-metadata-property",
+      "icon": "lucide-plus-circle",
+      "name": "Add file property",
+      "mode": "desktop"
+    },
+    {
+      "id": "markdown:edit-metadata-property",
+      "icon": "lucide-package-open",
+      "name": "Edit file property",
+      "mode": "any"
+    },
+    {
+      "id": "markdown:add-metadata-property",
+      "icon": "lucide-plus-circle",
+      "name": "Add file property",
+      "mode": "any"
+    }
+  ],
+  "fileMenu": [
+    {
+      "id": "iconic:change-icon-current-file",
+      "icon": "lucide-component",
+      "name": "Iconic: Change icon of the current file",
+      "mode": "any"
+    }
+  ],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

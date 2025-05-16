@@ -1,0 +1,16 @@
+{
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "focusNewTab": true,
+  "livePreview": false,
+  "showLineNumber": true,
+  "propertiesInDocument": "visible",
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true
+}

@@ -1,0 +1,16 @@
+{
+  "handleContentOverlap": "allow",
+  "disableActiveHeadingHighlighting": false,
+  "disableDynamicHeadingIndentation": false,
+  "disableSearchBarAutoHide": true,
+  "disableSearchClearOnJump": true,
+  "disableSearchFieldAutofocus": true,
+  "disableHeadingCollapsing": false,
+  "hideOutlineOnJump": false,
+  "minHeadingsToHideSearchBar": 5,
+  "minimumHeadingsToRevealAutomatically": 3,
+  "revealAutomaticallyOnFileOpen": false,
+  "revealOnHover": true,
+  "avoidContentOverlap": false,
+  "outlinePosition": "left"
+}

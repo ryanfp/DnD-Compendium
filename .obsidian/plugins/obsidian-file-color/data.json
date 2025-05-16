@@ -1,0 +1,51 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "6-Pm7JuNYHo5FHzP7QY4E",
+      "name": "",
+      "value": "#f708d7"
+    },
+    {
+      "id": "WUe61BxW6Rm2g-87xkHWB",
+      "name": "",
+      "value": "#110de3"
+    },
+    {
+      "id": "18EvO1D6dnrsAmAvldByE",
+      "name": "",
+      "value": "#71f505"
+    },
+    {
+      "id": "IlbPi6hZH2AmrR5pVce70",
+      "name": "",
+      "value": "#f04800"
+    },
+    {
+      "id": "6r7Lg88CTwIJHfjXQtjcL",
+      "name": "",
+      "value": "#be6bf5"
+    },
+    {
+      "id": "zqmq0C7UiDJwqroBcj2ev",
+      "name": "",
+      "value": "#03ecfc"
+    },
+    {
+      "id": "QiZEtw1ZJu58Op00fRET0",
+      "name": "",
+      "value": "#ffea00"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "🌎 - Worldbuilding & Lore",
+      "color": "18EvO1D6dnrsAmAvldByE"
+    },
+    {
+      "path": "📚 - Information Compendium",
+      "color": "6r7Lg88CTwIJHfjXQtjcL"
+    }
+  ]
+}

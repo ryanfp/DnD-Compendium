@@ -1,0 +1,1561 @@
+00*A compiled list of all the various classes and subclasses scattered throughout my ever-growing collection of homebrew. A brief description is included. Their sources are listed with each subclass if they’re not in base 5e*
+
+
+
+  homebrew/creature/Foxfire94; Eighteen Sons of The Lightning Lord. Json,
+  homebrew/creature/Frog God Games; Fifth Edition Foes. Json,
+  homebrew/creature/Goblin Punch; The False Hydra. Json,
+  homebrew/creature/Kobold Press; Creature Codex. Json,
+  homebrew/creature/Kobold Press; Tome of Beasts 2. Json,
+  homebrew/creature/Kobold Press; Gem Dragons of Faerun. Json,
+  homebrew/creature/Kobold Press; Tome of Beasts 3. Json,
+  homebrew/creature/Kobold Press; Tome of Beasts. Json
+
+
+
+  homebrew/item/Shamus_Aran; Crazy Jarls Discount Magic Shop. Json,
+  homebrew/item/Yonael; Firearms of the Realm. Json,
+  homebrew/spell/Faolyn; The (In) Complete Tome of Spells. Json,
+  homebrew/spell/Jessica Wolfman; The (Not Really) Complete Tome of Spells. Json,
+  homebrew/spell/KibblesTasty; Kibbles' Casting Compendium. Json,
+  homebrew/spell/LaserLlama; Laserllama's Spell Compendium. Json,
+  homebrew/spell/somanyrobots Omega Ankh; Spells That Don't Suck. Json,
+  homebrew/table/Dungeons-And-Danis; 100 Quirks and Peculiarities. Json,
+  homebrew/table/Raging Swan; Tables. Json,
+  homebrew/table/Matt Davids; The Great Book of Random Tables. Json,
+  homebrew/variantrule/Coal; RevisedShortRest. Json,
+  homebrew/variantrule/Matthew Mercer; Corruption Rules. Json,
+  homebrew/variantrule/Dael Kingsmill; Thieves' Cant. Json,
+  homebrew/variantrule/Kanekuo; Potions Plus. Json,
+  homebrew/variantrule/Sample - Giddy; Houserules. Json,
+  homebrew/variantrule/Web Community; Community Homebrew Variant Rules. Json
+
+
+
+## Classes
+
+> *Adventurers are extraordinary people, driven by a thirst for excitement into a life that others would never dare lead. They are heroes, compelled to explore the dangerous places of the world and take on the challenges that lesser women and men can’t stand against.
+> 
+> Class is the primary definition of what your character can do. It’s more than a profession; it’s your character’s calling. Class shapes the way you think about the world and interact with it and your relationship with other people and powers in the multiverse. A fighter, for example, might view the world in pragmatic terms of strategy and maneuvering, and see herself as just a pawn in a much larger game. A cleric, by contrast, might see himself as a willing servant in a god’s unfolding plan or a conflict brewing among various deities. While the fighter has contacts in a mercenary company or army, the cleric might know a number of priests, paladins, and devotees who share his faith.
+
+
+- ==Accursed*==
+- ==Adept*==
+- ==Alchemist*==
+- ==Apothecary*==
+- Artificer
+- Barbarian
+- Bard
+- ==Beastheart*==
+- ==Berserker*==
+- Blood Hunter
+- ==Bloodrager*==
+- ==Captain*==
+- ==Cardcaster*==
+- Cleric
+- ==Craftsman*==
+- ==Dracoknight*==
+- ==Dragon Knight*==
+- Druid
+- ==Evolutionist*==
+- Fighter
+- ==Gunslinger*==
+- ==Herald*==
+- ==Investigator*==
+- ==Justiciar*==
+- ==Magus*==
+- ==Martyr*==
+- Monk
+- ==Mystic*==
+- ==Necromancer*==
+- ==Occultist*==
+- Paladin
+- ==Psion*==
+- ==Pugilist*==
+- Ranger
+- Rogue
+- ==Savant*==
+- ==Spellblade*==
+- Sorcerer
+- ==Soulshaper*==
+- ==Tamer*==
+- ==Warden*==
+- Warlock
+- ==Warlord*==
+- ==Warmage*==
+- ==Witch*==
+- Wizard
+
+32 New
+14 Old
+
+46 Total
+
+
+## Artificer
+
+### *2014/2024 D&D 5e*
+- Artificer (Specific to TCoE)
+	- Armorer
+	- Alchemist
+	- Artillerist
+	- Battle Smith
+
+### *Unearthed Arcana*
+- Artificer
+	- Archivist
+
+### *Tasha’s Cauldron of Everything Else*
+- Artificer
+	- Effigist
+	- Kobold Engineer
+
+### *Feywild Companion Guide*
+- Artificer
+	- Calligrapher
+
+### *Exploring Eberron*
+- Artificer
+	- Forge Adept
+
+### *Epic Characters Heroes Handbook*
+- Artificer
+	- Mechanist
+	- Toymaker
+
+### *KibblesTasty*
+- Inventor/Artificer
+	- Gadgetsmith
+	- Golemsmith
+	- Infusionsmith
+	- Potionsmith
+	- Thundersmith
+	- Warsmith
+	- Fleshsmith
+	- Cursesmith
+	- Runesmith
+	- Relicsmith
+
+### *Assorted Homebrew*
+- <font color="#ffffff">Artificer</font> (DM’s Guild)
+	- <font color="#ffffff">Cognician</font>
+	- <font color="#ffffff">Demolitionist</font>
+	- <font color="#ffffff">Mechanic</font>
+	- <font color="#ffffff">Oozologist</font>
+	- <font color="#ffffff">Scrapper</font>
+	- <font color="#ffffff">Transmortalist</font>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+___
+## Complete List of Homebrew
+### *2014/2024 D&D 5e*
+- Artificer (Specific to TCoE)
+	- Armorer
+	- Alchemist
+	- Artillerist
+	- Battle Smith
+- Barbarian
+	- Berserker
+	- Totem Warrior
+	- Ancestral Guardian
+	- Storm Herald
+	- Beast
+	- Wild Soul
+	- Battlerager
+	- World Tree (Exclusive to 2024e)
+- Bard
+	- Lore
+	- Valor
+	- Creation
+	- Glamor
+	- Swords
+	- Whispers
+	- Eloquence
+	- Spirits
+- Blood Hunter
+	- Ghostslayer
+	- Lycan
+	- Mutant
+	- Profane Soul
+- Cleric
+	- Knowledge
+	- Life
+	- Light
+	- Natuyre
+	- Tempest
+	- Trickery
+	- War
+	- Death
+	- Twilight
+	- Order
+	- Forge
+	- Grave
+	- Peace
+	- Arcane
+- Druid
+	- Land
+	- Moon Dreams
+	- Shepard
+	- Spores
+	- Stars
+	- Wildfire
+- Fighter
+	- Champion
+	- Battle Master
+	- Eldritch Knight
+	- Arcane Archer
+	- Cavalier
+	- Samurai
+	- Psi Warrior
+	- Rune Knight
+	- Echo Fighter
+	- Purple Dragon Knight
+- Monk
+	- Open Hand
+	- Shadow
+	- Four Elements
+	- Mercy
+	- Astral Self
+	- Drunken Master
+	- Kensei
+	- Sun Soul
+	- Long Death
+	- Ascendant Dragon
+- Paladin
+	- Devotion
+	- Ancients
+	- Vengeance
+	- Oathbreaker
+	- Conquest
+	- Redemption
+	- Glory
+	- Watchers
+	- Crown
+- Ranger
+	- Fey Wanderer
+	- Swarmkeeper
+	- Gloom Stalker
+	- Horizon Walker
+	- Monster Slayer
+	- Hunter
+	- Beast Master
+	- Drakewarden
+- Rogue
+	- Thief
+	- Assassin
+	- Arcane Trickster
+	- Inquisitive
+	- Mastermind
+	- Scout
+	- Swashbuckler
+	- Phantom
+	- Soulknife
+- Sorcerer
+	- Aberrant Mind
+	- Clockwork Soul
+	- Divine Soul
+	- Shadow Magic
+	- Storm Sorcery
+	- Draconic Bloodline
+	- Wild Magic
+- Warlock
+	- The Archfey
+	- The Fiend
+	- The Great Old One
+	- The Celestial
+	- Undying
+	- The Hexblade
+	- The Fathomless
+	- The Genie
+	- The Undead
+- Wizard
+	- Abjuration
+	- Conjuration
+	- Divination
+	- Enchantment
+	- Evocation
+	- Illusion
+	- Necromancy
+	- Transmutation
+	- Graviturgy
+	- Chronurgy
+	- War Magic
+	- Bladesinger
+	- Order of Scribes
+
+### *Valda’s Spire of Secrets*
+- Alchemist
+	- Amorist
+	- Apothecary
+	- Dynamo Engineer
+	- Mad Bomber
+	- Mutagenist
+	- Ooze Rancher
+	- Venomsmith
+	- Xenoalchemist
+- Barbarian
+	- Colossus
+	- Fin
+	- Heavy Metal
+	- Muscle Wizard
+	- Rage Mage
+	- Tranquility
+- Bard
+	- Cantors
+	- Graffiti
+	- Jesters
+	- Mad God
+	- Masks
+	- Romance
+- Captain
+	- Dragon
+	- Eagle
+	- Jolly Roger
+	- Lion
+	- Ram
+	- Raven
+	- Turtle
+- Cleric
+	- Destruction
+	- Madness
+	- Pestilence
+	- Rum
+	- Travel
+	- Wealth
+- Craftsman
+	- Arcane Maester
+	- Armiger
+	- Bladeworker
+	- Calibaron
+	- Forgeknight
+	- Mechanaut
+	- Thunderlord
+	- Trapper
+- Druid
+	- City
+	- Deep
+	- Fist
+	- Stones
+	- Vermin
+	- Wyrm
+- Fighter
+	- Bone Knight
+	- Brawler
+	- Celestial Lancer
+	- Corsair
+	- Dungeoneer
+	- Mage Hand Magus
+- Gunslinger
+	- Gun Tank
+	- Gun-Ko Master
+	- High Roller
+	- Musketeer
+	- Pistolero
+	- Sharpshooter
+	- Spellslinger
+	- Trick Shot
+	- White Hat
+- Investigator
+	- Antiquarian
+	- Archivist
+	- Detective
+	- Exterminator
+	- Inquisitor
+	- Medium
+	- Occultist
+	- Spy
+- Martyr
+	- Atonement
+	- Discord
+	- The End
+	- Mercy
+	- Rebirth
+	- Revolution
+	- Truth
+	- Tyranny
+- Monk
+	- Bow
+	- Flagellant
+	- Four Fists
+	- Mask
+	- Rose
+	- Street Fighting
+- Necromancer
+	- Blood Ascendant
+	- Death Knight
+	- Overlord
+	- Pale Master
+	- Pharaoh
+	- Plague Lord
+	- Reanimator
+	- Reaper
+- Paladin
+	- Eternal Night
+	- Heresy
+	- Revelry
+	- Storms
+	- The Sun
+	- Winter
+- Ranger
+	- Beastborne
+	- Freerunner
+	- Highwayman
+	- Spellbreaker
+	- Trophy Hunter
+	- Vigilante
+- Rogue
+	- Arachnoid Stalker
+	- Enforcer
+	- Grifter
+	- Shadow Master
+	- Temporal Trickster
+	- Titan Slayer
+- Sorcerer
+	- Emotion Lord
+	- Mirrorkin
+	- Oozemaster
+	- Reincarnated Hero
+	- Spiritborn
+	- Toon Magic
+- Warden
+	- Bloodwrath Guardian
+	- Grey Watchman
+	- Nightgaunt
+	- Soulblood Shaman
+	- Stoneheart Defender
+	- Storm Sentinel
+	- Verdant Protector
+- Warlock
+	- The Dead Mists
+	- The Future You
+	- The Legacy
+	- The Magician
+	- The Symbiont
+- Warmage
+	- Bishops
+	- Cards
+	- Dice
+	- Kings
+	- Knights
+	- Lancers
+	- Pawns
+	- Rooks
+- Witch
+	- Black
+	- Blood
+	- Green
+	- Purple
+	- Red
+	- Steel
+	- Tea
+	- Technicolor
+	- White
+- Wizard
+	- Familiar Master
+	- Magic Missile Mage
+	- Mystic Savant
+	- Chronomancy
+	- Gastronomy
+	- Somnomancy
+
+### *Unearthed Arcana*
+- Artificer
+	- Archivist
+- Barbarian
+	- Blood
+	- Blighted
+- Bard
+	- Satire
+	- The Shadowfell
+	- The Ancients
+- Blood Hunter
+- Cleric
+	- Unity
+	- Blood
+	- Night
+- Druid
+	- Twilight
+	- Seedling
+- Fighter
+	- Scout
+	- Monster Hunter
+	- Brute
+	- Blood Knight
+	- Arcane Marksman (AA Revision)
+- Monk
+	- Tranquility
+	- Bloodied Fist
+	- Thorns
+	- Four Elements Revised
+- Mystic + Subclasses
+	- Avatar
+	- Awakened
+	- Immortal
+	- Nomad
+	- Soul Knife
+	- Wu Jen
+- Paladin
+	- Heroism
+	- Treachery
+	- Grave
+	- Hellsworn
+- Ranger (UA Version)
+	- Deep Stalker
+	- Primeval Guardian
+	- Nightstalker
+	- Seedmaster
+- Rogue
+	- Shadow
+- Sorcerer
+	- Shadow
+	- Phoenix
+	- Stone
+	- Giant
+	- Deathtouched
+	- Vampiric Bloodline
+	- Blighted
+- Warlock
+	- Undying Light
+	- The Seeker
+	- Raven Queen
+	- The Archlich
+- Wizard
+	- Theurgy
+	- Lore Mastery
+	- Invention
+	- Onomancy
+	- Reawakening
+	- Hemomancy
+
+### *Tome of Heroes*
+- Barbarian
+	- Booming Magnificence
+	- Mistwood
+	- Dragon
+	- Herald
+	- Inner Eye
+	- Thorns
+- Bard
+	- Echoes
+	- Investigation
+	- Shadows
+	- Sincerity
+	- Tactics
+	- Cat
+- Cleric
+	- Black Powder
+	- Hunt
+	- Mercy
+	- Portal
+	- Serpent
+	- Shadow
+	- Vermin
+	- Wind
+- Druid
+	- Ash
+	- Bees
+	- Crystals
+	- Sand
+	- The Green
+	- The Shapeless
+	- Wind
+- Fighter
+	- Buccaneer
+	- Chaplain
+	- Legionary
+	- Pugilist
+	- Radiant Pikeman
+	- Timeblade
+	- Tunnel Watcher
+- Monk
+	- Concordant Motion
+	- The Dragon
+	- Humble Elephant
+	- Still Waters
+	- Tipsy Monkey
+	- Unerring Arrow
+	- Wildcat
+- Paladin
+	- Justice
+	- Elements
+	- Guardian
+	- Hearth
+	- Plaguetouched
+- Ranger
+	- Beast Trainer
+	- Grove Warden
+	- Gunslinger
+	- Haunted Warden
+	- Snake Speaker
+	- Spear of the Weald
+	- Wasteland Strider
+- Rogue
+	- Cat Burglar
+	- Dawn Blade
+	- Sapper
+	- Smuggler
+	- Soulspy
+	- Underfoot
+- Sorcerer
+	- Black Powder
+	- Cold Blooded
+	- Rifthopper
+	- Spore Sorcery
+	- Wastelander
+- Warlock
+	- Ancient Dragons
+	- Animal Lords
+	- Hunter in Darkness
+	- Old Wood
+	- Primordial
+	- Wyrdweaver
+- Wizard
+	- Cantrip Adept
+	- Courser Mage
+	- Familiar Master
+	- Gravebinding
+	- Black Powder
+	- Liminality
+	- Spellsmith
+
+### *The Complete DEVOUT Handbook*
+- Cleric
+	- Commerce
+	- Darkness
+	- Love
+	- Prophecy
+- Druid
+	- Bond
+	- Branch
+	- Cataclysm
+	- Spirit
+- Monk
+	- Internal Alchemy
+	- Kabuki
+	- Peaceful Warrior
+	- Tattooed Temple
+- Paladin
+	- Ancestors
+	- The Planes
+	- Rebellion
+	- Vigilance
+
+### *Tasha’s Cauldron of Everything Else*
+- Artificer
+	- Effigist
+	- Kobold Engineer
+- Barbarian
+	- Abomination
+	- Alchemical Brute
+	- Cosmic Juggernaut
+	- Dragonheart
+	- Horned King
+	- Infiltration
+- Bard
+	- Harmony
+	- Pantomime
+	- Requiem
+- Cleric
+	- Frost
+	- Inquisition
+	- Seership
+	- Trade
+- Druid
+	- Bough
+	- Coven
+	- Dragonfriend
+	- Seafarers
+- Fighter
+	- Bodyguard
+	- Fencer
+	- Phoenix Knight
+	- Scrapper
+- Monk
+	- Devils
+	- Cosmic Mind
+	- Mundanity
+	- Iron Grasp
+	- Four Elements Remastered
+	- Warshaper
+- Paladin
+	- Enlightenment
+	- Unrest
+- Ranger
+	- Bog Phantom
+	- Dark Trapper
+	- Herbalist
+	- Predator
+	- Stargazer
+- Rogue
+	- Improviser
+	- Temple Raider
+	- Wayfinder
+	- Witchblade
+- Sorcerer
+	- Bestial Spirit
+	- Rakshasa Bloodline
+	- Spellslinger
+	- Wild Magic Remasterd
+- Warlock
+	- Ancient Wyrm
+	- Creeping Vine
+	- Cryptic Oracle
+	- Greate Ooze
+	- Inevitable
+	- Undying Remastered
+- Wizard
+	- Hellhunter
+	- Mimicry
+	- Numerology
+
+### *Tales of the Valiant*
+- Bard
+	- Victory
+- Druid
+	- Leaf
+- Rogue
+	- Enforcer
+- Warlock
+	- Reaper
+
+### *Humblewood*
+- Bard
+	- Road
+- Cleric
+	- Community
+	- Night
+- Fighter
+	- Scofflaw
+
+### *Frontiers of Eberron Quickstone*
+- Barbarian
+	- Demonshard
+- Bard
+	- Wands
+- Cleric
+	- Commerce
+- Ranger
+	- Bloodhound
+- Sorcerer
+	- Nemesis
+- Warlock
+	- Stone Sovereign
+
+### *Feywild Companion Guide*
+- Artificer
+	- Calligrapher
+- Barbarian
+	- Blinking Pack
+- Bard
+	- Seasons
+- Cleric
+	- Mirror
+- Druid
+	- Visions
+- Fighter
+	- Court Guard
+- Monk
+	- Deep Winter
+- Paladin
+	- Beauty
+- Ranger
+	- Cosmic Caller
+- Rogue
+	- Reveler
+- Sorcerer
+	- Evil Eye
+- Warlock
+	- The Muse
+- Wizard
+	- Court Magic
+
+### *Exploring Eberron*
+- Artificer
+	- Forge Adept
+- Bard
+	- Dirge Singer
+- Cleric
+	- Mind
+- Druid
+	- Forged
+- Monk
+	- Living Weapon
+
+### *Epic Characters Heroes Handbook*
+- Artificer
+	- Mechanist
+	- Toymaker
+- Barbarian
+	- Brewmaster
+	- Empathic Ire
+- Bard
+	- Song
+	- Weaving
+- Blood Hunter
+	- Courser
+	- Lich Hunter
+- Cleric
+	- Cosmic
+	- Vigilance
+- Druid
+	- Blossoming
+	- Primeval Grove
+- Fighter
+	- Phylax
+	- Myrmidon
+- Monk
+	- Bestial Memesis
+	- Crescent Flow
+- Paladin
+	- Absolution
+	- Forbiddance
+- Ranger
+	- Primordial Keeper
+	- Wildcatter
+- Rogue
+	- Knife Juggler
+	- Mnemonic
+- Sorcerer
+	- Lunar
+	- Solar
+- Warlock
+	- The Haunter
+	- The Seeker
+- Wizard
+	- Siege Magic
+	- Wayfaring
+
+### *Crystalpunk Campaign Setting*
+- Barbarian
+	- Curse
+- Bard
+	- Momentum
+- Cleric
+	- Missionary
+- Druid
+	- Crystals
+- Fighter
+	- Weaponforger
+- Monk
+	- Streets
+- Paladin
+	- Rebellion
+- Ranger
+	- Infernal Rider
+- Rogue
+	- Quickdraw
+- Sorcerer
+	- Nightmare
+- Warlock
+	- The Lost Soul
+- Wizard
+	- Infiltration
+- Evolutionist
+	- Innovation
+	- Mutation
+	- Infusion
+- Soulshaper
+	- Soothsaying
+	- Witchcraft
+	- Manifestation
+	- Soulblades
+
+### *KibblesTasty*
+- Barbarian
+	- Raging Mind
+	- Exosuit
+	- Mutation
+	- Instinct
+	- Dragon
+	- Bladestorm
+- Bard
+	- Thunder
+	- Fools
+- Cleric
+	- Mystery Cult
+	- Judgement
+	- Martyr
+	- Void
+	- Dream
+- Druid
+	- Nightmares
+	- Aspects
+	- Elements
+	- Growth
+	- Roots
+	- City
+	- Grove
+	- Sun
+	- The Wild
+- Fighter
+	- Tech Knight
+	- Adventurer
+	- Brawler
+	- Champion Revised
+	- Crusader
+	- Spiritsworn
+	- Green Knight
+- Inventor/Artificer
+	- Gadgetsmith
+	- Golemsmith
+	- Infusionsmith
+	- Potionsmith
+	- Thundersmith
+	- Warsmith
+	- Fleshsmith
+	- Cursesmith
+	- Runesmith
+	- Relicsmith
+- Monk
+	- Soul Blade
+	- Demon
+	- Four Elements Revised
+	- Outcast
+	- Sword Saint
+- Occultist
+	- Witch
+	- Shaman
+	- Oracle
+	- Hedgemage
+	- Spiritualist
+	- Voidwatcher
+- Paladin
+	- Sanity
+	- Silence
+- Psion
+	- Awakened
+	- Unleashed
+	- Transcended
+	- Shaper’s
+	- Wandering
+	- Elemental
+	- Consuming
+	- Knowing
+- Ranger
+	- Specialist
+	- Mind Reaper
+	- Beast Master Revised
+	- Bounty Hunter
+- Rogue
+	- Gadgeteer
+	- Assassin Revised
+	- Divine Hand
+	- Shinobi
+	- Surgeon
+- Sorcerer
+	- Aether Heart
+	- Planetouched
+	- Fey
+	- Fiend
+	- Pheonix Spark
+	- Sea Soul
+	- Stoneheart
+- Spellblade
+	- Battlemage
+	- Guardian
+	- Swiftblade
+	- Mage Hunter
+	- Spellshot
+	- Rimeblade
+	- Flying Sword
+	- Spellfist
+	- Aether Blade
+- Warden
+	- Elemental Soul
+	- Beasthide
+	- Elderheart
+	- Stoneblood
+	- Sunwatcher
+	- Ironbound
+	- Dreadwing
+	- Timetwister
+	- Astral Guardian
+	- Bone Binder
+- Warlock
+	- The Ancient Intelligence
+	- That Which Is Beyond
+	- The Tempest
+	- The Dragon
+	- The Fey
+	- The Knowledge Keeper
+	- The Overseer
+	- The Ooze
+- Warlord
+	- Noble
+	- Chieftain
+	- Commander
+	- Packleader
+	- Paragon
+	- Tactician
+	- Daner
+	- Dreadlord
+- Wizard
+	- Creation
+	- The Unknown
+	- Chronomancy
+	- Innovation
+	- Pathology
+	- Theurge
+	- Astronomical
+
+### *Xanathar’s Lost Notes to Everything Else*
+- Barbarian
+	- Courageous Heart
+	- Red Reaver
+	- Sacred Kin
+- Bard
+	- Discord
+	- Keys
+	- Mourning
+- Cleric
+	- Entropy
+	- Survival
+- Druid
+	- Seasons
+	- Spiritlord
+- Fighter
+	- Runeguard
+- Monk
+	- Atonement
+	- Empathy
+- Paladin
+	- Predation
+	- Providence
+- Ranger
+	- Burghal Explorer
+	- Wasteland Wanderer
+- Rogue
+	- Divine Herald
+- Sorcerer
+	- Fey Magic
+- Warlock
+	- The Chaos
+	- The Noble Genie
+- Wizard
+	- Beguiler
+	- Mage Hunter
+	- Reconstruction
+
+### *Level Up: Advanced 5e*
+- Adept
+	- Brawler
+	- Exalted Athlete
+	- Warrior Monk
+- Artificer
+- Bard
+	- Loremaster
+	- Minstrel
+	- Mountebank
+	- Warchanter
+- Berserker
+	- Dreadnought
+	- Rager
+	- Tempest
+- Cleric
+	- Healer
+	- Oracle
+	- Sun Priest
+	- Warpriest
+- Druid
+	- Guardian
+	- Skinchanger
+	- Treespeaker
+- Fighter
+	- Brute
+	- Duelist
+	- Gladiator
+	- Knight
+	- Sharpshooter
+- Herald
+	- Green Knight
+	- Holy Champion
+	- Inquisitor
+- Marshal
+	- Gambling General
+	- Swift Strategist
+	- Talented Tactician
+- Ranger
+	- Beastmaster
+	- Warden
+	- Wildborn
+- Rogue
+	- Burglar
+	- Cutthroat
+	- Investigator
+	- Trapsmith
+- Savant
+	- Steward
+	- Vanguard
+	- Vox
+- Sorcerer
+	- Draconist
+	- Enigma
+	- Traveler
+- Warlock
+	- Alienist
+	- Diabolist
+	- Spellbound
+- Wizard
+	- Arcanist
+	- Mage
+	- Pyromancer
+
+### *MCDM*
+- Bard
+	- Springtide
+- Beastheart
+	- Ferocious
+	- Hunter
+	- Infernal
+	- Primordial
+	- Protector
+- Sorcerer
+	- Child of the Sun
+- Warlock
+	- The Horned One
+- Wizard
+	- Hibernation
+
+### *Mage Hand Press*
+- Barbarian
+	- Swamp
+- Bard
+	- Birdsong
+- Cleric
+	- Evolution
+- Druid
+	- Primal
+- Fighter
+	- Bestiarius
+- Monk
+	- Dodo
+- Paladin
+	- Preservation
+- Ranger
+	- Spiritbound
+- Rogue
+	- Chameleon
+- Sorcerer
+	- Mutagenic Bloodline
+- Warlock
+	- The Swarm
+- Wizard
+	- Protomancy
+
+### *Genuine Fantasy*
+- Barbarian
+	- The Accursed
+	- The Mercurial
+- Bard
+	- Portraiture
+	- Harbingers
+- Fighter
+	- Timeless Monumental
+	- Discordant
+- Monk
+	- Black Star
+	- Noble Serpent
+- Paladin
+	- Avarice
+	- Judgement
+- Ranger
+	- Hound of the Huntsman
+- Rogue
+	- Graverobber
+	- Spidertouched
+- Sorcerer
+	- Ashen Bloodline
+	- Blackthorn Bloodline
+- Warlock
+	- The Accursed Archive
+	- The Ashen Wolf
+	- The Eternal Citadel
+	- The Eternal Graveyard
+	- The Gelatinous Convocation
+	- The Gray Portrait
+	- The Keeper of the Depths
+	- The Perfect Chord
+	- The Serpent Empress
+	- The Shadowcat
+	- The Stormlord
+	- The Warrior-Saint
+	- The Weaver of Lies
+	- The Wild Huntsman
+- Wizard
+	- Esoteric Plasmology
+	- Dream Cartography
+
+### *Hit Point Press*
+- Barbarian
+	- Brewmaster
+- Bard
+	- Cuisine
+	- Mixology
+- Cleric
+	- Hunt
+	- Festivity
+- Druid
+	- Hive
+- Fighter
+	- Tavern Brawler
+- Monk
+	- Artisan
+- Paladin
+	- Harvest
+- Ranger
+	- Trapper
+- Rogue
+	- Charlatan
+- Sorcerer
+	- Skinshifter
+- Tamer
+	- Leader
+	- Infuser
+	- Necromancer
+	- Splicer
+	- Swarmslinger
+- Warlock
+	- The Parasite
+- Wizard
+	- Biomancy
+
+### *The Griffon’s Saddlebag*
+- Barbarian
+	- Glacier
+	- Infernal
+- Bard
+	- Dance
+	- Mercantile
+- Cleric
+	- Astral
+	- Festus
+- Druid
+	- Unbroken
+	- Dragons
+	- Eclipse
+	- Storm
+- Fighter
+	- Couatl Herald
+	- Steel Hawk
+	- Meteor Knight
+	- Shadow Knight
+- Monk
+	- Celestial
+	- Aether
+- Paladin
+	- Hearth
+	- Spelldrinker
+	- Dreamwarden
+- Ranger
+	- Winter Trapper
+	- Gravetender
+	- Rocborne
+- Rogue
+	- Runetagger
+	- Grim Surgeon
+- Sorcerer
+	- Frost Magic
+	- Desert Soul
+- Warlock
+	- Astral Griffon
+	- The Many
+- Wizard
+	- Material Magic
+	- Wand Lore
+	- Spellforge
+
+### *Plus Three*
+- Barbarian
+	- The Unbreakable
+- Fighter
+	- Sea Captain
+- Monk
+	- Dancing Blades
+- Paladin
+	- The Holy Flame
+- Ranger
+	- Shadow Caller
+- Rogue
+	- Sky Wanderer
+- Warlock
+	- The Ancient Beast
+
+### *Exandria Unlimited (Critical Role)*
+- Artificer
+- Barbarian
+	- Juggernaut
+- Bard
+	- Tragedy
+- Blood Hunter
+- Cleric
+	- Blood
+	- Moon
+- Druid
+	- Blighted
+- Fighter
+- Monk
+	- Cobalt Soul
+- Paladin
+	- Open Sea
+- Ranger
+- Rogue
+- Sorcerer
+	- Runechild
+- Warlock
+- Wizard
+	- Blood Magic
+
+### *Assorted Homebrew*
+<font color="#ff0000">DM’s Guild</font>, <font color="#00b0f0">SoManyRobots</font>, <font color="#ffff00">Masterclass CODEX</font>, <font color="#00b050">GM Binder</font>, <font color="#6425d0">3rd Party</font>
+- Accursed
+	- Animation
+	- Combustion
+	- The Created
+	- Immortality
+	- Misfortune
+	- Mummification
+	- Petrification
+	- Somnolence
+- <font color="#ffff00">Alchemist</font>
+	- Creation
+	- Destruction
+	- Illumination
+	- Mutation
+	- Regeneration
+- <font color="#7030a0">Apothecary</font>
+	- Alienist
+	- Chemist
+	- Exorcist
+	- Mutagenist
+	- Pathogenist
+	- Reanimator
+- <font color="#ffffff">Artificer</font>
+	- <font color="#ff0000">Cognician</font>
+	- <font color="#ff0000">Demolitionist</font>
+	- <font color="#ff0000">Mechanic</font>
+	- <font color="#ff0000">Oozologist</font>
+	- <font color="#ff0000">Scrapper</font>
+	- <font color="#ff0000">Transmortalist</font>
+- Barbarian
+	- <font color="#ff0000">Blood</font>
+	- <font color="#ff0000">Rune Sage</font>
+	- <font color="#ff0000">Skinchanger</font>
+	- <font color="#ff0000">Stampede</font>
+	- <font color="#ff0000">Sylvan Warden</font>
+	- <font color="#ff0000">War Chief</font>
+	- <font color="#7030a0">Haze Rager</font>
+	- <font color="#7030a0">Old Gods</font>
+- <font color="#ff0000">Bard</font>
+	- Beasts
+	- Canticles
+	- Drama
+	- Fortune
+	- Pantomime
+	- Puppetry
+	- <font color="#7030a0">Masks</font>
+	- <font color="#7030a0">Doomsayers</font>
+- Blood Hunter
+	- Dragoon
+	- Eye
+	- Giantfeller
+	- Infected Mind
+- <font color="#00b0f0">Bloodrager</font>
+	- Mystic Bloodlines
+		- Gravemarked
+		- Draconic
+		- Scintillant
+		- Celestial
+		- Jotun
+		- Fiendish
+	- Bloodrager Disciplines
+		- Ravager
+		- Reaver
+		- Meditative
+		- Tempered
+		- Bombardier
+		- Feral
+		- Mystic
+- <font color="#ffff00">Cardcaster</font>
+	- Knight of Swords
+	- Page of Wands
+	- Queen of Cups
+	- King of Pentacles
+	- Jack of Beasts
+- <font color="#ff0000">Cleric</font>
+	- Commerce
+	- Darkness
+	- Infernal
+	- Love
+	- Prophecy
+	- Time
+	- <font color="#7030a0">Shadow</font>
+- <font color="#ff0000">Dracoknight</font>
+	- Guardian
+	- Rider
+	- Sniper
+	- Mage
+	- 
+- <font color="#00b050">Dragon Knight</font> (2024e)
+	- Bound
+	- Devout
+	- Valiant
+- <font color="#00b050">Dragon Knight</font> (2014e v9)
+	- Rider
+	- Elemental
+	- Platinum
+	- Shadow
+	- Valiant
+	- Garden
+- <font color="#ff0000">Druid</font>
+	- Bond
+	- Branch
+	- Cataclysm
+	- Community
+	- Spirit
+	- Succulents
+	- <font color="#7030a0">Petal</font>
+	- <font color="#7030a0">Contamination</font>
+- <font color="#ff0000">Fighter</font>
+	- Armiger
+	- Combat Medic
+	- Crusader
+	- Gladiator
+	- Gunslinger
+	- Seafarer
+	- <font color="#7030a0">The Spirit Fused</font>
+	- <font color="#7030a0">Commander</font>
+- <font color="#ff0000">Justiciar</font> 
+	- Defense
+	- Enforcement
+	- Execution
+	- Prosecution
+	- Reformation
+- <font color="#ff0000">Magus</font> 
+	- Arcane Order
+	- Primordial Seal
+	- Sylvan Circle
+- <font color="#ff0000">Monk</font>
+	- Internal Alchemy
+	- Kabuki
+	- Peaceful Warrior
+	- Presence
+	- Tattooed Temple
+	- Thorns
+	- <font color="#7030a0">Sheep Dragon Shepard</font>
+	- <font color="#7030a0">Arcane Hand</font>
+	- <font color="#7030a0">Serpent</font>
+- Paladin
+	- <font color="#0070c0">Purgation</font> 
+	- Ancestors
+	- Compassion
+	- Planes
+	- Rebellion
+	- <font color="#ff0000">Unity</font>
+	- <font color="#ff0000">Vigilance</font>
+	- <font color="#7030a0">The River</font>
+	- <font color="#7030a0">Hexes</font>
+- <font color="#ff0000">Pugilist</font>
+	- Arena Royale
+	- Bloodhound Bruisers
+	- Dog & Hound
+	- Hand of Dread
+	- Lead Eaters
+	- Paradox Consortium
+	- Piss & Vinegar
+	- Relentless Revenant
+	- Rift Hitter
+	- The Squared Circle
+	- The Sweet Science
+- <font color="#ff0000">Ranger</font>
+	- <font color="#0070c0">Cometcaller</font>
+	- Apex Predator
+	- Bounty Hunter
+	- Cronesguard
+	- Freerunner
+	- Geomancer
+	- Spirit Guardian
+	- <font color="#7030a0">Corrupted Ranger</font>
+	- <font color="#7030a0">Urban Ranger</font>
+- <font color="#ff0000">Rogue</font>
+	- Apothecary
+	- Bouncer
+	- Paramour
+	- Phantom Thief
+	- Street Rat
+	- Zealous Inquisitor
+	- <font color="#7030a0">Waxwork Rogue</font>
+	- <font color="#7030a0">Smuggler</font>
+- <font color="#ff0000">Sorcerer</font>
+	- Arcane Prodigy
+	- Astral Born
+	- Cursed Existence
+	- Greenheart
+	- Oblex Imposter
+	- Reincarnated Warrior
+	- <font color="#7030a0">Oni Bloodline</font>
+	- <font color="#7030a0">Delirium Soul</font>
+- <font color="#ff0000">Warlock</font>
+	- The Archmage
+	- The Crone
+	- The Great Trickster
+	- The Icebound
+	- The Librarian
+	- The Titan
+	- <font color="#7030a0">The Lantern</font>
+	- <font color="#7030a0">The Cosmos</font>
+	- <font color="#7030a0">The Flesh</font>
+- <font color="#00b050">Warlord</font> (Zaelos)
+	- Chieftain
+	- White Raven
+	- Taskmaster
+	- Field Physician
+	- Mentor
+	- Arcane Commander
+	- Shadow Marshal
+	- Controller
+	- Revenant
+- <font color="#7030a0">Warlord</font> (MysticArts)
+	- Exemplar
+	- Tactician
+	- Warchief
+- <font color="#ff0000">Wizard</font>
+	- The Grey Guild
+	- Fundamentals
+	- Golemancy
+	- Mnemomancy
+	- Sigilsmithing
+	- Theurgy
+	- <font color="#7030a0">Origami Mage</font>
+	- <font color="#7030a0">Malfeasant</font>
+
+
+
+
+
+
+
+
+
+
+
+
