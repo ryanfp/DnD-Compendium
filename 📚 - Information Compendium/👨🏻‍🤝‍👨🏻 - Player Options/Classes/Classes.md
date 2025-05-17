@@ -968,24 +968,35 @@ Dracosnipers and their dragon companions take joy in hunting, the dragon stirrin
 #### **Mage Bond**
 Dracomages and their dragon companions exult in the manipulation of elemental power, and are thrilled to discover that such energy can be transferred through the bond for the mage’s use. They know that their connection fuels this magic, and so seek to deepen their bond as much as possible, often leading to two different creatures of the exact same personality and mannerisms. Neither mage nor dragon, though, is ever happier than when manipulating storms of elemental energy in the heat of combat.
 ## Dragon Knight
-*Dragon knights, a champion who fights alongside a dragon companion. Tough, relentless, and unyielding, knights and their dragons never give up, fighting to either heroic or devious ends. The bond between a knight and their dragon is nearly impossible to eclipse. Only powerful magic can even attempt to turn them against one another, and they nearly never fight each other against their own will. Despite this, a knight and their dragon are known to argue over strategy, tactics, or even miscellaneous things, as the dragon, despite its respect for its knight, is not quick to let go of its ego.**(Source: GM Binder)***
+*Dragon knights, a champion who fights alongside a dragon companion. Tough, relentless, and unyielding, knights and their dragons never give up, fighting to either heroic or devious ends. The bond between a knight and their dragon is nearly impossible to eclipse. Only powerful magic can even attempt to turn them against one another, and they nearly never fight each other against their own will. Despite this, a knight and their dragon are known to argue over strategy, tactics, or even miscellaneous things, as the dragon, despite its respect for its knight, is not quick to let go of its ego.(**Source: GM Binder**)*
 
 *As the knight and dragon grow together, this bond strengthens, granting both the knight and dragon impressive strength and unique powers. The dragon is typically the stronger of the pair as they develop, but will be weaker earlier on, while the knight still has to watch over them to ensure their bond can continue to flourish. Eventually, some knights might put down their weapons and live a simple life with their dragon, having forged a legendary friendship through the trials they faced.* 
 
 ### <u>Subclasses - Knight Practices</u>
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
-(2024e)
+*All dragon knights are divided by their practice, and much like the dragons they raise and fight with, the knights are known to be proud at their best, and egotistical at their worst. Two people of different practices are rarely able to get along, despite how similar they might be. Those of the Platinum Practice always regard themselves superior to those of the Shadow Practice, and members of the Elemental Practice consider the members of the Rider Practice to be brutish and dim-witted.*
+
+*Despite these rivalries, dragon knights are fiercely loyal, and will never betray another dragon knight, even if they come from a different practice. Dragon knights believe they only have each other to count on, as no one else understands the intense bond between the knight and the dragon.*
+
+**(2024e)**
 #### **Bound Practice**
+The dragon knights who adopt the bound practice seek to deepen the connection between themselves and their dragon, heightening their own mortal form as they adopt distinct draconic traits that they unleash in the heat of battle. 
 #### **Devout Practice**
+Dragon knights who follow the Devout Practice hold dragons in high esteem, especially the gods Bahamut and Tiamat. They treat all dragons they meet with reverence, even treating hostile dragons with respect during battle. 
 #### **Valiant Practice**
-(2014e v9)
+Those of the Valiant Practice strive to lead their allies in battle. By wielding magical banners in battle, they inspire valor and hope in their allies. These dragon knights are able to defend their allies with their presence, turning the tide of any fight.
+
+**(2014e v9)**
 #### **Rider Practice**
+The bond between a dragon knight and their dragon is strong, but those of the Rider Practice take that even further. They seek to live and to die beside their dragon, a sentiment shared by the dragon itself. While not all riders mount their dragons, those who don't are rare. Those of the Rider Practice fight in tandem with their dragon, and win in tandem with them.
 #### **Elemental Practice**
+Dragon knights of the Elemental Practice value the raw, destructive power of their dragons, as well as their inherent charisma, and strive to both emulate and empower this aspect of their dragons through magic.
 #### **Platinum Practice**
+A few dragon knights worship the Platinum Dragon, Bahamut. These few are members of the Platinum Practice, and are dedicated to preserving the lives of their allies and the innocent.
 #### **Shadow Practice**
-#### **Valiant Practice**
+Dragon knights who revere dark magic, or even strive to cause suffering in others, make up members of the Shadow Practice. Dark and elusive, these dragon knights use misdirection and guile to gain the upper hand in battle.
 #### **Garden Practice**
+Some dragons wage war, and others hoard treasure. Few, however, learn to cultivate and nurture the earth, becoming one with it. Dragon knights of the Garden Practice live simple lives with their dragons, and only heed the call of adventure if something precious to them is at stake.
 ## Druid
 *Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
 
