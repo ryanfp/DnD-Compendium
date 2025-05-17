@@ -6,7 +6,7 @@
       {
         "id": "8bee14bdad363f17",
         "type": "tabs",
-        "dimension": 42.710583153347734,
+        "dimension": 35.48740416210296,
         "children": [
           {
             "id": "5b3f0dc164b73b7f",
@@ -27,7 +27,7 @@
       {
         "id": "f4bf2f442f60c137",
         "type": "tabs",
-        "dimension": 57.289416846652266,
+        "dimension": 64.51259583789705,
         "children": [
           {
             "id": "6cf06926e404ff04",
@@ -36,8 +36,8 @@
               "type": "markdown",
               "state": {
                 "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Classes"
