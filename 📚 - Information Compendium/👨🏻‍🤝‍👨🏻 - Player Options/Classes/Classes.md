@@ -902,8 +902,12 @@ Gods who grant the power of the Blood Domain, including the Ruiner and the Matro
 #### **Moon Domain**<sup>TDR</sup>
 Since the Founding, all mortal creatures have looked to the skies and sensed the power and mystery carried by Catha and Ruidus, the two moons of Exandria. The Moonweaver herself is said to guide her worshipers from within the pale glow of Catha, revealing hidden paths and granting inspired dreams to those who pray to that moon. Distant, dark Ruidus is often regarded with awe and apprehension, considered a portent for fell deeds and bad luck.
 #### **Commerce Domain**<sup>UAH</sup>
+The Commerce domain values trade, proper management of resources, and entrepreneurship above al else, believing a healthy economy is the best path to create a more perfect world. Gods of commerce and trade — including Gong, Kol Korran, and Waukeen — promote enterprise and the development of marketable crafts and skills.
+
+Some clerics of this domain, however, eschew the worship of gods to instead focus their faith on the almighty coin, believing that wealth is the best resource for enacting lasting change and living long, happy, and healthy lives. 
 
 #### **Darkness Domain**<sup>UAH</sup>
+Gods of darnkesa and shadow, such as Set, Shar and the Raven Queen, are not often depicte din the best light, being associated with terror, desolation and the unending night. Dwelling in their gloomy, often lightless realms, these deities don’t tend to attract many followers. So when a cleric chooses to devote their life to the service of one of these gods, they are imbuyed with great power over the shadows, becoming able to cause fear in the hearts of mortals. These gods teach their followers to think like the focees of evil in order to slay and conquewr them, countering dark powers with their own black gigts. 
 
 #### **Infernal Domain**<sup>UAH</sup>
 
