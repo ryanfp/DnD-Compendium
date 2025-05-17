@@ -1,4 +1,8 @@
 {
   "cssTheme": "Tokyo Night",
-  "accentColor": "#a10dbf"
+  "accentColor": "#a10dbf",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "obsidian_emacs_bullet_list"
+  ]
 }

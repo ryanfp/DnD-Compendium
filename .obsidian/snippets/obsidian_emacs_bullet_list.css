@@ -1,0 +1,63 @@
+/*
+ * Obsidian live preview emacs bullet list display
+ * by Lilian POULIQUEN
+ * 
+ * Works on the 5 first levels of the list, higher levels will be displayed as the 1st level.
+ * 
+ * Based on:
+ *   - https://forum.obsidian.md/t/style-bullets-in-lists-by-level/46152
+ *
+ * Special thanks:
+ *   - wreckable (Reddit: https://www.reddit.com/user/wreckable/) for sharing it on Reddit
+ *   - LukeSKY75_ (Reddit: https://www.reddit.com/user/LukeSKY75_/) for making it work in reading mode and improving the CSS
+ * 
+ * Reddit post and comments: https://www.reddit.com/r/ObsidianMD/comments/urhx0g/comment/kbyy6k7/
+ */
+
+/* LEVEL 1: Bullet */
+.markdown-reading-view .markdown-preview-section > div > ul > li > .list-bullet:after,
+.markdown-source-view.mod-cm6 .HyperMD-list-line-1 .list-bullet:after {
+    height: 7px;
+    width: 7px;
+    border-radius: 50%;
+}
+
+/* LEVEL 2: Hollow bullet */
+.markdown-reading-view .markdown-preview-section > div > ul > li > ul > li > .list-bullet:after,
+.markdown-source-view.mod-cm6 .HyperMD-list-line-2 .list-bullet:after {
+    height: 7px;
+    width: 7px;
+    background-color: transparent;
+    border-style: solid;
+    border-radius: 50%;
+    border-width: 1px;
+}
+
+/* LEVEL 3: Solid square */
+.markdown-reading-view .markdown-preview-section > div > ul > li > ul > li > ul > li > .list-bullet:after,
+.markdown-source-view.mod-cm6 .HyperMD-list-line-3 .list-bullet:after {
+    height: 7px;
+    width: 7px;
+    border-radius: 0%;
+}
+
+/* LEVEL 4: Triangle */
+.markdown-reading-view .markdown-preview-section > div > ul > li > ul > li > ul > li > ul > li > .list-bullet:after,
+.markdown-source-view.mod-cm6 .HyperMD-list-line-4 .list-bullet:after {
+    height: 0;
+    width: 0;
+    background-color: transparent;
+    border-radius: 0%;
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    border-left: 8px solid;
+    border-right: 0px solid;
+}
+
+/* LEVEL 5: Small bullet */
+.markdown-reading-view .markdown-preview-section > div > ul > li > ul > li > ul > li > ul > li > ul > li > .list-bullet:after,
+.markdown-source-view.mod-cm6 .HyperMD-list-line-5 .list-bullet:after {
+    height: 4px;
+    width: 4px;
+    border-radius: 50%;
+}
