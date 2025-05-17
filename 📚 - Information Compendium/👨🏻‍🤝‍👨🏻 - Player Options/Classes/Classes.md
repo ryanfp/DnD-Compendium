@@ -6,21 +6,142 @@
 > 
 > *Class is the primary definition of what your character can do. It’s more than a profession; it’s your character’s calling. Class shapes the way you think about the world and interact with it and your relationship with other people and powers in the multiverse. A fighter, for example, might view the world in pragmatic terms of strategy and maneuvering, and see herself as just a pawn in a much larger game. A cleric, by contrast, might see himself as a willing servant in a god’s unfolding plan or a conflict brewing among various deities. While the fighter has contacts in a mercenary company or army, the cleric might know a number of priests, paladins, and devotees who share his faith.*
 
-![[image.png]]
-Artificer
-Barbarian
-Bard test 2
-Blood Hunter
-Cleric
-Druid
-Fighter
-Monk just to test
-Paladin
-Ranger
-Rogue
-Sorcerer
-Warlock
-Wizard
+>[!SUMMARY]+ Table of Contents
+>- [Classes](Classes.md#Classes)
+>    - [Accursed](Classes.md#Accursed)
+>        - [Subclasses - Conquered Curses](Classes.md#Subclasses%20-%20Conquered%20Curses)
+>    - [Adept](Classes.md#Adept)
+>        - [Level Up: Advanced 5e](Classes.md#Level%20Up%20Advanced%205e)
+>    - [Alchemist](Classes.md#Alchemist)
+>        - [Subclasses - Fields of Study](Classes.md#Subclasses%20-%20Fields%20of%20Study)
+>        - [Valda’s Spire of Secrets](Classes.md#Valda’s%20Spire%20of%20Secrets)
+>    - [Apothecary](Classes.md#Apothecary)
+>        - [Subclasses - Fields of Study](Classes.md#Subclasses%20-%20Fields%20of%20Study)
+>    - [Artificer](Classes.md#Artificer)
+>        - [Subclasses - Specialists](Classes.md#Subclasses%20-%20Specialists)
+>    - [Barbarian](Classes.md#Barbarian)
+>        - [Subclasses - Primal Paths](Classes.md#Subclasses%20-%20Primal%20Paths)
+>    - [Bard](Classes.md#Bard)
+>        - [Subclasses - Bard Colleges](Classes.md#Subclasses%20-%20Bard%20Colleges)
+>    - [Beastheart](Classes.md#Beastheart)
+>        - [Subclasses - Companion Bonds](Classes.md#Subclasses%20-%20Companion%20Bonds)
+>    - [Berserker](Classes.md#Berserker)
+>        - [Level Up: Advanced 5e](Classes.md#Level%20Up%20Advanced%205e)
+>    - [Blood Hunter](Classes.md#Blood%20Hunter)
+>        - [Subclasses - Blood Hunter Orders](Classes.md#Subclasses%20-%20Blood%20Hunter%20Orders)
+>    - [Bloodrager](Classes.md#Bloodrager)
+>        - [Subclasses - Blood & Blade](Classes.md#Subclasses%20-%20Blood%20&%20Blade)
+>    - [Captain](Classes.md#Captain)
+>        - [Valda’s Spire of Secrets](Classes.md#Valda’s%20Spire%20of%20Secrets)
+>    - [Cardcaster](Classes.md#Cardcaster)
+>        - [Subclasses - Face Cards](Classes.md#Subclasses%20-%20Face%20Cards)
+>    - [Cleric](Classes.md#Cleric)
+>        - [Subclasses - Divine Domains](Classes.md#Subclasses%20-%20Divine%20Domains)
+>        - [Level Up: Advanced 5e](Classes.md#Level%20Up%20Advanced%205e)
+>    - [Craftsman](Classes.md#Craftsman)
+>        - [Subclasses - Artisan’s Guilds](Classes.md#Subclasses%20-%20Artisan’s%20Guilds)
+>        - [Valda’s Spire of Secrets](Classes.md#Valda’s%20Spire%20of%20Secrets)
+>    - [Dracoknight](Classes.md#Dracoknight)
+>        - [Subclasses - Draconic Bonds](Classes.md#Subclasses%20-%20Draconic%20Bonds)
+>        - [Assorted Homebrew](Classes.md#Assorted%20Homebrew)
+>    - [Dragon Knight](Classes.md#Dragon%20Knight)
+>        - [Subclasses - Knight Practices](Classes.md#Subclasses%20-%20Knight%20Practices)
+>        - [Assorted Homebrew](Classes.md#Assorted%20Homebrew)
+>    - [Druid](Classes.md#Druid)
+>        - [Subclasses - Druid Circles](Classes.md#Subclasses%20-%20Druid%20Circles)
+>        - [Level Up: Advanced 5e](Classes.md#Level%20Up%20Advanced%205e)
+>    - [Evolutionist](Classes.md#Evolutionist)
+>        - [Subclasses - Evolutionary Methods](Classes.md#Subclasses%20-%20Evolutionary%20Methods)
+>        - [Crystalpunk Campaign Setting](Classes.md#Crystalpunk%20Campaign%20Setting)
+>    - [Fighter](Classes.md#Fighter)
+>        - [Subclasses - Martial Archetypes](Classes.md#Subclasses%20-%20Martial%20Archetypes)
+>        - [Level Up: Advanced 5e](Classes.md#Level%20Up%20Advanced%205e)
+>    - [Gunslinger or gunfighter MCDX](Classes.md#Gunslinger%20or%20gunfighter%20MCDX)
+>        - [Subclasses - Gunslinger’s Creeds](Classes.md#Subclasses%20-%20Gunslinger’s%20Creeds)
+>        - [Valda’s Spire of Secrets](Classes.md#Valda’s%20Spire%20of%20Secrets)
+>    - [Herald](Classes.md#Herald)
+>        - [Subclasses - Blood Hunter Orders](Classes.md#Subclasses%20-%20Blood%20Hunter%20Orders)
+>        - [Level Up: Advanced 5e](Classes.md#Level%20Up%20Advanced%205e)
+>    - [Investigator](Classes.md#Investigator)
+>        - [Subclasses - Occult Specializations](Classes.md#Subclasses%20-%20Occult%20Specializations)
+>        - [Valda’s Spire of Secrets](Classes.md#Valda’s%20Spire%20of%20Secrets)
+>    - [Justiciar](Classes.md#Justiciar)
+>        - [Subclasses - Court Divisions](Classes.md#Subclasses%20-%20Court%20Divisions)
+>        - [Assorted Homebrew](Classes.md#Assorted%20Homebrew)
+>    - [Magus](Classes.md#Magus)
+>        - [Subclasses - Eldritch Societies / Esoteric Orders](Classes.md#Subclasses%20-%20Eldritch%20Societies%20/%20Esoteric%20Orders)
+>        - [Assorted Homebrew](Classes.md#Assorted%20Homebrew)
+>    - [Martyr](Classes.md#Martyr)
+>        - [Subclasses - Mortal Burdens](Classes.md#Subclasses%20-%20Mortal%20Burdens)
+>        - [Valda’s Spire of Secrets](Classes.md#Valda’s%20Spire%20of%20Secrets)
+>    - [Monk](Classes.md#Monk)
+>        - [Subclasses - Monastic Traditions](Classes.md#Subclasses%20-%20Monastic%20Traditions)
+>    - [Mystic](Classes.md#Mystic)
+>        - [Subclasses - Mystic Orders](Classes.md#Subclasses%20-%20Mystic%20Orders)
+>        - [Unearthed Arcana](Classes.md#Unearthed%20Arcana)
+>    - [Necromancer](Classes.md#Necromancer)
+>        - [Valda’s Spire of Secrets](Classes.md#Valda’s%20Spire%20of%20Secrets)
+>    - [Occultist](Classes.md#Occultist)
+>        - [Subclasses - Occult Traditions / Occult Paths](Classes.md#Subclasses%20-%20Occult%20Traditions%20/%20Occult%20Paths)
+>        - [KibblesTasty + Masterclass CODEX](Classes.md#KibblesTasty%20+%20Masterclass%20CODEX)
+>    - [Paladin](Classes.md#Paladin)
+>        - [Subclasses - Sacred Oaths](Classes.md#Subclasses%20-%20Sacred%20Oaths)
+>    - [Psion](Classes.md#Psion)
+>        - [Subclasses - Psionic Awakenings](Classes.md#Subclasses%20-%20Psionic%20Awakenings)
+>        - [KibblesTasty](Classes.md#KibblesTasty)
+>        - [Laser Llama](Classes.md#Laser%20Llama)
+>    - [PugilistUAH](Classes.md#PugilistUAH)
+>        - [Subclasses - Fight Clubs](Classes.md#Subclasses%20-%20Fight%20Clubs)
+>        - [Assorted Homebrew(UAH)](Classes.md#Assorted%20Homebrew(UAH))
+>    - [Ranger](Classes.md#Ranger)
+>        - [Subclasses - Ranger Archetypes](Classes.md#Subclasses%20-%20Ranger%20Archetypes)
+>        - [Level Up: Advanced 5e](Classes.md#Level%20Up%20Advanced%205e)
+>    - [Rogue](Classes.md#Rogue)
+>        - [Subclasses - Roguish Archetypes](Classes.md#Subclasses%20-%20Roguish%20Archetypes)
+>        - [Level Up: Advanced 5e](Classes.md#Level%20Up%20Advanced%205e)
+>    - [Savant](Classes.md#Savant)
+>        - [Subclasses - Academic Disciplines](Classes.md#Subclasses%20-%20Academic%20Disciplines)
+>        - [Level Up: Advanced 5e](Classes.md#Level%20Up%20Advanced%205e)
+>        - [Laser Llama](Classes.md#Laser%20Llama)
+>    - [Shaman](Classes.md#Shaman)
+>        - [Subclasses - Spiritualities](Classes.md#Subclasses%20-%20Spiritualities)
+>        - [Laser Llama](Classes.md#Laser%20Llama)
+>    - [Spellblade](Classes.md#Spellblade)
+>        - [Subclasses - Spellblade Techniques](Classes.md#Subclasses%20-%20Spellblade%20Techniques)
+>        - [KibblesTasty](Classes.md#KibblesTasty)
+>    - [Sorcerer](Classes.md#Sorcerer)
+>        - [Subclasses - Sorcerous Origin](Classes.md#Subclasses%20-%20Sorcerous%20Origin)
+>        - [Level Up: Advanced 5e](Classes.md#Level%20Up%20Advanced%205e)
+>    - [Soulshaper](Classes.md#Soulshaper)
+>        - [Subclasses - Spiritual Disciplines](Classes.md#Subclasses%20-%20Spiritual%20Disciplines)
+>        - [Crystalpunk Campaign Setting](Classes.md#Crystalpunk%20Campaign%20Setting)
+>    - [Tamer](Classes.md#Tamer)
+>        - [Subclasses - Training Paradigms](Classes.md#Subclasses%20-%20Training%20Paradigms)
+>        - [Hit Point Press](Classes.md#Hit%20Point%20Press)
+>    - [Warden](Classes.md#Warden)
+>        - [Subclasses - Warden Bonds / Primal Strengths](Classes.md#Subclasses%20-%20Warden%20Bonds%20/%20Primal%20Strengths)
+>        - [KibblesTasty](Classes.md#KibblesTasty)
+>    - [Warlock](Classes.md#Warlock)
+>        - [Subclasses - Otherworldly Patrons](Classes.md#Subclasses%20-%20Otherworldly%20Patrons)
+>        - [Level Up: Advanced 5e](Classes.md#Level%20Up%20Advanced%205e)
+>    - [Warlord](Classes.md#Warlord)
+>        - [Subclasses - Leadership Styles / Warlord Presences / Warlord Types](Classes.md#Subclasses%20-%20Leadership%20Styles%20/%20Warlord%20Presences%20/%20Warlord%20Types)
+>        - [Assorted Homebrew](Classes.md#Assorted%20Homebrew)
+>    - [Warmage](Classes.md#Warmage)
+>        - [Subclasses - Arcane Initiations](Classes.md#Subclasses%20-%20Arcane%20Initiations)
+>        - [Valda’s Spire of Secrets](Classes.md#Valda’s%20Spire%20of%20Secrets)
+>    - [Witch](Classes.md#Witch)
+>        - [Valda’s Spire of Secrets](Classes.md#Valda’s%20Spire%20of%20Secrets)
+>    - [Wizard](Classes.md#Wizard)
+>        - [Subclasses - Arcane Traditions](Classes.md#Subclasses%20-%20Arcane%20Traditions)
+>        - [Level Up: Advanced 5e](Classes.md#Level%20Up%20Advanced%205e)
+>    - [Vessel](Classes.md#Vessel)
+>        - [Subclasses - Sealed Spirits](Classes.md#Subclasses%20-%20Sealed%20Spirits)
+>        - [Laser Llama](Classes.md#Laser%20Llama)
+
+%%ENDTOC%%
+
+
 
 **Sources (Classes/Subclasses without notation are in PHB/DMG)**
 Xanathar’s Guide to Everything (<sup>XGE</sup>)
@@ -56,7 +177,7 @@ SoManyRobots (<sup>SMR</sup>)
 
 ## [[Accursed]]
 
-*Afflicted by a horrific curse but finds a way to take control, alleviating the worst of its effects and wielding its power for themselves. **(Source: The Ultimate Adventurer’s Handbook)**
+*Afflicted by a horrific curse but finds a way to take control, alleviating the worst of its effects and wielding its power for themselves. **(Source: The Ultimate Adventurer’s Handbook)*
 
 *An accursed dedicates their time and willpower to find a way to make the magic of their curse work for them, though each in their own way. Some accurseds experiment in a lab or scour the world for forgotten lore, trying to find a ritual or alchemical concoction. Others turn to nature or faith, using prayer, meditation, or mindfulness to synthesize the curse's magic into their own being. And others still use sheer stubbornness to bend the curse to their will. Regardless of method, an accursed is one who has conquered their curse, drawing on its magic while managing its lingering side effects.*
 

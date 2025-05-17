@@ -1,36 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Curse of the Created",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of the Created.md"
+      "basename": "Classes",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
     },
     {
-      "basename": "Insert Callout",
-      "path": "templates/Insert Callout.md"
+      "basename": "Sourcebooks",
+      "path": "UNORGANIZED/Sourcebooks.md"
     },
     {
-      "basename": "Table of Contents",
-      "path": "templates/Table of Contents.md"
-    },
-    {
-      "basename": "Session Notes",
-      "path": "templates/Session Notes.md"
-    },
-    {
-      "basename": "EE",
-      "path": "UNORGANIZED/EE.md"
+      "basename": "New File Auto Template",
+      "path": "templates/New File Auto Template.md"
     },
     {
       "basename": "tessssst",
       "path": "tessssst/tessssst.md"
     },
     {
-      "basename": "Untitled",
-      "path": "templates/Untitled.md"
+      "basename": "Table of Contents",
+      "path": "templates/Table of Contents.md"
     },
     {
-      "basename": "New File",
-      "path": "templates/New File.md"
+      "basename": "Curse of the Created",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of the Created.md"
+    },
+    {
+      "basename": "EE",
+      "path": "UNORGANIZED/EE.md"
+    },
+    {
+      "basename": "Insert Callout",
+      "path": "templates/Insert Callout.md"
+    },
+    {
+      "basename": "Session Notes",
+      "path": "templates/Session Notes.md"
     },
     {
       "basename": "Link Auto Title",
@@ -43,10 +47,6 @@
     {
       "basename": "Templates",
       "path": "tessssst/Templates.md"
-    },
-    {
-      "basename": "Classes",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
     },
     {
       "basename": "Accursed",
@@ -169,10 +169,6 @@
       "path": "UNORGANIZED/List of Classes and Subclasses 1.md"
     },
     {
-      "basename": "Sourcebooks",
-      "path": "UNORGANIZED/Sourcebooks.md"
-    },
-    {
       "basename": "Exploring Eberron",
       "path": "UNORGANIZED/Exploring Eberron.md"
     },
@@ -191,14 +187,6 @@
     {
       "basename": "Critical Fumble",
       "path": "UNORGANIZED/Critical Fumble.md"
-    },
-    {
-      "basename": "Warframe",
-      "path": "Scatterbrain/Warframe.md"
-    },
-    {
-      "basename": "General Life To-Do List",
-      "path": "Scatterbrain/General Life To-Do List.md"
     }
   ],
   "omittedPaths": [],

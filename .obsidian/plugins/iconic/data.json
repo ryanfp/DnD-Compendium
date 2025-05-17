@@ -26,6 +26,13 @@
     }
   },
   "fileIcons": {
+    "templates": {
+      "icon": "lucide-log-in",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ],
+      "color": "gray"
+    },
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed": {
       "icon": "lucide-ghost",
       "unsynced": [

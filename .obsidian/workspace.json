@@ -14,30 +14,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tessssst/tessssst.md",
+                "file": "UNORGANIZED/Sourcebooks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tessssst"
-            }
-          },
-          {
-            "id": "9bdce44871bcc00a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Table of Contents.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Table of Contents"
+              "title": "Sourcebooks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f4bf2f442f60c137",
@@ -50,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Insert Callout.md",
-                "mode": "source",
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Insert Callout"
+              "title": "Classes"
             }
           }
         ]
@@ -283,21 +268,25 @@
   },
   "active": "6cf06926e404ff04",
   "lastOpenFiles": [
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of the Created.md",
-    "templates/Table of Contents.md",
-    "templates/Session Notes.md",
-    "templates/Insert Callout.md",
-    "UNORGANIZED/EE.md",
+    "UNORGANIZED/Sourcebooks.md",
+    "templates/New File Auto Template.md",
+    "Untitled.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
     "tessssst/tessssst.md",
     "templates/Untitled.md",
-    "templates/New File.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
+    "templates/Table of Contents.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of the Created.md",
+    "UNORGANIZED/EE.md",
+    "templates/Insert Callout.md",
+    "templates/Session Notes.md",
     "templates/Link Auto Title.md",
     "templates/Format YouTube Link.md",
     "tessssst/Templates.md",
     "New Text Document.txt",
     "README.md",
     "git clone",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "image.png",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Combustion.md",
@@ -308,11 +297,7 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Somnolence.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Petrification.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Misfortune.md",
-    "UNORGANIZED/Curse of Animation.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Armorer - Artificer.md",
-    "UNORGANIZED/List of Classes and Subclasses.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Untitled.md",
     "🌎 - Worldbuilding & Lore/Campaign Settings",
     "📚 - Information Compendium/🎒 - Inventory/Items - Loot/Miscellaneous",
     "📚 - Information Compendium/🎒 - Inventory/Items - Loot/Equipment & Accessories",
