@@ -932,38 +932,49 @@ Clerics of the Sacred Flame know that life is at all times a balance between the
 
 ### <u>Subclasses - Artisan’s Guilds</u>
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
-### Valda’s Spire of Secrets
-#### **Arcane Maester Guild**
-#### **Armiger Guild**
-#### **Bladeworker Guild**
-#### **Calibaron Guild**
-#### **Forgeknight Guild**
-#### **Mechanaut Guild**
-#### **Thunderlord Guild**
-#### **Trapper Guild**
-## Dracoknight
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
+*All master craftsmen learn the basics of smithing, leatherworking, woodworking, and other necessary disciplines on the path to mastery, either on their own or under the tutelage of another master artisan. However, as they hone their skills, m they invariably find themselves drawn to gatherings of other like-minded craftsmen. These groups, formalized as Guilds, provide a means to craftsmen to compare notes and schematics, acquire resources, and provide a means for craftsmen to ply their trade.*
 
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
+### Valda’s Spire of Secrets
+#### **Arcane Maesters’ Guild**
+While most seasoned spellcasters will enchant a handful of magic items over the course of their careers, artisans belonging to the Guild of Arcane Maesters seek to become true masters of magic item creation. They rightly take seriously the forging of such powerful relics: each creation must be a masterwork in its own right to contain the potent magic woven into them. Despite laboring for months or even years to perfect their creations, seasoned maesters are always seen to be laden with dozens of magic items, attuned to a handful of rings, and carrying a wand of magic missiles, just in case.
+#### **Armiger Guild**
+The Armigers devote their skills to the art of armor smithing, with the firm belief that the right plate in the right place can make a warrior invincible.
+#### **Bladeworker Guild**
+Blade and bow, axe and mace: these are the tools with which the Bladeworkers try to change the world. They believe that the right blade, in the right hand can make a warrior unstoppable.
+#### **Calibaron Guild**
+The Calibarons know, better than most, that gunpowder is the single greatest invention ever created by mortals. A sword may let a skilled wielder lay a giant low and magic may let the savvy and the blessed stand up to the gods, but only a gun will let a common man put a dragon in its place.
+#### **Forgeknight Guild**
+To a Forgeknight, heat is not merely integral to forging, curing, and welding gear, it is a weapon in its own right, for the swing of a white-hot blade bites not only with steel, but with flame. A Forgeknight carries the intensity of a forge with them, storing it in their armor and building it up in their weapons, before unleashing it in a scorching blast.
+#### **Mechanaut Guild**
+For centuries, the pinnacle of mechanized vehicles was the apparatus of the crab, a singular device capable of exploring inhospitable environments, from the sea floor to lava-strewn volcanic fields. However, ambitious craftsmen from the Mechanauts' Guild have drawn up designs for a new vehicle, mightier and more customizable than the old apparatus. This device is a walking tank, equipped with savage fists, scuttling legs, and climate control enhancements—a vehicle to dwarf all others, a true feat of engineering.
+#### **Thunderlord Guild**
+From the earliest days of life, storms (and particularly lightning) have struck the creatures caught in them with awe and terror. The Thunderlords, by contrast, draw wild inspiration from the majesty of nature, and seek to, quite literally, capture lightning in a bottle.
+#### **Trapper Guild**
+Craftsmen are no strangers to turrets, bombs, and clockwork mechanisms, but the craftsmen of the Trappers' Guild raise this to a level of artistry. Given enough time and resources, a trapsmith can veritably blanket a room in dangerous implements, setting the stage to slay an intruder in a half-dozen unique ways. While the traps do the dirty work, the trapsmith is free to lounge about some distance away, enjoying a cold beverage and dreaming up new, dangerous designs.
+## Dracoknight
+*Dracoknights are a people who created a magical bond with a dragon companion at the moment of its hatching, becoming lifelong companions. The incredible power a dragon possesses can be harnessed in many ways by these individuals for spectacular effects. But despite any tough odds, a dracoknight always knows she is not alone. **(Source: DM’s Guild)***
+
+*It is a magical connection that enhances both dracoknight and dragon. The dracoknight gains physiological traits associated with dragons, like the growth of scales, or occasionally belching motes of his dragon’s elemental breath. The dragon gains a greater sense of empathy, and grows to a far less solitary life than its reptilian brethren. The bond also creates a willpower, and often stubbornness, that far surpasses the sum of its parts.* 
 
 ### <u>Subclasses - Draconic Bonds</u>
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
-### Assorted Homebrew
+*Dracoknights’ connections with their dragon companions are sacred. Dracoknights are there at their companion’s hatching, and stay with them for the remainder of their shared lifespan. They live together, fight together, and die together. When your dragon companion enters its adolescence, it becomes cognizant of itself in the context of the greater world, allowing you to forge a deeper connection and set you on the path to your mutual destiny. Your choice of Draconic Bond represents your partnership with your dragon companion. How will the two of you live, fight, and die together?*
 #### **Guardian Bond**
+Dracoguardians and their dragon companions enjoy working with a team, protecting their allies at all costs. They learn to take hits and respond in kind, fostering in their dragon companion the ideals of friendship and family.
 #### **Rider Bond**
+Dracoriders and their dragon companions love the thrill of speed, bypassing foes with swift attacks. They push the boundaries, and are considered by many to be reckless adrenaline-seekers. To rider and draconic mount, though, speed is the quintessence of freedom.
 #### **Sniper Bond**
+Dracosnipers and their dragon companions take joy in hunting, the dragon stirring the prey while the sniper brings it down. Most can recognize a dracosniper right away by their noticeably reptilian eyes, eyes that can read the most minute of details at a distance. To the sniper and dragon, though, the thrill of the hunt is only lesser to the thrill of a well-executed plan, and take pleasure in knowing the two are best intertwined.
 #### **Mage Bond**
+Dracomages and their dragon companions exult in the manipulation of elemental power, and are thrilled to discover that such energy can be transferred through the bond for the mage’s use. They know that their connection fuels this magic, and so seek to deepen their bond as much as possible, often leading to two different creatures of the exact same personality and mannerisms. Neither mage nor dragon, though, is ever happier than when manipulating storms of elemental energy in the heat of combat.
 ## Dragon Knight
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
+*Dragon knights, a champion who fights alongside a dragon companion. Tough, relentless, and unyielding, knights and their dragons never give up, fighting to either heroic or devious ends. The bond between a knight and their dragon is nearly impossible to eclipse. Only powerful magic can even attempt to turn them against one another, and they nearly never fight each other against their own will. Despite this, a knight and their dragon are known to argue over strategy, tactics, or even miscellaneous things, as the dragon, despite its respect for its knight, is not quick to let go of its ego.**(Source: GM Binder)***
 
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
+*As the knight and dragon grow together, this bond strengthens, granting both the knight and dragon impressive strength and unique powers. The dragon is typically the stronger of the pair as they develop, but will be weaker earlier on, while the knight still has to watch over them to ensure their bond can continue to flourish. Eventually, some knights might put down their weapons and live a simple life with their dragon, having forged a legendary friendship through the trials they faced.* 
 
 ### <u>Subclasses - Knight Practices</u>
 
 *There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
-### Assorted Homebrew
 (2024e)
 #### **Bound Practice**
 #### **Devout Practice**
