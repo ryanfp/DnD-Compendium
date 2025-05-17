@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "tessssst",
+      "path": "tessssst/tessssst.md"
+    },
+    {
+      "basename": "Insert Callout",
+      "path": "templates/Insert Callout.md"
+    },
+    {
       "basename": "Untitled",
       "path": "templates/Untitled.md"
+    },
+    {
+      "basename": "New File",
+      "path": "templates/New File.md"
+    },
+    {
+      "basename": "Link Auto Title",
+      "path": "templates/Link Auto Title.md"
     },
     {
       "basename": "Format YouTube Link",
@@ -13,20 +29,12 @@
       "path": "templates/Table of Contents.md"
     },
     {
-      "basename": "Insert Callout",
-      "path": "templates/Insert Callout.md"
-    },
-    {
       "basename": "Session Notes",
       "path": "templates/Session Notes.md"
     },
     {
       "basename": "Templates",
       "path": "tessssst/Templates.md"
-    },
-    {
-      "basename": "tessssst",
-      "path": "tessssst/tessssst.md"
     },
     {
       "basename": "Curse of the Created",

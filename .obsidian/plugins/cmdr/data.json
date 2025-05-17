@@ -10,12 +10,6 @@
       "mode": "any"
     },
     {
-      "id": "insert-template",
-      "icon": "lucide-copy",
-      "name": "Templates: Insert template",
-      "mode": "any"
-    },
-    {
       "id": "markdown:add-metadata-property",
       "icon": "lucide-plus-circle",
       "name": "Add file property",
@@ -31,6 +25,12 @@
       "id": "markdown:add-metadata-property",
       "icon": "lucide-plus-circle",
       "name": "Add file property",
+      "mode": "any"
+    },
+    {
+      "id": "templater-obsidian:insert-templater",
+      "icon": "templater-icon",
+      "name": "Insert template modal",
       "mode": "any"
     }
   ],
