@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tessssst/tessssst.md",
+                "file": "templates/Table of Contents.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "tessssst"
+              "title": "Table of Contents"
             }
           }
         ],
@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of the Created.md",
-                "mode": "preview",
+                "file": "templates/Insert Callout.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Curse of the Created"
+              "title": "Insert Callout"
             }
           }
         ]
@@ -281,21 +281,22 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9bdce44871bcc00a",
+  "active": "6cf06926e404ff04",
   "lastOpenFiles": [
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of the Created.md",
+    "templates/Table of Contents.md",
+    "templates/Session Notes.md",
     "templates/Insert Callout.md",
+    "UNORGANIZED/EE.md",
+    "tessssst/tessssst.md",
     "templates/Untitled.md",
     "templates/New File.md",
     "templates/Link Auto Title.md",
     "templates/Format YouTube Link.md",
-    "templates/Table of Contents.md",
-    "templates/Session Notes.md",
     "tessssst/Templates.md",
-    "tessssst/tessssst.md",
     "New Text Document.txt",
     "README.md",
     "git clone",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of the Created.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "image.png",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md",
@@ -312,7 +313,6 @@
     "UNORGANIZED/List of Classes and Subclasses.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Untitled.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Artificer.md",
     "🌎 - Worldbuilding & Lore/Campaign Settings",
     "📚 - Information Compendium/🎒 - Inventory/Items - Loot/Miscellaneous",
     "📚 - Information Compendium/🎒 - Inventory/Items - Loot/Equipment & Accessories",
