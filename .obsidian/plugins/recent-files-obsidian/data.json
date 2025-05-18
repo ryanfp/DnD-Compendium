@@ -1,24 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "👹 - Creature Codex",
+      "path": "📚 - Information Compendium/👹 - Creature Codex.md"
     },
     {
-      "basename": "Insert Wiki Info Box",
-      "path": "z_Templates/Insert Wiki Info Box.md"
-    },
-    {
-      "basename": "Link Auto Title",
-      "path": "z_Templates/Link Auto Title.md"
+      "basename": "Introduction",
+      "path": "📚 - Information Compendium/Introduction.md"
     },
     {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "LexCrochetLogo",
-      "path": "LexCrochetLogo.png"
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "Insert Infobox - Left",
+      "path": "z_Templates/Insert Infobox - Left.md"
+    },
+    {
+      "basename": "Insert Infobox - Right",
+      "path": "z_Templates/Insert Infobox - Right.md"
+    },
+    {
+      "basename": "Insert Wiki Sidebar",
+      "path": "z_Templates/Insert Wiki Sidebar.md"
+    },
+    {
+      "basename": "Link Auto Title",
+      "path": "z_Templates/Link Auto Title.md"
     },
     {
       "basename": "image",
@@ -79,14 +91,6 @@
     {
       "basename": "Untitled 3",
       "path": "z_Templates/Untitled 3.md"
-    },
-    {
-      "basename": "Untitled 2",
-      "path": "z_Templates/Untitled 2.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "z_Templates/Untitled 1.md"
     },
     {
       "basename": "Sourcebooks",
@@ -185,16 +189,8 @@
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Bastions.md"
     },
     {
-      "basename": "Introduction",
-      "path": "📚 - Information Compendium/Introduction.md"
-    },
-    {
       "basename": "👼🏼 - Deities & Pantheons",
       "path": "📚 - Information Compendium/🎓 - Lore & Flavor/👼🏼 - Deities & Pantheons.md"
-    },
-    {
-      "basename": "👹 - Creature Codex",
-      "path": "📚 - Information Compendium/👹 - Creature Codex.md"
     },
     {
       "basename": "Feats",

@@ -44,7 +44,7 @@
                 {
                   "title": "Insert Wiki Info Box",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Wiki Info Box.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Wiki Info Box\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Wiki Sidebar.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Wiki Info Box\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":20},\"to\":{\"line\":30,\"ch\":20}}}"
                 },
                 {
@@ -92,7 +92,7 @@
                 {
                   "title": "Insert Wiki Info Box",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Wiki Info Box.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Wiki Info Box\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Wiki Sidebar.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Wiki Info Box\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -128,7 +128,7 @@
                 {
                   "title": "Insert Wiki Info Box",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Wiki Info Box.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Wiki Info Box\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Wiki Sidebar.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Wiki Info Box\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":20},\"to\":{\"line\":13,\"ch\":20}}}"
                 },
                 {
@@ -152,13 +152,13 @@
                 {
                   "title": "Untitled 2",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Untitled 2.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 2\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Infobox - Left.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 2\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Untitled 1",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Untitled 1.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 1\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Infobox - Right.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 1\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -221,9 +221,63 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Insert Wiki Info Box",
+                  "title": "Introduction",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Wiki Info Box.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Wiki Info Box\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/Introduction.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Introduction\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "👹 - Creature Codex",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👹 - Creature Codex.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"👹 - Creature Codex\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "LexCrochetLogo",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"LexCrochetLogo.png\"},\"icon\":\"lucide-image\",\"title\":\"LexCrochetLogo\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"README\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Insert Infobox - Left",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Infobox - Left.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Infobox - Left\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":17},\"to\":{\"line\":11,\"ch\":17}}}"
+                },
+                {
+                  "title": "Insert Infobox - Right",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Infobox - Right.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Infobox - Right\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":20},\"to\":{\"line\":13,\"ch\":20}}}"
+                },
+                {
+                  "title": "Insert Wiki Sidebar",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Wiki Sidebar.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Wiki Sidebar\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":1},\"to\":{\"line\":2,\"ch\":1}}}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":20},\"to\":{\"line\":47,\"ch\":0}},\"scroll\":27.018229166666668}"
+                },
+                {
+                  "title": "Insert Wiki Sidebar",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Wiki Sidebar.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Wiki Info Box\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":9},\"to\":{\"line\":1,\"ch\":9}},\"scroll\":0}"
                 },
                 {
@@ -233,9 +287,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":99,\"ch\":14},\"to\":{\"line\":99,\"ch\":14}},\"scroll\":53.285714285714285}"
                 },
                 {
-                  "title": "Insert Wiki Info Box",
+                  "title": "Insert Wiki Sidebar",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Wiki Info Box.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Wiki Info Box\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Wiki Sidebar.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Wiki Info Box\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":1},\"to\":{\"line\":2,\"ch\":1}}}"
                 },
                 {
@@ -275,9 +329,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Insert Wiki Info Box",
+                  "title": "Insert Wiki Sidebar",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Wiki Info Box.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Wiki Info Box\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Wiki Sidebar.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Wiki Info Box\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":20},\"to\":{\"line\":13,\"ch\":20}},\"scroll\":0}"
                 },
                 {
@@ -315,12 +369,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "📚 - Information Compendium/👹 - Creature Codex.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "👹 - Creature Codex"
             }
           }
         ],
@@ -651,11 +705,15 @@
   },
   "active": "3a73ca7b9dac80c9",
   "lastOpenFiles": [
-    "z_Templates/Insert Wiki Info Box.md",
-    "Untitled.md",
-    "z_Templates/Link Auto Title.md",
-    "README.md",
+    "📚 - Information Compendium/Introduction.md",
+    "📚 - Information Compendium/👹 - Creature Codex.md",
     "LexCrochetLogo.png",
+    "README.md",
+    "Untitled.md",
+    "z_Templates/Insert Infobox - Left.md",
+    "z_Templates/Insert Infobox - Right.md",
+    "z_Templates/Insert Wiki Sidebar.md",
+    "z_Templates/Link Auto Title.md",
     "image.png",
     "Untitled",
     "z_Assets",
@@ -674,13 +732,10 @@
     "templates/Untitled",
     "z_Templates/Untitled 4.md",
     "z_Templates/Untitled 3.md",
-    "z_Templates/Untitled 2.md",
-    "z_Templates/Untitled 1.md",
     "UNORGANIZED/Sourcebooks.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of the Created.md",
-    "z_Templates/Format YouTube Link.md",
     "New Text Document.txt",
     "git clone",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed",
