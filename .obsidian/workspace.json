@@ -563,7 +563,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Untitled.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
@@ -583,7 +583,7 @@
       }
     ]
   },
-  "active": "6cf06926e404ff04",
+  "active": "fcaa59025a7544d2",
   "lastOpenFiles": [
     "Untitled.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
