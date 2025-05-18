@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Insert Wiki Info Box",
+      "path": "templates/Insert Wiki Info Box.md"
+    },
+    {
+      "basename": "Insert Table of Contents",
+      "path": "templates/Insert Table of Contents.md"
+    },
+    {
       "basename": "Insert Fancy Quote",
       "path": "templates/Insert Fancy Quote.md"
     },
@@ -15,14 +23,6 @@
     {
       "basename": "Session Notes Template",
       "path": "templates/Session Notes Template.md"
-    },
-    {
-      "basename": "Insert Table of Contents",
-      "path": "templates/Insert Table of Contents.md"
-    },
-    {
-      "basename": "Insert Wiki Info Box",
-      "path": "templates/Insert Wiki Info Box.md"
     },
     {
       "basename": "New File Auto Template",

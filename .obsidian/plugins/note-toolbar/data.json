@@ -11,8 +11,6 @@
   "icon": "circle-ellipsis",
   "onboarding": {},
   "recentFiles": [
-    "templates/Untitled 6.md",
-    "UNORGANIZED/EE.md",
     "templates/New File Auto Template.md",
     "templates/Insert Callout.md",
     "templates/Wiki Info Box.md",
@@ -20,7 +18,9 @@
     "templates/Session Notes.md",
     "UNORGANIZED/Exploring Eberron.md",
     "templates/Basic Callout Selecter.md",
-    "templates/Untitled.md"
+    "templates/Untitled.md",
+    "templates/Insert Table of Contents.md",
+    "templates/Insert Wiki Info Box.md"
   ],
   "ribbonAction": "toolbar",
   "scriptingEnabled": false,

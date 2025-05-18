@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Insert Fancy Quote.md",
-                "mode": "preview",
+                "file": "templates/Insert Wiki Info Box.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Insert Fancy Quote"
+              "title": "Insert Wiki Info Box"
             }
           }
         ]
@@ -240,10 +240,11 @@
   },
   "active": "6cf06926e404ff04",
   "lastOpenFiles": [
+    "templates/Insert Table of Contents.md",
+    "templates/Insert Fancy Quote.md",
     "templates/Basic Callout Selecter.md",
     "UNORGANIZED/Exploring Eberron.md",
     "templates/Session Notes Template.md",
-    "templates/Insert Table of Contents.md",
     "templates/Insert Wiki Info Box.md",
     "templates/New File Auto Template.md",
     "UNORGANIZED/EE.md",
@@ -253,7 +254,6 @@
     "templates/Untitled 3.md",
     "templates/Untitled 2.md",
     "templates/Untitled 1.md",
-    "templates/Insert Fancy Quote.md",
     "tessssst/tessssst.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "UNORGANIZED/Sourcebooks.md",
