@@ -11,7 +11,6 @@
   "icon": "circle-ellipsis",
   "onboarding": {},
   "recentFiles": [
-    "templates/New File Auto Template.md",
     "templates/Insert Callout.md",
     "templates/Wiki Info Box.md",
     "templates/Table of Contents.md",
@@ -20,7 +19,8 @@
     "templates/Basic Callout Selecter.md",
     "templates/Untitled.md",
     "templates/Insert Table of Contents.md",
-    "templates/Insert Wiki Info Box.md"
+    "templates/Insert Wiki Info Box.md",
+    "UNORGANIZED/List of Classes and Subclasses.md"
   ],
   "ribbonAction": "toolbar",
   "scriptingEnabled": false,

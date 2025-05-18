@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Insert Wiki Info Box.md",
-                "mode": "source",
+                "file": "UNORGANIZED/List of Classes and Subclasses.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Insert Wiki Info Box"
+              "title": "List of Classes and Subclasses"
             }
           }
         ]
@@ -240,12 +240,12 @@
   },
   "active": "6cf06926e404ff04",
   "lastOpenFiles": [
+    "templates/Insert Wiki Info Box.md",
     "templates/Insert Table of Contents.md",
     "templates/Insert Fancy Quote.md",
     "templates/Basic Callout Selecter.md",
     "UNORGANIZED/Exploring Eberron.md",
     "templates/Session Notes Template.md",
-    "templates/Insert Wiki Info Box.md",
     "templates/New File Auto Template.md",
     "UNORGANIZED/EE.md",
     "templates/Untitled 5.md",

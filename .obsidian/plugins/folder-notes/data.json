@@ -62,12 +62,12 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "general",
+  "settingsTab": "path",
   "supportedFileTypes": [
     "md",
     "canvas"
   ],
-  "boldName": false,
+  "boldName": true,
   "boldNameInPath": false,
   "cursiveName": false,
   "cursiveNameInPath": false,

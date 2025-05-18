@@ -4,6 +4,11 @@
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "obsidian_emacs_bullet_list",
-    "wiki-style-callouts"
+    "wiki-style-callouts",
+    "dnd5e-compendium",
+    "dnd5e-float-images",
+    "FantasyFonts",
+    "S - Encoded Fonts",
+    "S - Encoded Icons"
   ]
 }
