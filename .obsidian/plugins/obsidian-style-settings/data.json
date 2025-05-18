@@ -122,5 +122,11 @@
   "ITS@@table-unwrap": true,
   "ITS@@table-header-padding-y": 6,
   "ITS@@embed-clean": true,
-  "ITS@@canvas-arrow-text-color": true
+  "ITS@@canvas-arrow-text-color": true,
+  "ITS@@blockquote-border-color@@dark": "#297238",
+  "ITS@@highlight@@dark": "#854F2A",
+  "pane-relief@@pane-relief-pane-numbering": true,
+  "pane-relief@@pane-relief-disable-counts": true,
+  "ITS@@link-style": "link-notion",
+  "ITS@@link-weight": 500
 }
