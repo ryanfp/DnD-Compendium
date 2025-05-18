@@ -146,7 +146,7 @@
                 {
                   "title": "Untitled 3",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Untitled 3.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 3\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Caption.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 3\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -219,6 +219,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Untitled 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Untitled 5.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 5\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Insert Caption",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Caption.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Caption\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":19},\"to\":{\"line\":6,\"ch\":19}}}"
+                },
+                {
+                  "title": "👹 - Creature Codex",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👹 - Creature Codex.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"👹 - Creature Codex\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Introduction",
@@ -369,12 +387,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 - Information Compendium/👹 - Creature Codex.md",
-                "mode": "source",
+                "file": "Untitled.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "👹 - Creature Codex"
+              "title": "Untitled"
             }
           }
         ],
@@ -705,8 +723,10 @@
   },
   "active": "3a73ca7b9dac80c9",
   "lastOpenFiles": [
-    "📚 - Information Compendium/Introduction.md",
+    "z_Templates/Untitled 5.md",
+    "z_Templates/Insert Caption.md",
     "📚 - Information Compendium/👹 - Creature Codex.md",
+    "📚 - Information Compendium/Introduction.md",
     "LexCrochetLogo.png",
     "README.md",
     "Untitled.md",
@@ -728,10 +748,8 @@
     "z_Templates/Session Notes Template.md",
     "z_Templates/New File Auto Template.md",
     "UNORGANIZED/EE.md",
-    "z_Templates/Untitled 5.md",
     "templates/Untitled",
     "z_Templates/Untitled 4.md",
-    "z_Templates/Untitled 3.md",
     "UNORGANIZED/Sourcebooks.md",
     "Untitled 2.md",
     "Untitled 1.md",

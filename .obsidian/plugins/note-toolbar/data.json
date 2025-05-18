@@ -11,16 +11,16 @@
   "icon": "circle-ellipsis",
   "onboarding": {},
   "recentFiles": [
-    "image.png",
-    "z_Templates/Link Auto Title.md",
     "z_Templates/Insert Wiki Info Box.md",
     "z_Templates/Untitled 1.md",
     "z_Templates/Untitled 2.md",
-    "Untitled.md",
     "README.md",
     "LexCrochetLogo.png",
     "📚 - Information Compendium/Introduction.md",
-    "📚 - Information Compendium/👹 - Creature Codex.md"
+    "📚 - Information Compendium/👹 - Creature Codex.md",
+    "z_Templates/Untitled 3.md",
+    "z_Templates/Untitled 5.md",
+    "Untitled.md"
   ],
   "ribbonAction": "toolbar",
   "scriptingEnabled": false,
