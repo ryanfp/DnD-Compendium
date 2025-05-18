@@ -15,81 +15,19 @@ Asd
 #ttrpg-cli/class/accursed 
 
 
-> [!cite]- sdfsdf
-> yrdy
-
-[!hint] trdy
-> sdfsdfsdfsdf sdf sdfs dfsdfsd dddddddddddddddsdfs dfd f dfsersdfdr    
 
 
-> This is sa long line of tet that is tsupposed to bemake it iseem like aim typing alot but i actually wantr ot see hwio this thing lojso like in the quote noaso so have kjiushdi askds d kasjdkjaskdjaksjd kajs kj kj 
-
-
-
-[[this is a test]]
-![[Asdas asdasd]]
-[Asdasdasd](https://github.com/ebullient/ttrpg-convert-cli/blob/main/examples/admonitions/admonitions-5e.json)
-
-> [!question]- test
-> 1
-
-
-> [!infobox]
-> # Name
-> ![[[insert_image_here](obsidian://open?vault=TTRPGs&file=image.png)|cover hsmall]]
-> ###### Stats
-> | Type | Stat |
-> | ---- | ---- |
+> [!infobox|left wikipedia]+
+> # Heading
+> ![[Image.png]]
+> ###### Heading 6
+> | Table Header |  Table Header |
+> | ---- | --- |
 > | Test | Testing |
 > | Test | Testing |
 > 
-> ##### Stats 2
-> | Type | Stat |
-> | ---- | ---- |
-> | Test | Testing |
-> | Test | Testing |
-
-
-
-> [! Title
-> # Name
-> ![[insert_image_here|cover hsmall]]
-> ###### Stats
-> | Type | Stat |
-> | ---- | ---- |
-> | Test | Testing |
-> | Test | Testing |
-> 
-> ##### Stats 2
-> | Type | Stat |
-> | ---- | ---- |
-> | Test | Testing |
-> | Test | Testing |
-
-
-
-[> [!infobox]
-> # Name
-> ![[insert_image_here|cover hsmall]]
-> ###### Stats
-> | Type | Stat |
-> | ---- | ---- |
-> | Test | Testing |
-> | Test | Testing |
-
-
-
-> [!infobox]
-> # Name
-> ![[Image.png|cover hsmall]]
-> ###### Stats
-> | Type | Stat |
-> | ---- | ---- |
-> | Test | Testing |
-> | Test | Testing |
-> 
-> ##### Stats 2
-> | Type | Stat |
-> | ---- | ---- |
-> | Test | Testing |
-> | Test | Testing |
+> # Heading 1
+> - Bullet list
+> 	- Testing
+> 	- Testing
+> - Testing

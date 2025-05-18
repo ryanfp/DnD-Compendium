@@ -221,6 +221,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Insert Wiki Info Box",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Wiki Info Box.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Wiki Info Box\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":9},\"to\":{\"line\":1,\"ch\":9}},\"scroll\":0}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":99,\"ch\":14},\"to\":{\"line\":99,\"ch\":14}},\"scroll\":53.285714285714285}"
+                },
+                {
+                  "title": "Insert Wiki Info Box",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Wiki Info Box.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Wiki Info Box\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":1},\"to\":{\"line\":2,\"ch\":1}}}"
+                },
+                {
                   "title": "Link Auto Title",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Link Auto Title.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Link Auto Title\"}",
@@ -297,12 +315,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/Insert Wiki Info Box.md",
-                "mode": "preview",
+                "file": "Untitled.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Insert Wiki Info Box"
+              "title": "Untitled"
             }
           }
         ],
@@ -633,12 +651,12 @@
   },
   "active": "3a73ca7b9dac80c9",
   "lastOpenFiles": [
-    "z_Templates/Link Auto Title.md",
+    "z_Templates/Insert Wiki Info Box.md",
     "Untitled.md",
+    "z_Templates/Link Auto Title.md",
     "README.md",
     "LexCrochetLogo.png",
     "image.png",
-    "z_Templates/Insert Wiki Info Box.md",
     "Untitled",
     "z_Assets",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",

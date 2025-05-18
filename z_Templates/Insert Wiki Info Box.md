@@ -1,3 +1,3 @@
 >[!wiki]
-> ![[notefile.md|Note Title]]
+> ![[file.md]]
  
