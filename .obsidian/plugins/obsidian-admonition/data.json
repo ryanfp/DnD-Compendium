@@ -181,18 +181,6 @@
       "noTitle": false,
       "copy": true
     },
-    "statblock-pf2e": {
-      "type": "statblock-pf2e",
-      "color": "196, 153, 33",
-      "icon": {
-        "name": "dragon",
-        "type": "font-awesome"
-      },
-      "command": false,
-      "injectColor": true,
-      "noTitle": true,
-      "copy": false
-    },
     "charm": {
       "type": "charm",
       "icon": {
@@ -285,7 +273,7 @@
     "admonitions": true,
     "icons": true,
     "other": true,
-    "advanced": false
+    "advanced": true
   },
   "icons": [],
   "useFontAwesome": true,
