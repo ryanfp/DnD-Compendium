@@ -36,6 +36,23 @@ Asd
 
 > [!infobox]
 > # Name
+> ![[[insert_image_here](obsidian://open?vault=TTRPGs&file=image.png)|cover hsmall]]
+> ###### Stats
+> | Type | Stat |
+> | ---- | ---- |
+> | Test | Testing |
+> | Test | Testing |
+> 
+> ##### Stats 2
+> | Type | Stat |
+> | ---- | ---- |
+> | Test | Testing |
+> | Test | Testing |
+
+
+
+> [! Title
+> # Name
 > ![[insert_image_here|cover hsmall]]
 > ###### Stats
 > | Type | Stat |
@@ -65,3 +82,17 @@ Asd
 > | ---- | ---- |
 > | Test | Testing |
 > | Test | Testing |
+
+
+
+> 
+> ##### Stats 2
+> | Type | Stat |
+> | ---- | ---- |
+> | Test | Testing |
+> | Test | Testing |
+
+
+> [!Infobox]
+> I dont know
+
