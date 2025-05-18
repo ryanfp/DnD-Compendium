@@ -1,6 +1,6 @@
 {
   "cssTheme": "ITS Theme",
-  "accentColor": "#9190cb",
+  "accentColor": "#44445f",
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "obsidian_emacs_bullet_list",

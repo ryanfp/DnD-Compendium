@@ -563,7 +563,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Untitled.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
@@ -583,10 +583,11 @@
       }
     ]
   },
-  "active": "6cf06926e404ff04",
+  "active": "3a73ca7b9dac80c9",
   "lastOpenFiles": [
-    "tessssst/tessssst.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "Untitled.md",
+    "tessssst/tessssst.md",
     "tessssst/Templates.md",
     "UNORGANIZED/List of Classes and Subclasses.md",
     "templates/Insert Wiki Info Box.md",
@@ -603,7 +604,6 @@
     "templates/Untitled 3.md",
     "templates/Untitled 2.md",
     "templates/Untitled 1.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "UNORGANIZED/Sourcebooks.md",
     "Untitled 2.md",
     "Untitled 1.md",
