@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
-                "mode": "source",
+                "file": "tessssst/tessssst.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Classes"
+              "title": "tessssst"
             }
           }
         ]
@@ -205,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 352.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,8 +240,8 @@
   },
   "active": "6cf06926e404ff04",
   "lastOpenFiles": [
-    "UNORGANIZED/Sourcebooks.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
+    "UNORGANIZED/Sourcebooks.md",
     "UNORGANIZED/EE.md",
     "templates/New File Auto Template.md",
     "Untitled.md",

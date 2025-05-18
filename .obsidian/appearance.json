@@ -3,6 +3,7 @@
   "accentColor": "#a10dbf",
   "enabledCssSnippets": [
     "supercharged-links-gen",
-    "obsidian_emacs_bullet_list"
+    "obsidian_emacs_bullet_list",
+    "wiki-style-callouts"
   ]
 }
