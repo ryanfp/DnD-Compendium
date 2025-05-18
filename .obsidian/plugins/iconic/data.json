@@ -26,7 +26,13 @@
     }
   },
   "fileIcons": {
-    "templates": {
+    "z_Assets": {
+      "icon": "lucide-image-plus",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
+    },
+    "z_Templates": {
       "icon": "lucide-log-in",
       "unsynced": [
         "74b9081e8f8b76ce"

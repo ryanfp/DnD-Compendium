@@ -5,8 +5,20 @@
       "path": "Untitled.md"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "LexCrochetLogo",
+      "path": "LexCrochetLogo.png"
+    },
+    {
       "basename": "image",
       "path": "image.png"
+    },
+    {
+      "basename": "Insert Wiki Info Box",
+      "path": "z_Templates/Insert Wiki Info Box.md"
     },
     {
       "basename": "Classes",
@@ -25,20 +37,16 @@
       "path": "UNORGANIZED/List of Classes and Subclasses.md"
     },
     {
-      "basename": "Insert Wiki Info Box",
-      "path": "templates/Insert Wiki Info Box.md"
-    },
-    {
       "basename": "Insert Table of Contents",
-      "path": "templates/Insert Table of Contents.md"
+      "path": "z_Templates/Insert Table of Contents.md"
     },
     {
       "basename": "Insert Fancy Quote",
-      "path": "templates/Insert Fancy Quote.md"
+      "path": "z_Templates/Insert Fancy Quote.md"
     },
     {
       "basename": "Basic Callout Selecter",
-      "path": "templates/Basic Callout Selecter.md"
+      "path": "z_Templates/Basic Callout Selecter.md"
     },
     {
       "basename": "Exploring Eberron",
@@ -46,11 +54,11 @@
     },
     {
       "basename": "Session Notes Template",
-      "path": "templates/Session Notes Template.md"
+      "path": "z_Templates/Session Notes Template.md"
     },
     {
       "basename": "New File Auto Template",
-      "path": "templates/New File Auto Template.md"
+      "path": "z_Templates/New File Auto Template.md"
     },
     {
       "basename": "EE",
@@ -58,23 +66,23 @@
     },
     {
       "basename": "Untitled 5",
-      "path": "templates/Untitled 5.md"
+      "path": "z_Templates/Untitled 5.md"
     },
     {
       "basename": "Untitled 4",
-      "path": "templates/Untitled 4.md"
+      "path": "z_Templates/Untitled 4.md"
     },
     {
       "basename": "Untitled 3",
-      "path": "templates/Untitled 3.md"
+      "path": "z_Templates/Untitled 3.md"
     },
     {
       "basename": "Untitled 2",
-      "path": "templates/Untitled 2.md"
+      "path": "z_Templates/Untitled 2.md"
     },
     {
       "basename": "Untitled 1",
-      "path": "templates/Untitled 1.md"
+      "path": "z_Templates/Untitled 1.md"
     },
     {
       "basename": "Sourcebooks",
@@ -86,11 +94,11 @@
     },
     {
       "basename": "Link Auto Title",
-      "path": "templates/Link Auto Title.md"
+      "path": "z_Templates/Link Auto Title.md"
     },
     {
       "basename": "Format YouTube Link",
-      "path": "templates/Format YouTube Link.md"
+      "path": "z_Templates/Format YouTube Link.md"
     },
     {
       "basename": "Accursed",
@@ -191,14 +199,6 @@
     {
       "basename": "Feats",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Feats.md"
-    },
-    {
-      "basename": "Backgrounds",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds.md"
-    },
-    {
-      "basename": "Races",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Races.md"
     }
   ],
   "omittedPaths": [],

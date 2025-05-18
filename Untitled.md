@@ -68,7 +68,7 @@ Asd
 
 
 
-> [!infobox]
+[> [!infobox]
 > # Name
 > ![[insert_image_here|cover hsmall]]
 > ###### Stats
@@ -77,22 +77,3 @@ Asd
 > | Test | Testing |
 > | Test | Testing |
 > 
-> ##### Stats 2
-> | Type | Stat |
-> | ---- | ---- |
-> | Test | Testing |
-> | Test | Testing |
-
-
-
-> 
-> ##### Stats 2
-> | Type | Stat |
-> | ---- | ---- |
-> | Test | Testing |
-> | Test | Testing |
-
-
-> [!Infobox]
-> I dont know
-

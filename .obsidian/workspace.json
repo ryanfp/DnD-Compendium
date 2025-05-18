@@ -44,25 +44,25 @@
                 {
                   "title": "Insert Wiki Info Box",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/Insert Wiki Info Box.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Wiki Info Box\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Wiki Info Box.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Wiki Info Box\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":20},\"to\":{\"line\":30,\"ch\":20}}}"
                 },
                 {
                   "title": "Insert Table of Contents",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/Insert Table of Contents.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Table of Contents\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Table of Contents.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Table of Contents\"}",
                   "eState": "{}"
                 },
                 {
                   "title": "Insert Fancy Quote",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/Insert Fancy Quote.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Fancy Quote\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Fancy Quote.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Fancy Quote\"}",
                   "eState": "{\"scroll\":0}"
                 },
                 {
                   "title": "Basic Callout Selecter",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/Basic Callout Selecter.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Basic Callout Selecter\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Basic Callout Selecter.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Basic Callout Selecter\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":8},\"to\":{\"line\":24,\"ch\":8}},\"scroll\":40.25}"
                 },
                 {
@@ -74,37 +74,37 @@
                 {
                   "title": "Session Notes Template",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/Session Notes Template.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Session Notes Template\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Session Notes Template.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Session Notes Template\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":31},\"to\":{\"line\":3,\"ch\":31}}}"
                 },
                 {
                   "title": "Basic Callout Selecter",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/Basic Callout Selecter.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Basic Callout Selecter\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Basic Callout Selecter.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Basic Callout Selecter\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Insert Table of Contents",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/Insert Table of Contents.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Table of Contents\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Table of Contents.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Table of Contents\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Insert Wiki Info Box",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/Insert Wiki Info Box.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Wiki Info Box\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Wiki Info Box.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Wiki Info Box\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Basic Callout Selecter",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/Basic Callout Selecter.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Basic Callout Selecter\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Basic Callout Selecter.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Basic Callout Selecter\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":3},\"to\":{\"line\":0,\"ch\":3}}}"
                 },
                 {
                   "title": "New File Auto Template",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/New File Auto Template.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"New File Auto Template\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/New File Auto Template.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"New File Auto Template\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -128,43 +128,43 @@
                 {
                   "title": "Insert Wiki Info Box",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/Insert Wiki Info Box.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Wiki Info Box\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Wiki Info Box.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Wiki Info Box\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":20},\"to\":{\"line\":13,\"ch\":20}}}"
                 },
                 {
                   "title": "Untitled 5",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/Untitled 5.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 5\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Untitled 5.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 5\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Untitled 4",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/Untitled 4.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 4\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Untitled 4.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 4\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Untitled 3",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/Untitled 3.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 3\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Untitled 3.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 3\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Untitled 2",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/Untitled 2.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 2\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Untitled 2.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 2\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Untitled 1",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/Untitled 1.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 1\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Untitled 1.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 1\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Insert Fancy Quote",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/Insert Fancy Quote.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Fancy Quote.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -182,7 +182,7 @@
                 {
                   "title": "Insert Table of Contents",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/Insert Table of Contents.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Table of Contents\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Table of Contents.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Table of Contents\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":33},\"to\":{\"line\":43,\"ch\":33}},\"scroll\":18.63888888888889}"
                 },
                 {
@@ -219,6 +219,42 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"README\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "LexCrochetLogo",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"LexCrochetLogo.png\"},\"icon\":\"lucide-image\",\"title\":\"LexCrochetLogo\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "image",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"image.png\"},\"icon\":\"lucide-image\",\"title\":\"image\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"README\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Insert Wiki Info Box",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Wiki Info Box.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Wiki Info Box\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":20},\"to\":{\"line\":13,\"ch\":20}},\"scroll\":0}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":86,\"ch\":0},\"to\":{\"line\":86,\"ch\":0}},\"scroll\":64.01822916666667}"
                 },
                 {
                   "title": "image",
@@ -286,7 +322,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -585,42 +621,43 @@
   },
   "active": "3a73ca7b9dac80c9",
   "lastOpenFiles": [
+    "README.md",
+    "LexCrochetLogo.png",
     "image.png",
+    "z_Templates/Insert Wiki Info Box.md",
+    "Untitled",
+    "z_Assets",
     "Untitled.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "tessssst/tessssst.md",
     "tessssst/Templates.md",
     "UNORGANIZED/List of Classes and Subclasses.md",
-    "templates/Insert Wiki Info Box.md",
-    "templates/Insert Table of Contents.md",
-    "templates/Insert Fancy Quote.md",
-    "templates/Basic Callout Selecter.md",
+    "z_Templates/Insert Table of Contents.md",
+    "z_Templates/Insert Fancy Quote.md",
+    "z_Templates/Basic Callout Selecter.md",
     "UNORGANIZED/Exploring Eberron.md",
-    "templates/Session Notes Template.md",
-    "templates/New File Auto Template.md",
+    "z_Templates/Session Notes Template.md",
+    "z_Templates/New File Auto Template.md",
     "UNORGANIZED/EE.md",
-    "templates/Untitled 5.md",
+    "z_Templates/Untitled 5.md",
     "templates/Untitled",
-    "templates/Untitled 4.md",
-    "templates/Untitled 3.md",
-    "templates/Untitled 2.md",
-    "templates/Untitled 1.md",
+    "z_Templates/Untitled 4.md",
+    "z_Templates/Untitled 3.md",
+    "z_Templates/Untitled 2.md",
+    "z_Templates/Untitled 1.md",
     "UNORGANIZED/Sourcebooks.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of the Created.md",
-    "templates/Link Auto Title.md",
-    "templates/Format YouTube Link.md",
+    "z_Templates/Link Auto Title.md",
+    "z_Templates/Format YouTube Link.md",
     "New Text Document.txt",
-    "README.md",
     "git clone",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed",
     "🌎 - Worldbuilding & Lore/Campaign Settings",
     "📚 - Information Compendium/🎒 - Inventory/Items - Loot/Miscellaneous",
     "📚 - Information Compendium/🎒 - Inventory/Items - Loot/Equipment & Accessories",
     "📚 - Information Compendium/🎒 - Inventory/Items - Loot/Armor",
-    "📚 - Information Compendium/🎒 - Inventory/Items - Loot/Weapons",
-    "📚 - Information Compendium/🎒 - Inventory/Items - Loot",
     "Pasted image 20250510202249.png",
     "Pasted image 20250507211719.png"
   ]
