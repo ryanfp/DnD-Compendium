@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "tessssst",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"tessssst/tessssst.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"tessssst\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
                   "title": "Templates",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"tessssst/Templates.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Templates\"}",
@@ -196,12 +202,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tessssst/tessssst.md",
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "tessssst"
+              "title": "Classes"
             }
           }
         ]
@@ -254,7 +260,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#83D862",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -496,7 +502,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 236.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -529,10 +535,59 @@
       "calendarium:Open Calendarium": false
     }
   },
+  "floating": {
+    "id": "66a99e994e060d55",
+    "type": "floating",
+    "children": [
+      {
+        "id": "fb34b3e9fd21e38b",
+        "type": "window",
+        "children": [
+          {
+            "id": "5e08cd75debdce6a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3a73ca7b9dac80c9",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Untitled.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Untitled"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 1400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "6cf06926e404ff04",
   "lastOpenFiles": [
-    "tessssst/Templates.md",
     "tessssst/tessssst.md",
+    "Untitled.md",
+    "tessssst/Templates.md",
     "UNORGANIZED/List of Classes and Subclasses.md",
     "templates/Insert Wiki Info Box.md",
     "templates/Insert Table of Contents.md",
@@ -550,7 +605,6 @@
     "templates/Untitled 1.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "UNORGANIZED/Sourcebooks.md",
-    "Untitled.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of the Created.md",

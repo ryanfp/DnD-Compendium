@@ -11,8 +11,6 @@
   "icon": "circle-ellipsis",
   "onboarding": {},
   "recentFiles": [
-    "templates/Table of Contents.md",
-    "templates/Session Notes.md",
     "UNORGANIZED/Exploring Eberron.md",
     "templates/Basic Callout Selecter.md",
     "templates/Untitled.md",
@@ -20,7 +18,9 @@
     "templates/Insert Wiki Info Box.md",
     "UNORGANIZED/List of Classes and Subclasses.md",
     "tessssst/Templates.md",
-    "tessssst/tessssst.md"
+    "Untitled.md",
+    "tessssst/tessssst.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
   ],
   "ribbonAction": "toolbar",
   "scriptingEnabled": false,
