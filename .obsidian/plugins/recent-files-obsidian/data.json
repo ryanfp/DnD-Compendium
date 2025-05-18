@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "Insert Fancy Quote",
+      "path": "templates/Insert Fancy Quote.md"
+    },
+    {
+      "basename": "Basic Callout Selecter",
+      "path": "templates/Basic Callout Selecter.md"
+    },
+    {
+      "basename": "Exploring Eberron",
+      "path": "UNORGANIZED/Exploring Eberron.md"
+    },
+    {
+      "basename": "Session Notes Template",
+      "path": "templates/Session Notes Template.md"
+    },
+    {
+      "basename": "Insert Table of Contents",
+      "path": "templates/Insert Table of Contents.md"
+    },
+    {
+      "basename": "Insert Wiki Info Box",
+      "path": "templates/Insert Wiki Info Box.md"
+    },
+    {
+      "basename": "New File Auto Template",
+      "path": "templates/New File Auto Template.md"
+    },
+    {
+      "basename": "EE",
+      "path": "UNORGANIZED/EE.md"
+    },
+    {
+      "basename": "Untitled 5",
+      "path": "templates/Untitled 5.md"
+    },
+    {
+      "basename": "Untitled 4",
+      "path": "templates/Untitled 4.md"
+    },
+    {
+      "basename": "Untitled 3",
+      "path": "templates/Untitled 3.md"
+    },
+    {
+      "basename": "Untitled 2",
+      "path": "templates/Untitled 2.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "templates/Untitled 1.md"
+    },
+    {
       "basename": "tessssst",
       "path": "tessssst/tessssst.md"
     },
@@ -13,28 +65,8 @@
       "path": "UNORGANIZED/Sourcebooks.md"
     },
     {
-      "basename": "EE",
-      "path": "UNORGANIZED/EE.md"
-    },
-    {
-      "basename": "New File Auto Template",
-      "path": "templates/New File Auto Template.md"
-    },
-    {
-      "basename": "Table of Contents",
-      "path": "templates/Table of Contents.md"
-    },
-    {
       "basename": "Curse of the Created",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of the Created.md"
-    },
-    {
-      "basename": "Insert Callout",
-      "path": "templates/Insert Callout.md"
-    },
-    {
-      "basename": "Session Notes",
-      "path": "templates/Session Notes.md"
     },
     {
       "basename": "Link Auto Title",
@@ -167,26 +199,6 @@
     {
       "basename": "List of Classes and Subclasses 1",
       "path": "UNORGANIZED/List of Classes and Subclasses 1.md"
-    },
-    {
-      "basename": "Exploring Eberron",
-      "path": "UNORGANIZED/Exploring Eberron.md"
-    },
-    {
-      "basename": "Flavorful Feats",
-      "path": "UNORGANIZED/Flavorful Feats.md"
-    },
-    {
-      "basename": "Rules & Meta",
-      "path": "📚 - Information Compendium/📝 - Rules & Mechanics/Rules & Meta.md"
-    },
-    {
-      "basename": "Exhaustion Mechanics",
-      "path": "📚 - Information Compendium/📝 - Rules & Mechanics/Mechanics/Exhaustion Mechanics.md"
-    },
-    {
-      "basename": "Critical Fumble",
-      "path": "UNORGANIZED/Critical Fumble.md"
     }
   ],
   "omittedPaths": [],

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tessssst/tessssst.md",
+                "file": "templates/Insert Fancy Quote.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "tessssst"
+              "title": "Insert Fancy Quote"
             }
           }
         ]
@@ -240,19 +240,27 @@
   },
   "active": "6cf06926e404ff04",
   "lastOpenFiles": [
+    "templates/Basic Callout Selecter.md",
+    "UNORGANIZED/Exploring Eberron.md",
+    "templates/Session Notes Template.md",
+    "templates/Insert Table of Contents.md",
+    "templates/Insert Wiki Info Box.md",
+    "templates/New File Auto Template.md",
+    "UNORGANIZED/EE.md",
+    "templates/Untitled 5.md",
+    "templates/Untitled",
+    "templates/Untitled 4.md",
+    "templates/Untitled 3.md",
+    "templates/Untitled 2.md",
+    "templates/Untitled 1.md",
+    "templates/Insert Fancy Quote.md",
+    "tessssst/tessssst.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "UNORGANIZED/Sourcebooks.md",
-    "UNORGANIZED/EE.md",
-    "templates/New File Auto Template.md",
     "Untitled.md",
     "Untitled 2.md",
     "Untitled 1.md",
-    "tessssst/tessssst.md",
-    "templates/Untitled.md",
-    "templates/Table of Contents.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of the Created.md",
-    "templates/Insert Callout.md",
-    "templates/Session Notes.md",
     "templates/Link Auto Title.md",
     "templates/Format YouTube Link.md",
     "tessssst/Templates.md",
@@ -262,13 +270,6 @@
     "image.png",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Combustion.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of the Armament.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Animation.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Mummification.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Immortality.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Somnolence.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Petrification.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Misfortune.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed",
     "🌎 - Worldbuilding & Lore/Campaign Settings",
     "📚 - Information Compendium/🎒 - Inventory/Items - Loot/Miscellaneous",
@@ -276,7 +277,6 @@
     "📚 - Information Compendium/🎒 - Inventory/Items - Loot/Armor",
     "📚 - Information Compendium/🎒 - Inventory/Items - Loot/Weapons",
     "📚 - Information Compendium/🎒 - Inventory/Items - Loot",
-    "⏰ - Archive/✈ - Adventures",
     "Pasted image 20250510202249.png",
     "Pasted image 20250507211719.png"
   ]
