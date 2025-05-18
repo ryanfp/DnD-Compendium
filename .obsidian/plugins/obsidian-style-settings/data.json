@@ -70,6 +70,21 @@
   "ITS@@heading-color-override": false,
   "ITS@@illusion": false,
   "ITS@@h1-color@@light": "#FF007E",
-  "ITS@@h1-color@@dark": "#FF007E",
-  "ITS@@h2-color@@dark": "#E4BE15"
+  "ITS@@h1-color@@dark": "#FF51A7",
+  "ITS@@h2-color@@dark": "#DDC041",
+  "ITS@@h3-color@@dark": "#83D862",
+  "ITS@@h4-color@@dark": "#7FE7DE",
+  "ITS@@h5-color@@dark": "#7779EC",
+  "ITS@@h6-color@@dark": "#BE75D4",
+  "ITS@@h2-text-align": "left",
+  "ITS@@illusion-h1": false,
+  "ITS@@hide-header-underline-3": true,
+  "ITS@@hide-header-underline-4": true,
+  "ITS@@hide-header-underline-5": true,
+  "ITS@@hide-header-underline-6": true,
+  "ITS@@ITS-Note-Title-Styling": "note-title-underline",
+  "ITS@@Inline-Title-Styling": "none",
+  "ITS@@Inline-Title-Sizes": "none",
+  "ITS@@inline-title-weight": 700,
+  "ITS@@Inline-Title-Positions": "inline-title-position-center"
 }
