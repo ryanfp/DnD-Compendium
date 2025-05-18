@@ -221,6 +221,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Link Auto Title",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Link Auto Title.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Link Auto Title\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":94,\"ch\":20},\"to\":{\"line\":94,\"ch\":20}},\"scroll\":63.7265625}"
+                },
+                {
                   "title": "README",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"README\"}",
@@ -285,12 +297,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
+                "file": "z_Templates/Insert Wiki Info Box.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Insert Wiki Info Box"
             }
           }
         ],
@@ -621,13 +633,14 @@
   },
   "active": "3a73ca7b9dac80c9",
   "lastOpenFiles": [
+    "z_Templates/Link Auto Title.md",
+    "Untitled.md",
     "README.md",
     "LexCrochetLogo.png",
     "image.png",
     "z_Templates/Insert Wiki Info Box.md",
     "Untitled",
     "z_Assets",
-    "Untitled.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "tessssst/tessssst.md",
     "tessssst/Templates.md",
@@ -649,7 +662,6 @@
     "Untitled 2.md",
     "Untitled 1.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of the Created.md",
-    "z_Templates/Link Auto Title.md",
     "z_Templates/Format YouTube Link.md",
     "New Text Document.txt",
     "git clone",
