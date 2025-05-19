@@ -1084,33 +1084,47 @@ You follow an old tradition of sea-dwelling druids that protect the waters from 
 #### **Circle of the Leaf**<sup>(ToV)</sup>
 Druids who align with the ring of the Leaf feel a deep connection to plants. Leaf druids are drawn to the quiet, natural spaces of the world. They find great peace and wisdom among hidden groves, ancient forests, and overgrown gardens left to flourish without the influence of civilization. To you, nothing is more important than nurturing the flora that makes all life possible.
 #### **[[Circle of Visions]]**<sup>(FCG)</sup>
+Druids of the Circle of Visions have been trained to use the mind’s eye to see what others cannot. Through intense meditation in the Feywild or training in harsh environments on the Material Plane, these druids have expanded their senses to extremes. Their familiarity with the future can be surprising as is their knowledge of the planes. These druids use their sight to preserve life and protect it from the unseen dangers that lurk beyond the veil. 
 
+As a Circle of Visions druid, your eyes are permanently changed in some way to reflect your ability to see beyond mortal sight. Consult the Eye Appearances table and either roll for an option or choose an appearance yourself. These appearances do not affect your ability to see normally, and you can still be affected by the blinded condition.
 #### **Circle of the Forged**<sup>(EE)</sup>
-
+What is truly natural? The warforged are living creatures, despite being constructed from wood and steel. Druids who embrace the Circle of the Forged explore the potential of the warforged form, blending animal shapes with warforged durability. This is a young path, pioneered by a handful of warforged who sought a greater understanding of their role in the world. Over the last few decades, a number of warforged have embraced the Circle of the Forged; however, it isn’t limited to warforged; a Cannith heir or an aspiring artificer might pursue primal power as a way to transcend the limited flesh they were born with.
 #### **Circle of Blossoming**<sup>(ECHH)</sup>
-
+The vines, they grew at lightning speed, up from the ground they came. They intertwined to form the legs, the back, the maw, the mane. Then lilies sprouted from the joints, its hide was daisy swept. And when at last the growth had stopped, a flowered beast was left. The druid then did raise their voice, in sylvan words it spoke. Its eyes, they filled with greenish light; the verdant creature woke.
 #### **Circle of Primeval Grove**<sup>(ECHH)</sup>
-
+The ancient forests of the world lie in restless slumber. Humble servants of the Old Way, the Circle of the Primeval Grove are conduits for the vengeful wilds, full of thorn and moss, and of gnarled roots clawing their way across the ground, twisted with malice and old enough to recall every cruelty imposed upon them over the millennia.
 #### **Circle of Crystals**<sup>(CCS)</sup>
-
+Druids of the Circle of Crystals have a deep connection to arcane crystals, which are magically infused crystals discovered in the early settlement of Prismatic Falls. To these druids, naturally occurring sources of such crystals are sacred, and they believe that they harbor the closest and deepest connection to the intrinsic magic of the world.
 #### **Circle of Nightmares**<sup>(KT)</sup>
+Druids are often thought of as the guardians of the natural order and having a deep connection to the creatures of the land. Sometimes that connection goes horribly wrong. A druid of this circle has found their mind entangled with the horrors of the beyond, their natural connection to nature and its beasts becoming warped by the dark dreams. 
 
+Druids of this circle may be haunted by the terrors they see, but many simply find their minds inoculated against the horror (perhaps by the touch of madness). Some even treat twisted abominations with the same care other druids might take to vicious and wild animals, treating them with pragmatic understanding and empathy Sometimes their connection even seems to be mutual.
 #### **Circle of Aspects**<sup>(KT)</sup>
+A circle of the aspects druid, frequently called a spirit shifter, is a druid that has attuned themselves to the spiritual aspects of beasts. These druids tap into their fundamental nature, calling up certain aspects of wilderness and embodying them in spirit. A druid of this circle can be said to Wild Shape their soul, rather than their body. 
 
+Druids of this circle must walk a fine line, as it can be easy for them to delve too deeply into the powerful and savage states of mind they enter. However, these magical aspects grant them both unique power and perspective as they walk the world, seeing the world through the eyes of the bestial spirits that boil within them.
 #### **Circle of Elements**<sup>(KT)</sup>
+The Circle of Elements allows druids to tap the purest of primal powers, unleashing devastating elemental powers destroy their enemies and reshape the battlefield. These druids are the wrath of nature incarnate, and leave a path that is burned, frozen, scorched, or broken through all that would defile. 
 
+Anyone that makes the mistake of thinking that nature is serene beauty would do well remember why civilized creatures spend so much of their time trying to keep it at bay.
 #### **Circle of Growth**<sup>(KT)</sup>
-
+Druids within the Circle of Growth are among the most direct emissaries of nature, speaking for the forests and wilderness in order to bring its will to the rest of the world.. They can be kind and nurturing presences that seek to ease the suffering all living things, or militant wardens that seek to end the exploitation of natural resources.
 #### **Circle of Roots**<sup>(KT)</sup>
+While many druids have a kinship with the deep woods of nature, a Circle of Roots druid has a connection that can go much deeper, where some may wonder where the will of the primordial woods ends and the will of the druid starts. Legends say that the first of these druids were woads who took human form, rather than humans that took woad form, but such things are lost to legend. 
 
+Frequently, regardless of the nature of their connection, these druids will feel most comfortable deep in nature, and place great value in its unspoiled form, sharing a world view more in common with dryads and treants than other mortals... perhaps they were even raised by such creatures, leading them to this path.
 #### **Circle of the City**<sup>(KT)</sup>
+The circle of the city is about adaption. The adaption of nature to cities, and the adaption of cities to nature. Druids of the circle see the teeming life of the city as just another ecosystem, one adapted to a special type of life, feeling kinship with the creatures that thrive in such an environment, particularly that which remains wild in the heart of the city, such as rats, pigeons, and cats. 
 
+While more primeval druids may view them as scarcely different to other city-dwellers, they are no less in tune with nature that other druids, simply] tuning into a different, more subtle and pervasive, frequency
 #### **Circle of the Grove**<sup>(KT)</sup>
 
 #### **Circle of the Sun**<sup>(KT)</sup>
 
 #### **Circle of The Wild**<sup>(KT)</sup>
+For some druids, they have found their friends among the beasts of the wild, forming a close kinship with the furred and the fanged. They often roam the wilderness, placing little value on the trappings of civilization, more concerned with nature, hunting, and exploring. 
 
+The longer they spend in the wild with their animal friends, the more their habits tend to intertwine with the beasts around them. Sometimes they will cook food for their animal friends, while other times they will take to eating their food raw. They play the role of a caretaker, warden, and advocate for the wild.
 #### **Circle of Seasons**<sup>(XLNEE)</sup>
 
 #### **Circle of the Spiritlord**<sup>(XLNEE)</sup>

@@ -11,17 +11,17 @@
             "id": "3a73ca7b9dac80c9",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Circle of Visions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Circle of Visions.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Circle of Visions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Classes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Classes\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1085,\"ch\":17},\"to\":{\"line\":1085,\"ch\":17}},\"scroll\":1082.6266276041667}"
                 },
                 {
                   "title": "Untitled",
@@ -214,12 +214,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Circle of Visions.md",
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Circle of Visions"
+              "title": "Classes"
             }
           }
         ]
@@ -549,8 +549,8 @@
   },
   "active": "3a73ca7b9dac80c9",
   "lastOpenFiles": [
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Circle of Visions.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Circle of Twilight.md",
     "Untitled.md",
     "tessssst/Templates.md",
