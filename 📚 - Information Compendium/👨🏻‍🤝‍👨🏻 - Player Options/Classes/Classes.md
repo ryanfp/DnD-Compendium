@@ -1030,17 +1030,21 @@ Many druids of this circle keep records of the constellations and the stars’ e
 #### **Circle of Wildfire**
 Druids within the Circle of Wildfire understand that destruction is sometimes the precursor of creation, such as when a forest fire promotes later growth. These druids bond with a primal spirit that harbors both destructive and creative power, allowing the druids to create controlled flames that burn away one thing but give life to another.
 #### **Circle of the City**<sup>(VSS)</sup>
-The city lives; it has a pulse. It’s skin is of walls and towering stone structures, it’s breath of chimneys and rivers. While the city exists, it lives in harmony with it’s people, a delicate balance mediated by the urban druids. These urban druids belong to the Circle of the CIty and are a direct antithesis to the conventional idea of a druid; whereas a normal druid lives among majestic forests or breahttaking mountains and dresses in the greenery of the forest, an urban druid
+The city lives; it has a pulse. It’s skin is of walls and towering stone structures, it’s breath of chimneys and rivers. While the city exists, it lives in harmony with it’s people, a delicate balance mediated by the urban druids. 
+
+These urban druids belong to the Circle of the City and are a direct antithesis to the conventional idea of a druid; whereas a normal druid lives among majestic forests or breathtaking mountains and dresses in the greenery of the forest, an urban druid wears unassuming clothes and wanders the back alleys of a well-trodden city. But their powers are not to be underestimated. Druids of this circle can channel their natural powers to twist the streets into knots, uproot towers, and animate the cobblestones. Their charge might be unorthodox, but their authority over the cityscape matches any other druid’s power over the forest. 
 #### **Circle of the Deep**<sup>(VSS)</sup>
+The druids that maintain and protect the land are deluded to think that they keep dominion over the natural world, for they stand guard over only a small fraction of it; far greater, and far wilder, is the deep. Druids of the Deep are fewer in number, but greater in task, vowing to stand guard over the world’s oceans, seas, lakes and rivers. Safeguarding their inhabitants from the fools that walk the surface. 
 
+The crushing depths have hardened these druids, and taught them to battle with every weapon underneath the waves. After all, the ocean is an unforgiving place; you can’t survive by just talking to fish. 
 #### **Circle of the Fist**<sup>(VSS)</sup>
-
+The defenders of the forests and champions of the trees, druids who join this circle take their charge as natural protectors seriously. Traditionally, all druid circles strive to protect the natural realm and maintain the world’s balance, but only druids of this circle guard the woodlands with the vigilance and fervor of a territorial beast. Fists of the Forest, as they are called, stave off intruders to their realms with flurries of bare-fisted strikes, empowered by the natural world, before disappearing into the treetops. At the height of their expertise, these druids fight more like beast of the forests than men, and are twice as deadly. 
 #### **Circle of Stones**<sup>(VSS)</sup>
-
+Age-old monuments crafted in forgotten times attest to a simple truth: there is power in the stones. Druids who join the ancient Circle of Stones carry on the tradition of raising stonehenges in places of great power, where leylines intersect and magic strengthens. Such locations are marked as nexuses of power, where the Forgotten Laws of the Old Gods are still heeded — but such things are known only to a few druids today. Others merely see the looming stone monuments as enigmatic circles, grim reminders of the enormity of time. 
 #### **Circle of Vermin**<sup>(VSS)</sup>
-
+Druids of the Circle of Vermin, sometimes known as Vermin Lords, find their source of power in the lowliest of creatures: insects, rats, spiders and other pests or vermin. Unmistakably, your coming is signaled by the scrambling of little claws and the cawing of the crows. You hold legions of these creatures at your command, ready to swarm, bite, and claw, and you can become one of them, top walk among your innumerable children. 
 #### **Circle of the Wyrm**<sup>(VSS)</sup>
-
+Druids who join the Circle of the Wyrm hold dragons in higher esteem than all other works of creation. These druids believe, as many dragons do, that wyrms are perfect creatures: the pinnacle of all life brought into existence by the antediluvian gods. Likewise, these druids aspire to perfect wyrmhood, and gradually become like dragonkind. 
 #### **Circle of Twilight**<sup>(UA)</sup>
 
 #### **Circle of the Seedling**<sup>(UA)</sup>
