@@ -5,6 +5,14 @@
       "path": "Untitled.md"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Insert Fancy Quote",
+      "path": "z_Templates/Insert Fancy Quote.md"
+    },
+    {
       "basename": "Untitled 5",
       "path": "z_Templates/Untitled 5.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Introduction",
       "path": "📚 - Information Compendium/Introduction.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Insert Infobox - Left",
@@ -41,20 +45,8 @@
       "path": "z_Templates/Link Auto Title.md"
     },
     {
-      "basename": "image",
-      "path": "image.png"
-    },
-    {
       "basename": "Classes",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
-    },
-    {
-      "basename": "tessssst",
-      "path": "tessssst/tessssst.md"
-    },
-    {
-      "basename": "Templates",
-      "path": "tessssst/Templates.md"
     },
     {
       "basename": "List of Classes and Subclasses",
@@ -63,10 +55,6 @@
     {
       "basename": "Insert Table of Contents",
       "path": "z_Templates/Insert Table of Contents.md"
-    },
-    {
-      "basename": "Insert Fancy Quote",
-      "path": "z_Templates/Insert Fancy Quote.md"
     },
     {
       "basename": "Basic Callout Selecter",

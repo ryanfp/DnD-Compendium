@@ -214,10 +214,34 @@
             "id": "3a73ca7b9dac80c9",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
+                  "title": "Templates",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"tessssst/Templates.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Templates\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"README\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Insert Fancy Quote",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Fancy Quote.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Fancy Quote\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":22},\"to\":{\"line\":7,\"ch\":22}}}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{}"
                 },
                 {
@@ -388,7 +412,7 @@
               "type": "markdown",
               "state": {
                 "file": "Untitled.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -723,26 +747,26 @@
   },
   "active": "3a73ca7b9dac80c9",
   "lastOpenFiles": [
+    "tessssst/Templates.md",
+    "Untitled.md",
+    "image.png",
+    "README.md",
+    "z_Templates/Insert Fancy Quote.md",
     "z_Templates/Untitled 5.md",
     "z_Templates/Insert Caption.md",
     "📚 - Information Compendium/👹 - Creature Codex.md",
     "📚 - Information Compendium/Introduction.md",
     "LexCrochetLogo.png",
-    "README.md",
-    "Untitled.md",
     "z_Templates/Insert Infobox - Left.md",
     "z_Templates/Insert Infobox - Right.md",
     "z_Templates/Insert Wiki Sidebar.md",
     "z_Templates/Link Auto Title.md",
-    "image.png",
     "Untitled",
     "z_Assets",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "tessssst/tessssst.md",
-    "tessssst/Templates.md",
     "UNORGANIZED/List of Classes and Subclasses.md",
     "z_Templates/Insert Table of Contents.md",
-    "z_Templates/Insert Fancy Quote.md",
     "z_Templates/Basic Callout Selecter.md",
     "UNORGANIZED/Exploring Eberron.md",
     "z_Templates/Session Notes Template.md",
@@ -753,7 +777,6 @@
     "UNORGANIZED/Sourcebooks.md",
     "Untitled 2.md",
     "Untitled 1.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of the Created.md",
     "New Text Document.txt",
     "git clone",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed",
@@ -764,4 +787,3 @@
     "Pasted image 20250510202249.png",
     "Pasted image 20250507211719.png"
   ]
-}
