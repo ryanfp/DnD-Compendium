@@ -1060,24 +1060,30 @@ Druids of the Circle of Bees are friends to all stinging insects but focus their
 #### **Circle of Crystals**<sup>(TOH)</sup>
 Circle of Crystals druids first arose in subterranean environments, where they helped tend giant crystal gardens, but now they can be found most anywhere with access to underground caverns or geothermal activity. These druids view crystals as a naturally occurring form of order and perfection, and they value the crystals’ slow growth cycle, as it reminds them the natural world moves gradually but eternally. This teaches young druids patience and assures elder druids their legacy will be carried on in each spire of crystal. As druids of this circle tend their crystals, they learn how to use the harmonic frequencies of different crystals to create a variety of effects, including storing magic.
 #### **Circle of Sand**<sup>(TOH)</sup>
+The Circle of Sand originally arose among the desert dunes, where druids forged an intimate connection with the sands that surrounded them. Now such circles gather anywhere with excess sand, including coastlines or badlands. 
 
+While the unacquainted might view sand as lifeless and desolate, druids of this circle know the truth—there is life within the sand, as there is almost anywhere. These druids have witnessed the destructive power of sand and the sandstorm and know to fear and respect them. Underestimating the power of sand is only for the foolish.
 #### **Circle of The Green**<sup>(TOH)</sup>
-
+Druids of the Circle of the Green devote themselves to the plants and green things of the world, recognizing the role of plants in giving life. By continued communion with plant life, they believe they draw nearer to what they call “The Green,” a cosmic thread that binds all plant life. Druids of this circle believe they gain their abilities by tapping into the Green, and they use this connection to summon a spirit from it.
 #### **Circle of The Shapeless**<sup>(TOH)</sup>
+Druids of the Circle of the Shapeless believe that oozes, puddings, and jellies serve an important and integral role in the natural world, particularly in decomposition and in clearing detritus. Druids of this circle also admire the adaptability of these gelatinous creatures and study them to learn how to duplicate some of their abilities. 
 
+The sworn enemies of Circle of the Shapeless druids are the so-called ooze lords and their servants who pervert the natural order by controlling and weaponizing such creatures.
 #### **Circle of Wind**<sup>(TOH)</sup>
-
+Founded in deserts, badlands, and grasslands, where wind dominates and controls the landscape, the teachings of the Circle of Wind have spread far and wide, like a mighty storm. Druids who follow this circle’s teachings embrace the mercurial winds to create several effects.
 #### **Circle of Bough**<sup>(TCEE)</sup>
-
+There are druids who seek to bond not with beasts, but with the timeless sentinels that blanket the land: the ancient, gnarled trees whose wisdom is beyond compare. These druids—druids of the Bough—learn to shapeshift into the very trees that they revere.
 #### **Circle of the Coven**<sup>(TCEE)</sup>
-
+Druids are known amongst the masses for their secret groups, sacred locales, and sacramental rites. None fit this description more so than the druids that gather together in the spirit of cult sorority, where the whole is exponentially more powerful than the mere sum of its parts - which parts often consist of hags and other unseelie fey. These mystical magicians, while not known for infant-snatching like their namesake, do give more attention to the civilized world than the rest of their kind. Their skill with the cauldron, and their ability to take the form of humanoids in addition to beasts, allow them to closely observe and even infiltrate communities of all kinds. While the intentions of these druids are frequently debated amongst those who are familiar with them, their power is not.
 #### **Circle of the Dragonfriend**<sup>(TCEE)</sup>
+Dragons are powerful magical beings that shape the environment around them and their lairs. A few brave druids work with these creatures and tend to those environments. Such druids often pick up tips, tricks, and magical traits from their companions. These druids are known as dragonfriends. 
 
+It is rare to find a dragonfriend trying to dominate a dragon, or that condescends to be ruled by one. While dragonfriends usually maintain a realistic understanding that dragons’ powers are much greater than their own, they maintain peaceful coexistence and peership with dragons. Those who live near evil dragons often make arrangements for tenuous, indefinite alliances.
 #### **Circle of Seafarers**<sup>(TCEE)</sup>
-
+You follow an old tradition of sea-dwelling druids that protect the waters from creatures, and creatures from the waters. Your culture has developed unique fighting styles not found in other druidic sects, which make you excellent combatants in and around the seas.
 #### **Circle of the Leaf**<sup>(ToV)</sup>
-
-#### **Circle of Visions**<sup>(FCG)</sup>
+Druids who align with the ring of the Leaf feel a deep connection to plants. Leaf druids are drawn to the quiet, natural spaces of the world. They find great peace and wisdom among hidden groves, ancient forests, and overgrown gardens left to flourish without the influence of civilization. To you, nothing is more important than nurturing the flora that makes all life possible.
+#### **[[Circle of Visions]]**<sup>(FCG)</sup>
 
 #### **Circle of the Forged**<sup>(EE)</sup>
 
