@@ -216,7 +216,7 @@
               "state": {
                 "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Classes"

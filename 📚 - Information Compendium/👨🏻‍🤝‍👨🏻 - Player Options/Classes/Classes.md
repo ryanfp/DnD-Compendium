@@ -1117,18 +1117,22 @@ Frequently, regardless of the nature of their connection, these druids will feel
 The circle of the city is about adaption. The adaption of nature to cities, and the adaption of cities to nature. Druids of the circle see the teeming life of the city as just another ecosystem, one adapted to a special type of life, feeling kinship with the creatures that thrive in such an environment, particularly that which remains wild in the heart of the city, such as rats, pigeons, and cats. 
 
 While more primeval druids may view them as scarcely different to other city-dwellers, they are no less in tune with nature that other druids, simply] tuning into a different, more subtle and pervasive, frequency
-#### **Circle of the Grove**<sup>(KT)</sup>
-
 #### **Circle of the Sun**<sup>(KT)</sup>
+Druids revere aspects aspects of nature, and none is more central the cycle of life than the sun, origin of light and life. Druids of this circle are not clerics of the god of the sun, but represent it's aspect in the cycle of life, the light and heat and it brings, the fiery radiance with which it reigns over the world.
 
+Druids of the Circle often stand in opposition that with crawls through the dark, that which corrupts in the absence of light, and while still inclined to the neutrality many Druids uphold, they tend to swing further the extremes of passion and action, willing to burn away the rot. Though they might aim for a controlled burn, a controlled burn may often be more destructive than a simple pruning.
 #### **Circle of The Wild**<sup>(KT)</sup>
 For some druids, they have found their friends among the beasts of the wild, forming a close kinship with the furred and the fanged. They often roam the wilderness, placing little value on the trappings of civilization, more concerned with nature, hunting, and exploring. 
 
 The longer they spend in the wild with their animal friends, the more their habits tend to intertwine with the beasts around them. Sometimes they will cook food for their animal friends, while other times they will take to eating their food raw. They play the role of a caretaker, warden, and advocate for the wild.
 #### **Circle of Seasons**<sup>(XLNEE)</sup>
+Druids of the Circle of Seasons learn early in their trials that all things are transient. All things that live must die, and those things that don't live are worn away by the wind and rain. 
 
+As a druid of the seasons, you embody nature’s invisible hand. Whether through famine or pestilence, flood or fire, you revere the world’s natural cycle of destruction and rebirth. Your connection to the natural cycles of life and death allows you to burn nature’s enemies and renew her allies.
 #### **Circle of the Spiritlord**<sup>(XLNEE)</sup>
+Ages ago, nature priests with a greater connection to the spirit realm believed the world itself to be formed from a group of elemental and primordial spirits, each specifically charged to harness one of the major elements of creation. This band of tribal druids developed a set of ritual practices that allowed them to summon these spirits, whose essence now resides in every rock, tree, and breath of air, controlling the ebb and flow of nature not only in their homeland, but in all lands beyond. This order of priests were known as spiritlords. 
 
+Spiritlords begin their journey with the rites handed down by those before them, specifically, the ritual to create a special mask from an ironwood tree. This mask allows the spiritlord to play host to the spirit-elementals roaming this world. As the spiritlord grows in power and gains a heightened level of attunement to the spirit world, their mask transforms along with them, being altered with new carvings, ritual paints, and brands that symbolize the bond between the druid and the spirits they carry within.
 ### Level Up: Advanced 5e
 #### **Circle of the Guardian**
 
@@ -1137,19 +1141,29 @@ The longer they spend in the wild with their animal friends, the more their habi
 #### **Circle of the Treespeaker**
 
 #### **Circle of Primal**<sup>(BoE)</sup>
-
+The Primal Circle was the foremost druidic circle, dedicated to the caste of titanic creatures that once dominated the Material Plane. As their bestial companions were driven to the fringes of the map, the Primal Circle persisted, channeling the spirits of long- forgotten beasts, such as tyrannosaurs and saber- toothed tigers. These primal spirits begin as youths and grow into their colossal adulthood as the druid grows in power, culminating in a behemoth from prehistory, a beast unparalleled in size and ferocity.
 #### **Circle of the Hive**<sup>(HGMH)</sup>
+Druids of the Circle of the Hive share their body with a plethora of tiny arthropods—insects, arachnids, or even crustaceans. These symbiotes call such druids home, living within their skin, clothes, and hair. This habitation might manifest as a honeycomb-like hive, a silky subcutaneous trapdoor (below which lurks a spider), or butterfly chrysalids hanging from their hair. Druids of this circle relish creating a moving.
 
+Druids of this circle relish creating a moving biosphere that sustains a variety of organisms, often seeking out new and exotic species as symbiotic lodgers. These creatures are a part of the druid, nourishing and protecting the druid as the druid nourishes and protects its tenants.
 #### **Circle of the Unbroken**<sup>(TGS)</sup>
+The Unbroken Circle is an order of druids who have abandoned the patient teachings of their predecessors, deciding instead to take up arms in defense of the wilderness. These combative druids form militias and harness the fury of nature itself to forcefully remove any encroaching evil that threatens their sacred lands. 
 
+While the chaotic bend of nature is found within these druids, their bodies and impulses are tamed through training and discipline. Originally from the unforgiving Fester- wood, this circle’s teachings are as rigorous as the forest, blending a mixture of offense and defense to stand up to all of the world’s challenges.
 #### **Circle of Dragons**<sup>(TGS)</sup>
+The Circle of Dragons is an old order of druids steeped in rigid tradition. These honor-bound wardens of nature and draconic heritage are members of a secret society that have influenced governance, war, and culture across the world. High-standing members of this Circle have ties to royal bloodlines that date back generations, a connection that’s subtly showcased in royal family crests and insignia. 
 
+Druids from this Circle know that dragons, and draconic magic, are as connected to the world as plants or beasts, and utilize that connection to transform into a unique and powerful draconic form all their own.
 #### **Circle of Eclipse**<sup>(TGS)</sup>
-
+Druids of the Circle of the Eclipse are stewards of the celestial balance, and draw their power from the luminous bond shared by sun and moon. They find their strength waxing and waning with the ebb and flow of these celestial bodies, but it is during the rare moments of eclipse, when the world is briefly cloaked in celestial union, that they feel truly connected to the natural world and the cosmos above. Masters of both the brilliance of daylight and the mystique of darkness, druids of this circle embody the harmony of cosmic forces, wielding their celestial magic to protect the natural world and preserve the delicate equilibrium of day and night.
+#### **Circle of the Grove**<sup>(TGS)</sup>
+Druids of the Circle of the Grove spend weeks alone in forest glades in silent meditation. They find peace and wisdom in the stillness of the woods, and in time learn how to become a part of them themselves. Ancient rings of trees are sometimes archdruids themselves, transformed into trees in endless meditation. Dryads and half-dryads that become practicing druids are often members of this Circle.
 #### **Circle of the Storm**<sup>(TGS)</sup>
-
+Druids of the Circle of the Storm revel in the roar of an unbridled thunderstorm, either finding kinship in its chaos or in the stillness found between them. These circle members tend to meet in open fields or on tower rooftops during storms, rather than in the quiet forest glens of other druidic circles. They feel the push and pull of positive and negative forces within nature, using it to transform into streaking bolts of devastating lightning.
 #### **Circle of the Blighted**<sup>TDR</sup>
+Those who channel the magic of life and nature often find themselves drawn to a particular shrine or natural site, binding their body and spirit to these places of power. Such druids draw vitality from their chosen location, protecting it with their lives—but not all succeed in defending these sacred realms. 
 
+Whether through the subtle corruption of vile magics, the tainted presence of an ancient terror, or a terrible mistake unleashed by druids themselves, a land can become cursed with magic that warps any druid bound to that land. Twisted by their connection to an unhallowed territory, these guardians come to embody the defiled nature they serve, exalting the natural process of decay and using it to further their goals—or sometimes to seek a means to end the curse that plagues them.
 #### **Circle of Bond**<sup>UAH</sup>
 
 #### **Circle of Branch**<sup>UAH</sup>
