@@ -1046,15 +1046,19 @@ Druids of the Circle of Vermin, sometimes known as Vermin Lords, find their sour
 #### **Circle of the Wyrm**<sup>(VSS)</sup>
 Druids who join the Circle of the Wyrm hold dragons in higher esteem than all other works of creation. These druids believe, as many dragons do, that wyrms are perfect creatures: the pinnacle of all life brought into existence by the antediluvian gods. Likewise, these druids aspire to perfect wyrmhood, and gradually become like dragonkind. 
 #### **Circle of Twilight**<sup>(UA)</sup>
+The [[Circle of Twilight]] seeks to exterminate undead creatures and preserve the natural cycle of life and death that rules over the cosmos. Their magic allows them to manipulate the boundary between life and death, sending their foes to their final rest while keeping their allies from that fate.
 
-#### **Circle of the Seedling**<sup>(UA)</sup>
+These druids seek out lands that have been tainted by undeath. Such places are grim and foreboding. Once vibrant forests become gloomy, haunted places devoid of animals and filled with plants dying a slow, lingering death. The Circle of Twilight goes to such places to banish undeath and restore life.
+#### ~~**Circle of the Seedling**<sup>(UA)</sup>~~
 
 #### **Circle of Ash**<sup>(TOH)</sup>
+Druids of the Circle of Ash believe in the power of rebirth and resurrection, both physical and spiritual. The ash they take as their namesake is the result of burning and death, but it can fertilize the soil and help bring forth new life. For these druids, ash is the ultimate symbol of the elegant cycle of life and death that is the foundation of the natural world. Some such druids even use fresh ash to clean themselves, and the residue is often kept visible on their faces.
 
+Druids of this circle often use the phoenix as their symbol, an elemental creature that dies and is reborn from its own ashes. These druids aspire to the same purity and believe resurrection is possible if they are faithful to their beliefs. Others of this circle are drawn to volcanos and find volcanic eruptions and their resulting ash clouds to be auspicious events.
 #### **Circle of Bees**<sup>(TOH)</sup>
-
+Druids of the Circle of Bees are friends to all stinging insects but focus their attention on honeybees and other pollinating insects. When not adventuring, they tend hives, either created by the insects or by themselves. They tap into the horror inherent in stinging insects to protect their allies or the fields hosting their bee friends.
 #### **Circle of Crystals**<sup>(TOH)</sup>
-
+Circle of Crystals druids first arose in subterranean environments, where they helped tend giant crystal gardens, but now they can be found most anywhere with access to underground caverns or geothermal activity. These druids view crystals as a naturally occurring form of order and perfection, and they value the crystals’ slow growth cycle, as it reminds them the natural world moves gradually but eternally. This teaches young druids patience and assures elder druids their legacy will be carried on in each spire of crystal. As druids of this circle tend their crystals, they learn how to use the harmonic frequencies of different crystals to create a variety of effects, including storing magic.
 #### **Circle of Sand**<sup>(TOH)</sup>
 
 #### **Circle of The Green**<sup>(TOH)</sup>
