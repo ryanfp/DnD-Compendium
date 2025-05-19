@@ -998,75 +998,146 @@ Dragon knights who revere dark magic, or even strive to cause suffering in other
 #### **Garden Practice**
 Some dragons wage war, and others hoard treasure. Few, however, learn to cultivate and nurture the earth, becoming one with it. Dragon knights of the Garden Practice live simple lives with their dragons, and only heed the call of adventure if something precious to them is at stake.
 ## Druid
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
+*Druids revere nature above all, gaining their spells and other magical powers either from the force of nature itself or from a nature deity. Many druids pursue a mystic spirituality of transcendent union with nature rather than devotion to a divine entity, while others serve gods of wild nature, animals, or elemental forces. The ancient druidic traditions are sometimes called the Old Faith, in contrast to the worship of gods in temples and shrines.*
 
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
+*Druid spells are oriented toward nature and animals — the power of tooth and claw, of sun and moon, of fire and storm. Druids also gain the ability to take on animal forms, and some druids make a particular study of this practice, even to the point where they prefer animal form to their natural form.*
+
+*Whether calling on the elemental forces of nature or emulating the creatures of the animal world, druids are an embodiment of nature’s resilience, cunning, and fury. They claim no mastery over nature. Instead, they see themselves as extensions of nature’s indomitable will.* 
 
 ### <u>Subclasses - Druid Circles</u>
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
+*Though their organization is invisible to most outsiders, druids are part of a society that spans the land, ignoring political borders. All druids are nominally members of this druidic society, though some individuals are so isolated that they have never seen any high-ranking members of the society or participated in druidic gatherings. Druids recognize each other as brothers and sisters. Like creatures of the wilderness, however, druids sometimes compete with or even prey on each other.*
+
+*At a local scale, druids are organized into circles that share certain perspectives on nature, balance, and the way of the druid.*
 #### **Circle of the Land**
+The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle’s wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your magic is influenced by the land where you were initiated into the circle’s mysterious rites.
 #### **Circle of the Moon** 
+Druids of the Circle of the Moon are fierce guardians of the wilds. Their order gathers under the full moon to share news and trade warnings. They haunt the deepest parts of the wilderness, where they might go for weeks on end before crossing paths with another humanoid creature, let alone another druid.
+
+Changeable as the moon, a druid of this circle might prowl as a great cat one night, soar over the treetops as an eagle the next day, and crash through the undergrowth in bear form to drive off a trespassing monster. The wild is in the druid’s blood.
 #### **Circle of Dreams**
+Druids who are members of the Circle of Dreams hail from regions that have strong ties to the Feywild and its dreamlike realms. The druids’ guardianship of the natural world makes for a natural alliance between them and good-aligned fey. These druids seek to fill the world with dreamy wonder. Their magic mends wounds and brings joy to downcast hearts, and the realms they protect are gleaming, fruitful places, where dream and reality blur together and where the weary can find rest.
 #### **Circle of the Shepherd**
+Druids of the Circle of the Shepherd commune with the spirits of nature, especially the spirits of beasts and the fey, and call to those spirits for aid. These druids recognize that all living things play a role in the natural world, yet they focus on protecting animals and fey creatures that have difficulty defending themselves. Shepherds, as they are known, see such creatures as their charges. They ward off monsters that threaten them, rebuke hunters who kill more prey than necessary, and prevent civilization from encroaching on rare animal habitats and on sites sacred to the fey. Many of these druids are happiest far from cities and towns, content to spend their days in the company of animals and the fey creatures of the wilds.
 #### **Circle of Spores**
+Druids of the Circle of Spores find beauty in decay. They see within mold and other fungi the ability to transform lifeless material into abundant, albeit somewhat strange, life. These druids believe that life and death are parts of a grand cycle, with one leading to the other and then back again. Death isn’t the end of life, but instead a change of state that sees life shift into a new form.
+
+Druids of this circle have a complex relationship with the undead. They see nothing inherently wrong with undeath, which they consider to be a companion to life and death. But these druids believe that the natural cycle is healthiest when each segment of it is vibrant and changing. Undead that seek to replace all life with undeath, or that try to avoid passing to a final rest, violate the cycle and must be thwarted.
 #### **Circle of Stars**
+The Circle of Stars allows druids to draw on the power of starlight. These druids have tracked heavenly patterns since time immemorial, discovering secrets hidden amid the constellations. By revealing and understanding these secrets, the Circle of the Stars seeks to harness the powers of the cosmos.
+
+Many druids of this circle keep records of the constellations and the stars’ effects on the world. Some groups document these observations at megalithic sites, which serve as enigmatic libraries of lore. These repositories might take the form of stone circles, pyramids, petroglyphs, and underground temples—any construction durable enough to protect the circle’s sacred knowledge even against a great cataclysm.
 #### **Circle of Wildfire**
+Druids within the Circle of Wildfire understand that destruction is sometimes the precursor of creation, such as when a forest fire promotes later growth. These druids bond with a primal spirit that harbors both destructive and creative power, allowing the druids to create controlled flames that burn away one thing but give life to another.
 #### **Circle of the City**<sup>(VSS)</sup>
+The city lives; it has a pulse. It’s skin is of walls and towering stone structures, it’s breath of chimneys and rivers. While the city exists, it lives in harmony with it’s people, a delicate balance mediated by the urban druids. These urban druids belong to the Circle of the CIty and are a direct antithesis to the conventional idea of a druid; whereas a normal druid lives among majestic forests or breahttaking mountains and dresses in the greenery of the forest, an urban druid
 #### **Circle of the Deep**<sup>(VSS)</sup>
+
 #### **Circle of the Fist**<sup>(VSS)</sup>
+
 #### **Circle of Stones**<sup>(VSS)</sup>
+
 #### **Circle of Vermin**<sup>(VSS)</sup>
+
 #### **Circle of the Wyrm**<sup>(VSS)</sup>
+
 #### **Circle of Twilight**<sup>(UA)</sup>
+
 #### **Circle of the Seedling**<sup>(UA)</sup>
+
 #### **Circle of Ash**<sup>(TOH)</sup>
+
 #### **Circle of Bees**<sup>(TOH)</sup>
+
 #### **Circle of Crystals**<sup>(TOH)</sup>
+
 #### **Circle of Sand**<sup>(TOH)</sup>
+
 #### **Circle of The Green**<sup>(TOH)</sup>
+
 #### **Circle of The Shapeless**<sup>(TOH)</sup>
+
 #### **Circle of Wind**<sup>(TOH)</sup>
+
 #### **Circle of Bough**<sup>(TCEE)</sup>
+
 #### **Circle of the Coven**<sup>(TCEE)</sup>
+
 #### **Circle of the Dragonfriend**<sup>(TCEE)</sup>
+
 #### **Circle of Seafarers**<sup>(TCEE)</sup>
+
 #### **Circle of the Leaf**<sup>(ToV)</sup>
+
 #### **Circle of Visions**<sup>(FCG)</sup>
+
 #### **Circle of the Forged**<sup>(EE)</sup>
+
 #### **Circle of Blossoming**<sup>(ECHH)</sup>
+
 #### **Circle of Primeval Grove**<sup>(ECHH)</sup>
+
 #### **Circle of Crystals**<sup>(CCS)</sup>
+
 #### **Circle of Nightmares**<sup>(KT)</sup>
+
 #### **Circle of Aspects**<sup>(KT)</sup>
+
 #### **Circle of Elements**<sup>(KT)</sup>
+
 #### **Circle of Growth**<sup>(KT)</sup>
+
 #### **Circle of Roots**<sup>(KT)</sup>
+
 #### **Circle of the City**<sup>(KT)</sup>
+
 #### **Circle of the Grove**<sup>(KT)</sup>
+
 #### **Circle of the Sun**<sup>(KT)</sup>
+
 #### **Circle of The Wild**<sup>(KT)</sup>
+
 #### **Circle of Seasons**<sup>(XLNEE)</sup>
+
 #### **Circle of the Spiritlord**<sup>(XLNEE)</sup>
+
 ### Level Up: Advanced 5e
 #### **Circle of the Guardian**
+
 #### **Circle of the Skinchanger**
+
 #### **Circle of the Treespeaker**
+
 #### **Circle of Primal**<sup>(BoE)</sup>
+
 #### **Circle of the Hive**<sup>(HGMH)</sup>
+
 #### **Circle of the Unbroken**<sup>(TGS)</sup>
+
 #### **Circle of Dragons**<sup>(TGS)</sup>
+
 #### **Circle of Eclipse**<sup>(TGS)</sup>
+
 #### **Circle of the Storm**<sup>(TGS)</sup>
+
 #### **Circle of the Blighted**<sup>TDR</sup>
+
 #### **Circle of Bond**<sup>UAH</sup>
+
 #### **Circle of Branch**<sup>UAH</sup>
+
 #### **Circle of Cataclysm**<sup>UAH</sup>
+
 #### **Circle of Community**<sup>UAH</sup>
+
 #### **Circle of Spirit**<sup>UAH</sup>
+
 #### **Circle of Succulents**<sup>UAH</sup>
+
 #### **Circle of Petal**<sup>(OTG)</sup>
+
 #### **Circle of Contamination**<sup>(GTD)</sup>
+
 ## Evolutionist
 *Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
 
