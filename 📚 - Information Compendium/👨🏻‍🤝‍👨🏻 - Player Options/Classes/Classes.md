@@ -1165,109 +1165,216 @@ Those who channel the magic of life and nature often find themselves drawn to a 
 
 Whether through the subtle corruption of vile magics, the tainted presence of an ancient terror, or a terrible mistake unleashed by druids themselves, a land can become cursed with magic that warps any druid bound to that land. Twisted by their connection to an unhallowed territory, these guardians come to embody the defiled nature they serve, exalting the natural process of decay and using it to further their goals—or sometimes to seek a means to end the curse that plagues them.
 #### **Circle of Bond**<sup>UAH</sup>
-
+Ruids of the Circle of the Bond feel a greater connection to beasts than they do other sapient life. Many wish to eschew the complexities and complications of living within a society and interacting with hyumanoids for the quiet simpliciity offered by beasts, while others have experienced tragedy or betrayal at the hands of their peers, and seek comfort in an animal companion. Regardless of the reasons you joined this circle, you have formed a magical partnership with a beast, a deep bond that interlocks your minds and souls. 
 #### **Circle of Branch**<sup>UAH</sup>
-
+The Circle of the Branch is made up of sages and warriors who believe that the greatest wisdom is found in the stillness of plants, especially long-lived trees. Seeking to achieve a modicum o their groves’ enlightenment, these druids magically fuse bark from sacred trees into their flesh, assuming arboreal forms that they use to protect and learn from the ancient forests of the multiverse. Often referred to as barksleeves these defenders emphasize violence only in defense of self or of primordial grove, preferring the stillness of peace and mutual growth to the tragedy of cutting down something of great potential. 
 #### **Circle of Cataclysm**<sup>UAH</sup>
-
+Druids in the Circle of Cataclysm embody the most destructive manifestations of nature’s power. Channeling the untamed might of natural catastrophes such as earthquakes, tsunamis and volcanoes, these spellcasters destroy their enemies with none of the subtlety typical of druids. Members of this circle see themselves as agents of the end times, heralds of ruination, and deliverers of nature’s judgment. 
 #### **Circle of Community**<sup>UAH</sup>
-
-#### **Circle of Spirit**<sup>UAH</sup>
-
+Druids of this circle recognize communication and symbiotic relationships as the most powerful dforces in nature. Countless sapient species and monsters, each with their own tradition and culture, have achieved more than they might ever have through cooperation and community. It is this innate sense of togetherness that druids of this circle thrive on. A community is only as strong as its weakest link, and a Druid of Community makes it their goal to empower their companions to survive and thrive as one. 
+#### **Circle of the Spirit**<sup>UAH</sup>
+Druids of the Circle of the Spirit are the shamans and spirit-talkers of the Old Faith. While other druids turn their focus to the emulation of the natural world or beasts, shamans learn to commune with the spirits and ethereal beings that remain hidden from mortal senses. Not satisfied by merely peering into the invisible realm, shamans learn to call spirits from it, channeling their power and using it as their own. 
 #### **Circle of Succulents**<sup>UAH</sup>
-
+There is one goal for druids of the Circle of Succulents: survive. They don’t necessarily aim to defeat unnatural force sin the world, but rather to outlast them, as the toughest plants in nature commonly do. These druids typically hail from warmer climate, s where succulents are common. 
 #### **Circle of Petal**<sup>(OTG)</sup>
+In the tranquil groves where nature’s harmony sings loudest, there exists a circle of druids attuned to the delicate dance of petals upon the breeze. These druid guardians of the natural world, known as the Circle of the Petal, draw their power from the spirit of Obojima, the steady island breeze and the ephemeral beauty and resilience of flowers. Embracing these subtle powers, they harness the whispers of the wind and the gentle caress of petals to weave their enchantments and shape the world around them. 
 
+Members of the Circle of the Petal are revered for their deep connection to the sacred dawn petal tree and their ability to evoke its serene splendor in both peaceful sanctuaries and in dire situations. These druids become conduits of life energy, channeling the essence of blossoms into healing balms, protective barriers, and devastating bursts of floral fury. Guided by the eternal cycle of growth, bloom, and decay, they embody the ever-renewing vitality of nature, ensuring that even in the darkest of times, hope blossoms anew like petals on the wind.
 #### **Circle of Contamination**<sup>(GTD)</sup>
-
+As druids are often in tune with nature and the natural order, most see delirium as a scourge upon the world. However, a rare few see the truth: the eldritch stones are an essential part of the natural order, one which works at a cosmic scale. Druids of the Circle of Contamination use the blighted rocks and contaminating Haze as a conduit for supernatural evolution. They have embraced the chaotic power of Delirium as an extension of the inherent chaos in the natural order, spreading the Haze while wielding it as a powerful ally to fuel their spells.
 ## Evolutionist
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
+*Evolutionists are ambitious warriors; who rather than building their strength through practice and training, improve their natural talents by enhancing and upgrading their body. They reject the idea that they should play the hand they’re dealt, instead seeking to change the game. Where most accept the body they are given, evolutionists aim to control it and push it past its limits. Each evolutionist has different methods and motivations for upgrading their body, but they all are connected by one common goal: evolution. (**Source: Crystalpunk Campaign Setting**)*
 
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
+*Evolutionists are defined by their yearning to improve their bodies through methods that go beyond mere training. They achieve this through a variety of means, from inventive technology and alchemy to ancient magics or even pacts with otherworldly beings. No matter the method, an evolutionist begins to change and alter their form by augmenting their body or growing completely new appendages. These upgrades allow evolutionists to overpower their enemies, either through raw enhanced capability or through unique tactics enabled by their non-standard biology. Evolutionists live a life of continual growth, utilizing the abilities they gain to seek methods to enhance their bodies even further.* 
 
 ### <u>Subclasses - Evolutionary Methods</u>
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
-### *Crystalpunk Campaign Setting*
-#### **Method of Innovation**
-#### **Method of Mutation**
-#### **Method of Infusion**
-## Fighter
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
+*An evolutionist’s method is fundamental to their being—it is the vital gateway that allows them to modify their body and the path which sets them apart from others of their kind. An evolutionist’s method is a defining factor in their appearance, the source of their power, and thorough representation of their identity. Without an evolutionary method, one would not be an evolutionist.*
 
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
+#### **Method of Innovation**
+You personally manufacture the form you desire, which consists of constructed enhancements and fabricated body parts. While most evolutionists of this method enhance themselves with intricate, magical technology, some prefer to instead use earthen, elemental augmentations or stitched pieces of monsters. Regardless, evolutionists of this method are resilient and innovative. They constantly tinker, repair, and fine tune themselves, continually  building towards something greater.
+#### **Method of Mutation**
+Your body is greatly mutated: flesh morphed, resized,  and reconfigured. Parts grown, and possibly changed  in color. These mutations could be included through a vile practice of alchemy, a powerful curse, or a symbiotic relationship with a parasitic creature. No matter the method, these evolutionists live on the edge—constantly pushing their body to its limit. When they modify themselves, their bodies undergo chaotic, potent transformations that push the boundaries of their psyche.
+#### **Method of Infusion**
+Your form is intensely magical—infused within you is the power of pure arcana. You weave this power to shape magical, iridescent enhancements— translucent limbs, lustrous, glowing eyes, or even tattoo-like augmentations that wrap around your body. You could have received this power at birth, or it might have been imbued within you at some point in your life. Perhaps a higher being granted you such power. No matter its origin, its your process that allows for your enhancements—as you weave your body in the same way that a mage weaves their spells.
+## Fighter
+*Fighters learn the basics of all combat styles. Every fighter can swing an axe, fence with a rapier, wield a longsword or a greatsword, use a bow, and even trap foes in a net with some degree of skill. Likewise, a fighter is adept with shields and every form of armor. Beyond that basic degree of familiarity, each fighter specializes in a certain style of combat. Some concentrate on archery, some on fighting with two weapons at once, and some on augmenting their martial skills with magic. This combination of broad general ability and extensive specialization makes fighters superior combatants on battlefields and in dungeons alike.*
+
+*Not everyone who can tell you which end of a sword to hold is a fighter: that title is reserved for the trained guards, valiant knights, and masterful veterans of the world, and apart from their shared expertise with weapons, armor, and combat, few two fighters are exactly the same. Fighters are focused on the honing of their skill in combat, adapting to the settings around them and developing new solutions to the challenges they face. Some choose to focus on the mastery of one particular weapon or develop keen tactical skill, whereas others rely on clever magical forces to enhance their martial prowess. Beyond that, weapon and armor preference play a significant part in determining a fighter’s role. When you are a fighter, you’re equipped to face the world’s dangers head-on.* 
 
 ### <u>Subclasses - Martial Archetypes</u>
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
+*Questing knights, conquering overlords, royal champions, elite foot soldiers, hardened mercenaries, and bandit kings — as fighters, they all share an unparalleled mastery with weapons and armor, and a thorough knowledge of the skills of combat. And they are well acquainted with death, both meting it out and staring it defiantly in the face. Different fighters choose different approaches to perfecting their fighting prowess. The martial archetype you choose to emulate reflects your approach.*
 #### **Champion**
+The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows.
 #### **Battle Master**
+Those who emulate the archetypal Battle Master employ martial techniques passed down through generations. To a Battle Master, combat is an academic field, sometimes including subjects beyond battle such as weaponsmithing and calligraphy. Not every fighter absorbs the lessons of history, theory, and artistry that are reflected in the Battle Master archetype, but those who do are well-rounded fighters of great skill and knowledge.
 #### **Eldritch Knight**
+The archetypal Eldritch Knight combines the martial mastery common to all fighters with a careful study of magic. Eldritch Knights use magical techniques similar to those practiced by wizards. They focus their study on two of the eight schools of magic: abjuration and evocation. Abjuration spells grant an Eldritch Knight additional protection in battle, and evocation spells deal damage to many foes at once, extending the fighter’s reach in combat. These knights learn a comparatively small number of spells, committing them to memory instead of keeping them in a spellbook.
 #### **Arcane Archer**
+An Arcane Archer studies a unique elven method of archery that weaves magic into attacks to produce supernatural effects. Arcane Archers are some of the most elite warriors among the elves. They stand watch over the fringes of elven domains, keeping a keen eye out for trespassers and using magic-infused arrows to defeat monsters and invaders before they can reach elven settlements. Over the centuries, the methods of these elf archers have been learned by members of other races who can also balance arcane aptitude with archery.
 #### **Cavalier**
+The archetypal Cavalier excels at mounted combat. Usually born among the nobility and raised at court, a Cavalier is equally at home leading a cavalry charge or exchanging repartee at a state dinner. Cavaliers also learn how to guard those in their charge from harm, often serving as the protectors of their superiors and of the weak. Compelled to right wrongs or earn prestige, many of these fighters leave their lives of comfort to embark on glorious adventure.
 #### **Samurai**
+The Samurai is a fighter who draws on an implacable fighting spirit to overcome enemies. A Samurai’s resolve is nearly unbreakable, and the enemies in a Samurai’s path have two choices: yield or die fighting.
 #### **Psi Warrior**
+Awake to the psionic power within, a Psi Warrior is a fighter who augments their physical might with psi-infused weapon strikes, telekinetic lashes, and barriers of mental force. Many githyanki train to become such warriors, as do some of the most disciplined high elves. In the world of Eberron, many young kalashtar dream of becoming Psi Warriors.
+
+As a Psi Warrior, you might have honed your psionic abilities through solo discipline, unlocked it under the tutelage of a master, or refined it at an academy dedicated to wielding the mind’s power as both weapon and shield.
 #### **Rune Knight**
+Rune Knights enhance their martial prowess using the supernatural power of runes, an ancient practice that originated with giants. Rune cutters can be found among any family of giants, and you likely learned your methods first or second hand from such a mystical artisan. Whether you found the giant’s work carved into a hill or cave, learned of the runes from a sage, or met the giant in person, you studied the giant’s craft and learned how to apply magic runes to empower your equipment.
 #### **Echo Knight**
+A mysterious and feared frontline warrior of the Kryn Dynasty, the Echo Knight has mastered the art of using dunamis to summon the fading shades of unrealized timelines to aid them in battle. Surrounded by echoes of their own might, they charge into the fray as a cycling swarm of shadows and strikes.
 #### **Purple Dragon Knight**
+Purple Dragon knights are warriors who hail from the kingdom of Cormyr. Pledged to protect the crown, they take the fight against evil beyond their kingdom’s borders. They are tasked with wandering the land as knights errant, relying on their judgment, bravery, and fidelity to the code of chivalry to guide them in defeating evildoers.
+
+A Purple Dragon knight inspires greatness in others by committing brave deeds in battle. The mere presence of a knight in a hamlet is enough to cause some orcs and bandits to seek easier prey. A lone knight is a skilled warrior, but a knight leading a band of allies can transform even the most poorly equipped militia into a ferocious war band.
 #### **Bone Knight**<sup>(VSS)</sup>
+
 #### **Brawler**<sup>(VSS)</sup>
+
 #### **Celestial Lancer**<sup>(VSS)</sup>
+
 #### **Corsair**<sup>(VSS)</sup>
+
 #### **Dungeoneer**<sup>(VSS)</sup>
+
 #### **Mage Hand Magus**<sup>(VSS)</sup>
+
 #### **Scout**<sup>(UA)</sup>
+
 #### **Monster Hunter**<sup>(UA)</sup>
+
 #### **Brute**<sup>(UA)</sup>
+
 #### **Blood Knight**<sup>(UA)</sup>
+
 #### **Arcane Marksman (AA Revision)**<sup>(UA)</sup>
+
 #### **Buccaneer**<sup>(TOH)</sup>
+Honing their martial skills in fierce ship-to-ship combat, buccaneers become skilled in both gun and blade, able to lay out opponents with savage shots, while resisting the worst that can be thrown at them.
 #### **Chaplain**<sup>(TOH)</sup>
+Militaries and mercenary companies often contain members of various clergies among their ranks. These chaplains typically come from religious sects whose tenets promote war, healing, peace, protection, or freedom, and they tend to the emotional and physical well-being of their charges. In the eyes of your companions, you are as much a counselor and spiritual leader as you are a fellow warrior.
 #### **Legionary**<sup>(TOH)</sup>
-#### **Pugilist**<sup>(TOH)</sup>
+A legionary follows the techniques of close-quarters combat developed by soldiers fighting shoulder to shoulder with their allies. This style of fighting spread far and wide, finding an honored place among the armies and mercenary companies of other races. True legionaries scoff at the image of the storybook hero standing alone against impossible odds, knowing together they can face any danger and emerge victorious.
+#### ~~**Pugilist**<sup>(TOH)</sup>~~
+~~Pugilists live by their fists, bare-knuckle warriors~~
+~~who do not hesitate to throw hands if the situation~~
+~~demands it. They know the intense, close, violent~~
+~~intimacy of melee, and they operate unapologetically~~
+~~in that space. Whether in fighting pits by the docks~~
+~~to make some extra coin, in the king’s grand arena~~
+~~as champions of quarreling nobles, or in the employ~~
+~~of local merchants in need of seemingly weaponless~~
+~~guards, pugilists can be found in all rungs of society.~~
+~~Pugilists take pleasure in a battle hard won and thrill~~
+~~in the energy of the fight rather than in a kill. They~~
+~~can often be found celebrating or having drinks with~~
+~~a former opponent hours after the fight, regardless of~~
+~~the bout’s winner.~~
 #### **Radiant Pikeman**<sup>(TOH)</sup>
+You were a member of an order of knights dedicated to a deity of sun and light. You know that next to your deity’s favor, a soldier’s greatest strength is their comrades. You wield a spear, glaive, halberd, or other polearm as a piercing ray of sunlight against your enemies.
 #### **Timeblade**<sup>(TOH)</sup>
+There are warriors who move so quickly that they seem to stop time, then there are those who actually alter time with their attacks. The timeblade augments physical attacks by manipulating temporal powers and eventually learns to step outside time itself.
 #### **Tunnel Watcher**<sup>(TOH)</sup>
+For untold ages, the dwarves have paid in blood to keep their subterranean homes safe. The keystone to the defense of the dwarven citadels are the tunnel watchers, warriors trained in the tight, uneven paths beneath the surface of the world. While the techniques of the tunnel watchers originated with the dwarves, others see the value in such specialization. Tunnel watchers can thus be found throughout the mountainous regions of the world.
 #### **Bodyguard**<sup>(TCEE)</sup>
+Bodyguards are highly skilled fighters that hone their skills and reflexes to recognize and react to threats swiftly, warn others of danger, and if necessary, put themselves in harms way to protect their charges. 
+
+Anyone with the unflinching devotion to protect their allies can excel as a bodyguard. In the Forgotten Realms, the Masked Lords of Waterdeep often secure the services of bodyguards, as do many wealthy merchants traveling up and down the Sword Coast. In Eberron, the most famed and respected bodyguards in the Five Nations belong to House Deneith’s Defenders Guild, followed closely by distinguished members of House Medani’s Warning Guild.
 #### **Fencer**<sup>(TCEE)</sup>
+Fencers are highly skilled duelists and swordmasters. These quick-footed warriors forego the usual heavy armor that most fighters wear, in favor of unfettered movement and flexibility. Fencers have a flair for style and panache, and usually seize victory with a cunningly precise strike that leaves their foes baffled, and shortly thereafter, bleeding. 
+
+Some fencers are rumored to be unsavory rakes and scoundrels, while many others are featured in songs and chronicles as heroes with a bold and audacious air. Some of these seedy rumors and heroic retellings might actually refer to the same person!
 #### **Phoenix Knight**<sup>(TCEE)</sup>
+A Phoenix Knight has looked into myth and drawn inspiration from it. They have a burning passion for combat and protecting those closest to them. Through intense training and careful practice, they have learned how to channel this inner fire into something tangible. 
+
+These fighters know how to harness their fire in order to retaliate against foes and heal friends. As their mastery grows, they can cauterize wounds with their flames and even emit powerful waves of heat. 
+
+Those who mimic a phoenix have a fondness for flame and warmth. They relish sunlight and bonfires. They sometimes find themselves staring into fire, imagining enemies igniting and the wounds of allies cauterizing within the popping embers and dancing flames. Sometimes, if they stare hard enough, they can almost see feathers amid the ashes.
 #### **Scrapper**<sup>(TCEE)</sup>
+Some fighters hone their combat skills through sheer discipline and endless hours of training. They study tactics and techniques developed by time-honored experts in the art of war, and aspire to join their ranks. You are not one of those fighters. Scrappers learn to defend themselves on the street and in the tavern, fighting dirty and grabbing whatever’s at hand for a weapon. They’re probably grinning the whole time, too, except for when they’re spitting out teeth.
 #### **Scofflaw**<sup>(HWD)</sup>
+A fighter who hits hard and fights dirty, the Scofflaw balks at the ideals of honor and tradition, doing what they need to survive. Rules are made to be broken, and the Scofflaw extends this logic to their fighting style. Using every trick at their disposal to gain the upper hand against their foes, the Scoff- law cows their enemy into submission, or overwhelms their defenses with a single cheap shot. 
+
+Scofflaws eventually trust their notorious reputation to do much of the work for them, gaining the ability to cause foes to quake with a single threat. Scofflaws are a diverse bunch that run the gamut from graceful yet deadly knaves to bruiser thugs. What ties them together is their belief that there’s no such thing as a bad win.
 #### **Court Guard**<sup>(FCG)</sup>
+The Court Guard employs the supernatural gifts of their regal benefactors to protect their charges. Whether their benefactor is a court of fey, fiends, or celestials, the court guard uses the training received from other realms to mold their fighting style. The court guard draws the attention of foes on the battlefield and debilitates enemies using these supernatural gifts.
 #### **Phylax**<sup>(ECHH)</sup>
+In a land of larger than life heroes, whose exploits are praised in song in every mead hall across the land, one should never underestimate the disciplined line fighter. A phylax is among the best of line fighters whose experience has allowed them to become a master of tactics as well. Driven by discipline, duty, and a keen understanding, they know that their shield and the soldier next to them are what will turn the tide of a battle, not individual heroics.
 #### **Myrmidon**<sup>(ECHH)</sup>
+Who is the mightiest warrior? A fighter who is quick with a blade? A commander who can rally the troops and lead an army to victory? A pious knight? No, the warrior who wields not blade, wits, or magic but a hero’s soul will al- ways prevail. Relentlessly fighting for glory, capable of perfectly adapting to any situation, always pushing onwards, a myrmidon decides their own fate. Others can squabble over the reasons why they failed, comparing training and styles, blaming each other as well as themselves, while the myrmidon never loses sight of the real prize: living on forever through deeds that echo through eternity.
 #### **Weaponforger**<sup>(CCS)</sup>
+Fighters of the Weaponforger Archetype are specially trained in modifying weapons to unlock their full potential. Their attacks are furious, yet calculated, and are enhanced with a variety of powerful arcane bursts. Often soldiers on the front line, these versatile warriors keep an arsenal of different weapons, ready for anything they might face.
 #### **Tech Knight**<sup>(KT)</sup>
+A Tech Knight believes that it is neither brains nor brawn that determine the best fighter, but the combination thereof. Why limit yourself to what nature has provided you when you can supplement your combat superiority in unique and inventive ways that give you the edge? You build and innovate on the cutting edge... and use that edge to hew through your foes. There are few things more dangerous than weaponized creativity in the hands of someone that knows how to use it. 
+
+A Tech Knight could be called an inventor that opened the door of innovation, found the deadliest thing they could invent, and closed it once more, but that wouldn’t be accurate. They innovate continuously, improving their art, just with a highly specialized focus. Some perhaps adventure and fight to test their weapons, others perhaps turned to innovation to overcome some obstacle or seek to change the world, and others still care little for the science and engineering of the weapon, and merely cobbled together something to annihilate their foes.
 #### **Adventurer**<sup>(KT)</sup>
+An adventurer is a well rounded fighter that specializes in preparation. They are resourceful survivors that excel at tackling a wide range of situations with preparation. They are generalists who are always useful to have around. They come from any walk of life, sharing only a spirit of adventure and knack for being useful.
 #### **Brawler**<sup>(KT)</sup>
+A brawler is a fighter that takes a holistic approach to beating things down. They are not the specialized martial artists of monks, but can throw a punch... or a chair. They specialize in being resourceful and, more importantly, strong. Ranging from brutish thugs and drunks to witty chaps who had to learn to wag their fists as fast as their tongue to keep their head on their shoulders. 
+
+A brawler is always armed and dangerous, and isn’t above using a weapon if it’s the handiest way to bash something; they just don’t view themselves as limited to traditional options.
 #### **Champion Revised**<sup>(KT)</sup>
+Champions strive for perfection—exemplars of form and fitness, they represent masters of straightforward martial prowess.
 #### **Crusader**<sup>(KT)</sup>
+Crusaders are fighters that serve a faith, often zealously so. They may be directly in the service of god, belong to an order of some kind, or have taken up a more personal cause. They wield powers that let them protect themselves from the evils of their foes and purge that which defies them. Some see them as similar to Paladins, but mistaking them for one can be a fatal mistake, as Crusaders are not restrained by an oath: enacting the will of the higher power they serve without such fetters.
 #### **Spiritsworn**<sup>(KT)</sup>
+A Spiritsworn fighter is one that masters their martial prowess in tandem with a special spirit weapon, forming an unbreakable bond of shared growth and becoming a peerless martial team.
 #### **Green Knight**<sup>(KT)</sup>
+The Green Knight is a fighter who draws on the power of nature to imbue their attacks with the strength of the earth itself. They are fierce defenders of the natural world, sworn to protect it at all costs.
 #### **Runeguard**<sup>(XLNEE)</sup>
+The runeguard seeks the magical power within ancient languages, and to hasten the speed of their blade and strengthen of their armor by imbuing them with the power of these runes.
 ### Level Up: Advanced 5e
+
 #### **Brute**
+
 #### **Duelist**
+
 #### **Gladiator**
+
 #### **Knight**
+
 #### **Sharpshooter**
+
 #### **Bestiarius**<sup>(BoE)</sup>
+Bestiarii are gladiators that specialize in fighting the fiercest beasts the arena has to offer. With a flair for the dramatic and instincts honed against apex predators, Bestiarii ensure not only a victorious fight, but an entertaining one. A Bestiarius might fight for glory, honor, or even the freedom of the very beasts they once opposed.
 #### **Timeless Monumental**<sup>(CFSA)</sup>
+
 #### **Discordant**<sup>(CFSA)</sup>
+
 #### **Tavern Brawler**<sup>(LAL)</sup>
+The taste of ale-soaked floorboards is a familiar flavor to Tavern Brawlers. Whether they’ve been thrown to the ground in a glorious takedown, blocked an improvised weapon with their teeth, or tackled a foe into a pile of flailing limbs, Tavern Brawlers cherish the memory of every scuffle that hasn’t been knocked out of their brains. 
+Though most inns and pubs decry barroom brawls as unnecessarily damaging and expensive affairs, celebrated carpenter and philosopher Lottaw Ood proposed that without the constant kerfuffles, woodworkers and the entire lumber industry might collapse. In fact, more shrewd carpentry guilds have opened “Brawl-Inns”; taverns with dedicated brawling areas and a microtransaction economy that encourages fighters to purchase chairs with which to clout their fellow patrons.
 #### **Couatl Herald**<sup>(TGS)</sup>
+The Couatl Heralds were, or are, martial warriors whose intention was to neutralize threats without always resorting to deadly force. These combatants were a beloved symbol of peace in the once great city of Hearth, whose terrible destruction has been all but entirely lost to history. Perhaps you come from a long line of sequestered heralds who had escaped the city before its collapse, or maybe you found the age-old journals of one of the city’s training officers. Regard- less of how you come across this knowledge, training, and virtue, a true Couatl Herald defends the lives of all: regard- less of their transgressions.
 #### **Steel Hawk**<sup>(TGS)</sup>
+Powerful, nimble soldiers from the mountain city of Heavensteppe, Steel Hawks use explosive bursts of speed to launch themselves great distances in order to reach faraway threats. Despite their often heavy armor, those who follow this archetype leap and strike with the agility of seasoned assassins, becoming every inch the fearsome birds of prey their name would suggest.
 #### **Meteor Knight**<sup>(TGS)</sup>
+Meteor knights can exercise a limited degree of control over the gravity around them. These fighters command a growing collection of missiles and other debris that float around them, using it to mercilessly pelt targets beyond their reach or launch veritable hailstorms of meteorites. While a meteor knight’s abilities are magical in nature, such powers are often manifested from a connection to the astral sea rather than from arcane study. Knights of the highest order, or those who fill the role of leader in their community, may sometimes be referred to as Lode Stars.
 #### **Shadow Knight**<sup>(TGS)</sup>
+Fighters touched by the plane of shadow itself reign supreme in the dark. These warriors, called Shadow Knights, cloak themselves in darkness to become elusive phantoms on the battlefield. With each strike, they unleash the dark and chilling powers of the realm of shadow, sowing fear and uncertainty in the hearts of their enemies. While evil often thrives in darkness, Shadow Knights have no singular motivation, and simply use the powers of darkness as they would a sword or shield.
 #### **Sea Captain**<sup>E</sup>
+
 #### **Armiger**<sup>UAH</sup>
+
 #### **Combat Medic**<sup>UAH</sup>
+
 #### **Crusader**<sup>UAH</sup>
+
 #### **Gladiator**<sup>UAH</sup>
+
 #### **Gunslinger**<sup>UAH</sup>
+
 #### **Seafarer**<sup>UAH</sup>
+
 #### **The Spirit Fused**<sup>(OTG)</sup>
+Those who take on the moniker of a spirit-fused fighter do not normally do so by choice but rather by circum- stance. Because to become a spirit-fused fighter, you must first become the vessel of a dying spirit, a task that can’t be accomplished by choice, as no one truly understands how or why this occurs. 
+
+All that is known is that the spirit's mind and body have passed on, and its essence now coexists within the fighter, granting them abilities beyond the capability of a normal spirit. Those who can harness this power can channel the latent energy into objects, which produce a magical quirk or powerful attacks. These arcane tricks are how these unconventional warriors fight and are the reason they have garnered so much attention and interest on the island.
 #### **Commander**<sup>(GTD)</sup>
+Between the nations of Westemär, Elyria, and Caspia there have been countless wars fought. Many great knights, valiant soldiers, and powerful combatants have tested their mettle against man and monster alike. Amongst the brave there are always those who are born to lead, and the Commander is just that. They stand at the front of battle, uniting their allies and leading the charge against their enemies.
 ## Gunslinger or gunfighter MCDX
 *Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
 
