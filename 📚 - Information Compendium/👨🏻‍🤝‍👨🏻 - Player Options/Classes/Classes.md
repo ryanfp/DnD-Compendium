@@ -1385,13 +1385,14 @@ All that is known is that the spirit's mind and body have passed on, and its ess
 Between the nations of Westemär, Elyria, and Caspia there have been countless wars fought. Many great knights, valiant soldiers, and powerful combatants have tested their mettle against man and monster alike. Amongst the brave there are always those who are born to lead, and the Commander is just that. They stand at the front of battle, uniting their allies and leading the charge against their enemies.
 ## Gunslinger or gunfighter MCDX
 Use VSS but keep gun building from ZGTTEOT and Maybe also transfer Moxie from ZGT?
-Lvl 10
+Lvl 13 and 14
 
 Quickdraw lvl 6 skill
 HA GS lvl 5 skill lock n load and proficiency versatility
 Lvl 11
+Lvl 18
 
-
+Mesh skills into gunslinger’s trance featre? Like use deadeye improvement from ha-gs and mix it with others? Replace VSS lvl 15 skill? Move lvl 18 to 15 and then replace 18
 
 *Risk is in a gunslinger's blood. They are bold renegades, bucking tradition and forging a new path with dangerous and inelegant firearms. Gunslingers are infamous for surviving by their wits, relying on split-second timing and a considerable amount of luck to survive.*
 
@@ -1403,57 +1404,83 @@ Lvl 11
 
 ### *Valda’s Spire of Secrets*
 #### **Gun Tank Creed**
+Be bigger, be badder, and be tougher, and no man will stand in your way. You are a living siege engine, a titan of muscle, brandishing weapons most men are incapable of lifting. Armed with these devastating firearms, you wade into the field of battle, bombarding and destroying those foolish enough to approach you.
 #### **Gun-Ko Master Creed**
+The ancient art of gun-ko is passed through generations of gunslingers who study the gun as a perfect weapon and meditate on its intricacies. This path is not for the impatient or the faint of heart, but those who practice it diligently make their guns an extension of themselves, learning to strike with the speed of a rifle and catch bullets out of the air.
 #### **High Roller Creed**
+Fortune is a fickle thing—unless you're a high roller. These gunslingers are master card sharps and dice throwers that mix their love of risk with their talent for gunplay. High rollers push their luck until it runs out, then push harder. Why settle for just a win when you could bet it all and win big?
 #### **Musketeer Creed**
+You believe that camaraderie and glory go hand-in-hand, that you and your allies are undefeatable as long as you stand together. As such, you have trained with blades and halberds, so that you battle up close and personal. Your place is not supporting them from afar, but launching a single volley of shot before charging in, bayonet or cutlass in hand, that you might all succeed or fail as one. 
 #### **Pistolero Creed**
+Bullets are power, and you have long believed that more bullets equal more power. Your expertise is in delivering a hail of deadly fire to pulverize your enemies. Not every bullet needs to be accurate to make a difference.
 #### **Sharpshooter Creed**
+A well-placed bullet is more powerful than a sword, arrow, or spell. Indeed, you believe that every violent conflict should sound like a single loud crack followed by a long silence. Such shots need to be delivered perfectly, even at range, for when they are done right, they are as deadly for the target as they are stupendous for the audience.
 #### **Spellslinger Creed**
+Magic and guns aren't so different. If arcane power is like gunpowder and a spell is like a bullet, you are like a gun, directing your spells with precision at unfortunate targets. You mix the disciplines of gun and spell, sometimes loading arcane charges with your shots and firing streaks of lighting, frost, or flame in the wake of your bullet.
 #### **Trick Shot Creed**
+Accuracy means different things to different people. For you, true accuracy isn't necessarily in hitting a target on the first shot, but might include hitting the mark after the bullet bounces around a dozen times. Your attacks are just as dangerous if they miss, or even after hitting their mark, as others' are while they're still in the air.
 #### **White Hat Creed**
-## Herald
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
+Some gunslingers live by a code and expect others to do the same. These gunslingers, known as white hats, sometimes serve as agents of local or regional law but never hesitate to do what's right no matter what the rules say. Despite their affinity for deadly weapons, white hats prefer to keep their friends safe and take their enemies in unharmed—a preference they find their enemies aren't often inclined to oblige.
+## ~~Herald~~
+~~*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*~~
 
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
+~~*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.*~~ 
 
-### <u>Subclasses - Blood Hunter Orders</u>
+### ~~<u>Subclasses - Blood Hunter Orders</u>~~
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
-### *Level Up: Advanced 5e*
-Green Knight
-Holy Champion
-Inquisitor
+~~*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*~~
+### ~~*Level Up: Advanced 5e*~~
+~~Green Knight~~
+~~Holy Champion~~
+~~Inquisitor~~
 ## Investigator
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
+*There are forces more ancient than time, foes more sinister than the foulest men, and beings more titanic than gods. The world stands at a precipice of woe and terror, being threatened nightly by dark agents and hordes of monsters. At risk to their own lives and sanities, investigators penetrate the evil that creeps in the shadows and banish it from the world. Their battles are never-ending, for victory only delays doomsday another night.*
 
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
+*Investigators track supernatural threats ranging from incorporeal spirits, to nefarious vampires and lycanthropes, to incursions of demons and devils. Often in their investigations, they often uncover secret cults and maligned individuals who bring these supernatural threats to bear. It is always their goal to impede these evildoers by any means necessary, resorting to trickery, guile, magic, and bloodshed when necessary. To an investigator, no tactic is unthinkable when the world is at stake.*
+
+*Even as they strive to contain its influence from the world at large, investigators dabble in forbidden magic to give themselves an edge against supernatural threats. Prepared investigators keep a well-stocked grimoire of magical secrets, containing rituals, incantations, notes on monsters' powers and weaknesses, recipes for poisons, and arcane diagrams—everything needed to confront their foes on an even footing. Even so, an investigator's occupation is perilous. A grimoire might spell out a vampire's fear of sunlight and aversion to silver, but it does little to hinder their fangs.* 
 
 ### <u>Subclasses - Occult Specializations</u>
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
-### *Valda’s Spire of Secrets*
-#### **Antiquarian Specialization**
-#### **Archivist Specialization**
-#### **Detective Specialization**
-#### **Exterminator Specialization**
-#### **Inquisitor Specialization**
-#### **Medium Specialization**
-#### **Occultist Specialization**
-#### **Spy Specialization**
-## Justiciar
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
+*Investigators of all stripes share thee broad goal of combating the occult, but their methods vary wildly. Some emphasize cutting down monsters and banishing demons, while others believe that uncovering secrets and compiling critical information is the surest method for eliminating supernatural threats. When an investigator gains enough experience, they can steer their approach, including their specific techniques they employ, and the trinkets they carry, into an occult specialization — a school of thought for handling eldritch threats.*
 
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
+#### **Antiquarian Specialization**
+Festooned with magical trinkets from every corner of the globe, antiquarians have a tool for every occasion: silver arrowheads for lycanthropes, heartwood stakes for vampires, blessed relics for fiends, and so on. As they expand their collections from piles of trinkets to veritable museums, they become adept historians and arcanists, familiar with the story of every magic item their care, as well how to use them in dire situations.
+#### **Archivist Specialization**
+Though most investigators fill their grimoires with hard-won knowledge borne from encounters with the supernatural threats, some prefer to do bookkeeping instead. Such archivists accrue knowledge, not trinkets, by spending untold hours digging through disparate tomes of occult knowledge and compiling them into encyclopedic texts on the supernatural. Through their research, archivists become academic masters of the arcane, and priceless reservoirs of obscure knowledge.
+#### **Detective Specialization**
+Prowling at the edge of darkness, detectives chase down clues and pull on threads to unravel conspiracies which bring darkness into the world. Sometimes, this requires that you infiltrate a cult's secret meetings, other times it calls on you to reconstruct a man's last moments at a murder scene, but no matter what the mystery, you know that there is always an explanation.
+#### **Exterminator Specialization**
+An exterminator suffers no monster to live. Trained in the art of slaying aberrations, fiends, and undead, you stand against evil where others falter, and draw your blade before others recognize a threat. Grand schemes and plots are less important than retribution against those monsters which stalk the night, and your thirst for such retribution is unquenchable. There is always another werewolf to be slain, another vampire to be staked, another demon to be banished; people rarely thank you, but you find satisfaction enough in your work.
+#### **Inquisitor Specialization**
+The church has long been the first line of defense against the tide of impending darkness. Yet, the clergy's stubborn devotion to righteousness impedes them where it counts: you must sometimes be willing to do evil to counter evil. That's where the inquisition comes in.
+
+As a righteous inquisitor of the faith, you are tasked with rooting out heresy, exorcising demons, and stamping out any sign of the occult, and are offered clemency for any action you take in the defense of the greater good. You may investigate anyone or anything you deem to be in line with the forces of evil, for you alone are a holy blade in the dark, the arbiter of your church.
+#### **Medium Specialization**
+As conduits between the living and dead, mediums offer an essential glimpse past the veil of mortality. Using their auguries, seances, and divinations, mediums can retrieve morsels of information from the afterlife to settle debts with the living or and assist ongoing investigations. This information, however cryptic, can point an interested party toward clues or evidence which only the deceased might be able to provide.
+#### **Occultist Specialization**
+Vampires, demons, lycanthropes, and aberrations all have one thing in common: they are all magical threats, best combated through magical means. To meet these foes on a level playing field, occultists indulge in arcana, filling their grimoires with magical secrets and mastering a handful of spells. Occultists are the most likely investigators to cavort with warlocks, borrow tricks from wizards and magicians, and dabble in dark magic to defeat their foes.
+#### **Spy Specialization**
+Infiltration, disguise, and lying through their teeth: these are the principle skills of a spy. A talented spy rarely ever needs to draw a dagger to silence someone, for their honeyed words and agreeable disposition are all that is needed to draw out someone's secrets. Of course, when they do strike, it is decisively and without warning. Such skills are invaluable for governments and organizations of all varieties, for stealing confidential information, sabotage, monitoring persons of interest, and everything in between.
+## Justiciar
+*Justiciars are a unique mix of soldier and lawyer. They serve the Arcane Court, an independent, nation-neutral magical law agency whose jurisdiction is spellcasters and magical beings. These arcane law officers spend years in study and training to reach peak physical, mental, and magical conditioning, and it shows when you run afoul of them.(**Source: DM’s Guild**)*
+
+*Every justiciar is an officer of the Arcane Court, but begins life in the organization as a mere student, learning all manner of minutiae in not only magical law, but the strengths and weaknesses of all manner of magical creatures she can expect to encounter in the outer world. After passing extensive tests on these materials, the student advances to martial training, applying her knowledge of all manner of creatures to practical applications of how to subdue and slay them, and learning in what situations it is appropriate to do either. Only after completing long years of both these trainings is a student adopted into the Arcane Court as an apprentice, a role in which she is allowed to journey into the wide world as a representative of the Court, and begin practicing a justiciar’s unique style of arcane pursuits.* 
 
 ### <u>Subclasses - Court Divisions</u>
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
-### *Assorted Homebrew*
+*The Arcane Court acts as an independent law-enforcement, court, and correctional system for magic users and magical entities. The organization’s general neutrality serves to make it a trusted body by most nations, despite it having no alliance or ties to anyone. The Court is broken into several divisions that each serve a purpose within its judiciary system, the members of which are each trained in martial combat and battle magic, in addition to the scripts of law, in case justice needs to be dispensed on the road. Most of the Court’s work involves sending individual justiciars to wander the planes and prevent otherwise unreported crimes. Certain matters, however, require that a creature be brought back to face trial in one of the Court’s headquarters. Such creatures are offered two choices of trial: judgment in court by a high-ranking justiciar who has been distinguished with the rank of Judge, or a trial by combat.*
+
 #### **Defense Division**
+This division’s primary responsibility is to represent accused creatures in trials presided over by a Judge. They can also be hired by expeditions to act as escorts and protectors.
 #### **Enforcement Division**
+This division’s primary responsibility is the tracking and subdual of wanted criminals, and the investigation of crime scenes. They can also be hired as private detectives to locate and retrieve missing persons and objects.
 #### **Execution Division**
+This division’s primary responsibility is to execute creatures found guilty by a Judge, creatures whom the Judge believes are incapable of reformation. Though a justiciar of any division can be called upon to take part in a trial by combat, members of this division are most likely to receive the order. They can also be hired to slay creatures that are plaguing settlements.
 #### **Prosecution Division**
+This division’s primary responsibility is the investigation and prosecution of accused creatures in trials presided over by a Judge. They can also be hired by local governments and groups to mediate disputes and explore unknown areas.
 #### **Reformation Division**
+This division’s primary responsibility is to oversee the correction of prisoners a Judge has determined can be reformed. They most often do so by magically linking with the creature and showing them the correct behaviors by having the creature fight alongside them as an ally. They can also be hired to capture and transport problematic individuals.
 ## Magus
 *Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.* Either LaserLlama or DM Guild
 
