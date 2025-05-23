@@ -1358,17 +1358,25 @@ Fighters touched by the plane of shadow itself reign supreme in the dark. These 
 #### **Sea Captain**<sup>E</sup>
 
 #### **Armiger**<sup>UAH</sup>
-
+Armigers take pride in their armor and learn to use it to deflect attacks that might otherwise prove lethal. Masters of defense, these fighters create, mend, and maintain their own shields and suits of armor. Where many warriors enter battle hoping to make quick work of their enemies, Armigers focus on outlasting their foes rather than quickly dispatching them.
 #### **Combat Medic**<sup>UAH</sup>
-
+A Combat Medic knows how to create carnage as well as any other fighter, but also learns to deal with the aftermath. These fighters know how to quickly assess a situation to determine where they are most needed, and how to use materials on hand for feats of medical skill that save lives.
 #### **Crusader**<sup>UAH</sup>
-
+Archetypal Crusaders faithfully execute the will and enforce the ideologies of their deities, their martial prowess augmented by divine magic. Crusaders specialize in abjuration and evocation magic to better protect the allies of their god and destroy their god’s enemies. A crusader’s greatest ambition is to build an army of faithful devotees and bring the word of their deity to all.
 #### **Gladiator**<sup>UAH</sup>
-
+You’ve turned life or death combat into a form of entertainment. While other fighters focus on honing their skills to get the job done, gladiators combine martial prowess with crowd-pleasing. The only thing you love more than a good fight is a big audience cheering you on. You’ve learned to challenge your opponents to one-on-one combat and leverage your natural showmanship for advantage in combat.
 #### **Gunslinger**<sup>UAH</sup>
-
+You are one of a rare new breed of fighters in the world. Gunslingers master the use of firearms as they wrestle with their place in society, wander the world, and settle personal grudges. These fighters use new technology to do battle, but the reasons they fight are timeless. Gunslingers live by a code, though whether that code gives them free reign to terrorize the local town or demands they protect it at all costs depends on the path they choose for themselves. When you live and die by the gun, you’re a gunslinger.
 #### **Seafarer**<sup>UAH</sup>
-
+The seafarer has gone by many a name, depending
+on the nature of their time upon the sea. Mariner,
+bluejacket, sea dog — all of these hearty sailors are tied
+together by a life on the waters and the trials it puts one
+through. The seafarer is not always the most practiced
+fighter, but what they lack in expertise they make up
+for in camaraderie. A sailor knows how to bond with
+their fellow crew to finish a task, and their shanty songs
+keep morale high through even the roughest battle.
 #### **The Spirit Fused**<sup>(OTG)</sup>
 Those who take on the moniker of a spirit-fused fighter do not normally do so by choice but rather by circum- stance. Because to become a spirit-fused fighter, you must first become the vessel of a dying spirit, a task that can’t be accomplished by choice, as no one truly understands how or why this occurs. 
 
@@ -1376,13 +1384,23 @@ All that is known is that the spirit's mind and body have passed on, and its ess
 #### **Commander**<sup>(GTD)</sup>
 Between the nations of Westemär, Elyria, and Caspia there have been countless wars fought. Many great knights, valiant soldiers, and powerful combatants have tested their mettle against man and monster alike. Amongst the brave there are always those who are born to lead, and the Commander is just that. They stand at the front of battle, uniting their allies and leading the charge against their enemies.
 ## Gunslinger or gunfighter MCDX
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
+Use VSS but keep gun building from ZGTTEOT and Maybe also transfer Moxie from ZGT?
+Lvl 10
 
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
+Quickdraw lvl 6 skill
+HA GS lvl 5 skill lock n load and proficiency versatility
+Lvl 11
+
+
+
+*Risk is in a gunslinger's blood. They are bold renegades, bucking tradition and forging a new path with dangerous and inelegant firearms. Gunslingers are infamous for surviving by their wits, relying on split-second timing and a considerable amount of luck to survive.*
+
+*Black powder is not for the faint of heart. Its thunderous applause is volatile and imprecise—a barely controlled explosion directed at an enemy. Only the truly fearless seek to master it, for one must be mad or have nerves of steel to weather the risk of its use. But those who call themselves gunslingers are fearless combatants, hurling death from their guns in a roaring cacophony. Adapted for shootouts, gunslingers are mobile and daring, knowing that life or death hangs on snap decision-making and one's own mettle.* 
 
 ### <u>Subclasses - Gunslinger’s Creeds</u>
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
+*Gunslingers have many features in common, but each of them walks their own path and follows thewir own code. This code, which gunslingers call a creed, embodies their core beliefs and informs their unique combat style.*
+
 ### *Valda’s Spire of Secrets*
 #### **Gun Tank Creed**
 #### **Gun-Ko Master Creed**
