@@ -210,7 +210,7 @@ Exalted Athlete
 Warrior Monk
 ## Alchemist
 
-*Experiments with a wide array of scientific discoveries and lethal bombs. Combining science and magic together in unholy concoctions, an alchemist brews up explosives and transmutative potions on the fly. (Source: Valda’s Spire of Secrets)* 
+*Experiments with a wide array of scientific discoveries and lethal bombs. Combining science and magic together in unholy concoctions, an alchemist brews up explosives and transmutative potions on the fly. (**Source: Valda’s Spire of Secrets**)* 
 
 ### <u>Subclasses - Fields of Study</u>
 
@@ -926,7 +926,7 @@ Gods of the Time domain may not experience time as mortals do, but they understa
 #### **Shadow Domain**<sup>(GTD)</sup>
 Clerics of the Sacred Flame know that life is at all times a balance between the light and the dark. Most clerics uphold the flame, whose divine purpose is to hold back the darkness, and offer guidance to those who pass on. Clerics of the Shadow Do- main are in tune with the dark side of the divine. They stand to balance all things, practicing the powers of shadow against their enemies. They know that not all deserve the light, and so sending foul horrors to the shadows is their form of righteous justice.
 ## Craftsman
-*Craftsmen are virtuoso artisans and genius inventors. Not content merely creating masterwork pieces of weapons and armor, they invent and engineer ingenious devices and singularly deadly weapons. Artisans of all types are an integral part of every culture: buildings must be erected, pots must be sent to the kiln, tools must be forged. Despite their pervasiveness, master craftsmen are still as rare as they are prized. These artisans, creators, and inventors can smith items of mythic quality, and can solve most any problem simply by using the right tool and the appropriate amount of force.*
+*Craftsmen are virtuoso artisans and genius inventors. Not content merely creating masterwork pieces of weapons and armor, they invent and engineer ingenious devices and singularly deadly weapons. Artisans of all types are an integral part of every culture: buildings must be erected, pots must be sent to the kiln, tools must be forged. Despite their pervasiveness, master craftsmen are still as rare as they are prized. These artisans, creators, and inventors can smith items of mythic quality, and can solve most any problem simply by using the right tool and the appropriate amount of force. (**Source: Valda’s Spire of Secrets**)*
 
 *Adventuring craftsmen come in many varieties, but nearly all leverage their advanced knowledge of metallurgy, smelting, and construction to forge arms and armor rarely seen, even by other adventurers. The smiths test their schematics and designs themselves, building prototypes and experimental gear that can later be refined into mass-produced items.* 
 
@@ -1394,7 +1394,7 @@ Lvl 18
 
 Mesh skills into gunslinger’s trance featre? Like use deadeye improvement from ha-gs and mix it with others? Replace VSS lvl 15 skill? Move lvl 18 to 15 and then replace 18
 
-*Risk is in a gunslinger's blood. They are bold renegades, bucking tradition and forging a new path with dangerous and inelegant firearms. Gunslingers are infamous for surviving by their wits, relying on split-second timing and a considerable amount of luck to survive.*
+*Risk is in a gunslinger's blood. They are bold renegades, bucking tradition and forging a new path with dangerous and inelegant firearms. Gunslingers are infamous for surviving by their wits, relying on split-second timing and a considerable amount of luck to survive. (**Source: Valda’s Spire of Secrets**)*
 
 *Black powder is not for the faint of heart. Its thunderous applause is volatile and imprecise—a barely controlled explosion directed at an enemy. Only the truly fearless seek to master it, for one must be mad or have nerves of steel to weather the risk of its use. But those who call themselves gunslingers are fearless combatants, hurling death from their guns in a roaring cacophony. Adapted for shootouts, gunslingers are mobile and daring, knowing that life or death hangs on snap decision-making and one's own mettle.* 
 
@@ -1434,7 +1434,7 @@ Some gunslingers live by a code and expect others to do the same. These gunsling
 ~~Holy Champion~~
 ~~Inquisitor~~
 ## Investigator
-*There are forces more ancient than time, foes more sinister than the foulest men, and beings more titanic than gods. The world stands at a precipice of woe and terror, being threatened nightly by dark agents and hordes of monsters. At risk to their own lives and sanities, investigators penetrate the evil that creeps in the shadows and banish it from the world. Their battles are never-ending, for victory only delays doomsday another night.*
+*There are forces more ancient than time, foes more sinister than the foulest men, and beings more titanic than gods. The world stands at a precipice of woe and terror, being threatened nightly by dark agents and hordes of monsters. At risk to their own lives and sanities, investigators penetrate the evil that creeps in the shadows and banish it from the world. Their battles are never-ending, for victory only delays doomsday another night. (**Source: Valda’s Spire of Secrets**)*
 
 *Investigators track supernatural threats ranging from incorporeal spirits, to nefarious vampires and lycanthropes, to incursions of demons and devils. Often in their investigations, they often uncover secret cults and maligned individuals who bring these supernatural threats to bear. It is always their goal to impede these evildoers by any means necessary, resorting to trickery, guile, magic, and bloodshed when necessary. To an investigator, no tactic is unthinkable when the world is at stake.*
 
@@ -1507,14 +1507,13 @@ This division’s primary responsibility is to oversee the correction of prisone
 #### **Order of Spellblades**<sup>(LL)</sup>
 #### **Order of Travelers**<sup>(LL)</sup>
 ## Martyr
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
+*Martyrs are chosen by the gods, predestined to speed forth to a final destination: they are ordained to die for a great cause. They are prophets and oracles, great priests and liberators. Regardless of how much good they might accomplish in their lives, the end must always be the same: a glorious death, to be remembered in legend. No matter the circumstance, a martyr cannot avoid their destiny. While some martyrs gladly accept their holy approbation, others struggle against it. However, from the moment the gods choose their martyr, they shall intervene in the martyr's fate, pulling them inexorably towards their cause. The gods will settle for a lesser martyr if they must—if the one chosen is unwilling to follow their path—but they always prefer to uplift their martyr to the heights of sainthood before their inevitable death. (**Source: Valda’s Spire of Secrets**)*
 
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
+*As martyrs are ordained by the gods to die, their suffering is holy sacrament. Martyrs brought close to death grow more powerful, not less, and those that spill their own blood evoke waves of divine energy. In the view of the gods, such hardship only heightens martyrdom and hastens the martyr to their destiny. Paradoxically, martyrs are protected from death's precipice even as they are edged closer towards it. Every torment and persecution suffered by them is weighed with equal moments of respite offered by the gods. The gods do not mean to kill their charge early; a martyr should meet their fate only at the preordained time and place.* 
 
 ### <u>Subclasses - Mortal Burdens</u>
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
-### *Valda’s Spire of Secrets*
+*Martyrs are created and driven forth to right an inexorable wrong wrong in the world. On this quest, thjey are a diurect instrument of the gods, and no matter how hard they try, they cannot escape the burden of their duty. *
 #### **Burden of Atonement**
 #### **Burden of Discord**
 #### **Burden of The End**
@@ -2032,7 +2031,7 @@ Vox
 #### **Splicer Paradigm**<sup>(HGMH)</sup>
 #### **Swarmslinger Paradigm**<sup>(LAL)</sup>
 ## Warden
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
+*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt. (**Source: Valda’s Spire of Secrets**)*
 
 *Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
 
