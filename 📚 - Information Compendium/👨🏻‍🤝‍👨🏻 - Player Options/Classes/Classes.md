@@ -1600,31 +1600,35 @@ Monks of the Way of the Bloodied Fist follow a tradition that teaches them to co
 #### **Way of the Four Elements Revised**<sup>(UA)</sup>
 
 #### **Way of Concordant Motion**<sup>(TOH)</sup>
-
+The monks of Concordant Motion follow a tradition developed and honed by various goblin and kobold clans that favored tactics involving swarming warriors. The tradition combines tactical disciplines designed to encourage groups to work as one unit with practical strategies for enhancing allies. Where many warrior-monks view ki as a power best kept within, the Way of Concordant Motion teaches its followers to project their ki into their allies through ascetic meditation and mental exercises. Followers of this tradition value teamwork and promote functioning as a cohesive whole above any search for triumph or glory.
 #### **Way of The Dragon**<sup>(TOH)</sup>
-
+You have studied at a monastery devoted to dragonkind. Warriors trained in these places adapt their fighting styles to match the dragons they hold in such esteem. They are respected and feared by students of other traditions. Once they are trained, followers of this Way travel far and wide, rarely settling in one place for long.
 #### **Way of the Humble Elephant**<sup>(TOH)</sup>
-
+Like their namesake, monks of the Way of the Humble Elephant are respectful and accommodating. A large part of their training involves traveling through their home region and assisting local farmers and common folk with problems ranging from rebuilding burned homes to dispatching troublesome bandits. In areas where their Way is known, adherents are welcomed into the community and their needs are seen to in exchange for the host of benefits their Presence brings to the community.
 #### **Way of Still Waters**<sup>(TOH)</sup>
-
+Monks who follow the Way of the Still Waters are like placid mountain lakes; they are still and calm until some outside force disrupts them and forces a reaction. Many adherents live a pacifistic lifestyle and never seek conflict. When strife finds them, though, they deal with it in a swift and decisive use of power and grace.
 #### **Way of the Tipsy Monkey**<sup>(TOH)</sup>
+Monks who practice the Way of the Tipsy Monkey lurch and waddle across the battlefield, seeming to be too intoxicated to comport themselves. Their school of fighting is typified by its low-standing stance, periods of swaying in place punctuated with bursts of wild, staggering movement, and the disorienting manner in which they seem to never be in the place they appear to be standing. 
 
+Despite the name of their style, monks of this Way often abstain from drinking alcohol, though they are not prohibited from doing so. Many do, however, display traits of their patron monkey in their love of jests and their easy laughter, even in the most fraught situations.
 #### **Way of the Unerring Arrow**<sup>(TOH)</sup>
-
+The inner peace of contemplation, the artistry of focused breathing, and the calm awareness which leads to pinpoint accuracy all contribute to the Way of the Unerring Arrow. Some are dedicated soldiers, others walk the path of a wandering warrior-mendicant, but all of them hone their art of self-control, spirituality, and the martial arts, combining unarmed combat with archery. Select this tradition if you want to play a character who is as comfortable trading kicks and blows as they are with snatching an arrow from the air and firing it back in a single motion.
 #### **Way of the Wildcat**<sup>(TOH)</sup>
-
+Monks of the Wildcat train relentlessly to incorporate speed, acrobatics, and precision strikes to exert control over the field of battle and foes alike. They learn techniques that emulate the grace and agility of felines, including reflexively avoiding blows and bounding between opponents with ease. Embodying the Way of the Wildcat requires intense devotion, endless practice, and no small amount of daring.
 #### **Way of Devils**<sup>(TCEE)</sup>
-
+Monks of the Way of Devils are part of an ancient and unholy order, one dedicated to serving the legions of devils in their war against the demons of the abyss, as well as serving their infernal masters’ interests on the Material Plane. Whereas most monks train in the art of self-defense, those of the Way of Devils focus on inflicting punishment and controlling their enemies. It is said that the first of these monks were Duergar, newly bound into pacts with Asmodeus and willing to wield his devilish chains over the prospect of becoming chained themselves.
 #### **Way of the Cosmic Mind**<sup>(TCEE)</sup>
-
+Monks of the Way of the Cosmic Mind learn to harness their ki to create fantastical telepathic and telekinetic effects. Githzerai are among this tradition’s most common practitioners, but followers can be found throughout many peoples across many planes. All creatures have latent innate psionic abilities, but very few ever unlock the secrets which lie beyond sentience. Monks who dedicate their lives to the mastery of their own mind eventually learn to produce incredible telepathic and telekinetic effects.
 #### **Way of Mundanity**<sup>(TCEE)</sup>
-
+There are those who study the arcane as a means to change the world around them. There is a certain arrogance in that concept, so in order to maintain balance there exists a group dedicated to preservation of the natural and the mundane. Monks who follow the Way of Mundanity use both the study of magic and the mastery of their own internal energies to battle those who use the arcane.
 #### **Way of the Iron Grasp**<sup>(TCEE)</sup>
+Balance is lost when one disrupts the livelihood of another. Monks of the Way of the Iron Grasp are taught to establish safety and order within their sphere of influence, training relentlessly in martial techniques to pin down foes and protect allies. Many of this tradition wear gauntlets that they forge themselves as a symbol of their dedication and ideals. 
 
+Monasteries that teach this tradition often act as militias for nearby settlements or as a council that oversees and rules adjacent villages and towns. The heads of these monasteries offer respect towards even the lowest of peasants, but have no tolerance for troublemakers. Still, they risk life and limb to hold the peace when external threats arise, regardless of who needs protection.
 #### **Way of the Four Elements Remastered**<sup>(TCEE)</sup>
 
 #### **Way of the Warshaper**<sup>(TCEE)</sup>
-
+Form is fluid. Shape is a weapon. Release yourself from the constraints of your body and you can become made for war. Thus teaches the way of the warshaper, whose members learn how to alter their form on the fly. Th ough they do not focus on the full transformations that a druid’s wild shape might, they can grow claws and teeth, flow around attacks, rebuild their shattered body, and other similar changes. Monks who follow the way of the warshaper are often forthright defenders of the downtrodden, but not always. Their control over their own form can make them relentless, terrifying hunters able to infiltrate past defenders and terminate their targets without fail.
 #### **Way of the Deep Winter**<sup>(FCG)</sup>
 
 #### **Way of the Living Weapon**<sup>(EE)</sup>
