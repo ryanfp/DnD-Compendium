@@ -1544,75 +1544,145 @@ Martyrs of Truth are often deemed prophets, for their gods entrust them with kno
 #### **Burden of Tyranny**
 When malevolent gods find the world pacified and defenseless, they send a martyr of tyranny to conquer its kingdoms, subjugate the weak, and spread misery with their blade. Once unleashed, this martyr stops at nothing to establish an empire to rule over with an iron fist. They demand bloodshed from their foes and pledges of absolute fealty from their allies, taking gleeful satisfaction with every power grab and malicious turn. It is not enough to rule: they must be feared, and any resistance must cower in their shadows. Only then will the gods let them die, likely stabbed in the back by someone crueler or more pitiless.
 ## Monk
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
+*Monks make careful study of a magical energy that most monastic traditions call **ki**. This energy is an element of the magic that suffuses the multiverse — specifically, the element that flows through living bodies. Monks harness this power within themselves to create magical effects and exceed their bodies’ physical capabilities, and some of their special attacks can hinder the flow of ki in their opponents. Using this energy, monks channel uncanny speed and strength into their unarmed strikes. As they gain experience, their martial training and their mastery of ki gives them more power over their bodies and the bodies of their foes.*
 
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
+*Whatever their discipline, monks are united in their ability to magically harness the energy that flows in their bodies. Whether channeled as a striking display of combat prowess or a subtler focus of defensive ability and speed, this energy infuses all that a monk does.* 
 
 ### <u>Subclasses - Monastic Traditions</u>
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
+*Isolated and self-sufficient, monasteries house sagacious orders of monks that train their bodies and minds with traditions of discipline. The traditions of each monastery differ, but each believes in the internal energy called ki, which flows through the body like a river, separating into streams and tributaries that reach every extremity. Through training and focus, a monk can understand and control their flow of ki, becoming one with their body and mind. Through this unity, they might find serenity in the life and peace in the next.*
 #### **Way of the Open Hand**
+Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.
 #### **Way of the Shadow**
+Monks of the Way of Shadow follow a tradition that values stealth and subterfuge. These monks might be called ninjas or shadowdancers, and they serve as spies and assassins. Sometimes the members of a ninja monastery are family members, forming a clan sworn to secrecy about their arts and missions. Other monasteries are more like thieves’ guilds, hiring out their services to nobles, rich merchants, or anyone else who can pay their fees. Regardless of their methods, the heads of these monasteries expect the unquestioning obedience of their students.
 #### **Way of the Four Elements**
+You follow a monastic tradition that teaches you to harness the elements. When you focus your ki, you can align yourself with the forces of creation and bend the four elements to your will, using them as an extension of your body. Some members of this tradition dedicate themselves to a single element, but others weave the elements together.
+
+Many monks of this tradition tattoo their bodies with representations of their ki powers, commonly imagined as coiling dragons, but also as phoenixes, fish, plants, mountains, and cresting waves.
 #### **Way of Mercy**
+Monks of the Way of Mercy learn to manipulate the life force of others to bring aid to those in need. They are wandering physicians to the poor and hurt. However, to those beyond their help, they bring a swift end as an act of mercy.
+
+Those who follow the Way of Mercy might be members of a religious order, administering to the needy and making grim choices rooted in reality rather than idealism. Some might be gentle-voiced healers, beloved by their communities, while others might be masked bringers of macabre mercies. The walkers of this way usually don robes with deep cowls, and they often conceal their faces with masks, presenting themselves as the faceless bringers of life and death.
 #### **Way of the Astral Self**
+A monk who follows the Way of the Astral Self believes their body is an illusion. They see their ki as a representation of their true form, an astral self. This astral self has the capacity to be a force of order or disorder, with some monasteries training students to use their power to protect the weak and other instructing aspirants in how to manifest their true selves in service to the mighty.
 #### **Way of the Drunken Master**
+The Way of the Drunken Master teaches its students to move with the jerky, unpredictable movements of a drunkard. A drunken master sways, tottering on unsteady feet, to present what seems like an incompetent combatant who proves frustrating to engage. The drunken master’s erratic stumbles conceal a carefully executed dance of blocks, parries, advances, attacks, and retreats.
+
+A drunken master often enjoys playing the fool to bring gladness to the despondent or to demonstrate humility to the arrogant, but when battle is joined, the drunken master can be a maddening, masterful foe.
 #### **Way of the Kensei**
+Monks of the Way of the Kensei train relentlessly with their weapons, to the point where the weapon becomes an extension of the body. Founded on a mastery of sword fighting, the tradition has expanded to include many different weapons.
+
+A kensei sees a weapon in much the same way a calligrapher or painter regards a pen or brush. Whatever the weapon, the kensei views it as a tool used to express the beauty and precision of the martial arts. That such mastery makes a kensei a peerless warrior is but a side effect of intense devotion, practice, and study.
 #### **Way of the Sun Soul**
+Monks of the Way of the Sun Soul learn to channel their life energy into searing bolts of light. They teach that meditation can unlock the ability to unleash the indomitable light shed by the soul of every living creature.
 #### **Way of the Long Death**
+Monks of the Way of the Long Death are obsessed with the meaning and mechanics of dying. They capture creatures and prepare elaborate experiments to capture, record, and understand the moments of their demise. They then use this knowledge to guide their understanding of martial arts, yielding a deadly fighting style.
 #### **Way of the Ascendant Dragon**
+The dragon god Bahamut is known to travel the Material Plane in the guise of a young monk, and legend says that he founded the first monastery of the Way of the Ascendant Dragon in this guise. The fundamental teaching of this tradition holds that by emulating dragons, a monk becomes a more integrated part of the world and its magic. By altering their spirit to resonate with draconic might, monks who follow this tradition augment their prowess in battle, bolster their allies, and can even soar through the air on draconic wings. But all this power is in service of a greater goal: achieving a spiritual unity with the essence of the Material Plane.
 #### **Way of the Bow**<sup>(VSS)</sup>
+
 #### **Way of the Flagellant**<sup>(VSS)</sup>
+
 #### **Way of the Four Fists**<sup>(VSS)</sup>
+
 #### **Way of the Mask**<sup>(VSS)</sup>
+
 #### **Way of the Rose**<sup>(VSS)</sup>
+
 #### **Way of Street Fighting**<sup>(VSS)</sup>
+
 #### **Way of Tranquility**<sup>(UA)</sup>
+
 #### **Way of the Bloodied Fist**<sup>(UA)</sup>
+Monks of the Way of the Bloodied Fist follow a tradition that teaches them to control their own life force, as well as the life force of their foes. By focusing their ki, they exert control over blood - a powerful tool that is not to be underestimated. Their monasteries practice in secret in dark caves and high mountains, out of the eye of the common people, and their members only leave for the rare missions ordered by only the most desperate. Many monks of this tradition are covered in scars - some self-inflicted in their training, and others earned in battle. The monks often use their mystic energies to manipulate these scars, forming them into complex designs and symbols to represent their unique ki powers.
 #### **Way of Thorns**<sup>(UA)</sup>
+
 #### **Way of the Four Elements Revised**<sup>(UA)</sup>
+
 #### **Way of Concordant Motion**<sup>(TOH)</sup>
+
 #### **Way of The Dragon**<sup>(TOH)</sup>
+
 #### **Way of the Humble Elephant**<sup>(TOH)</sup>
+
 #### **Way of Still Waters**<sup>(TOH)</sup>
+
 #### **Way of the Tipsy Monkey**<sup>(TOH)</sup>
+
 #### **Way of the Unerring Arrow**<sup>(TOH)</sup>
+
 #### **Way of the Wildcat**<sup>(TOH)</sup>
+
 #### **Way of Devils**<sup>(TCEE)</sup>
+
 #### **Way of the Cosmic Mind**<sup>(TCEE)</sup>
+
 #### **Way of Mundanity**<sup>(TCEE)</sup>
+
 #### **Way of the Iron Grasp**<sup>(TCEE)</sup>
+
 #### **Way of the Four Elements Remastered**<sup>(TCEE)</sup>
+
 #### **Way of the Warshaper**<sup>(TCEE)</sup>
+
 #### **Way of the Deep Winter**<sup>(FCG)</sup>
+
 #### **Way of the Living Weapon**<sup>(EE)</sup>
+
 #### **Way of the Bestial Memesis**<sup>(ECHH)</sup>
+
 #### **Way of Crescent Flow**<sup>(ECHH)</sup>
+
 #### **Way of the Streets**<sup>(CCS)</sup>
+
 #### **Way of the Soul Blade**<sup>(KT)</sup>
+
 #### **Way of the Demon**<sup>(KT)</sup>
+
 #### **Way of the Four Elements Revised**<sup>(KT)</sup>
+
 #### **Way of the Outcast**<sup>(KT)</sup>
+
 #### **Way of the Sword Saint**<sup>(KT)</sup>
+
 #### **Way of Atonement**<sup>(XLNEE)</sup>
+
 #### **Way of Empathy**<sup>(XLNEE)</sup>
+
 #### **Way of the Dodo**<sup>(BoE)</sup>
+
 #### **Way of the Black Star**<sup>(CFSA)</sup>
+
 #### **Way of the Noble Serpent**<sup>(CFSA)</sup>
+
 #### **Way of the Artisan**<sup>(LAL)</sup>
+
 #### **Way of the Celestial**<sup>(TGS)</sup>
+
 #### **Way of the Aether**<sup>(TGS)</sup>
+
 #### **Way of the Dancing Blades**<sup>E</sup>
+
 #### **Way of the Cobalt Soul**<sup>TDR</sup>
+
 #### **Way of Internal Alchemy**<sup>UAH</sup>
+
 #### **Way of the Kabuki**<sup>UAH</sup>
+
 #### **Way of the Peaceful Warrior**<sup>UAH</sup>
+
 #### **Way of the Tattooed Temple**<sup>UAH</sup>
+
 #### **Way of the Presence**<sup>UAH</sup>
+
 #### **Way of Thorns**
+
 #### **Way of the Sheep Dragon Shepard**<sup>(OTG)</sup>
+
 #### **Way of the Arcane Hand**<sup>(GTD)</sup>
+
 #### **Way of the Serpent**<sup>(GTD)</sup>
+
 ## Mystic
 *Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
 
