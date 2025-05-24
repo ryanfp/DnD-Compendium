@@ -1628,65 +1628,85 @@ Monasteries that teach this tradition often act as militias for nearby settlemen
 #### **Way of the Four Elements Remastered**<sup>(TCEE)</sup>
 
 #### **Way of the Warshaper**<sup>(TCEE)</sup>
-Form is fluid. Shape is a weapon. Release yourself from the constraints of your body and you can become made for war. Thus teaches the way of the warshaper, whose members learn how to alter their form on the fly. Th ough they do not focus on the full transformations that a druid’s wild shape might, they can grow claws and teeth, flow around attacks, rebuild their shattered body, and other similar changes. Monks who follow the way of the warshaper are often forthright defenders of the downtrodden, but not always. Their control over their own form can make them relentless, terrifying hunters able to infiltrate past defenders and terminate their targets without fail.
+Form is fluid. Shape is a weapon. Release yourself from the constraints of your body and you can become made for war. Thus teaches the way of the warshaper, whose members learn how to alter their form on the fly. Though they do not focus on the full transformations that a druid’s wild shape might, they can grow claws and teeth, flow around attacks, rebuild their shattered body, and other similar changes. Monks who follow the way of the warshaper are often forthright defenders of the downtrodden, but not always. Their control over their own form can make them relentless, terrifying hunters able to infiltrate past defenders and terminate their targets without fail.
 #### **Way of the Deep Winter**<sup>(FCG)</sup>
+Monks of the Way of Deep Winter are avatars of cold. Whether they were gifted abilities by the royalty of the Unseelie Court or the gods of the Material Plane, these monks embody the impartial disinterest of winter. Monks of this tradition use low temperatures as their ally, striking with deft swiftness like the winds of a blizzard. 
 
+Some communities accept monks of this tradition as distant protectors, while others look on them as omens of death and unfavorable weather. For these monks, fear and respect are one and the same, and they use the feelings of those around them as tools to their ends.
 #### **Way of the Living Weapon**<sup>(EE)</sup>
-
-#### **Way of the Bestial Memesis**<sup>(ECHH)</sup>
-
+A monk following the Way of the Living Weapon pursues physical perfection, honing their body as a smith sharpens a sword. Its traditions are drawn from cultures of shapeshifters and creatures who fight with tooth and claw. These are a few of the martial techniques that have evolved into the Way of the Living Weapon.
+#### **Way of the Bestial Mimesis**<sup>(ECHH)</sup>
+Some monks are captivated by the animals that prowl outside their monastery walls. They feel a deep, primal connection with the beasts as they watch them hunt and fend off other predators. Over time, this fascination grows and they begin to mimic them, to distill the essence of their movements and learn to move as the beasts do. In the process, they unlock something most of us have long forgotten, that we all hold a primal animal deep inside us, just waiting to be let out.
 #### **Way of Crescent Flow**<sup>(ECHH)</sup>
+Life is a dance, the greatest dance, and its rhythms are all around us. Stay still and feel them inside you. Move with them and move against them. Learn to weigh your strikes against both the relentless patter of new life and the heavy pull of stillness and night. Simply exist in these until the essence of the dance is known to you. 
 
+Combos, beats, and pauses. Fighting is rhythm down to its core. Footwork patterns and the speed of your strikes. Listen and hear. Open yourself and live in the flow. Embrace it, but don’t succumb to it. Ride it and make the accents your own. Never be complacent and never be caught in repetition for too long. The rhythm has to flow around and through you. It has to speak slowly at times and be full of speed and vengeance at others. 
+
+Never stop listening. All living things have their own rhythms, competing to be heard. Always be aware of those around you. Learn to strike through them, to break those rhythms. Never dance their dance. Control the rhythm and you control the fight. Your rhythm will change dynamically as you yourself change, and as combat changes, but it is always your own. Control the flow.
 #### **Way of the Streets**<sup>(CCS)</sup>
-
+Monks of the Way of the Streets learn their techniques not through traditional monastic training, rather, they learn to defend themselves on the streets, taught by those they fight and others who must similarly fight to survive. They use these techniques not only in street brawls, but also in underground fighting tournaments, where monks of this way have made a name for themselves as powerful warriors capable of unleashing devastating combos.
 #### **Way of the Soul Blade**<sup>(KT)</sup>
-
+Monks of the Way of the Soul Blade are monks who have learned to harness and focus their ki, using their inner will and focus to control psionic powers—primarily into a blade of pure psionic power: a Soul Blade.
 #### **Way of the Demon**<sup>(KT)</sup>
 
 #### **Way of the Four Elements Revised**<sup>(KT)</sup>
 
 #### **Way of the Outcast**<sup>(KT)</sup>
+An Outcast is a monk that has lost their Way. Trained in the basics of the style, they have abandoned the rigorous discipline and philosophy of their tradition, and are usually now enrolled only in the school of hard knocks. 
 
+Having been trained in the fundamentals of the art of ki, these monks choose as often as not to apply that art to tavern brawls and street fights. Much to the horror of many more formal monks, their rough and tumble lifestyle tends to be a solid source of further training.
 #### **Way of the Sword Saint**<sup>(KT)</sup>
-
+Monks of the Way of the Sword Saint train in dedication to mastering a level of weapon expertise that surpasses normal limitations. They can strike like the wind, step into the sky, or even sunder stone. Though they most often treat their mastery of the weapons as an art, seeking spiritual understanding through martial perfection, turning this art to more practical ends can result in very deadly encounters for their foes.
 #### **Way of Atonement**<sup>(XLNEE)</sup>
-
+Monks of the Way of Atonement seek absolve themselves for their past transgressions, sins, and current indiscretions by giving up their possessions and atoning through peaceful and selfless service. Seeking not the zealot’s path, they believe that through calming and controlling their fervor, they can bolster the universal well-being of all mortal creatures. These monks seek to protect delicate balance struck by the presence of the pantheons and strike out in malice only to defend those who can’t defend themselves from the greater evils that lurk within this realm and beyond.
 #### **Way of Empathy**<sup>(XLNEE)</sup>
-
+Monks of the Way of Empathy follow the tradition instilled with compassion for all living beings. While their training includes martial practice as a form of self- discipline, their teachings also focus on a healing art of rare form, known as Empathy. Using these techniques, they learn to manipulate the ki to transfer malady and pain from another to themselves. Some members of this tradition dedicate themselves to the sick and the poor, while others find their calling side by side with soldiers, rehabilitating the fallen in battle. Their scars might telltale of thousands of warriors, without ever feeling the cold of steel against their own flesh.
 #### **Way of the Dodo**<sup>(BoE)</sup>
+The very last dodo absconded into the Feywild and thrived in the nonsense land beyond. Before long, it learned to speak and manipulate the magic of the twilight realm just as well as fey. Visitors came to see the magical endling and an order of monks rose to learn its teachings and defend it from harm. 
 
+Those who follow the Way of the Dodo focus their ki by expanding their consciousnesses and engaging in psychedelic trances. With a touch, they can send others into technicolor hallucinations borrowed from their erstwhile master’s Feywild magic.
 #### **Way of the Black Star**<sup>(CFSA)</sup>
+The night sky has offered peace and solace in times of turmoil, exposing the insignifigance of those who walk upon the earth, yet you do not call out for peace. Yopur meditations have taken you to the void where the Fallen Exile once shined, filling your spiriti with a blackened and sorrowfull power. This may have come to pass by the intervention of the Exile, spiritual enlightenment you have sought yourself, or the teachings of a master who has traveled this dark path. 
 
+Regardless if your original intention, your ki has been corrupted by this unnatural void within the cosmic order, granting you the ability to draw it forth to form a deadly weapon of light and eerie blackness. Fueling your techniques with the anguish of your foes, you strive ever closer to understanding the secrets within the eternal black star that lies at the center of the cosmos. 
 #### **Way of the Noble Serpent**<sup>(CFSA)</sup>
-
+By lineage or accident of fate, spiritual enlightenment or inner turmoil, m you’ve taken your first steps down the path of a servant of the Serpent Empress, a ruler from beyond the planes whose power rivals the gods themselves. Residing in her palace of gold and turquoise, her imperial majesty sleeps in solitude for countless ages, traveling slowly between the planes. When her palace arrives upon a new world and she awakens, her reign of cruelty commences. Your style of martial arts has been taught to you by one of her handmaidens or was discovered in scrolls containing these forbidden techniques that were left behind when the Empress departed from your world ages ago for unknown reasons. 
 #### **Way of the Artisan**<sup>(LAL)</sup>
+To a monk who follows the Way of the Artisan, taking raw materials and giving them shape and purpose is considered the noblest of pursuits. The act of creation is the purest form of meditation, an exercise in creativity and discipline that hones both mind and spirit, leading the craftsman on a never ending journey of self-discovery. 
 
+An adherent of this philosophy seeks true perfection in their craft while accepting that this is a fundamentally unachievable goal. What matters is that they grow and improve themselves along the way, creating art and tools that better the world in the process. In this manner, artisan monks are much like the objects they craft, for they too start off full of raw potential that is ultimately given shape and purpose.
 #### **Way of the Celestial**<sup>(TGS)</sup>
-
+Monks of the Way of the Celestial are peacekeepers and protectors of their chosen kin. These monks meditate to achieve a greater understanding of a divine being, granting them the ability to channel celestial energies into their own. These martial defenders are pensive, patient, and understanding, but offer little mercy when evil intentions are made clear. The Way of the Celestial originated from the lost city of Hearth as a tribute to the city’s guardian couatl protectors. While these teachings are far from common knowledge, there’s no telling what small, protected monasteries may still exist after the city’s untimely destruction. Regardless of how you come upon this tradition, the wisdom of the celestials guides its every principle.
 #### **Way of the Aether**<sup>(TGS)</sup>
-
+Monks of the Way of the Aether tap into the energy of spirits and the Ethereal Plane. This energy is the fifth element, aether, which is contained by every living—and nonliving—soul. Sometimes called ghostfists, monks of this tradition explore the Material and Ethereal Planes on lifelong missions to give the souls of the dead a final resting place. By aligning the ki and aether within themselves, monks of this tradition treat their spirit as an extension of their physical bodies and move through the world unimpeded by material obstacles like a ghost.
 #### **Way of the Dancing Blades**<sup>E</sup>
+The Way of the Dancing Blades is a noble and ancient tradition that focuses on mastering the art of utilizing an array of small floating blades in combat. Monks who follow this tradition believe that true mastery can only be achieved through intense training and dueling, and focus on harnessing the full power of their specially made blades by twirling them around themselves at incredible speeds. 
 
+The Way of the Dancing Blades is not only about winning battles—it is about honing one’s discipline and focus to achieve true mastery over their body and mind. To them, dueling is a way to push themselves to the limit and discover their true potential. 
 #### **Way of the Cobalt Soul**<sup>TDR</sup>
+Driven by the pursuit of knowledge and its scholars’ worship of the Knowing Mentor, the Library of the Cobalt Soul is one of the best-respected and most heavily guarded repositories of tomes, history, and information in all Exandria. People from all lands come to the library to seek knowledge, and those particularly dedicated to the virtues of truth often pledge their minds and bodies to the Cobalt Soul’s cause. To become a member of the Cobalt Soul is to give oneself over to a quest dedicated to unveiling life’s mysteries, bringing light to the secrets of concealed evil, and guarding the most powerful and dangerous of truths from those whose unwholesome thirst for knowledge might bring death and suffering to others. 
 
+The monks of the Cobalt Soul are the embodiment of the maxim: “Know your enemy.” Through tireless research, they steel themselves against the unrelenting tides of evil. Through rigorous training, they learn to break through their foes’ mental and physical defenses. Then, once the fight is done, they record their findings for future generations of monks to study.
 #### **Way of Internal Alchemy**<sup>UAH</sup>
-
+Monks following the Way of Internal Alchemy use a mystical practice to transmute their ki that mirrors traditional alchemy. Along with practicing traditional and internal alchemy, these monks subscribe to a life philosophy that emphasizes harmony and spontaneity. Some practitioners ingest alchemical reagents designed to extend their lives or enhance their mystical powers.
 #### **Way of the Kabuki**<sup>UAH</sup>
-
+The Way of Kabuki is not practiced or taught in a stationary monastery, but in traveling theater troupes that seek to delight, awe, and shock audiences with bizarre, over-the-top performances. Monks of this tradition wear gaudy, avantgarde costumes with mask-like face paint, and utilize exaggerated movements and sounds to put on dance-dramas featuring outlandish humor and often ribald scenarios. They use stage names, and many actor monks go through several over the span of their career, reinventing themselves as they see fit, or as offended nobles and politicians demand retribution for perceived insults. Despite its appearance of irreverence and iconoclasm, the Way of Kabuki is rooted in a long tradition of honor and respect for the art and magic of showmanship and fellow actors. Performer monks too old To continue traveling, or wanting to use a new stage Name, take on an apprentice and teach them the art of Kabuki, eventually passing their moniker to the young Performer in elaborate ceremonies called shumei. This young monk then spends their life continuing The legacy of the name, and eventually passes it to an Apprentice of their own.
 #### **Way of the Peaceful Warrior**<sup>UAH</sup>
-
+Monks of the Way of the Peaceful Warrior understand that violence is sometimes necessary to accomplish objectives, but far prefer to disarm their opponents than maim or kill them. They believe in mercy and redemption, and will always try to guide those they meet to a better path, to a higher road. These monks excel at diffusing tense situations and resolving conflicts with the fewest possible injuries and casualties.
 #### **Way of the Tattooed Temple**<sup>UAH</sup>
-
+Some monks treat their bodies as temples and adorn them with vivid art honoring their values. Practitioners of the Way of the Tattooed Temple ink their bodies as they reach milestones in their personal journey, infusing some of these tattoos with mystical energy that evokes magical properties from the ink. Although some look askance at the appearance of these monks, none doubt their supernatural power.
 #### **Way of the Presence**<sup>UAH</sup>
+You follow a monastic tradition that teaches you to harness the energy field created by and connecting all living things. While monks of this tradition refer to this field as The Great Presence, it is known by many names, such as the Weave, the Life Wind, and the Force. Using your ki, you tap into The Great Presence to affect your body and the world around you. Some Presence monasteries teach their acolytes to seek enlightenment by forgoing their earthly attachments and moving past emotion, while others train their acolytes to use emotional extremes as fuel for their powers, to utilize any and all means to attain their goals and grasp their destiny. 
 
-#### **Way of Thorns**
-
+No matter which path you choose to follow, all aspects of the Presence are available for you to explore, and your mystic training gives you greater under- standing of the workings of the multiverse.
+#### **Way of Thorns**<sup>UAH</sup>
+Monks of the Way of Thorns embrace nature in all its aspects. They are at once in harmony with nature and ferocious guardians of its pristine condition. Monasteries of this tradition are sprawling gardens, where the monks learn to cultivate plants as beautiful as they are dangerous.
 #### **Way of the Sheep Dragon Shepard**<sup>(OTG)</sup>
-
+The sheep dragon is often regarded as the epitome of goodness and authenticity on the island. These creatures are dedicated to freedom and unwavering kinship. Those shepherds living and training among the wandering sheep dragons learn to care deeply for those around them and understand how a flock works together to overcome obstacles. They must be ready to flee to safety yet know when to defend their herd. The role of a sheep dragon shepherd requires resilience, compassion, and a kind heart. Because of this, shepherds across the island are regarded by the people of Obojima as heroic and sometimes even mythic figures.
 #### **Way of the Arcane Hand**<sup>(GTD)</sup>
-
+Monks who practice the Way of the Arcane Hand have trained their bodies and souls to be attuned to the weave of arcane magic. They can harness those cosmic energies and use them to fuel their martial practices. Monks of this tradition, although not mageborn, have gained control over the rawest and most natural forms of power.
 #### **Way of the Serpent**<sup>(GTD)</sup>
-
+Master of the spear, this nimble warrior uses polearms not only as a weapon, but as an extension of themselves, using their weapon to amplify mobility, maneuverability, and combat. Like a snake in the grass, the Way of the Serpent hones one’s ability to predict oncoming attacks, deflect from a distance, and strike with deadly precision.
 ## Mystic
 *Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
 
