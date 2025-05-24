@@ -1513,15 +1513,36 @@ This division’s primary responsibility is to oversee the correction of prisone
 
 ### <u>Subclasses - Mortal Burdens</u>
 
-*Martyrs are created and driven forth to right an inexorable wrong wrong in the world. On this quest, thjey are a diurect instrument of the gods, and no matter how hard they try, they cannot escape the burden of their duty. *
+*Martyrs are created and driven forth to right an inexorable wrong wrong in the world. On this quest, they are a direct instrument of the gods, and no matter how hard they try, they cannot escape the burden of their duty. *
+
 #### **Burden of Atonement**
+For all the wrong you have done in your life, the gods have graced you with an undeserved second chance. Your burden is to atone, to undo all the evils you have done in your life, and to seek redemption before the gods. How you accomplish this is your choice, so long as you remove any dark marks you leave behind. Ultimately, your final martyrdom might be a grand act, averting a great disaster or banishing a force of evil, or it might be as humble as redirecting the life of an evil person and causing them to seek redemption, passing the torch to a new martyr of atonement.
 #### **Burden of Discord**
-#### **Burden of The End**
+Martyrs of Discord are chosen at random to sow chaos and stoke evil wherever they travel. They light things on fire, commit petty crimes, and even murder when the fancy strikes. Given to their own predilections, martyrs of discord are unified only by their charge to disrupt the status quo as much as possible.
+
+No one is certain why the gods make martyrs of Discord in the first place. Perhaps it is at the whim of one capricious or evil god, or perhaps the gods desire a balance between chaos and law, and must sometimes stoke the fire to restore this balance.
+#### **Burden of the End**
+The gods have seen a great cataclysm on the horizon and tasked their martyr with protecting the world from catastrophe. The exact nature of the coming End may vary: sometimes the awakening or arrival of an evil entity, sometimes the discovery and abuse of a powerful artifact, and sometimes a singularly destructive event that endangers the gods themselves, but the martyr must be dedicated to give their lives to stop it. To this end, the gods imbue their martyr with ancient and powerful spells, tools once gifted only to prophets.
+
+When the coming cataclysm threatens the world, a martyr would be ill-served to ignore their call, for the cataclysm imperils them directly—as well as the lives of their family and companions. The life of a martyr is always forfeit, but the rest of the world can yet be saved.
 #### **Burden of Mercy**
+The gods have seen a great cataclysm on the horizon and tasked their martyr with protecting the world from catastrophe. The exact nature of the coming End may vary: sometimes the awakening or arrival of an evil entity, sometimes the discovery and abuse of a powerful artifact, and sometimes a singularly destructive event that endangers the gods themselves, but the martyr must be dedicated to give their lives to stop it. To this end, the gods imbue their martyr with ancient and powerful spells, tools once gifted only to prophets.
+
+When the coming cataclysm threatens the world, a martyr would be ill-served to ignore their call, for the cataclysm imperils them directly—as well as the lives of their family and companions. The life of a martyr is always forfeit, but the rest of the world can yet be saved.
 #### **Burden of Rebirth**
+The gods have seen a great cataclysm on the horizon and tasked their martyr with protecting the world from catastrophe. The exact nature of the coming End may vary: sometimes the awakening or arrival of an evil entity, sometimes the discovery and abuse of a powerful artifact, and sometimes a singularly destructive event that endangers the gods themselves, but the martyr must be dedicated to give their lives to stop it. To this end, the gods imbue their martyr with ancient and powerful spells, tools once gifted only to prophets.
+
+When the coming cataclysm threatens the world, a martyr would be ill-served to ignore their call, for the cataclysm imperils them directly—as well as the lives of their family and companions. The life of a martyr is always forfeit, but the rest of the world can yet be saved.
 #### **Burden of Revolution**
+Kings and leaders are bound by an unspoken covenant to the gods to govern their people justly and peacefully. When a monarch turns their back on the gods, embraces tyranny, or uses cruel measures against their own people, a martyr is called to end their reign. Rarely does a Martyr of Revolution come with peaceful measures, for when a king must fall, only the sword can provide the necessary leverage.
+
+Such martyrs are not only called to battle kings; any person of influence that oppresses others and abuses their power might wrong the gods enough to earn the ire of a martyr. In dark times, a martyr might be tasked with clearing a continent of despots and oppressors, calling for a full-scale military campaign of liberation.
 #### **Burden of Truth**
+Tasked with unveiling the world's deceptions and delivering to the people a profound truth, martyrs tasked with the Burden of Truth face an endless battle with disillusionment and lies. Such a martyr must earn the people's hearts and minds, turning their favors away from evil influences and toward divine ones. It is an uphill battle, but one that rarely requires grievous violence except in the most dire of circumstances.
+
+Martyrs of Truth are often deemed prophets, for their gods entrust them with knowledge of the future, insights into the past, and sagacious perspective on the present. Such information is proof of their messages' divine origin and is a necessary balm, for the truths such martyrs are called to preach are often a bitter pill for listeners to swallow.
 #### **Burden of Tyranny**
+When malevolent gods find the world pacified and defenseless, they send a martyr of tyranny to conquer its kingdoms, subjugate the weak, and spread misery with their blade. Once unleashed, this martyr stops at nothing to establish an empire to rule over with an iron fist. They demand bloodshed from their foes and pledges of absolute fealty from their allies, taking gleeful satisfaction with every power grab and malicious turn. It is not enough to rule: they must be feared, and any resistance must cower in their shadows. Only then will the gods let them die, likely stabbed in the back by someone crueler or more pitiless.
 ## Monk
 *Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
 
