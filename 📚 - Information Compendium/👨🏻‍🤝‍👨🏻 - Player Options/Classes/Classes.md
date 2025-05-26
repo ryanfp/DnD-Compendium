@@ -2250,13 +2250,17 @@ _**A Light in the Dark.**_ When hope is hard to find, light the way.
 
 _**No Rest for the Wicked.**_ When evil sleeps, strike true, and cast it away.
 #### **Oath of The Holy Flame**<sup>E</sup>
-Paladins who swear the Oath of the Holy Flame are drven by an unquenchable fire within them, a passion for spreading light and warmth wherever they go. They see themselves as agents of a divine inferno, burning away darkness and corruption with the pwoer of their oath. In battle, they are fearsome opponents, wreathed in hoyl fire that sears their enemies and guides their allies. 
+Paladins who swear the Oath of the Holy Flame are driven by an unquenchable fire within them, a passion for spreading light and warmth wherever they go. They see themselves as agents of a divine inferno, burning away darkness and corruption with the power of their oath. In battle, they are fearsome opponents, wreathed in holy fire that sears their enemies and guides their allies. 
 
 **Tenets of the Holy Flame**
 
 Paladins of the Holy Flame share these tenets. 
 
-_****_
+_**Walk with Burning Passion**_ Strive to have unwavering conviction and passion. This path is not an easy one; let the fire in your heart fuel your resolve. 
+
+_**Spread Your Light**_ Light shines the brightest in the darkest of places. Spread your light and fight against the forces of darkness wherever they may be found. 
+
+_**Kindle the Flame of Others**_ The Holy Flame is not meant to be held only be a select few. Kindle the flames of faith and hope in others, helping to bring light to the hearts of all. 
 #### **Oath of the Open Sea**<sup>TDR</sup>
 The Oath of the Open Sea calls to seafaring warriors, swashbuckling sailors, and traveling guardians who seek the thrill of a limitless horizon. Driven to search for adventure and mystery across and beneath every endless oceanic expanse, paladins who swear this oath stand against those who would deny liberty to likeminded travelers, rooting out tyranny and corruption wherever it is found. 
 
@@ -2274,31 +2278,133 @@ _**Adapt Like the Water.**_ The waters of the ocean can shift around any obstacl
 
 _**Explore the Uncharted.**_ The world is filled with mystery. Through the pursuit of enigmatic ends, one can uncover those who hide their foul deeds, and find the path to becoming something great.
 #### **Oath of Purgation**<sup>(SMR)</sup>
+The Oath of Purgation is dedicated to burning away the unclean, saving society from its foulest elements and then sealing the rot with fire. Their quest is never-ending, for corruption never ceases to spread; but a paladin of Purgation is up to the challenge, their hearts burning with a zealous flame equal to their armaments. 
 
+The Oath of Purgation may have different interpretations, of course. Some of its adherents purify the damned or the undead; others focus on psionicists or tainted sorcerers. Still others may interpret their oath through a nationalist lens, purging revolutionaries or other enemies of the state. 
+
+**Tenets of Purgation** 
+
+Paladins who swear the Oath of Purgation vow to burn away the evils that cripple society. 
+
+_**Spare Not the Flame.**_ Let no trace of evil remain in your wake. 
+
+_**Unceasing Zeal.**_ Be steadfast in your hunt, for even the noblest hearts can hide villainy. 
+
+_**Seal the Wound.**_ Leave no trace of rot unburnt, lest it spring back fouler than before.
 #### **Oath of Ancestors**<sup>UAH</sup>
+The Oath of Ancestors is a commitment to those who came before you to carry their legacies into the future. Dwarven paladins who take this oath do so to honor the founders of their clan while elven paladins channel their grief for those who passed on. When communities abandon long held traditions, paladins who’ve sworn this oath remind them of the examples their honor- able ancestors left behind. Sometimes called spectral knights, tomb guardians, or sin-eaters, paladins who swear this oath commune with their ancestors and pursue their ancestors’ ideals in the material realm. 
 
+**Tenets of Ancestors** 
+
+The exact tenets of Ancestors changes based on the ancestors being honored but all who swear the oath abide by these core principles. 
+
+_**Remember the Dead.**_ Remember those who have gone before you and passed on. Carry their memory in your mind and let those memories guide you. 
+
+_**Respect the Dead.**_ Show deference to the resting places of the dead and follow the wishes of the departed. 
+
+_**Honor the Dead.**_ Honor the dead with your actions. Let your righteousness be a reminder to others of their virtue and strength. 
+
+_**Death is Peace.**_ The undead are an affront to the serenity of true death. Show the undead the mercy of ushering them into the next world as quickly as possible.
 #### **Oath of Compassion**<sup>UAH</sup>
+Paladins swearing the oath of compassion believe that every foe can be made into a friend and that all friends are worth fighting for. Although this philosophy might seem at odds with their martial training, these paladins are not hopeless idealists. When the vulnerable are threatened, they act as a shield first and a sword second. If they can’t parley an enemy out of violence, they’ll seek to minimize and repair any damage caused by all involved parties. 
 
+**Tenets of Compassion** 
+
+Paladins who swear the Oath of Compassion pledge to open their hearts to enemies as easily as to friends. These paladins are not guided by naivety but an unflinching belief that every life matters. 
+
+_**Hospitality.**_ Strangers are your friends. The homeless must be given shelter from the storm, under your own roof if need be. 
+
+_**Honor.**_ Treat others with fairness, and lead by example. Do as much good as possible while causing the least amount of harm. 
+
+_**Protection.**_ Repay violence with swift violence, so that the fewest may be hurt. 
+
+_**Redemption.**_ Redemption is possible for all individuals. Foster and assist them in their journey.
 #### **Oath of the Planes**<sup>UAH</sup>
+The Oath of the Planes binds a paladin to the fragile balance of good and evil in the multiverse. Unlike many Sacred Oaths, which commit paladins to narrow, unflinching ideals, this Oath implores them to view the greater tapestry. These paladins see that, just like the concept that light cannot exist without darkness, neither can the forces of good exist without the forces of evil; without the proper balance, the entirety of existence would unravel. To ensure this never occurs, these paladins — often called planeswalkers, gray knights, or portal knights — travel the planes of the multiverse, immersing themselves in dimensional magics and the boundaries of reality to maintain balance. 
 
+_**Tenets of the Planes** _
+
+The tenets of the Oath of the Planes are often difficult for individuals to uphold. Despite the necessity, many paladins find it difficult to remain impartial, and even more difficult to leave the ones they love when they feel themselves shirking their duties. It can also be tragic for these paladins to actively support certain evils, and actively destroy certain good, in order to keep the multiverse in balance; it is far easier for them when evil threatens to overwhelm good. Due to the harshness of the tenets, most paladins who take this oath are lawful neutral in alignment. 
+
+_**No Good without Evil.**_ Without evil, good cannot exist. Some forces of evil must be allowed, while some forces of good must be struck down if they threaten to overwhelm evil. 
+
+_**Travel the Planes.**_ To understand the greater scope of the multiverse’s balance, I travel the worlds within it. Remaining in one location causes me to lose perspective. 
+
+_**Objectivity.**_ I remain impartial, placing the balance of the multiverse, and thereby everyone in it, over any individual attachment or life.
 #### **Oath of Rebellion**<sup>UAH</sup>
+The Oath of Rebellion is a righteous commitment to stamp out all tyranny, to uphold the ideals of liberty and free will. Sometimes called torchbearers, mob knights, or riot knights, paladins who swear this oath are champions of the common man, and scourges of all those who would oppress them. They believe that, if it is in the name of ending a dictator’s rule, they can engage in any deception, treachery, and violence, proclaiming that freedom for all is worth any stain on their soul. 
 
+**Tenets of Rebellion** 
+
+Though specific tenets of the Oath of Rebellion can vary by paladin, the basic intents are the same. Due to the flagrant disregard for societal law and the demand for self-sacrifice in these tenets, most paladins of the Oath of Rebellion are chaotic good in alignment. 
+
+_**Suffer no Tyranny.**_ I recognize tyranny in all its forms, and tolerate none of it. Dictatorship, hypocrisy, and corruption all must be expunged. 
+
+_**Ignite the Fire.**_ No single ember can burn a castle to the ground, but many embers combine to create an inferno powerful enough to raze any fortress. I inspire the oppressed to join me in the fight for their freedom. 
+
+_**Never Back Down.**_ No matter my own personal suffering or tragedy, I continue forward. I refuse to be struck down without accomplishing my mission. 
+
+_**Ends Justify Means.**_ I will engage in murder, deceit, and treachery if it means that innocents can be free. I eat these sins in the name of liberty.
 #### **Oath of Unity**<sup>UAH</sup>
+Paladins of the Oath of Unity fight for their companions. And in return, it is their companions’ faith in them that powers their divine ability. Paladins of the Oath of Unity are never truly alone, not when the hopes and dreams of those around the world are riding on them. Paladins who take this oath are often inspiring leaders and empowering teammates. After all, the more they do to support their companions, the stronger they become. 
 
+**Tenets of Unity** 
+
+The tenets of the Oath of Unity compel paladins to consider how every victory is won not by their own strengths alone but by the joined efforts of their companions and every ally they’ve made along the way. 
+
+_**Solidarity.**_ Your greatest strength comes in lifting up others. 
+
+_**Trust.**_ You trust your companions with your life. You must also be the kind of person they can trust in turn. 
+
+_**Teamwork.**_ Your victories do not just belong to you; they belong to everyone who has helped you come this far.
 #### **Oath of Vigilance**<sup>UAH</sup>
+Paladins who swear the Oath of Vigilance believe their highest calling is in service to others. Those who swear the Oath of Vigilance devote their lives to finding those worthy of protection and ensuring no harm comes to them. These paladins have as strict a moral code as any other but prize obedience to a righteous master above everything else. To them, any untoward actions taken in protecting their ward is justified. 
 
+**Tenets of Vigilance** 
+
+The tenets of the Oath of Vigilance vary by paladin, but all tenets revolve around protecting and honoring those the paladin deems worthy of their protection. Paladins who uphold these tenets are willing to sacrifice themselves for the sake of that which they safeguard, even abandoning their own dignity if it ultimately protects the name of their ward. 
+
+_**Defend the Greater Good.**_ I place my life in the hands of someone greater than myself. I will defend those I deem morally greater than me to the death. 
+
+_**Absolved by Obedience.**_ My own ability to comprehend is lesser than those I protect. I am absolved of my flaws by strict obedience to their directions. Honor by Association. I am honored by my relationship with those I protect and, in turn, I must honor them by acting with integrity and respect. 
+
+_**Humility.**_ When I find someone worthy of protecting I will make their will and life my priority. Through the advancement of their goals will I improve the world and be personally fulfilled.
 #### **Oath of The River**<sup>(OTG)</sup>
+Those who commit themselves to the Oath of the River have found guidance in the shifting waters and the great creatures that live within them. These diverse individuals model their lives and the tenets they follow after the tranquil waters of a blue pool and the rushing rapids that spill over a great waterfall, always striving to flow around obstacles if possible, but ready to crash through them when left with no other option. As the river flows and bends, it seeks the path of least resistance in its travels to the ocean. Like the river, paladins who have sworn this oath remain adaptable but steadfast in their own course.
 
+**Tenets of the River**
+
+The tenets of the Oath of The River vary by paladin, but all of them revolve around embracing the flow and adaptability found in water. Paladins who uphold these tenets must understand when it is best to dispatch justice through violence or through understanding and forgiveness. The core principles of the tenets are: 
+
+_**The River Flows On.**_ Forgiveness can be as sharp as any blade. 
+
+_**The River Quenches or Drowns.**_ Judgment is reserved for those truly deserving of it. 
+
+_**The River Rages.**_ If I must battle, I will fight with all my passion and strength. 
+
+_**The River Seeks the Sea…Always.**_ I will not abandon my duty, especially when others are counting on me.
 #### **Oath of Hexes**<sup>(GTD)</sup>
+Those who swear an oath of hexes are sworn to witch covens, fey creatures, and occult deities of magic, fate, and death. In exchange, this sacred oath empowers paladins with fickle magic to curse those who would try to tempt fate or escape the ire of the Old Gods. 
 
+**Tenets of Hexes** 
+
+Paladins of the Oath of Hexes are sworn by these tenets.
+
+_**Serve the Occult.**_ Deities with power over the future have infused you with occult magic. Through your oath, you are made a mortal vessel for their inscrutable will. 
+
+_**Keeper of Secrets.**_ This world harbors dark secrets which are best kept long forgotten. You stand as the protectors of those secrets, preventing them from falling into the hands of weak- willed mortals who would misuse them to evil ends. 
+
+_**Arbiter of Fate.**_ The strands of fate were woven long ago, and it is folly to fight them. Misfortune befalls all. 
+
+_**Show No Mercy.**_ Though some think your strange powers are dark or corrupted, you vanquish evil with the very curses and magics that they would use against you. Show no mercy to those who resist their fate.
 ## Psion
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
+*Whether through years of practice, or a once in a generation innate talent, Psions learn to manipulate the world with the wondrous power of their minds. Drawing upon the mystical power within, they can communicate without speaking, move objects, alter their physical bodies, and even manifest spells. Relying solely on mastery of their mind, Psions can perform feats thought impossible, even by the most erudite Wizards and devout Clerics. For Psions, it is a point of great pride that they can produce wonders without the help of external power. Due to their potential, Psions are often misunderstood and feared by the common folk. If they don’t learn to control their power, their strange abilities can cause them to be shunned and hated by those around them. Most Psions reveal their power only when necessary, and are hesitant to trust others.*
 
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
+*Since a psion’sww weapon is their mind, they are always a careless thought away from harming those around them. For a psion, the line between thinking and doing can be very thin, forcing them to keep their thoughts and emotions in check, lest their powers run amok. This leads to many of them developing odd behaviors or mannerisms to help them control their state of mind, frequently seeming quite eccentric to an outside observer.* 
 
 ### <u>Subclasses - Psionic Awakenings</u>
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
+*A Psion's master and how they are trained has great effect on the nature of their abilities. For some, their gift is honed through years of practice and meditation. Others are trained to use their mystic abilities to morph their bodies into deadly weapons. And for the rare few who are never discovered by a master, or attempt to stifle their power, they risk outbursts of wild psionic energy that can have devastating effects.*
 ### *KibblesTasty*
 #### **Awakened**
 #### **Unleashed**
