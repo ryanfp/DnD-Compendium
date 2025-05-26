@@ -2172,21 +2172,107 @@ _**Interconnected World.**_ No creature exists without its habitat, and no habit
 
 _**Strength in Diversity.**_ A lost species robs the world of music, color, and life. Every member of a species is as valuable as the whole. Do not allow the world to be silenced by a thousand whispers or killed by a thousand cuts.
 #### **Oath of Avarice**<sup>(CFSA)</sup>
+Wealth is the availability of goods and services, and thus is a representation of both power and opportunity. A wealthy benefactor can save a civilization, while a wealthy tyrant can turn the world on its head. You’ve sworn to let nothing stand between you and the accumulation of wealt6h, as any whim that takes you can be accomplished with the prudent use of overwhelming financial might. You may have attracted the attention of the Currency Conspiracy, for if your greed blinds you to the truth of their work, they will gladly take you into their ranks. 
 
+**Tenets of Avarice**
+
+The tenets of the Oath of Avarice are often sworn only to oneself, born of greed, desire, and greater goals.
+
+_**Take and Keep.**_ The more you have, the more you can do. Take what you need and give nothing back without greater gain. 
+
+_**Spend and Deliver**_ Everything has a price. Seek wealth so that you can pay it in coin, rather than your own blood. 
+
+_**Blood and Soul**_ There are currencies intangible that must be obtained or protected, for wealth is worthless otherwise. 
+
+_**Wealth and Unity**_ All the money in the world does nothing if you cannot spend it. Join with others and invest in their efforts, so that you may reap the rewards. 
 #### **Oath of Judgement**<sup>(CFSA)</sup>
+You have sworn to balance the cosmic scales of the universe, following in the footsteps of the Warrior-Saint, an immortal justiciar who fights to maintain order and balance between the infinite planes. Those who take this oath are forever bound to fight and slay creatures that go against the order of the cosmos, such as fiends that would seek to destroy the heavens, or angels that hunger to purify the hells. Otherworldly entities such as the ever-conflicting Alrisen often attract the attentions of these justiciars, who work to support the losing side so that the world will not be destroyed by their conflict, and so all mortal individuals will retain the right to choose instead of being forced to obey the unconscious desires of greater beings. If a conflict arises that cannot be contained by words alone, it is your task to decide the outcome. You are the judge and the executioner, and the world is your courtroom. All shall rise in your honor, and shall fall by your hand. 
 
+**Tenets of Judgement**
+
+The tenets of the Oath of Judgement are commonly witnessed by a scribeant swarm, which records the event in perfect clarity for review by the Warrior-Saint itself. This oath holds the following tenets above all others:
+
+_**Know the Truth.**_ Always seek a full understanding of the reality of the situation, and let no illusions stand before your impartial gaze. 
+
+_**Destroy the Guilty.**_ Order must be maintained and enforced without exception. There will always be another villain to replace this one. 
+
+_**Maintain the Balance.**_ Angels and demons, fey and nightmares from beyond the planes, all must heed the order of the cosmos. Defiance is death. 
+
+_**Harmonize the Scales.**_ Sometimes, there is no enemy before you. Work to undo the damage done by the accused. 
 #### **Oath of Harvest**<sup>(HGMH)</sup>
+The Oath of the Harvest attracts paladins who wish  missions to war-torn lands, such paladins resort to harm only as a means of preventing further suffering. Paladins who swear this oath are more likely than not to heal, feed, and nurture a wounded foe, provided the defeated creature gives its word of honor that it will cease its nefarious activities. They are no fools, however. Typically versed in religion and medicine, these paladins are unlikely to believe the word of creatures inherently inclined to lie, or those that have previously broken their word. 
 
+**Tenets of the Harvest** 
+
+The tenets of the Oath of the Harvest inspire their followers to seek out potential harm and quell it before it blossoms.
+
+_**Share Your Meal.**_ Your powers are a gift to be shared; if someone is in need, you must use your powers to meet those needs. To eat your fill while another goes hungry is selfish. 
+
+_**Nurture Over Cure.**_ Act in the greatest interest of the many. Find ways to prevent harm before it must be healed.
+
+_**Permit Prosperity.**_ Whether in matters of love, politics, or war, always give your antagonist the opportunity to change and redeem themselves before casting a fatal judgement. A good meal can serve as the backdrop to such events.
 #### **Oath of the Hearth**<sup>(TGS)</sup>
+The Oath of the Hearth originates from the city of the same name, whose tragic downfall has been all but lost to history over centuries. These paladins swore an oath to protect this tropical, sunlit city in the name of their celestial guardians. Until the end, they fulfilled their oaths. You may swear this oath because you have an age-old connection to the city through your bloodline, or may have established a connection to the city’s principles through stories or interaction with a related celestial being. Regardless of your reasons for taking it, those that swear this oath adorn their armor with symbols of community, fire, and the sun to reflect their commitment to the city and the lives that were led there. 
 
+**Tenets of the Hearth** 
+
+The tenets of the Oath of the Hearth are linked directly to the once-flourishing city of the oath’s origin. The culture was vibrant and open, and thrived under the tropical sun in the Elsath Jungle. They were supportive of children’s imagination and new ideas, and as a community would rush to foster good creativity. With new ideas came progress and prosper- ity, and with each new generation, the future always looked brighter. The core principles of this oath are devoted to sup- porting the weak, developing community, and destroying the evils that would seek to harm them. 
+
+_**Shield the Embers.**_ Protect those that can’t defend them- selves. Every ember is a fount of possibility and strength. 
+
+_**Feed the Fire.**_ Keep the fires of passion burning. New ideas light the way to progress and salvation. 
+
+_**Share the Warmth.**_ Offer guidance and kindness to those that need it. Respite and rest are always free to give. 
+
+_**Burn Away Evil.**_ Turn those that would harm the innocent or douse the peoples’ flames to ash.
 #### **Oath of Spelldrinker**<sup>(TGS)</sup>
+The Oath of the Spelldrinker is devoted to ridding the world of renegade mages, such as liches or the occult, in order to protect the helpless from the forces of evil magic. The paladins who swear this oath believe in maintaining the balance of power between the ordinary and the extraordinary, including themselves. These paladins are resourceful and quick to remember their own mortality and privilege, often choosing to pursue mundane solutions before magical ones. Despite their caution, these wardens of balance are exemplary arcanists who can feel the weave of magic in the world as keenly as some of the finest sorcerers. 
 
+**Tenets of the Spelldrinker**
+
+The tenets of the Oath of the Spelldrinker were written and passed down by cautious guardians set to rid the world of evil mages. They emphasize balance within oneself through the following tenets: 
+
+_**Be the Sword.**_ Be a stalwart champion of fairness and equality among all. The sword doesn’t cheat fate: it dances with it. 
+
+_**Be the Shield.**_ Defend the innocent against the forces of rampant magic. The shield is patient and unwavering in the face of the unknown. 
+
+_**Be the Spell.**_ Use your power to provide balance and guidance. The spell can lead to prosperity as easily as it can to ruin: you must always choose the righteous path.
 #### **Oath of Dreamwarden**<sup>(TGS)</sup>
+The Oath of the Dream Warden binds a paladin to protect one of the most basic, unifying, and coveted elements of existence: sleep. These paladins stand in the face of evil— both real and imagined—that threaten the rest of others. By devoting themselves to this cause, a paladin sets off to make a future where everyone can sleep fitfully, safe from harm and worry. A paladin of this oath also deals in the subtle workings of the subconscious mind and magic, sharing their dreams with others and using them to play tricks of the eye. 
 
+**Tenets of the Dreamwarden**
+
+The tenets of the Dream Warden guide them to protect their flock while they’re at their most defenseless. 
+
+_**Guard the Threshold.**_ When terror creeps nearby, stand in its way. 
+
+_**A Light in the Dark.**_ When hope is hard to find, light the way. 
+
+_**No Rest for the Wicked.**_ When evil sleeps, strike true, and cast it away.
 #### **Oath of The Holy Flame**<sup>E</sup>
+Paladins who swear the Oath of the Holy Flame are drven by an unquenchable fire within them, a passion for spreading light and warmth wherever they go. They see themselves as agents of a divine inferno, burning away darkness and corruption with the pwoer of their oath. In battle, they are fearsome opponents, wreathed in hoyl fire that sears their enemies and guides their allies. 
 
+**Tenets of the Holy Flame**
+
+Paladins of the Holy Flame share these tenets. 
+
+_****_
 #### **Oath of the Open Sea**<sup>TDR</sup>
+The Oath of the Open Sea calls to seafaring warriors, swashbuckling sailors, and traveling guardians who seek the thrill of a limitless horizon. Driven to search for adventure and mystery across and beneath every endless oceanic expanse, paladins who swear this oath stand against those who would deny liberty to likeminded travelers, rooting out tyranny and corruption wherever it is found. 
 
+Such guardians believe in the natural beauty of the sea, often making offerings and prayers to entities or deities such as the Wildmother or the Stormlord who influence safe passage. At the same time, they answer the call to hunt the monstrous creatures that too often bloody the waters with wanton violence and ill intent, and which terrorize the folk of the sea and shore.
+
+**Tenets of the Open Sea**
+
+Freedom can be a selfless virtue or a selfish want. For paladins who swear the Oath of the Open Sea, freedom is the highest calling, and a gift to be granted to all.
+
+_**No Greater Life than a Life Lived Free.**_ One should be free to chart their own path without oppression. Those who would exert their power to dominate others shall be smote.
+
+_Trust the Skies._ The guidance of a strong breeze. The rumbling warnings of a coming storm. Nature is a source of portent and council that should be heeded.
+
+_**Adapt Like the Water.**_ The waters of the ocean can shift around any obstacle—or become the most impassable obstacle of all. They carve away the land to reveal the secrets of the past, or swallow the truth and hide it forever. To embrace this fluidity is to be ready for any challenge.
+
+_**Explore the Uncharted.**_ The world is filled with mystery. Through the pursuit of enigmatic ends, one can uncover those who hide their foul deeds, and find the path to becoming something great.
 #### **Oath of Purgation**<sup>(SMR)</sup>
 
 #### **Oath of Ancestors**<sup>UAH</sup>
