@@ -1736,80 +1736,267 @@ Plague Lord
 Reanimator
 Reaper
 ## Occultist
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
+*Occultists are those that follow the old ways, a path of ritual and wisdom long known yet oft forgotten. Rather than force magic to obey, they bind, twist, manipulate, and compromise with it. They follow ancient agreements and techniques to produce results that few fully understand, even those that use them, but they know it will work, for it always has.*
 
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
+*Occultists are spellcasters following legacies that go far back. While they may or may not be directly tutored or influenced by another member of their tradition, their path to magic involves unearthing ancient secrets, old ways, and knowledge gleaned from spirits, ghosts, and elementals. They often personify aspects of their magic in ways that other casters find odd, coaxing and manipulating magic forces by ancient laws and bargains. Occultists tread between the arcane and the divine, not necessarily worshiping any god, but treating gods and spirits alike with cautious respect for their domains, asking for what they take, and carefully giving thought to their actions.* 
 
-### <u>Subclasses - Occult Traditions / Occult Paths</u>
+### <u>Subclasses - Occult Traditions</u>
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
-### *KibblesTasty* + Masterclass CODEX
+*Each tradition that appears in the Occultist is an ancient legacy of magic, found deep within folklore and story. Every villager could tell you stories of Occultists and their traditions, and they are often seen in this context. Though villagers and the superstitious might fear them and their magic, they may be more likely to turn to them than a Wizard, for at least an Occultist makes sense to them, even if they are scared by their powers.*
+### *KibblesTasty* 
 #### **Witch Tradition**
-#### **Shaman Tradition**
-#### **Oracle Tradition**
-#### **Hedgemage Tradition**
-#### **Spiritualist Tradition**
-#### **Voidwatcher Tradition**
-## Paladin
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
+A Witch can be many things, and most often refers to someone that villagers find scary and weird, but at the heart of every crazed story there's a sliver of truth, and that truth is that Witches do indeed exist. 
 
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
+Some may live openly as what they are, while others may be the last person the superstitious villagers might expect. Varied in their powers, designs, and traditions based on their Coven, generalizing about a Witch is challenging, but they are most often defined by the varied utilitarian magic, hexes that make crossing them unwise, and powerful intelligent familiars.
+#### **Shaman Tradition**
+A shaman is an Occultist that walks the paths of the spirits, binding them to their cause to empower themselves or bring havoc to their foes. Tough and powerful, they are most often found in the thick of the fight, wreathed in their primal power. A shaman may view themselves as in service to their spirits or as served by the spirits; the what and the how of their contract can vary wildly, as can the source of their spirits, be it pulling from ancestral or primal powers.
+#### **Oracle Tradition**
+An Oracle is an Occultist whose power comes to them from their connection to fate; bound and empowered Oracles carry some piece of divine mystery within them, tied to an aspect of destiny and fate. As their power grows they begin to understand this mystery with revelations, unlocking its secrets and the power they contain. 
+
+An Oracle typically does not directly serve a god, rather they often are people whose fate has entangled them in the affairs of the gods. Oracles have great power, but their powers are not ones that mortals were meant to have, and consequently they are frequently burdened by their powers.
+#### **Hedgemage Tradition**
+This tradition is a loose collection of magic users that benefit from a wide array of traditions and practical knowledge to build up a collection of eccentric magical knowledge. Their methods are often frowned upon by those of more studied routes, but their practical skills cannot be denied, and their unique understanding of magic that they have developed with their own hands and minds should not be underestimated.
+#### **Spiritualist Tradition**
+Occultists who delve into the mystical arts of spiritual health and ailments, Spiritualists are masters of indirect methods and mystic secrets, gleaned only from ancient methods and whispers from the beyond. Mysterious and often reclusive, they wield subtle powers to strengthen or debilitate.
+#### **Voidwatcher Tradition**
+Voidwatchers are those that have gazed into an infinite void - glimpsed a creature of unlimited power, a plane beyond comprehension, or truth beyond the veil. They forever have a fragment of what they have seen embedded into their eyes, branded onto their mind. While some creatures are driven entirely insane (or, perhaps more troubling, entirely sane), those that remain functional are those that can grasp and contextualize what they have seen, compartmentalizing and containing their fragment of madness within them. How a Voidwatcher processes the insignificance of reality influences their powers, though they all tend to develop a certain fatalistic streak having seen something on a scale beyond mortal comprehension.
+## Paladin
+*A paladin swears to uphold justice and righteousness, to stand with the good things of the world against the encroaching darkness, and to hunt the forces of evil wherever they lurk. Different paladins focus on various aspects of the cause of righteousness, but all are bound by the oaths that grant them power to do their sacred work. Although many paladins are devoted to gods of good, a paladin’s power comes as much from a commitment to justice itself as it does from a god. Paladins train for years to learn the skills of combat, mastering a variety of weapons and armor. Even so, their martial skills are secondary to the magical power they wield: power to heal the sick and injured, to smite the wicked and the undead, and to protect the innocent and those who join them in the fight for justice.*
+
+*Almost by definition, the life of a paladin is an adventuring life. Unless a lasting injury has taken him or her away from adventuring for a time, every paladin lives on the front lines of the cosmic struggle against evil. Fighters are rare enough among the ranks of the militias and armies of the world, but even fewer people can claim the true calling of a paladin. When they do receive the call, these warriors turn from their former occupations and take up arms to fight evil. Sometimes their oaths lead them into the service of the crown as leaders of elite groups of knights, but even then their loyalty is first to the cause of righteousness, not to crown and country.* 
 
 ### <u>Subclasses - Sacred Oaths</u>
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
+*Paladins who have sworn different oaths may be no more similar than two perfect stranger, but those who swear themselves to the same cause are brothers and sisters, comrades until the end. Many form knightly confederations or grand lodges, but their headquarters differ from lonely monasteries. Theirs are active training grounds and staging areas to prepare their members for the daunting work their oaths demand*
 #### **Oath of Devotion**
+The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods’ tenets as the measure of their devotion. They hold angels — the perfect servants of good — as their ideals, and incorporate images of angelic wings into their helmets or coats of arms. 
+
+Many who swear this oath are devoted to gods Of law and good and use their gods' tenets as the Measure of personal devotion. Others hold angels as Their ideals and incorporate images of angelic wings Into their helmets or coats of arms. 
+
+**Tenets of Devotion**
+
+Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.
+
+_**Honesty.**_ Don’t lie or cheat. Let your word be your promise.
+
+_**Courage.**_ Never fear to act, though caution is wise.
+
+_**Compassion.**_ Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.
+
+_**Honor.**_ Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.
+
+_**Duty.**_ Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.
 #### **Oath of the Ancients**
+The Oath of the Ancients is as old as the race of elves and the rituals of the druids. Sometimes called fey knights, green knights, or horned knights, paladins who swear this oath cast their lot with the side of the light in the cosmic struggle against darkness because they love the beautiful and life-giving things of the world, not necessarily because they believe in principles of honor, courage, and justice. They adorn their armor and clothing with images of growing things — leaves, antlers, or flowers — to reflect their commitment to preserving life and light in the world. 
+
+**Tenets of the Ancients**
+
+The tenets of the Oath of the Ancients have been preserved for uncounted centuries. This oath emphasizes the principles of good above any concerns of law or chaos. Its four central principles are simple.
+
+_**Kindle the Light.**_ Through your acts of mercy, kindness, and forgiveness, kindle the light of hope in the world, beating back despair.
+
+_**Shelter the Light.**_ Where there is good, beauty, love, and laughter in the world, stand against the wickedness that would swallow it. Where life flourishes, stand against the forces that would render it barren.
+
+_**Preserve Your Own Light.**_ Delight in song and laughter, in beauty and art. If you allow the light to die in your own heart, you can’t preserve it in the world.
+
+_**Be the Light.**_ Be a glorious beacon for all who live in despair. Let the light of your joy and courage shine forth in all your deeds.
 #### **Oath of Vengeance**
+The Oath of Vengeance is a solemn commitment to punish those who have committed a grievous sin. When evil forces slaughter helpless villagers, when an entire people turns against the will of the gods, when a thieves’ guild grows too violent and powerful, when a dragon rampages through the countryside — at times like these, paladins arise and swear an Oath of Vengeance to set right that which has gone wrong. To these paladins — sometimes called avengers or dark knights — their own purity is not as important as delivering justice. 
+
+**Tenets of Vengeance**
+
+The tenets of the Oath of Vengeance vary by paladin, but all the tenets revolve around punishing wrongdoers by any means necessary. Paladins who uphold these tenets are willing to sacrifice even their own righteousness to mete out justice upon those who do evil, so the paladins are often neutral or lawful neutral in alignment. The core principles of the tenets are brutally simple.
+
+_**Fight the Greater Evil.**_ Faced with a choice of fighting my sworn foes or combating a lesser evil, I choose the greater evil.
+
+_**No Mercy for the Wicked.**_ Ordinary foes might win my mercy, but my sworn enemies do not.
+
+_**By Any Means Necessary.**_ My qualms can’t get in the way of exterminating my foes.
+
+_**Restitution.**_ If my foes wreak ruin on the world, it is because I failed to stop them. I must help those harmed by their misdeeds.
 #### **Oathbreaker**
+An Oathbreaker is a paladin who breaks his or her sacred oaths to pursue some dark ambition or serve an evil power. Whatever light burned in the paladin’s heart has been extinguished. Only darkness remains.
 #### **Oath of Conquest**
+The Oath of Conquest calls to paladins who seek glory in battle and the subjugation of their enemies. It isn’t enough for these paladins to establish order. They must crush the forces of chaos. Sometimes called knight tyrants or iron mongers, those who swear this oath gather into grim orders that serve gods or philosophies of war and well-ordered might.
+
+Some of these paladins go so far as to consort with the powers of the Nine Hells, valuing the rule of law over the balm of mercy. The archdevil Bel, warlord of Avernus, counts many of these paladins — called hell knights — as his most ardent supporters. Hell knights cover their armor with trophies taken from fallen enemies, a grim warning to any who dare oppose them and the decrees of their lords. These knights are often most fiercely resisted by other paladins of this oath, who believe that the hell knights have wandered too far into darkness.
+
+**Tenets of Conquest**
+
+A paladin who takes this oath has the tenets of conquest seared on the upper arm.
+
+**Douse the Flame of Hope.** It is not enough to merely defeat an enemy in battle. Your victory must be so overwhelming that your enemies’ will to fight is shattered forever. A blade can end a life. Fear can end an empire.
+
+**Rule with an Iron Fist.** Once you have conquered, tolerate no dissent. Your word is law. Those who obey it shall be favored. Those who defy it shall be punished as an example to all who might follow.
+
+**Strength Above All.** You shall rule until a stronger one arises. Then you must grow mightier and meet the challenge, or fall to your own ruin.
 #### **Oath of Redemption**
+The Oath of Redemption sets a paladin on a difficult path, one that requires a holy warrior to use violence only as a last resort. Paladins who dedicate themselves to this oath believe that any person can be redeemed and that the path of benevolence and justice is one that anyone can walk. These paladins face evil creatures in the hope of turning their foes to the light, and they slay their enemies only when such a deed will clearly save other lives. Paladins who follow this path are known as redeemers.
+
+While redeemers are idealists, they are no fools. Redeemers know that undead, demons, devils, and other supernatural threats can be inherently evil. Against such foes, paladins who swear this oath bring the full wrath of their weapons and spells to bear. Yet the redeemers still pray that, one day, even creatures of wickedness will invite their own redemption.
+
+
+**Tenets of Redemption**
+
+The tenets of the Oath of Redemption hold a paladin to a high standard of peace and justice.
+
+**Peace.** Violence is a weapon of last resort. Diplomacy and understanding are the paths to long-lasting peace.
+
+**Innocence.** All people begin life in an innocent state, and it is their environment or the influence of dark forces that drives them to evil. By setting the proper example, and working to heal the wounds of a deeply flawed world, you can set anyone on a righteous path.
+
+**Patience.** Change takes time. Those who have walked the path of the wicked must be given reminders to keep them honest and true. Once you have planted the seed of righteousness in a creature, you must work day after day to allow that seed to survive and flourish.
+
+**Wisdom.** Your heart and mind must stay clear, for eventually you will be forced to admit defeat. While every creature can be redeemed, some are so far along the path of evil that you have no choice but to end their lives for the greater good. Any such action must be carefully weighed and the consequences fully understood, but once you have made the decision, follow through with it knowing your path is just.
 #### **Oath of Glory**
+Paladins who take the Oath of Glory believe they and their companions are destined to achieve glory through deeds of heroism. They train diligently and encourage their companions, so they're all ready when destiny calls. 
+
+**Tenets of Glory**
+
+The tenets of the Oath of Glory drive a paladin to attempt heroics that might one day shine in legend.
+
+_**Actions over Words.**_ Strive to be known by glorious deeds, not words.
+
+_**Challenges Are but Tests.**_ Face hardships with courage, and encourage your allies to face them with you.
+
+_**Hone the Body.**_ Like raw stone, your body must be worked so its potential can be realized.
+
+_**Discipline the Soul.**_ You must marshal the discipline to overcome failings within yourself that threaten to dim the glory of you and your friends.
 #### **Oath of the Watchers**
+The Oath of the Watchers binds paladins to protect mortal realms from the predations of extraplanar creatures, many of which can lay waste to mortal soldiers. Thus, the Watchers hone their minds, spirits, and bodies to be the ultimate weapons against such threats.
+
+Paladins who follow the Watchers’ oath are ever vigilant in spotting the influence of extraplanar forces, often establishing a network of spies and informants to gather information on suspected cults. To a Watcher, keeping a healthy suspicion and awareness about one’s surroundings is as natural as wearing armor in battle.
+
+**Tenets of the Watchers**
+
+A paladin who assumes the Oath of the Watchers swears to safeguard mortal realms from otherworldly threats.
+
+_**Vigilance.**_ The threats you face are cunning, powerful, and subversive. Be ever alert for their corruption.
+
+_**Loyalty.**_ Never accept gifts or favors from fiends or those who truck with them. Stay true to your order, your comrades, and your duty.
+
+_**Discipline.**_ You are the shield against the endless terrors that lie beyond the stars. Your blade must be forever sharp and your mind keen to survive what lies beyond.
 #### **Oath of the Crown**
+The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the just laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or a sovereign, and undergo their oath as part of their admission to the order’s ranks.
+
+**Tenets of the Crown**
+
+The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.
+
+_**Law.**_ The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.
+
+_**Loyalty.**_ Your word is your bond. Without loyalty, oaths and laws are meaningless.
+
+_**Courage.**_ You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don’t act, then who will?
+
+_**Responsibility.**_ You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.
 #### **Oath of Eternal Night**<sup>(VSS)</sup>
+
 #### **Oath of Heresy**<sup>(VSS)</sup>
+
 #### **Oath of Revelry**<sup>(VSS)</sup>
+
 #### **Oath of Storms**<sup>(VSS)</sup>
+
 #### **Oath of The Sun**<sup>(VSS)</sup>
+
 #### **Oath of Winter**<sup>(VSS)</sup>
+
 #### **Oath of Heroism**<sup>(UA)</sup>
+
 #### **Oath of Treachery**<sup>(UA)</sup>
+
 #### **Oath of the Grave**<sup>(DAC)</sup>
+The Oath of the Grave is a seldom practiced tradition, most Commonly reserved for the followers of the Raven Queen. Sometimes called winter knights, black knights, or grave knights, These paladins serve as protectors of the sacred passing into the Afterlife. They constantly struggle against the forces of undeath, As they see them as the most unholy abominations that blight this Land. They adorn themselves with images of death and winter - Skulls, ravens, or similar symbols of their patron gods.
+
+**Tenets of the Grave**
+
+The tenets of the Oath of the grave have been passed down for generations. This oath emphasizes the passing between the warmth of life to the everlasting cold of death, and punishes those that defile this passing with the unholy raising of undead.
+
+**Annihilate the Unholy.** The undead and those who foster them are unholy and wicked. Destroy them before they defile more than they have already
+
+**Preserve the Righteous.** Death should not come early to those who have led a blessed life . Preserve the righteous, so they may live on without fear.
+
+**Let Souls Pass On.** Every soul deserves its place in the afterlife. When you see a creature forced into undeath, let its soul go free.
+
+**Accept Death.** Death comes to all eventually. Accept it, and you will find a place in the afterlife.
 #### **Oath of the Hellsworn**<sup>(UA)</sup>
+
 #### **Oath of Justice**<sup>(TOH)</sup>
+The Oath of Justice is a commitment not to the tenets of good or evil but a holy vow sworn to uphold the laws of a nation, a city, or even a tiny village. When lawlessness threatens the peace, those who swear to uphold the Oath of Justice intervene to maintain order, for if order falls to lawlessness, it is only a matter of time before all of civilization collapses into anarchy. 
+
+While many young paladins take this oath to protect their country and the people close to them from criminals, some older adherents to this oath know that what is just is not necessarily what is right. 
+
+**Tenets of Justice** 
+
+All paladins of justice uphold the law in some capacity, but their oath differs depending on their station. A paladin who serves a queen upholds slightly different tenets than one who serves a small town. 
+
+**Uphold the Law.** The law represents the triumph of civilization over the untamed wilds. It must be preserved at all costs. 
+
+Punishment Fits the Crime. The severity of justice acts in equal measure to the severity of a wrongdoer’s transgressions.
 #### **Oath of Elements**<sup>(TOH)</sup>
+
 #### **Oath of the Guardian**<sup>(TOH)</sup>
+
 #### **Oath of the Hearth**<sup>(TOH)</sup>
+
 #### **Oath of the Plaguetouched**<sup>(TOH)</sup>
+
 #### **Oath of Enlightenment**<sup>(TCEE)</sup>
+
 #### **Oath of Unrest**<sup>(TCEE)</sup>
+
 #### **Oath of Beauty**<sup>(FCG)</sup>
+
 #### **Oath of Absolution**<sup>(ECHH)</sup>
+
 #### **Oath of Forbiddance**<sup>(ECHH)</sup>
+
 #### **Oath of Rebellion**<sup>(CCS)</sup>
+
 #### **Oath of Sanity**<sup>(KT)</sup>
+
 #### **Oath of Silence**<sup>(KT)</sup>
+
 #### **Oath of Predation**<sup>(XLNEE)</sup>
+
 #### **Oath of Providence**<sup>(XLNEE)</sup>
+
 #### **Oath of Preservation**<sup>(BoE)</sup>
+
 #### **Oath of Avarice**<sup>(CFSA)</sup>
+
 #### **Oath of Judgement**<sup>(CFSA)</sup>
+
 #### **Oath of Harvest**<sup>(HGMH)</sup>
+
 #### **Oath of the Hearth**<sup>(TGS)</sup>
+
 #### **Oath of Spelldrinker**<sup>(TGS)</sup>
+
 #### **Oath of Dreamwarden**<sup>(TGS)</sup>
+
 #### **Oath of The Holy Flame**<sup>E</sup>
+
 #### **Oath of the Open Sea**<sup>TDR</sup>
+
 #### **Oath of Purgation**<sup>(SMR)</sup>
+
 #### **Oath of Ancestors**<sup>UAH</sup>
+
 #### **Oath of Compassion**<sup>UAH</sup>
+
 #### **Oath of the Planes**<sup>UAH</sup>
+
 #### **Oath of Rebellion**<sup>UAH</sup>
+
 #### **Oath of Unity**<sup>UAH</sup>
+
 #### **Oath of Vigilance**<sup>UAH</sup>
+
 #### **Oath of The River**<sup>(OTG)</sup>
+
 #### **Oath of Hexes**<sup>(GTD)</sup>
+
 ## Psion
 *Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
 

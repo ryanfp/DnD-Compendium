@@ -514,7 +514,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -543,10 +543,11 @@
       "obisidian-note-linker:Note Linker": false,
       "custom-sort:Toggle custom sorting": false,
       "iconic:Open rulebook": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "3a73ca7b9dac80c9",
+  "active": "8d06c334193bd871",
   "lastOpenFiles": [
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Circle of Visions.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
