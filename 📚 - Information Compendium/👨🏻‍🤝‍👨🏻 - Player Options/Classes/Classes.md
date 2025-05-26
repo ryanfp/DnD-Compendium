@@ -1825,11 +1825,11 @@ Some of these paladins go so far as to consort with the powers of the Nine Hells
 
 A paladin who takes this oath has the tenets of conquest seared on the upper arm.
 
-**Douse the Flame of Hope.** It is not enough to merely defeat an enemy in battle. Your victory must be so overwhelming that your enemies’ will to fight is shattered forever. A blade can end a life. Fear can end an empire.
+_**Douse the Flame of Hope.**_ It is not enough to merely defeat an enemy in battle. Your victory must be so overwhelming that your enemies’ will to fight is shattered forever. A blade can end a life. Fear can end an empire.
 
-**Rule with an Iron Fist.** Once you have conquered, tolerate no dissent. Your word is law. Those who obey it shall be favored. Those who defy it shall be punished as an example to all who might follow.
+_**Rule with an Iron Fist.**_ Once you have conquered, tolerate no dissent. Your word is law. Those who obey it shall be favored. Those who defy it shall be punished as an example to all who might follow.
 
-**Strength Above All.** You shall rule until a stronger one arises. Then you must grow mightier and meet the challenge, or fall to your own ruin.
+_**Strength Above All.**_ You shall rule until a stronger one arises. Then you must grow mightier and meet the challenge, or fall to your own ruin.
 #### **Oath of Redemption**
 The Oath of Redemption sets a paladin on a difficult path, one that requires a holy warrior to use violence only as a last resort. Paladins who dedicate themselves to this oath believe that any person can be redeemed and that the path of benevolence and justice is one that anyone can walk. These paladins face evil creatures in the hope of turning their foes to the light, and they slay their enemies only when such a deed will clearly save other lives. Paladins who follow this path are known as redeemers.
 
@@ -1840,13 +1840,13 @@ While redeemers are idealists, they are no fools. Redeemers know that undead, de
 
 The tenets of the Oath of Redemption hold a paladin to a high standard of peace and justice.
 
-**Peace.** Violence is a weapon of last resort. Diplomacy and understanding are the paths to long-lasting peace.
+_**Peace.**_ Violence is a weapon of last resort. Diplomacy and understanding are the paths to long-lasting peace.
 
-**Innocence.** All people begin life in an innocent state, and it is their environment or the influence of dark forces that drives them to evil. By setting the proper example, and working to heal the wounds of a deeply flawed world, you can set anyone on a righteous path.
+_**Innocence.**_ All people begin life in an innocent state, and it is their environment or the influence of dark forces that drives them to evil. By setting the proper example, and working to heal the wounds of a deeply flawed world, you can set anyone on a righteous path.
 
-**Patience.** Change takes time. Those who have walked the path of the wicked must be given reminders to keep them honest and true. Once you have planted the seed of righteousness in a creature, you must work day after day to allow that seed to survive and flourish.
+_**Patience.**_ Change takes time. Those who have walked the path of the wicked must be given reminders to keep them honest and true. Once you have planted the seed of righteousness in a creature, you must work day after day to allow that seed to survive and flourish.
 
-**Wisdom.** Your heart and mind must stay clear, for eventually you will be forced to admit defeat. While every creature can be redeemed, some are so far along the path of evil that you have no choice but to end their lives for the greater good. Any such action must be carefully weighed and the consequences fully understood, but once you have made the decision, follow through with it knowing your path is just.
+_**Wisdom.**_ Your heart and mind must stay clear, for eventually you will be forced to admit defeat. While every creature can be redeemed, some are so far along the path of evil that you have no choice but to end their lives for the greater good. Any such action must be carefully weighed and the consequences fully understood, but once you have made the decision, follow through with it knowing your path is just.
 #### **Oath of Glory**
 Paladins who take the Oath of Glory believe they and their companions are destined to achieve glory through deeds of heroism. They train diligently and encourage their companions, so they're all ready when destiny calls. 
 
@@ -1912,13 +1912,13 @@ The Oath of the Grave is a seldom practiced tradition, most Commonly reserved fo
 
 The tenets of the Oath of the grave have been passed down for generations. This oath emphasizes the passing between the warmth of life to the everlasting cold of death, and punishes those that defile this passing with the unholy raising of undead.
 
-**Annihilate the Unholy.** The undead and those who foster them are unholy and wicked. Destroy them before they defile more than they have already
+_**Annihilate the Unholy.**_ The undead and those who foster them are unholy and wicked. Destroy them before they defile more than they have already
 
-**Preserve the Righteous.** Death should not come early to those who have led a blessed life . Preserve the righteous, so they may live on without fear.
+_**Preserve the Righteous.**_ Death should not come early to those who have led a blessed life . Preserve the righteous, so they may live on without fear.
 
-**Let Souls Pass On.** Every soul deserves its place in the afterlife. When you see a creature forced into undeath, let its soul go free.
+_**Let Souls Pass On.**_ Every soul deserves its place in the afterlife. When you see a creature forced into undeath, let its soul go free.
 
-**Accept Death.** Death comes to all eventually. Accept it, and you will find a place in the afterlife.
+_**Accept Death.**_ Death comes to all eventually. Accept it, and you will find a place in the afterlife.
 #### **Oath of the Hellsworn**<sup>(UA)</sup>
 
 #### **Oath of Justice**<sup>(TOH)</sup>
@@ -1930,9 +1930,9 @@ While many young paladins take this oath to protect their country and the people
 
 All paladins of justice uphold the law in some capacity, but their oath differs depending on their station. A paladin who serves a queen upholds slightly different tenets than one who serves a small town. 
 
-**Uphold the Law.** The law represents the triumph of civilization over the untamed wilds. It must be preserved at all costs. 
+_**Uphold the Law.**_ The law represents the triumph of civilization over the untamed wilds. It must be preserved at all costs. 
 
-**Punishment Fits the Crime.** The severity of justice acts in equal measure to the severity of a wrongdoer’s transgressions.
+_**Punishment Fits the Crime.**_ The severity of justice acts in equal measure to the severity of a wrongdoer’s transgressions.
 #### **Oath of Elements**<sup>(TOH)</sup>
 The Oath of the Elements is taken by those paladins who have dedicated their lives to serving the awakened spirits of air, earth, fire, and water. Such paladins might also serve a genie, elemental deity, or other powerful elemental creature. 
 
@@ -1940,11 +1940,11 @@ The Oath of the Elements is taken by those paladins who have dedicated their liv
 
 Though exact interpretations and words of the Oath of the Elements vary between those who serve the subtle, elemental spirits of the world and those who serve elemental deities or genies, paladins of this oath share these tenets. 
 
-**Defend the Natural World.** Every mountaintop, valley, cave, stream, and spring is sacred. You would fight to your last breath to protect natural places from harm. Lead the Line. You stand at the forefront of every battle as a beacon of hope to lead your allies to victory. 
+_**Defend the Natural World.**_ Every mountaintop, valley, cave, stream, and spring is sacred. You would fight to your last breath to protect natural places from harm. Lead the Line. You stand at the forefront of every battle as a beacon of hope to lead your allies to victory. 
 
-**Act Wisely, Act Decisively.** You weigh your actions carefully and offer counsel to those who would behave impulsively. When the time is right, you unleash the fury of the elements upon your enemies. 
+_**Act Wisely, Act Decisively.**_ You weigh your actions carefully and offer counsel to those who would behave impulsively. When the time is right, you unleash the fury of the elements upon your enemies. 
 
-**Integrity.** Your word is your bond. You don’t lie or deceive others and always treat them with fairness.
+_**Integrity.**_ Your word is your bond. You don’t lie or deceive others and always treat them with fairness.
 #### **Oath of the Guardian**<sup>(TOH)</sup>
 A paladin who takes the Oath of the Guardian is sworn to defend the community. Taking the mantle of a guardian is a solemn vow to place the needs of the many before the needs of yourself and requires constant vigilance. 
 
@@ -1952,11 +1952,11 @@ A paladin who takes the Oath of the Guardian is sworn to defend the community. T
 
 When you take this oath, you always do so with a particular group, town, region, or government in mind, pledging to protect them. 
 
-**Encourage Prosperity.** You must work hard to bring joy and prosperity to all around you. 
+_**Encourage Prosperity.**_ You must work hard to bring joy and prosperity to all around you. 
 
-**Preserve Order.** Order must be protected and preserved for all to enjoy. You must work to keep treasured people, objects, and communities safe. 
+_**Preserve Order.**_ Order must be protected and preserved for all to enjoy. You must work to keep treasured people, objects, and communities safe. 
 
-**Decisive Action.** Threats to peaceful life are often nefarious and subtle. The actions you take to combat such threats should not be.
+_**Decisive Action.**_ Threats to peaceful life are often nefarious and subtle. The actions you take to combat such threats should not be.
 #### **Oath of the Hearth**<sup>(TOH)</sup>
 Paladins who swear the Oath of the Hearth endeavor to extend the comforts of home to others, by allaying the rigors of travel or simply assuring those who grow despondent of the possibility of returning home. Ironically, paladins who follow this oath remain far from home in pursuit of their goals. Their oath reflects the welcoming warmth and light provided by the hearth, and paladins following the oath use these elements to turn away the cold or defeat enemies who employ cold as weapons. 
 
@@ -1964,15 +1964,15 @@ Paladins who swear the Oath of the Hearth endeavor to extend the comforts of hom
 
 Paladins who take the Oath of the Hearth accommodate all creatures and attempt to find diplomatic solutions to conflicts. Once engaged in battle, though, these paladins fight until they defeat their enemies, or their enemies surrender. They rarely extend this peaceful stance to creatures who attack with cold or desire to spread cold conditions beyond natural confines. 
 
-**Bastion of Peace.** Reach out the hand of friendship when encountering strangers, and advocate for peace at the outset of any meeting. Encourage your companions to do likewise. When it becomes clear your opponents wish for violence, don’t shrink away from combat. 
+_**Bastion of Peace.**_ Reach out the hand of friendship when encountering strangers, and advocate for peace at the outset of any meeting. Encourage your companions to do likewise. When it becomes clear your opponents wish for violence, don’t shrink away from combat. 
 
-**Beacon in the Dark.** When winter comes and the nights increasingly lengthen, shine a welcoming light to which all people can rally. No creature shall prey on others under the cover of darkness while you are there. 
+_**Beacon in the Dark.**_ When winter comes and the nights increasingly lengthen, shine a welcoming light to which all people can rally. No creature shall prey on others under the cover of darkness while you are there. 
 
-**Hospitality of Home.** Provide the comforts of home to those who meet with you peacefully. Respect others’ cultures and traditions, provided they don’t espouse aggression and violence toward others. 
+_**Hospitality of Home.**_ Provide the comforts of home to those who meet with you peacefully. Respect others’ cultures and traditions, provided they don’t espouse aggression and violence toward others. 
 
-**Protection from the Elements.** Ensure all people have shelter from the weather. Help during spring flooding, wintry blizzards, and when the blistering sun threatens heatstroke in the summer. 
+_**Protection from the Elements.**_ Ensure all people have shelter from the weather. Help during spring flooding, wintry blizzards, and when the blistering sun threatens heatstroke in the summer. 
 
-**Repel the Cold.** Strive against foes that seek to bring eternal winter to the world or expand their icy domains into warmer climates. Understand the necessity of the changing of seasons and seek to banish only cold that is abnormal.
+_**Repel the Cold.**_ Strive against foes that seek to bring eternal winter to the world or expand their icy domains into warmer climates. Understand the necessity of the changing of seasons and seek to banish only cold that is abnormal.
 #### **Oath of the Plaguetouched**<sup>(TOH)</sup>
 After suffering an attack by a darakhul, you were infected with the dreaded—and generally fatal— darakhul fever. As you felt your life draining away and the grasp of eternal undeath clenching its cold fingers around your heart, you called out to any power that would answer your prayers. You pledged that you would do anything asked of you, if only you would be spared this fate worse than death. 
 
@@ -1982,13 +1982,13 @@ That prayer was answered. The source of that answered prayer is not known, but i
 
 Paladins following the Oath of the Plaguetouched share these tenets. 
 
-**Bravery.** In the face of terrible creatures, you stand like a wall between them and the innocent people whom those creatures would devour or transform. 
+_**Bravery.**_ In the face of terrible creatures, you stand like a wall between them and the innocent people whom those creatures would devour or transform. 
 
-**Stop the Spread of Undeath.** Fight to ensure the undead don’t snuff out the light of life in the world. 
+_**Stop the Spread of Undeath.**_ Fight to ensure the undead don’t snuff out the light of life in the world. 
 
-**Relentless.** Creatures of undeath never tire; you must remain vigilant. 
+_**Relentless.**_ Creatures of undeath never tire; you must remain vigilant. 
 
-**Mercy.** Those who suffer disease must be cared for. If you could survive certain death, so can they. But when it is clear they are about to transform into a monster, you must end their suffering quickly.
+_**Mercy.**_ Those who suffer disease must be cared for. If you could survive certain death, so can they. But when it is clear they are about to transform into a monster, you must end their suffering quickly.
 #### **Oath of the Unbreakable (Safeguarding)**<sup>(TOH)</sup>
 Paladins who choose the Oath of Safeguarding spend their lives in service to others, conserving the people and places they vow to protect. They take missions to guard against assassination attempts, safely transport a person or group through treacherous lands, and stand as bastions for locations under attack. These paladins are no mere mercenaries, however, as they view their missions as sacred vows. 
 
@@ -1996,13 +1996,13 @@ Paladins who choose the Oath of Safeguarding spend their lives in service to oth
 
 Paladins undertaking the Oath of Safeguarding take their responsibilities seriously and are most likely to seek atonement should they fail in their duties. However, they have no qualms about terminating their protection when their charges prove nefarious. In these cases, they won’t leave people stranded in a hostile environment or situation, but they also focus their efforts on their allies over unworthy, former charges. Even when these paladins serve no charge, they seek opportunities to shield others from harm. In combat, they rush to aid their allies and stand alone to allow others to flee from battle. 
 
-**Last Line of Defense.** When your allies must retreat or regroup, you remain to ensure they have ample time to withdraw before withdrawing yourself. If your mission requires you to guard a building, you are the final obstacle the attackers face before breaching the building. 
+_**Last Line of Defense.**_ When your allies must retreat or regroup, you remain to ensure they have ample time to withdraw before withdrawing yourself. If your mission requires you to guard a building, you are the final obstacle the attackers face before breaching the building. 
 
-**Protect the Charge.** You pledge to preserve the lives of people you protect and the sanctity of all structures you guard, even if it means endangering yourself. When you must rest, you ensure your charge is as safe as possible, turning to trusted allies to aid you. 
+_**Protect the Charge.**_ You pledge to preserve the lives of people you protect and the sanctity of all structures you guard, even if it means endangering yourself. When you must rest, you ensure your charge is as safe as possible, turning to trusted allies to aid you. 
 
-**Shield All Innocents.** In the absence of a sacred charge to protect, you endeavor to keep all those who can’t defend themselves safe from harm. In cases where your charge must take priority, you do what You can to defend the helpless. 
+_**Shield All Innocents.**_ In the absence of a sacred charge to protect, you endeavor to keep all those who can’t defend themselves safe from harm. In cases where your charge must take priority, you do what You can to defend the helpless. 
 
-**Uphold the Vow.** You acknowledge the person you protect may reveal themselves as unworthy, such as by committing nefarious acts or exploiting your protection and fidelity, or the location you guard may become a site of terrible acts. When you witness this, you are free to terminate your guardianship. However, you don’t leave your now-former charge in any present danger, if only for the possibility of future atonement. 
+_**Uphold the Vow.**_ You acknowledge the person you protect may reveal themselves as unworthy, such as by committing nefarious acts or exploiting your protection and fidelity, or the location you guard may become a site of terrible acts. When you witness this, you are free to terminate your guardianship. However, you don’t leave your now-former charge in any present danger, if only for the possibility of future atonement. 
 
 Unwavering. Nothing shall distract you from your mission. If you are magically compelled to desert your post, you do your utmost to resume your duty. Failing that, you take out your vengeance on the party responsible for your dereliction.
 #### **Oath of Enlightenment**<sup>(TCEE)</sup>
@@ -2017,19 +2017,13 @@ Paladins of this oath seek learning as a means to improve their connection to an
 The tenets of the Oath of Enlightenment teach a paladin to seek
 learning whenever they can and to share it just as often.
 
-**Knowledge is Power.** The greater your understanding, the greater
-your influence.
+_**Knowledge is Power.**_ The greater your understanding, the greater your influence. 
 
-**Lifelong Learning.** Enlightenment can only be achieved by
-persistent curiosity and a humble willingness to learn.
+_**Lifelong Learning.**_ Enlightenment can only be achieved by persistent curiosity and a humble willingness to learn. 
 
-**Teach the Untaught.** Nothing worth learning should be kept to
-yourself; your knowledge and experience ought to be shared with the
-world, that others might learn as you have.
+_**Teach the Untaught.**_ Nothing worth learning should be kept to yourself; your knowledge and experience ought to be shared with the world, that others might learn as you have. 
 
-**Seek First to Understand.** Understanding others is more
-important than being right. Once you understand them, then you
-can teach them.
+_**Seek First to Understand.**_ Understanding others is more important than being right. Once you understand them, then you can teach them.
 #### **Oath of Unrest**<sup>(TCEE)</sup>
 The Oath of Unrest is taken by those with unfinished business. They are driven by an overwhelming thirst for revenge against those who wronged them, or to complete a final, critical task left unfinished. Some of these paladins might have even met a cruel and undeserved end, but return from beyond the grave to finish its work, much like a revenant. It may have been at the will of a deity, some darker force, or the paladin itself. Regardless, none who swear this oath are left untainted, whether it be by the Shadowfell, a realm of the dead, or the paladin’s own ambitions.
 
@@ -2038,19 +2032,13 @@ The Oath of Unrest is taken by those with unfinished business. They are driven b
 The tenets of the Oath of Unrest are those of
 completing your unfinished business.
 
-**Atonement.** You failed the first time, you must always
-remember that.
+_**Atonement.**_ You failed the first time, you must always remember that.
 
-**Vigilance.** Be unwavering in your commitment to
-your task, you have been given a second chance for a
-reason.
+_**Vigilance.**_ Be unwavering in your commitment to your task, you have been given a second chance for a reason.
 
-**Debt.** For good or ill, those that returned you to life
-have bestowed on you a chance of redemption, you are
-eternally indebted.
+_**Debt.**_ For good or ill, those that returned you to life have bestowed on you a chance of redemption, you are eternally indebted.
 
-**Focus.** Your task is the most important goal, there is
-no room for distractions.
+_**Focus.**_ Your task is the most important goal, there is no room for distractions.
 #### **Oath of Beauty**<sup>(FCG)</sup>
 Paladins who take the Oath of Beauty believe that it is their sworn duty to create beauty in the world. Moreover, it is their duty to eliminate ugliness in all of its forms. They strive to be a shining example of both personal freedom and elegance, and they strike down ugliness with the fervor that other paladins might smite evil. Some who have sworn this oath prefer natural beauty, while others cling to the beauty of mortal creation. It is easy to spot one who has taken the Oath of Beauty, because these paladins are often both physically captivating and masters of various art forms. Their attention-grabbing style has earned them the moniker of “beacons” in some cultures. 
 
@@ -2058,13 +2046,13 @@ Paladins who take the Oath of Beauty believe that it is their sworn duty to crea
 
 The tenets of the Oath of Beauty are simple but all- encompassing. The oath can take many different forms, but the majority of its emphasis rests upon personal interpretation. 
 
-**Reveal Beauty in All Things.** Beauty does not take one form. As all things are capable of beauty, spark that capability in everything and everyone you see. 
+_**Reveal Beauty in All Things.**_ Beauty does not take one form. As all things are capable of beauty, spark that capability in everything and everyone you see. 
 
-**Eliminate Ugliness.** When something is so devoid of beauty that it has become ugly, rid the world of its menace. Beauty cannot flourish where ugliness grows. 
+_**Eliminate Ugliness.**_ When something is so devoid of beauty that it has become ugly, rid the world of its menace. Beauty cannot flourish where ugliness grows. 
 
-**Maintain Your Own Beauty.** Beauty begins within the body. You cannot spread beauty in the world unless you are capable of recognizing your own beauty. 
+_**Maintain Your Own Beauty.**_ Beauty begins within the body. You cannot spread beauty in the world unless you are capable of recognizing your own beauty. 
 
-**Show Beauty to the World.** Be an example to others. Let your beauty brighten the world, calling people to your cause like a lighthouse on a coast.
+_**Show Beauty to the World.**_ Be an example to others. Let your beauty brighten the world, calling people to your cause like a lighthouse on a coast.
 #### **Oath of Absolution**<sup>(ECHH)</sup>
 The three great virtues, diligence, harmony, and kindness, bring order and meaning to mortal life by keeping the temptation of sin at bay. Paladins who swear an oath of absolution, often referred to as Sin Eaters, seek to bring these virtues to the masses. While it is not uncommon for Aasimar or stonechildren to take this oath, the most famed Sin Eaters are the Silverhair Knights; an order of drow elite warrior priests of Eilistraee. 
 
@@ -2072,13 +2060,13 @@ The three great virtues, diligence, harmony, and kindness, bring order and meani
 
 The tenets of the Oath of Absolution focus on the three great virtues and imparting them unto others. 
 
-**Be Diligent.** Find a purpose, dedicate yourself to it, and work hard. Do not give in to apathy. 
+_**Be Diligent.**_ Find a purpose, dedicate yourself to it, and work hard. Do not give in to apathy. 
 
-**Be Harmonious.** Find meaning in your purpose, and temper yourself and your aspirations. Don't succumb to your baser instincts. 
+_**Be Harmonious.**_ Find meaning in your purpose, and temper yourself and your aspirations. Don't succumb to your baser instincts. 
 
-**Be Kind.** Be polite and tread the path of minimal conflict. Do not covet that which belongs to another. 
+_**Be Kind.**_ Be polite and tread the path of minimal conflict. Do not covet that which belongs to another. 
 
-**Educate and Absolve.** Teach others the three great virtues and help them atone for their sins.
+_**Educate and Absolve.**_ Teach others the three great virtues and help them atone for their sins.
 #### **Oath of Forbiddance**<sup>(ECHH)</sup>
 We mortals were never meant to understand the greater workings of the multiverse, and it is only in our arrogance that we deemed ourselves worthy. To seek that which is for- bidden is beyond folly, it is heresy against the very natural order of the cosmos and cannot be allowed to pass. You will find these caches of forbidden knowledge and return them to obscurity. 
 
@@ -2086,13 +2074,13 @@ We mortals were never meant to understand the greater workings of the multiverse
 
 The tenets of the Oath of Forbiddance focus on curating knowledge with an iron fist. 
 
-**Censor Forbidden Knowledge.** Some truths are not meant to be known by mortals but bring only calamity. Hide such truths from the world. 
+_**Censor Forbidden Knowledge.**_ Some truths are not meant to be known by mortals but bring only calamity. Hide such truths from the world. 
 
-**Curate.** Learn all you can so that you may judge what knowledge brings calamity and what brings prosperity. 
+_**Curate.**_ Learn all you can so that you may judge what knowledge brings calamity and what brings prosperity. 
 
-**Seek and Protect.** Seek out dangerous knowledge and ward it from others, whether it be written on a scroll or known by a mortal. Destroy those who seek to share the forbidden. 
+_**Seek and Protect.**_ Seek out dangerous knowledge and ward it from others, whether it be written on a scroll or known by a mortal. Destroy those who seek to share the forbidden. 
 
-**Use Any Means.** Have no reservations when shielding the world from the forbidden. Lies can be better than truths and the tip of your sword can be a kindness.
+_**Use Any Means.**_ Have no reservations when shielding the world from the forbidden. Lies can be better than truths and the tip of your sword can be a kindness.
 #### **Oath of Rebellion**<sup>(CCS)</sup>
 The Oath of Rebellion is a powerful commitment to strike back against oppressors. At times where corrupt leaders and powerful organizations abuse their powers and restrict the freedoms of their patrons, these paladins arise to fight for and inspire those who  cannot fight for themselves. They seek great change, even at the cost of using underhanded tactics, and understand they cannot make change alone, aiming to instead be the icon for others to follow. 
 
@@ -2100,11 +2088,11 @@ The Oath of Rebellion is a powerful commitment to strike back against oppressors
 
 The tenets of the Oath of Rebellion drive a paladin to fight for those oppressed by authority.  
 
-**Fight Against Oppression.** Never turn your back on those suffering injustice or cruelty. Fight for their freedom and the freedom of all. 
+_**Fight Against Oppression.**_ Never turn your back on those suffering injustice or cruelty. Fight for their freedom and the freedom of all. 
 
-**Fight for Equality.** Demand and fight for the fair  treatment of all. Never turn your back to those treated with disrespect or unfair judgment. 
+_**Fight for Equality.**_ Demand and fight for the fair  treatment of all. Never turn your back to those treated with disrespect or unfair judgment. 
 
-**Lead the Rebellion.** Be the spark that ignites the rebellion. Lead the charge with your companions to make great changes in this world and stand with them no matter the cost.
+_**Lead the Rebellion.**_ Be the spark that ignites the rebellion. Lead the charge with your companions to make great changes in this world and stand with them no matter the cost.
 #### **Oath of Sanity**<sup>(KT)</sup>
 The Oath of Sanity is the oath of someone that has survived exposure to the horrors that lay beyond the veil, or perhaps someone that has prepared for them through a mystical order, a forgotten tradition... or particularly vivid and over active imagination. 
 
@@ -2116,15 +2104,15 @@ An Oath of Sanity Paladin will usually seem to others as true neutral or lawful 
 
 The tenets of the Oath of Sanity are almost universally dedicated to preventing the threats from beyond from consuming the material world and shattering the fragile minds within. 
 
-**Order.** Never act on random or chaotic impulses. These are the cracks of madness. 
+_**Order.**_ Never act on random or chaotic impulses. These are the cracks of madness. 
 
-**Vigilance.** Never let your attention wander, lest you miss the signs of madness. 
+_**Vigilance.**_ Never let your attention wander, lest you miss the signs of madness. 
 
-**Discipline.** Never indulge in a lapse of behavior, your habits keep you safe from madness. 
+_**Discipline.**_ Never indulge in a lapse of behavior, your habits keep you safe from madness. 
 
-**Solemnity.** Your work is terrible. Never take pleasure in it. That leads to the comfort of madness.
+_**Solemnity.**_ Your work is terrible. Never take pleasure in it. That leads to the comfort of madness.
 
-**Sanity.** No matter what, never give into madness.
+_**Sanity.**_ No matter what, never give into madness.
 #### **Oath of Silence**<sup>(KT)</sup>
 The Oath of Silence is taken by those that have seen the chaos of the world and have chosen to take a stand. Rather than shout over the clamor, they lead by example and action, showing that the world needs not fiery rhetoric or the manipulations of honeyed words, but people to act as they should with purpose and pride. 
 
@@ -2134,13 +2122,13 @@ Paladins of this oath can come from many backgrounds and espouse endless variant
 
 Though the exact words and strictures of the Oath of Silence vary, paladins of this oath share these tenets. 
 
-**Temperance.** Whispering in silence conveys greater power than shouting in clamor. 
+_**Temperance.**_ Whispering in silence conveys greater power than shouting in clamor. 
 
-**Precision.** Speak with purpose and say what must be said. Sanctuary. Be the port in the storm, be the tranquility in the chaos. 
+_**Precision.**_ Speak with purpose and say what must be said. Sanctuary. Be the port in the storm, be the tranquility in the chaos. 
 
-**Purpose.** Actions speak louder than words. Let your sword and shield be your voice. 
+_**Purpose.**_ Actions speak louder than words. Let your sword and shield be your voice. 
 
-**Sacred.** Be wary of those that use their voice to bend the world to their will for their own gain, and rebuke those that use their voice to bend creatures to their will for their own gain.
+_**Sacred.**_ Be wary of those that use their voice to bend the world to their will for their own gain, and rebuke those that use their voice to bend creatures to their will for their own gain.
 #### **Oath of Predation**<sup>(XLNEE)</sup>
 Paladins who follow the Oath of Predation believe that the world can only be made perfect through utter control. Through careful planning, subterfuge and unwavering patience, these paladins create hierarchies with themselves at the top, and execute their power with impunity. Few paladins can resist the allure of unchecked power, and most succumb to the temptations of tyranny.  
 
@@ -2148,13 +2136,13 @@ Paladins who follow the Oath of Predation believe that the world can only be mad
 
 The tenets of the Oath of Predation remind its adherents that the whims of their patron supersede all other oaths and laws. 
 
-**Cultivate the Flock.** It is not enough to gather a congregation. You must hone them to a ready point, zealous to do what is necessary with a word. 
+_**Cultivate the Flock.**_ It is not enough to gather a congregation. You must hone them to a ready point, zealous to do what is necessary with a word. 
 
-**Maintain Supremacy.** You are the order in the midst of chaos. You vow to follow no rules other than the rigid disciplines necessary to maintain the faith. Those who deviate from the plan will die. 
+_**Maintain Supremacy.**_ You are the order in the midst of chaos. You vow to follow no rules other than the rigid disciplines necessary to maintain the faith. Those who deviate from the plan will die. 
 
-**Reward thy Followers.** Engage not in needless cruelty and will treat well those who submit. Honor thy contracts but do not hesitate to steal, murder or mislead to complete your orders. 
+_**Reward thy Followers.**_ Engage not in needless cruelty and will treat well those who submit. Honor thy contracts but do not hesitate to steal, murder or mislead to complete your orders. 
 
-**World of Order.** I will provide authority where it lacks and subjugate myself to the cause. Just as I do no operate with impunity, I will create and maintain a network of followers to precipitate our unquestionable dominion.
+_**World of Order.**_ I will provide authority where it lacks and subjugate myself to the cause. Just as I do no operate with impunity, I will create and maintain a network of followers to precipitate our unquestionable dominion.
 #### **Oath of Providence**<sup>(XLNEE)</sup>
 Paladins who take the Oath of Providence believe they are the hand of destiny, striking down enemies beyond redemption. They believe in their hearts that some creatures, often those who commit atrocities, are fated to die in battle. These paladins are the executioners. Their oath gives them the power to bend destiny in their favor and send foes to their final fate. 
 
@@ -2162,13 +2150,13 @@ Paladins who take the Oath of Providence believe they are the hand of destiny, s
 
 The tenets of the Oath of Providence are written in stone on the tombs of paladins undertaking this path. 
 
-**Embrace Destiny.** When bad luck comes your way, understand it was meant to be and search for the opportunity fate has given you within your loss. 
+_**Embrace Destiny.**_ When bad luck comes your way, understand it was meant to be and search for the opportunity fate has given you within your loss. 
 
-**Deliver Enemies to Fate.** Those who become your enemies aren’t long for this world. They must die by your hand. 
+_**Deliver Enemies to Fate.**_ Those who become your enemies aren’t long for this world. They must die by your hand. 
 
-**Accept that which Cannot Change.** Fate is a force more powerful than the gods. Accept that there are situations in which you're powerless and take power over that you can influence. 
+_**Accept that which Cannot Change.**_ Fate is a force more powerful than the gods. Accept that there are situations in which you're powerless and take power over that you can influence. 
 
-**Strength in Numbers.** Together with your allies, you have the power to influence fate. Destiny smiles upon those who embrace it.
+_**Strength in Numbers.**_ Together with your allies, you have the power to influence fate. Destiny smiles upon those who embrace it.
 #### **Oath of Preservation**<sup>(BoE)</sup>
 Paladins have always sworn allegiance to the forces of nature, but unprecedented threats have sparked the formation of even fiercer orders of paladins, dedicated to securing a better tomorrow. The Oath of Preservation binds its knights to defend the natural world—beasts, plants, and monsters alike— for the sake of future generations. Confronted with an ever-shrinking world, ravaged by new magic and technologies, these paladins work to safeguard vulnerable species and habitats, piece by piece. 
 
@@ -2176,13 +2164,13 @@ Paladins have always sworn allegiance to the forces of nature, but unprecedented
 
 Paladins who swear the Oath of Preservation follow four brutally optimistic tenets. 
 
-**Audacious Hope.** You bear witness to tragedy and extinction, and yet choose hope. Hope is your greatest tool against the tidal wave of foes that threatens the natural world. 
+_**Audacious Hope.**_ You bear witness to tragedy and extinction, and yet choose hope. Hope is your greatest tool against the tidal wave of foes that threatens the natural world. 
 
-**Future Selves.** You don’t inherit the world from your ancestors; you borrow it from your children. You shall secure the greatest good for the highest number over the longest run. 
+_**Future Selves.**_ You don’t inherit the world from your ancestors; you borrow it from your children. You shall secure the greatest good for the highest number over the longest run. 
 
-**Interconnected World.** No creature exists without its habitat, and no habitat without its creatures. You should protect one as fiercely as the other. 
+_**Interconnected World.**_ No creature exists without its habitat, and no habitat without its creatures. You should protect one as fiercely as the other. 
 
-**Strength in Diversity.** A lost species robs the world of music, color, and life. Every member of a species is as valuable as the whole. Do not allow the world to be silenced by a thousand whispers or killed by a thousand cuts.
+_**Strength in Diversity.**_ A lost species robs the world of music, color, and life. Every member of a species is as valuable as the whole. Do not allow the world to be silenced by a thousand whispers or killed by a thousand cuts.
 #### **Oath of Avarice**<sup>(CFSA)</sup>
 
 #### **Oath of Judgement**<sup>(CFSA)</sup>
@@ -2698,23 +2686,23 @@ Warlord (MysticArts)
 #### **Exemplar**
 #### **Tactician**
 #### **Warchief**
-## Warmage
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
+## ~~Warmage~~
+~~*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*~~
 
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
+~~*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.*~~ 
 
-### <u>Subclasses - Arcane Initiations</u>
+### ~~<u>Subclasses - Arcane Initiations</u>~~
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
-### *Valda’s Spire of Secrets*
-#### **Bishops Initiations**
-#### **Cards Initiations**
-#### **Dice Initiations**
-#### **Kings Initiations**
-#### **Knights Initiations**
-#### **Lancers Initiations**
-#### **Pawns Initiations**
-#### **Rooks Initiations**
+~~*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*~~
+### ~~*Valda’s Spire of Secrets*~~
+#### ~~**Bishops Initiations**~~
+#### ~~**Cards Initiations**~~
+#### ~~**Dice Initiations**~~
+#### ~~**Kings Initiations**~~
+#### ~~**Knights Initiations**~~
+#### ~~**Lancers Initiations**~~
+#### ~~**Pawns Initiations**~~
+#### ~~**Rooks Initiations**~~
 ## ~~Witch~~
 ### *Valda’s Spire of Secrets*
 Black
@@ -2819,3 +2807,6 @@ White
 #### **The Fallen**
 #### **The Formless**
 #### **The Trickster**
+
+
+## Illrigger MCDM
