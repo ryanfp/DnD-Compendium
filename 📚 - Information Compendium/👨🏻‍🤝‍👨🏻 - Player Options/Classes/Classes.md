@@ -2407,21 +2407,31 @@ _**Show No Mercy.**_ Though some think your strange powers are dark or corrupted
 *A Psion's master and how they are trained has great effect on the nature of their abilities. For some, their gift is honed through years of practice and meditation. Others are trained to use their mystic abilities to morph their bodies into deadly weapons. And for the rare few who are never discovered by a master, or attempt to stifle their power, they risk outbursts of wild psionic energy that can have devastating effects.*
 ### *KibblesTasty*
 #### **Awakened**
+An Awakened Mind is a psion who had their psionic power awakened within them by an encounter, event, or circumstance. Perhaps their powers were latent or perhaps their destiny had been that of a normal creature until powers were suddenly thrust on them. Perhaps they brushed the realms beyond in a vivid dream, perhaps they wandered the Feywild and came back warped, perhaps they merely glimpsed the eyes of a creature that did not belong walking down the street. 
 
+An awakening is often somewhat traumatic. Psions are not well understood and the first power they manifest—telepathy— is one of the most feared and shunned abilities. 
 #### **Unleashed**
+An Unleashed Mind’s power is most often an innate force they struggle to understand or control, a reflection of their state of mind and mood projected onto the world around them, often to devastating results. The life of an Unleashed Psion is frequently their journey to control their unruly powers... or one of embracing the destructive powers fully. 
 
+What the wellspring of their innate power is varies: they could be a psionic race, born under the influence of distant twisted powers, warped by fey blood, or a herald of something more sinister brushing against the material world. Sometimes their power will show itself in simple applications, but most often their power becomes known and feared when their temper flares.
 #### **Transcended**
+A Transcended psion is most often one that has found their path to psionic powers through a mental epiphany, realizing the place of their mind within the multiverse and how it ties to everything else, seeing the keys and levers to the world laid out before them in their mind’s eye. 
 
+Most often achieved either intentionally or accidentally through meditation and ritual, this can sometimes even be a passed on technique to reliably transcend the strictly material concerns, and explore the more cognitive realm and powers within.
 #### **Shaper’s**
+A Shaper is a Psion that specializes in the materialization of their imagination, projecting it out into the world. No mere conjurers borrowing the powers of other planes, a Shaper manifests things from nothing but their own mind, weaving their creations into existence through the exertion of raw psionic power and imagination. 
 
+A Shaper’s mind is a tool of nearly unrivaled power possessing both boundless creativity and inexorable will, but if that will is overrun, the world would do well to fear a Shaper’s nightmares.
 #### **Wandering**
+A Wandering Mind is among the more mysterious incarnates of psions, these are individuals that just aren’t quite rooted in the same reality everyone else is... they find it more pliable and slippery, and prone to jumping right through it on occasion. 
 
+How they get their powers varies. Some were born in the ethereal plane or went through a portal while young. Sometimes it is just that their mind just works along an axis most people cannot understand. No matter its source, they manifest a truly unique ability to treat certain aspects of the metaphysical with a certain mundanity, and are prone to treating their powers as absolutely natural things as one might treat an arm or leg.
 #### **Elemental**
-
+An Elemental Mind is a Psion that can manifest and control elements as an extension of their will.
 #### **Consuming**
+A Consuming Mind is a master of a dangerous branch of psionics, born from the ability to sap energy from other creatures. This power can tear away thoughts, minds, and ultimately vitality for the psion’s own consumption. A feared branch of psionics, it is sometimes believed to be one of the primeval roots of all psionic power, as it can be found among mind-eating monsters and ancient psionic space whales... which might have other names in various settings. 
 
-#### **Knowing**
-
+It has been refined by those that seek greater power either from ambition or desperation, and unlocks a terrible but effective path. One example of mortal creatures walking this path are the houses of dark elves, who developed their dark powers from their study of feral, vampiric, brain-eating monsters.
 ### Laser Llama
 #### **Empath**
 One thing that sets mortals above the beasts and monsters is their ability to experience emotions. A rare few are so in-tune with their emotions that they can use their intense feelings to draw out their psionic potential. Known as Empaths, these Psions are experts at controlling the emotions of others.
