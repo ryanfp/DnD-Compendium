@@ -221,8 +221,28 @@
               "icon": "lucide-file",
               "title": "Classes"
             }
+          },
+          {
+            "id": "b81e224dfe90a3f7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -547,10 +567,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3a73ca7b9dac80c9",
+  "active": "b81e224dfe90a3f7",
   "lastOpenFiles": [
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Circle of Visions.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Circle of Visions.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Circle of Twilight.md",
     "Untitled.md",
     "tessssst/Templates.md",
