@@ -1482,30 +1482,46 @@ This division’s primary responsibility is the investigation and prosecution of
 #### **Reformation Division**
 This division’s primary responsibility is to oversee the correction of prisoners a Judge has determined can be reformed. They most often do so by magically linking with the creature and showing them the correct behaviors by having the creature fight alongside them as an ally. They can also be hired to capture and transport problematic individuals.
 ## Magus
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.* Either LaserLlama or DM Guild
+*Known by many names throughout the multiverse, those who are able to wield both sword and spell are collectively known as Magi. Rather than dedicate their lives to studying arcane magic or mastering martial techniques, Magi are dedicated to a middle path. Though they may never command the earth - shattering magic of an archmagi, or go toe to toe with a true master of the blade, a Magus is able to master a unique form of arcane combat only used by the members of their Order. Their signature style of magic allows them to channel spells through their weapon strikes, sense the presence of arcane magic in the world around them, and even strike the weaves of spells from the air before they can take effect.* Either LaserLlama or DM Guild
 
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
+*Magi are mystical warriors who blend martial prowess with esoteric knowledge and spellcasting. Magi balance the pursuit of personal goals and relationships with their obligations to pursue the goals and ideals of the eldritch societies they belong to. Although their backgrounds may sometimes set them at odds against one another, magi are united by their commitment to a cause greater than themselves and a drive to master their magical abilities.* 
 
 ### <u>Subclasses - Eldritch Societies / Esoteric Orders</u>
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
-### *Assorted Homebrew*
+*The magic of the Magi is not something everyone can learn. Over time, these arcane warriors have organized themselves into clandestine societies, content to operate in the shadows. Potential Magi are often identified from a young age and are inducted into an Order only after they have proven their skill and dedication. While some Orders are more secretive than others, nearly every Order of Magi is thought to be nothing more than legend to the vast majority common folk. As Magi rise through the ranks of their secret society, they are expected to infiltrate and form relationships with those in positions of power. They often set themselves up as personal advisors, guards, and consorts to influential nobles, powerful archmagi, and wealthy merchants. Though Magi may form relationships, their primary loyalty is always to their Order.*
+
 #### **Arcane Order Society**
+The Arcane Order is an eldritch society built on mentor- student relationships. While the Order is unified in name, each member tends to operate alone or with only their mentor or apprentice—though in times of extreme circumstance, members will come together to face grave, large scale threats. Each magus of the Arcane Order takes a unique philosophical approach to their teachings, often adopting or adapting the ideals of their mentor. All scholars of the Arcane Order, however, emphasize exceptional technique and approach magic as an art to be mastered.
 #### **Primordial Seal Society**
+The Primordial Seal claims to be an ancient order responsible for the ongoing safety of the material realms. According to their own lore, the material realms were–in ancient times–constantly besieged by the elemental realms until a seal was placed, forever separating them from one another. Today the magi of the Primordial Seal travel the land to ensure the old magics hold up and to gather power for the dreaded day the seal fails.
 #### **Sylvan Circle Society**
+Magi of the Sylvan Circle are drawn together by their reverence for the natural world. Members of this eldritch society become magi to protect sacred lands and creatures. Although this society is more informal than others, magi of the Sylvan Circle meet with one another regularly in small groups they call covens to discuss matters of local or regional concern and share information.
+
 (LaserLlama)
 #### **Order of Arcanists**<sup>(LL)</sup>
+Magi who join the Order of Arcanists often find themselves in the service of Wizards and other learned practitioners of the arcane arts. While most Magi only study magic for its uses in combat, those who join this Order explore the broader uses of arcane magic, and will go so far as to keep a spellbook and learn rituals that will aid in their quest for knowledge.
 #### **Order of Arcane Archers**<sup>(LL)</sup>
+Originally founded by a sect of elvish mage hunters, the Magi known as Arcane Archers are masters of bow, arrow and spell. While most Magi thrive in close-quarters combat, Arcane Archers strike at foes from afar, raining magic arrows down on foes. Most members of this Order are guardians, but some Arcane Archers strike out as adventurers.
 #### **Order of Dragon Knights**<sup>(LL)</sup>
+Magi of this legendary Esoteric Order have their soul bound to a Draconic Companion. Using ancient magic, they infuse their Companion with draconic might beyond its years, and should their bond grow strong enough, they can mount their Draconic Companion, becoming a Dragon Knight of legend.
 #### **Order of Blade Dancers**<sup>(LL)</sup>
+The Magi known as Blade Dancers dedicate their lives to the art of the Blade Dance. This mystical trance allows the Magi to empty their mind of all emotion and distraction to become one their blade. Masters of this trance are deadly whirlwinds of arcane power and savage steel in battle. Typically, Magi of this Order take on a single apprentice, teaching them, and only them, the secrets of their Order.
 #### **Order of Spellbreakers**<sup>(LL)</sup>
+Magi who join the Order of Spellbreakers are known for their ruthless dedication to achieving their goals. This fraternity of arcane warriors and mage hunters use their Order's abilities to slay any who abuse magic power. While most Spellbreakers are discerning as they deliver judgment, some swear an oath to destroy any who utilize the arcane arts.
 #### **Order of Warders**<sup>(LL)</sup>
+Magi who join the Order of Warders almost always do so for noble reasons. Combing their talent for the arcane with their signature style of defensive combat to serve as guardians for mages, nobles, and other important figures. While they are ultimately loyal to their Order, Warders make fierce friends and will stand side by side with their allies against any foe.
 #### **Order of Armorers**<sup>(LL)</sup>
+Magi of the Order of Armorers claim to be the students of the original Magus, the creator of the enchantment which would become the Arcane Armory. While every Order now shares in the knowledge of this enchantment, only Armorers can use it to its fullest potential. These warriors learn to summon their Arcane Armory as deadly projectiles for use in battle.
 #### **Order of Conduits**<sup>(LL)</sup>
+Strange and esoteric, even for Magi, the Order of Conduits is a sect of warriors who combine the arcane techniques of the Magi with martial arts. By mastering their physical body, they learn to infuse themselves with arcane power, channeling the wondrous magic of the Magi directly through their physical form. Where other Magi must rely on their Arcane Armory, those known as Conduits rely on nothing but their fists and inner arcane power to overcome their foes.
 #### **Order of Hexblades**<sup>(LL)</sup>
+Often arising around powerful sentient weapons, the Magi known as Hexblades augment their considerable skill in combat with sinister curses. Wielding the dark powers of the Shadowfell, these warriors wander the world siphoning the life-essence from worthy foes and deadly monsters in order to bring their own sentient weapon into being. For this occult quest, a Hexblade will stop at nothing to meet another skilled warrior in battle.
 #### **Order of Shades**<sup>(LL)</sup>
+The secretive Order of infiltrators, assassins, and spies, these Magi use their clandestine abilities to end conflict before they begin. Known as Shades, these warriors specialize in illusion magic and thrive under the cover of shadow. Shade Magi will only strike when they know their success is assured.
 #### **Order of Spellblades**<sup>(LL)</sup>
+Exceptionally rare, even among Magi, members of the Order of Spellswords master both advanced swordplay and magic. They dedicate their life to the pursuit of excellence in combat and little else. Combining the secret magic of their Order and advanced martial techniques, there are few warriors that can match the enchanted blade of a Spellsword in direct combat.
 #### **Order of Travelers**<sup>(LL)</sup>
+Practitioners of what many consider a forbidden ninth school of magic, Magi of the Order of Travelers augment their skills with Chronomancy magic, the magic of time. As they grow in their understanding of these secret magic, Travelers become increasingly detached from their place in time, and turning to become strange wanderers who safeguard the flow of time. Legends speak of Travelers so skillful in their use of time magic who can conjure future versions of themselves to aid in combat and offer cryptic knowledge from the future. How will your Traveler Magus safeguard the flow of time?
 ## Martyr
 *Martyrs are chosen by the gods, predestined to speed forth to a final destination: they are ordained to die for a great cause. They are prophets and oracles, great priests and liberators. Regardless of how much good they might accomplish in their lives, the end must always be the same: a glorious death, to be remembered in legend. No matter the circumstance, a martyr cannot avoid their destiny. While some martyrs gladly accept their holy approbation, others struggle against it. However, from the moment the gods choose their martyr, they shall intervene in the martyr's fate, pulling them inexorably towards their cause. The gods will settle for a lesser martyr if they must—if the one chosen is unwilling to follow their path—but they always prefer to uplift their martyr to the heights of sainthood before their inevitable death. (**Source: Valda’s Spire of Secrets**)*
 
@@ -1595,7 +1611,6 @@ The dragon god Bahamut is known to travel the Material Plane in the guise of a y
 
 #### **Way of the Bloodied Fist**<sup>(UA)</sup>
 Monks of the Way of the Bloodied Fist follow a tradition that teaches them to control their own life force, as well as the life force of their foes. By focusing their ki, they exert control over blood - a powerful tool that is not to be underestimated. Their monasteries practice in secret in dark caves and high mountains, out of the eye of the common people, and their members only leave for the rare missions ordered by only the most desperate. Many monks of this tradition are covered in scars - some self-inflicted in their training, and others earned in battle. The monks often use their mystic energies to manipulate these scars, forming them into complex designs and symbols to represent their unique ki powers.
-#### **Way of Thorns**<sup>(UA)</sup>
 
 #### **Way of the Four Elements Revised**<sup>(UA)</sup>
 
@@ -1648,6 +1663,9 @@ Monks of the Way of the Streets learn their techniques not through traditional m
 #### **Way of the Soul Blade**<sup>(KT)</sup>
 Monks of the Way of the Soul Blade are monks who have learned to harness and focus their ki, using their inner will and focus to control psionic powers—primarily into a blade of pure psionic power: a Soul Blade.
 #### **Way of the Demon**<sup>(KT)</sup>
+Way of the Demon Monks are those that channel demonic power to unleash special techniques. These techniques are often vicious and brutal, relying on raw power. Using them may corrupt a Monk's Ki to something dark and impure, causing others to shun them. 
+
+Many on this path have fallen to it out of pursuit of power, a dark history, or a demonic nature, but even if their powers may seem evil, not all that wield it are evil themselves. Sometimes a righteous monk will have acquired these powers from a strange path, such as sealing something demonic within themselves to protect the world from it, or be an inheritor of the techniques will seek to use them for good.
 
 #### **Way of the Four Elements Revised**<sup>(KT)</sup>
 
@@ -1707,21 +1725,6 @@ The sheep dragon is often regarded as the epitome of goodness and authenticity o
 Monks who practice the Way of the Arcane Hand have trained their bodies and souls to be attuned to the weave of arcane magic. They can harness those cosmic energies and use them to fuel their martial practices. Monks of this tradition, although not mageborn, have gained control over the rawest and most natural forms of power.
 #### **Way of the Serpent**<sup>(GTD)</sup>
 Master of the spear, this nimble warrior uses polearms not only as a weapon, but as an extension of themselves, using their weapon to amplify mobility, maneuverability, and combat. Like a snake in the grass, the Way of the Serpent hones one’s ability to predict oncoming attacks, deflect from a distance, and strike with deadly precision.
-## Mystic
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
-
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
-
-### <u>Subclasses - Mystic Orders</u>
-
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
-### *Unearthed Arcana*
-#### **Avatar Order**
-#### **Awakened Order**
-#### **Immortal Order**
-#### **Nomad Order**
-#### **Soul Knife Order**
-#### **Wu Jen Order**
 ## ~~Necromancer~~
 ### *Valda’s Spire of Secrets*
 Blood Ascendant
