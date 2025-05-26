@@ -2407,20 +2407,34 @@ _**Show No Mercy.**_ Though some think your strange powers are dark or corrupted
 *A Psion's master and how they are trained has great effect on the nature of their abilities. For some, their gift is honed through years of practice and meditation. Others are trained to use their mystic abilities to morph their bodies into deadly weapons. And for the rare few who are never discovered by a master, or attempt to stifle their power, they risk outbursts of wild psionic energy that can have devastating effects.*
 ### *KibblesTasty*
 #### **Awakened**
+
 #### **Unleashed**
+
 #### **Transcended**
+
 #### **Shaper’s**
+
 #### **Wandering**
+
 #### **Elemental**
+
 #### **Consuming**
+
 #### **Knowing**
+
 ### Laser Llama
 #### **Empath**
+One thing that sets mortals above the beasts and monsters is their ability to experience emotions. A rare few are so in-tune with their emotions that they can use their intense feelings to draw out their psionic potential. Known as Empaths, these Psions are experts at controlling the emotions of others.
 #### **Enlightened**
+Enlightened Psions meticulously hone their psionic potential through practice and dedication. Whether they studied under a great mystic or unlocked their power on their own over the course of years, they exercise a precise degree of control over their gift. Due to the years of training required to unlock their potential, Enlightened Psions are known for their unrivaled dedication, nearly-limitless patience, and impressive tenacity.
 #### **Immortal**
+Trained from birth to become masters of both body and mind, an Immortal is a deadly warrior. They use their psionic power to augment their physical abilities and perform great feats of athleticism and martial skill. Immortals spend years honing their signature abilities, making them ideal insurgents, spies, assassins, and bodyguards... for those who can afford them.
 #### **Outsider**
+Your psionic power may not have been unlocked of your own volition. Outsiders are those whose mind has been twisted by incomprehensible alien powers. Some were touched by the strange light of the Far Realm. Others are the results of cruel experiments of aberration from other worlds. Whatever their origin, Outsider Psions can wield the overwhelming psionic power of aberrations, often at the cost of their own sanity.
 #### **Visionary**
+Visionaries control their wondrous power by projecting it into the world, creating semi-solid objects of psionic force. Unlike other Psions who can manipulate the world by thought alone, Visionaries must imagine physical objects to affect the world.
 #### **Wilder**
+By far the most volatile Psions, Wilders are those who never truly learn to control the wondrous power of their mind. They often discover their psionic abilities unexpectedly as a result of a traumatic event or violently manifest their mystic power after years of attempting to contain it. Wilders are as erratic as they are powerful and rarely have psionic masters. By the time these uncontrolled abilities develop, it is often too late to gain control of the torrent of psionic power within them.
 ## Pugilist<sup>UAH</sup>
 *Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
 
