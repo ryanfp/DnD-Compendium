@@ -2398,73 +2398,70 @@ _**Arbiter of Fate.**_ The strands of fate were woven long ago, and it is folly 
 
 _**Show No Mercy.**_ Though some think your strange powers are dark or corrupted, you vanquish evil with the very curses and magics that they would use against you. Show no mercy to those who resist their fate.
 ## Psion
-*Whether through years of practice, or a once in a generation innate talent, Psions learn to manipulate the world with the wondrous power of their minds. Drawing upon the mystical power within, they can communicate without speaking, move objects, alter their physical bodies, and even manifest spells. Relying solely on mastery of their mind, Psions can perform feats thought impossible, even by the most erudite Wizards and devout Clerics. For Psions, it is a point of great pride that they can produce wonders without the help of external power. Due to their potential, Psions are often misunderstood and feared by the common folk. If they don’t learn to control their power, their strange abilities can cause them to be shunned and hated by those around them. Most Psions reveal their power only when necessary, and are hesitant to trust others.*
+*Whether through years of practice, or a once in a generation innate talent, Psions learn to manipulate the world with the wondrous power of their minds. Drawing upon the mystical power within, they can communicate without speaking, move objects, alter their physical bodies, and even manifest spells. Relying solely on mastery of their mind, Psions can perform feats thought impossible, even by the most erudite Wizards and devout Clerics. For Psions, it is a point of great pride that they can produce wonders without the help of external power. Due to their potential, Psions are often misunderstood and feared by the common folk. If they don’t learn to control their power, their strange abilities can cause them to be shunned and hated by those around them. Most Psions reveal their power only when necessary, and are hesitant to trust others.(**Source: KibblesTasty**)*
 
-*Since a psion’sww weapon is their mind, they are always a careless thought away from harming those around them. For a psion, the line between thinking and doing can be very thin, forcing them to keep their thoughts and emotions in check, lest their powers run amok. This leads to many of them developing odd behaviors or mannerisms to help them control their state of mind, frequently seeming quite eccentric to an outside observer.* 
+*Since a psion’s weapon is their mind, they are always a careless thought away from harming those around them. For a psion, the line between thinking and doing can be very thin, forcing them to keep their thoughts and emotions in check, lest their powers run amok. This leads to many of them developing odd behaviors or mannerisms to help them control their state of mind, frequently seeming quite eccentric to an outside observer.* 
 
-### <u>Subclasses - Psionic Awakenings</u>
+### <u>Subclasses - Schools of Thought</u>
 
 *A Psion's master and how they are trained has great effect on the nature of their abilities. For some, their gift is honed through years of practice and meditation. Others are trained to use their mystic abilities to morph their bodies into deadly weapons. And for the rare few who are never discovered by a master, or attempt to stifle their power, they risk outbursts of wild psionic energy that can have devastating effects.*
-### *KibblesTasty*
-#### **Awakened**
+#### **Awakened Mind**
 An Awakened Mind is a psion who had their psionic power awakened within them by an encounter, event, or circumstance. Perhaps their powers were latent or perhaps their destiny had been that of a normal creature until powers were suddenly thrust on them. Perhaps they brushed the realms beyond in a vivid dream, perhaps they wandered the Feywild and came back warped, perhaps they merely glimpsed the eyes of a creature that did not belong walking down the street. 
 
 An awakening is often somewhat traumatic. Psions are not well understood and the first power they manifest—telepathy— is one of the most feared and shunned abilities. 
-#### **Unleashed**
+#### **Unleashed Mind**
 An Unleashed Mind’s power is most often an innate force they struggle to understand or control, a reflection of their state of mind and mood projected onto the world around them, often to devastating results. The life of an Unleashed Psion is frequently their journey to control their unruly powers... or one of embracing the destructive powers fully. 
 
 What the wellspring of their innate power is varies: they could be a psionic race, born under the influence of distant twisted powers, warped by fey blood, or a herald of something more sinister brushing against the material world. Sometimes their power will show itself in simple applications, but most often their power becomes known and feared when their temper flares.
-#### **Transcended**
+#### **Transcended Mind**
 A Transcended psion is most often one that has found their path to psionic powers through a mental epiphany, realizing the place of their mind within the multiverse and how it ties to everything else, seeing the keys and levers to the world laid out before them in their mind’s eye. 
 
 Most often achieved either intentionally or accidentally through meditation and ritual, this can sometimes even be a passed on technique to reliably transcend the strictly material concerns, and explore the more cognitive realm and powers within.
-#### **Shaper’s**
+#### **Shaper’s Mind**
 A Shaper is a Psion that specializes in the materialization of their imagination, projecting it out into the world. No mere conjurers borrowing the powers of other planes, a Shaper manifests things from nothing but their own mind, weaving their creations into existence through the exertion of raw psionic power and imagination. 
 
 A Shaper’s mind is a tool of nearly unrivaled power possessing both boundless creativity and inexorable will, but if that will is overrun, the world would do well to fear a Shaper’s nightmares.
-#### **Wandering**
+#### **Wandering Mind**
 A Wandering Mind is among the more mysterious incarnates of psions, these are individuals that just aren’t quite rooted in the same reality everyone else is... they find it more pliable and slippery, and prone to jumping right through it on occasion. 
 
 How they get their powers varies. Some were born in the ethereal plane or went through a portal while young. Sometimes it is just that their mind just works along an axis most people cannot understand. No matter its source, they manifest a truly unique ability to treat certain aspects of the metaphysical with a certain mundanity, and are prone to treating their powers as absolutely natural things as one might treat an arm or leg.
-#### **Elemental**
+#### **Elementa Mind**
 An Elemental Mind is a Psion that can manifest and control elements as an extension of their will.
-#### **Consuming**
+#### **Consuming Mind**
 A Consuming Mind is a master of a dangerous branch of psionics, born from the ability to sap energy from other creatures. This power can tear away thoughts, minds, and ultimately vitality for the psion’s own consumption. A feared branch of psionics, it is sometimes believed to be one of the primeval roots of all psionic power, as it can be found among mind-eating monsters and ancient psionic space whales... which might have other names in various settings. 
 
 It has been refined by those that seek greater power either from ambition or desperation, and unlocks a terrible but effective path. One example of mortal creatures walking this path are the houses of dark elves, who developed their dark powers from their study of feral, vampiric, brain-eating monsters.
-### Laser Llama
-#### **Empath**
-One thing that sets mortals above the beasts and monsters is their ability to experience emotions. A rare few are so in-tune with their emotions that they can use their intense feelings to draw out their psionic potential. Known as Empaths, these Psions are experts at controlling the emotions of others.
-#### **Enlightened**
-Enlightened Psions meticulously hone their psionic potential through practice and dedication. Whether they studied under a great mystic or unlocked their power on their own over the course of years, they exercise a precise degree of control over their gift. Due to the years of training required to unlock their potential, Enlightened Psions are known for their unrivaled dedication, nearly-limitless patience, and impressive tenacity.
-#### **Immortal**
-Trained from birth to become masters of both body and mind, an Immortal is a deadly warrior. They use their psionic power to augment their physical abilities and perform great feats of athleticism and martial skill. Immortals spend years honing their signature abilities, making them ideal insurgents, spies, assassins, and bodyguards... for those who can afford them.
-#### **Outsider**
-Your psionic power may not have been unlocked of your own volition. Outsiders are those whose mind has been twisted by incomprehensible alien powers. Some were touched by the strange light of the Far Realm. Others are the results of cruel experiments of aberration from other worlds. Whatever their origin, Outsider Psions can wield the overwhelming psionic power of aberrations, often at the cost of their own sanity.
-#### **Visionary**
-Visionaries control their wondrous power by projecting it into the world, creating semi-solid objects of psionic force. Unlike other Psions who can manipulate the world by thought alone, Visionaries must imagine physical objects to affect the world.
-#### **Wilder**
-By far the most volatile Psions, Wilders are those who never truly learn to control the wondrous power of their mind. They often discover their psionic abilities unexpectedly as a result of a traumatic event or violently manifest their mystic power after years of attempting to contain it. Wilders are as erratic as they are powerful and rarely have psionic masters. By the time these uncontrolled abilities develop, it is often too late to gain control of the torrent of psionic power within them.
 ## Pugilist<sup>UAH</sup>
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
+*Wherever they come from, pugilists live a rough and tumble life that leaves them full of determination and recklessness, either from overconfidence or desperation. In a fight, they can channel this strength of character to dig deep and fight off foes with greater strength of numbers, arms, or armor than anyone else would think possible.*
 
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
+*Pugilists unconsciously tap into their own inner strength in the form of moxie. This is not an esoteric or mystical energy that flows through the multiverse, but the result of determination forged over a lifetime of hardship with a never-say-die attitude. You can teach someone how to fight but you could never teach someone how to be a pugilist. The secret of mastering moxie doesn’t come from disciplined study or rigorous training, it comes from years of wanting and needing.* 
 
 ### <u>Subclasses - Fight Clubs</u>
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
-### *Assorted Homebrew*<sup>(UAH)</sup>
+*Despite the name, fight clubs are not formal fraternities or sororities, but collections of pugilists who, by training or happenstance, share a similar style. In some D&D worlds, fight clubs can tell you a lot about where a person comes from, while in others there are representatives of many fighting styles in all metropolitan areas.*
+
 #### **Arena Royale Club**
+Pugilists in the Arena Royale fight club travel the world earning their keep as equal parts performer and gladiator. Whether performing in staged physical competitions, or fighting it out in unscripted brawls, pugilists in the Arena Royale care as much about the theatrics of a fight as they do its outcome. Pugilists in this fight club also care deeply about their reputation and work to build up local and regional legends about their performing personas.
 #### **Bloodhound Bruisers Club**
+Pugilists in the Bloodhound Bruisers fight club are notorious for looking for trouble and finding it every time. Members of this fight club are highly observant of character traits and physical evidence, and can form an almost supernatural connection to the cities they live in. Most use these abilities to become urban defenders of the downtrodden, but others lend their talents to less savory organizations.
 #### **Dog & Hound Club**
+You’ve never had a friend you could rely on that walked on two legs. Lucky for you, you’ve got the best four-legged friend a body could ask for. Pugilists in the Dog & Hound fight club are as faithful to their canine companions as their canine companions are to them.
 #### **Hand of Dread Club**
+In your darkest hour, you pleaded for the strength to take what you wanted from the world and a dread power took notice. At first, you may have relished the cathartic rush that came with channeling your dread power to claim what you felt you deserved. This pact, however, came with strings attached. In times of distress you hear the entity whispering in the back of your mind, encouraging you to indulge your most base impulses.
 #### **Lead Eaters Club**
+Pugilists in the Lead Eaters augment their swaggering moves with flashy gunplay, specializing in the use of blackpowder weapons. Known for filling stomachs with lead bullets and knuckle sandwiches, these pugilists love nothing more than staring down an opponent at high noon, proving that their hands are faster and their panache is greater than those of their competitor. And if they’re outmatched in the draw or run out of ammo, they’ll still happily beat that opponent senseless with the butt of their gun, classic fisticuffs, or anything else at hand.
 #### **Paradox Consortium Club**
+Pugilists of the Paradox Consortium fight like time is on their side, mostly because it is. They build and utilize equipment powered by their moxie to bend the flow of time, jump back in short bursts to de-canonize their mistakes, and accelerate localized time for themselves and others. To such a pugilist, navigating the wibbly wobbly, timey-wimey stuff is just another Tuesday. If you mess with one, be prepared to get punched into next week...literally.
 #### **Piss & Vinegar Club**
+Pugilists in the Piss & Vinegar fight club revel in their reputations as heels. Widely despised for their obscene curses and dirty tricks, these pugilists take pride in their ability to provoke, and fight to win at all costs.
 #### **Relentless Revenant Club**
+Most pugilists suffer hardships, but few can claim they’ve passed through the gates of death and returned. You died in an incident of terrible violence, perhaps an accident, perhaps not. You felt suffering, silence, darkness...then a cold-burning hatred in your chest. When you woke, you were changed. An object near you or on your person when you died granted you supernatural powers. You might not be able to die, but you’re pretty sure your enemies can.
 #### **Rift Hitter Club**
+Pugilists who punch hard and fast enough might eventually tear through the fabric of space with their fists. Rift hitters are rewarded for their esoteric training with hands that never stop vibrating, swings that shatter space, and goals that are never out of reach.
 #### **The Squared Circle Club**
+Pugilists who fight in the Squared Circle know you don’t have to knock an opponent senseless to get them to submit. Of course, members of the Squared Circle do beat their opponents senseless, they just know they don’t have to.
 #### **The Sweet Science Club**
+
 ## Ranger
 *Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
 

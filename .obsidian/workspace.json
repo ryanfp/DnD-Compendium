@@ -245,8 +245,7 @@
               "title": "Exhaustion Mechanics"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -571,8 +570,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b81e224dfe90a3f7",
+  "active": "3a73ca7b9dac80c9",
   "lastOpenFiles": [
+    "📚 - Information Compendium/📝 - Rules & Mechanics/Mechanics/Exhaustion Mechanics.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Circle of Visions.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Circle of Twilight.md",
@@ -603,7 +603,6 @@
     "templates/Untitled",
     "z_Templates/Untitled 4.md",
     "UNORGANIZED/Sourcebooks.md",
-    "Untitled 2.md",
     "New Text Document.txt",
     "git clone",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed",
