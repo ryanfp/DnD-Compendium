@@ -2431,8 +2431,8 @@ An Elemental Mind is a Psion that can manifest and control elements as an extens
 A Consuming Mind is a master of a dangerous branch of psionics, born from the ability to sap energy from other creatures. This power can tear away thoughts, minds, and ultimately vitality for the psion’s own consumption. A feared branch of psionics, it is sometimes believed to be one of the primeval roots of all psionic power, as it can be found among mind-eating monsters and ancient psionic space whales... which might have other names in various settings. 
 
 It has been refined by those that seek greater power either from ambition or desperation, and unlocks a terrible but effective path. One example of mortal creatures walking this path are the houses of dark elves, who developed their dark powers from their study of feral, vampiric, brain-eating monsters.
-## Pugilist<sup>UAH</sup>
-*Wherever they come from, pugilists live a rough and tumble life that leaves them full of determination and recklessness, either from overconfidence or desperation. In a fight, they can channel this strength of character to dig deep and fight off foes with greater strength of numbers, arms, or armor than anyone else would think possible.*
+## Pugilist
+*Wherever they come from, pugilists live a rough and tumble life that leaves them full of determination and recklessness, either from overconfidence or desperation. In a fight, they can channel this strength of character to dig deep and fight off foes with greater strength of numbers, arms, or armor than anyone else would think possible.(**Source: The Ultimate Adventurer’s Handbook**)*
 
 *Pugilists unconsciously tap into their own inner strength in the form of moxie. This is not an esoteric or mystical energy that flows through the multiverse, but the result of determination forged over a lifetime of hardship with a never-say-die attitude. You can teach someone how to fight but you could never teach someone how to be a pugilist. The secret of mastering moxie doesn’t come from disciplined study or rigorous training, it comes from years of wanting and needing.* 
 
@@ -2461,77 +2461,145 @@ Pugilists who punch hard and fast enough might eventually tear through the fabri
 #### **The Squared Circle Club**
 Pugilists who fight in the Squared Circle know you don’t have to knock an opponent senseless to get them to submit. Of course, members of the Squared Circle do beat their opponents senseless, they just know they don’t have to.
 #### **The Sweet Science Club**
-
+Pugilists who practice the Sweet Science hit hard, fast, and often. This style is sometimes used by fighters who battle for the entertainment of the upper classes, but is just as often practiced in the back alleys and the bars by those whose next breath depends on a knockout.
 ## Ranger
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
+*Rangers are a diverse group of skilled warriors who focus their abilities on subterfuge, using the environment to their advantage, and navigating dangerous places. Often separated from the heavily armored knights and soldiers, rangers stick to the fringes of society and are often seen as lone travelers who spent time surviving the wilds, or living amongst a druidic circle for a time. Rangers might be guerilla operatives of military organizations, bringing inventive tactics and skills to the battlefield, or protecting innocent people from the beasts and monsters occupying the untamed wilds of the continent.*
 
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
+*Warriors of the wilderness, rangers specialize in hunting the monsters that threaten the edges of civilization — humanoid raiders, rampaging beasts and monstrosities, terrible giants, and deadly dragons. They learn to track their quarry as a predator does, moving stealthily through the wilds and hiding themselves in brush and rubble. Rangers focus their combat training on techniques that are particularly useful against their specific favored foes.* 
 
-### <u>Subclasses - Ranger Archetypes</u>
+### <u>Subclasses - Ranger Conclaves</u>
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
-#### **Fey Wanderer**
-#### **Swarmkeeper**
-#### **Gloom Stalker**
-#### **Horizon Walker**
-#### **Monster Slayer**
-#### **Hunter**
-#### **Beast Master**
-#### **Drakewarden**
-#### **Beastborne**<sup>(VSS)</sup>
-#### **Freerunner**<sup>(VSS)</sup>
-#### **Highwayman**<sup>(VSS)</sup>
-#### **Spellbreaker**<sup>(VSS)</sup>
-#### **Trophy Hunter**<sup>(VSS)</sup>
-#### **Vigilante**<sup>(VSS)</sup>
+*As a ranger fosters their skills, they gain new abilities that reflect their deepening relationship with the natural world. Your choice of conclave represents the way your connection to the Primordial manifests. The deadliest of hunters, rangers thrive along the boundaries between wilderness and civilization, stalking prey and protecting their allies from predation. Some rangers call upon the power of the forest to capture or elude their quarry, some train a variety of animals to fight by their sides, while others use their skills at hunting and tracking to capture or kill for coin.*
+#### **Fey Wanderer Conclave**
+A fey mystique surrounds you, thanks to the boon of an archfey, the shining fruit you ate from a talking tree, the magic spring you swam in, or some other auspicious event. However you acquired your fey magic, you are now a Fey Wanderer, a ranger who represents both the mortal and the fey realms. As you wander the multiverse, your joyful laughter brightens the hearts of the downtrodden, and your martial prowess strikes terror in your foes, for great is the mirth of the fey and dreadful is their fury.
+#### **Swarmkeeper Conclave**
+Feeling a deep connection to the environment around them, some rangers reach out through their magical connection to the world and bond with a swarm of nature spirits. The swarm becomes a potent force in battle, as well as helpful company for the ranger. Some Swarmkeepers are outcasts or hermits, keeping to themselves and their attendant swarms rather than dealing with the discomfort of others. Other Swarmkeepers enjoy building vibrant communities that work for the mutual benefit of all those they consider part of their swarm.
+#### **Gloom Stalker Conclave**
+Gloom Stalkers are at home in the darkest places: deep under the earth, in gloomy alleyways, in primeval forests, and wherever else the light dims. Most folk enter such places with trepidation, but a Gloom Stalker ventures boldly into the darkness, seeking to ambush threats before they can reach the broader world. Such rangers are often found in the Underdark, but they will go any place where evil lurks in the shadows.
+#### **Horizon Walker Conclave**
+Horizon Walkers guard the world against threats that originate from other planes or that seek to ravage the mortal realm with otherworldly magic. They seek out planar portals and keep watch over them, venturing to the Inner Planes and the Outer Planes as needed to pursue their foes. These rangers are also friends to any forces in the multiverse — especially benevolent dragons, fey, and elementals — that work to preserve life and the order of the planes.
+#### **Monster Slayer Conclave**
+You have dedicated yourself to hunting down creatures of the night and wielders of grim magic. A Monster Slayer seeks out vampires, dragons, evil fey, fiends, and other magical threats. Trained in supernatural techniques to overcome such monsters, slayers are experts at unearthing and defeating mighty, mystical foes.
+#### **Hunter Conclave**
+Emulating the Hunter archetype means accepting your place as a bulwark between the people you protect and the terrors of the wilderness. As you walk the Hunter’s path, you learn specialized techniques for fighting the threats you face, from rampaging ogres to towering giants and terrifying dragons.
+#### **Beast Master Conclave**
+The Beast Master archetype embodies a friendship between the civilized races and the beasts of the wild. United in focus, beast and ranger fight the monsters that threaten civilization and the wilderness alike.
+#### **Drakewarden Conclave**
+Your connection to the natural world takes the form of a draconic spirit, which can manifest in physical form as a drake. As your powers grow, your drake grows as well, blossoming from a small four-legged companion to a majestic winged creature large and strong enough for you to ride. Along the way, you gain an increasing share of the awe-inspiring power of dragons.
+#### **Beastborne Conclave**<sup>(VSS)</sup>
+
+#### **Freerunner Conclave**<sup>(VSS)</sup>
+
+#### **Highwayman Conclave**<sup>(VSS)</sup>
+
+#### **Spellbreaker Conclave**<sup>(VSS)</sup>
+
+#### **Trophy Hunter Conclave**<sup>(VSS)</sup>
+
+#### **Vigilante Conclave**<sup>(VSS)</sup>
+
 #### **(UA Version)**<sup>(UA)</sup>
-#### **Deep Stalker**<sup>(UA)</sup>
-#### **Primeval Guardian**<sup>(UA)</sup>
-#### **Nightstalker**<sup>(DAC)</sup>
-#### **Seedmaster**<sup>(UA)</sup>
-#### **Beast Trainer**<sup>(TOH)</sup>
-#### **Grove Warden**<sup>(TOH)</sup>
-#### **Gunslinger**<sup>(TOH)</sup>
-#### **Haunted Warden**<sup>(TOH)</sup>
-#### **Snake Speaker**<sup>(TOH)</sup>
-#### **Spear of the Weald**<sup>(TOH)</sup>
-#### **Wasteland Strider**<sup>(TOH)</sup>
-#### **Bog Phantom**<sup>(TCEE)</sup>
-#### **Dark Trapper**<sup>(TCEE)</sup>
-#### **Herbalist**<sup>(TCEE)</sup>
-#### **Predator**<sup>(TCEE)</sup>
-#### **Stargazer**<sup>(TCEE)</sup>
-#### **Bloodhound**<sup>(FEQ)</sup>
-#### **Cosmic Caller**<sup>(FCG)</sup>
-#### **Primordial Keeper**<sup>(ECHH)</sup>
-#### **Wildcatter**<sup>(ECHH)</sup>
-#### **Infernal Rider**<sup>(CCS)</sup>
-#### **Specialist**<sup>(KT)</sup>
-#### **Mind Reaper**<sup>(KT)</sup>
+
+#### **Hollow Warden Conclave**<sup>(UA)</sup>
+
+#### **Deep Stalker Conclave**<sup>(UA)</sup>
+
+#### **Primeval Guardian Conclave**<sup>(UA)</sup>
+
+#### **Nightstalker Conclave**<sup>(DAC)</sup>
+The Nightstalker archetype emulates a unique form of shadow magic, used to create shadowy familiars to accompany you in battle. By walking this path, you learn to use your shadow familiar like an extension of yourself, using them like a weapon as you stalk through the dim forests and vast plains of the world, searching for your prey. Your choice of familiar defines your style of fighting, with each familiar playing a different role on the hunt and on the battlefield.
+#### **Seedmaster Conclave**<sup>(UA)</sup>
+
+#### ~~**Beast Trainer Conclave**<sup>(TOH)</sup>~~
+
+#### **Grove Warden Conclave**<sup>(TOH)</sup>
+Fiercely protective of their territory, alseid herds form close bonds with their home forests. In return for their diligent protection, the forests offer their blessings to dedicated alseid rangers. In recent years, woodsy adventurers of other races who have earned the forests’ trust also received this blessing, though their numbers are scant. These Grove Wardens can tap into the living magic of ancient forests. Your senses travel through the plants and earth of the woods, and the very land rises up to strike down your enemies.
+#### **Gunslinger Conclave**<sup>(TOH)</sup>
+Gunslingers use their expertise to hunt and track for coin, using their marksmanship skills to bring down their prey. Some gunslingers work by a personal code that defines what they will or will not do for money, while others have no scruples in who or what they hunt.
+#### **Haunted Warden Conclave**<sup>(TOH)</sup>
+It is no secret the wilds are dangerous and that many an intrepid adventurer has met an untimely end while exploring them. Haunted wardens are rangers who have come face to face with the restless spirit of one of those lost wanderers. Somehow during the course of this meeting, the yearning phantom tethers its spirit to the warden’s in order to put its unfinished business to rest. Even after its final wishes are met, or in the tragic instance they can’t come to fruition, your companion remains with you until you meet your end, both as a constant confidante and a reminder that the veil between life and death is thin indeed.
+#### **Snake Speaker Conclave**<sup>(TOH)</sup>
+Like the serpents they adore, snake speakers are highly adaptable hunters. Snakes are common throughout the world, and people who need to travel through snake-filled jungles often retain a snake speaker guide, trusting the guide to protect them from scaly poisoners.
+#### **Spear of the Weald Conclave**<sup>(TOH)</sup>
+The alseid have long defended the limits of their forest homes. These warriors can make a dizzying variety of ranged and melee attacks in quick succession, using ancient magic to flash across the battlefield.
+#### **Wasteland Strider Conclave**<sup>(TOH)</sup>
+A barren landscape wracked by chaotic magics, crawling with strange monstrosities and twisted aberrations that warp the minds of those who lay eyes upon them … you have learned to traverse these wastes and face these creatures without flinching. You patrol its boundaries and stride unseen through its harsh landscape, evading danger and protecting those who find themselves at the mercy of the arcana-laced wilds and eldritch horrors.
+#### **Bog Phantom Conclave**<sup>(TCEE)</sup>
+You follow patterns set by will-o’-wisps, departed souls that feed on fear and despair. Good Bog Phantoms often serve as guides in swamps or other dangerous areas. Evil ones may copy the behaviors of their power’s inspiration, and enjoy luring unsuspecting wanderers to their deaths.
+#### **Dark Trapper Conclave**<sup>(TCEE)</sup>
+Blood magic is often banned for a reason. Dark Trappers tap into the primordial magic that binds creatures to the world they live in. You have learned the shape of reality, and can use it to force creatures to stay in a location, send pulsing waves of damage through their blood, and harness the energy your prey provides to keep yourself alive longer.
+#### **Herbalist Conclave**<sup>(TCEE)</sup>
+Herbalists are true masters of their environment, able to find and utilize the rare and often magical components hidden in the undergrowth. Using these skills, they can create wondrous tonics, salves, potions and balms that can provide themselves and their allies with temporary beneficial effects. These rangers are often considered to be healers and witch-doctors instead of warriors, but there is no doubt that their abilities can turn the tide of battle.
+#### **Predator Conclave**<sup>(TCEE)</sup>
+The Predator archetype involves hunting monstrosities of the world such as the basilisk, hydra, and wyvern. They study these creatures’ traits and emulate their abilities and behaviors using their swift cunning, physical might, and primal magic.
+#### **Stargazer Conclave**<sup>(TCEE)</sup>
+Staring up at the night sky, one’s thoughts may drift to the vast unknown of the cosmos; an infinitely expansive sea of darkness speckled with inconceivably hot stars and unforgivingly harsh planets. While the starry heavens might seem absolutely foreign and unknowable, the Stargazer finds comfort and guidance from them. They learn more about their current location by looking at the constellations than they would from seeing a map.
+#### **Bloodhound Conclave**<sup>(FEQ)</sup>
+Rangers recognize the primal connections between all living things, and as a Bloodhound you know precisely how to exploit them to track down your chosen prey. The Western Frontier is home to countless fugitives and war criminals, and conclaves train their best bounty hunters to follow these ancient techniques— while on the other side of the Border Road, some hunters and worgs of the Great Pack use the skills of the Bloodhound to track enemies of purity.
+#### **Cosmic Caller Conclave**<sup>(FCG)</sup>
+Rangers who are Cosmic Callers have tamed an extraplanar creature of some kind, whether it is an elemental, an aberration of the Far Realm, or a creature from the Feywild. Through this connection, these rangers expand their understanding of arcane energy. Cosmic Callers often patrol boundaries between the Material Plane and other planes, protecting those hapless victims of circumstance that wander into dangerous extraplanar spaces.
+#### **Primordial Keeper Conclave**<sup>(ECHH)</sup>
+Wind walkers, stone speakers, and flame dancers. Primordial keepers are rangers who choose to harness raw elemental power over the more subtle, more spiritual connections to animals or plants, and are most often pragmatists. The elements are tools to wield, exactly as they would a sword or bow, simple and direct, versatile and never-failing.
+#### **Wildcatter Conclave**<sup>(ECHH)</sup>
+You breathe in the smell of the discharged gunpowder, lowering the barrel to watch your quarry stagger and fall. Your hand reflexively comes to rest on the holstered sidearm strapped to your thigh, ready in case the muzzle flash alerted another nearby predator. You wait, but only a dull breeze comes. As calm descends, you let out your breath and your hand relaxes. 
+
+At home in the wilderness, yet born from civilization and unwilling to part from it, the wildcatter straddles these two disparate worlds much more than most other rangers.
+#### **Infernal Rider Conclave**<sup>(CCS)</sup>
+Infernal Rider Rangers roam both the streets inside Prismatic Falls and the wastes outside of it, using high-powered arcane cycles to get around in both speed and style. They often roam in small groups, using specially made vehicles that allow them to fight while riding. The screams of fiends are a  sign that an ambush from one of these gangs is imminent.
+#### **Specialist Conclave**<sup>(KT)</sup>
+Specialists are rangers that innovate their technique and equipment in equal measure. Deadly and clever, they keep their opponents guessing what is coming next.
+#### **Mind Reaper Conclave**<sup>(KT)</sup>
+Mind Reapers are an incarnation of fear. Terrible creatures seen more often in stories told to frighten children or ancient legends than the material plane, these are predatory creatures most mortals would be right to fear, no matter what their intentions. Some use these powers to spread fear, savoring the terror of their victims. Others use their powers to dispense what they view as justified, stalking down and reaping only those they believe have earned such a grim fate.
 #### **Beast Master Revised**<sup>(KT)</sup>
-#### **Bounty Hunter**<sup>(KT)</sup>
-#### **Burghal Explorer**<sup>(XLNEE)</sup>
-#### **Wasteland Wanderer**<sup>(XLNEE)</sup>
-### Level Up: Advanced 5e
-#### **Beastmaster**
-#### **Warden**
-#### **Wildborn**
-#### **Spiritbound**<sup>(BoE)</sup>
-#### **Hound of the Huntsman**<sup>(CFSA)</sup>
-#### **Trapper**<sup>(HGMH)</sup>
-#### **Winter Trapper**<sup>(TGS)</sup>
-#### **Gravetender**<sup>(TGS)</sup>
-#### **Rocborne**<sup>(TGS)</sup>
-#### **Shadow Caller**<sup>(E)</sup>
-#### **Cometcaller**<sup>(SMR)</sup>
-#### **Apex Predator**<sup>UAH</sup>
-#### **Bounty Hunter**<sup>UAH</sup>
-#### **Cronesguard**<sup>UAH</sup>
-#### **Freerunner**<sup>UAH</sup>
-#### **Geomancer**<sup>UAH</sup>
-#### **Spirit Guardian**<sup>UAH</sup>
-#### **Corrupted Ranger**<sup>(OTG)</sup>
-#### **Urban Ranger**<sup>(GTD)</sup>
+
+#### **Bounty Hunter Conclave**<sup>(KT)</sup>
+Anyone that knows about adventurers will know that their legacy is equal parts heroics and burning drinking establishments to the ground. Equal parts dragons slain and merchants robbed. Everyone needs someone to fear, and Rangers that take the Bounty Hunter path are what those who bring fear to others must fear. 
+
+Excelling at hunting down targets wherever they should hide, they bring them down dead or alive.
+#### **Burghal Explorer Conclave**<sup>(XLNEE)</sup>
+Burghal Explorers are at home in tight places, making their living as urban bounty hunters or guiding magical search crews through dangerous ruins. Dark slums and ruined cities, choked with thirsty weeds and decorated with crumbling remnants of once-thriving communities, become gathering points for desperate innocents—and for sneak-thieves and bandits who prey on the helpless. Burghal Explorers toe the line between the natural forest and cityscapes, moonlighting as vigilantes, or fending off unnatural horrors that reach covetously toward the darkest, deepest, plots of land.
+#### **Wasteland Wanderer Conclave**<sup>(XLNEE)</sup>
+Some worlds thrive, with large swathes of the land covered with flora and fauna that can be both beautiful and dangerous while other lands, or other worlds, become desolate wastelands through cataclysmic occurrences either natural or manufactured. Apocalyptic events turn the land into hazardous voids more dangerous than any monster. Only the hardiest life forms survive, and even they are often mutated into hideous reflections of their natural selves. 
+
+Forged in harsh kiln of apocalyptic survival are the Wasteland Wanderer. These rangers of ruin rely on the skills and knowledge they have gathered by surviving the terrible conditions of their world— and often helping others survive as well.
+#### **Spiritbound Conclave**<sup>(BoE)</sup>
+Spiritbound rangers forge a pact with the invisible nature spirits of the mountains, rivers, and forests. Often, these spirits claw at the material world and seek vengeance upon those that despoil their domains. Spiritbound rangers are the implement of their fury. 
+
+Rangers of this archetype strive to achieve balance with the natural world and preserve its majesty. Doing so is a constant struggle in which the spiritbound can find wisdom and companionship within their spirit ally.
+#### **Hound of the Huntsman Conclave**<sup>(CFSA)</sup>
+
+#### **Trapper Conclave**<sup>(HGMH)</sup>
+Through careful preparation, trappers can create both physical and magical traps to ensnare, explode, or enrapture those unlucky enough to find themselves in their vicinity. Trappers are found in all terrains where there are creatures to be hunted. With tact and guile as their companions, a trapper can lay low even the mightiest of prized beasts.
+#### **Winter Trapper Conclave**<sup>(TGS)</sup>
+Winter Trappers are masters of control and keep both their adversaries and quarries helpless and at bay. Originating from the Everglacier, these trained hunters are experts at staying upright when others would surely fall, and have learned how to use magic and acrobatics to keep both themselves and their allies out of harm’s reach.
+#### **Gravetender Conclave**<sup>(TGS)</sup>
+Rangers that tend to the cemeteries and final places of rest in the world are Gravetenders. These solemn caretakers are wardens of the circle of life, and traverse such oft-ignored yet hallowed grounds with grim purpose. And, like the dead re- turning to soil, Gravetenders offer their vitality in exchange for power and survival. They stand as silent sentinels, vigilant against the encroachment of desecration and undeath, and defend the memories of persons, beasts, and more to ensure their voices are never forgotten to the ravages of time.
+#### **Rocborne Conclave**<sup>(TGS)</sup>
+The Rocborne are nomads of the sky who travel the world on the backs of ancestral rocs. These travelers understand that the air and wind aren’t just one force but the collective effort of untold numbers of spirits that are carried along by it. By listening to the wind the same way a medium beckons to the dead, a Rocborne can learn more about the weather, their path forward, and even themselves. Many Rocborne grow up and live in this culture for their entire lives, but some have been known to begin their own journeys. Alternatively, your path may have been crossed by a powerful windborne spirit later on in life, allowing you to suddenly feel and heed the guiding wind inside you. 
+
+By calling on the spirits of the wind to aid them, rangers of this archetype can exert a degree of control over both wind and weather. These skills were passed down from the rocs to the first Rocborne and continue to live on through the dedicated instruction of Rocborne elders, both living and dead. You may be taught these skills or have them passed on to you through the guidance of Rocborne spirits in whispers, dreams, or in moments of deep meditation.
+#### **Shadow Caller Conclave**<sup>(E)</sup>
+
+#### **Cometcaller Conclave**<sup>(SMR)</sup>
+Many rangers prefer to sleep under the stars, but the Cometcaller Conclave takes it to a new level. When cometcallers look up at the night sky, they see not just the stars, but the power locked within them and the forces that transit the void of space. Their harmony with nature is particularly focused on the cosmos and their role within it, and as such, they can call on cosmic powers and command gravity itself. 
+
+Cometcallers come from any walk of life, but tend to have an esoteric or mystical streak - it helps when exploring the cosmos beyond mortal ken. Good-aligned cometcallers have a healthy perspective about civilization's place in the universe. Evil cometcallers, conversely, mostly just like to drop meteors on their enemies.
+#### **Apex Predator Conclave**<sup>UAH</sup>
+You may not have been raised by beasts, but you certainly act like it. An Apex Predator uses all weapons at their disposal, lashing out with their teeth and nails at any enemy foolish enough to fight them in melee. Their instinctual affinity for animals gives rise to spells that grant them control over beasts. Their emulation of predators gives them a heightened capacity for violence and intimidation.
+#### **Bounty Hunter Conclave**<sup>UAH</sup>
+Some rangers seek glory by hunting down the most dangerous creatures the multiverse has to offer; others take on the more practical tasks of capturing or eliminating criminals and other nuisances. A Bounty Hunter familiarizes themselves with one particular creature at a time, mastering martial techniques for efficiently capturing or killing any bounty. The success of a Bounty Hunter rests on their employment of studious techniques for quickly becoming familiar with any unfamiliar quarry.
+#### **Cronesguard Conclave**<sup>UAH</sup>
+Although hags have a reputation for villainy, they are powerful protectors of natural places and those who choose to live on the fringes of civilization. In this role, the Feywild natives sometimes forge an unusual alliance with rangers with similar interests. Cronesguard act as a hag coven’s agents in lands beyond their reach and, in exchange, the coven lends the ranger a portion of their power. You have made such a pledge.
+#### **Freerunner Conclave**<sup>UAH</sup>
+Freerunners dedicate their lives to movement, seeing every obstacle in front of them as an opportunity for play. While most at home climbing and sprinting through sprawling metropolises, a Freerunner can jump and flip through any locale. Though many see these rangers as foolhardy show-offs, Freerunners understand that the art of parkour isn’t about proving one’s prowess, but about exulting in the joy of movement. Running upon the line between life and death makes them feel the most alive, and for them is the truest expression of freedom.
+#### **Geomancer Conclave**<sup>UAH</sup>
+You have learned to tap into the mystical properties of the land, giving you greater and more flexible magic than other rangers. Geomancers have a deep connection to certain types of terrain but can access the magic inherent to any land they are in. Geomancers take great pride in their reputation as some of the greatest spellcasters among rangers.
+#### **Spirit Guardian Conclave**<sup>UAH</sup>
+Some rangers turn to the primordial to protect their homes, bonding with an elemental spirit. Spirit Guardians entwine their essence with these totemic guardians, manifesting aspects of the spirits’ powers, and becoming far more attuned to the denizens of the Elemental Planes.
+#### **Corrupted Ranger Conclave**<sup>(OTG)</sup>
+You have become afflicted by the mysterious illness that haunts the island known as the Corruption. This same foul magic, which has stained the coastlines black, now resides within your body. It curses your skin and seeps from your pores, and in time it will even become difficult to distinguish you from it.
+#### **Urban Ranger Conclave**<sup>(GTD)</sup>
+Urban rangers are less accustomed to nature and the wilds, but to the rooftops and guerilla tactics of city warfare. Training for maneuverability and stealth amongst ruined buildings, and twisting streets, these rangers are at home amongst the ruins and rubble. They are agile runners, skilled snipers, and always able to know where the best vantage points against their enemies are.
 ## Rogue
 *Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
 
@@ -3023,3 +3091,5 @@ White
 
 
 ## Illrigger MCDM
+
+## Jaeger , Monster Hunter? # Drizzt's Travelogue of Everything Volume 1
