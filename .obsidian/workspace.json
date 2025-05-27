@@ -235,10 +235,14 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "📚 - Information Compendium/📝 - Rules & Mechanics/Mechanics/Exhaustion Mechanics.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Exhaustion Mechanics"
             }
           }
         ],
