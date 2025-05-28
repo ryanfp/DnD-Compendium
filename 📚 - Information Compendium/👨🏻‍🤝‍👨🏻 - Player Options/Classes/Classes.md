@@ -2671,7 +2671,7 @@ Enforcers excel at practical violence. Whether plying their trade as bounty hunt
 #### **Reveler**<sup>(FCG)</sup>
 You are skilled in the art of taking your enemies off guard through unexpected tactics. Revelers use unfamiliar tinctures and tonics to replicate the effects of drunkenness in both themselves and enemies. You embrace long combat, inviting your enemies to make mistakes. You can also serve as a social infiltrator, scouting conversations in the same way that other rogues might scout an enemy base.
 #### **Knife Juggler**<sup>(ECHH)</sup>
-Follow the daggers with your eyes, folks! Don’t lose sight of them now. In an amazing act of masterful dexterity, our mistress of the blades is juggling three...no, four! Four daggers now! When did she add another? Let’s see if you can catch it this time, folks. Watch closely. Five! Did you see it? Faster than lighting. Five razor-sharp daggers, tearing through the air. What a stupendous feat of daring deeds. Now, if we can have a volunteer. You! You sir! Yes, you, don’t worry, it’s perfectly safe. Come stand over here in front of this wooden plank. Don’t pay any mind to the blood stains. Oh, I’m kidding sir, come back, come back. Stand still, back straight, and hold your arms straight out to the sides. I’m going to place an apple on each of your upturned palms and this one, here, balanced on top of your head. No need to look nervous, sir. Are you still watching the daggers, folks? Don’t lose sight of them. Mistress! You haven’t been drink- ing again this morning, have you? Oh, I kid folks, I kid. Al- right now, sir. Just. Don’t. Move.
+Follow the daggers with your eyes, folks! Don’t lose sight of them now. In an amazing act of masterful dexterity, our mistress of the blades is juggling three...no, four! Four daggers now! When did she add another? Let’s see if you can catch it this time, folks. Watch closely. Five! Did you see it? Faster than lighting. Five razor-sharp daggers, tearing through the air. What a stupendous feat of daring deeds. Now, if we can have a volunteer. You! You sir! Yes, you, don’t worry, it’s perfectly safe. Come stand over here in front of this wooden plank. Don’t pay any mind to the blood stains. Oh, I’m kidding sir, come back, come back. Stand still, back straight, and hold your arms straight out to the sides. I’m going to place an apple on each of your upturned palms and this one, here, balanced on top of your head. No need to look nervous, sir. Are you still watching the daggers, folks? Don’t lose sight of them. Mistress! You haven’t been drinking again this morning, have you? Oh, I kid folks, I kid. Al- right now, sir. Just. Don’t. Move.
 #### **Mnemonic**<sup>(ECHH)</sup>
 Stolen memories are only one part of the services you provide, but the idea is so evocative that the name always sticks. No, in fact you are a broker of any and all information: government secrets, suppressed memories, personal thoughts and desires, or otherwise. You pride yourself on providing your clients with information that can’t be found by anyone else, ideas so heavily guarded that they might only exist within the mind of one individual. That doesn’t matter to you though. You have your methods, and those that hire you know better than to ask.
 #### **Quickdraw**<sup>(CCS)</sup>
@@ -2683,13 +2683,19 @@ Specializing tools that let themselves get in and out of trouble, they don’t f
 #### **Assassin Revised**<sup>(KT)</sup>
 
 #### **Divine Hand**<sup>(KT)</sup>
+Not all priests are clerics. Not all problems can be solved by prayer and preaching. Sometimes a more subtle touch is needed to steer the world as the faith dictates, and that is the role of a Divine Hand. A blade in the night that commits the lesser evil for the greater good, or a quick end to someone that sniffed too close to the cult of a dark god’s business; both could be the work of these divinely guided rogues. 
 
+Good is not nice, evil is not stupid. Whatever the organization or god a Divine Hand serves, it is one that understands the practical nature of the world. Spying, stealing, extracting information, purging the heretics... they have many tasks before them, and complete them with a grim determination.
 #### **Shinobi**<sup>(KT)</sup>
-
+Masters of stealth, disguise, and mystical techniques, Shinobi often trained by esoteric sects or orders as spies, scouts, and assassins. 
 #### **Surgeon**<sup>(KT)</sup>
+These are Rogues that come from the bloodiest walk of life... that of a medic. Few Rogues have sliced open more creatures than a Surgeon, and they leverage their masterful understanding of anatomy to cut open and sew close in equal measure. They have seen everything an adventuring life has to offer—roper bites, dragon burns, bore holes in skulls—and turned that array of knowledge into a complete understanding of what a creature can survive... and what it can’t. 
 
+Surgeons will tend to exhibit some degree of education, be it academic or hands on. They have seen the best and worst of humanity and the battlefield. Sometimes they are selfless heroes that act as a bulwark against death, while other times they are cynical and jaded to carnage, falling to apathy or worse.
+#### **Rimeblade**<sup>(SMR)</sup>
+Rimeblades are an obscure breed of rogue, adventurers who are imbued with the icy touch of winter. Some may have narrowly survived a frozen fate, while others may have been touched by snow-spirits or cursed while robbing a glacial tomb. They still practice their roguish arts, but are able to summon blades of ice or conjure waves of frost to prepare their foes for a deadly strike.
 #### **Divine Herald**<sup>(XLNEE)</sup>
-
+Your strict upbringing has made you an unwavering and swift agent of divine retribution. You don’t simply exist to serve the priests of your order, you have a higher purpose and calling, to alleviate the world of false prophets and heretics.
 #### **Chameleon**<sup>(BoE)</sup>
 
 #### **Graverobber**<sup>(CFSA)</sup>
