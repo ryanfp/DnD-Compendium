@@ -2601,70 +2601,125 @@ You have become afflicted by the mysterious illness that haunts the island known
 #### **Urban Ranger Conclave**<sup>(GTD)</sup>
 Urban rangers are less accustomed to nature and the wilds, but to the rooftops and guerilla tactics of city warfare. Training for maneuverability and stealth amongst ruined buildings, and twisting streets, these rangers are at home amongst the ruins and rubble. They are agile runners, skilled snipers, and always able to know where the best vantage points against their enemies are.
 ## Rogue
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
+*Rogues rely on skill, stealth, and their foes’ vulnerabilities to get the upper hand in any situation. They have a knack for finding the solution to just about any problem, demonstrating a resourcefulness and versatility that is the cornerstone of any successful adventuring party. Rogues devote as much effort to mastering the use of a variety of skills as they do to perfecting their combat abilities, giving them a broad expertise that few other characters can match. Many rogues focus on stealth and deception, while others refine the skills that help them in a dungeon environment, such as climbing, finding and disarming traps, and opening locks. When it comes to combat, rogues prioritize cunning over brute strength. A rogue would rather make one precise strike, placing it exactly where the attack will hurt the target most, than wear an opponent down with a barrage of attacks. Rogues have an almost supernatural knack for avoiding danger, and a few learn magical tricks to supplement their other abilities.*
 
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
+*Every town and city has its share of rogues. Most of them live up to the worst stereotypes of the class, making a living as burglars, assassins, cutpurses, and con artists. Often, these scoundrels are organized into thieves’ guilds or crime families. Plenty of rogues operate independently, but even they sometimes recruit apprentices to help them in their scams and heists. A few rogues make an honest living as locksmiths, investigators, or exterminators, which can be a dangerous job in a world where dire rats — and wererats — haunt the sewers.* 
 
 ### <u>Subclasses - Roguish Archetypes</u>
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
+*Rogues have many features in common, including their emphasis on perfecting their skills, their precise and deadly approach to combat, and their increasingly quick reflexes. But different rogues steer those talents in varying directions, embodied by the rogue archetypes. Your choice of archetype is a reflection of your focus — not necessarily an indication of your chosen profession, but a description of your preferred techniques.*
 #### **Thief**
+You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items you normally couldn’t employ.
 #### **Assassin**
+You focus your training on the grim art of death. Those who adhere to this archetype are diverse: hired killers, spies, bounty hunters, and even specially anointed priests trained to exterminate the enemies of their deity. Stealth, poison, and disguise help you eliminate your foes with deadly efficiency.
 #### **Arcane Trickster**
+Some rogues enhance their fine-honed skills of stealth and agility with magic, learning tricks of enchantment and illusion. These rogues include pickpockets and burglars, but also pranksters, mischief-makers, and a significant number of adventurers.
 #### **Inquisitive**
+As an archetypal Inquisitive, you excel at rooting out secrets and unraveling mysteries. You rely on your sharp eye for detail, but also on your finely honed ability to read the words and deeds of other creatures to determine their true intent. You excel at defeating creatures that hide among and prey upon ordinary folk, and your mastery of lore and your keen deductions make you well equipped to expose and end hidden evils.
 #### **Mastermind**
+Your focus is on people and on the influence and secrets they have. Many spies, courtiers, and schemers follow this archetype, leading lives of intrigue. Words are your weapons as often as knives or poison, and secrets and favors are some of your favorite treasures.
 #### **Scout**
+You are skilled in stealth and surviving far from the streets of a city, allowing you to scout ahead of your companions during expeditions. Rogues who embrace this archetype are at home in the wilderness and among barbarians and rangers, and many Scouts serve as the eyes and ears of war bands. Ambusher, spy, bounty hunter — these are just a few of the roles that Scouts assume as they range the world.
 #### **Swashbuckler**
+You focus your training on the art of the blade, relying on speed, elegance, and charm in equal parts. While some warriors are brutes clad in heavy armor, your method of fighting looks almost like a performance. Duelists and pirates typically belong to this archetype.
 #### **Phantom**
+Many rogues walk a fine line between life and death, risking their own lives and taking the lives of others. While adventuring on that line, some rogues discover a mystical connection to death itself. These rogues take knowledge from the dead and become immersed in negative energy, eventually becoming like ghosts. Thieves’ guilds value them as highly effective information gatherers and spies.
 #### **Soulknife**
+Most assassins strike with physical weapons, and many burglars and spies use thieves’ tools to infiltrate secure locations. In contrast, a Soulknife strikes and infiltrates with the mind, cutting through barriers both physical and psychic. These rogues discover psionic power within themselves and channel it to do their roguish work. They find easy employment as members of thieves’ guilds, though they are often mistrusted by rogues who are leery of anyone using strange mind powers to conduct their business. Most governments would also be happy to employ a Soulknife as a spy.
 #### **Arachnoid Stalker**<sup>(VSS)</sup>
+
 #### **Enforcer**<sup>(VSS)</sup>
+
 #### **Grifter**<sup>(VSS)</sup>
+
 #### **Shadow Master**<sup>(VSS)</sup>
+
 #### **Temporal Trickster**<sup>(VSS)</sup>
+
 #### **Titan Slayer**<sup>(VSS)</sup>
+
 #### **Shadow**<sup>(DAC)</sup>
+Some rogues choose to delve into the intricacies of shadow magic, using its unique powers to enhance their skills in stealth and deception. These rogues are a very diverse subset, from simple thieves to hired killers to highly trained bounty hunters. By learning how to separate their shadow from their body, shadow rogues become difficult to catch and even harder to kill.
 #### **Cat Burglar**<sup>(TOH)</sup>
+As a cat burglar, you’ve honed your ability to enter closed or restricted areas, drawing upon a tradition first developed among the catfolk, who often are innately curious and driven to learn what wonders, riches, or unusual friends and foes lie beyond their reach or just out of sight. In ages past, some allowed this inquisitiveness to guide them toward a rogue’s life devoted to bridging that gap by breaking into any and all structures, dungeons, or walled-off regions that prevented them from satisfying their curiosity. 
+
+So successful were these first catfolk burglars that other rogues soon began emulating their techniques. Walls become but minor inconveniences once you work out the best methods of scaling them and learn to mitigate injuries from falls. In time, cat burglars become adept at breaching any openings they find; after all, if a door was not meant to be opened, why would it have been placed there? Those who devote a lifetime to such endeavors eventually learn to spot and bypass even the cleverest traps and hidden doors, including those disguised or warded by magic.
 #### **Dawn Blade**<sup>(TOH)</sup>
+Even churches and temples of deities of goodness and light have need of those willing to get their hands dirty and willing to sully their honor in service of what must be done. Dawn blades are devout rogues, drawing divine power from deities of light to strike as a sudden ray of searing sunlight in the darkness. They are often considered controversial by other adherents of their faith, yet the faith’s leadership understands such agents are sometimes necessary.
 #### **Sapper**<sup>(TOH)</sup>
+You focus as much on identifying the weak points of structures as on the weak points of creatures. Sappers are deployed with the soldiery to dig trenches, build bridges, and breach defenses. When troops move into a heavily defended area, it’s your job to make it happen as efficiently as possible.
 #### **Smuggler**<sup>(TOH)</sup>
+The transport of goods, creatures, and even people can be a lucrative business, particularly if you know how to avoid expensive import and export taxes, bridge, highway, and port tolls, and other legal requirements. Exotic poisons from far-off locales, banned or cursed magic items, and illicit drugs or bootleg liquor all fetch a high price on the black market. Thieves’ guilds, pirates, and criminal kingpins pay well to those who can avoid law enforcement when moving stolen goods, provide safe channels of communication, break associates free from jail cells or dungeons, or deliver supplies past guards. You’ve become adept at all of these things, perhaps even having developed a network of contacts as a criminal, noble, con artist, or sailor during an earlier part of your life.
 #### **Soulspy**<sup>(TOH)</sup>
+In the eternal war between good and evil, between light and darkness, between life and death, there are many types of participants on each side. Soulspies are agents of the divine who lurk in the shadows, taking a less-visible role in the fight. Occasionally, they aid other agents of their deities, but most often they locate and manage or eliminate threats to their deities that more scrupulous agents might be unwilling or unable to handle.
 #### **Underfoot**<sup>(TOH)</sup>
+Though most rogues prefer ambushing their opponents from the shadows, erina rogues ambush their opponents from below. These Underfoot use druidic magic and their natural aptitude for burrowing to defend their forest homes. The Underfoot are an elite order of burrow warriors in every erina colony. Using a combination of guerilla attacks and druidic magic, they are a force to be reckoned with, diving into fights nose-forward.
 #### **Improviser**<sup>(TCEE)</sup>
+Improvisers strive to never be caught off guard and to be able to think of solutions most wouldn’t consider. Able to utilize their environment and mundane objects, these genius rogues can fashion complex traps and helpful tools at a moment’s notice. Many dabble in arcane magic to further augment their attacks and contraptions and often attempt to outsmart their enemies, preparing tactics far in advance of any conflict.
 #### **Temple Raider**<sup>(TCEE)</sup>
+Places of divine power, both ancient and modern, call to the temple raiders. These rogues exploit glimmers of divine magic to enter magically warded areas and recover treasures, mystical and mundane. 
+
+Temple raiders come from a mix of origins, which explain their motivation in delving into places of power and the sources of the divine spark that aids them in their quest. Some are scholars, seeking and exploiting objects of historical religious impower. Others are grifters, seeking artifacts for personal gain and using stolen divine magic to aid their efforts. Still others are sent on their mission by the gods themselves, gifted with divine magic to disrupt places of worship of other faiths, recover lost temples of their own faith, or as a form of worship to gods of trickery and thievery.
 #### **Wayfinder**<sup>(TCEE)</sup>
+You connect yourself with nature, enhancing your mobility and prowess with primal magic. Often found alongside druids, rangers, and other protectors of the wild, Wayfinders traverse the land to preserve the balance between nature and civilization.
+
+Perhaps more than any other rogue, you understand the importance of community and working as one. You are skilled at leading the way and using the terrain to your group’s advantage. This is true whether you are guiding allies through an overgrown forest, rubble of a destroyed city block, or people on a crowded street.
 #### **Witchblade**<sup>(TCEE)</sup>
+The order of the witchblades teaches its members to brew a wide variety of hellbroths, deadly poisons, corrosive acids, and other such concoctions and decoctions. Armed with coated blades and explosive vials of both chemical and alchemical mixtures, they are prepared for any situation. No matter how much wealth a noble accrues, or how big and strong a monster grows, they are nothing compared to the merciless touch of nature - and you are its vessel. These debilitating, mind-numbing effects are produced by secret recipes, which are often only bequeathed from parent to child, or mentor to mentee. This oral tradition usually goes back to a particularly creative, and conveniently amoral alchemist, a back-alley apothecary, a trained physician, or even a disgruntled gardener. Whichever the case might be, you know your way around both a dagger and a cauldron. In the hands of a witchblade like you, a couple droplets can change the course of history.
 #### **Enforcer**<sup>(ToV)</sup>
+Enforcers excel at practical violence. Whether plying their trade as bounty hunters, assassins, or mercenaries, rogues of this specialty strive to make their bloody craft efficient and effective.
 #### **Reveler**<sup>(FCG)</sup>
+You are skilled in the art of taking your enemies off guard through unexpected tactics. Revelers use unfamiliar tinctures and tonics to replicate the effects of drunkenness in both themselves and enemies. You embrace long combat, inviting your enemies to make mistakes. You can also serve as a social infiltrator, scouting conversations in the same way that other rogues might scout an enemy base.
 #### **Knife Juggler**<sup>(ECHH)</sup>
+Follow the daggers with your eyes, folks! Don’t lose sight of them now. In an amazing act of masterful dexterity, our mistress of the blades is juggling three...no, four! Four daggers now! When did she add another? Let’s see if you can catch it this time, folks. Watch closely. Five! Did you see it? Faster than lighting. Five razor-sharp daggers, tearing through the air. What a stupendous feat of daring deeds. Now, if we can have a volunteer. You! You sir! Yes, you, don’t worry, it’s perfectly safe. Come stand over here in front of this wooden plank. Don’t pay any mind to the blood stains. Oh, I’m kidding sir, come back, come back. Stand still, back straight, and hold your arms straight out to the sides. I’m going to place an apple on each of your upturned palms and this one, here, balanced on top of your head. No need to look nervous, sir. Are you still watching the daggers, folks? Don’t lose sight of them. Mistress! You haven’t been drink- ing again this morning, have you? Oh, I kid folks, I kid. Al- right now, sir. Just. Don’t. Move.
 #### **Mnemonic**<sup>(ECHH)</sup>
+Stolen memories are only one part of the services you provide, but the idea is so evocative that the name always sticks. No, in fact you are a broker of any and all information: government secrets, suppressed memories, personal thoughts and desires, or otherwise. You pride yourself on providing your clients with information that can’t be found by anyone else, ideas so heavily guarded that they might only exist within the mind of one individual. That doesn’t matter to you though. You have your methods, and those that hire you know better than to ask.
 #### **Quickdraw**<sup>(CCS)</sup>
+Rogues of this archetype are master gunslingers and smooth-talking outlaws who always shoot first. They react with incredible speed, relying on their instincts and skills to shoot down any threat before it can even make a move.
 #### **Gadgeteer**<sup>(KT)</sup>
+Swinging from a grappling hook before dropping a smoke bomb, rigging a stubborn lock to blow, or rejiggering traps to spring on those that set them, the Gadgeteer lives by fast paced innovation and thinking outside the box on the fly... sometimes literally. 
+
+Specializing tools that let themselves get in and out of trouble, they don’t fight fair, relying on things that go "boom", "zap" or "whirr". They live on the edge of their own explosions, though often rewriting the story in later retellings that they doffed their darkened goggles as they walked away slowly, omitting the singed seat of their trousers and yelping.
 #### **Assassin Revised**<sup>(KT)</sup>
+
 #### **Divine Hand**<sup>(KT)</sup>
+
 #### **Shinobi**<sup>(KT)</sup>
+
 #### **Surgeon**<sup>(KT)</sup>
+
 #### **Divine Herald**<sup>(XLNEE)</sup>
-### Level Up: Advanced 5e
-#### **Burglar**
-#### **Cutthroat**
-#### **Investigator**
-#### **Trapsmith**
+
 #### **Chameleon**<sup>(BoE)</sup>
+
 #### **Graverobber**<sup>(CFSA)</sup>
+
 #### **Spidertouched**<sup>(CFSA)</sup>
+
 #### **Charlatan**<sup>(LAL)</sup>
+
 #### **Runetagger**<sup>(TGS)</sup>
+
 #### **Grim Surgeon**<sup>(TGS)</sup>
+
 #### **Sky Wanderer**<sup>E</sup>
+
 #### **Apothecary**<sup>(UAH)</sup>
+
 #### **Bouncer**<sup>(UAH)</sup>
+
 #### **Paramour**<sup>(UAH)</sup>
+
 #### **Phantom Thief**<sup>(UAH)</sup>
+
 #### **Street Rat**<sup>(UAH)</sup>
+
 #### **Zealous Inquisitor**<sup>(UAH)</sup>
+
 #### **Waxwork Rogue**<sup>(OTG)</sup>
+
 #### **Smuggler**<sup>(GTD)</sup>
+
 ## Savant
 *Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
 
