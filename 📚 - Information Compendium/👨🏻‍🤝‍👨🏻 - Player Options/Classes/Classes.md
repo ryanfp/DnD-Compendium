@@ -2939,73 +2939,78 @@ Your blood comes from a steadfast lineage, touched by the elemental forces of th
 
 Blessed with natural resilience and command over the stones on which they stand, most of these sorcerers are solid and deliberate in both action and thought. They are slow to act, but once set on a course they become stubborn and immovable from their chosen path.
 #### **Fey Magic Origin**<sup>(XLNEE)</sup>
-Your innate magic comes from fey magic that was
-mingled with your blood or that of your ancestors. Most
-often, sorcerers with this origin trace their ancestry
-back to a lord or lady of the Plane of Faerie. Other fey
-sorcerers are descendants of warlocks who of made a
-pact with an archfey. The rarest of these sorcerers are
-those who travel to the Feywild and manage to absorb
-some of the plane’s natural magic by happenstance.
-#### **Child of the Sun Origin**<sup>(MCDM)</sup>
-
+Your innate magic comes from fey magic that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their ancestry back to a lord or lady of the Plane of Faerie. Other fey sorcerers are descendants of warlocks who of made a pact with an archfey. The rarest of these sorcerers are those who travel to the Feywild and manage to absorb some of the plane’s natural magic by happenstance.
 #### **Mutagenic Bloodline Origin**<sup>(BoE)</sup>
-
+Your innate magic comes from a blood-born mutagenic curse that has untethered your biology. Much like lycanthropes, your blood transforms you into an amalgamation of beasts—resulting in a fearsome chimera of teeth, pincers, claws, or talons. Your mutagenic curse might originate from exposure to the Elemental Planes, the bite of a lycanthrope, or the gift of an animal-loving archfey.
 #### **Ashen Bloodline Origin**<sup>(CFSA)</sup>
 
 #### **Blackthorn Bloodline Origin**<sup>(CFSA)</sup>
 
-#### **Skinshifter Origin**<sup>(HGMH)</sup>
-
 #### **Frost Magic Origin**<sup>(TGS)</sup>
-
+Your magic is created by pieces of the Everheart, the center and driving force behind the expanding Everglacier wastelands. This power within you might be passed down through ancestors who protected the glacier’s magical core, or it might have been forced upon you through a chance encounter with the enchanted ice itself. Regardless of the source of your power, you are a creature of cold incarnate.
 #### **Desert Soul Origin**<sup>(TGS)</sup>
-
+Your power comes from the relentless and punishing magic that lies at the heart of the world’s most unforgiving deserts. Most sorcerers with this power were born to nomads or traveling pilgrims in the H’rethi desert, but perhaps yours came to you in the chaos of a raging sandstorm or the springs of a magical oasis. Regardless of its origin, this blistering magic spirals around inside of you in an ever-present storm that can reduce even the sturdiest enemies to rubble.
 #### **Runechild Origin**<sup>TDR</sup>
+The mysterious weave and flow of magic is feared by many folk across Exandria. But while some spellcasters must study the essence and nature of magic in the hope of learning to harness it, sorcerers possess an innate talent to sculpt and wield the errant strands of power that shape the world. For some sorcerers, the body becomes a conduit for this power, which is collected and stored in the form of natural runes—and which sees a sorcerer named as a Runechild. 
 
+The talents of a Runechild are rare, and sorcerers with this origin are sought after for study by mages and scholars alike, driven by a prevalent belief that the secrets of their runes can help understand the mysteries of magic. Others sometimes seek to enslave Runechild sorcerers, using their bodies as tortured spell batteries for diabolic pursuits. Runechild sorcerers were subjugated throughout the Age of Arcanum, and many of their contemporaries now search for ways to hide their essence—a task that isn’t easy given the revealing nature of their gifts.
 #### **Arcane Prodigy Origin**<sup>UAH</sup>
-
+From your first attempt at casting a spell, you displayed an exceptional aptitude for magic. Since that time, the more you tried to learn magic through rote memorization and practiced study, the less your innate talent shone through. Sorcerers who are arcane prodigies eventually discover it’s better to let their natural genius guide their magic than relying on an academic understanding. Arcane prodigies don’t abandon the attempt to understand magic on a methodical level, but their prodigious talent for spellcasting relies on their unconscious grasp of the mystic laws that underpin all of existence.
 #### **Astral Born Origin**<sup>UAH</sup>
-
+As an Astral Born, you draw your magic from the Astral Plane itself, a realm of dreams and thought that borders many others throughout the universe. Perhaps you were conceived in that realm, or your family heirloom is a gem designed to aid astral projection, or you were raised in the vicinity of a planar portal. Regardless of the reason, you find yourself able to tap into the Astral Plane’s physics-defying properties to achieve what others can only dream of.
 #### **Cursed Existence Origin**<sup>UAH</sup>
+You or an ancestor were afflicted with a hereditary malediction, a horrible curse designed to cause misery. It may have been a punishment by a god for hubris, the work of a vengeful hag coven, or perhaps the result of a magical accident you happened to be caught in the middle of. No matter how the curse came to afflict you or your family line, you have discovered a method of accessing its powers, using it as a font of magical power. 
 
+Some who become sorcerers through harnessing the power of their curse have discovered how to entirely suppress their curse’s magicks until such time as they want to afflict others with its properties, while others always suffer a modicum of its effects. The most common types of curses are transfigurations, the loss of physical health, and the sapping of fortune. 
+
+Most people dread the cursed, fearing that the curse will pass to them through association with the afflicted. As a cursed sorcerer, it is your choice whether those fears are confirmed.
 #### **Greenheart Origin**<sup>UAH</sup>
-
-#### **Oblex Imposter Origin**<sup>UAH</sup>
-
+Born to a dryad parent, infused with the eldritch power of an enchanted forest you were raised in, or influenced by a primal enchantment in your mother’s womb, the magic of the natural world runs through you. Unlike druids, you did not choose your connection to the natural world; the natural world chose its connection to you. Greenheart sorcerers often have dark brown and bright green features, and smell of the native flora of their homelands. Sorcerers of this origin are exceptionally resilient and observant of their surroundings.
 #### **Reincarnated Warrior Origin**<sup>UAH</sup>
+Some legends are so widespread and revered that they will forever live on. Heroic warriors, in particular, capture the hearts and minds of the common folk, spurred by the songs and tales of bards across the world. Whether you know it or not, you are the soul of such a warrior born anew. You have a natural affinity for the tools of battle, and never feel more alive than when your blade is locked against another. 
 
+Unlike your first life, though, you have an innate magic born of the adoration of generations who have repeated your legend. You can channel this magic through your weapons and combine it with your martial prowess.
 #### **Oni Bloodline Origin**<sup>(OTG)</sup>
+In the realm of magic, there exists a lineage of sorcerers whose blood bears an ancient connection to the oni. These sorcerers, known as Oni Kin, harness the magic of their lineage to weave powerful spells. But, as they delve deeper into their arcane abilities, they find themselves gradually transforming, both physically and spiritually, into embodiments of the oni’s fearsome might. 
 
+At the onset of their journey and as they use their powers, Oni Kin begin to see subtle manifestations of their lineage’s traits—changes in appearance and temperament. However, as they channel their magic with more skill, these traits begin to intensify. Their skin may change, their eyes may glow with an eerie light, and their once-subtle features become more pronounced, bearing the unmistakable visage of an oni.
 #### **Delirium Soul Origin**<sup>(GTD)</sup>
-
+Delirium is naturally drawn to magic and can twist and augment its presence in unnatural and unpredictable ways. Some who ventured into the ruins of Drakkenheim are twisted by the eldritch powers and emerge infused with contaminated energies. They become a living vessel for the Arcane Anomalies and twisting realities found within the ruins.
 ## Soulshaper
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
+*Soulshapers are mystical spiritualists who can effortlessly manipulate the spectral energy of their soul and the souls of others. Their powers are awakened by a moment of sudden enlightenment, rarely found through meditation but more commonly realized through a near-death experience. Their powers continue to develop based on the emotion that revealed them, from serene acceptance to a furious desire for revenge. (**Source: Crystalpunk Campaign Guide**)*
 
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
+*The moment of awakening is different for every soulshaper, but it is always a moment of intense emotion. For some, this is a moment of acceptance; a resignation to their death before being saved by an outside source. Soulshapers who awaken this way feel a sense of calm each time they channel their powers—after all, each moment they are alive is a bonus, and every effect they can have is one they may not have had otherwise. For others, it is a moment of pure terror, where they will do anything in their power to survive and their soul responds. These soulshapers channel their powers on pure adrenaline and instinct, recalling the moment when they brushed with death. Others still are so overcome with rage that they begin using their powers before they even realize what they are capable of. Their pure desire for revenge for whatever reason drives the use of their powers, and every time they channel their abilities, they return to that blood-boiling moment of fury.* 
 
 ### <u>Subclasses - Spiritual Disciplines</u>
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
-### *Crystalpunk Campaign Setting*
-#### **Soothsaying Discipline**
-#### **Witchcraft Discipline**
-#### **Manifestation Discipline**
-#### **Soulblades Discipline**
-## Tamer
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
+*Soulshapers can see the souls of the living and the dead, and can physically manipulate them. They are mediums between life and death, and between the Ethereal and Material Planes. Soulshapers use their powers for different purposes; some use their ability to physically manipulate souls to become Psychopomps or work with Soul Batteries, while others use their intimate knowledge of emotions to become negotiators, counselors or politicians. Some soulshapers who awaken their potential on the streets will use their powers nefariously, becoming thieves or scam artists with their abilities complimenting their natural talents.*
 
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
+#### **Soothsaying Discipline**
+Those who follow the Discipline of Soothsaying focus on enhancing their connection to the ethereal, granting them clairvoyant abilities. These soulshapers serve as oracles that channel and decipher omens delivered by spirits in order to predict the future.
+#### **Witchcraft Discipline**
+Those who follow the Discipline of Witchcraft train and experiment with their abilities to manipulate the souls of others. Some do this to enhance their combat capabilities, while others do it to see how far they can push their powers. In either case, live subjects are required for their experiments, which tend to push these soulshapers into lives of reclusivity, where they experiment with rats and other vermin to explore their spiritual powers.
+#### **Manifestation Discipline**
+Those who follow the Discipline of Manifestation are brawlers who focus on the ability to summon a physical incarnation of their soul. The incarnation they manifest is often an augmented representation of themselves; stronger, faster, with a magnificent appearance shaped by their core emotions.
+#### **Soulblades Discipline**
+Those who follow the Discipline of Soulblades specialize in manifesting their soul into spectral weaponry. The form of the weapons they conjure is often intricate and personal, driven by their core emotions. These soulshapers are often wanderers or thieves, who use their conjured soulblades to defend themselves when necessary.
+## Tamer
+*Whether imbuing their companions with the primordial elements, enhancing them through the ‘very tiny stitches’ of biomancy, or inciting them with words of encouragement, tamers work through their captured friends. Alone, a tamer possesses little in the way of destructive ability. With carefully selected companions, a tamer can become an unstoppable menagerie of mayhem. (**Source: Heliana’s Guide to Monster Hunting**)*
 
 ### <u>Subclasses - Training Paradigms</u>
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
-### *Hit Point Press*
+*The bond tamers experience with their companions are incredibly intimate; both are privy to the other’s innermost thoughts. However, such bonds differ between tamers where one tamer might view a companion as friend and equal, another might view the creature as a tool with which to fulfill their own goals.*
+
 #### **Leader Paradigm**<sup>(HGMH)</sup>
+Whether it be through a non-stop litany of encouraging aphorisms, exaggerated movements, and hands signals, or through a calm, telepathic reinforcement, a leader exhorts their companions to ever greater feats of brilliance. Leaders believe that with the right support and teamwork, no task is impossible for their menagerie of companions. Whether you swear by positive reinforcement, craft meticulous pre-fight gameplans, or ruthlessly punish mistakes, communication and motivation are your watchwords.
 #### **Infuser Paradigm**<sup>(HGMH)</sup>
+Infusers meld the power of the elements with their companions through the act of summoning. How you came across this power is anyone’s guess. Perhaps you took a tumble across the Elemental Flux during an interplanar voyage, were born with some primordial heritage, or were tutored by an elementalist wizard. However it happened, you have the ability to empower those with which you are most closely bonded: your companions.
 #### **Necromancer Paradigm**<sup>(HGMH)</sup>
+Whether through the tutelage of a lich, a career as a gravedigger, or an innate affinity for the world beyond, you have learnt to manipulate the very essence of life. You can strip it from those that would do you harm, and imbue it in those that serve your aims. Weaving threads of necromantic magic around bone, flesh and sinew, you create gruesome facsimiles of life—undead puppets that move to the rhythm of the threads you pull.
 #### **Splicer Paradigm**<sup>(HGMH)</sup>
+Through *really* tiny stitches, you alter the physiology of your subjec– er… companions, in an unending quest for perfection. Many Splicers delve into the world of adventuring in the hopes of discovering exciting new improvements with which to augment their companions. Your foray into the world of biomancy, whether through wizarding school, working with biosmith artificers, or as the surgical assistant
+to a mad scientist, has resulted in a singular observation: subjects are much more malleable when they’re psychically bonded to you.
 #### **Swarmslinger Paradigm**<sup>(LAL)</sup>
+It takes a malleable and open mind to bond with a swarm of creatures; one needs to tune out the hubbub of bite-sized information and learn to listen to the group as a whole. How did you discover you could control masses of creatures? Perhaps you were a perfumier whose arrangement of scents guided the actions of bees. Maybe you were training as a bard when you found that those who liked your music most were a literal pack of rats. Or maybe you made your clothing a home for a family of creatures who now look to you for leadership. Whatever it is, your command of hordes of creatures gives you the ability to overrun any foe.
 ## Warden
 *Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt. (**Source: Valda’s Spire of Secrets**)*
 
@@ -3149,23 +3154,23 @@ Warlord (MysticArts)
 #### **Exemplar**
 #### **Tactician**
 #### **Warchief**
-## ~~Warmage~~
-~~*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*~~
+## Warmage
+*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
 
-~~*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.*~~ 
+*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
 
-### ~~<u>Subclasses - Arcane Initiations</u>~~
+### <u>Subclasses - Arcane Initiations</u>
 
-~~*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*~~
-### ~~*Valda’s Spire of Secrets*~~
-#### ~~**Bishops Initiations**~~
-#### ~~**Cards Initiations**~~
-#### ~~**Dice Initiations**~~
-#### ~~**Kings Initiations**~~
-#### ~~**Knights Initiations**~~
-#### ~~**Lancers Initiations**~~
-#### ~~**Pawns Initiations**~~
-#### ~~**Rooks Initiations**~~
+*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
+### *Valda’s Spire of Secrets*
+#### **Bishops Initiations**
+#### **Cards Initiations**
+#### **Dice Initiations**
+#### **Kings Initiations**
+#### **Knights Initiations**
+#### **Lancers Initiations**
+#### **Pawns Initiations**
+#### **Rooks Initiations**
 ## ~~Witch~~
 ### *Valda’s Spire of Secrets*
 Black
