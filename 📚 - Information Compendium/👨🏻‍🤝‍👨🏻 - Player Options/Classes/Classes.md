@@ -926,7 +926,7 @@ Gods of the Time domain may not experience time as mortals do, but they understa
 #### **Shadow Domain**<sup>(GTD)</sup>
 Clerics of the Sacred Flame know that life is at all times a balance between the light and the dark. Most clerics uphold the flame, whose divine purpose is to hold back the darkness, and offer guidance to those who pass on. Clerics of the Shadow Do- main are in tune with the dark side of the divine. They stand to balance all things, practicing the powers of shadow against their enemies. They know that not all deserve the light, and so sending foul horrors to the shadows is their form of righteous justice.
 ## Craftsman
-*Craftsmen are virtuoso artisans and genius inventors. Not content merely creating masterwork pieces of weapons and armor, they invent and engineer ingenious devices and singularly deadly weapons. Artisans of all types are an integral part of every culture: buildings must be erected, pots must be sent to the kiln, tools must be forged. Despite their pervasiveness, master craftsmen are still as rare as they are prized. These artisans, creators, and inventors can smith items of mythic quality, and can solve most any problem simply by using the right tool and the appropriate amount of force. (**Source: Valda’s Spire of Secrets**)*
+*Craftsmen are virtuoso artisans and genius inventors. Not content merely creating masterwork pieces of weapons and armor, they invent and engineer ingenious devices and singularly deadly weapons. Artisans of all types are an integral part of every culture: buildings must be erected, pots must be sent to the kiln, tools must be forged. Despite their pervasiveness, master craftsmen are still as rare as they are prized. These artisans, creators, and inventors can smith items of mythic quality, and can solve most any problem simply by using the right tool and the appropriate amount of force. (**Source: Valda’s Spire of Secrets**)* Is this worth it to have? Appaarently it can be pretty weak or generic
 
 *Adventuring craftsmen come in many varieties, but nearly all leverage their advanced knowledge of metallurgy, smelting, and construction to forge arms and armor rarely seen, even by other adventurers. The smiths test their schematics and designs themselves, building prototypes and experimental gear that can later be refined into mass-produced items.* 
 
@@ -1183,7 +1183,7 @@ Members of the Circle of the Petal are revered for their deep connection to the 
 #### **Circle of Contamination**<sup>(GTD)</sup>
 As druids are often in tune with nature and the natural order, most see delirium as a scourge upon the world. However, a rare few see the truth: the eldritch stones are an essential part of the natural order, one which works at a cosmic scale. Druids of the Circle of Contamination use the blighted rocks and contaminating Haze as a conduit for supernatural evolution. They have embraced the chaotic power of Delirium as an extension of the inherent chaos in the natural order, spreading the Haze while wielding it as a powerful ally to fuel their spells.
 ## Evolutionist
-*Evolutionists are ambitious warriors; who rather than building their strength through practice and training, improve their natural talents by enhancing and upgrading their body. They reject the idea that they should play the hand they’re dealt, instead seeking to change the game. Where most accept the body they are given, evolutionists aim to control it and push it past its limits. Each evolutionist has different methods and motivations for upgrading their body, but they all are connected by one common goal: evolution. (**Source: Crystalpunk Campaign Setting**)*
+*Evolutionists are ambitious warriors; who rather than building their strength through practice and training, improve their natural talents by enhancing and upgrading their body. They reject the idea that they should play the hand they’re dealt, instead seeking to change the game. Where most accept the body they are given, evolutionists aim to control it and push it past its limits. Each evolutionist has different methods and motivations for upgrading their body, but they all are connected by one common goal: evolution. (**Source: Crystalpunk Campaign Setting**)* is this needed or good? Is the flavor worth it
 
 *Evolutionists are defined by their yearning to improve their bodies through methods that go beyond mere training. They achieve this through a variety of means, from inventive technology and alchemy to ancient magics or even pacts with otherworldly beings. No matter the method, an evolutionist begins to change and alter their form by augmenting their body or growing completely new appendages. These upgrades allow evolutionists to overpower their enemies, either through raw enhanced capability or through unique tactics enabled by their non-standard biology. Evolutionists live a life of continual growth, utilizing the abilities they gain to seek methods to enhance their bodies even further.* 
 
@@ -1482,7 +1482,7 @@ This division’s primary responsibility is the investigation and prosecution of
 #### **Reformation Division**
 This division’s primary responsibility is to oversee the correction of prisoners a Judge has determined can be reformed. They most often do so by magically linking with the creature and showing them the correct behaviors by having the creature fight alongside them as an ally. They can also be hired to capture and transport problematic individuals.
 ## Magus
-*Known by many names throughout the multiverse, those who are able to wield both sword and spell are collectively known as Magi. Rather than dedicate their lives to studying arcane magic or mastering martial techniques, Magi are dedicated to a middle path. Though they may never command the earth - shattering magic of an archmagi, or go toe to toe with a true master of the blade, a Magus is able to master a unique form of arcane combat only used by the members of their Order. Their signature style of magic allows them to channel spells through their weapon strikes, sense the presence of arcane magic in the world around them, and even strike the weaves of spells from the air before they can take effect.* Either LaserLlama or DM Guild
+*Known by many names throughout the multiverse, those who are able to wield both sword and spell are collectively known as Magi. Rather than dedicate their lives to studying arcane magic or mastering martial techniques, Magi are dedicated to a middle path. Though they may never command the earth - shattering magic of an archmagi, or go toe to toe with a true master of the blade, a Magus is able to master a unique form of arcane combat only used by the members of their Order. Their signature style of magic allows them to channel spells through their weapon strikes, sense the presence of arcane magic in the world around them, and even strike the weaves of spells from the air before they can take effect.* Either LaserLlama or DM Guild, skim classes for mechanics but use KT SPellblade instead
 
 *Magi are mystical warriors who blend martial prowess with esoteric knowledge and spellcasting. Magi balance the pursuit of personal goals and relationships with their obligations to pursue the goals and ideals of the eldritch societies they belong to. Although their backgrounds may sometimes set them at odds against one another, magi are united by their commitment to a cause greater than themselves and a drive to master their magical abilities.* 
 
@@ -2733,7 +2733,7 @@ Waxwork rogues have a long history on the island of Obojima in dealing with the 
 #### **Smuggler**<sup>(GTD)</sup>
 Whenever someone has something of value, usually illegal, that they need delivered discreetly, they call a smuggler. These rogues are experts at concealing, stealing, and blending in unnoticed to the common folk. They are also uniquely skilled at turning opportunities around when things are not going their way, and using whatever means necessary to achieve their goals. These slippery rogues are crafty and cunning and should not be underestimated.
 ## Savant
-*There are many wonderfully intelligent people in the world, but few are true Savants. Born with the innate desire to learn anything they can, and the potential for genius-level intellect, Savants spend their lives learning anything that those around them are willing to teach. (**Source: LaserLlama**)*
+*There are many wonderfully intelligent people in the world, but few are true Savants. Born with the innate desire to learn anything they can, and the potential for genius-level intellect, Savants spend their lives learning anything that those around them are willing to teach. (**Source: LaserLlama**)* Weak? Does this do much
 
 *Savants are hyper-focused on their chosen area of study and often become obsessed with learning all they can about their specialty. In their quest for discovery, Savants are willing to set aside any conviction, political, religious, or otherwise, to acquire the information they seek. To them, their desire for knowledge is more important than loyalty to any ideology. Often at great personal cost, Savants will not stop their research until they have made a revolutionary discovery in their area of study. It is not unusual to encounter one such scholar far from the safety of a university and its libraries.* 
 
@@ -2797,93 +2797,188 @@ While most Shamans bind many Spirits, Shamans known as Spirit Guides form a sing
 #### **Wyrmbound Spirituality**
 Unknown to most, many of the most potent Spirits are those of long-dead dragons. In their undying desire to influence the material plane, for good or ill, these Draconic Spirits attach to worthy Shamans, transforming them into the Wyrmbound.
 ## Spellblade
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
+*A Spellblade combines magic and martial talent in a perfect blend, able to blend their use of them into a single art. Rather than being a Wizard that happens to be good with a sword or a Fighter that knows some magic, a Spellblade is defined by their ability to merge the spells and martial talents into a single strike: a Spellstrike. (**Source: KibblesTasty**)*
 
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
+*Becoming a Spellblade isn’t an accident—it’s a difficult path to master and requires intense concentration and conditioning to master fluidly casting spells in the storm of battle in perfect sync with your attacks. Spellblades are uncommon, requiring an unusual degree of talent to master their arts compared to those that choose to focus and specialize in only one of their two challenging fields. Adventurers are already a rare breed, but Spellblades are rarer still, which often causes them to defy expectations. A bookish and mild Spellblade may be surprisingly nimble or strong, while one that may look a musclebound oaf may be surprisingly erudite.* 
 
 ### <u>Subclasses - Spellblade Techniques</u>
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
-### *KibblesTasty*
-#### **Battlemage Technique**
-#### **Guardian Technique**
-#### **Swiftblade Technique**
-#### **Mage Hunter Technique**
-#### **Spellshot Technique**
-#### **Rimeblade Technique**
-#### **Flying Sword Technique**
-#### **Spellfist Technique**
-#### **Aether Blade Technique**
-## Sorcerer
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
+*Spellblades are, consequently, almost always driven by some form of motivation that have made them strive for this unique style of perfection. Some view it as an art or tradition important to them, some view it as the ultimate weapon to overcome a great obstacle, and some pursue it because of the challenge itself, seeking to prove themselves.*
 
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
+#### **Battlemage Technique**
+In the versatile world of the Spellblades, the Battle Mage is the paragon of balance, mastering both martial prowess and arcane artistry. Standing at the crossroads of might and magic, you represent the perfect synthesis of these two ancient disciplines. 
+
+A Battle Mage is a force of constant adaptability, prepared for every eventuality. With your arcane might and martial skill in perfect balance, you stand on the battlefield as an embodiment of strategic might, showing that the pen and the sword can indeed be one.
+#### **Guardian Technique**
+Specializing in defending their allies, spell blades following this technique make broad use of abjuration and self-enhancing magics, often specializing more toward their physical skills. They place themselves at the front of combat, but are a highly mobile line of defense.
+#### **Swiftblade Technique**
+The quickest and most deadly of the Spellblades, Swiftblades specialize in mobility, striking from the shadows and withdrawing as quickly as they appeared, favoring lighter weapons and flurries of blows that leave their target dead before it can retaliate.
+#### **Mage Hunter Technique**
+Some Spellblades hone their magical powers for the sake of countering others. They become the anathema of all spellcasters, they fight fire with fire, honing their own magical skills for the purposes of binding and denying the magical powers of others.
+#### **Spellshot Technique**
+Spellshots are those that prefer to keep their spellstriking to a safe range, raining death from afar. From arcane archers to magical gunslingers, they are united in their desire to sling spells at a ranged, infusing them into ammunition. They offer a lot of freedom of mobility, always staying out of reach of their foes or finding the perfect line up to unleash a devastating line of elemental energy.
+#### **Rimeblade Technique**
+As a Rimeblade, you blur the boundary between the arcane and the arctic, wielding your sword with the cold precision of an icicle’s edge. Your enemies find no warmth nor respite, only the biting frost of your magic and blade. 
+
+Whether born amidst the relentless snows of the far north or touched by the raw, freezing power of the elemental plane of ice, you have carved a path of icy resolve. Your frost-infused strikes echo the merciless advance of winter, freezing foes in their tracks and turning the battlefield into a glacial field of victory.
+#### **Flying Sword Technique**
+As a Flying Sword Spellblade, you master the art of the floating blade, separating your willpower from your physical body. Your sword is not just a weapon, but an extension of your mind and a manifestation of your arcane prowess. 
+
+Born out of a deep understanding of telekinesis and arcane manipulation, your technique combines mental acuity with martial mastery. Whether a reclusive hermit who honed this art in the solitude of your own thoughts, or a prodigy who has broken the conventional boundaries of weapon use, your chosen path is an unorthodox mix of intellect and combat prowess.
+#### **Spellfist Technique**
+As a Spellfist, you are the embodiment of raw power and arcane energy, a brawler who channels magic into every punch. Where other Spellblades may wield elegant weapons or conjure dazzling spells from a distance, you understand that sometimes, magic is most effective when it’s delivered up close and personal. Your hands are not just weapons, but conduits for your magical force, and your style of combat reflects this, as brutal and direct as it is unpredictably magical. 
+
+Whether you’re a former street fighter who discovered an innate talent for magic or a spellcaster who decided the best way to channel your power was through physical force, you’ve chosen a path that combines the cerebral challenge of magic with the visceral thrill of melee combat. As a Spellfist, you’re a force to be reckoned with, breaking through enemy defenses with a flurry of magically enhanced punches and turning the tide of any battle with your explosive arcane power.
+#### **Aether Blade Technique**
+Aether Blade Spellblades make use of their magical techniques to create a weapon of pure arcane power, with most of their abilities revolving around mastering the use of this weapon.
+## Sorcerer
+*Sorcerers carry a magical birthright conferred upon them by an exotic bloodline, some otherworldly influence, or exposure to unknown cosmic forces. One can’t study sorcery as one learns a language, any more than one can learn to live a legendary life. No one chooses sorcery; the power chooses the sorcerer.*
+
+*Magic is a part of every sorcerer, suffusing body, mind, and spirit with a latent power that waits to be tapped. Some sorcerers wield magic that springs from an ancient bloodline infused with the magic of dragons. Others carry a raw, uncontrolled magic within them, a chaotic storm that manifests in unexpected ways.* 
 
 ### <u>Subclasses - Sorcerous Origin</u>
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
+*The appearance of sorcerous powers is wildly unpredictable. Some draconic bloodlines produce exactly one sorcerer in every generation, but in other lines of descent every individual is a sorcerer. Most of the time, the talents of sorcery appear as apparent flukes. Some sorcerers can’t name the origin of their power, while others trace it to strange events in their own lives. The touch of a demon, the blessing of a dryad at a baby’s birth, or a taste of the water from a mysterious spring might spark the gift of sorcery. So too might the gift of a deity of magic, exposure to the elemental forces of the Inner Planes or the maddening chaos of Limbo, or a glimpse into the inner workings of reality. Sorcerers have no use for the spellbooks and ancient tomes of magic lore that wizards rely on, nor do they rely on a patron to grant their spells as warlocks do. By learning to harness and channel their own inborn magic, they can discover new and staggering ways to unleash that power.*
+
 #### **Aberrant Mind Origin**
+An alien influence has wrapped its tendrils around your mind, giving you psionic power. You can now touch other minds with that power and alter the world around you by using it to control the magical energy of the multiverse. Will this power shine from you as a hopeful beacon to others? Or will you be a source of terror to those who feel the stab of your mind and witness the strange manifestations of your might?
 #### **Clockwork Soul Origin**
+The cosmic force of order has suffused you with magic. That power arises from Mechanus or a realm like it—a plane of existence shaped entirely by clockwork efficiency. You, or someone from your lineage, might have become entangled in the machinations of the modrons, the orderly beings who inhabit Mechanus. Perhaps your ancestor even took part in the Great Modron March. Whatever its origin within you, the power of order can seem strange to others, but for you, it is part of a vast and glorious system.
 #### **Divine Soul Origin**
+Sometimes the spark of magic that fuels a sorcerer comes from a divine source that glimmers within the soul. Having such a blessed soul is a sign that your innate magic might come from a distant but powerful familial connection to a divine being. Perhaps your ancestor was an angel, transformed into a mortal and sent to fight in a god’s name. Or your birth might align with an ancient prophecy, marking you as a servant of the gods or a chosen vessel of divine magic.
+
+A Divine Soul, with a natural magnetism, is seen as a threat by some religious hierarchies. As an outsider who commands sacred power, a Divine Soul can undermine an existing order by claiming a direct tie to the divine.
 #### **Shadow Magic Origin**
+You are a creature of shadow, for your innate magic comes from the Shadowfell itself. You might trace your lineage to an entity from that place, or perhaps you were exposed to its fell energy and transformed by it.
+
+The power of shadow magic casts a strange pall over your physical presence. The spark of life that sustains you is muffled, as if it struggles to remain viable against the dark energy that imbues your soul. At your option, you can pick from or roll on the Shadow Sorcerer Quirks table to create a quirk for your character.
 #### **Storm Sorcery Origin**
+Your innate magic comes from the power of elemental air. Many with this power can trace their magic back to a near-death experience caused by the Great Rain, but perhaps you were born during a howling gale so powerful that folk still tell stories of it, or your lineage might include the influence of potent air creatures such as djinn. Whatever the case, the magic of the storm permeates your being.
 #### **Draconic Bloodline Origin**
+Your innate magic comes from draconic magic that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their descent back to a mighty sorcerer of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given sorcerer could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.
 #### **Wild Magic Origin**
+Your innate magic comes from the forces of chaos that underlie the order of creation. You might have endured exposure to raw magic, perhaps through a planar portal leading to Limbo, the Elemental Planes, or the Far Realm. Perhaps you were blessed by a fey being or marked by a demon. Or your magic could be a fluke of your birth, with no apparent cause. However it came to be, this magic churns within you, waiting for any outlet.
 #### **Emotion Lord Origin**<sup>(VSS)</sup>
+
 #### **Mirrorkin Origin**<sup>(VSS)</sup>
+
 #### **Oozemaster Origin**<sup>(VSS)</sup>
+
 #### **Reincarnated Hero Origin**<sup>(VSS)</sup>
+
 #### **Spiritborn Origin**<sup>(VSS)</sup>
+
 #### **Toon Magic Origin**<sup>(VSS)</sup>
-#### **Shadow Origin**<sup>(UA)</sup>
+
 #### **Phoenix Origin**<sup>(UA)</sup>
+
 #### **Stone Origin**<sup>(UA)</sup>
+
 #### **Giant Origin**<sup>(UA)</sup>
+
 #### **Deathtouched Origin**<sup>(DAC)</sup>
+Your innate magic comes from a past encounter with death. Most often, this origin is traced back to surviving an attack from an undead, such as a vampire’s bite, a ghost’s possession, or a specter’s life drain. Or, it could have originated from an imperfect revival or near-death experience. Regardless of the way you attained this dark magic, it now dictates your life and greatly augments your power.
 #### **Vampiric Bloodline Origin**<sup>(DAC)</sup>
+Your innate magic stems from the mingling of your bloodline with the blood of a vampire. Some sorcerers with this origin can trace their powers back to an ancient bargain with a powerful vampire. When a vampire takes particular interest in a mortal being, they may allow that humanoid to have a taste of their blood, granting them a semblance of power. This ritual is seldom practiced, and few vampires would even dare to try it. But this is not the only way to gain this origin, as many of these sorcerers can trace their powers to a near-death experience with a vampire. Whatever the case, vampiric magic permeates your blood, and your very being.
 #### **Blighted Origin**<sup>(UA)</sup>
+
 #### **Black Powder Origin**<sup>(TOH)</sup>
+Your innate magic comes from the explosive power of raw alchemy and black powder. You parents may have been alchemists, whose long exposure to alchemical reagents mingled with a latent talent for magic in their bloodlines and caused you to be born with such abilities. Or you may have been experimented upon—with or without your permission—when you were younger and those alchemical experiments brought this unexpected magical power to the surface. Whatever the catalyst for your powers, they bring with them an affinity for black powder, allowing you magical prowess that exploits its power to your benefit.
 #### **Cold Blooded Origin**<sup>(TOH)</sup>
+The serpentfolk slithered across the surface of the world in the primordial times before the warm- blooded races became dominant. They worked their will upon the land and ocean and created works to show their mastery of the magical arts. Their artistry did not end with the landscape. They also experimented on any warm-blooded creatures they captured until they had warped and molded the creatures into new and deadly forms. 
+
+One or more of your ancestors was experimented on or an associate of the world’s earliest serpentfolk. Your ancestor’s natural affinity for magic was nurtured, expanded, and warped by the experimentation of their ophidian masters in order to transform them into something closer to the serpentine ideal. Those alterations made so long ago have waxed in you, allowing you to influence intelligent creatures more easily. Now you must decide if you will follow the serpent’s path of dominance and subjugation or if you will fight against their influence and use your power for a greater purpose.
 #### **Rifthopper Origin**<sup>(TOH)</sup>
+Rifthoppers are the living embodiment of wanderlust. The yearn to travel and witness unseen vistas burns in them and manifests in their ability to move nearly at the speed of thought. The origin of the rifthoppers’ powers remains a mystery, as they refuse to stay in one place long enough to be studied extensively. Given the lack of empirical evidence, many scholars have hypothesized that rifthoppers absorb energy from the world itself, typically through an innate connection with ley lines or with areas where the borders between planes are thin, and can use it to alter their own magic. 
+
+Adventuring rifthoppers often concern themselves with investigating mysterious portals to unknown locations, researching ley lines and other mystic phenomena, or seeking out and stopping spatial and temporal disturbances.
 #### **Spore Sorcery Origin**<sup>(TOH)</sup>
-#### **Wastelander Origin**<sup>(TOH)</sup>
+One of the most omnipresent elements in the atmosphere is practically invisible and often ignored: spores. Plants of all varieties, fungal sentient life forms like mushroomfolk, and even animals emit these tiny pieces of life. You’ve always had an affinity for the natural world, and your innate magic is carried within the power of these omnipresent spores. Spore sorcerers are regularly found among the mushroomfolk and derro who grow large gardens of fungi deep beneath the surface of the world. Spore sorcerers can also be found in any area with an abundance of plant life, such as forests, swamps, and deep jungles.
 #### **Bestial Spirit Origin**<sup>(TCEE)</sup>
+Power drawn from the great Beastlands or another plane of great bestial power has been passed down your lineage since an ancestor made a deal with a great animal god, or perhaps spent an amount of time within the great library. Either way, a powerful bestial spirit resides within you. Occasionally appearing as cat-like eyes, higher reflexes, excessive hair growth, or sharpened nails and teeth, this spirit brings about a new commune with nature and the animals that reside within.
 #### **Rakshasa Bloodline Origin**<sup>(TCEE)</sup>
+Your innate magic comes from the meddling of a devious rakshasa, a manipulative and tiger-like fiend that uses illusions and enchantments to torment its prey. One of the devilish creatures might have claimed you as a prize after scheming against your family, then imbued you with power for its own nefarious ends; maybe somewhere in your ancestry, a rakshasa took on the guise of a family member long enough to taint your line; or perhaps one of your ancestors slew a rakshasa and was cursed to bear children that resemble the infernal monster. However they came to be, the rakshasa’s powers of misdirection and manipulation course through your veins.
 #### **Spellslinger Origin**<sup>(TCEE)</sup>
+Some creatures are born with an innate connection to the Weave and can use their own bodies as a spellcasting focus. These sorcerers often find their abilities well suited to life in the wild frontier or as clandestine agents for powerful organizations. 
+
+Any number of factors can bestow this gift upon a creature. Known spellslingers often cite events such as the following for their gifts: surviving a magical cataclysm, a blessing of a powerful fey monarch, an ancestor’s bargain with an otherworldly being, or sheer dumb luck.
 #### **Wild Magic Remasterd Origin**<sup>(TCEE)</sup>
+
 #### **Nemesis Origin**<sup>(FEQ)</sup>
+While some sorcerers revel in unleashing devastation on dozens of enemies at once, you specialize in the arcane duel. You act with absolute precision, focusing your energy to strike at the perfect moment. You learn to break spells directed against you, whether expending your own power to fully counter them or casually dispersing deadly force. You may have learned the arts of magic on the battlefields of the Last War, but now you’re the epitome of the lone wandslinger, always ready for the next duel.
 #### **Evil Eye Origin**<sup>(FCG)</sup>
+You were born under a bad sign, cursed from the moment you took your first breath. This lifelong curse could have come from the Feywild, the Underdark, or even the Abyss. Regardless of your curse’s origin, you have an affinity for cursing others as you have been cursed. This ability manifests itself in the very words you speak, bringing pain to those who hear your voice when you will it. In those moments, you have the dark ability to transfer some of your own curse to others, passing on your awful luck. 
+
+Some cultures may shun you, but others may revere you for the wisdom that your hardship has brought. Whatever the case, you have an ability that mortals do not usually possess. Like breathing, sharing your curse comes naturally to you.
 #### **Lunar Origin**<sup>(ECHH)</sup>
+Whether you were born under a lunar eclipse, partook in a secret ritual where you danced under a new moon and drank a drought of liquid starlight, or simply inherited your powers from your lineage, each night you stare up into the face of the moon, filled with an ache and a yearning that never fades, as the dim light fuels the magic in your veins.
 #### **Solar Origin**<sup>(ECHH)</sup>
+Let the fools come if they will. The divine light of the sun will burn all who dare to stand in its eternal radiance. You are the conduit, your closed fist like a dam, holding back unfathomable light and heat. Extend one finger to let a ray sear away darkness and pain, or open your palm wide to cleanse all who would oppose you.
 #### **Nightmare Origin**<sup>(CCS)</sup>
+In a nightmare, a dark force buried itself within you, manifesting the fears of those around you within your body and awakening your sorcerous powers. Your mind and flesh took the form of these collective nightmares, allowing you to manipulate their power into spells. Now, as the nightmare personified, you are able to call upon the powers of the void.
 #### **Aether Heart Origin**<sup>(KT)</sup>
+Sorcerers of this origin are fueled by a deep connection to raw arcane energy, their soul touched by the raw stuff of the weave itself. Most of them don’t understand their connection to this power, but they can wield it with innate ease, manipulating magic by force of will alone. 
+
+Sometimes this is artificial in nature—an ironwrought drawing power from their arcane heart, for example—while other times this marks an individual that was exposed to the raw essence of aether, becoming infused and intrinsically linked to it. They are characterized by an easy affinity of warping magic and ease of manipulating it in its raw and purest forms.
 #### **Planetouched Origin**<sup>(KT)</sup>
-#### **Fey Origin**<sup>(KT)</sup>
+Connected to planes beyond their own, these sorcerers find the walls between the planes thinner, they pull power from beyond them or step through them with greater ease. Perhaps they were born in the ethereal plane or became connected to an outer plane, they now find themselves with one foot in the material and one foot beyond.
+#### **Fey Warped Origin**<sup>(KT)</sup>
+Your innate magic comes from the touch of the fey. Chaotic and varied, this can be a blessing, curse, or both. How directly this touch has effected your appearance and character can vary from quite a bit to not at all, but it grants powers tied to illusion, enchantment, and twisting reality.
 #### **Fiend Origin**<sup>(KT)</sup>
-#### **Pheonix Spark Origin**<sup>(KT)</sup>
+Your innate magic comes from a bloodline tainted by fiendish influence of the lower planes. How directly this blood is inherited varies wildly. Perhaps your lineage includes a Warlock that has made some infernal pact, or you may even have a fiend in your family tree. Such blood lines can express themselves more strongly throughout generations in unpredictable ways. Sometimes it is merely the product of some sort of corruption, perhaps before you were even born.
+#### **Phoenix Spark Origin**<sup>(KT)</sup>
+Some say the flames of a phoenix are the origin of all of life, and these sparks are fragments of some primordial origin. Many dismiss such mythological sources, explaining that these sparks are ancient blessings: motes of power caught within the soul, remnants of some ancestor being healed by powers of a phoenix. 
+
+Whatever their origin, they grant a powerful duality of life and destruction in equal measure, flames that cauterize the world.
 #### **Sea Soul Origin**<sup>(KT)</sup>
+The power of water is the strength of flexibility, resilience, and a relentless nature. Water parts to allow a ship to sail over it or a diver to plunge into it, but their passing leaves no mark. Water flowing down a mountain reaches the sea. It might bend and turn across valleys and down hillsides, but it slowly and steadily returns to the waves. Those whose souls are touched by the power of elemental water command a similar power. 
+
+Your heritage ties back to powerful creatures of the sea, such as nereids, the lords of the merfolk, or elemental powers. Like a river, you feel the call of the ocean. The call is ever present in your heart, and you are never completely at peace until you are near the sea.
 #### **Stoneheart Origin**<sup>(KT)</sup>
+Your blood comes from a steadfast lineage, touched by the elemental forces of the earth itself. Be it the blood of ancient dwarves first formed from stone or from a dao lineage from another plane, your blood runs thicker and your heart beats more steady than others. While particularly common among the genasi and the dwarves, these sorcerers can appear in any bloodline with ancient roots. 
+
+Blessed with natural resilience and command over the stones on which they stand, most of these sorcerers are solid and deliberate in both action and thought. They are slow to act, but once set on a course they become stubborn and immovable from their chosen path.
 #### **Fey Magic Origin**<sup>(XLNEE)</sup>
-### Level Up: Advanced 5e
-#### **Draconist Origin**
-#### **Enigma Origin**
-#### **Traveler Origin**
+Your innate magic comes from fey magic that was
+mingled with your blood or that of your ancestors. Most
+often, sorcerers with this origin trace their ancestry
+back to a lord or lady of the Plane of Faerie. Other fey
+sorcerers are descendants of warlocks who of made a
+pact with an archfey. The rarest of these sorcerers are
+those who travel to the Feywild and manage to absorb
+some of the plane’s natural magic by happenstance.
 #### **Child of the Sun Origin**<sup>(MCDM)</sup>
+
 #### **Mutagenic Bloodline Origin**<sup>(BoE)</sup>
+
 #### **Ashen Bloodline Origin**<sup>(CFSA)</sup>
+
 #### **Blackthorn Bloodline Origin**<sup>(CFSA)</sup>
+
 #### **Skinshifter Origin**<sup>(HGMH)</sup>
+
 #### **Frost Magic Origin**<sup>(TGS)</sup>
+
 #### **Desert Soul Origin**<sup>(TGS)</sup>
+
 #### **Runechild Origin**<sup>TDR</sup>
+
 #### **Arcane Prodigy Origin**<sup>UAH</sup>
+
 #### **Astral Born Origin**<sup>UAH</sup>
+
 #### **Cursed Existence Origin**<sup>UAH</sup>
+
 #### **Greenheart Origin**<sup>UAH</sup>
+
 #### **Oblex Imposter Origin**<sup>UAH</sup>
+
 #### **Reincarnated Warrior Origin**<sup>UAH</sup>
+
 #### **Oni Bloodline Origin**<sup>(OTG)</sup>
+
 #### **Delirium Soul Origin**<sup>(GTD)</sup>
+
 ## Soulshaper
 *Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
 
@@ -3024,7 +3119,7 @@ Unknown to most, many of the most potent Spirits are those of long-dead dragons.
 #### **The Cosmos**<sup>(GTD)</sup>
 #### **The Flesh**<sup>(GTD)</sup>
 ## Warlord
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*(Mystic Arts, KibblesTasty, Zaelos, Laser Llama)
+*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*(**Mystic Arts,** KibblesTasty, **Zaelos**, **Laser Llama**)
 
 *Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
 
