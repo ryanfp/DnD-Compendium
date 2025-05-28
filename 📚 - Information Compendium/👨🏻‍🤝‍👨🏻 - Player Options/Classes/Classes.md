@@ -2697,79 +2697,105 @@ Rimeblades are an obscure breed of rogue, adventurers who are imbued with the ic
 #### **Divine Herald**<sup>(XLNEE)</sup>
 Your strict upbringing has made you an unwavering and swift agent of divine retribution. You don’t simply exist to serve the priests of your order, you have a higher purpose and calling, to alleviate the world of false prophets and heretics.
 #### **Chameleon**<sup>(BoE)</sup>
+Wind through the leaves, a broken twig, and the distant thrum of a bowstring are the only signs that a chameleon has struck. The archetypal chameleon becomes one with nature through druidic rituals or trials in the Feywild. Once the hard lessons of nature are learned, however, they are not easily forgotten. 
 
+A chameleon is a ghost of the forest, able to change their skin to match their background. With practice, a chameleon rogue can dash through the treetops, slink through the grass, and strike from the shadows, leaving no trace they were ever there.
 #### **Graverobber**<sup>(CFSA)</sup>
 
 #### **Spidertouched**<sup>(CFSA)</sup>
 
 #### **Charlatan**<sup>(LAL)</sup>
+Charlatans are masters of planned deceit and misdirection. A Charlatan might prepare several disguises and waltz into a jewelry store, wait for a perfectly timed explosion to distract the proprietor, then replace a priceless tiara with a poorly-forged replica. Hot-footing it out the door, the Charlatan might switch outfits quicker than the proprietor can say “Oh my word, where’s that priceless tiara I tricked a down-on-her luck noble into selling for a pittance?”. The Charlatan might then direct the pursuing, nonplussed guards into a side alley, before fencing the heirloom and heading to a bar to celebrate a job well done. 
 
+In combat, Charlatans appear as harmless bystanders before using concealed weapons to surprise foes, striking with devastating consequences.
 #### **Runetagger**<sup>(TGS)</sup>
-
+You concentrate your efforts on perfecting your art, developing special marks to claim and cripple your targets. Rebel leaders, artists, spies, and other members of the political underworld might belong to this archetype. Originally a tactic for subterfuge and assassination for denizens of the Festerwood, those who employ these powerful works of art are famously difficult to pin down. The magical marks left behind become a calling card for any runetagger, and as their strength and notoriety grow from the deeds that they commit (both good and evil), so too does the renown for their art.
 #### **Grim Surgeon**<sup>(TGS)</sup>
-
+You’ve developed a unique familiarity with knives, bodies, and blood in your line of work. Like a tinkerer’s knowledge of clockwork and gears, you’ve come to an understanding of how bodies are put together instead. Medical experts in rough or war-torn cities and villages may follow this archetype, but so do rogues who take a particular interest in either clerical or necromantic magic. A grim surgeon uses medical knowledge and strange blood magic to dismantle foes, restore allies, and control bodies like puppets.
 #### **Sky Wanderer**<sup>E</sup>
 
 #### **Apothecary**<sup>(UAH)</sup>
-
+You have trained in the science of chemistry and learned to make a variety of concoctions that heal and harm. You may specialize in cruel poisons and admixtures that debilitate your enemy, restoratives and drugs that empower your allies, or dabble in both. Apothecaries often learn their craft under a mentor or at an academic institution, but it’s also possible to learn this science through books and experimentation.
 #### **Bouncer**<sup>(UAH)</sup>
-
+Most rogues focus on the elegant arts of infiltration, trickery, and mind games, but as a Bouncer, you prefer the simple but effective techniques of the back alleys — using anything within your reach as a weapon, even your foes themselves. You rely more on brute strength and an ability to tie your opponents in knots than cunning, though you know better than to discard any natural advantages. Other rogues may think you lack guile, but you’d rather have a reputation for an iron fist than a silver tongue.
 #### **Paramour**<sup>(UAH)</sup>
-
+Paramours are more interested in stealing hearts than gold pieces. These rogues wander from town to town and port to port having great love affairs and boisterous all-nighters, leaving a river of ex-lovers’ tears in their wake. A rare callous few use their charming wiles to get what they want before leaving their doting admirers heartbroken, but most Paramours are sincere, if naïve, in their pursuit of connection with others.
 #### **Phantom Thief**<sup>(UAH)</sup>
-
+Theft is not just an action or a living for the Phantom Thief — it’s an art form. However nice the monetary reward may be, it is not as satisfying as a plan well designed and flawlessly executed. And the Phantom Thief’s plan is infallible, why else would they send a calling card announcing it? While these rogues usually steal treasure, they have been known to take other things as well: people, hearts, and the occasional life.
 #### **Street Rat**<sup>(UAH)</sup>
+While it is not uncommon for a rogue to have the background of being an orphan in the streets, not all had to go through it alone. Street Rats are rogues who cultivated a friendship with a small pest that was just as unwanted by greater society as they were. They trained and loved this companion, caring for it as it took care of them. Many Street Rats train their vermin in performance for busking, and in thieving skills to steal food when the people around them aren’t quite as generous with their coin. 
 
+As a Street Rat, you know that though life can be extremely difficult, you’ll never have to go through it alone. After all, if even the lowliest and most despised of creatures have purpose, love, and hope, then so can we all.
 #### **Zealous Inquisitor**<sup>(UAH)</sup>
-
+Deities enjoy having clerics, paladins, and crusaders spread their word and fight in their name, but these pious servants aren’t always willing to tarnish themselves in their god’s best interest. As a Zealous Inquisitor, you execute your deity’s will without compunction — punishing sinners, silencing heretics, and striking down abominations.
 #### **Waxwork Rogue**<sup>(OTG)</sup>
-
+Waxwork rogues have a long history on the island of Obojima in dealing with the dangerous and the arcane. They’re known for having an array of tools and tricks to delve into the most perilous of places and almost always coming back with treasures and tales. To a Waxwork rogue, any challenge or danger can be solved with a bit of wax, a pinch of smarts, and a whole lot of magic.
 #### **Smuggler**<sup>(GTD)</sup>
-
+Whenever someone has something of value, usually illegal, that they need delivered discreetly, they call a smuggler. These rogues are experts at concealing, stealing, and blending in unnoticed to the common folk. They are also uniquely skilled at turning opportunities around when things are not going their way, and using whatever means necessary to achieve their goals. These slippery rogues are crafty and cunning and should not be underestimated.
 ## Savant
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
+*There are many wonderfully intelligent people in the world, but few are true Savants. Born with the innate desire to learn anything they can, and the potential for genius-level intellect, Savants spend their lives learning anything that those around them are willing to teach. (**Source: LaserLlama**)*
 
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
+*Savants are hyper-focused on their chosen area of study and often become obsessed with learning all they can about their specialty. In their quest for discovery, Savants are willing to set aside any conviction, political, religious, or otherwise, to acquire the information they seek. To them, their desire for knowledge is more important than loyalty to any ideology. Often at great personal cost, Savants will not stop their research until they have made a revolutionary discovery in their area of study. It is not unusual to encounter one such scholar far from the safety of a university and its libraries.* 
 
 ### <u>Subclasses - Academic Disciplines</u>
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
-### *Level Up: Advanced 5e*
-Steward
-Vanguard
-Vox
-### Laser Llama
-#### **Archaeologist Discipline**
-#### **Investigator Discipline**
-#### **Naturalist Discipline**
-#### **Physician Discipline**
-#### **Tactician Discipline**
-#### **Culinarian Discipline**
-#### **Mentor Discipline**
-#### **Orator Discipline**
-#### **Philosopher Discipline**
-#### **Rune Scribe Discipline**
-#### **Virtuoso Discipline**
-## Shaman
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
+*Often recognizable at an early age, a Savant's unquenchable hunger for knowledge draws them to the great libraries, universities, and other places of higher learning. They are willing to go to any lengths to unlock the secrets of the world, often turning to lives of adventure. For a Savant, no price is too steep for the promise of discovery.*
 
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
+#### **Archaeologist Discipline**
+Specializing in the study of forgotten civilizations, uncharted lands, and ancient places, Archaeologists bring the light of knowledge to the dark and deadly places of the world. Doing their best to uncover the wisdom of ages long past, they often tend to feel a sad kinship with the civilizations they study and go to great lengths not to destroy or offend their memory.
+#### **Investigator Discipline**
+Masters at unraveling mysteries, conspiracies, and secrets of all kinds, Investigators possess an uncanny ability to read the intent of others. They often dedicate their lives thwarting any who deceive the innocent and take advantage of the common trust. Their considerable intellect and eye for the truth stand in the way of thieves, shapeshifters, and corrupt politicians.
+#### **Naturalist Discipline**
+The Naturalist's classroom begins at the edge of civilization. They are scholars of the wilderness, and will go to great lengths to preserve nature as it exists, free from the influence of civilization. A true Naturalist is a conservationist of the wild and an expert at predicting weather, identifying toxic and medicinal plants, caring for animals, and guiding others safely through the wilderness.
+#### **Physician Discipline**
+Physicians use their considerable intellect to heal the sick and tend to the wounded. They spend their lives studying the anatomy and biology of mortals, and use this knowledge to keep their allies in top condition and cripple foes. Using this medical training, they offer aid to those that do not have access to the luxury of divine magic or other healing spells.
+#### **Tactician Discipline**
+All successful monarchs, conquerors, and revolutions have a master Tactician who is responsible for their success. These leaders are always one step ahead of their foes and a plan for every eventuality. They know maneuvers that lead to victory, and those that end in ruin. Alone, a Tactician is no threat, but with powerful allies, they become a formidable fighting force.
+#### **Culinarian Discipline**
+The Savants known as Culinarians put their great intellects to work in the science of food and drink. Ever the adventurer, they leave their kitchens behind, venturing out into the world in a lifelong search for new wondrous and exotic ingredients. What strange and exciting recipes will you come to discover?
+#### **Mentor Discipline**
+While most Savants use their vast intellect in pursuit of their chosen discipline, those known as Mentors use their intellect in the service of others. Most often, Mentors are past their prime and are looking to pass their knowledge on to the next generation. Whether you are an elder in your community, a retired adventurer, or just someone with knowledge beyond your years, you are ready to gently guide those around you.
+#### **Orator Discipline**
+Orators are true masters of linguistics and the spoken word. These wordsmiths use nothing but their wit and mastery of rhetoric to rebuff foes and empower their allies. With utmost confidence, they stride boldly into hostile situations, confident that they can win anyone with their eloquence. 
+
+Unlike those who use their charm to cajole, Orators embolden their allies and win over their enemies with nothing but reasonable logic and convincing rhetoric.
+#### **Philosopher Discipline**
+Philosophy is considered by many to be the purest Discipline a Savant can pursue. They expend their genius pondering the deep questions of existence; the purpose of life, the nature of the multiverse, and the relationships between mortal beings and gods. Through the study of the multiverse, Philosophers try to perfect mortal knowledge of the true nature of reality.
+#### **Rune Scribe Discipline**
+Legends say that rune magic is the most ancient arcane art to have been mastered by mortals. Savants that dedicate their lives to the study of these Runes are known as Rune Scribes. They learn all they can about these ancient sigils that embody the magic of creation. The magic of runes isn't widely known, and its secrets are jealously guarded by those who master it.
+#### **Virtuoso Discipline**
+Bending their impressive intellect toward the study of music, Virtuosos are known for the impressively complex music they write and perform. These masterful composers know how to manipulate the emotions of their listeners with themes, and, with the right sequence of notes, they can fill a listener with feelings of sorrow, anger, indifference, or absolute adoration.
+## Shaman
+*Shamans serve as intermediaries between the mortal world and the realms of spirits, called by the spirits to speak for them among mortals. These spirits come in a variety of forms, ranging from elemental nature spirits to the souls of fallen ancestors, and often take on animalistic shapes. While most shamans revere the spirits for which they speak, they rarely worship them outright. More often, a shaman negotiates with the spirits, being granted power both as a means to fulfill the spirits’ needs and as a reward for doing so.*
+
+*Before celestials took notice of mortals and bestowed power on Clerics and Paladins, Shamans served peoples as guides and protectors. Using ancient rituals, Shamans would bind Spirits to Totems, small objects of spiritual significance, and channel that power for good of their people. This ancient art was passed from elder to elder in a continuous chain, down to the Shamans of today. Those who bind theses Spirits are part of a tradition stretching back to the dawn of time.* 
 
 ### <u>Subclasses - Spiritualities</u>
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
+*Shamans spend their lives maintaining the delicate balance between the physical mortal world, and the ethereal world of Spirits. They are trained to recognize the Spirits that indwell every living thing and use this spiritual sight to protect those they love from sinister Spirits who seek to destroy all life. Sometimes, Shamans will seek out Spirits of love and life that willingly bind themselves to Totems so that they may aid the Shaman in their spiritual warfare. Other malevolent and vile Spirits are bound to Totems against their will and used by Shamans to help defeat other Spirits of destruction.*
 ### Laser Llama
 #### **Curse Binder Spirituality**
+While most Shamans use the power of Spirits to work magic and heal the sick, some twist this connection, binding sinister Spirits to enemies. Known as Curse Binders, these Shamans wield the sinister spiritual power present in the world. Often apprentices of hags or entities from the Shadowfell, they use ancient techniques to afflict their foes with hexes and curses.
 #### **Far Seer Spirituality**
+Many Shamans initially discover their connection to the spirit world when they perform rituals to divine the future. Should these amateur spiritualists pursue this connection they learn to channel Spirits as a Far Seer, a Shaman who can glimpse both past and future, and use spiritual power to alter Fate.
 #### **Spirit Warrior Spirituality**
+Serving as the guardians of sacred groves and places of great spiritual power, Spirit Warriors draw on the power of ancient Spirits to enhance their physical form. When they allow these incorporeal beings to walk the world through their physical bodies, they gain increased physical and martial abilities.
 #### **Wild Heart Spirituality**
+Often raised by, or closely with, wild beasts, Shamans known as Wild Hearts develop an intense spiritual connection with the wild. This intense devotion, when combined with spiritual power, allows a Wild Heart to transform into the Great Beast, the legendary guardian Spirit of all wild plants and animals.
 #### **Witch Doctor Spirituality**
+Long before celestials took notice of mortals, Witch Doctors wandered the land, providing spiritual healing and medicine. Working in tandem with Spirits of Life, Witch Doctors heal the wounded and grant their allies mystical abilities. These sages are peaceful in nature and can often be found traveling the wilds tending to the spiritual needs of those they meet.
 #### **Astrologer Spirituality**
+Since the earliest days of civilization, mortals have looked to stars for guidance. Drawing upon the Spirits that move these celestial bodies, Astrologer Shamans can channel the radiant power of the great Constellations that guide the mortal world.
 #### **Blood Priest Spirituality**
+In ancient days, elder Shamans communed with Spirits that desired mortal blood above all. Over time, the Spirits taught the first Blood Priests the dark secrets of blood magic, and in return, they offered these elder Spirits the blood of their foes.
 #### **Elementalist Spirituality**
+Some Shamans gain their abilities while living near places of raw elemental power: active volcanoes, amongst the sands of blazing deserts, atop frigid mountain peaks, or on the stormy coasts of the ocean. Known as Elementalists, these Shamans learn to draw out the most destructive Elemental Spirits and channel them to devastating effect against their enemies.
 #### **Idolater Spirituality**
+Since the dawn of time mortal Shamans have used the magic of idolatry to force powerful Spirits to carry out their bidding. Using ancient magic, they bind spiritual entities within Idols, and once bound, focus their spiritual power on friend and foe.
 #### **Spirit Guide Spirituality**
+While most Shamans bind many Spirits, Shamans known as Spirit Guides form a single bond with their Geist Spirit. Often the Spirits of departed Shamans, Geists increase in power alongside the Shaman they are bound to, and can even channel the power bound within Totems.
 #### **Wyrmbound Spirituality**
+Unknown to most, many of the most potent Spirits are those of long-dead dragons. In their undying desire to influence the material plane, for good or ill, these Draconic Spirits attach to worthy Shamans, transforming them into the Wyrmbound.
 ## Spellblade
 *Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
 
