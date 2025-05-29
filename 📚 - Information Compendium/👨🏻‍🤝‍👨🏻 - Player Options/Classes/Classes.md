@@ -3016,134 +3016,213 @@ It takes a malleable and open mind to bond with a swarm of creatures; one needs 
 
 *Wardens are like mighty trees in a gale storm or the rocks along the shore, constantly battered by waves. They demonstrate almost supernatural resilience to hardship, and can’t be easily broken or slain.* 
 
-### <u>Subclasses - Warden Bonds / Primal Strengths</u>
+### <u>Subclasses - Champion’s Calls</u>
 
 *Most wardens draw their strength from the wild — the strength of the earth beneath their feet and the vitality of the air in their lungs — though some attribute their resiliency to an inward resolve or the absolute belief in a deity. Regardless of it’s source, a warden’s power is intuitive and forceful, allowing them to stop foes dead in their tracks, mark those standing in their way, and shrug off otherwise deadly conditions. Only those wardens who choose to defend an obviously magical charge appear to be supernatural; others simply posses a daunting force of will and bottomless tolerance for punishment.*
 
 *A warden’s call is a binding charge to protect and defend others from harm. Every warden eventually hears a call, and responds with mighty deeds. In answering this call, wardens embrace the traits of those they stand to protect, gaining primal, and sometimes even mystical, abilities.*
 
-#### **Bloodwrath Guardian Bond**<sup>(VSS)</sup>
+#### **Bloodwrath Guardian Call**<sup>(VSS)</sup>
 The primal power you wield has formed an intrinsic bond with the creatures of the wild, and you have taken up the task of defending them. Because you share in the beast's ferocity, tenacity, and animal instinct, you can summon a beast's primal strength from within yourself, and slay your enemies in an animalistic trance.
 
 While entranced, you can sense a connection to a greater being, the Primal Beast, the first predator, from which all hunters are descended. As your commitment to defending the wilds from corruption grows, you grow closer to the Primal Beast, until you can at last adopt its ancient form yourself, and allow it to hunt once again.
-#### **Grey Watchman Bond**<sup>(VSS)</sup>
+#### **Grey Watchman Call**<sup>(VSS)</sup>
+Ever vigilant and unceasing in your duties, you are a watcher of the realms of men, called to keep vigil over a keep or wall. As a grey watchman, trained in the arts of combat, you have honed your skills to a razor's edge to repel any invaders that might challenge your land. You need not keep watch over the same keep your entire life, but, wherever you travel, you are dedicated to keeping your land safe from invading armies, marauding monsters, and other external threats.
+#### **Nightgaunt Call**<sup>(VSS)</sup>
+Blood-drinkers, undead, and other creatures of the night are often feared and hunted, and few stand in their defense; except, of course, the grim and terrible nightgaunt. Tales of the nightgaunt are whispered of in fairy tales, casting them as a things to be feared: hunters of clerics and goodly vampire slayers. Their appearance always presages long nights and great rises in hungry undead.
 
-#### **Nightgaunt Bond**<sup>(VSS)</sup>
+You felt the calling of the moon bringing you to the graveside of living corpses. Though vampires, zombies, and skeletons are mighty, they are always outnumbered, hunted, and turned by clerics; never given a fair chance to live peacefully. They require an ally among the living to continue their ceaseless lives, and you have risen by moonlight to the task.
+#### **Soulblood Shaman Call**<sup>(VSS)</sup>
+The ancestral spirits called you by starlight to enact their will on the world, to protect their descendants, and to safeguard their resting places. You are a Soulblood Shaman, a manipulator of soul and ascetic of primal magic. Your community looks to you as a leader as well as a vital connection to the afterlife, for if you play your role, they too will join their ancestors in the great beyond.
+#### **Stoneheart Defender Call**<sup>(VSS)</sup>
+You heard the steadfast, unyielding call from the mountains, which dwarves and gnomes have felt for generations. The stones called to you, beckoning for a protector to defend the mountains from those that would despoil them, from both within and without. You might be a watchman of old dwarven walls, or a sentinel, patrolling the lookouts of high mountain peaks; regardless of where you stand, you are unmovable: a mountain in the shape of a man. You draw your power from the earth beneath your feet and can crush your enemies with the strength of stone.
+#### **Storm Sentinel Call**<sup>(VSS)</sup>
+Your strength originates among furious storm clouds and flashes of lightning. As a storm sentinel, you are called to protect wayward sailors and coastal villages from the wrath of the tempests and the arrival of great waves that threaten them. You despise pirates and other enemies of coastal peoples, and will oppose them wherever they strike.
 
-#### **Soulblood Shaman Bond**<sup>(VSS)</sup>
+From your fingertips, you can deliver the awe of lightning and the roar of thunder to devastate your foes. With practice and patience, you can harness the power of the storm itself to fly and rain thunderbolts from above.
+#### **Verdant Protector Call**<sup>(VSS)</sup>
+You draw your strength from the trees of the forest and the loamy earth beneath your feet. As a Verdant Protector, you are the champion of the green things in nature, and defend them against those who would despoil the wilds. You easily find allies among druids, and others that understand the forest's sacred trees and ancient spirits.
 
-#### **Stoneheart Defender Bond**<sup>(VSS)</sup>
-
-#### **Storm Sentinel Bond**<sup>(VSS)</sup>
-
-#### **Verdant Protector Bond**<sup>(VSS)</sup>
-
-#### **Elemental Soul**<sup>(KT)</sup>
-
-#### **Beasthide**<sup>(KT)</sup>
-
-#### **Elderheart**<sup>(KT)</sup>
-
-#### **Stoneblood**<sup>(KT)</sup>
-
-#### **Sunwatcher**<sup>(KT)</sup>
-
-#### **Ironbound**<sup>(KT)</sup>
-
-#### **Dreadwing**<sup>(KT)</sup>
-
-#### **Timetwister**<sup>(KT)</sup>
-
-#### **Astral Guardian**<sup>(KT)</sup>
-
-#### **Bone Binder**<sup>(KT)</sup>
-
+At your command, the plants of the earth sprout up to assist you in your duty. At the pinnacle of your power, you can assume the form of an elder tree guardian, which looks much like a treant, with tough, bark skin, and long, branchlike arms.
+#### **Elemental Soul Call**<sup>(KT)</sup>
+Tapping into the endless power of the elemental planes, these Wardens shroud themselves in harsh primal forces, destroying their foes with their very presence.
+#### **Beasthide Call**<sup>(KT)</sup>
+Tapping into the primal ferocity of beasts, Beasthide Wardens are capable of fighting with a primal ferocity. They specialize in unleashing terrible wrath on any that would attack them or their companions.
+#### **Elderheart Call**<sup>(KT)</sup>
+Rooted in the ancient growth of the world, these Wardens are linked to a primordial untamed aspect of the world. Their vines lash and bind, inexorably dragging their enemies to the conclusion of their place in the natural cycle of life and death.
+#### **Stoneblood Call**<sup>(KT)</sup>
+The enduring blood of the world flows through you, empowering you with inhuman durability, and mastery over the powers of stone and earth. Empowered with unbreakable resilience and steps that cause the very ground to tremble.
+#### **Sunwatcher Call**<sup>(KT)</sup>
+Drawing power from the highest primal authority, you embody the radiance of the sun. The sun burns away all that lurks in the darkness, while bringing the relief of morning light to those that seek it. Ever vigilant, these Wardens weave fire and radiance to destroy their enemies and empower their allies.
+#### **Ironbound Call**<sup>(KT)</sup>
+Ironbound Wardens assert that all that comes of earth is born of primal power, embracing forged metal. Often drawn from mining communities, blacksmiths, or otherwise those with deep understanding and appreciation of the fusion of nature and civilization that forged metal represents, they take full advantage of its power to become invincible edifices of iron.
+#### **Dreadwing Call**<sup>(KT)</sup>
+The Dreadwing Warden utilizes and ancient bond that taps into the deeply rooted primal powers that flow within dragonkind. United with the essence of these legendary beings, they embody the draconic virtues of strength, elemental fury, and fear. These Wardens wield the might and majesty of dragons to dominate the battlefield, leaving all that would oppose them in terrified awe of their power.
+#### **Timetwister Call**<sup>(KT)</sup>
+The Timetwister draws upon the enigmatic forces of time, its unstoppable march, and the ebb and flow of the past, present, and future. These Wardens manipulate the battlefield, expedite their allies' actions to a blur while slow their enemies to a crawl. They witness flickers of the past, glimpses of the future, and the ever branching pathways of the present. In battle, a fleeting moment is the only gap between life and death, and these Wardens are the masters of moments.
+#### **Astral Guardian Call**<sup>(KT)</sup>
+Embarking on a path less traveled, the Astral Guardian Warden transcends the earthly plane and draws from the power of the infinite planes. Touched by the enigmatic forces of space and energy, they embody the mystery of the universe, controlling spatial distortions and manipulating celestial energies.
+#### **Bone Binder Call**<sup>(KT)</sup>
+Commanding the dark powers of the fallen, a Bone Warden watches over the endless and final silence of the end of life. Solemn and grim, they recycle the remains of life to one final service, binding the bones of once living creatures to form their armor, weapons, and grim constructs to bind and crush those that stand in their way of their primal decrees.
 ## Warlock
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
+*Warlocks are seekers of the knowledge that lies hidden in the fabric of the multiverse. Through pacts made with mysterious beings of supernatural power, warlocks unlock magical effects both subtle and spectacular. Drawing on the ancient knowledge of beings such as fey nobles, demons, devils, hags, and alien entities of the Far Realm, warlocks piece together arcane secrets to bolster their own power.*
 
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
+*A warlock is defined by a pact with an otherworldly being. Sometimes the relationship between warlock and patron is like that of a cleric and a deity, though the beings that serve as patrons for warlocks are not gods. A warlock might lead a cult dedicated to a demon prince, an archdevil, or an utterly alien entity — beings not typically served by clerics. More often, though, the arrangement is similar to that between a master and an apprentice. The warlock learns and grows in power, at the cost of occasional services performed on the patron’s behalf. The magic bestowed on a warlock ranges from minor but lasting alterations to the warlock’s being (such as the ability to see in darkness or to read any language) to access to powerful spells. Unlike bookish wizards, warlocks supplement their magic with some facility at hand-to-hand combat. They are comfortable in light armor and know how to use simple weapons.* 
 
 ### <u>Subclasses - Otherworldly Patrons</u>
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
+*A warlock is defined by a pact with an otherworldly being. Sometimes the relationship between warlock and patron is like that of a cleric and a deity, though the beings that serve as patrons for warlocks are not gods. A warlock might lead a cult dedicated to a demon prince, an archdevil, or an utterly alien entity — beings not typically served by clerics. More often, though, the arrangement is similar to that between a master and an apprentice. The warlock learns and grows in power, at the cost of occasional services performed on the patron’s behalf. The magic bestowed on a warlock ranges from minor but lasting alterations to the warlock’s being (such as the ability to see in darkness or to read any language) to access to powerful spells. Unlike bookish wizards, warlocks supplement their magic with some facility at hand-to-hand combat. They are comfortable in light armor and know how to use simple weapons.*
+
+*The beings that serve as patrons for warlocks are mighty inhabitants of other planes of existence — not gods, but almost godlike in their power. Various patrons give their warlocks access to different powers and invocations, and expect significant favors in return. Some patrons collect warlocks, doling out mystic knowledge relatively freely or boasting of their ability to bind mortals to their will. Other patrons bestow their power only grudgingly, and might make a pact with only one warlock. Warlocks who serve the same patron might view each other as allies, siblings, or rivals.*
+
 #### **The Archfey**
+Your patron is a lord or lady of the fey, a creature of legend who holds secrets that were forgotten before the mortal races were born. This being’s motivations are often inscrutable, and sometimes whimsical, and might involve a striving for greater magical power or the settling of age-old grudges. Beings of this sort include the Prince of Frost; the Queen of Air and Darkness, ruler of the Gloaming Court; Titania of the Summer Court; her consort Oberon, the Green Lord; Hyrsam, the Prince of Fools; and ancient hags.
 #### **The Fiend**
+You have made a pact with a fiend from the lower planes of existence, a being whose aims are evil, even if you strive against those aims. Such beings desire the corruption or destruction of all things, ultimately including you. Fiends powerful enough to forge a pact include demon lords such as Demogorgon, Orcus, Fraz’Urb-luu, and Baphomet; archdevils such as Asmodeus, Dispater, Mephistopheles, and Belial; and [balors](https://www.dndbeyond.com/monsters/16797-balor) that are especially mighty; and [ultroloths](https://www.dndbeyond.com/monsters/17126-ultroloth) and other lords of the yugoloths.
 #### **The Great Old One**
+
 #### **The Celestial**
+
 #### **Undying**
+
 #### **The Hexblade**
+
 #### **The Fathomless**
+
 #### **The Genie**
+
 #### **The Undead**
+
 #### **The Dead Mists**<sup>(VSS)</sup>
+
 #### **The Future You**<sup>(VSS)</sup>
+
 #### **The Legacy**<sup>(VSS)</sup>
+
 #### **The Magician**<sup>(VSS)</sup>
+
 #### **The Symbiont**<sup>(VSS)</sup>
+
 #### **Undying Light**<sup>(UA)</sup>
+
 #### **The Seeker**<sup>(UA)</sup>
+
 #### **Raven Queen**<sup>(UA)</sup>
+
 #### **The Archlich**<sup>(DAC)</sup>
+
 #### **Ancient Dragons**<sup>(TOH)</sup>
+
 #### **Animal Lords**<sup>(TOH)</sup>
+
 #### **Hunter in Darkness**<sup>(TOH)</sup>
+
 #### **Old Wood**<sup>(TOH)</sup>
+
 #### **Primordial**<sup>(TOH)</sup>
+
 #### **Wyrdweaver**<sup>(TOH)</sup>
+
 #### **Ancient Wyrm**<sup>(TCEE)</sup>
+
 #### **Creeping Vine**<sup>(TCEE)</sup>
+
 #### **Cryptic Oracle**<sup>(TCEE)</sup>
+
 #### **Greate Ooze**<sup>(TCEE)</sup>
+
 #### **Inevitable**<sup>(TCEE)</sup>
+
 #### **Undying Remastered**<sup>(TCEE)</sup>
+
 #### **Reaper**<sup>(ToV)</sup>
+
 #### **Stone Sovereign**<sup>(FEQ)</sup>
+
 #### **The Muse**<sup>(FCG)</sup>
+
 #### **The Haunter**<sup>(ECHH)</sup>
+
 #### **The Seeker**<sup>(ECHH)</sup>
+
 #### **The Lost Soul**<sup>(CCS)</sup>
+
 #### **The Ancient Intelligence**<sup>(KT)</sup>
+
 #### **That Which Is Beyond**<sup>(KT)</sup>
+
 #### **The Tempest**<sup>(KT)</sup>
+
 #### **The Dragon**<sup>(KT)</sup>
+
 #### **The Fey**<sup>(KT)</sup>
+
 #### **The Knowledge Keeper**<sup>(KT)</sup>
+
 #### **The Overseer**<sup>(KT)</sup>
+
 #### **The Ooze**<sup>(KT)</sup>
+
 #### **The Chaos**<sup>(XLNEE)</sup>
+
 #### **The Noble Genie**<sup>(XLNEE)</sup>
-### Level Up: Advanced 5e
-#### **Alienist**
-#### **Diabolist**
-#### **Spellbound**
+
 #### **The Horned One**<sup>(MCDM)</sup>
+
 #### **The Swarm**<sup>(BoE)</sup>
+
 #### **The Accursed Archive**<sup>(CFSA)</sup>
+
 #### **The Ashen Wolf**<sup>(CFSA)</sup>
+
 #### **The Eternal Citadel**<sup>(CFSA)</sup>
+
 #### **The Eternal Graveyard**<sup>(CFSA)</sup>
+
 #### **The Gelatinous Convocation**<sup>(CFSA)</sup>
+
 #### **The Gray Portrait**<sup>(CFSA)</sup>
+
 #### **The Keeper of the Depths**<sup>(CFSA)</sup>
+
 #### **The Perfect Chord**<sup>(CFSA)</sup>
+
 #### **The Serpent Empress**<sup>(CFSA)</sup>
+
 #### **The Shadowcat**<sup>(CFSA)</sup>
+
 #### **The Stormlord**<sup>(CFSA)</sup>
+
 #### **The Warrior-Saint**<sup>(CFSA)</sup>
+
 #### **The Weaver of Lies**<sup>(CFSA)</sup>
+
 #### **The Wild Huntsman**<sup>(CFSA)</sup>
+
 #### **Astral Griffon**<sup>(TGS)</sup>
+
 #### **The Many**<sup>(TGS)</sup>
+
 #### **The Ancient Beast**<sup>E</sup>
+
 #### **The Archmage**<sup>UAH</sup>
+
 #### **The Crone**<sup>UAH</sup>
+
 #### **The Great Trickster**<sup>UAH</sup>
+
 #### **The Icebound**<sup>UAH</sup>
+
 #### **The Librarian**<sup>UAH</sup>
+
 #### **The Titan**<sup>UAH</sup>
+
 #### **The Lantern**<sup>(OTG)</sup>
+
 #### **The Cosmos**<sup>(GTD)</sup>
+
 #### **The Flesh**<sup>(GTD)</sup>
+
 ## Warlord
 *Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*(**Mystic Arts,** KibblesTasty, **Zaelos**, **Laser Llama**)
 
