@@ -3012,31 +3012,52 @@ to a mad scientist, has resulted in a singular observation: subjects are much mo
 #### **Swarmslinger Paradigm**<sup>(LAL)</sup>
 It takes a malleable and open mind to bond with a swarm of creatures; one needs to tune out the hubbub of bite-sized information and learn to listen to the group as a whole. How did you discover you could control masses of creatures? Perhaps you were a perfumier whose arrangement of scents guided the actions of bees. Maybe you were training as a bard when you found that those who liked your music most were a literal pack of rats. Or maybe you made your clothing a home for a family of creatures who now look to you for leadership. Whatever it is, your command of hordes of creatures gives you the ability to overrun any foe.
 ## Warden
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt. (**Source: Valda’s Spire of Secrets**)*
+*Wardens are not born of civilization and order. Though some Wardens will seek to defend such things (or at least tolerate them), they are those that have harnessed primal chaotic powers. Lashing, roiling forces of untamed energy, that left unchecked would wash civilization from the face of the material plane as if it were but a temporary blip. The powers of a Warden are expressions of deep and primal forces. They are power given sentience and will, entropy and destruction harnessed and focused to purpose and cause. They channel their power as a conduit, bringing it to heel through force of will and inner conviction. As a blacksmith forges a lump of iron to take on the keen edge of a sword, a Warden must always refine their power, tame and temper it to be a force of change rather than raw destruction. (**Source: Valda’s Spire of Secrets + KT**)*
 
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
+*Wardens are like mighty trees in a gale storm or the rocks along the shore, constantly battered by waves. They demonstrate almost supernatural resilience to hardship, and can’t be easily broken or slain.* 
 
 ### <u>Subclasses - Warden Bonds / Primal Strengths</u>
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
+*Most wardens draw their strength from the wild — the strength of the earth beneath their feet and the vitality of the air in their lungs — though some attribute their resiliency to an inward resolve or the absolute belief in a deity. Regardless of it’s source, a warden’s power is intuitive and forceful, allowing them to stop foes dead in their tracks, mark those standing in their way, and shrug off otherwise deadly conditions. Only those wardens who choose to defend an obviously magical charge appear to be supernatural; others simply posses a daunting force of will and bottomless tolerance for punishment.*
+
+*A warden’s call is a binding charge to protect and defend others from harm. Every warden eventually hears a call, and responds with mighty deeds. In answering this call, wardens embrace the traits of those they stand to protect, gaining primal, and sometimes even mystical, abilities.*
+
 #### **Bloodwrath Guardian Bond**<sup>(VSS)</sup>
+The primal power you wield has formed an intrinsic bond with the creatures of the wild, and you have taken up the task of defending them. Because you share in the beast's ferocity, tenacity, and animal instinct, you can summon a beast's primal strength from within yourself, and slay your enemies in an animalistic trance.
+
+While entranced, you can sense a connection to a greater being, the Primal Beast, the first predator, from which all hunters are descended. As your commitment to defending the wilds from corruption grows, you grow closer to the Primal Beast, until you can at last adopt its ancient form yourself, and allow it to hunt once again.
 #### **Grey Watchman Bond**<sup>(VSS)</sup>
+
 #### **Nightgaunt Bond**<sup>(VSS)</sup>
+
 #### **Soulblood Shaman Bond**<sup>(VSS)</sup>
+
 #### **Stoneheart Defender Bond**<sup>(VSS)</sup>
+
 #### **Storm Sentinel Bond**<sup>(VSS)</sup>
+
 #### **Verdant Protector Bond**<sup>(VSS)</sup>
-### *KibblesTasty*
+
 #### **Elemental Soul**<sup>(KT)</sup>
+
 #### **Beasthide**<sup>(KT)</sup>
+
 #### **Elderheart**<sup>(KT)</sup>
+
 #### **Stoneblood**<sup>(KT)</sup>
+
 #### **Sunwatcher**<sup>(KT)</sup>
+
 #### **Ironbound**<sup>(KT)</sup>
+
 #### **Dreadwing**<sup>(KT)</sup>
+
 #### **Timetwister**<sup>(KT)</sup>
+
 #### **Astral Guardian**<sup>(KT)</sup>
+
 #### **Bone Binder**<sup>(KT)</sup>
+
 ## Warlock
 *Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
 
