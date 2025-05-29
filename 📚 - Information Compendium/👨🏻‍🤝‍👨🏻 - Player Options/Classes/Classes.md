@@ -3078,21 +3078,27 @@ Commanding the dark powers of the fallen, a Bone Warden watches over the endless
 #### **The Archfey**
 Your patron is a lord or lady of the fey, a creature of legend who holds secrets that were forgotten before the mortal races were born. This being’s motivations are often inscrutable, and sometimes whimsical, and might involve a striving for greater magical power or the settling of age-old grudges. Beings of this sort include the Prince of Frost; the Queen of Air and Darkness, ruler of the Gloaming Court; Titania of the Summer Court; her consort Oberon, the Green Lord; Hyrsam, the Prince of Fools; and ancient hags.
 #### **The Fiend**
-You have made a pact with a fiend from the lower planes of existence, a being whose aims are evil, even if you strive against those aims. Such beings desire the corruption or destruction of all things, ultimately including you. Fiends powerful enough to forge a pact include demon lords such as Demogorgon, Orcus, Fraz’Urb-luu, and Baphomet; archdevils such as Asmodeus, Dispater, Mephistopheles, and Belial; and [balors](https://www.dndbeyond.com/monsters/16797-balor) that are especially mighty; and [ultroloths](https://www.dndbeyond.com/monsters/17126-ultroloth) and other lords of the yugoloths.
+You have made a pact with a fiend from the lower planes of existence, a being whose aims are evil, even if you strive against those aims. Such beings desire the corruption or destruction of all things, ultimately including you. Fiends powerful enough to forge a pact include demon lords such as Demogorgon, Orcus, Fraz’Urb-luu, and Baphomet; archdevils such as Asmodeus, Dispater, Mephistopheles, and Belial; [pit fiends](https://www.dndbeyond.com/monsters/16979-pit-fiend) and [balors](https://www.dndbeyond.com/monsters/16797-balor) that are especially mighty; and [ultroloths](https://www.dndbeyond.com/monsters/17126-ultroloth) and other lords of the yugoloths.
 #### **The Great Old One**
-
+Your patron is a mysterious entity whose nature is utterly foreign to the fabric of reality. It might come from the Far Realm, the space beyond reality, or it could be one of the elder gods known only in legends. Its motives are incomprehensible to mortals, and its knowledge so immense and ancient that even the greatest libraries pale in comparison to the vast secrets it holds. The Great Old One might be unaware of your existence or entirely indifferent to you, but the secrets you have learned allow you to draw your magic from it.
 #### **The Celestial**
+Your patron is a powerful being of the Upper Planes. You have bound yourself to an ancient empyrean, solar, ki-rin, unicorn, or other entity that resides in the planes of everlasting bliss. Your pact with that being allows you to experience the barest touch of the holy light that illuminates the multiverse.
 
+Being connected to such power can cause changes in your behavior and beliefs. You might find yourself driven to annihilate the undead, to defeat fiends, and to protect the innocent. At times, your heart might also be filled with a longing for the celestial realm of your patron, and a desire to wander that paradise for the rest of your days. But you know that your mission is among mortals for now, and that your pact binds you to bring light to the dark places of the world.
 #### **Undying**
-
+Death holds no sway over your patron, who has unlocked the secrets of everlasting life, although such a prize — like all power — comes at a price. Once mortal, the Undying has seen mortal lifetimes pass like the seasons, like the flicker of endless days and nights. It has the secrets of the ages to share, secrets of life and death. Beings of this sort include Vecna, Lord of the Hand and the Eye; the dread Iuz; the lich-queen Vol; the Undying Court of Aerenal; Vlaakith, lich-queen of the githyanki; and the deathless wizard Fistandantalus.
 #### **The Hexblade**
+You have made your pact with a mysterious entity from the Shadowfell — a force that manifests in sentient magic weapons carved from the stuff of shadow. The mighty sword Blackrazor is the most notable of these weapons, which have been spread across the multiverse over the ages. The shadowy force behind these weapons can offer power to warlocks who form pacts with it. Many hexblade warlocks create weapons that emulate those formed in the Shadowfell. Others forgo such arms, content to weave the dark magic of that plane into their spellcasting.
 
+Because the Raven Queen is known to have forged the first of these weapons, many sages speculate that she and the force are one and that the weapons, along with hexblade warlocks, are tools she uses to manipulate events on the Material Plane to her inscrutable ends.
 #### **The Fathomless**
+You have plunged into a pact with the deeps. An entity of the ocean, the Elemental Plane of Water, or another otherworldly sea now allows you to draw on its thalassic power. Is it merely using you to learn about terrestrial realms, or does it want you to open cosmic floodgates and drown the world? Perhaps you were born into a generational cult that venerates the Fathomless and its spawn. Or you might have been shipwrecked and on the brink of drowning when your patron’s grasp offered you a chance at life. Whatever the reason for your pact, the sea and its unknown depths call to you.
 
+Entities of the deep that might empower a warlock include krakens, ancient water elementals, godlike hallucinations dreamed into being by kuo-toa, merfolk demigods, and sea hag covens.
 #### **The Genie**
-
+You have made a pact with one of the rarest kinds of genie, a noble genie. Such entities rule vast fiefs on the Elemental Planes and have great influence over lesser genies and elemental creatures. Noble genies are varied in their motivations, but most are arrogant and wield power that rivals that of lesser deities. They delight in turning the table on mortals, who often bind genies into servitude, and readily enter into pacts that expand their reach.
 #### **The Undead**
-
+You've made a pact with a deathless being, a crea­ture that defies the cycle and life and death, forsak­ing its mortal shell so it might eternally pursue its unfathomable ambitions. For such beings, time and morality are fleeting things, the concerns of those for whom grains of sand still rush through life's hourglass. Having once been mortal themselves, these ancient undead know firsthand the paths of ambition and the routes past the doors of death. They eagerly share this profane knowledge, along with other secrets, with those who work their will among the living.
 #### **The Dead Mists**<sup>(VSS)</sup>
 
 #### **The Future You**<sup>(VSS)</sup>
@@ -3110,67 +3116,96 @@ You have made a pact with a fiend from the lower planes of existence, a being wh
 #### **Raven Queen**<sup>(UA)</sup>
 
 #### **The Archlich**<sup>(DAC)</sup>
-
+You have made a pact with an archlich, a creature that has existed since the dawn of the last age and holds secrets of arcane magic that have been forgotten for thousands of years. Such a being desires only to expand its own power and influence, only using you as a pawn in its far larger scheme. Any lich powerful enough to form a pact has lived for many thousands of years, and many of them were involved in the invention of lichdom itself.
 #### **Ancient Dragons**<sup>(TOH)</sup>
-
+You have made a pact with one or more ancient dragons or a dragon god. You wield a measure of their control over the elements and have insight into their deep mysteries. As your power and connection to your patron or patrons grows, you take on more draconic features, even sprouting scales and wings.
 #### **Animal Lords**<sup>(TOH)</sup>
+While humanoids have vast pantheons and divine figures of every stripe, the animals of the world have much simpler forms of faith. Among each species there is always one paragon that embodies the animal spirit in a humanoid form, the better to speak to others and represent the animals in the fey courts and the Upper Planes. These timeless entities are connected to every animal of the kind they represent, and their primary concerns are for the well-being of these animals and the natural world as a whole. 
 
+Your patron is one such animal lord. Animal lords are varied in their motivations and often come into conflict with each other. They each command legions of animal followers and gather information from all of them. Unlike many other patrons, animal lords often have close relationships with those they bind with pacts, some to control, others to guide and advise. You are your animal lord’s hand in the affairs of humanoids, and your allies are as numerous as the spiders in the corner or the birds in the sky.
 #### **Hunter in Darkness**<sup>(TOH)</sup>
+The Hunter in Darkness is an entity that sees all creatures as prey and enjoys instilling fear in its prey. It prefers intelligent prey over mere beasts, as their fear tastes so much sweeter. Hunters who display impressive prowess for hunting pique its interest. The Hunter in Darkness often bestows its power on such individuals to spread fear further than the Hunter can by itself. 
 
+Though your patron isn’t mindless, it cares only for the thrill of the hunt and the spreading of fear. It cares not what you do with the power it grants you beyond that. Your connection with the Hunter can sometimes cause changes in your worldview. You might view every creature you meet as either predator or prey, or you might face problems with a “kill or be killed” attitude.
 #### **Old Wood**<sup>(TOH)</sup>
+You have made a pact with the ancient intelligence of a primeval forest. Before the rise of human civilization, before the time of the elves, before even the dragons, there were the forests. Empires rise and fall around them, but the forests remain as a testament to nature’s endurance. 
 
+However, times are changing, and the unchecked growth of civilization threatens the green. The intelligences that imbue the antediluvian forests seek emissaries in the world that can act beyond their boughs, and one has heard your call for power. You are a guardian of the Old Wood, a questing branch issuing from a vast, slumbering intelligence sent to act on its behalf, perhaps even to excise these lesser beings from its borders.
 #### **Primordial**<sup>(TOH)</sup>
+Some who search for power settle on lesser gods or demon lords, others delve into deeper mysteries until they touch elder entities. These great entities build worlds, crafting mountains and species as if sculpting clay, or annihilate them utterly. Embodying creation, destruction, and the land itself, your patron is an ancient power beyond mortal understanding. 
 
+Primordials stand in opposition to the Great Old Ones, the other side of the scale that maintains the balance of reality. Your primordial patron speaks to you in the language of omens, dreams, or intuition, and may call upon you to defend the natural world, to root out the forces of the Void, or even to manipulate seemingly random people or locations for reasons known only to their unfathomable purpose. While you can’t grasp the full measure of your patron’s designs, as long as your bond is strong, there is nothing that can stand in your way.
 #### **Wyrdweaver**<sup>(TOH)</sup>
-
+Your patron is probability itself, the personified wellspring of chance as embodied by chosen deities, entities, and eldritch beings across the planes. By binding yourself to the Wyrdweaver, you live by the roll of the dice and the flip of the coin, delighting in the randomness of life and the thrill of new experiences. You might find yourself driven to invade a lich’s keep to ask it about its favorite song, or you might leap onto a dragon’s back to have the right to call yourself a dragonrider. Life with a pact-bond to your patron might not be long, but it will be exciting.
 #### **Ancient Wyrm**<sup>(TCEE)</sup>
+It has been your privilege to make a pact with an ancient dragon of untold power. They reside else- where--on an Elemental Plane, in the Elemental Chaos, or in a demiplane of their own creation, for example--but you are their emissary and agent on the Material Plane. Your patron has charged you with furthering their agenda, which generally amounts to glorifying their name, spreading respect for dragonkind, and gathering wealth on their behalf. In exchange for your loyalty and regular tribute, your patron grants you a sliver of their magical influence and prowess. 
 
+As dragons are ambitious creatures, and only grow more so as they age, your patron is virtually guaran- teed to have one or more rivals of comparable might. They might seek to outdo or embarrass each other, or eliminate each other’s forces in a centuries-long game of cat-and-mouse. Whatever their intrigues may be, you are a crucial part of them, though the details may be kept from you.
 #### **Creeping Vine**<sup>(TCEE)</sup>
-
+Your patron is a magical plant, a powerful primal spirit, or some other grand entity of nature and growth, such as a powerful treant, an ancient green dragon, a Totoro, or an archdryad. This being might seek to expand itself and its influence through seed or spore, or it might want to simply perpetuate, accelerate, or otherwise enable the natural cycles of life.
 #### **Cryptic Oracle**<sup>(TCEE)</sup>
+Your patron is a being of inscrutable intellect and an immortal guardian of forgotten knowledge. Such beings often fiercely guard these secrets in long-buried sanctums and lost temples. Others have minds that exist outside of time, simultaneously seeing what has been and what is yet to come, passing on this foresight to those they deem worthy. Some are simply bored, and will often bestow great boons or terrible curses upon those who succeed or fail their riddles. 
 
-#### **Greate Ooze**<sup>(TCEE)</sup>
+Beings that forge such pacts with mortals might include sphinxes, mummy lords, nagas or even powerful spellcasters on the cusp of godhood. Maybe you have impressed such a creature and as a reward they have imparted you a sliver of their power, imparting some of their great knowledge upon you. Or perhaps you answered a riddle incorrectly and now must serve their whims, sent out into the world to obtain obscure knowl- edge and secrets for your master.
+#### ~~**Greate Ooze**<sup>(TCEE)</sup>~~
 
-#### **Inevitable**<sup>(TCEE)</sup>
-
+#### **The Inevitable**<sup>(TCEE)</sup>
+You have forged a contract with an inevitable, an axiomatic being from one of the planes of law set to uphold and enforce order across the multiverse. Whether you sought these powers purposely, misunderstood an agreement you were making, or now serve as punishment for breaching a contract, your patron’s powers allow you to impose law and order, sidestepping fate and luck instead for the blessing of definite results.
 #### **Undying Remastered**<sup>(TCEE)</sup>
 
 #### **Reaper**<sup>(ToV)</sup>
-
+Your patron is a formless entity given life by an endless hunger for death. These patrons are sometimes called spirits, but their power is far beyond that of the mere undead. Whether born from the collective consciousness of a slaughtered army, a legendary warrior murdered by treachery, or a sentience bound within a cursed blade— Reaper patrons desire glorious bloodshed above all else and seek warlocks capable of feeding their hunger.
 #### **Stone Sovereign**<sup>(FEQ)</sup>
-
+You have listened to the will of the stone, and made a pact with one of Eberron’s great earthen powers. The whispers of the daelkyr Orlassk corrupt many Warlocks to their cause, but similar magics may be the gifts of the greedy fey King Grayfinger or even the medusa Queen Sheshka of Cazhaak Draal. The gnomes of Lorghalan draw their power from their friendship with the earth elementals of their island; perhaps you have made peace with the earth itself.
 #### **The Muse**<sup>(FCG)</sup>
-
+Your patron is a spirit of inspiration, a being capable of bringing the best out in mortals. These entities seek to draw forth the pinnacle of mortal achievement, sometimes for altruistic purposes and other times for reasons more sinister. Your muse might be from the Upper Planes or a Leanan Sidhe from the Feywild. No matter the identity of your patron, your muse expects you to make something of great beauty with their gifts. If a long period of time passes without you creating something worthy, you may experience feelings of despair or longing that consume your thoughts, driving you back toward creation and the favor of your muse.
 #### **The Haunter**<sup>(ECHH)</sup>
-
+An ancient specter, a mighty oni, or something else entirely, your patron grants you the power to manipulate the memories and perceptions of others to feed off of their regrets.
 #### **The Seeker**<sup>(ECHH)</sup>
-
+The patrons of any two seeker warlocks are unlikely to share any common ground, other than the fact that they empowered a servant to act as their tool and agent, to find and retrieve whatever they require. Demon lords will seek lost lore the same as lesser divine beings of knowledge and craft, and to fulfill vastly different desires, while a tyrant or vengeful power might send seekers to find living targets.
 #### **The Lost Soul**<sup>(CCS)</sup>
-
+You have made a pact with a soul lost in the Ethereal Plane, a wanderer of the place between life and death. Trapped within an endless ethereal expanse, the lost soul may have motivations to correct whatever mistakes they made in life, and otherwise watches over you with curiosity. Using its powers, you become a master of its domain. 
 #### **The Ancient Intelligence**<sup>(KT)</sup>
-
+You have made a pact of sorts with an intelligence that defies normal understanding; its aims are mysterious and often incomprehensible. This being could be an artificial intelligence of some lost race of ancients with fabulous technology, perhaps a high ranking mechanical overmind. They could even be an ancient lost rogue one, perhaps an Inventor of another era whose last act was to upload themselves in an incorporeal form, or perhaps it some- thing more alien, the ancient navigation system of an otherworldly ship that has gained sentience. The possibilities are endless, but whatever its nature, it can grant you sufficiently advanced knowledge that for all intents and purposes is fabulous magical power.
 #### **That Which Is Beyond**<sup>(KT)</sup>
+Your patron is defined by its sheer incomprehensibility to the mortal mind, an existence that is the very anathema of sanity itself, where any attempt to truly describe its nature is the gibbering of a mad man. 
 
+The most tame examples of these may have names or euphemisms that mortals know them as, while others may be concepts that most mortal minds remain blissfully incapable of knowing the existence of. 
+
+The patron need not be aware of your existence or invested in it for their power to have affected you, fundamentally warping your mind and granting you powers. Most that would have this opportunity have their mind shattered, left tattered and insane by the experience, but you’ve managed to hang onto some semblance of sanity and wield the power grafted into your mind.
 #### **The Tempest**<sup>(KT)</sup>
+You have made pact with a tempestuous being, born of wind and rain: an ancient elemental, powerful storm giant, or perhaps a demigod of disagreeable weather. What they sought through you may vary, but the mere touch of their powers causes the storm winds to bend the knee. 
 
+
+Such powers tend to be far better at calling the chaotic power at their disposal than calming it, and many who ride the tempest will find the same is true for them, leaving destruction in their wake if they are not careful in how the use their power... if they even care about what remains in their wake.
 #### **The Dragon**<sup>(KT)</sup>
+You’ve made a pact with a mighty dragon, who has bestowed you with a fraction of its terrifying power. The details of the arrangement varies widely—a metallic dragon may have made the pact to create a force of good or save a life, a chromatic dragon may have made their pact with you in exchange for service... or part of some manipulative plan that the minds of lesser mortals would struggle to comprehend. 
 
+Most often, these bonds are granted by ancient dragons steeped in immense power and knowledge, but sometimes partnerships of the lesser mortals and younger dragons have been recorded in more unique cases.
 #### **The Fey**<sup>(KT)</sup>
+Your patron is a powerful being from the fanciful and chaotic fey realm. Pacts with fey are often strange and eclectic in nature, granting some small fraction of the vast but mysterious powers of the fey onto a mortal for often unknowable reasons... or perhaps trivial reasons mortal minds may find equally as baffling. 
 
+These sort of beings include powerful fairies, ancient hags, and fey lords of all types, ranging from beings curious and mischievous to horrifying and terrifying, from exuberant and joyful to seething piles of hatred given form. One never knows exactly what to expect when making a pact with a fey, but can safely assume their life will never be quite the same.
 #### **The Knowledge Keeper**<sup>(KT)</sup>
+You have made a pact with being of ancient knowledge. The actual nature of this being can vary greatly, it can be a Pact with a sentient library, an ancient spirit, or perhaps even a lost god of knowledge. This is a pact for a Warlock that seeks something beyond simple power: they seek knowledge—ancient and unknown knowledge that has once and will again exist. 
 
+You can leverage this knowledge to know things that your mortal peers would consider miracles, delve the secrets that others do not even know exist, and (most importantly) perhaps even understand the philosophical mechanics of existence.
 #### **The Overseer**<sup>(KT)</sup>
-
-#### **The Ooze**<sup>(KT)</sup>
+You have made a pact with an all seeing being of the outer planes: an infamous creature whose very name is forbidden from being put to text by almighty coastal wizards, most known for its all seeing eyes, great paranoia, and reality warping dreams. The nature of your pact may be down to madness (yours, its, or both), or working toward some greater scheme of such brilliance that lesser minds cannot hope to comprehend.
+#### ~~**The Ooze**<sup>(KT)</sup>~~
 
 #### **The Chaos**<sup>(XLNEE)</sup>
+You have made a pact with a creature that revels in the madness and infinite possibility of the chaotic planes. Your patron could be a powerful slaad lord of Limbo, an ever-changing and roiling soup of impermanent matter and energy. Your patron could be a god of madness, such as Cyric, or a demon lord-in-exile in the depths of Pandemonium, a dark plane of tunnels carved by howling winds. Your patron could be a fearsome giant or celestial valkyrie of Ysgard, a heroic plane of soaring mountains, endless battles, and boundless creativity. 
 
+Unlike devils with their carefully crafted words and contracts, your patron is beholden to nothing but its twisted whims. Many chaos warlocks find their powers to be a cruel curse, but those who embrace the chaos learn that unpredictability is their greatest source of strength.
 #### **The Noble Genie**<sup>(XLNEE)</sup>
+Your pact is one that has been made by legendary advisors, philosophers, and tale-spinners of the desert lands, known throughout the land of Zakhara as sha’irs. Your patron is a noble genie, a creature whose spirit is infused with the primordial essence of the Elemental Planes. These creatures are the rarest and most powerful of their kind. They aim to achieve ultimate greatness, splendor, and the reverence of all beings. 
 
-#### **The Horned One**<sup>(MCDM)</sup>
-
+Though noble genies aren't gods, they feel deserving of such veneration from their servants. They're accustomed to wealth and opulence and treat their insatiable indulgence as an entitlement to their own power and grandeur.
 #### **The Swarm**<sup>(BoE)</sup>
+Malevolent beings such as mummies, vampires, and hags can unite the will of individual beasts and turn them to a single dark purpose, creating a swarm. Likewise, some swarms amalgamate naturally, as in the case of a rat king or a plague of locusts. 
 
+Regardless of their provenance, all swarms are faint echoes of the first Swarm. This inscrutable hivemind of insect-like creatures has infested the Ethereal Plane since time immemorial and perpetually gnaws at its walls, searching for a way into the Material Plane. No one can fathom the Swarm’s age or count its multitudes, but its purpose is clear: to assimilate all life. Warlocks who follow this patron share in its psionic power and can unleash its ethereal drones.
 #### **The Accursed Archive**<sup>(CFSA)</sup>
 
 #### **The Ashen Wolf**<sup>(CFSA)</sup>
@@ -3199,6 +3234,8 @@ You have made a pact with a fiend from the lower planes of existence, a being wh
 
 #### **The Wild Huntsman**<sup>(CFSA)</sup>
 
+#### **The Parasite**<sup>(HGMH)</sup>
+You have bonded, mind and body, with a rare and enigmatic being that calls your body home, whether you like it or not. Its origins are unknown; perhaps it came from a vat of biomantic mut-x, the nightmares of an astral projector, or a subterranean pool of primordial ooze. Survival is its watchword and you are its host.
 #### **Astral Griffon**<sup>(TGS)</sup>
 
 #### **The Many**<sup>(TGS)</sup>

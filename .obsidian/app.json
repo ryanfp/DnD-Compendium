@@ -12,5 +12,6 @@
   "propertiesInDocument": "visible",
   "trashOption": "local",
   "newFileLocation": "current",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true
 }
