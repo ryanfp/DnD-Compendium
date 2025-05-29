@@ -3236,29 +3236,35 @@ Regardless of their provenance, all swarms are faint echoes of the first Swarm. 
 
 #### **The Parasite**<sup>(HGMH)</sup>
 You have bonded, mind and body, with a rare and enigmatic being that calls your body home, whether you like it or not. Its origins are unknown; perhaps it came from a vat of biomantic mut-x, the nightmares of an astral projector, or a subterranean pool of primordial ooze. Survival is its watchword and you are its host.
-#### **Astral Griffon**<sup>(TGS)</sup>
-
+#### **The Astral Griffon**<sup>(TGS)</sup>
+You have made a pact with a powerful demigod of the Astral Plane: a Griffon whose control over space, creation, and pocket dimensions extends throughout the multiverse. It aims to expand its eclectic collection of treasures, both magical and mundane. These treasures may be worth very little in the average shop, but to the Griffon it holds a special place in history or the fabric of existence. Your binding may lead you far and wide in search of foreign artifacts as quickly as it would a nearby pub for a tarnished locket. Regardless of the task, the Griffon’s aims are rarely subject to distinctly good or evil motives.
 #### **The Many**<sup>(TGS)</sup>
-
+Your patron is a powerful entity composed of a multitude of heads. These heads provide unique strengths, such as the regenerative properties of a mighty hydra, or the bewitching gaze of a medusa. Your patron may consider you one of its estranged or forgotten heads, allowing you to do as you please, or compel you to work toward a shared goal as one of its own. Those that make a pact with a patron such as this may find beauty in patterns or matching sets, or become plagued with internal bickering and indecisiveness. Regardless, one thing is for certain: two heads are always better than one.
 #### **The Ancient Beast**<sup>E</sup>
 
 #### **The Archmage**<sup>UAH</sup>
+Your patron is an incredibly powerful magical practitioner — such as Blackstaff, Elminster, Fistandantilus, Gromphe Baenre, Mordenkainen, or Vecna — one whose skill and strength in the arcane arts has made them tantamount to a god. Such a mage may require minions to aid them in unlocking the great secrets of the multiverse, or perhaps they just need a subject for their eldritch experiments. 
 
+No matter your patron’s motivations, you have convinced them to take you on as an apprentice, being granted access to a modicum of their knowledge and power.
 #### **The Crone**<sup>UAH</sup>
-
+Your patron is an elder force of the Feywild that veers capriciously between her maternal and destructive instincts. Such a creature smothers those she holds dear with doting attention and rejects those set against her with ruthless cruelty, often vacillating between these extremes seemingly without prompt. You have chosen a spiteful and suffocating patron, one whose nature you find yourself mimicking more and more. Beings of this sort include Aradia, mother of witch- craft; Baba Yaga, the evil woman; and Hecate, queen of witches.
 #### **The Great Trickster**<sup>UAH</sup>
-
+You have pledged your allegiance to a spirit of mischief who delights in misdirection and misappropriation. Despite an irredeemable reputation, such patrons are not necessarily evil or even selfish. Some tricksters use pranks to teach others important moral lessons or commit lesser wrongs to serve the greater good. Most, however, are motivated primarily by their own entertainment and self-satisfaction. And selfishness. Beings of this sort include Anansi, Eshu, Huehuecoyotl, Loki, Pan, and Sun Wukong.
 #### **The Icebound**<sup>UAH</sup>
-
+You have made your pact with an entity that rules desolate tundras, ancient glaciers, and frozen mountain peaks, or even a portion of the Frostfell, the Quasi-Elemental Plane of Ice. The magic granted by your patron allows you to call upon the power of inhos- pitable places where the ice never melts and the frost expands to bury the frozen corpses of those foolish enough to brave its blizzards. Such beings — like Auril the Frostmaiden, the Ice Prince Cryonax, or legendary white dragons like Ingeloakastimizilian, better known as “Icingdeath” — seek to expand their arctic domains to freeze and rule the entirety of the planes they occupy, and will often recruit warlock minions to aid them in their conquest.
 #### **The Librarian**<sup>UAH</sup>
-
+You have made a pact with an enigmatic being that collects knowledge above all else. Whether it is a dragon with an unusual hoard, a fiendish purveyor of dark secrets, or the second face of a god of knowledge, your patron desires to know everything — and maybe, so do you. Your pact grants you the chance to learn far beyond your mortal scope, and as long as you seek what your patron does not yet know, such knowledge will remain within your reach.
 #### **The Titan**<sup>UAH</sup>
+Your patron is a being of unfathomable size, age, and strength, such as an astral dreadnought, an empyrean, a kraken like Slarkrethel, or a tarrasque. Titans such as these are quasi-deities created by gods, whether through the union of two deities, being manufactured on a divine forge, constituting from blood spilled from a god, or becoming manifested through divine will. Most often, the creators of a titan come to see it as a threat and imprison it with the intention of one day unleashing it on their enemies. 
 
+A titan who seeks a pact with a warlock is usually one who desires escape from its imprisonment, most often to take vengeance on its creator. However, captivity and solitude may instead cause madness to bloom in the titan, who may seek escape so that it can consume all of existence. In exchange for the breaking of its chains, the titan grants the warlock increased size and strength, often accompanied by its horrible hunger.
 #### **The Lantern**<sup>(OTG)</sup>
+Warlocks who make a pact with a powerful spirit are able to tap into the magic that flows through the Spirit Realm. These warlocks are known by the special lanterns they carry—lanterns that burn with the essence of their patron. The illumination of this vessel carries with it the attributes of the spirit, granting the warlock an array of abilities. 
 
+When spirits enter pacts with people, there is often more to it than generosity. Spirits powerful enough to lend out bits of their magic do so for a variety of reasons. Perhaps the spirit is beholden to do so due to a bargain or curse. It could be that the spirit needs allies (though they might not readily admit it). Or maybe they simply see something in you that amuses them. The things that motivate spirits are as varied as they are. And truly powerful spirits can be inscrutable.
 #### **The Cosmos**<sup>(GTD)</sup>
-
-#### **The Flesh**<sup>(GTD)</sup>
+Some warlocks gain their eldritch power from the very cosmos, answering to entities of space, the constellations, planets, and moons. A warlock swearing fealty to a Cosmic patron typically believes they speak to gods, or god-like beings, but these entities are shrouded in mystery, their appearance incomprehensible and horrible, and their divine power is bestowed into the warlock from the stars and galaxies beyond.
+#### ~~**The Flesh**<sup>(GTD)</sup>~~
 
 ## Warlord
 *Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*(**Mystic Arts,** KibblesTasty, **Zaelos**, **Laser Llama**)
