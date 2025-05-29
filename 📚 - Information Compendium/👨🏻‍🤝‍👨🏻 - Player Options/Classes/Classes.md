@@ -3314,7 +3314,7 @@ Warlord (MysticArts)
 #### **Lancers Initiations**
 #### **Pawns Initiations**
 #### **Rooks Initiations**
-## ~~Witch~~
+## Witch
 ### *Valda’s Spire of Secrets*
 Black
 Blood
