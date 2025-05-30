@@ -1011,7 +1011,7 @@ Some dragons wage war, and others hoard treasure. Few, however, learn to cultiva
 *At a local scale, druids are organized into circles that share certain perspectives on nature, balance, and the way of the druid.*
 #### **Circle of the Land**
 The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle’s wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your magic is influenced by the land where you were initiated into the circle’s mysterious rites.
-#### **Circle of the Moon** 
+#### **Circle of the Moon**
 Druids of the Circle of the Moon are fierce guardians of the wilds. Their order gathers under the full moon to share news and trade warnings. They haunt the deepest parts of the wilderness, where they might go for weeks on end before crossing paths with another humanoid creature, let alone another druid.
 
 Changeable as the moon, a druid of this circle might prowl as a great cat one night, soar over the treetops as an eagle the next day, and crash through the undergrowth in bear form to drive off a trespassing monster. The wild is in the druid’s blood.
@@ -1421,6 +1421,45 @@ Magic and guns aren't so different. If arcane power is like gunpowder and a spel
 Accuracy means different things to different people. For you, true accuracy isn't necessarily in hitting a target on the first shot, but might include hitting the mark after the bullet bounces around a dozen times. Your attacks are just as dangerous if they miss, or even after hitting their mark, as others' are while they're still in the air.
 #### **White Hat Creed**
 Some gunslingers live by a code and expect others to do the same. These gunslingers, known as white hats, sometimes serve as agents of local or regional law but never hesitate to do what's right no matter what the rules say. Despite their affinity for deadly weapons, white hats prefer to keep their friends safe and take their enemies in unharmed—a preference they find their enemies aren't often inclined to oblige.
+## Illrigger
+*The archdevils who rule the Seven Cities of Hell scheme endlessly. Each eternally plots to bring the others to heel—to ascend to the Throne of Hell, unite the Seven Cities and every infernal being living there, and lead an inexhaustible army of devils across the timescape until all worlds burn. These archdevils’ elite operatives are the illriggers. Knights, assassins, mages, and terror — commandos of Hell, illriggers command the battlefield, disrupt enemy factions, and carry out their archdevil’s infernal will. (**Source: MCDM**)*
+
+*Together, they created the Order of Desolation—knights sworn to serve Hell first, their patron archdevil second. Those accepted into the Order of Desolation become comrades with every other illrigger, regardless of which archdevil they serve. Each archdevil has grand temples, underground fanes, secret societies, and sinister cults, all with leaders fanatically devoted to the archdevil who grants them their power. But the Order of Desolation stands above the petty political squabbles dividing the Seven Cities. Members of the Order of Desolation, also known as the Desolate, are expected to be intelligent, resourceful, tactical, and manipulative. The order was founded to give the archdevils capable agents who could act independently across the timescape, free from the direct control of their patron. An illrigger has many powerful abilities granted by their archdevil, but more precious is their patron’s trust. Each illrigger is expected to sow discord, pain, strife, deceit, and fear without instruction or supervision. It’s not unusual, therefore, for a Desolate to first rely on other order members—regardless of which archdevil they serve—before turning to an institution devoted to their own archdevil .* 
+
+### <u>Subclasses - Diabolic Contracts</u>
+
+*Those who walk the path of Hell may gain the powers of an illrigger purely through their own devotion. No oath is necessary, no mentor—a fledgling illrigger might not even be aware the Order of Desolation exists. But true acceptance as a Desolate means swearing an oath to a specific ruler of Hell. This usually requires a senior member of the order to perform an elaborate ritual, but a dedicated illrigger might attract the attention of an archdevil by doing deeds of great treachery on their own. At some point on the illrigger’s journey, be it through ritual or deed, they find themselves face-to- face with one of the rulers of the Seven Cities. When they do, a contract must be signed in blood—usually the knight’s own. This binds the itinerant knight to the Order of Desolation and adds their name to the Lists of Hell .*
+
+*Though this experience can be intimidating, the rulers of Hell are usually easy masters and ask little from their chosen. The busy rulers of the Seven Cities pay little heed to the daily lives of their illriggers. Even breaches of precepts are overlooked; as long as the knight sows discord and opposes the Celestial Host, they successfully advance Hell’s agenda.*
+
+#### **The Ascended**
+*Architects of Ruin are cool and calculating arcane knights who serve Asmodeus, deploying spells, steel, and subterfuge to win at any cost.* 
+
+His Architects of Ruin work to make Hell’s enemies seem outnumbered and outmaneuvered. These illriggers are skillful spellblades on the battlefield, though some employ tactics such as research, infiltration, and propaganda to play mind games with their quarry. When an Architect of Ruin finally confronts an enemy, the advantage is theirs—they have studied, prepared, and gripped fate within their gauntlet, forcing it to favor them. They hungrily seek the dark arts to arm both themselves and Asmodeus with the impossible 
+#### **Hellspeaker**
+*The charismatic and manipulative Hellspeakers serve Moloch as they slip about the battlefield, coercing enemies into becoming unwitting allies.* 
+
+Moloch’s illriggers are silver-tongued enchanters, lulling his foes to complacency with sorcery and subterfuge until they wake and find themselves under the command of the Order of Desolation. These Hellspeakers train in the art known as the Red Cant or Hell’s Cant. By understanding their enemy and through weaving subtle sorceries into normal speech, Hellspeakers can make their foes feel, think, or do nearly anything to accelerate Hell’s victory. 
+
+Across the timescape, Hellspeakers enjoy a reputation as smiling rogues and swashbuckling villains. An asset in any negotiation, Hellspeakers know that in a world of lies, the truth can be as potent a weapon as steel .
+#### **Painkiller**
+*The heavily armored death troopers of Hell, Painkillers serve Dispater, leading from the front of every major infernal battle.* 
+
+Dispater rules Dis, the City of War. When Hell invades another world, Dispater’s army does the fighting and dying. His Painkillers are master strategists who lead from the front, inspiring terror and awe in their soldiers. The imperious Painkillers are full of pride and hubris, and they often obsess over their personal appearance. 
+
+Though among the most chivalrous of the illriggers, a Painkiller’s gallantry is twisted. They accept and honor challenges to single combat, and swiftly punish any who try to interfere—but if losing, they don’t hesitate to cheat, and if winning, they arrogantly toy with an enemy before finishing them .
+#### **Sanguine Knight**
+*The blood-knights of Hell, Sanguine Knights serve Sutekh, Lord of Blood. Their sorceries drain their enemies’ life force, pouring this stolen vitality into infernal rituals to turn the tide of battle.* 
+
+Sutekh rules Naraka, the City of Blood. Recognized As the greatest sorcerer in hell, he carries the title Of High Sanguinary and rules from the Temple Of Vitality. He is a master of blood magic, and His inner circle of priests and wizards are the Bloodliches, undead spellcasters whose corporeal Forms turned to ash centuries ago and whose bodies Are crafted from solid blood. 
+
+Sutekh’s illriggers all belong to a cult known as The Chalice of Vitality. Knights of the Chalice drink Deeply of their enemies’ essence, draining it to power Their magics .
+#### **Shadowmaster**
+*The hidden assassins of Hell, Shadowmasters serve Belial and excel at stealth and disguise.* 
+
+Belial rules Gehennom, the City of Darkness. He strives to rule Hell through poison, torture, and assassination. His illriggers strike from the shadows or use deception to earn high-ranking positions close to powerful rulers. Many Shadowmasters run networks of spies and assassins who have no idea of the infernal provenance of their leader. 
+
+Shadowmasters are sworn not to reveal their true allegiance, and if need be, they must take their own lives to fulfill this oath. Many Shadowmasters prepare elaborate plans for their own assassination so that, should they risk discovery, their assassination obscures the truth. Of course, these killers never learn they were hired by their deceased target .
 ## ~~Herald~~
 ~~*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*~~
 
@@ -1743,7 +1782,7 @@ Reaper
 ### <u>Subclasses - Occult Traditions</u>
 
 *Each tradition that appears in the Occultist is an ancient legacy of magic, found deep within folklore and story. Every villager could tell you stories of Occultists and their traditions, and they are often seen in this context. Though villagers and the superstitious might fear them and their magic, they may be more likely to turn to them than a Wizard, for at least an Occultist makes sense to them, even if they are scared by their powers.*
-### *KibblesTasty* 
+### *KibblesTasty*
 #### **Witch Tradition**
 A Witch can be many things, and most often refers to someone that villagers find scary and weird, but at the heart of every crazed story there's a sliver of truth, and that truth is that Witches do indeed exist. 
 
@@ -1914,7 +1953,7 @@ The tenets of the Oath of the grave have been passed down for generations. This 
 
 _**Annihilate the Unholy.**_ The undead and those who foster them are unholy and wicked. Destroy them before they defile more than they have already
 
-_**Preserve the Righteous.**_ Death should not come early to those who have led a blessed life . Preserve the righteous, so they may live on without fear.
+_**Preserve the Righteous.**_ Death should not come early to those who have led a blessed life. Preserve the righteous, so they may live on without fear.
 
 _**Let Souls Pass On.**_ Every soul deserves its place in the afterlife. When you see a creature forced into undeath, let its soul go free.
 
@@ -3313,111 +3352,258 @@ By far the most prominent warmage house is that of the Pawns. Warmages who join 
 #### **House of Rooks**
 The clandestine members of the House of Rooks make adept spies, assassins, and scouts, though they might just as easily pick up jobs run by rogues and brigands. In addition to their suite of cantrips, Rooks are light on their feet and know a few tricks to magically open doors in utter silence.
 ## Witch
-### *Valda’s Spire of Secrets*
-Black
-Blood
-Green
-Purple
-Red
-Steel
-Tea
-Technicolor
-White
+*While others are blessed with magic, witches are cursed by it. Afflicted by some hateful arcana, whether accidentally or intentionally, witches are twisted inside and out by its daily tortures. With gruesome effort, they can warp this power into spells to wrack others with the same torture which plagues them. (**Source: Valda’s Spire of Secrets**)*
+
+*Almost without exception, witches are feared and hated. They are victim to a number of misconceptions about them, usually relating them to hags and other evil creatures of the night which prey on innocent people. As a result, known witches are in great personal danger and can usually be found dwelling on the outskirts of civilization where townsfolk seldom tread. This does little to stop witch hunting and burnings, but provides some measure of safety from them. In reality, very few choose to become witches, and many of them can hide adeptly in society, using their magic to fill a number of roles, from seer to healer to apothecary. Being accused as a witch carries grave consequences, no matter the validity of the claim, so wise witches move frequently, never residing in one place for too long.* 
+
+### <u>Subclasses - Hex Crafts</u>
+
+*While some warmages are fully self-taught, the majority join a house: a loose confederation of warmages who practice together and share secrets of the trade. Houses teach invaluable battlefield strategy, but each individual house also touts their own brands of tactics and styles of magical tricks. The House of Knights, for example, emphasizes armor and martial prowess, whereas the House of Kings emphasizes battlefield strategy. By way of metaphor, houses that value honor and teamwork above all else brand themselves after games of strategy, whereas those who epitomize self-reliance name themselves for games of chance. This division in the warmage houses is representative of a schism that dates back to the earliest warmage masters. Legend has it that the first two masters separated when one decided to found a college. The other, out of spite, built a casino outside its grounds.*
+
+#### **Black Magic Craft**
+Black magic is associated with hexes that cause pain and suffering, and spells that give rise to undeath. Harnessing such a craft can lend you great power, but inevitably carries a cost. Darkness cannot be contained, after all; it merely seeps forth from wherever it is kept.
+#### **Blood Magic Craft**
+Forbidden by most witch covens, blood magic centers on the use of dark spells and mortal hexes that draw from the spellcaster's very essence. It is fundamentally more perilous than other witch crafts, but its many risks come with copious rewards.
+#### **Verdant Magic Craft**
+Plants, nature, and things that grow are the domain of green magic. Normally a type of arcana championed by druids, some witches have a close tie to the powers of green magic and can coax plants and animals to do their bidding.
+#### **Purple Magic Craft**
+Purple magic holds sway over the domains of illusions and enchantments that take hold over people's minds, as well as anything that is not quite as it seems. Practitioners of this craft are puppet masters, shaping the apparent reality of those around them to their advantage.
+#### **Red Magic Craft**
+Arcane magic tied to channeling the elements is deemed red magic, and is extremely hazardous when used. Witches that specialize in this craft are among the deadliest spellcasters in existence, channeling their curse into unhindered arcane wrath.
+#### **Steel Magic Craft**
+Secret covens throughout the Material Plane practice their magic by drawing spells into their blades. Maniacally cackling and whirling their way across the battlefield, these witches weave their curses into a bloody tapestry whenever they bring their steel to bear.
+#### **Tea Magic Craft**
+Tea witches are among the calmest and friendliest of witches, radiating warmth and contentment despite their hideous faces and hollow souls. At their very worst, they can be cranky (if forced to drink their tea in a hurry), or twitchy (after too much tea), but even then, they are likely to look for peaceful solutions to their problems.
+#### **Technicolor Magic Craft**
+Technicolor Magic witches draw their power from the friendships they find around them. They have a penchant for collecting adorable animals of all shapes and sizes, which they will never endanger, no matter how dire the situation. Above all, these witches are defined by their relentlessly positive outlook, which empowers their arcana and spurs on their allies.
+#### **White Magic Craft**
+White magic is fundamentally good and benevolent for all living things. Witches that adopt this craft, in spite of the hateful curse that infects them, often dedicate themselves to healing and caretaking, with the intent of bettering the world.
 ## Wizard
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
+*Wizards are supreme magic-users, defined and united as a class by the spells they cast. Drawing on the subtle weave of magic that permeates the cosmos, wizards cast spells of explosive fire, arcing lightning, subtle deception, and brute-force mind control. Their magic conjures monsters from other planes of existence, glimpses the future, or turns slain foes into zombies. Their mightiest spells change one substance into another, call meteors down from the sky, or open portals to other worlds.*
 
 *Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
 
 ### <u>Subclasses - Arcane Traditions</u>
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
-#### **School of Abjuration**
-#### **School of Conjuration**
-#### **School of Divination**
-#### **School of Enchantment**
-#### **School of Evocation**
-#### **School of Illusion**
-#### **School of Necromancy**
-#### **School of Transmutation**
-#### **School of Graviturgy**
-#### **School of Chronurgy**
-#### **School of War Magic**
-#### **Bladesinger**
-#### **School of the Scribes**
-#### **Familiar Master**<sup>(VSS)</sup>
-#### **Magic Missile Mage**<sup>(VSS)</sup>
-#### **Mystic Savant**<sup>(VSS)</sup>
-#### **School of Chronomancy**<sup>(VSS)</sup>
-#### **School of Gastronomy**<sup>(VSS)</sup>
-#### **School of Somnomancy**<sup>(VSS)</sup>
-#### **School of Theurgy**<sup>(UA)</sup>
-#### **School of Lore Mastery**<sup>(UA)</sup>
-#### **School of Invention**<sup>(UA)</sup>
-#### **School of Onomancy**<sup>(UA)</sup>
-#### **School of Reawakening**<sup>(DAC)</sup>
-#### **School of Hemomancy**<sup>(DAC)</sup>
-#### **Cantrip Adept**<sup>(TOH)</sup>
-#### **Courser Mage**<sup>(TOH)</sup>
-#### **Familiar Master**<sup>(TOH)</sup>
-#### **School of Gravebinding**<sup>(TOH)</sup>
-#### **School of Black Powder**<sup>(TOH)</sup>
-#### **School of Liminality**<sup>(TOH)</sup>
-#### **School of the Spellsmith**<sup>(TOH)</sup>
-#### **Hellhunter**<sup>(TCEE)</sup>
-#### **School of Mimicry**<sup>(TCEE)</sup>
-#### **School of Numerology**<sup>(TCEE)</sup>
-#### **School of Court Magic**<sup>(FCG)</sup>
-#### **School of Siege Magic**<sup>(ECHH)</sup>
-#### **School of Wayfaring**<sup>(ECHH)</sup>
-#### **School of Infiltration**<sup>(CCS)</sup>
-#### **School of Creation**<sup>(KT)</sup>
-#### **School of The Unknown**<sup>(KT)</sup>
-#### **School of Chronomancy**<sup>(KT)</sup>
-#### **School of Innovation**<sup>(KT)</sup>
-#### **School of Pathology**<sup>(KT)</sup>
-#### **School of Theurge**<sup>(KT)</sup>
-#### **School of the Astronomical**<sup>(KT)</sup>
-#### **Beguiler**<sup>(XLNEE)</sup>
-#### **Mage Hunter**<sup>(XLNEE)</sup>
-#### **School of Reconstruction**<sup>(XLNEE)</sup>
-### Level Up: Advanced 5e
-#### **School of the Arcanist**
-#### **Mage**
-#### **Pyromancer**
-#### **School of Hibernation**<sup>(MCDM)</sup>
-#### **School of Protomancy**<sup>(BoE)</sup>
-#### **School of Esoteric Plasmology**<sup>(CFSA)</sup>
-#### **School of Dream Cartography**<sup>(CFSA)</sup>
-#### **School of Biomancy**<sup>(HGMH)</sup>
-#### **School of Material Magic**<sup>(TGS)</sup>
-#### **School of Wand Lore**<sup>(TGS)</sup>
-#### **School of the Spellforge**<sup>(TGS)</sup>
-#### **School of Blood Magic**<sup>(TDR)</sup>
-#### **The Grey Guild**<sup>UAH</sup>
-#### **School of the Fundamentals**<sup>UAH</sup>
-#### **School of Golemancy**<sup>UAH</sup>
-#### **School of Mnemomancy**<sup>UAH</sup>
-#### **School of Sigilsmithing**<sup>UAH</sup>
-#### **School of Theurgy**<sup>UAH</sup>
-#### **School of the Origami Mage**<sup>(OTG)</sup>
-#### **School of the Malfeasant**<sup>(GTD)</sup>
-## Vessel
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
+*The lure of knowledge and power calls even the most unadventurous wizards out of the safety of their libraries and laboratories and into crumbling ruins and lost cities. Most wizards believe that their counterparts in ancient civilizations knew secrets of magic that have been lost to the ages, and discovering those secrets could unlock the path to a power greater than any magic available in the present age. The most common arcane traditions in the multiverse revolve around the schools of magic. Wizards through the ages have cataloged thousands of spells, grouping them into categories called schools. In some places, these traditions are literally schools; a wizard might study at the School of Illusion while another studies across town at the School of Enchantment. In other institutions, the schools are more like academic departments, with rival faculties competing for students and funding. Even wizards who train apprentices in the solitude of their own towers use the division of magic into schools as a learning device, since the spells of each school require mastery of different techniques.*
 
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
+#### **School of Abjuration**
+The School of Abjuration emphasizes magic that blocks, banishes, or protects. Detractors of this school say that its tradition is about denial, negation rather than positive assertion. You understand, however, that ending harmful effects, protecting the weak, and banishing evil influences is anything but a philosophical void. It is a proud and respected vocation.
+
+Called abjurers, members of this school are sought when baleful spirits require exorcism, when important locations must be guarded against magical spying, and when portals to other planes of existence must be closed.
+#### **School of Conjuration**
+As a conjurer, you favor spells that produce objects and creatures out of thin air. You can conjure billowing clouds of killing fog or summon creatures from elsewhere to fight on your behalf. As your mastery grows, you learn spells of transportation and can teleport yourself across vast distances, even to other planes of existence, in an instant.
+#### **School of Divination**
+The counsel of a diviner is sought by royalty and commoners alike, for all seek a clearer understanding of the past, present, and future. As a diviner, you strive to part the veils of space, time, and consciousness so that you can see clearly. You work to master spells of discernment, remote viewing, supernatural knowledge, and foresight.
+#### **School of Enchantment**
+As a member of the School of Enchantment, you have honed your ability to magically entrance and beguile other people and monsters. Some enchanters are peacemakers who bewitch the violent to lay down their arms and charm the cruel into showing mercy. Others are tyrants who magically bind the unwilling into their service. Most enchanters fall somewhere in between.
+#### **School of Evocation**
+You focus your study on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some evokers find employment in military forces, serving as artillery to blast enemy armies from afar. Others use their spectacular power to protect the weak, while some seek their own gain as bandits, adventurers, or aspiring tyrants.
+#### **School of Illusion**
+You focus your studies on magic that dazzles the senses, befuddles the mind, and tricks even the wisest folk. Your magic is subtle, but the illusions crafted by your keen mind make the impossible seem real. Some illusionists — including many gnome wizards — are benign tricksters who use their spells to entertain. Others are more sinister masters of deception, using their illusions to frighten and fool others for their personal gain.
+#### **School of Necromancy**
+The School of Necromancy explores the cosmic forces of life, death, and undeath. As you focus your studies in this tradition, you learn to manipulate the energy that animates all living things. As you progress, you learn to sap the life force from a creature as your magic destroys its body, transforming that vital energy into magical power you can manipulate.
+
+Most people see necromancers as menacing, or even villainous, due to the close association with death. Not all necromancers are evil, but the forces they manipulate are considered taboo by many societies.
+#### **School of Transmutation**
+You are a student of spells that modify energy and matter. To you, the world is not a fixed thing, but eminently mutable, and you delight in being an agent of change. You wield the raw stuff of creation and learn to alter both physical forms and mental qualities. Your magic gives you the tools to become a smith on reality’s forge.
+
+Some transmuters are tinkerers and pranksters, turning people into toads and transforming copper into silver for fun and occasional profit. Others pursue their magical studies with deadly seriousness, seeking the power of the gods to make and destroy worlds.
+#### **School of Graviturgy**
+Understanding and mastering the forces that draw bod­ies of matter together or drive them apart, the students of the Graviturgy arcane tradition learn to further bend and manipulate the violent energy of gravity to their ben­efit, and the terrible detriment of their enemies.
+#### **School of Chronurgy**
+Focusing on the manipulation of time, those who fol­low the Chronurgy tradition learn to alter the pace of reality to their liking. Using the ramping of anticipatory dunamis energy, these mages can bend the flow of time as adroitly as a skilled musician plays an instrument, lending themselves and their allies an advantage in the blink of an eye.
+#### **School of War Magic**
+A variety of arcane colleges specialize in training wizards for war. The tradition of War Magic blends principles of evocation and abjuration, rather than specializing in either of those schools. It teaches techniques that empower a caster’s spells, while also providing methods for wizards to bolster their own defenses.
+
+Followers of this tradition are known as war mages. They see their magic as both a weapon and armor, a resource superior to any piece of steel. War mages act fast in battle, using their spells to seize tactical control of a situation. Their spells strike hard, while their defensive skills foil their opponents’ attempts to counterattack. War mages are also adept at turning other spellcasters’ magical energy against them.
+#### **Bladesinger**
+Bladesingers master a tradition of wizardry that incorporates swordplay and dance. Originally created by elves, this tradition has been adopted by non-elf practitioners, who honor and expand on the elven ways.
+
+In combat, a bladesinger uses a series of intricate, elegant maneuvers that fend off harm and allow the bladesinger to channel magic into devastating attacks and a cunning defense. Many who have observed a bladesinger at work remember the display as one of the more beautiful experiences in their life, a glorious dance accompanied by a singing blade.
+#### **Order of the Scribes**
+Magic of the book—that’s what many folk call wizardry. The name is apt, given how much time wizards spend poring over tomes and penning theories about the nature of magic. It’s rare to see wizards traveling without books and scrolls sprouting from their bags, and a wizard would go to great lengths to plumb an archive of ancient knowledge.
+
+Among wizards, the Order of Scribes is the most bookish. It takes many forms in different worlds, but its primary mission is the same everywhere: recording magical discoveries so that wizardry can flourish. And while all wizards value spellbooks, a wizard in the Order of Scribes magically awakens their book, turning it into a trusted companion. All wizards study books, but a wizardly scribe talks to theirs!
+#### **Familiar Master**<sup>(VSS)</sup>
+
+#### **Magic Missile Mage**<sup>(VSS)</sup>
+
+#### **Mystic Savant**<sup>(VSS)</sup>
+
+#### **School of Chronomancy**<sup>(VSS)</sup>
+
+#### **School of Gastronomy**<sup>(VSS)</sup>
+
+#### **School of Somnomancy**<sup>(VSS)</sup>
+
+#### **School of Theurgy**<sup>(UA)</sup>
+
+#### **School of Lore Mastery**<sup>(UA)</sup>
+
+#### **School of Invention**<sup>(UA)</sup>
+
+#### **School of Onomancy**<sup>(UA)</sup>
+
+#### **School of Reawakening**<sup>(DAC)</sup>
+As a member of the school of reawakening, you combine the forces of necromancy with the power of conjuration. By transforming the necromantic energies of the creatures you kill into completely new conjurations, you bridge the gap between these two school of magic, creating a hybrid school that combines elements of both Conjuration and Necromancy. As you progress, you learn to shape together ever more powerful conjurations.
+#### **School of Hemomancy**<sup>(DAC)</sup>
+The School of Hemomancy studies the ancient arcane art of blood magic. As you select this tradition, you learn to manipulate your own life force so that you may manipulate the life force of others. As you progress through this school, you learn how to transform that vital energy into a force of immeasurable power, capable of defeating even the greatest of foes.
+#### ~~**Cantrip Adept**<sup>(TOH)</sup>~~
+
+#### **Courser Mage**<sup>(TOH)</sup>
+A tradition more focused on stalking prey than reading dozens of books, courser mages generally choose more subtle spells that aid in finding or hiding from their enemies. They learn to imbue their arrows with spell energy to deliver more deadly shots.
+#### **Familiar Master**<sup>(TOH)</sup>
+Each wizard has a strong connection with their familiar, but some mages eschew specializing in a school of magic in favor of forming a powerful bond with a familiar. This bond allows the two to work in tandem in ways that few arcane practitioners could even dream of. Those who encounter such a familiar never look at a rodent or bird the same way again.
+#### **School of Gravebinding**<sup>(TOH)</sup>
+While most wizards who desire power over the dead focus their efforts on necromancy, there are other, rarer, paths one can choose. Gravebinders focus their efforts on safeguarding tombs and graveyards to ensure the dead remain at rest and the living remain safe from the dead. When undead rise to prey upon the living, a gravebinder hunts downs the abominations and returns them to their eternal slumber.
+#### **School of Black Powder**<sup>(TOH)</sup>
+The school of black powder bridges magic and technology. Wizards of this school form a magical bond with a firearm, allowing them to channel their magic through the weapon to enhance its effects. Students go beyond simple offensive magics, using their black powder magic to great utility in aiding allies and hindering foes. Practitioners of this school refer to themselves as powdermancers, though many folk refer to all spellcasters with an affinity for firearms as “gun mages,” not fully understanding firearms or the differences between the various magical disciplines and styles that utilize them.
+#### **School of Liminality**<sup>(TOH)</sup>
+Liminal spaces are spaces on the boundary, at the edge between what’s real and what’s unreal. A liminal space can be neither here nor there, and yet be both here and there at the same time. Stories of liminal spaces are common across cultures, though their true nature often isn’t recognized by the uninitiated: the stranger who appears suddenly at a lonely crossroads, the troll that snatches at unwary travelers from a hiding spot beneath a bridge where no such hiding spot exists, the strangely familiar yet unsettlingly different scene that’s sometimes glimpsed in a looking glass. 
+
+These are only the most obvious encounters with liminal spaces! Most liminalities are more easily overlooked, being as unconscious as the heartbeat between waking and sleeping, as fleeting as drawing in breath as an apprentice and exhaling it as a master, or as unassumingly familiar—and as fraught with potential—as a doorway that’s crossed a hundred times without incident. 
+
+Those who specialize in liminal magic are known as liminists. They’ve learned to tap into the mysticism at the heart of spaces between spaces and to bend the possibilities inherent in transitional moments to their own ends. Like filaments of a dream, strands of liminality can be woven into forms new and wondrous—or strange and terrifying.
+#### **School of the Spellsmith**<sup>(TOH)</sup>
+Some wizards pride themselves on being spell artisans, carefully sculpting the magical energy of spells like smiths sculpt iron. Focusing on the artistry inherent in spellcasting, these wizards learn to tap the magical energy of spells and manipulate that energy to amplify or modify spells like no other arcane practitioners.
+#### **Hellhunter**<sup>(TCEE)</sup>
+Some wizards dedicate their lives to studying negative energies, chthonic planes, and fiends of all types. These mages are known for their acumen in navi- gating devilish agreements, wresting demon power, and hunting fiends of all kinds. Those who immerse themselves in the mantle of the hellhunter enter into a lifelong pursuit of understanding, harnessing, and utilizing all power that becomes available to them through the wicked realms of existence - by any means possible. Tasha herself is a hellhunter who has garnered quite a reputation amongst the fiends of the negative planes, known for outmaneuvering archdevils and strong arming even the most powerful demon princes.
+#### **School of Mimicry**<sup>(TCEE)</sup>
+The mimic. A devious hunter, every rogue’s nightmare, and the last thing some creatures see before being swallowed whole. The first mimics were created by powerful mages, and they were intelligent creatures, combining tactical prowess with an all-consuming hunger to create terrifying and powerful devourers. While the secrets of how to create those beings have been lost to time, some mages have passed down a similar tradition that allows even novice wizards to create the monstrosities that many dungeon delvers have become familiar with, commanding these monstrosities as subordinates through sheer power of will.
+#### **School of Numerology**<sup>(TCEE)</sup>
+To you, the world is a lattice of systems, a complex construction of mathematical interactions. Numbers have meaning and power, and the weave of magic that permeates the multiverse is no different. Some scholars believe that the world’s ley lines are arranged in a mathematical pattern which, if understood, can yield great magical power. In the World of Eberron, the Draconic Prophecy is studied by mages, dragons, and scholars of all kinds. In the intricate markings of the Prophecy manifested across the world, could there be some numeric pattern just waiting to be understood? 
+
+The number of creatures nearby, the shape of the room, or even the hour of the day might all be factors that shape the searing flames of burning hands or guide the subtle influence of charm person. Numerologists, sometimes known as math magicians, use divination magic to observe the physical world around them, estimating and calculating potential interactions with the weave. The numbers change with every passing moment, however, forcing a numerologist to plan ahead and think as fast as a lightning bolt.
+#### **School of Court Magic**<sup>(FCG)</sup>
+Court magic wizards, sometimes called fey hedges, study magic in the Feywild. Many mortals attempt to learn the ways of the fey, but most fail. A fey hedge is the rare exception who is actually able to master some of the magic of the Feywild. Learning magic outside of the halls of magical universities allows these wizards to have a more practical view of magic, far away from the theories that guide traditional schools of magic. 
+
+Fey hedges do not focus on brute force in their magic. Instead, these wizards use the fluidity that they’ve learned from years of study to elude both magic and physical attacks. Fey hedges are comfortable in extended combats, often playing mind games with their enemies while waiting for them to make mistakes. 
+
+Most fey hedges have a particular mentor from a fey court that spearheads their training. Use the Fey Court Mentors table to determine or inspire the type of fey that was your mentor.
+#### **School of Siege Magic**<sup>(ECHH)</sup>
+War has been a constant throughout the ages, and you don’t imagine that will change any time soon. You likely weren’t drawn to the thrill of battle, so much as you found your calling, and eventually your home, in the camaraderie shared between your fellow soldiers. Other wizards are certainly employed in armies but battles aren’t decided by them, regardless of what they think. Let the war mages and front line fighters seek their glory in the muddy fields. It is the siege weapons, unrelenting and unstoppable, that break the back of the opposing army. You, your weapons, and the troops you command, are what win the day.
+#### **School of Wayfaring**<sup>(ECHH)</sup>
+Wayfaring is a common profession among wizards, just as many become scholars, counselors, or war mages. Using teleportation spells to ferry the wealthy and powerful from place to place can be a less prestigious job than most others though, and certainly less glamorous. In fact, many who start in the profession leave at the first opportunity, in search of greater renown of their own. However, wayfaring gives them a reason to see the world, and the planes, and pays them handsomely to do so, causing a select few to stay. Their familiarity with teleportation magic also allows way- farers to manipulate it in ways that other wizards might never have considered.
+#### **School of Infiltration**<sup>(CCS)</sup>
+You use your magic as a tool for tactical operations, experimenting and exploring the possibilities of how you can infiltrate the most well-guarded locations. Followers of this tradition learn how to manipulate and disable arcane devices in their path and are cunning with their spell usage.
+#### **School of Creation**<sup>(KT)</sup>
+Wizards that belong to this order of thought seek to advance the application of magic through the merging of mechanical and magical pieces. They share much in common with Inventors in mind set, but delve deeper into the knowledge of magic, relying more heavily on it to power their mechanical inventions, and in turn creating mechanical inventions that more primarily serve to further their magic. 
+
+They often seek to look beyond tradition and common knowledge, to seek out new spells and new ways of doing things. The value of new research and new technology is often more than dusty old tomes unless those dusty old tomes contain secrets of those who had reached the heights they seek in ages gone by.
+#### **School of The Unknown**<sup>(KT)</sup>
+To the order of the unknown, a cautionary tale where everyone went mad is called "a lead". These strange folk delve what is best left forgotten, seeking answers to questions best left unspoken. 
+
+Sometimes compelled down the path by some grave purpose, sometimes by nothing more than an insatiable curiosity, and sometimes even stumbling upon it by accident, what is always true is that once set on this path, few find themselves able to leave it. Wizards that go this path master Psionics, but master it in a completely different way and uniquely wizardly way, bringing psionics into their frame of reference of ordered spells slots and diligent study.
+#### **School of Chronomancy**<sup>(KT)</sup>
+Time is one of the most fundamental forces of the universe, an intrinsic and fundamental aspect of reality. As such, it is a domain that some Wizards cannot resist tampering with, delving its secrets, and trying to unlock its functions. Though it is difficult to influence, those that follow this order find ways to influence its relentless passage, borrowing bits and pieces from it as it passes by for later use. Time may be inviolable and relentless, but that is no match for the tinkering of a dedicated Wizard. 
+#### **School of Innovation**<sup>(KT)</sup>
+Wizards are, by and large, creatures of tradition and progress. Naturally, there are exceptions to that rule. Wizards of the School of Innovation treat tradition as a useful stepping stone - something to be trod on.
+
+These Wizards may make their peers grumble and harumph, but more often than not, it's their names in the Spell Books of the future. While many a Wizard of Innovation was last seen saying 'I have a great idea' those that survive their great idea and return often return with precious new magical understanding.
+
+While by and large Wizards tend to lean to lawful, a School of Invention Wizard tends to regard rules, traditions, and laws with some degree of ambivalence at best, and actual disdain at worst. They tend to be neutral or chaotic, but can be found in any stripe.
+#### **School of Pathology**<sup>(KT)</sup>
+Curious minds delve in the mysteries of the world, and few mysteries capture morbid fascination of mortals more than the inner workings of diseases and plagues. Those that understand the nature of diseases and pathogens are precious to any society, but, at the same time, are often shunned and feared as much as any necromancer might be. It is often their superior understanding of transmission that dooms their reputation, for arriving before the plague is widely understood oft leaves them the scapegoat of the superstitious.
+
+But superstitious are born from a seed of truth, and some of those that delve the mysteries of pathogens and diseases do so for the darkest of purposes, for with great knowledge comes great power.
+#### **School of Theurge**<sup>(KT)</sup>
+Wizards of this pursuit delve what other Wizards consider untouchable. The secrets of the divine. They discover and delve the paths of power that divine magic activates, and seek to recreate it through precise understanding and deep knowledge. Some are deeply religious, devoted to gods and seeking to understand them at a higher level, some follow unrestrained academic curiosity, and yet others seek this power for blasphemous reasons.
+#### **School of the Astronomical**<sup>(KT)</sup>
+The Astronomical Order are Wizards that specialize in the study of the celestial bodies and their movements, interpreting mystical meaning and understanding aspects of nature and magic from their order. They draw on the stars and the insights they glean from these celestial mysteries empower their magic. Often found buried in star charts and ancient tomes, they seek to delve into the secrets of ancient skies and uncover new insights into the infinite depths above.
+#### **Beguiler**<sup>(XLNEE)</sup>
+Those who think charm and misdirection are the trades of the bard and warlock never heard of the arcane colleges specializing in Beguiling magic. The tradition blends enchantment and illusion magic, rather than specializing in either of those schools. Followers of this tradition are known as beguilers and believe a brilliant mind beats a charming personality. They see magic as a way to persuade, deceive, entertain, and hide and believe fooling the mind is magic’s most potent use. Beguilers are suave and adept spies, equipped to infiltrate any organization or compound without detection or with minimal casualties.
+#### **Mage Hunter**<sup>(XLNEE)</sup>
+Some societies deem the practice of magical arts as sacred and too dangerous to be taught to any but a worthy few. In order to prevent the weave from being defiled by renegades some institutions regulated the use of magic in their region. Those who tracked and dealt with offending spellcasters were known as mage hunters. 
+
+With the influx of many new creatures and magics from beyond the Material Plane, mage hunters of today have shifted their focus from regulators to preservers. They strive to hunt down and eliminate magical threats and extraplanar entities, vowing to never allow corrupt and twisted magics from ravaging their homeland.
+#### **School of Reconstruction**<sup>(XLNEE)</sup>
+You focus your study on manipulating magic in a way that turns the destructive power of arcane evocation into rejuvenating magic. For others, this gift manifests from faith, a pledge to a patron, or a deity’s behest. Many arcane colleges have unlocked these regenerative powers from tireless hours poring over holy texts and alchemical manuals. While most wizards find outlets as talented enchanters, military artillery, or ward-makers, the students of this school could apply their versatility to any employment in nearly every setting, even that of an adventurer.
+#### **School of Protomancy**<sup>(BoE)</sup>
+Magic predates the written word, the founding of wizard colleges, and even the invention of spells. Long before magic was formalized, mages funneled the bare threads of magic into protospells, fundamental expressions of what would later become the schools of magic. These spells predated the invention of material components and even the spellbook; as such, the first wizards etched protospells into their minds, consuming their memories as an important component of their spells. The contemporary School of Protomancy seeks to rediscover the art of proto-magic through research and experimentation. Its protomages have no guidance for this forgotten art, but hope to learn from clues left in the structure of schools of magic.
+#### **School of Esoteric Plasmology**<sup>(CFSA)</sup>
+
+#### **School of Dream Cartography**<sup>(CFSA)</sup>
+
+#### **School of Biomancy**<sup>(HGMH)</sup>
+Practitioners of biomancy tend to have a growth mindset and an endless propensity for self-improvement. You likely bear symptoms of this continual desire to improve yourself: patches of scales, manes of peacock feathers, hawk’s eyes, adhesive palms, gills… the list is as long as there are ideas to try. Biomancers are masters of biomantically-enhanced surgery, transplanting specially-grown (or amputated) appendages onto other creatures.
+#### **School of Material Magic**<sup>(TGS)</sup>
+Some wizards abandon the limitations set by magic schools and instead focus on the binding force that holds everything together. These mages spend their efforts weaving and recreating matter from thin air to create art as well as utility. They value the craftsmanship taught by artisans around the world and consider their skills and creations to be a form of magic all its own. 
+
+Some arcanists focus on altering the living, whereas wizards of material magic focus on creating and enhancing the inanimate. These mages see beauty in the possibility presented by raw materials, and are found as readily studying ancient lore as they are in the center of a bustling forge. Many followers of this tradition take great care and pride in their component pouches, and find great kinship among bards, artists, and other craftsmen.
+#### **School of Wand Lore**<sup>(TGS)</sup>
+Some children grow up sword-fighting with sticks and become soldiers, but you’ve learned how to turn a simple stick into something more powerful than a blade. The study of wand lore delves deeper into old magic, beyond the normal lists of components and incantations, and into the rich history and tradition of wandcraft. As a wizard of wand lore, you know that a mage’s true power can be amplified with the right tool: for you, that tool is a wand of your own creation.
+#### **School of Blood Magic**<sup>(TDR)</sup>
+Considered taboo by many societies and magic practitioners, the use of blood magic—also known as hemocraft—is a rare art that harnesses the latent powers of a creature’s vitality to fuel and amplify the caster’s own capabilities, while manipulating and weakening the bodies of enemies from the inside. Some of the more macabre mages seeking to empower their arcane pursuits turn to hemocraft as a means of bolstering their spells, giving their own life’s blood to reach new heights of frightening magical prowess.
+#### **The Grey Guild**<sup>UAH</sup>
+Wizards of the Grey Guild arcane tradition eschew a focus on one specific school of magic in favor of an arcane specialty in duplicity and espionage. In some worlds, all wizards of this tradition belong to one organization with its own overarching goals and schemes while in others, the Grey Guild is a methodology used by individual wizards and arcane organizations in competition with one another. Regardless of which is the case in your world, wizards of the Grey Guild have a bad reputation amongst wizards of other traditions given their proclivity for hoarding magical secrets from other spellcasters.
+#### ~~**School of the Fundamentals**<sup>UAH</sup>~~
+~~The School of Fundamentals is comprised of wizards who believe that the greatest mages are those who have mastered the foundations. While other schools delve into study of a particular type of spell, you have focused your efforts on the building blocks of spell- casting: cantrips. Detractors of this school mock the fundamentalists as those who waste their time with the minutiae of spells that the most inexperienced of apprentices could cast. You know, however, that the ability to cast a spell shares little in common with the mastery required to cast it with precision and potency.~~
+#### **School of Golemancy**<sup>UAH</sup>
+Wizards of the school of golemancy strive to create artificial life and intelligence through purely arcane means. Though such golemancers see necromancy spells that bring the dead back to life or create undead as useful tools, they are unsatisfied with just restoring consciousness or creating a facsimile of life. They spend years studying consciousness, and weave enchantments that allow them to create a personality and persona. 
+
+As a golemancer, you have built a custom golem, care- fully choosing its materials and components, installing specialized augments, and finally applying the persona you so precisely crafted. A golem is often a reflection of its creator, telling you much about their intentions and sensibilities; clay is used to denote protection of people, flesh used in a creator’s attempt to create humanoid life, iron used for guardians of its creator’s person and belongings, and stone used for stewards of particular locations. No matter what materials and features your golem possesses, you have created a companion that will safeguard and fight alongside you for the remainder of your days.
+#### **School of Mnemomancy**<sup>UAH</sup>
+Wizards of the School of Mnemomancy wield the magic of memory, capable of being both bastions of knowledge and infiltrators of minds. As a mnemomancer, you augment your own ability to recall knowledge and experiences, while sealing the memories of your foes. As your mastery grows, you gain the ability to vividly experience others’ memories and borrow their capabilities, as well as alter memories as you see fit.
+#### **School of Sigilsmithing**<sup>UAH</sup>
+Sigilsmiths master a tradition of wizardry focused on the forging and enchanting of magic weapons and armor. Though there is debate as to whether this tradition was first practiced by giants or dwarves, it has been adopted by cultures throughout the multiverse, who have each incorporated their own magical specialties into the art. 
+
+In battle, a sigilsmith inscribes weapons and armor with temporary sigils that imbue magical abilities. Thus, wizards of this tradition are beloved by adventuring parties if they can be convinced to journey away from their workshops and arcane forges.
+#### **School of Theurgy**<sup>UAH</sup>
+You have a deep faith in the transcendent nature of the multiverse. Although you may honor a particular god or goddess, you recognize them as manifestations of a divinity that suffuses all reality. You feel most in touch with this divinity when working magic, which you view as a sacred act between the fabric of existence and all living beings. Theurgists are often at odds with their more orthodox colleagues from other traditions who prefer studying the laws of reality to meditating on its inscrutable nature.
+#### **School of the Origami Mage**<sup>(OTG)</sup>
+Origami Mages are wielders of a unique form of magic that combines precision, creativity, and imagination. With a flick of their wrist and a whisper of arcane words, they transform simple sheets of paper into awe-inspiring manifestations of elemental forces, mystical beings, and fantastical creatures. 
+
+Drawing inspiration from the mysterious elegance of origami, these mages are not bound by traditional spell components but instead rely on the meticulous manipulation of paper to channel their magical energies. Origami magic is not without its challenges. Mastery of this arcane discipline demands patience, dexterity, and a keen eye for detail. Each fold must be precise, each crease exact, for even the smallest imperfection can disrupt the flow of magic and render a spell ineffective. Yet, for those who persevere, the rewards are boundless.
+#### **School of the Malfeasant**<sup>(GTD)</sup>
+The path of the Malfeasant wizard unlocks eldritch abilities lesser spellcasters consider to be unnatural. Malfeasant wizards flout the restrictions of the Amethyst Academy which bar such forbidden magic. As a result, most hide from the Academy and the Silver Order, having been expelled from the school for their pursuit of such dark and dangerous magic.
+## Vessel
+*Vessels are, bearers of Wondrous otherworldly power in the form of Spirits bound Within their body and soul. With training, these adventurers Can learn to wield a fraction of their Spirit's amazing power. A rare occurrence in most worlds, mortal Vessels will likely never meet another of their kind unless they seek them out. The binding of an otherworldly Spirit is a deadly task, and is almost always done by a higher power or legendary mortal. (**Source: LaserLlama**)*
+
+*Bearers of this extraplanar power can learn to channel the wondrous abilities of the Spirit inside them. Through their force of will, they can allow small amounts of this power out, channeling it to defend themselves, produce eldritch magic, enhance their physical abilities, and influence friend and foe. However, the mark of a true Vessel is their ability to take on the appearance of the Spirit bound to their soul, known as an Archon Form. Through this wondrous transformation, they are able to directly wield the power of the Spirit within, and use its power to overcome obstacles and thwart foes.* 
 
 ### <u>Subclasses - Sealed Spirits</u>
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
-### Laser Llama
+*Within every Vessel is bound an extraplanar being of strange and wondrous power. No matter their origin, these immortal Spirits cannot be killed by conventional means. Instead, they are often bound to mortal flesh, forced to dwell within a body on the material plane. While many such Spirits are bound to their Vessel against their will, some choose to dwell within a mortal, lending them power in causes that align with theirs. No matter the reason, these otherworldly beings are the source of the power for the adventurers known as Vessels.*
+
 #### **The Ascended**
+When mortals attain heights of arcane power that allow them
+to ascend beyond their physical forms, they make themselves
+vulnerable to being sealed away. Often, these great sorcerers
+and archmages are punished by the deities of magic, and are
+imprisoned where they can no longer violate arcane laws.
 #### **The Cataclysm**
+At the dawn of time, elemental forces ran wild. Elder beings
+of pure air, earth, fire, and water rampaged across the world,
+shaping it by their destruction. These primordial elementals
+and elder genies were banished from the material plane, but
+always seek to return. When they threaten the mortal realm,
+great forces bind these elder elemental Cataclysms to hosts.
 #### **The Cursed**
+Condemned by the heavens for transgressions at the dawn of
+time, Cursed Spirits were wielders of overwhelming sinister
+power. Counted among these Spirits are demons, devils, and
+other vile spirits of the lower planes. Cursed pose a threat to
+the multiverse, and are sealed to prevent untold calamity.
 #### **The Fallen**
+Not all denizens of the upper planes serve the will of the gods
+that created them. Those who stray too far from the ordained
+purpose invoke divine wrath. These wayward celestial beings
+are branded as Fallen Spirits and hurled from the heavens to
+be imprisoned in mortals to atone for their sins. Some swear
+revenge upon the heavens while others seek reconciliation.
 #### **The Formless**
+Before the world was shaped, horrible things slithered
+about the darkness. Formless monsters with only one
+desire, to consume. These shapeless entities of hunger
+are known as Formless, and even now, they gnaw the
+roots of the world, trapped below the material plane.
 #### **The Trickster**
-
-
-## Illrigger MCDM
-
+The beings of the Feywild are known for their whimsical and
+ephemeral ways, often unpredictable to mortals. Most of the
+faerie are content to follow these self-imposed rules and only
+interfere with mortals when they are approached. However,
+the Fey known as Tricksters cannot help but spread discord
+and need to be sealed away to limit the chaos they spread.
 ## Jaeger , Monster Hunter? # Drizzt's Travelogue of Everything Volume 1
+

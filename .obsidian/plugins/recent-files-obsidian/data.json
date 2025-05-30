@@ -5,6 +5,14 @@
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
     },
     {
+      "basename": "Accursed",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md"
+    },
+    {
+      "basename": "Curse of Animation",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Animation.md"
+    },
+    {
       "basename": "Exhaustion Mechanics",
       "path": "📚 - Information Compendium/📝 - Rules & Mechanics/Mechanics/Exhaustion Mechanics.md"
     },
@@ -105,20 +113,12 @@
       "path": "z_Templates/Format YouTube Link.md"
     },
     {
-      "basename": "Accursed",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md"
-    },
-    {
       "basename": "Curse of Combustion",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Combustion.md"
     },
     {
       "basename": "Curse of the Armament",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of the Armament.md"
-    },
-    {
-      "basename": "Curse of Animation",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Animation.md"
     },
     {
       "basename": "Curse of Mummification",

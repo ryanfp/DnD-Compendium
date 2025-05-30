@@ -11,13 +11,19 @@
             "id": "3a73ca7b9dac80c9",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 2,
               "stack": [
                 {
-                  "title": "Exhaustion Mechanics",
+                  "title": "Curse of Animation",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/📝 - Rules & Mechanics/Mechanics/Exhaustion Mechanics.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Exhaustion Mechanics\"}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Animation.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Curse of Animation\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Accursed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Accursed\"}",
+                  "eState": "{\"scroll\":104.95988464355469}"
                 },
                 {
                   "state": "{}",
@@ -566,18 +572,21 @@
       "obisidian-note-linker:Note Linker": false,
       "custom-sort:Toggle custom sorting": false,
       "iconic:Open rulebook": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "3a73ca7b9dac80c9",
   "lastOpenFiles": [
-    "📚 - Information Compendium/📝 - Rules & Mechanics/Mechanics/Exhaustion Mechanics.md",
+    "image.png",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Animation.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
+    "📚 - Information Compendium/📝 - Rules & Mechanics/Mechanics/Exhaustion Mechanics.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Circle of Visions.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Circle of Twilight.md",
     "Untitled.md",
     "tessssst/Templates.md",
-    "image.png",
     "README.md",
     "z_Templates/Insert Fancy Quote.md",
     "z_Templates/Untitled 5.md",
@@ -598,10 +607,7 @@
     "UNORGANIZED/Exploring Eberron.md",
     "z_Templates/Session Notes Template.md",
     "z_Templates/New File Auto Template.md",
-    "UNORGANIZED/EE.md",
     "templates/Untitled",
-    "z_Templates/Untitled 4.md",
-    "UNORGANIZED/Sourcebooks.md",
     "New Text Document.txt",
     "git clone",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed",
