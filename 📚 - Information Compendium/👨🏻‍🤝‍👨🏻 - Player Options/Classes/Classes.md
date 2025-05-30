@@ -951,7 +951,7 @@ For centuries, the pinnacle of mechanized vehicles was the apparatus of the crab
 From the earliest days of life, storms (and particularly lightning) have struck the creatures caught in them with awe and terror. The Thunderlords, by contrast, draw wild inspiration from the majesty of nature, and seek to, quite literally, capture lightning in a bottle.
 #### **Trapper Guild**
 Craftsmen are no strangers to turrets, bombs, and clockwork mechanisms, but the craftsmen of the Trappers' Guild raise this to a level of artistry. Given enough time and resources, a trapsmith can veritably blanket a room in dangerous implements, setting the stage to slay an intruder in a half-dozen unique ways. While the traps do the dirty work, the trapsmith is free to lounge about some distance away, enjoying a cold beverage and dreaming up new, dangerous designs.
-## Dracoknight
+## *Dracoknight*
 *Dracoknights are a people who created a magical bond with a dragon companion at the moment of its hatching, becoming lifelong companions. The incredible power a dragon possesses can be harnessed in many ways by these individuals for spectacular effects. But despite any tough odds, a dracoknight always knows she is not alone. **(Source: DM’s Guild)***
 
 *It is a magical connection that enhances both dracoknight and dragon. The dracoknight gains physiological traits associated with dragons, like the growth of scales, or occasionally belching motes of his dragon’s elemental breath. The dragon gains a greater sense of empathy, and grows to a far less solitary life than its reptilian brethren. The bond also creates a willpower, and often stubbornness, that far surpasses the sum of its parts.* 
@@ -1182,7 +1182,7 @@ In the tranquil groves where nature’s harmony sings loudest, there exists a ci
 Members of the Circle of the Petal are revered for their deep connection to the sacred dawn petal tree and their ability to evoke its serene splendor in both peaceful sanctuaries and in dire situations. These druids become conduits of life energy, channeling the essence of blossoms into healing balms, protective barriers, and devastating bursts of floral fury. Guided by the eternal cycle of growth, bloom, and decay, they embody the ever-renewing vitality of nature, ensuring that even in the darkest of times, hope blossoms anew like petals on the wind.
 #### **Circle of Contamination**<sup>(GTD)</sup>
 As druids are often in tune with nature and the natural order, most see delirium as a scourge upon the world. However, a rare few see the truth: the eldritch stones are an essential part of the natural order, one which works at a cosmic scale. Druids of the Circle of Contamination use the blighted rocks and contaminating Haze as a conduit for supernatural evolution. They have embraced the chaotic power of Delirium as an extension of the inherent chaos in the natural order, spreading the Haze while wielding it as a powerful ally to fuel their spells.
-## Evolutionist
+## *Evolutionist*
 *Evolutionists are ambitious warriors; who rather than building their strength through practice and training, improve their natural talents by enhancing and upgrading their body. They reject the idea that they should play the hand they’re dealt, instead seeking to change the game. Where most accept the body they are given, evolutionists aim to control it and push it past its limits. Each evolutionist has different methods and motivations for upgrading their body, but they all are connected by one common goal: evolution. (**Source: Crystalpunk Campaign Setting**)* is this needed or good? Is the flavor worth it
 
 *Evolutionists are defined by their yearning to improve their bodies through methods that go beyond mere training. They achieve this through a variety of means, from inventive technology and alchemy to ancient magics or even pacts with otherworldly beings. No matter the method, an evolutionist begins to change and alter their form by augmenting their body or growing completely new appendages. These upgrades allow evolutionists to overpower their enemies, either through raw enhanced capability or through unique tactics enabled by their non-standard biology. Evolutionists live a life of continual growth, utilizing the abilities they gain to seek methods to enhance their bodies even further.* 
@@ -1520,7 +1520,7 @@ This division’s primary responsibility is to execute creatures found guilty by
 This division’s primary responsibility is the investigation and prosecution of accused creatures in trials presided over by a Judge. They can also be hired by local governments and groups to mediate disputes and explore unknown areas.
 #### **Reformation Division**
 This division’s primary responsibility is to oversee the correction of prisoners a Judge has determined can be reformed. They most often do so by magically linking with the creature and showing them the correct behaviors by having the creature fight alongside them as an ally. They can also be hired to capture and transport problematic individuals.
-## Magus
+## *Magus*
 *Known by many names throughout the multiverse, those who are able to wield both sword and spell are collectively known as Magi. Rather than dedicate their lives to studying arcane magic or mastering martial techniques, Magi are dedicated to a middle path. Though they may never command the earth - shattering magic of an archmagi, or go toe to toe with a true master of the blade, a Magus is able to master a unique form of arcane combat only used by the members of their Order. Their signature style of magic allows them to channel spells through their weapon strikes, sense the presence of arcane magic in the world around them, and even strike the weaves of spells from the air before they can take effect.* Either LaserLlama or DM Guild, skim classes for mechanics but use KT SPellblade instead
 
 *Magi are mystical warriors who blend martial prowess with esoteric knowledge and spellcasting. Magi balance the pursuit of personal goals and relationships with their obligations to pursue the goals and ideals of the eldritch societies they belong to. Although their backgrounds may sometimes set them at odds against one another, magi are united by their commitment to a cause greater than themselves and a drive to master their magical abilities.* 
@@ -3015,7 +3015,7 @@ In the realm of magic, there exists a lineage of sorcerers whose blood bears an 
 At the onset of their journey and as they use their powers, Oni Kin begin to see subtle manifestations of their lineage’s traits—changes in appearance and temperament. However, as they channel their magic with more skill, these traits begin to intensify. Their skin may change, their eyes may glow with an eerie light, and their once-subtle features become more pronounced, bearing the unmistakable visage of an oni.
 #### **Delirium Soul Origin**<sup>(GTD)</sup>
 Delirium is naturally drawn to magic and can twist and augment its presence in unnatural and unpredictable ways. Some who ventured into the ruins of Drakkenheim are twisted by the eldritch powers and emerge infused with contaminated energies. They become a living vessel for the Arcane Anomalies and twisting realities found within the ruins.
-## Soulshaper
+## *Soulshaper*
 *Soulshapers are mystical spiritualists who can effortlessly manipulate the spectral energy of their soul and the souls of others. Their powers are awakened by a moment of sudden enlightenment, rarely found through meditation but more commonly realized through a near-death experience. Their powers continue to develop based on the emotion that revealed them, from serene acceptance to a furious desire for revenge. (**Source: Crystalpunk Campaign Guide**)*
 
 *The moment of awakening is different for every soulshaper, but it is always a moment of intense emotion. For some, this is a moment of acceptance; a resignation to their death before being saved by an outside source. Soulshapers who awaken this way feel a sense of calm each time they channel their powers—after all, each moment they are alive is a bonus, and every effect they can have is one they may not have had otherwise. For others, it is a moment of pure terror, where they will do anything in their power to survive and their soul responds. These soulshapers channel their powers on pure adrenaline and instinct, recalling the moment when they brushed with death. Others still are so overcome with rage that they begin using their powers before they even realize what they are capable of. Their pure desire for revenge for whatever reason drives the use of their powers, and every time they channel their abilities, they return to that blood-boiling moment of fury.* 
@@ -3607,3 +3607,32 @@ the Fey known as Tricksters cannot help but spread discord
 and need to be sealed away to limit the chaos they spread.
 ## Jaeger , Monster Hunter? # Drizzt's Travelogue of Everything Volume 1
 
+Sources:
+- Amethyst Dragon Book
+- Crimson Codex
+- Sylgar’s Guide to EE
+- Steinhardt’s Guide to the Eldritch Hunt
+	- **Jaeger Class**
+- Ryoko’s Guide to the Yokai Realms
+	- Tamer Class
+	- **Bender Class**
+- LaserLlama’s Expanded Subclasses (only if needing to add some)
+- Rokugan (if I get a copy)
+
+To-Do:
+- Type the rest of the subclasses
+- Add any extras classes from listed sources
+- Go through subclasses with Lex (possibly and Co.)
+	- Remove certain redundant vanilla classes if niche is filled
+		- Way of Four Elements Monk
+		- Beastmaster Ranger
+		- Psionic subclasses?
+		- Any cantrip special subclass
+		- Cook berserker into base barb?
+		- Cook bat
+- Add more subs if needed
+- Link each subclass and class
+
+Goal: 40 Classes with ~30-35 subclasses each (if average is ~50)
+	20-25 subclasses if average is ~40
+	
