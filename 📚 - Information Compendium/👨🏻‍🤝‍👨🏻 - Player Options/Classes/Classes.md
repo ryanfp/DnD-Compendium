@@ -3267,36 +3267,24 @@ Some warlocks gain their eldritch power from the very cosmos, answering to entit
 #### ~~**The Flesh**<sup>(GTD)</sup>~~
 
 ## Warlord
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*(**Mystic Arts,** KibblesTasty, **Zaelos**, **Laser Llama**)
+*Warlords are force multipliers for their companions. Some may be fearsome combatants, while others may never lift a weapon, but in either case their presence on the battlefield will drive their allies to new heights, guiding them safely through what would surely have been their doom. How victory is stolen from the jaws of defeat can vary, from inciting crazed zeal, to tempering an overeager charge, to pulling their friends out of the line of danger in the nick of time. The sole commonality is that a Warlord alone is but a man, while a Warlord with their companions is a legend. (**Source: Laser Llama**) give 20th lvl feature extra bonus action/reaction but only to use Warlord feature*
 
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
+*Alone, a Warlord is a minor threat, but with loyal companions to organize and command, the greatest Warlords are capable of toppling empires. Known for their keen use of tactics and knowledge of warfare, a Warlord is able to draw out the true potential of their allies. Leaders to their core, a Warlord will make sure to understand the capabilities and weaknesses of their allies so they can help them to reach their true potential.* 
 
-### <u>Subclasses - Leadership Styles / Warlord Presences / Warlord Types</u>
+### <u>Subclasses - Academies of War</u>
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
-#### **Noble**<sup>(KT)</sup>
-#### **Chieftain**<sup>(KT)</sup>
-#### **Commander**<sup>(KT)</sup>
-#### **Packleader**<sup>(KT)</sup>
-#### **Paragon**<sup>(KT)</sup>
-#### **Tactician**<sup>(KT)</sup>
-#### **Daner**<sup>(KT)</sup>
-#### **Dreadlord**<sup>(KT)</sup>
-### *Assorted Homebrew*
-(Zaelos)
-#### **Chieftain**
-#### **White Raven**
-#### **Taskmaster**
-#### **Field Physician**
-#### **Mentor**
-#### **Arcane Commander**
-#### **Shadow Marshal**
-#### **Controller**
-#### **Revenant**
-Warlord (MysticArts)
-#### **Exemplar**
-#### **Tactician**
-#### **Warchief**
+*Purpose is a common element to those that walk the path of a Warlord. Purpose empowers Warlords to be a larger-than- life, and allows them to be a guiding hand to their comrades. Some Warlords may not seek any particular cause, and merely pursue victory - either as a tribute to a god they worship or simply to attain personal glory. More often, though, a Warlord is driven by a higher purpose - a loyalty to their country or their men, a drive to protect the innocent or crush the weak. Purpose is an important consideration to a Warlord in understanding why they fight, as it will inform how they fight. Do they try to keep their companions and followers out of danger? Or do they simply press for the strategy that is most likely to win?*
+
+#### **Academy of Chivalry**
+Warlords that choose the Academy of Chivalry often hail from the ranks of nobility and are almost always formal knights. As leaders, they hold themselves and those who follow them to a lofty code of conduct. These knights stand as beacons of fair play, honor, and justice, both on and off the field of battle.
+#### **Academy of Ferocity**
+The Warlords that hail from this Academy rarely study in formal schools of war. In place of military theory, their tactics are based on the instincts of wild animals. These leaders are famous for ruthless treatment of foes, but would lay down their life for any member of their pack.
+#### **Academy of Schemes**
+Warlords of the Academy of Schemes will secure their victory at any cost. They do not care how they achieve their goals and they will cheat, deceive, and sacrifice whatever they believe is necessary to succeed. These ruthless utilitarians always have a backup plan should things not work out as they predicted.
+#### **Academy of Skalds**
+Warlords of the Academy of Skalds wield the power of music and song to inspire their comrades. When they combine their bardic magic with their understanding of strategy, they can turn even an unskilled rabble into a heroic fighting force.
+#### **Academy of Tactics**
+Warlords of this Academy most often come from the ranks of formal organizations that serve the elite. Tacticians are highly educated commanders and are known for their dedication to those who follow them. Their understanding of how to best utilize each of their allies' strengths and avoid weaknesses makes them especially deadly opponents on the battlefield.
 ## Warmage
 *Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
 
