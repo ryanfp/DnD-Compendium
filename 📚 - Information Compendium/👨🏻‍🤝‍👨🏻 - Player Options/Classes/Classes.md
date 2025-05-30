@@ -3285,23 +3285,33 @@ Warlords of the Academy of Schemes will secure their victory at any cost. They d
 Warlords of the Academy of Skalds wield the power of music and song to inspire their comrades. When they combine their bardic magic with their understanding of strategy, they can turn even an unskilled rabble into a heroic fighting force.
 #### **Academy of Tactics**
 Warlords of this Academy most often come from the ranks of formal organizations that serve the elite. Tacticians are highly educated commanders and are known for their dedication to those who follow them. Their understanding of how to best utilize each of their allies' strengths and avoid weaknesses makes them especially deadly opponents on the battlefield.
-## Warmage
-*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
+## Warmage/Battlemage
+*While other spellcasters aspire to grander and more complex spells, warmages refine and master the most fundamental magic: cantrips. Warmages wield their magic in the same way that a warrior uses a sword, bow, or axe: as weapons to be perfected and mastered, not as an unknowable force to be feared. In contrast to sorcerers and wizards, their magic is a trainable skill, one that can be mastered by almost anyone with discipline and aptitude. Therefore, warmages stand among the most fearsome of spellcasters, with only the most rudimentary of spells. (**Source: Valda’s Spire of Secrets**)*
 
-*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.* 
+*Warmages have a long and storied history as masterful strategists and tacticians, both in grand battles and personal skirmishes. If a warmage is outgunned or outmanned, they'll try to outthink their foes, which works more often than not. They demonstrate an efficient kind of pragmatism, owing perhaps to their ability to solve many problems with just a few magical tools.* 
 
-### <u>Subclasses - Arcane Initiations</u>
+### <u>Subclasses - Arcanist Houses</u>
 
-*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*
-### *Valda’s Spire of Secrets*
-#### **Bishops Initiations**
-#### **Cards Initiations**
-#### **Dice Initiations**
-#### **Kings Initiations**
-#### **Knights Initiations**
-#### **Lancers Initiations**
-#### **Pawns Initiations**
-#### **Rooks Initiations**
+*While some warmages are fully self-taught, the majority join a house: a loose confederation of warmages who practice together and share secrets of the trade. Houses teach invaluable battlefield strategy, but each individual house also touts their own brands of tactics and styles of magical tricks. The House of Knights, for example, emphasizes armor and martial prowess, whereas the House of Kings emphasizes battlefield strategy. By way of metaphor, houses that value honor and teamwork above all else brand themselves after games of strategy, whereas those who epitomize self-reliance name themselves for games of chance. This division in the warmage houses is representative of a schism that dates back to the earliest warmage masters. Legend has it that the first two masters separated when one decided to found a college. The other, out of spite, built a casino outside its grounds.*
+
+#### **House of Bishops**
+The House of Bishops adopts warmages with true arcane potential, expanding on essential magic principles with true spellcasting. Such warmages might be easily confused for wizards or sorcerers, for they don the same garb and wield many of the same spells, but the warmage focus on perfection still holds precedence over garnering a vast array of spells.
+#### **House of Cards**
+Warmages who join the House of Cards approach combat the same way they do games of chance, with high stakes, and calculated gambles. Each warmage of this house wields a special deck of cards tied to the very threads of fate, through which they can empower their magic with deft flurries of hands. However, while these warmages command incredible power, their magical surges are at the whims of the cards, and so they must make strategic, ingenious plays to master them.
+#### **House of Dice**
+The House of Dice throws out the warmage convention of meticulous, deliberate spellcasting in favor of wild, chaotic magic that presses the odds. Everything from their magical bursts to their enchanted sets of dice can fail horribly, so it's auspicious that they often keep their fingers on the scales of fate. These warmages have mastered not only a repertoire of cantrips, but also techniques to manipulate fortune itself, allowing them to risk everything, and more than often come out on top.
+#### **House of Kings**
+Warmages who train in the House of Kings specialize in tactics and strategy, learning age-old maneuvers to give them the edge in combat. Natural-born leaders, Kings work best with a cadre of supporters to perform their tactics and overwhelm the enemy. Moreso than all other warmages, those in the House of Kings treat life and death as little more than a game of strategy to be understood and conquered.
+#### **House of Knights**
+The House of Knights has a long and storied tradition of melding melee combat and swordplay with the warmage's simple spellcasting. Unlike other warriors, however, Knights carry neither swords nor shields into combat, for they can forge both out of magical force at a moment's notice.
+#### **House of Lancers**
+Warmages who join the House of Lancers are trained in fluid martial arts and meditative asceticism, melding the stoic discipline of monks with potent spellcasting. As such, they are unarmed elemental warriors, self-reliant and capable of feats no monk or warmage could hope to match. However, Lancers are notoriously neutral in almost all matters, and stand apart from the politics of the other Houses.
+
+Lancers derive their name from an ancient precursor to the pawn, a piece remembered only in early variants of chess. Remote monasteries still play using this ancient set of rules: a smaller board, fewer pieces, and lancers replacing the dutiful pawns. It is a relic from a forgotten age, rife with symbolism.
+#### **House of Pawns**
+By far the most prominent warmage house is that of the Pawns. Warmages who join the House of Pawns learn to stretch their skill with cantrips to its limits. Pawns can master any cantrip or trick known to the other warmage houses, for they embody the adaptability all warmages aspire to.
+#### **House of Rooks**
+The clandestine members of the House of Rooks make adept spies, assassins, and scouts, though they might just as easily pick up jobs run by rogues and brigands. In addition to their suite of cantrips, Rooks are light on their feet and know a few tricks to magically open doors in utter silence.
 ## Witch
 ### *Valda’s Spire of Secrets*
 Black
