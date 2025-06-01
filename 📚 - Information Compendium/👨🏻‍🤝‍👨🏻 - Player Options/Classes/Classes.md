@@ -449,7 +449,8 @@ Some barbarians are not marked by their loyalty to kin or tribe but by their loy
 ~~**Path of the War Chief**<sup>UAH</sup>~~
 #### **Path of the Haze Rager**<sup>GTD</sup>
 The first warriors who ventured into Drakkenheim were doomed. Few returned from these early expeditions, and those few who survived were forever changed by the experience. A rare few wrestle the madness of the Haze through a supernatural rage which allows them to channel the eldritch energies of delirium. These Haze Ragers thrive on the contaminated power of delirium, transforming madness and fear into a weapon.
-~~**Path of the Old Gods**<sup>(GTD)</sup>~~
+#### **Path of the Lightning Vessel**<sup>(SGEH)</sup>
+ Lightning Vessel is a brute, a monster of battle. Their bodies overflowing with lightning, they arrive unexpectedly, often dropping from buildings or leaping impossible distances, before crashing down amidst the fight. The presence of a single Lightning Vessel is often enough to turn the tides of battle. Their ferocious electricity rampaging through their enemies, leaving a trail of charred corpses in their wake. If one ends up face to face against such a monster, there is no running away—they will catch you, electrocute you, and rend your corpse. Although vital in the fight against the Scourge, their recklessness causes fear in the heart of friends and foes alike.
 ## Bard
 
 *In the worlds of D&D, words and music are not just vibrations of air, but vocalizations with power all their own. The bard is a master of song, speech, and the magic they contain. Bards say that the multiverse was spoken into existence, that the words of the gods gave it shape, and that echoes of these primordial Words of Creation still resound throughout the cosmos. The music of bards is an attempt to snatch and harness those echoes, subtly woven into their spells and powers.*
@@ -500,8 +501,10 @@ The masters of the mask are virtuoso performers who practice becoming the figure
 To engage in this great stage drama, they carry with them a number of masks, each a potent magical artifact of a specific archetypal character or creature. 
 #### **College of Romance**<sup>(VSS)</sup>
 Paramours, seductors, and silver-tongued devils, these bards have turned the art of wooing someone into a science, which they ply to their advantage with mechanical efficiency and precision. Given the option, these bards would rather make love than war, knowing full well that an enemy turned ally is twice as effective as an enemy slain. 
-#### ~~**College of Satire**<sup>(UA)</sup>~~
+#### **College of the Apocalypse**<sup>(SGEH)</sup>
+Apocalypse bards are masters at conjuring forth the ancient powers of eldritch gods, summoning forth their otherworldly might to wreak havoc on the mortal realm. All who hear their aberrant harmonies fear and revere them—they understand that with a single whisper, these bards can cause the end of all things. Apocalypse bards are often found on the front lines of battle, their music serving as a rallying cry for their allies and a death knell for their enemies. With each stanza they produce, a member of the College of the Apocalypse draws closer to the ultimate revelation of the horrors that lie beyond the veil. Many fear the day when they will finally succumb to the madness that gnaws within their mind. 
 
+As they progress in their studies, members of this bard college gain the ability to summon forth devastating powers with their music. They can call down swarms of pain, tear open rifts in reality, and unleash waves of madness upon their foes. They know the apocalypse is coming, for they are the ones bringing it.
 #### **College of the Shadowfell**<sup>(DAC)</sup>
 Bards of the College of the Shadowfell specialize in the study of that realm, gleaming great knowledge of shadow magic in the process. These bards are few in number and their study is far harder than most, for knowledge of the Shadowfell is hard to come by. These bards occasionally gather in great libraries to share their knowledge, but most of their time is spent out in the world, looking for any glimpses of knowledge that might lead them to their goal.
 
@@ -3162,6 +3165,8 @@ Through *really* tiny stitches, you alter the physiology of your subjec– er…
 to a mad scientist, has resulted in a singular observation: subjects are much more malleable when they’re psychically bonded to you.
 #### **Swarmslinger Paradigm**<sup>(LAL)</sup>
 It takes a malleable and open mind to bond with a swarm of creatures; one needs to tune out the hubbub of bite-sized information and learn to listen to the group as a whole. How did you discover you could control masses of creatures? Perhaps you were a perfumier whose arrangement of scents guided the actions of bees. Maybe you were training as a bard when you found that those who liked your music most were a literal pack of rats. Or maybe you made your clothing a home for a family of creatures who now look to you for leadership. Whatever it is, your command of hordes of creatures gives you the ability to overrun any foe.
+#### **Sensei Paradigm**<sup>(RGYR)</sup>
+Sensei see how a body moves with supernatural acuity, identifying minor changes in form that can turn paltry scuffs into bone-breaking blows . Through meticulous coaching, they unveil the pugilists within their companions, teaching them to dance between enemies’ strikes, upset their foes’ balance, and finish them with lightning-fast combinations . Perhaps you yourself were a master of martial arts but are now too old to fight . Maybe you grew up watching boxers but always saw the flaws in their technique . Whatever the case, you are a teacher, and your companions are your eager students .
 ## Warden
 *Wardens are not born of civilization and order. Though some Wardens will seek to defend such things (or at least tolerate them), they are those that have harnessed primal chaotic powers. Lashing, roiling forces of untamed energy, that left unchecked would wash civilization from the face of the material plane as if it were but a temporary blip. The powers of a Warden are expressions of deep and primal forces. They are power given sentience and will, entropy and destruction harnessed and focused to purpose and cause. They channel their power as a conduit, bringing it to heel through force of will and inner conviction. As a blacksmith forges a lump of iron to take on the keen edge of a sword, a Warden must always refine their power, tame and temper it to be a force of change rather than raw destruction. (**Source: Valda’s Spire of Secrets + KT**)*
 
@@ -3759,12 +3764,12 @@ Sources:
 - Crimson Codex
 	- Grim Hunter Fighter
 - Sylgar’s Guide to EE
-- Steinhardt’s Guide to the Eldritch Hunt
+- ~~Steinhardt’s Guide to the Eldritch Hunt~~
 	- ~~~**Jaeger Class**~~~
-- Ryoko’s Guide to the Yokai Realms
-	- Tamer Class
+- ~~Ryoko’s Guide to the Yokai Realms~~
+	- ~~Tamer Class~~
 	- ~~**Bender Class**~~
-	- All subclasses
+	- ~~All subclasses~~
 - LaserLlama’s Expanded Subclasses (only if needing to add some)
 - Rokugan (if I get a copy)
 
