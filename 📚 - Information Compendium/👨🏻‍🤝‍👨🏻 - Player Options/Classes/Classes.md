@@ -739,7 +739,6 @@ In forgotten corners of the world, certain cardcasters practice the forbidden ar
 
 *In a pantheon, every deity has influence over different aspects of mortal life and civilization, called a deity’s domain. All the domains over which a deity has influence are called the deity’s portfolio. For example, the portfolio of the Greek god Apollo includes the domains of Knowledge Life, and Light. As a cleric, you choose one aspect of your deity’s portfolio to emphasize, and you are granted powers related to that domain.*
 
-*Your choice might correspond to a particular sect dedicated to your deity. Apollo, for example, could be worshiped in one region as Phoebus (“radiant”) Apollo, emphasizing his influence over the Light domain, and in a different place as Apollo Acesius (“healing”), emphasizing his association with the Life domain. Alternatively, your choice of domain could simply be a matter of personal preference, the aspect of the deity that appeals to you most.*
 #### **Knowledge Domain**
 The gods of knowledge — including Oghma, Boccob, Gilean, Aureon, and Thoth — value learning and understanding above all. Some teach that knowledge is to be gathered and shared in libraries and universities, or promote the practical knowledge of craft and invention. Some deities hoard knowledge and keep its secrets to themselves. And some promise their followers that they will gain tremendous power if they unlock the secrets of the multiverse. Followers of these gods study esoteric lore, collect old tomes, delve into the secret places of the earth, and learn all they can. Some gods of knowledge promote the practical knowledge of craft and invention, including smith deities like Gond, Reorx, Onatar, Moradin, Hephaestus, and Goibhniu.
 #### **Life Domain**
@@ -917,6 +916,8 @@ One of the central tenets of existence is the inexorable passage of time — the
 Gods of the Time domain may not experience time as mortals do, but they understand what its passage represents and the necessity of its continued flow. Clerics of these deities can manipulate the flow of time in minor ways, and have the responsibility to use these abilities to further the intention of their god, which often include ensuring time flows unhindered and that irresponsible beings do not seek to enforce their will on its passage. 
 #### **Shadow Domain**<sup>(GTD)</sup>
 Clerics of the Sacred Flame know that life is at all times a balance between the light and the dark. Most clerics uphold the flame, whose divine purpose is to hold back the darkness, and offer guidance to those who pass on. Clerics of the Shadow Do- main are in tune with the dark side of the divine. They stand to balance all things, practicing the powers of shadow against their enemies. They know that not all deserve the light, and so sending foul horrors to the shadows is their form of righteous justice.
+#### **Shrine Warden Domain**<sup>(RGYR)</sup>
+Across the realms and beyond exist countless deities and spirits, each with their own motivations, power, and temperament, and each with their own devoted followers Shrine Warden clerics celebrate and honor the deities they follow through the creation and preservation of hallowed sites in their honor—consecrated ground where the misty division between spiritual and physical melts away to nothing . To such clerics, power can be drawn from almost any kaiju, spirit, deity, or pantheon they worship . For the Shrine Warden, the act of devotion itself is magical, and the erection of a shrine a beacon of hope to those in need, and of terror to those who mean it harm .
 ## Craftsman
 *Craftsmen are virtuoso artisans and genius inventors. Not content merely creating masterwork pieces of weapons and armor, they invent and engineer ingenious devices and singularly deadly weapons. Artisans of all types are an integral part of every culture: buildings must be erected, pots must be sent to the kiln, tools must be forged. Despite their pervasiveness, master craftsmen are still as rare as they are prized. These artisans, creators, and inventors can smith items of mythic quality, and can solve most any problem simply by using the right tool and the appropriate amount of force. (**Source: Valda’s Spire of Secrets**)* Is this worth it to have? Appaarently it can be pretty weak or generic
 
@@ -1041,8 +1042,8 @@ Druids who join the Circle of the Wyrm hold dragons in higher esteem than all ot
 The [[Circle of Twilight]] seeks to exterminate undead creatures and preserve the natural cycle of life and death that rules over the cosmos. Their magic allows them to manipulate the boundary between life and death, sending their foes to their final rest while keeping their allies from that fate.
 
 These druids seek out lands that have been tainted by undeath. Such places are grim and foreboding. Once vibrant forests become gloomy, haunted places devoid of animals and filled with plants dying a slow, lingering death. The Circle of Twilight goes to such places to banish undeath and restore life.
-#### ~~**Circle of the Seedling**<sup>(UA)</sup>~~
-
+#### **Circle of the Yokai**<sup>(RGYR)</sup>
+Druids belonging to the Circle of the Yokai seek a connection to nature beyond the physical, aligning themselves with the mysterious yokai spirits that embody and inhabit the natural world . This connection allows such druids to assume yokai forms, becoming entities of nature while retaining their own mind and voice . Moreover, such druids can encourage roaming yokai spirits to settle in plants, flames, pebbles, and streams, turning these facets of nature into grasping weeds, furious wildfires, stalwart bastions of rock, or living wyrms of water .
 #### **Circle of Ash**<sup>(TOH)</sup>
 Druids of the Circle of Ash believe in the power of rebirth and resurrection, both physical and spiritual. The ash they take as their namesake is the result of burning and death, but it can fertilize the soil and help bring forth new life. For these druids, ash is the ultimate symbol of the elegant cycle of life and death that is the foundation of the natural world. Some such druids even use fresh ash to clean themselves, and the residue is often kept visible on their faces.
 
@@ -1628,7 +1629,8 @@ One of several flower-themed monastic traditions practiced in the Feywild, the W
 The Way of Street Fighting is an urban discipline founded on necessity, whose blindingly fast, unique brand of martial arts has been honed and perfected in back-alley brawls and tournaments alike. Monks who adopt this relatively new technique place comparatively little value on spiritual enlightenment and karmic balance; the thrill of split second timing, rapid combos timing and decisive knockouts strive them to become the best combatants in the world.
 #### **Way of the Bloodied Fist**<sup>(UA)</sup>
 Monks of the Way of the Bloodied Fist follow a tradition that teaches them to control their own life force, as well as the life force of their foes. By focusing their ki, they exert control over blood - a powerful tool that is not to be underestimated. Their monasteries practice in secret in dark caves and high mountains, out of the eye of the common people, and their members only leave for the rare missions ordered by only the most desperate. Many monks of this tradition are covered in scars - some self-inflicted in their training, and others earned in battle. The monks often use their mystic energies to manipulate these scars, forming them into complex designs and symbols to represent their unique ki powers.
-#### **Way of the Four Elements Revised**<sup>(UA)</sup>
+#### **Way of the Eight Gates**<sup>(RGYR)</sup>
+Monks of this order strive for meaning and perfection through mastery of the Eight Gates, internal loci of spiral- ling energy through which ki is channeled . By way of personal contemplation and intense training, each gate can be opened in turn, and once brought into harmony, allow for a stronger channel of ki and the ability to push one’s body beyond mortal limitations . Those who follow the Way of the Eight Gates might be hermits, retreating from the chaos of the wider world and to a place of contemplative isolation . Others may be wanderers, embracing and celebrating all experiences, believing this to be the path to internal harmony . In any case, monks who walk this path eschew organized religious and spiritual practices, preferring to carve their own path of potential, freedom, and growth .
 #### **Way of Concordant Motion**<sup>(TOH)</sup>
 The monks of Concordant Motion follow a tradition developed and honed by various goblin and kobold clans that favored tactics involving swarming warriors. The tradition combines tactical disciplines designed to encourage groups to work as one unit with practical strategies for enhancing allies. Where many warrior-monks view ki as a power best kept within, the Way of Concordant Motion teaches its followers to project their ki into their allies through ascetic meditation and mental exercises. Followers of this tradition value teamwork and promote functioning as a cohesive whole above any search for triumph or glory.
 #### **Way of The Dragon**<sup>(TOH)</sup>
@@ -1917,7 +1919,19 @@ _**Courage.**_ You must be willing to do what needs to be done for the sake of 
 
 _**Responsibility.**_ You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.
 #### **Oath of Heresy**<sup>(VSS)</sup>
+The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the just laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or a sovereign, and undergo their oath as part of their admission to the order’s ranks.
 
+**Tenets of the Crown**
+
+The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.
+
+_**Law.**_ The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.
+
+_**Loyalty.**_ Your word is your bond. Without loyalty, oaths and laws are meaningless.
+
+_**Courage.**_ You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don’t act, then who will?
+
+_**Responsibility.**_ You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.
 #### **Oath of Revelry**<sup>(VSS)</sup>
 The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the just laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or a sovereign, and undergo their oath as part of their admission to the order’s ranks.
 
@@ -2030,6 +2044,30 @@ _**Loyalty.**_ Your word is your bond. Without loyalty, oaths and laws are mean
 _**Courage.**_ You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don’t act, then who will?
 
 _**Responsibility.**_ You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.
+#### **Oath of the Yojimbo**<sup>(RGYR)</sup>
+Yojimbo are sworn to protect those to whom they dedicate their service, be it an individual, a group, or an entire nation . Though Yojimbo typically pledge their allegiance to a charge and accompany them until death, a defenseless soul might find the raking claws of a dodomeki halted inches from their face by the serendipitous intervention of a wandering Yojimbo paladin . These roaming saviors traverse the realms on an unrelenting quest to shield those who can’t protect themselves . Despite being in high demand— unshakeable loyalty is a coveted virtue—Yojimbo rarely pledge themselves to the wealthy or powerful . It’s said that a true Yojimbo has the value of ten sellswords in battle, and ten-thousand sellswords in spirit .
+
+**Tenets of the Yojimbo**
+
+The tenets of the Oath of the Yojimbo are unflinchingly
+resolute . They do not change or vary, no matter whom a
+paladin pledges to protect .
+
+_(Protection.)_ Be a shield to those who lack a shield of
+their own . Be the weapon that meets the blade of those who
+would slaughter the weaponless .
+
+_(Strength.)_ Grow strong for the sake of those who cannot .
+To shelter the vulnerable, one must have the power to hold
+back the storm .
+
+_(Inspiration.)_ Nurture the weak . Do not merely preserve
+the vulnerable; raise them up to be strong, so they might, in
+turn, protect others .
+
+_(Self-Sacrifice.)_ Wager everything for the safety of those
+who cannot fight . Nothing less is acceptable in the defense
+against tyranny .
 #### **Oath of Justice**<sup>(TOH)</sup>
 The Oath of Justice is a commitment not to the tenets of good or evil but a holy vow sworn to uphold the laws of a nation, a city, or even a tiny village. When lawlessness threatens the peace, those who swear to uphold the Oath of Justice intervene to maintain order, for if order falls to lawlessness, it is only a matter of time before all of civilization collapses into anarchy. 
 
@@ -2607,6 +2645,8 @@ Your connection to the natural world takes the form of a draconic spirit, which 
 
 #### **Vigilante Conclave**<sup>(VSS)</sup>
 
+#### **Rōnin**<sup>(RGYR)</sup>
+The Rōnin are masterless, wandering warriors, beholden to no code but their own . No two are the same, each with their own tale that led them down the warrior’s path . They are masters of many weapons, striking with blade and arrow in a spectacle of blinding speed and accuracy . Some Rōnin use their power to protect the vulnerable—vigilantes doing what they see as right, no matter the cost . Others pursue their own ends, unfettered by the consequences of their actions . Rōnin are dangerous combatants, hardened survivors, and above all things, free .
 #### **(UA Version)**<sup>(UA)</sup>
 
 #### **Hollow Warden Conclave**<sup>(UA)</sup>
@@ -2619,6 +2659,8 @@ Your connection to the natural world takes the form of a draconic spirit, which 
 The Nightstalker archetype emulates a unique form of shadow magic, used to create shadowy familiars to accompany you in battle. By walking this path, you learn to use your shadow familiar like an extension of yourself, using them like a weapon as you stalk through the dim forests and vast plains of the world, searching for your prey. Your choice of familiar defines your style of fighting, with each familiar playing a different role on the hunt and on the battlefield.
 #### **Seedmaster Conclave**<sup>(UA)</sup>
 
+#### **Tamaya Conclave**<sup>(RGYR)</sup>
+The secrets of hanabi, alchemical fabrications that explode in dazzling arrays of light and sound, are some of the most well-guarded of any of the artificing guilds . However, no ship is entirely without leaks, and well-kept secrets fetch a high price . Whether from a jaded pyrotechnician, stolen formulae, or enough coin in the right hands, some enter- prising individuals learn these clandestine secrets . Known as Tamaya, such rogues use the pseudo-magic of fireworks as weapons to supplement their gunpowder-fuelled toolbox, sending enemies spiraling into disarray and chaos . Using artifice and ingenuity, these masters of thunder, fire, and smoke prove true the old adage: sufficiently advanced technology is indistinguishable from magic .
 #### ~~**Beast Trainer Conclave**<sup>(TOH)</sup>~~
 
 #### **Grove Warden Conclave**<sup>(TOH)</sup>
