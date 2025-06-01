@@ -229,6 +229,35 @@
             }
           }
         ]
+      },
+      {
+        "id": "93645e2858ff9d5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6aaf4890575e5c6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNORGANIZED/Sourcebooks.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Sourcebooks"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -549,13 +578,15 @@
       "obisidian-note-linker:Note Linker": false,
       "custom-sort:Toggle custom sorting": false,
       "iconic:Open rulebook": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "3a73ca7b9dac80c9",
   "lastOpenFiles": [
-    "📚 - Information Compendium/📝 - Rules & Mechanics/Mechanics/Exhaustion Mechanics.md",
+    "UNORGANIZED/Sourcebooks.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
+    "📚 - Information Compendium/📝 - Rules & Mechanics/Mechanics/Exhaustion Mechanics.md",
     "image.png",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Animation.md",

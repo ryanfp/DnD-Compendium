@@ -43,6 +43,9 @@ Unearthed Arcana <sup>(UA)</sup>
 Van Richten’s Guide to Ravenloft <sup>(VRGR)</sup>
 MCDM <sup>(MCDM)</sup>
 Masterclass CODEX <sup>(MCDX)</sup>
+Steinhardt’s Guide to the Eldritch Hunt <sup>(SGEH)<sup/>
+Ryoko’s Guide to the Yokai Realms<sup>(RGYR)<sup/>
+Crimson Codex<sup>(CC)<sup/>
 
 
 

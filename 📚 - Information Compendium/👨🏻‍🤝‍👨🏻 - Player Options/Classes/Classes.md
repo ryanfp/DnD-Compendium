@@ -3610,12 +3610,14 @@ and need to be sealed away to limit the chaos they spread.
 Sources:
 - Amethyst Dragon Book
 - Crimson Codex
+	- Grim Hunter Fighter
 - Sylgar’s Guide to EE
 - Steinhardt’s Guide to the Eldritch Hunt
 	- **Jaeger Class**
 - Ryoko’s Guide to the Yokai Realms
 	- Tamer Class
 	- **Bender Class**
+	- All subclasses
 - LaserLlama’s Expanded Subclasses (only if needing to add some)
 - Rokugan (if I get a copy)
 - Drizzt’s Travelogues
