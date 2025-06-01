@@ -1218,21 +1218,13 @@ A Purple Dragon knight inspires greatness in others by committing brave deeds in
 #### ~~**Brawler**<sup>(VSS)</sup>~~
 
 #### **Celestial Lancer**<sup>(VSS)</sup>
-Feared frontline warriors bearing lances and unique, streamlined armor, Celestial Lancers are famous for their Meteor Jump, a supernatural technique taught only to the rare few. The lancers trace their origins back to an order of dragon hunters who learned to leap above diving dragons and pin their wings with a swift, downward lance strike. This techn
-#### **Corsair**<sup>(VSS)</sup>
-
+Feared frontline warriors bearing lances and unique, streamlined armor, Celestial Lancers are famous for their Meteor Jump, a supernatural technique taught only to the rare few. The lancers trace their origins back to an order of dragon hunters who learned to leap above diving dragons and pin their wings with a swift, downward lance strike. This technique, combined with a suite of mystical powers drawn from the yawning sky, makes the lancers decisive warriors in the arena of vertical combat. Thought Celestial Lancers may be hampered in claustrophobic dungeons, they excel where they can leap high and come crashing down for devastating impacts. 
+#### ~~**Corsair**<sup>(VSS)</sup>~~
 #### **Dungeoneer**<sup>(VSS)</sup>
-
+Only fools would dive headfirst into an abandoned crypt filled with monsters and deathtraps, but it seems only fools emerge from such crypts laden with as much loot as they can carry. The archetypal dungeon delver is a veteran of such suicidal dungeon delves, and has become intimately familiar with the hazards therein. In the course of their adventures, such a dungeoneer will have adopted countless best practices, along with a litany of unproven superstitions which they believe keeps them alive. Principles from “always be the first one to hit the monster” to “never be the first one to touch a treasure chest” line a dungeoneer’s journal. However, it’s probably better to be paranoid and superstitious than lying at the bottom of a pit trap, incinerated by a fireball, or digested by a mimic. 
 #### **Mage Hand Magus**<sup>(VSS)</sup>
-
-#### **Scout**<sup>(UA)</sup>
-
-#### **Monster Hunter**<sup>(UA)</sup>
-
-#### **Brute**<sup>(UA)</sup>
-
-#### **Blood Knight**<sup>(UA)</sup>
-
+Blades sweeping around in dramatic arcs, propelled by ghostly, disembodied hands — the Mage Hand Magi are truly a force to be reckoned with. While wizards are content to use *mage hand* to retrieve their wands and open doors from across the room, the cantrip’s potential has always been clear for warriors: a deft *mage hand* can afford dozens of feet between a soldier and their foe, letting them deal a killing blow without raising a fingertip. Mage Hand Magi have mastered this cantrip through practice and discipline, elaborating a trick pioneered by warmages into a deadly fighting style of twin hovering blades. The most skilled can even manifest a warhand, a grand fist of magical wrath with which to crush their enemies. 
+#### ~~**Blood Knight**<sup>(UA)</sup>~~
 #### ~~**Arcane Marksman (AA Revision)**<sup>(UA)</sup>~~
 
 #### **Buccaneer**<sup>(TOH)</sup>
@@ -1313,9 +1305,11 @@ The runeguard seeks the magical power within ancient languages, and to hasten th
 #### **Bestiarius**<sup>(BoE)</sup>
 Bestiarii are gladiators that specialize in fighting the fiercest beasts the arena has to offer. With a flair for the dramatic and instincts honed against apex predators, Bestiarii ensure not only a victorious fight, but an entertaining one. A Bestiarius might fight for glory, honor, or even the freedom of the very beasts they once opposed.
 #### **Timeless Monumental**<sup>(CFSA)</sup>
+Wandering between worlds, a massive fortress known as the Eternal Citadel collects forlorn travelers, hermits , and sole survivors to work in its’ service. Trapping these lost souls within its’ walls until they agree to follow the strange instincts brought on by the emotions and feelings the Citadel silently sends, this mysterious bastion works to preserve and protect all things, destroying only that which would bring ruin and desolation to the world. 
 
+You are one of the few who have wandered inside at some point in your life, seeking shelter or knowledge, and now the influence of this place becomes clearly felt, granting you power and longevity to fight the forces of destruction for all eternity. 
 #### **Discordant**<sup>(CFSA)</sup>
-
+In battle, blades clash and ring, shields break and snap, warriors yell and scream, and beneath it all, the sound of violence reigns supreme. One sound, however, stands out above the rest in your memory: the eternal song of the Perfect Chord. A manifestation of light and sound that bore witness to your conflict, collecting the cries of the wounded and the yells of the victors before vanishing once more. Inspired by this melody, you have dedicated your martial focus to the creation of dissonance, adjusting the vibrations of the universe to inflict a discordant cacophony of destructive power upon your adversaries. With weapons singing a tale of triumph and despair, you stand valiant before the chaos of everlasting war. 
 #### **Tavern Brawler**<sup>(LAL)</sup>
 The taste of ale-soaked floorboards is a familiar flavor to Tavern Brawlers. Whether they’ve been thrown to the ground in a glorious takedown, blocked an improvised weapon with their teeth, or tackled a foe into a pile of flailing limbs, Tavern Brawlers cherish the memory of every scuffle that hasn’t been knocked out of their brains. 
 Though most inns and pubs decry barroom brawls as unnecessarily damaging and expensive affairs, celebrated carpenter and philosopher Lottaw Ood proposed that without the constant kerfuffles, woodworkers and the entire lumber industry might collapse. In fact, more shrewd carpentry guilds have opened “Brawl-Inns”; taverns with dedicated brawling areas and a microtransaction economy that encourages fighters to purchase chairs with which to clout their fellow patrons.
@@ -1328,7 +1322,7 @@ Meteor knights can exercise a limited degree of control over the gravity around 
 #### **Shadow Knight**<sup>(TGS)</sup>
 Fighters touched by the plane of shadow itself reign supreme in the dark. These warriors, called Shadow Knights, cloak themselves in darkness to become elusive phantoms on the battlefield. With each strike, they unleash the dark and chilling powers of the realm of shadow, sowing fear and uncertainty in the hearts of their enemies. While evil often thrives in darkness, Shadow Knights have no singular motivation, and simply use the powers of darkness as they would a sword or shield.
 #### **Sea Captain**<sup>E</sup>
-
+Those of the Sea Captain archetype are swashbuckling leaders. They draw their power them from hydromancy, using their control over water to amplify their groups strength in battle. As skilled captains, these fighters are not only experts at leading a crew through the high seas but they are experts at commanding and leading a party through any situation. Using a combination of their martial abilities, inspiring words, and water magic, fighters of this archetype are sure that their party never seeks to their foes, and are often the ones to turn the tides of battle when things are looking the most bleak.
 #### **Armiger**<sup>UAH</sup>
 Armigers take pride in their armor and learn to use it to deflect attacks that might otherwise prove lethal. Masters of defense, these fighters create, mend, and maintain their own shields and suits of armor. Where many warriors enter battle hoping to make quick work of their enemies, Armigers focus on outlasting their foes rather than quickly dispatching them.
 #### **Combat Medic**<sup>UAH</sup>
@@ -1618,7 +1612,7 @@ Monks of the Way of the Long Death are obsessed with the meaning and mechanics o
 #### **Way of the Ascendant Dragon**
 The dragon god Bahamut is known to travel the Material Plane in the guise of a young monk, and legend says that he founded the first monastery of the Way of the Ascendant Dragon in this guise. The fundamental teaching of this tradition holds that by emulating dragons, a monk becomes a more integrated part of the world and its magic. By altering their spirit to resonate with draconic might, monks who follow this tradition augment their prowess in battle, bolster their allies, and can even soar through the air on draconic wings. But all this power is in service of a greater goal: achieving a spiritual unity with the essence of the Material Plane.
 #### **Way of the Bow**<sup>(VSS)</sup>
-
+Monks that follow the Way of the Bow find serenity in the perfect, precise arc of an arrow in flight. You have been trained in archery on horseback, to fire a bow while blindfolded, and to pinpoint the wings of insect in flight. As you attain peace and oneness with your arrow, no feat of archery will prove to be beyond your grasp.
 #### **Way of the Flagellant**<sup>(VSS)</sup>
 
 #### **Way of the Four Fists**<sup>(VSS)</sup>
