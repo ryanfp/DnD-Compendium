@@ -870,15 +870,6 @@ They follow gods of dreams, creativity, art, music, and the moon.
 Heretics preach of a void at the center of the universe that dying gods created to devour the Weave. The necrotic energy it emits is called “Entropy”: a potent force that clerics can harness to shield themselves from magic and annihilate arcane casters. The chained god Tharizdun claims this domain, while in Chessenta, a giant sphere of annihilation is worshipped as an aspect of Entropy itself. Cultists who wield the power go by many names: thaumatoclasts, entropomancers, or entropists.
 #### **Survival Domain**<sup>(XLNEE)</sup>
 Clerics and shamans of primitive tribes living in harsh environments have no greater mission than ensuring the survival of their tribes. The gods of survival often have other domains in similar realms, such as life or nature. The worshippers who work within the Survival domain, however, are much more primal and brutal than their counterparts.
-### Level Up: Advanced 5e
-#### **Healer Domain**
-
-#### **Oracle Domain**
-
-#### **Sun Priest Domain**
-
-#### **Warpriest Domain**
-
 #### **Evolution Domain**<sup>(BoE)</sup>
 There are few gods of the Evolution Domain; indeed, many gods oppose it outright. But the march of nature and the pressure of survival never ebbs, and so evolution continues with or without the gods’ blessing.
 
@@ -1133,13 +1124,6 @@ As a druid of the seasons, you embody nature’s invisible hand. Whether through
 Ages ago, nature priests with a greater connection to the spirit realm believed the world itself to be formed from a group of elemental and primordial spirits, each specifically charged to harness one of the major elements of creation. This band of tribal druids developed a set of ritual practices that allowed them to summon these spirits, whose essence now resides in every rock, tree, and breath of air, controlling the ebb and flow of nature not only in their homeland, but in all lands beyond. This order of priests were known as spiritlords. 
 
 Spiritlords begin their journey with the rites handed down by those before them, specifically, the ritual to create a special mask from an ironwood tree. This mask allows the spiritlord to play host to the spirit-elementals roaming this world. As the spiritlord grows in power and gains a heightened level of attunement to the spirit world, their mask transforms along with them, being altered with new carvings, ritual paints, and brands that symbolize the bond between the druid and the spirits they carry within.
-### Level Up: Advanced 5e
-#### **Circle of the Guardian**
-
-#### **Circle of the Skinchanger**
-
-#### **Circle of the Treespeaker**
-
 #### **Circle of Primal**<sup>(BoE)</sup>
 The Primal Circle was the foremost druidic circle, dedicated to the caste of titanic creatures that once dominated the Material Plane. As their bestial companions were driven to the fringes of the map, the Primal Circle persisted, channeling the spirits of long- forgotten beasts, such as tyrannosaurs and saber- toothed tigers. These primal spirits begin as youths and grow into their colossal adulthood as the druid grows in power, culminating in a behemoth from prehistory, a beast unparalleled in size and ferocity.
 #### **Circle of the Hive**<sup>(HGMH)</sup>
@@ -1229,12 +1213,12 @@ A mysterious and feared frontline warrior of the Kryn Dynasty, the Echo Knight h
 Purple Dragon knights are warriors who hail from the kingdom of Cormyr. Pledged to protect the crown, they take the fight against evil beyond their kingdom’s borders. They are tasked with wandering the land as knights errant, relying on their judgment, bravery, and fidelity to the code of chivalry to guide them in defeating evildoers.
 
 A Purple Dragon knight inspires greatness in others by committing brave deeds in battle. The mere presence of a knight in a hamlet is enough to cause some orcs and bandits to seek easier prey. A lone knight is a skilled warrior, but a knight leading a band of allies can transform even the most poorly equipped militia into a ferocious war band.
-#### **Bone Knight**<sup>(VSS)</sup>
+#### ~~**Bone Knight**<sup>(VSS)</sup>~~
 
-#### **Brawler**<sup>(VSS)</sup>
+#### ~~**Brawler**<sup>(VSS)</sup>~~
 
 #### **Celestial Lancer**<sup>(VSS)</sup>
-
+Feared frontline warriors bearing lances and unique, streamlined armor, Celestial Lancers are famous for their Meteor Jump, a supernatural technique taught only to the rare few. The lancers trace their origins back to an order of dragon hunters who learned to leap above diving dragons and pin their wings with a swift, downward lance strike. This techn
 #### **Corsair**<sup>(VSS)</sup>
 
 #### **Dungeoneer**<sup>(VSS)</sup>
@@ -1249,7 +1233,7 @@ A Purple Dragon knight inspires greatness in others by committing brave deeds in
 
 #### **Blood Knight**<sup>(UA)</sup>
 
-#### **Arcane Marksman (AA Revision)**<sup>(UA)</sup>
+#### ~~**Arcane Marksman (AA Revision)**<sup>(UA)</sup>~~
 
 #### **Buccaneer**<sup>(TOH)</sup>
 Honing their martial skills in fierce ship-to-ship combat, buccaneers become skilled in both gun and blade, able to lay out opponents with savage shots, while resisting the worst that can be thrown at them.
@@ -1326,18 +1310,6 @@ A Spiritsworn fighter is one that masters their martial prowess in tandem with a
 The Green Knight is a fighter who draws on the power of nature to imbue their attacks with the strength of the earth itself. They are fierce defenders of the natural world, sworn to protect it at all costs.
 #### **Runeguard**<sup>(XLNEE)</sup>
 The runeguard seeks the magical power within ancient languages, and to hasten the speed of their blade and strengthen of their armor by imbuing them with the power of these runes.
-### Level Up: Advanced 5e
-
-#### **Brute**
-
-#### **Duelist**
-
-#### **Gladiator**
-
-#### **Knight**
-
-#### **Sharpshooter**
-
 #### **Bestiarius**<sup>(BoE)</sup>
 Bestiarii are gladiators that specialize in fighting the fiercest beasts the arena has to offer. With a flair for the dramatic and instincts honed against apex predators, Bestiarii ensure not only a victorious fight, but an entertaining one. A Bestiarius might fight for glory, honor, or even the freedom of the very beasts they once opposed.
 #### **Timeless Monumental**<sup>(CFSA)</sup>
@@ -1421,6 +1393,17 @@ Magic and guns aren't so different. If arcane power is like gunpowder and a spel
 Accuracy means different things to different people. For you, true accuracy isn't necessarily in hitting a target on the first shot, but might include hitting the mark after the bullet bounces around a dozen times. Your attacks are just as dangerous if they miss, or even after hitting their mark, as others' are while they're still in the air.
 #### **White Hat Creed**
 Some gunslingers live by a code and expect others to do the same. These gunslingers, known as white hats, sometimes serve as agents of local or regional law but never hesitate to do what's right no matter what the rules say. Despite their affinity for deadly weapons, white hats prefer to keep their friends safe and take their enemies in unharmed—a preference they find their enemies aren't often inclined to oblige.
+### *HeavyArms*
+#### **Beastrider Creed**
+A beastrider is born to the saddle, capable of taming any beast and riding any mount. While any fool can jump on an old mare, it takes more than reins and spurs to master a spirited beast. Living life fast, both literally and figuratively, the beastrider knows freedom tastes better at a gallop, and a loyal companion is worth more than gold.
+#### **Enforcer Creed**
+Even in bad company, enforcers have a reputation for giving as good as they get, shrugging off blow after blow and returning tenfold. Yet it is not only their tenacity that makes them a valuable ally but also their keen insight; a knack for sniffing out the truth that is as dangerous to an adversary as any arms they bring to bear.
+#### **Maverick Creed**
+Rulebreakers, groundbreakers, and, often, heartbreakers, mavericks are those loose cannons who dance on a razor's edge and live life like there's no tomorrow. Armed with a quick wit and quicker trigger, they're out to make a name for themselves no matter the cost—and to the Hells with anyone, or anything, that stands in their way.
+#### **Preacher Creed**
+Whatever the raiment, symbols, and ceremonies of their faith, firearms are but divine implements in the preacher's holy arsenal. Faith is their greatest weapon, devotion their greatest strength. As enigmatic as the gods they serve, the preacher gives life with one hand and takes it away with the other.
+#### **Revelator Creed**
+The revelator is the shield of the innocent and the sword of the just, seeking to uphold the law and punish the wicked. While some join organizations dedicated to eradicating evil, earning a rank and title from their order, others work alone, waging a more personal war, seeking to avenge a great wrong or defeat a terrible evil. No matter the method, no matter the reason, all are driven to a righteous cause. Where injustice persists, where iniquity dwells, the revelator comes.
 ## Illrigger
 *The archdevils who rule the Seven Cities of Hell scheme endlessly. Each eternally plots to bring the others to heel—to ascend to the Throne of Hell, unite the Seven Cities and every infernal being living there, and lead an inexhaustible army of devils across the timescape until all worlds burn. These archdevils’ elite operatives are the illriggers. Knights, assassins, mages, and terror — commandos of Hell, illriggers command the battlefield, disrupt enemy factions, and carry out their archdevil’s infernal will. (**Source: MCDM**)*
 
@@ -3605,7 +3588,28 @@ faerie are content to follow these self-imposed rules and only
 interfere with mortals when they are approached. However,
 the Fey known as Tricksters cannot help but spread discord
 and need to be sealed away to limit the chaos they spread.
-## Jaeger , Monster Hunter? # Drizzt's Travelogue of Everything Volume 1
+## Jaeger
+*Jaegers are defined by their efficiency in battle, using their mastery over both steel and gunpowder to lay waste to all who oppose them. More than just soldiers, their skills represent the last wall of defense of a world fated to extinction; they are unstoppable and unbreakable. They strike fear in the heart of their foes, and bring hope to those they protect. (**Source: Steinhardt’s Guide to the Eldritch Hunt**)*
+
+*One who hunts beasts is a "hunter", as they are commonly called by civilized society, but few hunters have the jaeger class. Coming from all walks of life, jaegers blend in with their communities, only unleashing their abilities in times of need. They act as guardians for people who are unable to defend themselves, and they serve as the bloody sword of vengeance in a world that is hell-bent on destroying itself. Jaegers thrive in the savagery of the hunt. Their reflexes more honed than that of mere mortals, jaegers are capable of dodging the most vicious of blows and using that momentum to drive their blade deep into the heart of their prey. A jaeger's thirst for battle is endless; only in inaction can they experience fatigue. They are the perfect weapon against the nightmarish tides of beasts. Amidst this chaos, jaegers are the first to charge into battle so that their brothers and sisters can survive to live another day.* 
+
+### <u>Subclasses - Jaeger Chapters</u>
+
+*Jaegers rarely leave their home city; they would rather die than see it fall to the scourge. Following the jaeger's creed—'survive together, or die together'—they never hunt by themselves unless forced to. The nights can be brutal and the beasts are relentless; against such a ferocious onslaught, only a united front can hope to survive. As a result, jaegers are aware of the importance of teamwork and never charge into battle alone, save to retrieve fallen allies. The bonds formed during the hunts are stronger than those of many families. Blood is thicker than water, and the gods know that blood is shed when the hunt rages on.*
+
+#### **Absolute Chapter**
+Jaegers of the Absolute Chapter aim for the perfect hunt: to kill their prey without suffering a single hit. Quick hands, quick feet, and quick minds, they never stay still—always one step ahead, always striking with lethal accuracy. They are masters of their craft, refining the core techniques of a jaeger to absolute perfection. Members of the Absolute Chapter are respected by their allies and feared by their enemies.
+#### **Heretic Chapter**
+The Heretic Chapter's jaegers are despised by both religious organizations and their adherents. In a world where acts of faith are required to harness divine powers, these jaegers instead rip these powers from the very gods, tearing away their divine fabric. Through blasphemous rituals, strange ingestions, and direct grafting of powers onto their souls, heretics bind the powers of greater beings to their will. This is a path that calls for a certain madness that is only found in the most ardent of hunters, those who feel the burning need to reach the pinnacle of power and will do anything to achieve it. Some seek such power for its own sake, but most want it to put an end to the nightmare.
+#### **Marauder Chapter**
+A jaeger of the Marauder Chapter embodies raw slaughter. Vengeance, wrath, and death, all rolled into one swing that never ceases, endlessly scything through monsters, leaving a bloody wake of destruction. Each marauder is a symbol of the Chapter's determination and ferocity, striking fear into the hearts of their enemies with every swing of their weapon. They are unstoppable warriors, driven by a thirst for vengeance and the need to protect humanity from the monstrous hordes.
+#### **Salvation Chapter**
+A divine force endows jaegers of the Salvation Chapter with the ability to defend the world from the horrors, purging evil with one hand while saving the innocent with the other. Favorites of the Radiant Church, they are the light of hope in the darkness where evil dwells. Members of the Salvation Chapter know that prevention is always better than cure, and that murder is the most effective method of prevention. In their zealous righteousness, they offer hope of sanity and sanctuary to those that stand with them in their war against the tides of madness.
+#### **Sanguine Chapter**
+In order to strengthen themselves, jaegers of the Sanguine Chapter rely on the essential essence that is blood. They achieve resilient states of unnatural life and feed their powers with the fruits of their violence. Although some may consider them to be monsters in and of themselves, when faced with the horrors that lurk in the dark recesses of the world, sentiment quickly changes. A jaeger's abilities can hold the line and preserve the tenuous flame of life when it should have long since been extinguished, keeping themselves and their allies alive while draining the strength of their adversaries in an endless crimson parade of blood.
+
+
+## Stuff
 
 Sources:
 - Amethyst Dragon Book
@@ -3613,7 +3617,7 @@ Sources:
 	- Grim Hunter Fighter
 - Sylgar’s Guide to EE
 - Steinhardt’s Guide to the Eldritch Hunt
-	- **Jaeger Class**
+	- ~~~**Jaeger Class**~~~
 - Ryoko’s Guide to the Yokai Realms
 	- Tamer Class
 	- **Bender Class**

@@ -4,8 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f4bf2f442f60c137",
+        "id": "2816a3b8913ff648",
         "type": "tabs",
+        "dimension": 32.4,
+        "children": [
+          {
+            "id": "d6aaf4890575e5c6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNORGANIZED/Sourcebooks.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Sourcebooks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4e50f70f89b65c37",
+        "type": "tabs",
+        "dimension": 67.60000000000001,
         "children": [
           {
             "id": "3a73ca7b9dac80c9",
@@ -226,35 +257,6 @@
               },
               "icon": "lucide-file",
               "title": "Classes"
-            }
-          }
-        ]
-      },
-      {
-        "id": "93645e2858ff9d5e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d6aaf4890575e5c6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNORGANIZED/Sourcebooks.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sourcebooks"
             }
           }
         ]
@@ -578,7 +580,8 @@
       "obisidian-note-linker:Note Linker": false,
       "custom-sort:Toggle custom sorting": false,
       "iconic:Open rulebook": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "3a73ca7b9dac80c9",
