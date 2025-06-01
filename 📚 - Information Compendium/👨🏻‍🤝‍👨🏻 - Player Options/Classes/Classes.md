@@ -1614,20 +1614,19 @@ The dragon god Bahamut is known to travel the Material Plane in the guise of a y
 #### **Way of the Bow**<sup>(VSS)</sup>
 Monks that follow the Way of the Bow find serenity in the perfect, precise arc of an arrow in flight. You have been trained in archery on horseback, to fire a bow while blindfolded, and to pinpoint the wings of insect in flight. As you attain peace and oneness with your arrow, no feat of archery will prove to be beyond your grasp.
 #### **Way of the Flagellant**<sup>(VSS)</sup>
-
+The Way of the Flagellant teaches an extreme, sometimes heretical, view of asceticism: peace comes through suffering, purity through pain. Its practitioners shun all indulgences and embrace pain to harness their ki, isolating themselves further from the material world. As such, these monks often carry their eponymous flails and whips to use on both themselves and their foes. Their pain is a mortal penitence and an act of focusing, letting them block out all else and manipulate their key with expert intent.
 #### **Way of the Four Fists**<sup>(VSS)</sup>
-
+Through the careful manipulation of their ki, monks of the Way of the Four Fists strive to emulate the unusual fighting style of the legendary Monkey King. As they progress in their training, these monks undergo a magical transformation, slowly gaining more simian features. In combat, a master of this monastic tradition is a whirling, leaping blur of elbows, fur, and fists.
 #### **Way of the Mask**<sup>(VSS)</sup>
+When you put on your mask, you are not an ordinary (albeit impossibly handsome) commoner anymore; You are the greatest wrestler the world has ever known. You'll wrestle anyone — or anything — that comes within arm’s reach. Sometimes you wrestle inanimate objects just to prove that you can. That one time you wrestled an owlbear? Totally happened. For real.
 
+People come from all around to get a shot against you, to unmask you and take your championship belt. Everyone wants to beat the champ; too bad no one ever will.
 #### **Way of the Rose**<sup>(VSS)</sup>
-
+One of several flower-themed monastic traditions practiced in the Feywild, the Way of the Rose emphasizes the importance of love and compassion in all things. Although the monastery is closely associated with the Rose Court, all are welcome to join, including human visitors from the material plane.
 #### **Way of Street Fighting**<sup>(VSS)</sup>
-
-#### **Way of Tranquility**<sup>(UA)</sup>
-
+The Way of Street Fighting is an urban discipline founded on necessity, whose blindingly fast, unique brand of martial arts has been honed and perfected in back-alley brawls and tournaments alike. Monks who adopt this relatively new technique place comparatively little value on spiritual enlightenment and karmic balance; the thrill of split second timing, rapid combos timing and decisive knockouts strive them to become the best combatants in the world.
 #### **Way of the Bloodied Fist**<sup>(UA)</sup>
 Monks of the Way of the Bloodied Fist follow a tradition that teaches them to control their own life force, as well as the life force of their foes. By focusing their ki, they exert control over blood - a powerful tool that is not to be underestimated. Their monasteries practice in secret in dark caves and high mountains, out of the eye of the common people, and their members only leave for the rare missions ordered by only the most desperate. Many monks of this tradition are covered in scars - some self-inflicted in their training, and others earned in battle. The monks often use their mystic energies to manipulate these scars, forming them into complex designs and symbols to represent their unique ki powers.
-
 #### **Way of the Four Elements Revised**<sup>(UA)</sup>
 
 #### **Way of Concordant Motion**<sup>(TOH)</sup>
@@ -1657,7 +1656,6 @@ Balance is lost when one disrupts the livelihood of another. Monks of the Way of
 
 Monasteries that teach this tradition often act as militias for nearby settlements or as a council that oversees and rules adjacent villages and towns. The heads of these monasteries offer respect towards even the lowest of peasants, but have no tolerance for troublemakers. Still, they risk life and limb to hold the peace when external threats arise, regardless of who needs protection.
 #### **Way of the Four Elements Remastered**<sup>(TCEE)</sup>
-
 #### **Way of the Warshaper**<sup>(TCEE)</sup>
 Form is fluid. Shape is a weapon. Release yourself from the constraints of your body and you can become made for war. Thus teaches the way of the warshaper, whose members learn how to alter their form on the fly. Though they do not focus on the full transformations that a druid’s wild shape might, they can grow claws and teeth, flow around attacks, rebuild their shattered body, and other similar changes. Monks who follow the way of the warshaper are often forthright defenders of the downtrodden, but not always. Their control over their own form can make them relentless, terrifying hunters able to infiltrate past defenders and terminate their targets without fail.
 #### **Way of the Deep Winter**<sup>(FCG)</sup>
@@ -1683,8 +1681,7 @@ Way of the Demon Monks are those that channel demonic power to unleash special t
 
 Many on this path have fallen to it out of pursuit of power, a dark history, or a demonic nature, but even if their powers may seem evil, not all that wield it are evil themselves. Sometimes a righteous monk will have acquired these powers from a strange path, such as sealing something demonic within themselves to protect the world from it, or be an inheritor of the techniques will seek to use them for good.
 
-#### **Way of the Four Elements Revised**<sup>(KT)</sup>
-
+		#### **Way of the Four Elements Revised**<sup>(KT)</sup>
 #### **Way of the Outcast**<sup>(KT)</sup>
 An Outcast is a monk that has lost their Way. Trained in the basics of the style, they have abandoned the rigorous discipline and philosophy of their tradition, and are usually now enrolled only in the school of hard knocks. 
 
