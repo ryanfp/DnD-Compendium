@@ -1634,6 +1634,8 @@ The Way of Street Fighting is an urban discipline founded on necessity, whose bl
 Monks of the Way of the Bloodied Fist follow a tradition that teaches them to control their own life force, as well as the life force of their foes. By focusing their ki, they exert control over blood - a powerful tool that is not to be underestimated. Their monasteries practice in secret in dark caves and high mountains, out of the eye of the common people, and their members only leave for the rare missions ordered by only the most desperate. Many monks of this tradition are covered in scars - some self-inflicted in their training, and others earned in battle. The monks often use their mystic energies to manipulate these scars, forming them into complex designs and symbols to represent their unique ki powers.
 #### **Way of the Eight Gates**<sup>(RGYR)</sup>
 Monks of this order strive for meaning and perfection through mastery of the Eight Gates, internal loci of spiral- ling energy through which ki is channeled . By way of personal contemplation and intense training, each gate can be opened in turn, and once brought into harmony, allow for a stronger channel of ki and the ability to push one’s body beyond mortal limitations . Those who follow the Way of the Eight Gates might be hermits, retreating from the chaos of the wider world and to a place of contemplative isolation . Others may be wanderers, embracing and celebrating all experiences, believing this to be the path to internal harmony . In any case, monks who walk this path eschew organized religious and spiritual practices, preferring to carve their own path of potential, freedom, and growth .
+#### **Way of the Fire Dancer**<sup>(SGEH)</sup>
+The fire dancers carry an almost extinct tradition. Once a trading group, they considered themselves a family of a single creed: “Those who harm us will bathe in flames." This nomadic group of seasoned warriors welcomed all walks of life, regardless of origin, status, or influence; as long as one conducted oneself with respect towards their fellows, the caravans would open their door. Their ironclad creed and welcoming nature was their downfall.
 #### **Way of Concordant Motion**<sup>(TOH)</sup>
 The monks of Concordant Motion follow a tradition developed and honed by various goblin and kobold clans that favored tactics involving swarming warriors. The tradition combines tactical disciplines designed to encourage groups to work as one unit with practical strategies for enhancing allies. Where many warrior-monks view ki as a power best kept within, the Way of Concordant Motion teaches its followers to project their ki into their allies through ascetic meditation and mental exercises. Followers of this tradition value teamwork and promote functioning as a cohesive whole above any search for triumph or glory.
 #### **Way of The Dragon**<sup>(TOH)</sup>
@@ -1908,61 +1910,42 @@ _**Courage.**_ You must be willing to do what needs to be done for the sake of 
 
 _**Responsibility.**_ You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.
 #### **Oath of Eternal Night**<sup>(VSS)</sup>
-The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the just laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or a sovereign, and undergo their oath as part of their admission to the order’s ranks.
+Paladins who swear the oath of eternal knight forgo the lofty standards of conduct and shining armor of their compatriots: instead, they donned blackened armor and carry out assassinations, conduct subterfuge, and mete out vigilante justice under cover of night. Such paladins, often called Ravens, bond themselves to higher ideals of justice, transcending law and allegiances, so that they can right the wrongs that go unpunished. Every foul action has its consequence, and when no others rise to the challenge, the blade of a Raven is not far behind
 
-**Tenets of the Crown**
+**Tenets of the Eternal Night**
 
-The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.
+Paladins who swear the Oath of Eternal Night share a sense of moral absolutism and tend to believe in the following core tenets: 
 
-_**Law.**_ The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.
+_**None are Exempt.**_ Even kings and magistrates that write the laws must be held accountable for them.
+_**Good of the Many.**_ The needs of the many always outweigh the needs of the few. It is your  charge to protect the weak when the powerful seek to oppress.
 
-_**Loyalty.**_ Your word is your bond. Without loyalty, oaths and laws are meaningless.
-
-_**Courage.**_ You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don’t act, then who will?
-
-_**Responsibility.**_ You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.
+_**Knight of Night.**_ When justice is not done in the light of day, it must be restored in the darkness.
 #### **Oath of Heresy**<sup>(VSS)</sup>
-The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the just laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or a sovereign, and undergo their oath as part of their admission to the order’s ranks.
+Heretics come in all forms, but those who swear an oath of theirs you have borne witness to a great revelation: the prophets of history are false and their clerics have been misled, for the gods of deceived the entire world. Heretics vow to spread their truth to whoever will listen, rebuffing holy men and inquisitors that lack the sense to share their revolution. Naturally, heretics end their crusades in one of two ways: canonized for revolutionizing the faith, or burned at the stake for their transgressions.
 
-**Tenets of the Crown**
+Heretics might embrace any fundamental truth that goes unrecognized. Many believe the gods are fundamentally false—A trick wrought by celestials or high priests—while others simply profess the non-necessity of deities used to gain entry to the afterlife. Others attack fundamental pillars of faith that are erected on prejudicial beliefs, such as priestly orders that disallow people of different races or genders to their own. No matter what truth they embrace, these paladins are empowered by their belief and their oaths and so can crusade in active rebellion against the gods.
 
-The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.
+**Tenets of the Heretic**
 
-_**Law.**_ The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.
+By searing your Oath, you vow to spread truth far and wide according to the following tenets:
 
-_**Loyalty.**_ Your word is your bond. Without loyalty, oaths and laws are meaningless.
+_**Spread the Revolution.**_ Share the truth with everyone. Where truth itself does not dispel the lies, your sword might dispense truth of its’ own. 
 
-_**Courage.**_ You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don’t act, then who will?
+_**Defy Convention.**_ You stand to shatter the laws that seek to contain the truth. Don’t dwell on tradition as you seek to remake it. 
 
-_**Responsibility.**_ You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.
-#### **Oath of Revelry**<sup>(VSS)</sup>
-The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the just laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or a sovereign, and undergo their oath as part of their admission to the order’s ranks.
-
-**Tenets of the Crown**
-
-The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.
-
-_**Law.**_ The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.
-
-_**Loyalty.**_ Your word is your bond. Without loyalty, oaths and laws are meaningless.
-
-_**Courage.**_ You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don’t act, then who will?
-
-_**Responsibility.**_ You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.
+_**Speak Truth to Power.**_ Confront the powerful with your truth, and don’t let them turn away. Only by embracing the truth can they enact change. 
 #### **Oath of Storms**<sup>(VSS)</sup>
 The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the just laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or a sovereign, and undergo their oath as part of their admission to the order’s ranks.
 
-**Tenets of the Crown**
+**Tenets of the Storm**
 
-The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.
+Storm knights s
 
-_**Law.**_ The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.
+_**Safe Harbor.**_ The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.
 
-_**Loyalty.**_ Your word is your bond. Without loyalty, oaths and laws are meaningless.
+_**Howling Gales.**_ Your word is your bond. Without loyalty, oaths and laws are meaningless.
 
-_**Courage.**_ You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don’t act, then who will?
-
-_**Responsibility.**_ You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.
+_**Thunderous Castigation.**_ You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don’t act, then who will?
 #### **Oath of The Sun**<sup>(VSS)</sup>
 The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the just laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or a sovereign, and undergo their oath as part of their admission to the order’s ranks.
 
@@ -2886,6 +2869,15 @@ Deities enjoy having clerics, paladins, and crusaders spread their word and figh
 Waxwork rogues have a long history on the island of Obojima in dealing with the dangerous and the arcane. They’re known for having an array of tools and tricks to delve into the most perilous of places and almost always coming back with treasures and tales. To a Waxwork rogue, any challenge or danger can be solved with a bit of wax, a pinch of smarts, and a whole lot of magic.
 #### **Smuggler**<sup>(GTD)</sup>
 Whenever someone has something of value, usually illegal, that they need delivered discreetly, they call a smuggler. These rogues are experts at concealing, stealing, and blending in unnoticed to the common folk. They are also uniquely skilled at turning opportunities around when things are not going their way, and using whatever means necessary to achieve their goals. These slippery rogues are crafty and cunning and should not be underestimated.
+#### **Blade of Radiance**<sup>(SGEH)</sup>
+The Blades of Radiance, also called Steel Saints, are known to be one of the most lethal orders of the Church. In order to become a blade, one must be a devout follower of the faith, as only those who would die for the cause are deemed worthy. Prospective members are trained within the walls of the Church, taking on the clergy as their new kin, and discarding whatever familial bonds they might have held onto. Their zealous fervor grants them unrivaled powers on the battlefield, wielding massive weapons as if they were mere toys, infusing their blade with divine powers, and breaking down their foes one by one. 
+
+
+The Blades of Radiance receive an incredibly diverse range of missions. The most brutal of their members handle gruesome matters in a lethal fashion, whereas those of a more empathetic temperament are tasked with protecting their fellows. Despite this sundry in character, they all share one goal: safeguarding the Church and its members, no matter what.
+#### **Eldritch Shadow**<sup>(SGEH)</sup>
+The origin of the Shadows is shrouded in mystery. Some say that it was first created by a group of nobles who stole a tome of forbidden magic from an errant cursed- blood scholar, while others believe that the tome was granted to them by an entity that resides deep in the cosmos, in exchange for an unspoken vow. 
+
+Regardless of their organization’s origins, today, shadows are a closely guarded secret of the Silverblood Royalty, a tool meant for discreet political assassinations and silent espionage. Mere legends to the common folk, these rogues blend into the darkness, vanishing from sight, only to reappear unseen calling forth their dreadful rifles to dispatch their foes with deadly precision.
 ## Savant
 *There are many wonderfully intelligent people in the world, but few are true Savants. Born with the innate desire to learn anything they can, and the potential for genius-level intellect, Savants spend their lives learning anything that those around them are willing to teach. (**Source: LaserLlama**)* Weak? Does this do much
 
@@ -3797,4 +3789,4 @@ To-Do:
 
 Goal: 40 Classes with ~30-35 subclasses each (if average is ~50)
 	20-25 subclasses if average is ~40
-	
+	                                                                                                                               
