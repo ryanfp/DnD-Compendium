@@ -1935,21 +1935,23 @@ _**Defy Convention.**_ You stand to shatter the laws that seek to contain the t
 
 _**Speak Truth to Power.**_ Confront the powerful with your truth, and don’t let them turn away. Only by embracing the truth can they enact change. 
 #### **Oath of Storms**<sup>(VSS)</sup>
-The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the just laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or a sovereign, and undergo their oath as part of their admission to the order’s ranks.
+The Oath of Storms calls paladins to the salty brine and choppy seas, the altar of the raging storm. Paladins who swear this oath embrace the seas’ dispassionate neutrality and uphold few core tenets. With rare exceptions, these paladins are directionless crusaders, guided by the winds and tide, and might maintain distant lighthouses, hunt down vicious pirates, or seek undiscovered lands as the gales dictate. However storm nights, as they are often called, have a long memory for vengeance and deep pensions for superstition. Always listen to the wisdom of a storm night, lest the winds turn foul and the ocean tempestuous.
 
 **Tenets of the Storm**
 
-Storm knights s
+Storm knights swear their oaths on sailing superstitions and unspoken laws of the sea, often containing the following principles:
 
-_**Safe Harbor.**_ The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.
+_**Safe Harbor.**_ Protect sailors and wise captains that respect the laws of the ocean. No gale should break their masts while you are aboard. 
 
-_**Howling Gales.**_ Your word is your bond. Without loyalty, oaths and laws are meaningless.
+_**Howling Gales.**_ The winds should steer your journey, wherever they might take you. Furthermore, it is proper that the winds should often guide you into storms. 
 
-_**Thunderous Castigation.**_ You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don’t act, then who will?
+_**Thunderous Castigation.**_ The fury of the storm demands equal reprisal for all slights, major and minor. Doing otherwise is bad luck. 
 #### **Oath of The Sun**<sup>(VSS)</sup>
-The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the just laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or a sovereign, and undergo their oath as part of their admission to the order’s ranks.
+In the wastes, the sun is a double edged sword: though it brings light, warmth, and nourishment to the deserts’ scant greenery, it also burns, blinds, and can destroy those who don't respect it. Paladins who take the oath of the sun understand the sun's dual nature, and strive to both bring its’ light to the darkest reaches of the world and protect those who fall prey to the sun's rays out of happenstance or misfortune.
 
-**Tenets of the Crown**
+Unlike other paladins, most paladins who take the oath of the sun belong to a clergy of a sun God of some sort, be it Amaratsu, Apollo, or any other. They most often serve as templars, protecting their temples from Raiders, bandits, and more supernatural threats. They are uniformly good, but have little adherence to laws other than those of their faith.
+
+**Tenets of the Sun**
 
 The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.
 
@@ -3789,4 +3791,4 @@ To-Do:
 
 Goal: 40 Classes with ~30-35 subclasses each (if average is ~50)
 	20-25 subclasses if average is ~40
-	                                                                                                                               
+	
