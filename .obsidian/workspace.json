@@ -227,29 +227,6 @@
               "icon": "lucide-file",
               "title": "Classes"
             }
-          },
-          {
-            "id": "b81e224dfe90a3f7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 - Information Compendium/📝 - Rules & Mechanics/Mechanics/Exhaustion Mechanics.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Exhaustion Mechanics"
-            }
           }
         ]
       }
@@ -572,17 +549,16 @@
       "obisidian-note-linker:Note Linker": false,
       "custom-sort:Toggle custom sorting": false,
       "iconic:Open rulebook": false,
-      "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "3a73ca7b9dac80c9",
   "lastOpenFiles": [
+    "📚 - Information Compendium/📝 - Rules & Mechanics/Mechanics/Exhaustion Mechanics.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "image.png",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Animation.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/Mechanics/Exhaustion Mechanics.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Circle of Visions.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Circle of Twilight.md",
     "Untitled.md",

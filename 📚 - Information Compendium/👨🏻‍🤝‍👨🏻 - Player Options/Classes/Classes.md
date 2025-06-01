@@ -3618,10 +3618,13 @@ Sources:
 	- **Bender Class**
 - LaserLlama’s Expanded Subclasses (only if needing to add some)
 - Rokugan (if I get a copy)
+- Drizzt’s Travelogues
 
 To-Do:
 - Type the rest of the subclasses
 - Add any extras classes from listed sources
+- Rethink the Shaman/Witch thing? Also Occultist?
+- Find way to buff Cardcaster or remove it
 - Go through subclasses with Lex (possibly and Co.)
 	- Remove certain redundant vanilla classes if niche is filled
 		- Way of Four Elements Monk
@@ -3629,7 +3632,12 @@ To-Do:
 		- Psionic subclasses?
 		- Any cantrip special subclass
 		- Cook berserker into base barb?
-		- Cook bat
+		- Cook battlemaster into base fighter? If this is just base LaserLlama alt classes
+		- Inquisitive Rogue
+		- Arcane archer fighter
+		- Alchemist Artificer
+		- Gunslinger Fighter
+		- 
 - Add more subs if needed
 - Link each subclass and class
 
