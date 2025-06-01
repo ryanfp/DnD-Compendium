@@ -3599,6 +3599,28 @@ A divine force endows jaegers of the Salvation Chapter with the ability to defen
 #### **Sanguine Chapter**
 In order to strengthen themselves, jaegers of the Sanguine Chapter rely on the essential essence that is blood. They achieve resilient states of unnatural life and feed their powers with the fruits of their violence. Although some may consider them to be monsters in and of themselves, when faced with the horrors that lurk in the dark recesses of the world, sentiment quickly changes. A jaeger's abilities can hold the line and preserve the tenuous flame of life when it should have long since been extinguished, keeping themselves and their allies alive while draining the strength of their adversaries in an endless crimson parade of blood.
 
+## Bender
+*are defined by their connection with the elements: a magic
+Manifested through precise and practised movements . More
+Than a martial art, their motions are a spectacular union (**Source: Steinhardt’s Guide to the Eldritch Hunt**)*
+
+*One who hunts beasts is a "hunter", as they are commonly called by civilized society, but few hunters have the jaeger class. Coming from all walks of life, jaegers blend in with their communities, only unleashing their abilities in times of need. They act as guardians for people who are unable to defend themselves, and they serve as the bloody sword of vengeance in a world that is hell-bent on destroying itself. Jaegers thrive in the savagery of the hunt. Their reflexes more honed than that of mere mortals, jaegers are capable of dodging the most vicious of blows and using that momentum to drive their blade deep into the heart of their prey. A jaeger's thirst for battle is endless; only in inaction can they experience fatigue. They are the perfect weapon against the nightmarish tides of beasts. Amidst this chaos, jaegers are the first to charge into battle so that their brothers and sisters can survive to live another day.* 
+
+### <u>Subclasses - Jaeger Chapters</u>
+
+*Jaegers rarely leave their home city; they would rather die than see it fall to the scourge. Following the jaeger's creed—'survive together, or die together'—they never hunt by themselves unless forced to. The nights can be brutal and the beasts are relentless; against such a ferocious onslaught, only a united front can hope to survive. As a result, jaegers are aware of the importance of teamwork and never charge into battle alone, save to retrieve fallen allies. The bonds formed during the hunts are stronger than those of many families. Blood is thicker than water, and the gods know that blood is shed when the hunt rages on.*
+
+#### **Absolute Chapter**
+Jaegers of the Absolute Chapter aim for the perfect hunt: to kill their prey without suffering a single hit. Quick hands, quick feet, and quick minds, they never stay still—always one step ahead, always striking with lethal accuracy. They are masters of their craft, refining the core techniques of a jaeger to absolute perfection. Members of the Absolute Chapter are respected by their allies and feared by their enemies.
+#### **Heretic Chapter**
+The Heretic Chapter's jaegers are despised by both religious organizations and their adherents. In a world where acts of faith are required to harness divine powers, these jaegers instead rip these powers from the very gods, tearing away their divine fabric. Through blasphemous rituals, strange ingestions, and direct grafting of powers onto their souls, heretics bind the powers of greater beings to their will. This is a path that calls for a certain madness that is only found in the most ardent of hunters, those who feel the burning need to reach the pinnacle of power and will do anything to achieve it. Some seek such power for its own sake, but most want it to put an end to the nightmare.
+#### **Marauder Chapter**
+A jaeger of the Marauder Chapter embodies raw slaughter. Vengeance, wrath, and death, all rolled into one swing that never ceases, endlessly scything through monsters, leaving a bloody wake of destruction. Each marauder is a symbol of the Chapter's determination and ferocity, striking fear into the hearts of their enemies with every swing of their weapon. They are unstoppable warriors, driven by a thirst for vengeance and the need to protect humanity from the monstrous hordes.
+#### **Salvation Chapter**
+A divine force endows jaegers of the Salvation Chapter with the ability to defend the world from the horrors, purging evil with one hand while saving the innocent with the other. Favorites of the Radiant Church, they are the light of hope in the darkness where evil dwells. Members of the Salvation Chapter know that prevention is always better than cure, and that murder is the most effective method of prevention. In their zealous righteousness, they offer hope of sanity and sanctuary to those that stand with them in their war against the tides of madness.
+#### **Sanguine Chapter**
+In order to strengthen themselves, jaegers of the Sanguine Chapter rely on the essential essence that is blood. They achieve resilient states of unnatural life and feed their powers with the fruits of their violence. Although some may consider them to be monsters in and of themselves, when faced with the horrors that lurk in the dark recesses of the world, sentiment quickly changes. A jaeger's abilities can hold the line and preserve the tenuous flame of life when it should have long since been extinguished, keeping themselves and their allies alive while draining the strength of their adversaries in an endless crimson parade of blood.
+
 
 ## Stuff
 
