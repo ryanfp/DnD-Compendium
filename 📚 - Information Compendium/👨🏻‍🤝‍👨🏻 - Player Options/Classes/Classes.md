@@ -404,8 +404,9 @@ To barbarians who follow the Path of Infiltration, rage does not mean battle cri
 Demonglass holds the essence of a fiend—pure malefic power yearning for release. A painful, and often lethal, ritual can embed a shard of demonglass in a mortal’s body; if the mortal survives, they can draw on the power of the fiend. No matter their intention, a Barbarian who walks the Path of the Demonshard may struggle to keep the fiendish malice contained.
 #### **Path of the Blinking Pack**<sup>FCG</sup>
 Barbarians who walk the Path of the Blinking Pack share in the nobility and majesty of the blink dogs they emulate. No matter where the abilities originate from, the Path of the Blinking Pack barbarian uses teleportation to hunt enemies and pack tactics to bring them down.
-~~**Path of the Brewmaster**<sup>(LAL)</sup>
-#### ~~**Path of the Empathic Ire**<sup>ECHH</sup>~~
+~~**Path of the Brewmaster**<sup>(LAL)</sup>~~
+#### **Path of the Kaiju**<sup>RGYR</sup>
+The Path of the Kaiju is one of sheer destructive force . Some warriors of this kind are fueled by a relentless hatred of a kaiju, perhaps one that destroyed their home or ravaged their continent . In such cases, an individual’s burning obsession is a source of incredible strength, manifesting as an aspect of the kaiju’s own power in moments of blind rage . Other barbarians might worship kaiju for their strength and grandeur, calling on their aid in battle, embodying the might and fury of a colossus as they charge into the fray .
 #### **Path of the Curse**<sup>CCS</sup>
 Barbarians that walk the Path of the Curse harbor a malicious presence within their body, which fuels their rage. When these barbarians enter a state of fury, this curse takes control, and at this point nothing will stop them from annihilating everything around them. Some of these barbarians accept this curse as a gift, and others fight with their curse— forcing it to work in their favor.
 #### **Path of the Raging Mind**<sup>KT</sup>
@@ -1628,7 +1629,6 @@ The Way of Street Fighting is an urban discipline founded on necessity, whose bl
 #### **Way of the Bloodied Fist**<sup>(UA)</sup>
 Monks of the Way of the Bloodied Fist follow a tradition that teaches them to control their own life force, as well as the life force of their foes. By focusing their ki, they exert control over blood - a powerful tool that is not to be underestimated. Their monasteries practice in secret in dark caves and high mountains, out of the eye of the common people, and their members only leave for the rare missions ordered by only the most desperate. Many monks of this tradition are covered in scars - some self-inflicted in their training, and others earned in battle. The monks often use their mystic energies to manipulate these scars, forming them into complex designs and symbols to represent their unique ki powers.
 #### **Way of the Four Elements Revised**<sup>(UA)</sup>
-
 #### **Way of Concordant Motion**<sup>(TOH)</sup>
 The monks of Concordant Motion follow a tradition developed and honed by various goblin and kobold clans that favored tactics involving swarming warriors. The tradition combines tactical disciplines designed to encourage groups to work as one unit with practical strategies for enhancing allies. Where many warrior-monks view ki as a power best kept within, the Way of Concordant Motion teaches its followers to project their ki into their allies through ascetic meditation and mental exercises. Followers of this tradition value teamwork and promote functioning as a cohesive whole above any search for triumph or glory.
 #### **Way of The Dragon**<sup>(TOH)</sup>
@@ -1681,7 +1681,7 @@ Way of the Demon Monks are those that channel demonic power to unleash special t
 
 Many on this path have fallen to it out of pursuit of power, a dark history, or a demonic nature, but even if their powers may seem evil, not all that wield it are evil themselves. Sometimes a righteous monk will have acquired these powers from a strange path, such as sealing something demonic within themselves to protect the world from it, or be an inheritor of the techniques will seek to use them for good.
 
-		#### **Way of the Four Elements Revised**<sup>(KT)</sup>
+#### **Way of the Four Elements Revised**<sup>(KT)</sup>
 #### **Way of the Outcast**<sup>(KT)</sup>
 An Outcast is a monk that has lost their Way. Trained in the basics of the style, they have abandoned the rigorous discipline and philosophy of their tradition, and are usually now enrolled only in the school of hard knocks. 
 
@@ -1903,21 +1903,105 @@ _**Courage.**_ You must be willing to do what needs to be done for the sake of 
 
 _**Responsibility.**_ You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.
 #### **Oath of Eternal Night**<sup>(VSS)</sup>
+The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the just laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or a sovereign, and undergo their oath as part of their admission to the order’s ranks.
 
+**Tenets of the Crown**
+
+The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.
+
+_**Law.**_ The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.
+
+_**Loyalty.**_ Your word is your bond. Without loyalty, oaths and laws are meaningless.
+
+_**Courage.**_ You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don’t act, then who will?
+
+_**Responsibility.**_ You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.
 #### **Oath of Heresy**<sup>(VSS)</sup>
 
 #### **Oath of Revelry**<sup>(VSS)</sup>
+The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the just laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or a sovereign, and undergo their oath as part of their admission to the order’s ranks.
 
+**Tenets of the Crown**
+
+The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.
+
+_**Law.**_ The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.
+
+_**Loyalty.**_ Your word is your bond. Without loyalty, oaths and laws are meaningless.
+
+_**Courage.**_ You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don’t act, then who will?
+
+_**Responsibility.**_ You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.
 #### **Oath of Storms**<sup>(VSS)</sup>
+The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the just laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or a sovereign, and undergo their oath as part of their admission to the order’s ranks.
 
+**Tenets of the Crown**
+
+The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.
+
+_**Law.**_ The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.
+
+_**Loyalty.**_ Your word is your bond. Without loyalty, oaths and laws are meaningless.
+
+_**Courage.**_ You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don’t act, then who will?
+
+_**Responsibility.**_ You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.
 #### **Oath of The Sun**<sup>(VSS)</sup>
+The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the just laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or a sovereign, and undergo their oath as part of their admission to the order’s ranks.
 
+**Tenets of the Crown**
+
+The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.
+
+_**Law.**_ The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.
+
+_**Loyalty.**_ Your word is your bond. Without loyalty, oaths and laws are meaningless.
+
+_**Courage.**_ You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don’t act, then who will?
+
+_**Responsibility.**_ You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.
 #### **Oath of Winter**<sup>(VSS)</sup>
+The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the just laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or a sovereign, and undergo their oath as part of their admission to the order’s ranks.
 
+**Tenets of the Crown**
+
+The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.
+
+_**Law.**_ The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.
+
+_**Loyalty.**_ Your word is your bond. Without loyalty, oaths and laws are meaningless.
+
+_**Courage.**_ You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don’t act, then who will?
+
+_**Responsibility.**_ You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.
 #### **Oath of Heroism**<sup>(UA)</sup>
+The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the just laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or a sovereign, and undergo their oath as part of their admission to the order’s ranks.
 
+**Tenets of the Crown**
+
+The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.
+
+_**Law.**_ The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.
+
+_**Loyalty.**_ Your word is your bond. Without loyalty, oaths and laws are meaningless.
+
+_**Courage.**_ You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don’t act, then who will?
+
+_**Responsibility.**_ You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.
 #### **Oath of Treachery**<sup>(UA)</sup>
+The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the just laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or a sovereign, and undergo their oath as part of their admission to the order’s ranks.
 
+**Tenets of the Crown**
+
+The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.
+
+_**Law.**_ The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.
+
+_**Loyalty.**_ Your word is your bond. Without loyalty, oaths and laws are meaningless.
+
+_**Courage.**_ You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don’t act, then who will?
+
+_**Responsibility.**_ You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.
 #### **Oath of the Grave**<sup>(DAC)</sup>
 The Oath of the Grave is a seldom practiced tradition, most Commonly reserved for the followers of the Raven Queen. Sometimes called winter knights, black knights, or grave knights, These paladins serve as protectors of the sacred passing into the Afterlife. They constantly struggle against the forces of undeath, As they see them as the most unholy abominations that blight this Land. They adorn themselves with images of death and winter - Skulls, ravens, or similar symbols of their patron gods.
 
@@ -1933,7 +2017,19 @@ _**Let Souls Pass On.**_ Every soul deserves its place in the afterlife. When yo
 
 _**Accept Death.**_ Death comes to all eventually. Accept it, and you will find a place in the afterlife.
 #### **Oath of the Hellsworn**<sup>(UA)</sup>
+The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the just laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or a sovereign, and undergo their oath as part of their admission to the order’s ranks.
 
+**Tenets of the Crown**
+
+The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.
+
+_**Law.**_ The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.
+
+_**Loyalty.**_ Your word is your bond. Without loyalty, oaths and laws are meaningless.
+
+_**Courage.**_ You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don’t act, then who will?
+
+_**Responsibility.**_ You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.
 #### **Oath of Justice**<sup>(TOH)</sup>
 The Oath of Justice is a commitment not to the tenets of good or evil but a holy vow sworn to uphold the laws of a nation, a city, or even a tiny village. When lawlessness threatens the peace, those who swear to uphold the Oath of Justice intervene to maintain order, for if order falls to lawlessness, it is only a matter of time before all of civilization collapses into anarchy. 
 
@@ -3600,28 +3696,20 @@ A divine force endows jaegers of the Salvation Chapter with the ability to defen
 In order to strengthen themselves, jaegers of the Sanguine Chapter rely on the essential essence that is blood. They achieve resilient states of unnatural life and feed their powers with the fruits of their violence. Although some may consider them to be monsters in and of themselves, when faced with the horrors that lurk in the dark recesses of the world, sentiment quickly changes. A jaeger's abilities can hold the line and preserve the tenuous flame of life when it should have long since been extinguished, keeping themselves and their allies alive while draining the strength of their adversaries in an endless crimson parade of blood.
 
 ## Bender
-*are defined by their connection with the elements: a magic
-Manifested through precise and practised movements . More
-Than a martial art, their motions are a spectacular union (**Source: Steinhardt’s Guide to the Eldritch Hunt**)*
+*Benders are defined by their connection with the elements: a magic manifested through precise and practiced movements. More than a martial art, their motions are a spectacular union of magical and physical virtuosity, each twist and flick a nuanced touch of the Weave. For some, this is a weapon of war, of thunderclaps and fists of rock. For others, this is a tool to preserve, to craft shields of ice and invigorate with an inner flame. Whether a bender chooses to study all the elements—earth, air, water, and fire—or to master just one, the primordial forces of nature are theirs to command.(**Source: Ryoko’s Guide to the Yokai Realms**)*
 
-*One who hunts beasts is a "hunter", as they are commonly called by civilized society, but few hunters have the jaeger class. Coming from all walks of life, jaegers blend in with their communities, only unleashing their abilities in times of need. They act as guardians for people who are unable to defend themselves, and they serve as the bloody sword of vengeance in a world that is hell-bent on destroying itself. Jaegers thrive in the savagery of the hunt. Their reflexes more honed than that of mere mortals, jaegers are capable of dodging the most vicious of blows and using that momentum to drive their blade deep into the heart of their prey. A jaeger's thirst for battle is endless; only in inaction can they experience fatigue. They are the perfect weapon against the nightmarish tides of beasts. Amidst this chaos, jaegers are the first to charge into battle so that their brothers and sisters can survive to live another day.* 
+### <u>Subclasses - Bender Disciplines</u>
 
-### <u>Subclasses - Jaeger Chapters</u>
+*The elements are every bender’s tool, the instrument with which they dazzle an audience, save souls from natural disaster, or strike down foes. As varied as the myriad ways in which nature manifests, different benders find inspiration from different facets of nature. Some feast on the catastrophic eruption of a volcano, a tumultuous torrent of fire and earth. Others are roused by stoic glaciers and the impenetrable teeth of high mountains. And the bountiful creche of gentle winds and clean water provides succor for those who nurture values of growth and wellbeing .*
 
-*Jaegers rarely leave their home city; they would rather die than see it fall to the scourge. Following the jaeger's creed—'survive together, or die together'—they never hunt by themselves unless forced to. The nights can be brutal and the beasts are relentless; against such a ferocious onslaught, only a united front can hope to survive. As a result, jaegers are aware of the importance of teamwork and never charge into battle alone, save to retrieve fallen allies. The bonds formed during the hunts are stronger than those of many families. Blood is thicker than water, and the gods know that blood is shed when the hunt rages on.*
-
-#### **Absolute Chapter**
-Jaegers of the Absolute Chapter aim for the perfect hunt: to kill their prey without suffering a single hit. Quick hands, quick feet, and quick minds, they never stay still—always one step ahead, always striking with lethal accuracy. They are masters of their craft, refining the core techniques of a jaeger to absolute perfection. Members of the Absolute Chapter are respected by their allies and feared by their enemies.
-#### **Heretic Chapter**
-The Heretic Chapter's jaegers are despised by both religious organizations and their adherents. In a world where acts of faith are required to harness divine powers, these jaegers instead rip these powers from the very gods, tearing away their divine fabric. Through blasphemous rituals, strange ingestions, and direct grafting of powers onto their souls, heretics bind the powers of greater beings to their will. This is a path that calls for a certain madness that is only found in the most ardent of hunters, those who feel the burning need to reach the pinnacle of power and will do anything to achieve it. Some seek such power for its own sake, but most want it to put an end to the nightmare.
-#### **Marauder Chapter**
-A jaeger of the Marauder Chapter embodies raw slaughter. Vengeance, wrath, and death, all rolled into one swing that never ceases, endlessly scything through monsters, leaving a bloody wake of destruction. Each marauder is a symbol of the Chapter's determination and ferocity, striking fear into the hearts of their enemies with every swing of their weapon. They are unstoppable warriors, driven by a thirst for vengeance and the need to protect humanity from the monstrous hordes.
-#### **Salvation Chapter**
-A divine force endows jaegers of the Salvation Chapter with the ability to defend the world from the horrors, purging evil with one hand while saving the innocent with the other. Favorites of the Radiant Church, they are the light of hope in the darkness where evil dwells. Members of the Salvation Chapter know that prevention is always better than cure, and that murder is the most effective method of prevention. In their zealous righteousness, they offer hope of sanity and sanctuary to those that stand with them in their war against the tides of madness.
-#### **Sanguine Chapter**
-In order to strengthen themselves, jaegers of the Sanguine Chapter rely on the essential essence that is blood. They achieve resilient states of unnatural life and feed their powers with the fruits of their violence. Although some may consider them to be monsters in and of themselves, when faced with the horrors that lurk in the dark recesses of the world, sentiment quickly changes. A jaeger's abilities can hold the line and preserve the tenuous flame of life when it should have long since been extinguished, keeping themselves and their allies alive while draining the strength of their adversaries in an endless crimson parade of blood.
-
-
+#### **Disciple of Ferocity**
+Disciples of Ferocity traverse battlefields as a whirlwind of blades, fists, and elemental fury. Whether it be with the deadly patience of a stalking predator or the reckless abandon of a raging barbarian, these benders rely on an unflinching offence as the solution to that which stands in their way. They are students of devastation. Armed and armored, their movements embody the destructive forces of nature: desolating wildfires, wrenching tornadoes, surging tsunamis, and rending earthquakes .
+#### **Disciple of Fortification**
+A bubble of temperate calm amongst a raging wildfire, a wedge of unmoving rock within a landslide, a shield of ice against fist-sized hailstones; you are a bulwark against the forces of nature, bending them to protect yourself and your allies. You understand that your role is not to crush and slaughter but to preserve those around you so you may triumph together .
+#### **Disciple of Fusion**
+The elements are pure: solid earth, liquid water, gaseous air, and fire—energy incarnate. However, the borders between these elements are where things get interesting. Water and earth can produce calamitous mudslides capable of decimating an army. When wind whips up sand, a dust storm can leave even the hardiest explorers lost and disoriented. And in the quiet of a bathhouse, the confluence of fire and water can bring about calming steam that cleanses the body and soothes the soul .
+#### **Disciple of Invigoration**
+A rock suddenly lowers, dropping an ally a crucial inch and turning a critical hit into a glancing blow. A precise gust of wind accelerates an arrow over a foe’s shield, striking them in the eye. A burst of flame temporarily blinds an opponent, causing their battleaxe to swing wide. Where others shield and strike, Disciples of Invigoration prefer a more subtle approach, bolstering an ally from within or manipulating a foe’s attacks with alacritous and shrewd bursts of elemental energy .
 ## Stuff
 
 Sources:
@@ -3633,11 +3721,11 @@ Sources:
 	- ~~~**Jaeger Class**~~~
 - Ryoko’s Guide to the Yokai Realms
 	- Tamer Class
-	- **Bender Class**
+	- ~~**Bender Class**~~
 	- All subclasses
 - LaserLlama’s Expanded Subclasses (only if needing to add some)
 - Rokugan (if I get a copy)
-- Drizzt’s Travelogues
+
 
 To-Do:
 - Type the rest of the subclasses
