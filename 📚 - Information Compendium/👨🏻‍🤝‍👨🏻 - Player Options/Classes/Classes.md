@@ -1953,57 +1953,25 @@ Unlike other paladins, most paladins who take the oath of the sun belong to a cl
 
 **Tenets of the Sun**
 
-The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.
+The tenets of the Oath of the Crown are always taken in public at high noon, among the congregation of the paladin’s church. 
 
-_**Law.**_ The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.
+_**The Sun Rises.**_ The sun rises over the horizon each day, without fail, spreading light over the whole of the world. So should you never fail in your task to spread your faith and knowledge.
 
-_**Loyalty.**_ Your word is your bond. Without loyalty, oaths and laws are meaningless.
+_**The Sun Blazes.**_ Under the noonday sun, only the pure may survive for long. Those that fear the sun must see its’ light, so as to burn away their impurity. 
 
-_**Courage.**_ You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don’t act, then who will?
-
-_**Responsibility.**_ You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.
+_**The Sun Sets.**_ The sun must rest each night, and give the world a chance to sleep. So too should you give rest to your fury and righteousness in the service of mercy, though only to those who deserve it. 
 #### **Oath of Winter**<sup>(VSS)</sup>
-The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the just laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or a sovereign, and undergo their oath as part of their admission to the order’s ranks.
+The Oath of Winter was originally a concord with an ancient being of ice, Father Winter. With this treatise, a paladin swears to stand vanguard against the cold, protecting the innocent from the ravages of winter's ice and the horrors of the bitter north. Even as Father Winter has faded into obscurity with the march of centuries, the order of paladins sworn to this oath has remained, their concord and duty neverending.
 
-**Tenets of the Crown**
-
-The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.
-
-_**Law.**_ The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.
-
-_**Loyalty.**_ Your word is your bond. Without loyalty, oaths and laws are meaningless.
-
-_**Courage.**_ You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don’t act, then who will?
-
-_**Responsibility.**_ You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.
-#### **Oath of Heroism**<sup>(UA)</sup>
-The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the just laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or a sovereign, and undergo their oath as part of their admission to the order’s ranks.
-
-**Tenets of the Crown**
+**Tenets of the Winter**
 
 The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.
 
-_**Law.**_ The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.
+_**Winter’s Snow.**_ Though the winter is long and harsh, it is not altogether evil. Your concord with Father Winter himself is proof of proof of that.
 
-_**Loyalty.**_ Your word is your bond. Without loyalty, oaths and laws are meaningless.
+_**Winter’s Wind.**_ With the coming of winter frosts are harsh dangers and frigid creatures not found in the summer. It is your duty to protect the innocent from this peril.
 
-_**Courage.**_ You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don’t act, then who will?
-
-_**Responsibility.**_ You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.
-#### **Oath of Treachery**<sup>(UA)</sup>
-The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the just laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or a sovereign, and undergo their oath as part of their admission to the order’s ranks.
-
-**Tenets of the Crown**
-
-The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.
-
-_**Law.**_ The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.
-
-_**Loyalty.**_ Your word is your bond. Without loyalty, oaths and laws are meaningless.
-
-_**Courage.**_ You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don’t act, then who will?
-
-_**Responsibility.**_ You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.
+_**Winter’s Throne.**_ Seeking to unseat Father Winter from his throne of ice is to break your vow. No matter the evils of his reign, never break your concord. Seasons change, but your oath does not.
 #### **Oath of the Grave**<sup>(DAC)</sup>
 The Oath of the Grave is a seldom practiced tradition, most Commonly reserved for the followers of the Raven Queen. Sometimes called winter knights, black knights, or grave knights, These paladins serve as protectors of the sacred passing into the Afterlife. They constantly struggle against the forces of undeath, As they see them as the most unholy abominations that blight this Land. They adorn themselves with images of death and winter - Skulls, ravens, or similar symbols of their patron gods.
 
