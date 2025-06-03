@@ -6,7 +6,7 @@
       {
         "id": "2816a3b8913ff648",
         "type": "tabs",
-        "dimension": 25.79250720461095,
+        "dimension": 25.792507204610946,
         "children": [
           {
             "id": "d6aaf4890575e5c6",
@@ -580,8 +580,7 @@
       "obisidian-note-linker:Note Linker": false,
       "custom-sort:Toggle custom sorting": false,
       "iconic:Open rulebook": false,
-      "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "3a73ca7b9dac80c9",
