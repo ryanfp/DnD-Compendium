@@ -1986,20 +1986,7 @@ _**Preserve the Righteous.**_ Death should not come early to those who have led 
 _**Let Souls Pass On.**_ Every soul deserves its place in the afterlife. When you see a creature forced into undeath, let its soul go free.
 
 _**Accept Death.**_ Death comes to all eventually. Accept it, and you will find a place in the afterlife.
-#### **Oath of the Hellsworn**<sup>(UA)</sup>
-The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the just laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or a sovereign, and undergo their oath as part of their admission to the order’s ranks.
-
-**Tenets of the Crown**
-
-The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.
-
-_**Law.**_ The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.
-
-_**Loyalty.**_ Your word is your bond. Without loyalty, oaths and laws are meaningless.
-
-_**Courage.**_ You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don’t act, then who will?
-
-_**Responsibility.**_ You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.
+#### ~~**Oath of the Hellsworn**<sup>(UA)</sup>~~
 #### **Oath of the Yojimbo**<sup>(RGYR)</sup>
 Yojimbo are sworn to protect those to whom they dedicate their service, be it an individual, a group, or an entire nation . Though Yojimbo typically pledge their allegiance to a charge and accompany them until death, a defenseless soul might find the raking claws of a dodomeki halted inches from their face by the serendipitous intervention of a wandering Yojimbo paladin . These roaming saviors traverse the realms on an unrelenting quest to shield those who can’t protect themselves . Despite being in high demand— unshakeable loyalty is a coveted virtue—Yojimbo rarely pledge themselves to the wealthy or powerful . It’s said that a true Yojimbo has the value of ten sellswords in battle, and ten-thousand sellswords in spirit .
 
@@ -2589,14 +2576,15 @@ Emulating the Hunter archetype means accepting your place as a bulwark between t
 The Beast Master archetype embodies a friendship between the civilized races and the beasts of the wild. United in focus, beast and ranger fight the monsters that threaten civilization and the wilderness alike.
 #### **Drakewarden Conclave**
 Your connection to the natural world takes the form of a draconic spirit, which can manifest in physical form as a drake. As your powers grow, your drake grows as well, blossoming from a small four-legged companion to a majestic winged creature large and strong enough for you to ride. Along the way, you gain an increasing share of the awe-inspiring power of dragons.
-#### **Beastborne Conclave**<sup>(VSS)</sup>
-
+#### ~~**Beastborne Conclave**<sup>(VSS)</sup>~~
 #### **Freerunner Conclave**<sup>(VSS)</sup>
+Agile, evasive, and unmoored from the constraints that slow down other rangers, the archetypal freerunner is supremely nimble and capable of crossing terrain faster than anyone else. They accomplish this through a skilled combination of dashing, leaping, and nimbly climbing that guides them down clever paths through their environments. Moreover, an adept freerunner can convert the momentum from their gymnastics into deadly force, crushing their enemies with exceptional impact from unexpected directions.
 
+A freerunner is most at home in the city or in the treetops of a great forest, for their unique movement requires a place that is steeped with complex geometry which reaches high into the sky. Of course, even on flat terrain, a free runners agility is not to be underestimated, for they can dive through a giant's legs or scurry up its back with ease.
 #### **Highwayman Conclave**<sup>(VSS)</sup>
-
+For bandits, bank robbers, and green clad folk heroes, there's no better way to make money than robbing nobles at knife point, especially in caravans. None are more prosperous at roadside robbery, perhaps, than highwaymen, who leverage their stealth and superior numbers to steal anything they wish before escaping into the trees with their bounty. A team of bandits works and smooth coordination, watching each other's backs and at choreographed theater of shouting, looting, and cutting down anyone who runs.
 #### **Spellbreaker Conclave**<sup>(VSS)</sup>
-
+When a wizard embraces forbidden, volatile magic, or a sorcerer loses control of their arcane power, a spellbreaker is not far behind. This ancient order of rangers tracks dangerous spellcasters, from rogue bards to demonic warlocks, and eliminates them before their magic can wreak havoc on an entire city or endanger the multiverse itself. They are trained in techniques to bypass magical defenses and rip small holes in the fabric of magic itself to catch unaware any spellcaster in their midst. While most spellbreakers execute their quarry or capture them for the authorities, a few still burn which is at the stake, earning all spellbreakers a grim reputation.
 #### **Trophy Hunter Conclave**<sup>(VSS)</sup>
 
 #### **Vigilante Conclave**<sup>(VSS)</sup>
