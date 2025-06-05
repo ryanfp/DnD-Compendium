@@ -2585,24 +2585,14 @@ A freerunner is most at home in the city or in the treetops of a great forest, f
 For bandits, bank robbers, and green clad folk heroes, there's no better way to make money than robbing nobles at knife point, especially in caravans. None are more prosperous at roadside robbery, perhaps, than highwaymen, who leverage their stealth and superior numbers to steal anything they wish before escaping into the trees with their bounty. A team of bandits works and smooth coordination, watching each other's backs and at choreographed theater of shouting, looting, and cutting down anyone who runs.
 #### **Spellbreaker Conclave**<sup>(VSS)</sup>
 When a wizard embraces forbidden, volatile magic, or a sorcerer loses control of their arcane power, a spellbreaker is not far behind. This ancient order of rangers tracks dangerous spellcasters, from rogue bards to demonic warlocks, and eliminates them before their magic can wreak havoc on an entire city or endanger the multiverse itself. They are trained in techniques to bypass magical defenses and rip small holes in the fabric of magic itself to catch unaware any spellcaster in their midst. While most spellbreakers execute their quarry or capture them for the authorities, a few still burn which is at the stake, earning all spellbreakers a grim reputation.
-#### **Trophy Hunter Conclave**<sup>(VSS)</sup>
-
-#### **Vigilante Conclave**<sup>(VSS)</sup>
-
+#### ~~**Trophy Hunter Conclave**<sup>(VSS)</sup>~~
+#### ~~**Vigilante Conclave**<sup>(VSS)</sup>~~
 #### **Rōnin**<sup>(RGYR)</sup>
 The Rōnin are masterless, wandering warriors, beholden to no code but their own . No two are the same, each with their own tale that led them down the warrior’s path . They are masters of many weapons, striking with blade and arrow in a spectacle of blinding speed and accuracy . Some Rōnin use their power to protect the vulnerable—vigilantes doing what they see as right, no matter the cost . Others pursue their own ends, unfettered by the consequences of their actions . Rōnin are dangerous combatants, hardened survivors, and above all things, free .
-#### **(UA Version)**<sup>(UA)</sup>
-
 #### **Hollow Warden Conclave**<sup>(UA)</sup>
-
-#### **Deep Stalker Conclave**<sup>(UA)</sup>
-
-#### **Primeval Guardian Conclave**<sup>(UA)</sup>
-
+Legends tell that the most ancient and fearsome terrors lurk deep within the old places of the earth — unfathomable and bloodthirsty entities of fallow soil and sharpened claws. Hollow Wardens venerate and draw power from such beings, transforming themselves into similarly merciless and monstrous guardians that stalk along jagged coastlines, across steep mountain crags, and through other dark and wild places. 
 #### **Nightstalker Conclave**<sup>(DAC)</sup>
 The Nightstalker archetype emulates a unique form of shadow magic, used to create shadowy familiars to accompany you in battle. By walking this path, you learn to use your shadow familiar like an extension of yourself, using them like a weapon as you stalk through the dim forests and vast plains of the world, searching for your prey. Your choice of familiar defines your style of fighting, with each familiar playing a different role on the hunt and on the battlefield.
-#### **Seedmaster Conclave**<sup>(UA)</sup>
-
 #### **Tamaya Conclave**<sup>(RGYR)</sup>
 The secrets of hanabi, alchemical fabrications that explode in dazzling arrays of light and sound, are some of the most well-guarded of any of the artificing guilds . However, no ship is entirely without leaks, and well-kept secrets fetch a high price . Whether from a jaded pyrotechnician, stolen formulae, or enough coin in the right hands, some enter- prising individuals learn these clandestine secrets . Known as Tamaya, such rogues use the pseudo-magic of fireworks as weapons to supplement their gunpowder-fuelled toolbox, sending enemies spiraling into disarray and chaos . Using artifice and ingenuity, these masters of thunder, fire, and smoke prove true the old adage: sufficiently advanced technology is indistinguishable from magic .
 #### ~~**Beast Trainer Conclave**<sup>(TOH)</sup>~~
