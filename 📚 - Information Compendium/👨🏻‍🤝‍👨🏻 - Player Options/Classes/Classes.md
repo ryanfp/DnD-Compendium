@@ -2652,7 +2652,7 @@ Spiritbound rangers forge a pact with the invisible nature spirits of the mounta
 
 Rangers of this archetype strive to achieve balance with the natural world and preserve its majesty. Doing so is a constant struggle in which the spiritbound can find wisdom and companionship within their spirit ally.
 #### **Hound of the Huntsman Conclave**<sup>(CFSA)</sup>
-
+In your life, you've slain a creature great and terrible, whether by design or by the twists and turns of fate, showing the mastery of mortals over the natural world. As you brought the beast low, you felt the eyes of an ancient immortal upon you the sheer power of the wild Huntsman's cold intent tore the beast open and infused you with its spirit. You owe no favor to this manifestation of the predatory nature of mankind, nor must you hold it in any esteem. Nevertheless, the cursed cold of its domain flows through your veins, even as the twisted spirit of the beast you slew writhes within your skin, bursting forth in a spiritual manifestation of primal hate. In the heat of combat, you must keep an icy grip on your humanity, lest you fall to the dark hunger of the predator. It is through dominance that you shall triumph, for anything less will lead to your death. Prove to the Huntsman that you are greater than a beast.
 #### **Trapper Conclave**<sup>(HGMH)</sup>
 Through careful preparation, trappers can create both physical and magical traps to ensnare, explode, or enrapture those unlucky enough to find themselves in their vicinity. Trappers are found in all terrains where there are creatures to be hunted. With tact and guile as their companions, a trapper can lay low even the mightiest of prized beasts.
 #### **Winter Trapper Conclave**<sup>(TGS)</sup>
