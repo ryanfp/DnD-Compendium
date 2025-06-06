@@ -3193,22 +3193,17 @@ Entities of the deep that might empower a warlock include krakens, ancient water
 You have made a pact with one of the rarest kinds of genie, a noble genie. Such entities rule vast fiefs on the Elemental Planes and have great influence over lesser genies and elemental creatures. Noble genies are varied in their motivations, but most are arrogant and wield power that rivals that of lesser deities. They delight in turning the table on mortals, who often bind genies into servitude, and readily enter into pacts that expand their reach.
 #### **The Undead**
 You've made a pact with a deathless being, a crea­ture that defies the cycle and life and death, forsak­ing its mortal shell so it might eternally pursue its unfathomable ambitions. For such beings, time and morality are fleeting things, the concerns of those for whom grains of sand still rush through life's hourglass. Having once been mortal themselves, these ancient undead know firsthand the paths of ambition and the routes past the doors of death. They eagerly share this profane knowledge, along with other secrets, with those who work their will among the living.
-#### **The Dead Mists**<sup>(VSS)</sup>
-
+#### ~~**The Dead Mists**<sup>(VSS)</sup>~~
 #### **The Future You**<sup>(VSS)</sup>
-
+Your patron is you in a decades-distant future. Perhaps your future self found an artigfact of great power connecting them to the past, which they myust now lead you to discover, or perhaps they were taught the mystic arts by their future self long ago, a cycle you will have to continue by teraching yourself someday. Your future self has forgotten the fine details of some things, and outright refuses to tell you about things you “can’t yet know”, but offers compelling insight and guidance nonetheless. You’re not quite sure what your future self is planning for your future (and for their past), but one thing is certain —- they need you alive. 
 #### **The Legacy**<sup>(VSS)</sup>
+Rather than forging a pact inked by blood or bound to your soul, you have inherited a Legacy, a patron embodied by a line of inheritors sworn to a sacred cause. In so doing, you have acquired a relic of this ancient legacy, an object of unimaginable power passed down through the generations or recently uncovered from a long-lost civilization. With it, you can transform into the most powerful version of yourself to continue your Legacy’s fight. 
 
+Countless Legacies have imbued warlocks with ancient powers, and only a few remain today, but each posses a unique type of relic and bestows a unique type of transformation. How you use this transformation is ultimately up to you, but the legacy conspires to see you achieve greatness and advance it’s unknowable ancient goals. 
 #### **The Magician**<sup>(VSS)</sup>
-
-#### **The Symbiont**<sup>(VSS)</sup>
-
-#### **Undying Light**<sup>(UA)</sup>
-
-#### **The Seeker**<sup>(UA)</sup>
-
-#### **Raven Queen**<sup>(UA)</sup>
-
+While all warlocks are skilled in the art of magic, very few are what most people would consider “magicians”, skilled in the arts of physical illusion, sleight of hand, and showmanship. Those with such talents might find themselves drawn to the mysterious Magician, believed to be a minor trickster deity (who most often takes the form of a white rabbit), long forgotten and bereft of worshippers. Under the Magician’s patronage, warlocks command an amalgamation of real and fake magic, such that it’s never clear if they’re casting spells, performing a ruse, or putting on a show. 
+#### ~~**The Symbiont**<sup>(VSS)</sup>~~
+#### ~~**Raven Queen**<sup>(UA)</sup>~~
 #### **The Archlich**<sup>(DAC)</sup>
 You have made a pact with an archlich, a creature that has existed since the dawn of the last age and holds secrets of arcane magic that have been forgotten for thousands of years. Such a being desires only to expand its own power and influence, only using you as a pawn in its far larger scheme. Any lich powerful enough to form a pact has lived for many thousands of years, and many of them were involved in the invention of lichdom itself.
 #### **Ancient Dragons**<sup>(TOH)</sup>
