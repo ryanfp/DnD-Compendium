@@ -2714,17 +2714,18 @@ Many rogues walk a fine line between life and death, risking their own lives and
 #### **Soulknife**
 Most assassins strike with physical weapons, and many burglars and spies use thieves’ tools to infiltrate secure locations. In contrast, a Soulknife strikes and infiltrates with the mind, cutting through barriers both physical and psychic. These rogues discover psionic power within themselves and channel it to do their roguish work. They find easy employment as members of thieves’ guilds, though they are often mistrusted by rogues who are leery of anyone using strange mind powers to conduct their business. Most governments would also be happy to employ a Soulknife as a spy.
 #### **Arachnoid Stalker**<sup>(VSS)</sup>
-
-#### **Enforcer**<sup>(VSS)</sup>
-
+A life-changing event, such as being cursed by a drider warlock or being bitten by a dangerously transmuted arachnid, has imbued you with the properties of a spider. This transformation might have left you physically unchanged, or you could have a half-dozen eyes, lanky and hairy limbs, or a set of inhuman mandibles. Whatever the transformation’s side effects, you can now produce deadly poison and ropes of silken web from your palm, and eventually can scale the wall with your fingertips. 
+#### ~~**Enforcer**<sup>(VSS)</sup>~~
 #### **Grifter**<sup>(VSS)</sup>
-
+Swindlers, cheats, and most of all, grifters hang around taverns where people might have a looser grasp on their coins. The archetypal grifter knows that, with the right words and the right scheme, you can part anyone from their money, and even make it seem fair. Grifters are masters of cons, big and small, from counting cards and rolling loaded dice, to pyramid scheems and fraud. 
 #### **Shadow Master**<sup>(VSS)</sup>
-
+Rogues that wish to gain membership in the furtive Order of Shadow Masters must perform twelve trials, train relentlessly and undergo the Umbral Rite,, a ritual of profound darkness that severs their shadow from their heels. In return, they grow pale and gaunt with empty holes for eyes, but you can manipulate the shadows as one does a marionette. They can summon inky blackness and see through impenetrable night, while their shadows skulk about the walls and floors, doing their every bidding. 
 #### **Temporal Trickster**<sup>(VSS)</sup>
-
+Of the rogues who dabble in magic, only a few posses the aptitude to master chronomancy, the magic of time. These skillful dilettantes practice a variety of professions, for the ability to manipulate time is useful in all manner of roguish pursuits. With a flick of the fingers, a temporal trickster can freeze time, rearrange seconds, or leap into the future. 
 #### **Titan Slayer**<sup>(VSS)</sup>
+Thought titan slayers often adopt larger-than-life names and perform immense feats, they are universally little folk, such as halflings and gnomes, which excel at battling foes larger than themselves. 
 
+As a titan slayer, you have learned a number of techniques to dumbfound larger creatures so that you can target their vital areas and bring them down swiftly. You use your foes size against them, weaving between their limbs and striking when they least expect it. No challenge, no foe is too large for you, for as they say, “The bigger they are, the harder they fall”.
 #### **Shadow**<sup>(DAC)</sup>
 Some rogues choose to delve into the intricacies of shadow magic, using its unique powers to enhance their skills in stealth and deception. These rogues are a very diverse subset, from simple thieves to hired killers to highly trained bounty hunters. By learning how to separate their shadow from their body, shadow rogues become difficult to catch and even harder to kill.
 #### **Cat Burglar**<sup>(TOH)</sup>
@@ -2954,12 +2955,10 @@ Your innate magic comes from the power of elemental air. Many with this power ca
 Your innate magic comes from draconic magic that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their descent back to a mighty sorcerer of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given sorcerer could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.
 #### **Wild Magic Origin**
 Your innate magic comes from the forces of chaos that underlie the order of creation. You might have endured exposure to raw magic, perhaps through a planar portal leading to Limbo, the Elemental Planes, or the Far Realm. Perhaps you were blessed by a fey being or marked by a demon. Or your magic could be a fluke of your birth, with no apparent cause. However it came to be, this magic churns within you, waiting for any outlet.
-#### **Emotion Lord Origin**<sup>(VSS)</sup>
-
+#### ~~**Emotion Lord Origin**<sup>(VSS)</sup>~~
 #### **Mirrorkin Origin**<sup>(VSS)</sup>
 
-#### **Oozemaster Origin**<sup>(VSS)</sup>
-
+#### ~~**Oozemaster Origin**<sup>(VSS)</sup>~~
 #### **Reincarnated Hero Origin**<sup>(VSS)</sup>
 
 #### **Spiritborn Origin**<sup>(VSS)</sup>
