@@ -2957,26 +2957,23 @@ Your innate magic comes from draconic magic that was mingled with your blood or 
 Your innate magic comes from the forces of chaos that underlie the order of creation. You might have endured exposure to raw magic, perhaps through a planar portal leading to Limbo, the Elemental Planes, or the Far Realm. Perhaps you were blessed by a fey being or marked by a demon. Or your magic could be a fluke of your birth, with no apparent cause. However it came to be, this magic churns within you, waiting for any outlet.
 #### ~~**Emotion Lord Origin**<sup>(VSS)</sup>~~
 #### **Mirrorkin Origin**<sup>(VSS)</sup>
-
+One of your ancestors came from beyond the looking glass; a strange world where everything is a twisted reflection of the true reality. As such, you have inherited amazing powers of mimicry and illusion that allow you to copy other people’s abilities. To fight against you is almost akin to fighting one’s own mirror image, something few warriors would relish.  
 #### ~~**Oozemaster Origin**<sup>(VSS)</sup>~~
 #### **Reincarnated Hero Origin**<sup>(VSS)</sup>
-
+Sorcerers gain their powers in mysterious ways that they seldom have control over. You are the reincarnation of a legendary hero, known to have slain many terrible foes. Being called back to life, be it by the gods, a very powerful mage, or a persistent curse on your soul, has left the indelible mark of sorcery upon you and awakened your ancient instincts for battle. 
 #### **Spiritborn Origin**<sup>(VSS)</sup>
-
+Your magic comes not from your blood, but from the conditions of your birth. Born during a specific time, or in accordance with a specific prophecy, your birth was heralded by the birth of an albino animal closely tied to your family. This animal, a powerful spirit in physical form, is bound to your very soul, allowing you to work powerful magic. Much like your bonded spirit, your skin and hair took on a color unusual for your race, with both usually becoming stark white, but sometimes a deep amber or golden hue. 
 #### **Toon Magic Origin**<sup>(VSS)</sup>
+The demiplane of toons, called Toon Town, is an oft-overlooked nook on the far edge of the multiverse inhabited by creatures of ink and magic that defy logic. In Toon Town, the laws of physics take a backseat to comic timing and various hijinks; it is a plane that despises seriousness. 
 
-#### **Phoenix Origin**<sup>(UA)</sup>
-
-#### **Stone Origin**<sup>(UA)</sup>
-
-#### **Giant Origin**<sup>(UA)</sup>
-
+You are descended from a denizen of Toon Town (likely a copyrighted one) or infected by the zany magic that suffuses that plane. As such, your eyes are larger than normal, and your sense of humor lets you bend the rigidi restrictions of space and time, provided that you leave a trail of slapstick jokes in your wake. 
+#### ~~**Phoenix Origin**<sup>(UA)</sup>~~
+#### ~~**Stone Origin**<sup>(UA)</sup>~~
+#### ~~**Giant Origin**<sup>(UA)</sup>~~
 #### **Deathtouched Origin**<sup>(DAC)</sup>
 Your innate magic comes from a past encounter with death. Most often, this origin is traced back to surviving an attack from an undead, such as a vampire’s bite, a ghost’s possession, or a specter’s life drain. Or, it could have originated from an imperfect revival or near-death experience. Regardless of the way you attained this dark magic, it now dictates your life and greatly augments your power.
 #### **Vampiric Bloodline Origin**<sup>(DAC)</sup>
 Your innate magic stems from the mingling of your bloodline with the blood of a vampire. Some sorcerers with this origin can trace their powers back to an ancient bargain with a powerful vampire. When a vampire takes particular interest in a mortal being, they may allow that humanoid to have a taste of their blood, granting them a semblance of power. This ritual is seldom practiced, and few vampires would even dare to try it. But this is not the only way to gain this origin, as many of these sorcerers can trace their powers to a near-death experience with a vampire. Whatever the case, vampiric magic permeates your blood, and your very being.
-#### **Blighted Origin**<sup>(UA)</sup>
-
 #### **Black Powder Origin**<sup>(TOH)</sup>
 Your innate magic comes from the explosive power of raw alchemy and black powder. You parents may have been alchemists, whose long exposure to alchemical reagents mingled with a latent talent for magic in their bloodlines and caused you to be born with such abilities. Or you may have been experimented upon—with or without your permission—when you were younger and those alchemical experiments brought this unexpected magical power to the surface. Whatever the catalyst for your powers, they bring with them an affinity for black powder, allowing you magical prowess that exploits its power to your benefit.
 #### **Cold Blooded Origin**<sup>(TOH)</sup>
