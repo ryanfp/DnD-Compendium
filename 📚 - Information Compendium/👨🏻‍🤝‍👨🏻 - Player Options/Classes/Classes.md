@@ -3301,21 +3301,18 @@ In every library there is a book that has never been read, a section that has ne
 You’ve made a pact with a primal spirit of fire and the hunt — a scourge of the forests and fields, and a harbinger of ill fate. This creature is wise and cunning, making deals with those that have the potential to bring ruin and change. Some consider the beast to be native to the Plane of Elemental Fire; others call it a fiend from the darkest hells. Whatever it’s origin, the ember-eyed wolf often extracts payment in the form of wishes gone awry: a  demand for power becomes a battle to retain one’s humanity, while a request for a peaceful resolution often has a price that brings constant regret. 
 #### **The Eternal Citadel**<sup>(CFSA)</sup>
 You’ve made a pact with the Eternal Citadel, a massive yet empty bastion that seems to wander between worlds, collecting travelers and releasing them once they agree to serve. The Eternal Citadel communicates through the silent transfer of emotions and feelings - an instinctual sense to follow a course of action, no matter how enigmatic it may seem. An unknown number of people have sworn their allegiance to the Citadel, and few ever meet, but they all serve the same end, known or otherwise: preservation against the forces that seek destruction. 
-#### **The Eternal Graveyard**<sup>(CFSA)</sup>
-
+#### **The Forbidden Graveyard**<sup>(CFSA)</sup>
+You’ve stepped into the Forbidden Graveyard, a sanctuary found on the boundary between life and death, where the rare few whose minds are attuned to this place come to wander as their bodies heal or slip away into the cold clutches of the night. Those who embrace the experience and seal shut the Gate of Souls within find themselves gifted with an understanding of both the living and the dead. Unknown to all but those like you, the Gate requires repayment for this mercy, and only the souls of others will do. Choose wisely, foir all who cross your path are marked for collection by the Graveyard. It is up to you to safeguard them from that dark plane or to send them there to the cold embrace of death.
 #### **The Fallen Exile**<sup>(CFSA)</sup>
 Don’t use as warlock subclass but make into the cardcaster???
 #### ~~**The Gelatinous Convocation**<sup>(CFSA)</sup>~~
-#### **The Gray Portrait**<sup>(CFSA)</sup>
-
-#### **The Keeper of the Depths**<sup>(CFSA)</sup>
-
+#### ~~**The Gray Portrait**<sup>(CFSA)</sup>~~
+#### ~~**The Keeper of the Depths**<sup>(CFSA)</sup>~~
 #### **The Perfect Chord**<sup>(CFSA)</sup>
-
-#### **The Serpent Empress**<sup>(CFSA)</sup>
-
+You have heard the most sublime sound in the world, and it has changed you forever. You’ve taken the resonance into your beating heart and it has brought meaning and inspiration to your days. The Perfect Chord resounds through the quiet places of the world as a clear and harmonious note that spirals with infinite complexity, gaining sentience and life with every sound it collects. It has no motive but to include every sound in the universe within itself, and it inspires others with an endless desire to find new forms of radiant music to call forth and collect. 
+#### ~~**The Serpent Empress**<sup>(CFSA)</sup>~~
 #### **The Shadowcat**<sup>(CFSA)</sup>
-
+Your patron
 #### **The Stormlord**<sup>(CFSA)</sup>
 
 #### **The Warrior-Saint**<sup>(CFSA)</sup>
