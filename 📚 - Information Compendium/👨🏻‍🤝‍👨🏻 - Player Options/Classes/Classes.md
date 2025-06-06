@@ -3312,9 +3312,9 @@ Don’t use as warlock subclass but make into the cardcaster???
 You have heard the most sublime sound in the world, and it has changed you forever. You’ve taken the resonance into your beating heart and it has brought meaning and inspiration to your days. The Perfect Chord resounds through the quiet places of the world as a clear and harmonious note that spirals with infinite complexity, gaining sentience and life with every sound it collects. It has no motive but to include every sound in the universe within itself, and it inspires others with an endless desire to find new forms of radiant music to call forth and collect. 
 #### ~~**The Serpent Empress**<sup>(CFSA)</sup>~~
 #### **The Shadowcat**<sup>(CFSA)</sup>
-Your patron
+Your patron is an otherworldly incarnation of fate that strides between planes; a living omen of ill luck and good fortune alike. Drawn to the dreams of mortals, it’s lesser reflections perch upon the chests of the unwary in their sleep, stealing breath and fragments of life from their victims as they feed upon the nightmares this brings. When they’ve had their fill, they return to their master, who sends them back again to hunt down the creatures that have escaped from the nightmares of those tormented by darker fates. You’ve drawn the attention of this creature, for good or ill, and have made your pact in the deepest shadows of the dark. Now, shadows boil around your hands, both inky black and snow white, tainted and blessed by the touch of the Inverse. You’ve been there, seen the sun of endless emptiness and the void of pure light that shines from beyond the stars, and you have felt the faze of nightmares that stare upon you with jealousy, and feeling their hate. They know that while you can depart unharmed, their nights are numbered. You’ve stolen their luck, and now you’ll use that power for your own ends.
 #### **The Stormlord**<sup>(CFSA)</sup>
-
+You’ve made a pact with an ancient power known as the Storm Lord. Massive and timeless, this godlike entity sails the winds of the void through the darkest places between the skies of countless worlds. It is the spirit that consumes the purified souls of heroes as it welcomes them into it’s kingdom. It’s long tendrils of lightning cover the sky
 #### **The Warrior-Saint**<sup>(CFSA)</sup>
 
 #### **The Weaver of Lies**<sup>(CFSA)</sup>
