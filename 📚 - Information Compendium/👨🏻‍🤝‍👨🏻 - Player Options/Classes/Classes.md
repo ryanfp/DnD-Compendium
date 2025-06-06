@@ -3296,15 +3296,16 @@ Malevolent beings such as mummies, vampires, and hags can unite the will of indi
 
 Regardless of their provenance, all swarms are faint echoes of the first Swarm. This inscrutable hivemind of insect-like creatures has infested the Ethereal Plane since time immemorial and perpetually gnaws at its walls, searching for a way into the Material Plane. No one can fathom the Swarm’s age or count its multitudes, but its purpose is clear: to assimilate all life. Warlocks who follow this patron share in its psionic power and can unleash its ethereal drones.
 #### **The Accursed Archive**<sup>(CFSA)</sup>
-
+In every library there is a book that has never been read, a section that has never been seen, and a hallway that leads to nowhere – yet, you have managed to read that tome of unspoken secrets, find that shelf of unholy blasphemies, and step beyond the dead-end corridor into the Accursed Archive, where you have become bound to the nightmare-inducing writings within. Demonology, blood magic, and the summoning of things from beyond are among the most mundane of topics here, but draw the eye and call to the hand nonetheless. By some malignant intelligence that selects only the most desperate, the most ambitious, and the most willing to sacrifice, the Accursed Archive collects souls to do it’s ruinous work": to share the terrible truths that reside upon it’s endless shelves, and bring chaos and upheaval to the outside world through the disclosure of these forgotten secrets. 
 #### **The Ashen Wolf**<sup>(CFSA)</sup>
-
+You’ve made a pact with a primal spirit of fire and the hunt — a scourge of the forests and fields, and a harbinger of ill fate. This creature is wise and cunning, making deals with those that have the potential to bring ruin and change. Some consider the beast to be native to the Plane of Elemental Fire; others call it a fiend from the darkest hells. Whatever it’s origin, the ember-eyed wolf often extracts payment in the form of wishes gone awry: a  demand for power becomes a battle to retain one’s humanity, while a request for a peaceful resolution often has a price that brings constant regret. 
 #### **The Eternal Citadel**<sup>(CFSA)</sup>
-
+You’ve made a pact with the Eternal Citadel, a massive yet empty bastion that seems to wander between worlds, collecting travelers and releasing them once they agree to serve. The Eternal Citadel communicates through the silent transfer of emotions and feelings - an instinctual sense to follow a course of action, no matter how enigmatic it may seem. An unknown number of people have sworn their allegiance to the Citadel, and few ever meet, but they all serve the same end, known or otherwise: preservation against the forces that seek destruction. 
 #### **The Eternal Graveyard**<sup>(CFSA)</sup>
 
-#### **The Gelatinous Convocation**<sup>(CFSA)</sup>
-
+#### **The Fallen Exile**<sup>(CFSA)</sup>
+Don’t use as warlock subclass but make into the cardcaster???
+#### ~~**The Gelatinous Convocation**<sup>(CFSA)</sup>~~
 #### **The Gray Portrait**<sup>(CFSA)</sup>
 
 #### **The Keeper of the Depths**<sup>(CFSA)</sup>
