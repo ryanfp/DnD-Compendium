@@ -3686,7 +3686,15 @@ Sources:
 - Amethyst Dragon Book
 - Crimson Codex
 	- Grim Hunter Fighter
+- Drizzt 1
+	- Fate Tarokka Reading
+- Drizzt 2
+	- Temporal Tinkerer
 - Sylgar’s Guide to EE
+
+	- Way of the Zen Archer
+	- Way of the Swift Step
+	- Magebane
 - ~~Steinhardt’s Guide to the Eldritch Hunt~~
 	- ~~~**Jaeger Class**~~~
 - ~~Ryoko’s Guide to the Yokai Realms~~
