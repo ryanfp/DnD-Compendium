@@ -3471,17 +3471,16 @@ Magic of the book—that’s what many folk call wizardry. The name is apt, give
 
 Among wizards, the Order of Scribes is the most bookish. It takes many forms in different worlds, but its primary mission is the same everywhere: recording magical discoveries so that wizardry can flourish. And while all wizards value spellbooks, a wizard in the Order of Scribes magically awakens their book, turning it into a trusted companion. All wizards study books, but a wizardly scribe talks to theirs!
 #### **Familiar Master**<sup>(VSS)</sup>
-
+Learning the *find familiar* spell is seen as a rite of passage among fledgling wizards, as the spell offers a use, if limited, magical servant. However, a small subschool of wizards known as the “familiar masters” or “evolutionists” believe that within the humble spell lies manifold hidden powers. Indeed, their studies have unlo9cked the spell’s hidden potential: the ability to evolve a familiar and fluidly shift it’s form. 
 #### **Magic Missile Mage**<sup>(VSS)</sup>
-
+*Magic missile* is a staple wizard spell, well-loved for its versatility and unerring accuracy. As a missile mage, however, your fondness for the spell borders on obsession. Your studies focus entirely on this spell, exploring every rune in the spell’s composition and analyzing every aspect of it’s casting, resulting in new augmentations and greater power than ever before. 
 #### **Mystic Savant**<sup>(VSS)</sup>
-
+Unlike most other arcane traditions, mystic savants do not belong to a formalized institution. Instead sharing a philosophy that, to master arcana, one must master every individual aspect of it. Their contemporaries call them “universalists” or “holistics”, but they are savants by any definition. The skill of spellcasting comes naturally to them, so while other wizards refine a specific school of magic, mystic savants master an array of cross-school stratagems to help them snatch victory from the jaws of defeat. 
 #### **School of Chronomancy**<sup>(VSS)</sup>
-
-#### **School of Gastronomy**<sup>(VSS)</sup>
-
+The School of Chronomancy focuses on harnessing and manipulating the energies of flowing time. It is a perilous tradition, as the practice of slowing, reversing, or diverting the flow of time can accidentally tear novices to pieces, spreading them thinly across millennia, or sometimes even drop them wholesale into a new era, with no way of returning home.  Masters of this school, however, walk the generations as planeshifters walk the cosmos, literally ending most conflicts before they even begin. 
+#### ~~**School of Gastronomy**<sup>(VSS)</sup>~~
 #### **School of Somnomancy**<sup>(VSS)</sup>
-
+Somnomancers are an idiosyncratic bunch, given to fancies, daydreams, and odd sartorial choices, so it is no surprise that their subschool of magic is rarely accorded any respect by mages of other schools. Although their obsession with *sleep* is occasionally useful, such as when someone needs to be h ypnotized or must have their dreams interpreted, it is more often a source of humor — much to the chagrin of so-called “pajama mages”!
 #### **School of Theurgy**<sup>(UA)</sup>
 
 #### **School of Lore Mastery**<sup>(UA)</sup>
