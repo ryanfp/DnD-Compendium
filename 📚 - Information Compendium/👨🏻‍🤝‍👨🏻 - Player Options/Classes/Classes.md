@@ -3480,15 +3480,11 @@ Unlike most other arcane traditions, mystic savants do not belong to a formalize
 The School of Chronomancy focuses on harnessing and manipulating the energies of flowing time. It is a perilous tradition, as the practice of slowing, reversing, or diverting the flow of time can accidentally tear novices to pieces, spreading them thinly across millennia, or sometimes even drop them wholesale into a new era, with no way of returning home.  Masters of this school, however, walk the generations as planeshifters walk the cosmos, literally ending most conflicts before they even begin. 
 #### ~~**School of Gastronomy**<sup>(VSS)</sup>~~
 #### **School of Somnomancy**<sup>(VSS)</sup>
-Somnomancers are an idiosyncratic bunch, given to fancies, daydreams, and odd sartorial choices, so it is no surprise that their subschool of magic is rarely accorded any respect by mages of other schools. Although their obsession with *sleep* is occasionally useful, such as when someone needs to be h ypnotized or must have their dreams interpreted, it is more often a source of humor — much to the chagrin of so-called “pajama mages”!
-#### **School of Theurgy**<sup>(UA)</sup>
-
-#### **School of Lore Mastery**<sup>(UA)</sup>
-
-#### **School of Invention**<sup>(UA)</sup>
-
-#### **School of Onomancy**<sup>(UA)</sup>
-
+Somnomancers are an idiosyncratic bunch, given to fancies, daydreams, and odd sartorial choices, so it is no surprise that their subschool of magic is rarely accorded any respect by mages of other schools. Although their obsession with *sleep* is occasionally useful, such as when someone needs to be hypnotized or must have their dreams interpreted, it is more often a source of humor — much to the chagrin of so-called “pajama mages”!
+#### ~~**School of Theurgy**<sup>(UA)</sup>~~
+#### ~~**School of Lore Mastery**<sup>(UA)</sup>~~
+#### ~~**School of Invention**<sup>(UA)</sup>~~
+#### ~~**School of Onomancy**<sup>(UA)</sup>~~
 #### **School of Reawakening**<sup>(DAC)</sup>
 As a member of the school of reawakening, you combine the forces of necromancy with the power of conjuration. By transforming the necromantic energies of the creatures you kill into completely new conjurations, you bridge the gap between these two school of magic, creating a hybrid school that combines elements of both Conjuration and Necromancy. As you progress, you learn to shape together ever more powerful conjurations.
 #### **School of Hemomancy**<sup>(DAC)</sup>
