@@ -48,7 +48,6 @@
   "obsidian-5e-statblocks",
   "file-explorer-note-count",
   "folder-notes",
-  "granite",
   "helpmate",
   "image-converter",
   "obsidian-import-json",
@@ -64,5 +63,6 @@
   "iconic",
   "obsidian-git",
   "obsidian-linter",
-  "pane-relief"
+  "pane-relief",
+  "modalforms"
 ]

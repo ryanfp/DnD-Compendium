@@ -1,6 +1,6 @@
 {
   "animationSource": "gemmy",
   "idleTalkFrequency": 1,
-  "writingModeGracePeriod": 5,
+  "writingModeGracePeriod": 20,
   "enableGemmyTTRPGHelp": true
 }
