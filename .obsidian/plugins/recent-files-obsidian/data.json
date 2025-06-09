@@ -5,12 +5,24 @@
       "path": "UNORGANIZED/Untitled.md"
     },
     {
+      "basename": "Metadata Edit",
+      "path": "z_Templates/Metadata Edit.md"
+    },
+    {
       "basename": "Sourcebooks",
       "path": "UNORGANIZED/Sourcebooks.md"
     },
     {
-      "basename": "Untitled 5",
-      "path": "z_Templates/Untitled 5.md"
+      "basename": "Link Auto Title",
+      "path": "z_Templates/Link Auto Title.md"
+    },
+    {
+      "basename": "Exploring Eberron",
+      "path": "UNORGANIZED/Exploring Eberron.md"
+    },
+    {
+      "basename": "EE",
+      "path": "UNORGANIZED/EE.md"
     },
     {
       "basename": "Curse of Animation",
@@ -77,10 +89,6 @@
       "path": "z_Templates/Insert Wiki Sidebar.md"
     },
     {
-      "basename": "Link Auto Title",
-      "path": "z_Templates/Link Auto Title.md"
-    },
-    {
       "basename": "List of Classes and Subclasses",
       "path": "UNORGANIZED/List of Classes and Subclasses.md"
     },
@@ -93,16 +101,8 @@
       "path": "z_Templates/Basic Callout Selecter.md"
     },
     {
-      "basename": "Exploring Eberron",
-      "path": "UNORGANIZED/Exploring Eberron.md"
-    },
-    {
       "basename": "Session Notes Template",
       "path": "z_Templates/Session Notes Template.md"
-    },
-    {
-      "basename": "EE",
-      "path": "UNORGANIZED/EE.md"
     },
     {
       "basename": "Curse of the Created",

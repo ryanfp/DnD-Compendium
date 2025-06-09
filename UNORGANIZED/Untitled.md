@@ -1,0 +1,4 @@
+---
+type: rule
+playerOption: background
+---
