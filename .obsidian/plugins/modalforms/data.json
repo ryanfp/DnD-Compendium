@@ -248,6 +248,88 @@
           }
         }
       ]
+    },
+    {
+      "title": "Tags",
+      "name": "taglist",
+      "fields": [
+        {
+          "name": "type",
+          "label": "Type",
+          "description": "What is this piece of content?",
+          "isRequired": true,
+          "input": {
+            "type": "select",
+            "source": "fixed",
+            "options": [
+              {
+                "value": "playerOption",
+                "label": "Player Option"
+              },
+              {
+                "value": "combat",
+                "label": "Combat"
+              },
+              {
+                "value": "rule",
+                "label": "Rule/Mechanic"
+              },
+              {
+                "value": "monster",
+                "label": "Monster"
+              }
+            ]
+          }
+        },
+        {
+          "name": "playerOption",
+          "label": "Player Options",
+          "description": "What type of player option is it?",
+          "isRequired": true,
+          "condition": {
+            "dependencyName": "type",
+            "type": "isExactly",
+            "value": "playerOption"
+          },
+          "input": {
+            "type": "select",
+            "source": "fixed",
+            "options": [
+              {
+                "value": "class",
+                "label": "Class"
+              },
+              {
+                "value": "background",
+                "label": "Background"
+              },
+              {
+                "value": "feat",
+                "label": "Feat"
+              },
+              {
+                "value": "race",
+                "label": "Race"
+              },
+              {
+                "value": "skill",
+                "label": "Skill"
+              }
+            ]
+          }
+        }
+      ],
+      "version": "1",
+      "template": {
+        "parsedTemplate": [
+          {
+            "_tag": "variable",
+            "value": "type"
+          }
+        ],
+        "createInsertCommand": true,
+        "createNoteCommand": false
+      }
     }
   ]
 }

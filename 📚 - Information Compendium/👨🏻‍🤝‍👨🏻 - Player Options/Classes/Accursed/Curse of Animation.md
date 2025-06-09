@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+  - json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/ultimateadventurer
-- ttrpg-cli/subclass/accursed/animation
+  - ttrpg-cli/compendium/src/5e/ultimateadventurer
+  - ttrpg-cli/subclass/accursed/animation
 aliases:
-- Curse of Animation
+  - Curse of Animation
 ---
 # Curse of Animation - Accursed
 *[Accursed](Accursed.md): Conquered Curse*  

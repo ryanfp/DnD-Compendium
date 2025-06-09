@@ -49,6 +49,30 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Sourcebooks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/Sourcebooks.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Sourcebooks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Curse of Animation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Animation.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Curse of Animation\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.6020767270153715}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Untitled 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Untitled 4.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 4\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
                   "title": "Untitled",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/Untitled.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
@@ -257,12 +281,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/Untitled 4.md",
+                "file": "UNORGANIZED/Untitled.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled 4"
+              "title": "Untitled"
             }
           }
         ]
@@ -315,7 +339,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#83D862",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -511,25 +535,6 @@
             }
           },
           {
-            "id": "f80c642b65428431",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {},
-              "icon": "viewIcon",
-              "title": "Markdown-Autocomplete"
-            }
-          },
-          {
             "id": "a5dd4543e7cd2c95",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -544,13 +549,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/Untitled 4.md",
+                "file": "UNORGANIZED/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 4"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -587,296 +592,83 @@
             "state": {
               "type": "modal-form-template-builder-view",
               "state": {
-                "title": "Example form",
-                "name": "example-form",
-                "version": "1",
+                "title": "Tags",
+                "name": "taglist",
                 "fields": [
                   {
-                    "name": "name",
-                    "label": "Name",
-                    "description": "It is named how?",
+                    "name": "type",
+                    "label": "Type",
+                    "description": "What is this piece of content?",
                     "isRequired": true,
-                    "input": {
-                      "type": "text",
-                      "hidden": false
-                    }
-                  },
-                  {
-                    "name": "age",
-                    "label": "Age",
-                    "description": "How old",
-                    "isRequired": true,
-                    "input": {
-                      "type": "number",
-                      "hidden": false
-                    }
-                  },
-                  {
-                    "name": "dateOfBirth",
-                    "label": "Date of Birth",
-                    "description": "When were you born?",
-                    "input": {
-                      "type": "date",
-                      "hidden": false
-                    }
-                  },
-                  {
-                    "name": "timeOfDay",
-                    "label": "Time of day",
-                    "description": "The time you can do this",
-                    "input": {
-                      "type": "time",
-                      "hidden": false
-                    }
-                  },
-                  {
-                    "name": "is_family",
-                    "label": "Is family",
-                    "description": "If it is part of the family",
-                    "input": {
-                      "type": "toggle",
-                      "hidden": false
-                    }
-                  },
-                  {
-                    "name": "favorite_book",
-                    "label": "Favorite book",
-                    "description": "Pick one",
-                    "input": {
-                      "type": "note",
-                      "folder": "Books"
-                    }
-                  },
-                  {
-                    "name": "folder",
-                    "label": "The destination folder",
-                    "description": "It offers auto-completion to existing folders",
-                    "input": {
-                      "type": "folder"
-                    }
-                  },
-                  {
-                    "name": "multi_example",
-                    "label": "Multi select folder",
-                    "description": "Allows to pick many notes from a folder",
-                    "input": {
-                      "type": "multiselect",
-                      "source": "notes",
-                      "folder": "Books"
-                    }
-                  },
-                  {
-                    "name": "multi_example_2",
-                    "label": "Multi select fixed",
-                    "description": "Allows to pick many notes from a fixed list",
-                    "input": {
-                      "type": "multiselect",
-                      "source": "fixed",
-                      "allowUnknownValues": false,
-                      "multi_select_options": [
-                        "Android",
-                        "iOS",
-                        "Windows",
-                        "MacOS",
-                        "Linux",
-                        "Solaris",
-                        "MS2"
-                      ]
-                    }
-                  },
-                  {
-                    "name": "multi_select_dataview",
-                    "label": "Multi select dataview",
-                    "description": "Allows to pick several values from a dv query",
-                    "input": {
-                      "type": "multiselect",
-                      "source": "dataview",
-                      "query": "dv.pages(\"#person\").map(p => p.file.name)",
-                      "allowUnknownValues": true
-                    }
-                  },
-                  {
-                    "name": "best_fried",
-                    "label": "Best friend",
-                    "description": "Select of type note from a folder",
-                    "input": {
-                      "type": "select",
-                      "source": "notes",
-                      "folder": "People"
-                    }
-                  },
-                  {
-                    "name": "dataview_example",
-                    "label": "Dataview example",
-                    "description": "Only people matching the dataview query will be shown",
-                    "input": {
-                      "type": "dataview",
-                      "query": "dv.pages(\"#person\").filter(p => p.age < 30).map(p => p.file.name)"
-                    }
-                  },
-                  {
-                    "name": "friendship_level",
-                    "label": "Friendship level",
-                    "description": "How good friends are you?",
-                    "input": {
-                      "type": "slider",
-                      "min": 0,
-                      "max": 10
-                    }
-                  },
-                  {
-                    "name": "favorite_meal",
-                    "label": "Favorite meal",
-                    "description": "Pick one option",
                     "input": {
                       "type": "select",
                       "source": "fixed",
                       "options": [
                         {
-                          "value": "pizza",
-                          "label": "🍕 Pizza"
+                          "value": "playerOption",
+                          "label": "Player Option"
                         },
                         {
-                          "value": "pasta",
-                          "label": "🍝 Pasta"
+                          "value": "combat",
+                          "label": "Combat"
                         },
                         {
-                          "value": "burger",
-                          "label": "🍔 Burger"
+                          "value": "rule",
+                          "label": "Rule/Mechanic"
                         },
                         {
-                          "value": "salad",
-                          "label": "🥗 Salad"
-                        },
-                        {
-                          "value": "steak",
-                          "label": "🥩 Steak"
-                        },
-                        {
-                          "value": "sushi",
-                          "label": "🍣 Sushi"
-                        },
-                        {
-                          "value": "ramen",
-                          "label": "🍜 Ramen"
-                        },
-                        {
-                          "value": "tacos",
-                          "label": "🌮 Tacos"
-                        },
-                        {
-                          "value": "fish",
-                          "label": "🐟 Fish"
-                        },
-                        {
-                          "value": "chicken",
-                          "label": "🍗 Chicken"
+                          "value": "monster",
+                          "label": "Monster"
                         }
                       ]
                     }
                   },
                   {
-                    "name": "some notes",
-                    "label": "Multi line notes",
-                    "description": "Put your thoughts here",
+                    "name": "playerOption",
+                    "label": "Player Options",
+                    "description": "What type of player option is it?",
+                    "isRequired": true,
+                    "condition": {
+                      "dependencyName": "type",
+                      "type": "isExactly",
+                      "value": "playerOption"
+                    },
                     "input": {
-                      "type": "textarea",
-                      "hidden": false
-                    }
-                  },
-                  {
-                    "name": "hidden_field",
-                    "label": "This field is hidden",
-                    "description": "It is useful for internal data",
-                    "input": {
-                      "type": "text",
-                      "hidden": true
-                    }
-                  },
-                  {
-                    "name": "Tags",
-                    "description": "Tags input example",
-                    "input": {
-                      "type": "tag",
-                      "hidden": false
-                    }
-                  },
-                  {
-                    "name": "profile_picture",
-                    "label": "Profile Picture",
-                    "description": "Upload a profile picture. It will be saved in the attachments folder with the current date.",
-                    "input": {
-                      "type": "image",
-                      "saveLocation": "attachments/profile_pictures",
-                      "filenameTemplate": "profile-{{datetime}}.png"
-                    }
-                  },
-                  {
-                    "name": "pdf",
-                    "description": "PDF example",
-                    "input": {
-                      "type": "file",
-                      "folder": "attachments/pdfs",
-                      "allowedExtensions": [
-                        "pdf"
+                      "type": "select",
+                      "source": "fixed",
+                      "options": [
+                        {
+                          "value": "class",
+                          "label": "Class"
+                        },
+                        {
+                          "value": "background",
+                          "label": "Background"
+                        },
+                        {
+                          "value": "feat",
+                          "label": "Feat"
+                        },
+                        {
+                          "value": "race",
+                          "label": "Race"
+                        },
+                        {
+                          "value": "skill",
+                          "label": "Skill"
+                        }
                       ]
                     }
-                  },
-                  {
-                    "name": "document",
-                    "description": "Document block example",
-                    "input": {
-                      "type": "document_block",
-                      "body": "return `Hello ${form.name}!<br> Your best friend is <b>${form.best_fried}</b>`"
-                    }
                   }
-                ]
+                ],
+                "version": "1"
               },
               "icon": "lucide-file",
               "title": "Template Builder"
             }
-          },
-          {
-            "id": "513054320978dc28",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "modal-form-edit-form-view",
-              "state": {
-                "title": "Tags",
-                "name": "taglist",
-                "version": "1",
-                "fields": [
-                  {
-                    "name": "source",
-                    "label": "Source",
-                    "description": "Where the content is from",
-                    "input": {
-                      "type": "multiselect",
-                      "allowUnknownValues": true,
-                      "hidden": false,
-                      "query": "",
-                      "multi_select_options": [],
-                      "source": "notes"
-                    },
-                    "isRequired": false
-                  }
-                ]
-              },
-              "icon": "note-glyph",
-              "title": "Edit form"
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -914,19 +706,20 @@
       "modalforms:Edit forms": false
     }
   },
-  "active": "513054320978dc28",
+  "active": "a6765ada3b2474ba",
   "lastOpenFiles": [
+    "UNORGANIZED/Sourcebooks.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Animation.md",
+    "Untitled.md",
+    "z_Templates/Untitled 4.md",
     "UNORGANIZED/Untitled.md",
     "z_Templates/New File Auto Template.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
-    "UNORGANIZED/Sourcebooks.md",
     "📚 - Information Compendium/📝 - Rules & Mechanics/Mechanics/Exhaustion Mechanics.md",
     "image.png",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Animation.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Circle of Visions.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Circle of Twilight.md",
-    "Untitled.md",
     "tessssst/Templates.md",
     "README.md",
     "z_Templates/Insert Fancy Quote.md",
@@ -945,7 +738,6 @@
     "UNORGANIZED/List of Classes and Subclasses.md",
     "z_Templates/Insert Table of Contents.md",
     "z_Templates/Basic Callout Selecter.md",
-    "UNORGANIZED/Exploring Eberron.md",
     "templates/Untitled",
     "New Text Document.txt",
     "git clone",
