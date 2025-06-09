@@ -13,5 +13,6 @@
   "trashOption": "local",
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "promptDelete": false
 }

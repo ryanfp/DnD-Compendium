@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "UNORGANIZED/Untitled.md"
-    },
-    {
-      "basename": "Metadata Edit",
-      "path": "z_Templates/Metadata Edit.md"
-    },
-    {
       "basename": "Sourcebooks",
       "path": "UNORGANIZED/Sourcebooks.md"
+    },
+    {
+      "basename": "Edit Metadata",
+      "path": "z_Templates/Edit Metadata.md"
+    },
+    {
+      "basename": "List of Classes and Subclasses",
+      "path": "UNORGANIZED/List of Classes and Subclasses.md"
+    },
+    {
+      "basename": "EE",
+      "path": "UNORGANIZED/EE.md"
     },
     {
       "basename": "Link Auto Title",
@@ -19,10 +23,6 @@
     {
       "basename": "Exploring Eberron",
       "path": "UNORGANIZED/Exploring Eberron.md"
-    },
-    {
-      "basename": "EE",
-      "path": "UNORGANIZED/EE.md"
     },
     {
       "basename": "Curse of Animation",
@@ -87,10 +87,6 @@
     {
       "basename": "Insert Wiki Sidebar",
       "path": "z_Templates/Insert Wiki Sidebar.md"
-    },
-    {
-      "basename": "List of Classes and Subclasses",
-      "path": "UNORGANIZED/List of Classes and Subclasses.md"
     },
     {
       "basename": "Insert Table of Contents",

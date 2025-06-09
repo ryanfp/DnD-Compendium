@@ -1,6 +1,5 @@
 [
   "obsidian-excalidraw-plugin",
-  "dataview",
   "table-editor-obsidian",
   "omnisearch",
   "better-word-count",
@@ -64,5 +63,6 @@
   "obsidian-linter",
   "pane-relief",
   "templater-obsidian",
-  "modalforms"
+  "modalforms",
+  "dataview"
 ]

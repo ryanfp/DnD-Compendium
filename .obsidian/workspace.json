@@ -49,27 +49,135 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Metadata Edit",
+                  "title": "List of Classes and Subclasses",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Metadata Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Metadata Edit\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/List of Classes and Subclasses.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"List of Classes and Subclasses\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "Edit Metadata",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/Untitled.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":2},\"to\":{\"line\":11,\"ch\":2}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Edit Metadata.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Edit Metadata\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Metadata Edit",
+                  "title": "asdas111",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Metadata Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Metadata Edit\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/asdas111.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"asdas111\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Edit Metadata",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Edit Metadata.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"MODAL\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":2},\"to\":{\"line\":17,\"ch\":2}}}"
+                },
+                {
+                  "title": "Edit",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Edit\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "asdas111",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/asdas111.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"asdas111\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "EE",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/EE.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"EE\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Edit",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Edit\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2we",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/2we.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"2we\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Edit",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Edit Metadata\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":2},\"to\":{\"line\":17,\"ch\":2}}}"
+                },
+                {
+                  "title": "2we",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/2we.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"2we\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Edit",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Edit Metadata\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":59},\"to\":{\"line\":3,\"ch\":59}}}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "2we",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/Untitled.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/2we.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Edit",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Edit Metadata\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":2},\"to\":{\"line\":17,\"ch\":2}}}"
+                },
+                {
+                  "title": "2we",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/2we.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Sourcebooks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/Sourcebooks.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Sourcebooks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Edit",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Edit Metadata\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":2},\"to\":{\"line\":17,\"ch\":2}}}"
+                },
+                {
+                  "title": "2we",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/2we.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Edit",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Metadata Edit\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2we",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/2we.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":2},\"to\":{\"line\":11,\"ch\":2}}}"
+                },
+                {
+                  "title": "Edit",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Metadata Edit\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":59},\"to\":{\"line\":3,\"ch\":59}}}"
+                },
+                {
+                  "title": "2we",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/2we.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -79,27 +187,27 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Metadata Edit",
+                  "title": "Edit",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Metadata Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Metadata Edit\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Metadata Edit\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "2we",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/Untitled.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/2we.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
                 },
                 {
-                  "title": "Metadata Edit",
+                  "title": "Edit",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Metadata Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Metadata Edit\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Metadata Edit\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":2},\"to\":{\"line\":17,\"ch\":2}}}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "2we",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/Untitled.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/2we.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
                 },
                 {
@@ -115,51 +223,51 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Metadata Edit",
+                  "title": "Edit",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Metadata Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Metadata Edit\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Metadata Edit\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":2},\"to\":{\"line\":17,\"ch\":2}}}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "2we",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/Untitled.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/2we.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 },
                 {
-                  "title": "Metadata Edit",
+                  "title": "Edit",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Metadata Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Metadata Edit\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Metadata Edit\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "2we",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/Untitled.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/2we.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Metadata Edit",
+                  "title": "Edit",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Metadata Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Metadata Edit\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Metadata Edit\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "2we",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/Untitled.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/2we.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Metadata Edit",
+                  "title": "Edit",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Metadata Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Metadata Edit\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Metadata Edit\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":40},\"to\":{\"line\":11,\"ch\":0}}}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "2we",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/Untitled.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/2we.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -175,21 +283,21 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Metadata Edit",
+                  "title": "Edit",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Metadata Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Metadata Edit\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Metadata Edit\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":2},\"to\":{\"line\":17,\"ch\":2}}}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "2we",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/Untitled.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/2we.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Metadata Edit",
+                  "title": "Edit",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Metadata Edit.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 5\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Edit.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 5\"}",
                   "eState": "{}"
                 },
                 {
@@ -199,9 +307,9 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Metadata Edit",
+                  "title": "Edit",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Metadata Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 5\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 5\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -211,9 +319,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":18},\"to\":{\"line\":4,\"ch\":18}}}"
                 },
                 {
-                  "title": "Metadata Edit",
+                  "title": "Edit",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Metadata Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 5\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 5\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -223,9 +331,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":4},\"to\":{\"line\":20,\"ch\":4}}}"
                 },
                 {
-                  "title": "Metadata Edit",
+                  "title": "Edit",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Metadata Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 5\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 5\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -235,9 +343,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":82},\"to\":{\"line\":3,\"ch\":82}}}"
                 },
                 {
-                  "title": "Metadata Edit",
+                  "title": "Edit",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Metadata Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 5\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 5\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -247,9 +355,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":2},\"to\":{\"line\":2,\"ch\":2}}}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "2we",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/Untitled.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/2we.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -277,9 +385,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "2we",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/Untitled.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/2we.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -319,9 +427,9 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Metadata Edit",
+                  "title": "Edit",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Metadata Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 5\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Edit.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 5\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -485,12 +593,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNORGANIZED/Untitled.md",
+                "file": "z_Templates/Edit Metadata.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Edit Metadata"
             }
           }
         ]
@@ -880,113 +988,13 @@
               "icon": "lucide-file",
               "title": "Template Builder"
             }
-          },
-          {
-            "id": "4c49b6667df92699",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "modal-form-edit-form-view",
-              "state": {
-                "title": "Metadata",
-                "name": "metadata",
-                "fields": [
-                  {
-                    "name": "type",
-                    "label": "Type",
-                    "description": "What is this piece of content?",
-                    "isRequired": true,
-                    "input": {
-                      "type": "select",
-                      "source": "fixed",
-                      "options": [
-                        {
-                          "value": "playerOption",
-                          "label": "Player Option"
-                        },
-                        {
-                          "value": "combat",
-                          "label": "Combat"
-                        },
-                        {
-                          "value": "rule",
-                          "label": "Rule/Mechanic"
-                        },
-                        {
-                          "value": "monster",
-                          "label": "Monster"
-                        }
-                      ]
-                    }
-                  },
-                  {
-                    "name": "playerOption",
-                    "label": "Player Options",
-                    "description": "What type of player option is it?",
-                    "isRequired": true,
-                    "condition": {
-                      "dependencyName": "type",
-                      "type": "isExactly",
-                      "value": "playerOption"
-                    },
-                    "input": {
-                      "type": "select",
-                      "source": "fixed",
-                      "options": [
-                        {
-                          "value": "class",
-                          "label": "Class"
-                        },
-                        {
-                          "value": "background",
-                          "label": "Background"
-                        },
-                        {
-                          "value": "feat",
-                          "label": "Feat"
-                        },
-                        {
-                          "value": "race",
-                          "label": "Race"
-                        },
-                        {
-                          "value": "skill",
-                          "label": "Skill"
-                        }
-                      ]
-                    }
-                  }
-                ],
-                "version": "1",
-                "template": {
-                  "createInsertCommand": true,
-                  "createNoteCommand": true,
-                  "parsedTemplate": [
-                    {
-                      "_tag": "text",
-                      "value": "<% \"---\" %>\n<%*\n  const modalForm = app.plugins.plugins.modalforms.api;\n  const result = await modalForm.openForm(\"metadata\");\n  tR += result.asFrontmatterString();\n-%>\n<% \"---\" %>"
-                    }
-                  ]
-                }
-              },
-              "icon": "note-glyph",
-              "title": "Edit form"
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 777.5
+    "width": 642.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -1016,18 +1024,20 @@
       "custom-sort:Toggle custom sorting": false,
       "iconic:Open rulebook": false,
       "obsidian-git:Open Git source control": false,
-      "modalforms:Edit forms": false,
-      "calendarium:Open Calendarium": false
+      "modalforms:Edit forms": false
     }
   },
-  "active": "3a73ca7b9dac80c9",
+  "active": "8d3cbb62f9815d24",
   "lastOpenFiles": [
-    "z_Templates/Metadata Edit.md",
-    "UNORGANIZED/Untitled.md",
+    "UNORGANIZED/List of Classes and Subclasses.md",
+    "z_Templates/Edit.md",
+    "z_Templates/Edit Metadata.md",
+    "UNORGANIZED/asdas111.md",
+    "UNORGANIZED/EE.md",
     "UNORGANIZED/Sourcebooks.md",
+    "UNORGANIZED/2we.md",
     "z_Templates/Link Auto Title.md",
     "UNORGANIZED/Exploring Eberron.md",
-    "UNORGANIZED/EE.md",
     "UNORGANIZED/test1 1.md",
     "UNORGANIZED/test1.md",
     "z_Templates/Modal Form Test 1.md",
@@ -1047,9 +1057,6 @@
     "📚 - Information Compendium/👹 - Creature Codex.md",
     "📚 - Information Compendium/Introduction.md",
     "LexCrochetLogo.png",
-    "z_Templates/Insert Infobox - Left.md",
-    "z_Templates/Insert Infobox - Right.md",
-    "z_Templates/Insert Wiki Sidebar.md",
     "Untitled",
     "z_Assets",
     "templates/Untitled",

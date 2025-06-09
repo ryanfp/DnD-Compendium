@@ -1,0 +1,5 @@
+---
+type: playerOption
+playerOption: class
+---
+

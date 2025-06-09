@@ -344,19 +344,19 @@
       ],
       "version": "1",
       "template": {
+        "createInsertCommand": true,
+        "createNoteCommand": true,
         "parsedTemplate": [
           {
             "_tag": "text",
             "value": "<% \"---\" %>\n<%*\n  const modalForm = app.plugins.plugins.modalforms.api;\n  const result = await modalForm.openForm(\"metadata\");\n  tR += result.asFrontmatterString();\n-%>\n<% \"---\" %>"
           }
-        ],
-        "createInsertCommand": true,
-        "createNoteCommand": true
+        ]
       }
     },
     {
-      "title": "Metadata Edit",
-      "name": "metadata-edit",
+      "title": "Edit Metadata",
+      "name": "edit-metadata",
       "fields": [
         {
           "name": "type",
@@ -426,14 +426,14 @@
       ],
       "version": "1",
       "template": {
+        "createInsertCommand": false,
+        "createNoteCommand": false,
         "parsedTemplate": [
           {
             "_tag": "text",
             "value": "<%*\n  app.fileManager.processFrontMatter(\n    tp.config.target_file,\n    frontmatter => {\n      Object.assign(frontmatter, data);\n%>"
           }
-        ],
-        "createInsertCommand": false,
-        "createNoteCommand": false
+        ]
       }
     }
   ]
