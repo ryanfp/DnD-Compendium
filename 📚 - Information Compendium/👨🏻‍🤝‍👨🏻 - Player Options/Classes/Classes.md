@@ -3684,12 +3684,22 @@ A rock suddenly lowers, dropping an ally a crucial inch and turning a critical h
 
 Sources:
 - Amethyst Dragon Book
+	- ArtificerSpecializationsDragonforger
+	- Dragon Domain
+	- Knight of the SteelHarvest
+	- Way of the Storm's Light
+	- Shadow Archer
+	- Blazing Soul
+	- The Silver Cloak
 - Crimson Codex
 	- Grim Hunter Fighter
+	- Hemotechnic SavantArtificer Specialty
 - Drizzt 1
 	- Fate Tarokka Reading
 - Drizzt 2
 	- Temporal Tinkerer
+	- Titanslayer
+	- Cloud Stepper
 - Sylgar’s Guide to EE
 
 	- Way of the Zen Archer
