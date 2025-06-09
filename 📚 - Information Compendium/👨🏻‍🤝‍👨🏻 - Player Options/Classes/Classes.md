@@ -191,7 +191,7 @@ You were cursed by a magical or sentient object. For some reason, you’ve chose
 Your body is an explosive with a fuse of unknown length, most likely due to angering a divine or infernal being associated with fire. This subclass grants you abilities dealing with fire, such as becoming a ball of fire or granting you fire damage on hit.
 #### **Curse of The Created**
 You were not born, nor were you cursed. Instead you lurched to life with electricity crackling in the air around you. This subclass is based on Frankenstein, granting you lightning augments to abilities. 
-#### **Curse of Immortality**
+#### **!Curse of Immortality**
 Literally immortal, you return to life if dead at the start of each day. Jack of all trades with lots of knowledge due to being alive for forever
 #### **Curse of Misfortune**
 Cursed with bad luck, however you can also manipulate dice rolls and other “games of chance”. 
@@ -216,7 +216,7 @@ Warrior Monk
 
 *Some focus on the healing arts, and some focus on destruction, while others focus on research or potion-brewing. Fields of study are as varied as the alchemists who research them and have applications equally as diverse.*
 
-#### **Armorist Field**
+#### **!Amorist Field**
 You study mind-affecting alchemy, specializing in the brewing of potions  that produce strong emotional responses in their drinkers. While love potions are by far the most popular product, you can craft pungent pheromone bombs that can soften the hearts of even the most terrible monsters.
 #### **Apothecary Field**
 You study the science of apothecary, specializing in potions and herbology that relate to healing. You can create a steady source of income using your skills, and you’re an invaluable member in any adventuring party.
@@ -226,11 +226,11 @@ You study the concepts of an early alchemical thesis: *if the fundamental energy
 You study explosives and pyrotechnics, specializing in things that burn, blast and blow things up. You are constantly trying to improve the lethality and effectiveness of your IEDs, devoted to finding the perfect explosion.
 #### **Mutagenist Field**
 You study the transmutative properties of elixirs and potions, specializing in the creation of mutagens. The keystone of transmutation, mutagens transform your body, granting supernatural strength or speed, additional limbs, or turning your skin into a stone-like material.
-#### **Venomsmith Field**
+#### **!Venomsmith Field**
 You study the the effects of various poisons and coatings, specializing in the art of crafting deadly and debilitating poisons. You pursue the darker side of alchemy, lending your expertise to assassin’s guilds or political rivals in exchange for money, power, and the elevation of your research.
 #### **Xenoalchemist Field**
 You study the relation between alchemy and the body, more specifically your body. Specializing in experimenting on themselves, you modify or even attach new body parts, augmenting your abilities and toeing the line of morality.
-### Valda’s Spire of Secrets
+
 ~~Ooze Rancher~~
 Masterclass CODEX
 	~~Creation~~
