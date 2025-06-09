@@ -49,6 +49,60 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Untitled 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Untitled 5.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 5\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Modal Form Test 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Modal Form Test 1.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Modal Form Test 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":18},\"to\":{\"line\":4,\"ch\":18}}}"
+                },
+                {
+                  "title": "Untitled 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Untitled 5.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 5\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Modal Form Test 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Modal Form Test 1.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Modal Form Test 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":4},\"to\":{\"line\":20,\"ch\":4}}}"
+                },
+                {
+                  "title": "Untitled 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Untitled 5.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 5\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Modal Form Test 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Modal Form Test 1.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Modal Form Test 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":82},\"to\":{\"line\":3,\"ch\":82}}}"
+                },
+                {
+                  "title": "Untitled 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Untitled 5.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 5\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Modal Form Test 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Modal Form Test 1.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Modal Form Test 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":2},\"to\":{\"line\":2,\"ch\":2}}}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/Untitled.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Sourcebooks",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/Sourcebooks.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Sourcebooks\"}",
@@ -67,9 +121,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
                 },
                 {
-                  "title": "Untitled 4",
+                  "title": "Modal Form Test 1",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Untitled 4.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 4\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Modal Form Test 1.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 4\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
@@ -281,12 +335,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNORGANIZED/Untitled.md",
+                "file": "UNORGANIZED/test1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "test1"
             }
           }
         ]
@@ -549,13 +603,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNORGANIZED/Untitled.md",
+                "file": "UNORGANIZED/test1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of test1"
             }
           },
           {
@@ -661,14 +715,24 @@
                     }
                   }
                 ],
-                "version": "1"
+                "version": "1",
+                "template": {
+                  "parsedTemplate": [
+                    {
+                      "_tag": "text",
+                      "value": "<% \"---\" %>\n<%*\n  const result = await modalForm.openForm(\"taglist\");\n-%>\n<% \"---\" %>"
+                    }
+                  ],
+                  "createInsertCommand": true,
+                  "createNoteCommand": true
+                }
               },
               "icon": "lucide-file",
               "title": "Template Builder"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -706,13 +770,15 @@
       "modalforms:Edit forms": false
     }
   },
-  "active": "a6765ada3b2474ba",
+  "active": "ffe8ca4fd451df8b",
   "lastOpenFiles": [
+    "z_Templates/Untitled 5.md",
+    "UNORGANIZED/test1.md",
+    "z_Templates/Modal Form Test 1.md",
+    "UNORGANIZED/Untitled.md",
     "UNORGANIZED/Sourcebooks.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Animation.md",
     "Untitled.md",
-    "z_Templates/Untitled 4.md",
-    "UNORGANIZED/Untitled.md",
     "z_Templates/New File Auto Template.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "📚 - Information Compendium/📝 - Rules & Mechanics/Mechanics/Exhaustion Mechanics.md",
@@ -723,7 +789,6 @@
     "tessssst/Templates.md",
     "README.md",
     "z_Templates/Insert Fancy Quote.md",
-    "z_Templates/Untitled 5.md",
     "z_Templates/Insert Caption.md",
     "📚 - Information Compendium/👹 - Creature Codex.md",
     "📚 - Information Compendium/Introduction.md",
@@ -737,7 +802,6 @@
     "tessssst/tessssst.md",
     "UNORGANIZED/List of Classes and Subclasses.md",
     "z_Templates/Insert Table of Contents.md",
-    "z_Templates/Basic Callout Selecter.md",
     "templates/Untitled",
     "New Text Document.txt",
     "git clone",

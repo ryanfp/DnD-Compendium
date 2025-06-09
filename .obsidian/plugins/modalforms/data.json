@@ -6,7 +6,6 @@
     {
       "title": "Example form",
       "name": "example-form",
-      "version": "1",
       "fields": [
         {
           "name": "name",
@@ -59,6 +58,7 @@
           "name": "favorite_book",
           "label": "Favorite book",
           "description": "Pick one",
+          "isRequired": false,
           "input": {
             "type": "note",
             "folder": "Books"
@@ -76,20 +76,24 @@
           "name": "multi_example",
           "label": "Multi select folder",
           "description": "Allows to pick many notes from a folder",
+          "isRequired": false,
           "input": {
             "type": "multiselect",
             "source": "notes",
-            "folder": "Books"
+            "folder": "Books",
+            "allowUnknownValues": false,
+            "query": "",
+            "multi_select_options": []
           }
         },
         {
           "name": "multi_example_2",
           "label": "Multi select fixed",
           "description": "Allows to pick many notes from a fixed list",
+          "isRequired": false,
           "input": {
             "type": "multiselect",
             "source": "fixed",
-            "allowUnknownValues": false,
             "multi_select_options": [
               "Android",
               "iOS",
@@ -98,18 +102,22 @@
               "Linux",
               "Solaris",
               "MS2"
-            ]
+            ],
+            "allowUnknownValues": false,
+            "query": ""
           }
         },
         {
           "name": "multi_select_dataview",
           "label": "Multi select dataview",
           "description": "Allows to pick several values from a dv query",
+          "isRequired": false,
           "input": {
             "type": "multiselect",
             "source": "dataview",
             "query": "dv.pages(\"#person\").map(p => p.file.name)",
-            "allowUnknownValues": true
+            "allowUnknownValues": true,
+            "multi_select_options": []
           }
         },
         {
@@ -118,14 +126,20 @@
           "description": "Select of type note from a folder",
           "input": {
             "type": "select",
-            "source": "notes",
-            "folder": "People"
+            "source": "fixed",
+            "options": [
+              {
+                "value": "1",
+                "label": "1"
+              }
+            ]
           }
         },
         {
           "name": "dataview_example",
           "label": "Dataview example",
           "description": "Only people matching the dataview query will be shown",
+          "isRequired": false,
           "input": {
             "type": "dataview",
             "query": "dv.pages(\"#person\").filter(p => p.age < 30).map(p => p.file.name)"
@@ -205,6 +219,7 @@
           "name": "hidden_field",
           "label": "This field is hidden",
           "description": "It is useful for internal data",
+          "isRequired": false,
           "input": {
             "type": "text",
             "hidden": true
@@ -213,6 +228,7 @@
         {
           "name": "Tags",
           "description": "Tags input example",
+          "isRequired": false,
           "input": {
             "type": "tag",
             "hidden": false
@@ -224,13 +240,14 @@
           "description": "Upload a profile picture. It will be saved in the attachments folder with the current date.",
           "input": {
             "type": "image",
-            "saveLocation": "attachments/profile_pictures",
-            "filenameTemplate": "profile-{{datetime}}.png"
+            "filenameTemplate": "profile-{{datetime}}.png",
+            "saveLocation": "attachments/profile_pictures"
           }
         },
         {
           "name": "pdf",
           "description": "PDF example",
+          "isRequired": false,
           "input": {
             "type": "file",
             "folder": "attachments/pdfs",
@@ -247,7 +264,18 @@
             "body": "return `Hello ${form.name}!<br> Your best friend is <b>${form.best_fried}</b>`"
           }
         }
-      ]
+      ],
+      "version": "1",
+      "template": {
+        "parsedTemplate": [
+          {
+            "_tag": "text",
+            "value": "<% \"---\" %>\n<%*\n  const modalForm = app.plugins.plugins.modalforms.api;\n  const result = await modalForm.openForm(\"example-form\");\n  tR += result.asFrontmatterString();\n-%>\n<% \"---\" %>"
+          }
+        ],
+        "createInsertCommand": true,
+        "createNoteCommand": true
+      }
     },
     {
       "title": "Tags",
@@ -323,12 +351,12 @@
       "template": {
         "parsedTemplate": [
           {
-            "_tag": "variable",
-            "value": "type"
+            "_tag": "text",
+            "value": "<% \"---\" %>\n<%*\n  const modalForm = app.plugins.plugins.modalforms.api;\n  const result = await modalForm.openForm(\"taglist\");\n  tR += result.asFrontmatterString();\n-%>\n<% \"---\" %>"
           }
         ],
         "createInsertCommand": true,
-        "createNoteCommand": false
+        "createNoteCommand": true
       }
     }
   ]

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "test1",
+      "path": "UNORGANIZED/test1.md"
+    },
+    {
+      "basename": "Untitled 5",
+      "path": "z_Templates/Untitled 5.md"
+    },
+    {
       "basename": "Untitled",
       "path": "UNORGANIZED/Untitled.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Untitled",
       "path": "Untitled.md"
-    },
-    {
-      "basename": "Untitled 4",
-      "path": "z_Templates/Untitled 4.md"
     },
     {
       "basename": "New File Auto Template",
@@ -51,10 +55,6 @@
     {
       "basename": "Insert Fancy Quote",
       "path": "z_Templates/Insert Fancy Quote.md"
-    },
-    {
-      "basename": "Untitled 5",
-      "path": "z_Templates/Untitled 5.md"
     },
     {
       "basename": "Insert Caption",
