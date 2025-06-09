@@ -139,8 +139,6 @@
 >        - [Subclasses - Sealed Spirits](Classes.md#Subclasses%20-%20Sealed%20Spirits)
 >        - [Laser Llama](Classes.md#Laser%20Llama)
 
-%%ENDTOC%%
-
 
 
 **Sources (Classes/Subclasses without notation are in PHB/DMG)**

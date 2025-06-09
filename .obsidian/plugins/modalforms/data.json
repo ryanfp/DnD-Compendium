@@ -273,7 +273,7 @@
       }
     },
     {
-      "title": "Metadata",
+      "title": "Input Metadata",
       "name": "metadata",
       "fields": [
         {
@@ -426,14 +426,14 @@
       ],
       "version": "1",
       "template": {
-        "createInsertCommand": false,
-        "createNoteCommand": false,
         "parsedTemplate": [
           {
             "_tag": "text",
             "value": "<%*\n  app.fileManager.processFrontMatter(\n    tp.config.target_file,\n    frontmatter => {\n      Object.assign(frontmatter, data);\n%>"
           }
-        ]
+        ],
+        "createInsertCommand": true,
+        "createNoteCommand": true
       }
     }
   ]

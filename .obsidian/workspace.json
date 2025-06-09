@@ -4,49 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "2816a3b8913ff648",
-        "type": "tabs",
-        "dimension": 25.792507204610946,
-        "children": [
-          {
-            "id": "d6aaf4890575e5c6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNORGANIZED/Sourcebooks.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sourcebooks"
-            }
-          }
-        ]
-      },
-      {
         "id": "4e50f70f89b65c37",
         "type": "tabs",
-        "dimension": 74.20749279538906,
         "children": [
           {
             "id": "3a73ca7b9dac80c9",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Backgrounds",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Backgrounds\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "List of Classes and Subclasses",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/List of Classes and Subclasses.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"List of Classes and Subclasses\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":91},\"to\":{\"line\":6,\"ch\":91}},\"scroll\":0}"
+                },
+                {
+                  "title": "Edit Metadata",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Edit Metadata.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Edit Metadata\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "List of Classes and Subclasses",
@@ -593,12 +580,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/Edit Metadata.md",
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Edit Metadata"
+              "title": "Classes"
             }
           }
         ]
@@ -704,7 +691,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 200
   },
   "right": {
     "id": "fc1490c296b0c5ab",
@@ -861,13 +848,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNORGANIZED/Untitled.md",
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Classes"
             }
           },
           {
@@ -989,12 +976,11 @@
               "title": "Template Builder"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 642.5
+    "width": 305.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -1024,17 +1010,25 @@
       "custom-sort:Toggle custom sorting": false,
       "iconic:Open rulebook": false,
       "obsidian-git:Open Git source control": false,
-      "modalforms:Edit forms": false
+      "modalforms:Edit forms": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "8d3cbb62f9815d24",
+  "active": "8d06c334193bd871",
   "lastOpenFiles": [
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md",
     "UNORGANIZED/List of Classes and Subclasses.md",
-    "z_Templates/Edit.md",
+    "📚 - Information Compendium/📝 - Rules & Mechanics/Mechanics/Exhaustion Mechanics.md",
+    "UNORGANIZED/Sourcebooks.md",
     "z_Templates/Edit Metadata.md",
+    "z_Templates/New File Auto Template.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "z_Templates/Edit.md",
     "UNORGANIZED/asdas111.md",
     "UNORGANIZED/EE.md",
-    "UNORGANIZED/Sourcebooks.md",
     "UNORGANIZED/2we.md",
     "z_Templates/Link Auto Title.md",
     "UNORGANIZED/Exploring Eberron.md",
@@ -1043,19 +1037,12 @@
     "z_Templates/Modal Form Test 1.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Animation.md",
     "Untitled.md",
-    "z_Templates/New File Auto Template.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/Mechanics/Exhaustion Mechanics.md",
     "image.png",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Circle of Visions.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Circle of Twilight.md",
     "tessssst/Templates.md",
     "README.md",
     "z_Templates/Insert Fancy Quote.md",
-    "z_Templates/Insert Caption.md",
-    "📚 - Information Compendium/👹 - Creature Codex.md",
-    "📚 - Information Compendium/Introduction.md",
     "LexCrochetLogo.png",
     "Untitled",
     "z_Assets",

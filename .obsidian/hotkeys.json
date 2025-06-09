@@ -83,5 +83,13 @@
       ],
       "key": "T"
     }
+  ],
+  "modalforms:insert-form-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
   ]
 }
