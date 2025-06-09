@@ -23,7 +23,6 @@
   "editing-toolbar",
   "obsidian-dice-roller",
   "obsidian-leaflet-plugin",
-  "templater-obsidian",
   "calendarium",
   "sheets",
   "obsidian-quiet-outline",
@@ -64,5 +63,6 @@
   "obsidian-git",
   "obsidian-linter",
   "pane-relief",
+  "templater-obsidian",
   "modalforms"
 ]

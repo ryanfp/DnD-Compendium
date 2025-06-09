@@ -51,6 +51,18 @@
                 {
                   "title": "Untitled 5",
                   "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Untitled 5.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 5\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "test1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/test1.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"test1\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Untitled 5",
+                  "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Untitled 5.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled 5\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
@@ -335,12 +347,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNORGANIZED/test1.md",
+                "file": "UNORGANIZED/Untitled.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "test1"
+              "title": "Untitled"
             }
           }
         ]
@@ -603,17 +615,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNORGANIZED/test1.md",
+                "file": "UNORGANIZED/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of test1"
+              "title": "Outline of Untitled"
             }
           },
           {
-            "id": "a6765ada3b2474ba",
+            "id": "693cef2cdcb905a6",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -630,109 +642,9 @@
               "icon": "documents",
               "title": "Manage forms"
             }
-          },
-          {
-            "id": "ffe8ca4fd451df8b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "modal-form-template-builder-view",
-              "state": {
-                "title": "Tags",
-                "name": "taglist",
-                "fields": [
-                  {
-                    "name": "type",
-                    "label": "Type",
-                    "description": "What is this piece of content?",
-                    "isRequired": true,
-                    "input": {
-                      "type": "select",
-                      "source": "fixed",
-                      "options": [
-                        {
-                          "value": "playerOption",
-                          "label": "Player Option"
-                        },
-                        {
-                          "value": "combat",
-                          "label": "Combat"
-                        },
-                        {
-                          "value": "rule",
-                          "label": "Rule/Mechanic"
-                        },
-                        {
-                          "value": "monster",
-                          "label": "Monster"
-                        }
-                      ]
-                    }
-                  },
-                  {
-                    "name": "playerOption",
-                    "label": "Player Options",
-                    "description": "What type of player option is it?",
-                    "isRequired": true,
-                    "condition": {
-                      "dependencyName": "type",
-                      "type": "isExactly",
-                      "value": "playerOption"
-                    },
-                    "input": {
-                      "type": "select",
-                      "source": "fixed",
-                      "options": [
-                        {
-                          "value": "class",
-                          "label": "Class"
-                        },
-                        {
-                          "value": "background",
-                          "label": "Background"
-                        },
-                        {
-                          "value": "feat",
-                          "label": "Feat"
-                        },
-                        {
-                          "value": "race",
-                          "label": "Race"
-                        },
-                        {
-                          "value": "skill",
-                          "label": "Skill"
-                        }
-                      ]
-                    }
-                  }
-                ],
-                "version": "1",
-                "template": {
-                  "parsedTemplate": [
-                    {
-                      "_tag": "text",
-                      "value": "<% \"---\" %>\n<%*\n  const result = await modalForm.openForm(\"taglist\");\n-%>\n<% \"---\" %>"
-                    }
-                  ],
-                  "createInsertCommand": true,
-                  "createNoteCommand": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Template Builder"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -770,10 +682,11 @@
       "modalforms:Edit forms": false
     }
   },
-  "active": "ffe8ca4fd451df8b",
+  "active": "693cef2cdcb905a6",
   "lastOpenFiles": [
-    "z_Templates/Untitled 5.md",
+    "UNORGANIZED/test1 1.md",
     "UNORGANIZED/test1.md",
+    "z_Templates/Untitled 5.md",
     "z_Templates/Modal Form Test 1.md",
     "UNORGANIZED/Untitled.md",
     "UNORGANIZED/Sourcebooks.md",
@@ -801,7 +714,6 @@
     "z_Assets",
     "tessssst/tessssst.md",
     "UNORGANIZED/List of Classes and Subclasses.md",
-    "z_Templates/Insert Table of Contents.md",
     "templates/Untitled",
     "New Text Document.txt",
     "git clone",

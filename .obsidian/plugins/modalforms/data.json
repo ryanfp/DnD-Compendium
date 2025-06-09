@@ -80,10 +80,7 @@
           "input": {
             "type": "multiselect",
             "source": "notes",
-            "folder": "Books",
-            "allowUnknownValues": false,
-            "query": "",
-            "multi_select_options": []
+            "folder": "Books"
           }
         },
         {
@@ -103,8 +100,7 @@
               "Solaris",
               "MS2"
             ],
-            "allowUnknownValues": false,
-            "query": ""
+            "allowUnknownValues": false
           }
         },
         {
@@ -116,8 +112,7 @@
             "type": "multiselect",
             "source": "dataview",
             "query": "dv.pages(\"#person\").map(p => p.file.name)",
-            "allowUnknownValues": true,
-            "multi_select_options": []
+            "allowUnknownValues": true
           }
         },
         {
@@ -267,14 +262,14 @@
       ],
       "version": "1",
       "template": {
+        "createInsertCommand": true,
+        "createNoteCommand": true,
         "parsedTemplate": [
           {
             "_tag": "text",
             "value": "<% \"---\" %>\n<%*\n  const modalForm = app.plugins.plugins.modalforms.api;\n  const result = await modalForm.openForm(\"example-form\");\n  tR += result.asFrontmatterString();\n-%>\n<% \"---\" %>"
           }
-        ],
-        "createInsertCommand": true,
-        "createNoteCommand": true
+        ]
       }
     },
     {
@@ -349,14 +344,14 @@
       ],
       "version": "1",
       "template": {
+        "createInsertCommand": true,
+        "createNoteCommand": true,
         "parsedTemplate": [
           {
             "_tag": "text",
             "value": "<% \"---\" %>\n<%*\n  const modalForm = app.plugins.plugins.modalforms.api;\n  const result = await modalForm.openForm(\"taglist\");\n  tR += result.asFrontmatterString();\n-%>\n<% \"---\" %>"
           }
-        ],
-        "createInsertCommand": true,
-        "createNoteCommand": true
+        ]
       }
     }
   ]
