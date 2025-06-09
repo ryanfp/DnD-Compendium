@@ -642,9 +642,109 @@
               "icon": "documents",
               "title": "Manage forms"
             }
+          },
+          {
+            "id": "8d3cbb62f9815d24",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "modal-form-template-builder-view",
+              "state": {
+                "title": "Tags",
+                "name": "taglist",
+                "fields": [
+                  {
+                    "name": "type",
+                    "label": "Type",
+                    "description": "What is this piece of content?",
+                    "isRequired": true,
+                    "input": {
+                      "type": "select",
+                      "source": "fixed",
+                      "options": [
+                        {
+                          "value": "playerOption",
+                          "label": "Player Option"
+                        },
+                        {
+                          "value": "combat",
+                          "label": "Combat"
+                        },
+                        {
+                          "value": "rule",
+                          "label": "Rule/Mechanic"
+                        },
+                        {
+                          "value": "monster",
+                          "label": "Monster"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "name": "playerOption",
+                    "label": "Player Options",
+                    "description": "What type of player option is it?",
+                    "isRequired": true,
+                    "condition": {
+                      "dependencyName": "type",
+                      "type": "isExactly",
+                      "value": "playerOption"
+                    },
+                    "input": {
+                      "type": "select",
+                      "source": "fixed",
+                      "options": [
+                        {
+                          "value": "class",
+                          "label": "Class"
+                        },
+                        {
+                          "value": "background",
+                          "label": "Background"
+                        },
+                        {
+                          "value": "feat",
+                          "label": "Feat"
+                        },
+                        {
+                          "value": "race",
+                          "label": "Race"
+                        },
+                        {
+                          "value": "skill",
+                          "label": "Skill"
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "version": "1",
+                "template": {
+                  "createInsertCommand": true,
+                  "createNoteCommand": true,
+                  "parsedTemplate": [
+                    {
+                      "_tag": "text",
+                      "value": "<% \"---\" %>\n<%*\n  const modalForm = app.plugins.plugins.modalforms.api;\n  const result = await modalForm.openForm(\"taglist\");\n  tR += result.asFrontmatterString();\n-%>\n<% \"---\" %>"
+                    }
+                  ]
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Template Builder"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -678,18 +778,18 @@
       "custom-sort:Toggle custom sorting": false,
       "iconic:Open rulebook": false,
       "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false,
-      "modalforms:Edit forms": false
+      "modalforms:Edit forms": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "693cef2cdcb905a6",
+  "active": "8d3cbb62f9815d24",
   "lastOpenFiles": [
+    "UNORGANIZED/Sourcebooks.md",
     "UNORGANIZED/test1 1.md",
     "UNORGANIZED/test1.md",
     "z_Templates/Untitled 5.md",
     "z_Templates/Modal Form Test 1.md",
     "UNORGANIZED/Untitled.md",
-    "UNORGANIZED/Sourcebooks.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Animation.md",
     "Untitled.md",
     "z_Templates/New File Auto Template.md",
