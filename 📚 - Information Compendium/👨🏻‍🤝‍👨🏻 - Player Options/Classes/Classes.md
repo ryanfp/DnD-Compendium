@@ -361,50 +361,45 @@ Known as Kuldjargh (literally “axe idiot”) in Dwarvish, battleragers are fol
 Barbarians who follow the Path of the World Tree connect with the cosmic tree Yggdrasil through their Rage. This tree grows among the Outer Planes, connecting them to each other and the Material Plane. These Barbarians draw on the tree's magic for vitality and as a means of dimensional travel.
 #### **Path of the Colossus**<sup>VSS</sup>
 Sometimes known as a war-hulk, a colossus barbarian is always on the front lines hefting massive weapons and sweeping away smaller combatants in their fury. To a war-hulk, strength is the only attribute that matters. Cunning is for the weak, faith is for the weak, speed is for the week, and so on. Victory is for the strong alone, and their rage is the purest path to strength. Path of the Colossus barbarians are able to grow to enormous size and crush their foes.
-#### **Path of the Fin**<sup>VSS</sup>
+#### **~~Path of the Fin~~**<sup>VSS</sup>
 Tribal communities exist all across the realms, with vastly different cultures and customers – with one steadfast certainty. Time and time again these tribes have a reverence for particular animals, some in the desert may follow the Jackal, or those in the jungle the Ape. It is in this tradition that the Path of the Fin, these warriors capture the bloodthirsty essence of the great Shark. An adherent to oceanic totems, bearing hills and rows of razor sharp teeth, they can sense blood – and fear. 
-#### **Path of Heavy Metal**<sup>VSS</sup>
+#### **!Path of Heavy Metal**<sup>VSS</sup>
 Armored only in face paint and studded belts, these fearless hellions are known for screaming their enemies into submission, trashing taverns, and turning any battle they’re involved in to a noisy, violent and short experience.
 #### **Path of the Muscle Wizard**<sup>VSS</sup>
 You’re a wizard! Just one with coincidentally massive, rippling muscles. You even have the big dumb hat and the book filled with gibberish and everything! You gently remind others, often by beating them to a pulp and cracking their bones, that your magical powers shouldn’t be questioned. You have the ability to cast “spells” with your “arcane powers”
-#### **Path of the Rage Mage**<sup>VSS</sup>
+#### **!Path of the Rage Mage**<sup>VSS</sup>
 Barbarians who find the spark of arcane talent and learn to channel their brute ferocity through magic, embark on the Path of the Rage Mage. Through their rage-fueled arcane might, such a barbarian possesses a uniquely calamitous fury, merging physical prowess with spell slinging in a warpath of fire, blades, and blood. 
-#### **Path of Tranquility**<sup>VSS</sup>
+#### **~~Path of Tranquility~~**<sup>VSS</sup>
 You choose to walk the straight and narrow, embracing a zen philosophy of restraint and moderation, much in contrast with their furious brethren. Embraced by the fey and called “the serene”, these barbarians are calm, tactical warriors who issue swift retaliation instead of violent assaults. At the height of their power, the serene are one with nature, entering flow state at will to dispatch their foes with unmatched precision. 
 #### **Path of the Blighted**<sup>UA</sup>
 Embracing this path unleashes a primal fury intertwined with the corruptive energies of the cursed beings. As a Blighted Barbarian, you become an embodiment of their malevolence, channeling their sinister powers to devastating effect. Your body and spirit endure both physical and metaphysical transformations, enhancing your already formidable combat prowess. With each swing of your weapon, your strikes resonate with the otherworldly force that has possessed you, and your adversaries cower before the sheer terror emanating from your blighted form. Through this subclass, you tread a precarious path, balancing between embracing the cursed powers and preserving your own humanity amidst the darkness.
 #### **Path of Booming Magnificence**<sup>TOH</sup>
 Barbarians who walk the Path of Booming Magnificence strive to be as lions among their people: symbols of vitality, majesty, and courage. They serve at the vanguard, leading their allies at each charge and drawing their opponents’ attention away from more vulnerable members of their group. As they grow more experienced, members of this path often take on roles as leaders or in other integral positions.
-#### **Path of Hellfire**<sup>TOH</sup>
+#### **~~Path of Hellfire~~**<sup>TOH</sup>
 Devils have long been known to grant power to mortals as part of a pact or bargain. While this may take the form of unique magic or boons, those who follow the Path of Hellfire are gifted with command over the fires of the Lower Planes, which they channel for short periods to become powerful and furious fighting machines.
 #### **Path of Mistwood**<sup>TOH</sup>
 The first barbarians that traveled the path of mistwood were elves who expanded upon their natural gifts to become masters of the forests. Over time, members of other races who saw the need to protect and cherish the green places of the world joined and learned from them. Often these warriors haunt the woods alone, only seen when called to action by something that would despoil their home.
-~~**Path of the Dragon**<sup>TOH</sup>~~
-	~~Few creatures embody the power and majesty of dragons. By walking the path of the dragon, you don’t solely aspire to emulate these creatures—you seek to become one.~~
 #### **Path of the Herald**<sup>TOH</sup>
 In northern lands, the savage warriors charge into battle behind chanting warrior-poets. These wise men and women collect the histories, traditions, and accumulated knowledge of the people to preserve and pass on. Barbarians who follow the Path of the Herald lead their people into battle, chanting the tribe’s sagas and spurring them on to new victories while honoring the glory of the past.
 #### **Path of the Inner Eye**<sup>TOH</sup>
 The barbarians who follow the Path of the Inner Eye elevate their rage beyond anger to glimpse premonitions of the future.
-~~**Path of Thorns**<sup>TOH</sup>~~
-	~~Path of Thorns barbarians use ancient techniques  developed by the druids of old that enable them to grow thorns all over their body. The first barbarians of this path fought alongside these druids to defend the natural order. In the centuries since, the knowledge of these techniques has spread, allowing others access to this power.~~
-#### **Path of the Abomination**<sup>TCEE</sup>
-There are whispers of barbarian tribes that possess otherworldly abilities, able to take on grotesque forms that defy the laws of the natural world. Regardless of their origin, these vile warriors often perform ancient and evil magic rituals of mutilation to transform their flesh. These actions warp both their bodies and minds in horrific ways that augment their already profound combat abilities.
-#### **Path of the Alchemical Brute**<sup>TCEE</sup>
-You move in polite society as well as anyone else, and are possessed of a level of intellect unusual to other barbarians. Through careful study and alchemical experimentation, you have learned to tap into the primal beast inside you, and manifest it in physical ways.
-#### **Path of the Cosmic Juggernaut**<sup>TCEE</sup>
+#### ~~**Path of the Abomination**<sup>TCEE</sup>~~
+~~There are whispers of barbarian tribes that possess otherworldly abilities, able to take on grotesque forms that defy the laws of the natural world. Regardless of their origin, these vile warriors often perform ancient and evil magic rituals of mutilation to transform their flesh. These actions warp both their bodies and minds in horrific ways that augment their already profound combat abilities.~~
+#### ~~**Path of the Alchemical Brute**<sup>TCEE</sup>~~
+~~You move in polite society as well as anyone else, and are possessed of a level of intellect unusual to other barbarians. Through careful study and alchemical experimentation, you have learned to tap into the primal beast inside you, and manifest it in physical ways.~~
+#### **!Path of the Cosmic Juggernaut**<sup>TCEE</sup>
 Barbarians who follow the Path of the Cosmic Juggernaut enter an intensely focused state when they enter a rage, channeling psychic energy and draw upon the Astral Plane to bend time and space itself.
-#### ~~**Path of Dragonheart**<sup>TCEE</sup>~~
 #### **Path of the Horned King**<sup>TCEE</sup>
 Since ancient days, men have gathered to honor the gods of the hunt—but every so often, one of these cults is truly devoted to Baphomet, the Horned King, the father of minotaurs. Those that knowingly and willingly beseech the demon prince’s favor are endowed with ebony horns and a violent temper, making them little more than beasts hiding beneath a man’s flesh.
-#### **Path of Infiltration**<sup>TCEE</sup>
-To barbarians who follow the Path of Infiltration, rage does not mean battle cries and violent screams. Instead, it means deafening silence and uncertain shadows. Drawing upon magic from the Shadowfell, these infiltrators breathe in sound and light and hold it within, suppressing it as they lay waste to enemies, doors, and any other barriers between them and their goal.
+#### ~~**Path of Infiltration**<sup>TCEE</sup>~~
+~~To barbarians who follow the Path of Infiltration, rage does not mean battle cries and violent screams. Instead, it means deafening silence and uncertain shadows. Drawing upon magic from the Shadowfell, these infiltrators breathe in sound and light and hold it within, suppressing it as they lay waste to enemies, doors, and any other barriers between them and their goal.~~
 #### **Path of the Demonshard**<sup>FEQ</sup>
 Demonglass holds the essence of a fiend—pure malefic power yearning for release. A painful, and often lethal, ritual can embed a shard of demonglass in a mortal’s body; if the mortal survives, they can draw on the power of the fiend. No matter their intention, a Barbarian who walks the Path of the Demonshard may struggle to keep the fiendish malice contained.
 #### **Path of the Blinking Pack**<sup>FCG</sup>
 Barbarians who walk the Path of the Blinking Pack share in the nobility and majesty of the blink dogs they emulate. No matter where the abilities originate from, the Path of the Blinking Pack barbarian uses teleportation to hunt enemies and pack tactics to bring them down.
-~~**Path of the Brewmaster**<sup>(LAL)</sup>~~
+
 #### **Path of the Kaiju**<sup>RGYR</sup>
-The Path of the Kaiju is one of sheer destructive force . Some warriors of this kind are fueled by a relentless hatred of a kaiju, perhaps one that destroyed their home or ravaged their continent . In such cases, an individual’s burning obsession is a source of incredible strength, manifesting as an aspect of the kaiju’s own power in moments of blind rage . Other barbarians might worship kaiju for their strength and grandeur, calling on their aid in battle, embodying the might and fury of a colossus as they charge into the fray .
+The Path of the Kaiju is one of sheer destructive force. Some warriors of this kind are fueled by a relentless hatred of a kaiju, perhaps one that destroyed their home or ravaged their continent. In such cases, an individual’s burning obsession is a source of incredible strength, manifesting as an aspect of the kaiju’s own power in moments of blind rage. Other barbarians might worship kaiju for their strength and grandeur, calling on their aid in battle, embodying the might and fury of a colossus as they charge into the fray .
 #### **Path of the Curse**<sup>CCS</sup>
 Barbarians that walk the Path of the Curse harbor a malicious presence within their body, which fuels their rage. When these barbarians enter a state of fury, this curse takes control, and at this point nothing will stop them from annihilating everything around them. Some of these barbarians accept this curse as a gift, and others fight with their curse— forcing it to work in their favor.
 #### **Path of the Raging Mind**<sup>KT</sup>
@@ -918,7 +913,7 @@ Gods of the Time domain may not experience time as mortals do, but they understa
 #### **Shadow Domain**<sup>(GTD)</sup>
 Clerics of the Sacred Flame know that life is at all times a balance between the light and the dark. Most clerics uphold the flame, whose divine purpose is to hold back the darkness, and offer guidance to those who pass on. Clerics of the Shadow Do- main are in tune with the dark side of the divine. They stand to balance all things, practicing the powers of shadow against their enemies. They know that not all deserve the light, and so sending foul horrors to the shadows is their form of righteous justice.
 #### **Shrine Warden Domain**<sup>(RGYR)</sup>
-Across the realms and beyond exist countless deities and spirits, each with their own motivations, power, and temperament, and each with their own devoted followers Shrine Warden clerics celebrate and honor the deities they follow through the creation and preservation of hallowed sites in their honor—consecrated ground where the misty division between spiritual and physical melts away to nothing . To such clerics, power can be drawn from almost any kaiju, spirit, deity, or pantheon they worship . For the Shrine Warden, the act of devotion itself is magical, and the erection of a shrine a beacon of hope to those in need, and of terror to those who mean it harm .
+Across the realms and beyond exist countless deities and spirits, each with their own motivations, power, and temperament, and each with their own devoted followers Shrine Warden clerics celebrate and honor the deities they follow through the creation and preservation of hallowed sites in their honor—consecrated ground where the misty division between spiritual and physical melts away to nothing. To such clerics, power can be drawn from almost any kaiju, spirit, deity, or pantheon they worship. For the Shrine Warden, the act of devotion itself is magical, and the erection of a shrine a beacon of hope to those in need, and of terror to those who mean it harm .
 ## Craftsman
 *Craftsmen are virtuoso artisans and genius inventors. Not content merely creating masterwork pieces of weapons and armor, they invent and engineer ingenious devices and singularly deadly weapons. Artisans of all types are an integral part of every culture: buildings must be erected, pots must be sent to the kiln, tools must be forged. Despite their pervasiveness, master craftsmen are still as rare as they are prized. These artisans, creators, and inventors can smith items of mythic quality, and can solve most any problem simply by using the right tool and the appropriate amount of force. (**Source: Valda’s Spire of Secrets**)* Is this worth it to have? Appaarently it can be pretty weak or generic
 
@@ -1044,7 +1039,7 @@ The [[Circle of Twilight]] seeks to exterminate undead creatures and preserve th
 
 These druids seek out lands that have been tainted by undeath. Such places are grim and foreboding. Once vibrant forests become gloomy, haunted places devoid of animals and filled with plants dying a slow, lingering death. The Circle of Twilight goes to such places to banish undeath and restore life.
 #### **Circle of the Yokai**<sup>(RGYR)</sup>
-Druids belonging to the Circle of the Yokai seek a connection to nature beyond the physical, aligning themselves with the mysterious yokai spirits that embody and inhabit the natural world . This connection allows such druids to assume yokai forms, becoming entities of nature while retaining their own mind and voice . Moreover, such druids can encourage roaming yokai spirits to settle in plants, flames, pebbles, and streams, turning these facets of nature into grasping weeds, furious wildfires, stalwart bastions of rock, or living wyrms of water .
+Druids belonging to the Circle of the Yokai seek a connection to nature beyond the physical, aligning themselves with the mysterious yokai spirits that embody and inhabit the natural world. This connection allows such druids to assume yokai forms, becoming entities of nature while retaining their own mind and voice. Moreover, such druids can encourage roaming yokai spirits to settle in plants, flames, pebbles, and streams, turning these facets of nature into grasping weeds, furious wildfires, stalwart bastions of rock, or living wyrms of water .
 #### **Circle of Ash**<sup>(TOH)</sup>
 Druids of the Circle of Ash believe in the power of rebirth and resurrection, both physical and spiritual. The ash they take as their namesake is the result of burning and death, but it can fertilize the soil and help bring forth new life. For these druids, ash is the ultimate symbol of the elegant cycle of life and death that is the foundation of the natural world. Some such druids even use fresh ash to clean themselves, and the residue is often kept visible on their faces.
 
@@ -1631,7 +1626,7 @@ The Way of Street Fighting is an urban discipline founded on necessity, whose bl
 #### **Way of the Bloodied Fist**<sup>(UA)</sup>
 Monks of the Way of the Bloodied Fist follow a tradition that teaches them to control their own life force, as well as the life force of their foes. By focusing their ki, they exert control over blood - a powerful tool that is not to be underestimated. Their monasteries practice in secret in dark caves and high mountains, out of the eye of the common people, and their members only leave for the rare missions ordered by only the most desperate. Many monks of this tradition are covered in scars - some self-inflicted in their training, and others earned in battle. The monks often use their mystic energies to manipulate these scars, forming them into complex designs and symbols to represent their unique ki powers.
 #### **Way of the Eight Gates**<sup>(RGYR)</sup>
-Monks of this order strive for meaning and perfection through mastery of the Eight Gates, internal loci of spiral- ling energy through which ki is channeled . By way of personal contemplation and intense training, each gate can be opened in turn, and once brought into harmony, allow for a stronger channel of ki and the ability to push one’s body beyond mortal limitations . Those who follow the Way of the Eight Gates might be hermits, retreating from the chaos of the wider world and to a place of contemplative isolation . Others may be wanderers, embracing and celebrating all experiences, believing this to be the path to internal harmony . In any case, monks who walk this path eschew organized religious and spiritual practices, preferring to carve their own path of potential, freedom, and growth .
+Monks of this order strive for meaning and perfection through mastery of the Eight Gates, internal loci of spiral- ling energy through which ki is channeled. By way of personal contemplation and intense training, each gate can be opened in turn, and once brought into harmony, allow for a stronger channel of ki and the ability to push one’s body beyond mortal limitations. Those who follow the Way of the Eight Gates might be hermits, retreating from the chaos of the wider world and to a place of contemplative isolation. Others may be wanderers, embracing and celebrating all experiences, believing this to be the path to internal harmony. In any case, monks who walk this path eschew organized religious and spiritual practices, preferring to carve their own path of potential, freedom, and growth .
 #### **Way of the Fire Dancer**<sup>(SGEH)</sup>
 The fire dancers carry an almost extinct tradition. Once a trading group, they considered themselves a family of a single creed: “Those who harm us will bathe in flames." This nomadic group of seasoned warriors welcomed all walks of life, regardless of origin, status, or influence; as long as one conducted oneself with respect towards their fellows, the caravans would open their door. Their ironclad creed and welcoming nature was their downfall.
 #### **Way of Concordant Motion**<sup>(TOH)</sup>
@@ -1986,28 +1981,28 @@ _**Let Souls Pass On.**_ Every soul deserves its place in the afterlife. When yo
 _**Accept Death.**_ Death comes to all eventually. Accept it, and you will find a place in the afterlife.
 #### ~~**Oath of the Hellsworn**<sup>(UA)</sup>~~
 #### **Oath of the Yojimbo**<sup>(RGYR)</sup>
-Yojimbo are sworn to protect those to whom they dedicate their service, be it an individual, a group, or an entire nation . Though Yojimbo typically pledge their allegiance to a charge and accompany them until death, a defenseless soul might find the raking claws of a dodomeki halted inches from their face by the serendipitous intervention of a wandering Yojimbo paladin . These roaming saviors traverse the realms on an unrelenting quest to shield those who can’t protect themselves . Despite being in high demand— unshakeable loyalty is a coveted virtue—Yojimbo rarely pledge themselves to the wealthy or powerful . It’s said that a true Yojimbo has the value of ten sellswords in battle, and ten-thousand sellswords in spirit .
+Yojimbo are sworn to protect those to whom they dedicate their service, be it an individual, a group, or an entire nation. Though Yojimbo typically pledge their allegiance to a charge and accompany them until death, a defenseless soul might find the raking claws of a dodomeki halted inches from their face by the serendipitous intervention of a wandering Yojimbo paladin. These roaming saviors traverse the realms on an unrelenting quest to shield those who can’t protect themselves. Despite being in high demand— unshakeable loyalty is a coveted virtue—Yojimbo rarely pledge themselves to the wealthy or powerful. It’s said that a true Yojimbo has the value of ten sellswords in battle, and ten-thousand sellswords in spirit .
 
 **Tenets of the Yojimbo**
 
 The tenets of the Oath of the Yojimbo are unflinchingly
-resolute . They do not change or vary, no matter whom a
+resolute. They do not change or vary, no matter whom a
 paladin pledges to protect .
 
 _(Protection.)_ Be a shield to those who lack a shield of
-their own . Be the weapon that meets the blade of those who
+their own. Be the weapon that meets the blade of those who
 would slaughter the weaponless .
 
 _(Strength.)_ Grow strong for the sake of those who cannot .
 To shelter the vulnerable, one must have the power to hold
 back the storm .
 
-_(Inspiration.)_ Nurture the weak . Do not merely preserve
+_(Inspiration.)_ Nurture the weak. Do not merely preserve
 the vulnerable; raise them up to be strong, so they might, in
 turn, protect others .
 
 _(Self-Sacrifice.)_ Wager everything for the safety of those
-who cannot fight . Nothing less is acceptable in the defense
+who cannot fight. Nothing less is acceptable in the defense
 against tyranny .
 #### **Oath of Justice**<sup>(TOH)</sup>
 The Oath of Justice is a commitment not to the tenets of good or evil but a holy vow sworn to uphold the laws of a nation, a city, or even a tiny village. When lawlessness threatens the peace, those who swear to uphold the Oath of Justice intervene to maintain order, for if order falls to lawlessness, it is only a matter of time before all of civilization collapses into anarchy. 
@@ -2586,13 +2581,13 @@ When a wizard embraces forbidden, volatile magic, or a sorcerer loses control of
 #### ~~**Trophy Hunter Conclave**<sup>(VSS)</sup>~~
 #### ~~**Vigilante Conclave**<sup>(VSS)</sup>~~
 #### **Rōnin**<sup>(RGYR)</sup>
-The Rōnin are masterless, wandering warriors, beholden to no code but their own . No two are the same, each with their own tale that led them down the warrior’s path . They are masters of many weapons, striking with blade and arrow in a spectacle of blinding speed and accuracy . Some Rōnin use their power to protect the vulnerable—vigilantes doing what they see as right, no matter the cost . Others pursue their own ends, unfettered by the consequences of their actions . Rōnin are dangerous combatants, hardened survivors, and above all things, free .
+The Rōnin are masterless, wandering warriors, beholden to no code but their own. No two are the same, each with their own tale that led them down the warrior’s path. They are masters of many weapons, striking with blade and arrow in a spectacle of blinding speed and accuracy. Some Rōnin use their power to protect the vulnerable—vigilantes doing what they see as right, no matter the cost. Others pursue their own ends, unfettered by the consequences of their actions. Rōnin are dangerous combatants, hardened survivors, and above all things, free .
 #### **Hollow Warden Conclave**<sup>(UA)</sup>
 Legends tell that the most ancient and fearsome terrors lurk deep within the old places of the earth — unfathomable and bloodthirsty entities of fallow soil and sharpened claws. Hollow Wardens venerate and draw power from such beings, transforming themselves into similarly merciless and monstrous guardians that stalk along jagged coastlines, across steep mountain crags, and through other dark and wild places. 
 #### **Nightstalker Conclave**<sup>(DAC)</sup>
 The Nightstalker archetype emulates a unique form of shadow magic, used to create shadowy familiars to accompany you in battle. By walking this path, you learn to use your shadow familiar like an extension of yourself, using them like a weapon as you stalk through the dim forests and vast plains of the world, searching for your prey. Your choice of familiar defines your style of fighting, with each familiar playing a different role on the hunt and on the battlefield.
 #### **Tamaya Conclave**<sup>(RGYR)</sup>
-The secrets of hanabi, alchemical fabrications that explode in dazzling arrays of light and sound, are some of the most well-guarded of any of the artificing guilds . However, no ship is entirely without leaks, and well-kept secrets fetch a high price . Whether from a jaded pyrotechnician, stolen formulae, or enough coin in the right hands, some enter- prising individuals learn these clandestine secrets . Known as Tamaya, such rogues use the pseudo-magic of fireworks as weapons to supplement their gunpowder-fuelled toolbox, sending enemies spiraling into disarray and chaos . Using artifice and ingenuity, these masters of thunder, fire, and smoke prove true the old adage: sufficiently advanced technology is indistinguishable from magic .
+The secrets of hanabi, alchemical fabrications that explode in dazzling arrays of light and sound, are some of the most well-guarded of any of the artificing guilds. However, no ship is entirely without leaks, and well-kept secrets fetch a high price. Whether from a jaded pyrotechnician, stolen formulae, or enough coin in the right hands, some enter- prising individuals learn these clandestine secrets. Known as Tamaya, such rogues use the pseudo-magic of fireworks as weapons to supplement their gunpowder-fuelled toolbox, sending enemies spiraling into disarray and chaos. Using artifice and ingenuity, these masters of thunder, fire, and smoke prove true the old adage: sufficiently advanced technology is indistinguishable from magic .
 #### ~~**Beast Trainer Conclave**<sup>(TOH)</sup>~~
 
 #### **Grove Warden Conclave**<sup>(TOH)</sup>
@@ -3102,7 +3097,7 @@ to a mad scientist, has resulted in a singular observation: subjects are much mo
 #### **Swarmslinger Paradigm**<sup>(LAL)</sup>
 It takes a malleable and open mind to bond with a swarm of creatures; one needs to tune out the hubbub of bite-sized information and learn to listen to the group as a whole. How did you discover you could control masses of creatures? Perhaps you were a perfumier whose arrangement of scents guided the actions of bees. Maybe you were training as a bard when you found that those who liked your music most were a literal pack of rats. Or maybe you made your clothing a home for a family of creatures who now look to you for leadership. Whatever it is, your command of hordes of creatures gives you the ability to overrun any foe.
 #### **Sensei Paradigm**<sup>(RGYR)</sup>
-Sensei see how a body moves with supernatural acuity, identifying minor changes in form that can turn paltry scuffs into bone-breaking blows . Through meticulous coaching, they unveil the pugilists within their companions, teaching them to dance between enemies’ strikes, upset their foes’ balance, and finish them with lightning-fast combinations . Perhaps you yourself were a master of martial arts but are now too old to fight . Maybe you grew up watching boxers but always saw the flaws in their technique . Whatever the case, you are a teacher, and your companions are your eager students .
+Sensei see how a body moves with supernatural acuity, identifying minor changes in form that can turn paltry scuffs into bone-breaking blows. Through meticulous coaching, they unveil the pugilists within their companions, teaching them to dance between enemies’ strikes, upset their foes’ balance, and finish them with lightning-fast combinations. Perhaps you yourself were a master of martial arts but are now too old to fight. Maybe you grew up watching boxers but always saw the flaws in their technique. Whatever the case, you are a teacher, and your companions are your eager students .
 ## Warden
 *Wardens are not born of civilization and order. Though some Wardens will seek to defend such things (or at least tolerate them), they are those that have harnessed primal chaotic powers. Lashing, roiling forces of untamed energy, that left unchecked would wash civilization from the face of the material plane as if it were but a temporary blip. The powers of a Warden are expressions of deep and primal forces. They are power given sentience and will, entropy and destruction harnessed and focused to purpose and cause. They channel their power as a conduit, bringing it to heel through force of will and inner conviction. As a blacksmith forges a lump of iron to take on the keen edge of a sword, a Warden must always refine their power, tame and temper it to be a force of change rather than raw destruction. (**Source: Valda’s Spire of Secrets + KT**)*
 
