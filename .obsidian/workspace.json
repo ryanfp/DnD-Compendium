@@ -1010,8 +1010,7 @@
       "custom-sort:Toggle custom sorting": false,
       "iconic:Open rulebook": false,
       "obsidian-git:Open Git source control": false,
-      "modalforms:Edit forms": false,
-      "calendarium:Open Calendarium": false
+      "modalforms:Edit forms": false
     }
   },
   "active": "3a73ca7b9dac80c9",
