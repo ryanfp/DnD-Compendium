@@ -400,46 +400,38 @@ Barbarians who walk the Path of the Blinking Pack share in the nobility and maje
 
 #### **Path of the Kaiju**<sup>RGYR</sup>
 The Path of the Kaiju is one of sheer destructive force. Some warriors of this kind are fueled by a relentless hatred of a kaiju, perhaps one that destroyed their home or ravaged their continent. In such cases, an individual’s burning obsession is a source of incredible strength, manifesting as an aspect of the kaiju’s own power in moments of blind rage. Other barbarians might worship kaiju for their strength and grandeur, calling on their aid in battle, embodying the might and fury of a colossus as they charge into the fray .
-#### **Path of the Curse**<sup>CCS</sup>
-Barbarians that walk the Path of the Curse harbor a malicious presence within their body, which fuels their rage. When these barbarians enter a state of fury, this curse takes control, and at this point nothing will stop them from annihilating everything around them. Some of these barbarians accept this curse as a gift, and others fight with their curse— forcing it to work in their favor.
-#### **Path of the Raging Mind**<sup>KT</sup>
-The Path of the Raging Mind is a Barbarian that expresses their fury as a telekinetic manifestation. Their mind is so powerful that in their rage they warp the world around them. This is a psionic manifestation of a barbarian’s ability to focus their fury, and in battle this fury is weaponized as a deadly force that can fling about weapons and enemies alike.
-#### **Path of the Exosuit**<sup>KT</sup>
-Perhaps it is a lost piece of technology, such as long dead Warsmith’s cast off armor that has developed strange properties, or perhaps it is an alien symbiote of some kind, with its own goal or objective (perhaps as simple as harmlessly feeding off your rage or your foes). Perhaps it is something you find or something you make, but whatever its origin, it grants you terrifying capabilities on the battlefield.
-~~**Path of Mutation**<sup>KT</sup>~~
+#### ~~**Path of the Curse**<sup>CCS</sup>~~
+~~Barbarians that walk the Path of the Curse harbor a malicious presence within their body, which fuels their rage. When these barbarians enter a state of fury, this curse takes control, and at this point nothing will stop them from annihilating everything around them. Some of these barbarians accept this curse as a gift, and others fight with their curse— forcing it to work in their favor.~~
+#### ~~**Path of the Raging Mind**<sup>KT</sup>~~
+~~The Path of the Raging Mind is a Barbarian that expresses their fury as a telekinetic manifestation. Their mind is so powerful that in their rage they warp the world around them. This is a psionic manifestation of a barbarian’s ability to focus their fury, and in battle this fury is weaponized as a deadly force that can fling about weapons and enemies alike.~~
+#### ~~**Path of the Exosuit**<sup>KT</sup>~~
+~~Perhaps it is a lost piece of technology, such as long dead Warsmith’s cast off armor that has developed strange properties, or perhaps it is an alien symbiote of some kind, with its own goal or objective (perhaps as simple as harmlessly feeding off your rage or your foes). Perhaps it is something you find or something you make, but whatever its origin, it grants you terrifying capabilities on the battlefield.~~
 #### **Path of Instinct**<sup>KT</sup>
 While many Barbarians lose control when they rage, flying into wild tantrums, some operate in a state of cold absolute focus, becoming creatures of pure instinct and finely honed reflexes. Entering a void-like state of mind, they act almost without conscious thought, accomplishing superhuman feats and shrugging off hits. Though utter calm might seem less frightening than the frothing rage of their counterparts, true terror sets in once their foes witness the destruction such perfect focus can bring.
-~~**Path of the Dragon**<sup>KT</sup>~~
 #### **Path of the Bladestorm**<sup>KT</sup>
 When a Path of the Bladestorm Barbarian walks onto a battlefield, those unprepared to withstand the rain of sharp steel ought to run and hide until the storm passes. They are Barbarians whose rage is such a transcendent force that their very weapons are restless embodiments of their destructive wrath. The ones who stay will have to face the winds of destruction and will soon be drenched by flying droplets of blood as the barbarian at the center of the maelstrom smashes, hacks and slashes at the strength of primal winds.
-#### **Path of the Courageous Heart**<sup>XLNEE</sup>
-For some adventurers, their internal reservoir of fearlessness and gallantry might border closer to foolhardiness. An intrepid do-gooder might take the first step down this path by complete accident, meddling in affairs they ought not and finding themselves unable to turn back. Their impromptu effectiveness in battle isn’t due to anger but rather matching pluck, tenacity, or stubbornness to shrug off the worst the enemy has to offer.
-#### **Path of the Red Reaver**<sup>XLNEE</sup>
+#### ~~**Path of the Courageous Heart**<sup>XLNEE</sup>~~
+~~For some adventurers, their internal reservoir of fearlessness and gallantry might border closer to foolhardiness. An intrepid do-gooder might take the first step down this path by complete accident, meddling in affairs they ought not and finding themselves unable to turn back. Their impromptu effectiveness in battle isn’t due to anger but rather matching pluck, tenacity, or stubbornness to shrug off the worst the enemy has to offer.~~
+#### **!Path of the Red Reaver**<sup>XLNEE</sup>
 The barbarians that follow this path fuel their rage with this pursuit of purpose. For those that live long enough, their discipline becomes almost monk-like in its meditation, chasing their sense of self through the arteries of those they deem worthy in battle. As wizards live to slake their thirst for knowledge, barbarians who follow the Path of Red Reaver are usually drawn to the greatest challenge in the field, not for bragging rights, or even to turn the tide of battle, but to further discern their place in the veins of their world.
-~~**Path of the Sacred Kin**<sup>XLNEE</sup>~~
 #### **Path of the Swamp**<sup>BoE</sup>
 The most fearsome denizen of the swamp isn’t a giant alligator, black dragon, or a gnarled treant, but a barbarian, a fearsome warrior imbued with all of the land’s malice. When the swamp is threatened by an external force, long- forgotten magic seizes a host, transforming them into a thing of crushing roots and choking vines, an avatar of the swamp’s vengeance.
-#### **Path of the Accursed**<sup>CFSA</sup>
-You managed to find a tome of blighted mysteries, filled with all the knowledge known to mortal men and the foulest of heresies, and stepped through the door to nowhere. Your mind fractured under the weight of the knowledge contained within and the horrible vistas of forgotten power that stood just within your feeble mortal grasp. You realized that the true source of your rage is both defiance and acceptance of the madness that lies within the Accursed Archive.
-#### **Path of the Mercurial**<sup>CFSA</sup>
+#### ~~**Path of the Accursed**<sup>CFSA</sup>~~
+~~You managed to find a tome of blighted mysteries, filled with all the knowledge known to mortal men and the foulest of heresies, and stepped through the door to nowhere. Your mind fractured under the weight of the knowledge contained within and the horrible vistas of forgotten power that stood just within your feeble mortal grasp. You realized that the true source of your rage is both defiance and acceptance of the madness that lies within the Accursed Archive.~~
+#### **!Path of the Mercurial**<sup>CFSA</sup>
 Your rage is instead a malicious spite that runs wild within your veins, bringing a cruel smile to your face and causing the shadows around you to writhe and twisty in sympathy–or agony. As you learn to walk the planes like the Shadowcat does, that cruel joy within your heart grows ever stronger, granting you powers unseen by mortal men. You are the stalking panther, the hunting lion, and the sly grin that appears even as your form fades away. Become nightmare. 
-#### **Path of the Glacier**<sup>TGS</sup>
-Born from the frigid and daunting Everglacier, barbarians who follow Path of the Glacier have learned to harbor the resolute stillness, patience, and unwavering determination and destruction of the icy landscape. These warriors trans- form their bodies into powerful moving bunkers that are as difficult to take down as they are to escape from.
-#### **Path of the Infernal**<sup>TGS</sup>
-You have found the conduit for your rage in something scarier than anything you’d find on the Material Plane. Your inner fury burns from the hells themselves, manifesting itself as a series of fiendish transformations and flames whenever you enter a rage. Regardless of your reason for having these abilities, one thing is certain: hell hath no fury quite like you.
-#### **Path of Stone**<sup>TGS</sup>
-Barbarians that tread the Path of Stone contain the fury of a tectonic force: slow to stir, but impossible to stop once begun. Stones crack beneath their feet, as they step with the weight of mountains, and their strikes carry the crushing might of an earthquake. With every swing these warriors make, they remind their foes that nothing stands forever against the movements of the earth.
-~~**Path of the Unbreakable**<sup>E</sup>~~
-#### **Path of the Juggernaut**<sup>TDR</sup>
+#### **!Path of the Glacier**<sup>TGS</sup>
+Born from the frigid and daunting Everglacier, barbarians who follow Path of the Glacier have learned to harbor the resolute stillness, patience, and unwavering determination and destruction of the icy landscape. These warriors transform their bodies into powerful moving bunkers that are as difficult to take down as they are to escape from.
+#### ~~**Path of the Infernal**<sup>TGS</sup>~~
+~~You have found the conduit for your rage in something scarier than anything you’d find on the Material Plane. Your inner fury burns from the hells themselves, manifesting itself as a series of fiendish transformations and flames whenever you enter a rage. Regardless of your reason for having these abilities, one thing is certain: hell hath no fury quite like you.~~
+#### ~~**Path of Stone**<sup>TGS</sup>~~
+~~Barbarians that tread the Path of Stone contain the fury of a tectonic force: slow to stir, but impossible to stop once begun. Stones crack beneath their feet, as they step with the weight of mountains, and their strikes carry the crushing might of an earthquake. With every swing these warriors make, they remind their foes that nothing stands forever against the movements of the earth.~~
+#### **!Path of the Juggernaut**<sup>TDR</sup>
 Barbarians who follow the Path of the Juggernaut stand so resolutely that none can deter them, and they swing their weapons with such force that all who stand against them are flung aside. In might and in spirit, juggernauts are immovable object and unstoppable force all at once.
-~~**Path of Blood**<sup>UAH</sup>~~
-#### **Path of the Rune Sage**<sup>UAH</sup>
-Using eldritch symbols painted or tattooed onto your body, you are capable of unleashing powerful arcane spells, altering and enhancing your ability to rage. 
-~~**Path of the Skinchanger**<sup>UAH</sup>~~
-~~**Path of the Stampede**<sup>UAH</sup>~~
-#### **Path of the Sylvan Warden**<sup>UAH</sup>
-Some barbarians are not marked by their loyalty to kin or tribe but by their loyalty to land and beast. These barbarians take up the role of stewards and protectors of the natural world, defending it rom those who would despoil it. Their admiration and emulation of the mysteries of nature allow them the ability to transform their rage into quietude and cast druidic spells. 
-~~**Path of the War Chief**<sup>UAH</sup>~~
+#### ~~**Path of the Rune Sage**<sup>UAH</sup>~~
+~~Using eldritch symbols painted or tattooed onto your body, you are capable of unleashing powerful arcane spells, altering and enhancing your ability to rage.~~ 
+#### ~~**Path of the Sylvan Warden**<sup>UAH</sup>~~
+~~Some barbarians are not marked by their loyalty to kin or tribe but by their loyalty to land and beast. These barbarians take up the role of stewards and protectors of the natural world, defending it rom those who would despoil it. Their admiration and emulation of the mysteries of nature allow them the ability to transform their rage into quietude and cast druidic spells.~~ 
 #### **Path of the Haze Rager**<sup>GTD</sup>
 The first warriors who ventured into Drakkenheim were doomed. Few returned from these early expeditions, and those few who survived were forever changed by the experience. A rare few wrestle the madness of the Haze through a supernatural rage which allows them to channel the eldritch energies of delirium. These Haze Ragers thrive on the contaminated power of delirium, transforming madness and fear into a weapon.
 #### **Path of the Lightning Vessel**<sup>(SGEH)</sup>
