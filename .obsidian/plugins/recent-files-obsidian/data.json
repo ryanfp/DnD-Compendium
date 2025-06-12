@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Rules & Meta",
+      "path": "📚 - Information Compendium/📝 - Rules & Mechanics/Rules & Meta.md"
+    },
+    {
+      "basename": "👹 - Bestiary",
+      "path": "📚 - Information Compendium/👹 - Bestiary.md"
+    },
+    {
+      "basename": "Weapon Masteries",
+      "path": "📚 - Information Compendium/⚔ - Features & Skills/Weapon Masteries/Weapon Masteries.md"
+    },
+    {
+      "basename": "Feats",
+      "path": "📚 - Information Compendium/⚔ - Features & Skills/Feats/Feats.md"
+    },
+    {
+      "basename": "Spells",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Spells/Spells.md"
+    },
+    {
       "basename": "Classes",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Classes.md"
     },
@@ -79,10 +99,6 @@
     {
       "basename": "Insert Caption",
       "path": "z_Templates/Insert Caption.md"
-    },
-    {
-      "basename": "👹 - Creature Codex",
-      "path": "📚 - Information Compendium/👹 - Creature Codex.md"
     },
     {
       "basename": "Introduction",
@@ -173,10 +189,6 @@
       "path": "⏰ - Archive/🖨 - Sourcebooks/🖨 - Sourcebooks.md"
     },
     {
-      "basename": "Items - Loot",
-      "path": "📚 - Information Compendium/🎒 - Inventory/Items - Loot/Items - Loot.md"
-    },
-    {
       "basename": "Damage Types",
       "path": "📚 - Information Compendium/📝 - Rules & Mechanics/Damage Types.md"
     },
@@ -185,20 +197,8 @@
       "path": "📚 - Information Compendium/📝 - Rules & Mechanics/Conditions.md"
     },
     {
-      "basename": "Spells",
-      "path": "📚 - Information Compendium/⚔ - Combat/Spells.md"
-    },
-    {
-      "basename": "Weapon Masteries",
-      "path": "📚 - Information Compendium/⚔ - Combat/Weapon Masteries.md"
-    },
-    {
       "basename": "Bastions",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Bastions.md"
-    },
-    {
-      "basename": "👼🏼 - Deities & Pantheons",
-      "path": "📚 - Information Compendium/🎓 - Lore & Flavor/👼🏼 - Deities & Pantheons.md"
     }
   ],
   "omittedPaths": [],

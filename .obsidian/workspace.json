@@ -11,17 +11,41 @@
             "id": "3a73ca7b9dac80c9",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Sourcebooks",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/Sourcebooks.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Sourcebooks\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "👹 - Bestiary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👹 - Bestiary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"👹 - Bestiary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Weapon Masteries",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/⚔ - Features & Skills/Weapon Masteries/Weapon Masteries.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Weapon Masteries\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Feats",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/⚔ - Features & Skills/Feats/Feats.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Feats\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Spells",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Spells/Spells.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Spells\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Classes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Classes.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Classes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "List of Classes and Subclasses",
@@ -426,9 +450,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":19},\"to\":{\"line\":6,\"ch\":19}}}"
                 },
                 {
-                  "title": "👹 - Creature Codex",
+                  "title": "👹 - Bestiary",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👹 - Creature Codex.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"👹 - Creature Codex\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👹 - Bestiary.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"👹 - Creature Codex\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -438,9 +462,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "👹 - Creature Codex",
+                  "title": "👹 - Bestiary",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👹 - Creature Codex.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"👹 - Creature Codex\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👹 - Bestiary.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"👹 - Creature Codex\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -580,12 +604,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Classes.md",
+                "file": "📚 - Information Compendium/📝 - Rules & Mechanics/Rules & Meta.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classes"
+              "title": "Rules & Meta"
             }
           }
         ]
@@ -1014,11 +1038,25 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "fcaa59025a7544d2",
+  "active": "3a73ca7b9dac80c9",
   "lastOpenFiles": [
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details",
-    "UNORGANIZED/Sourcebooks.md",
+    "📚 - Information Compendium/👹 - Bestiary.md",
+    "📚 - Information Compendium/⚔ - Features & Skills/Weapon Masteries/Weapon Masteries.md",
+    "📚 - Information Compendium/🎒 - Items/Weapons/Wondrous/Martial",
+    "📚 - Information Compendium/🎒 - Items/Weapons/Wondrous/Simple",
+    "📚 - Information Compendium/🎒 - Items/Weapons/Ranged/Simple",
+    "📚 - Information Compendium/🎒 - Items/Weapons/Ranged/Martial",
+    "📚 - Information Compendium/🎒 - Items/Weapons/Ranged/Wondrous",
+    "📚 - Information Compendium/🎒 - Items/Weapons/Melee/Wondrous",
+    "📚 - Information Compendium/🎒 - Items/Weapons/Melee/New folder",
+    "📚 - Information Compendium/🎒 - Items/Weapons/Melee/Martial",
+    "📚 - Information Compendium/🎒 - Items/Weapons/Melee/Simple",
+    "📚 - Information Compendium/🎒 - Items/Ingestables/Poisons & Coatings",
+    "📚 - Information Compendium/🎒 - Items/Items - Loot.md",
+    "📚 - Information Compendium/⚔ - Features & Skills/Feats/Feats.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Spells/Spells.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Classes.md",
+    "UNORGANIZED/Sourcebooks.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Backgrounds.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Accursed.md",
     "UNORGANIZED/List of Classes and Subclasses.md",
@@ -1039,21 +1077,7 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Animation.md",
     "Untitled.md",
     "image.png",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Circle of Visions.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Circle of Twilight.md",
-    "tessssst/Templates.md",
-    "README.md",
     "LexCrochetLogo.png",
-    "Untitled",
-    "z_Assets",
-    "templates/Untitled",
-    "New Text Document.txt",
-    "git clone",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed",
-    "🌎 - Worldbuilding & Lore/Campaign Settings",
-    "📚 - Information Compendium/🎒 - Inventory/Items - Loot/Miscellaneous",
-    "📚 - Information Compendium/🎒 - Inventory/Items - Loot/Equipment & Accessories",
-    "📚 - Information Compendium/🎒 - Inventory/Items - Loot/Armor",
     "Pasted image 20250510202249.png",
     "Pasted image 20250507211719.png"
   ]

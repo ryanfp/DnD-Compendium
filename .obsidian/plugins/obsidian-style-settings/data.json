@@ -78,10 +78,10 @@
   "ITS@@h6-color@@dark": "#A9E39A",
   "ITS@@h2-text-align": "left",
   "ITS@@illusion-h1": false,
-  "ITS@@hide-header-underline-3": false,
-  "ITS@@hide-header-underline-4": false,
-  "ITS@@hide-header-underline-5": false,
-  "ITS@@hide-header-underline-6": false,
+  "ITS@@hide-header-underline-3": true,
+  "ITS@@hide-header-underline-4": true,
+  "ITS@@hide-header-underline-5": true,
+  "ITS@@hide-header-underline-6": true,
   "ITS@@ITS-Note-Title-Styling": "note-title-underline",
   "ITS@@Inline-Title-Styling": "none",
   "ITS@@Inline-Title-Sizes": "none",
@@ -128,5 +128,6 @@
   "pane-relief@@pane-relief-pane-numbering": true,
   "pane-relief@@pane-relief-disable-counts": true,
   "ITS@@link-style": "link-notion",
-  "ITS@@link-weight": 500
+  "ITS@@link-weight": 500,
+  "ITS@@hide-header-underline-1": true
 }
