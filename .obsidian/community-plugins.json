@@ -22,7 +22,6 @@
   "obsidian-dice-roller",
   "obsidian-leaflet-plugin",
   "calendarium",
-  "sheets",
   "obsidian-quiet-outline",
   "cursor-jump",
   "note-toolbar",
@@ -63,5 +62,6 @@
   "pane-relief",
   "templater-obsidian",
   "modalforms",
-  "dataview"
+  "dataview",
+  "table-editor-obsidian"
 ]
