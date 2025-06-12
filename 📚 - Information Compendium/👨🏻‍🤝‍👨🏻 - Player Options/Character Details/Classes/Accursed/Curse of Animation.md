@@ -41,7 +41,6 @@ aliases:
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Spurred Army (Level 20)' class='internal-link'>Spurred Army</a></td></tr>
 > </tbody></table>
 
-^class-progression
 
 
 ## Class Features
@@ -80,7 +79,7 @@ Starting at 2nd level, your increasing mastery of your curse causes you to learn
 | Accursed Level | Spells |
 |----------------|--------|
 | 2nd | shield |
-| 5th | [skull servant](/3-Content/Compendiums/spells/skull-servant-ultimateadventurer.md) |
+| 5th | [[skull servant]] |
 | 9th | animate dead |
 | 13th | stoneskin |
 | 17th | danse macabre |
@@ -88,7 +87,7 @@ Starting at 2nd level, your increasing mastery of your curse causes you to learn
 
 ### Necromantic Spurs (Level 3)
 
-Starting at 3rd level, each weapon you create with your [Bone Spurring](/3-Content/Compendiums/classes/accursed-curse-of-animation-ultimateadventurer.md#Bone%20Spurring%20(Level%201)) counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage while you wield it.
+Starting at 3rd level, each weapon you create with your [[Bone Spurring]] counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage while you wield it.
 
 Additionally, you can empower the bone objects you create with your curse's animating energy. When you create an object with your [Bone Spurring](/3-Content/Compendiums/classes/accursed-curse-of-animation-ultimateadventurer.md#Bone%20Spurring%20(Level%201)) or as a bonus action while holding one of your bone objects, you can expend a spell slot to empower it until it leaves your hand. The empowered effect depends on the type of bone object.
 

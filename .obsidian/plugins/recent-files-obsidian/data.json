@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Curse of Combustion",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Combustion.md"
+    },
+    {
+      "basename": "Curse of Animation",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Animation.md"
+    },
+    {
+      "basename": "Skull Servant",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Spells/Skull Servant.md"
+    },
+    {
+      "basename": "skull-servant-ultimateadventurer",
+      "path": "3-Content/Compendiums/spells/skull-servant-ultimateadventurer.md"
+    },
+    {
       "basename": "Classes",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Classes.md"
     },
@@ -73,10 +89,6 @@
       "path": "UNORGANIZED/Exploring Eberron.md"
     },
     {
-      "basename": "Curse of Animation",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Animation.md"
-    },
-    {
       "basename": "Untitled",
       "path": "Untitled.md"
     },
@@ -137,10 +149,6 @@
       "path": "z_Templates/Format YouTube Link.md"
     },
     {
-      "basename": "Curse of Combustion",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Combustion.md"
-    },
-    {
       "basename": "Curse of the Armament",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of the Armament.md"
     },
@@ -177,10 +185,6 @@
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Artificer/Artificer.md"
     },
     {
-      "basename": "skull-servant-ultimateadventurer",
-      "path": "3-Content/Compendiums/spells/skull-servant-ultimateadventurer.md"
-    },
-    {
       "basename": "Basic Actions",
       "path": "📚 - Information Compendium/📝 - Rules & Mechanics/Basic Actions.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Conditions",
       "path": "📚 - Information Compendium/📝 - Rules & Mechanics/Conditions.md"
-    },
-    {
-      "basename": "Bastions",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Bastions.md"
     }
   ],
   "omittedPaths": [],
