@@ -11,7 +11,7 @@ aliases:
 *[Accursed](Accursed.md): Conquered Curse*  
 *Source: The Ultimate Adventurer's Handbook p. 172*  
 
-> [!tldr] Class and Feature Progression
+> [!summary] Class and Feature Progression
 > 
 > <table class="class-progression">
 > <thead>
@@ -41,7 +41,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

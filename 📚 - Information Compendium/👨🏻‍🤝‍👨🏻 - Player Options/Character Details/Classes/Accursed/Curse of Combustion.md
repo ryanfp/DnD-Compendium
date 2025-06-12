@@ -14,7 +14,7 @@ aliases:
 > [!tldr] Class and Feature Progression
 > 
 > <table class="class-progression">
-> > <thead>
+> <thead>
 > <tr><th colspan='3'></th></tr>
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
 > </thead><tbody>
@@ -39,6 +39,8 @@ aliases:
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Raging Inferno (Level 20)' class='internal-link'>Raging Inferno</a></td></tr>
 > </tbody></table>
+
+^class-progression
 
 ## Class Features
 

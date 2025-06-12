@@ -41,7 +41,7 @@ aliases:
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Spurred Army (Level 20)' class='internal-link'>Spurred Army</a></td></tr>
 > </tbody></table>
 
-
+^class-progression
 
 ## Class Features
 
