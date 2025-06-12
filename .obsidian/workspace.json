@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Rules & Meta",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/📝 - Rules & Mechanics/Rules & Meta.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Rules & Meta\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
                   "title": "👹 - Bestiary",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👹 - Bestiary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"👹 - Bestiary\"}",
@@ -604,12 +610,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 - Information Compendium/📝 - Rules & Mechanics/Rules & Meta.md",
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Classes.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Rules & Meta"
+              "title": "Classes"
             }
           }
         ]
@@ -1040,6 +1046,7 @@
   },
   "active": "3a73ca7b9dac80c9",
   "lastOpenFiles": [
+    "📚 - Information Compendium/📝 - Rules & Mechanics/Rules & Meta.md",
     "📚 - Information Compendium/👹 - Bestiary.md",
     "📚 - Information Compendium/⚔ - Features & Skills/Weapon Masteries/Weapon Masteries.md",
     "📚 - Information Compendium/🎒 - Items/Weapons/Wondrous/Martial",
@@ -1075,7 +1082,6 @@
     "UNORGANIZED/test1.md",
     "z_Templates/Modal Form Test 1.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Animation.md",
-    "Untitled.md",
     "image.png",
     "LexCrochetLogo.png",
     "Pasted image 20250510202249.png",

@@ -171,7 +171,9 @@ The Ultimate Adventurer’s Handbook (<sup>UAG</sup>)
 GM Binder (<sup>GMB</sup>)
 SoManyRobots (<sup>SMR</sup>)
 
-
+# Heading
+## Heading
+### Heading
 
 ## [[Accursed]]
 
@@ -201,11 +203,6 @@ You were turned into a mummy upon death, giving you necrotic damage and fear abi
 You were turned into a statue, and can change into this form at will. Grants you damage resistance and powerful slams and other weight/inertia based abilities.
 #### **Curse of Somnolence**
 You were cursed by a fey to sleep forever, fighting to stay awake and live your life. You can give enemies fatigue, learn one-time use spells and negate exhaustion penalties.
-## ~~Adept~~
-### *Level Up: Advanced 5e*
-Brawler
-Exalted Athlete
-Warrior Monk
 ## Alchemist
 
 *Experiments with a wide array of scientific discoveries and lethal bombs. Combining science and magic together in unholy concoctions, an alchemist brews up explosives and transmutative potions on the fly. (**Source: Valda’s Spire of Secrets**)* 
@@ -238,37 +235,6 @@ Masterclass CODEX
 	~~Illumination~~
 	~~Mutation~~
 	~~Regeneration~~
-## ~~Apothecary~~
-
-*Experiments with a wide array of scientific discoveries and lethal bombs. Combining science and magic together in unholy concoctions, an alchemist brews up explosives and transmutative potions on the fly. (Source: Valda’s Spire of Secrets)* 
-
-### <u>Subclasses - Fields of Study</u>
-*All alchemists learn the basics of their science: the elements, chemical reactions, and alchemical formulae. Beyond that, alchemists pick up a specialty, which they practice and research in depth.*
-
-*Some focus on the healing arts, and some focus on destruction, while others focus on research or potion-brewing. Fields of study are as varied as the alchemists who research them and have applications equally as diverse.*
-
-**Armorist Field**
-	You study mind-affecting alchemy, specializing in the brewing of potions that produce strong emotional responses in their drinkers. While love potions are by far the most popular product, you can craft pungent pheromone bombs that can soften the hearts of even the most terrible monsters.
-**Apothecary Field**
-	You study the science of apothecary, specializing in potions and herbology that relate to healing. You can create a steady source of income using your skills, and you’re an invaluable member in any adventuring party.
-**Dynamo Engineer Field**
-	You study the concepts of an early alchemical thesis: *if the fundamental energy of magic could be captured within physical substance, there would be no need for magic-users*. You create and iterate small devices known as dynamos, which store and manipulate arcane energy.
-**Mad Bomber Field**
-	You study explosives and pyrotechnics, specializing in things that burn, blast and blow things up. You are constantly trying to improve the lethality and effectiveness of your IEDs, devoted to finding the perfect explosion.
-**Mutagenist Field**
-	You study the transmutative properties of elixirs and potions, specializing in the creation of mutagens. The keystone of transmutation, mutagens transform your body, granting supernatural strength or speed, additional limbs, or turning your skin into a stone-like material.
-**Venomsmith Field**
-	You study the the effects of various poisons and coatings, specializing in the art of crafting deadly and debilitating poisons. You pursue the darker side of alchemy, lending your expertise to assassin’s guilds or political rivals in exchange for money, power, and the elevation of your research.
-**Xenoalchemist Field**
-	You study the relation between alchemy and the body, more specifically your body. Specializing in experimenting on themselves, you modify or even attach new body parts, augmenting your abilities and toeing the line of morality.
-
-Guide to Drakkenheim
-~~Alienist~~
-Chemist
-Exorcist
-Mutagenist
-Pathogenist
-Reanimator
 ## Artificer
 
 *Uses ingenuity and magic to unlock extraordinary capabilities in objects and constructs. Artificers see magic as a complex system waiting to be decoded, and then harnessed in their spells and inventions.* ***(Source: Tasha’s Cauldron of Everything)***
@@ -623,11 +589,6 @@ A bubble of temperate calm amongst a raging wildfire, a wedge of unmoving rock w
 The elements are pure: solid earth, liquid water, gaseous air, and fire—energy incarnate. However, the borders between these elements are where things get interesting. Water and earth can produce calamitous mudslides capable of decimating an army. When wind whips up sand, a dust storm can leave even the hardiest explorers lost and disoriented. And in the quiet of a bathhouse, the confluence of fire and water can bring about calming steam that cleanses the body and soothes the soul .
 #### **Disciple of Invigoration**
 A rock suddenly lowers, dropping an ally a crucial inch and turning a critical hit into a glancing blow. A precise gust of wind accelerates an arrow over a foe’s shield, striking them in the eye. A burst of flame temporarily blinds an opponent, causing their battleaxe to swing wide. Where others shield and strike, Disciples of Invigoration prefer a more subtle approach, bolstering an ally from within or manipulating a foe’s attacks with alacritous and shrewd bursts of elemental energy .
-## ~~Berserker~~
-### *Level Up: Advanced 5e*
-Dreadnought
-Rager
-Tempest
 ## Blood Hunter
 
 *Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*
@@ -704,15 +665,6 @@ Bombardier bloodragers are reckless warriors, mad alchemists who brew potions an
 Some bloodragers are so steeped with magic that it touches their minds, launching them into a savage fury in combat. Ferals can even transform themselves, twisting their hands into wicked claws and making their very bodies into weapons. They offer perhaps the purest expression of their blood trance, becoming veritable monsters on the battlefield.
 ##### Mystic Discipline
 Some bloodragers choose to focus on their magical abilities, honing their sorcery until spellcasting is as natural as breathing. Mystics can channel their bloodline magic into arcane bolts of power, allowing them to eschew weapons entirely if they so choose.
-## ~~Captain~~
-### *Valda’s Spire of Secrets*
-Dragon
-Eagle
-Jolly Roger
-Lion
-Ram
-Raven
-Turtle
 ## Cardcaster
 *The wisdom of the Tarot is well known by many a fortune teller but these dabblers in mysticism only scratch the surface of the power contained within the cards of fate. Unlocking the energies within, cardcasters tease out destiny’s strands to work magic upon the world whether to tell the future, defend themselves, subdue foes, or achieve the impossible.*
 
@@ -1442,18 +1394,6 @@ Sutekh’s illriggers all belong to a cult known as The Chalice of Vitality. Kni
 Belial rules Gehennom, the City of Darkness. He strives to rule Hell through poison, torture, and assassination. His illriggers strike from the shadows or use deception to earn high-ranking positions close to powerful rulers. Many Shadowmasters run networks of spies and assassins who have no idea of the infernal provenance of their leader. 
 
 Shadowmasters are sworn not to reveal their true allegiance, and if need be, they must take their own lives to fulfill this oath. Many Shadowmasters prepare elaborate plans for their own assassination so that, should they risk discovery, their assassination obscures the truth. Of course, these killers never learn they were hired by their deceased target .
-## ~~Herald~~
-~~*Often feared or misunderstood, driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they vow to hunt.*~~
-
-~~*Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.*~~ 
-
-### ~~<u>Subclasses - Blood Hunter Orders</u>~~
-
-~~*There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.*~~
-### ~~*Level Up: Advanced 5e*~~
-~~Green Knight~~
-~~Holy Champion~~
-~~Inquisitor~~
 ## Investigator
 *There are forces more ancient than time, foes more sinister than the foulest men, and beings more titanic than gods. The world stands at a precipice of woe and terror, being threatened nightly by dark agents and hordes of monsters. At risk to their own lives and sanities, investigators penetrate the evil that creeps in the shadows and banish it from the world. Their battles are never-ending, for victory only delays doomsday another night. (**Source: Valda’s Spire of Secrets**)*
 
@@ -1765,16 +1705,6 @@ The sheep dragon is often regarded as the epitome of goodness and authenticity o
 Monks who practice the Way of the Arcane Hand have trained their bodies and souls to be attuned to the weave of arcane magic. They can harness those cosmic energies and use them to fuel their martial practices. Monks of this tradition, although not mageborn, have gained control over the rawest and most natural forms of power.
 #### **Way of the Serpent**<sup>(GTD)</sup>
 Master of the spear, this nimble warrior uses polearms not only as a weapon, but as an extension of themselves, using their weapon to amplify mobility, maneuverability, and combat. Like a snake in the grass, the Way of the Serpent hones one’s ability to predict oncoming attacks, deflect from a distance, and strike with deadly precision.
-## ~~Necromancer~~
-### *Valda’s Spire of Secrets*
-Blood Ascendant
-Death Knight
-Overlord
-Pale Master
-Pharaoh
-Plague Lord
-Reanimator
-Reaper
 ## Occultist
 *Occultists are those that follow the old ways, a path of ritual and wisdom long known yet oft forgotten. Rather than force magic to obey, they bind, twist, manipulate, and compromise with it. They follow ancient agreements and techniques to produce results that few fully understand, even those that use them, but they know it will work, for it always has.*
 

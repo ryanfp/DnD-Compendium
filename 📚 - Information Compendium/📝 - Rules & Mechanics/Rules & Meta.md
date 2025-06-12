@@ -4,29 +4,29 @@ A short list on what meta or “out of world” apply to my games.
 ---
 ### Introduction
 
-- ##### Flow Comes First. Let’s play a game where things get done.
+- ##### <u>Flow Comes First.</u> Let’s play a game where things get done.
 	- We’ll keep rule arguments to a minimum, relying on previous rulings or notes I’ve kept here when possible. 
 	- If you have a hard time with focus, try keeping notes. If **I** have a hard time keeping **you** engaged, tell me. 
 	- Know your character. Early game is fine to not know class/sub-class mechanics. Once we reach around 20-30 hours spent in a campaign, you should remember your features. Have an idea of what you want to do on your turn in combat. I do not use timers but will implement one if needed to keep things rolling. 
 
-- ##### Immersion is King. Let’s play a game where people are immersed.
+- ##### <u>Immersion is King.</u> Let’s play a game where people are immersed.
 	- Respect the scene. Keep meta talk to a minimum. 
 	- Respect the characters. Don’t joke when people are roleplaying. Especially do not joke **about** people’s roleplaying. 
 	- Respect the ignorance. Artless exposition might be worse than focused ignorance. 
 	- Respect the player. Players can ask for what they need, don’t volunteer it unprompted. 
 	- Respect the game. You are not someone playing a character in a game, you **are** that character in the game. 
 
-- ##### ***The Story is Collaborative.** Be mindful of others. 
+- ##### <u>The Story is Collaborative.</u> Be mindful of others. 
 	- We are all main characters in this experience. 
 	- Everyone will get their time in the spotlight, don’t hog it. Eager participation is welcomed, eager participation **at the detriment of others** is not. 
 	- Express your desires for the story and your character. It’s not guaranteed, but I can take the essence of a thought and implement it. 
 
-- ##### ***It’s the Game Master, not the Game Suggester.** Respect, Don’t Dictate. 
+- #####  <u>Respect, Don’t Dictate.</u>  It’s the Game Master, not the Game Suggester.
 	- Rulings will try to be fair and consistent. That said, no whining. 
 	- Stop asking to level up. 
 	- Boons or rulings **might** be player or situation-specific. Do not expect something, but appreciate it. 
 
-- ##### ***NO METAGAMING**
+- ##### NO METAGAMING
 
 ---
 
