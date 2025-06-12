@@ -5,12 +5,20 @@
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Combustion.md"
     },
     {
-      "basename": "Accursed",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Accursed.md"
-    },
-    {
       "basename": "Curse of Immortality",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Immortality.md"
+    },
+    {
+      "basename": "bard-xphb",
+      "path": "UNORGANIZED/bard-xphb.md"
+    },
+    {
+      "basename": "test",
+      "path": "UNORGANIZED/test.md"
+    },
+    {
+      "basename": "Accursed",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Accursed.md"
     },
     {
       "basename": "Curse of Misfortune",
@@ -191,14 +199,6 @@
     {
       "basename": "🖨 - Sourcebooks",
       "path": "⏰ - Archive/🖨 - Sourcebooks/🖨 - Sourcebooks.md"
-    },
-    {
-      "basename": "Damage Types",
-      "path": "📚 - Information Compendium/📝 - Rules & Mechanics/Damage Types.md"
-    },
-    {
-      "basename": "Conditions",
-      "path": "📚 - Information Compendium/📝 - Rules & Mechanics/Conditions.md"
     }
   ],
   "omittedPaths": [],
