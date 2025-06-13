@@ -18,6 +18,54 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Armorer - Artificer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Artificer/Armorer - Artificer.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Armorer - Artificer\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Alchemist - Artificer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Artificer/Alchemist - Artificer.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Alchemist - Artificer\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Curse of the Created",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of the Created.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Curse of the Created\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Curse of the Armament",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of the Armament.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Curse of the Armament\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Curse of Immortality",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Immortality.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Curse of Immortality\"}",
+                  "eState": "{\"scroll\":63.428525178328805}"
+                },
+                {
+                  "title": "Curse of Combustion",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Combustion.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Curse of Combustion\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Curse of Animation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Animation.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Curse of Animation\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Accursed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Accursed.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Accursed\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
                   "title": "Curse of Animation",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Animation.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Curse of Animation\"}",
@@ -1210,12 +1258,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Accursed.md",
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Classes.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Accursed"
+              "title": "Classes"
             }
           }
         ]
@@ -1646,19 +1694,31 @@
   },
   "active": "3a73ca7b9dac80c9",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Classes.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Bloodrager",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/New folder",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Blood Hunter",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Bender",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Beastheart",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Bard",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Barbarian",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Alchemist",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Artificer/Armorer - Artificer.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Artificer/Alchemist - Artificer.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of the Created.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of the Armament.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Immortality.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Combustion.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Animation.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Accursed.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Somnolence.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Petrification.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Misfortune.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Immortality.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Combustion.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of the Created.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of the Armament.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Mummification.md",
     "UNORGANIZED/bard-xphb.md",
     "UNORGANIZED/test.md",
     "UNORGANIZED/Unconfirmed 209605.crdownload",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Accursed.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Spells/Skull Servant.md",
     "3-Content/Compendiums/spells/skull-servant-ultimateadventurer.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Spells/img/yolandes-regal-presence.webp",
@@ -1679,18 +1739,6 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Spells/zealous-smite-bdpc.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Spells/zealot-pact-elminsters-guide-to-magic.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Spells/zeal-elminsters-guide-to-magic.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Spells/zap-tcee1.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Spells/your-glorious-sacrifice-elminsters-guide-to-magic.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Spells/yolandes-regal-presence-xphb.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Spells/xorn-movement-elminsters-guide-to-magic.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Spells/wristpocket-egw.md",
-    "📚 - Information Compendium/🎒 - Items/Weapons/Wondrous/Martial",
-    "📚 - Information Compendium/🎒 - Items/Weapons/Wondrous/Simple",
-    "📚 - Information Compendium/🎒 - Items/Weapons/Ranged/Simple",
-    "📚 - Information Compendium/🎒 - Items/Weapons/Ranged/Martial",
-    "📚 - Information Compendium/🎒 - Items/Weapons/Ranged/Wondrous",
-    "📚 - Information Compendium/🎒 - Items/Weapons/Melee/Wondrous",
-    "📚 - Information Compendium/🎒 - Items/Weapons/Melee/New folder",
-    "📚 - Information Compendium/🎒 - Items/Weapons/Melee/Martial"
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Spells/zap-tcee1.md"
   ]
 }

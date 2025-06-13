@@ -79,7 +79,7 @@ Once you reach 20th level in this class, you finally attain enough control over 
 > 
 > **Reincarnation Table**
 > 
-> `dice: [](accursed-curse-of-immortality-ultimateadventurer.md#^reincarnation-table)`
+> `dice: [](Curse of Immortality.md#^reincarnation-table)`
 > 
 > | dice: d100 | Race |
 > |------------|------|

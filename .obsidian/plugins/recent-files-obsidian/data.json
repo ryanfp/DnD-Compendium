@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Accursed",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Accursed.md"
+      "basename": "Classes",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Classes.md"
+    },
+    {
+      "basename": "Armorer - Artificer",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Artificer/Armorer - Artificer.md"
+    },
+    {
+      "basename": "Alchemist - Artificer",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Artificer/Alchemist - Artificer.md"
+    },
+    {
+      "basename": "Curse of the Created",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of the Created.md"
+    },
+    {
+      "basename": "Curse of the Armament",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of the Armament.md"
+    },
+    {
+      "basename": "Curse of Immortality",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Immortality.md"
+    },
+    {
+      "basename": "Curse of Combustion",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Combustion.md"
     },
     {
       "basename": "Curse of Animation",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Animation.md"
+    },
+    {
+      "basename": "Accursed",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Accursed.md"
     },
     {
       "basename": "Curse of Somnolence",
@@ -21,28 +49,8 @@
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Misfortune.md"
     },
     {
-      "basename": "Curse of Immortality",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Immortality.md"
-    },
-    {
-      "basename": "Curse of Combustion",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Combustion.md"
-    },
-    {
-      "basename": "Curse of the Created",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of the Created.md"
-    },
-    {
-      "basename": "Curse of the Armament",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of the Armament.md"
-    },
-    {
       "basename": "Curse of Mummification",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Mummification.md"
-    },
-    {
-      "basename": "bard-xphb",
-      "path": "UNORGANIZED/bard-xphb.md"
     },
     {
       "basename": "test",
@@ -55,10 +63,6 @@
     {
       "basename": "skull-servant-ultimateadventurer",
       "path": "3-Content/Compendiums/spells/skull-servant-ultimateadventurer.md"
-    },
-    {
-      "basename": "Classes",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Classes.md"
     },
     {
       "basename": "Rules & Meta",
@@ -181,24 +185,12 @@
       "path": "z_Templates/Format YouTube Link.md"
     },
     {
-      "basename": "Armorer - Artificer",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Artificer/Armorer - Artificer.md"
-    },
-    {
       "basename": "Untitled",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Untitled.md"
     },
     {
       "basename": "Artificer",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Artificer/Artificer.md"
-    },
-    {
-      "basename": "Basic Actions",
-      "path": "📚 - Information Compendium/📝 - Rules & Mechanics/Basic Actions.md"
-    },
-    {
-      "basename": "🖨 - Sourcebooks",
-      "path": "⏰ - Archive/🖨 - Sourcebooks/🖨 - Sourcebooks.md"
     }
   ],
   "omittedPaths": [],
