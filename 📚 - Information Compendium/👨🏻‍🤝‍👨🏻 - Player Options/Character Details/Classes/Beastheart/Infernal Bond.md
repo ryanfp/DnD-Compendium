@@ -8,7 +8,7 @@ aliases:
 - Infernal Bond
 ---
 # Infernal Bond
-*[Beastheart](./beastheart-bst.md): Companion Bonds*  
+*[Beastheart](Beastheart.md): Companion Bonds*  
 *Source: Beastheart and Monstrous Companions*  
 
 > [!tldr] Class and Feature Progression

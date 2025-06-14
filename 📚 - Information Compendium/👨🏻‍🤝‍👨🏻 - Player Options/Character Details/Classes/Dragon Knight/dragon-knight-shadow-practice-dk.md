@@ -8,7 +8,7 @@ aliases:
 - Shadow Practice
 ---
 # Shadow Practice
-*[Dragon Knight](./dragon-knight-dk.md): Dragon Knight Practice*  
+*[Dragon Knight](Dragon%20Knight.md): Dragon Knight Practice*  
 *Source: Dragon Knight*  
 
 > [!tldr] Class and Feature Progression

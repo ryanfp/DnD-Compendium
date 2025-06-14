@@ -8,7 +8,7 @@ aliases:
 - Detective
 ---
 # Detective
-*[Investigator](./investigator-vss.md): Occult Specialization*  
+*[Investigator](Investigator.md): Occult Specialization*  
 *Source: Valda's Spire of Secrets p. 109*  
 
 > [!tldr] Class and Feature Progression

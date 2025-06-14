@@ -8,7 +8,7 @@ aliases:
 - Inquisitor
 ---
 # Inquisitor
-*[Investigator](./investigator-vss.md): Occult Specialization*  
+*[Investigator](Investigator.md): Occult Specialization*  
 *Source: Valda's Spire of Secrets p. 110*  
 
 > [!tldr] Class and Feature Progression

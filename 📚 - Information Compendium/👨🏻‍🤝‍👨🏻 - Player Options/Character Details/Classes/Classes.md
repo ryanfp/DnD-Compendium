@@ -1401,23 +1401,23 @@ Shadowmasters are sworn not to reveal their true allegiance, and if need be, the
 
 *Investigators of all stripes share thee broad goal of combating the occult, but their methods vary wildly. Some emphasize cutting down monsters and banishing demons, while others believe that uncovering secrets and compiling critical information is the surest method for eliminating supernatural threats. When an investigator gains enough experience, they can steer their approach, including their specific techniques they employ, and the trinkets they carry, into an occult specialization — a school of thought for handling eldritch threats.*
 
-#### **Antiquarian Specialization**
+#### **[[Antiquarian Specialization]]**
 Festooned with magical trinkets from every corner of the globe, antiquarians have a tool for every occasion: silver arrowheads for lycanthropes, heartwood stakes for vampires, blessed relics for fiends, and so on. As they expand their collections from piles of trinkets to veritable museums, they become adept historians and arcanists, familiar with the story of every magic item their care, as well how to use them in dire situations.
-#### **Archivist Specialization**
+#### **[[Archivist Specialization]]**
 Though most investigators fill their grimoires with hard-won knowledge borne from encounters with the supernatural threats, some prefer to do bookkeeping instead. Such archivists accrue knowledge, not trinkets, by spending untold hours digging through disparate tomes of occult knowledge and compiling them into encyclopedic texts on the supernatural. Through their research, archivists become academic masters of the arcane, and priceless reservoirs of obscure knowledge.
-#### **Detective Specialization**
+#### **[[Detective Specialization]]**
 Prowling at the edge of darkness, detectives chase down clues and pull on threads to unravel conspiracies which bring darkness into the world. Sometimes, this requires that you infiltrate a cult's secret meetings, other times it calls on you to reconstruct a man's last moments at a murder scene, but no matter what the mystery, you know that there is always an explanation.
-#### **Exterminator Specialization**
+#### **[[Exterminator Specialization]]**
 An exterminator suffers no monster to live. Trained in the art of slaying aberrations, fiends, and undead, you stand against evil where others falter, and draw your blade before others recognize a threat. Grand schemes and plots are less important than retribution against those monsters which stalk the night, and your thirst for such retribution is unquenchable. There is always another werewolf to be slain, another vampire to be staked, another demon to be banished; people rarely thank you, but you find satisfaction enough in your work.
-#### **Inquisitor Specialization**
+#### **[[Inquisitor Specialization]]**
 The church has long been the first line of defense against the tide of impending darkness. Yet, the clergy's stubborn devotion to righteousness impedes them where it counts: you must sometimes be willing to do evil to counter evil. That's where the inquisition comes in.
 
 As a righteous inquisitor of the faith, you are tasked with rooting out heresy, exorcising demons, and stamping out any sign of the occult, and are offered clemency for any action you take in the defense of the greater good. You may investigate anyone or anything you deem to be in line with the forces of evil, for you alone are a holy blade in the dark, the arbiter of your church.
-#### **Medium Specialization**
+#### **[[Medium Specialization]]**
 As conduits between the living and dead, mediums offer an essential glimpse past the veil of mortality. Using their auguries, seances, and divinations, mediums can retrieve morsels of information from the afterlife to settle debts with the living or and assist ongoing investigations. This information, however cryptic, can point an interested party toward clues or evidence which only the deceased might be able to provide.
-#### **Occultist Specialization**
+#### **[[Occultist Specialization]]**
 Vampires, demons, lycanthropes, and aberrations all have one thing in common: they are all magical threats, best combated through magical means. To meet these foes on a level playing field, occultists indulge in arcana, filling their grimoires with magical secrets and mastering a handful of spells. Occultists are the most likely investigators to cavort with warlocks, borrow tricks from wizards and magicians, and dabble in dark magic to defeat their foes.
-#### **Spy Specialization**
+#### **[[Spy Specialization]]**
 Infiltration, disguise, and lying through their teeth: these are the principle skills of a spy. A talented spy rarely ever needs to draw a dagger to silence someone, for their honeyed words and agreeable disposition are all that is needed to draw out someone's secrets. Of course, when they do strike, it is decisively and without warning. Such skills are invaluable for governments and organizations of all varieties, for stealing confidential information, sabotage, monitoring persons of interest, and everything in between.
 ## Jaeger
 *Jaegers are defined by their efficiency in battle, using their mastery over both steel and gunpowder to lay waste to all who oppose them. More than just soldiers, their skills represent the last wall of defense of a world fated to extinction; they are unstoppable and unbreakable. They strike fear in the heart of their foes, and bring hope to those they protect. (**Source: Steinhardt’s Guide to the Eldritch Hunt**)*

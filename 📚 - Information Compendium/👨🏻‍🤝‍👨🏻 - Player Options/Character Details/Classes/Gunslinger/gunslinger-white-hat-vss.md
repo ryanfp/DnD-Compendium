@@ -8,7 +8,7 @@ aliases:
 - White Hat
 ---
 # White Hat
-*[Gunslinger](./gunslinger-vss.md): Gunslinger's Creed*  
+*[Gunslinger](Gunslinger.md): Gunslinger's Creed*  
 *Source: Valda's Spire of Secrets*  
 
 > [!tldr] Class and Feature Progression

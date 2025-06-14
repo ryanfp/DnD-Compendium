@@ -8,7 +8,7 @@ aliases:
 - Spy
 ---
 # Spy
-*[Investigator](./investigator-vss.md): Occult Specialization*  
+*[Investigator](Investigator.md): Occult Specialization*  
 *Source: Valda's Spire of Secrets p. 113*  
 
 > [!tldr] Class and Feature Progression

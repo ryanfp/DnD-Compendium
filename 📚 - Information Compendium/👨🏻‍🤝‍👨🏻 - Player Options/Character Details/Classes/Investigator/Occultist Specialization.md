@@ -8,7 +8,7 @@ aliases:
 - Occultist
 ---
 # Occultist
-*[Investigator](./investigator-vss.md): Occult Specialization*  
+*[Investigator](Investigator.md): Occult Specialization*  
 *Source: Valda's Spire of Secrets p. 112*  
 
 > [!tldr] Class and Feature Progression

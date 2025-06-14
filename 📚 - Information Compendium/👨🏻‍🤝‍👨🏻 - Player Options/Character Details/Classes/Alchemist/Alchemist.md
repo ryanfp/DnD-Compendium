@@ -145,7 +145,16 @@ When you gain certain levels in this class, you learn additional formulae of you
 
 ### Field of Study (Level 2)
 
-While all alchemists share a common knowledge base, most alchemists specialize into a particular field of study. When you reach 2nd level, you select your field of study, which grants you features at 2nd, 6th, 10th, and 18th level.
+While all alchemists share a common knowledge base, most alchemists specialize into a particular field of study:
+- [[Amorist Field]]
+- [[Apothecary Field]]
+- [[Dynamo Engineer Field]]
+- [[Mad Bomber Field]]
+- [[Mutagenist Field]]
+- [[Venomsmith Field]]
+- [[Xenoalchemist Field]]
+
+When you reach 2nd level, you select your field of study, which grants you features at 2nd, 6th, 10th, and 18th level.
 
 A formula granted by your field of study does not count against the total number of formulae you know.
 

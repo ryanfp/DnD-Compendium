@@ -8,7 +8,7 @@ aliases:
 - Painkiller
 ---
 # Painkiller
-*[Illrigger](./illrigger-illriggerrevised.md): Diabolic Contracts*  
+*[Illrigger](Illrigger.md): Diabolic Contracts*  
 *Source: The Illrigger Revised*  
 
 > [!tldr] Class and Feature Progression

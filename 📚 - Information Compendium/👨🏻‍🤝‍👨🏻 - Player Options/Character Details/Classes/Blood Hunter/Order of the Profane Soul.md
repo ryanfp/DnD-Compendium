@@ -8,7 +8,7 @@ aliases:
 - Order of the Profane Soul
 ---
 # Order of the Profane Soul
-*[Blood Hunter](./blood-hunter-bh2022.md): Blood Hunter Order*  
+*[Blood Hunter](Blood%20Hunter.md): Blood Hunter Order*  
 *Source: Blood Hunter 2022*  
 
 > [!tldr] Class and Feature Progression

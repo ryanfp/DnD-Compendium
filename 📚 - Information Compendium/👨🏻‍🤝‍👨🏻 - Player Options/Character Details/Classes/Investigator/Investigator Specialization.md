@@ -8,7 +8,7 @@ aliases:
 - Archivist
 ---
 # Archivist
-*[Investigator](./investigator-vss.md): Occult Specialization*  
+*[Investigator](Investigator.md): Occult Specialization*  
 *Source: Valda's Spire of Secrets p. 108*  
 
 > [!tldr] Class and Feature Progression

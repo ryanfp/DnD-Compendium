@@ -8,7 +8,7 @@ aliases:
 - Arcane Maesters' Guild
 ---
 # Arcane Maesters' Guild
-*[Craftsman](./craftsman-vss.md): Artisan's Guild*  
+*[Craftsman](Craftsman.md): Artisan's Guild*  
 *Source: Valda's Spire of Secrets*  
 
 > [!tldr] Class and Feature Progression
