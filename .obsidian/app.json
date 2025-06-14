@@ -13,8 +13,8 @@
   "trashOption": "local",
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "promptDelete": false,
-  "attachmentFolderPath": "/",
+  "attachmentFolderPath": "./img",
   "showInlineTitle": true
 }
