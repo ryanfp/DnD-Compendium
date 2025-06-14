@@ -11,5 +11,7 @@
     "S - Encoded Fonts",
     "S - Encoded Icons",
     "dnd5e-only-admonitions"
-  ]
+  ],
+  "showViewHeader": true,
+  "showRibbon": true
 }

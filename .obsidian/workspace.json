@@ -1512,30 +1512,6 @@
             }
           },
           {
-            "id": "a5dd4543e7cd2c95",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Classes"
-            }
-          },
-          {
             "id": "693cef2cdcb905a6",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -1653,6 +1629,20 @@
               "icon": "lucide-file",
               "title": "Template Builder"
             }
+          },
+          {
+            "id": "3a91a24b66c219be",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ]
       }
@@ -1662,11 +1652,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false,
+      "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "omnisearch:Omnisearch": false,
       "media-extended:Open media": false,
-      "homepage:Open homepage": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
@@ -1674,21 +1665,22 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
+      "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian42-brat:BRAT": false,
+      "obsidian42-brat:BRAT": true,
       "obsidian-custom-frames:Open Obsidian Forum": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "helpmate:HelpMate": false,
-      "obsidian-import-json:JSON/CSV Importer": false,
-      "obsidian-kanban:Create new board": false,
+      "obsidian-import-json:JSON/CSV Importer": true,
+      "obsidian-kanban:Create new board": true,
       "obisidian-note-linker:Note Linker": false,
       "custom-sort:Toggle custom sorting": false,
       "iconic:Open rulebook": false,
       "obsidian-git:Open Git source control": false,
       "modalforms:Edit forms": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "calendarium:Open Calendarium": true,
+      "markdown-importer:Open format converter": false
     }
   },
   "active": "3a73ca7b9dac80c9",

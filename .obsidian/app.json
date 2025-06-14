@@ -14,5 +14,7 @@
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
   "readableLineLength": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "/",
+  "showInlineTitle": true
 }
