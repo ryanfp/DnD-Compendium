@@ -29,7 +29,7 @@
   "ITS@@file-explorer-flat": true,
   "ITS@@hr-center-vertically": true,
   "ITS@@hide-header-underline": false,
-  "ITS@@heading-indicator": false,
+  "ITS@@heading-indicator": true,
   "ITS@@slrvb-b": false,
   "ITS@@slrvb-g": false,
   "ITS@@t-d": false,
@@ -129,5 +129,6 @@
   "pane-relief@@pane-relief-disable-counts": true,
   "ITS@@link-style": "link-notion",
   "ITS@@link-weight": 500,
-  "ITS@@hide-header-underline-1": true
+  "ITS@@hide-header-underline-1": true,
+  "ITS@@ITS-Sidebar-Styling": "none"
 }
