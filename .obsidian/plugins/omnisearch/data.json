@@ -1,5 +1,5 @@
 {
-  "useCache": true,
+  "useCache": false,
   "hideExcluded": false,
   "recencyBoost": "0",
   "downrankedFoldersFilters": [],
@@ -39,4 +39,3 @@
   "verboseLogging": false,
   "DANGER_httpHost": null,
   "DANGER_forceSaveCache": false
-}
