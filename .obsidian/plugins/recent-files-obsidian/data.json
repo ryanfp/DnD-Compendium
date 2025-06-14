@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Alchemist",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Alchemist/Alchemist.md"
+    },
+    {
+      "basename": "Accursed",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Accursed.md"
+    },
+    {
+      "basename": "alchemist-amorist-vss",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Alchemist/alchemist-amorist-vss.md"
+    },
+    {
+      "basename": "alchemist-xenoalchemist-vss",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Alchemist/alchemist-xenoalchemist-vss.md"
+    },
+    {
+      "basename": "Curse of Animation",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Animation.md"
+    },
+    {
       "basename": "Artificer",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Artificer/Artificer.md"
     },
@@ -31,14 +51,6 @@
     {
       "basename": "Curse of Combustion",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Combustion.md"
-    },
-    {
-      "basename": "Curse of Animation",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Animation.md"
-    },
-    {
-      "basename": "Accursed",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Accursed.md"
     },
     {
       "basename": "Curse of Somnolence",
@@ -183,14 +195,6 @@
     {
       "basename": "Session Notes Template",
       "path": "z_Templates/Session Notes Template.md"
-    },
-    {
-      "basename": "Format YouTube Link",
-      "path": "z_Templates/Format YouTube Link.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Untitled.md"
     }
   ],
   "omittedPaths": [],

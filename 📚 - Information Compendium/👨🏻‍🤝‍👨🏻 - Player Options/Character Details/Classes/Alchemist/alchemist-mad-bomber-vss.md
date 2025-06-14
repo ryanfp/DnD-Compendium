@@ -8,7 +8,7 @@ aliases:
 - Mad Bomber
 ---
 # Mad Bomber
-*[Alchemist](./alchemist-vss.md): Field of Study*  
+*[Alchemist](Alchemist.md): Field of Study*  
 *Source: Valda's Spire of Secrets*  
 
 > [!tldr] Class and Feature Progression

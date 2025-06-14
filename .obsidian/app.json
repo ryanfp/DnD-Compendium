@@ -13,7 +13,7 @@
   "trashOption": "local",
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "promptDelete": false,
   "attachmentFolderPath": "./z_img",
   "showInlineTitle": true

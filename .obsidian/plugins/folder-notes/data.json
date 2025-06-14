@@ -11,7 +11,7 @@
       "type": "folder",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options",
       "subFolders": true,
-      "disableSync": true,
+      "disableSync": false,
       "disableAutoCreate": true,
       "disableFolderNote": false,
       "enableCollapsing": false,
