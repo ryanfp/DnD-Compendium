@@ -60,7 +60,7 @@
   "ITS@@titlebar-bubbles": true,
   "ITS@@status-bar-gap": 5,
   "ITS@@status-bar-padding": 3,
-  "ITS@@radius-s": 0,
+  "ITS@@radius-s": 4,
   "ITS@@ITS-Sizes": "none",
   "ITS@@italic-color@@dark": "#FFEC98",
   "ITS@@strikethrough-color@@dark": "#6B6B6B",
@@ -130,5 +130,8 @@
   "ITS@@link-style": "link-notion",
   "ITS@@link-weight": 500,
   "ITS@@hide-header-underline-1": true,
-  "ITS@@ITS-Sidebar-Styling": "none"
+  "ITS@@ITS-Sidebar-Styling": "none",
+  "obsidian-dynamic-outline@@hide-button-from-toolbar": false,
+  "ITS@@hide-titlebar": false,
+  "ITS@@hide-status-bar": false
 }

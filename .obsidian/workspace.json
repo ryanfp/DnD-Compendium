@@ -2442,7 +2442,7 @@
               "type": "outgoing-link",
               "state": {
                 "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Psion/Psion.md",
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
@@ -2663,7 +2663,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -2699,10 +2699,11 @@
       "modalforms:Edit forms": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "769aa818d370f951",
+  "active": "c0c2fbf5da705f4c",
   "lastOpenFiles": [
     "3-Content/Rules/skills.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Psion/Psion.md",
