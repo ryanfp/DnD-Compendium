@@ -1,0 +1,7 @@
+{
+  "defaultTitleSource": "heading",
+  "illegalCharHandling": "remove",
+  "customReplacement": "",
+  "updateOtherTitlesWithSanitizedVersion": true,
+  "syncMode": "all"
+}

@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Investigator",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Investigator/Investigator.md"
+      "basename": "Psion",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Psion/Psion.md"
     },
     {
-      "basename": "Exterminator Specialization",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Investigator/Exterminator Specialization.md"
-    },
-    {
-      "basename": "Detective Specialization",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Investigator/Detective Specialization.md"
-    },
-    {
-      "basename": "Investigator Specialization",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Investigator/Investigator Specialization.md"
-    },
-    {
-      "basename": "Antiquarian Specialization",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Investigator/Antiquarian Specialization.md"
-    },
-    {
-      "basename": "Classes",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Classes.md"
-    },
-    {
-      "basename": "Alchemist",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Alchemist/Alchemist.md"
-    },
-    {
-      "basename": "Craftsman",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Craftsman/Craftsman.md"
-    },
-    {
-      "basename": "Order of the Profane Soul",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Blood Hunter/Order of the Profane Soul.md"
-    },
-    {
-      "basename": "Order of the Mutant",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Blood Hunter/Order of the Mutant.md"
-    },
-    {
-      "basename": "Order of the Lycan",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Blood Hunter/Order of the Lycan.md"
-    },
-    {
-      "basename": "Order of the Ghostslayer",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Blood Hunter/Order of the Ghostslayer.md"
-    },
-    {
-      "basename": "Blood Hunter",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Blood Hunter/Blood Hunter.md"
-    },
-    {
-      "basename": "Protector Bond",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Beastheart/Protector Bond.md"
-    },
-    {
-      "basename": "Primordial Bond",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Beastheart/Primordial Bond.md"
-    },
-    {
-      "basename": "Infernal Bond",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Beastheart/Infernal Bond.md"
-    },
-    {
-      "basename": "Hunter Bond",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Beastheart/Hunter Bond.md"
-    },
-    {
-      "basename": "Ferocious Bond",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Beastheart/Ferocious Bond.md"
-    },
-    {
-      "basename": "Beastheart",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Beastheart/Beastheart.md"
-    },
-    {
-      "basename": "Apothecary Field",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Alchemist/Apothecary Field.md"
-    },
-    {
-      "basename": "Amorist Field",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Alchemist/Amorist Field.md"
+      "basename": "skills",
+      "path": "3-Content/Rules/skills.md"
     },
     {
       "basename": "Accursed",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Accursed.md"
     },
     {
-      "basename": "Mutagenist Field",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Alchemist/Mutagenist Field.md"
-    },
-    {
-      "basename": "Mad Bomber Field",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Alchemist/Mad Bomber Field.md"
-    },
-    {
-      "basename": "Venomsmith Field",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Alchemist/Venomsmith Field.md"
-    },
-    {
-      "basename": "Dynamo Engineer Field",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Alchemist/Dynamo Engineer Field.md"
-    },
-    {
-      "basename": "Xenoalchemist Field",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Alchemist/Xenoalchemist Field.md"
-    },
-    {
-      "basename": "Curse of Animation",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Animation.md"
+      "basename": "Alchemist",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Alchemist/Alchemist.md"
     },
     {
       "basename": "Artificer",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Artificer/Artificer.md"
     },
     {
-      "basename": "Armorer - Artificer",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Artificer/Armorer - Artificer.md"
+      "basename": "Beastheart",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Beastheart/Beastheart.md"
     },
     {
-      "basename": "Alchemist - Artificer",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Artificer/Alchemist - Artificer.md"
+      "basename": "Martyr",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Martyr/Martyr.md"
     },
     {
-      "basename": "Curse of the Created",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of the Created.md"
+      "basename": "White Magic",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Witch/White Magic.md"
     },
     {
-      "basename": "Curse of the Armament",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of the Armament.md"
+      "basename": "Technicolor Magic",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Witch/Technicolor Magic.md"
     },
     {
-      "basename": "Curse of Immortality",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Immortality.md"
+      "basename": "Tea Magic",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Witch/Tea Magic.md"
     },
     {
-      "basename": "Curse of Combustion",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Combustion.md"
+      "basename": "Steel Magic",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Witch/Steel Magic.md"
     },
     {
-      "basename": "Curse of Somnolence",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Somnolence.md"
+      "basename": "Red Magic",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Witch/Red Magic.md"
     },
     {
-      "basename": "Curse of Petrification",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Petrification.md"
+      "basename": "Purple Magic",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Witch/Purple Magic.md"
     },
     {
-      "basename": "Curse of Misfortune",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Misfortune.md"
+      "basename": "Green Magic",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Witch/Green Magic.md"
     },
     {
-      "basename": "Curse of Mummification",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Mummification.md"
+      "basename": "Blood Magic",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Witch/Blood Magic.md"
     },
     {
-      "basename": "test",
-      "path": "UNORGANIZED/test.md"
+      "basename": "Black Magic",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Witch/Black Magic.md"
     },
     {
-      "basename": "Skull Servant",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Spells/Skull Servant.md"
+      "basename": "House of Rooks",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Warmage/House of Rooks.md"
     },
     {
-      "basename": "skull-servant-ultimateadventurer",
-      "path": "3-Content/Compendiums/spells/skull-servant-ultimateadventurer.md"
+      "basename": "House of Pawns",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Warmage/House of Pawns.md"
     },
     {
-      "basename": "Rules & Meta",
-      "path": "📚 - Information Compendium/📝 - Rules & Mechanics/Rules & Meta.md"
+      "basename": "House of Lancers",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Warmage/House of Lancers.md"
     },
     {
-      "basename": "👹 - Bestiary",
-      "path": "📚 - Information Compendium/👹 - Bestiary.md"
+      "basename": "House of Knights",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Warmage/House of Knights.md"
     },
     {
-      "basename": "Weapon Masteries",
-      "path": "📚 - Information Compendium/⚔ - Features & Skills/Weapon Masteries/Weapon Masteries.md"
+      "basename": "House of Kings",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Warmage/House of Kings.md"
     },
     {
-      "basename": "Feats",
-      "path": "📚 - Information Compendium/⚔ - Features & Skills/Feats/Feats.md"
+      "basename": "House of Dice",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Warmage/House of Dice.md"
     },
     {
-      "basename": "Spells",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Spells/Spells.md"
+      "basename": "House of Cards",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Warmage/House of Cards.md"
     },
     {
-      "basename": "Sourcebooks",
-      "path": "UNORGANIZED/Sourcebooks.md"
+      "basename": "House of Bishops",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Warmage/House of Bishops.md"
     },
     {
-      "basename": "Backgrounds",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Backgrounds.md"
+      "basename": "Warmage",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Warmage/Warmage.md"
     },
     {
-      "basename": "List of Classes and Subclasses",
-      "path": "UNORGANIZED/List of Classes and Subclasses.md"
+      "basename": "Academy of Tactics",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Warlord/Academy of Tactics.md"
+    },
+    {
+      "basename": "Academy of Skalds",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Warlord/Academy of Skalds.md"
+    },
+    {
+      "basename": "Academy of Schemes",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Warlord/Academy of Schemes.md"
+    },
+    {
+      "basename": "Academy of Ferocity",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Warlord/Academy of Ferocity.md"
+    },
+    {
+      "basename": "Academy of Chivalry",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Warlord/Academy of Chivalry.md"
+    },
+    {
+      "basename": "Warlord",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Warlord/Warlord.md"
+    },
+    {
+      "basename": "The Trickster",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Vessel/The Trickster.md"
+    },
+    {
+      "basename": "The Formless",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Vessel/The Formless.md"
+    },
+    {
+      "basename": "The Fallen",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Vessel/The Fallen.md"
+    },
+    {
+      "basename": "The Cursed",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Vessel/The Cursed.md"
+    },
+    {
+      "basename": "The Cataclysm",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Vessel/The Cataclysm.md"
+    },
+    {
+      "basename": "The Ascended",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Vessel/The Ascended.md"
+    },
+    {
+      "basename": "Vessel",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Vessel/Vessel.md"
+    },
+    {
+      "basename": "Splicer",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Tamer/Splicer.md"
+    },
+    {
+      "basename": "Necromancer",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Tamer/Necromancer.md"
+    },
+    {
+      "basename": "Leader",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Tamer/Leader.md"
+    },
+    {
+      "basename": "Infuser",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Tamer/Infuser.md"
+    },
+    {
+      "basename": "Virtuoso",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Savant/Virtuoso.md"
+    },
+    {
+      "basename": "Tactician",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Savant/Tactician.md"
+    },
+    {
+      "basename": "Rune Scribe",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Savant/Rune Scribe.md"
+    },
+    {
+      "basename": "Physician",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Savant/Physician.md"
+    },
+    {
+      "basename": "Philosopher",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Savant/Philosopher.md"
+    },
+    {
+      "basename": "Orator",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Savant/Orator.md"
+    },
+    {
+      "basename": "Naturalist",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Savant/Naturalist.md"
+    },
+    {
+      "basename": "Mentor",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Savant/Mentor.md"
     }
   ],
   "omittedPaths": [],

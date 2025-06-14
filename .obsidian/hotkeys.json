@@ -91,5 +91,14 @@
       ],
       "key": "M"
     }
+  ],
+  "file-title-updater:sync-titles-default": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Enter"
+    }
   ]
 }

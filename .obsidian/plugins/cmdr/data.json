@@ -40,6 +40,12 @@
       "icon": "lucide-component",
       "name": "Iconic: Change icon of the current file",
       "mode": "any"
+    },
+    {
+      "id": "smart-rename:smart-rename",
+      "icon": "lucide-a-arrow-up",
+      "name": "Smart Rename",
+      "mode": "any"
     }
   ],
   "leftRibbon": [],

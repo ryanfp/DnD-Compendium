@@ -63,5 +63,7 @@
   "templater-obsidian",
   "modalforms",
   "dataview",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "smart-rename",
+  "file-title-updater"
 ]
