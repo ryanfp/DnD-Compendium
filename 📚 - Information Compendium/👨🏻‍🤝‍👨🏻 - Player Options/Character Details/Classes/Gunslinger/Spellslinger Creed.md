@@ -6,7 +6,7 @@ tags:
   - ttrpg-cli/subclass/gunslinger/spellslinger
 aliases:
   - Spellslinger
-title: Spellslinger
+title: Spellslinger Creed
 ---
 # Spellslinger Creed
 *[Gunslinger](Gunslinger.md): Gunslinger's Creed*  

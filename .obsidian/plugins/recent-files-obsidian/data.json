@@ -1,44 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Sharpshooter",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Sharpshooter.md"
+      "basename": "Big Game Hunter Creed",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Big Game Hunter Creed.md"
     },
     {
-      "basename": "White Hat",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/White Hat.md"
+      "basename": "Deadeye Creed",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Deadeye Creed.md"
     },
     {
-      "basename": "Trick Shot",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Trick Shot.md"
+      "basename": "Gun Tank Creed",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gun Tank Creed.md"
     },
     {
-      "basename": "Spellslinger",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Spellslinger.md"
+      "basename": "Gun-Ko Master Creed",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gun-Ko Master Creed.md"
     },
     {
-      "basename": "Pistolero",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Pistolero.md"
-    },
-    {
-      "basename": "Musketeer",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Musketeer.md"
-    },
-    {
-      "basename": "High Roller",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/High Roller.md"
-    },
-    {
-      "basename": "Gun-Ko Master",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gun-Ko Master.md"
-    },
-    {
-      "basename": "Gun Tank",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gun Tank.md"
+      "basename": "High Roller Creed",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/High Roller Creed.md"
     },
     {
       "basename": "Gunslinger",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gunslinger.md"
+    },
+    {
+      "basename": "White Hat Creed",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/White Hat Creed.md"
+    },
+    {
+      "basename": "Trick Shot Creed",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Trick Shot Creed.md"
+    },
+    {
+      "basename": "Spellslinger Creed",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Spellslinger Creed.md"
+    },
+    {
+      "basename": "Pistolero Creed",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Pistolero Creed.md"
+    },
+    {
+      "basename": "Musketeer Creed",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Musketeer Creed.md"
     },
     {
       "basename": "Occultist",
@@ -195,10 +199,6 @@
     {
       "basename": "Astrologer",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Shaman/Astrologer.md"
-    },
-    {
-      "basename": "Rift Hitter",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Pugilist/Rift Hitter.md"
     }
   ],
   "omittedPaths": [],

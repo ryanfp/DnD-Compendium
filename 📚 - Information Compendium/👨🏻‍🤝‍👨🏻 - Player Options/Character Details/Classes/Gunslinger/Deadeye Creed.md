@@ -3,12 +3,12 @@ obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
   - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/gunslinger/sharpshooter
+  - ttrpg-cli/subclass/gunslinger/deadeye
 aliases:
-  - Sharpshooter
-title: Sharpshooter
+  - Deadeye
+title: Deadeye Creed
 ---
-# Sharpshooter Creed
+# Deadeye Creed
 *[Gunslinger](Gunslinger.md): Gunslinger's Creed*  
 *Source: Valda's Spire of Secrets*  
 
@@ -21,7 +21,7 @@ title: Sharpshooter
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Sharpshooter (Level 3)' class='internal-link'>Sharpshooter</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Deadeye (Level 3)' class='internal-link'>Deadeye</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
@@ -46,7 +46,7 @@ title: Sharpshooter
 
 ## Class Features
 
-### Sharpshooter (Level 3)
+### Deadeye (Level 3)
 
 A well-placed bullet is more powerful than a sword, arrow, or spell. Indeed, you believe that every violent conflict should sound like a single loud crack followed by a long silence. Such shots need to be delivered perfectly, even at range, for when they are done right, they are as deadly for the target as they are stupendous for the audience.
 

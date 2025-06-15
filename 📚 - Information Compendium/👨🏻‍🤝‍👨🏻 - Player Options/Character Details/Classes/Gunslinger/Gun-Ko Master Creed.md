@@ -6,7 +6,7 @@ tags:
   - ttrpg-cli/subclass/gunslinger/gun-ko-master
 aliases:
   - Gun-Ko Master
-title: Gun-Ko Master
+title: Gun-Ko Master Creed
 ---
 # Gun-Ko Master Creed
 *[Gunslinger](Gunslinger.md): Gunslinger's Creed*  

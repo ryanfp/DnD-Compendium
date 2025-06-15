@@ -6,7 +6,7 @@ tags:
   - ttrpg-cli/subclass/gunslinger/high-roller
 aliases:
   - High Roller
-title: High Roller
+title: High Roller Creed
 ---
 # High Roller Creed
 *[Gunslinger](Gunslinger.md): Gunslinger's Creed*  

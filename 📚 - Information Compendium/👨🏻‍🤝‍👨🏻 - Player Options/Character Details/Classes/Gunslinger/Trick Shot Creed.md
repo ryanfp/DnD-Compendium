@@ -6,7 +6,7 @@ tags:
   - ttrpg-cli/subclass/gunslinger/trick-shot
 aliases:
   - Trick Shot
-title: Trick Shot
+title: Trick Shot Creed
 ---
 # Trick Shot Creed
 *[Gunslinger](Gunslinger.md): Gunslinger's Creed*  

@@ -6,7 +6,7 @@ tags:
   - ttrpg-cli/subclass/gunslinger/pistolero
 aliases:
   - Pistolero
-title: Pistolero
+title: Pistolero Creed
 ---
 # Pistolero Creed
 *[Gunslinger](Gunslinger.md): Gunslinger's Creed*  

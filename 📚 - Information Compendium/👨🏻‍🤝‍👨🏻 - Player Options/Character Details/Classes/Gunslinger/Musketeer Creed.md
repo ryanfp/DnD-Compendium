@@ -6,7 +6,7 @@ tags:
   - ttrpg-cli/subclass/gunslinger/musketeer
 aliases:
   - Musketeer
-title: Musketeer
+title: Musketeer Creed
 ---
 # Musketeer Creed
 *[Gunslinger](Gunslinger.md): Gunslinger's Creed*  

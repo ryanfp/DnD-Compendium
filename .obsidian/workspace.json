@@ -1691,57 +1691,219 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "White Hat",
+                  "title": "Deadeye Creed",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/White Hat.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"White Hat\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Deadeye Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Deadeye Creed\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":74,\"ch\":231}}}"
+                },
+                {
+                  "title": "Big Game Hunter Creed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Big Game Hunter Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Big Game Hunter Creed\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Deadeye Creed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Deadeye Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Deadeye Creed\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gun Tank Creed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gun Tank Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Gun Tank Creed\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gun-Ko Master Creed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gun-Ko Master Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Gun-Ko Master Creed\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "High Roller Creed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/High Roller Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"High Roller Creed\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Deadeye Creed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Deadeye Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Deadeye Creed\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Big Game Hunter Creed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Big Game Hunter Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Big Game Hunter Creed\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":81,\"ch\":22},\"to\":{\"line\":82,\"ch\":0}},\"scroll\":59.969626701981156}"
+                },
+                {
+                  "title": "Gunslinger",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gunslinger.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Gunslinger\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Deadeye Creed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Deadeye Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Deadeye Creed\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":74,\"ch\":231}},\"scroll\":0}"
+                },
+                {
+                  "title": "Big Game Hunter Creed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Big Game Hunter Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Big Game Hunter Creed\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":261,\"ch\":88},\"to\":{\"line\":261,\"ch\":88}},\"scroll\":135.9167356205713}"
+                },
+                {
+                  "title": "Gunslinger",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gunslinger.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Gunslinger\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":261,\"ch\":88}}}"
+                },
+                {
+                  "title": "Big Game Hunter Creed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Big Game Hunter Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Big Game Hunter Creed\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Gunslinger",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gunslinger.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Gunslinger\"}",
+                  "eState": "{\"scroll\":142.57567138671874}"
+                },
+                {
+                  "title": "White Hat Creed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/White Hat Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"White Hat Creed\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Trick Shot Creed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Trick Shot Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Trick Shot Creed\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Spellslinger Creed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Spellslinger Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Spellslinger Creed\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Deadeye Creed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Deadeye Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Deadeye Creed\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Pistolero Creed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Pistolero Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Pistolero Creed\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Musketeer Creed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Musketeer Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Musketeer Creed\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "High Roller Creed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/High Roller Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"High Roller Creed\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gun-Ko Master Creed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gun-Ko Master Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Gun-Ko Master Creed\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gun Tank Creed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gun Tank Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Gun Tank Creed\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "White Hat Creed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/White Hat Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"White Hat\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Trick Shot Creed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Trick Shot Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Trick Shot\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Spellslinger Creed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Spellslinger Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Spellslinger\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Deadeye Creed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Deadeye Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"SharpshDooter\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":107},\"to\":{\"line\":23,\"ch\":107}},\"scroll\":0}"
+                },
+                {
+                  "title": "White Hat Creed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/White Hat Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"White Hat\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":17},\"to\":{\"line\":10,\"ch\":17}}}"
                 },
                 {
-                  "title": "Trick Shot",
+                  "title": "Trick Shot Creed",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Trick Shot.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Trick Shot\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Trick Shot Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Trick Shot\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":18},\"to\":{\"line\":10,\"ch\":18}}}"
                 },
                 {
-                  "title": "Spellslinger",
+                  "title": "Spellslinger Creed",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Spellslinger.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Spellslinger\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Spellslinger Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Spellslinger\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":20},\"to\":{\"line\":10,\"ch\":20}}}"
                 },
                 {
-                  "title": "Sharpshooter",
+                  "title": "Deadeye Creed",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Sharpshooter.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sharpshooter\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Deadeye Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sharpshooter\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":20},\"to\":{\"line\":10,\"ch\":20}}}"
                 },
                 {
-                  "title": "Pistolero",
+                  "title": "Pistolero Creed",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Pistolero.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Pistolero\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Pistolero Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Pistolero\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":17},\"to\":{\"line\":10,\"ch\":17}}}"
                 },
                 {
-                  "title": "Musketeer",
+                  "title": "Musketeer Creed",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Musketeer.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Musketeer\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Musketeer Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Musketeer\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":17},\"to\":{\"line\":10,\"ch\":17}}}"
                 },
                 {
-                  "title": "High Roller",
+                  "title": "High Roller Creed",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/High Roller.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"High Roller\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/High Roller Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"High Roller\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":19},\"to\":{\"line\":10,\"ch\":19}}}"
                 },
                 {
-                  "title": "Gun-Ko Master",
+                  "title": "Gun-Ko Master Creed",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gun-Ko Master.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Gun-Ko Master\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gun-Ko Master Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Gun-Ko Master\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":21},\"to\":{\"line\":10,\"ch\":21}}}"
                 },
                 {
-                  "title": "Gun Tank",
+                  "title": "Gun Tank Creed",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gun Tank.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Gun Tank\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gun Tank Creed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Gun Tank\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":16},\"to\":{\"line\":10,\"ch\":10}}}"
                 },
                 {
@@ -1751,9 +1913,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":162,\"ch\":19},\"to\":{\"line\":162,\"ch\":19}},\"scroll\":0}"
                 },
                 {
-                  "title": "Gun Tank",
+                  "title": "Gun Tank Creed",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gun Tank.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Gun Tank\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gun Tank Creed.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Gun Tank\"}",
                   "eState": "{\"scroll\":20.0817630748057}"
                 },
                 {
@@ -1853,57 +2015,57 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "White Hat",
+                  "title": "White Hat Creed",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/White Hat.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"White Hat\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/White Hat Creed.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"White Hat\"}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Trick Shot",
+                  "title": "Trick Shot Creed",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Trick Shot.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Trick Shot\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Trick Shot Creed.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Trick Shot\"}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Spellslinger",
+                  "title": "Spellslinger Creed",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Spellslinger.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Spellslinger\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Spellslinger Creed.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Spellslinger\"}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Sharpshooter",
+                  "title": "Deadeye Creed",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Sharpshooter.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sharpshooter\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Deadeye Creed.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sharpshooter\"}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Pistolero",
+                  "title": "Pistolero Creed",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Pistolero.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Pistolero\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Pistolero Creed.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Pistolero\"}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Musketeer",
+                  "title": "Musketeer Creed",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Musketeer.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Musketeer\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Musketeer Creed.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Musketeer\"}",
                   "eState": "{}"
                 },
                 {
-                  "title": "High Roller",
+                  "title": "High Roller Creed",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/High Roller.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"High Roller\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/High Roller Creed.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"High Roller\"}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Gun Tank",
+                  "title": "Gun Tank Creed",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gun Tank.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Gun Tank\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gun Tank Creed.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Gun Tank\"}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Gun-Ko Master",
+                  "title": "Gun-Ko Master Creed",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gun-Ko Master.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Gun-Ko Master\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gun-Ko Master Creed.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Gun-Ko Master\"}",
                   "eState": "{}"
                 },
                 {
@@ -2637,13 +2799,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Sharpshooter.md",
-                "mode": "source",
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Big Game Hunter Creed.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Sharpshooter"
+              "title": "Big Game Hunter Creed"
             }
           },
           {
@@ -2837,12 +2999,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Sharpshooter.md",
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Big Game Hunter Creed.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sharpshooter"
+              "title": "Outgoing links from Big Game Hunter Creed"
             }
           },
           {
@@ -2860,7 +3022,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Accursed/Curse of Immortality.md",
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Big Game Hunter Creed.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -2870,7 +3032,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Curse of Immortality"
+              "title": "Backlinks for Big Game Hunter Creed"
             }
           },
           {
@@ -3058,11 +3220,12 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 314.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -3100,16 +3263,17 @@
   },
   "active": "769aa818d370f951",
   "lastOpenFiles": [
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/White Hat.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Trick Shot.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Spellslinger.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Sharpshooter.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Pistolero.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Musketeer.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/High Roller.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gun-Ko Master.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gun Tank.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Deadeye Creed.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Big Game Hunter Creed.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gun Tank Creed.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gun-Ko Master Creed.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/High Roller Creed.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gunslinger.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/White Hat Creed.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Trick Shot Creed.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Spellslinger Creed.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Pistolero Creed.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Musketeer Creed.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Occultist/Occultist.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Craftsman/Trappers' Guild.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Craftsman/Thunderlords' Guild.md",
@@ -3125,7 +3289,6 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Dragon Knight/Platinum Practice.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Dragon Knight/Garden Practice.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Dragon Knight/Elemental Practice.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Warden/Elemental Soul.md",
     "3-Content/Rules",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/z_img/zealot-barbarian.webp",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/z_img/wild-sorcerer.webp",

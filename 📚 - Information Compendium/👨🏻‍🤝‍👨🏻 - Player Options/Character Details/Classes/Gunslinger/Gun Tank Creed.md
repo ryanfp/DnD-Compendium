@@ -6,7 +6,7 @@ tags:
   - ttrpg-cli/subclass/gunslinger/gun-tank
 aliases:
   - Gun Tank
-title: Gun Tank
+title: Gun Tank Creed
 ---
 # Gun Tank Creed
 *[Gunslinger](Gunslinger.md): Gunslinger's Creed*  

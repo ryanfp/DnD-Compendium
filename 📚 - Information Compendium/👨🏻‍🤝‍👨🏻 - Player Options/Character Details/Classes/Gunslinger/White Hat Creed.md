@@ -6,7 +6,7 @@ tags:
   - ttrpg-cli/subclass/gunslinger/white-hat
 aliases:
   - White Hat
-title: White Hat
+title: White Hat Creed
 ---
 # White Hat Creed
 *[Gunslinger](Gunslinger.md): Gunslinger's Creed*  
