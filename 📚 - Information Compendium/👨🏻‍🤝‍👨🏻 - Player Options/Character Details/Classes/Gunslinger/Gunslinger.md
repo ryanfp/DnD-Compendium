@@ -256,7 +256,7 @@ When you reach 19th level you can increase one ability score of your choice by 2
 If your DM allows the use of feats, you may instead take a feat.
 
 ### Head Shot (Level 20)
-
+CRITICAL STRIKE
 At 20th level, when you score a critical hit against a creature with a firearm, you can choose for the shot to be a head shot. If the creature has less than 100 hit points, it dies. Otherwise, it takes an extra `10d10` damage from the hit. Elementals, oozes, undead, and creatures that lack nervous systems or vital organs take no extra damage from this feature.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.

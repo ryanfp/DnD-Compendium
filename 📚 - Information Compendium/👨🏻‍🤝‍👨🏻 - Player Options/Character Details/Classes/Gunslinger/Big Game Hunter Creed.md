@@ -11,6 +11,7 @@ title: Deadeye Creed
 # Big Game Hunter Creed
 *[Gunslinger](Gunslinger.md): Gunslinger's Creed*  
 *Source: Valda's Spire of Secrets*  
+**2024 ADJUSTED**
 
 > [!tldr] Class and Feature Progression
 > 
@@ -24,15 +25,15 @@ title: Deadeye Creed
 > <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Elephant Gun (Level 3)' class='internal-link'>Elephant Gun</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Camouflage (Level 7)' class='internal-link'>Camouflage</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Tracker (Level 6)' class='internal-link'>Tracker</a>, <a href='#Barrel Stuff (Level 6)' class='internal-link'>Barrel Stuff</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Eye For Movement (Level 10)' class='internal-link'>Eye For Movement</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Legendary Shot (Level 10)' class='internal-link'>Legendary Shot</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Focused Shot (Level 14)' class='internal-link'>Focused Shot</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Exotic Caliber (Level 14)' class='internal-link'>Exotic Caliber</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -82,7 +83,7 @@ As you reach certain Gunslinger levels, the Elephant Gun’s damage changes, as 
 
 ### Broad Side of a Barn (Level 3)
 
-At 3rd level, you don’t have Disadvantage on attack rolls against Large or larger targets as a result of attacking at long range.
+At 3rd level, you don’t have Disadvantage on attack rolls against Large or larger targets as a result of attacking at long range. Additionally, when you reduce a creature to 0 hit points with your Elephant Gun, you regain one expended Risk Die
 
 ### Tracker (Level 6)
 
@@ -92,16 +93,22 @@ By 6th level, you excel at trailing your quarry, granting you the following bene
 
 ***Survival Expertise.*** You gain proficiency in the Survival skill and you gain Expertise with that skill.
 
+### Barrel Stuff (Level 6)
+
+At 6th level, when you make an attack against a creature within 5 feet of you using your Elephant Gun, you can choose to expend one risk die to maximize one damage die of the Elephant Gun. You may choose to expend an additional risk die, up to half the total die (rounded down), to maximize an additional damage die of the elephant gun for each subsequent time. For example, you may maximize 2 damage die of the Elephant Gun at 6th-10th level, and 3 damage die at 17th level and above.
+
+Additionally, when you make a ranged attack roll with a Firearm you’re proficient with, you don’t suffer disadvantage on the roll as a result of being within 5 feet of another hostile creature as long as they are a Large or larger target.
+
 ### Legendary Shot(Level 10)
 
 At 10th level, when a creature you can see within 80 feet of you takes a Legendary Action, you can take a Reaction to make an attack against it using your Elephant Gun. You can make this attack even if you’ve already made an attack using your Elephant Gun on your turn. On a hit, the Legendary Action is lost. Once you use this feature, you can’t do so again until you finish a Short or Long Rest.
 
-### Focused Shot (Level 14)
+### Exotic Caliber (Level 14)
 
 Starting at 14th level, you can take a Bonus Action to chamber your Elephant Gun with one of the following types of ammunition. Once you use this feature, you can’t use it again until you finish a Short or Long Rest. You can also restore your use of it by expending two Risk Dice (no action required). 
 
 ***Buck Shot.*** You load your Elephant Gun with dozens of lead pellets that scatter the next time the gun is fired. The attack becomes a 30-foot Cone. Each creature in the area makes a Dexterity saving throw against your Maneuver save DC, taking the Elephant Gun’s damage on a failed save, or half as much damage on a successful one. 
 
-***Explosive Shot.*** You load your Elephant Gun with a projectile that explodes the next time the gun is fired. The attack becomes an explosion. Choose a point you can see within 80 feet of you. Each creature within a 15-foot- diameter Sphere makes a Dexterity saving throw against your Maneuver save DC, taking Fire damage equal to the damage of your Elephant Gun on a failed save, or half as much damage on a successful one. 
+***Explosive Shot.*** You load your Elephant Gun with a projectile that explodes the next time the gun is fired. The attack becomes an explosion. Choose a point you can see within 80 feet of you. Each creature within a 15-foot diameter sphere makes a Dexterity saving throw against your Maneuver save DC, taking Fire damage equal to the damage of your Elephant Gun on a failed save, or half as much damage on a successful one. 
 
 ***Piercing Shot.*** You load your Elephant Gun with a conical projectile that penetrates through its target the next time the gun is fired. The attack becomes a 5-foot wide, 80-foot-long Line. Each creature in the area makes a Dexterity saving throw against your Maneuver save DC, taking the Elephant Gun’s damage on a failed save, or half as much damage on a successful one.
