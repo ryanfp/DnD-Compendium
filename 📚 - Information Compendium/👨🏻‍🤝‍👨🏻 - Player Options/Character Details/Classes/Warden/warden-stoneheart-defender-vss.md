@@ -8,7 +8,7 @@ aliases:
 - Stoneheart Defender
 ---
 # Stoneheart Defender
-*[Warden](./warden-vss.md): Champion's Call*  
+*[Warden](VSS%20Warden.md): Champion's Call*  
 *Source: Valda's Spire of Secrets*  
 
 > [!tldr] Class and Feature Progression

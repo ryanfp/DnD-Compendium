@@ -133,5 +133,8 @@
   "ITS@@ITS-Sidebar-Styling": "none",
   "obsidian-dynamic-outline@@hide-button-from-toolbar": false,
   "ITS@@hide-titlebar": false,
-  "ITS@@hide-status-bar": false
+  "ITS@@hide-status-bar": false,
+  "ITS@@tag-outline": true,
+  "ITS@@inactive@@dark": "#923C25",
+  "ITS@@tag-color@@dark": "#1CC300"
 }
