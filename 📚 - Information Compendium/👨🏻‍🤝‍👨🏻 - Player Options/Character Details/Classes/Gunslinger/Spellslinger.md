@@ -8,7 +8,7 @@ aliases:
   - Spellslinger
 title: Spellslinger
 ---
-# Spellslinger
+# Spellslinger Creed
 *[Gunslinger](Gunslinger.md): Gunslinger's Creed*  
 *Source: Valda's Spire of Secrets*  
 

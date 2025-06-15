@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Sharpshooter",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Sharpshooter.md"
+    },
+    {
+      "basename": "White Hat",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/White Hat.md"
+    },
+    {
+      "basename": "Trick Shot",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Trick Shot.md"
+    },
+    {
+      "basename": "Spellslinger",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Spellslinger.md"
+    },
+    {
+      "basename": "Pistolero",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Pistolero.md"
+    },
+    {
+      "basename": "Musketeer",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Musketeer.md"
+    },
+    {
+      "basename": "High Roller",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/High Roller.md"
+    },
+    {
+      "basename": "Gun-Ko Master",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gun-Ko Master.md"
+    },
+    {
+      "basename": "Gun Tank",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gun Tank.md"
+    },
+    {
+      "basename": "Gunslinger",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gunslinger.md"
+    },
+    {
       "basename": "Occultist",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Occultist/Occultist.md"
     },
@@ -59,42 +99,6 @@
     {
       "basename": "Elemental Practice",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Dragon Knight/Elemental Practice.md"
-    },
-    {
-      "basename": "White Hat",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/White Hat.md"
-    },
-    {
-      "basename": "Trick Shot",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Trick Shot.md"
-    },
-    {
-      "basename": "Spellslinger",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Spellslinger.md"
-    },
-    {
-      "basename": "Sharpshooter",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Sharpshooter.md"
-    },
-    {
-      "basename": "Pistolero",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Pistolero.md"
-    },
-    {
-      "basename": "Musketeer",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Musketeer.md"
-    },
-    {
-      "basename": "High Roller",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/High Roller.md"
-    },
-    {
-      "basename": "Gun Tank",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gun Tank.md"
-    },
-    {
-      "basename": "Gun-Ko Master",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gun-Ko Master.md"
     },
     {
       "basename": "Elemental Soul",
@@ -195,10 +199,6 @@
     {
       "basename": "Rift Hitter",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Pugilist/Rift Hitter.md"
-    },
-    {
-      "basename": "Relentless Revenant",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Pugilist/Relentless Revenant.md"
     }
   ],
   "omittedPaths": [],

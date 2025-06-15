@@ -8,7 +8,7 @@ aliases:
   - Gun-Ko Master
 title: Gun-Ko Master
 ---
-# Gun-Ko Master
+# Gun-Ko Master Creed
 *[Gunslinger](Gunslinger.md): Gunslinger's Creed*  
 *Source: Valda's Spire of Secrets*  
 

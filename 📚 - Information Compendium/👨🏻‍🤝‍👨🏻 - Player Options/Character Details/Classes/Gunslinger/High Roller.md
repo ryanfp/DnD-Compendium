@@ -8,7 +8,7 @@ aliases:
   - High Roller
 title: High Roller
 ---
-# High Roller
+# High Roller Creed
 *[Gunslinger](Gunslinger.md): Gunslinger's Creed*  
 *Source: Valda's Spire of Secrets*  
 

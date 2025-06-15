@@ -8,7 +8,7 @@ aliases:
   - Gun Tank
 title: Gun Tank
 ---
-# Gun Tank
+# Gun Tank Creed
 *[Gunslinger](Gunslinger.md): Gunslinger's Creed*  
 *Source: Valda's Spire of Secrets*  
 

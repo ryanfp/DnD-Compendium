@@ -8,7 +8,7 @@ aliases:
   - Sharpshooter
 title: Sharpshooter
 ---
-# Sharpshooter
+# Sharpshooter Creed
 *[Gunslinger](Gunslinger.md): Gunslinger's Creed*  
 *Source: Valda's Spire of Secrets*  
 

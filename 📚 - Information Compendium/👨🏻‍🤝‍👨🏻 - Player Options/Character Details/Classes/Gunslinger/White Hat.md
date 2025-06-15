@@ -8,7 +8,7 @@ aliases:
   - White Hat
 title: White Hat
 ---
-# White Hat
+# White Hat Creed
 *[Gunslinger](Gunslinger.md): Gunslinger's Creed*  
 *Source: Valda's Spire of Secrets*  
 

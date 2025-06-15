@@ -8,7 +8,7 @@ aliases:
   - Pistolero
 title: Pistolero
 ---
-# Pistolero
+# Pistolero Creed
 *[Gunslinger](Gunslinger.md): Gunslinger's Creed*  
 *Source: Valda's Spire of Secrets*  
 

@@ -14,29 +14,29 @@ aliases:
 > 
 > <table class="class-progression">
 > <thead>
-> <tr><th colspan='4'></th></tr>
-> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Risk Dice</th></tr>
+> <tr><th colspan='5'></th></tr>
+> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Risk Dice</th><th class="v">Weapon Mastery</th>
 > </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Fighting Style (Level 1)' class='internal-link'>Fighting Style</a>, <a href='#Quick Draw (Level 1)' class='internal-link'>Quick Draw</a></td><td class="value">⏤</td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Critical Shot (Level 2)' class='internal-link'>Critical Shot</a>, <a href='#Poker Face (Level 2)' class='internal-link'>Poker Face</a>, <a href='#Risk (Level 2)' class='internal-link'>Risk</a></td><td class="value">4d8</td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Gunslinger's Creed (Level 3)' class='internal-link'>Gunslinger's Creed</a></td><td class="value">4d8</td></tr>
-> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability Score Improvement (Level 4)' class='internal-link'>Ability Score Improvement</a></td><td class="value">4d8</td></tr>
-> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Extra Attack (Level 5)' class='internal-link'>Extra Attack</a></td><td class="value">4d8</td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Gut Shot (Level 6)' class='internal-link'>Gut Shot</a></td><td class="value">5d8</td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Gunslinger's Creed feature (Level 7)' class='internal-link'>Gunslinger's Creed feature</a>, <a href='#Evasion (Level 7)' class='internal-link'>Evasion</a></td><td class="value">5d8</td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability Score Improvement (Level 8)' class='internal-link'>Ability Score Improvement</a></td><td class="value">5d8</td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Critical Shot Improvement (Level 9)' class='internal-link'>Critical Shot Improvement</a></td><td class="value">5d8</td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Gunslinger's Creed feature (Level 10)' class='internal-link'>Gunslinger's Creed feature</a></td><td class="value">5d10</td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Mankiller (Level 11)' class='internal-link'>Mankiller</a></td><td class="value">5d10</td></tr>
-> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability Score Improvement (Level 12)' class='internal-link'>Ability Score Improvement</a></td><td class="value">5d10</td></tr>
-> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Dire Gambit (Level 13)' class='internal-link'>Dire Gambit</a></td><td class="value">5d10</td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Gunslinger's Creed feature (Level 14)' class='internal-link'>Gunslinger's Creed feature</a></td><td class="value">6d10</td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Cheat Death (Level 15)' class='internal-link'>Cheat Death</a></td><td class="value">6d10</td></tr>
-> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability Score Improvement (Level 16)' class='internal-link'>Ability Score Improvement</a></td><td class="value">6d10</td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Critical Shot Improvement (Level 17)' class='internal-link'>Critical Shot Improvement</a></td><td class="value">6d10</td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Maverick (Level 18)' class='internal-link'>Maverick</a></td><td class="value">6d12</td></tr>
-> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Ability Score Improvement (Level 19)' class='internal-link'>Ability Score Improvement</a></td><td class="value">6d12</td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Head Shot (Level 20)' class='internal-link'>Head Shot</a></td><td class="value">6d12</td></tr>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Fighting Style (Level 1)' class='internal-link'>Fighting Style</a>, <a href='#Quick Draw (Level 1)' class='internal-link'>Quick Draw</a>, <a href='#Weapon Mastery (Level 1)' class='internal-link'>Weapon Mastery</a>,</td><td class="value">⏤</td><td class="value">2</td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Critical Shot (Level 2)' class='internal-link'>Critical Shot</a>, <a href='#Poker Face (Level 2)' class='internal-link'>Poker Face</a>, <a href='#Risk (Level 2)' class='internal-link'>Risk</a></td><td class="value">4d8</td><td class="value">2</td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Gunslinger's Creed (Level 3)' class='internal-link'>Gunslinger's Creed</a>, <a href='#Feat (Level 3)' class='internal-link'>Feat</a></td><td class="value">4d8</td><td class="value">2</td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><td class="value">4d8</td><td class="value">3</td></tr>
+> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Extra Attack (Level 5)' class='internal-link'>Extra Attack</a></td><td class="value">4d8</td><td class="value">3</td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Gut Shot (Level 6)' class='internal-link'>Gut Shot</a></td><td class="value">5d8</td><td class="value">3</td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Gunslinger's Creed feature (Level 7)' class='internal-link'>Gunslinger's Creed feature</a>, <a href='#Evasion (Level 7)' class='internal-link'>Evasion</a></td><td class="value">5d8</td><td class="value">3</td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><td class="value">5d8</td><td class="value">3</td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Critical Shot Improvement (Level 9)' class='internal-link'>Critical Shot Improvement</a></td><td class="value">5d8</td><td class="value">3</td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Gunslinger's Creed feature (Level 10)' class='internal-link'>Gunslinger's Creed feature</a></td><td class="value">5d10</td><td class="value">4</td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Mankiller (Level 11)' class='internal-link'>Mankiller</a></td><td class="value">5d10</td><td class="value">4</td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><td class="value">5d10</td><td class="value">4</td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Dire Gambit (Level 13)' class='internal-link'>Dire Gambit</a></td><td class="value">5d10</td><td class="value">4</td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Gunslinger's Creed feature (Level 14)' class='internal-link'>Gunslinger's Creed feature</a></td><td class="value">6d10</td><td class="value">4</td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Cheat Death (Level 15)' class='internal-link'>Cheat Death</a></td><td class="value">6d10</td><td class="value">4</td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><td class="value">6d10</td><td class="value">4</td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Critical Shot Improvement (Level 17)' class='internal-link'>Critical Shot Improvement</a></td><td class="value">6d10</td><td class="value">4</td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Maverick (Level 18)' class='internal-link'>Maverick</a></td><td class="value">6d12</td><td class="value">4</td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><td class="value">6d12</td><td class="value">4</td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Head Shot (Level 20)' class='internal-link'>Head Shot</a></td><td class="value">6d12</td><td class="value">4</td></tr>
 > </tbody></table>
 
 ^class-progression
@@ -157,9 +157,25 @@ Once per turn, you can expend a risk die to perform a deed of your choice. Your 
 
 ### Gunslinger's Creed (Level 3)
 
-By the time gunslingers reach 3rd level, they embrace a way of living, known as their creed, which guides their judgments and their unique brand of gunslinging. Your choice grants you features at 3rd level and again at 7th, 10th, and 14th level.
+By the time gunslingers reach 3rd level, they embrace a way of living, known as their creed, which guides their judgments and their unique brand of gunslinging. You walk the path of one of the following creeds:
+- [[Big Game Hunter Creed]]
+- [[Covert Operative Creed]]
+- [[Deadeye Creed]]
+- [[Grenadier Creed]]
+- [[Gun Tank Creed]]
+- [[Gun-Ko Master Creed]]
+- [[High Roller Creed]]
+- [[Laserist Creed]]
+- [[Musketeer Creed]]
+- [[Pistolero Creed]]
+- [[Space Cowboy Creed]]
+- [[Spellslinger Creed]]
+- [[Trick Shot Creed]]
+- [[White Hat Creed]]
 
-### Ability Score Improvement (Level 4)
+Your choice grants you features at 3rd level and again at 7th, 10th, and 14th level.
+
+### Feat (Level 3)
 
 When you reach 4th level you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
