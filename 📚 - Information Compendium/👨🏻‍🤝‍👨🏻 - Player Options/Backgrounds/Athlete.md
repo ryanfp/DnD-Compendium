@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/mot
+  - background
+  - compendium/src/5e/mot
 aliases:
-- Athlete
+  - Athlete
+title: Athlete
 ---
 # Athlete
 *Source: Mythic Odysseys of Theros p. 31*  
-![](/📚%20-%20Information%20Compendium/backgrounds/img/athlete.webp#right)
+![[athlete.webp#right|600]]
 
 - **Skill Proficiencies.** [[Acrobatics]], [[Athletics]]  
 - **Languages.** One of your choice  

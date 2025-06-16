@@ -10,6 +10,6 @@ Test
 Heading
 
 Heading
-Heading
+![[Heading]]
 
 >  tR = ![[“>${tp.file.selection()}<“]]

@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/xphb
+  - background
+  - compendium/src/5e/xphb
 aliases:
-- Artisan
+  - Artisan
+title: Artisan
 ---
 # Artisan
 *Source: Player's Handbook (2024) p. 179*  

@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/egw
+  - background
+  - compendium/src/5e/egw
 aliases:
-- Augen Trust (Spy)
+  - Augen Trust (Spy)
+title: Augen Trust (Spy)
 ---
 # Augen Trust (Spy)
 *Source: Explorer's Guide to Wildemount p. 203*  
 
 
-- **Skill Proficiencies.** [Deception](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Deception), [Stealth](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Stealth)  
-- **Tool Proficiencies.** One type of gaming set, [thieves' tools](/📚%20-%20Information%20Compendium/items/thieves-tools.md)  
-- **Equipment.** A [crowbar](/📚%20-%20Information%20Compendium/items/crowbar.md), a set of dark [common clothes](/📚%20-%20Information%20Compendium/items/common-clothes.md) including a hood, and a belt [pouch](/📚%20-%20Information%20Compendium/items/pouch.md) containing 15 gp  
+- **Skill Proficiencies.** [[Deception]], [[Stealth]]  
+- **Tool Proficiencies.** One type of gaming set, [[thieves' tools]]  
+- **Equipment.** A [[crowbar]], a set of dark [[common clothes]] including a hood, and a belt [[pouch]] containing 15 gp  
 
 Little is known about the Augen Trust, even within the court of the Dwendalian Empire. Only one person knows all the members of this elite network of imperial spies: its leader, Oliver Schreiber, a noble gnome with the ear of King Dwendal.
 

@@ -10,7 +10,7 @@ title: Apprentice Witch
 ---
 # Apprentice Witch
 *Source: Obojima: Tales from the Tall Grass p. 154*  
-![](/📚%20-%20Information%20Compendium/backgrounds/img/witch-hat.webp#right)
+![[witch-hat.webp#right|800]]
 
 - **Skill Proficiencies.** Arcana, Survival  
 - **Tool Proficiencies.** Alchemist's supplies  

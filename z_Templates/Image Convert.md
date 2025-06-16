@@ -1,5 +1,1 @@
-<%*
-tR = ![[`${tp.file.selection()}`]]
--%>
-
-`INPUT[text:exampleProperty]`
+![[<% tp.file.selection() %>]]
