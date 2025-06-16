@@ -22,12 +22,6 @@
       "mode": "any"
     },
     {
-      "id": "markdown:add-metadata-property",
-      "icon": "lucide-plus-circle",
-      "name": "Add file property",
-      "mode": "any"
-    },
-    {
       "id": "templater-obsidian:insert-templater",
       "icon": "templater-icon",
       "name": "Insert template modal",
@@ -45,6 +39,12 @@
       "id": "smart-rename:smart-rename",
       "icon": "lucide-a-arrow-up",
       "name": "Smart Rename",
+      "mode": "any"
+    },
+    {
+      "id": "workspace:copy-path",
+      "icon": "lucide-copy",
+      "name": "Copy file path",
       "mode": "any"
     }
   ],

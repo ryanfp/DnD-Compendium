@@ -1,0 +1,46 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-spell
+tags:
+- compendium/src/5e/phb
+- spell/class/artificer
+- spell/class/bard
+- spell/class/cleric
+- spell/class/druid
+- spell/class/wizard
+- spell/level/2nd-level
+- spell/school/evocation
+- spell/subclass/arcane-trickster
+- spell/subclass/college-of-lore
+- spell/subclass/divine-soul
+- spell/subclass/eldritch-knight
+- spell/subclass/evoker
+- spell/subrace/human-mark-of-making
+classes:
+- Artificer
+- Bard
+- Bard (College of Lore)
+- Cleric
+- Druid
+- Fighter (Eldritch Knight)
+- Rogue (Arcane Trickster)
+- Sorcerer (Divine Soul)
+- Wizard
+- Wizard (Evoker)
+aliases:
+- Continual Flame
+---
+# Continual Flame
+*2nd-level, Evocation*  
+
+
+- **Casting time:** 1 Action
+- **Range:** Touch
+- **Components:** V, S, M (ruby dust worth 50 gp, which the spell consumes)
+- **Duration:** Until dispelled
+
+A flame, equivalent in brightness to a torch, springs forth from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn't use oxygen. A continual flame can be covered or hidden but not smothered or quenched.
+
+**Classes**: [Sorcerer (Divine Soul)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Wizard](/📚%20-%20Information%20Compendium/lists/list-spells-classes-wizard.md); [Bard](/📚%20-%20Information%20Compendium/lists/list-spells-classes-bard.md); [Druid](/📚%20-%20Information%20Compendium/lists/list-spells-classes-druid.md); [Rogue (Arcane Trickster)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Artificer](/📚%20-%20Information%20Compendium/lists/list-spells-classes-artificer.md); [Fighter (Eldritch Knight)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer (Divine Soul)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/📚%20-%20Information%20Compendium/lists/list-spells-classes-cleric.md); [Wizard (Evoker)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-eldritch-knight.md)
+
+*Source: Player's Handbook p. 227. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

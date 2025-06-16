@@ -1,0 +1,33 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-spell
+tags:
+- compendium/src/5e/spellsthatdontsuck
+- spell/level/6th-level
+- spell/school/transmutation
+aliases:
+- Martial Transformation
+---
+# Martial Transformation
+*6th-level, Transmutation*  
+
+
+- **Casting time:** 1 Action
+- **Range:** Self
+- **Components:** V, S, M (a small statuette of a warrior)
+- **Duration:** 10 minutes
+
+**Replaces:** Tenser's Transformation
+
+You empower yourself with the physical prowess and battle knowledge of famous warriors. Until the spell ends, you can't cast spells or concentrate on them, and you gain the following benefits:
+
+- You gain 50 temporary hit points for the duration.  
+- You have advantage on attack rolls that you make with simple and martial weapons.  
+- You have advantage on all weapon attacks, and when you hit a target with a weapon attack, it takes an extra `2d12` force damage.  
+- You have proficiency in all armor, shields, simple weapons, martial weapons, and with Strength and Constitution saving throws.  
+- You can attack twice, instead of once, when you take the Attack action on your turn, unless you already have a feature (such as Extra Attack) which gives you extra attacks.  
+- You can conjure and equip (as part of the action used to cast the spell) any armor and any simple or martial weapon of your choice. These items have no strength requirements and are magical in nature, but otherwise have the same properties as their nonmagical counterparts. The equipment vanishes when the spell ends.  
+
+Immediately after the spell ends, you must succeed on a DC 15 Constitution saving throw or suffer one level of exhaustion. You can end the spell as a bonus action.
+
+*Source: Spells That Don't Suck p. 29*

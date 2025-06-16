@@ -18,6 +18,324 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":7},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "Image Convert",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Image Convert.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Image Convert\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":3},\"to\":{\"line\":2,\"ch\":3}}}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
+                },
+                {
+                  "title": "Image Convert",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Image Convert.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Image Convert\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":12},\"to\":{\"line\":8,\"ch\":12}}}"
+                },
+                {
+                  "title": "Image Convert",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Image Convert.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Image Convert\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "title": "Insert Infobox - Left",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Infobox - Left.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Insert Infobox - Left\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Insert Fancy Quote",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Fancy Quote.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Insert Fancy Quote\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Insert Caption",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Caption.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Insert Caption\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Format YouTube Link",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Format YouTube Link.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Format YouTube Link\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Edit Metadata",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Edit Metadata.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Edit Metadata\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Basic Callout Selecter",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Basic Callout Selecter.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Basic Callout Selecter\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Image Convert",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Image Convert.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Apprentice Witch",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice Witch.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Apprentice Witch\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":76},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "Amnesiac",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Amnesiac.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Amnesiac\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "acolyte-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/acolyte-xphb.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"acolyte-xphb\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Acolyte",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Acolyte.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Acolyte\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Apprentice of AHA",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice of AHA.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Apprentice of AHA\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Apprentice Diver",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice Diver.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Apprentice Diver\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Apprentice of AHA",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice of AHA.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"apprentice-of-aha-obojimatallgrass\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Apprentice Diver",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice Diver.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"apprentice-diver-obojimatallgrass\"}",
+                  "eState": "{\"scroll\":7.68668281425864}"
+                },
+                {
+                  "title": "Amnesiac",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Amnesiac.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"amnesiac-sgtteh\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "acolyte-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/acolyte-xphb.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"acolyte-xphb\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Acolyte",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Acolyte.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"acolyte\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Amnesiac",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Amnesiac.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"amnesiac-sgtteh\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Apprentice Diver",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice Diver.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"apprentice-diver-obojimatallgrass\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Apprentice Witch",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice Witch.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"apprentice-witch-obojimatallgrass\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Apprentice of AHA",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice of AHA.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"apprentice-of-aha-obojimatallgrass\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Apprentice Witch",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice Witch.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"apprentice-witch-obojimatallgrass\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "ashari-tdcsr",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/ashari-tdcsr.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"ashari-tdcsr\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "artisan-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/artisan-xphb.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"artisan-xphb\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":15},\"to\":{\"line\":11,\"ch\":15}}}"
+                },
+                {
+                  "title": "ashari-tdcsr",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/ashari-tdcsr.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"ashari-tdcsr\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "athlete-mot",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/athlete-mot.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"athlete-mot\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":73},\"to\":{\"line\":11,\"ch\":55}},\"scroll\":0}"
+                },
+                {
+                  "title": "ashari-tdcsr",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/ashari-tdcsr.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"ashari-tdcsr\"}",
+                  "eState": "{\"scroll\":68.66283569335937}"
+                },
+                {
+                  "title": "artisan-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/artisan-xphb.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"artisan-xphb\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Apprentice Witch",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice Witch.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"apprentice-witch-obojimatallgrass\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Acolyte",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Acolyte.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"acolyte\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "acolyte-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/acolyte-xphb.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"acolyte-xphb\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Amnesiac",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Amnesiac.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"amnesiac-sgtteh\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Apprentice Diver",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice Diver.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"apprentice-diver-obojimatallgrass\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Apprentice of AHA",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice of AHA.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"apprentice-of-aha-obojimatallgrass\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Apprentice Diver",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice Diver.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"apprentice-diver-obojimatallgrass\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Apprentice of AHA",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice of AHA.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"apprentice-of-aha-obojimatallgrass\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "acolyte-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/acolyte-xphb.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"acolyte-xphb\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Apprentice Diver",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice Diver.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"apprentice-diver-obojimatallgrass\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Amnesiac",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Amnesiac.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"amnesiac-sgtteh\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":50},\"to\":{\"line\":30,\"ch\":0}},\"scroll\":32.861440229856115}"
+                },
+                {
+                  "title": "acolyte-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/acolyte-xphb.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"acolyte-xphb\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":145},\"to\":{\"line\":10,\"ch\":145}}}"
+                },
+                {
+                  "title": "acolyte",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/z_img/acolyte.webp\"},\"icon\":\"lucide-image\",\"title\":\"acolyte\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "acolyte-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/acolyte-xphb.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"acolyte-xphb\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "acolyte",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/z_img/acolyte.webp\"},\"icon\":\"lucide-image\",\"title\":\"acolyte\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "acolyte-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/acolyte-xphb.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"acolyte-xphb\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Acolyte",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Acolyte.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"acolyte\"}",
+                  "eState": "{\"scroll\":20.08460304953835}"
+                },
+                {
+                  "title": "👹 - Bestiary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👹 - Bestiary/👹 - Bestiary.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"👹 - Bestiary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
                   "title": "Sanguine Chapter",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Jaeger/Sanguine Chapter.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sanguine Chapter\"}",
@@ -1678,13 +1996,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 - Information Compendium/👹 - Bestiary/👹 - Bestiary.md",
+                "file": "z_Templates/Image Convert.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "👹 - Bestiary"
+              "title": "Image Convert"
             }
           },
           {
@@ -2138,53 +2456,53 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "fcaa59025a7544d2",
+  "active": "3a73ca7b9dac80c9",
   "lastOpenFiles": [
-    "📚 - Information Compendium/Spells/img/yolandes-regal-presence.webp",
-    "📚 - Information Compendium/Spells/img/water-breathing.webp",
-    "📚 - Information Compendium/Spells/img/wall-of-death.webp",
-    "📚 - Information Compendium/Spells/img/tensers-floating-disk.webp",
-    "📚 - Information Compendium/Spells/img/summon-fey.webp",
-    "📚 - Information Compendium/Spells/img/summon-aberration.webp",
-    "📚 - Information Compendium/Spells/img/stellar-bodies.webp",
-    "📚 - Information Compendium/Spells/img/spiritual-weapon.webp",
-    "📚 - Information Compendium/Spells/img/speak-with-animals.webp",
-    "📚 - Information Compendium/Spells/img/scrying.webp",
-    "📚 - Information Compendium/Spells/img/rimes-binding-ice.webp",
-    "📚 - Information Compendium/Spells/img",
-    "📚 - Information Compendium/Spells/Skull Servant.md",
-    "📚 - Information Compendium/Spells",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/skills.md",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/senses.md",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/item-types.md",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/item-properties.md",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/item-mastery.md",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/diseases.md",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/damage-types.md",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/actions.md",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/variant-rules/img",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/variant-rules/weapon-xphb.md",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/variant-rules/weapon-options-toh.md",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/variant-rules/weapon-mastery-properties-xphb.md",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/variant-rules/weapon-attack-xphb.md",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/variant-rules/weak-to-madness-sgtteh.md",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/variant-rules/wands-that-dont-recharge.md",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/variant-rules/wands-as-weapons-foequickstone.md",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/variant-rules/vulnerability-xphb.md",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/variant-rules/vehicles-in-crystalpunk-ccg.md",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/variant-rules/using-weapon-upgrades-ccg.md",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/variant-rules/unoccupied-space-xphb.md",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/variant-rules/unarmed-strike-xphb.md",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/variant-rules/tying-knots-xge.md",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/variant-rules/traveling-with-style-skill-challenges-tws-sc.md",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/variant-rules/tool-proficiencies-xge.md",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/variant-rules/temporary-hit-points-xphb.md",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/variant-rules",
-    "📚 - Information Compendium/👹 - Bestiary",
-    "3-Content/Rules",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/z_img",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/img",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Vessel",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/New folder"
+    "Untitled.md",
+    "z_Templates/Image Convert.md",
+    "z_Templates/Insert Infobox - Left.md",
+    "z_Templates/Insert Fancy Quote.md",
+    "z_Templates/Insert Caption.md",
+    "z_Templates/Format YouTube Link.md",
+    "z_Templates/Edit Metadata.md",
+    "z_Templates/Basic Callout Selecter.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice Witch.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Amnesiac.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/acolyte-xphb.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Acolyte.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice of AHA.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice Diver.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/ashari-tdcsr.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/artisan-xphb.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/athlete-mot.md",
+    "📚 - Information Compendium/books/the-illrigger-revised/img/011-00-012-glowing-scroll.webp",
+    "📚 - Information Compendium/books/the-illrigger-revised/img/013-00-014-deceiver-retainer.webp",
+    "📚 - Information Compendium/books/the-illrigger-revised/img/005-00-011-skull-amulet.webp",
+    "📚 - Information Compendium/books/the-illrigger-revised/img/002-00-003-victory.webp",
+    "📚 - Information Compendium/books/the-illrigger-revised/img/001-00-002-battle.webp",
+    "📚 - Information Compendium/books/the-illrigger-revised/img",
+    "📚 - Information Compendium/books/the-illrigger-revised/1-the-illrigger-revised.md",
+    "📚 - Information Compendium/books/the-illrigger-revised",
+    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-hunt-field-notes/img/15.webp",
+    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-hunt-field-notes/img/12.webp",
+    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-hunt-field-notes/img",
+    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-hunt-field-notes/1-notes.md",
+    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-hunt-field-notes",
+    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-gm-cheatbook/img/00911.webp",
+    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-gm-cheatbook/img/00854.webp",
+    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-gm-cheatbook/img/00630.webp",
+    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-gm-cheatbook/img",
+    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-gm-cheatbook/6-credits.md",
+    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-gm-cheatbook/4-steinhardts-villain-guide.md",
+    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-gm-cheatbook/5-steinhardts-combat-guide.md",
+    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-gm-cheatbook/3-steinhardts-horror-guide.md",
+    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-gm-cheatbook/2-foreword.md",
+    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-gm-cheatbook/1-cover.md",
+    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-gm-cheatbook",
+    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-eldritch-moons-deck/img",
+    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-eldritch-moons-deck/1-deck.md",
+    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-eldritch-moons-deck",
+    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-character-sheets/img",
+    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-character-sheets"
   ]
 }

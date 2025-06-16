@@ -1,0 +1,26 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-spell
+tags:
+- compendium/src/5e/kibblesgenericelementalspells
+- spell/level/4th-level
+- spell/school/transmutation
+aliases:
+- Suffocate
+---
+# Suffocate
+*4th-level, Transmutation*  
+
+
+- **Casting time:** 1 Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
+
+You create a whirling sphere of air around a creature that causes them to struggle to breathe. The target must make a Constitution saving throw. On a failure, the target loses `5d8` hit points due to lack of air, has disadvantage on all ability checks, and cannot speak. On a success, the target takes half as much damage and suffers no other effects. For the duration, as an action, you can force the creature to make a saving throw against the ability again.
+
+If a target fails their saving throw against this spell 3 times in a row, they become incapacitated until they succeed on a save or the spell ends. If you don't use your action to force the target to make a save, it counts as a success.
+
+A creature that does not need to breathe is unaffected by this spell.
+
+*Source: Kibbles' Generic Elemental Spells p. 22*

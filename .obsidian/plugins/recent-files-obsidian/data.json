@@ -1,200 +1,80 @@
 {
   "recentFiles": [
     {
+      "basename": "Image Convert",
+      "path": "z_Templates/Image Convert.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "Insert Infobox - Left",
+      "path": "z_Templates/Insert Infobox - Left.md"
+    },
+    {
+      "basename": "Insert Fancy Quote",
+      "path": "z_Templates/Insert Fancy Quote.md"
+    },
+    {
+      "basename": "Insert Caption",
+      "path": "z_Templates/Insert Caption.md"
+    },
+    {
+      "basename": "Format YouTube Link",
+      "path": "z_Templates/Format YouTube Link.md"
+    },
+    {
+      "basename": "Edit Metadata",
+      "path": "z_Templates/Edit Metadata.md"
+    },
+    {
+      "basename": "Basic Callout Selecter",
+      "path": "z_Templates/Basic Callout Selecter.md"
+    },
+    {
+      "basename": "Apprentice Witch",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice Witch.md"
+    },
+    {
+      "basename": "Amnesiac",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Amnesiac.md"
+    },
+    {
+      "basename": "acolyte-xphb",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/acolyte-xphb.md"
+    },
+    {
+      "basename": "Acolyte",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Acolyte.md"
+    },
+    {
+      "basename": "Apprentice of AHA",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice of AHA.md"
+    },
+    {
+      "basename": "Apprentice Diver",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice Diver.md"
+    },
+    {
+      "basename": "ashari-tdcsr",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/ashari-tdcsr.md"
+    },
+    {
+      "basename": "artisan-xphb",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/artisan-xphb.md"
+    },
+    {
+      "basename": "athlete-mot",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/athlete-mot.md"
+    },
+    {
+      "basename": "acolyte",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/z_img/acolyte.webp"
+    },
+    {
       "basename": "👹 - Bestiary",
       "path": "📚 - Information Compendium/👹 - Bestiary/👹 - Bestiary.md"
-    },
-    {
-      "basename": "Sanguine Chapter",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Jaeger/Sanguine Chapter.md"
-    },
-    {
-      "basename": "Gunslinger",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gunslinger.md"
-    },
-    {
-      "basename": "Big Game Hunter Creed",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Big Game Hunter Creed.md"
-    },
-    {
-      "basename": "Deadeye Creed",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Deadeye Creed.md"
-    },
-    {
-      "basename": "Gun Tank Creed",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gun Tank Creed.md"
-    },
-    {
-      "basename": "Gun-Ko Master Creed",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gun-Ko Master Creed.md"
-    },
-    {
-      "basename": "High Roller Creed",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/High Roller Creed.md"
-    },
-    {
-      "basename": "White Hat Creed",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/White Hat Creed.md"
-    },
-    {
-      "basename": "Trick Shot Creed",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Trick Shot Creed.md"
-    },
-    {
-      "basename": "Spellslinger Creed",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Spellslinger Creed.md"
-    },
-    {
-      "basename": "Pistolero Creed",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Pistolero Creed.md"
-    },
-    {
-      "basename": "Musketeer Creed",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Musketeer Creed.md"
-    },
-    {
-      "basename": "Occultist",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Occultist/Occultist.md"
-    },
-    {
-      "basename": "Trappers' Guild",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Craftsman/Trappers' Guild.md"
-    },
-    {
-      "basename": "Thunderlords' Guild",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Craftsman/Thunderlords' Guild.md"
-    },
-    {
-      "basename": "Mechanauts' Guild",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Craftsman/Mechanauts' Guild.md"
-    },
-    {
-      "basename": "Forgeknights' Guild",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Craftsman/Forgeknights' Guild.md"
-    },
-    {
-      "basename": "Calibarons' Guild",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Craftsman/Calibarons' Guild.md"
-    },
-    {
-      "basename": "Bladeworkers' Guild",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Craftsman/Bladeworkers' Guild.md"
-    },
-    {
-      "basename": "Armigers' Guild",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Craftsman/Armigers' Guild.md"
-    },
-    {
-      "basename": "Arcane Maesters' Guild",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Craftsman/Arcane Maesters' Guild.md"
-    },
-    {
-      "basename": "Valiant Practice",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Dragon Knight/Valiant Practice.md"
-    },
-    {
-      "basename": "Shadow Practice",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Dragon Knight/Shadow Practice.md"
-    },
-    {
-      "basename": "Rider Practice",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Dragon Knight/Rider Practice.md"
-    },
-    {
-      "basename": "Platinum Practice",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Dragon Knight/Platinum Practice.md"
-    },
-    {
-      "basename": "Garden Practice",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Dragon Knight/Garden Practice.md"
-    },
-    {
-      "basename": "Elemental Practice",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Dragon Knight/Elemental Practice.md"
-    },
-    {
-      "basename": "Elemental Soul",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Warden/Elemental Soul.md"
-    },
-    {
-      "basename": "Elderheart",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Warden/Elderheart.md"
-    },
-    {
-      "basename": "Dreadwing",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Warden/Dreadwing.md"
-    },
-    {
-      "basename": "Ironbound",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Warden/Ironbound.md"
-    },
-    {
-      "basename": "Stoneblood",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Warden/Stoneblood.md"
-    },
-    {
-      "basename": "Sunwatcher",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Warden/Sunwatcher.md"
-    },
-    {
-      "basename": "Timetwister",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Warden/Timetwister.md"
-    },
-    {
-      "basename": "Bone Binder",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Warden/Bone Binder.md"
-    },
-    {
-      "basename": "Beasthide",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Warden/Beasthide.md"
-    },
-    {
-      "basename": "Astral Guardian",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Warden/Astral Guardian.md"
-    },
-    {
-      "basename": "VSS Warden",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Warden/VSS Warden.md"
-    },
-    {
-      "basename": "Warden",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Warden/Warden.md"
-    },
-    {
-      "basename": "Wyrmbound",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Shaman/Wyrmbound.md"
-    },
-    {
-      "basename": "Wild Heart",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Shaman/Wild Heart.md"
-    },
-    {
-      "basename": "Witch Doctor",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Shaman/Witch Doctor.md"
-    },
-    {
-      "basename": "Spirit Warrior",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Shaman/Spirit Warrior.md"
-    },
-    {
-      "basename": "Spirit Guide",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Shaman/Spirit Guide.md"
-    },
-    {
-      "basename": "Shaman",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Shaman/Shaman.md"
-    },
-    {
-      "basename": "Idolater",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Shaman/Idolater.md"
-    },
-    {
-      "basename": "Far Seer",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Shaman/Far Seer.md"
-    },
-    {
-      "basename": "Elementalist",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Shaman/Elementalist.md"
     }
   ],
   "omittedPaths": [],

@@ -1,0 +1,23 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-spell
+tags:
+- compendium/src/5e/valdaplayerpack
+- spell/feat/coven-witch
+- spell/level/1st-level
+- spell/school/transmutation
+aliases:
+- Delay
+---
+# Delay
+*1st-level, Transmutation*  
+
+
+- **Casting time:** 1 Action
+- **Range:** 60 feet
+- **Components:** V, S, M (an octagonal sign)
+- **Duration:** Instantaneous
+
+You briefly slow time for a creature of your choice that you can see within range. The target must succeed on a Wisdom saving throw or be moved to last place in the <span title="Player's Handbook (2024)">Initiative</span> order from the start of the next round onwards.
+
+*Source: Valda's Spire of Secrets: Player Pack*
