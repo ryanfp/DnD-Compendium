@@ -1,19 +1,21 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+  - json5e-background
 tags:
-- background
-- compendium/src/5e/phb
+  - background
+  - compendium/src/5e/phb
 aliases:
-- Entertainer (Gladiator) (Variant)
+  - Entertainer (Gladiator) (Variant)
+  - entertainer-gladiator-variant
 ---
-# Entertainer (Gladiator) (Variant)
+# Gladiator
 *Source: Player's Handbook p. 131*  
 
 
-- **Skill Proficiencies.** [Acrobatics](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Acrobatics), [Performance](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Performance)  
-- **Tool Proficiencies.** [Disguise kit](/📚%20-%20Information%20Compendium/items/disguise-kit.md), one type of musical instrument  
-- **Equipment.** An inexpensive but unusual weapon, such as a [trident](/📚%20-%20Information%20Compendium/items/trident.md) or [net](/📚%20-%20Information%20Compendium/items/net.md) (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), [costume clothes](/📚%20-%20Information%20Compendium/items/costume-clothes.md), and a belt [pouch](/📚%20-%20Information%20Compendium/items/pouch.md) containing 15 gp  
+- **Skill Proficiencies.** [[Acrobatics]], [[Performance]]  
+- **Tool Proficiencies.** [[Disguise kit]], one type of musical instrument  
+- **Equipment.** An inexpensive but unusual weapon, such as a [[trident]] or [[net]] (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), [[costume clothes]], and a belt [[pouch]] containing 15 gp  
 
 A gladiator is as much an entertainer as any minstrel or circus performer, trained to make the arts of combat into a spectacle the crowd can enjoy. This kind of flashy combat is your entertainer routine, though you might also have some skills as a tumbler or actor. Using your By Popular Demand feature, you can find a place to perform in any place that features combat for entertainment–perhaps a gladiatorial arena or secret pit fighting club. You can replace the musical instrument in your equipment package with an inexpensive but unusual weapon, such as a trident or net.
 
@@ -25,7 +27,7 @@ You can always find a place to perform in any place that features combat for ent
 
 A good entertainer is versatile, spicing up every performance with a variety of different routines. Choose one to three routines or roll on the table below to define your expertise as an entertainer.
 
-`dice: [](entertainer-gladiator-variant.md#^routines)`
+`dice: [](Gladiator#^routines)`
 
 | dice: d10 | Routines |
 |-----------|----------|
@@ -45,7 +47,7 @@ A good entertainer is versatile, spicing up every performance with a variety of 
 
 Successful entertainers have to be able to capture and hold an audience's attention, so they tend to have flamboyant or forceful personalities. They're inclined toward the romantic and often cling to high-minded ideals about the practice of art and the appreciation of beauty.
 
-`dice: [](entertainer-gladiator-variant.md#^personality-trait)`
+`dice: [](Gladiator.md#^personality-trait)`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
@@ -59,7 +61,7 @@ Successful entertainers have to be able to capture and hold an audience's attent
 | 8 | I change my mood or my mind as quickly as I change key in a song. |
 ^personality-trait
 
-`dice: [](entertainer-gladiator-variant.md#^ideal)`
+`dice: [](Gladiator.md#^ideal)`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -71,7 +73,7 @@ Successful entertainers have to be able to capture and hold an audience's attent
 | 6 | Honesty. Art should reflect the soul; it should come from within and reveal who we really are. (Any) |
 ^ideal
 
-`dice: [](entertainer-gladiator-variant.md#^bond)`
+`dice: [](Gladiator.md#^bond)`
 
 | dice: d6 | Bond |
 |----------|------|
@@ -83,7 +85,7 @@ Successful entertainers have to be able to capture and hold an audience's attent
 | 6 | I would do anything for the other members of my old troupe. |
 ^bond
 
-`dice: [](entertainer-gladiator-variant.md#^flaw)`
+`dice: [](Gladiator.md#^flaw)`
 
 | dice: d6 | Flaw |
 |----------|------|

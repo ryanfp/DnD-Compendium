@@ -18,7 +18,7 @@ title: Index of Backgrounds
 - [Desert Runner](Desert%20Runner.md)
 - [Destined](Destined.md)
 - [Diplomat](Diplomat.md)
-- [Disciple](disciple-sgtteh.md)
+- [disciple-sgtteh](Disciple.md)
 - [Dragonmarked Bravo](dragonmarked-bravo-foequickstone.md)
 - [Dragonmarked Foundling](dragonmarked-foundling-foequickstone.md)
 - [Dragonmarked Scion](dragonmarked-scion-foequickstone.md)

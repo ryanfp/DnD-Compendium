@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/sgtteh
+  - background
+  - compendium/src/5e/sgtteh
 aliases:
-- Disciple
+  - Disciple
+  - disciple-sgtteh
+title: Disciple
 ---
 # Disciple
 *Source: Steinhardt's Guide to the Eldritch Hunt p. 177*  

@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+  - json5e-background
 tags:
-- background
-- compendium/src/5e/foequickstone
+  - background
+  - compendium/src/5e/foequickstone
 aliases:
-- Dragonmarked Scion
+  - Dragonmarked Scion
 ---
 # Dragonmarked Scion
 *Source: Frontiers of Eberron: Quickstone p. 156*  

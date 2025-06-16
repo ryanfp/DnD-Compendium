@@ -28,7 +28,7 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
 
 To determine the nature of your scholarly training, roll a d8 or choose from the options in the table below.
 
-`dice: [](cobalt-scholar-sage-egw.md#^field-of-study)`
+`dice: [](Cobalt Scholar (Sage).md#^field-of-study)`
 
 | dice: d8 | Field of Study |
 |----------|----------------|
