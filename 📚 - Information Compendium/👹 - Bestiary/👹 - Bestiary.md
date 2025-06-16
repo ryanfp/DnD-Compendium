@@ -17,6 +17,8 @@ homebrew/class/LaserLlama; Alternate Rogue.json,
 homebrew/class/LaserLlama; Alternate Sorcerer.json,
 homebrew/class/LaserLlama; Alternate Warlock.json,
 
+
+
 homebrew/class/Mage Hand Press; Gunslinger.json,
 homebrew/class/MCDM Productions; The Illrigger Revised.json,
 homebrew/collection/QL Games; Tasha's Crucible of Everything Else - Volume 1.json,
@@ -64,3 +66,31 @@ homebrew/variantrule/Bovenbrew; Bovenbrew Weapon Arts.json,
 homebrew/variantrule/Coal; RevisedShortRest.json,
 homebrew/variantrule/Dael Kingsmill; Thieves' Cant.json,
 homebrew/variantrule/James Haeck; Traveling with Style Skill Challenges.json
+
+homebrew/collection/Sterling Vermin Adventuring Co.; The Ultimate Adventurer's Handbook.json,
+
+
+
+homebrew/collection/Andrew Welker; Tasha's Crucible of Everything Else vol 2.json,
+homebrew/creature/Foxfire94; Eighteen Sons of The Lightning Lord.json,
+homebrew/creature/Frog God Games; Fifth Edition Foes.json,
+homebrew/creature/Goblin Punch; The False Hydra.json,
+homebrew/creature/LaserLlama; Compendium of Beasts.json,
+homebrew/creature/MCDM Productions; Flee Mortals!.json,
+homebrew/feat/badooga; Feats for Skills.json,
+homebrew/feat/KibblesTasty; Feats for Faiths.json,
+homebrew/feat/KibblesTasty; Kibbles' Active Martial Feats.json,
+homebrew/item/Yonael; Firearms of the Realm.json,
+homebrew/item/Frog God Games; Bard's Gate.json,
+homebrew/optionalfeature/laserllama; Laserllama's Exploit Compendium.json,
+homebrew/spell/Craios125; Evolving Cantrips.json,
+
+homebrew/spell/KibblesTasty; Kibbles' Casting Compendium.json,
+homebrew/spell/KibblesTasty; Kibbles' Generic Elemental Spells.json,
+
+homebrew/spell/KibblesTasty; Summoning Spells.json,
+homebrew/spell/LaserLlama; Laserllama's Spell Compendium.json
+
+homebrew/spell/somanyrobots Omega Ankh; Spells That Don't Suck.json,
+homebrew/subclass/Ghostfire Gaming; Artificer Subclasses.json,
+homebrew/subclass/Mage Hand Press; Gunslinger Extras.json
