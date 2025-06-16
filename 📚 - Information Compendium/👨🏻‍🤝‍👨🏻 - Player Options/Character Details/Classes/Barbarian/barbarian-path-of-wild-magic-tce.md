@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/barbarian/wild-magic
+- compendium/src/5e/tce
+- subclass/barbarian/wild-magic
 aliases:
 - Path of Wild Magic
 ---
@@ -65,7 +65,7 @@ The magical energy roiling inside you sometimes erupts from you. When you enter 
 
 If the effect requires a saving throw, the DC equals 8 + your proficiency bonus + your Constitution modifier.
 
-![Wild Magic](/3-Content/Compendiums/tables/wild-magic-tce.md)
+![Wild Magic](/📚%20-%20Information%20Compendium/tables/wild-magic-tce.md)
 
 ### Bolstering Magic (Level 6)
 

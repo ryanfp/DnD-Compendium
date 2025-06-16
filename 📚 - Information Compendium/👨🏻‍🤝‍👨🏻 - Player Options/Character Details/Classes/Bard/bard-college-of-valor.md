@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/subclass/bard/valor
+- compendium/src/5e/phb
+- subclass/bard/valor
 aliases:
 - College of Valor
 ---
@@ -59,7 +59,7 @@ Also at 3rd level, you learn to inspire others in battle. A creature that has a 
 
 ### Extra Attack (Level 6)
 
-Starting at 6th level, you can attack twice, instead of once, whenever you take the [Attack](/3-Content/Rules/actions.md#Attack) action on your turn.
+Starting at 6th level, you can attack twice, instead of once, whenever you take the [Attack](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/actions.md#Attack) action on your turn.
 
 ### Battle Magic (Level 14)
 

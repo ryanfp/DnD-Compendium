@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/barbarian/wild-heart
+- compendium/src/5e/xphb
+- subclass/barbarian/wild-heart
 aliases:
 - Path of the Wild Heart
 ---
@@ -53,7 +53,7 @@ Barbarians who follow the Path of the Wild Heart view themselves as kin to anima
 
 ### Animal Speaker (Level 3)
 
-You can cast the [Beast Sense](/3-Content/Compendiums/spells/beast-sense-xphb.md) and [Speak with Animals](/3-Content/Compendiums/spells/speak-with-animals-xphb.md) spells but only as Rituals. Wisdom is your spellcasting ability for them.
+You can cast the [Beast Sense](/📚%20-%20Information%20Compendium/spells/beast-sense-xphb.md) and [Speak with Animals](/📚%20-%20Information%20Compendium/spells/speak-with-animals-xphb.md) spells but only as Rituals. Wisdom is your spellcasting ability for them.
 
 ### Rage of the Wilds (Level 3)
 
@@ -61,35 +61,35 @@ Your Rage taps into the primal power of animals. Whenever you activate your Rage
 
 #### Bear
 
-While your Rage is active, you have [Resistance](/3-Content/Rules/variant-rules/resistance-xphb.md) to every damage type except Force, Necrotic, Psychic, and Radiant.
+While your Rage is active, you have [Resistance](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/resistance-xphb.md) to every damage type except Force, Necrotic, Psychic, and Radiant.
 
 #### Eagle
 
-When you activate your Rage, you can take the [Disengage](/3-Content/Rules/actions.md#Disengage) and [Dash](/3-Content/Rules/actions.md#Dash) actions as part of that [Bonus Action](/3-Content/Rules/variant-rules/bonus-action-xphb.md). While your Rage is active, you can take a [Bonus Action](/3-Content/Rules/variant-rules/bonus-action-xphb.md) to take both of those actions.
+When you activate your Rage, you can take the [Disengage](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/actions.md#Disengage) and [Dash](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/actions.md#Dash) actions as part of that [Bonus Action](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/bonus-action-xphb.md). While your Rage is active, you can take a [Bonus Action](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/bonus-action-xphb.md) to take both of those actions.
 
 #### Wolf
 
-While your Rage is active, your allies have [Advantage](/3-Content/Rules/variant-rules/advantage-xphb.md) on attack rolls against any enemy of yours within 5 feet of you.
+While your Rage is active, your allies have [Advantage](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/advantage-xphb.md) on attack rolls against any enemy of yours within 5 feet of you.
 
 ### Aspect of the Wilds (Level 6)
 
-You gain one of the following options of your choice. Whenever you finish a [Long Rest](/3-Content/Rules/variant-rules/long-rest-xphb.md), you can change your choice.
+You gain one of the following options of your choice. Whenever you finish a [Long Rest](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/long-rest-xphb.md), you can change your choice.
 
 #### Owl
 
-You have [Darkvision](/3-Content/Rules/senses.md#Darkvision) with a range of 60 feet. If you already have [Darkvision](/3-Content/Rules/senses.md#Darkvision), its range increases by 60 feet.
+You have [Darkvision](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/senses.md#Darkvision) with a range of 60 feet. If you already have [Darkvision](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/senses.md#Darkvision), its range increases by 60 feet.
 
 #### Panther
 
-You have a [Climb Speed](/3-Content/Rules/variant-rules/climb-speed-xphb.md) equal to your [Speed](/3-Content/Rules/variant-rules/speed-xphb.md).
+You have a [Climb Speed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/climb-speed-xphb.md) equal to your [Speed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/speed-xphb.md).
 
 #### Salmon
 
-You have a [Swim Speed](/3-Content/Rules/variant-rules/swim-speed-xphb.md) equal to your [Speed](/3-Content/Rules/variant-rules/speed-xphb.md).
+You have a [Swim Speed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/swim-speed-xphb.md) equal to your [Speed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/speed-xphb.md).
 
 ### Nature Speaker (Level 10)
 
-You can cast the [Commune with Nature](/3-Content/Compendiums/spells/commune-with-nature-xphb.md) spell but only as a [Ritual](/3-Content/Rules/variant-rules/ritual-xphb.md). Wisdom is your spellcasting ability for it.
+You can cast the [Commune with Nature](/📚%20-%20Information%20Compendium/spells/commune-with-nature-xphb.md) spell but only as a [Ritual](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/ritual-xphb.md). Wisdom is your spellcasting ability for it.
 
 ### Power of the Wilds (Level 14)
 
@@ -97,12 +97,12 @@ Whenever you activate your Rage, you gain one of the following options of your c
 
 #### Falcon
 
-While your Rage is active, you have a [Fly Speed](/3-Content/Rules/variant-rules/fly-speed-xphb.md) equal to your [Speed](/3-Content/Rules/variant-rules/speed-xphb.md) if you aren't wearing any armor.
+While your Rage is active, you have a [Fly Speed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/fly-speed-xphb.md) equal to your [Speed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/speed-xphb.md) if you aren't wearing any armor.
 
 #### Lion
 
-While your Rage is active, any of your enemies within 5 feet of you have [Disadvantage](/3-Content/Rules/variant-rules/disadvantage-xphb.md) on attack rolls against targets other than you or another Barbarian who has this option active.
+While your Rage is active, any of your enemies within 5 feet of you have [Disadvantage](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/disadvantage-xphb.md) on attack rolls against targets other than you or another Barbarian who has this option active.
 
 #### Ram
 
-While your Rage is active, you can cause a Large or smaller creature to have the [Prone](/3-Content/Rules/conditions.md#Prone) condition when you hit it with a melee attack.
+While your Rage is active, you can cause a Large or smaller creature to have the [Prone](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Prone) condition when you hit it with a melee attack.

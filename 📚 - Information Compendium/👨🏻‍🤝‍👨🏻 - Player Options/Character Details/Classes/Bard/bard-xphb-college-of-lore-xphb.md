@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/bard/lore
+- compendium/src/5e/xphb
+- subclass/bard/lore
 aliases:
 - College of Lore
 ---
@@ -57,7 +57,7 @@ You gain proficiency with three skills of your choice.
 
 ### Cutting Words (Level 3)
 
-You learn to use your wit to supernaturally distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of yourself makes a damage roll or succeeds on an ability check or attack roll, you can take a [Reaction](/3-Content/Rules/variant-rules/reaction-xphb.md) to expend one use of your Bardic Inspiration; roll your Bardic Inspiration die, and subtract the number rolled from the creature's roll, reducing the damage or potentially turning the success into a failure.
+You learn to use your wit to supernaturally distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of yourself makes a damage roll or succeeds on an ability check or attack roll, you can take a [Reaction](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/reaction-xphb.md) to expend one use of your Bardic Inspiration; roll your Bardic Inspiration die, and subtract the number rolled from the creature's roll, reducing the damage or potentially turning the success into a failure.
 
 ### Magical Discoveries (Level 6)
 

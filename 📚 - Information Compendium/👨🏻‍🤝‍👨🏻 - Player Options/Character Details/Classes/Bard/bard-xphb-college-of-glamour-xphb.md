@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/bard/glamour
+- compendium/src/5e/xphb
+- subclass/bard/glamour
 aliases:
 - College of Glamour
 ---
@@ -53,28 +53,28 @@ The College of Glamour traces its origins to the beguiling magic of the Feywild.
 
 ### Beguiling Magic (Level 3)
 
-You always have the [Charm Person](/3-Content/Compendiums/spells/charm-person-xphb.md) and [Mirror Image](/3-Content/Compendiums/spells/mirror-image-xphb.md) spells prepared.
+You always have the [Charm Person](/📚%20-%20Information%20Compendium/spells/charm-person-xphb.md) and [Mirror Image](/📚%20-%20Information%20Compendium/spells/mirror-image-xphb.md) spells prepared.
 
-In addition, immediately after you cast an Enchantment or Illusion spell using a spell slot, you can cause a creature you can see within 60 feet of yourself to make a Wisdom saving throw against your spell save DC. On a failed save, the target has the [Charmed](/3-Content/Rules/conditions.md#Charmed) or [Frightened](/3-Content/Rules/conditions.md#Frightened) condition (your choice) for 1 minute. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
+In addition, immediately after you cast an Enchantment or Illusion spell using a spell slot, you can cause a creature you can see within 60 feet of yourself to make a Wisdom saving throw against your spell save DC. On a failed save, the target has the [Charmed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Charmed) or [Frightened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened) condition (your choice) for 1 minute. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
-Once you use this benefit, you can't use it again until you finish a [Long Rest](/3-Content/Rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending one use of your Bardic Inspiration (no action required).
+Once you use this benefit, you can't use it again until you finish a [Long Rest](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending one use of your Bardic Inspiration (no action required).
 
 ### Mantle of Inspiration (Level 3)
 
-You can weave fey magic into a song or dance to fill others with vigor. As a [Bonus Action](/3-Content/Rules/variant-rules/bonus-action-xphb.md), you can expend a use of Bardic Inspiration, rolling a Bardic Inspiration die. When you do so, choose a number of other creatures within 60 feet of yourself, up to a number equal to your Charisma modifier (minimum of one creature). Each of those creatures gains a number of [Temporary Hit Points](/3-Content/Rules/variant-rules/temporary-hit-points-xphb.md) equal to two times the number rolled on the Bardic Inspiration die, and then each can use its [Reaction](/3-Content/Rules/variant-rules/reaction-xphb.md) to move up to its [Speed](/3-Content/Rules/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](/3-Content/Rules/actions.md#Opportunity%20Attack).
+You can weave fey magic into a song or dance to fill others with vigor. As a [Bonus Action](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/bonus-action-xphb.md), you can expend a use of Bardic Inspiration, rolling a Bardic Inspiration die. When you do so, choose a number of other creatures within 60 feet of yourself, up to a number equal to your Charisma modifier (minimum of one creature). Each of those creatures gains a number of [Temporary Hit Points](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/temporary-hit-points-xphb.md) equal to two times the number rolled on the Bardic Inspiration die, and then each can use its [Reaction](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/reaction-xphb.md) to move up to its [Speed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/actions.md#Opportunity%20Attack).
 
 ### Mantle of Majesty (Level 6)
 
-You always have the [Command](/3-Content/Compendiums/spells/command-xphb.md) spell prepared.
+You always have the [Command](/📚%20-%20Information%20Compendium/spells/command-xphb.md) spell prepared.
 
-As a [Bonus Action](/3-Content/Rules/variant-rules/bonus-action-xphb.md), you cast [Command](/3-Content/Compendiums/spells/command-xphb.md) without expending a spell slot, and you take on an unearthly appearance for 1 minute or until your [Concentration](/3-Content/Rules/conditions.md#Concentration) ends. During this time, you can cast [Command](/3-Content/Compendiums/spells/command-xphb.md) as a [Bonus Action](/3-Content/Rules/variant-rules/bonus-action-xphb.md) without expending a spell slot.
+As a [Bonus Action](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/bonus-action-xphb.md), you cast [Command](/📚%20-%20Information%20Compendium/spells/command-xphb.md) without expending a spell slot, and you take on an unearthly appearance for 1 minute or until your [Concentration](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Concentration) ends. During this time, you can cast [Command](/📚%20-%20Information%20Compendium/spells/command-xphb.md) as a [Bonus Action](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/bonus-action-xphb.md) without expending a spell slot.
 
-Any creature [Charmed](/3-Content/Rules/conditions.md#Charmed) by you automatically fails its saving throw against the [Command](/3-Content/Compendiums/spells/command-xphb.md) you cast with this feature.
+Any creature [Charmed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Charmed) by you automatically fails its saving throw against the [Command](/📚%20-%20Information%20Compendium/spells/command-xphb.md) you cast with this feature.
 
-Once you use this feature, you can't use it again until you finish a [Long Rest](/3-Content/Rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a level 3+ spell slot (no action required).
+Once you use this feature, you can't use it again until you finish a [Long Rest](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a level 3+ spell slot (no action required).
 
 ### Unbreakable Majesty (Level 14)
 
-As a [Bonus Action](/3-Content/Rules/variant-rules/bonus-action-xphb.md), you can assume a magically majestic presence for 1 minute or until you have the [Incapacitated](/3-Content/Rules/conditions.md#Incapacitated) condition. For the duration, whenever any creature hits you with an attack roll for the first time on a turn, the attacker must succeed on a Charisma saving throw against your spell save DC, or the attack misses instead, as the creature recoils from your majesty.
+As a [Bonus Action](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/bonus-action-xphb.md), you can assume a magically majestic presence for 1 minute or until you have the [Incapacitated](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated) condition. For the duration, whenever any creature hits you with an attack roll for the first time on a turn, the attacker must succeed on a Charisma saving throw against your spell save DC, or the attack misses instead, as the creature recoils from your majesty.
 
-Once you assume this majestic presence, you can't do so again until you finish a [Short](/3-Content/Rules/variant-rules/short-rest-xphb.md) or [Long Rest](/3-Content/Rules/variant-rules/long-rest-xphb.md).
+Once you assume this majestic presence, you can't do so again until you finish a [Short](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/short-rest-xphb.md) or [Long Rest](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/long-rest-xphb.md).

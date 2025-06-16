@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/bard/valor
+- compendium/src/5e/xphb
+- subclass/bard/valor
 aliases:
 - College of Valor
 ---
@@ -57,7 +57,7 @@ You can use your wit to turn the tide of battle. A creature that has a Bardic In
 
 #### Defense
 
-When the creature is hit by an attack roll, that creature can use its [Reaction](/3-Content/Rules/variant-rules/reaction-xphb.md) to roll the Bardic Inspiration die and add the number rolled to its AC against that attack, potentially causing the attack to miss.
+When the creature is hit by an attack roll, that creature can use its [Reaction](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/reaction-xphb.md) to roll the Bardic Inspiration die and add the number rolled to its AC against that attack, potentially causing the attack to miss.
 
 #### Offense
 
@@ -65,16 +65,16 @@ Immediately after the creature hits a target with an attack roll, the creature c
 
 ### Martial Training (Level 3)
 
-You gain proficiency with Martial weapons and training with Medium armor and [Shields](/3-Content/Compendiums/items/shield-xphb.md).
+You gain proficiency with Martial weapons and training with Medium armor and [Shields](/📚%20-%20Information%20Compendium/items/shield-xphb.md).
 
-In addition, you can use a Simple or Martial weapon as a [Spellcasting Focus](/3-Content/Rules/variant-rules/spellcasting-focus-xphb.md) to cast spells from your Bard spell list.
+In addition, you can use a Simple or Martial weapon as a [Spellcasting Focus](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/spellcasting-focus-xphb.md) to cast spells from your Bard spell list.
 
 ### Extra Attack (Level 6)
 
-You can attack twice instead of once whenever you take the [Attack](/3-Content/Rules/actions.md#Attack) action on your turn.
+You can attack twice instead of once whenever you take the [Attack](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/actions.md#Attack) action on your turn.
 
 In addition, you can cast one of your cantrips that has a casting time of an action in place of one of those attacks.
 
 ### Battle Magic (Level 14)
 
-After you cast a spell that has a casting time of an action, you can make one attack with a weapon as a [Bonus Action](/3-Content/Rules/variant-rules/bonus-action-xphb.md).
+After you cast a spell that has a casting time of an action, you can make one attack with a weapon as a [Bonus Action](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/bonus-action-xphb.md).

@@ -83,14 +83,4 @@ homebrew/feat/KibblesTasty; Kibbles' Active Martial Feats.json,
 homebrew/item/Yonael; Firearms of the Realm.json,
 homebrew/item/Frog God Games; Bard's Gate.json,
 homebrew/optionalfeature/laserllama; Laserllama's Exploit Compendium.json,
-homebrew/spell/Craios125; Evolving Cantrips.json,
-
-homebrew/spell/KibblesTasty; Kibbles' Casting Compendium.json,
-homebrew/spell/KibblesTasty; Kibbles' Generic Elemental Spells.json,
-
-homebrew/spell/KibblesTasty; Summoning Spells.json,
-homebrew/spell/LaserLlama; Laserllama's Spell Compendium.json
-
-homebrew/spell/somanyrobots Omega Ankh; Spells That Don't Suck.json,
-homebrew/subclass/Ghostfire Gaming; Artificer Subclasses.json,
-homebrew/subclass/Mage Hand Press; Gunslinger Extras.json
+homebrew/spell/Craios125; Evolving Cantrips.json

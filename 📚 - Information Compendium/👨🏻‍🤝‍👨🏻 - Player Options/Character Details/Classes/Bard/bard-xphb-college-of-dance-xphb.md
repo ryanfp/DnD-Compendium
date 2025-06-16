@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/bard/dance
+- compendium/src/5e/xphb
+- subclass/bard/dance
 aliases:
 - College of Dance
 ---
@@ -53,36 +53,36 @@ Bards of the College of Dance know that the Words of Creation can't be contained
 
 ### Dazzling Footwork (Level 3)
 
-While you aren't wearing armor or wielding a [Shield](/3-Content/Compendiums/items/shield-xphb.md), you gain the following benefits.
+While you aren't wearing armor or wielding a [Shield](/📚%20-%20Information%20Compendium/items/shield-xphb.md), you gain the following benefits.
 
 ### Dance Virtuoso (Level 3)
 
-You have [Advantage](/3-Content/Rules/variant-rules/advantage-xphb.md) on any Charisma ([Performance](/3-Content/Rules/skills.md#Performance)) check you make that involves you dancing.
+You have [Advantage](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/advantage-xphb.md) on any Charisma ([Performance](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Performance)) check you make that involves you dancing.
 
 ### Unarmored Defense (Level 3)
 
-Your base [Armor Class](/3-Content/Rules/variant-rules/armor-class-xphb.md) equals 10 plus your Dexterity and Charisma modifiers.
+Your base [Armor Class](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/armor-class-xphb.md) equals 10 plus your Dexterity and Charisma modifiers.
 
 ### Agile Strikes (Level 3)
 
-When you expend a use of your Bardic Inspiration as part of an action, a [Bonus Action](/3-Content/Rules/variant-rules/bonus-action-xphb.md), or a [Reaction](/3-Content/Rules/variant-rules/reaction-xphb.md), you can make one [Unarmed Strike](/3-Content/Rules/variant-rules/unarmed-strike-xphb.md) as part of that action, [Bonus Action](/3-Content/Rules/variant-rules/bonus-action-xphb.md), or [Reaction](/3-Content/Rules/variant-rules/reaction-xphb.md).
+When you expend a use of your Bardic Inspiration as part of an action, a [Bonus Action](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/bonus-action-xphb.md), or a [Reaction](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/reaction-xphb.md), you can make one [Unarmed Strike](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/unarmed-strike-xphb.md) as part of that action, [Bonus Action](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/bonus-action-xphb.md), or [Reaction](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/reaction-xphb.md).
 
 ### Bardic Damage (Level 3)
 
-You can use Dexterity instead of Strength for the attack rolls of your Unarmed Strikes. When you deal damage with an [Unarmed Strike](/3-Content/Rules/variant-rules/unarmed-strike-xphb.md), you can deal Bludgeoning damage equal to a roll of your Bardic Inspiration die plus your Dexterity modifier, instead of the strike's normal damage. This roll doesn't expend the die.
+You can use Dexterity instead of Strength for the attack rolls of your Unarmed Strikes. When you deal damage with an [Unarmed Strike](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/unarmed-strike-xphb.md), you can deal Bludgeoning damage equal to a roll of your Bardic Inspiration die plus your Dexterity modifier, instead of the strike's normal damage. This roll doesn't expend the die.
 
 ### Inspiring Movement (Level 6)
 
-When an enemy you can see ends its turn within 5 feet of you, you can take a [Reaction](/3-Content/Rules/variant-rules/reaction-xphb.md) and expend one use of your Bardic Inspiration to move up to half your [Speed](/3-Content/Rules/variant-rules/speed-xphb.md). Then one ally of your choice within 30 feet of you can also move up to half their [Speed](/3-Content/Rules/variant-rules/speed-xphb.md) using their [Reaction](/3-Content/Rules/variant-rules/reaction-xphb.md).
+When an enemy you can see ends its turn within 5 feet of you, you can take a [Reaction](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/reaction-xphb.md) and expend one use of your Bardic Inspiration to move up to half your [Speed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/speed-xphb.md). Then one ally of your choice within 30 feet of you can also move up to half their [Speed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/speed-xphb.md) using their [Reaction](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/reaction-xphb.md).
 
-None of this feature's movement provokes [Opportunity Attacks](/3-Content/Rules/actions.md#Opportunity%20Attack).
+None of this feature's movement provokes [Opportunity Attacks](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/actions.md#Opportunity%20Attack).
 
 ### Tandem Footwork (Level 6)
 
-When you roll [Initiative](/3-Content/Rules/variant-rules/initiative-xphb.md), you can expend one use of your Bardic Inspiration if you don't have the [Incapacitated](/3-Content/Rules/conditions.md#Incapacitated) condition. When you do so, roll your Bardic Inspiration die; you and each ally within 30 feet of you who can see or hear you gains a bonus to [Initiative](/3-Content/Rules/variant-rules/initiative-xphb.md) equal to the number rolled.
+When you roll [Initiative](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/initiative-xphb.md), you can expend one use of your Bardic Inspiration if you don't have the [Incapacitated](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated) condition. When you do so, roll your Bardic Inspiration die; you and each ally within 30 feet of you who can see or hear you gains a bonus to [Initiative](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/initiative-xphb.md) equal to the number rolled.
 
 ### Leading Evasion (Level 14)
 
 When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. If any creatures within 5 feet of you are making the same Dexterity saving throw, you can share this benefit with them for that save.
 
-You can't use this feature if you have the [Incapacitated](/3-Content/Rules/conditions.md#Incapacitated) condition.
+You can't use this feature if you have the [Incapacitated](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated) condition.

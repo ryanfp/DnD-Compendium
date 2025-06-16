@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/bard/creation
+- compendium/src/5e/tce
+- subclass/bard/creation
 aliases:
 - College of Creation
 ---
@@ -79,13 +79,13 @@ The size of the item you can create with this feature increases by one size cate
 
 *6th-level College of Creation feature*
 
-As an action, you can animate one Large or smaller nonmagical item within 30 feet of you that isn't being worn or carried. The animate item uses the [Dancing Item](/3-Content/Compendiums/bestiary/construct/dancing-item-tce.md) stat block, which uses your proficiency bonus (PB). The item is friendly to you and your companions and obeys your commands. It lives for 1 hour, until it is reduced to 0 hit points, or until you die.
+As an action, you can animate one Large or smaller nonmagical item within 30 feet of you that isn't being worn or carried. The animate item uses the [Dancing Item](/📚%20-%20Information%20Compendium/bestiary/construct/dancing-item-tce.md) stat block, which uses your proficiency bonus (PB). The item is friendly to you and your companions and obeys your commands. It lives for 1 hour, until it is reduced to 0 hit points, or until you die.
 
-In combat, the item shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the [Dodge](/3-Content/Rules/actions.md#Dodge) action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are [incapacitated](/3-Content/Rules/conditions.md#Incapacitated), the item can take any action of its choice, not just [Dodge](/3-Content/Rules/actions.md#Dodge).
+In combat, the item shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the [Dodge](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/actions.md#Dodge) action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are [incapacitated](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated), the item can take any action of its choice, not just [Dodge](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/actions.md#Dodge).
 
 When you use your Bardic Inspiration feature, you can command the item as part of the same bonus action you use for Bardic Inspiration.
 
-Once you animate an item with this feature, you can't do so again until you finish a long rest, unless you expend a spell slot of 3rd level or higher to use this feature again. You can have only one item animated by this feature at a time; if you use this action and already have a [dancing item](/3-Content/Compendiums/bestiary/construct/dancing-item-tce.md) from this feature, the first one immediately becomes inanimate.
+Once you animate an item with this feature, you can't do so again until you finish a long rest, unless you expend a spell slot of 3rd level or higher to use this feature again. You can have only one item animated by this feature at a time; if you use this action and already have a [dancing item](/📚%20-%20Information%20Compendium/bestiary/construct/dancing-item-tce.md) from this feature, the first one immediately becomes inanimate.
 
 ### Creative Crescendo (Level 14)
 

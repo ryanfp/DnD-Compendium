@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/barbarian/beast
+- compendium/src/5e/tce
+- subclass/barbarian/beast
 aliases:
 - Path of the Beast
 ---
@@ -72,7 +72,7 @@ When you enter your rage, you can transform, revealing the bestial power within 
 You choose the weapon's form each time you rage:
 
 - **Bite.** Your mouth transforms into a bestial muzzle or great mandibles (your choice). It deals `d8` piercing damage on a hit. Once on each of your turns when you damage a creature with this bite, you regain a number of hit points equal to your proficiency bonus, provided you have less than half your hit points when you hit.  
-- **Claws.** Each of your hands transforms into a claw, which you can use as a weapon if it's empty. It deals `d6` slashing damage on a hit. Once on each of your turns when you attack with a claw using the [Attack](/3-Content/Rules/actions.md#Attack) action, you can make one additional claw attack as part of the same action.  
+- **Claws.** Each of your hands transforms into a claw, which you can use as a weapon if it's empty. It deals `d6` slashing damage on a hit. Once on each of your turns when you attack with a claw using the [Attack](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/actions.md#Attack) action, you can make one additional claw attack as part of the same action.  
 - **Tail.** You grow a lashing, spiny tail, which deals `d8` piercing damage on a hit and has the reach property. If a creature you can see within 10 feet of you hits you with an attack roll, you can use your reaction to swipe your tail and roll a `d8`, applying a bonus to your AC equal to the number rolled, potentially causing the attack to miss you.  
 
 ### Bestial Soul (Level 6)
@@ -85,7 +85,7 @@ You can also alter your form to help you adapt to your surroundings. When you fi
 
 - You gain a swimming speed equal to your walking speed, and you can breathe underwater.  
 - You gain a climbing speed equal to your walking speed, and you can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
-- When you jump, you can make a Strength ([Athletics](/3-Content/Rules/skills.md#Athletics)) check and extend your jump by a number of feet equal to the check's total. You can make this special check only once per turn.  
+- When you jump, you can make a Strength ([Athletics](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Athletics)) check and extend your jump by a number of feet equal to the check's total. You can make this special check only once per turn.  
 
 ### Infectious Fury (Level 10)
 
