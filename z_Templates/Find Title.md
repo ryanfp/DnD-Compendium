@@ -1,0 +1,1 @@
+[<% tp.file.find_tfile("").basename %>](<%3C% await tp.file.rename(tp.file.selection()) %%3E>)

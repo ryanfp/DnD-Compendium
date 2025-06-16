@@ -18,6 +18,132 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Heading",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Heading.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Heading\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":7},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Find Title",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Find Title.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Find Title\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":47},\"to\":{\"line\":0,\"ch\":47}}}"
+                },
+                {
+                  "title": "Heading",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Heading.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":7},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Find Title",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Find Title.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Find Title\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":23},\"to\":{\"line\":0,\"ch\":23}}}"
+                },
+                {
+                  "title": "Heading",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Heading.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"README\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Find Title",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Find Title.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Find Title\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":43},\"to\":{\"line\":0,\"ch\":43}}}"
+                },
+                {
+                  "title": "Heading",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Heading.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Amnesiac",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Amnesiac.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Amnesiac\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "acolyte-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/acolyte-xphb.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"acolyte-xphb\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Acolyte",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Acolyte.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Acolyte\"}",
+                  "eState": "{\"scroll\":0.5086259037171555}"
+                },
+                {
+                  "title": "acolyte-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/acolyte-xphb.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"acolyte-xphb\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Acolyte",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Acolyte.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Acolyte\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Amnesiac",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Amnesiac.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Amnesiac\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Apprentice Diver",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice Diver.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Apprentice Diver\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Apprentice of AHA",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice of AHA.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Apprentice of AHA\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Apprentice Witch",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice Witch.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Apprentice Witch\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Artisan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Artisan.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artisan\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Ashari",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Ashari.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Ashari\"}",
+                  "eState": "{\"scroll\":68.2642253615101}"
+                },
+                {
+                  "title": "Athlete",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Athlete.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Athlete\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Augen Trust (Spy)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Augen Trust (Spy).md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Augen Trust (Spy)\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
                   "title": "Artisan",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Artisan.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artisan\"}",
@@ -90,9 +216,9 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "Heading",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Heading.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
                 },
                 {
@@ -114,9 +240,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":30},\"to\":{\"line\":0,\"ch\":30}}}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "Heading",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Heading.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":7},\"to\":{\"line\":12,\"ch\":0}}}"
                 },
                 {
@@ -126,9 +252,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":3},\"to\":{\"line\":2,\"ch\":3}}}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "Heading",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Heading.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
                 },
                 {
@@ -138,9 +264,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "Heading",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Heading.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":12},\"to\":{\"line\":8,\"ch\":12}}}"
                 },
                 {
@@ -1872,9 +1998,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.6020767270153715}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "Heading",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Heading.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
                 },
                 {
@@ -1902,9 +2028,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "Heading",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Heading.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -1920,9 +2046,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":22},\"to\":{\"line\":7,\"ch\":22}}}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "Heading",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Heading.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{}"
                 },
                 {
@@ -1968,9 +2094,9 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "Heading",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Heading.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"scroll\":0}"
                 },
                 {
@@ -1992,9 +2118,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":1},\"to\":{\"line\":2,\"ch\":1}}}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "Heading",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Heading.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":20},\"to\":{\"line\":47,\"ch\":0}},\"scroll\":27.018229166666668}"
                 },
                 {
@@ -2004,9 +2130,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":9},\"to\":{\"line\":1,\"ch\":9}},\"scroll\":0}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "Heading",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Heading.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":99,\"ch\":14},\"to\":{\"line\":99,\"ch\":14}},\"scroll\":53.285714285714285}"
                 },
                 {
@@ -2022,9 +2148,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "Heading",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Heading.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":94,\"ch\":20},\"to\":{\"line\":94,\"ch\":20}},\"scroll\":63.7265625}"
                 },
                 {
@@ -2058,9 +2184,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":20},\"to\":{\"line\":13,\"ch\":20}},\"scroll\":0}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "Heading",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Heading.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":86,\"ch\":0},\"to\":{\"line\":86,\"ch\":0}},\"scroll\":64.01822916666667}"
                 },
                 {
@@ -2070,9 +2196,9 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "Heading",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Heading.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}},\"scroll\":34.143229166666664}"
                 },
                 {
@@ -2082,9 +2208,9 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "Heading",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Heading.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":66,\"ch\":20},\"to\":{\"line\":66,\"ch\":20}},\"scroll\":28.309895833333332}"
                 }
               ]
@@ -2092,13 +2218,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Augen Trust (Spy).md",
+                "file": "z_Templates/Find Title.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Augen Trust (Spy)"
+              "title": "Find Title"
             }
           },
           {
@@ -2554,17 +2680,20 @@
   },
   "active": "3a73ca7b9dac80c9",
   "lastOpenFiles": [
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Artisan.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Ashari.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Athlete.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice Witch.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice of AHA.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice Diver.md",
+    "Heading.md",
+    "z_Templates/Find Title.md",
+    "README.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Amnesiac.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/acolyte-xphb.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Acolyte.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice Diver.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice of AHA.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice Witch.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Artisan.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Ashari.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Athlete.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Augen Trust (Spy).md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/img/athlete.webp",
-    "Untitled.md",
     "z_Templates/Link Auto Title.md",
     "z_Templates/Insert Wiki Sidebar.md",
     "z_Templates/Image Convert.md",
@@ -2592,8 +2721,6 @@
     "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-gm-cheatbook/img",
     "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-gm-cheatbook/6-credits.md",
     "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-gm-cheatbook/4-steinhardts-villain-guide.md",
-    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-gm-cheatbook/5-steinhardts-combat-guide.md",
-    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-gm-cheatbook/3-steinhardts-horror-guide.md",
     "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-gm-cheatbook",
     "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-eldritch-moons-deck/img",
     "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-eldritch-moons-deck",
