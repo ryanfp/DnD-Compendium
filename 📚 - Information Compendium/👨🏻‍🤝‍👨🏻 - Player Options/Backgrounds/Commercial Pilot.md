@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/darkmatter
+  - background
+  - compendium/src/5e/darkmatter
 aliases:
-- Commercial Pilot
+  - Commercial Pilot
+title: Commercial Pilot
 ---
 # Commercial Pilot
 *Source: Dark Matter p. 115*  

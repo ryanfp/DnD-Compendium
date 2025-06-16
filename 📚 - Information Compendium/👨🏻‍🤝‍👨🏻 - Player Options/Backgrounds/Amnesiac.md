@@ -29,7 +29,7 @@ Your amnesia makes you a blank slate, and can make you eager to experience the w
 
 **Personality Traits**
 
-`dice: [](amnesiac-sgtteh.md#^personality-traits)`
+`dice: [](Amnesiac#^personality-traits)`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
@@ -45,7 +45,7 @@ Your amnesia makes you a blank slate, and can make you eager to experience the w
 
 **Ideals**
 
-`dice: [](amnesiac-sgtteh.md#^ideals)`
+`dice: [](Amnesiac#^ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -59,7 +59,7 @@ Your amnesia makes you a blank slate, and can make you eager to experience the w
 
 **Bonds**
 
-`dice: [](amnesiac-sgtteh.md#^bonds)`
+`dice: [](Amnesiac#^bonds)`
 
 | dice: d6 | Bond |
 |----------|------|
@@ -73,7 +73,7 @@ Your amnesia makes you a blank slate, and can make you eager to experience the w
 
 **Flaws**
 
-`dice: [](amnesiac-sgtteh.md#^flaws)`
+`dice: [](Amnesiac#^flaws)`
 
 | dice: d6 | Flaw |
 |----------|------|

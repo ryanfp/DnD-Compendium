@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/sgtteh
+  - background
+  - compendium/src/5e/sgtteh
 aliases:
-- Beast Hunter
+  - Beast Hunter
+title: Beast Hunter
 ---
 # Beast Hunter
 *Source: Steinhardt's Guide to the Eldritch Hunt p. 175*  

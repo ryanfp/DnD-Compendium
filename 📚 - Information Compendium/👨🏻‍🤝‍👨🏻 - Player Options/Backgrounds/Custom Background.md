@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/phb
+  - background
+  - compendium/src/5e/phb
 aliases:
-- Custom Background
+  - Custom Background
+title: Custom Background
 ---
 # Custom Background
 *Source: Player's Handbook p. 126*  

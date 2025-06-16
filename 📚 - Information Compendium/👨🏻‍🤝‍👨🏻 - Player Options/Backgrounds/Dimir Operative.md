@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/ggr
+  - background
+  - compendium/src/5e/ggr
 aliases:
-- Dimir Operative
+  - Dimir Operative
+title: Dimir Operative
 ---
 # Dimir Operative
 *Source: Guildmasters' Guide to Ravnica p. 46*  

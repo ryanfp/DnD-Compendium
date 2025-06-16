@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/toh
+  - background
+  - compendium/src/5e/toh
 aliases:
-- Desert Runner
+  - Desert Runner
+title: Desert Runner
 ---
 # Desert Runner
 *Source: Tome of Heroes p. 157*  

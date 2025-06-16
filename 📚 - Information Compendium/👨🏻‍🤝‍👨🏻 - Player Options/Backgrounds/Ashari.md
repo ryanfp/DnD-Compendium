@@ -53,7 +53,7 @@ To learn more about your character's Ashari order, see ""The Ashari"".
 
 **Ashari Personality Traits**
 
-`dice: [](ashari-tdcsr.md#^ashari-personality-traits)`
+*`dice: [](Ashari.md#^ashari-personality-traits)`*
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
@@ -69,7 +69,7 @@ To learn more about your character's Ashari order, see ""The Ashari"".
 
 **Ashari Ideals**
 
-`dice: [](ashari-tdcsr.md#^ashari-ideals)`
+*`dice: [](Ashari.md#^ashari-ideals)`*
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -83,7 +83,7 @@ To learn more about your character's Ashari order, see ""The Ashari"".
 
 **Ashari Bonds**
 
-`dice: [](ashari-tdcsr.md#^ashari-bonds)`
+*`dice: [](Ashari.md#^ashari-bonds)`*
 
 | dice: d6 | Bond |
 |----------|------|
@@ -97,7 +97,7 @@ To learn more about your character's Ashari order, see ""The Ashari"".
 
 **Ashari Flaws**
 
-`dice: [](ashari-tdcsr.md#^ashari-flaws)`
+*`dice: [](Ashari.md#^ashari-flaws)`*
 
 | dice: d6 | Flaw |
 |----------|------|

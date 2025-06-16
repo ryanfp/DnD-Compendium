@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/obojimatallgrass
+  - background
+  - compendium/src/5e/obojimatallgrass
 aliases:
-- Courier Brigade Cadet
+  - Courier Brigade Cadet
+title: Courier Brigade Cadet
 ---
 # Courier Brigade Cadet
 *Source: Obojima: Tales from the Tall Grass p. 155*  

@@ -2,25 +2,25 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/tdcsr
+  - background
+  - compendium/src/5e/tdcsr
 aliases:
-- Clasp Member
+  - Clasp Member (Myriad Operative) (Variant)
+title: Clasp Member (Myriad Operative) (Variant)
 ---
-# Clasp Member
-*Source: Tal'Dorei Campaign Setting Reborn p. 181*  
-![A man with short black hai...](/📚%20-%20Information%20Compendium/backgrounds/img/claspmember.webp#right "A man with short black hair and beard wearing dark clothing holding a curved dagger leaning against a stone wall.")
+# Clasp Member (Myriad Operative) (Variant)
+*Source: Tal'Dorei Campaign Setting Reborn p. 182*  
+
 
 - **Skill Proficiencies.** [Deception](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Deception), plus your choice of [Sleight of Hand](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Sleight%20of%20Hand) or [Stealth](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Stealth)  
 - **Tool Proficiencies.** [Disguise Kit](/📚%20-%20Information%20Compendium/items/disguise-kit.md), [forgery kit](/📚%20-%20Information%20Compendium/items/forgery-kit.md), or [thieves' tools](/📚%20-%20Information%20Compendium/items/thieves-tools.md) (one of your choice)  
 - **Languages.** Thieves' Cant  
 - **Equipment.** A set of inconspicuous [common clothes](/📚%20-%20Information%20Compendium/items/common-clothes.md), a set of tools with which you're proficient, and a belt [pouch](/📚%20-%20Information%20Compendium/items/pouch.md) containing 10 gp  
 
-Whether you grew up in the mean streets of "Kymal" bamboozling foolish gamblers, or spent your youth pilfering loose coin from the pockets of "Emon's" many tourists, your lifestyle of deceiving-to-survive eventually drew the attention of the "Clasp": a storied crime syndicate that has hideouts in every city in Tal'Dorei. In exchange for protection, a modicum of kinship, and a number of useful resources to further develop your craft as a criminal, you agreed to receive the brand of the "Clasp" and join their ranks.
 
-You might have spent time working the guild's most menial assignments, wandering the alleys as a simple cutpurse and filling your pockets with silver while you waited to climb the professional ladder. Or you might be a clever actor and liar, whose skill at blending in with all facets of society has made you an indispensable spy. Perhaps your swift technique with a blade led you to become a feared assassin for the "Spireling leader" of a local "Clasp" sect. Regardless, though the threat of the law is ever looming, the advantages to having a connection to such a powerful cartel greatly outweighs your paranoia. Most of the time.
+## Variant: Myriad Operative
 
-Since the "Clasp" is an organization, its members can rise in rank by proving their worth, by making the right friends in high places, or even through blackmail and bribery. You and the Game Master can decide together how your actions affect your rank in the "Clasp", and what benefits that rank grants you.
+Your skill set might be similar to that of many members of the "Clasp", but you work for a criminal organization that is far more sophisticated—and even less scrupulous. As a "Myriad" operative in Tal'Dorei, you might have been given a specific task that furthers that syndicate's hunger to expand beyond Wildemount, or which gives them an edge in their rivalry with the "Clasp". Moreover, you understand the wisdom of keeping your activities secret from fellow criminals as well as law enforcement, since the agents of the "Clasp" will show you no mercy if your true identity is ever revealed.
 
 ## Feature: A Favor in Turn
 
@@ -36,7 +36,7 @@ Your bond is likely associated with your fellow "Clasp" members or the individua
 
 **Clasp Member Personality Traits**
 
-`dice: [](clasp-member-tdcsr.md#^clasp-member-personality-traits)`
+`dice: [](clasp-member-myriad-operative-variant-tdcsr.md#^clasp-member-personality-traits)`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
@@ -52,7 +52,7 @@ Your bond is likely associated with your fellow "Clasp" members or the individua
 
 **Clasp Member Ideals**
 
-`dice: [](clasp-member-tdcsr.md#^clasp-member-ideals)`
+`dice: [](clasp-member-myriad-operative-variant-tdcsr.md#^clasp-member-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -66,7 +66,7 @@ Your bond is likely associated with your fellow "Clasp" members or the individua
 
 **Clasp Member Bonds**
 
-`dice: [](clasp-member-tdcsr.md#^clasp-member-bonds)`
+`dice: [](clasp-member-myriad-operative-variant-tdcsr.md#^clasp-member-bonds)`
 
 | dice: d6 | Bond |
 |----------|------|
@@ -80,7 +80,7 @@ Your bond is likely associated with your fellow "Clasp" members or the individua
 
 **Clasp Member Flaws**
 
-`dice: [](clasp-member-tdcsr.md#^clasp-member-flaws)`
+`dice: [](clasp-member-myriad-operative-variant-tdcsr.md#^clasp-member-flaws)`
 
 | dice: d6 | Flaw |
 |----------|------|

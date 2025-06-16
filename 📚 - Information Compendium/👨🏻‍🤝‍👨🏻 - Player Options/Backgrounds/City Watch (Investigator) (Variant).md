@@ -2,26 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/scag
+  - background
+  - compendium/src/5e/scag
 aliases:
-- City Watch
+  - City Watch (Investigator) (Variant)
+title: City Watch (Investigator) (Variant)
 ---
-# City Watch
+# City Watch (Investigator) (Variant)
 *Source: Sword Coast Adventurer's Guide p. 145*  
 
 
-- **Skill Proficiencies.** [Athletics](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Athletics), [Insight](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Insight)  
+- **Skill Proficiencies.** [Insight](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Insight), [Investigation](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Investigation)  
 - **Languages.** Any two of your choice  
 - **Equipment.** A uniform in the style of your unit and indicative of your rank, a [horn](/📚%20-%20Information%20Compendium/items/horn.md) with which to summon help, a set of [manacles](/📚%20-%20Information%20Compendium/items/manacles.md), and a [pouch](/📚%20-%20Information%20Compendium/items/pouch.md) containing 10 gp  
 
-You have served the community where you grew up, standing as its first line of defense against crime. You aren't a soldier, directing your gaze outward at possible enemies. Instead, your service to your hometown was to help police its populace, protecting the citizenry from lawbreakers and malefactors of every stripe.
-
-You might have been part of the City Watch of Waterdeep, the baton-wielding police force of the City of Splendors, protecting the common folk from thieves and rowdy nobility alike. Or you might have been one of the valiant defenders of Silverymoon, a member of the Silverwatch or even one of the magic-wielding Spellguard.
-
-Perhaps you hail from Neverwinter and have served as one of its Wintershield watchmen, the newly founded branch of guards who vow to keep safe the City of Skilled Hands.
-
-Even if you're not city-born or city-bred, this background can describe your early years as a member of law enforcement. Most settlements of any size have their own constables and police forces, and even smaller communities have sheriffs and bailiffs who stand ready to protect their community.
+Rarer than watch or patrol members are a community's investigators, who are responsible for solving crimes after the fact. Though such folk are seldom found in rural areas, nearly every settlement of decent size has at least one or two watch members who have the skill to investigate crime scenes and track down criminals. If your prior experience is as an investigator, you have proficiency in [Investigation](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Investigation) rather than [Athletics](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Athletics).
 
 ## Feature: Watcher's Eye
 

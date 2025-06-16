@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/scag
+  - background
+  - compendium/src/5e/scag
 aliases:
-- Cloistered Scholar
+  - Cloistered Scholar
+title: Cloistered Scholar
 ---
 # Cloistered Scholar
 *Source: Sword Coast Adventurer's Guide p. 146*  

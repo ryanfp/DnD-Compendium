@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/phb
+  - background
+  - compendium/src/5e/phb
 aliases:
-- Charlatan
+  - Charlatan
+title: Charlatan
 ---
 # Charlatan
 *Source: Player's Handbook p. 128*  

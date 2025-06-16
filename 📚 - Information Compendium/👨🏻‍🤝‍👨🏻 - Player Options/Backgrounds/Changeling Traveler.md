@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/exploringeberron
+  - background
+  - compendium/src/5e/exploringeberron
 aliases:
-- Changeling Traveler
+  - Changeling Traveler
+title: Changeling Traveler
 ---
 # Changeling Traveler
 *Source: Exploring Eberron p. 205*  

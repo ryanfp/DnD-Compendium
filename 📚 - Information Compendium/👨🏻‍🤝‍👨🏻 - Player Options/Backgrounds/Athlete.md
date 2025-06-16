@@ -33,7 +33,7 @@ While many athletes practice various games and events, most excel at a single fo
 
 **Favored Event**
 
-`dice: [](athlete-mot.md#^favored-event)`
+*`dice: [](Athlete.md#^favored-event)`*
 
 | dice: d8 | Favored Event |
 |----------|---------------|
@@ -53,7 +53,7 @@ Competition can forge strong bonds between teammates and rivals or ignite bitter
 
 **Athlete Personality Traits**
 
-`dice: [](athlete-mot.md#^athlete-personality-traits)`
+*`dice: [](Athlete.md#^athlete-personality-traits)`*
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
@@ -69,7 +69,7 @@ Competition can forge strong bonds between teammates and rivals or ignite bitter
 
 **Athlete Ideals**
 
-`dice: [](athlete-mot.md#^athlete-ideals)`
+*`dice: [](Athlete.md#^athlete-ideals)`*
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -83,7 +83,7 @@ Competition can forge strong bonds between teammates and rivals or ignite bitter
 
 **Athlete Bonds**
 
-`dice: [](athlete-mot.md#^athlete-bonds)`
+*`dice: [](Athlete.md#^athlete-bonds)`*
 
 | dice: d6 | Bond |
 |----------|------|
@@ -97,7 +97,7 @@ Competition can forge strong bonds between teammates and rivals or ignite bitter
 
 **Athlete Flaws**
 
-`dice: [](athlete-mot.md#^athlete-flaws)`
+*`dice: [](Athlete.md#^athlete-flaws)`*
 
 | dice: d6 | Flaw |
 |----------|------|

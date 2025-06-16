@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/sgtteh
+  - background
+  - compendium/src/5e/sgtteh
 aliases:
-- Cult Initiate
+  - Cult Initiate
+title: Cult Initiate
 ---
 # Cult Initiate
 *Source: Steinhardt's Guide to the Eldritch Hunt p. 176*  

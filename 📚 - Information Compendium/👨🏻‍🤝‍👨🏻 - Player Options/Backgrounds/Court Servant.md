@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/toh
+  - background
+  - compendium/src/5e/toh
 aliases:
-- Court Servant
+  - Court Servant
+title: Court Servant
 ---
 # Court Servant
 *Source: Tome of Heroes p. 155*  
