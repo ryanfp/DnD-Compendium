@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Arcane Class Feature Table",
+      "path": "z_Templates/Arcane Class Feature Table.md"
+    },
+    {
+      "basename": "Subclass Feature Table",
+      "path": "z_Templates/Subclass Feature Table.md"
+    },
+    {
+      "basename": "barbarian-xphb-path-of-the-berserker-xphb",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/barbarian-xphb-path-of-the-berserker-xphb.md"
+    },
+    {
+      "basename": "wizard-xphb",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-xphb.md"
+    },
+    {
+      "basename": "wizard",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard.md"
+    },
+    {
+      "basename": "cleric",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cleric/cleric.md"
+    },
+    {
+      "basename": "Martial Class Feature Table",
+      "path": "z_Templates/Martial Class Feature Table.md"
+    },
+    {
       "basename": "Class  Template",
       "path": "Class  Template.md"
     },
@@ -13,16 +41,8 @@
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cleric/cleric-xphb-death-domain-dmg.md"
     },
     {
-      "basename": "barbarian-xphb-path-of-the-berserker-xphb",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/barbarian-xphb-path-of-the-berserker-xphb.md"
-    },
-    {
       "basename": "barbarian-xphb",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/barbarian-xphb.md"
-    },
-    {
-      "basename": "Class - Subclass Feature Table",
-      "path": "z_Templates/Class - Subclass Feature Table.md"
     },
     {
       "basename": "Rules & Meta",
@@ -179,26 +199,6 @@
     {
       "basename": "Boros Legionnaire",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Boros Legionnaire.md"
-    },
-    {
-      "basename": "Backgrounds",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Backgrounds.md"
-    },
-    {
-      "basename": "Beast Hunter",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Beast Hunter.md"
-    },
-    {
-      "basename": "Azorius Functionary",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Azorius Functionary.md"
-    },
-    {
-      "basename": "Athlete",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Athlete.md"
-    },
-    {
-      "basename": "Apprentice Diver",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice Diver.md"
     }
   ],
   "omittedPaths": [],

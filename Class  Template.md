@@ -1,7 +1,7 @@
 # Barbarian
 *Source: Player's Handbook (2024) p. 50. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-> [!tldr] Class and Feature Progression
+> [!tldr] Martial Class and Feature Progression
 > 
 > <table class="class-progression">
 > <thead>
