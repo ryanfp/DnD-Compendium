@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled 2",
-      "path": "Untitled 2.md"
+      "basename": "Class  Template",
+      "path": "Class  Template.md"
+    },
+    {
+      "basename": "bard-xphb-college-of-glamour-xphb",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/bard-xphb-college-of-glamour-xphb.md"
+    },
+    {
+      "basename": "cleric-xphb-death-domain-dmg",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cleric/cleric-xphb-death-domain-dmg.md"
+    },
+    {
+      "basename": "barbarian-xphb-path-of-the-berserker-xphb",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/barbarian-xphb-path-of-the-berserker-xphb.md"
+    },
+    {
+      "basename": "barbarian-xphb",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/barbarian-xphb.md"
+    },
+    {
+      "basename": "Class - Subclass Feature Table",
+      "path": "z_Templates/Class - Subclass Feature Table.md"
+    },
+    {
+      "basename": "Rules & Meta",
+      "path": "📚 - Information Compendium/📝 - Rules & Mechanics/Rules & Meta.md"
+    },
+    {
+      "basename": "Classes",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
     },
     {
       "basename": "Accursed",
@@ -171,34 +199,6 @@
     {
       "basename": "Apprentice Diver",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice Diver.md"
-    },
-    {
-      "basename": "Amnesiac",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Amnesiac.md"
-    },
-    {
-      "basename": "acolyte-xphb",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/acolyte-xphb.md"
-    },
-    {
-      "basename": "Acolyte",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Acolyte.md"
-    },
-    {
-      "basename": "Convert Image to Wiki",
-      "path": "z_Templates/Convert Image to Wiki.md"
-    },
-    {
-      "basename": "Insert File Title",
-      "path": "z_Templates/Insert File Title.md"
-    },
-    {
-      "basename": "Heading",
-      "path": "Heading.md"
-    },
-    {
-      "basename": "image",
-      "path": "image.png"
     }
   ],
   "omittedPaths": [],

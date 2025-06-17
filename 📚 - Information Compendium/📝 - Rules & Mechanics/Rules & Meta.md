@@ -53,8 +53,8 @@ A short list on what meta or “out of world” apply to my games.
 - When making a character you will use a slightly edited [point buy system](https://chicken-dinner.com/5e/5e-point-buy.html#select&NA&8&8&8&8&8&8&0&0&27&15&8&19&15&12&9&7&5&4&3&2&1&0&1&2&4&6&9&4&4&4&4&4&4). 
 - Most values are the same, you get a maximum of **30** points to spend instead of 27. Minimum and maximum values of abilities remain the same. 
 #### **Feats & Flavorful Feats**
-- Feats are now earned every three (3) **character** levels, not subclass levels. 
-- There are no half, full or ASIs. You get a feat which comes with a +1 to a stat of your choice.
+- Feats are now earned every four (4) **character** levels, not subclass levels. 
+- There are no half, full or ASIs. You get a feat which comes with a +1 to a stat of your choice per 2024 Edition Rules.
 - Some feats have been moved to be specific to character creation or [[downtime activities]].
 - These are called [[Flavorful Feats]] and they have been modified from their original form to no longer include ASI (if applicable).
 #### **Flanking**
