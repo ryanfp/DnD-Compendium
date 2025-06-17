@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Accursed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Accursed\"}",
+                  "eState": "{\"scroll\":232.81414476573295}"
+                },
+                {
+                  "title": "Cobalt Scholar - Sage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Cobalt Scholar - Sage.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Cobalt Scholar - Sage\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":12},\"to\":{\"line\":27,\"ch\":12}}}"
+                },
+                {
                   "title": "entertainer",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/entertainer.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"entertainer\"}",
@@ -42,7 +54,7 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Cobalt Scholar (Sage)",
+                  "title": "Cobalt Scholar - Sage",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Cobalt Scholar - Sage.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Cobalt Scholar (Sage)\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":48,\"ch\":0},\"to\":{\"line\":48,\"ch\":0}},\"scroll\":13.53597730743402}"
@@ -96,7 +108,7 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Cobalt Scholar (Sage)",
+                  "title": "Cobalt Scholar - Sage",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Cobalt Scholar - Sage.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Cobalt Scholar (Sage)\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":34},\"to\":{\"line\":31,\"ch\":34}},\"scroll\":0}"
@@ -276,7 +288,7 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Cobalt Scholar (Sage)",
+                  "title": "Cobalt Scholar - Sage",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Cobalt Scholar - Sage.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Cobalt Scholar (Sage)\"}",
                   "eState": "{}"
@@ -2698,13 +2710,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Cobalt Scholar - Sage.md",
-                "mode": "source",
+                "file": "Untitled 2.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Cobalt Scholar - Sage"
+              "title": "Untitled 2"
             }
           },
           {
@@ -2834,7 +2846,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.51625061035156
+    "width": 200
   },
   "right": {
     "id": "fc1490c296b0c5ab",
@@ -3122,7 +3134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -3161,11 +3173,13 @@
   },
   "active": "3a73ca7b9dac80c9",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Cobalt Scholar - Sage.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/entertainer.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/dragonmarked-scion-foequickstone.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/dragonmarked-foundling-foequickstone.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/dragonmarked-bravo-foequickstone.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Cobalt Scholar - Sage.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Ashari.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Artisan.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice Witch.md",
@@ -3185,8 +3199,6 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Dimir Operative.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Destined.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Desert Runner.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Custom Background.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Cult Initiate.md",
     "image.png",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/img/athlete.webp",
     "📚 - Information Compendium/books/the-illrigger-revised/img/011-00-012-glowing-scroll.webp",
