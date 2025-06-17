@@ -25,7 +25,7 @@ You can always find a place to perform, usually in an inn or tavern but possibly
 
 A good entertainer is versatile, spicing up every performance with a variety of different routines. Choose one to three routines or roll on the table below to define your expertise as an entertainer.
 
-`dice: [](entertainer.md#^routines)`
+`dice: [[entertainer#^routines]]`
 
 | dice: d10 | Routines |
 |-----------|----------|

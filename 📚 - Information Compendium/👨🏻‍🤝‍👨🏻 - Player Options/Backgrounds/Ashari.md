@@ -53,7 +53,7 @@ To learn more about your character's Ashari order, see ""The Ashari"".
 
 **Ashari Personality Traits**
 
-*`dice: [](Ashari.md#^ashari-personality-traits)`*
+*`dice: [[Ashari.md#^ashari-personality-traits]]`*
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
