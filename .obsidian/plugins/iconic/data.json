@@ -41,6 +41,12 @@
     },
     "z_Templates/Arcane Class Feature Table.md": {
       "icon": "lucide-layout-grid"
+    },
+    "z_Templates/Martial Class Feature Table.md": {
+      "icon": "lucide-layout-grid"
+    },
+    "z_Templates/Subclass Feature Table.md": {
+      "icon": "lucide-layout-grid"
     }
   },
   "bookmarkIcons": {},

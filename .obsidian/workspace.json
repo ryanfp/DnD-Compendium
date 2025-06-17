@@ -18,6 +18,78 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "6 - Insert Infobox - Right",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/6 - Insert Infobox - Right.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"6 - Insert Infobox - Right\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":20},\"to\":{\"line\":13,\"ch\":20}}}"
+                },
+                {
+                  "title": "5 - Insert Infobox - Left",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/5 - Insert Infobox - Left.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"5 - Insert Infobox - Left\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "6 - Insert Infobox - Right",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/6 - Insert Infobox - Right.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Insert Infobox - Right\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "5 - Insert Infobox - Left",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/5 - Insert Infobox - Left.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Insert Infobox - Left\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "4 - Insert Wiki Sidebar",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/4 - Insert Wiki Sidebar.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"4 - Insert Wiki Sidebar\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Link Auto Title",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Link Auto Title.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Link Auto Title\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "3 - Session Notes Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/3 - Session Notes Template.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"3 - Session Notes Template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2 - Insert Table of Contents",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/2 - Insert Table of Contents.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"2 - Insert Table of Contents\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "1 - Basic Callout Selecter",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1 - Basic Callout Selecter.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"1 - Basic Callout Selecter\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Subclass Feature Table",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Subclass Feature Table.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Subclass Feature Table\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":18},\"to\":{\"line\":29,\"ch\":18}}}"
+                },
+                {
+                  "title": "Martial Class Feature Table",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Martial Class Feature Table.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Martial Class Feature Table\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":18},\"to\":{\"line\":29,\"ch\":18}}}"
+                },
+                {
+                  "title": "Arcane Class Feature Table",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Arcane Class Feature Table.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Arcane Class Feature Table\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Subclass Feature Table",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Subclass Feature Table.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Subclass Feature Table\"}",
@@ -816,9 +888,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Insert Wiki Sidebar",
+                  "title": "4 - Insert Wiki Sidebar",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Wiki Sidebar.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Insert Wiki Sidebar\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/4 - Insert Wiki Sidebar.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Insert Wiki Sidebar\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -864,9 +936,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
                 },
                 {
-                  "title": "Insert Infobox - Left",
+                  "title": "5 - Insert Infobox - Left",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Infobox - Left.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Insert Infobox - Left\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/5 - Insert Infobox - Left.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Insert Infobox - Left\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -894,9 +966,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Basic Callout Selecter",
+                  "title": "1 - Basic Callout Selecter",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Basic Callout Selecter.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Basic Callout Selecter\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1 - Basic Callout Selecter.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Basic Callout Selecter\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -2688,21 +2760,21 @@
                   "eState": "{\"scroll\":0}"
                 },
                 {
-                  "title": "Insert Infobox - Left",
+                  "title": "5 - Insert Infobox - Left",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Infobox - Left.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Infobox - Left\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/5 - Insert Infobox - Left.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Infobox - Left\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":17},\"to\":{\"line\":11,\"ch\":17}}}"
                 },
                 {
-                  "title": "Insert Infobox - Right",
+                  "title": "6 - Insert Infobox - Right",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Infobox - Right.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Infobox - Right\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/6 - Insert Infobox - Right.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Infobox - Right\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":20},\"to\":{\"line\":13,\"ch\":20}}}"
                 },
                 {
-                  "title": "Insert Wiki Sidebar",
+                  "title": "4 - Insert Wiki Sidebar",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Wiki Sidebar.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Wiki Sidebar\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/4 - Insert Wiki Sidebar.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Wiki Sidebar\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":1},\"to\":{\"line\":2,\"ch\":1}}}"
                 },
                 {
@@ -2712,9 +2784,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":20},\"to\":{\"line\":47,\"ch\":0}},\"scroll\":27.018229166666668}"
                 },
                 {
-                  "title": "Insert Wiki Sidebar",
+                  "title": "4 - Insert Wiki Sidebar",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Wiki Sidebar.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Wiki Info Box\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/4 - Insert Wiki Sidebar.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Wiki Info Box\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":9},\"to\":{\"line\":1,\"ch\":9}},\"scroll\":0}"
                 },
                 {
@@ -2724,9 +2796,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":99,\"ch\":14},\"to\":{\"line\":99,\"ch\":14}},\"scroll\":53.285714285714285}"
                 },
                 {
-                  "title": "Insert Wiki Sidebar",
+                  "title": "4 - Insert Wiki Sidebar",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Wiki Sidebar.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Wiki Info Box\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/4 - Insert Wiki Sidebar.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Wiki Info Box\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":1},\"to\":{\"line\":2,\"ch\":1}}}"
                 },
                 {
@@ -2766,9 +2838,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Insert Wiki Sidebar",
+                  "title": "4 - Insert Wiki Sidebar",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Wiki Sidebar.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Wiki Info Box\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/4 - Insert Wiki Sidebar.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Wiki Info Box\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":20},\"to\":{\"line\":13,\"ch\":20}},\"scroll\":0}"
                 },
                 {
@@ -2806,13 +2878,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/Arcane Class Feature Table.md",
+                "file": "z_Templates/Convert Image to Wiki.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Arcane Class Feature Table"
+              "title": "Convert Image to Wiki"
             }
           }
         ]
@@ -3244,15 +3316,22 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "fcaa59025a7544d2",
+  "active": "3a73ca7b9dac80c9",
   "lastOpenFiles": [
+    "z_Templates/6 - Insert Infobox - Right.md",
+    "z_Templates/5 - Insert Infobox - Left.md",
+    "z_Templates/4 - Insert Wiki Sidebar.md",
+    "z_Templates/Link Auto Title.md",
+    "z_Templates/3 - Session Notes Template.md",
+    "z_Templates/2 - Insert Table of Contents.md",
+    "z_Templates/1 - Basic Callout Selecter.md",
     "z_Templates/Subclass Feature Table.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/barbarian-xphb-path-of-the-berserker-xphb.md",
+    "z_Templates/Martial Class Feature Table.md",
     "z_Templates/Arcane Class Feature Table.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/barbarian-xphb-path-of-the-berserker-xphb.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-xphb.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cleric/cleric.md",
-    "z_Templates/Martial Class Feature Table.md",
     "Class  Template.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/bard-xphb-college-of-glamour-xphb.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cleric/cleric-xphb-death-domain-dmg.md",
@@ -3265,13 +3344,6 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/entertainer.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/dragonmarked-scion-foequickstone.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/dragonmarked-foundling-foequickstone.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/dragonmarked-bravo-foequickstone.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Ashari.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Artisan.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice Witch.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice of AHA.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Changeling Traveler.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/charlatan-xphb.md",
     "image.png",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/img/athlete.webp",
     "📚 - Information Compendium/books/the-illrigger-revised/img/011-00-012-glowing-scroll.webp",
