@@ -11,15 +11,15 @@
   "icon": "circle-ellipsis",
   "onboarding": {},
   "recentFiles": [
-    "z_Templates/Martial Class Feature Table.md",
-    "z_Templates/Subclass Feature Table.md",
-    "z_Templates/Basic Callout Selecter.md",
     "z_Templates/Insert Table of Contents.md",
     "z_Templates/Session Notes Template.md",
     "z_Templates/Link Auto Title.md",
     "z_Templates/Insert Wiki Sidebar.md",
     "z_Templates/Insert Infobox - Left.md",
     "z_Templates/Insert Infobox - Right.md",
+    "3-Content/Rules/skills.md",
+    "z_Templates/Arcane Class Feature Table.md",
+    "z_Templates/Edit Metadata.md",
     "z_Templates/Convert Image to Wiki.md"
   ],
   "ribbonAction": "toolbar",

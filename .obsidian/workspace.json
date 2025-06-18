@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "7 - Edit Metadata",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/7 - Edit Metadata.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"7 - Edit Metadata\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":2},\"to\":{\"line\":17,\"ch\":2}}}"
+                },
+                {
+                  "title": "Arcane Class Feature Table",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Arcane Class Feature Table.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Arcane Class Feature Table\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Convert Image to Wiki",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/8 - Convert Image to Wiki.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Convert Image to Wiki\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "6 - Insert Infobox - Right",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/6 - Insert Infobox - Right.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"6 - Insert Infobox - Right\"}",
@@ -626,7 +644,7 @@
                 {
                   "title": "Convert Image to Wiki",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Convert Image to Wiki.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Convert Image to Wiki\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/8 - Convert Image to Wiki.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Convert Image to Wiki\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -896,7 +914,7 @@
                 {
                   "title": "Convert Image to Wiki",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Convert Image to Wiki.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Image Convert\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/8 - Convert Image to Wiki.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Image Convert\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":30},\"to\":{\"line\":0,\"ch\":30}}}"
                 },
                 {
@@ -908,7 +926,7 @@
                 {
                   "title": "Convert Image to Wiki",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Convert Image to Wiki.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Image Convert\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/8 - Convert Image to Wiki.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Image Convert\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":3},\"to\":{\"line\":2,\"ch\":3}}}"
                 },
                 {
@@ -920,7 +938,7 @@
                 {
                   "title": "Convert Image to Wiki",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Convert Image to Wiki.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Image Convert\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/8 - Convert Image to Wiki.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Image Convert\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
                 },
                 {
@@ -932,7 +950,7 @@
                 {
                   "title": "Convert Image to Wiki",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Convert Image to Wiki.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Image Convert\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/8 - Convert Image to Wiki.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Image Convert\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
                 },
                 {
@@ -960,9 +978,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Edit Metadata",
+                  "title": "7 - Edit Metadata",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Edit Metadata.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Edit Metadata\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/7 - Edit Metadata.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Edit Metadata\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -974,7 +992,7 @@
                 {
                   "title": "Convert Image to Wiki",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Convert Image to Wiki.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/8 - Convert Image to Wiki.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -2328,9 +2346,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":91},\"to\":{\"line\":6,\"ch\":91}},\"scroll\":0}"
                 },
                 {
-                  "title": "Edit Metadata",
+                  "title": "7 - Edit Metadata",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Edit Metadata.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Edit Metadata\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/7 - Edit Metadata.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Edit Metadata\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -2340,9 +2358,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Edit Metadata",
+                  "title": "7 - Edit Metadata",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Edit Metadata.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Edit Metadata\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/7 - Edit Metadata.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Edit Metadata\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -2352,9 +2370,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
                 },
                 {
-                  "title": "Edit Metadata",
+                  "title": "7 - Edit Metadata",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Edit Metadata.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"MODAL\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/7 - Edit Metadata.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"MODAL\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":2},\"to\":{\"line\":17,\"ch\":2}}}"
                 },
                 {
@@ -2878,13 +2896,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/Convert Image to Wiki.md",
+                "file": "z_Templates/8 - Convert Image to Wiki.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Convert Image to Wiki"
+              "title": "8 - Convert Image to Wiki"
             }
           }
         ]
@@ -2990,7 +3008,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 246.51625061035156
   },
   "right": {
     "id": "fc1490c296b0c5ab",
@@ -3312,11 +3330,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "3a73ca7b9dac80c9",
   "lastOpenFiles": [
+    "z_Templates/7 - Edit Metadata.md",
+    "z_Templates/Arcane Class Feature Table.md",
+    "z_Templates/8 - Convert Image to Wiki.md",
+    "3-Content/Rules/skills.md",
     "z_Templates/6 - Insert Infobox - Right.md",
     "z_Templates/5 - Insert Infobox - Left.md",
     "z_Templates/4 - Insert Wiki Sidebar.md",
@@ -3326,7 +3349,6 @@
     "z_Templates/1 - Basic Callout Selecter.md",
     "z_Templates/Subclass Feature Table.md",
     "z_Templates/Martial Class Feature Table.md",
-    "z_Templates/Arcane Class Feature Table.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/barbarian-xphb-path-of-the-berserker-xphb.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-xphb.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard.md",
@@ -3340,9 +3362,6 @@
     "Untitled 1.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Cobalt Scholar - Sage.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/entertainer.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/dragonmarked-scion-foequickstone.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/dragonmarked-foundling-foequickstone.md",
     "image.png",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/img/athlete.webp",
     "📚 - Information Compendium/books/the-illrigger-revised/img/011-00-012-glowing-scroll.webp",

@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Convert Image to Wiki",
-      "path": "z_Templates/Convert Image to Wiki.md"
+      "basename": "8 - Convert Image to Wiki",
+      "path": "z_Templates/8 - Convert Image to Wiki.md"
+    },
+    {
+      "basename": "7 - Edit Metadata",
+      "path": "z_Templates/7 - Edit Metadata.md"
+    },
+    {
+      "basename": "Arcane Class Feature Table",
+      "path": "z_Templates/Arcane Class Feature Table.md"
     },
     {
       "basename": "6 - Insert Infobox - Right",
@@ -39,10 +47,6 @@
     {
       "basename": "Martial Class Feature Table",
       "path": "z_Templates/Martial Class Feature Table.md"
-    },
-    {
-      "basename": "Arcane Class Feature Table",
-      "path": "z_Templates/Arcane Class Feature Table.md"
     },
     {
       "basename": "barbarian-xphb-path-of-the-berserker-xphb",
@@ -195,10 +199,6 @@
     {
       "basename": "criminal-xphb",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/criminal-xphb.md"
-    },
-    {
-      "basename": "Criminal",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Criminal.md"
     }
   ],
   "omittedPaths": [],
