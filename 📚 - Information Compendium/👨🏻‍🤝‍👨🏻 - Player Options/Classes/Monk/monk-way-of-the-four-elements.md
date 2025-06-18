@@ -8,7 +8,7 @@ aliases:
 - Way of the Four Elements
 ---
 # Way of the Four Elements
-*[Monk](./monk.md): Monastic Tradition*  
+*[Monk](Monk.md): Monastic Tradition*  
 *Source: Player's Handbook p. 80*  
 
 > [!tldr] Class and Feature Progression

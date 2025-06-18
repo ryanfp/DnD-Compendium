@@ -8,7 +8,7 @@ aliases:
 - Drakewarden
 ---
 # Drakewarden
-*[Ranger](./ranger.md): Ranger Archetype*  
+*[Ranger](Ranger.md): Ranger Archetype*  
 *Source: Fizban's Treasury of Dragons p. 15*  
 
 > [!tldr] Class and Feature Progression

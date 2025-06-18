@@ -11,10 +11,772 @@
             "id": "3a73ca7b9dac80c9",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
+                  "title": "warlock-xphb-the-fiend",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/warlock-xphb-the-fiend.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"warlock-xphb-the-fiend\"}",
+                  "eState": "{}"
+                },
+                {
                   "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Undead",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The Undead.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"The Undead\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Parasite",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The Parasite.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"The Parasite\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Hexblade",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The Hexblade.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"The Hexblade\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Great Old One",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The Great Old One.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Old One\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Genie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The Genie.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"The Genie\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The First Vampire",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The First Vampire.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"The First Vampire\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Fiend",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The Fiend.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"The Fiend\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Fathomless",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The Fathomless.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"The Fathomless\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Celestial",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The Celestial.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"The Celestial\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Archfey",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The Archfey.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"The Archfey\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Warlock",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/Warlock.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Warlock\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Ascended",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Vessel/The Ascended.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"The Ascended\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "sorcerer-xphb-wild-magic-sorcery-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-xphb-wild-magic-sorcery-xphb.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"sorcerer-xphb-wild-magic-sorcery-xphb\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "sorcerer-xphb-clockwork-sorcery-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-xphb-clockwork-sorcery-xphb.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"sorcerer-xphb-clockwork-sorcery-xphb\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "sorcerer-xphb-aberrant-sorcery-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-xphb-aberrant-sorcery-xphb.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"sorcerer-xphb-aberrant-sorcery-xphb\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "sorcerer-xphb-clockwork-sorcery-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-xphb-clockwork-sorcery-xphb.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"sorcerer-xphb-clockwork-sorcery-xphb\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "sorcerer-xphb-shadow-magic-xge",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-xphb-shadow-magic-xge.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"sorcerer-xphb-shadow-magic-xge\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Runechild",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Runechild.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Runechild\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "sorcerer-xphb-runechild-tdcsr",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-xphb-runechild-tdcsr.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"sorcerer-xphb-runechild-tdcsr\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "sorcerer-xphb-draconic-sorcery-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-xphb-draconic-sorcery-xphb.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"sorcerer-xphb-draconic-sorcery-xphb\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Aberrant Mind",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Aberrant Mind.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Aberrant Mind\"}",
+                  "eState": "{\"scroll\":20.532540276878237}"
+                },
+                {
+                  "title": "sorcerer-xphb-aberrant-sorcery-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-xphb-aberrant-sorcery-xphb.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"sorcerer-xphb-aberrant-sorcery-xphb\"}",
+                  "eState": "{\"scroll\":29.61395168798575}"
+                },
+                {
+                  "title": "sorcerer-xphb-aberrant-mind-tce",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-xphb-aberrant-mind-tce.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"sorcerer-xphb-aberrant-mind-tce\"}",
+                  "eState": "{\"scroll\":20.998791050550206}"
+                },
+                {
+                  "title": "sorcerer-xphb-aberrant-sorcery-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-xphb-aberrant-sorcery-xphb.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"sorcerer-xphb-aberrant-sorcery-xphb\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "sorcerer-xphb-aberrant-mind-tce",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-xphb-aberrant-mind-tce.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"sorcerer-xphb-aberrant-mind-tce\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "sorcerer-xphb-aberrant-sorcery-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-xphb-aberrant-sorcery-xphb.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"sorcerer-xphb-aberrant-sorcery-xphb\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "sorcerer-xphb-aberrant-mind-tce",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-xphb-aberrant-mind-tce.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"sorcerer-xphb-aberrant-mind-tce\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Aberrant Mind",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Aberrant Mind.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Aberrant Mind\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "sorcerer-xphb-aberrant-mind-tce",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-xphb-aberrant-mind-tce.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"sorcerer-xphb-aberrant-mind-tce\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Wretched Bloodline",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Wretched Bloodline.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Wretched Bloodline\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Wild Magic",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Wild Magic.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Wild Magic\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Storm Sorcery",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Storm Sorcery.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Storm Sorcery\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Shadow Magic",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Shadow Magic.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Shadow Magic\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Runechild",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Runechild.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Runechild\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Lunar Sorcery",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Lunar Sorcery.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Lunar Sorcery\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Haunted",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Haunted.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Haunted\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "sorcerer-draconic-bloodline",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-draconic-bloodline.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"sorcerer-draconic-bloodline\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Divine Soul",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Divine Soul.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Divine Soul\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Clockwork Soul",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Clockwork Soul.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Clockwork Soul\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Aberrant Mind",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Aberrant Mind.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Aberrant Mind\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Sorcerer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Sorcerer.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sorcerer\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Swashbuckler",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Rogue/Swashbuckler.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Swashbuckler\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Thief",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Rogue/Thief.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Thief\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Soulknife",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Rogue/Soulknife.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Soulknife\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Scout",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Rogue/Scout.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Scout\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Phantom",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Rogue/Phantom.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Phantom\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Misfortune Bringer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Rogue/Misfortune Bringer.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Misfortune Bringer\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Mastermind",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Rogue/Mastermind.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Mastermind\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Inquisitive",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Rogue/Inquisitive.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Inquisitive\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Highway Rider",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Rogue/Highway Rider.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Highway Rider\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Assassin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Rogue/Assassin.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Assassin\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Arcane Trickster",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Rogue/Arcane Trickster.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Arcane Trickster\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "ranger-xphb-fey-wanderer-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/ranger-xphb-fey-wanderer-xphb.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"ranger-xphb-fey-wanderer-xphb\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Vermin Lord",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/Vermin Lord.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Vermin Lord\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Swarmkeeper",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/Swarmkeeper.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Swarmkeeper\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Monster Slayer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/Monster Slayer.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Monster Slayer\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Hunter",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/Hunter.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Hunter\"}",
+                  "eState": "{\"scroll\":29.61395168798575}"
+                },
+                {
+                  "title": "Horizon Walker",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/Horizon Walker.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Horizon Walker\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Green Reaper",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/Green Reaper.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Green Reaper\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Gloom Stalker",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/Gloom Stalker.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Gloom Stalker\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Fey Wanderer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/Fey Wanderer.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Fey Wanderer\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "ranger-drakewarden-ftd",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/ranger-drakewarden-ftd.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"ranger-drakewarden-ftd\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Ranger",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/Ranger.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Ranger\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Oath of Zeal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Paladin/Oath of Zeal.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Oath of Zeal\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "paladin-xphb-oath-of-vengeance-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Paladin/paladin-xphb-oath-of-vengeance-xphb.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"paladin-xphb-oath-of-vengeance-xphb\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "paladin-xphb-oath-of-the-ancients-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Paladin/paladin-xphb-oath-of-the-ancients-xphb.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"paladin-xphb-oath-of-the-ancients-xphb\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "paladin-xphb-oath-of-glory-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Paladin/paladin-xphb-oath-of-glory-xphb.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"paladin-xphb-oath-of-glory-xphb\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Oathbreaker",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Paladin/Oathbreaker.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Oathbreaker\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Oath of Zeal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Paladin/Oath of Zeal.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Oath of Zeal\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Oath of Vengeance",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Paladin/Oath of Vengeance.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Oath of Vengeance\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Oath of the Watchers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Paladin/Oath of the Watchers.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Oath of the Watchers\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "paladin-oath-of-the-open-sea-tdcsr",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Paladin/paladin-oath-of-the-open-sea-tdcsr.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"paladin-oath-of-the-open-sea-tdcsr\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "paladin-oath-of-the-crown-scag",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Paladin/paladin-oath-of-the-crown-scag.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"paladin-oath-of-the-crown-scag\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Oath of the Ancients",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Paladin/Oath of the Ancients.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Oath of the Ancients\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Oath of Redemption",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Paladin/Oath of Redemption.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Oath of Redemption\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Oath of Pestilence",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Paladin/Oath of Pestilence.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Oath of Pestilence\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Oath of Glory",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Paladin/Oath of Glory.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Oath of Glory\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Oath of Devotion",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Paladin/Oath of Devotion.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Oath of Devotion\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Oath of Conquest",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Paladin/Oath of Conquest.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Oath of Conquest\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Paladin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Paladin/Paladin.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Paladin\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "monk-xphb-warrior-of-shadow-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Monk/monk-xphb-warrior-of-shadow-xphb.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"monk-xphb-warrior-of-shadow-xphb\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "monk-xphb-warrior-of-mercy-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Monk/monk-xphb-warrior-of-mercy-xphb.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"monk-xphb-warrior-of-mercy-xphb\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Way of the Sun Soul",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Monk/Way of the Sun Soul.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Way of the Sun Soul\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Way of the Open Hand",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Monk/Way of the Open Hand.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Way of the Open Hand\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Way of the Long Death",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Monk/Way of the Long Death.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Way of the Long Death\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Way of the Leaden Crown",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Monk/Way of the Leaden Crown.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Way of the Leaden Crown\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Way of the Kensei",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Monk/Way of the Kensei.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Way of the Kensei\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "monk-way-of-the-four-elements",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Monk/monk-way-of-the-four-elements.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"monk-way-of-the-four-elements\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Way of the Drunken Master",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Monk/Way of the Drunken Master.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Way of the Drunken Master\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Way of the Cobalt Soul",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Monk/Way of the Cobalt Soul.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Way of the Cobalt Soul\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Way of the Astral Self",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Monk/Way of the Astral Self.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Way of the Astral Self\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Way of the Ascendant Dragon",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Monk/Way of the Ascendant Dragon.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Way of the Ascendant Dragon\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Way of Shadow",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Monk/Way of Shadow.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Way of Shadow\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Way of Pride",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Monk/Way of Pride.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Way of Pride\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Way of Mercy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Monk/Way of Mercy.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Way of Mercy\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Monk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Monk/Monk.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Monk\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "spellblade-kt-cll",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Magus/spellblade-kt-cll.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"spellblade-kt-cll\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Rimeblade Technique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Magus/Rimeblade Technique.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Rimeblade Technique\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Spellfist Technique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Magus/Spellfist Technique.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Spellfist Technique\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Spellshot Technique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Magus/Spellshot Technique.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Spellshot Technique\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Swiftblade Technique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Magus/Swiftblade Technique.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Swiftblade Technique\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Spellfist Technique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Magus/Spellfist Technique.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Spellfist Technique\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Rimeblade Technique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Magus/Rimeblade Technique.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Rimeblade Technique\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Mage Hunter Technique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Magus/Mage Hunter Technique.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Mage Hunter Technique\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Guardian Technique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Magus/Guardian Technique.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Guardian Technique\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Flying Sword Technique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Magus/Flying Sword Technique.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Flying Sword Technique\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Battlemage Technique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Magus/Battlemage Technique.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Battlemage Technique\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Aether Blade Technique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Magus/Aether Blade Technique.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Aether Blade Technique\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "spellblade-kt-cll",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Magus/spellblade-kt-cll.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"spellblade-kt-cll\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Aether Blade Technique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Magus/Aether Blade Technique.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"spellblade-aether-blade-technique-kt-cll\"}",
+                  "eState": "{\"scroll\":29.61395168798575}"
+                },
+                {
+                  "title": "Absolute Chapter",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Jaeger/Absolute Chapter.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Absolute Chapter\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Occultist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Occultist.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Occultist\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Medium Specialization",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Medium Specialization.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Medium Specialization\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Occultist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Occultist.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Occultist\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Spy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Spy.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Spy\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Antiquarian",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Antiquarian.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Antiquarian\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Exterminator",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Exterminator.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Exterminator\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Detective",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Detective.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Detective\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Archivist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Archivist.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Archivist\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Antiquarian",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Antiquarian.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Antiquarian\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Archivist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Archivist.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Archivist\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Investigator Specialization",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Investigator Specialization.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Investigator Specialization\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Antiquarian",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Antiquarian.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"investigator-antiquarian-vss\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Inquisitor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Inquisitor.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Inquisitor\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Exterminator",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Exterminator.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Exterminator\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Investigator",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Investigator.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Investigator\"}",
                   "eState": "{}"
                 },
                 {
@@ -102,9 +864,9 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "investigator-exterminator-vss",
+                  "title": "Exterminator",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/investigator-exterminator-vss.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"investigator-exterminator-vss\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Exterminator.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"investigator-exterminator-vss\"}",
                   "eState": "{}"
                 },
                 {
@@ -114,9 +876,9 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "investigator-archivist-vss",
+                  "title": "Archivist",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/investigator-archivist-vss.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"investigator-archivist-vss\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Archivist.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"investigator-archivist-vss\"}",
                   "eState": "{}"
                 },
                 {
@@ -156,9 +918,9 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "investigator-archivist-vss",
+                  "title": "Archivist",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/investigator-archivist-vss.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"investigator-archivist-vss\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Archivist.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"investigator-archivist-vss\"}",
                   "eState": "{}"
                 },
                 {
@@ -168,9 +930,9 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "investigator-archivist-vss",
+                  "title": "Archivist",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/investigator-archivist-vss.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"investigator-archivist-vss\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Archivist.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"investigator-archivist-vss\"}",
                   "eState": "{}"
                 },
                 {
@@ -180,9 +942,9 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "investigator-archivist-vss",
+                  "title": "Archivist",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/investigator-archivist-vss.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"investigator-archivist-vss\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Archivist.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"investigator-archivist-vss\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -192,9 +954,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "investigator-archivist-vss",
+                  "title": "Archivist",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/investigator-archivist-vss.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"investigator-archivist-vss\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Archivist.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"investigator-archivist-vss\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -222,9 +984,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "investigator-archivist-vss",
+                  "title": "Archivist",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/investigator-archivist-vss.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"investigator-archivist-vss\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Archivist.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"investigator-archivist-vss\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -234,9 +996,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "investigator-archivist-vss",
+                  "title": "Archivist",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/investigator-archivist-vss.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"investigator-archivist-vss\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Archivist.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"investigator-archivist-vss\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -3856,13 +4618,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Investigator.md",
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The Undying.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Investigator"
+              "title": "The Undying"
             }
           }
         ]
@@ -3998,25 +4760,6 @@
             }
           },
           {
-            "id": "c0c2fbf5da705f4c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {},
-              "icon": "viewIcon",
-              "title": "Markdown-Autocomplete"
-            }
-          },
-          {
             "id": "c8ee4e8637678702",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -4031,12 +4774,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gunslinger.md",
-                "linksCollapsed": true,
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Gunslinger"
+              "title": "Outgoing links"
             }
           },
           {
@@ -4054,7 +4796,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Gunslinger/Gunslinger.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -4064,7 +4805,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gunslinger"
+              "title": "Backlinks"
             }
           },
           {
@@ -4251,12 +4992,31 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "c0c2fbf5da705f4c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 484.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -4289,37 +5049,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "fcaa59025a7544d2",
   "lastOpenFiles": [
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Gunslinger/Gunslinger.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Investigator.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Inquisitor Specialization.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Occultist.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Medium Specialization.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Occultist Specialization.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Spy.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Spy Specialization.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Detective.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Detective Specialization.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/investigator-exterminator-vss.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/investigator-archivist-vss.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Antiquarian Specialization.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Exterminator Specialization.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Investigator Specialization.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Illrigger/Shadowmaster.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Illrigger/Sanguine Knight.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Illrigger/Painkiller.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Illrigger/Hellspeaker.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Illrigger/Architect of Ruin.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Illrigger/Illrigger.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Gunslinger/gunslinger-beastrider-ha-gs.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Gunslinger/gunner-slugger-zgtteot.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Fighter/fighter-xphb-battle-master-xphb.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Fighter/The Bulwark Warrior.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Fighter/Rune Knight.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/warlock-xphb-the-fathomless-tce.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/warlock-xphb-the-archfey.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The Undying.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The Undead.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The Parasite.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The Hexblade.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The Great Old One.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The Genie.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The First Vampire.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The Fiend.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The Fathomless.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The Celestial.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The Archfey.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/Warlock.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Vessel/The Ascended.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-xphb-wild-magic.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-xphb-storm-sorcery-xge.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-xphb-shadow-magic-xge.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-xphb-wild-magic-sorcery-xphb.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-xphb-clockwork-sorcery-xphb.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-xphb-aberrant-sorcery-xphb.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-xphb-runechild-tdcsr.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Runechild.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-xphb-lunar-sorcery-dsotdq.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-xphb-draconic-sorcery-xphb.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-xphb-clockwork-soul-tce.md",
     "image.png",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/img/athlete.webp",
     "📚 - Information Compendium/books/the-illrigger-revised/img/011-00-012-glowing-scroll.webp",
