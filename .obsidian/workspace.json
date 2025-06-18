@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
+                },
+                {
                   "title": "README",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"README\"}",
@@ -4760,15 +4766,20 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
+                "file": "Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Home"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
         ]
@@ -4918,12 +4929,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from Untitled Kanban"
             }
           },
           {
@@ -4941,7 +4952,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Untitled Kanban.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -4951,7 +4962,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for Untitled Kanban"
             }
           },
           {
@@ -5202,8 +5213,12 @@
   },
   "active": "3a73ca7b9dac80c9",
   "lastOpenFiles": [
-    "README.md",
     "Home.md",
+    "Untitled Kanban.md",
+    "z_img/tablet-2448x2448-archfey.jpg",
+    "pixel-banner-images/2560x1600-adventuring-party.jpg",
+    "pixel-banner-images",
+    "README.md",
     "z_Templates/10 - Insert Caption.md",
     "image.png",
     "z_Templates/Class  Template.md",
@@ -5228,7 +5243,6 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Chronurgy Magic.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Blood Magic.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Bladesinging.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-xphb.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/img/athlete.webp",
     "📚 - Information Compendium/books/the-illrigger-revised/img/011-00-012-glowing-scroll.webp",
     "📚 - Information Compendium/books/the-illrigger-revised/img/013-00-014-deceiver-retainer.webp",
@@ -5238,15 +5252,12 @@
     "📚 - Information Compendium/books/the-illrigger-revised/img",
     "📚 - Information Compendium/books/the-illrigger-revised",
     "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-hunt-field-notes/img/15.webp",
-    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-hunt-field-notes/img/12.webp",
     "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-hunt-field-notes/img",
     "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-hunt-field-notes",
-    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-gm-cheatbook/img/00911.webp",
     "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-gm-cheatbook/img",
     "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-gm-cheatbook",
     "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-eldritch-moons-deck/img",
     "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-eldritch-moons-deck",
-    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-character-sheets/img",
-    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-character-sheets"
+    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-character-sheets/img"
   ]
 }

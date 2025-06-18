@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled Kanban",
+      "path": "Untitled Kanban.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Sorcerer",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Sorcerer.md"
-    },
-    {
-      "basename": "Swashbuckler",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Rogue/Swashbuckler.md"
     }
   ],
   "omittedPaths": [],

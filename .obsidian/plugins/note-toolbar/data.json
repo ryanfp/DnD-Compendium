@@ -11,7 +11,6 @@
   "icon": "circle-ellipsis",
   "onboarding": {},
   "recentFiles": [
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-xphb-abjurer-xphb.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-xphb-bladesinging-tce.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-xphb-graviturgy-magic-egw.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-xphb-order-of-scribes-tce.md",
@@ -20,7 +19,8 @@
     "image.png",
     "z_Templates/10 - Insert Caption.md",
     "README.md",
-    "Untitled.md"
+    "Untitled.md",
+    "Untitled Kanban.md"
   ],
   "ribbonAction": "toolbar",
   "scriptingEnabled": false,
