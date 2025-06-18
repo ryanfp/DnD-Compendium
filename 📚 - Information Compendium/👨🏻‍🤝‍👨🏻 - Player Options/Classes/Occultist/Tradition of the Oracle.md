@@ -9,7 +9,7 @@ aliases:
 title: Tradition of the Oracle
 ---
 # Tradition of the Oracle
-*[Occultist](Occultist.md): Occult Tradition*  
+*[Occultist](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Occultist/Occultist.md): Occult Tradition*  
 *Source: Kibbles' Compendium of Legends and Legacies p. 24*  
 
 > [!tldr] Class and Feature Progression
