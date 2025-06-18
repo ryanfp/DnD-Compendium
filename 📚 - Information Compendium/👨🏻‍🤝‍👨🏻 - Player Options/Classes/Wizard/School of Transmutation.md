@@ -8,7 +8,7 @@ aliases:
 - School of Transmutation
 ---
 # School of Transmutation
-*[Wizard](./wizard.md): Arcane Tradition*  
+*[Wizard](Wizard.md): Arcane Tradition*  
 *Source: Player's Handbook p. 119*  
 
 > [!tldr] Class and Feature Progression

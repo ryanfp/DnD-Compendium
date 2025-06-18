@@ -8,7 +8,7 @@ aliases:
 - School of Illusion
 ---
 # School of Illusion
-*[Wizard](./wizard.md): Arcane Tradition*  
+*[Wizard](Wizard.md): Arcane Tradition*  
 *Source: Player's Handbook p. 118*  
 
 > [!tldr] Class and Feature Progression

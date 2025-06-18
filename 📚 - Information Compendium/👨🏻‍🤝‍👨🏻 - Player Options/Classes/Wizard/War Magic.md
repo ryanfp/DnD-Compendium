@@ -8,7 +8,7 @@ aliases:
 - War Magic
 ---
 # War Magic
-*[Wizard](./wizard.md): Arcane Tradition*  
+*[Wizard](Wizard.md): Arcane Tradition*  
 *Source: Xanathar's Guide to Everything p. 59*  
 
 > [!tldr] Class and Feature Progression

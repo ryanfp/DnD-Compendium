@@ -8,7 +8,7 @@ aliases:
 - School of Abjuration
 ---
 # School of Abjuration
-*[Wizard](./wizard.md): Arcane Tradition*  
+*[Wizard](Wizard.md): Arcane Tradition*  
 *Source: Player's Handbook p. 115*  
 
 > [!tldr] Class and Feature Progression

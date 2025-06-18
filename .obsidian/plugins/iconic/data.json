@@ -17,7 +17,7 @@
   "dialogState": {
     "iconMode": true,
     "emojiMode": false,
-    "rulePage": "file"
+    "rulePage": "folder"
   },
   "appIcons": {},
   "tabIcons": {
@@ -47,6 +47,48 @@
     },
     "z_Templates/15 - Subclass Feature Table.md": {
       "icon": "lucide-layout-grid"
+    },
+    "📚 - Information Compendium/Spells": {
+      "icon": "lucide-wand-sparkles",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
+    },
+    "📚 - Information Compendium/⚔ - Features & Skills": {
+      "icon": "lucide-stars",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds": {
+      "icon": "lucide-house",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Bastions.md": {
+      "icon": "lucide-castle"
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes": {
+      "icon": "lucide-swords",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/z_img": {
+      "icon": "lucide-paperclip",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Races.md": {
+      "icon": "lucide-person-standing"
+    },
+    "📚 - Information Compendium/📝 - Rules & Mechanics": {
+      "icon": "help",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
     }
   },
   "bookmarkIcons": {},
@@ -54,5 +96,19 @@
   "propertyIcons": {},
   "ribbonIcons": {},
   "fileRules": [],
-  "folderRules": []
+  "folderRules": [
+    {
+      "id": "yK0j7",
+      "name": "z_img",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-paperclip"
+    }
+  ]
 }

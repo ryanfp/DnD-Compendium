@@ -13,5 +13,6 @@
     "dnd5e-only-admonitions"
   ],
   "showViewHeader": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "baseFontSize": 16
 }

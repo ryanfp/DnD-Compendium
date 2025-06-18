@@ -8,7 +8,7 @@ aliases:
 - Graviturgy Magic
 ---
 # Graviturgy Magic
-*[Wizard](./wizard.md): Arcane Tradition*  
+*[Wizard](Wizard.md): Arcane Tradition*  
 *Source: Explorer's Guide to Wildemount p. 185*  
 
 > [!tldr] Class and Feature Progression

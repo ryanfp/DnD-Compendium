@@ -8,7 +8,7 @@ aliases:
 - Plague Doctor
 ---
 # Plague Doctor
-*[Wizard](./wizard.md): Arcane Tradition*  
+*[Wizard](Wizard.md): Arcane Tradition*  
 *Source: Grim Hollow: The Player's Guide*  
 
 > [!tldr] Class and Feature Progression

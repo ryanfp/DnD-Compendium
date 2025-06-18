@@ -8,7 +8,7 @@ aliases:
 - Chronurgy Magic
 ---
 # Chronurgy Magic
-*[Wizard](./wizard.md): Arcane Tradition*  
+*[Wizard](Wizard.md): Arcane Tradition*  
 *Source: Explorer's Guide to Wildemount p. 184*  
 
 > [!tldr] Class and Feature Progression

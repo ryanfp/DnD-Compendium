@@ -8,7 +8,7 @@ aliases:
 - School of Enchantment
 ---
 # School of Enchantment
-*[Wizard](./wizard.md): Arcane Tradition*  
+*[Wizard](Wizard.md): Arcane Tradition*  
 *Source: Player's Handbook p. 117*  
 
 > [!tldr] Class and Feature Progression

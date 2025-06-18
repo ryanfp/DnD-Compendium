@@ -8,7 +8,7 @@ aliases:
 - Blood Magic
 ---
 # Blood Magic
-*[Wizard](./wizard.md): Arcane Tradition*  
+*[Wizard](Wizard.md): Arcane Tradition*  
 *Source: Tal'Dorei Campaign Setting Reborn p. 178*  
 
 > [!tldr] Class and Feature Progression

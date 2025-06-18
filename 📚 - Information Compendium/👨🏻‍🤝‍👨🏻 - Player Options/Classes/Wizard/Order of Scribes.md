@@ -8,7 +8,7 @@ aliases:
 - Order of Scribes
 ---
 # Order of Scribes
-*[Wizard](./wizard.md): Arcane Tradition*  
+*[Wizard](Wizard.md): Arcane Tradition*  
 *Source: Tasha's Cauldron of Everything p. 77*  
 
 > [!tldr] Class and Feature Progression

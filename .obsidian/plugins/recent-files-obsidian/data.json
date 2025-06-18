@@ -1,6 +1,102 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "10 - Insert Caption",
+      "path": "z_Templates/10 - Insert Caption.md"
+    },
+    {
+      "basename": "Class  Template",
+      "path": "z_Templates/Class  Template.md"
+    },
+    {
+      "basename": "Flavorful Feats",
+      "path": "📚 - Information Compendium/📝 - Rules & Mechanics/Mechanics/Flavorful Feats.md"
+    },
+    {
+      "basename": "wizard-xphb-abjurer-xphb",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-xphb-abjurer-xphb.md"
+    },
+    {
+      "basename": "War Magic",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/War Magic.md"
+    },
+    {
+      "basename": "School of Transmutation",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/School of Transmutation.md"
+    },
+    {
+      "basename": "School of Sangromancy",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/School of Sangromancy.md"
+    },
+    {
+      "basename": "School of Necromancy",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/School of Necromancy.md"
+    },
+    {
+      "basename": "School of Illusion",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/School of Illusion.md"
+    },
+    {
+      "basename": "wizard-school-of-evocation",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-school-of-evocation.md"
+    },
+    {
+      "basename": "School of Enchantment",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/School of Enchantment.md"
+    },
+    {
+      "basename": "School of Divination",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/School of Divination.md"
+    },
+    {
+      "basename": "wizard-school-of-conjuration",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-school-of-conjuration.md"
+    },
+    {
+      "basename": "School of Abjuration",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/School of Abjuration.md"
+    },
+    {
+      "basename": "Plague Doctor",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Plague Doctor.md"
+    },
+    {
+      "basename": "Order of Scribes",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Order of Scribes.md"
+    },
+    {
+      "basename": "Graviturgy Magic",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Graviturgy Magic.md"
+    },
+    {
+      "basename": "Chronurgy Magic",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Chronurgy Magic.md"
+    },
+    {
+      "basename": "Blood Magic",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Blood Magic.md"
+    },
+    {
+      "basename": "Bladesinging",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Bladesinging.md"
+    },
+    {
+      "basename": "wizard-xphb",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-xphb.md"
+    },
+    {
+      "basename": "Wizard",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Wizard.md"
+    },
+    {
       "basename": "The Undying",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The Undying.md"
     },
@@ -103,98 +199,6 @@
     {
       "basename": "Swashbuckler",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Rogue/Swashbuckler.md"
-    },
-    {
-      "basename": "Thief",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Rogue/Thief.md"
-    },
-    {
-      "basename": "Soulknife",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Rogue/Soulknife.md"
-    },
-    {
-      "basename": "Scout",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Rogue/Scout.md"
-    },
-    {
-      "basename": "Phantom",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Rogue/Phantom.md"
-    },
-    {
-      "basename": "Misfortune Bringer",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Rogue/Misfortune Bringer.md"
-    },
-    {
-      "basename": "Mastermind",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Rogue/Mastermind.md"
-    },
-    {
-      "basename": "Inquisitive",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Rogue/Inquisitive.md"
-    },
-    {
-      "basename": "Highway Rider",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Rogue/Highway Rider.md"
-    },
-    {
-      "basename": "Assassin",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Rogue/Assassin.md"
-    },
-    {
-      "basename": "Arcane Trickster",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Rogue/Arcane Trickster.md"
-    },
-    {
-      "basename": "ranger-xphb-fey-wanderer-xphb",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/ranger-xphb-fey-wanderer-xphb.md"
-    },
-    {
-      "basename": "Vermin Lord",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/Vermin Lord.md"
-    },
-    {
-      "basename": "Swarmkeeper",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/Swarmkeeper.md"
-    },
-    {
-      "basename": "Monster Slayer",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/Monster Slayer.md"
-    },
-    {
-      "basename": "Hunter",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/Hunter.md"
-    },
-    {
-      "basename": "Horizon Walker",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/Horizon Walker.md"
-    },
-    {
-      "basename": "Green Reaper",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/Green Reaper.md"
-    },
-    {
-      "basename": "Gloom Stalker",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/Gloom Stalker.md"
-    },
-    {
-      "basename": "Fey Wanderer",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/Fey Wanderer.md"
-    },
-    {
-      "basename": "ranger-drakewarden-ftd",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/ranger-drakewarden-ftd.md"
-    },
-    {
-      "basename": "Ranger",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/Ranger.md"
-    },
-    {
-      "basename": "Oath of Zeal",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Paladin/Oath of Zeal.md"
-    },
-    {
-      "basename": "paladin-xphb-oath-of-vengeance-xphb",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Paladin/paladin-xphb-oath-of-vengeance-xphb.md"
     }
   ],
   "omittedPaths": [],
