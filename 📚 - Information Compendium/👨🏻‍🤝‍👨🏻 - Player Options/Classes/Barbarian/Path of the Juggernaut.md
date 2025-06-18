@@ -8,7 +8,7 @@ aliases:
 - Path of the Juggernaut
 ---
 # Path of the Juggernaut
-*[Barbarian](./barbarian.md): Primal Path*  
+*[Barbarian](Barbarian.md): Primal Path*  
 *Source: Tal'Dorei Campaign Setting Reborn p. 165*  
 
 > [!tldr] Class and Feature Progression

@@ -8,7 +8,7 @@ aliases:
 - College of Requiems
 ---
 # College of Requiems
-*[Bard](./bard.md): Bard College*  
+*[Bard](Bard.md): Bard College*  
 *Source: Grim Hollow: The Player's Guide*  
 
 > [!tldr] Class and Feature Progression

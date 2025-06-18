@@ -8,7 +8,7 @@ aliases:
 - Artillerist
 ---
 # Artillerist
-*[Artificer](./artificer-tce.md): Artificer Specialist*  
+*[Artificer](Artificer.md): Artificer Specialist*  
 *Source: Tasha's Cauldron of Everything p. 17, Eberron: Rising from the Last War p. 59*  
 
 > [!tldr] Class and Feature Progression

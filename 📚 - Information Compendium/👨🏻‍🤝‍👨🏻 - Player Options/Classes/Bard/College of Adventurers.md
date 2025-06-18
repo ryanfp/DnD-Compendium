@@ -8,7 +8,7 @@ aliases:
 - College of Adventurers
 ---
 # College of Adventurers
-*[Bard](./bard.md): Bard College*  
+*[Bard](Bard.md): Bard College*  
 *Source: Grim Hollow: The Player's Guide*  
 
 > [!tldr] Class and Feature Progression

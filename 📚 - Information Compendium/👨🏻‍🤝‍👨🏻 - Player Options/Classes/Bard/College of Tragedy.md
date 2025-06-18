@@ -8,7 +8,7 @@ aliases:
 - College of Tragedy
 ---
 # College of Tragedy
-*[Bard](./bard.md): Bard College*  
+*[Bard](Bard.md): Bard College*  
 *Source: Tal'Dorei Campaign Setting Reborn p. 167*  
 
 > [!tldr] Class and Feature Progression

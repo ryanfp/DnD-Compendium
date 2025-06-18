@@ -8,7 +8,7 @@ aliases:
 - Path of the Zealot
 ---
 # Path of the Zealot
-*[Barbarian](./barbarian.md): Primal Path*  
+*[Barbarian](Barbarian.md): Primal Path*  
 *Source: Xanathar's Guide to Everything p. 11*  
 
 > [!tldr] Class and Feature Progression

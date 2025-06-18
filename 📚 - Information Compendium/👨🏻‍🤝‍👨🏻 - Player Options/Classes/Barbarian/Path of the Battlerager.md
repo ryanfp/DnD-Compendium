@@ -8,7 +8,7 @@ aliases:
 - Path of the Battlerager
 ---
 # Path of the Battlerager
-*[Barbarian](./barbarian.md): Primal Path*  
+*[Barbarian](Barbarian.md): Primal Path*  
 *Source: Sword Coast Adventurer's Guide p. 121*  
 
 > [!tldr] Class and Feature Progression

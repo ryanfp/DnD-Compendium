@@ -8,7 +8,7 @@ aliases:
 - College of Whispers
 ---
 # College of Whispers
-*[Bard](./bard.md): Bard College*  
+*[Bard](Bard.md): Bard College*  
 *Source: Xanathar's Guide to Everything p. 16*  
 
 > [!tldr] Class and Feature Progression

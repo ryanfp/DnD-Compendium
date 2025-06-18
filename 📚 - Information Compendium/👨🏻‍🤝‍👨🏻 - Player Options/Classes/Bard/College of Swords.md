@@ -8,7 +8,7 @@ aliases:
 - College of Swords
 ---
 # College of Swords
-*[Bard](./bard.md): Bard College*  
+*[Bard](Bard.md): Bard College*  
 *Source: Xanathar's Guide to Everything p. 15*  
 
 > [!tldr] Class and Feature Progression

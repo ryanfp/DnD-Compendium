@@ -39,13 +39,13 @@
       ],
       "color": "gray"
     },
-    "z_Templates/Arcane Class Feature Table.md": {
+    "z_Templates/13 - Martial Class Feature Table.md": {
       "icon": "lucide-layout-grid"
     },
-    "z_Templates/Martial Class Feature Table.md": {
+    "z_Templates/14 - Arcane Class Feature Table.md": {
       "icon": "lucide-layout-grid"
     },
-    "z_Templates/Subclass Feature Table.md": {
+    "z_Templates/15 - Subclass Feature Table.md": {
       "icon": "lucide-layout-grid"
     }
   },

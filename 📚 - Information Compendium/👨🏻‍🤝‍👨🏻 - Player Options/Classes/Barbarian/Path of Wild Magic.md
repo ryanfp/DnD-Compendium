@@ -8,7 +8,7 @@ aliases:
 - Path of Wild Magic
 ---
 # Path of Wild Magic
-*[Barbarian](./barbarian.md): Primal Path*  
+*[Barbarian](Barbarian.md): Primal Path*  
 *Source: Tasha's Cauldron of Everything p. 25*  
 
 > [!tldr] Class and Feature Progression

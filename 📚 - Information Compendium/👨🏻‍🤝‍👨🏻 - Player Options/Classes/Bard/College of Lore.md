@@ -8,7 +8,7 @@ aliases:
 - College of Lore
 ---
 # College of Lore
-*[Bard](./bard.md): Bard College*  
+*[Bard](Bard.md): Bard College*  
 *Source: Player's Handbook p. 54. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 > [!tldr] Class and Feature Progression

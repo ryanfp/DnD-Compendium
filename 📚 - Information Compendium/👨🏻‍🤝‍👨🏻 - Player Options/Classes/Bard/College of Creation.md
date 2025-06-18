@@ -8,7 +8,7 @@ aliases:
 - College of Creation
 ---
 # College of Creation
-*[Bard](./bard.md): Bard College*  
+*[Bard](Bard.md): Bard College*  
 *Source: Tasha's Cauldron of Everything p. 28*  
 
 > [!tldr] Class and Feature Progression

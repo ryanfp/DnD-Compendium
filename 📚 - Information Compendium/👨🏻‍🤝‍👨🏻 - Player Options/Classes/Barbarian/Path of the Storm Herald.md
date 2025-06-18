@@ -8,7 +8,7 @@ aliases:
 - Path of the Storm Herald
 ---
 # Path of the Storm Herald
-*[Barbarian](./barbarian.md): Primal Path*  
+*[Barbarian](Barbarian.md): Primal Path*  
 *Source: Xanathar's Guide to Everything p. 10*  
 
 > [!tldr] Class and Feature Progression

@@ -8,7 +8,7 @@ aliases:
 - Path of the Berserker
 ---
 # Path of the Berserker
-*[Barbarian](./barbarian.md): Primal Path*  
+*[Barbarian](Barbarian.md): Primal Path*  
 *Source: Player's Handbook p. 49. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 > [!tldr] Class and Feature Progression

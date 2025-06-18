@@ -8,7 +8,7 @@ aliases:
 - Path of the Beast
 ---
 # Path of the Beast
-*[Barbarian](./barbarian.md): Primal Path*  
+*[Barbarian](Barbarian.md): Primal Path*  
 *Source: Tasha's Cauldron of Everything p. 24*  
 
 > [!tldr] Class and Feature Progression

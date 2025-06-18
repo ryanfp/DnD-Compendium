@@ -8,7 +8,7 @@ aliases:
 - Path of the Ancestral Guardian
 ---
 # Path of the Ancestral Guardian
-*[Barbarian](./barbarian.md): Primal Path*  
+*[Barbarian](Barbarian.md): Primal Path*  
 *Source: Xanathar's Guide to Everything p. 9*  
 
 > [!tldr] Class and Feature Progression

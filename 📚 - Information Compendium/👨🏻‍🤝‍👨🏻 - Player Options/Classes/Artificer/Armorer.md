@@ -8,7 +8,7 @@ aliases:
 - Armorer
 ---
 # Armorer
-*[Artificer](./artificer-tce.md): Artificer Specialist*  
+*[Artificer](Artificer.md): Artificer Specialist*  
 *Source: Tasha's Cauldron of Everything p. 15*  
 
 > [!tldr] Class and Feature Progression

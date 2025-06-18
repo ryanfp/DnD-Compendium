@@ -8,7 +8,7 @@ aliases:
 - Xenoalchemist
 ---
 # Xenoalchemist
-*[Alchemist](Alchemist.md): Field of Study*  
+*[Alchemist](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Alchemist/Alchemist.md): Field of Study*  
 *Source: Valda's Spire of Secrets*  
 
 > [!tldr] Class and Feature Progression

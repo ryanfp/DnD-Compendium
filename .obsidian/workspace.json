@@ -18,19 +18,409 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "College of Whispers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/College of Whispers.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Whispers\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "College of Valor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/College of Valor.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Valor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "College of Tragedy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/College of Tragedy.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Tragedy\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "College of Swords",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/College of Swords.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Swords\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "College of Spirits",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/College of Spirits.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Spirits\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "College of Requiems",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/College of Requiems.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Requiems\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "College of Lore",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/College of Lore.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Lore\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "College of Glamour",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/College of Glamour.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Glamour\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "College of Eloquence",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/College of Eloquence.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Eloquence\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "College of Creation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/College of Creation.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Creation\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "College of Adventurers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/College of Adventurers.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Adventurers\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Bard",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/Bard.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Bard\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "barbarian-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/barbarian-xphb.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"barbarian-xphb\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Path of the World Tree",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/Path of the World Tree.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the World Tree\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":2},\"to\":{\"line\":14,\"ch\":2}}}"
+                },
+                {
+                  "title": "barbarian-xphb-path-of-the-berserker-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/barbarian-xphb-path-of-the-berserker-xphb.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"barbarian-xphb-path-of-the-berserker-xphb\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Path of the Berserker",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/Path of the Berserker.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Berserker\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Path of Wild Magic",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/Path of Wild Magic.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of Wild Magic\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Path of the Zealot",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/Path of the Zealot.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Zealot\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Path of the Totem Warrior",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/Path of the Totem Warrior.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Totem Warrior\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Path of the Storm Herald",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/Path of the Storm Herald.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Storm Herald\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Path of the Juggernaut",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/Path of the Juggernaut.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Juggernaut\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Path of the Berserker",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/Path of the Berserker.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Berserker\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Path of the Beast",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/Path of the Beast.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Beast\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Path of the Battlerager",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/Path of the Battlerager.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Battlerager\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Path of the Ancestral Guardian",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/Path of the Ancestral Guardian.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Ancestral Guardian\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Path of the Battlerager",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/Path of the Battlerager.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"barbarian-path-of-the-battlerager-scag\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Classes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Classes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Artificer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Artificer.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artificer\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":3},\"to\":{\"line\":8,\"ch\":3}}}"
+                },
+                {
+                  "title": "Artificer (483168)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Artificer (483168).md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artificer\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Battle Smith",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Battle Smith.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Battle Smith\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Artillerist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Artillerist.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artillerist\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Alchemist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Alchemist.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Alchemist\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Armorer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Armorer.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Armorer\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Alchemist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Alchemist.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"artificer-alchemist-tce\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Armorer - Artificer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Armorer - Artificer.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Armorer - Artificer\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Alchemist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Alchemist.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"artificer-alchemist-tce\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Armorer - Artificer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Armorer - Artificer.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Armorer - Artificer\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Artificer (483168)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Artificer (483168).md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artificer\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "02-foreword",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/books/dark-matter/02-foreword.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"02-foreword\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "07-equipment",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/books/dark-matter/07-equipment.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"07-equipment\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "06-character-options",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/books/dark-matter/06-character-options.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"06-character-options\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "05-gadgeteer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/books/dark-matter/05-gadgeteer.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"05-gadgeteer\"}",
+                  "eState": "{\"scroll\":33.05870472301136}"
+                },
+                {
+                  "title": "04-races",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/books/dark-matter/04-races.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"04-races\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "03-the-verse",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/books/dark-matter/03-the-verse.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"03-the-verse\"}",
+                  "eState": "{\"scroll\":30.84157042973174}"
+                },
+                {
+                  "title": "02-foreword",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/books/dark-matter/02-foreword.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"02-foreword\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "6-magic-items",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/books/valdas-spire-of-secrets-player-pack/6-magic-items.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"6-magic-items\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "5-spells",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/books/valdas-spire-of-secrets-player-pack/5-spells.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"5-spells\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "4-feats",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/books/valdas-spire-of-secrets-player-pack/4-feats.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"4-feats\"}",
+                  "eState": "{\"scroll\":24.123708243992017}"
+                },
+                {
+                  "title": "3-species",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/books/valdas-spire-of-secrets-player-pack/3-species.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"3-species\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "2-subclasses",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/books/valdas-spire-of-secrets-player-pack/2-subclasses.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"2-subclasses\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "List of Classes and Subclasses",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/List of Classes and Subclasses.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"List of Classes and Subclasses\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Flavorful Feats",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/Flavorful Feats.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Flavorful Feats\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Critical Fumble",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/Critical Fumble.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Critical Fumble\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "bard-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"UNORGANIZED/bard-xphb.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"bard-xphb\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Class  Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Class  Template.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Class  Template\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "99 - New File Auto Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/99 - New File Auto Template.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"99 - New File Auto Template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":27},\"to\":{\"line\":4,\"ch\":27}}}"
+                },
+                {
+                  "title": "15 - Subclass Feature Table",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/15 - Subclass Feature Table.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"15 - Subclass Feature Table\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":18},\"to\":{\"line\":29,\"ch\":18}}}"
+                },
+                {
+                  "title": "99 - New File Auto Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/99 - New File Auto Template.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"New File Auto Template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "14 - Arcane Class Feature Table",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/14 - Arcane Class Feature Table.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"14 - Arcane Class Feature Table\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":18},\"to\":{\"line\":29,\"ch\":18}}}"
+                },
+                {
+                  "title": "13 - Martial Class Feature Table",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/13 - Martial Class Feature Table.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"13 - Martial Class Feature Table\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":18},\"to\":{\"line\":29,\"ch\":18}}}"
+                },
+                {
+                  "title": "12 - Insert File Title",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/12 - Insert File Title.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"12 - Insert File Title\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":19},\"to\":{\"line\":0,\"ch\":19}}}"
+                },
+                {
+                  "title": "11 - Insert Fancy Quote",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/11 - Insert Fancy Quote.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"11 - Insert Fancy Quote\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":22},\"to\":{\"line\":7,\"ch\":22}}}"
+                },
+                {
+                  "title": "10 - Insert Caption",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/10 - Insert Caption.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"10 - Insert Caption\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":19},\"to\":{\"line\":6,\"ch\":19}}}"
+                },
+                {
+                  "title": "9 - Format YouTube Link",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/9 - Format YouTube Link.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"9 - Format YouTube Link\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":57},\"to\":{\"line\":10,\"ch\":57}}}"
+                },
+                {
+                  "title": "8 - Convert Image to Wiki",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/8 - Convert Image to Wiki.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"8 - Convert Image to Wiki\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":30},\"to\":{\"line\":0,\"ch\":30}}}"
+                },
+                {
                   "title": "7 - Edit Metadata",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/7 - Edit Metadata.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"7 - Edit Metadata\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":2},\"to\":{\"line\":17,\"ch\":2}}}"
                 },
                 {
-                  "title": "Arcane Class Feature Table",
+                  "title": "14 - Arcane Class Feature Table",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Arcane Class Feature Table.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Arcane Class Feature Table\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/14 - Arcane Class Feature Table.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Arcane Class Feature Table\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Convert Image to Wiki",
+                  "title": "8 - Convert Image to Wiki",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/8 - Convert Image to Wiki.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Convert Image to Wiki\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
@@ -90,27 +480,27 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Subclass Feature Table",
+                  "title": "15 - Subclass Feature Table",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Subclass Feature Table.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Subclass Feature Table\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/15 - Subclass Feature Table.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Subclass Feature Table\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":18},\"to\":{\"line\":29,\"ch\":18}}}"
                 },
                 {
-                  "title": "Martial Class Feature Table",
+                  "title": "13 - Martial Class Feature Table",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Martial Class Feature Table.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Martial Class Feature Table\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/13 - Martial Class Feature Table.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Martial Class Feature Table\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":18},\"to\":{\"line\":29,\"ch\":18}}}"
                 },
                 {
-                  "title": "Arcane Class Feature Table",
+                  "title": "14 - Arcane Class Feature Table",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Arcane Class Feature Table.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Arcane Class Feature Table\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/14 - Arcane Class Feature Table.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Arcane Class Feature Table\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Subclass Feature Table",
+                  "title": "15 - Subclass Feature Table",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Subclass Feature Table.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Subclass Feature Table\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/15 - Subclass Feature Table.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Subclass Feature Table\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":157},\"to\":{\"line\":9,\"ch\":157}}}"
                 },
                 {
@@ -120,9 +510,9 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Arcane Class Feature Table",
+                  "title": "14 - Arcane Class Feature Table",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Arcane Class Feature Table.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Arcane Class Feature Table\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/14 - Arcane Class Feature Table.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Arcane Class Feature Table\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":17},\"to\":{\"line\":6,\"ch\":17}}}"
                 },
                 {
@@ -144,9 +534,9 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Martial Class Feature Table",
+                  "title": "13 - Martial Class Feature Table",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Martial Class Feature Table.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Martial Class Feature Table\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/13 - Martial Class Feature Table.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Martial Class Feature Table\"}",
                   "eState": "{\"scroll\":0}"
                 },
                 {
@@ -168,9 +558,9 @@
                   "eState": "{\"scroll\":121.44827318948413}"
                 },
                 {
-                  "title": "Martial Class Feature Table",
+                  "title": "13 - Martial Class Feature Table",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Martial Class Feature Table.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Class - Subclass Feature Table\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/13 - Martial Class Feature Table.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Class - Subclass Feature Table\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":18},\"to\":{\"line\":29,\"ch\":18}}}"
                 },
                 {
@@ -642,15 +1032,15 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Convert Image to Wiki",
+                  "title": "8 - Convert Image to Wiki",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/8 - Convert Image to Wiki.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Convert Image to Wiki\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Insert File Title",
+                  "title": "12 - Insert File Title",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert File Title.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Insert File Title\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/12 - Insert File Title.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Insert File Title\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -660,9 +1050,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":7},\"to\":{\"line\":10,\"ch\":7}}}"
                 },
                 {
-                  "title": "Insert File Title",
+                  "title": "12 - Insert File Title",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert File Title.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Find Title\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/12 - Insert File Title.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Find Title\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":19},\"to\":{\"line\":0,\"ch\":19}}}"
                 },
                 {
@@ -672,9 +1062,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":7},\"to\":{\"line\":10,\"ch\":0}}}"
                 },
                 {
-                  "title": "Insert File Title",
+                  "title": "12 - Insert File Title",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert File Title.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Find Title\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/12 - Insert File Title.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Find Title\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":9},\"to\":{\"line\":0,\"ch\":9}}}"
                 },
                 {
@@ -690,9 +1080,9 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Insert File Title",
+                  "title": "12 - Insert File Title",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert File Title.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Find Title\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/12 - Insert File Title.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Find Title\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":43},\"to\":{\"line\":0,\"ch\":43}}}"
                 },
                 {
@@ -702,9 +1092,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":7},\"to\":{\"line\":9,\"ch\":0}}}"
                 },
                 {
-                  "title": "Insert File Title",
+                  "title": "12 - Insert File Title",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert File Title.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Find Title\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/12 - Insert File Title.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Find Title\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":47},\"to\":{\"line\":0,\"ch\":47}}}"
                 },
                 {
@@ -714,9 +1104,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":7},\"to\":{\"line\":9,\"ch\":0}}}"
                 },
                 {
-                  "title": "Insert File Title",
+                  "title": "12 - Insert File Title",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert File Title.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Find Title\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/12 - Insert File Title.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Find Title\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":23},\"to\":{\"line\":0,\"ch\":23}}}"
                 },
                 {
@@ -732,9 +1122,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Insert File Title",
+                  "title": "12 - Insert File Title",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert File Title.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Find Title\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/12 - Insert File Title.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Find Title\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":43},\"to\":{\"line\":0,\"ch\":43}}}"
                 },
                 {
@@ -912,7 +1302,7 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Convert Image to Wiki",
+                  "title": "8 - Convert Image to Wiki",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/8 - Convert Image to Wiki.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Image Convert\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":30},\"to\":{\"line\":0,\"ch\":30}}}"
@@ -924,7 +1314,7 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":7},\"to\":{\"line\":12,\"ch\":0}}}"
                 },
                 {
-                  "title": "Convert Image to Wiki",
+                  "title": "8 - Convert Image to Wiki",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/8 - Convert Image to Wiki.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Image Convert\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":3},\"to\":{\"line\":2,\"ch\":3}}}"
@@ -936,7 +1326,7 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
                 },
                 {
-                  "title": "Convert Image to Wiki",
+                  "title": "8 - Convert Image to Wiki",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/8 - Convert Image to Wiki.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Image Convert\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
@@ -948,7 +1338,7 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":12},\"to\":{\"line\":8,\"ch\":12}}}"
                 },
                 {
-                  "title": "Convert Image to Wiki",
+                  "title": "8 - Convert Image to Wiki",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/8 - Convert Image to Wiki.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Image Convert\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
@@ -960,21 +1350,21 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Insert Fancy Quote",
+                  "title": "11 - Insert Fancy Quote",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Fancy Quote.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Insert Fancy Quote\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/11 - Insert Fancy Quote.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Insert Fancy Quote\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Insert Caption",
+                  "title": "10 - Insert Caption",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Caption.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Insert Caption\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/10 - Insert Caption.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Insert Caption\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Format YouTube Link",
+                  "title": "9 - Format YouTube Link",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Format YouTube Link.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Format YouTube Link\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/9 - Format YouTube Link.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Format YouTube Link\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -990,7 +1380,7 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Convert Image to Wiki",
+                  "title": "8 - Convert Image to Wiki",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/8 - Convert Image to Wiki.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
@@ -2694,9 +3084,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "New File Auto Template",
+                  "title": "99 - New File Auto Template",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/New File Auto Template.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"New File Auto Template\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/99 - New File Auto Template.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"New File Auto Template\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -2718,9 +3108,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Insert Fancy Quote",
+                  "title": "11 - Insert Fancy Quote",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Fancy Quote.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Fancy Quote\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/11 - Insert Fancy Quote.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Fancy Quote\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":22},\"to\":{\"line\":7,\"ch\":22}}}"
                 },
                 {
@@ -2736,9 +3126,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Insert Caption",
+                  "title": "10 - Insert Caption",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Insert Caption.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Caption\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/10 - Insert Caption.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Insert Caption\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":19},\"to\":{\"line\":6,\"ch\":19}}}"
                 },
                 {
@@ -2896,13 +3286,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/8 - Convert Image to Wiki.md",
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/College of Dance.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "8 - Convert Image to Wiki"
+              "title": "College of Dance"
             }
           }
         ]
@@ -3008,7 +3398,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.51625061035156
+    "width": 273.51625061035156
   },
   "right": {
     "id": "fc1490c296b0c5ab",
@@ -3296,8 +3686,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -3336,32 +3725,32 @@
   },
   "active": "3a73ca7b9dac80c9",
   "lastOpenFiles": [
-    "z_Templates/7 - Edit Metadata.md",
-    "z_Templates/Arcane Class Feature Table.md",
-    "z_Templates/8 - Convert Image to Wiki.md",
-    "3-Content/Rules/skills.md",
-    "z_Templates/6 - Insert Infobox - Right.md",
-    "z_Templates/5 - Insert Infobox - Left.md",
-    "z_Templates/4 - Insert Wiki Sidebar.md",
-    "z_Templates/Link Auto Title.md",
-    "z_Templates/3 - Session Notes Template.md",
-    "z_Templates/2 - Insert Table of Contents.md",
-    "z_Templates/1 - Basic Callout Selecter.md",
-    "z_Templates/Subclass Feature Table.md",
-    "z_Templates/Martial Class Feature Table.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/barbarian-xphb-path-of-the-berserker-xphb.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-xphb.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cleric/cleric.md",
-    "Class  Template.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/bard-xphb-college-of-glamour-xphb.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cleric/cleric-xphb-death-domain-dmg.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/College of Whispers.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/College of Valor.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/College of Tragedy.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/College of Swords.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/College of Spirits.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/College of Requiems.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/College of Lore.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/College of Glamour.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/College of Eloquence.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/College of Creation.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/College of Adventurers.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/Bard.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/barbarian-xphb.md",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/Rules & Meta.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/Path of the World Tree.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/barbarian-xphb-path-of-the-berserker-xphb.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/Path of the Berserker.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/Path of Wild Magic.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/Path of the Zealot.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/Path of the Totem Warrior.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/Path of the Storm Herald.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/Path of the Juggernaut.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/Path of the Beast.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/Path of the Battlerager.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/Path of the Ancestral Guardian.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
-    "Untitled 1.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Cobalt Scholar - Sage.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Artificer.md",
     "image.png",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/img/athlete.webp",
     "📚 - Information Compendium/books/the-illrigger-revised/img/011-00-012-glowing-scroll.webp",
