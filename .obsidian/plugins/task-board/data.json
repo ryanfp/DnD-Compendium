@@ -3,144 +3,59 @@
   "data": {
     "boardConfigs": [
       {
+        "name": "Progress Chart",
+        "index": 3,
         "columns": [
           {
-            "colType": "undated",
+            "colType": "namedTag",
             "active": true,
             "collapsed": false,
-            "name": "Undated Tasks",
-            "index": 1
+            "name": "Not Started",
+            "index": 1,
+            "coltag": "not started"
           },
           {
-            "colType": "dated",
+            "colType": "namedTag",
             "active": true,
             "collapsed": false,
-            "name": "Over Due",
+            "name": "In-Progress",
             "index": 2,
-            "range": {
-              "tag": "before",
-              "rangedata": {
-                "from": -300,
-                "to": -1
-              }
-            }
+            "coltag": "in-progress"
           },
           {
-            "colType": "dated",
+            "colType": "namedTag",
             "active": true,
             "collapsed": false,
-            "name": "Today",
+            "name": "On Hold",
             "index": 3,
-            "range": {
-              "tag": "between",
-              "rangedata": {
-                "from": 0,
-                "to": 0
-              }
-            }
+            "coltag": "on hold"
           },
           {
-            "colType": "dated",
+            "colType": "namedTag",
             "active": true,
             "collapsed": false,
-            "name": "Tomorrow",
+            "name": "Under Review/Issue",
             "index": 4,
-            "range": {
-              "tag": "between",
-              "rangedata": {
-                "from": 1,
-                "to": 1
-              }
-            }
+            "coltag": "under review/issue"
           },
           {
-            "colType": "dated",
+            "colType": "namedTag",
             "active": true,
             "collapsed": false,
-            "name": "Future",
+            "name": "Cancelled",
             "index": 5,
-            "range": {
-              "tag": "after",
-              "rangedata": {
-                "from": 2,
-                "to": 300
-              }
-            }
+            "coltag": "cancelled"
           },
           {
-            "colType": "completed",
+            "colType": "namedTag",
             "active": true,
             "collapsed": false,
-            "limit": 20,
             "name": "Completed",
-            "index": 6
-          }
-        ],
-        "filters": [],
-        "filterPolarity": "0",
-        "filterScope": "Both",
-        "name": "Time Based Workflow",
-        "index": 1,
-        "showColumnTags": false,
-        "showFilteredTags": true
-      },
-      {
-        "columns": [
-          {
-            "colType": "untagged",
-            "active": true,
-            "collapsed": false,
-            "name": "Backlogs",
-            "index": 1
-          },
-          {
-            "colType": "namedTag",
-            "active": true,
-            "collapsed": false,
-            "name": "Can be implemented",
-            "index": 2,
-            "coltag": "pending"
-          },
-          {
-            "colType": "namedTag",
-            "active": true,
-            "collapsed": false,
-            "name": "In Progress",
-            "index": 3,
-            "coltag": "working"
-          },
-          {
-            "colType": "namedTag",
-            "active": true,
-            "collapsed": false,
-            "name": "Done",
-            "index": 4,
-            "coltag": "done"
-          },
-          {
-            "colType": "namedTag",
-            "active": true,
-            "collapsed": false,
-            "name": "In Review",
-            "index": 5,
-            "coltag": "Test"
-          },
-          {
-            "colType": "Completed",
-            "active": true,
-            "collapsed": false,
             "index": 6,
-            "limit": 10,
-            "name": "Completed"
+            "coltag": "completed"
           }
         ],
-        "filters": [],
-        "filterPolarity": "0",
-        "filterScope": "Both",
-        "name": "Static Kanban",
-        "index": 2,
-        "showColumnTags": false,
-        "showFilteredTags": true
+        "showColumnTags": true
       }
     ],
     "globalSettings": {
@@ -204,7 +119,7 @@
           "priority": 5
         },
         {
-          "name": "",
+          "name": "under review/issue",
           "color": "rgba(255, 155, 0, 1)",
           "priority": 6
         }

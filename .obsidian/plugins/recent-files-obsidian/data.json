@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "To-Do List",
+      "path": "To-Do List.md"
+    },
+    {
       "basename": "Untitled",
       "path": "Untitled.md"
     },
@@ -9,12 +13,12 @@
       "path": "Untitled Kanban.md"
     },
     {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
     },
     {
       "basename": "fantasy-landing-page",
@@ -195,10 +199,6 @@
     {
       "basename": "sorcerer-haunted-ghpg",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-haunted-ghpg.md"
-    },
-    {
-      "basename": "Draconic Bloodline",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Draconic Bloodline.md"
     }
   ],
   "omittedPaths": [],
