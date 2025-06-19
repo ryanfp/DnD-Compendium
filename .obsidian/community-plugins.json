@@ -47,7 +47,6 @@
   "helpmate",
   "image-converter",
   "obsidian-import-json",
-  "obsidian-kanban",
   "markdown-attributes",
   "obisidian-note-linker",
   "image-window",
@@ -65,5 +64,7 @@
   "table-editor-obsidian",
   "smart-rename",
   "file-title-updater",
-  "pexels-banner"
+  "pexels-banner",
+  "copy-url-in-preview",
+  "task-board"
 ]

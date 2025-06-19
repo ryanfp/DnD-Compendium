@@ -1,0 +1,252 @@
+{
+  "version": "",
+  "data": {
+    "boardConfigs": [
+      {
+        "columns": [
+          {
+            "colType": "undated",
+            "active": true,
+            "collapsed": false,
+            "name": "Undated Tasks",
+            "index": 1
+          },
+          {
+            "colType": "dated",
+            "active": true,
+            "collapsed": false,
+            "name": "Over Due",
+            "index": 2,
+            "range": {
+              "tag": "before",
+              "rangedata": {
+                "from": -300,
+                "to": -1
+              }
+            }
+          },
+          {
+            "colType": "dated",
+            "active": true,
+            "collapsed": false,
+            "name": "Today",
+            "index": 3,
+            "range": {
+              "tag": "between",
+              "rangedata": {
+                "from": 0,
+                "to": 0
+              }
+            }
+          },
+          {
+            "colType": "dated",
+            "active": true,
+            "collapsed": false,
+            "name": "Tomorrow",
+            "index": 4,
+            "range": {
+              "tag": "between",
+              "rangedata": {
+                "from": 1,
+                "to": 1
+              }
+            }
+          },
+          {
+            "colType": "dated",
+            "active": true,
+            "collapsed": false,
+            "name": "Future",
+            "index": 5,
+            "range": {
+              "tag": "after",
+              "rangedata": {
+                "from": 2,
+                "to": 300
+              }
+            }
+          },
+          {
+            "colType": "completed",
+            "active": true,
+            "collapsed": false,
+            "limit": 20,
+            "name": "Completed",
+            "index": 6
+          }
+        ],
+        "filters": [],
+        "filterPolarity": "0",
+        "filterScope": "Both",
+        "name": "Time Based Workflow",
+        "index": 1,
+        "showColumnTags": false,
+        "showFilteredTags": true
+      },
+      {
+        "columns": [
+          {
+            "colType": "untagged",
+            "active": true,
+            "collapsed": false,
+            "name": "Backlogs",
+            "index": 1
+          },
+          {
+            "colType": "namedTag",
+            "active": true,
+            "collapsed": false,
+            "name": "Can be implemented",
+            "index": 2,
+            "coltag": "pending"
+          },
+          {
+            "colType": "namedTag",
+            "active": true,
+            "collapsed": false,
+            "name": "In Progress",
+            "index": 3,
+            "coltag": "working"
+          },
+          {
+            "colType": "namedTag",
+            "active": true,
+            "collapsed": false,
+            "name": "Done",
+            "index": 4,
+            "coltag": "done"
+          },
+          {
+            "colType": "namedTag",
+            "active": true,
+            "collapsed": false,
+            "name": "In Review",
+            "index": 5,
+            "coltag": "Test"
+          },
+          {
+            "colType": "Completed",
+            "active": true,
+            "collapsed": false,
+            "index": 6,
+            "limit": 10,
+            "name": "Completed"
+          }
+        ],
+        "filters": [],
+        "filterPolarity": "0",
+        "filterScope": "Both",
+        "name": "Static Kanban",
+        "index": 2,
+        "showColumnTags": false,
+        "showFilteredTags": true
+      }
+    ],
+    "globalSettings": {
+      "lang": "en",
+      "openOnStartup": false,
+      "scanFilters": {
+        "files": {
+          "polarity": 3,
+          "values": []
+        },
+        "folders": {
+          "polarity": 3,
+          "values": []
+        },
+        "tags": {
+          "polarity": 3,
+          "values": []
+        }
+      },
+      "firstDayOfWeek": "2",
+      "showTaskWithoutMetadata": true,
+      "ignoreFileNameDates": false,
+      "taskCompletionFormat": "1",
+      "taskCompletionDateTimePattern": "DD-MM-yyyy/HH:mm:ss",
+      "dailyNotesPluginComp": false,
+      "dueDateFormat": "DD-MM-yyyy",
+      "taskCompletionInLocalTime": true,
+      "taskCompletionShowUtcOffset": false,
+      "autoAddDue": true,
+      "scanVaultAtStartup": false,
+      "dayPlannerPlugin": false,
+      "realTimeScanning": true,
+      "columnWidth": "273px",
+      "showHeader": true,
+      "showFooter": true,
+      "showVerticalScroll": false,
+      "tagColors": [
+        {
+          "name": "cancelled",
+          "color": "rgba(255, 0, 0, 1)",
+          "priority": 1
+        },
+        {
+          "name": "completed",
+          "color": "rgba(0, 255, 0, 0.8)",
+          "priority": 2
+        },
+        {
+          "name": "on hold",
+          "color": "rgba(58, 151, 255, 1)",
+          "priority": 3
+        },
+        {
+          "name": "in-progress",
+          "color": "rgba(251, 255, 0, 1)",
+          "priority": 4
+        },
+        {
+          "name": "not started",
+          "color": "rgba(147, 143, 143, 1)",
+          "priority": 5
+        },
+        {
+          "name": "",
+          "color": "rgba(255, 155, 0, 1)",
+          "priority": 6
+        }
+      ],
+      "editButtonAction": "noteInHover",
+      "tasksPluginCustomStatuses": [],
+      "tagColorsType": "text",
+      "customStatuses": [
+        {
+          "symbol": " ",
+          "name": "Unchecked",
+          "nextStatusSymbol": "x",
+          "availableAsCommand": false,
+          "type": "TODO"
+        },
+        {
+          "symbol": "/",
+          "name": "In Progress",
+          "nextStatusSymbol": "x",
+          "availableAsCommand": true,
+          "type": "IN_PROGRESS"
+        },
+        {
+          "symbol": "-",
+          "name": "Cancelled",
+          "nextStatusSymbol": "x",
+          "availableAsCommand": true,
+          "type": "CANCELLED"
+        },
+        {
+          "symbol": "x",
+          "name": "Done",
+          "nextStatusSymbol": " ",
+          "availableAsCommand": true,
+          "type": "DONE"
+        }
+      ],
+      "compatiblePlugins": {
+        "dailyNotesPlugin": false,
+        "tasksPlugin": false,
+        "reminderPlugin": false
+      }
+    }
+  }
+}
