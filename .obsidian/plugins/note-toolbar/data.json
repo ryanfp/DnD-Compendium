@@ -11,7 +11,6 @@
   "icon": "circle-ellipsis",
   "onboarding": {},
   "recentFiles": [
-    "z_Templates/10 - Insert Caption.md",
     "z_img/tablet-2448x2448-archfey.jpg",
     "z_img/1000_F_432303092_aTom2BcMOVqDmb2h6zgCDG6iBlbbs2PJ.jpg",
     "z_img/1000_F_894354694_KR91bnJuKXDwspbQhOwHTfANTo3oQaUT.jpg",
@@ -20,7 +19,8 @@
     "README.md",
     "Untitled Kanban.md",
     "Untitled.md",
-    "tasks.md"
+    "tasks.md",
+    "Untitled Kanban 1.md"
   ],
   "ribbonAction": "toolbar",
   "scriptingEnabled": false,

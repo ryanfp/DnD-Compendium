@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "To Do List",
+      "path": "To Do List.md"
+    },
+    {
       "basename": "To-Do List",
       "path": "To-Do List.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Shadow Magic",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Shadow Magic.md"
-    },
-    {
-      "basename": "sorcerer-haunted-ghpg",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-haunted-ghpg.md"
     }
   ],
   "omittedPaths": [],

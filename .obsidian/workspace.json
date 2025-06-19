@@ -6,7 +6,7 @@
       {
         "id": "4e50f70f89b65c37",
         "type": "tabs",
-        "dimension": 46.64586583463339,
+        "dimension": 35.06240249609984,
         "children": [
           {
             "id": "a619ce9940862dc2",
@@ -38,6 +38,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "To-Do List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"To-Do List.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"To-Do List\"}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Untitled",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
@@ -50,7 +56,7 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "tasks",
+                  "title": "To-Do List",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"To-Do List.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"tasks\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
@@ -74,7 +80,7 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "tasks",
+                  "title": "To-Do List",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"To-Do List.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"tasks\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
@@ -88,15 +94,23 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "To-Do List.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
+                "file": "To Do List.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "To-Do List"
+              "icon": "lucide-trello",
+              "title": "To Do List"
             }
           }
         ],
@@ -105,7 +119,7 @@
       {
         "id": "e2f3ab74196c71c0",
         "type": "tabs",
-        "dimension": 53.35413416536662,
+        "dimension": 64.93759750390015,
         "children": [
           {
             "id": "d8292f9694f2cf2b",
@@ -296,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To-Do List.md",
+                "file": "To Do List.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,7 +320,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for To-Do List"
+              "title": "Backlinks for To Do List"
             }
           },
           {
@@ -556,10 +570,68 @@
       "task-board:Open task board": false
     }
   },
-  "active": "9614c0a1baa9816e",
+  "floating": {
+    "id": "031a4389f9985f34",
+    "type": "floating",
+    "children": [
+      {
+        "id": "bd5153cb36a10122",
+        "type": "window",
+        "children": [
+          {
+            "id": "00f1748844d8626d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d3105d31373b5bf8",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "To Do List.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        false,
+                        false,
+                        false,
+                        true,
+                        true
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "To Do List"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 579,
+        "y": 581,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": -1
+      }
+    ]
+  },
+  "active": "d3105d31373b5bf8",
   "lastOpenFiles": [
-    "Untitled.md",
     "To-Do List.md",
+    "To Do List.md",
+    "Untitled.md",
     "Untitled Kanban.md",
     "README.md",
     "Home.md",
@@ -593,7 +665,6 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Plague Doctor.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Order of Scribes.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Graviturgy Magic.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Chronurgy Magic.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/img/athlete.webp",
     "📚 - Information Compendium/books/the-illrigger-revised/img/011-00-012-glowing-scroll.webp",
     "📚 - Information Compendium/books/the-illrigger-revised/img/013-00-014-deceiver-retainer.webp",
