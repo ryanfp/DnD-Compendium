@@ -18,6 +18,48 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Untitled Kanban",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Untitled Kanban.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false]}},\"icon\":\"lucide-trello\",\"title\":\"Untitled Kanban\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"README\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "fantasy-landing-page",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_img/fantasy-landing-page.jpg\"},\"icon\":\"lucide-image\",\"title\":\"fantasy-landing-page\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "tablet-2448x2448-archfey",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_img/tablet-2448x2448-archfey.jpg\"},\"icon\":\"lucide-image\",\"title\":\"tablet-2448x2448-archfey\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":17},\"to\":{\"line\":2,\"ch\":17}}}"
+                },
+                {
+                  "title": "Untitled Kanban",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Untitled Kanban.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false]}},\"icon\":\"lucide-trello\",\"title\":\"Untitled Kanban\"}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Home",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
@@ -4766,20 +4808,15 @@
               ]
             },
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Home.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
         ]
@@ -4952,7 +4989,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -4962,7 +4999,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled Kanban"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -5207,17 +5244,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "3a73ca7b9dac80c9",
   "lastOpenFiles": [
-    "Home.md",
     "Untitled Kanban.md",
+    "README.md",
+    "Home.md",
+    "z_img/1000_F_894354694_KR91bnJuKXDwspbQhOwHTfANTo3oQaUT.jpg",
+    "z_img/fantasy-landing-page.jpg",
+    "z_img/1000_F_478490472_zDi7fiDEhoShE6xcYw08gIcfLw7fZefo.jpg",
+    "z_img/waterfall_palace_by_oliverbeck_de0lwei-pre.jpg",
     "z_img/tablet-2448x2448-archfey.jpg",
+    "z_img/dnd-party-dragon",
+    "z_img/fantasy-landing-page",
     "pixel-banner-images/2560x1600-adventuring-party.jpg",
     "pixel-banner-images",
-    "README.md",
     "z_Templates/10 - Insert Caption.md",
     "image.png",
     "z_Templates/Class  Template.md",
@@ -5241,22 +5285,15 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Graviturgy Magic.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Chronurgy Magic.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Blood Magic.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Bladesinging.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/img/athlete.webp",
     "📚 - Information Compendium/books/the-illrigger-revised/img/011-00-012-glowing-scroll.webp",
     "📚 - Information Compendium/books/the-illrigger-revised/img/013-00-014-deceiver-retainer.webp",
-    "📚 - Information Compendium/books/the-illrigger-revised/img/005-00-011-skull-amulet.webp",
-    "📚 - Information Compendium/books/the-illrigger-revised/img/002-00-003-victory.webp",
-    "📚 - Information Compendium/books/the-illrigger-revised/img/001-00-002-battle.webp",
     "📚 - Information Compendium/books/the-illrigger-revised/img",
     "📚 - Information Compendium/books/the-illrigger-revised",
-    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-hunt-field-notes/img/15.webp",
     "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-hunt-field-notes/img",
     "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-hunt-field-notes",
     "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-gm-cheatbook/img",
     "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-gm-cheatbook",
-    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-eldritch-moons-deck/img",
-    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-eldritch-moons-deck",
-    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-character-sheets/img"
+    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-eldritch-moons-deck/img"
   ]
 }
