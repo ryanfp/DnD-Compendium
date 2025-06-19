@@ -38,22 +38,6 @@
                 "completion": ""
             }
         ],
-        "To-Do List.md": [
-            {
-                "id": 3489451326,
-                "status": "/",
-                "title": "⚔Parse/Review/Link Character Archetypes⚔ 🔺 📅2025-04-26 #in-progress",
-                "body": [],
-                "time": "",
-                "due": "2025-04-26",
-                "tags": [
-                    "#in-progress"
-                ],
-                "priority": 1,
-                "filePath": "To-Do List.md",
-                "completion": ""
-            }
-        ],
         "Untitled Kanban 1.md": [
             {
                 "id": 3194185302,
@@ -91,6 +75,22 @@
                 "tags": [],
                 "priority": 0,
                 "filePath": "To Do List.md",
+                "completion": ""
+            }
+        ],
+        "To-Do List.md": [
+            {
+                "id": 3515632645,
+                "status": " ",
+                "title": "⚔Consolidate Character Archetypes 📅2025-04-26 #in-progress",
+                "body": [],
+                "time": "",
+                "due": "2025-04-26",
+                "tags": [
+                    "#in-progress"
+                ],
+                "priority": 0,
+                "filePath": "To-Do List.md",
                 "completion": ""
             }
         ]

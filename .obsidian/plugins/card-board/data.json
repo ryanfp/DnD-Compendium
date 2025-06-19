@@ -1,0 +1,88 @@
+{
+  "version": "0.13.0",
+  "data": {
+    "boardConfigs": [
+      {
+        "columns": [
+          {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "Not Started",
+              "tag": "not_started"
+            }
+          },
+          {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "In-Progress",
+              "tag": "in-progress"
+            }
+          },
+          {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "On Hold",
+              "tag": "on_hold"
+            }
+          },
+          {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "Under Review/Issue",
+              "tag": "under_review/issue"
+            }
+          },
+          {
+            "tag": "completed",
+            "data": {
+              "collapsed": false,
+              "index": 4,
+              "limit": 10,
+              "name": "Completed"
+            }
+          },
+          {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "Cancelled",
+              "tag": "cancelled"
+            }
+          }
+        ],
+        "filters": [
+          {
+            "tag": "fileFilter",
+            "data": "To-Do List.md"
+          }
+        ],
+        "filterPolarity": "Allow",
+        "filterScope": "SubTasksOnly",
+        "name": "Test",
+        "showColumnTags": false,
+        "showFilteredTags": true
+      }
+    ],
+    "globalSettings": {
+      "defaultColumnNames": {
+        "today": "",
+        "tomorrow": "",
+        "future": "",
+        "undated": "",
+        "otherTags": "",
+        "untagged": "Not Started",
+        "completed": ""
+      },
+      "filters": [],
+      "firstDayOfWeek": "Mon",
+      "ignoreFileNameDates": false,
+      "taskCompletionFormat": "ObsidianTasks",
+      "taskCompletionInLocalTime": true,
+      "taskCompletionShowUtcOffset": false
+    }
+  }
+}
