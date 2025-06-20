@@ -29,7 +29,8 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "templates/Insert Callout.md"
+    "templates/Insert Callout.md",
+    "z_Templates/16 - ✅New Task.md"
   ],
   "startup_templates": [
     ""

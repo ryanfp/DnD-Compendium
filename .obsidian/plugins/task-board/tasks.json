@@ -80,9 +80,9 @@
         ],
         "To-Do List.md": [
             {
-                "id": 3515632645,
+                "id": 155383547,
                 "status": " ",
-                "title": "⚔Consolidate Character Archetypes 📅2025-04-26 #in-progress",
+                "title": "⚔Consolidate Character Archetypes | 📅2025-04-26 #in-progress",
                 "body": [],
                 "time": "",
                 "due": "2025-04-26",
@@ -91,6 +91,52 @@
                 ],
                 "priority": 0,
                 "filePath": "To-Do List.md",
+                "completion": ""
+            },
+            {
+                "id": 2398242455,
+                "status": " ",
+                "title": "✅Finish Kanban Board | 📅 06:19: 2025 #in-progress",
+                "body": [
+                    "\t- [ ] Get colored tags to change how tags look",
+                    "\t- [ ] Make sure to track all items/tasks",
+                    "\t- [ ] Research other formatting options"
+                ],
+                "time": "",
+                "due": "",
+                "tags": [
+                    "#in-progress"
+                ],
+                "priority": 0,
+                "filePath": "To-Do List.md",
+                "completion": "Finish"
+            }
+        ],
+        "z_Templates/New Task.md": [
+            {
+                "id": 1876497927,
+                "status": " ",
+                "title": "Title | 📅 <% tp.date.now(\"DD:MM:yyyy\") %>",
+                "body": [],
+                "time": "",
+                "due": "",
+                "tags": [],
+                "priority": 0,
+                "filePath": "z_Templates/New Task.md",
+                "completion": ""
+            }
+        ],
+        "z_Templates/16 - ✅New Task.md": [
+            {
+                "id": 1345209188,
+                "status": " ",
+                "title": "Title | 📅 <% tp.date.now(\"MM:DD:yyyy\") %>",
+                "body": [],
+                "time": "",
+                "due": "",
+                "tags": [],
+                "priority": 0,
+                "filePath": "z_Templates/16 - ✅New Task.md",
                 "completion": ""
             }
         ]

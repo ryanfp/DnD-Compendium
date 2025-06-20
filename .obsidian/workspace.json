@@ -22,8 +22,8 @@
             "state": {
               "type": "task-board-view",
               "state": {},
-              "icon": "brick-wall",
-              "title": "Task Board"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -37,6 +37,72 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "16 - ✅New Task",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/16 - ✅New Task.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"16 - ✅New Task\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":48},\"to\":{\"line\":0,\"ch\":48}}}"
+                },
+                {
+                  "title": "To-Do List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"To-Do List.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"To-Do List\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":27},\"to\":{\"line\":11,\"ch\":27}}}"
+                },
+                {
+                  "title": "16 - ✅New Task",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/16 - ✅New Task.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"16 - ✅New Task\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":48},\"to\":{\"line\":0,\"ch\":48}}}"
+                },
+                {
+                  "title": "1 - Basic Callout Selecter",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1 - Basic Callout Selecter.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"1 - Basic Callout Selecter\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "16 - ✅New Task",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/16 - ✅New Task.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"16- ✅New Task\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":48},\"to\":{\"line\":0,\"ch\":48}}}"
+                },
+                {
+                  "title": "7 - Edit Metadata",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/7 - Edit Metadata.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"7 - Edit Metadata\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "16 - ✅New Task",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/16 - ✅New Task.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"✅New Task\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "To-Do List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"To-Do List.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"To-Do List\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":27},\"to\":{\"line\":8,\"ch\":27}}}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"README\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "16 - ✅New Task",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/16 - ✅New Task.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"New Task\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":14},\"to\":{\"line\":0,\"ch\":14}}}"
+                },
+                {
                   "title": "To-Do List",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"To-Do List.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"To-Do List\"}",
@@ -47,13 +113,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/New Task.md",
+                "file": "To-Do List.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "New Task"
+              "title": "To-Do List"
             }
           },
           {
@@ -246,7 +312,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/New Task.md",
+                "file": "To-Do List.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +322,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for New Task"
+              "title": "Backlinks for To-Do List"
             }
           },
           {
@@ -492,7 +558,6 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "helpmate:HelpMate": false,
       "obsidian-import-json:JSON/CSV Importer": true,
-      "obsidian-kanban:Create new board": true,
       "obisidian-note-linker:Note Linker": false,
       "custom-sort:Toggle custom sorting": false,
       "iconic:Open rulebook": false,
@@ -502,20 +567,21 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "calendarium:Open Calendarium": false,
       "task-board:Open task board": false,
-      "card-board:CardBoard": false
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "591ecc42ba0745ee",
   "lastOpenFiles": [
+    "z_Templates/16 - ✅New Task.md",
     "To-Do List.md",
-    "z_Templates/New Task.md",
+    "z_Templates/1 - Basic Callout Selecter.md",
+    "z_Templates/7 - Edit Metadata.md",
+    "README.md",
+    "Home.md",
     "To Do List.md",
     "Untitled Kanban.md",
     "Untitled.md",
-    "README.md",
-    "Home.md",
     "z_img/1000_F_894354694_KR91bnJuKXDwspbQhOwHTfANTo3oQaUT.jpg",
     "z_img/fantasy-landing-page.jpg",
     "z_img/1000_F_478490472_zDi7fiDEhoShE6xcYw08gIcfLw7fZefo.jpg",
@@ -543,8 +609,6 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/School of Divination.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/School of Conjuration.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/School of Abjuration.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Plague Doctor.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Order of Scribes.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/img/athlete.webp",
     "📚 - Information Compendium/books/the-illrigger-revised/img/011-00-012-glowing-scroll.webp",
     "📚 - Information Compendium/books/the-illrigger-revised/img/013-00-014-deceiver-retainer.webp",

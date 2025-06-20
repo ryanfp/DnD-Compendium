@@ -16,15 +16,6 @@
       "key": "0"
     }
   ],
-  "automatic-table-of-contents:insert-automatic-table-of-contents": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "C"
-    }
-  ],
   "buttons:inline-button": [
     {
       "modifiers": [
@@ -117,6 +108,44 @@
         "Mod"
       ],
       "key": "F"
+    }
+  ],
+  "templater-obsidian:z_Templates/16 - ✅New Task.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "file-explorer:new-file-in-new-pane": [],
+  "easy-typing-obsidian:easy-typing-insert-codeblock": [],
+  "obsidian-auto-link-title:auto-link-title-normal-paste": [],
+  "automatic-table-of-contents:insert-automatic-table-of-contents-docs": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "easy-typing-obsidian:easy-typing-format-switch": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ],
+  "easy-typing-obsidian:easy-typing-toggle-comment": [],
+  "file-explorer:new-folder": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "New Task",
-      "path": "z_Templates/New Task.md"
-    },
-    {
       "basename": "To-Do List",
       "path": "To-Do List.md"
     },
     {
-      "basename": "Untitled Kanban",
-      "path": "Untitled Kanban.md"
+      "basename": "16 - ✅New Task",
+      "path": "z_Templates/16 - ✅New Task.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "1 - Basic Callout Selecter",
+      "path": "z_Templates/1 - Basic Callout Selecter.md"
+    },
+    {
+      "basename": "7 - Edit Metadata",
+      "path": "z_Templates/7 - Edit Metadata.md"
     },
     {
       "basename": "README",
@@ -23,6 +23,14 @@
     {
       "basename": "Home",
       "path": "Home.md"
+    },
+    {
+      "basename": "Untitled Kanban",
+      "path": "Untitled Kanban.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
     },
     {
       "basename": "fantasy-landing-page",
@@ -191,14 +199,6 @@
     {
       "basename": "Wild Magic",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Wild Magic.md"
-    },
-    {
-      "basename": "Storm Sorcery",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Storm Sorcery.md"
-    },
-    {
-      "basename": "Shadow Magic",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Shadow Magic.md"
     }
   ],
   "omittedPaths": [],

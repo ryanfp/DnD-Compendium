@@ -42,6 +42,9 @@
     "z_Templates/15 - Subclass Feature Table.md": {
       "icon": "lucide-layout-grid"
     },
+    "z_Templates/16 - ✅New Task.md": {
+      "icon": "lucide-list-checks"
+    },
     "z_img": {
       "icon": "lucide-image-plus",
       "unsynced": [
