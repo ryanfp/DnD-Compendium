@@ -17,7 +17,6 @@
   "obsidian-style-settings",
   "tag-wrangler",
   "fantasy-content-generator",
-  "obsidian-hider",
   "editing-toolbar",
   "obsidian-dice-roller",
   "obsidian-leaflet-plugin",
@@ -67,5 +66,8 @@
   "pexels-banner",
   "copy-url-in-preview",
   "task-board",
-  "card-board"
+  "card-board",
+  "colored-tags",
+  "obsidian-tagfolder",
+  "callout-manager"
 ]

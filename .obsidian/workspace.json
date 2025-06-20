@@ -37,6 +37,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "To-Do List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"To-Do List.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"To-Do List\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":34},\"to\":{\"line\":9,\"ch\":34}}}"
+                },
+                {
                   "title": "16 - ✅New Task",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/16 - ✅New Task.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"16 - ✅New Task\"}",
@@ -115,7 +121,7 @@
               "state": {
                 "file": "To-Do List.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
@@ -123,7 +129,7 @@
             }
           },
           {
-            "id": "5032158a1cc964f0",
+            "id": "4e7161db17c24e1b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -140,9 +146,81 @@
               "icon": "card-board",
               "title": "CardBoard"
             }
+          },
+          {
+            "id": "32dee14d9f4e6515",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"README\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "To-Do List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"To-Do List.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"To-Do List\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2560x1600-adventuring-party",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_img/2560x1600-adventuring-party.jpg\"},\"icon\":\"lucide-image\",\"title\":\"2560x1600-adventuring-party\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"README\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "To-Do List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"To-Do List.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"To-Do List\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"README\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Animation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Curse of Animation"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,7 +270,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Character Details/Classes/Beastheart/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -312,7 +390,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To-Do List.md",
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Animation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -322,7 +400,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for To-Do List"
+              "title": "Backlinks for Curse of Animation"
             }
           },
           {
@@ -542,21 +620,21 @@
       "homepage:Open homepage": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "media-extended:Open media": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-excalidraw-plugin:New drawing": true,
+      "media-extended:Open media": true,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
+      "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
       "obsidian42-brat:BRAT": true,
-      "obsidian-custom-frames:Open Obsidian Forum": false,
+      "obsidian-custom-frames:Open Obsidian Forum": true,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "helpmate:HelpMate": false,
+      "helpmate:HelpMate": true,
       "obsidian-import-json:JSON/CSV Importer": true,
       "obisidian-note-linker:Note Linker": false,
       "custom-sort:Toggle custom sorting": false,
@@ -568,20 +646,22 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": true,
+      "card-board:CardBoard": false
     }
   },
-  "active": "591ecc42ba0745ee",
+  "active": "32dee14d9f4e6515",
   "lastOpenFiles": [
-    "z_Templates/16 - ✅New Task.md",
-    "To-Do List.md",
-    "z_Templates/1 - Basic Callout Selecter.md",
-    "z_Templates/7 - Edit Metadata.md",
-    "README.md",
     "Home.md",
-    "To Do List.md",
+    "README.md",
+    "To-Do List.md",
+    "z_img/2560x1600-adventuring-party.jpg",
     "Untitled Kanban.md",
     "Untitled.md",
+    "z_Templates/16 - ✅New Task.md",
+    "z_Templates/1 - Basic Callout Selecter.md",
+    "z_Templates/7 - Edit Metadata.md",
+    "To Do List.md",
     "z_img/1000_F_894354694_KR91bnJuKXDwspbQhOwHTfANTo3oQaUT.jpg",
     "z_img/fantasy-landing-page.jpg",
     "z_img/1000_F_478490472_zDi7fiDEhoShE6xcYw08gIcfLw7fZefo.jpg",
@@ -589,7 +669,6 @@
     "z_img/tablet-2448x2448-archfey.jpg",
     "z_img/dnd-party-dragon",
     "z_img/fantasy-landing-page",
-    "pixel-banner-images/2560x1600-adventuring-party.jpg",
     "pixel-banner-images",
     "z_Templates/10 - Insert Caption.md",
     "image.png",
@@ -608,7 +687,6 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/School of Enchantment.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/School of Divination.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/School of Conjuration.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/School of Abjuration.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/img/athlete.webp",
     "📚 - Information Compendium/books/the-illrigger-revised/img/011-00-012-glowing-scroll.webp",
     "📚 - Information Compendium/books/the-illrigger-revised/img/013-00-014-deceiver-retainer.webp",

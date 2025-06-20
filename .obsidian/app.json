@@ -9,12 +9,12 @@
   "focusNewTab": true,
   "livePreview": false,
   "showLineNumber": true,
-  "propertiesInDocument": "visible",
+  "propertiesInDocument": "hidden",
   "trashOption": "local",
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
   "readableLineLength": false,
   "promptDelete": false,
-  "attachmentFolderPath": "./z_img",
+  "attachmentFolderPath": "z_img",
   "showInlineTitle": true
 }

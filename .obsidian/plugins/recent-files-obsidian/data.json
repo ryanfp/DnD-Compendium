@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Curse of Animation",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Animation.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "To-Do List",
       "path": "To-Do List.md"
+    },
+    {
+      "basename": "2560x1600-adventuring-party",
+      "path": "z_img/2560x1600-adventuring-party.jpg"
+    },
+    {
+      "basename": "Untitled Kanban",
+      "path": "Untitled Kanban.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
     },
     {
       "basename": "16 - ✅New Task",
@@ -15,22 +39,6 @@
     {
       "basename": "7 - Edit Metadata",
       "path": "z_Templates/7 - Edit Metadata.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
-      "basename": "Untitled Kanban",
-      "path": "Untitled Kanban.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
     },
     {
       "basename": "fantasy-landing-page",
@@ -191,14 +199,6 @@
     {
       "basename": "Aberrant Mind",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Aberrant Mind.md"
-    },
-    {
-      "basename": "Wretched Bloodline",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Wretched Bloodline.md"
-    },
-    {
-      "basename": "Wild Magic",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Wild Magic.md"
     }
   ],
   "omittedPaths": [],
