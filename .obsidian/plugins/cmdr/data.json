@@ -68,8 +68,18 @@
   "macros": [],
   "explorer": [],
   "hide": {
-    "statusbar": [],
-    "leftRibbon": []
+    "statusbar": [
+      "js-engine",
+      "editing-toolbar"
+    ],
+    "leftRibbon": [
+      "Open Obsidian Forum",
+      "BRAT",
+      "JSON/CSV Importer",
+      "Publish changes...",
+      "Open Calendarium",
+      "Open Markdown Formatting Assistant"
+    ]
   },
   "spacing": 8,
   "advancedToolbar": {

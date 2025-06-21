@@ -10,8 +10,6 @@ banner-y: 55
 banner-max-width: 2560
 ---
 
-![[MindFlayer Garden Progress Board]]
-
 
 > [!kanban]+
 > - [[Link|Lane 1 Title]]
@@ -22,3 +20,6 @@ banner-max-width: 2560
 > 	- [[Link|Card]]
 > - Text
 > 	- [ ] Text
+
+
+

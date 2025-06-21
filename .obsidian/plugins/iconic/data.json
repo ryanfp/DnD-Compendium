@@ -20,11 +20,7 @@
     "rulePage": "folder"
   },
   "appIcons": {},
-  "tabIcons": {
-    "file-explorer": {
-      "color": "cyan"
-    }
-  },
+  "tabIcons": {},
   "fileIcons": {
     "z_Templates": {
       "icon": "lucide-log-in",
