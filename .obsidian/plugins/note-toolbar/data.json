@@ -11,16 +11,16 @@
   "icon": "circle-ellipsis",
   "onboarding": {},
   "recentFiles": [
-    "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
     "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Amnesiac.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice Diver.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/acolyte-xphb.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Acolyte.md",
-    "To-Do List.md",
-    "Home.md",
+    "z_Templates/10 - Insert Captions.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
-    "z_Templates/10 - Insert Captions.md"
+    "MindFlayer Garden Progress Board.md",
+    "Home.md",
+    "To-Do List.md"
   ],
   "ribbonAction": "toolbar",
   "scriptingEnabled": false,

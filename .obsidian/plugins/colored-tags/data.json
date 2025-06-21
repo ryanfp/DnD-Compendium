@@ -1176,7 +1176,8 @@
     "compendium/src/5e/obirevisedshortrest": 51,
     "not": 18,
     "not-started": 19,
-    "i-progress": 20
+    "i-progress": 20,
+    "completed": 21
   },
   "_version": 3
 }

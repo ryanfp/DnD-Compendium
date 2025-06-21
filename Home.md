@@ -19,7 +19,7 @@ banner-max-width: 2560
 > 		- [ ] Create List of Sources used/desired
 > 		- [ ] Analyze List and Determine Outliers
 > 		- [ ] Fill in the Gaps
-> 	- [ ] Create Master List for Cataloging Everything| 📅06-16-2025
+> 	- [ ] 📕 Create Master List for Cataloging Everything| 📅06-16-2025
 > 		- [ ] Draw/Sketch Mock-Up Hierarchy #in-progress
 > 		- [ ] Create Tag Label Scheme
 > 		- [ ] (Optional) Find Way to Mass Add Tags
@@ -35,8 +35,8 @@ banner-max-width: 2560
 > 		- [ ] Link all subclasses to their classes and vice-versa #started 
 > 		- Just waiting on Kyler to be back from Maine
 > 		- We were on I think Barbarian?
-> 	-  [ ] Find/Confirm Way to SAFELY Rename All Files (!) | 📅06-21-2025 #in-progress
-> 	-  [ ] Rename ALL Files #in-progress | 📅06-18-2025
+> 	-  [ ] ⚠ Find/Confirm Way to SAFELY Rename All Files (!) | 📅06-21-2025 #in-progress
+> 	-  [ ] 💾 Rename ALL Files #in-progress | 📅06-18-2025
 > 		- [ ] Backgrounds #in-progress 
 > 		- [ ] Items
 > 		- [ ] Spells
