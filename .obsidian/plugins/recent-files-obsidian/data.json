@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "z_Templates/Untitled.md"
+    },
+    {
+      "basename": "10 - Insert Captions",
+      "path": "z_Templates/10 - Insert Captions.md"
+    },
+    {
+      "basename": "11 - Insert Quotes",
+      "path": "z_Templates/11 - Insert Quotes.md"
+    },
+    {
       "basename": "To-Do List",
       "path": "To-Do List.md"
     },
@@ -45,10 +61,6 @@
       "path": "z_Templates/Class  Template.md"
     },
     {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
     },
@@ -75,10 +87,6 @@
     {
       "basename": "tablet-2448x2448-archfey",
       "path": "z_img/tablet-2448x2448-archfey.jpg"
-    },
-    {
-      "basename": "10 - Insert Caption",
-      "path": "z_Templates/10 - Insert Caption.md"
     },
     {
       "basename": "Flavorful Feats",
@@ -191,14 +199,6 @@
     {
       "basename": "The Archfey",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The Archfey.md"
-    },
-    {
-      "basename": "Warlock",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/Warlock.md"
-    },
-    {
-      "basename": "The Ascended",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Vessel/The Ascended.md"
     }
   ],
   "omittedPaths": [],

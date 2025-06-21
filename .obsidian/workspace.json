@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "11 - Insert Quotes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/11 - Insert Quotes.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"11 - Insert Quotes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":22},\"to\":{\"line\":7,\"ch\":22}}}"
+                },
+                {
+                  "title": "To-Do List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"To-Do List.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"To-Do List\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}}}"
+                },
+                {
                   "title": "5 - Insert Infobox - Left",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/5 - Insert Infobox - Left.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"5 - Insert Infobox - Left\"}",
@@ -190,13 +202,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To-Do List.md",
+                "file": "z_Templates/10 - Insert Captions.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "To-Do List"
+              "title": "10 - Insert Captions"
+            }
+          },
+          {
+            "id": "db05c8aa1ecbb329",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/Untitled.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -321,13 +357,7 @@
               "icon": "card-board",
               "title": "CardBoard"
             }
-          }
-        ]
-      },
-      {
-        "id": "6c0821445133c9ee",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "148f62ff660c76c4",
             "type": "leaf",
@@ -460,7 +490,8 @@
               "title": "Home"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -649,7 +680,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To-Do List.md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -659,7 +690,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for To-Do List"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -881,10 +912,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "To-Do List.md"
+                "file": "Home.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for To-Do List"
+              "title": "File properties for Home"
             }
           }
         ],
@@ -931,8 +962,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "32dee14d9f4e6515",
+  "active": "148f62ff660c76c4",
   "lastOpenFiles": [
+    "z_Templates/Untitled.md",
+    "z_Templates/10 - Insert Captions.md",
+    "z_Templates/11 - Insert Quotes.md",
+    "To-Do List.md",
     "z_Templates/5 - Insert Infobox - Left.md",
     "z_Templates/4 - Insert Wiki Sidebar.md",
     "z_Templates/6 - Insert Infobox - Right.md",
@@ -945,7 +980,6 @@
     "z_Templates/Class  Template.md",
     "Home.md",
     "README.md",
-    "To-Do List.md",
     "z_Templates/16 - New Task.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Animation.md",
     "z_img/2560x1600-adventuring-party.jpg",
@@ -959,7 +993,6 @@
     "z_img/dnd-party-dragon",
     "z_img/fantasy-landing-page",
     "pixel-banner-images",
-    "z_Templates/10 - Insert Caption.md",
     "image.png",
     "📚 - Information Compendium/📝 - Rules & Mechanics/Mechanics/Flavorful Feats.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-xphb-order-of-scribes-tce.md",
@@ -967,8 +1000,6 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-xphb-bladesinging-tce.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-xphb-abjurer-xphb.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/War Magic.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/School of Transmutation.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/School of Sangromancy.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/img/athlete.webp",
     "📚 - Information Compendium/books/the-illrigger-revised/img/011-00-012-glowing-scroll.webp",
     "📚 - Information Compendium/books/the-illrigger-revised/img/013-00-014-deceiver-retainer.webp",

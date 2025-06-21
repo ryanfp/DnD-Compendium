@@ -11,11 +11,11 @@ banner-max-width: 2560
 ---
 
 
-> [!kanban]+
-> - [[Link|Lane 1 Title]]
+> [!kanban]+ D&D Vault Progress
+> - [[Link|Not Started]]
 > 	- ![[Image.png]]
 > 	- [[Link|Card]]
-> - [[Link|Lane 2 Title]]
+> - [[Link|In-Progress]]
 > 	![[Image without background card styling.png]]
 > 	- [[Link|Card]]
 > - Text

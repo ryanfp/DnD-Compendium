@@ -11,16 +11,16 @@
   "icon": "circle-ellipsis",
   "onboarding": {},
   "recentFiles": [
-    "z_Templates/Class  Template.md",
-    "z_Templates/Insert Kanban Board.md",
-    "z_Templates/1 - Basic Callout Selecter.md",
-    "MindFlayer Garden Progress Board.md",
     "Untitled.md",
     "z_Templates/3 - Session Notes Template.md",
     "z_Templates/6 - Insert Infobox - Right.md",
     "z_Templates/4 - Insert Wiki Sidebar.md",
     "z_Templates/5 - Insert Infobox - Left.md",
-    "To-Do List.md"
+    "To-Do List.md",
+    "z_Templates/11 - Insert Fancy Quote.md",
+    "z_Templates/10 - Insert Caption.md",
+    "z_Templates/Untitled.md",
+    "Home.md"
   ],
   "ribbonAction": "toolbar",
   "scriptingEnabled": false,
