@@ -1,44 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
       "basename": "To-Do List",
       "path": "To-Do List.md"
     },
     {
-      "basename": "16 - New Task",
-      "path": "z_Templates/16 - New Task.md"
+      "basename": "5 - Insert Infobox - Left",
+      "path": "z_Templates/5 - Insert Infobox - Left.md"
     },
     {
-      "basename": "Untitled",
-      "path": "z_Templates/Untitled.md"
+      "basename": "4 - Insert Wiki Sidebar",
+      "path": "z_Templates/4 - Insert Wiki Sidebar.md"
+    },
+    {
+      "basename": "6 - Insert Infobox - Right",
+      "path": "z_Templates/6 - Insert Infobox - Right.md"
+    },
+    {
+      "basename": "3 - Session Notes Template",
+      "path": "z_Templates/3 - Session Notes Template.md"
+    },
+    {
+      "basename": "19 - Insert Columns",
+      "path": "z_Templates/19 - Insert Columns.md"
+    },
+    {
+      "basename": "18 - Insert Vertical Timeline",
+      "path": "z_Templates/18 - Insert Vertical Timeline.md"
     },
     {
       "basename": "MindFlayer Garden Progress Board",
       "path": "MindFlayer Garden Progress Board.md"
     },
     {
-      "basename": "Curse of Animation",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Animation.md"
+      "basename": "1 - Basic Callout Selecter",
+      "path": "z_Templates/1 - Basic Callout Selecter.md"
+    },
+    {
+      "basename": "17 - Insert Kanban Board",
+      "path": "z_Templates/17 - Insert Kanban Board.md"
+    },
+    {
+      "basename": "Class  Template",
+      "path": "z_Templates/Class  Template.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
     },
     {
       "basename": "README",
       "path": "README.md"
     },
     {
+      "basename": "16 - New Task",
+      "path": "z_Templates/16 - New Task.md"
+    },
+    {
+      "basename": "Curse of Animation",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Animation.md"
+    },
+    {
       "basename": "2560x1600-adventuring-party",
       "path": "z_img/2560x1600-adventuring-party.jpg"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "1 - Basic Callout Selecter",
-      "path": "z_Templates/1 - Basic Callout Selecter.md"
     },
     {
       "basename": "7 - Edit Metadata",
@@ -55,10 +79,6 @@
     {
       "basename": "10 - Insert Caption",
       "path": "z_Templates/10 - Insert Caption.md"
-    },
-    {
-      "basename": "Class  Template",
-      "path": "z_Templates/Class  Template.md"
     },
     {
       "basename": "Flavorful Feats",
@@ -179,26 +199,6 @@
     {
       "basename": "The Ascended",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Vessel/The Ascended.md"
-    },
-    {
-      "basename": "sorcerer-xphb-wild-magic-sorcery-xphb",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-xphb-wild-magic-sorcery-xphb.md"
-    },
-    {
-      "basename": "sorcerer-xphb-clockwork-sorcery-xphb",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-xphb-clockwork-sorcery-xphb.md"
-    },
-    {
-      "basename": "sorcerer-xphb-aberrant-sorcery-xphb",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-xphb-aberrant-sorcery-xphb.md"
-    },
-    {
-      "basename": "Runechild",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Runechild.md"
-    },
-    {
-      "basename": "sorcerer-xphb-draconic-sorcery-xphb",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-xphb-draconic-sorcery-xphb.md"
     }
   ],
   "omittedPaths": [],

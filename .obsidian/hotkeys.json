@@ -222,5 +222,14 @@
       ],
       "key": "="
     }
+  ],
+  "properties:open-local": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
   ]
 }

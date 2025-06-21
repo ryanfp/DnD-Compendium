@@ -29,6 +29,18 @@
       ],
       "color": "gray"
     },
+    "z_Templates/1 - Basic Callout Selecter.md": {
+      "icon": "lucide-menu-square"
+    },
+    "z_Templates/10 - Insert Caption.md": {
+      "icon": "lucide-captions"
+    },
+    "z_Templates/11 - Insert Fancy Quote.md": {
+      "icon": "lucide-message-square-quote"
+    },
+    "z_Templates/12 - Insert File Title.md": {
+      "icon": "lucide-file-type-2"
+    },
     "z_Templates/13 - Martial Class Feature Table.md": {
       "icon": "lucide-layout-grid"
     },
@@ -40,6 +52,39 @@
     },
     "z_Templates/16 - New Task.md": {
       "icon": "lucide-list-checks"
+    },
+    "z_Templates/17 - Insert Kanban Board.md": {
+      "icon": "lucide-kanban-square"
+    },
+    "z_Templates/18 - Insert Vertical Timeline.md": {
+      "icon": "lucide-align-horizontal-distribute-center"
+    },
+    "z_Templates/19 - Insert Columns.md": {
+      "icon": "lucide-columns-2"
+    },
+    "z_Templates/2 - Insert Table of Contents.md": {
+      "icon": "lucide-table-of-contents"
+    },
+    "z_Templates/3 - Session Notes Template.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "z_Templates/4 - Insert Wiki Sidebar.md": {
+      "icon": "obsidian-leaflet-plugin-icon-description"
+    },
+    "z_Templates/5 - Insert Infobox - Left.md": {
+      "icon": "sidebar-left"
+    },
+    "z_Templates/6 - Insert Infobox - Right.md": {
+      "icon": "sidebar-right"
+    },
+    "z_Templates/7 - Edit Metadata.md": {
+      "icon": "lucide-file-edit"
+    },
+    "z_Templates/8 - Convert Image to Wiki.md": {
+      "icon": "lucide-image-play"
+    },
+    "z_Templates/9 - Format YouTube Link.md": {
+      "icon": "lucide-youtube"
     },
     "z_img": {
       "icon": "lucide-image-plus",

@@ -1,3 +1,7 @@
+---
+kanban:
+---
+
 
 - [ ] ⚔Consolidate Character Archetypes | 📅2025-04-26 #in-progress
 	
