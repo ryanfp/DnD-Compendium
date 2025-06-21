@@ -12,14 +12,15 @@ banner-max-width: 2560
 
 
 > [!kanban]+ D&D Vault Progress
-> - [[Link|Not Started]]
-> 	- ![[Image.png]]
+> - Not Started
+> 	- ![[Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols.svg]]
 > 	- [[Link|Card]]
-> - [[Link|In-Progress]]
-> 	![[Image without background card styling.png]]
+> - In-Progress
+> 	- ![[Hourglass-Top-Fill--Streamline-Sharp-Fill-Material-Symbols.svg]]
 > 	- [[Link|Card]]
-> - Text
-> 	- [ ] Text
-
-
-
+> - On Hold
+> 	- ![[Pause-Circle-Fill--Streamline-Sharp-Fill-Material-Symbols.svg]]
+> 	- [[Link|Card]]
+> - Complete
+> 	- ![[Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols.svg]]
+> 	- [[Link|Card]]

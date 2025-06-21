@@ -5,6 +5,18 @@
       "path": "Home.md"
     },
     {
+      "basename": "Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols",
+      "path": "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols.svg"
+    },
+    {
+      "basename": "Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols",
+      "path": "z_img/Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols.svg"
+    },
+    {
+      "basename": "To-Do List",
+      "path": "To-Do List.md"
+    },
+    {
       "basename": "Untitled",
       "path": "z_Templates/Untitled.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "11 - Insert Quotes",
       "path": "z_Templates/11 - Insert Quotes.md"
-    },
-    {
-      "basename": "To-Do List",
-      "path": "To-Do List.md"
     },
     {
       "basename": "5 - Insert Infobox - Left",
@@ -191,14 +199,6 @@
     {
       "basename": "The Fathomless",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The Fathomless.md"
-    },
-    {
-      "basename": "The Celestial",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The Celestial.md"
-    },
-    {
-      "basename": "The Archfey",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The Archfey.md"
     }
   ],
   "omittedPaths": [],

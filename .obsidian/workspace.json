@@ -6,6 +6,7 @@
       {
         "id": "4e50f70f89b65c37",
         "type": "tabs",
+        "dimension": 31.92508710801394,
         "children": [
           {
             "id": "32dee14d9f4e6515",
@@ -491,7 +492,158 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
+      },
+      {
+        "id": "90aca06b58b84180",
+        "type": "tabs",
+        "dimension": 68.07491289198606,
+        "children": [
+          {
+            "id": "8208d7d934e3bb18",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 3,
+              "stack": [
+                {
+                  "title": "Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols.svg\"},\"icon\":\"lucide-image\",\"title\":\"Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_img/Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols.svg\"},\"icon\":\"lucide-image\",\"title\":\"Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols.svg\"},\"icon\":\"lucide-image\",\"title\":\"Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols\"}",
+                  "eState": "{}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "MindFlayer Garden Progress Board",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"MindFlayer Garden Progress Board.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MindFlayer Garden Progress Board\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"README\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "To-Do List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"To-Do List.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"To-Do List\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "18 - Insert Vertical Timeline",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/18 - Insert Vertical Timeline.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "To-Do List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"To-Do List.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"To-Do List\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}}}"
+                },
+                {
+                  "title": "17 - Insert Kanban Board",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/17 - Insert Kanban Board.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":13},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":4.003307054325255}"
+                },
+                {
+                  "title": "MindFlayer Garden Progress Board",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"MindFlayer Garden Progress Board.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false,false,false,false,false,false]}},\"icon\":\"lucide-trello\",\"title\":\"MindFlayer Garden Progress Board\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":3},\"to\":{\"line\":12,\"ch\":3}}}"
+                },
+                {
+                  "title": "MindFlayer Garden Progress Board",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"MindFlayer Garden Progress Board.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false,false,false,false,false,false]}},\"icon\":\"lucide-trello\",\"title\":\"Untitled Kanban\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "To-Do List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"To-Do List.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"To-Do List\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":40},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "MindFlayer Garden Progress Board",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"MindFlayer Garden Progress Board.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled Kanban\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":34},\"to\":{\"line\":19,\"ch\":34}}}"
+                },
+                {
+                  "title": "To-Do List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"To-Do List.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"To-Do List\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":34},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "title": "MindFlayer Garden Progress Board",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"MindFlayer Garden Progress Board.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled Kanban\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "To-Do List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"To-Do List.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"To-Do List\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "MindFlayer Garden Progress Board",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"MindFlayer Garden Progress Board.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false]}},\"icon\":\"lucide-trello\",\"title\":\"Untitled Kanban\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "MindFlayer Garden Progress Board",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"MindFlayer Garden Progress Board.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled Kanban\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -962,12 +1114,24 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "148f62ff660c76c4",
+  "active": "8208d7d934e3bb18",
   "lastOpenFiles": [
+    "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
+    "z_img/Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
+    "Home.md",
+    "z_img/Build-Circle-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
+    "z_img/Hourglass-Top-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
+    "z_img/Pause-Circle-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
+    "z_img/not-started-8ja9wado78v9nl13qfbi8c.webp",
+    "z_img/load-icon-png-8.png",
+    "z_img/Icon - Hourglass.md",
+    "To-Do List.md",
+    "z_img/task_alt_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.png",
+    "z_img/not_started_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.png",
+    "z_img/construction_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.png",
     "z_Templates/Untitled.md",
     "z_Templates/10 - Insert Captions.md",
     "z_Templates/11 - Insert Quotes.md",
-    "To-Do List.md",
     "z_Templates/5 - Insert Infobox - Left.md",
     "z_Templates/4 - Insert Wiki Sidebar.md",
     "z_Templates/6 - Insert Infobox - Right.md",
@@ -978,31 +1142,18 @@
     "z_Templates/1 - Basic Callout Selecter.md",
     "z_Templates/17 - Insert Kanban Board.md",
     "z_Templates/Class  Template.md",
-    "Home.md",
     "README.md",
     "z_Templates/16 - New Task.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Animation.md",
-    "z_img/2560x1600-adventuring-party.jpg",
     "z_Templates/7 - Edit Metadata.md",
     "To Do List.md",
-    "z_img/1000_F_894354694_KR91bnJuKXDwspbQhOwHTfANTo3oQaUT.jpg",
-    "z_img/fantasy-landing-page.jpg",
-    "z_img/1000_F_478490472_zDi7fiDEhoShE6xcYw08gIcfLw7fZefo.jpg",
-    "z_img/waterfall_palace_by_oliverbeck_de0lwei-pre.jpg",
-    "z_img/tablet-2448x2448-archfey.jpg",
     "z_img/dnd-party-dragon",
     "z_img/fantasy-landing-page",
     "pixel-banner-images",
-    "image.png",
     "📚 - Information Compendium/📝 - Rules & Mechanics/Mechanics/Flavorful Feats.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-xphb-order-of-scribes-tce.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-xphb-graviturgy-magic-egw.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-xphb-bladesinging-tce.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-xphb-abjurer-xphb.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/War Magic.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/img/athlete.webp",
-    "📚 - Information Compendium/books/the-illrigger-revised/img/011-00-012-glowing-scroll.webp",
-    "📚 - Information Compendium/books/the-illrigger-revised/img/013-00-014-deceiver-retainer.webp",
     "📚 - Information Compendium/books/the-illrigger-revised/img",
     "📚 - Information Compendium/books/the-illrigger-revised",
     "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-hunt-field-notes/img",

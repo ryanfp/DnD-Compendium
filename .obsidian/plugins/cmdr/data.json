@@ -58,6 +58,12 @@
       "icon": "lucide-files",
       "name": "Files: Show file explorer",
       "mode": "any"
+    },
+    {
+      "id": "obsidian-excalidraw-plugin:insert-link-to-element",
+      "icon": "lucide-copy-check",
+      "name": "Excalidraw: Copy [[link]] for selected element to clipboard.",
+      "mode": "any"
     }
   ],
   "leftRibbon": [],
