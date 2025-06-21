@@ -13,14 +13,26 @@ banner-max-width: 2560
 
 > [!kanban]+ D&D Vault Progress
 > - Not Started
-> 	- ![[Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols.svg]]
-> 	- [[Link|Card]]
+> 	- ![[Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg#center|400]]
+> 	- [ ] 📝Cross Reference Created Content w/ Needed | 📅06-21-2025 #not-started 
+> 		- [ ] Create List of Sources used for CLI Output
+> 		- [ ] Create List of Sources used/desired
+> 		- [ ] Analyze List and Determine Outliers
+> 		- [ ] Fill in the Gaps
 > - In-Progress
-> 	- ![[Hourglass-Top-Fill--Streamline-Sharp-Fill-Material-Symbols.svg]]
-> 	- [[Link|Card]]
+> 	- ![[Hourglass-Top-Fill--Streamline-Sharp-Fill-Material-Symbols.svg#center|400]]
+> 	- [ ] ⚔Consolidate Character Archetypes | 📅2025-04-26	
+> 		- [ ] Review all adventuring classes #started 
+> 		- [ ] Review all subclasses #started 
+> 		- [ ] Remove marked options
+> 		- [ ] Combine/edit any classes/subclasses #started 
+> 		- [ ] Link all subclasses to their classes and vice-versa #started 
+> 		- Just waiting on Kyler to be back from Maine
+> 		- We were on I think Barbarian?
+> 	-  [ ] Find/Confirm Way to SAFELY Rename All Files (!) | 📅06-21-2025 #in-progress
 > - On Hold
-> 	- ![[Pause-Circle-Fill--Streamline-Sharp-Fill-Material-Symbols.svg]]
+> 	- ![[Pause-Circle-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg#center|400]]
 > 	- [[Link|Card]]
 > - Complete
-> 	- ![[Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols.svg]]
+> 	- ![[Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols.svg#center|400]]
 > 	- [[Link|Card]]

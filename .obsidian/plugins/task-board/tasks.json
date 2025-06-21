@@ -42,12 +42,20 @@
         ],
         "To-Do List.md": [
             {
-                "id": 2865269481,
+                "id": 2931823629,
                 "status": " ",
-                "title": "⚔Consolidate Character Archetypes | 📅2025-04-26 #in-progress",
-                "body": [],
+                "title": "⚔Consolidate Character Archetypes | 📅04-26-2025 #in-progress",
+                "body": [
+                    "\t- [ ] Review all adventuring classes #started",
+                    "\t- [ ] Review all subclasses #started",
+                    "\t- [ ] Remove marked options",
+                    "\t- [ ] Combine/edit any classes/subclasses #started",
+                    "\t- [ ] Link all subclasses to their classes and vice-versa #started ",
+                    "\t  - Just waiting on Kyler to be back from Maine",
+                    "\t  - We were on I think Barbarian?"
+                ],
                 "time": "",
-                "due": "2025-04-26",
+                "due": "04-26-2025",
                 "tags": [
                     "#in-progress"
                 ],
@@ -56,22 +64,281 @@
                 "completion": ""
             },
             {
-                "id": 3280024516,
+                "id": 1554240465,
                 "status": " ",
-                "title": "✅21-06-2025/13:01:54  Kanban Board | 📅 06:19: 2025 #in-progress",
+                "title": "Cross Reference Created Content w/ Needed | 📅06-21-2025 #not-started",
                 "body": [
-                    "\t- [ ] Get colored tags to change how tags look",
-                    "\t- [ ] Make sure to track all items/tasks",
-                    "\t- [ ] Research other formatting options"
+                    "\t- [ ] Create List of Sources used for CLI Output",
+                    "\t- [ ] Create List of Sources used/desired",
+                    "\t- [ ] Analyze List and Determine Outliers",
+                    "\t- [ ] Fill in the Gaps"
                 ],
                 "time": "",
-                "due": "",
+                "due": "06-21-2025",
+                "tags": [
+                    "#not-started"
+                ],
+                "priority": 0,
+                "filePath": "To-Do List.md",
+                "completion": ""
+            },
+            {
+                "id": 179958887,
+                "status": " ",
+                "title": "Find/Confirm Way to SAFELY Rename All Files (!) | 📅06-21-2025 #in-progress",
+                "body": [],
+                "time": "",
+                "due": "06-21-2025",
                 "tags": [
                     "#in-progress"
                 ],
                 "priority": 0,
                 "filePath": "To-Do List.md",
-                "completion": "21-06-2025/13:01:54"
+                "completion": ""
+            },
+            {
+                "id": 2329456206,
+                "status": " ",
+                "title": "Rename ALL Files #in-progress | 📅06-18-2025",
+                "body": [
+                    "\t- [ ] Backgrounds #in-progress ",
+                    "\t- [ ] Items",
+                    "\t- [ ] Spells",
+                    "\t- [ ] Races",
+                    "\t- [ ] Monsters",
+                    "\t- [ ] Features",
+                    "\t- [ ] Actions"
+                ],
+                "time": "",
+                "due": "06-18-2025",
+                "tags": [
+                    "#in-progress"
+                ],
+                "priority": 0,
+                "filePath": "To-Do List.md",
+                "completion": ""
+            },
+            {
+                "id": 4098366516,
+                "status": " ",
+                "title": "Create Master List for Cataloging Everything| 📅06-16-2025",
+                "body": [
+                    "\t- [ ] Draw/Sketch Mock-Up Hierarchy #i-progress ",
+                    "\t- [ ] Create Tag Label Scheme",
+                    "\t- [ ] (Optional) Find Way to Mass Add Tags",
+                    "\t- [ ] Create Modal Forms to Add Tags to Frontmatter",
+                    "\t- [ ] Apply Tags to Desired Files"
+                ],
+                "time": "",
+                "due": "06-16-2025",
+                "tags": [],
+                "priority": 0,
+                "filePath": "To-Do List.md",
+                "completion": ""
+            },
+            {
+                "id": 1156352486,
+                "status": " ",
+                "title": "A",
+                "body": [],
+                "time": "",
+                "due": "",
+                "tags": [],
+                "priority": 0,
+                "filePath": "To-Do List.md",
+                "completion": ""
+            },
+            {
+                "id": 1847235288,
+                "status": " ",
+                "title": "A",
+                "body": [],
+                "time": "",
+                "due": "",
+                "tags": [],
+                "priority": 0,
+                "filePath": "To-Do List.md",
+                "completion": ""
+            },
+            {
+                "id": 2220611070,
+                "status": " ",
+                "title": "A",
+                "body": [],
+                "time": "",
+                "due": "",
+                "tags": [],
+                "priority": 0,
+                "filePath": "To-Do List.md",
+                "completion": ""
+            },
+            {
+                "id": 446416838,
+                "status": " ",
+                "title": "A",
+                "body": [],
+                "time": "",
+                "due": "",
+                "tags": [],
+                "priority": 0,
+                "filePath": "To-Do List.md",
+                "completion": ""
+            },
+            {
+                "id": 1021682208,
+                "status": " ",
+                "title": "A",
+                "body": [],
+                "time": "",
+                "due": "",
+                "tags": [],
+                "priority": 0,
+                "filePath": "To-Do List.md",
+                "completion": ""
+            },
+            {
+                "id": 547249771,
+                "status": " ",
+                "title": "A",
+                "body": [],
+                "time": "",
+                "due": "",
+                "tags": [],
+                "priority": 0,
+                "filePath": "To-Do List.md",
+                "completion": ""
+            },
+            {
+                "id": 891326893,
+                "status": " ",
+                "title": "A",
+                "body": [],
+                "time": "",
+                "due": "",
+                "tags": [],
+                "priority": 0,
+                "filePath": "To-Do List.md",
+                "completion": ""
+            },
+            {
+                "id": 1339378191,
+                "status": " ",
+                "title": "A",
+                "body": [],
+                "time": "",
+                "due": "",
+                "tags": [],
+                "priority": 0,
+                "filePath": "To-Do List.md",
+                "completion": ""
+            },
+            {
+                "id": 80743365,
+                "status": " ",
+                "title": "A",
+                "body": [],
+                "time": "",
+                "due": "",
+                "tags": [],
+                "priority": 0,
+                "filePath": "To-Do List.md",
+                "completion": ""
+            },
+            {
+                "id": 1356765519,
+                "status": " ",
+                "title": "A",
+                "body": [],
+                "time": "",
+                "due": "",
+                "tags": [],
+                "priority": 0,
+                "filePath": "To-Do List.md",
+                "completion": ""
+            },
+            {
+                "id": 3506071880,
+                "status": " ",
+                "title": "A",
+                "body": [],
+                "time": "",
+                "due": "",
+                "tags": [],
+                "priority": 0,
+                "filePath": "To-Do List.md",
+                "completion": ""
+            },
+            {
+                "id": 951058971,
+                "status": " ",
+                "title": "A",
+                "body": [],
+                "time": "",
+                "due": "",
+                "tags": [],
+                "priority": 0,
+                "filePath": "To-Do List.md",
+                "completion": ""
+            },
+            {
+                "id": 165240580,
+                "status": " ",
+                "title": "A",
+                "body": [],
+                "time": "",
+                "due": "",
+                "tags": [],
+                "priority": 0,
+                "filePath": "To-Do List.md",
+                "completion": ""
+            },
+            {
+                "id": 3982525026,
+                "status": " ",
+                "title": "Aa",
+                "body": [],
+                "time": "",
+                "due": "",
+                "tags": [],
+                "priority": 0,
+                "filePath": "To-Do List.md",
+                "completion": ""
+            },
+            {
+                "id": 1235883771,
+                "status": " ",
+                "title": "A",
+                "body": [],
+                "time": "",
+                "due": "",
+                "tags": [],
+                "priority": 0,
+                "filePath": "To-Do List.md",
+                "completion": ""
+            },
+            {
+                "id": 2374966222,
+                "status": " ",
+                "title": "A",
+                "body": [],
+                "time": "",
+                "due": "",
+                "tags": [],
+                "priority": 0,
+                "filePath": "To-Do List.md",
+                "completion": ""
+            },
+            {
+                "id": 766931104,
+                "status": " ",
+                "title": "A",
+                "body": [],
+                "time": "",
+                "due": "",
+                "tags": [],
+                "priority": 0,
+                "filePath": "To-Do List.md",
+                "completion": ""
             }
         ],
         "z_Templates/New Task.md": [

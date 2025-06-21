@@ -5,16 +5,36 @@
       "path": "Home.md"
     },
     {
+      "basename": "To-Do List",
+      "path": "To-Do List.md"
+    },
+    {
+      "basename": "Acolyte",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Acolyte.md"
+    },
+    {
+      "basename": "acolyte-xphb",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/acolyte-xphb.md"
+    },
+    {
+      "basename": "Apprentice Diver",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice Diver.md"
+    },
+    {
+      "basename": "Amnesiac",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Amnesiac.md"
+    },
+    {
+      "basename": "Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols (1)",
+      "path": "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg"
+    },
+    {
       "basename": "Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols",
       "path": "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols.svg"
     },
     {
       "basename": "Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols",
       "path": "z_img/Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols.svg"
-    },
-    {
-      "basename": "To-Do List",
-      "path": "To-Do List.md"
     },
     {
       "basename": "Untitled",
@@ -179,26 +199,6 @@
     {
       "basename": "The Undying",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The Undying.md"
-    },
-    {
-      "basename": "warlock-the-great-old-one",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/warlock-the-great-old-one.md"
-    },
-    {
-      "basename": "The Genie",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The Genie.md"
-    },
-    {
-      "basename": "The First Vampire",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The First Vampire.md"
-    },
-    {
-      "basename": "The Fiend",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The Fiend.md"
-    },
-    {
-      "basename": "The Fathomless",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The Fathomless.md"
     }
   ],
   "omittedPaths": [],

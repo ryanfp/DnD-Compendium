@@ -6,7 +6,7 @@
       {
         "id": "4e50f70f89b65c37",
         "type": "tabs",
-        "dimension": 31.92508710801394,
+        "dimension": 32.12886373530692,
         "children": [
           {
             "id": "32dee14d9f4e6515",
@@ -339,27 +339,6 @@
             }
           },
           {
-            "id": "0d0dd27f922dde04",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "pinned": true,
-            "state": {
-              "type": "card-board-view",
-              "state": {},
-              "pinned": true,
-              "icon": "card-board",
-              "title": "CardBoard"
-            }
-          },
-          {
             "id": "148f62ff660c76c4",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -483,7 +462,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
@@ -497,30 +476,36 @@
       {
         "id": "90aca06b58b84180",
         "type": "tabs",
-        "dimension": 68.07491289198606,
+        "dimension": 67.87113626469308,
         "children": [
           {
             "id": "8208d7d934e3bb18",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 3,
+              "pos": 4,
               "stack": [
                 {
-                  "title": "Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols.svg\"},\"icon\":\"lucide-image\",\"title\":\"Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols\"}",
+                  "title": "Apprentice Diver",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice Diver.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Apprentice Diver\"}",
+                  "eState": "{\"scroll\":0.5086259037171555}"
+                },
+                {
+                  "title": "Amnesiac",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Amnesiac.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Amnesiac\"}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_img/Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols.svg\"},\"icon\":\"lucide-image\",\"title\":\"Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols\"}",
+                  "title": "acolyte-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/acolyte-xphb.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"acolyte-xphb\"}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols.svg\"},\"icon\":\"lucide-image\",\"title\":\"Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols\"}",
+                  "title": "Acolyte",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Acolyte.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Acolyte\"}",
                   "eState": "{}"
                 },
                 {
@@ -635,12 +620,31 @@
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Home"
+            }
+          },
+          {
+            "id": "80b6a4a16f32f1f9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "card-board-view",
+              "state": {},
+              "icon": "card-board",
+              "title": "CardBoard"
             }
           }
         ]
@@ -832,7 +836,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "To-Do List.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -842,7 +846,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for To-Do List"
             }
           },
           {
@@ -1064,10 +1068,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "To-Do List.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Home"
+              "title": "File properties for To-Do List"
             }
           }
         ],
@@ -1114,21 +1118,25 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "8208d7d934e3bb18",
+  "active": "591ecc42ba0745ee",
   "lastOpenFiles": [
+    "Home.md",
+    "To-Do List.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Acolyte.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/acolyte-xphb.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Apprentice Diver.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Amnesiac.md",
+    "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg",
+    "z_img/Pause-Circle-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg",
     "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
     "z_img/Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
-    "Home.md",
     "z_img/Build-Circle-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
     "z_img/Hourglass-Top-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
     "z_img/Pause-Circle-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
     "z_img/not-started-8ja9wado78v9nl13qfbi8c.webp",
     "z_img/load-icon-png-8.png",
     "z_img/Icon - Hourglass.md",
-    "To-Do List.md",
     "z_img/task_alt_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.png",
-    "z_img/not_started_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.png",
-    "z_img/construction_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.png",
     "z_Templates/Untitled.md",
     "z_Templates/10 - Insert Captions.md",
     "z_Templates/11 - Insert Quotes.md",
@@ -1151,9 +1159,6 @@
     "z_img/fantasy-landing-page",
     "pixel-banner-images",
     "📚 - Information Compendium/📝 - Rules & Mechanics/Mechanics/Flavorful Feats.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-xphb-order-of-scribes-tce.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-xphb-graviturgy-magic-egw.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-xphb-bladesinging-tce.md",
     "📚 - Information Compendium/books/the-illrigger-revised/img",
     "📚 - Information Compendium/books/the-illrigger-revised",
     "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-hunt-field-notes/img",
