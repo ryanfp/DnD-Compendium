@@ -9,7 +9,7 @@
 	  - Just waiting on Kyler to be back from Maine
 	  - We were on I think Barbarian?
 
-- [ ] ✅Finish Kanban Board | 📅 06:19: 2025 #in-progress 
+- [ ] ✅21-06-2025/13:01:54  Kanban Board | 📅 06:19: 2025 #in-progress
 	- [ ] Get colored tags to change how tags look
 	- [ ] Make sure to track all items/tasks
 	- [ ] Research other formatting options

@@ -42,7 +42,7 @@
         ],
         "To-Do List.md": [
             {
-                "id": 155383547,
+                "id": 3466480506,
                 "status": " ",
                 "title": "⚔Consolidate Character Archetypes | 📅2025-04-26 #in-progress",
                 "body": [],
@@ -56,9 +56,9 @@
                 "completion": ""
             },
             {
-                "id": 2398242455,
+                "id": 711264081,
                 "status": " ",
-                "title": "✅Finish Kanban Board | 📅 06:19: 2025 #in-progress",
+                "title": "✅21-06-2025/13:01:54  Kanban Board | 📅 06:19: 2025 #in-progress",
                 "body": [
                     "\t- [ ] Get colored tags to change how tags look",
                     "\t- [ ] Make sure to track all items/tasks",
@@ -71,7 +71,7 @@
                 ],
                 "priority": 0,
                 "filePath": "To-Do List.md",
-                "completion": "Finish"
+                "completion": "21-06-2025/13:01:54"
             }
         ],
         "z_Templates/New Task.md": [
@@ -122,7 +122,7 @@
                 "status": " ",
                 "title": "✅Finish Kanban Board | 📅 06:19: 2025 #in-progress",
                 "body": [
-                    "\t- [ ] Get colored tags to change how tags look",
+                    "\t- [x] Get colored tags to change how tags look",
                     "\t- [ ] Make sure to track all items/tasks",
                     "\t- [ ] Research other formatting options"
                 ],
