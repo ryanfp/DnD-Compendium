@@ -236,18 +236,29 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Untitled Kanban",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled Kanban.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled Kanban\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
                 "file": "Untitled Kanban.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
+              "icon": "lucide-trello",
               "title": "Untitled Kanban"
             }
           }
@@ -690,7 +701,8 @@
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
       "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "card-board:CardBoard": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "be8fd6c457b82683",
