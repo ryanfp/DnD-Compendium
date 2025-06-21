@@ -44,7 +44,6 @@
   "file-explorer-note-count",
   "folder-notes",
   "helpmate",
-  "image-converter",
   "obsidian-import-json",
   "markdown-attributes",
   "obisidian-note-linker",
@@ -69,5 +68,6 @@
   "card-board",
   "colored-tags",
   "obsidian-tagfolder",
-  "callout-manager"
+  "callout-manager",
+  "image-converter"
 ]

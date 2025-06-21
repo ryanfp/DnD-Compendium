@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "10 - Insert Captions",
+      "path": "z_Templates/10 - Insert Captions.md"
+    },
+    {
+      "basename": "Classes",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "Untitled",
       "path": "z_Templates/Untitled.md"
-    },
-    {
-      "basename": "10 - Insert Captions",
-      "path": "z_Templates/10 - Insert Captions.md"
     },
     {
       "basename": "11 - Insert Quotes",
@@ -195,10 +199,6 @@
     {
       "basename": "Wizard",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Wizard.md"
-    },
-    {
-      "basename": "The Undying",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/The Undying.md"
     }
   ],
   "omittedPaths": [],

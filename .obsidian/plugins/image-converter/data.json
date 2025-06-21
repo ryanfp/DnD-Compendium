@@ -313,7 +313,7 @@
   "enableContextMenu": true,
   "showSpaceSavedNotification": true,
   "revertToOriginalIfLarger": false,
-  "enableImageCaptions": true,
+  "enableImageCaptions": false,
   "skipCaptionExtensions": "icns, .webp",
   "captionFontSize": "var(--font-smaller)",
   "captionColor": "var(--text-gray)",
