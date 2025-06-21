@@ -318,8 +318,19 @@
               "icon": "clock",
               "title": "Recent Files"
             }
+          },
+          {
+            "id": "a3cb69483956354b",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -616,6 +627,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "callout-manager:Insert Callout": false,
       "omnisearch:Omnisearch": false,
       "homepage:Open homepage": false,
       "command-palette:Open command palette": false,
@@ -646,8 +658,7 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": true,
-      "card-board:CardBoard": false
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "32dee14d9f4e6515",
