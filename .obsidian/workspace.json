@@ -707,15 +707,15 @@
         "y": 0,
         "width": 723,
         "height": 1400,
-        "maximize": true,
+        "maximize": false,
         "zoom": -0.5
       }
     ]
   },
-  "active": "2b86e314139b98aa",
+  "active": "8208d7d934e3bb18",
   "lastOpenFiles": [
-    "Home.md",
     "To-Do List.md",
+    "Home.md",
     "MindFlayer Garden Progress Board.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "z_Templates/10 - Insert Captions.md",

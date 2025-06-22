@@ -42,7 +42,7 @@
         ],
         "To-Do List.md": [
             {
-                "id": 3971412892,
+                "id": 12143985,
                 "status": " ",
                 "title": "⚔Consolidate Character Archetypes | 📅04-26-2025 #in-progress",
                 "body": [
@@ -64,7 +64,7 @@
                 "completion": ""
             },
             {
-                "id": 1441176847,
+                "id": 1977294036,
                 "status": " ",
                 "title": "📝Cross Reference Created Content w/ Needed | 📅06-21-2025 #not-started",
                 "body": [
@@ -83,7 +83,7 @@
                 "completion": ""
             },
             {
-                "id": 2045209103,
+                "id": 93518294,
                 "status": " ",
                 "title": "⚠ Find/Confirm Way to SAFELY Rename All Files (!) | 📅06-21-2025 #in-progress",
                 "body": [],
@@ -97,7 +97,7 @@
                 "completion": ""
             },
             {
-                "id": 116639360,
+                "id": 1978556382,
                 "status": " ",
                 "title": "💾 Rename ALL Files #in-progress | 📅06-18-2025",
                 "body": [
@@ -119,11 +119,11 @@
                 "completion": ""
             },
             {
-                "id": 2750817834,
+                "id": 23993923,
                 "status": " ",
                 "title": "📕 Create Master List for Cataloging Everything| 📅06-16-2025",
                 "body": [
-                    "\t- [ ] Draw/Sketch Mock-Up Hierarchy #i-progress ",
+                    "\t- [ ] Draw/Sketch Mock-Up Hierarchy #in-progress -progress ",
                     "\t- [ ] Create Tag Label Scheme",
                     "\t- [ ] (Optional) Find Way to Mass Add Tags",
                     "\t- [ ] Create Modal Forms to Add Tags to Frontmatter",
@@ -137,31 +137,21 @@
                 "completion": ""
             },
             {
-                "id": 2734590349,
+                "id": 4149557430,
                 "status": " ",
-                "title": "",
+                "title": "Create List of Sourcebooks for Homebrew & Vanilla Content | 📅04-26-2025 #completed",
                 "body": [],
                 "time": "",
-                "due": "",
-                "tags": [],
+                "due": "04-26-2025",
+                "tags": [
+                    "#completed"
+                ],
                 "priority": 0,
                 "filePath": "To-Do List.md",
                 "completion": ""
             },
             {
-                "id": 634294677,
-                "status": " ",
-                "title": "A",
-                "body": [],
-                "time": "",
-                "due": "",
-                "tags": [],
-                "priority": 0,
-                "filePath": "To-Do List.md",
-                "completion": ""
-            },
-            {
-                "id": 1015169208,
+                "id": 1131486546,
                 "status": " ",
                 "title": "A",
                 "body": [],
@@ -173,7 +163,7 @@
                 "completion": ""
             },
             {
-                "id": 3295614493,
+                "id": 130289343,
                 "status": " ",
                 "title": "A",
                 "body": [],
@@ -185,7 +175,7 @@
                 "completion": ""
             },
             {
-                "id": 3736684319,
+                "id": 4209495334,
                 "status": " ",
                 "title": "A",
                 "body": [],
@@ -197,7 +187,7 @@
                 "completion": ""
             },
             {
-                "id": 2762864410,
+                "id": 2291176284,
                 "status": " ",
                 "title": "A",
                 "body": [],
@@ -209,7 +199,7 @@
                 "completion": ""
             },
             {
-                "id": 890796245,
+                "id": 1577835067,
                 "status": " ",
                 "title": "A",
                 "body": [],
@@ -221,7 +211,7 @@
                 "completion": ""
             },
             {
-                "id": 4121719699,
+                "id": 1721924375,
                 "status": " ",
                 "title": "A",
                 "body": [],
@@ -233,7 +223,7 @@
                 "completion": ""
             },
             {
-                "id": 3646452702,
+                "id": 2896384201,
                 "status": " ",
                 "title": "A",
                 "body": [],
@@ -245,7 +235,7 @@
                 "completion": ""
             },
             {
-                "id": 1343532245,
+                "id": 1829570418,
                 "status": " ",
                 "title": "A",
                 "body": [],
@@ -257,7 +247,7 @@
                 "completion": ""
             },
             {
-                "id": 311815745,
+                "id": 481266938,
                 "status": " ",
                 "title": "A",
                 "body": [],
@@ -269,31 +259,7 @@
                 "completion": ""
             },
             {
-                "id": 3646244070,
-                "status": " ",
-                "title": "A",
-                "body": [],
-                "time": "",
-                "due": "",
-                "tags": [],
-                "priority": 0,
-                "filePath": "To-Do List.md",
-                "completion": ""
-            },
-            {
-                "id": 3376694062,
-                "status": " ",
-                "title": "A",
-                "body": [],
-                "time": "",
-                "due": "",
-                "tags": [],
-                "priority": 0,
-                "filePath": "To-Do List.md",
-                "completion": ""
-            },
-            {
-                "id": 1134603559,
+                "id": 1061738292,
                 "status": " ",
                 "title": "Aa",
                 "body": [],
@@ -305,7 +271,7 @@
                 "completion": ""
             },
             {
-                "id": 2115668987,
+                "id": 1002949194,
                 "status": " ",
                 "title": "A",
                 "body": [],
@@ -317,7 +283,7 @@
                 "completion": ""
             },
             {
-                "id": 3249821353,
+                "id": 853364303,
                 "status": " ",
                 "title": "A",
                 "body": [],
@@ -329,7 +295,7 @@
                 "completion": ""
             },
             {
-                "id": 2020808197,
+                "id": 4041380529,
                 "status": " ",
                 "title": "A",
                 "body": [],
