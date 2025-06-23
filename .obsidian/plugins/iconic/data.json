@@ -16,7 +16,7 @@
   "rememberDeletedItems": false,
   "dialogState": {
     "iconMode": true,
-    "emojiMode": false,
+    "emojiMode": true,
     "rulePage": "folder"
   },
   "appIcons": {},
@@ -132,13 +132,198 @@
       ]
     },
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian": {
-      "icon": "lucide-brick-wall",
+      "icon": "lucide-biceps-flexed",
       "unsynced": [
         "74b9081e8f8b76ce"
       ]
     },
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard": {
       "icon": "lucide-guitar",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bender": {
+      "icon": "lucide-flame",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Blood Hunter": {
+      "icon": "lucide-dna",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bloodrager": {
+      "icon": "lucide-alert-triangle",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ],
+      "color": "cyan"
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cardcaster": {
+      "icon": "lucide-book-copy",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cleric": {
+      "icon": "✝️",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ],
+      "color": "cyan"
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Craftsman": {
+      "icon": "lucide-hammer",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Druid": {
+      "icon": "lucide-paw-print",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Fighter": {
+      "icon": "lucide-sword",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Gunslinger": {
+      "icon": "lucide-arrow-right-from-line",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Illrigger": {
+      "icon": "👿",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ],
+      "color": "cyan"
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator": {
+      "icon": "🔎",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ],
+      "color": "cyan"
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Justiciar": {
+      "icon": "lucide-crown",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Magus": {
+      "icon": "lucide-gem",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Monk": {
+      "icon": "🤜",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ],
+      "color": "cyan"
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Paladin": {
+      "icon": "lucide-shield-plus",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Psion": {
+      "icon": "lucide-brain",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Pugilist": {
+      "icon": "👊",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ],
+      "color": "cyan"
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger": {
+      "icon": "🏹",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ],
+      "color": "cyan"
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Rogue": {
+      "icon": "lucide-venetian-mask",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Savant": {
+      "icon": "lucide-scroll-text",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer": {
+      "icon": "🎇",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ],
+      "color": "cyan"
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Tamer": {
+      "icon": "lucide-lasso",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Vessel": {
+      "icon": "lucide-container",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warden": {
+      "icon": "lucide-wheat",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ],
+      "color": "cyan"
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock": {
+      "icon": "lucide-handshake",
+      "color": "cyan",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlord": {
+      "icon": "obsidian-leaflet-plugin-icon-map",
+      "color": "cyan",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warmage": {
+      "icon": "lucide-dices",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Witch": {
+      "icon": "lucide-ice-cream-bowl",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard": {
+      "icon": "lucide-wand-2",
       "unsynced": [
         "74b9081e8f8b76ce"
       ]

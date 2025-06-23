@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Armorer",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Armorer.md"
+      "basename": "Classes",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
     },
     {
-      "basename": "Artificer (483168)",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Artificer (483168).md"
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Amorist Field",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/Amorist Field.md"
+    },
+    {
+      "basename": "Armorer",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Armorer.md"
     },
     {
       "basename": "Artificer",
@@ -25,16 +33,8 @@
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md"
     },
     {
-      "basename": "Classes",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
-    },
-    {
       "basename": "To-Do List",
       "path": "To-Do List.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "10 - Insert Captions",
@@ -195,10 +195,6 @@
     {
       "basename": "Graviturgy Magic",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Graviturgy Magic.md"
-    },
-    {
-      "basename": "Chronurgy Magic",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Chronurgy Magic.md"
     }
   ],
   "omittedPaths": [],
