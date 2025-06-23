@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Armorer",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Armorer.md"
+    },
+    {
+      "basename": "Artificer (483168)",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Artificer (483168).md"
+    },
+    {
+      "basename": "Artificer",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Artificer.md"
+    },
+    {
+      "basename": "Alchemist",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Alchemist.md"
+    },
+    {
+      "basename": "Curse of Animation",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Animation.md"
+    },
+    {
       "basename": "Accursed",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md"
     },
@@ -101,10 +121,6 @@
       "path": "z_Templates/16 - New Task.md"
     },
     {
-      "basename": "Curse of Animation",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Animation.md"
-    },
-    {
       "basename": "2560x1600-adventuring-party",
       "path": "z_img/2560x1600-adventuring-party.jpg"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Chronurgy Magic",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Chronurgy Magic.md"
-    },
-    {
-      "basename": "Blood Magic",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Blood Magic.md"
-    },
-    {
-      "basename": "Bladesinging",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Bladesinging.md"
-    },
-    {
-      "basename": "wizard-xphb",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-xphb.md"
-    },
-    {
-      "basename": "Wizard",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Wizard.md"
     }
   ],
   "omittedPaths": [],

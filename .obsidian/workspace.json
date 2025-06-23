@@ -54,6 +54,48 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Artificer (483168)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Artificer (483168).md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artificer (483168)\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Artificer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Artificer.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artificer\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Alchemist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Alchemist.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Alchemist\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Armorer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Armorer.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Armorer\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Artificer (483168)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Artificer (483168).md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artificer (483168)\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Curse of Animation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Animation.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Curse of Animation\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Accursed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Accursed\"}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Classes",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Classes\"}",
@@ -172,13 +214,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md",
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Armorer.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Accursed"
+              "title": "Armorer"
             }
           }
         ],
@@ -346,7 +388,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 332.51625061035156
   },
   "right": {
     "id": "fc1490c296b0c5ab",
@@ -694,8 +736,14 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "fcaa59025a7544d2",
+  "active": "8208d7d934e3bb18",
   "lastOpenFiles": [
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Artificer (483168).md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Artificer.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Alchemist.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Armorer.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Animation.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "To-Do List.md",
     "Home.md",
@@ -726,12 +774,6 @@
     "z_Templates/18 - Insert Vertical Timeline.md",
     "z_Templates/1 - Basic Callout Selecter.md",
     "z_Templates/17 - Insert Kanban Board.md",
-    "z_Templates/Class  Template.md",
-    "README.md",
-    "z_Templates/16 - New Task.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Animation.md",
-    "z_Templates/7 - Edit Metadata.md",
-    "To Do List.md",
     "z_img/dnd-party-dragon",
     "z_img/fantasy-landing-page",
     "pixel-banner-images",
