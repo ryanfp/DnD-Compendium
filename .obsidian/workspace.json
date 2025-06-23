@@ -192,8 +192,51 @@
               "icon": "lucide-file",
               "title": "Amorist Field"
             }
+          },
+          {
+            "id": "2b86e314139b98aa",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "To-Do List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"To-Do List.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"To-Do List\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":30},\"to\":{\"line\":29,\"ch\":7}},\"scroll\":13.513106906585936}"
+                },
+                {
+                  "title": "Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":15},\"to\":{\"line\":14,\"ch\":15}},\"scroll\":12.4330081519616}"
+                },
+                {
+                  "title": "Classes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Classes\"}",
+                  "eState": "{\"scroll\":167.33361130617976}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organization Hierarchy.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Organization Hierarchy"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -662,73 +705,6 @@
       "calendarium:Open Calendarium": false,
       "card-board:CardBoard": false
     }
-  },
-  "floating": {
-    "id": "02934978e07f05e2",
-    "type": "floating",
-    "children": [
-      {
-        "id": "928478ce4fd4d58c",
-        "type": "window",
-        "children": [
-          {
-            "id": "990040f13f88da9b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2b86e314139b98aa",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "To-Do List",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"To-Do List.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"To-Do List\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":30},\"to\":{\"line\":29,\"ch\":7}},\"scroll\":13.513106906585936}"
-                    },
-                    {
-                      "title": "Home",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":15},\"to\":{\"line\":14,\"ch\":15}},\"scroll\":12.4330081519616}"
-                    },
-                    {
-                      "title": "Classes",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Classes\"}",
-                      "eState": "{\"scroll\":167.33361130617976}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Organization Hierarchy.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Organization Hierarchy"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 1400,
-        "maximize": false,
-        "zoom": -0.5
-      }
-    ]
   },
   "active": "2b86e314139b98aa",
   "lastOpenFiles": [
