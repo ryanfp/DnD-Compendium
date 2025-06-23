@@ -32,19 +32,9 @@ kanban:
 	- [ ] Create Modal Forms to Add Tags to Frontmatter
 	- [ ] Apply Tags to Desired Files
 - [ ] Create List of Sourcebooks for Homebrew & Vanilla Content | 📅04-26-2025 #completed  
-- [ ] A
-- [ ] A
-- [ ] A
-- [ ] A
-- [ ] A
-- [ ] A
-- [ ] A
-- [ ] A
-- [ ] A
-- [ ] Aa
-- [ ] A
-- [ ] A
-- [ ] A
+- [ ] 
+- [ ] 
+- [ ] 
 
 
 

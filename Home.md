@@ -49,4 +49,4 @@ banner-max-width: 2560
 > 	- [[Link|Card]]
 > - Complete
 > 	- ![[Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols.svg|center relative hs-med]]
-> 	- [[Link|Card]]
+> 	- [x] Create List of Sourcebooks for Homebrew & Vanilla Content | 📅04-26-2025 #completed

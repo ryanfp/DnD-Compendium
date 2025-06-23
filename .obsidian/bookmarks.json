@@ -11,7 +11,13 @@
             {
               "type": "group",
               "ctime": 1747367007623,
-              "items": [],
+              "items": [
+                {
+                  "type": "folder",
+                  "ctime": 1750639342888,
+                  "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed"
+                }
+              ],
               "title": "👨🏻‍🤝‍👨🏻 - Player Options"
             }
           ],
