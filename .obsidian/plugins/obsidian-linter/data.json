@@ -261,7 +261,7 @@
       "enabled": true
     },
     "remove-leading-or-trailing-whitespace-on-paste": {
-      "enabled": true
+      "enabled": false
     },
     "remove-leftover-footnotes-from-quote-on-paste": {
       "enabled": false

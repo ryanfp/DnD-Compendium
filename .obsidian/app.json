@@ -16,5 +16,6 @@
   "readableLineLength": false,
   "promptDelete": false,
   "attachmentFolderPath": "z_img",
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "autoConvertHtml": true
 }
