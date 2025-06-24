@@ -89,21 +89,6 @@ Read the CLI tags theyre pretty good
 
 ### Types
 - Weapons
-- Armor
-- Ingestables & Coatings
-- Equipment
-- Miscellaneous
-
-####  Attributes
-
-- Rarities
-	- Common
-	- Uncommon
-	- Rare
-	- Very Rare / Legendary
-	- Legendary / Exotic
-	- Artifact / Exotic
-- Type (Weapons)
 	- Weapon Properties
 		- Ammunition
 		- Finesse
@@ -170,7 +155,7 @@ Read the CLI tags theyre pretty good
 			- Pistol (PHB)
 		- Wondrous
 	- Ammunition
-- Type (Armor)
+- Armor
 	- Light
 		- Padded Armor 
 		- Leather Armor 
@@ -189,10 +174,13 @@ Read the CLI tags theyre pretty good
 	- Shields
 		- Shield
 	- Wondrous
-- Type (Ingestables) 
-	- Potions
-	- Elixirs
-- Type (Equipment)
+- Ingestibles & Coatings
+	- Type
+		- Potions
+		- Elixirs
+		- Coatings
+		- Poisons
+- Equipment
 	- Tools
 		- Artisan’s Tools
 			- Alchemist’s Supplies
@@ -304,7 +292,17 @@ Read the CLI tags theyre pretty good
 		- Torch
 		- Vial
 		- Waterskin
+- Miscellaneous
 
+####  Attributes
+- Rarities
+	- Common
+	- Uncommon
+	- Rare
+	- Very Rare / Legendary
+	- Legendary / Exotic
+	- Artifact / Exotic
+Magical
 ## Bestiary
 
 ### Types
