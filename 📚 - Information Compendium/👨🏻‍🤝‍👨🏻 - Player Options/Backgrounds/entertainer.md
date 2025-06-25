@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/phb
+  - background
+  - compendium/src/5e/phb
 aliases:
-- Entertainer
+  - Entertainer
+title: Entertainer
 ---
 # Entertainer
 *Source: Player's Handbook p. 130*  

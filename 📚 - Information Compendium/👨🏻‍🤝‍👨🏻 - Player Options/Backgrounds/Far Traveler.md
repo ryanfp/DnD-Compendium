@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/scag
+  - background
+  - compendium/src/5e/scag
 aliases:
-- Far Traveler
+  - Far Traveler
+title: Far Traveler
 ---
 # Far Traveler
 *Source: Sword Coast Adventurer's Guide p. 148*  

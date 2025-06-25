@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/foequickstone
+  - background
+  - compendium/src/5e/foequickstone
 aliases:
-- Dragonmarked Foundling
+  - Dragonmarked Foundling
+title: Dragonmarked Foundling
 ---
 # Dragonmarked Foundling
 *Source: Frontiers of Eberron: Quickstone p. 156*  

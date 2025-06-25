@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/ggr
+  - background
+  - compendium/src/5e/ggr
 aliases:
-- Golgari Agent
+  - Golgari Agent
+title: Golgari Agent
 ---
 # Golgari Agent
 *Source: Guildmasters' Guide to Ravnica p. 53*  

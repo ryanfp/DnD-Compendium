@@ -3,5 +3,5 @@
   "illegalCharHandling": "remove",
   "customReplacement": "",
   "updateOtherTitlesWithSanitizedVersion": true,
-  "syncMode": "filename_heading"
+  "syncMode": "filename_frontmatter"
 }

@@ -7,6 +7,7 @@ tags:
   - compendium/src/5e/foequickstone
 aliases:
   - Dragonmarked Scion
+title: Dragonmarked Scion
 ---
 # Dragonmarked Scion
 *Source: Frontiers of Eberron: Quickstone p. 156*  

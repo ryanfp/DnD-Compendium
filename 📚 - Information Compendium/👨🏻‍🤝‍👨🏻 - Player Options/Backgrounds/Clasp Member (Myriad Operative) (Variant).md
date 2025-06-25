@@ -8,7 +8,7 @@ aliases:
   - Clasp Member (Myriad Operative) (Variant)
 title: Clasp Member (Myriad Operative) (Variant)
 ---
-# Clasp Member (Myriad Operative) (Variant)
+# Clasp Member {Myriad Operative} {Variant}
 *Source: Tal'Dorei Campaign Setting Reborn p. 182*  
 
 

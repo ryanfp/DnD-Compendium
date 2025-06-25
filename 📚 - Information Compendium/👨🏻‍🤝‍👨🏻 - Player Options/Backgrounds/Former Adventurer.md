@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/toh
+  - background
+  - compendium/src/5e/toh
 aliases:
-- Former Adventurer
+  - Former Adventurer
+title: Former Adventurer
 ---
 # Former Adventurer
 *Source: Tome of Heroes p. 163*  

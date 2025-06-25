@@ -1,6 +1,102 @@
 {
   "recentFiles": [
     {
+      "basename": "Grinner",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Grinner.md"
+    },
+    {
+      "basename": "Gruul Anarch",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Gruul Anarch.md"
+    },
+    {
+      "basename": "Gamekeeper",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Gamekeeper.md"
+    },
+    {
+      "basename": "former-adventurer-toh",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/former-adventurer-toh.md"
+    },
+    {
+      "basename": "Forest dweller",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Forest dweller.md"
+    },
+    {
+      "basename": "Folk Hero",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Folk Hero.md"
+    },
+    {
+      "basename": "Farmer",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Farmer.md"
+    },
+    {
+      "basename": "Far Traveler",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Far Traveler.md"
+    },
+    {
+      "basename": "Faction Agent",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Faction Agent.md"
+    },
+    {
+      "basename": "Exile",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Exile.md"
+    },
+    {
+      "basename": "Entertainer",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Entertainer.md"
+    },
+    {
+      "basename": "Dragonmarked Scion",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Dragonmarked Scion.md"
+    },
+    {
+      "basename": "Dragonmarked Foundling",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Dragonmarked Foundling.md"
+    },
+    {
+      "basename": "Guild Artisan {Guild Merchant} {Variant}",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Guild Artisan {Guild Merchant} {Variant}.md"
+    },
+    {
+      "basename": "entertainer-xphb",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/entertainer-xphb.md"
+    },
+    {
+      "basename": "Dragonmarked Bravo",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Dragonmarked Bravo.md"
+    },
+    {
+      "basename": "Augen Trust {Spy}",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Augen Trust {Spy}.md"
+    },
+    {
+      "basename": "noble-disgraced-variant-chroniclesofeberron",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/noble-disgraced-variant-chroniclesofeberron.md"
+    },
+    {
+      "basename": "Criminal (Spy) (Variant)",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Criminal (Spy) (Variant).md"
+    },
+    {
+      "basename": "Cobalt Scholar - Sage",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Cobalt Scholar - Sage.md"
+    },
+    {
+      "basename": "Clasp Member (Myriad Operative) (Variant)",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Clasp Member (Myriad Operative) (Variant).md"
+    },
+    {
+      "basename": "City Watch (Investigator) (Variant)",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/City Watch (Investigator) (Variant).md"
+    },
+    {
+      "basename": "Test",
+      "path": "Test.md"
+    },
+    {
+      "basename": "Amorist Field",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/Amorist Field.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -11,10 +107,6 @@
     {
       "basename": "Organization Hierarchy",
       "path": "Organization Hierarchy.md"
-    },
-    {
-      "basename": "Amorist Field",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/Amorist Field.md"
     },
     {
       "basename": "Classes",
@@ -107,98 +199,6 @@
     {
       "basename": "1 - Basic Callout Selecter",
       "path": "z_Templates/1 - Basic Callout Selecter.md"
-    },
-    {
-      "basename": "17 - Insert Kanban Board",
-      "path": "z_Templates/17 - Insert Kanban Board.md"
-    },
-    {
-      "basename": "Class  Template",
-      "path": "z_Templates/Class  Template.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "16 - New Task",
-      "path": "z_Templates/16 - New Task.md"
-    },
-    {
-      "basename": "2560x1600-adventuring-party",
-      "path": "z_img/2560x1600-adventuring-party.jpg"
-    },
-    {
-      "basename": "7 - Edit Metadata",
-      "path": "z_Templates/7 - Edit Metadata.md"
-    },
-    {
-      "basename": "fantasy-landing-page",
-      "path": "z_img/fantasy-landing-page.jpg"
-    },
-    {
-      "basename": "tablet-2448x2448-archfey",
-      "path": "z_img/tablet-2448x2448-archfey.jpg"
-    },
-    {
-      "basename": "Flavorful Feats",
-      "path": "📚 - Information Compendium/📝 - Rules & Mechanics/Mechanics/Flavorful Feats.md"
-    },
-    {
-      "basename": "wizard-xphb-abjurer-xphb",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-xphb-abjurer-xphb.md"
-    },
-    {
-      "basename": "War Magic",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/War Magic.md"
-    },
-    {
-      "basename": "School of Transmutation",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/School of Transmutation.md"
-    },
-    {
-      "basename": "School of Sangromancy",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/School of Sangromancy.md"
-    },
-    {
-      "basename": "School of Necromancy",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/School of Necromancy.md"
-    },
-    {
-      "basename": "School of Illusion",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/School of Illusion.md"
-    },
-    {
-      "basename": "wizard-school-of-evocation",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-school-of-evocation.md"
-    },
-    {
-      "basename": "School of Enchantment",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/School of Enchantment.md"
-    },
-    {
-      "basename": "School of Divination",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/School of Divination.md"
-    },
-    {
-      "basename": "wizard-school-of-conjuration",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-school-of-conjuration.md"
-    },
-    {
-      "basename": "School of Abjuration",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/School of Abjuration.md"
-    },
-    {
-      "basename": "Plague Doctor",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Plague Doctor.md"
-    },
-    {
-      "basename": "Order of Scribes",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Order of Scribes.md"
-    },
-    {
-      "basename": "Graviturgy Magic",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Graviturgy Magic.md"
     }
   ],
   "omittedPaths": [],

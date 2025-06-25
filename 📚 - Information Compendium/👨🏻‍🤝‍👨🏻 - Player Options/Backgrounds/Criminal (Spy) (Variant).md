@@ -8,7 +8,7 @@ aliases:
   - Criminal (Spy) (Variant)
 title: Criminal (Spy) (Variant)
 ---
-# Criminal (Spy) (Variant)
+# Criminal {Spy} {Variant}
 *Source: Player's Handbook p. 130. Available in the Basic Rules (2014)*  
 
 

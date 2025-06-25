@@ -8,7 +8,7 @@ aliases:
   - City Watch (Investigator) (Variant)
 title: City Watch (Investigator) (Variant)
 ---
-# City Watch (Investigator) (Variant)
+# City Watch {Investigator} {Variant}
 *Source: Sword Coast Adventurer's Guide p. 145*  
 
 

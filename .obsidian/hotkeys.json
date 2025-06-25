@@ -86,10 +86,10 @@
   "file-title-updater:sync-titles-default": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt",
+        "Mod"
       ],
-      "key": "Enter"
+      "key": "X"
     }
   ],
   "file-explorer:open": [

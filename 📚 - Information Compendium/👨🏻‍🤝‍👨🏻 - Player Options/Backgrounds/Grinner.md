@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/egw
+  - background
+  - compendium/src/5e/egw
 aliases:
-- Grinner
+  - Grinner
+title: Grinner
 ---
 # Grinner
 *Source: Explorer's Guide to Wildemount p. 200*  

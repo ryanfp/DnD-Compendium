@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/darkmatter
+  - background
+  - compendium/src/5e/darkmatter
 aliases:
-- Exile
+  - Exile
+title: Exile
 ---
 # Exile
 *Source: Dark Matter p. 116*  

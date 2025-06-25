@@ -9,7 +9,7 @@ aliases:
   - Cobalt Scholar - Sage
 title: Cobalt Scholar (Sage)
 ---
-# Cobalt Scholar - Sage
+# Cobalt Scholar  {Sage}
 *Source: Explorer's Guide to Wildemount p. 203*  
 
 

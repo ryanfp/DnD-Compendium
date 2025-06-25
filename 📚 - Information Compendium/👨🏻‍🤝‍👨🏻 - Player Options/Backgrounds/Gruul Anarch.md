@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
-- background
-- compendium/src/5e/ggr
+  - background
+  - compendium/src/5e/ggr
 aliases:
-- Gruul Anarch
+  - Gruul Anarch
+title: Gruul Anarch
 ---
 # Gruul Anarch
 *Source: Guildmasters' Guide to Ravnica p. 60*  
