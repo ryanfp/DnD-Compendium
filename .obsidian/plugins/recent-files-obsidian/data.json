@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "guide-xphb",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/guide-xphb.md"
+    },
+    {
+      "basename": "guard-xphb",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/guard-xphb.md"
+    },
+    {
       "basename": "Grinner",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Grinner.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "19 - Insert Columns",
       "path": "z_Templates/19 - Insert Columns.md"
-    },
-    {
-      "basename": "18 - Insert Vertical Timeline",
-      "path": "z_Templates/18 - Insert Vertical Timeline.md"
-    },
-    {
-      "basename": "1 - Basic Callout Selecter",
-      "path": "z_Templates/1 - Basic Callout Selecter.md"
     }
   ],
   "omittedPaths": [],

@@ -232,5 +232,12 @@
       ],
       "key": " "
     }
-  ]
+  ],
+  "smart-rename:smart-rename": [
+    {
+      "modifiers": [],
+      "key": "F2"
+    }
+  ],
+  "workspace:edit-file-title": []
 }

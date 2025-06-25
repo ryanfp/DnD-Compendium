@@ -2,6 +2,6 @@
   "invalidCharacterAction": "Error",
   "replacementCharacter": "_",
   "shouldStoreInvalidTitle": true,
-  "shouldUpdateFirstHeader": true,
+  "shouldUpdateFirstHeader": false,
   "shouldUpdateTitleKey": true
 }
