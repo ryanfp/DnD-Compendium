@@ -301,7 +301,7 @@ Bards of the College of Spirits seek tales with inher­ent power-be they legends
 The cantors are a group of bards who lead the faithful through the praise and worship of the gods, becoming divine lyricists who heal others with their voice. Their music is directed towards the  heavens, with their instruments usually relating in some way to the god that they worship. Cantors are well loved within their respective communities, m and it is hard to find a talented cantor who will stay in one place for long, as the demand for their soothing hymns is widespread. 
 #### **College of Graffiti**<sup>(VSS)</sup> %% fold %%
 To many, the College of Graffiti is a nuisance, a band of hooligans that vandalize the city with no regard for the law. But bards who learn to tag know that graffiti is the single greatest art form. Graffiti artists use the entire city as their canvas, placing murals of inspiration where everyone can see them and personal tags where few will notice. Theirs is a bold, creative endeavor that, while illegal, breathes vibrancy into the city and emboldens those within it. 
-#### **College of Jesters**<sup>(VSS)</sup> %% fold %%
+#### **!College of Jesters**<sup>(VSS)</sup> %% fold %%
 Consummate humorists, acrobats, and orators, bards of the College of Jesters can often be found in royal courts and livening up the local tavern. These bards specialize in truth through biting humor, rather than stories or sonnets, and complement their razor wits with acrobatic stuns and other feats of showmanship. When among nobility, jesters offer off-kilter wisdom and fierce satire in equal measures. 
 #### **College of the Mad God**<sup>(VSS)</sup> %% fold %%
 In the middle of the night, you hear the music. It begins the same way every time, rising from a low drone into a deafening cacophony. The noise is maddening. In your waking hours, your fingers learn to imitate this melody and bring others to your level of psychosis.
@@ -325,9 +325,9 @@ These bards generally do not perform music, and are instead more inclined to cre
 
 #### **College of Echoes**<sup>(TOH)</sup> %% fold %%
 In the caverns beneath the surface of the world, sound works differently. Your exposure to echoes has taught you about how sound changes as it moves and encounters obstacles. Inspired by the effect caves and tunnels have on sounds, you have learned to manipulate sound with your magic, curving it and altering it as it moves. You can silence the most violent explosions, you can make whispers seem to reverberate forever, and you can even change the sounds of music and words as they are created.
-#### **College of Investigation**<sup>(TOH)</sup> %% fold %%
+#### **!College of Investigation**<sup>(TOH)</sup> %% fold %%
 Bards pick up all sorts of information as they travel the land. Some bards focus on a certain type of information, like epic poetry, love ballads, or bawdy drinking songs. Others, however, turn to the shadowy occupation of investigating crimes. These bards use their knack for gathering information to learn about criminals and vigilantes, their tactics, and their weaknesses. Some work with agents of the law to catch criminals, but shadier members of this college use their dark knowledge to emulate the malefactors they have studied for so long.
-#### **College of Shadows**<sup>(TOH)</sup> %% fold %%
+#### **!College of Shadows**<sup>(TOH)</sup> %% fold %%
 Some bards are as proficient in the art of espionage as they are in poetry and song. Their primary medium is information and secrets, though they are known to slip a dagger between ribs when necessary. Masters of insight and manipulation, these bards use every tool at their disposal in pursuit of their goals, and they value knowledge above all else. The more buried a secret, the deeper they delve to uncover it. Knowledge is power; it can cement empires or topple dynasties.
 
 College of Shadows bards undergo careful training before they’re sent out into the world. Skilled in both music and manipulation, they’re the perfect blend of charm and cunning. The tricks they learn in their tutelage make them ideal for the subtle work of coaxing out secrets, entrancing audiences, and dazzling the minds of their chosen targets.
@@ -337,17 +337,16 @@ Bards of the College of Sincerity know it is easier for someone to get what they
 
 #### ~~**College of Cat**<sup>(TOH)</sup>~~ %% fold %%
 
-#### **College of Harmony**<sup>(TCEE)</sup> %% fold %%
+#### ~~**College of Harmony**<sup>(TCEE)</sup>~~ %% fold %%
 Bards of the College of Harmony are masters of teamwork and bringing out the best in people. Often natural leaders, bards of this college sometimes favor coordinating the efforts of the party from a ranged position, while some choose to be on the front lines to inspire and encourage their allies.
 
 Not only do their abilities allow them to increase the effectiveness of their comrades, these bards can bind the group together in magical harmony, allowing each of them to bestow protection on one another and to share in the beneficial effects the bard produces.
 #### **College of Pantomime**<sup>(TCEE)</sup> %% fold %%
 The College of Pantomime is the home of bards who found that the world is a cacophonous place with too much noise and distractions to truly appreciate the Words of Creation or the magic which stemmed from it. They have therefore opted not to add their voices to the multitudes, instead choosing to remain silent, focusing instead on their movements and intentions to weave their magic as they trace the echoes of the Words of Creations which vibrate throughout the planes.
-#### **College of Requiem**<sup>(TCEE)</sup> %% fold %%
+#### **!College of Requiem**<sup>(TCEE)</sup> %% fold %%
 Bards of the College of the Requiem, often called lamenters or requiem singers, regardless of whether or not their requiem involves any singing, dedicate themselves to all things pertaining to death. This branches out into several different paths as some prefer funerary rites, while others keep the unnatural undead at bay. Other requiem singers still, have been known to turn this power to the bolstering of undeath, and as such, you can even see requiem singers in the armies of evil rulers that rely on the dead to bolster their ranks.
-#### **College of Victory**<sup>(ToV)</sup> %% fold %%
-Bards who align with the college of Victory are tacticians who thrive in the heat of battle. Whether rallying battalions of troops or skirmishing with smaller parties, these bards
-Lead allies to glory with their commanding presence and strategic genius.
+#### **!College of Victory**<sup>(ToV)</sup> %% fold %%
+Bards who align with the college of Victory are tacticians who thrive in the heat of battle. Whether rallying battalions of troops or skirmishing with smaller parties, these bards lead allies to glory with their commanding presence and strategic genius.
 #### **College of the Road**<sup>(HWD)</sup> %% fold %%
 Not an officially recognized college, the College of the Road represents the personal and eclectic sets of skills, knowledge, and techniques a wandering bard picks up along their journey. As inveterate jacks-of-all-trades, bards possess a variety of aptitudes in combat, magecraft, and general know-how, making them particularly well suited to learning a variety of different skills.
 

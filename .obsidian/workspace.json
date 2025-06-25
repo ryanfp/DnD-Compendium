@@ -396,7 +396,7 @@
               "state": {
                 "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
                 "mode": "preview",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
@@ -571,11 +571,12 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 295.51625061035156
+    "width": 200
   },
   "right": {
     "id": "fc1490c296b0c5ab",
@@ -884,7 +885,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 260.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -923,7 +924,56 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "8d06c334193bd871",
+  "floating": {
+    "id": "5d5f4841dfe6d79f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d92edb864f9153c3",
+        "type": "window",
+        "children": [
+          {
+            "id": "eafe704e8b37b0cb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ca748d4540a5176e",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
+                    "mode": "source",
+                    "source": true,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Classes"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1280,
+        "y": 0,
+        "width": 1280,
+        "height": 1400,
+        "maximize": false,
+        "zoom": -0.5
+      }
+    ]
+  },
+  "active": "8208d7d934e3bb18",
   "lastOpenFiles": [
     "Home.md",
     "📚 - Information Compendium/Spells/alarm.md",
