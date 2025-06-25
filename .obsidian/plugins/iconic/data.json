@@ -20,7 +20,11 @@
     "rulePage": "folder"
   },
   "appIcons": {},
-  "tabIcons": {},
+  "tabIcons": {
+    "tagfolder-view": {
+      "icon": "lucide-tags"
+    }
+  },
   "fileIcons": {
     "z_Templates": {
       "icon": "lucide-log-in",

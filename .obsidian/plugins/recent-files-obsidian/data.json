@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Classes",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "alarm",
+      "path": "📚 - Information Compendium/Spells/alarm.md"
+    },
+    {
       "basename": "guide-xphb",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/guide-xphb.md"
     },
@@ -105,20 +117,12 @@
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/Amorist Field.md"
     },
     {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
       "basename": "To-Do List",
       "path": "To-Do List.md"
     },
     {
       "basename": "Organization Hierarchy",
       "path": "Organization Hierarchy.md"
-    },
-    {
-      "basename": "Classes",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
     },
     {
       "basename": "Alchemist",
@@ -195,10 +199,6 @@
     {
       "basename": "3 - Session Notes Template",
       "path": "z_Templates/3 - Session Notes Template.md"
-    },
-    {
-      "basename": "19 - Insert Columns",
-      "path": "z_Templates/19 - Insert Columns.md"
     }
   ],
   "omittedPaths": [],
