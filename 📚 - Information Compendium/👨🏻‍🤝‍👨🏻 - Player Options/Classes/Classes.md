@@ -351,13 +351,13 @@ Bards who align with the college of Victory are tacticians who thrive in the hea
 Not an officially recognized college, the College of the Road represents the personal and eclectic sets of skills, knowledge, and techniques a wandering bard picks up along their journey. As inveterate jacks-of-all-trades, bards possess a variety of aptitudes in combat, magecraft, and general know-how, making them particularly well suited to learning a variety of different skills.
 
 The College of the Road is sometimes a harsh teacher, but bards who follow this path often find themselves rewarded with a diverse array of useful tricks and tactics. Those who underestimate a bard from the College of the Road soon find that these “graduates” are full of surprises.
-#### **College of Wands**<sup>(FEQ)</sup> %% fold %%
+#### **!College of Wands**<sup>(FEQ)</sup> %% fold %%
 For a Bard of the College of Wands, spellcasting is an art and every duel is a symphony. Whether they use their skills as Entertainers, Smugglers, or Spies, a Bard can draw applause from an audience even as they lay an enemy low with a distracting word, a perfect gesture, and a surge of arcane power.
 #### **College of Seasons**<sup>(FCG)</sup> %% fold %%
 Bards of the College of Seasons get their power from the ever-changing flow of nature itself. This college studies the seasons as they interact in both the Material Plane and the Feywild. Songs composed from this college often have multiple movements, sometimes sounding different at first listen, but harmonies frequently exist in even the most discordant of melodies.
 
 Bards from the College of Seasons withdraw from society to learn their craft. Some of these bards learn from elementals or spirits of the Feywild, while others find their muse in the wind that comes as the leaves change color. Often considered aloof even by other bards, the adherents of the College of Seasons usually find themselves more at home in a circle of druids than in a mead hall.
-#### **College of the Dirge Singer**<sup>(EE)</sup> %% fold %%
+#### **!College of the Dirge Singer**<sup>(EE)</sup> %% fold %%
 Bards of the College of the Dirge Singer are trained to inspire their people and direct soldiers on the battlefield. Students of both history and war, dirge singers use tales of past glory and their knowledge of great victories to inspire their allies and provide keen strategic insight, directing allies to strike when enemies are weak.
 #### ~~**College of Song**<sup>(ECHH)</sup>~~ %% fold %%
 
@@ -367,7 +367,7 @@ They call themselves weavers. Some would say they’ve completely lost touch wit
 Bards of the College of Momentum live for music: sick beats, intense riffs, and powerful drops. These bards wield their songs as weapons, not only to entertain their fans, but to change minds.
 #### **College of Thunder**<sup>(KT)</sup> %% fold %%
 Some bards grow in talent, weaving beautiful ballads that move their listeners to tears. Some bards just turn up the volume. The College of Thunder is a path for those who want to be heard—to convey their message with great emphasis to as many people as possible. They often are keenly interested in innovating their instruments, finding new improvements that allow them to make new, louder, sounds... Even if the musicality of those sounds is sometimes debated by more classical artists.
-#### **College of Fools**<sup>(KT)</sup> %% fold %%
+#### **!College of Fools**<sup>(KT)</sup> %% fold %%
 The College of Fools is a motley lot, varying from bumbling beggars to the eyesores of a noble court, decked out in the finest eye-bleeding frippery. One can tell at a glance they are not to be taken seriously, but beneath the façade there is... Well, usually a fool, but also a sharp mind, quick hands, and an uncanny understanding of how to manipulate any situation.
 
 The College of Fools is tolerated much like an assassin’s guild might be: a useful menace to society. Hiding in the brilliant outfits in plain sight more surely than darkened leather could hide them in the shadows, they gather information, poke and prod their enemies, and—just occasionally—toss a knife in the air and forget to catch it before it hits someone.
@@ -375,7 +375,7 @@ The College of Fools is tolerated much like an assassin’s guild might be: a us
 Bards of the College of Discord yearn to take the performances to the next level. While some artists feel the need to prepare or learn progressions within a harmonic framework, the extemporaneous nature of the bard’s study encourages inventing variations in their musical repertoire mid performance. This practice usually bleeds into their outlook on life and, whether with accompaniment or solo, these bards are excited to delve into the unknown, no matter the vibe.
 #### **College of Keys**<sup>(XLNEE)</sup> %% fold %%
 Bards of the College of Keys believe that performance can manipulate anything, be it person, magic, or machine. Their preternatural charm allows these daring performers to delve into dungeons seething with traps, assured that they can use their words and song to protect themselves and allies. These bards often become spies and infiltrators, since no lock can stand up to their charms.
-#### **College of Mourning**<sup>(XLNEE)</sup> %% fold %%
+#### **!College of Mourning**<sup>(XLNEE)</sup> %% fold %%
 Bards of the College of Mourning specialize in easing the transition from life to death. While most bards derive their artistic catalogue from celebrating the lives of the valiant, mourning bards create a gateway for dead knights, faithful priests, and wise viziers who dedicated their lives in service, to accomplish any lingering obligations of the Material Plane. 
 
 While some see romanticizing death as macabre, the college spent centuries observing religious rites and composing teachings of necromancy in prose to entreat the dead to remain long enough to fulfill their purpose. Mourning bards improvise their melodies to mask the cries and wails of grieving loved ones, and often turn dour occasions into celebrations of remembrance. Whatever their method, their purpose is always to complement the spirits’ shuffle to the afterlife in ceremonious display with arrangements of grace and style.
@@ -383,7 +383,7 @@ While some see romanticizing death as macabre, the college spent centuries obser
 
 #### **College of Birdsong**<sup>(BoE)</sup> %% fold %%
 As the legend goes, the first bards learned to sing from a nightingale, or perhaps a thrush. Each morning, the bird sang a splendid song that beckoned the sun to rise and flowers to bloom, and in turn every other bird joined the chorus. Bards which continue this tradition join the College of Birdsong and learn to sing as the nightingale once did.
-#### **College of Portraiture**<sup>(CFSA)</sup> %% fold %%
+#### **!College of Portraiture**<sup>(CFSA)</sup> %% fold %%
 Bards of the College of Portraiture are artisans first and foremost. Through your intensive study of anatomy and artistry, you’ve begun to unlock the secrets of instilling your soul into your creations. Your skill and talent in the manipulation of your life essence allows you to create and animate works of art in your own image. 
 #### **College of Harbingers**<sup>(CFSA)</sup> %% fold %%
 You are a disciple of the Storm Lord, an otherworldly entity that sails between the skies of countless worlds, consuming the souls of fallen heroes. To enter the ranks of these champions, it is typical to anchor oneself to a high place during a storm, and then throw themselves from the edge. The skies will tremble before your performance and your prowess shall become legend. 
@@ -391,8 +391,6 @@ You are a disciple of the Storm Lord, an otherworldly entity that sails between 
 Bards from the College of Cuisine are as prized in the kitchens of nobles as in the mess halls of the rank and file. While peace treaties might be signed over hoisin-glazed duck with sides of spiced jack-fruit and crispy shallots, it is the well-fed army that will win the war on a hearty oat and raisin porridge.
 
 Such bards never struggle to find employment; they travel where their work is appreciated, be their diners highborn or down-to-earth.
-#### ~~**College of Mixology**<sup>(LAL)</sup> %% fold %%
-
 #### **College of Dance**<sup>(TGS)</sup> %% fold %%
 Bards of the College of Dance tell stories and perform music without making a sound, choosing to instead move with fey- like grace and magic to evade harm and inspire others. These dances originate from the Festerwood, whose radiant spores and light made for miraculous performances and deadly hazards. These bards can be found anywhere from the local tavern to the highest levels of theater moving crowds to tears as quickly as rebellion. At every turn, they inspire others to be brave, move, and join in.
 #### **College of Mercantile**<sup>(TGS)</sup> %% fold %%
