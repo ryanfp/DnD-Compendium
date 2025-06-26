@@ -297,7 +297,7 @@ Many other bards hate the College of Whispers, viewing it as a parasite that use
 Adherents of the College of Eloquence master the art of oratory. These bards wield a blend of logic and theatrical wordplay, winning over skeptics and detractors with logical arguments and plucking at heartstrings to appeal to the emotions of audiences.
 #### **College of Spirits** %% fold %%
 Bards of the College of Spirits seek tales with inher­ent power-be they legends, histories, or fictions­ and bring their subjects to life. Using occult trap­pings, these bards conjure spiritual embodiments of powerful forces to change the world once more. Such spirits are capricious, though, and what a bard summons isn't always entirely under their control.
-#### **College of Cantors**<sup>(VSS)</sup> %% fold %%
+#### **!College of Cantors**<sup>(VSS)</sup> %% fold %%
 The cantors are a group of bards who lead the faithful through the praise and worship of the gods, becoming divine lyricists who heal others with their voice. Their music is directed towards the  heavens, with their instruments usually relating in some way to the god that they worship. Cantors are well loved within their respective communities, m and it is hard to find a talented cantor who will stay in one place for long, as the demand for their soothing hymns is widespread. 
 #### **College of Graffiti**<sup>(VSS)</sup> %% fold %%
 To many, the College of Graffiti is a nuisance, a band of hooligans that vandalize the city with no regard for the law. But bards who learn to tag know that graffiti is the single greatest art form. Graffiti artists use the entire city as their canvas, placing murals of inspiration where everyone can see them and personal tags where few will notice. Theirs is a bold, creative endeavor that, while illegal, breathes vibrancy into the city and emboldens those within it. 
@@ -391,7 +391,7 @@ You are a disciple of the Storm Lord, an otherworldly entity that sails between 
 Bards from the College of Cuisine are as prized in the kitchens of nobles as in the mess halls of the rank and file. While peace treaties might be signed over hoisin-glazed duck with sides of spiced jack-fruit and crispy shallots, it is the well-fed army that will win the war on a hearty oat and raisin porridge.
 
 Such bards never struggle to find employment; they travel where their work is appreciated, be their diners highborn or down-to-earth.
-#### **College of Dance**<sup>(TGS)</sup> %% fold %%
+#### **!College of Dance**<sup>(TGS)</sup> %% fold %%
 Bards of the College of Dance tell stories and perform music without making a sound, choosing to instead move with fey- like grace and magic to evade harm and inspire others. These dances originate from the Festerwood, whose radiant spores and light made for miraculous performances and deadly hazards. These bards can be found anywhere from the local tavern to the highest levels of theater moving crowds to tears as quickly as rebellion. At every turn, they inspire others to be brave, move, and join in.
 #### **College of Mercantile**<sup>(TGS)</sup> %% fold %%
 Bards of the College of Mercantile are well versed in the artistry of cutting deals and enemies alike in order to come out ahead. Talented merchants, smugglers, and tradesmen alike all learn from this college in some form or another, using both silvered words and sharp cunning to inspire their allies and subvert competition. These calculated risk-takers travel the world to make their mark—and their fortune—by navigating treacherous landscapes, economies, and people. With even just a copper to their name, these bards are always worth their weight in gold.
@@ -399,19 +399,19 @@ Bards of the College of Mercantile are well versed in the artistry of cutting de
 Not all grand stories conclude in triumphant victory. Many tales end with death and despair, and bards of the College of Tragedy know that sorrow and pathos are emotions just as potent as joy and delight. These bards specialize in the power of tragic storytelling, weaving words and spells together to dramatic and devastating effect.
 #### ~~**College of Beasts**<sup>UAH</sup>~~ %% fold %%
 
-#### **College of Canticles**<sup>UAH</sup> %% fold %%
+#### **!College of Canticles**<sup>UAH</sup> %% fold %%
 Most bards are content to amuse and entertain, but those in the College of Canticles lend their musical talents to the worships of the gods. These bards spread divinely inspired dogma and lead hymns, borrowing a measure of their god’s power to bolster their allies. While clerics may be the face of religious institutions, rarely are they as successful at winning converts as bards of this college. 
 #### ~~**College of Drama**<sup>UAH</sup>~~ %% fold %%
 
 #### **College of Fortune**<sup>UAH</sup> %% fold %%
 Bards in this college have a reputation as instigators that isn’t entirely justified. High rollers don't go looking for trouble, they just have a habit of provoking fellow party members into taking long shots that don't always pan out. Despite that, no bard has a better chance of helping their companions clutch victory from the jaws of defeat. The smart bet, whether against the house or not, is always on the bards of this college. 
-#### **College of Pantomime**<sup>UAH</sup> %% fold %%
+#### **!College of Pantomime**<sup>UAH</sup> %% fold %%
 Mimes are performers who believes the purest form of entertainment does not require sound, but only immaculate use of facial expressions and body language. A sufficiently skilled mime can ascend their pantomime into minor reality warping, whether it be to eschew the verbal components of spells or to create invisible magical constructs with which they and others interact. 
 #### **College of Puppetry**<sup>UAH</sup> %% fold %%
 Bards in the College of Puppetry specialize in entertaining with puppets and marionettes. Not content to master exclusively mundane skills on their subject of interest, these bards, called puppet masters, learn to create their own animated marionette companion. Every companion is painted and decorated unique to its puppet master – most are whimsical, some are intimidating, and others are unsettling. 
-#### **College of Masks**<sup>(OTG)</sup> %% fold %%
+#### **!College of Masks**<sup>(OTG)</sup> %% fold %%
 To be a bard from the College of Masks is  to be a theater actor capable of losing themselves in a role by using masks imbued with magic. Through these masks, bards can mimic others and even take on attributes of the personas their masks depict. 
-#### **College of the Doomsayers**<sup>(GTD)</sup> %% fold %%
+#### **!College of the Doomsayers**<sup>(GTD)</sup> %% fold %%
 Bards of this college revel in the fear and despair of others. They have foreseen the end of times, and use their gifts of prophecy to instill terror in those who hear their words. These bards command an audience like any other, but their craft is that of a mad prophet, and their poems and songs echo dissonant rattlings of hopelessness and suffering. Those who hear the mad ramblings are stricken with fear, lose their wills, and fall into madness.
 ## Beastheart
 *A beastheart is an adventurer who forms of bond of friendship with a wild creature, who draws power from that bond as it strengthens over time. Working as a team, a beastheart and their faithful companion can take on even the most dangerous adventures, challenging any monsters and overcoming any obstacles.*
