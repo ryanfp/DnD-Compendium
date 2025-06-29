@@ -69,5 +69,6 @@
   "colored-tags",
   "obsidian-tagfolder",
   "callout-manager",
-  "image-converter"
+  "image-converter",
+  "obsidian-front-matter-title-plugin"
 ]

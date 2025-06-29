@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "cobalt-scholar-sage-egw",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/cobalt-scholar-sage-egw.md"
+    },
+    {
+      "basename": "clasp-member-myriad-operative-variant-tdcsr",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/clasp-member-myriad-operative-variant-tdcsr.md"
+    },
+    {
+      "basename": "ability-rip-elminsters-guide-to-magic",
+      "path": "📚 - Information Compendium/Spells/ability-rip-elminsters-guide-to-magic.md"
+    },
+    {
+      "basename": "abolish-shadows-elminsters-guide-to-magic",
+      "path": "📚 - Information Compendium/Spells/abolish-shadows-elminsters-guide-to-magic.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -97,14 +113,6 @@
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Criminal (Spy) (Variant).md"
     },
     {
-      "basename": "Cobalt Scholar - Sage",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Cobalt Scholar - Sage.md"
-    },
-    {
-      "basename": "Clasp Member (Myriad Operative) (Variant)",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Clasp Member (Myriad Operative) (Variant).md"
-    },
-    {
       "basename": "City Watch (Investigator) (Variant)",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/City Watch (Investigator) (Variant).md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "4 - Insert Wiki Sidebar",
       "path": "z_Templates/4 - Insert Wiki Sidebar.md"
-    },
-    {
-      "basename": "6 - Insert Infobox - Right",
-      "path": "z_Templates/6 - Insert Infobox - Right.md"
-    },
-    {
-      "basename": "3 - Session Notes Template",
-      "path": "z_Templates/3 - Session Notes Template.md"
     }
   ],
   "omittedPaths": [],

@@ -1,16 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-spell
-tags:
-- compendium/src/5e/elminsters guide to magic
-- spell/level/3rd-level
-- spell/school/abjuration
+tags: [compendium/src/5e/elminsters guide to magic, spell/level/3rd-level, spell/school/abjuration]
 aliases:
-- Abolish Shadows
+  - Abolish Shadows
+title: abolish-shadows-elminsters-guide-to-magic
+date created: 2025:06:15, 22:44
+date modified: 2025:06:28, 20:07
 ---
-# Abolish Shadows
-*3rd-level, Abjuration*  
 
+# Abolish Shadows
+
+*3rd-level, Abjuration*  
 
 - **Casting time:** 1 Action
 - **Range:** Self (30-foot Radius)

@@ -1,16 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-spell
-tags:
-- compendium/src/5e/elminsters guide to magic
-- spell/level/6th-level
-- spell/school/necromancy
+tags: [compendium/src/5e/elminsters guide to magic, spell/level/6th-level, spell/school/necromancy]
 aliases:
-- Ability Rip
+  - Ability Rip
+title: ability-rip-elminsters-guide-to-magic
+date created: 2025:06:15, 22:44
+date modified: 2025:06:28, 20:07
 ---
-# Ability Rip
-*6th-level, Necromancy*  
 
+# Ability Rip
+
+*6th-level, Necromancy*  
 
 - **Casting time:** 1 Action
 - **Range:** 5 feet

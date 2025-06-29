@@ -1,22 +1,22 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-background
-tags:
-  - background
-  - compendium/src/5e/tdcsr
+tags: [background, compendium/src/5e/tdcsr]
 aliases:
   - Clasp Member (Myriad Operative) (Variant)
-title: Clasp Member (Myriad Operative) (Variant)
+title: clasp-member-myriad-operative-variant-tdcsr
+date created: 2025:06:15, 22:47
+date modified: 2025:06:28, 20:09
 ---
-# Clasp Member {Myriad Operative} {Variant}
-*Source: Tal'Dorei Campaign Setting Reborn p. 182*  
 
+# Clasp Member (Myriad Operative) (Variant)
+
+*Source: Tal'Dorei Campaign Setting Reborn p. 182*  
 
 - **Skill Proficiencies.** [Deception](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Deception), plus your choice of [Sleight of Hand](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Sleight%20of%20Hand) or [Stealth](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Stealth)  
 - **Tool Proficiencies.** [Disguise Kit](/📚%20-%20Information%20Compendium/items/disguise-kit.md), [forgery kit](/📚%20-%20Information%20Compendium/items/forgery-kit.md), or [thieves' tools](/📚%20-%20Information%20Compendium/items/thieves-tools.md) (one of your choice)  
 - **Languages.** Thieves' Cant  
 - **Equipment.** A set of inconspicuous [common clothes](/📚%20-%20Information%20Compendium/items/common-clothes.md), a set of tools with which you're proficient, and a belt [pouch](/📚%20-%20Information%20Compendium/items/pouch.md) containing 10 gp  
-
 
 ## Variant: Myriad Operative
 
@@ -48,6 +48,7 @@ Your bond is likely associated with your fellow "Clasp" members or the individua
 | 6 | I used to have one rule—don't get involved in other people's problems. Why are things so complicated now? |
 | 7 | Crime is a game, and I play to win. I have no sympathy for players who don't get that. |
 | 8 | This organization has a lot of folks who cling to ugly, brutal practices. I'm not like that. I'm a professional, and professionals have standards. |
+
 ^clasp-member-personality-traits
 
 **Clasp Member Ideals**
@@ -62,6 +63,7 @@ Your bond is likely associated with your fellow "Clasp" members or the individua
 | 4 | **Honor**. There's room in the "Clasp" for both good and evil. Every day, I awake and choose to do what's right. (Good) |
 | 5 | **Family**. The "Clasp" is family. Anything that's good for the family is good for me. (Lawful) |
 | 6 | **Self-Interest**. There are too many bleeding hearts in the "Clasp" these days. Doing the right thing means doing the thing that makes my life better. (Evil) |
+
 ^clasp-member-ideals
 
 **Clasp Member Bonds**
@@ -76,6 +78,7 @@ Your bond is likely associated with your fellow "Clasp" members or the individua
 | 4 | I was nearly killed by the "Myriad". If the "Clasp" is the enemy of those villains, then the "Clasp" is my friend. |
 | 5 | I've got family back in the old town who are counting on me for money. They don't know how I get it, but they don't need to know. |
 | 6 | I joined the "Clasp" to become rich, powerful, and beloved. That's all there is to it. |
+
 ^clasp-member-bonds
 
 **Clasp Member Flaws**
@@ -90,4 +93,5 @@ Your bond is likely associated with your fellow "Clasp" members or the individua
 | 4 | I'm rubbish with money, and never seem to leave town with a full purse. Keeps me coming back to the life, I suppose. |
 | 5 | I can't work with shoddy, makeshift [thieves' tools](/📚%20-%20Information%20Compendium/items/thieves-tools.md). I need everything involving my work to be perfect. |
 | 6 | Any slight against me, no matter how small, is cause for revenge. |
+
 ^clasp-member-flaws

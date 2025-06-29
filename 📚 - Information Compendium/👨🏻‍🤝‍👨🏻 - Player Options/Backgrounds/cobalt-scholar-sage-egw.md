@@ -9,7 +9,7 @@ aliases:
   - Cobalt Scholar - Sage
 title: Cobalt Scholar (Sage)
 ---
-# Cobalt Scholar  {Sage}
+# Cobalt Scholar  (Sage)
 *Source: Explorer's Guide to Wildemount p. 203*  
 
 
@@ -29,7 +29,7 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
 
 To determine the nature of your scholarly training, roll a d8 or choose from the options in the table below.
 
-`dice: [[Cobalt Scholar - Sage#^field-of-study]]`
+`dice: [[cobalt-scholar-sage-egw.md#^field-of-study]]`
 
 | dice: d8 | Field of Study |
 |----------|----------------|
