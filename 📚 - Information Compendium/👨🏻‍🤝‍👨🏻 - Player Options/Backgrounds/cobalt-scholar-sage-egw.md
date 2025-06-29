@@ -1,17 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-background
-tags:
-  - background
-  - compendium/src/5e/egw
+tags: [background, compendium/src/5e/egw]
 aliases:
-  - Cobalt Scholar (Sage)
   - Cobalt Scholar - Sage
-title: Cobalt Scholar (Sage)
+  - Cobalt Scholar (Sage)
+title: cobalt-scholar-sage-egw
+date created: 2025:06:15, 22:47
+date modified: 2025:06:28, 20:23
 ---
-# Cobalt Scholar  (Sage)
-*Source: Explorer's Guide to Wildemount p. 203*  
 
+# Cobalt Scholar (Sage)
+
+*Source: Explorer's Guide to Wildemount p. 203*  
 
 - **Skill Proficiencies.** [[Arcana]], [[History]]  
 - **Languages.** Two of your choice  
@@ -41,6 +42,7 @@ To determine the nature of your scholarly training, roll a d8 or choose from the
 | 6 | Researcher |
 | 7 | Wizard's apprentice |
 | 8 | Scribe |
+
 ^field-of-study
 
 ## Suggested Characteristics
@@ -56,9 +58,10 @@ Sages are defined by their extensive studies, and their characteristics reflect 
 | 3 | I'm used to helping out those who aren't as smart as I am, and I patiently explain anything and everything to others. |
 | 4 | There's nothing I like more than a good mystery. |
 | 5 | I'm willing to listen to every side of an argument before I make my own judgment. |
-| 6 | I... speak... slowly... when talking... to idiots,... which... almost... everyone... is... compared... to me. |
+| 6 | I… speak… slowly… when talking… to idiots,… which… almost… everyone… is… compared… to me. |
 | 7 | I am horribly, horribly awkward in social situations. |
 | 8 | I'm convinced that people are always trying to steal my secrets. |
+
 ^personality-trait
 
 `dice: [](cobalt-scholar-sage-egw.md#^ideal)`
@@ -71,6 +74,7 @@ Sages are defined by their extensive studies, and their characteristics reflect 
 | 4 | No Limits. Nothing should fetter the infinite possibility inherent in all existence. (Chaotic) |
 | 5 | Power. Knowledge is the path to power and domination. (Evil) |
 | 6 | Self-Improvement. The goal of a life of study is the betterment of oneself. (Any) |
+
 ^ideal
 
 `dice: [](cobalt-scholar-sage-egw.md#^bond)`
@@ -83,6 +87,7 @@ Sages are defined by their extensive studies, and their characteristics reflect 
 | 4 | My life's work is a series of tomes related to a specific field of lore. |
 | 5 | I've been searching my whole life for the answer to a certain question. |
 | 6 | I sold my soul for knowledge. I hope to do great deeds and win it back. |
+
 ^bond
 
 `dice: [](cobalt-scholar-sage-egw.md#^flaw)`
@@ -95,4 +100,5 @@ Sages are defined by their extensive studies, and their characteristics reflect 
 | 4 | I overlook obvious solutions in favor of complicated ones. |
 | 5 | I speak without really thinking through my words, invariably insulting others. |
 | 6 | I can't keep a secret to save my life, or anyone else's. |
+
 ^flaw

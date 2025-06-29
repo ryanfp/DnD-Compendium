@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"README\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "cobalt-scholar-sage-egw",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/cobalt-scholar-sage-egw.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"cobalt-scholar-sage-egw\"}",
+                  "eState": "{\"scroll\":20.230697739335458}"
+                },
+                {
                   "title": "clasp-member-myriad-operative-variant-tdcsr",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/clasp-member-myriad-operative-variant-tdcsr.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"clasp-member-myriad-operative-variant-tdcsr\"}",
@@ -234,7 +246,7 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 },
                 {
-                  "title": "Cobalt Scholar - Sage",
+                  "title": "cobalt-scholar-sage-egw",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/cobalt-scholar-sage-egw.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Cobalt Scholar - Sage\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":0}"
@@ -252,7 +264,7 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":0.5086259037171555}"
                 },
                 {
-                  "title": "Cobalt Scholar - Sage",
+                  "title": "cobalt-scholar-sage-egw",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/cobalt-scholar-sage-egw.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Cobalt Scholar - Sage\"}",
                   "eState": "{}"
@@ -436,13 +448,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/cobalt-scholar-sage-egw.md",
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/clasp-member-myriad-operative-variant-tdcsr.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cobalt-scholar-sage-egw"
+              "title": "clasp-member-myriad-operative-variant-tdcsr"
             }
           },
           {
@@ -967,6 +979,10 @@
   },
   "active": "8208d7d934e3bb18",
   "lastOpenFiles": [
+    "README.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/cobalt-scholar-sage-egw.md",
+    "publish.css",
+    "theme.css",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/clasp-member-myriad-operative-variant-tdcsr.md",
     "📚 - Information Compendium/Spells/ability-rip-elminsters-guide-to-magic.md",
     "📚 - Information Compendium/Spells/abolish-shadows-elminsters-guide-to-magic.md",
@@ -991,8 +1007,6 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Dragonmarked Foundling.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Guild Artisan {Guild Merchant} {Variant}.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/entertainer-xphb.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Dragonmarked Bravo.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Augen Trust {Spy}.md",
     "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg",
     "z_img/Pause-Circle-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg",
     "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
@@ -1010,8 +1024,6 @@
     "📚 - Information Compendium/books/the-illrigger-revised",
     "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-hunt-field-notes/img",
     "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-hunt-field-notes",
-    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-gm-cheatbook/img",
-    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-gm-cheatbook",
-    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-eldritch-moons-deck/img"
+    "📚 - Information Compendium/books/steinhardts-guide-to-the-eldritch-hunt-gm-cheatbook/img"
   ]
 }

@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "cobalt-scholar-sage-egw",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/cobalt-scholar-sage-egw.md"
-    },
-    {
       "basename": "clasp-member-myriad-operative-variant-tdcsr",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/clasp-member-myriad-operative-variant-tdcsr.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "cobalt-scholar-sage-egw",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/cobalt-scholar-sage-egw.md"
     },
     {
       "basename": "ability-rip-elminsters-guide-to-magic",
@@ -195,10 +199,6 @@
     {
       "basename": "5 - Insert Infobox - Left",
       "path": "z_Templates/5 - Insert Infobox - Left.md"
-    },
-    {
-      "basename": "4 - Insert Wiki Sidebar",
-      "path": "z_Templates/4 - Insert Wiki Sidebar.md"
     }
   ],
   "omittedPaths": [],
