@@ -631,7 +631,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -978,7 +979,8 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "8208d7d934e3bb18",
