@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/vss
-- ttrpg-cli/subclass/alchemist/apothecary
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/alchemist/apothecary]
 aliases:
-- Apothecary
+  - Apothecary
+  - Apothecary
+date created: 2025:06:13, 22:25
+date modified: 2025:07:06, 18:58
 ---
+
 # Apothecary
+
 *[Alchemist](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Alchemist/Alchemist.md): Field of Study*  
 *Source: Valda's Spire of Secrets*  
 
@@ -41,7 +44,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

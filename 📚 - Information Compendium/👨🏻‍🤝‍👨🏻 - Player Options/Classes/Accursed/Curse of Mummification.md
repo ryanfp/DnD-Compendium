@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/ultimateadventurer
-- ttrpg-cli/subclass/accursed/mummification
+tags: [ttrpg-cli/compendium/src/5e/ultimateadventurer, ttrpg-cli/subclass/accursed/mummification]
 aliases:
-- Curse of Mummification
+  - Curse of Mummification
+date created: 2025:05:14, 21:46
+date modified: 2025:07:06, 18:58
 ---
-# Curse of Mummification - Accursed
+
+# Curse of Mummification
+
 *[Accursed](Accursed.md): Conquered Curse*  
 *Source: The Ultimate Adventurer's Handbook p. 176*  
 
@@ -42,14 +44,13 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Curse of Mummification (Level 1)
 
 Upon your death, a necromantic ritual was performed on your body as it was buried. Your organs were removed and placed in canopic jars, your corpse treated with preserving oils and wrappings, and your body imbued with reanimating magics. After the ritual was completed, you were sealed in a temple or tomb to act as its guardian, only animating upon conditions set by the practitioner that performed your ritual.
 
-Perhaps you earned this punishment by invading the crypt of a mummy lord, displeased the priest of a death cult or one who serves a god of death, or committed high crimes against a vengeful emperor. Regardless of how you became a mummy, upon one of your reanimations, you somehow regained self-awareness, found your organs and replaced them within yourself, and managed to return to a semblance of life while breaking the compulsion of the animating magicks. You've discovered that the workings used to preserve you have their perks, though, and that you still have access to a mummy's horrific powers...
+Perhaps you earned this punishment by invading the crypt of a mummy lord, displeased the priest of a death cult or one who serves a god of death, or committed high crimes against a vengeful emperor. Regardless of how you became a mummy, upon one of your reanimations, you somehow regained self-awareness, found your organs and replaced them within yourself, and managed to return to a semblance of life while breaking the compulsion of the animating magicks. You've discovered that the workings used to preserve you have their perks, though, and that you still have access to a mummy's horrific powers…
 
 ### Mummification Ailments (Level 1)
 
@@ -81,6 +82,7 @@ Starting at 2nd level, your increasing mastery of your curse causes you to learn
 | 9th | wall of sand |
 | 13th | locate creature |
 | 17th | contagion |
+
 ^mummification-curse-spells
 
 ### Tomb Guardian (Level 3)

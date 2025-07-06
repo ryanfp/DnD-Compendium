@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses:
-  - json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/ultimateadventurer
-  - ttrpg-cli/subclass/accursed/animation
+cssclasses: [json5e-class]
+tags: [ttrpg-cli/compendium/src/5e/ultimateadventurer, ttrpg-cli/subclass/accursed/animation]
 aliases:
   - Curse of Animation
+  - Curse of Animation - Accursed
+date created: 2025:05:14, 21:46
+date modified: 2025:07:06, 18:58
 ---
-# Curse of Animation - Accursed
+
+# Curse of Animation
+
 *[Accursed](Accursed.md): Conquered Curse*  
 *Source: The Ultimate Adventurer's Handbook p. 165*  
 
@@ -47,7 +49,7 @@ aliases:
 
 ### Curse of Animation (Level 1)
 
-While still alive, your skeleton was animated with dark magic by a particularly skilled and cruel necromancer. While it doesn't bear true intelligence or sentience, your skeleton wished to be free of its fleshy prison, rebelling against you. Eventually, it began using its animating magics to grow bone spurs that would calcify your muscles and pierce your flesh, doing anything it could to escape. Before it could cause your death and shed your skin to join its master, you somehow managed to break the necromancer's control and come to an accord with your bones. It is still animated within you, and you may occasionally still have conflicting interests, but you've learned to work together for your mutual survival. After all, they say that two is better than one, and you can use its ability to manipulate calcium to your advantage...
+While still alive, your skeleton was animated with dark magic by a particularly skilled and cruel necromancer. While it doesn't bear true intelligence or sentience, your skeleton wished to be free of its fleshy prison, rebelling against you. Eventually, it began using its animating magics to grow bone spurs that would calcify your muscles and pierce your flesh, doing anything it could to escape. Before it could cause your death and shed your skin to join its master, you somehow managed to break the necromancer's control and come to an accord with your bones. It is still animated within you, and you may occasionally still have conflicting interests, but you've learned to work together for your mutual survival. After all, they say that two is better than one, and you can use its ability to manipulate calcium to your advantage…
 
 ### Animation Ailments (Level 1)
 
@@ -79,10 +81,11 @@ Starting at 2nd level, your increasing mastery of your curse causes you to learn
 | Accursed Level | Spells |
 |----------------|--------|
 | 2nd | shield |
-| 5th | [[skull servant]] |
+| 5th | [[skull servant|Skull Servant]] |
 | 9th | animate dead |
 | 13th | stoneskin |
 | 17th | danse macabre |
+
 ^animation-curse-spells
 
 ### Necromantic Spurs (Level 3)

@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/ultimateadventurer
-- ttrpg-cli/subclass/accursed/petrification
+tags: [ttrpg-cli/compendium/src/5e/ultimateadventurer, ttrpg-cli/subclass/accursed/petrification]
 aliases:
-- Curse of Petrification
+  - Curse of Petrification
+date created: 2025:05:14, 21:46
+date modified: 2025:07:06, 18:58
 ---
-# Curse of Petrification - Accursed
+
+# Curse of Petrification
+
 *[Accursed](Accursed.md): Conquered Curse*  
 *Source: The Ultimate Adventurer's Handbook p. 178*  
 
@@ -42,12 +44,11 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Curse of Petrification (Level 1)
 
-You spent unknown years, maybe even decades or centuries, as a statue — a literal stone shell of your former self. You may have angered a vengeful god or powerful spellcaster, fell victim to a gorgon's breath, or caught the gaze of a medusa. No matter how you were petrified, you eventually regained conscious awareness, though not the ability to move or awareness of your surroundings. This lack of stimulus and utter isolation drove you to near madness, if it didn't entirely tear your sanity apart, before you realized that though the nature of your curse is converting biological matter to stone, it should be possible to reverse the polarity of its magic. Somehow accessing this ability, you managed to return yourself to flesh and escape your stony prison. Armed with the knowledge that you can convert yourself between stone and flesh at will, you are excited to get rolling back into the world, though a part of you does miss the comforting permanence of stone...
+You spent unknown years, maybe even decades or centuries, as a statue — a literal stone shell of your former self. You may have angered a vengeful god or powerful spellcaster, fell victim to a gorgon's breath, or caught the gaze of a medusa. No matter how you were petrified, you eventually regained conscious awareness, though not the ability to move or awareness of your surroundings. This lack of stimulus and utter isolation drove you to near madness, if it didn't entirely tear your sanity apart, before you realized that though the nature of your curse is converting biological matter to stone, it should be possible to reverse the polarity of its magic. Somehow accessing this ability, you managed to return yourself to flesh and escape your stony prison. Armed with the knowledge that you can convert yourself between stone and flesh at will, you are excited to get rolling back into the world, though a part of you does miss the comforting permanence of stone…
 
 ### Petrification Ailments (Level 1)
 
@@ -79,6 +80,7 @@ Starting at 2nd level, your increasing mastery of your curse causes you to learn
 | 9th | meld into stone |
 | 13th | stoneskin |
 | 17th | transmute rock |
+
 ^petrification-curse-spells
 
 ### Mountain's Endurance (Level 3)

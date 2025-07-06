@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/ultimateadventurer
-- ttrpg-cli/subclass/accursed/created
+tags: [ttrpg-cli/compendium/src/5e/ultimateadventurer, ttrpg-cli/subclass/accursed/created]
 aliases:
-- Curse of the Created
+  - Curse of the Created
+date created: 2025:05:14, 21:46
+date modified: 2025:07:06, 18:59
 ---
-# Curse of the Created - Accursed
+
+# Curse of the Created
+
 *[Accursed](Accursed.md): Conquered Curse*  
 *Source: The Ultimate Adventurer's Handbook p. 165*  
 
@@ -42,12 +44,11 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Curse of the Created (Level 1)
 
-You were not born, nor were you cursed. Instead, you lurched to life with electricity crackling in the air around you. Your creator intended you to be a perfect specimen of their own kind, but when the stitched together corpses you're made of gained sentience, you were only a grotesque facsimile of true life. Your presence is deeply unsettling to others, including your creator, who may have abandoned you shortly after your animation. Despite their persistent rejections, you long to find a place among other humanoids, though you sometimes wonder if you aren't more like the monster they see you as...
+You were not born, nor were you cursed. Instead, you lurched to life with electricity crackling in the air around you. Your creator intended you to be a perfect specimen of their own kind, but when the stitched together corpses you're made of gained sentience, you were only a grotesque facsimile of true life. Your presence is deeply unsettling to others, including your creator, who may have abandoned you shortly after your animation. Despite their persistent rejections, you long to find a place among other humanoids, though you sometimes wonder if you aren't more like the monster they see you as…
 
 ### Created Ailments (Level 1)
 
@@ -79,6 +80,7 @@ Starting at 2nd level, your increasing mastery of your curse causes you to learn
 | 9th | lightning bolt |
 | 13th | stoneskin |
 | 17th | raise dead |
+
 ^created-curse-spells
 
 ### Last Life's Memories (Level 3)

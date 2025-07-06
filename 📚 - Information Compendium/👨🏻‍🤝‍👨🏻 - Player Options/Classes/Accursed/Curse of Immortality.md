@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/ultimateadventurer
-- ttrpg-cli/subclass/accursed/immortality
+tags: [ttrpg-cli/compendium/src/5e/ultimateadventurer, ttrpg-cli/subclass/accursed/immortality]
 aliases:
-- Curse of Immortality
+  - Curse of Immortality
+date created: 2025:05:14, 21:46
+date modified: 2025:07:06, 18:58
 ---
-# Curse of Immortality - Accursed
+
+# Curse of Immortality
+
 *[Accursed](Accursed.md): Conquered Curse*  
 *Source: The Ultimate Adventurer's Handbook p. 172*  
 
@@ -48,7 +50,7 @@ aliases:
 
 Whether it was a poorly worded wish from a djinn, an ill-advised deal with a devil or fey, or an ancient ritual you may not have studied carefully enough, you managed to attain a boon coveted by archmages everywhere: true immortality, a way to live long enough to learn all there is to know and ever will be. While you can still be killed, you always return, and you will never grow older or lose your beauty. For the first few centuries, maybe even for the first few millennia, it was everything you ever dreamed of: no permanent consequences, no more living in fear of death, never having to worry about the seconds ticking away.
 
-Eventually, though, you came to see immortality for what it truly is: a curse that ensures that there is never an end to your torment. No matter what happens, each dawn resets your physical form to its state at the moment you were cursed. You could do nothing but watch as everyone you ever cared about withered and died, you ran out of new things to discover and explore, and you began to grow apathetic and withdrawn as the world around you changed so much that you could no longer recognize or relate to it. You're an artifact of a long gone era, and now there's nothing left for you to do but to finally see what happens if you don't come back...
+Eventually, though, you came to see immortality for what it truly is: a curse that ensures that there is never an end to your torment. No matter what happens, each dawn resets your physical form to its state at the moment you were cursed. You could do nothing but watch as everyone you ever cared about withered and died, you ran out of new things to discover and explore, and you began to grow apathetic and withdrawn as the world around you changed so much that you could no longer recognize or relate to it. You're an artifact of a long gone era, and now there's nothing left for you to do but to finally see what happens if you don't come back…
 
 ### Immortality Ailments (Level 1)
 
@@ -80,7 +82,7 @@ Once you reach 20th level in this class, you finally attain enough control over 
 > **Reincarnation Table**
 > 
 > `dice: [](Curse of Immortality.md#^reincarnation-table)`
-> 
+>
 > | dice: d100 | Race |
 > |------------|------|
 > | 01-04 | Dragonborn |
@@ -97,6 +99,7 @@ Once you reach 20th level in this class, you finally attain enough control over 
 > | 69-76 | Halfling, stout |
 > | 77-96 | Human |
 > | 97-00 | Tiefling |
+>
 > ^reincarnation-table
 
 ### Curse Spells (Level 2)
@@ -112,6 +115,7 @@ Starting at 2nd level, your increasing mastery of your curse causes you to learn
 | 9th | revivify |
 | 13th | death ward |
 | 17th | raise dead |
+
 ^immortality-curse-spells
 
 ### Wisdom of the Ages (Level 3)

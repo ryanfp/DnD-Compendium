@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/accursed
-- ttrpg-cli/compendium/src/5e/ultimateadventurer
+tags: [ttrpg-cli/class/accursed, ttrpg-cli/compendium/src/5e/ultimateadventurer]
 aliases:
-- Accursed
+  - Accursed
+date created: 2025:05:14, 21:46
+date modified: 2025:07:06, 18:59
 ---
+
 # Accursed
+
 *Source: The Ultimate Adventurer's Handbook p. 154*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d10 per Accursed level
 - **Hit Points at First Level:** 10 + CON
-- **Hit Points at Higher Levels:** add 6 OR 1d10 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 6 OR 1d10 + CON (minimum of 1)
 
 ## Starting Accursed
 
@@ -121,7 +123,7 @@ Through unfortunate circumstances, you were stricken with a curse that should ha
 - [[Curse of Mummification]]
 - [[Curse of Petrification]]
 - [[Curse of Somnolence]]
- 
+
 All conquered curses are detailed at the end of the class.
 
 Your curse has become an integral part of you. The remove curse spell, as well as any similar effect, has no effect on your curse when it is cast on you. If your curse takes the form of a magical disease, you can't be cured of it by any means.
@@ -201,7 +203,7 @@ As an action, you can expend a spell slot to attempt to afflict a creature withi
 
 As a bonus action, you can expend a spell slot and choose any number of your curse's ailments. You ignore the effects of the chosen ailments for the duration.
 
-### Conquered Curse feature (Level 3)
+### Conquered Curse Feature (Level 3)
 
 At 3th level, you gain a feature granted by your Conquered Curse.
 
@@ -221,7 +223,7 @@ If you're 12th level or higher and replacing a metamorphosis causes you to no lo
 
 You can't use this feature to choose a metamorphosis with an 18th level prerequisite, unless the metamorphosis you are replacing has that prerequisite.
 
-### Conquered Curse feature (Level 5)
+### Conquered Curse Feature (Level 5)
 
 At 5th level, you gain a feature granted by your Conquered Curse.
 
@@ -233,7 +235,7 @@ Once you reach 7th level in this class, your curse protects you from a wider ran
 
 When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-### Conquered Curse feature (Level 11)
+### Conquered Curse Feature (Level 11)
 
 At 11th level, you gain a feature granted by your Conquered Curse.
 
@@ -245,7 +247,7 @@ When you reach 12th level, you can increase one ability score of your choice by 
 
 Once you reach 14th level in this class, a magical effect other than your curse can't age you, possess you, put you to sleep, or transform you against your will.
 
-### Conquered Curse feature (Level 15)
+### Conquered Curse Feature (Level 15)
 
 At 15th level, you gain a feature granted by your Conquered Curse.
 
@@ -257,7 +259,7 @@ When you reach 16th level, you can increase one ability score of your choice by 
 
 When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-### Conquered Curse feature (Level 20)
+### Conquered Curse Feature (Level 20)
 
 At 20th level, you gain a feature granted by your Conquered Curse.
 

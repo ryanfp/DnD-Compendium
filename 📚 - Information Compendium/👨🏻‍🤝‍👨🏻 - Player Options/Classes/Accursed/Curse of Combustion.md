@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/ultimateadventurer
-- ttrpg-cli/subclass/accursed/combustion
+tags: [ttrpg-cli/compendium/src/5e/ultimateadventurer, ttrpg-cli/subclass/accursed/combustion]
 aliases:
-- Curse of Combustion
+  - Curse of Combustion
+date created: 2025:05:14, 21:46
+date modified: 2025:07:06, 18:58
 ---
-# Curse of Combustion - Accursed
+
+# Curse of Combustion
+
 *[Accursed](Accursed.md): Conquered Curse*  
 *Source: The Ultimate Adventurer's Handbook p. 165*  
 
@@ -46,7 +48,7 @@ aliases:
 
 ### Curse of Combustion (Level 1)
 
-Your body is an explosive with a fuse of unknown length, most likely due to angering a powerful fire entity like Elemental Fire Lord Imix, an archpriest of the Cult of Eternal Flame, an efreeti, or a god of fire like Kothuss. You never knew when it would finally be time for the first to burst out of you, annihilating you and everything in the immediate vicinity, but you could always feel the flames building in a slow crescendo within you, like it is using your body and soul as kindling. By some means, though, you learned to harness this inner inferno, and can now use it to your own ends. After all, fire is so beautiful to behold, and you cannot help but to wonder how gorgeous the world would look when bathed in your glorious flame...
+Your body is an explosive with a fuse of unknown length, most likely due to angering a powerful fire entity like Elemental Fire Lord Imix, an archpriest of the Cult of Eternal Flame, an efreeti, or a god of fire like Kothuss. You never knew when it would finally be time for the first to burst out of you, annihilating you and everything in the immediate vicinity, but you could always feel the flames building in a slow crescendo within you, like it is using your body and soul as kindling. By some means, though, you learned to harness this inner inferno, and can now use it to your own ends. After all, fire is so beautiful to behold, and you cannot help but to wonder how gorgeous the world would look when bathed in your glorious flame…
 
 ### Combustion Ailments (Level 1)
 
@@ -78,6 +80,7 @@ Starting at 2nd level, your increasing mastery of your curse causes you to learn
 | 9th | fireball |
 | 13th | wall of fire |
 | 17th | immolation |
+
 ^combustion-curse-spells
 
 ### Igniting Touch (Level 3)

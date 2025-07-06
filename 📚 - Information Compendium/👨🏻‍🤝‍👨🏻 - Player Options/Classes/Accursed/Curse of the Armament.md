@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/ultimateadventurer
-- ttrpg-cli/subclass/accursed/armament
+tags: [ttrpg-cli/compendium/src/5e/ultimateadventurer, ttrpg-cli/subclass/accursed/armament]
 aliases:
-- Curse of the Armament
+  - Curse of the Armament
+date created: 2025:05:14, 21:46
+date modified: 2025:07:06, 18:58
 ---
-# Curse of the Armament - Accursed
+
+# Curse of the Armament
+
 *[Accursed](Accursed.md): Conquered Curse*  
 *Source: The Ultimate Adventurer's Handbook p. 167*  
 
@@ -42,12 +44,11 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Curse of the Armament (Level 1)
 
-One of the most common curses suffered by adventurers and explorers is attuning to a cursed object. Many suffer the inconvenience only so long as it takes to get a remove curse spell cast on themselves, but for some reason you chose to remain attuned to a cursed weapon. Perhaps you didn't have the connections or money to have the spell cast, or maybe there was something compelling about the weapon's history that made you reluctant to part with it. Regardless of your reasons, you've embraced your connection with the weapon, despite its annoying tendency to never leave you alone, and have dedicated yourself to mastering it. You may have become a bit obsessed with the combination of magic and martial might the weapon contains, and want to explore just how far it can take you...
+One of the most common curses suffered by adventurers and explorers is attuning to a cursed object. Many suffer the inconvenience only so long as it takes to get a remove curse spell cast on themselves, but for some reason you chose to remain attuned to a cursed weapon. Perhaps you didn't have the connections or money to have the spell cast, or maybe there was something compelling about the weapon's history that made you reluctant to part with it. Regardless of your reasons, you've embraced your connection with the weapon, despite its annoying tendency to never leave you alone, and have dedicated yourself to mastering it. You may have become a bit obsessed with the combination of magic and martial might the weapon contains, and want to explore just how far it can take you…
 
 ### Armament Ailments (Level 1)
 
@@ -83,6 +84,7 @@ Starting at 2nd level, your increasing mastery of your curse causes you to learn
 | 9th | [guiding weapon](/3-Content/Compendiums/spells/guiding-weapon-ultimateadventurer.md) |
 | 13th | [vampiric weapon](/3-Content/Compendiums/spells/vampiric-weapon-ultimateadventurer.md) |
 | 17th | steel wind strike |
+
 ^armament-curse-spells
 
 ### Bond of Bloodthirst (Level 3)

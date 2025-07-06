@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/ultimateadventurer
-- ttrpg-cli/subclass/accursed/misfortune
+tags: [ttrpg-cli/compendium/src/5e/ultimateadventurer, ttrpg-cli/subclass/accursed/misfortune]
 aliases:
-- Curse of Misfortune
+  - Curse of Misfortune
+date created: 2025:05:14, 21:46
+date modified: 2025:07:06, 18:58
 ---
-# Curse of Misfortune - Accursed
+
+# Curse of Misfortune
+
 *[Accursed](Accursed.md): Conquered Curse*  
 *Source: The Ultimate Adventurer's Handbook p. 174*  
 
@@ -42,12 +44,11 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Curse of Misfortune (Level 1)
 
-You, or one of your ancestors, managed to earn the ire of a powerful magical entity — whether it be a hag matron, a celestial deity, or an archmage — that cursed your family line with poor luck. You're constantly losing possessions as though they've vanished into the aether, you injure yourself in the most improbable of ways, and it always rains if you've forgotten your cloak. You've learned, however, that the magic that surrounds you simply alters probability, and have discovered that you can manipulate it and even potentially shift its polarity to good luck. Perhaps, if you gain enough control over this power, you may even be able to alter fate...
+You, or one of your ancestors, managed to earn the ire of a powerful magical entity — whether it be a hag matron, a celestial deity, or an archmage — that cursed your family line with poor luck. You're constantly losing possessions as though they've vanished into the aether, you injure yourself in the most improbable of ways, and it always rains if you've forgotten your cloak. You've learned, however, that the magic that surrounds you simply alters probability, and have discovered that you can manipulate it and even potentially shift its polarity to good luck. Perhaps, if you gain enough control over this power, you may even be able to alter fate…
 
 ### Misfortune Ailments (Level 1)
 
@@ -79,6 +80,7 @@ Starting at 2nd level, your increasing mastery of your curse causes you to learn
 | 9th | [bestow blessing](/3-Content/Compendiums/spells/bestow-blessing-ultimateadventurer.md) |
 | 13th | confusion |
 | 17th | skill empowerment |
+
 ^misfortune-curse-spells
 
 ### Fortune Twist (Level 3)

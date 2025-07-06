@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/ultimateadventurer
-- ttrpg-cli/subclass/accursed/somnolence
+tags: [ttrpg-cli/compendium/src/5e/ultimateadventurer, ttrpg-cli/subclass/accursed/somnolence]
 aliases:
-- Curse of Somnolence
+  - Curse of Somnolence
+date created: 2025:05:14, 21:46
+date modified: 2025:07:06, 18:58
 ---
-# Curse of Somnolence - Accursed
+
+# Curse of Somnolence
+
 *[Accursed](Accursed.md): Conquered Curse*  
 *Source: The Ultimate Adventurer's Handbook p. 179*  
 
@@ -42,12 +44,11 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Curse of Somnolence (Level 1)
 
-You, or perhaps a loved one, angered a powerful spellcaster, hag, or other fey creature, causing them to curse you to sleep forever and wake no more. Whether you found a loophole in the curse's magic or you battled through a land of ephemeral dreams back to the world of the waking, you eventually regained consciousness. Now you spend your fleeting waking moments trying to live the life you've only been able to dream of. After your long slumber, you're trying to make the most out of your waking hours, but a quick nap does sound good right about now...
+You, or perhaps a loved one, angered a powerful spellcaster, hag, or other fey creature, causing them to curse you to sleep forever and wake no more. Whether you found a loophole in the curse's magic or you battled through a land of ephemeral dreams back to the world of the waking, you eventually regained consciousness. Now you spend your fleeting waking moments trying to live the life you've only been able to dream of. After your long slumber, you're trying to make the most out of your waking hours, but a quick nap does sound good right about now…
 
 ### Somnolence Ailments (Level 1)
 
@@ -81,6 +82,7 @@ Starting at 2nd level, your increasing mastery of your curse causes you to learn
 | 9th | catnap |
 | 13th | hallucinatory terrain |
 | 17th | dream |
+
 ^somnolence-curse-spells
 
 ### Lucid Dreaming (Level 3)

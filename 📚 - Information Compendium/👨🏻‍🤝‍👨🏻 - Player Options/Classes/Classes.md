@@ -1,9 +1,8 @@
 ---
-title: Classes
 aliases:
   - Classes
 date created: 2025:05:14, 22:29
-date modified: 2025:07:06, 18:12
+date modified: 2025:07:06, 18:57
 ---
 
 *A compiled list of all the various classes and subclasses scattered throughout my ever-growing collection of homebrew. A brief description is included. Their sources are listed with each subclass if they’re not in base 5e*
