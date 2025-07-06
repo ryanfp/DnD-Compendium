@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Abduct",
+      "path": "📚 - Information Compendium/Spells/Abduct.md"
+    },
+    {
+      "basename": "ability-rip-elminsters-guide-to-magic",
+      "path": "📚 - Information Compendium/Spells/ability-rip-elminsters-guide-to-magic.md"
+    },
+    {
+      "basename": "abi-dalzims-horrid-wilting-xge",
+      "path": "📚 - Information Compendium/Spells/abi-dalzims-horrid-wilting-xge.md"
+    },
+    {
       "basename": "Classes",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "cobalt-scholar-sage-egw",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/cobalt-scholar-sage-egw.md"
-    },
-    {
-      "basename": "ability-rip-elminsters-guide-to-magic",
-      "path": "📚 - Information Compendium/Spells/ability-rip-elminsters-guide-to-magic.md"
     },
     {
       "basename": "abolish-shadows-elminsters-guide-to-magic",
@@ -191,14 +199,6 @@
     {
       "basename": "Untitled",
       "path": "z_Templates/Untitled.md"
-    },
-    {
-      "basename": "11 - Insert Quotes",
-      "path": "z_Templates/11 - Insert Quotes.md"
-    },
-    {
-      "basename": "5 - Insert Infobox - Left",
-      "path": "z_Templates/5 - Insert Infobox - Left.md"
     }
   ],
   "omittedPaths": [],

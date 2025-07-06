@@ -1,25 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-spell
-tags:
-- compendium/src/5e/xge
-- spell/class/bard
-- spell/class/sorcerer
-- spell/class/wizard
-- spell/level/8th-level
-- spell/school/necromancy
-- spell/subclass/arcana-domain
-classes:
-- Bard
-- Cleric (Arcana Domain)
-- Sorcerer
-- Wizard
+tags: [compendium/src/5e/xge, spell/class/bard, spell/class/sorcerer, spell/class/wizard, spell/level/8th-level, spell/school/necromancy, spell/subclass/arcana-domain]
+classes: [Bard, Cleric (Arcana Domain), Sorcerer, Wizard]
 aliases:
-- Abi-Dalzim's Horrid Wilting
+  - "Abi-Dalzim's Horrid Wilting"
+title: abi-dalzims-horrid-wilting-xge
+date created: 2025:06:15, 22:44
+date modified: 2025:07:06, 18:13
 ---
-# Abi-Dalzim's Horrid Wilting
-*8th-level, Necromancy*  
 
+# Abi-Dalzim's Horrid Wilting
+
+*8th-level, Necromancy*  
 
 - **Casting time:** 1 Action
 - **Range:** 150 feet
