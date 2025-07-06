@@ -4,10 +4,10 @@ cssclasses: json5e-spell
 tags: [compendium/src/5e/darkmatter, spell/level/7th-level, spell/school/conjuration]
 aliases:
   - Abduct
+  - Abduct
   - abduct-darkmatter
-title: abduct-darkmatter
 date created: 2025:06:15, 22:44
-date modified: 2025:07:06, 18:13
+date modified: 2025:07:06, 18:46
 ---
 
 # Abduct

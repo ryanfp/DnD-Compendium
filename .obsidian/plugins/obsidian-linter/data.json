@@ -79,7 +79,7 @@
       "preserve-existing-alias-section-style": false,
       "keep-alias-that-matches-the-filename": true,
       "use-yaml-key-to-keep-track-of-old-filename-or-heading": false,
-      "alias-helper-key": "linter-yaml-title-alias"
+      "alias-helper-key": "title"
     },
     "capitalize-headings": {
       "enabled": true,

@@ -73,7 +73,7 @@ Though teleportation magic seems limitless for terrestrial applications, it fall
 
 These spells are presented in alphabetical order. Mega spells are noted in parentheses.
 
-- [Abduct](Abduct.md)  
+- [abduct-darkmatter2](abduct-darkmatter2.md)  
 - [Antivirus](/📚%20-%20Information%20Compendium/spells/antivirus-darkmatter.md)  
 - [Arcane Anomaly](/📚%20-%20Information%20Compendium/spells/arcane-anomaly-darkmatter.md)  
 - [Arcane Capacitor](/📚%20-%20Information%20Compendium/spells/arcane-capacitor-darkmatter.md)  
@@ -96,7 +96,7 @@ These spells are presented in alphabetical order. Mega spells are noted in paren
 - [Earth-Shattering Kaboom](/📚%20-%20Information%20Compendium/spells/earth-shattering-kaboom-darkmatter.md)  
 - [Eye of Anubis](/📚%20-%20Information%20Compendium/spells/eye-of-anubis-darkmatter.md)  
 - [Eye of Ra](/📚%20-%20Information%20Compendium/spells/eye-of-ra-darkmatter.md)  
-- [Abduct](Abduct.md)  
+- [abduct-darkmatter2](abduct-darkmatter2.md)  
 - [Finger Guns](/📚%20-%20Information%20Compendium/spells/finger-guns-darkmatter.md)  
 - [Flawed Reconstruction](/📚%20-%20Information%20Compendium/spells/flawed-reconstruction-darkmatter.md)  
 - [Geodesic Shield](/📚%20-%20Information%20Compendium/spells/geodesic-shield-darkmatter.md)  
