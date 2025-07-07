@@ -1,5 +1,30 @@
 document.body.addClass('dnd');
 
+let id;
+
+function insertMetaDates() {
+  // TODO: あとで実装
+}
+
+const onChangeDOM = (mutationsList, observer) => {
+  for (let mutation of mutationsList) {
+    if (
+      mutation.type === "childList" &&
+      mutation.addedNodes[0]?.className === "page-header"
+    ) {
+      clearInterval(id);
+      id = setInterval(insertMetaDates, 50);
+    }
+  }
+};
+
+const targetNode = document.querySelector(
+  ".markdown-preview-sizer.markdown-preview-section"
+);
+const observer = new MutationObserver(onChangeDOM);
+observer.observe(targetNode, { childList: true, subtree: true });
+id = setInterval(insertMetaDates, 50);
+
 function insertMetaDates() {
   const frontmatter = app.site.cache.cache[app.currentFilepath].frontmatter;
   if (!frontmatter) {
