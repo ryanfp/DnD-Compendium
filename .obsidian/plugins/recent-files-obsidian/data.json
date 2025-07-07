@@ -5,16 +5,8 @@
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Animation.md"
     },
     {
-      "basename": "Classes",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
-    },
-    {
       "basename": "Accursed",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md"
-    },
-    {
-      "basename": "Curse of the Created",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of the Created.md"
     },
     {
       "basename": "Curse of the Armament",
@@ -23,6 +15,18 @@
     {
       "basename": "Curse of Somnolence",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Somnolence.md"
+    },
+    {
+      "basename": "Curse of Combustion",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Combustion.md"
+    },
+    {
+      "basename": "Curse of the Created",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of the Created.md"
+    },
+    {
+      "basename": "Classes",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
     },
     {
       "basename": "Curse of Petrification",
@@ -39,10 +43,6 @@
     {
       "basename": "Curse of Immortality",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Immortality.md"
-    },
-    {
-      "basename": "Curse of Combustion",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Combustion.md"
     },
     {
       "basename": "Apothecary Field",
@@ -195,10 +195,6 @@
     {
       "basename": "Armorer",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Armorer.md"
-    },
-    {
-      "basename": "Artificer",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/Artificer.md"
     }
   ],
   "omittedPaths": [],

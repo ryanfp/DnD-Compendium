@@ -1177,7 +1177,8 @@
     "not": 18,
     "not-started": 19,
     "i-progress": 20,
-    "completed": 21
+    "completed": 21,
+    "Bone": 22
   },
   "_version": 3
 }

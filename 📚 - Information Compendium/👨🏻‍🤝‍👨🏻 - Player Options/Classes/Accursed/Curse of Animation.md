@@ -6,7 +6,7 @@ aliases:
   - Curse of Animation
   - Curse of Animation - Accursed
 date created: 2025:05:14, 21:46
-date modified: 2025:07:06, 18:58
+date modified: 2025:07:06, 20:14
 ---
 
 # Curse of Animation
@@ -90,9 +90,9 @@ Starting at 2nd level, your increasing mastery of your curse causes you to learn
 
 ### Necromantic Spurs (Level 3)
 
-Starting at 3rd level, each weapon you create with your [[Bone Spurring]] counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage while you wield it.
+Starting at 3rd level, each weapon you create with your [Bone Spurring](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Accursed/Curse%20of%20Animation.md#Bone%20Spurring%20(Level%201)) counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage while you wield it.
 
-Additionally, you can empower the bone objects you create with your curse's animating energy. When you create an object with your [Bone Spurring](/3-Content/Compendiums/classes/accursed-curse-of-animation-ultimateadventurer.md#Bone%20Spurring%20(Level%201)) or as a bonus action while holding one of your bone objects, you can expend a spell slot to empower it until it leaves your hand. The empowered effect depends on the type of bone object.
+Additionally, you can empower the bone objects you create with your curse's animating energy. When you create an object with your [Bone Spurring](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Accursed/Curse%20of%20Animation.md#Bone%20Spurring%20(Level%201)) or as a bonus action while holding one of your bone objects, you can expend a spell slot to empower it until it leaves your hand. The empowered effect depends on the type of bone object.
 
 #### Shield
 
