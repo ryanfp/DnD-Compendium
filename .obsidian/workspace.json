@@ -2600,29 +2600,9 @@
               "icon": "viewIcon",
               "title": "Markdown-Autocomplete"
             }
-          },
-          {
-            "id": "e8c07d1484655607",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for Classes"
-            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -2665,7 +2645,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "b70de905895a8e8f",
+  "active": "c0c2fbf5da705f4c",
   "lastOpenFiles": [
     "publish.css",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Criminal (Spy) (Variant).md",

@@ -7,8 +7,8 @@ aliases:
   - Augen Trust (Spy)
   - augen-trust-spy-egw
   - augen-trust-spy-egw.md
-date created: 2025:06:15, 22:47
-date modified: 2025:07:06, 20:24
+created: 2025/06/15, 22:47
+updated: 2025/07/06, 22:08
 ---
 
 # Augen Trust (Spy)
