@@ -1,6 +1,11 @@
 
+// Switches the custom theme to DND
+{
+document.body.addClass('dnd');
+}
 
-// Initialize function for the created and updated properties
+/* PUBLISH.JS PROPERTIES */
+
 let id;
 
 function insertMetaDates() {
@@ -9,153 +14,130 @@ function insertMetaDates() {
     return;
   }
 
-  const created = frontmatter["created"]?.replaceAll("-", "/");
-  const updated = frontmatter["updated"]?.replaceAll("-", "/");
-  if (!created && !updated) {
-    return;
-  }
+/* selects the properties to be published */
 
-  const frontmatterEl = document.querySelector(".frontmatter");
-  if (!frontmatterEl) {
-    return;
-  }
-
-  frontmatterEl.insertAdjacentHTML(
-    "afterend",
-    `
-<div style="display: flex; justify-content: end; gap: 3px;">
-    <a href="#${created}" class="tag" target="_blank" rel="noopener">
-        Created:${created}
-    </a>
-    <a href="#${updated}" class="tag" target="_blank" rel="noopener">
-        Updated:${updated}
-    </a>
-</div>
-`
-  );
-
-  clearInterval(id);
-}
-
-const onChangeDOM = (mutationsList, observer) => {
-  for (let mutation of mutationsList) {
-    if (
-      mutation.type === "childList" &&
-      mutation.addedNodes[0]?.className === "page-header"
-    ) {
-      clearInterval(id);
-      id = setInterval(insertMetaDates, 50);
-    }
-  }
-};
-
-const targetNode = document.querySelector(
-  ".markdown-preview-sizer.markdown-preview-section"
-);
-const observer = new MutationObserver(onChangeDOM);
-observer.observe(targetNode, { childList: true, subtree: true });
-id = setInterval(insertMetaDates, 50);
-
-
-// initialize funciton for the tag properties
-let id;
-
-function insertMetaDates() {
-  // TODO: あとで実装
-}
-
-const onChangeDOM = (mutationsList, observer) => {
-  for (let mutation of mutationsList) {
-    if (
-      mutation.type === "childList" &&
-      mutation.addedNodes[0]?.className === "page-header"
-    ) {
-      clearInterval(id);
-      id = setInterval(insertMetaDates, 50);
-    }
-  }
-};
-
-const targetNode = document.querySelector(
-  ".markdown-preview-sizer.markdown-preview-section"
-);
-const observer = new MutationObserver(onChangeDOM);
-observer.observe(targetNode, { childList: true, subtree: true });
-id = setInterval(insertMetaDates, 50);
-
-
-// secondary function for created and updated properties
-function insertMetaDates() {
-  const frontmatter = app.site.cache.cache[app.currentFilepath].frontmatter;
-  if (!frontmatter) {
-    clearInterval(id);
-    return;
-  }
-
-  const created = frontmatter["created"]?.replaceAll("-", "/");
-  const updated = frontmatter["updated"]?.replaceAll("-", "/");
-  if (!created && !updated) {
-    clearInterval(id);
-    return;
-  }
-
-  const frontmatterEl = document.querySelector(".frontmatter");
-  if (!frontmatterEl) {
-    return;
-  }
-
-  frontmatterEl.insertAdjacentHTML(
-    "afterend",
-    `
-<div class="properties">
-    <div class="created">create:${created}</div>
-    <div class="updated">renew:${updated}</div>
-</div>
-`
-  );
-
-  clearInterval(id);
-}
-
-
-// secondary function for the tags properties
-function insertMetaDates() {
-  const frontmatter = app.site.cache.cache[app.currentFilepath].frontmatter;
-  if (!frontmatter) {
-    clearInterval(id);
-    return;
-  }
-
+  const type = frontmatter["type"]?.replaceAll("-", "/");
   const tags = frontmatter["tags"];
-  if (!tags) {
+  const aliases = frontmatter["aliases"];
+  const created = frontmatter["created"];?.replaceAll("-", "/");
+  const updated = frontmatter["updated"]:?.replaceAll("-", "/");
+  
+  if (!created && !updated) {
     clearInterval(id);
     return;
-  }
+	
+let tags = frontmatter['tags'] || [];
+const aliases = frontmatter['aliases'] || [];
 
-  const frontmatterEl = document.querySelector(".frontmatter");
-  if (!frontmatterEl) {
-    return;
-  }
+if (typeof tags === 'string') {
+	tags = [tags];
+}
+
+/* maps out and formats the tags */
 
   const tagElms = tags
-    .map(
-      (tag) => `
-    <a href="#${tag}" class="tag" target="_blank" rel="noopener">#${tag}</a>
-    `
-    )
-    .join("");
+  .map(
+    (tag) => `
+  <a href="#${tag}" class="tag" target="_blank" rel="noopener">#${tag}</a>
+  `
+  )
+  .join("");
+
+/* maps out and formats the aliases */
+
+  const aliasElms = aliases
+  .map(
+    (alias) => `
+  <a class="alias" target="_blank" rel="noopener">${alias}</a>
+  `
+  )
+  .join("");
+
+
+  const frontmatterEl = document.querySelector(".frontmatter");
+  if (!frontmatterEl) {
+    return;
+  }
+
+/* inserts the html */
+
   frontmatterEl.insertAdjacentHTML(
     "afterend",
     `
-<div class="properties">
-    ${tagElms}
-</div>
+      <div class="propertyitemtable">
+       <div id="typeproperty" class="propertyitem">type: ${type}</div>
+	   <div id="createdproperty" class="propertyitem">created: ${created}</div>
+	   <div id="updatedproperty" class="propertyitem">updated: ${updated}</div>
+      </div>
+      <div id="tagsproperty" class="propertyitemtags">
+       ${tagElms}
+      </div>
+      <div id="aliasesproperty" class="propertyitemaliases">
+       ${aliasElms}
+      </div>
+	  
 `
   );
+
+
+  /* makes sure that only existing properties are shown */
+
+if (type) {
+  document.getElementById('typeproperty').style.display = ""
+} else {
+  document.getElementById('typeproperty').style.display = "none"
+}
+
+if (aliases) {
+  document.getElementById('aliasesproperty').style.display = ""
+} else {
+  document.getElementById('aliasesproperty').style.display = "none"
+}
+
+if (tags) {
+  document.getElementById('tagsproperty').style.display = ""
+} else {
+  document.getElementById('tagsproperty').style.display = "none"
+}
+
+if (type) {
+  document.getElementById('createdproperty').style.display = ""
+} else {
+  document.getElementById('createdproperty').style.display = "none"
+}
+
+if (type) {
+  document.getElementById('updatedproperty').style.display = ""
+} else {
+  document.getElementById('updatedproperty').style.display = "none"
+}
 
   clearInterval(id);
 }
 
+/* put the properties after the note title */
 
-// Switches the custom theme to DND
-document.body.addClass('dnd');
+const onChangeDOM = (mutationsList, observer) => {
+  for (let mutation of mutationsList) {
+    if (
+      mutation.type === "childList" &&
+      mutation.addedNodes[0]?.className === "page-header"
+    ) {
+      clearInterval(id);
+      id = setInterval(insertMetaDates, 50);
+    }
+  }
+};
+
+const targetNode = document.querySelector(
+  ".markdown-preview-sizer.markdown-preview-section"
+);
+const observer = new MutationObserver(onChangeDOM);
+observer.observe(targetNode, { childList: true, subtree: true });
+id = setInterval(insertMetaDates, 50);
+
+
+// ____________________________________________________________________________________________________________
+
+
+
