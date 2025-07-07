@@ -42,31 +42,29 @@
         ],
         "To-Do List.md": [
             {
-                "id": 3568915196,
+                "id": 2726857406,
                 "status": " ",
-                "title": "⚔Consolidate Character Archetypes | 📅04-26-2025 #in-progress",
+                "title": "⚔Consolidate Character Archetypes | 📅04-26-2025 in-progress",
                 "body": [
-                    "\t- [ ] Review all adventuring classes #started",
-                    "\t- [ ] Review all subclasses #started",
+                    "\t- [ ] Review all adventuring classes started",
+                    "\t- [ ] Review all subclasses started",
                     "\t- [ ] Remove marked options",
-                    "\t- [ ] Combine/edit any classes/subclasses #started",
-                    "\t- [ ] Link all subclasses to their classes and vice-versa #started ",
+                    "\t- [ ] Combine/edit any classes/subclasses started",
+                    "\t- [ ] Link all subclasses to their classes and vice-versa started ",
                     "\t  - Just waiting on Kyler to be back from Maine",
                     "\t  - We were on I think Barbarian?"
                 ],
                 "time": "",
                 "due": "04-26-2025",
-                "tags": [
-                    "#in-progress"
-                ],
+                "tags": [],
                 "priority": 0,
                 "filePath": "To-Do List.md",
                 "completion": ""
             },
             {
-                "id": 4226368149,
+                "id": 152203413,
                 "status": " ",
-                "title": "📝Cross Reference Created Content w/ Needed | 📅06-21-2025 #not-started",
+                "title": "📝Cross Reference Created Content w/ Needed | 📅06-21-2025 not-started",
                 "body": [
                     "\t- [ ] Create List of Sources used for CLI Output",
                     "\t- [ ] Create List of Sources used/desired",
@@ -75,33 +73,29 @@
                 ],
                 "time": "",
                 "due": "06-21-2025",
-                "tags": [
-                    "#not-started"
-                ],
+                "tags": [],
                 "priority": 0,
                 "filePath": "To-Do List.md",
                 "completion": ""
             },
             {
-                "id": 2154013147,
+                "id": 1876404136,
                 "status": " ",
-                "title": "⚠ Find/Confirm Way to SAFELY Rename All Files (!) | 📅06-21-2025 #in-progress",
+                "title": "⚠ Find/Confirm Way to SAFELY Rename All Files (!) | 📅06-21-2025 in-progress",
                 "body": [],
                 "time": "",
                 "due": "06-21-2025",
-                "tags": [
-                    "#in-progress"
-                ],
+                "tags": [],
                 "priority": 0,
                 "filePath": "To-Do List.md",
                 "completion": ""
             },
             {
-                "id": 431381971,
+                "id": 3577365221,
                 "status": " ",
-                "title": "💾 Rename ALL Files #in-progress | 📅06-18-2025",
+                "title": "💾 Rename ALL Files in-progress | 📅06-18-2025",
                 "body": [
-                    "\t- [ ] Backgrounds #in-progress ",
+                    "\t- [ ] Backgrounds in-progress ",
                     "\t- [ ] Items",
                     "\t- [ ] Spells",
                     "\t- [ ] Races",
@@ -111,19 +105,17 @@
                 ],
                 "time": "",
                 "due": "06-18-2025",
-                "tags": [
-                    "#in-progress"
-                ],
+                "tags": [],
                 "priority": 0,
                 "filePath": "To-Do List.md",
                 "completion": ""
             },
             {
-                "id": 77127012,
+                "id": 2343198818,
                 "status": " ",
                 "title": "📕 Create Master List for Cataloging Everything| 📅06-16-2025",
                 "body": [
-                    "\t- [ ] Draw/Sketch Mock-Up Hierarchy #in-progress -progress ",
+                    "\t- [ ] Draw/Sketch Mock-Up Hierarchy in-progress -progress ",
                     "\t- [ ] Create Tag Label Scheme",
                     "\t- [ ] (Optional) Find Way to Mass Add Tags",
                     "\t- [ ] Create Modal Forms to Add Tags to Frontmatter",
@@ -137,21 +129,19 @@
                 "completion": ""
             },
             {
-                "id": 3546426759,
+                "id": 290841670,
                 "status": " ",
-                "title": "Create List of Sourcebooks for Homebrew & Vanilla Content | 📅04-26-2025 #completed",
+                "title": "Create List of Sourcebooks for Homebrew & Vanilla Content | 📅04-26-2025 completed",
                 "body": [],
                 "time": "",
                 "due": "04-26-2025",
-                "tags": [
-                    "#completed"
-                ],
+                "tags": [],
                 "priority": 0,
                 "filePath": "To-Do List.md",
                 "completion": ""
             },
             {
-                "id": 2653219178,
+                "id": 875450274,
                 "status": " ",
                 "title": "",
                 "body": [],
@@ -163,7 +153,7 @@
                 "completion": ""
             },
             {
-                "id": 3216938082,
+                "id": 1184899058,
                 "status": " ",
                 "title": "",
                 "body": [],
@@ -175,7 +165,7 @@
                 "completion": ""
             },
             {
-                "id": 1991643202,
+                "id": 1252447299,
                 "status": " ",
                 "title": "",
                 "body": [],

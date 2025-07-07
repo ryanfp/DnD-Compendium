@@ -1,16 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-background
-tags:
-  - background
-  - compendium/src/5e/scag
+tags: [background, compendium/src/5e/scag]
 aliases:
   - City Watch (Investigator) (Variant)
-title: City Watch (Investigator) (Variant)
+  - City Watch {Investigator} {Variant}
+date created: 2025:06:15, 22:47
+date modified: 2025:07:06, 20:25
 ---
-# City Watch {Investigator} {Variant}
-*Source: Sword Coast Adventurer's Guide p. 145*  
 
+# City Watch (Investigator) (Variant)
+
+*Source: Sword Coast Adventurer's Guide p. 145*  
 
 - **Skill Proficiencies.** [Insight](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Insight), [Investigation](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Investigation)  
 - **Languages.** Any two of your choice  

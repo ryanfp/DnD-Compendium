@@ -6,7 +6,7 @@ aliases:
   - Curse of Animation
   - Curse of Animation - Accursed
 date created: 2025:05:14, 21:46
-date modified: 2025:07:06, 20:14
+date modified: 2025:07:06, 20:22
 ---
 
 # Curse of Animation
@@ -81,7 +81,7 @@ Starting at 2nd level, your increasing mastery of your curse causes you to learn
 | Accursed Level | Spells |
 |----------------|--------|
 | 2nd | shield |
-| 5th | [[skull servant|Skull Servant]] |
+| 5th | [[Skull Servant\|skull servant]]|
 | 9th | animate dead |
 | 13th | stoneskin |
 | 17th | danse macabre |

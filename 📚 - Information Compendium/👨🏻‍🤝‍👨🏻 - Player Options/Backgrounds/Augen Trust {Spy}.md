@@ -1,18 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-background
-tags:
-  - background
-  - compendium/src/5e/egw
+tags: [background, compendium/src/5e/egw]
 aliases:
+  - Augen Trust (Spy)
   - Augen Trust (Spy)
   - augen-trust-spy-egw
   - augen-trust-spy-egw.md
-title: Augen Trust (Spy)
+date created: 2025:06:15, 22:47
+date modified: 2025:07:06, 20:24
 ---
-# Augen Trust {Spy}
-*Source: Explorer's Guide to Wildemount p. 203*  
 
+# Augen Trust (Spy)
+
+*Source: Explorer's Guide to Wildemount p. 203*  
 
 - **Skill Proficiencies.** [[Deception]], [[Stealth]]  
 - **Tool Proficiencies.** One type of gaming set, [[thieves' tools]]  
@@ -46,6 +47,7 @@ There are many kinds of criminals, and within a thieves' guild or similar crimin
 | 6 | Hired killer |
 | 7 | Pickpocket |
 | 8 | Smuggler |
+
 ^specialty
 
 ## Suggested Characteristics
@@ -64,6 +66,7 @@ Criminals might seem like villains on the surface, and many of them are villaino
 | 6 | I don't pay attention to the risks in a situation. Never tell me the odds. |
 | 7 | The best way to get me to do something is to tell me I can't do it. |
 | 8 | I blow up at the slightest insult. |
+
 ^personality-trait
 
 `dice: [](Augen Trust {Spy}#^ideal)`
@@ -76,6 +79,7 @@ Criminals might seem like villains on the surface, and many of them are villaino
 | 4 | Greed. I will do whatever it takes to become wealthy. (Evil) |
 | 5 | People. I'm loyal to my friends, not to any ideals, and everyone else can take a trip down the Styx for all I care. (Neutral) |
 | 6 | Redemption. There's a spark of good in everyone. (Good) |
+
 ^ideal
 
 `dice: [](Augen Trust {Spy}#^bond)`
@@ -88,6 +92,7 @@ Criminals might seem like villains on the surface, and many of them are villaino
 | 4 | I will become the greatest thief that ever lived. |
 | 5 | I'm guilty of a terrible crime. I hope I can redeem myself for it. |
 | 6 | Someone I loved died because of a mistake I made. That will never happen again. |
+
 ^bond
 
 `dice: [](Augen Trust {Spy}#^flaw)`
@@ -100,4 +105,5 @@ Criminals might seem like villains on the surface, and many of them are villaino
 | 4 | I have a 'tell' that reveals when I'm lying. |
 | 5 | I turn tail and run when things look bad. |
 | 6 | An innocent person is in prison for a crime that I committed. I'm okay with that. |
+
 ^flaw

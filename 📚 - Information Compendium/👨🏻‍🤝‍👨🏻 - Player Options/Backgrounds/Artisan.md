@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-background
-tags:
-  - background
-  - compendium/src/5e/xphb
+tags: [background, compendium/src/5e/xphb]
 aliases:
   - Artisan
-title: Artisan
+date created: 2025:06:15, 22:47
+date modified: 2025:07:06, 20:23
 ---
+
 # Artisan
+
 *Source: Player's Handbook (2024) p. 179*  
 ![[artisan.webp]]
 

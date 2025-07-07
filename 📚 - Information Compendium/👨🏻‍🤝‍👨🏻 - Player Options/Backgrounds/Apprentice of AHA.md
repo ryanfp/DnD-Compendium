@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-background
-tags:
-  - background
-  - compendium/src/5e/obojimatallgrass
+tags: [background, compendium/src/5e/obojimatallgrass]
 aliases:
   - Apprentice of AHA
-title: Apprentice of AHA
+date created: 2025:06:15, 22:47
+date modified: 2025:07:06, 20:25
 ---
+
 # Apprentice of AHA
+
 *Source: Obojima: Tales from the Tall Grass p. 154*  
 ![](/📚%20-%20Information%20Compendium/books/obojima-tales-from-the-tall-grass/img/aha-books-and-tape.webp#right)
 
@@ -17,7 +18,6 @@ title: Apprentice of AHA
 - **Equipment.** An Explorer's Pack, 5 candles, shovel, signal whistle, a journal full of old research from your time as an apprentice, and 13 gold flowers.  
 
 You spent time studying with the archaeologists, historians, and archivists of AHA, the group of adventuring academics who seek knowledge about the nature of Obojima and its past. With your mentor, you pursued answers to one of the island's mysteries. During your apprenticeship, you traveled to one or more of AHA's excavation sites and worked alongside the organization, but never became an official member. Even now, unanswered questions from your time with the group continue to rattle around in your mind. For more on AHA, see page 17.
-
 
 ## Feature: Wise Reputation
 
