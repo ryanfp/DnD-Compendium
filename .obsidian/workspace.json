@@ -2606,7 +2606,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -2645,7 +2645,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "155b27d5caff1797",
+  "active": "b70de905895a8e8f",
   "lastOpenFiles": [
     "publish.css",
     "publish1.css",
