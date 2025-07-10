@@ -34,7 +34,7 @@ function insertMetaDates() {
   frontmatterEl.insertAdjacentHTML(
     "afterend",
     `
-<div style="display: flex-wrap; padding: 3px;">
+<div style="display: flex-wrap; gap: 3px; row-gap: 3px;">
     ${tagElms}
 </div>
 `
