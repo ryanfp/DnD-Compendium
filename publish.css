@@ -9159,109 +9159,11 @@ body:not(.wotc-beyond) .wotc-beyond:is(.markdown-source-view,
 }
 
 
-
-/* PUBLISH.CSS PROPERTIES */
-
-/* formats the overall properties block except aliases and tags */
-
-.propertyitemtable {
-    display: block; 
-    justify-content: end; 
-    gap: 3px; 
-    font-family: var(--font-monospace); 
-    font-size: var(--font-smaller);
+.properties {
+  display: flex;
+  justify-content: end;
+  gap: 8px;
 }
-
-/* formats each row of properties */
-
-.propertyitem {
-    font-size: var(--font-smallest);
-    font-weight: normal;
-    z-index: 1;
-    cursor: default;
-    padding: 5px 20px;
-    text-align: justify;
-    font-family: var(--font-monospace);
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-    border-bottom: 1px solid var(--background-modifier-border);
-}
-
-/* formats the row of tags */
-
-.propertyitemtags {
-    margin:10px;
-    font-size: var(--font-smaller);
-}
-
-/* formats each tag */
-
-.propertyitemtags a.tag {
-	background-color: var(--tag-background);
-	border: var(--tag-border-width) solid var(--tag-border-color);
-	border-radius: var(--tag-radius);
-	color: var(--tag-color);
-	font-size: var(--tag-size);
-	font-weight: var(--tag-weight);
-	text-decoration: var(--tag-decoration);
-	padding: var(--tag-padding-y) var(--tag-padding-x);
-	line-height: 1;
-}
-
-/* formats the row of aliases*/
-
-.propertyitemaliases {
-    margin:10px; 
-    font-size: var(--font-smaller); 
-    text-align: center;    
-    cursor: default;
-}
-
-/*formats each alias */
-
-.propertyitemaliases a.alias {
-	background-color: var(--tag-background);
-	border: var(--tag-border-width) solid var(--tag-border-color);
-	border-radius: var(--tag-radius);
-	color: var(--tag-color);
-	font-size: var(--tag-size);
-	font-weight: var(--tag-weight);
-	text-decoration: var(--tag-decoration);
-	padding: var(--tag-padding-y) var(--tag-padding-x);
-	line-height: 1;
-}
-
-/* formats created and updated 
-
-.propertyitemcreated {
-    margin:10px; 
-    font-size: var(--font-smaller); 
-    text-align: center;    
-    cursor: default;
-}
-
-.propertyitemupdated {
-    margin:10px; 
-    font-size: var(--font-smaller); 
-    text-align: center;    
-    cursor: default;
-}
-
-.properties > .created::before,
-.properties > .updated::before {
-  display: inline-block;
-  filter: invert(0.4) hue-rotate(180deg);
-  width: 14px;
-  content: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PHBhdGggZD0iTTQ4MCAxMjhhNjQgNjQgMCAwIDAtNjQtNjRoLTE2VjQ4LjQ1YzAtOC42MS02LjYyLTE2LTE1LjIzLTE2LjQzQTE2IDE2IDAgMCAwIDM2OCA0OHYxNkgxNDRWNDguNDVjMC04LjYxLTYuNjItMTYtMTUuMjMtMTYuNDNBMTYgMTYgMCAwIDAgMTEyIDQ4djE2SDk2YTY0IDY0IDAgMCAwLTY0IDY0djEyYTQgNCAwIDAgMCA0IDRoNDQwYTQgNCAwIDAgMCA0LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48cGF0aCBkPSJNMzIgNDE2YTY0IDY0IDAgMCAwIDY0IDY0aDMyMGE2NCA2NCAwIDAgMCA2NC02NFYxNzlhMyAzIDAgMCAwLTMtM0gzNWEzIDMgMCAwIDAtMyAzem0zNDQtMjA4YTI0IDI0IDAgMSAxLTI0IDI0YTI0IDI0IDAgMCAxIDI0LTI0em0wIDgwYTI0IDI0IDAgMSAxLTI0IDI0YTI0IDI0IDAgMCAxIDI0LTI0em0tODAtODBhMjQgMjQgMCAxIDEtMjQgMjRhMjQgMjQgMCAwIDEgMjQtMjR6bTAgODBhMjQgMjQgMCAxIDEtMjQgMjRhMjQgMjQgMCAwIDEgMjQtMjR6bTAgODBhMjQgMjQgMCAxIDEtMjQgMjRhMjQgMjQgMCAwIDEgMjQtMjR6bS04MC04MGEyNCAyNCAwIDEgMS0yNCAyNGEyNCAyNCAwIDAgMSAyNC0yNHptMCA4MGEyNCAyNCAwIDEgMS0yNCAyNGEyNCAyNCAwIDAgMSAyNC0yNHptLTgwLTgwYTI0IDI0IDAgMSAxLTI0IDI0YTI0IDI0IDAgMCAxIDI0LTI0em0wIDgwYTI0IDI0IDAgMSAxLTI0IDI0YTI0IDI0IDAgMCAxIDI0LTI0eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+PC9zdmc+");
-  margin-right: 5px;
-  position: absolute;
-  top: 0;
-  left: 7px;
-*/
-
-
-/* Begin old formatting comment
-
 .properties > .created {
   font-size: 0.75em;
   font-weight: bolder;
@@ -9286,16 +9188,4 @@ body:not(.wotc-beyond) .wotc-beyond:is(.markdown-source-view,
   position: absolute;
   top: 0;
   left: 7px;
-}
-
-End old formatting comment */
-
-
-
-
-a.tag {
-  border-left: 1px solid var(--text-muted);
-  border-right: 1px solid var(--text-muted);
-  border-top: 1px solid var(--text-muted);
-  border-bottom: 1px solid var(--text-muted);
 }

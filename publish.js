@@ -1,10 +1,8 @@
 
 // Switches the custom theme to DND
-{
-document.body.addClass('dnd');
-}
 
-/* PUBLISH.JS PROPERTIES */
+document.body.addClass('dnd');
+
 
 let id;
 
@@ -14,108 +12,34 @@ function insertMetaDates() {
     return;
   }
 
-/* selects the properties to be published */
-
-  const type = frontmatter["type"]?.replaceAll("-", "/");
   const tags = frontmatter["tags"];
-  const aliases = frontmatter["aliases"];
-  const created = frontmatter["created"];?.replaceAll("-", "/");
-  const updated = frontmatter["updated"]:?.replaceAll("-", "/");
-  
-  if (!created && !updated) {
-    clearInterval(id);
+  if (!tags) {
     return;
-	
-let tags = frontmatter['tags'] || [];
-const aliases = frontmatter['aliases'] || [];
-
-if (typeof tags === 'string') {
-	tags = [tags];
-}
-
-/* maps out and formats the tags */
-
-  const tagElms = tags
-  .map(
-    (tag) => `
-  <a href="#${tag}" class="tag" target="_blank" rel="noopener">#${tag}</a>
-  `
-  )
-  .join("");
-
-/* maps out and formats the aliases */
-
-  const aliasElms = aliases
-  .map(
-    (alias) => `
-  <a class="alias" target="_blank" rel="noopener">${alias}</a>
-  `
-  )
-  .join("");
-
+  }
 
   const frontmatterEl = document.querySelector(".frontmatter");
   if (!frontmatterEl) {
     return;
   }
 
-/* inserts the html */
-
+  const tagElms = tags
+    .map(
+      (tag) => `
+    <a href="#${tag}" class="tag" target="_blank" rel="noopener">#${tag}</a>
+    `
+    )
+    .join("");
   frontmatterEl.insertAdjacentHTML(
     "afterend",
     `
-      <div class="propertyitemtable">
-       <div id="typeproperty" class="propertyitem">type: ${type}</div>
-	   <div id="createdproperty" class="propertyitem">created: ${created}</div>
-	   <div id="updatedproperty" class="propertyitem">updated: ${updated}</div>
-      </div>
-      <div id="tagsproperty" class="propertyitemtags">
-       ${tagElms}
-      </div>
-      <div id="aliasesproperty" class="propertyitemaliases">
-       ${aliasElms}
-      </div>
-	  
+<div style="display: flex; gap: 3px;">
+    ${tagElms}
+</div>
 `
   );
 
-
-  /* makes sure that only existing properties are shown */
-
-if (type) {
-  document.getElementById('typeproperty').style.display = ""
-} else {
-  document.getElementById('typeproperty').style.display = "none"
-}
-
-if (aliases) {
-  document.getElementById('aliasesproperty').style.display = ""
-} else {
-  document.getElementById('aliasesproperty').style.display = "none"
-}
-
-if (tags) {
-  document.getElementById('tagsproperty').style.display = ""
-} else {
-  document.getElementById('tagsproperty').style.display = "none"
-}
-
-if (type) {
-  document.getElementById('createdproperty').style.display = ""
-} else {
-  document.getElementById('createdproperty').style.display = "none"
-}
-
-if (type) {
-  document.getElementById('updatedproperty').style.display = ""
-} else {
-  document.getElementById('updatedproperty').style.display = "none"
-}
-
   clearInterval(id);
 }
-
-/* put the properties after the note title */
 
 const onChangeDOM = (mutationsList, observer) => {
   for (let mutation of mutationsList) {
@@ -135,9 +59,3 @@ const targetNode = document.querySelector(
 const observer = new MutationObserver(onChangeDOM);
 observer.observe(targetNode, { childList: true, subtree: true });
 id = setInterval(insertMetaDates, 50);
-
-
-// ____________________________________________________________________________________________________________
-
-
-
