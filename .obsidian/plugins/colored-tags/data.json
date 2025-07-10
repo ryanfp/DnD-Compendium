@@ -1178,7 +1178,14 @@
     "not-started": 19,
     "i-progress": 20,
     "completed": 21,
-    "Bone": 22
+    "Bone": 22,
+    "thisisatest": 23,
+    "thisisatestforpublish": 24,
+    "thisisalsoatestforpublsi": 25,
+    "anothertest": 26,
+    "testing": 27,
+    "testingagain": 28,
+    "thising": 29
   },
   "_version": 3
 }

@@ -2642,11 +2642,15 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "b70de905895a8e8f",
+  "active": "155b27d5caff1797",
   "lastOpenFiles": [
+    "wt4j2yck.ioc~",
+    "tqjiwdlp.5f1~",
+    "z3gimv3p.d5v~",
     "publish.css",
     "publish1.css",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Criminal (Spy) (Variant).md",
@@ -2689,9 +2693,6 @@
     "z_img/load-icon-png-8.png",
     "z_img/task_alt_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.png",
     "z_img/dnd-party-dragon",
-    "z_img/fantasy-landing-page",
-    "pixel-banner-images",
-    "📚 - Information Compendium/books/the-illrigger-revised/img",
-    "📚 - Information Compendium/books/the-illrigger-revised"
+    "z_img/fantasy-landing-page"
   ]
 }

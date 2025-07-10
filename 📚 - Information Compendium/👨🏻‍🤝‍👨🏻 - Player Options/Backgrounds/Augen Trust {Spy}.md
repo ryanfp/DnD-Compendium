@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-background
-tags: [background, compendium/src/5e/egw]
+tags: [anothertest, background, compendium/src/5e/egw, testing, testingagain, thisisalsoatestforpublsi, thising, testingagain]
 aliases:
   - Augen Trust (Spy)
   - Augen Trust (Spy)

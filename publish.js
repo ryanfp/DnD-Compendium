@@ -4,6 +4,8 @@
 document.body.addClass('dnd');
 
 
+
+/* TAG ELEMENT DISPLAY */
 let id;
 
 function insertMetaDates() {
@@ -32,7 +34,7 @@ function insertMetaDates() {
   frontmatterEl.insertAdjacentHTML(
     "afterend",
     `
-<div style="display: flex; gap: 3px;">
+<div style="display: flex-wrap; padding: 3px;">
     ${tagElms}
 </div>
 `
