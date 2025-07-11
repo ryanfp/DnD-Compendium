@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/investigator
-- ttrpg-cli/compendium/src/5e/vss
+tags: [ttrpg-cli/class/investigator, ttrpg-cli/compendium/src/5e/vss]
 aliases:
-- Investigator
+  - Investigator
+created: 2025/06/14, 02:43
+updated: 2025/07/10, 19:56
 ---
+
 # Investigator
+
 *Source: Valda's Spire of Secrets p. 103*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d8 per Investigator level
 - **Hit Points at First Level:** 8 + CON
-- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON (minimum of 1)
 
 ## Starting Investigator
 
@@ -167,7 +169,7 @@ Additionally, the attack, as well as all other attacks made against the creature
 
 At 6th level, you can choose two more of your proficiencies to gain this benefit.
 
-### Occult Specialization feature (Level 6)
+### Occult Specialization Feature (Level 6)
 
 At 6th level, you gain a feature from your Occult Specialization.
 
@@ -195,7 +197,7 @@ When you reach 8th level, you can increase one ability score of your choice by 2
 
 At 9th level, you gain an extreme resilience to the attacks and effects of the creatures you regularly investigate. You can't be possessed or charmed, and you gain resistance to both psychic and necrotic damage.
 
-### Occult Specialization feature (Level 10)
+### Occult Specialization Feature (Level 10)
 
 At 10th level, you gain a feature from your Occult Specialization.
 
@@ -211,7 +213,7 @@ When you reach 12th level, you can increase one ability score of your choice by 
 
 At 13th level, you uncover a magical secret connected to a wellspring of potent magic. You can cast one of the following spells once without expending a spell slot: mirage arcane, plane shift, reverse gravity, sequester, or teleport. You must finish a long rest before you can do so again.
 
-### Occult Specialization feature (Level 14)
+### Occult Specialization Feature (Level 14)
 
 At 14th level, you gain a feature from your Occult Specialization.
 

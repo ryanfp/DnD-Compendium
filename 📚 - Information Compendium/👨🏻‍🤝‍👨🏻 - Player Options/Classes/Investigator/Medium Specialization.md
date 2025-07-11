@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/vss
-- ttrpg-cli/subclass/investigator/medium
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/investigator/medium]
 aliases:
-- Medium
+  - Medium
+  - Medium
+created: 2025/06/13, 22:28
+updated: 2025/07/10, 19:56
 ---
+
 # Medium
+
 *[Investigator](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Character%20Details/Classes/Investigator/Investigator.md): Occult Specialization*  
 *Source: Valda's Spire of Secrets p. 111*  
 
@@ -42,18 +45,17 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Medium (Level 3)
 
 As conduits between the living and dead, mediums offer an essential glimpse past the veil of mortality. Using their auguries, seances, and divinations, mediums can retrieve morsels of information from the afterlife to settle debts with the living or and assist ongoing investigations. This information, however cryptic, can point an interested party toward clues or evidence which only the deceased might be able to provide.
 
-### Fortelling (Level 3)
+### Foretelling (Level 3)
 
 Starting when you choose this specialization at 3rd level, you can receive glimpses of the future. When you finish a long rest, roll two d20s and record the number rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with this foretold roll. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.
 
-As an action, you can use a use of your Rushed Incantation ability to make an additional fortelling roll. You can have up to 3 foretold rolls at one time. Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls.
+As an action, you can use a use of your Rushed Incantation ability to make an additional foretelling roll. You can have up to 3 foretold rolls at one time. Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls.
 
 ### Trinkets (Level 3)
 

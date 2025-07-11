@@ -9168,7 +9168,5 @@ a.tag {
   border-top: 1px solid var(--text-muted);
   border-bottom: 1px solid var(--text-muted);
   border-radius: 6px;
-  margin-top: 3px;
-  margin-bottom: 3px;
-  row-gap: 3px;
+  gap: 3px;
 }

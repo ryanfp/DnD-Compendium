@@ -3,6 +3,8 @@ aliases:
   - Classes
 date created: 2025:05:14, 22:29
 date modified: 2025:07:06, 18:57
+created: 2025/05/14, 22:29
+updated: 2025/07/10, 20:07
 ---
 
 *A compiled list of all the various classes and subclasses scattered throughout my ever-growing collection of homebrew. A brief description is included. Their sources are listed with each subclass if they’re not in base 5e*
@@ -1010,25 +1012,25 @@ You worship gods who favor corruption and plague, the Domain of Pestilence, for 
 
 Where rum flows easily, the gods of merriment abound. Clerics of the Rum Domain feel the fuzzy warmth of strong drink not as sinful excess, but as praise to the gods of good times, which they worship often and with abandon. They look to spread their merry religion and the good times with it, bringing all to peace and happiness, a few nights of drunken revelry at a time. 
 
-#### **Travel Domain**<sup>(VSS)</sup> %% Fold %%
+#### **!Travel Domain**<sup>(VSS)</sup> %% Fold %%
 
 The realm of vagabonds, merchants, and adventurers, the gods of the travel domain are popular among any who frequent the roads or sail the seas. Evangelicals and the traveling priests of inhospitable regions also tend to represent the gods of travel. 
 
-#### **Wealth Domain**<sup>(VSS)</sup> %% Fold %%
+#### **!Wealth Domain**<sup>(VSS)</sup> %% Fold %%
 
 Being one of the most popular pursuits of humanoids the world over, it should not come as a surprise that the accumulation of material wealth is governed by its own deities. Sitting at the confluence of industry and fertility, gods of wealth are assiduous in demanding tribute, but pay back their most loyal followers generously, showering them with gold. 
 
-#### **Unity Domain**<sup>(UA)</sup> %% Fold %%
+#### **!Unity Domain**<sup>(UA)</sup> %% Fold %%
 
 A sense of oneness shines at the heart of healthy communities, whether bound together by friendship, blood, faith, or some other uniting force. The gods of unity deepen such bonds and delight in their strength.
 
 Clerics of these gods preside over marriages and other familial bonding customs, but they also nurture the emotional bonds of friendship and camaraderie. Their divine blessings bolster and protect allies in battle through these deep bonds and turn aside malign influences.
 
-#### **Blood Domain**<sup>(UA)</sup> %% Fold %%
+#### **!Blood Domain**<sup>(UA)</sup> %% Fold %%
 
 The gods of blood are patrons of all varieties of slaughter— including war, battle, murder, and even hunting—and accept any shedding of blood as an offering to their domain. They are the patrons of warriors, particularly those of a more chaotic disposition. While many clerics that follow a blood deity resemble deranged, blood-thirsty cultists, others are comparable to the followers of particularly violent war deities. Examples of the deities of this domain are Bhaal, the Lord of Murder, and Shezmu, the Lord of Blood.
 
-#### **Night Domain**<sup>(UA)</sup> %% Fold %%
+#### **!Night Domain**<sup>(UA)</sup> %% Fold %%
 
 Gods of the night—such as Selûne, Shar, Tharizdon, Takhisis, and Hecate—serve as both creators of light and harbingers of darkness, with moon goods focusing on the former and darkness gods on the latter. These gods serve as patrons of all alignments; their clerics serve as both righteous defenders of the weak, as well as deceptive thieves and assassins. Either way, these clerics excel in both melee combat and spellcasting, always using the cover of darkness to their advantage in both their battles and their attempts at subterfuge.
 
@@ -1036,7 +1038,7 @@ Gods of the night—such as Selûne, Shar, Tharizdon, Takhisis, and Hecate—ser
 
 The Black Powder domain focuses on the explosive, unpredictable, and destructive capacity of black powder. Deities with a vested interest in alchemy or deities who revel in destruction can claim influence over this domain. Deities of destruction need not be evil; such gods may represent natural chaos and destruction, reveling just as much in the unpredictable destructive capacity of black powder as in the chaotic destruction wrought by a volcanic eruption. In areas where warfare involves alchemical weapons or firearms, gods of war might also claim influence over this domain.
 
-#### **Hunt Domain**<sup>(TOH)</sup> %% Fold %%
+#### **!Hunt Domain**<sup>(TOH)</sup> %% Fold %%
 
 Many terrible creatures prey on the villages, towns, and inns that dot the forests of Midgard. When such creatures become particularly aggressive or can’t be dissuaded by local druids, the settlements often call on servants of gods of the hunt to solve the problem.
 
@@ -1050,7 +1052,7 @@ Mercy can mean promoting healing instead of harm, but it can also mean ending su
 
 You have dedicated yourself to the study and protection of the doors, gateways, and rips in the boundaries between the physical world and the infinite planar multiverse. Stepping through portals is a sacred prayer and woe betide any who seek to misuse them.
 
-#### **Serpent Domain**<sup>(TOH)</sup> %% Fold %%
+#### ~~**Serpent Domain**<sup>(TOH)</sup> %% Fold %%~~
 
 You embody the deadly, secretive, and mesmerizing nature of serpents. Others tremble at your majesty. You practice the stealth and envenomed attacks that give serpents their dreaded reputation, but you also learn the shedding of skin that has made snakes into symbols of medicine.
 
@@ -1062,7 +1064,7 @@ The shadow domain embraces the darkness that surrounds all things and manipulate
 
 You exemplify the cunning, stealth, and invasiveness of vermin (rodents, scorpions, spiders, ants, and other insects). As your dedication to this domain grows in strength, you realize a simple truth: vermin are everywhere, and you are legion.
 
-#### **Wind Domain**<sup>(TOH)</sup> %% Fold %%
+#### **!Wind Domain**<sup>(TOH)</sup> %% Fold %%
 
 You have dedicated yourself to the service of the primordial winds. In their service, you are the gentle zephyr brushing away adversity or the vengeful storm scouring the stones from the mountainside.
 
@@ -1070,13 +1072,13 @@ You have dedicated yourself to the service of the primordial winds. In their ser
 
 Gods of the cold and north, such as Auril, Iborighu, Thrym, and Ulutiu, are, like their element, often severe and demanding. These gods are not usually worshipped for their benevolence, but instead prey upon those who merely wish to survive the unforgiving tundra. Clerics to these gods may not be the warmest people, but they are often seen as saviors to northern settlements that rely on their blessings. These boons are not free though, and clerics of these gods may be sent to gather offerings in return for helping people survive.
 
-#### **Inquisition Domain**<sup>(TCEE)</sup> %% Fold %%
+#### ~~**Inquisition Domain**<sup>(TCEE)</sup> %% Fold %%~~
 
-Most clerics are pillars of their community, overseeing worship, healing, and religious rites in their god’s name. However, all faiths have rules, acts which are seen as taboo and creatures declared anathema. When violations appear, the inquisitors follow, finding the violators and enforcing the law with divine wrath and the point of a sword.
+~~Most clerics are pillars of their community, overseeing worship, healing, and religious rites in their god’s name. However, all faiths have rules, acts which are seen as taboo and creatures declared anathema. When violations appear, the inquisitors follow, finding the violators and enforcing the law with divine wrath and the point of a sword.~~
 
-Inquisitors bring safety to some, but are often fearsome figures in their work. At their best, they protect their communities from corrupting influences of cults, undead, and creatures from the outer planes. At their worst, they are tyrants, leading reigns of terror to quash dissent and oppress those who do not share their faiths.
+~~Inquisitors bring safety to some, but are often fearsome figures in their work. At their best, they protect their communities from corrupting influences of cults, undead, and creatures from the outer planes. At their worst, they are tyrants, leading reigns of terror to quash dissent and oppress those who do not share their faiths.~~
 
-Inquisitors exist throughout the multiverse, serving causes both good and evil. On many planes, the church of Lolth makes extensive use of them to root out dissent among the drow, and inquisitors of Bahamut are tasked with finding and quashing cults in service of Tiamat. In Faerun, Helm’s eternal quest to protect his servants draws many inquisitors, and the efforts of Bane’s followers to establish dominion over regions they control encourages many onto the path of the inquisitor. In Eberron, Thrane’s Church of the Silver Flame and the secret police of Zilargo include many inquisitors among their ranks. Inquisitors abound among the clerics of Ravenloft, given the predominance of malign entities to be fought, corrupt cults to be stopped, and overbearing tyrants to be served.
+~~Inquisitors exist throughout the multiverse, serving causes both good and evil. On many planes, the church of Lolth makes extensive use of them to root out dissent among the drow, and inquisitors of Bahamut are tasked with finding and quashing cults in service of Tiamat. In Faerun, Helm’s eternal quest to protect his servants draws many inquisitors, and the efforts of Bane’s followers to establish dominion over regions they control encourages many onto the path of the inquisitor. In Eberron, Thrane’s Church of the Silver Flame and the secret police of Zilargo include many inquisitors among their ranks. Inquisitors abound among the clerics of Ravenloft, given the predominance of malign entities to be fought, corrupt cults to be stopped, and overbearing tyrants to be served.~~
 
 #### **Seership Domain**<sup>(TCEE)</sup> %% Fold %%
 
@@ -1084,19 +1086,19 @@ Seers are those touched by gods or other powerful entities in order to help guid
 
 Seers help influence events and people in order to gain a favored outcome. While altering Fate is incredibly beneficial, it sometimes comes at a price. The eyes of a Seer can view the threads of magic that weave between creatures and places. They are often wise beyond their intelligence as their patron nudges them forward like the guiding hands of fortune.
 
-#### **Trade Domain**<sup>(TCEE)</sup> %% Fold %%
+#### **!Trade Domain**<sup>(TCEE)</sup> %% Fold %%
 
 The Trade Domain focuses on the acquisition of wealth, the safeguarding of items and the negotiation of deals and bargains. In many civilizations, the power and influence of coin is said to rival that of the gods themselves. The gods of trade often promote the betterment of the self through financial success, as well as its benefits to society as a whole — though some are more focused on its more selfish applications. Clerics of this domain often travel as merchants, offering their divine services in each town they visit. Others take a more mercenary path, willing to venture into dangerous places for the right price.
 
-#### **Community Domain**<sup>(HWD)</sup> %% Fold %%
+#### **!Community Domain**<sup>(HWD)</sup> %% Fold %%
 
 The community domain focuses on the ties that bind all people together. These are the ties of family and friendship, the ties to ancestors, as well as the ties between elders and the next generation with whom they share their wisdom. The power of the Gods of community is in the security of home and hearth, and the joy of good company. Many such gods teach the value of tradition and simple ways of living in harmony with the natural world. They also tend towards the rule of law, not as a kind of great bureaucracy, but as sacred traditions passed from generation to generation. Some gods advocate the removal of harsh or disruptive forces to this order, and proper sanctions for the violation of the goodwill that any community ought to provide. Clerics of such gods value unity, and praise the strength that can be gained when people support each other.
 
-#### **Night Domain**<sup>(HWD)</sup> %% Fold %%
+#### **!Night Domain**<sup>(HWD)</sup> %% Fold %%
 
 The night is mysterious, and conceals many unseen dangers. However, the cover of darkness also brings protection from predators and shadows within which one can conceal themselves. The gods of night are varied, encompassing those who would use the cover of darkness to protect others from threats, to those who would use the shadows for wrong doings. The motives of night gods are often shrouded in mystery. Many teach their followers that it is only by peering through the darkness and looking beyond what is hidden that one can attain truth. Clerics of night do their best to keep themselves and their companions safe while journeying through the darkness.
 
-#### **Commerce Domain**<sup>(FEQ)</sup> %% Fold %%
+#### **!Commerce Domain**<sup>(FEQ)</sup> %% Fold %%
 
 Prayer may be the currency of the gods, but hard cash makes the world go round. Clerics of the Commerce Domain believe that society and economy are two sides of the same coin, and defending one’s community means little if you don’t have the resources and trade to back it up. As the Sovereign of World and Wealth, Kol Korran is the most common patron to Clerics of this domain, but those with a more selfish outlook might look to the Keeper to support their greed.
 
@@ -2140,7 +2142,7 @@ The church has long been the first line of defense against the tide of impending
 
 As a righteous inquisitor of the faith, you are tasked with rooting out heresy, exorcising demons, and stamping out any sign of the occult, and are offered clemency for any action you take in the defense of the greater good. You may investigate anyone or anything you deem to be in line with the forces of evil, for you alone are a holy blade in the dark, the arbiter of your church.
 
-#### **[[Medium Specialization]]** %% Fold %%
+#### **[[Medium Specialization|Medium]]** %% Fold %%
 
 As conduits between the living and dead, mediums offer an essential glimpse past the veil of mortality. Using their auguries, seances, and divinations, mediums can retrieve morsels of information from the afterlife to settle debts with the living or and assist ongoing investigations. This information, however cryptic, can point an interested party toward clues or evidence which only the deceased might be able to provide.
 
