@@ -3,9 +3,47 @@
 
 document.body.addClass('dnd');
 
+// Frontmatter Initialize Block
+let id;
+
+/* Use Frontmatter Function to Display DatesTimes */
+function insertMetaDates(...args: []) {
+    const frontmatter = app.site.cache.cache[app.currentFilepath].frontmatter;
+    if (!frontmatter) {
+        clearInterval(id);
+        return;
+    }
+
+    const created = frontmatter["created"]?.replaceAll("-", "/");
+    const updated = frontmatter["updated"]?.replaceAll("-", "/");
+    if (!created && !updated) {
+        clearInterval(id);
+        return;
+    }
+
+    const frontmatterEl = document.querySelector(".frontmatter");
+    if (!frontmatterEl) {
+        return;
+    }
+
+    frontmatterEl.insertAdjacentHTML(
+        "afterend",
+        `
+<div class="properties">
+    <div class="created">created:${created}</div>
+    <div class="updated">updated:${updated}</div>
+</div>
+`
+    );
+
+    clearInterval(id);
+}
 
 
-/* TAG ELEMENT DISPLAY */
+
+
+
+/* TAG ELEMENT DISPLAY
 let id;
 
 function insertMetaDates() {
@@ -31,12 +69,12 @@ function insertMetaDates() {
     `
     )
     .join("");
-  frontmatterEl.insertAdjacentHTML(
-    "afterend",
-    `
-<div style="display: flex-wrap; gap: 3px;">
-    ${tagElms}
-</div>
+    frontmatterEl.insertAdjacentHTML(
+        "afterend",
+        `
+    <div style="display: flex-wrap; margin: 3px; gap: 3px;">
+      ${tagElms}
+    </div> 
 `
   );
 
@@ -61,3 +99,9 @@ const targetNode = document.querySelector(
 const observer = new MutationObserver(onChangeDOM);
 observer.observe(targetNode, { childList: true, subtree: true });
 id = setInterval(insertMetaDates, 50);
+
+
+ <div style="display: flex-wrap; gap: 3px;">
+  ${tagElms}
+</div> */
+
