@@ -1146,7 +1146,7 @@ Followers of gods that believe in taking on the suffering of those around them. 
 
 Clerics of the Void Domain draw their power from the emptiness between stars, the dark corners of the universe where light dares not venture. These clerics are masters of the unseen and the unfathomable, wielding the very essence of nothingness to warp reality. They can vanish into nothingness, reappearing elsewhere in an instant, and conjure voids that consume light and hope. As emissaries of the void, they channel the terrifying, awe-inspiring power of the infinite darkness, turning the very absence of existence into a formidable weapon. Their presence is a chilling reminder that not all power comes from the light; some lies hidden in the darkness, waiting to be harnessed.
 
-#### **Dream Domain**<sup>(KT)</sup> %% Fold %%
+#### **!Dream Domain**<sup>(KT)</sup> %% Fold %%
 
 Clerics of the Dream Domain draw upon the power of the ethereal realm of dreams, using their connection to this mystical place to heal allies, control enemies, and shape the dreams of those around them.
 
@@ -1176,39 +1176,39 @@ Worshipping deities like Dionysus, Bacchus, Sucellus, and Inari, clerics of the 
 
 Indeed, tales abound of clerics of Festivity infiltrating fortified citadels under siege, instigating exuberant carousing, and leaving their fellow merrymakers collapsed and exhausted after expending every last iota of energy. It is then a simple task for a waiting army to enter the city and lock their fatigued foes in chains. As the ancient proverb goes, “there is no celebration comparable to a cleric’s celebration, for a cleric’s celebration does not cease”.
 
-#### **Astral Domain**<sup>(TGS)</sup> %% Fold %%
+#### **!Astral Domain**<sup>(TGS)</sup> %% Fold %%
 
 Gods of the Astral Plane are as lost to time and space as the realm they reign over. The Astral Plane fills the gaps between the planes of existence and is an important, balancing force in the cosmic ecosystem of the multiverse. Practitioners of this domain see the absence of anything as something, and consider the Astral Plane as the ultimate destination of all things. These acolytes follow the ultimate path to their destination, and help shepherd others along their way in a grand mission of entropy. Clerics of the astral domain are chaotic by nature, but typically choose to destroy evil where they find it and hasten its inevitable journey to the Astral Plane.
 
-#### **Festus Domain**<sup>(TGS)</sup> %% Fold %%
+#### ~~**Festus Domain**<sup>(TGS)</sup>~~ %% Fold %%
 
 Gods of eating and drinking, such as Daghdha or Dionysus, promote the value of a good meal as much as they do the joy of sharing it with friends. As a follower of this domain, you believe that a good feast can be enough to settle most wars. You may know this first-hand: perhaps your life has been marred by poverty and survival with spoiled scraps, or maybe you’ve been blessed with lovingly-cooked meals and the joy of a full stomach. Regardless of your origins, you recognize the magic of a good meal and the power it has on a person’s spirit and well-being.
 
 Through your passion and devotion, you see mealtime as a joyous way to worship the magic of food and your chosen deity. You are a capable chef with an appreciation of all food, both good and bad. You know that a foul meal can turn even the most veteran of stomachs against themselves, and have learned to harness this power for yourself. Like food, most people will like you at your best, but everyone will fear you at your worst.
 
-#### **Blood Domain**<sup>TDR</sup> %% Fold %%
+#### **!Blood Domain**<sup>TDR</sup> %% Fold %%
 
 Developed by the Claret Orders, the Blood Domain centers around the understanding of the natural life force as it exists within the body, and the divine conduit it can become. Those who take up this domain understand that the power of blood is the power of sacrifice, the balance of life and death, and the spirit’s anchor within the mortal shell.
 
 Gods who grant the power of the Blood Domain, including the Ruiner and the Matron of Ravens, direct their followers to tap into the connection between body and soul, exploit the hidden reserves of will within one’s own vitality, and corrupt the bodies of others through the secret rites of hemocraft. Clerics of good gods use hemocraft to fill their self-sacrifice with purpose and power, while clerics with fewer morals use the blood of others to achieve their own malevolent ends.
 
-#### **Moon Domain**<sup>TDR</sup> %% Fold %%
+#### **!Moon Domain**<sup>TDR</sup> %% Fold %%
 
 Since the Founding, all mortal creatures have looked to the skies and sensed the power and mystery carried by Catha and Ruidus, the two moons of Exandria. The Moonweaver herself is said to guide her worshipers from within the pale glow of Catha, revealing hidden paths and granting inspired dreams to those who pray to that moon. Distant, dark Ruidus is often regarded with awe and apprehension, considered a portent for fell deeds and bad luck.
 
-#### **Commerce Domain**<sup>UAH</sup> %% Fold %%
+#### **!Commerce Domain**<sup>UAH</sup> %% Fold %%
 
 The Commerce domain values trade, proper management of resources, and entrepreneurship above al else, believing a healthy economy is the best path to create a more perfect world. Gods of commerce and trade — including Gong, Kol Korran, and Waukeen — promote enterprise and the development of marketable crafts and skills.
 
 Some clerics of this domain, however, eschew the worship of gods to instead focus their faith on the almighty coin, believing that wealth is the best resource for enacting lasting change and living long, happy, and healthy lives. 
 
-#### **Darkness Domain**<sup>UAH</sup> %% Fold %%
+#### **!Darkness Domain**<sup>UAH</sup> %% Fold %%
 
 Gods of darkness and shadow, such as Set, Shar and the Raven Queen, are not often depicted din the best light, being associated with terror, desolation and the unending night. Dwelling in their gloomy, often lightless realms, these deities don’t tend to attract many followers. So when a cleric chooses to devote their life to the service of one of these gods, they are imbued with great power over the shadows, becoming able to cause fear in the hearts of mortals. These gods teach their followers to think like the forces of evil in order to slay and conquer them, countering dark powers with their own black gifts.
 
 While some clerics of the Darkness Domain are evil fearmongers, most instead make it their mission to rehabilitate the image of their deity through acts of heroism using their shadowy powers, becoming dark champions that bring comfort to innocents in the darkest of nights. 
 
-#### **Infernal Domain**<sup>UAH</sup> %% Fold %%
+#### **!Infernal Domain**<sup>UAH</sup> %% Fold %%
 
 The Infernal Domain, as the name suggests, stems from the very depths of the Nine Hells. Cultists have always flocked to Asmodeus and archdevils, siphoning away their power with fervent faith or the promises of countless souls. The constant for any cleric of the Infernal Domain is that everything has a cost, m and they are equipped to tempt you towards paying any cost no matter how dear. 
 
@@ -1228,7 +1228,7 @@ One of the central tenets of existence is the inexorable passage of time — the
 
 Gods of the Time domain may not experience time as mortals do, but they understand what its passage represents and the necessity of its continued flow. Clerics of these deities can manipulate the flow of time in minor ways, and have the responsibility to use these abilities to further the intention of their god, which often include ensuring time flows unhindered and that irresponsible beings do not seek to enforce their will on its passage. 
 
-#### **Shadow Domain**<sup>(GTD)</sup> %% Fold %%
+#### **!Shadow Domain**<sup>(GTD)</sup> %% Fold %%
 
 Clerics of the Sacred Flame know that life is at all times a balance between the light and the dark. Most clerics uphold the flame, whose divine purpose is to hold back the darkness, and offer guidance to those who pass on. Clerics of the Shadow Domain are in tune with the dark side of the divine. They stand to balance all things, practicing the powers of shadow against their enemies. They know that not all deserve the light, and so sending foul horrors to the shadows is their form of righteous justice.
 
