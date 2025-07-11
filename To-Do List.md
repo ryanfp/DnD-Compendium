@@ -5,6 +5,8 @@ aliases:
   - To-Do List
 date created: 2025:06:18, 22:43
 date modified: 2025:07:06, 20:24
+created: 2025/06/18, 22:43
+updated: 2025/07/10, 20:37
 ---
 
 - [ ] ⚔Consolidate Character Archetypes | 📅04-26-2025 in-progress

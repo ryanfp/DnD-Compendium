@@ -9170,3 +9170,12 @@ a.tag {
   border-radius: 6px;
   gap: 3px;
 }
+
+.tag {
+   border-left: 1px solid var(--text-muted);
+   border-right: 1px solid var(--text-muted);
+   border-top: 1px solid var(--text-muted);    
+   border-bottom: 1px solid var(--text-muted);
+   border-radius: 6px;
+   gap: 3px;
+}

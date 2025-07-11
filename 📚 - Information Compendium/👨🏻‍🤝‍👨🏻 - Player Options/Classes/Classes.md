@@ -4,7 +4,7 @@ aliases:
 date created: 2025:05:14, 22:29
 date modified: 2025:07:06, 18:57
 created: 2025/05/14, 22:29
-updated: 2025/07/10, 20:07
+updated: 2025/07/10, 20:32
 ---
 
 *A compiled list of all the various classes and subclasses scattered throughout my ever-growing collection of homebrew. A brief description is included. Their sources are listed with each subclass if they’re not in base 5e*
@@ -1048,7 +1048,7 @@ Deities devoted to hunting value champions who aid skillful hunters or who lead 
 
 Mercy can mean promoting healing instead of harm, but it can also mean ending suffering with a quick death. These often-contradictory ideals are the two sides of mercy. The tenets of deities who embody mercy promote ways to end bloody conflicts or deliver healing magics to those in need. While mercy for some may be benevolent, for others it is decidedly not so. More pragmatic mercy gods teach the best method to relieve the agony and torment brought on by monsters and the forces of evil is to bring about the end of that evil.
 
-#### **Portal Domain**<sup>(TOH)</sup> %% Fold %%
+#### **!Portal Domain**<sup>(TOH)</sup> %% Fold %%
 
 You have dedicated yourself to the study and protection of the doors, gateways, and rips in the boundaries between the physical world and the infinite planar multiverse. Stepping through portals is a sacred prayer and woe betide any who seek to misuse them.
 
@@ -1080,7 +1080,7 @@ Gods of the cold and north, such as Auril, Iborighu, Thrym, and Ulutiu, are, lik
 
 ~~Inquisitors exist throughout the multiverse, serving causes both good and evil. On many planes, the church of Lolth makes extensive use of them to root out dissent among the drow, and inquisitors of Bahamut are tasked with finding and quashing cults in service of Tiamat. In Faerun, Helm’s eternal quest to protect his servants draws many inquisitors, and the efforts of Bane’s followers to establish dominion over regions they control encourages many onto the path of the inquisitor. In Eberron, Thrane’s Church of the Silver Flame and the secret police of Zilargo include many inquisitors among their ranks. Inquisitors abound among the clerics of Ravenloft, given the predominance of malign entities to be fought, corrupt cults to be stopped, and overbearing tyrants to be served.~~
 
-#### **Seership Domain**<sup>(TCEE)</sup> %% Fold %%
+#### **!Seership Domain**<sup>(TCEE)</sup> %% Fold %%
 
 Seers are those touched by gods or other powerful entities in order to help guide others. Rather than being the one to smite those who their patron considers “evil” or “unjust”,
 
@@ -1108,25 +1108,25 @@ The mirror domain is devoted to the ideals of truth and self-reflection. Those w
 
 The mirrors are viewed as both fierce weapons and holy relics by followers of this domain. It is not uncommon for them to include the mirror in hallowed rites and ceremonies, especially those that involve scrying. They may also polish their mirrors regularly and adorn them with symbols, etchings, engravings, or other decorations. Upon death, adherents of the mirror domain often leave their mirrors to aspirants who take the mirror through the ritual anew.
 
-#### **Mind Domain**<sup>(EE)</sup> %% Fold %%
+#### ~~**Mind Domain**<sup>(EE)</sup>~~ %% Fold %%
 
 This path blends divine devotion and psychic power. The forces tied to the Mind domain teach followers that the mind is the greatest tool and the mightiest weapon in creation. A cleric of the Mind domain learns to harness their own mental power, then uses this gift to protect the faithful and smite enemies.
 
 In Eberron, the Mind domain is most associated with the kalashtar Path of Light and the Riedran Path of Inspiration. However, followers of the cults of the Dragon Below might also follow this path. While visions of Xoriat can certainly drive a priest into madness, they might also reveal deeper secrets and mental powers.
 
-#### **Cosmic Domain**<sup>(ECHH)</sup> %% Fold %%
+#### **!Cosmic Domain**<sup>(ECHH)</sup> %% Fold %%
 
 There are things better left unsaid and unseen, things that would break a man’s mind into pieces, that would turn even the most stalwart warrior into a whimpering, pitiful sight. You have glimpsed these truths, a gift, now held safely in your mind’s eye. Even the mightiest elven intellect couldn’t fathom the whole of that which you know to be out there, but you will grant them the opportunity to try.
 
-#### **Vigilance Domain**<sup>(ECHH)</sup> %% Fold %%
+#### ~~**Vigilance Domain**<sup>(ECHH)</sup>~~ %% Fold %%
 
 Your god holds back the tides of war, diverts the blades in the night, and diffuses the plots of many. To the best of your abilities and in service to their ideals, you aid them, selflessly and tirelessly, holding vigil wherever and whenever needed. At some time an attack will come and the fate of the many will hang on the discipline of the few, or the one. It will be you that makes the difference in that hour, and you will be ready, as always.
 
-#### **Missionary Domain**<sup>(CCS)</sup> %% Fold %%
+#### **!Missionary Domain**<sup>(CCS)</sup> %% Fold %%
 
 Clerics of the Missionary Domain operate within a variety of different orders under a diverse set of deities, but they all have been granted the same purpose—spread the word of their god. For some this mission is a virtuous act, and for others, it is simply one side of their deal for divine power.
 
-#### **Mystery Cult Domain**<sup>(KT)</sup> %% Fold %%
+#### ~~**!Mystery Cult Domain**<sup>(KT)</sup>~~ %% Fold %%
 
 While most clerics follow defined gods who seek to convert others to the cause, those of the Mystery Cults often intentionally obscure their faith with esoteric references and cloaked intentions. No less devoted than their more classically divine peers, they are not merely warlocks, but people of true faith in their dark and unknown deities.
 
@@ -1138,11 +1138,11 @@ A Judgment Domain cleric is a cleric who oversees the distribution of law and or
 
 Employing a Justice Domain cleric is something that any ruling power must consider carefully. While they are almost always Lawful to the extreme, they answer only to their own, higher, ideals of justice.
 
-#### **Martyr Domain**<sup>(KT)</sup> %% Fold %%
+#### ~~**Martyr Domain**<sup>(KT)</sup>~~ %% Fold %%
 
 Followers of gods that believe in taking on the suffering of those around them. Stalwart and unflinching, these intrepid souls seek to ease the suffering of those around them. While typically altruistic, sometimes their motivations are further afield, belonging to strange cults of suffering or acceptance.
 
-#### **Void Domain**<sup>(KT)</sup> %% Fold %%
+#### **!Void Domain**<sup>(KT)</sup> %% Fold %%
 
 Clerics of the Void Domain draw their power from the emptiness between stars, the dark corners of the universe where light dares not venture. These clerics are masters of the unseen and the unfathomable, wielding the very essence of nothingness to warp reality. They can vanish into nothingness, reappearing elsewhere in an instant, and conjure voids that consume light and hope. As emissaries of the void, they channel the terrifying, awe-inspiring power of the infinite darkness, turning the very absence of existence into a formidable weapon. Their presence is a chilling reminder that not all power comes from the light; some lies hidden in the darkness, waiting to be harnessed.
 
@@ -1156,17 +1156,17 @@ They follow gods of dreams, creativity, art, music, and the moon.
 
 Heretics preach of a void at the center of the universe that dying gods created to devour the Weave. The necrotic energy it emits is called “Entropy”: a potent force that clerics can harness to shield themselves from magic and annihilate arcane casters. The chained god Tharizdun claims this domain, while in Chessenta, a giant sphere of annihilation is worshipped as an aspect of Entropy itself. Cultists who wield the power go by many names: thaumatoclasts, entropomancers, or entropists.
 
-#### **Survival Domain**<sup>(XLNEE)</sup> %% Fold %%
+#### ~~**Survival Domain**<sup>(XLNEE)</sup>~~ %% Fold %%
 
 Clerics and shamans of primitive tribes living in harsh environments have no greater mission than ensuring the survival of their tribes. The gods of survival often have other domains in similar realms, such as life or nature. The worshippers who work within the Survival domain, however, are much more primal and brutal than their counterparts.
 
-#### **Evolution Domain**<sup>(BoE)</sup> %% Fold %%
+#### ~~**Evolution Domain**<sup>(BoE)</sup>~~ %% Fold %%
 
 There are few gods of the Evolution Domain; indeed, many gods oppose it outright. But the march of nature and the pressure of survival never ebbs, and so evolution continues with or without the gods’ blessing.
-
+Dd
 Whether or not the first beasts were divinely constructed, those that live in the world today adapt to their environment over generations; those that fail to do so go extinct. In this way, evolution is an arbiter of living things, and an unspoken ethic of the multiverse: adapt or die. Clerics that understand the profundity of this system revere the Evolution Domain and carry its teachings far and wide.
 
-#### **Hunt Domain**<sup>(HGMH)</sup> %% Fold %%
+#### ~~**Hunt Domain**<sup>(HGMH)</sup>~~ %% Fold %%
 
 From Artemis to Diana, Skadi and Woden - all gods of the hunt relish the chase. They promote the ideals of a journey: finding a quarry, learning its’ habits, and finishing it with a swift, precise blow. Clerics of these gods might bless nobles before a hunt, work as mercenaries tracking dangerous monsters through the wilderness, or be employed as scouts within armies. They are adept at finding their prey and, once located, use their magic to ensure they are never outrun. Such priests teach that all useful materials must be harvested and consumed to properly honor a quarry, and to ensure the gods’ blessing during the next foray into the wilds.
 
