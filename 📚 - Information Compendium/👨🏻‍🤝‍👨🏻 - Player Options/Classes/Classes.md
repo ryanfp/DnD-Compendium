@@ -4,7 +4,7 @@ aliases:
 date created: 2025:05:14, 22:29
 date modified: 2025:07:06, 18:57
 created: 2025/05/14, 22:29
-updated: 2025/07/10, 20:32
+updated: 2025/07/10, 23:12
 ---
 
 *A compiled list of all the various classes and subclasses scattered throughout my ever-growing collection of homebrew. A brief description is included. Their sources are listed with each subclass if they’re not in base 5e*
@@ -1163,7 +1163,9 @@ Clerics and shamans of primitive tribes living in harsh environments have no gre
 #### ~~**Evolution Domain**<sup>(BoE)</sup>~~ %% Fold %%
 
 There are few gods of the Evolution Domain; indeed, many gods oppose it outright. But the march of nature and the pressure of survival never ebbs, and so evolution continues with or without the gods’ blessing.
+
 Dd
+
 Whether or not the first beasts were divinely constructed, those that live in the world today adapt to their environment over generations; those that fail to do so go extinct. In this way, evolution is an arbiter of living things, and an unspoken ethic of the multiverse: adapt or die. Clerics that understand the profundity of this system revere the Evolution Domain and carry its teachings far and wide.
 
 #### ~~**Hunt Domain**<sup>(HGMH)</sup>~~ %% Fold %%
