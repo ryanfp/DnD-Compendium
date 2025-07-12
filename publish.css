@@ -9167,6 +9167,11 @@ body:not(.wotc-beyond) .wotc-beyond:is(.markdown-source-view,
 
 /* TAG BUBBLE STYLER */
 
+.properties-container {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
 
 .properties {
   display: flex;
