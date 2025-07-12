@@ -36,7 +36,7 @@
     },
     "move-tags-to-yaml": {
       "enabled": true,
-      "how-to-handle-existing-tags": "Remove hashtag",
+      "how-to-handle-existing-tags": "Nothing",
       "tags-to-ignore": ""
     },
     "remove-yaml-keys": {
@@ -64,8 +64,8 @@
       "date-created-source-of-truth": "file system",
       "date-modified": true,
       "date-modified-key": "updated",
-      "date-modified-source-of-truth": "file system",
-      "format": "YYYY/MM/DD, HH:mm",
+      "date-modified-source-of-truth": "user or Linter edits",
+      "format": "YYYY/MM/DD at HH:mm",
       "convert-to-utc": false,
       "update-on-file-contents-updated": "never"
     },
@@ -190,7 +190,7 @@
       "enabled": true
     },
     "empty-line-around-code-fences": {
-      "enabled": false
+      "enabled": true
     },
     "empty-line-around-horizontal-rules": {
       "enabled": true
