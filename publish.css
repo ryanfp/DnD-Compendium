@@ -9159,11 +9159,11 @@ body:not(.wotc-beyond) .wotc-beyond:is(.markdown-source-view,
 }
 
 
-/* Show Frontmatter */
+/* Show Frontmatter 
 .frontmatter.language-yaml {
   display: block !important;
 }
-
+*/
 
 /* TAG BUBBLE STYLER */
 
@@ -9171,7 +9171,7 @@ body:not(.wotc-beyond) .wotc-beyond:is(.markdown-source-view,
 .properties {
   display: flex;
   justify-content: end;
-  gap: 8px;
+  gap: 5px;
 }
 
 .properties > .created {
