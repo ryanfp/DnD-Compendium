@@ -32,7 +32,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "permalink: <%* \nconst permalink = tp.file.filename; \nconst sanitizedFilename = filename\n\t.toLowerCase() \n\t.replace(/[^a-z0-9]+/g, '-') \n\t.replace(/^-+|-+$/g, '');  \n%>"
+      "text-to-insert": "permalink: <% tp.user.trim_title( tp.file.title ) %>"
     },
     "move-tags-to-yaml": {
       "enabled": true,

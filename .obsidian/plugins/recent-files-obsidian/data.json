@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "current filename TEST ALL SETTINGS WHOOOOOOOOO HA HA HA",
+      "path": "current filename TEST ALL SETTINGS WHOOOOOOOOO HA HA HA.md"
+    },
+    {
       "basename": "filename as permalink test",
       "path": "filename as permalink test.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
     },
     {
       "basename": "Organization Hierarchy",
@@ -153,10 +161,6 @@
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/cobalt-scholar-sage-egw.md"
     },
     {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
       "basename": "alarm",
       "path": "📚 - Information Compendium/Spells/alarm.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Farmer",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Farmer.md"
-    },
-    {
-      "basename": "Far Traveler",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Far Traveler.md"
     }
   ],
   "omittedPaths": [],

@@ -708,6 +708,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "filename as permalink test",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"filename as permalink test.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"filename as permalink test\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":15},\"to\":{\"line\":1,\"ch\":15}},\"scroll\":0}"
+                },
+                {
+                  "title": "Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "filename as permalink test",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"filename as permalink test.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"filename as permalink test\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":0}"
+                },
+                {
                   "title": "Organization Hierarchy",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organization Hierarchy.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Organization Hierarchy\"}",
@@ -978,7 +996,7 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 },
                 {
-                  "title": "Test",
+                  "title": "filename as permalink test",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"filename as permalink test.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Test\"}",
                   "eState": "{}"
@@ -1008,7 +1026,7 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Test",
+                  "title": "filename as permalink test",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"filename as permalink test.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Test\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
@@ -1060,13 +1078,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "filename as permalink test.md",
+                "file": "current filename TEST ALL SETTINGS WHOOOOOOOOO HA HA HA.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "filename as permalink test"
+              "title": "current filename TEST ALL SETTINGS WHOOOOOOOOO HA HA HA"
             }
           }
         ],
@@ -1524,6 +1542,15 @@
   },
   "active": "2b86e314139b98aa",
   "lastOpenFiles": [
+    "filename as permalink test.md",
+    "current filename TEST ALL SETTINGS WHOOOOOOOOO HA HA HA.md",
+    "z_Scripts/trim_title.js",
+    "z_Scripts/New Text Document.txt",
+    "z_Scripts",
+    "New folder",
+    "z_Templates/Scripts/Trim Title.md",
+    "z_Templates/Scripts",
+    "Home.md",
     "Organization Hierarchy.md",
     "z_Templates/12 - Insert File Title.md",
     "z_Templates/11 - Insert Quotes.md",
@@ -1546,20 +1573,11 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Immortality.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of the Created.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Combustion.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of the Armament.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
-    "To-Do List.md",
     "japanesepublish.js",
     "japanesepublish.css",
     "test.js",
     "test.css",
     "publish.css~RFc7c04030.TMP",
-    "glmx52te.trr~",
-    "cjt3ny4r.etj~",
-    "x1elxhxl.hvr~",
-    "bfah4lnv.gcv~",
-    "xglugkjj.hef~",
     "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg",
     "z_img/Pause-Circle-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg",
     "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",

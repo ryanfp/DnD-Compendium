@@ -6,7 +6,7 @@
   "FW2HWEnhance": true,
   "BetterCodeEdit": true,
   "BetterBackspace": true,
-  "AutoFormat": true,
+  "AutoFormat": false,
   "ExcludeFiles": "",
   "ChineseEnglishSpace": true,
   "ChineseNumberSpace": true,

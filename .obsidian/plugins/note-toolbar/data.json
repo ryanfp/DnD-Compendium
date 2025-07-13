@@ -11,16 +11,16 @@
   "icon": "circle-ellipsis",
   "onboarding": {},
   "recentFiles": [
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Azorius Functionary.md",
-    "z_Templates/7 - Edit Metadata.md",
-    "z_Templates/99 - New File Auto Template.md",
-    "z_Templates/3 - Session Notes Template.md",
     "z_Templates/Class  Template.md",
     "z_Templates/9 - Format YouTube Link.md",
     "z_Templates/11 - Insert Quotes.md",
     "z_Templates/12 - Insert File Title.md",
     "Organization Hierarchy.md",
-    "Test.md"
+    "Test.md",
+    "Home.md",
+    "z_Templates/Scripts/Untitled.md",
+    "filename as permalink test.md",
+    "Untitled.md"
   ],
   "ribbonAction": "toolbar",
   "scriptingEnabled": false,
