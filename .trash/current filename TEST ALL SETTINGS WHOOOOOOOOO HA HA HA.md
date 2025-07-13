@@ -1,5 +1,5 @@
 ---
-permalink: File Heading
+permalink: current-filename-test-all-settings
 title: current filename TEST ALL SETTINGS WHOOOOOOOOO HA HA HA
 aliases:
   - File Heading

@@ -1,5 +1,5 @@
 ---
-permalink: <% tp.user.trim_title( tp.file.title ) %>
+permalink: curse-of-animation
 obsidianUIMode: preview
 cssclasses: [json5e-class]
 tags: [ttrpg-cli/compendium/src/5e/ultimateadventurer, ttrpg-cli/subclass/accursed/animation]
@@ -9,7 +9,7 @@ aliases:
 date created: 2025:05:14, 21:46
 date modified: 2025:07:06, 20:22
 created: 2025/05/14 at 21:46
-updated: 2025/07/13 at 17:38
+updated: 2025/07/13 at 18:13
 title: Curse of Animation
 ---
 

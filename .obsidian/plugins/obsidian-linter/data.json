@@ -31,8 +31,8 @@
       "force-multi-line-array-style": ""
     },
     "insert-yaml-attributes": {
-      "enabled": true,
-      "text-to-insert": "permalink: <% tp.user.trim_title( tp.file.title ) %>"
+      "enabled": false,
+      "text-to-insert": ""
     },
     "move-tags-to-yaml": {
       "enabled": true,
@@ -284,9 +284,9 @@
   "logLevel": "ERROR",
   "lintCommands": [
     {
-      "id": "markdown:add-alias",
-      "name": "Add alias",
-      "enabled": false
+      "id": "quickadd:choice:035f3794-7392-4615-8c68-7a07eb9342b0",
+      "name": "QuickAdd: Permalink",
+      "enabled": true
     }
   ],
   "customRegexes": [],

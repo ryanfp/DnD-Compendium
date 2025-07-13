@@ -1,5 +1,5 @@
 ---
-permalink: filename as permalink test
+permalink: filename-as-permalink-test
 aliases:
   - filename as permalink test
   - Test

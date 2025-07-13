@@ -1,5 +1,5 @@
 ---
-permalink: Home
+permalink: home
 banner: "![[z_img/waterfall_palace_by_oliverbeck_de0lwei-pre.jpg]]"
 banner-radius: 15
 banner-inline-title-color: "#b1503e"
@@ -13,10 +13,8 @@ tags: [completed, in-progress, not-started, started]
 title: Home
 aliases:
   - Home
-date created: 2025:06:18, 00:41
-date modified: 2025:06:28, 20:07
 created: 2025/06/18 at 00:41
-updated: 2025/07/13 at 17:07
+updated: 2025/07/13 at 18:00
 ---
 
 > [!kanban]+ D&D Vault Progress

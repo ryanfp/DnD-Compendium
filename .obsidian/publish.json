@@ -2,5 +2,8 @@
   "siteId": "d1cef9e0202f257db115d6239b193f6b",
   "host": "publish-01.obsidian.md",
   "included": [],
-  "excluded": []
+  "excluded": [
+    "z_Templates",
+    "z_Scripts"
+  ]
 }

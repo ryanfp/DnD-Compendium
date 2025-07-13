@@ -4,7 +4,7 @@
       "id": "035f3794-7392-4615-8c68-7a07eb9342b0",
       "name": "Permalink",
       "type": "Macro",
-      "command": false,
+      "command": true,
       "macroId": "0923c37d-8cc5-47af-950e-d1e3ac11608c"
     },
     {
@@ -22,83 +22,28 @@
       "id": "0923c37d-8cc5-47af-950e-d1e3ac11608c",
       "commands": [
         {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "ba537786-22a0-431d-b944-fb9066b4c7eb",
+          "time": 100
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "cecac497-6332-4168-90de-5866110596f4",
+          "time": 100
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "d91e5c69-f2b8-4f44-9542-aece50b6aa3f",
+          "time": 100
+        },
+        {
           "name": "Templater: Insert z_Templates/20 - Add Permalink.md",
           "type": "Obsidian",
-          "id": "64d792d6-b3fc-4afe-b669-90e17fae1979",
+          "id": "9468198d-6699-43af-b2cf-4e257561df28",
           "commandId": "templater-obsidian:z_Templates/20 - Add Permalink.md"
-        },
-        {
-          "name": "Untitled Template Choice",
-          "type": "NestedChoice",
-          "id": "0e51d59b-d5be-4a9c-8c4e-de1074971bb5",
-          "choice": {
-            "id": "a1e69e18-7520-456a-b968-b3966c7ec57b",
-            "name": "Untitled Template Choice",
-            "type": "Template",
-            "command": false,
-            "templatePath": "",
-            "fileNameFormat": {
-              "enabled": false,
-              "format": ""
-            },
-            "folder": {
-              "enabled": false,
-              "folders": [],
-              "chooseWhenCreatingNote": false,
-              "createInSameFolderAsActiveFile": false,
-              "chooseFromSubfolders": false
-            },
-            "appendLink": false,
-            "openFileInNewTab": {
-              "enabled": false,
-              "direction": "vertical",
-              "focus": true
-            },
-            "openFile": false,
-            "openFileInMode": "default",
-            "fileExistsMode": "Increment the file name",
-            "setFileExistsBehavior": false
-          }
-        },
-        {
-          "name": "Untitled Capture Choice",
-          "type": "NestedChoice",
-          "id": "f55b46f8-5a3c-47bf-8871-4aba8705d0e7",
-          "choice": {
-            "id": "429867ed-25dd-4c15-9e6a-375789bc3ae4",
-            "name": "Untitled Capture Choice",
-            "type": "Capture",
-            "command": false,
-            "appendLink": false,
-            "captureTo": "",
-            "captureToActiveFile": false,
-            "createFileIfItDoesntExist": {
-              "enabled": false,
-              "createWithTemplate": false,
-              "template": ""
-            },
-            "format": {
-              "enabled": true,
-              "format": ""
-            },
-            "insertAfter": {
-              "enabled": false,
-              "after": "",
-              "insertAtEnd": false,
-              "considerSubsections": false,
-              "createIfNotFound": false,
-              "createIfNotFoundLocation": "top"
-            },
-            "prepend": false,
-            "task": false,
-            "openFileInNewTab": {
-              "enabled": false,
-              "direction": "vertical",
-              "focus": true
-            },
-            "openFile": false,
-            "openFileInMode": "default"
-          }
         }
       ],
       "runOnStartup": false
