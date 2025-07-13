@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- class/barbarian
-- compendium/src/5e/xphb
+tags: [class/barbarian, compendium/src/5e/xphb]
 aliases:
-- Barbarian
+  - Barbarian
+  - Barbarian
+created: 2025/06/15 at 22:21
+updated: 2025/07/13 at 00:17
 ---
+
 # Barbarian
+
 *Source: Player's Handbook (2024) p. 50. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +48,7 @@ aliases:
 
 - **Hit Dice**: 1d12 per Barbarian level
 - **Hit Points at First Level:** 12 + CON
-- **Hit Points at Higher Levels:** add 7 OR 1d12 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 7 OR 1d12 + CON (minimum of 1)
 
 ## Starting Barbarian
 

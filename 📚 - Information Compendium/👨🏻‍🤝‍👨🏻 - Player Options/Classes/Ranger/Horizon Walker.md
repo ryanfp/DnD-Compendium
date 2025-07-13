@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/xge
-- subclass/ranger/horizon-walker
+tags: [compendium/src/5e/xge, subclass/ranger/horizon-walker]
 aliases:
-- Horizon Walker
+  - Horizon Walker
+created: 2025/06/15 at 22:27
+updated: 2025/07/13 at 00:17
 ---
+
 # Horizon Walker
+
 *[Ranger](Ranger.md): Ranger Archetype*  
 *Source: Xanathar's Guide to Everything p. 42*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 > [!quote] A quote from Xanathar  
 > 
 > You can't walk to the horizon, because it keeps on getting farther away. Boom! Did I just blow your mind? I did, didn't I?
@@ -66,6 +67,7 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 | 9th | [haste](/📚%20-%20Information%20Compendium/spells/haste.md) |
 | 13th | [banishment](/📚%20-%20Information%20Compendium/spells/banishment.md) |
 | 17th | [teleportation circle](/📚%20-%20Information%20Compendium/spells/teleportation-circle.md) |
+
 ^horizon-walker-spells
 
 ### Detect Portal (Level 3)

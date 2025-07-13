@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/subclass/druid/moon
+tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/subclass/druid/moon]
 aliases:
-- Circle of the Moon
+  - Circle of the Moon
+  - Circle of the Moon
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Circle of the Moon
+
 *[Druid](./druid-xphb.md): Druid Subclass*  
 *Source: Player's Handbook p. 69*  
 
@@ -41,7 +44,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
@@ -78,6 +80,7 @@ Starting at 6th level, you can transform into a beast with a challenge rating as
 | 12th | 4 | — |
 | 15th | 5 | — |
 | 18th | 6 | — |
+
 ^circle-of-the-moon-beast-shapes
 
 ### Primal Strike (Level 6)

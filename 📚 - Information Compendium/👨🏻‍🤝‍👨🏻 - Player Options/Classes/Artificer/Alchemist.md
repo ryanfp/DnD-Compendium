@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/artificer/alchemist
+tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/artificer/alchemist]
 aliases:
-- Alchemist
+  - Alchemist
+created: 2025/06/15 at 15:34
+updated: 2025/07/13 at 00:17
 ---
+
 # Alchemist
+
 *[Artificer](Artificer.md): Artificer Specialist*  
 *Source: Tasha's Cauldron of Everything p. 14, Eberron: Rising from the Last War p. 58*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Alchemist (Level 3)
@@ -66,6 +67,7 @@ Starting at 3rd level, you always have certain spells prepared after you reach p
 | 9th | [gaseous form](/3-Content/Compendiums/spells/gaseous-form-xphb.md), [mass healing word](/3-Content/Compendiums/spells/mass-healing-word-xphb.md) |
 | 13th | [blight](/3-Content/Compendiums/spells/blight-xphb.md), [death ward](/3-Content/Compendiums/spells/death-ward-xphb.md) |
 | 17th | [cloudkill](/3-Content/Compendiums/spells/cloudkill-xphb.md), [raise dead](/3-Content/Compendiums/spells/raise-dead-xphb.md) |
+
 ^alchemist-spells
 
 ### Experimental Elixir (Level 3)
@@ -90,6 +92,7 @@ You can create additional *experimental elixirs* by expending a spell slot of 1s
 | 4 | **Boldness**. The drinker can roll a `d4` and add the number rolled to every attack roll and saving throw they make for the next minute. |
 | 5 | **Flight**. The drinker gains a flying speed of 10 feet for 10 minutes. |
 | 6 | **Transformation**. The drinker's body is transformed as if by the [alter self](/3-Content/Compendiums/spells/alter-self-xphb.md) spell. The drinker determines the transformation caused by the spell, the effects of which last for 10 minutes. |
+
 ^experimental-elixir
 
 ### Alchemical Savant (Level 5)

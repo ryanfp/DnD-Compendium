@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/martyr/discord
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/martyr/discord]
 aliases:
   - Burden of Discord
-title: Burden of Discord
+created: 2025/06/13 at 22:28
+updated: 2025/07/13 at 00:17
 ---
+
 # Burden of Discord
+
 *[Martyr](Martyr.md): Mortal Burden*  
 *Source: Valda's Spire of Secrets*  
 
@@ -43,7 +44,6 @@ title: Burden of Discord
 
 ^class-progression
 
-
 ## Class Features
 
 ### Burden of Discord (Level 1)
@@ -63,6 +63,7 @@ You gain burden spells at the martyr levels listed.
 | 9th | lightning bolt, stinking cloud |
 | 13th | confusion, polymorph |
 | 17th | animate objects, passwall |
+
 ^martyr-level-spells
 
 ### Cantrips (Level 1)
@@ -89,6 +90,7 @@ Once you use this ability, you can't use it again until you finish a short or lo
 | 8 | The target comically falls prone. |
 | 9 | Something explodes in the distance, dealing `8d6` fire damage to any creature within a 20-foot radius of the exploding object. |
 | 10 | Roll on this table twice and apply both results. If you get this result on one or both secondary rolls, ignore it. |
+
 ^effect
 
 ### Blooded Reprieve (Level 6)

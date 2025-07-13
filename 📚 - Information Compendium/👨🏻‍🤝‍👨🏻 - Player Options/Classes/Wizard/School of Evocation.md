@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/subclass/wizard/evocation
+tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/subclass/wizard/evocation]
 aliases:
-- School of Evocation
+  - School of Evocation
+created: 2025/06/15 at 15:38
+updated: 2025/07/13 at 00:17
 ---
+
 # School of Evocation
+
 *[Wizard](Wizard.md): Arcane Tradition*  
 *Source: Player's Handbook p. 117. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

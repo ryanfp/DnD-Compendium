@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/tdcsr
-- subclass/bard/tragedy
+tags: [compendium/src/5e/tdcsr, subclass/bard/tragedy]
 aliases:
-- College of Tragedy
+  - College of Tragedy
+created: 2025/06/15 at 22:22
+updated: 2025/07/13 at 00:17
 ---
+
 # College of Tragedy
+
 *[Bard](Bard.md): Bard College*  
 *Source: Tal'Dorei Campaign Setting Reborn p. 167*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

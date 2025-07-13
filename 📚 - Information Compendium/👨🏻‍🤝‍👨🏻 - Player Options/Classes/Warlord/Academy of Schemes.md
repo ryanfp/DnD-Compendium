@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/llaw
-  - ttrpg-cli/subclass/warlord/schemes
+tags: [ttrpg-cli/compendium/src/5e/llaw, ttrpg-cli/subclass/warlord/schemes]
 aliases:
   - Academy of Schemes
-title: Academy of Schemes
+created: 2025/06/13 at 22:34
+updated: 2025/07/13 at 00:17
 ---
+
 # Academy of Schemes
+
 *[Warlord](Warlord.md): Academy of War*  
 *Source: Warlord p. 7*  
 
@@ -43,7 +44,6 @@ title: Academy of Schemes
 
 ^class-progression
 
-
 ## Class Features
 
 ### Academy of Schemes (Level 3)
@@ -59,6 +59,7 @@ You learn certain Exploits at the Warlord levels noted in the table below. They 
 | 3rd | subtle con, insightful order |
 | 5th | exposing strike, surprise attack |
 | 9th | perilous gambit |
+
 ^warlord-level-exploit
 
 ### Dastardly Talents (Level 3)

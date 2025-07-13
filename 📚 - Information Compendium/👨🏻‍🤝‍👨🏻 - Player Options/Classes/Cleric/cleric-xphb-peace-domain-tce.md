@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/domain/peace
-- ttrpg-cli/subclass/cleric/peace
+tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/domain/peace, ttrpg-cli/subclass/cleric/peace]
 aliases:
-- Peace Domain
+  - Peace Domain
+  - Peace Domain
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Peace Domain
+
 *[Cleric](./cleric-xphb.md): Cleric Subclass*  
 *Source: Tasha's Cauldron of Everything p. 32*  
 
@@ -43,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
 
@@ -67,9 +68,11 @@ Clerics of the Peace Domain preside over the signing of treaties, and they are o
 | [Gaerdal Ironhand](/3-Content/Compendiums/deities/gnomish-gaerdal-ironhand-scag.md) | Gnomish |
 | Paladine | Dragonlance |
 | Rao | Greyhawk |
+
 ^peace-deities
 
 #### Domain Spells
+
 _Source: Tasha's Cauldron of Everything_
 
 *1st-level Peace Domain feature*
@@ -85,6 +88,7 @@ You gain domain spells at the cleric levels listed in the Peace Domain Spells ta
 | 5th | [beacon of hope](/3-Content/Compendiums/spells/beacon-of-hope-xphb.md), [sending](/3-Content/Compendiums/spells/sending-xphb.md) |
 | 7th | [aura of purity](/3-Content/Compendiums/spells/aura-of-purity-xphb.md), [Otiluke's resilient sphere](/3-Content/Compendiums/spells/otilukes-resilient-sphere-xphb.md) |
 | 9th | [greater restoration](/3-Content/Compendiums/spells/greater-restoration-xphb.md), [Rary's telepathic bond](/3-Content/Compendiums/spells/rarys-telepathic-bond-xphb.md) |
+
 ^peace-domain-spells
 
 ### Implement of Peace (Level 1)

@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/domain/trickery
-- ttrpg-cli/subclass/cleric/trickery
+tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/domain/trickery, ttrpg-cli/subclass/cleric/trickery]
 aliases:
-- Trickery Domain
+  - Trickery Domain
+  - Trickery Domain
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Trickery Domain
+
 *[Cleric](./cleric-xphb.md): Cleric Subclass*  
 *Source: Player's Handbook (2024) p. 75*  
 
@@ -43,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Trickery Domain (Level 3)
@@ -66,6 +67,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 | 5th | [Hypnotic Pattern](/3-Content/Compendiums/spells/hypnotic-pattern-xphb.md), [Nondetection](/3-Content/Compendiums/spells/nondetection-xphb.md) |
 | 7th | [Confusion](/3-Content/Compendiums/spells/confusion-xphb.md), [Dimension Door](/3-Content/Compendiums/spells/dimension-door-xphb.md) |
 | 9th | [Dominate Person](/3-Content/Compendiums/spells/dominate-person-xphb.md), [Modify Memory](/3-Content/Compendiums/spells/modify-memory-xphb.md) |
+
 ^trickery-domain-spells
 
 ### Blessing of the Trickster (Level 3)

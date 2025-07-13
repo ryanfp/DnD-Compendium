@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/gunslinger/high-roller
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/gunslinger/high-roller]
 aliases:
+  - High Roller Creed
   - High Roller
-title: High Roller Creed
+created: 2025/06/13 at 22:27
+updated: 2025/07/13 at 00:17
 ---
+
 # High Roller Creed
+
 *[Gunslinger](Gunslinger.md): Gunslinger's Creed*  
 *Source: Valda's Spire of Secrets*  
 
@@ -42,7 +44,6 @@ title: High Roller Creed
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

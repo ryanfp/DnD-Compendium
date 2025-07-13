@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/ghpg
-- ttrpg-cli/subclass/ranger/green-reaper
+tags: [ttrpg-cli/compendium/src/5e/ghpg, ttrpg-cli/subclass/ranger/green-reaper]
 aliases:
-- Green Reaper
+  - Green Reaper
+created: 2025/06/15 at 15:37
+updated: 2025/07/13 at 00:17
 ---
+
 # Green Reaper
+
 *[Ranger](Ranger.md): Ranger Archetype*  
 *Source: Grim Hollow: The Player's Guide*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Green Reaper (Level 3)
@@ -62,6 +63,7 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 | 9th | [bestow curse](/3-Content/Compendiums/spells/bestow-curse-xphb.md) |
 | 13th | [greater invisibility](/3-Content/Compendiums/spells/greater-invisibility-xphb.md) |
 | 17th | [cloudkill](/3-Content/Compendiums/spells/cloudkill-xphb.md) |
+
 ^green-reaper-spells
 
 ### Envenomed Attack (Level 3)
@@ -81,16 +83,19 @@ As a final benefit of this feature, once per turn when you hit a creature with a
 When you expend a spell slot of 1st level or higher to create a toxin, choose one of the following effects to add to the toxin.
 
 #### Attenuate
+
 _Source: Grim Hollow: The Player's Guide_
 
 While a creature is poisoned by this toxin, it has disadvantage on Strength and Dexterity saving throws.
 
 #### Befuddled
+
 _Source: Grim Hollow: The Player's Guide_
 
 While a creature is poisoned by this toxin, it cannot speak, read, or write any language and it has disadvantage on saving throws made to maintain concentration on spells.
 
 #### Uncoordinated
+
 _Source: Grim Hollow: The Player's Guide_
 
 While a creature is poisoned by this toxin, it cannot take reactions or the [Disengage](/3-Content/Rules/actions.md#Disengage) or [Dodge](/3-Content/Rules/actions.md#Dodge) action.
@@ -100,16 +105,19 @@ While a creature is poisoned by this toxin, it cannot take reactions or the [Dis
 When you expend a spell slot of 2nd level or higher to create a toxin, choose one of the following effects to add to the toxin.
 
 #### Debilitate
+
 _Source: Grim Hollow: The Player's Guide_
 
 The creature can't regain hit points for the next minute.
 
 #### Potent
+
 _Source: Grim Hollow: The Player's Guide_
 
 If the creature has resistance to poison damage, it loses that resistance for the next minute.
 
 #### Suffer
+
 _Source: Grim Hollow: The Player's Guide_
 
 For the next minute, the first time the creature takes poison damage each turn it takes an additional `d6` poison damage.
@@ -119,11 +127,13 @@ For the next minute, the first time the creature takes poison damage each turn i
 When you expend a spell slot of 3rd level or higher to create a toxin, choose one of the following effects to add to the toxin.
 
 #### Lingering
+
 _Source: Grim Hollow: The Player's Guide_
 
 Instead of ending at the end of your next turn, the creature continues to be [poisoned](/3-Content/Rules/conditions.md#Poisoned) for 10 minutes. At the end of each of the creature's turns it can make a Constitution saving throw using your ranger spell save DC. If the creature accumulates three successes, which do not have to be consecutive, the [poisoned](/3-Content/Rules/conditions.md#Poisoned) condition ends early.
 
 #### Supernatural
+
 _Source: Grim Hollow: The Player's Guide_
 
 When you deal damage with a weapon attack that has been dosed with this toxin, the creature loses immunity to the [poisoned](/3-Content/Rules/conditions.md#Poisoned) condition if it has such an immunity. In addition, instead of ending at the end of your next turn, the creature continues to be [poisoned](/3-Content/Rules/conditions.md#Poisoned) for 1 minute. At the end of each of the creature's turns it can make a Constitution saving throw using your ranger spell save DC, ending the condition on a success.
@@ -133,16 +143,19 @@ When you deal damage with a weapon attack that has been dosed with this toxin, t
 When you expend a spell slot of 4th level or higher to create a toxin, choose one of the following effects to add to the toxin.
 
 #### Flesh Eating
+
 _Source: Grim Hollow: The Player's Guide_
 
 While a creature is poisoned by this toxin, it takes `2d6` acid damage at the start of each of its turns.
 
 #### Insensate
+
 _Source: Grim Hollow: The Player's Guide_
 
 While a creature is poisoned by this toxin, it is also [blinded](/3-Content/Rules/conditions.md#Blinded) and [deafened](/3-Content/Rules/conditions.md#Deafened).
 
 #### Paraplegia
+
 _Source: Grim Hollow: The Player's Guide_
 
 While a creature is poisoned by this toxin, its movement speeds become 0 and it has disadvantage on Dexterity saving throws.
@@ -152,11 +165,13 @@ While a creature is poisoned by this toxin, its movement speeds become 0 and it 
 When you expend a spell slot of 5th level or higher to create a toxin, choose one of the following effects to add to the toxin.
 
 #### Enhanced
+
 _Source: Grim Hollow: The Player's Guide_
 
 Choose an additional option for this toxin off of the 4th level effects list and another additional option off of the 1st or 2nd level effects list.
 
 #### Insensate
+
 _Source: Grim Hollow: The Player's Guide_
 
 When you hit a creature with a weapon attack that used this toxin, the attack deals an additional `5d6` damage. This additional damage's type is your choice of acid, necrotic, or poison.

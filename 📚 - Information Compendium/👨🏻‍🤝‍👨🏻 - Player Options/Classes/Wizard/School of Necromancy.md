@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/subclass/wizard/necromancy
+tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/subclass/wizard/necromancy]
 aliases:
-- School of Necromancy
+  - School of Necromancy
+created: 2025/06/15 at 15:38
+updated: 2025/07/13 at 00:17
 ---
+
 # School of Necromancy
+
 *[Wizard](Wizard.md): Arcane Tradition*  
 *Source: Player's Handbook p. 118*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

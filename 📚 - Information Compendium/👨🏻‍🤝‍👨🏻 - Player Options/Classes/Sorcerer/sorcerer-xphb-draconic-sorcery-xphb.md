@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/sorcerer/draconic
+tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/subclass/sorcerer/draconic]
 aliases:
-- Draconic Sorcery
+  - Draconic Sorcery
+  - Draconic Sorcery
+created: 2025/06/15 at 15:37
+updated: 2025/07/13 at 00:17
 ---
+
 # Draconic Sorcery
+
 *[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass*  
 *Source: Player's Handbook (2024) p. 148. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
@@ -42,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Draconic Sorcery (Level 3)
@@ -69,6 +71,7 @@ When you reach a Sorcerer level specified in the Draconic Spells table, you ther
 | 5th | [Fear](/3-Content/Compendiums/spells/fear-xphb.md), [Fly](/3-Content/Compendiums/spells/fly-xphb.md) |
 | 7th | [Arcane Eye](/3-Content/Compendiums/spells/arcane-eye-xphb.md), [Charm Monster](/3-Content/Compendiums/spells/charm-monster-xphb.md) |
 | 9th | [Legend Lore](/3-Content/Compendiums/spells/legend-lore-xphb.md), [Summon Dragon](/3-Content/Compendiums/spells/summon-dragon-xphb.md) |
+
 ^draconic-spells
 
 ### Elemental Affinity (Level 6)

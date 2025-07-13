@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/vss
-- ttrpg-cli/subclass/martyr/truth
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/martyr/truth]
 aliases:
-- Burden of Truth
+  - Burden of Truth
+created: 2025/06/13 at 22:28
+updated: 2025/07/13 at 00:17
 ---
+
 # Burden of Truth
+
 *[Martyr](Martyr.md): Mortal Burden*  
 *Source: Valda's Spire of Secrets*  
 
@@ -42,14 +44,13 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Burden of Truth (Level 1)
 
 Tasked with unveiling the world's deceptions and delivering to the people a profound truth, martyrs tasked with the Burden of Truth face an endless battle with disillusionment and lies. Such a martyr must earn the people's hearts and minds, turning their favors away from evil influences and toward divine ones. It is an uphill battle, but one that rarely requires grievous violence except in the most dire of circumstances.
 
-Martyrs of Truth are often deemed prophets, for their gods entrust them with knowledge of  the future, insights into the past, and sagacious perspective on the present. Such information is proof of their messages' divine origin and is a necessary balm, for the truths such martyrs are called to preach are often a bitter pill for listeners to swallow.
+Martyrs of Truth are often deemed prophets, for their gods entrust them with knowledge of the future, insights into the past, and sagacious perspective on the present. Such information is proof of their messages' divine origin and is a necessary balm, for the truths such martyrs are called to preach are often a bitter pill for listeners to swallow.
 
 #### Burden Spells
 
@@ -62,6 +63,7 @@ You gain burden spells at the martyr levels listed.
 | 9th | sending, speak with dead |
 | 13th | divination, freedom of movement |
 | 17th | legend lore, scrying |
+
 ^martyr-level-spells
 
 ### Moral Erudition (Level 1)

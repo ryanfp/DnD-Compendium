@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/helianasguidetomonsterhunting
-  - ttrpg-cli/subclass/tamer/infuser
+tags: [ttrpg-cli/compendium/src/5e/helianasguidetomonsterhunting, ttrpg-cli/subclass/tamer/infuser]
 aliases:
   - Infuser
-title: Infuser
+created: 2025/06/13 at 22:33
+updated: 2025/07/13 at 00:17
 ---
+
 # Infuser
+
 *[Tamer](Tamer.md): Training Paradgim*  
 *Source: Heliana's Guide to Monster Hunting*  
 
@@ -43,7 +44,6 @@ title: Infuser
 
 ^class-progression
 
-
 ## Class Features
 
 ### Infuser (Level 3)
@@ -67,6 +67,7 @@ You learn additional spells when you reach certain levels in this class, as show
 | 9th | protection from energy, wind wall |
 | 13th | control water, fire shield |
 | 17th | wall of stone, [feverskin](/3-Content/Compendiums/spells/feverskin-helianasguidetomonsterhunting.md) |
+
 ^infuser-spells
 
 ### Elemental Discharge I (Level 7)

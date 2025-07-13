@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/ranger/fey-wanderer
+tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/subclass/ranger/fey-wanderer]
 aliases:
-- Fey Wanderer
+  - Fey Wanderer
+  - Fey Wanderer
+created: 2025/06/15 at 15:37
+updated: 2025/07/13 at 00:17
 ---
+
 # Fey Wanderer
+
 *[Ranger](./ranger-xphb.md): Ranger Subclass*  
 *Source: Player's Handbook (2024) p. 124*  
 
@@ -42,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Fey Wanderer (Level 3)
@@ -68,6 +70,7 @@ When you reach a Ranger level specified in the Fey Wanderer Spells table, you th
 | 9th | [Summon Fey](/3-Content/Compendiums/spells/summon-fey-xphb.md) |
 | 13th | [Dimension Door](/3-Content/Compendiums/spells/dimension-door-xphb.md) |
 | 17th | [Mislead](/3-Content/Compendiums/spells/mislead-xphb.md) |
+
 ^fey-wanderer-spells
 
 You also possess a fey blessing. Choose it from the Feywild Gifts table or determine it randomly.
@@ -84,6 +87,7 @@ You also possess a fey blessing. Choose it from the Feywild Gifts table or deter
 | 4 | Your shadow dances while no one is looking directly at it. |
 | 5 | Horns or antlers sprout from your head. |
 | 6 | Your skin and hair change color each dawn. |
+
 ^feywild-gifts
 
 ### Otherworldly Glamour (Level 3)

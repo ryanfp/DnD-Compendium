@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/phb
-- subclass/barbarian/totem-warrior
+tags: [compendium/src/5e/phb, subclass/barbarian/totem-warrior]
 aliases:
-- Path of the Totem Warrior
+  - Path of the Totem Warrior
+created: 2025/06/15 at 22:21
+updated: 2025/07/13 at 00:17
 ---
+
 # Path of the Totem Warrior
+
 *[Barbarian](Barbarian.md): Primal Path*  
 *Source: Player's Handbook p. 50*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/sorcerer/clockwork-soul
+tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/sorcerer/clockwork-soul]
 aliases:
-- Clockwork Soul
+  - Clockwork Soul
+created: 2025/06/15 at 15:37
+updated: 2025/07/13 at 00:17
 ---
+
 # Clockwork Soul
+
 *[Sorcerer](Sorcerer.md): Sorcerous Origin*  
 *Source: Tasha's Cauldron of Everything p. 68*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Clockwork Soul (Level 1)
@@ -66,6 +67,7 @@ Whenever you gain a sorcerer level, you can replace one spell you gained from th
 | 5th | [dispel magic](/3-Content/Compendiums/spells/dispel-magic-xphb.md), [protection from energy](/3-Content/Compendiums/spells/protection-from-energy-xphb.md) |
 | 7th | [freedom of movement](/3-Content/Compendiums/spells/freedom-of-movement-xphb.md), [summon construct](/3-Content/Compendiums/spells/summon-construct-xphb.md) |
 | 9th | [greater restoration](/3-Content/Compendiums/spells/greater-restoration-xphb.md), [wall of force](/3-Content/Compendiums/spells/wall-of-force-xphb.md) |
+
 ^clockwork-spells
 
 In addition, consult the Manifestations of Order table and choose or randomly determine a way your connection to order manifests while you are casting any of your sorcerer spells.
@@ -82,6 +84,7 @@ In addition, consult the Manifestations of Order table and choose or randomly de
 | 4 | Floating equations and geometric objects overlay your body. |
 | 5 | Your spellcasting focus temporarily takes the form of a Tiny clockwork mechanism. |
 | 6 | The ticking of gears or ringing of a clock can be heard by you and those affected by your magic. |
+
 ^manifestations-of-order
 
 ### Restore Balance (Level 1)

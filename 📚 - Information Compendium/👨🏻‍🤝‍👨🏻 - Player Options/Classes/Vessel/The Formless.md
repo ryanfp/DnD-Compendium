@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/llvessel
-  - ttrpg-cli/subclass/vessel/formless
+tags: [ttrpg-cli/compendium/src/5e/llvessel, ttrpg-cli/subclass/vessel/formless]
 aliases:
   - The Formless
-title: The Formless
+created: 2025/06/13 at 22:33
+updated: 2025/07/13 at 00:17
 ---
+
 # The Formless
+
 *[Vessel](Vessel.md): Sealed Spirit*  
 *Source: The Vessel p. 10*  
 
@@ -43,7 +44,6 @@ title: The Formless
 
 ^class-progression
 
-
 ## Class Features
 
 ### The Formless (Level 3)
@@ -71,6 +71,7 @@ Your Iridescent Strikes can also deal acid damage.
 | 9th | life transference, [slow](/3-Content/Compendiums/spells/slow-xphb.md) |
 | 13th | [grasping vine](/3-Content/Compendiums/spells/grasping-vine-xphb.md), [vitriolic sphere](/3-Content/Compendiums/spells/vitriolic-sphere-xphb.md) |
 | 17th | [contagion](/3-Content/Compendiums/spells/contagion-xphb.md), [hold monster](/3-Content/Compendiums/spells/hold-monster-xphb.md) |
+
 ^vessel-level-spells
 
 ### Formless Archon (Level 3)

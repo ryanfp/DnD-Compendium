@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- class/gunslinger
-- compendium/src/5e/valdagunslinger
+tags: [class/gunslinger, compendium/src/5e/valdagunslinger]
 aliases:
-- Gunslinger
+  - Gunslinger
+  - Gunslinger
+created: 2025/06/15 at 22:24
+updated: 2025/07/13 at 00:17
 ---
+
 # Gunslinger
+
 *Source: The Gunslinger Class: Valda's Spire of Secrets*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +48,7 @@ aliases:
 
 - **Hit Dice**: 1d8 per Gunslinger level
 - **Hit Points at First Level:** 8 + CON
-- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON (minimum of 1)
 
 ## Starting Gunslinger
 

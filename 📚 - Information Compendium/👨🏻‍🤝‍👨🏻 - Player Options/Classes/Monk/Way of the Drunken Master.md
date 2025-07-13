@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/xge
-- subclass/monk/drunken-master
+tags: [compendium/src/5e/xge, subclass/monk/drunken-master]
 aliases:
-- Way of the Drunken Master
+  - Way of the Drunken Master
+created: 2025/06/15 at 22:26
+updated: 2025/07/13 at 00:17
 ---
+
 # Way of the Drunken Master
+
 *[Monk](Monk.md): Monastic Tradition*  
 *Source: Xanathar's Guide to Everything p. 33*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/llvessel
-  - ttrpg-cli/subclass/vessel/cataclysm
+tags: [ttrpg-cli/compendium/src/5e/llvessel, ttrpg-cli/subclass/vessel/cataclysm]
 aliases:
   - The Cataclysm
-title: The Cataclysm
+created: 2025/06/13 at 22:33
+updated: 2025/07/13 at 00:17
 ---
+
 # The Cataclysm
+
 *[Vessel](Vessel.md): Sealed Spirit*  
 *Source: The Vessel p. 6*  
 
@@ -43,7 +44,6 @@ title: The Cataclysm
 
 ^class-progression
 
-
 ## Class Features
 
 ### The Cataclysm (Level 3)
@@ -59,6 +59,7 @@ Within you is bound an elder elemental Spirit of great power. Choose the element
 | Air | Earth | Fire | Water |
 |-----|-------|------|-------|
 | thunder | bludgeoning | fire | cold |
+
 ^elemental-affinity-table
 
 Your Elemental Affinity also determines the statblock you use for your Archon Form, which are found on the next page.
@@ -78,6 +79,7 @@ Finally, you can choose for your Iridescent Strikes to deal your Affinity damage
 | 9th | [fly](/3-Content/Compendiums/spells/fly-xphb.md) |
 | 13th | [summon elemental (affinity type only)](/3-Content/Compendiums/spells/summon-elemental-xphb.md) |
 | 17th | [bigby's hand](/3-Content/Compendiums/spells/bigbys-hand-xphb.md) |
+
 ^vessel-level-spells
 
 | Vessel Level | Air Spells | Earth Spells |
@@ -87,6 +89,7 @@ Finally, you can choose for your Iridescent Strikes to deal your Affinity damage
 | 9th | sonic wave | erupting earth |
 | 13th | storm sphere | accursed touch |
 | 17th | control winds | [wall of stone](/3-Content/Compendiums/spells/wall-of-stone-xphb.md) |
+
 ^vessel-level-air-spells-earth-spells
 
 | Vessel Level | Fire Spells | Water Spells |
@@ -96,6 +99,7 @@ Finally, you can choose for your Iridescent Strikes to deal your Affinity damage
 | 9th | [fireball](/3-Content/Compendiums/spells/fireball-xphb.md) | tidal wave |
 | 13th | [wall of fire](/3-Content/Compendiums/spells/wall-of-fire-xphb.md) | watery sphere |
 | 17th | [flame strike](/3-Content/Compendiums/spells/flame-strike-xphb.md) | maelstrom |
+
 ^vessel-level-fire-spells-water-spells
 
 ### Cataclysm Archon (Level 3)

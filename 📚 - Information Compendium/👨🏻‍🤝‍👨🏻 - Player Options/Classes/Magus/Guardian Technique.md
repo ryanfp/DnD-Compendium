@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/kt-cll
-- ttrpg-cli/subclass/spellblade/guardian
+tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/spellblade/guardian]
 aliases:
-- Guardian Technique
+  - Guardian Technique
+created: 2025/06/13 at 22:32
+updated: 2025/07/13 at 00:17
 ---
+
 # Guardian Technique
+
 *[Spellblade](./spellblade-kt-cll.md): Technique*  
 *Source: Kibbles' Compendium of Legends and Legacies p. 49*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Guardian Technique (Level 3)
@@ -62,6 +63,7 @@ You learn the following spells at the following levels. The following are Spellb
 | 9th | haste |
 | 13th | resilient sphere |
 | 17th | wall of stone |
+
 ^guardian-spells
 
 ### Guardian Proficiency (Level 3)

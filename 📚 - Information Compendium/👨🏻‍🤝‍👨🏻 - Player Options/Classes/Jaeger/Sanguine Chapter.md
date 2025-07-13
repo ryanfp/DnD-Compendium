@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/sgtteh
-  - ttrpg-cli/subclass/jaeger/sanguine
+tags: [ttrpg-cli/compendium/src/5e/sgtteh, ttrpg-cli/subclass/jaeger/sanguine]
 aliases:
   - Sanguine Chapter
-title: Sanguine Chapter
+created: 2025/06/13 at 22:28
+updated: 2025/07/13 at 00:17
 ---
+
 # Sanguine Chapter
+
 *[Jaeger](Jaeger.md): Chapter*  
 *Source: Steinhardt's Guide to the Eldritch Hunt p. 124*  
 
@@ -42,7 +43,6 @@ title: Sanguine Chapter
 > </tbody></table>
 
 ^class-progression
-
 
 > [!quote]  
 > 

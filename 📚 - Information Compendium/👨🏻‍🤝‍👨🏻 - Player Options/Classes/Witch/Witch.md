@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/witch
-- ttrpg-cli/compendium/src/5e/vss
+tags: [ttrpg-cli/class/witch, ttrpg-cli/compendium/src/5e/vss]
 aliases:
-- Witch
+  - Witch
+created: 2025/06/13 at 22:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Witch
+
 *Source: Valda's Spire of Secrets*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d8 per Witch level
 - **Hit Points at First Level:** 8 + CON
-- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON (minimum of 1)
 
 ## Starting Witch
 
@@ -64,12 +66,11 @@ aliases:
 
 Alternatively, you may start with 4d4 x 10 gp to buy your own equipment.
 
-
 ## Witch
 
 Three old crones stoop over a boiling cauldron filled with all manner of bizarre filth, churning and bubbling with a noxious fume. In the smoke and vapor above the pot, the trio can make out shapes and figures of great import, and one even cackles loudly at what she sees.
 
-A young girl sits underneath a tree, far from where the other children play. She glances about to make sure noone is watching, and snaps her fingers once to the empty air. After a moment of silence, a black cat appears around the tree's bend and locks eyes with the girl, staring with a strange intelligence for a long moment. She gestures at one of the playing children, a heavy-set boy with a permanently affixed scowl; the cat understands. It wanders close to the boy, stretches its claws, and gets very low, ready to pounce for the boy's eyes.
+A young girl sits underneath a tree, far from where the other children play. She glances about to make sure no one is watching, and snaps her fingers once to the empty air. After a moment of silence, a black cat appears around the tree's bend and locks eyes with the girl, staring with a strange intelligence for a long moment. She gestures at one of the playing children, a heavy-set boy with a permanently affixed scowl; the cat understands. It wanders close to the boy, stretches its claws, and gets very low, ready to pounce for the boy's eyes.
 
 A young elf intently mutters something underneath his breath each time he exhales. Visible only to him, a string of the foulest magic winds out from him and seizes a charging orc, which drops to its knees in agony.
 
@@ -228,7 +229,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 Starting at 5th level, when you cast a witch spell that affects a creature that is under the effect of your hex, that creature has disadvantage on its first saving throw against the spell. This feature only applies to a hostile creature that is the sole target of your hex.
 
-### Craft feature (Level 6)
+### Craft Feature (Level 6)
 
 At 6th level, you gain a feature granted by your Witch's Craft.
 
@@ -248,7 +249,7 @@ Beginning at 9th level, when a creature reduces you to 0 hit points but doesn't 
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
-### Craft feature (Level 10)
+### Craft Feature (Level 10)
 
 At 10th level, you gain a feature granted by your Witch's Craft.
 
@@ -266,7 +267,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 You learn another Grand Hex at 13th level. You can find a list of hexes [here](/3-Content/Compendiums/lists/list-optfeaturetype-hex.md).
 
-### Craft feature (Level 14)
+### Craft Feature (Level 14)
 
 At 14th level, you gain a feature granted by your Witch's Craft.
 

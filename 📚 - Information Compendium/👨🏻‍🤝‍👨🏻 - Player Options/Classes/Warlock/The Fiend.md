@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/subclass/warlock/fiend
+tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/subclass/warlock/fiend]
 aliases:
-- The Fiend
+  - The Fiend
+created: 2025/06/15 at 15:38
+updated: 2025/07/13 at 00:17
 ---
+
 # The Fiend
+
 *[Warlock](Warlock.md): Otherworldly Patron*  
 *Source: Player's Handbook p. 109. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### The Fiend (Level 1)
@@ -62,6 +63,7 @@ The Fiend lets you choose from an expanded list of spells when you learn a warlo
 | 3rd | [fireball](/3-Content/Compendiums/spells/fireball-xphb.md), [stinking cloud](/3-Content/Compendiums/spells/stinking-cloud-xphb.md) |
 | 4th | [fire shield](/3-Content/Compendiums/spells/fire-shield-xphb.md), [wall of fire](/3-Content/Compendiums/spells/wall-of-fire-xphb.md) |
 | 5th | [flame strike](/3-Content/Compendiums/spells/flame-strike-xphb.md), [hallow](/3-Content/Compendiums/spells/hallow-xphb.md) |
+
 ^fiend-expanded-spells
 
 ### Dark One's Blessing (Level 1)

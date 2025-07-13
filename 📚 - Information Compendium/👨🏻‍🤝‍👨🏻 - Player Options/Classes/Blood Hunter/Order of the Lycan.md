@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/bh2022
-- ttrpg-cli/subclass/blood-hunter/lycan
+tags: [ttrpg-cli/compendium/src/5e/bh2022, ttrpg-cli/subclass/blood-hunter/lycan]
 aliases:
-- Order of the Lycan
+  - Order of the Lycan
+created: 2025/06/13 at 22:26
+updated: 2025/07/13 at 00:17
 ---
+
 # Order of the Lycan
+
 *[Blood Hunter](Blood%20Hunter.md): Blood Hunter Order*  
 *Source: Blood Hunter 2022*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

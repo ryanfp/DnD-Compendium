@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/xge
-- subclass/druid/dreams
+tags: [compendium/src/5e/xge, subclass/druid/dreams]
 aliases:
-- Circle of Dreams
+  - Circle of Dreams
+  - Circle of Dreams
+created: 2025/06/15 at 22:24
+updated: 2025/07/13 at 00:17
 ---
+
 # Circle of Dreams
+
 *[Druid](./druid-xphb.md): Druid Subclass*  
 *Source: Xanathar's Guide to Everything p. 22*  
 
@@ -41,7 +44,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.

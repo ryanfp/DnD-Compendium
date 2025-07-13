@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/subclass/warlock/great-old-one
+tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/subclass/warlock/great-old-one]
 aliases:
-- The Great Old One
+  - The Great Old One
+created: 2025/06/15 at 15:38
+updated: 2025/07/13 at 00:17
 ---
+
 # The Great Old One
+
 *[Warlock](Warlock.md): Otherworldly Patron*  
 *Source: Player's Handbook p. 109*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### The Great Old One (Level 1)
@@ -62,6 +63,7 @@ The Great Old One lets you choose from an expanded list of spells when you learn
 | 3rd | [clairvoyance](/3-Content/Compendiums/spells/clairvoyance-xphb.md), [sending](/3-Content/Compendiums/spells/sending-xphb.md) |
 | 4th | [dominate beast](/3-Content/Compendiums/spells/dominate-beast-xphb.md), [Evard's black tentacles](/3-Content/Compendiums/spells/evards-black-tentacles-xphb.md) |
 | 5th | [dominate person](/3-Content/Compendiums/spells/dominate-person-xphb.md), [telekinesis](/3-Content/Compendiums/spells/telekinesis-xphb.md) |
+
 ^great-old-one-expanded-spells
 
 ### Awakened Mind (Level 1)

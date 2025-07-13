@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/witch/tea
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/witch/tea]
 aliases:
   - Tea Magic
-title: Tea Magic
+created: 2025/06/13 at 22:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Tea Magic
+
 *[Witch](Witch.md): Witch's Craft*  
 *Source: Valda's Spire of Secrets*  
 
@@ -43,7 +44,6 @@ title: Tea Magic
 
 ^class-progression
 
-
 ## Class Features
 
 ### Tea Magic (Level 3)
@@ -59,6 +59,7 @@ Tea witches are among the calmest and friendliest of witches, radiating warmth a
 | 3rd | clairvoyance, sending |
 | 4th | divination, private sanctum |
 | 5th | legend lore, scrying |
+
 ^tea-magic-spells
 
 ### Hex: Tasseography (Level 3)

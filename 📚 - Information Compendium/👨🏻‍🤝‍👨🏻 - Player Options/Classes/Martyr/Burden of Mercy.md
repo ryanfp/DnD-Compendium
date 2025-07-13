@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/martyr/mercy
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/martyr/mercy]
 aliases:
   - Burden of Mercy
-title: Burden of Mercy
+created: 2025/06/13 at 22:28
+updated: 2025/07/13 at 00:17
 ---
+
 # Burden of Mercy
+
 *[Martyr](Martyr.md): Mortal Burden*  
 *Source: Valda's Spire of Secrets*  
 
@@ -43,7 +44,6 @@ title: Burden of Mercy
 
 ^class-progression
 
-
 ## Class Features
 
 ### Burden of Mercy (Level 1)
@@ -63,6 +63,7 @@ You gain burden spells at the martyr levels listed.
 | 9th | remove curse, revivify |
 | 13th | death ward, freedom of movement |
 | 17th | mass healing word, raise dead |
+
 ^martyr-level-spells
 
 ### Cantrips (Level 1)

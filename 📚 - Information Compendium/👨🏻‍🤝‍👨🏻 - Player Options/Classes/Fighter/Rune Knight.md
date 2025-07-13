@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/fighter/rune-knight
+tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/fighter/rune-knight]
 aliases:
-- Rune Knight
+  - Rune Knight
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Rune Knight
+
 *[Fighter](Fighter.md): Martial Archetype*  
 *Source: Tasha's Cauldron of Everything p. 44*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Rune Knight (Level 3)
@@ -71,6 +72,7 @@ Whenever you finish a long rest, you can touch a number of objects equal to the 
 | 7th | 3 |
 | 10th | 4 |
 | 15th | 5 |
+
 ^runes-known
 
 The following runes are available to you when you learn a rune. If a rune has a level requirement, you must be at least that level in this class to learn the rune. If a rune requires a saving throw, your Rune Magic save DC equals 8 + your proficiency bonus + your Constitution modifier.

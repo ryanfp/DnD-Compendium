@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/ghpg
-- ttrpg-cli/subclass/druid/blood
+tags: [ttrpg-cli/compendium/src/5e/ghpg, ttrpg-cli/subclass/druid/blood]
 aliases:
-- Circle of Blood
+  - Circle of Blood
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Circle of Blood
+
 *[Druid](Druid.md): Druid Circle*  
 *Source: Grim Hollow: The Player's Guide*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Circle of Blood (Level 2)
@@ -61,6 +62,7 @@ Once you gain access to one of these spells, you always have it prepared, and it
 | 5th | [blood bond](/3-Content/Compendiums/spells/blood-bond-ghpg.md), [sanguine poppet](/3-Content/Compendiums/spells/sanguine-poppet-ghpg.md) |
 | 7th | [circle of scarlet](/3-Content/Compendiums/spells/circle-of-scarlet-ghpg.md), [dark sacrament](/3-Content/Compendiums/spells/dark-sacrament-ghpg.md) |
 | 9th | [dominate person](/3-Content/Compendiums/spells/dominate-person-xphb.md), [mortality](/3-Content/Compendiums/spells/mortality-ghpg.md) |
+
 ^druid-level-spells
 
 ### Blood Boon (Level 2)

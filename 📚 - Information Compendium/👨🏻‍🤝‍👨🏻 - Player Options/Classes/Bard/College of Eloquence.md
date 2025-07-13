@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/tce
-- subclass/bard/eloquence
+tags: [compendium/src/5e/tce, subclass/bard/eloquence]
 aliases:
-- College of Eloquence
+  - College of Eloquence
+created: 2025/06/15 at 22:22
+updated: 2025/07/13 at 00:17
 ---
+
 # College of Eloquence
+
 *[Bard](Bard.md): Bard College*  
 *Source: Tasha's Cauldron of Everything p. 29, Mythic Odysseys of Theros p. 28*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

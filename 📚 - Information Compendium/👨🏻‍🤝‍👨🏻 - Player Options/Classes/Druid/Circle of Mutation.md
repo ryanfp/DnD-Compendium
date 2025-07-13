@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/ghpg
-- ttrpg-cli/subclass/druid/mutation
+tags: [ttrpg-cli/compendium/src/5e/ghpg, ttrpg-cli/subclass/druid/mutation]
 aliases:
-- Circle of Mutation
+  - Circle of Mutation
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Circle of Mutation
+
 *[Druid](Druid.md): Druid Circle*  
 *Source: Grim Hollow: The Player's Guide*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Circle of Mutation (Level 2)
@@ -58,56 +59,67 @@ In addition, while you are transformed by Wild Shape, you can use a bonus action
 Chosen mutations last for the duration of your Wild Shape.
 
 #### Creature of the Sea
+
 _Source: Grim Hollow: The Player's Guide_
 
 For 1 mutation point, you can breathe air and water and gain a swim speed of 30 feet. For an additional 1 mutation point, your swim speed increases to 60 feet.
 
 #### Creature of the Sky
+
 _Source: Grim Hollow: The Player's Guide_
 
 For 3 mutation points, you gain a fly speed of 30 feet. For an additional 2 mutation points, your fly speed increases to 60 feet.
 
 #### Darkvision
+
 _Source: Grim Hollow: The Player's Guide_
 
 For 1 mutation point, you gain [darkvision](/3-Content/Rules/senses.md#Darkvision) out to a distance of 60 feet.
 
 #### Echolocation
+
 _Source: Grim Hollow: The Player's Guide_
 
 For 4 mutation points, you have [blindsight](/3-Content/Rules/senses.md#Blindsight) out to a distance of 30 feet while you are not deafened.
 
 #### Enchanted Attacks
+
 _Source: Grim Hollow: The Player's Guide_
 
 For 1 mutation point, your attacks count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
 #### Enlarge
+
 _Source: Grim Hollow: The Player's Guide_
 
 For 1 mutation point, your size increases by one step (from Medium to Large, for example). You can spend an additional 2 mutation points to increase your size by two steps instead (from Medium to Huge, for example).
 
 #### Multiattack
+
 _Source: Grim Hollow: The Player's Guide_
 
 For a number of mutation points equal to 2 + 2 x your beast form's CR, whenever you use your action to make a natural weapon attack you can make two natural weapon attacks instead.
 
 #### Natural Armor
+
 _Source: Grim Hollow: The Player's Guide_
 
 For 1, 2, or 3 mutation points you increase your AC by an equal amount.
 
 #### Reduce
+
 _Source: Grim Hollow: The Player's Guide_
 
 For 1 mutation point, your size decreases by one step (from Medium to Small, for example). You can spend an additional 2 mutation points to decrease your size by two steps instead (from Medium to Tiny, for example).
 
 #### Unnatural Voice
+
 _Source: Grim Hollow: The Player's Guide_
 
 For 1 mutation point, you can speak as normal, even if your beast shape lacks the anatomy for such vocalizations. This does not allow for spellcasting while in Wild Shape form.
 
 #### Venomous Attacks
+
 _Source: Grim Hollow: The Player's Guide_
 
 For 2 mutation points, attacks you make with your natural weapons deal an additional 1d4 poison damage.

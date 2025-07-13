@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/ktp
-  - ttrpg-cli/subclass/psion/wandering
+tags: [ttrpg-cli/compendium/src/5e/ktp, ttrpg-cli/subclass/psion/wandering]
 aliases:
   - Wandering
-title: Wandering
+created: 2025/06/13 at 22:29
+updated: 2025/07/13 at 00:17
 ---
+
 # Wandering
+
 *[Psion](Psion.md): Psionic Archetype*  
 *Source: KibblesTasty: Psion*  
 
@@ -43,12 +44,11 @@ title: Wandering
 
 ^class-progression
 
-
 ## Class Features
 
 ### Wandering Mind (Level 1)
 
-A Wandering Mind is among the more mysterious incarnates of psions, these are individuals that just aren't quite rooted in the same reality everyone else is... they find it more pliable and slippery, and prone to jumping right through it on occasion.
+A Wandering Mind is among the more mysterious incarnates of psions, these are individuals that just aren't quite rooted in the same reality everyone else is… they find it more pliable and slippery, and prone to jumping right through it on occasion.
 
 How they get their powers varies. Some were born in the ethereal plane or went through a portal while young. Sometimes it is just that their mind just works along an axis most people cannot understand. No matter its source, they manifest a truly unique ability to treat certain aspects of the metaphysical with a certain mundanity, and are prone to treating their powers as absolutely natural things as one might treat an arm or leg.
 
@@ -64,7 +64,7 @@ Additionally at 1st level, you gain proficiency with martial weapons and medium 
 
 ### Cunning Strikes (Level 3)
 
-Starting at 3rd level, you gain the  [Rift Strike](/3-Content/Compendiums/optional-features/rift-strike-ktp.md) talent. If you already have the Rift Strike talent, you can gain one other Psionic Talent of your choice. The Rift Strike talent doesn't count against your Psionic Talents known, but can't be switched out on leveling up.
+Starting at 3rd level, you gain the [Rift Strike](/3-Content/Compendiums/optional-features/rift-strike-ktp.md) talent. If you already have the Rift Strike talent, you can gain one other Psionic Talent of your choice. The Rift Strike talent doesn't count against your Psionic Talents known, but can't be switched out on leveling up.
 
 ### Curious Mind (Level 3)
 

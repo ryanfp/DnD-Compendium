@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/witch/purple
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/witch/purple]
 aliases:
   - Purple Magic
-title: Purple Magic
+created: 2025/06/13 at 22:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Purple Magic
+
 *[Witch](Witch.md): Witch's Craft*  
 *Source: Valda's Spire of Secrets*  
 
@@ -43,7 +44,6 @@ title: Purple Magic
 
 ^class-progression
 
-
 ## Class Features
 
 ### Purple Magic (Level 3)
@@ -59,6 +59,7 @@ Purple magic holds sway over the domains of illusions and enchantments that take
 | 3rd | hypnotic pattern, major image |
 | 4th | confusion, private sanctum |
 | 5th | modify memory, seeming |
+
 ^purple-magic-spells
 
 ### Hex: Hallucination (Level 3)

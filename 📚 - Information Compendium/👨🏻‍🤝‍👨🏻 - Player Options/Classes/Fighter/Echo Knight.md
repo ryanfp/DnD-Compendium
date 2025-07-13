@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/subclass/fighter/echo-knight
+tags: [ttrpg-cli/compendium/src/5e/egw, ttrpg-cli/subclass/fighter/echo-knight]
 aliases:
-- Echo Knight
+  - Echo Knight
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Echo Knight
+
 *[Fighter](Fighter.md): Martial Archetype*  
 *Source: Explorer's Guide to Wildemount p. 183*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/kt-cll
-  - ttrpg-cli/subclass/warden/elemental
+tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/warden/elemental]
 aliases:
   - Elemental Soul
-title: Elemental Soul
+created: 2025/06/13 at 22:33
+updated: 2025/07/13 at 00:17
 ---
+
 # Elemental Soul
+
 *[Warden](Warden.md): Warden Bond*  
 *Source: Kibbles' Compendium of Legends and Legacies p. 64*  
 
@@ -42,7 +43,6 @@ title: Elemental Soul
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 
@@ -88,6 +88,7 @@ You gain the following spells at the listed levels, and can cast each spell once
 | 9th | sleet storm |
 | 13th | [fire cyclone](/3-Content/Compendiums/spells/fire-cyclone-kt-cll.md) |
 | 17th | fire shield |
+
 ^innate-spells-1-long-rest-each
 
 ### Elemental Interdiction (Level 3)

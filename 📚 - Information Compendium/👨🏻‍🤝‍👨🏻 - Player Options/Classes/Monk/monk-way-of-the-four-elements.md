@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/subclass/monk/four-elements
+tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/subclass/monk/four-elements]
 aliases:
-- Way of the Four Elements
+  - Way of the Four Elements
+  - Way of the Four Elements
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Way of the Four Elements
+
 *[Monk](Monk.md): Monastic Tradition*  
 *Source: Player's Handbook p. 80*  
 
@@ -42,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Way of the Four Elements (Level 3)
@@ -75,6 +77,7 @@ The maximum number of ki points you can spend to cast a spell in this way (inclu
 | 9th-12th | 4 |
 | 13th-16th | 5 |
 | 17th-20th | 6 |
+
 ^spells-and-ki-points
 
 ### Elemental Disciplines (Level 3)

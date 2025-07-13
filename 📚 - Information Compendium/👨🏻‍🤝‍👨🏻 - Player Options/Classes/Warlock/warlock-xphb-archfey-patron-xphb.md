@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/warlock/archfey
+tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/subclass/warlock/archfey]
 aliases:
-- Archfey Patron
+  - Archfey Patron
+  - Archfey Patron
+created: 2025/06/15 at 15:38
+updated: 2025/07/13 at 00:17
 ---
+
 # Archfey Patron
+
 *[Warlock](./warlock-xphb.md): Warlock Subclass*  
 *Source: Player's Handbook (2024) p. 159*  
 
@@ -42,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Archfey Patron (Level 3)
@@ -63,6 +65,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 | 5 | [Blink](/3-Content/Compendiums/spells/blink-xphb.md), [Plant Growth](/3-Content/Compendiums/spells/plant-growth-xphb.md) |
 | 7 | [Dominate Beast](/3-Content/Compendiums/spells/dominate-beast-xphb.md), [Greater Invisibility](/3-Content/Compendiums/spells/greater-invisibility-xphb.md) |
 | 9 | [Dominate Person](/3-Content/Compendiums/spells/dominate-person-xphb.md), [Seeming](/3-Content/Compendiums/spells/seeming-xphb.md) |
+
 ^archfey-spells
 
 ### Steps of the Fey (Level 3)

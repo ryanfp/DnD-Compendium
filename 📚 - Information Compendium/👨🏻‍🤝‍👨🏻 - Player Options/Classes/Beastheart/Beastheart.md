@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/beastheart
-- ttrpg-cli/compendium/src/5e/bst
+tags: [ttrpg-cli/class/beastheart, ttrpg-cli/compendium/src/5e/bst]
 aliases:
-- Beastheart
+  - Beastheart
+created: 2025/06/13 at 22:26
+updated: 2025/07/13 at 00:17
 ---
+
 # Beastheart
+
 *Source: Beastheart and Monstrous Companions*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d8 per Beastheart level
 - **Hit Points at First Level:** 8 + CON
-- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON (minimum of 1)
 
 ## Starting Beastheart
 
@@ -109,7 +111,7 @@ You can make a beastheart quickly by following these suggestions. First, make De
 
 ### Companion (Level 1)
 
-At 1st level, you gain a companion creature that accompanies you on your adventures, fighting, exploring, and living alongside you. You can choose any companion in this supplement or other MCDM supplements. You might also find some cool companions on the MCDM subreddit (https://mcdm.gg/bht-reddit) and in the MCDM Discord server (https://discord.com/invite/MCDM). The Companions section has information on fifteen companion creatures you can choose for your beastheart, and information on the rules for using companions (including ferocity and entering a rampage).
+At 1st level, you gain a companion creature that accompanies you on your adventures, fighting, exploring, and living alongside you. You can choose any companion in this supplement or other MCDM supplements. You might also find some cool companions on the MCDM subreddit (<https://mcdm.gg/bht-reddit>) and in the MCDM Discord server (<https://discord.com/invite/MCDM>). The Companions section has information on fifteen companion creatures you can choose for your beastheart, and information on the rules for using companions (including ferocity and entering a rampage).
 
 Your supernatural connection to your companion binds their life to yours, allowing you to help your companion overcome even the most grievous injuries. If your companion has lost hit points or is dead, you can spend 1 minute meditating on your companion's spirit. The companion then regains all their hit points and returns to life if they were dead, and you gain one level of exhaustion. If the companion's body was destroyed, they reform within 5 feet of you.
 

@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/subclass/paladin/crown
+tags: [ttrpg-cli/compendium/src/5e/scag, ttrpg-cli/subclass/paladin/crown]
 aliases:
-- Oath of the Crown
+  - Oath of the Crown
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Oath of the Crown
+
 *[Paladin](Paladin.md): Sacred Oath*  
 *Source: Sword Coast Adventurer's Guide p. 132*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Oath of the Crown (Level 3)
@@ -54,21 +55,25 @@ The Oath of the Crown is sworn to the ideals of civilization, be it the spirit o
 The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.
 
 #### Law
+
 _Source: Sword Coast Adventurer's Guide_
 
 The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.
 
 #### Loyalty
+
 _Source: Sword Coast Adventurer's Guide_
 
 Your word is your bond. Without loyalty, oaths and laws are meaningless.
 
 #### Courage
+
 _Source: Sword Coast Adventurer's Guide_
 
 You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don't act, then who will?
 
 #### Responsibility
+
 _Source: Sword Coast Adventurer's Guide_
 
 You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.
@@ -86,6 +91,7 @@ You gain oath spells at the paladin levels listed.
 | 9th | [aura of vitality](/3-Content/Compendiums/spells/aura-of-vitality-xphb.md), [spirit guardians](/3-Content/Compendiums/spells/spirit-guardians-xphb.md) |
 | 13th | [banishment](/3-Content/Compendiums/spells/banishment-xphb.md), [guardian of faith](/3-Content/Compendiums/spells/guardian-of-faith-xphb.md) |
 | 17th | [circle of power](/3-Content/Compendiums/spells/circle-of-power-xphb.md), [geas](/3-Content/Compendiums/spells/geas-xphb.md) |
+
 ^oath-of-the-crown-spells
 
 ### Channel Divinity (Level 3)

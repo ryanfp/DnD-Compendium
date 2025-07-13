@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/ultimateadventurer
-  - ttrpg-cli/subclass/pugilist/bloodhound-bruisers
+tags: [ttrpg-cli/compendium/src/5e/ultimateadventurer, ttrpg-cli/subclass/pugilist/bloodhound-bruisers]
 aliases:
   - Bloodhound Bruisers
-title: Bloodhound Bruisers
+created: 2025/06/13 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # Bloodhound Bruisers
+
 *[Pugilist](Pugilist.md): Fight Club*  
 *Source: The Ultimate Adventurer's Handbook p. 198*  
 
@@ -42,7 +43,6 @@ title: Bloodhound Bruisers
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

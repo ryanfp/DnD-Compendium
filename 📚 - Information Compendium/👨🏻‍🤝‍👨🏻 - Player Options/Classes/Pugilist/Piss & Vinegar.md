@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/ultimateadventurer
-  - ttrpg-cli/subclass/pugilist/piss-vinegar
+tags: [ttrpg-cli/compendium/src/5e/ultimateadventurer, ttrpg-cli/subclass/pugilist/piss-vinegar]
 aliases:
   - Piss & Vinegar
-title: Piss & Vinegar
+created: 2025/06/13 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # Piss & Vinegar
+
 *[Pugilist](./pugilist-ultimateadventurer.md): Fight Club*  
 *Source: The Ultimate Adventurer's Handbook p. 204*  
 
@@ -42,7 +43,6 @@ title: Piss & Vinegar
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/bst
-- ttrpg-cli/subclass/beastheart/infernal
+tags: [ttrpg-cli/compendium/src/5e/bst, ttrpg-cli/subclass/beastheart/infernal]
 aliases:
-- Infernal Bond
+  - Infernal Bond
+created: 2025/06/13 at 22:26
+updated: 2025/07/13 at 00:17
 ---
+
 # Infernal Bond
+
 *[Beastheart](Beastheart.md): Companion Bonds*  
 *Source: Beastheart and Monstrous Companions*  
 
@@ -42,12 +44,11 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Infernal Bond (Level 3)
 
-You and your companion share a deep connection with each other... and with the Seven Cities of Hell! It might be that you work in the service of a devil, that you both spent time imprisoned in Hell before clawing your way out together, or simply that you bonded with a fiendish companion born in the Lower Planes. Whatever the case, you are connected to the Seven Cities and can use your companion's ferocity to unlock infernal magic.
+You and your companion share a deep connection with each other… and with the Seven Cities of Hell! It might be that you work in the service of a devil, that you both spent time imprisoned in Hell before clawing your way out together, or simply that you bonded with a fiendish companion born in the Lower Planes. Whatever the case, you are connected to the Seven Cities and can use your companion's ferocity to unlock infernal magic.
 
 ### Devil's Understanding (Level 3)
 
@@ -69,6 +70,7 @@ Whenever you gain a level in this class, you can choose one of the infernal expl
 | [Hellish Wound](/3-Content/optional-features/hellish-wound-4-ferocity-bst.md) | No Action | 4 |
 | [Infernal Teleport](/3-Content/optional-features/infernal-teleport-4-ferocity-bst.md) | Action | 4 |
 | [Wicked Deception](/3-Content/optional-features/wicked-deception-3-ferocity-bst.md) | Action | 3 |
+
 ^infernal-exploits-3rd-level
 
 **Infernal Bond Features**
@@ -79,6 +81,7 @@ Whenever you gain a level in this class, you can choose one of the infernal expl
 | 7th | Hell's Charmer |
 | 11th | Fiendish Traits, Infernal Exploits improvement |
 | 15th | Fiendish Form |
+
 ^infernal-bond-features
 
 ### Hell's Charmer (Level 7)
@@ -111,6 +114,7 @@ You can take one of the following exploits when you gain a new infernal exploit 
 | Dark of Hell | Action | 8 |
 | Infernal Flames | Action | 8 |
 | Poison Rain | Action | 8 |
+
 ^infernal-exploits-11th-level
 
 ### Fiendish Form (Level 15)

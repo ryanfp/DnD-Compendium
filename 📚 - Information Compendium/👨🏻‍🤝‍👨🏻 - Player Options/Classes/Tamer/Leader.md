@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/helianasguidetomonsterhunting
-  - ttrpg-cli/subclass/tamer/leader
+tags: [ttrpg-cli/compendium/src/5e/helianasguidetomonsterhunting, ttrpg-cli/subclass/tamer/leader]
 aliases:
   - Leader
-title: Leader
+created: 2025/06/13 at 22:33
+updated: 2025/07/13 at 00:17
 ---
+
 # Leader
+
 *[Tamer](Tamer.md): Training Paradgim*  
 *Source: Heliana's Guide to Monster Hunting*  
 
@@ -43,7 +44,6 @@ title: Leader
 
 ^class-progression
 
-
 ## Class Features
 
 ### Leader (Level 3)
@@ -71,6 +71,7 @@ You learn additional spells when you reach certain levels in this class, as show
 | 9th | beacon of hope, haste |
 | 13th | death ward, freedom of movement |
 | 17th | dispel evil and good, [endure](/3-Content/Compendiums/spells/endure-helianasguidetomonsterhunting.md) |
+
 ^leader-spells
 
 ### Companion Surge I (Level 7)

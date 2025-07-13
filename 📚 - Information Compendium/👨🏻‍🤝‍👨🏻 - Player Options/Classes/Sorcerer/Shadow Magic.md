@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/xge
-- subclass/sorcerer/shadow
+tags: [compendium/src/5e/xge, subclass/sorcerer/shadow]
 aliases:
-- Shadow Magic
+  - Shadow Magic
+created: 2025/06/15 at 22:28
+updated: 2025/07/13 at 00:17
 ---
+
 # Shadow Magic
+
 *[Sorcerer](Sorcerer.md): Sorcerous Origin*  
 *Source: Xanathar's Guide to Everything p. 50*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 > [!quote] A quote from Xanathar  
 > 
 > Sometimes I disintegrate my shadow when I see it, because I think it's a different beholder.
@@ -67,6 +68,7 @@ The power of shadow magic casts a strange pall over your physical presence. The 
 | 4 | Your heart beats once per minute. This event sometimes surprises you. |
 | 5 | You have trouble remembering that living creatures and corpses should be treated differently. |
 | 6 | You blinked. Once. Last week. |
+
 ^shadow-sorcerer-quirks
 
 ### Eyes of the Dark (Level 1)

@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/ktp
-  - ttrpg-cli/subclass/psion/awakened
+tags: [ttrpg-cli/compendium/src/5e/ktp, ttrpg-cli/subclass/psion/awakened]
 aliases:
   - Awakened
-title: Awakened
+created: 2025/06/13 at 22:29
+updated: 2025/07/13 at 00:17
 ---
+
 # Awakened
+
 *[Psion](Psion.md): Psionic Archetype*  
 *Source: KibblesTasty: Psion*  
 
@@ -43,14 +44,13 @@ title: Awakened
 
 ^class-progression
 
-
 ## Class Features
 
 ### Awakened Mind (Level 1)
 
 An Awakened Mind is a psion who had their psionic power awakened within them by an encounter, event, or circumstance. Perhaps their powers were latent or perhaps their destiny had been that of a normal creature until powers were suddenly thrust on them. Perhaps they brushed the realms beyond in a vivid dream, perhaps they wandered the Feywild and came back warped, perhaps they merely glimpsed the eyes of a creature that did not belong walking down the street.
 
-An awakening is often somewhat traumatic. Psions are not well understood and the first power they manifest-telepathy- is one of the most feared and shunned abilities.
+An awakening is often somewhat traumatic. Psions are not well understood and the first power they manifest-telepathyis one of the most feared and shunned abilities.
 
 An Awakened can be either empathetic or cruel, good or evil. Knowing what is on the minds of others affects people in different ways, driving some away from society as they see its true face, while others feel drawn to help the problems only they can see.
 

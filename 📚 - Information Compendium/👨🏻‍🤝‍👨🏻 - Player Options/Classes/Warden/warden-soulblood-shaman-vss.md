@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/vss
-- ttrpg-cli/subclass/warden/soulblood-shaman
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/warden/soulblood-shaman]
 aliases:
-- Soulblood Shaman
+  - Soulblood Shaman
+  - Soulblood Shaman
+created: 2025/06/13 at 22:33
+updated: 2025/07/13 at 00:17
 ---
+
 # Soulblood Shaman
+
 *[Warden](VSS%20Warden.md): Champion's Call*  
 *Source: Valda's Spire of Secrets*  
 
@@ -41,7 +44,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

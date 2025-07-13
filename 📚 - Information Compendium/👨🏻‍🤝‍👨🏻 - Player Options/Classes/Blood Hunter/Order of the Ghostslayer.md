@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/bh2022
-- ttrpg-cli/subclass/blood-hunter/ghostslayer
+tags: [ttrpg-cli/compendium/src/5e/bh2022, ttrpg-cli/subclass/blood-hunter/ghostslayer]
 aliases:
-- Order of the Ghostslayer
+  - Order of the Ghostslayer
+created: 2025/06/13 at 22:26
+updated: 2025/07/13 at 00:17
 ---
+
 # Order of the Ghostslayer
+
 *[Blood Hunter](Blood%20Hunter.md): Blood Hunter Order*  
 *Source: Blood Hunter 2022*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

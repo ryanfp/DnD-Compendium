@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/spellblade
-- ttrpg-cli/compendium/src/5e/kt-cll
+tags: [ttrpg-cli/class/spellblade, ttrpg-cli/compendium/src/5e/kt-cll]
 aliases:
-- Spellblade
+  - Spellblade
+  - Spellblade
+created: 2025/06/13 at 22:32
+updated: 2025/07/13 at 00:17
 ---
+
 # Spellblade
+
 *Source: Kibbles' Compendium of Legends and Legacies*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +48,7 @@ aliases:
 
 - **Hit Dice**: 1d8 per Spellblade level
 - **Hit Points at First Level:** 8 + CON
-- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON (minimum of 1)
 
 ## Starting Spellblade
 
@@ -210,7 +213,7 @@ Additionally, at any time, as a bonus action you can expend a spell slot to rega
 
 Additionally at 6th level, you gain proficiency in your choice of Wisdom or Charisma saving throws, and you automatically succeed on saving throws against your own spells.
 
-### Spellblade Technique feature (Level 7)
+### Spellblade Technique Feature (Level 7)
 
 At 7th level, you gain a feature granted to you by your Spellblade Technique.
 
@@ -254,7 +257,7 @@ Additionally at 14th level, you learn the detect magic spell, and it does not co
 
 For the duration of detect magic, you gain proficiency in the Arcana skill. If you are already proficient in the Arcana skill, for the duration you gain expertise, allowing you to add double your proficiency bonus to ability checks made using the Arcana skill.
 
-### Spellblade Technique feature (Level 15)
+### Spellblade Technique Feature (Level 15)
 
 At 15th level, you gain a feature granted to you by your Spellblade Technique.
 
@@ -274,7 +277,7 @@ When you reach 19th level, you can increase one ability score of your choice by 
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Spellblade Technique feature (Level 20)
+### Spellblade Technique Feature (Level 20)
 
 At 20th level, you gain a feature granted to you by your Spellblade Technique.
 

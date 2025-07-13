@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/domain/order
-- ttrpg-cli/subclass/cleric/order
+tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/domain/order, ttrpg-cli/subclass/cleric/order]
 aliases:
-- Order Domain
+  - Order Domain
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Order Domain
+
 *[Cleric](Cleric.md): Divine Domain*  
 *Source: Tasha's Cauldron of Everything p. 31*  
 
@@ -43,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Order Domain (Level 1)
@@ -65,6 +65,7 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 | 5th | [mass healing word](/3-Content/Compendiums/spells/mass-healing-word-xphb.md), [slow](/3-Content/Compendiums/spells/slow-xphb.md) |
 | 7th | [compulsion](/3-Content/Compendiums/spells/compulsion-xphb.md), [locate creature](/3-Content/Compendiums/spells/locate-creature-xphb.md) |
 | 9th | [commune](/3-Content/Compendiums/spells/commune-xphb.md), [dominate person](/3-Content/Compendiums/spells/dominate-person-xphb.md) |
+
 ^order-domain-spells
 
 ### Bonus Proficiencies (Level 1)

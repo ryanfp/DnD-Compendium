@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/helianasguidetomonsterhunting
-  - ttrpg-cli/subclass/tamer/splicer
+tags: [ttrpg-cli/compendium/src/5e/helianasguidetomonsterhunting, ttrpg-cli/subclass/tamer/splicer]
 aliases:
   - Splicer
-title: Splicer
+created: 2025/06/13 at 22:33
+updated: 2025/07/13 at 00:17
 ---
+
 # Splicer
+
 *[Tamer](Tamer.md): Training Paradgim*  
 *Source: Heliana's Guide to Monster Hunting*  
 
@@ -43,12 +44,11 @@ title: Splicer
 
 ^class-progression
 
-
 ## Class Features
 
 ### Splicer (Level 3)
 
-Through *really tiny stitches*, you alter the physiology of your subjec– er... companions, in an unending quest for perfection Many Splicers delve into the world of adventuring in the hopes of discovering exciting new improvements with which to augment their companions Your foray into the world of biomancy, whether through wizarding school, working with biosmith artificers, or as the surgical assistant to a mad scientist, has resulted in a singular observation: subjects are much more malleable when they're psychically bonded to you.
+Through *really tiny stitches*, you alter the physiology of your subject– er… companions, in an unending quest for perfection Many Splicers delve into the world of adventuring in the hopes of discovering exciting new improvements with which to augment their companions Your foray into the world of biomancy, whether through wizarding school, working with biosmith artificers, or as the surgical assistant to a mad scientist, has resulted in a singular observation: subjects are much more malleable when they're psychically bonded to you.
 
 ### Augment (Level 3)
 
@@ -73,6 +73,7 @@ You learn additional spells when you reach certain levels in this class, as show
 | 9th | [mass leech](/3-Content/Compendiums/spells/mass-leech-helianasguidetomonsterhunting.md), [zippit!](/3-Content/Compendiums/spells/zippit-helianasguidetomonsterhunting.md) |
 | 13th | [frogskin](/3-Content/Compendiums/spells/frogskin-helianasguidetomonsterhunting.md), stoneskin |
 | 17th | contagion, [feverskin](/3-Content/Compendiums/spells/feverskin-helianasguidetomonsterhunting.md) |
+
 ^splicer-spells
 
 ### Modular Upgrades I (Level 7)

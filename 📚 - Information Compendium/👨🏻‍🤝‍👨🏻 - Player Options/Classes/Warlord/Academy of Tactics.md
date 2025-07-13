@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/llaw
-  - ttrpg-cli/subclass/warlord/tactics
+tags: [ttrpg-cli/compendium/src/5e/llaw, ttrpg-cli/subclass/warlord/tactics]
 aliases:
   - Academy of Tactics
-title: Academy of Tactics
+created: 2025/06/13 at 22:34
+updated: 2025/07/13 at 00:17
 ---
+
 # Academy of Tactics
+
 *[Warlord](Warlord.md): Academy of War*  
 *Source: Warlord p. 7*  
 
@@ -42,7 +43,6 @@ title: Academy of Tactics
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/alchemist
-- ttrpg-cli/compendium/src/5e/vss
+tags: [ttrpg-cli/class/alchemist, ttrpg-cli/compendium/src/5e/vss]
 aliases:
-- Alchemist
+  - Alchemist
+created: 2025/06/13 at 22:25
+updated: 2025/07/13 at 00:17
 ---
+
 # Alchemist
+
 *Source: Valda's Spire of Secrets*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d6 per Alchemist level
 - **Hit Points at First Level:** 6 + CON
-- **Hit Points at Higher Levels:** add 4 OR 1d6 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 4 OR 1d6 + CON (minimum of 1)
 
 ## Starting Alchemist
 
@@ -61,7 +63,6 @@ aliases:
 - (a) explorer's pack or (b) a scholar's pack
 - (a) light crossbow and 20 bolts or (b) any simple weapon
 - (a) a vial of acid or (b) a flask of alchemist's fire, or (c) a vial of basic poison
-
 
 ## Alchemist
 
@@ -122,13 +123,14 @@ When your bombs call for a saving throw, its save DC is calculated as follows:
 > [!note] Bomb
 > 
 > Bombs are martial ranged weapons with the following statistics:
-> 
+>
 > | Name | Cost | Damage | Weight | Properties |
 > |------|------|--------|--------|------------|
 > | Bomb | 2 sp | `d10` fire | 1 lb. | Finesse, special, thrown (range30/60) |
+>
 > ^name-cost-damage-weight-properties
 > 
-> - **Bomb..** When a bomb hits a target, it explodes in a 5-foot radius and is destroyed. The bomb can be thrown at an unoccupied space within its range. Each creature other than the  target within the blast radius must succeed on a DC 11 Dexterity saving throw, taking half the damage rolled on a failed save or no damage on a successful one.  
+> - **Bomb..** When a bomb hits a target, it explodes in a 5-foot radius and is destroyed. The bomb can be thrown at an unoccupied space within its range. Each creature other than the target within the blast radius must succeed on a DC 11 Dexterity saving throw, taking half the damage rolled on a failed save or no damage on a successful one.  
 > - Additionally, as a bonus action, you can empty some of the bomb's explosive material to permanently remove the blast radius from this bomb, dealing damage only to the bomb's target  
 ^bomb
 
@@ -146,13 +148,14 @@ When you gain certain levels in this class, you learn additional formulae of you
 ### Field of Study (Level 2)
 
 While all alchemists share a common knowledge base, most alchemists specialize into a particular field of study:
-- [[Amorist Field]]
-- [[Apothecary Field]]
-- [[Dynamo Engineer Field]]
-- [[Mad Bomber Field]]
-- [[Mutagenist Field]]
-- [[Venomsmith Field]]
-- [[Xenoalchemist Field]]
+
+- [[Amorist Field|Amorist]]
+- [[Apothecary Field|Apothecary]]
+- [[Dynamo Engineer Field|Dynamo Engineer]]
+- [[Mad Bomber Field|Mad Bomber]]
+- [[Mutagenist Field|Mutagenist]]
+- [[Venomsmith Field|Venomsmith]]
+- [[Xenoalchemist Field|Xenoalchemist]]
 
 When you reach 2nd level, you select your field of study, which grants you features at 2nd, 6th, 10th, and 18th level.
 
@@ -191,6 +194,7 @@ The number of reagent dice and the alchemist level required to brew a potion are
 | Potion of Hill Giant Strength | 4 reagent dice | 14th |
 | Potion of Invisibility | 4 reagent dice | 14th |
 | Potion of Superior Healing | 4 reagent dice | 14th |
+
 ^potion-cost-alchemist-level
 
 #### Reagent Synthesis

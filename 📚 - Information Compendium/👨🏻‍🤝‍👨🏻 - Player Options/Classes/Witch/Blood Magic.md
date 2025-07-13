@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/witch/blood
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/witch/blood]
 aliases:
   - Blood Magic
-title: Blood Magic
+created: 2025/06/13 at 22:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Blood Magic
+
 *[Witch](Witch.md): Witch's Craft*  
 *Source: Valda's Spire of Secrets*  
 
@@ -43,7 +44,6 @@ title: Blood Magic
 
 ^class-progression
 
-
 ## Class Features
 
 ### Blood Magic (Level 3)
@@ -59,6 +59,7 @@ Forbidden by most witch covens, blood magic centers on the use of dark spells an
 | 3rd | [ruby-eye curse](/3-Content/Compendiums/spells/ruby-eye-curse-vss.md), vampiric touch |
 | 4th | blight, dominate beast |
 | 5th | cloudkill, dominate person |
+
 ^blood-magic-spells
 
 ### Hex: Blood Curse (Level 3)
@@ -92,6 +93,7 @@ Beginning at 10th level, you can perform a blood ritual to bolster your magic. O
 | 3rd | 5 |
 | 4th | 6 |
 | 5th | 7 |
+
 ^spell-level-hit-dice
 
 ### Sanguine (Level 14)

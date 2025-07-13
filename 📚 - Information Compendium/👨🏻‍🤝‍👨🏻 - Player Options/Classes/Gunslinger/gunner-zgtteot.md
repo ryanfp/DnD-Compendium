@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/gunner
-- ttrpg-cli/compendium/src/5e/zgtteot
+tags: [ttrpg-cli/class/gunner, ttrpg-cli/compendium/src/5e/zgtteot]
 aliases:
-- Gunner
+  - Gunner
+  - Gunner
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Gunner
+
 *Source: Zaman's Guide to the End of Time*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +48,7 @@ aliases:
 
 - **Hit Dice**: 1d8 per Gunner level
 - **Hit Points at First Level:** 8 + CON
-- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON (minimum of 1)
 
 ## Starting Gunner
 
@@ -77,7 +80,7 @@ When you gain a level in a class other than your first, you gain only some of th
 
 Steady of hand and breath, a camouflaged scorpid lies in wait atop the windswept cliffs, aiming down the sights of his rifle. Though it takes him ten minutes to line up the perfect shot, his patience is rewarded when splatters of dark crimson speckle the sunscorched rock below.
 
-The ground quakes under the charge of a spectral steed, atop which rides a grinning fennekkin, pistols blazing. Regretful highwaymen scatter in a panic to escape the trampling hooves... only to fall to a sudden rain of hot lead.
+The ground quakes under the charge of a spectral steed, atop which rides a grinning fennekkin, pistols blazing. Regretful highwaymen scatter in a panic to escape the trampling hooves… only to fall to a sudden rain of hot lead.
 
 Smoke, sweat, and gunpowder hang heavy in the air of the workshop where a rocborn smith labours through the night, each ring of the hammer strengthening her resolve. Come dawn, she will hold the perfect bullet with which to avenge her family.
 
@@ -126,11 +129,11 @@ Once you've used this Bonus Action, you can't do so again until you finish a Sho
 
 ### Firearm Attachments (Level 2)
 
-A marksman is only as good as their weapon, and  you've learned to improve yours with special attachments. When you finish a Long Rest, you can apply,  remove, or swap any number of attachments from the  list at the end of this class on firearms you're holding.  The maximum number of attachments you can have  in total, as well as the maximum number of attachments that a single firearm can hold at a time, are  listed on the Gunner table. You can apply the same  attachment to different firearms, but each one counts  against your limit.
+A marksman is only as good as their weapon, and you've learned to improve yours with special attachments. When you finish a Long Rest, you can apply, remove, or swap any number of attachments from the list at the end of this class on firearms you're holding. The maximum number of attachments you can have in total, as well as the maximum number of attachments that a single firearm can hold at a time, are listed on the Gunner table. You can apply the same attachment to different firearms, but each one counts against your limit.
 
-Attachments are divided into five types: Barrel^[Optional features from [Firearm Attachments: Barrel](/3-Content/Compendiums/lists/list-optfeaturetype-fa-b.md); defined in Zaman's Guide to the End of Time],  Melee^[Optional features from [Firearm Attachments: Melee](/3-Content/Compendiums/lists/list-optfeaturetype-fa-m.md); defined in Zaman's Guide to the End of Time], Muzzle^[Optional features from [Firearm Attachments: Muzzle](/3-Content/Compendiums/lists/list-optfeaturetype-fa-u.md); defined in Zaman's Guide to the End of Time], Sights^[Optional features from [Firearm Attachments: Sights](/3-Content/Compendiums/lists/list-optfeaturetype-fa-s.md); defined in Zaman's Guide to the End of Time], and Miscellaneous^[Optional features from [Firearm Attachments: Miscellaneous](/3-Content/Compendiums/lists/list-optfeaturetype-fa-x.md); defined in Zaman's Guide to the End of Time]. With the  exception of Miscellaneous attachments, you can't  have more than one attachment of any type on the  same firearm. In addition, some attachments have a  level requirement in this class that you must meet in  order to apply them to a firearm.
+Attachments are divided into five types: Barrel^[Optional features from [Firearm Attachments: Barrel](/3-Content/Compendiums/lists/list-optfeaturetype-fa-b.md); defined in Zaman's Guide to the End of Time], Melee^[Optional features from [Firearm Attachments: Melee](/3-Content/Compendiums/lists/list-optfeaturetype-fa-m.md); defined in Zaman's Guide to the End of Time], Muzzle^[Optional features from [Firearm Attachments: Muzzle](/3-Content/Compendiums/lists/list-optfeaturetype-fa-u.md); defined in Zaman's Guide to the End of Time], Sights^[Optional features from [Firearm Attachments: Sights](/3-Content/Compendiums/lists/list-optfeaturetype-fa-s.md); defined in Zaman's Guide to the End of Time], and Miscellaneous^[Optional features from [Firearm Attachments: Miscellaneous](/3-Content/Compendiums/lists/list-optfeaturetype-fa-x.md); defined in Zaman's Guide to the End of Time]. With the exception of Miscellaneous attachments, you can't have more than one attachment of any type on the same firearm. In addition, some attachments have a level requirement in this class that you must meet in order to apply them to a firearm.
 
-Other creatures can use firearms bearing attachments you've applied using this feature, but those  creatures can't benefit from those attachments.
+Other creatures can use firearms bearing attachments you've applied using this feature, but those creatures can't benefit from those attachments.
 
 ### Lucky Skill (Level 3)
 
@@ -191,7 +194,7 @@ When you reach 12th level you can increase one ability score of your choice by 2
 
 ### Adrenaline Rush (Level 13)
 
-When the going gets tough... you get even tougher. When you take damage that puts you at or below half of your Hit Point maximum, you can use your Reaction to immediately gain an amount of Moxie equal to your maximum Moxie, which can put you over your maximum amount. In addition, your [Bullet Time](/3-Content/Compendiums/classes/gunner-zgtteot.md#Bullet%20Time%20(x1)%20(Level%202)) feature immediately activates without expending its use, even if you have no uses of it left.
+When the going gets tough… you get even tougher. When you take damage that puts you at or below half of your Hit Point maximum, you can use your Reaction to immediately gain an amount of Moxie equal to your maximum Moxie, which can put you over your maximum amount. In addition, your [Bullet Time](/3-Content/Compendiums/classes/gunner-zgtteot.md#Bullet%20Time%20(x1)%20(Level%202)) feature immediately activates without expending its use, even if you have no uses of it left.
 
 Once you've used this feature, you can't use it again until you finish a Long Rest.
 

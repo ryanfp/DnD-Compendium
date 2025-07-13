@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/sorcerer
-- ttrpg-cli/compendium/src/5e/phb
+tags: [ttrpg-cli/class/sorcerer, ttrpg-cli/compendium/src/5e/phb]
 aliases:
-- Sorcerer
+  - Sorcerer
+created: 2025/06/15 at 15:37
+updated: 2025/07/13 at 00:17
 ---
+
 # Sorcerer
+
 *Source: Player's Handbook p. 99. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d6 per Sorcerer level
 - **Hit Points at First Level:** 6 + CON
-- **Hit Points at Higher Levels:** add 4 OR 1d6 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 4 OR 1d6 + CON (minimum of 1)
 
 ## Starting Sorcerer
 
@@ -119,6 +121,7 @@ Playing a sorcerer character can be as rewarding as it is challenging. The secti
 > Divine? Arcane? What difference does it make where magic comes from? You've got it or you don't. Fortunately, I've got loads of the stuff.
 
 ## Arcane Origins
+
 _Source: Xanathar's Guide to Everything_
 
 Some sorcerers understand where their power came from, based on how their abilities manifested. Others can only speculate, since their powers came to them in a way that suggests no particular cause.
@@ -137,9 +140,11 @@ Does your character know the source of your magical power? Does it tie back to s
 | 4 | Your birth was prophesied in an ancient text, and you are foretold to use your power for terrible ends. |
 | 5 | You are the product of generations of careful, selective breeding. |
 | 6 | You were made in a vat by an alchemist. |
+
 ^arcane-origins
 
 ## Reaction
+
 _Source: Xanathar's Guide to Everything_
 
 When a new sorcerer enters the world, either at birth or later when one's power becomes evident, the consequences of that event depend greatly on how its witnesses react to what they have seen.
@@ -158,9 +163,11 @@ When your sorcerer's powers appeared, how did the world around you respond? Were
 | 4 | You came to the attention of a sinister cult that plans on exploiting your abilities. |
 | 5 | People around you believe that your powers are a curse levied on your family for a past transgression. |
 | 6 | Your powers are believed to be tied to an ancient line of mad kings that supposedly ended in a bloody revolt over a century ago. |
+
 ^reactions
 
 ## Supernatural Mark
+
 _Source: Xanathar's Guide to Everything_
 
 A sorcerer at rest is almost indistinguishable from a normal person; it's only when their magic flies forth that sorcerers reveal their true nature. Even so, many sorcerers have a subtle but telling physical trait that sets them apart from other folk.
@@ -179,9 +186,11 @@ If your sorcerer has a supernatural mark, it might be one that's easily conceale
 | 4 | Your hair grows at a prodigious rate. |
 | 5 | You wrinkle your nose repeatedly while you are chewing. |
 | 6 | A red splotch appears on your neck once a day, then vanishes after an hour. |
+
 ^supernatural-marks
 
 ## Signs of Sorcery
+
 _Source: Xanathar's Guide to Everything_
 
 As the world well knows, some sorcerers are better than others at controlling their spellcasting. Sometimes a wild display of magic gone awry emanates from a sorcerer who casts a spell. But even when one's magic goes off as planned, the act of casting is often accompanied by a telltale sign that makes it clear where that magical energy came from.
@@ -200,6 +209,7 @@ When your sorcerer character casts a spell, does the effort reveal itself in a s
 | 4 | Your hair and garments are briefly buffeted about, as if by a breeze, whenever you call forth a spell. |
 | 5 | If you are standing when you cast a spell, you rise six inches into the air and gently float back down. |
 | 6 | Illusory blue flames wreathe your head as you begin your casting, then abruptly disappear. |
+
 ^signs-of-sorcery
 
 ## Class Features
@@ -269,6 +279,7 @@ You can transform unexpended sorcery points into one spell slot as a bonus actio
 | 3rd | 5 |
 | 4th | 6 |
 | 5th | 7 |
+
 ^creating-spell-slots
 
 #### Converting a Spell Slot to Sorcery Points
@@ -291,6 +302,7 @@ You can use only one Metamagic option on a spell when you cast it, unless otherw
 - [Twinned Spell](/3-Content/Compendiums/optional-features/twinned-spell-xphb.md)  
 
 ### Metamagic Options (Level 3)
+
 _Source: Tasha's Cauldron of Everything p. 65_
 
 *3rd-level sorcerer [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md)*
@@ -304,6 +316,7 @@ When you reach 4th level, you can increase one ability score of your choice by 2
 If your DM allows the use of feats, you may instead take a feat.
 
 ### Sorcerous Versatility (Level 4)
+
 _Source: Tasha's Cauldron of Everything p. 65_
 
 *4th-level sorcerer [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md)*
@@ -314,13 +327,14 @@ Whenever you reach a level in this class that grants the Ability Score Improveme
 - Replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the sorcerer spell list.  
 
 ### Magical Guidance (Level 5)
+
 _Source: Tasha's Cauldron of Everything p. 65_
 
 *5th-level sorcerer [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md)*
 
 You can tap into your inner wellspring of magic to try to conjure success from failure. When you make an ability check that fails, you can spend 1 sorcery point to reroll the `d20`, and you must use the new roll, potentially turning the failure into a success.
 
-### Sorcerous Origin feature (Level 6)
+### Sorcerous Origin Feature (Level 6)
 
 At 6th level, you gain a feature granted by your Sorcerous Origin.
 
@@ -340,7 +354,7 @@ When you reach 12th level, you can increase one ability score of your choice by 
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Sorcerous Origin feature (Level 14)
+### Sorcerous Origin Feature (Level 14)
 
 At 14th level, you gain a feature granted by your Sorcerous Origin.
 
@@ -354,7 +368,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 At 17th level, you learn an additional metamagic option.
 
-### Sorcerous Origin feature (Level 18)
+### Sorcerous Origin Feature (Level 18)
 
 At 18th level, you gain a feature granted by your Sorcerous Origin.
 

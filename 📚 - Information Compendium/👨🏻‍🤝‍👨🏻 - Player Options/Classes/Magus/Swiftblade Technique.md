@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/kt-cll
-- ttrpg-cli/subclass/spellblade/swiftblade
+tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/spellblade/swiftblade]
 aliases:
-- Swiftblade Technique
+  - Swiftblade Technique
+created: 2025/06/13 at 22:32
+updated: 2025/07/13 at 00:17
 ---
+
 # Swiftblade Technique
+
 *[Spellblade](./spellblade-kt-cll.md): Technique*  
 *Source: Kibbles' Compendium of Legends and Legacies p. 50*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Swiftblade Technique (Level 3)
@@ -62,6 +63,7 @@ You learn the following spells at the following levels. The following are Spellb
 | 9th | [spider bite](/3-Content/Compendiums/spells/spider-bite-kt-cll.md) |
 | 13th | blight |
 | 17th | mislead |
+
 ^swiftblade-spells
 
 ### Fighting Style (Level 3)

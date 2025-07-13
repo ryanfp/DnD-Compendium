@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/monk
-- ttrpg-cli/compendium/src/5e/xphb
+tags: [ttrpg-cli/class/monk, ttrpg-cli/compendium/src/5e/xphb]
 aliases:
-- Monk
+  - Monk
+  - Monk
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Monk
+
 *Source: Player's Handbook (2024) p. 100. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +48,7 @@ aliases:
 
 - **Hit Dice**: 1d8 per Monk level
 - **Hit Points at First Level:** 8 + CON
-- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON (minimum of 1)
 
 ## Starting Monk
 
@@ -55,7 +58,6 @@ aliases:
 - **Tool Proficiencies**: Choose one type of [Artisan's Tools](/3-Content/Compendiums/items/artisans-tools-xphb.md) or [Musical Instrument](/3-Content/Compendiums/items/musical-instrument-xphb.md)
 
 **Starting Equipment:** *Choose A or B:* (A) [Spear](/3-Content/Compendiums/items/spear-xphb.md), 5 [Daggers](/3-Content/Compendiums/items/dagger-xphb.md), [Artisan's Tools](/3-Content/Compendiums/items/artisans-tools-xphb.md) or [Musical Instrument](/3-Content/Compendiums/items/musical-instrument-xphb.md) chosen for the tool proficiency above, [Explorer's Pack](/3-Content/Compendiums/items/explorers-pack-xphb.md), and 11 GP; or (B) 50 GP
-
 
 ## Monk
 

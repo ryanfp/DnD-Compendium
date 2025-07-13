@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/paladin/glory
+tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/paladin/glory]
 aliases:
-- Oath of Glory
+  - Oath of Glory
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Oath of Glory
+
 *[Paladin](Paladin.md): Sacred Oath*  
 *Source: Tasha's Cauldron of Everything p. 53, Mythic Odysseys of Theros p. 29*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Oath of Glory (Level 3)
@@ -54,21 +55,25 @@ Paladins who take the Oath of Glory believe they and their companions are destin
 The tenets of the Oath of Glory drive a paladin to attempt heroics that might one day shine in legend.
 
 #### Actions over Words
+
 _Source: Tasha's Cauldron of Everything_
 
 Strive to be known by glorious deeds, not words.
 
 #### Challenges Are but Tests
+
 _Source: Tasha's Cauldron of Everything_
 
 Face hardships with courage, and encourage your allies to face them with you.
 
 #### Hone the Body
+
 _Source: Tasha's Cauldron of Everything_
 
 Like raw stone, your body must be worked so its potential can be realized.
 
 #### Discipline the Soul
+
 _Source: Tasha's Cauldron of Everything_
 
 You must marshal the discipline to overcome failings within yourself that threaten to dim the glory of you and your friends.
@@ -88,6 +93,7 @@ You gain oath spells at the paladin levels listed in the Oath of Glory Spells ta
 | 9th | [haste](/3-Content/Compendiums/spells/haste-xphb.md), [protection from energy](/3-Content/Compendiums/spells/protection-from-energy-xphb.md) |
 | 13th | [compulsion](/3-Content/Compendiums/spells/compulsion-xphb.md), [freedom of movement](/3-Content/Compendiums/spells/freedom-of-movement-xphb.md) |
 | 17th | [commune](/3-Content/Compendiums/spells/commune-xphb.md), [flame strike](/3-Content/Compendiums/spells/flame-strike-xphb.md) |
+
 ^oath-of-glory-spells
 
 ### Channel Divinity (Level 3)

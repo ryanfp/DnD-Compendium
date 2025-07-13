@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/subclass/monk/open-hand
+tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/subclass/monk/open-hand]
 aliases:
-- Way of the Open Hand
+  - Way of the Open Hand
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Way of the Open Hand
+
 *[Monk](Monk.md): Monastic Tradition*  
 *Source: Player's Handbook p. 79. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

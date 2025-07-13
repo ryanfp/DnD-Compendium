@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/jaeger
-- ttrpg-cli/compendium/src/5e/sgtteh
+tags: [ttrpg-cli/class/jaeger, ttrpg-cli/compendium/src/5e/sgtteh]
 aliases:
-- Jaeger
+  - Jaeger
+created: 2025/06/13 at 22:28
+updated: 2025/07/13 at 00:17
 ---
+
 # Jaeger
+
 *Source: Steinhardt's Guide to the Eldritch Hunt p. 112*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d8 per Jaeger level
 - **Hit Points at First Level:** 8 + CON
-- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON (minimum of 1)
 
 ## Starting Jaeger
 
@@ -60,7 +62,6 @@ aliases:
 - (a) a [pistol](/3-Content/Compendiums/items/pistol-sgtteh.md) and pouch of 20 [bullets](/3-Content/Compendiums/items/lead-bullet-sgtteh.md) or (b) any two simple weapons
 - (a) scale mail or (b) leather armor
 - (a) a dungeoneer's pack or (b) an explorer's pack
-
 
 ## Jaeger
 

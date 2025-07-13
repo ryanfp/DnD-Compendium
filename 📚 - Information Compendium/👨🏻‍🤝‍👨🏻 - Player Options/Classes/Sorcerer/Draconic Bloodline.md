@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/subclass/sorcerer/draconic
+tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/subclass/sorcerer/draconic]
 aliases:
-- Draconic Bloodline
+  - Draconic Bloodline
+created: 2025/06/15 at 15:37
+updated: 2025/07/13 at 00:17
 ---
+
 # Draconic Bloodline
+
 *[Sorcerer](Sorcerer.md): Sorcerous Origin*  
 *Source: Player's Handbook p. 102. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Draconic Bloodline (Level 1)
@@ -67,6 +68,7 @@ At 1st level, you choose one type of dragon as your ancestor. The damage type as
 | Red | Fire |
 | Silver | Cold |
 | White | Cold |
+
 ^draconic-ancestry
 
 You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.

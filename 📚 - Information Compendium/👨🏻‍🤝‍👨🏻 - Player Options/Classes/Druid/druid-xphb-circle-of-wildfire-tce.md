@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/druid/wildfire
+tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/druid/wildfire]
 aliases:
-- Circle of Wildfire
+  - Circle of Wildfire
+  - Circle of Wildfire
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Circle of Wildfire
+
 *[Druid](./druid-xphb.md): Druid Subclass*  
 *Source: Tasha's Cauldron of Everything p. 39*  
 
@@ -42,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
 
@@ -69,6 +71,7 @@ Once you gain access to one of these spells, you always have it prepared, and it
 | 5th | [plant growth](/3-Content/Compendiums/spells/plant-growth-xphb.md), [revivify](/3-Content/Compendiums/spells/revivify-xphb.md) |
 | 7th | [aura of life](/3-Content/Compendiums/spells/aura-of-life-xphb.md), [fire shield](/3-Content/Compendiums/spells/fire-shield-xphb.md) |
 | 9th | [flame strike](/3-Content/Compendiums/spells/flame-strike-xphb.md), [mass cure wounds](/3-Content/Compendiums/spells/mass-cure-wounds-xphb.md) |
+
 ^circle-of-wildfire-spells
 
 ### Summon Wildfire Spirit (Level 2)

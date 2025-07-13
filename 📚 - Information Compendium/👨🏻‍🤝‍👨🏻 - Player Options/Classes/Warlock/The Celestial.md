@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/xge
-- subclass/warlock/celestial
+tags: [compendium/src/5e/xge, subclass/warlock/celestial]
 aliases:
-- The Celestial
+  - The Celestial
+created: 2025/06/15 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # The Celestial
+
 *[Warlock](Warlock.md): Otherworldly Patron*  
 *Source: Xanathar's Guide to Everything p. 54*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### The Celestial (Level 1)
@@ -52,6 +53,7 @@ Your patron is a powerful being of the Upper Planes. You have bound yourself to 
 Being connected to such power can cause changes in your behavior and beliefs. You might find yourself driven to annihilate the undead, to defeat fiends, and to protect the innocent. At times, your heart might also be filled with a longing for the celestial realm of your patron, and a desire to wander that paradise for the rest of your days. But you know that your mission is among mortals for now, and that your pact binds you to bring light to the dark places of the world.
 
 #### Expanded Spell List
+
 _Source: Xanathar's Guide to Everything_
 
 The Celestial lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
@@ -65,6 +67,7 @@ The Celestial lets you choose from an expanded list of spells when you learn a w
 | 3rd | [daylight](/📚%20-%20Information%20Compendium/spells/daylight.md), [revivify](/📚%20-%20Information%20Compendium/spells/revivify.md) |
 | 4th | [guardian of faith](/📚%20-%20Information%20Compendium/spells/guardian-of-faith.md), [wall of fire](/📚%20-%20Information%20Compendium/spells/wall-of-fire.md) |
 | 5th | [flame strike](/📚%20-%20Information%20Compendium/spells/flame-strike.md), [greater restoration](/📚%20-%20Information%20Compendium/spells/greater-restoration.md) |
+
 ^celestial-expanded-spells
 
 ### Bonus Cantrips (Level 1)

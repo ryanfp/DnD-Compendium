@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/sorcerer
-- ttrpg-cli/compendium/src/5e/xphb
+tags: [ttrpg-cli/class/sorcerer, ttrpg-cli/compendium/src/5e/xphb]
 aliases:
-- Sorcerer
+  - Sorcerer
+  - Sorcerer
+created: 2025/06/15 at 15:37
+updated: 2025/07/13 at 00:17
 ---
+
 # Sorcerer
+
 *Source: Player's Handbook (2024) p. 138. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +48,7 @@ aliases:
 
 - **Hit Dice**: 1d6 per Sorcerer level
 - **Hit Points at First Level:** 6 + CON
-- **Hit Points at Higher Levels:** add 4 OR 1d6 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 4 OR 1d6 + CON (minimum of 1)
 
 ## Starting Sorcerer
 
@@ -54,7 +57,6 @@ aliases:
 - **Weapon Proficiencies**: Simple weapons
 
 **Starting Equipment:** *Choose A or B:* (A) [Spear](/3-Content/Compendiums/items/spear-xphb.md), 2 [Daggers](/3-Content/Compendiums/items/dagger-xphb.md), [Arcane Focus](/3-Content/Compendiums/items/arcane-focus-xphb.md) ([crystal](/3-Content/Compendiums/items/crystal-xphb.md)), [Dungeoneer's Pack](/3-Content/Compendiums/items/dungeoneers-pack-xphb.md), and 28 GP; or (B) 50 GP
-
 
 ## Sorcerer
 
@@ -136,6 +138,7 @@ Any spell slot you create with this feature vanishes when you finish a [Long Res
 | 3 | 5 | 5 |
 | 4 | 6 | 7 |
 | 5 | 7 | 9 |
+
 ^creating-spell-slots
 
 ### Metamagic (Level 2)

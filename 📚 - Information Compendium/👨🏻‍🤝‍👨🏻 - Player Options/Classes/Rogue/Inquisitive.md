@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/xge
-- subclass/rogue/inquisitive
+tags: [compendium/src/5e/xge, subclass/rogue/inquisitive]
 aliases:
-- Inquisitive
+  - Inquisitive
+created: 2025/06/15 at 22:27
+updated: 2025/07/13 at 00:17
 ---
+
 # Inquisitive
+
 *[Rogue](Rogue.md): Roguish Archetype*  
 *Source: Xanathar's Guide to Everything p. 45*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

@@ -65,7 +65,7 @@
       "date-modified": true,
       "date-modified-key": "updated",
       "date-modified-source-of-truth": "user or Linter edits",
-      "format": "YYYY/MM/DD at HH:mm",
+      "format": "YYYY/MM/DD [at] HH:mm",
       "convert-to-utc": false,
       "update-on-file-contents-updated": "never"
     },

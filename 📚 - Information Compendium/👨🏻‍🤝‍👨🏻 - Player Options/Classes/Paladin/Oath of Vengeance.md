@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/subclass/paladin/vengeance
+tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/subclass/paladin/vengeance]
 aliases:
-- Oath of Vengeance
+  - Oath of Vengeance
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Oath of Vengeance
+
 *[Paladin](Paladin.md): Sacred Oath*  
 *Source: Player's Handbook p. 87*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 
@@ -82,6 +83,7 @@ You gain oath spells at the paladin levels listed.
 | 9th | [haste](/3-Content/Compendiums/spells/haste-xphb.md), [protection from energy](/3-Content/Compendiums/spells/protection-from-energy-xphb.md) |
 | 13th | [banishment](/3-Content/Compendiums/spells/banishment-xphb.md), [dimension door](/3-Content/Compendiums/spells/dimension-door-xphb.md) |
 | 17th | [hold monster](/3-Content/Compendiums/spells/hold-monster-xphb.md), [scrying](/3-Content/Compendiums/spells/scrying-xphb.md) |
+
 ^oath-of-vengeance-spells
 
 ### Channel Divinity (Level 3)

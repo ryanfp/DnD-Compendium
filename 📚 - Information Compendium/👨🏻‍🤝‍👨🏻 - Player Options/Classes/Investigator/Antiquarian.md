@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/vss
-- ttrpg-cli/subclass/investigator/antiquarian
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/investigator/antiquarian]
 aliases:
-- Antiquarian
+  - Antiquarian
+created: 2025/06/17 at 23:53
+updated: 2025/07/13 at 00:17
 ---
+
 # Antiquarian
+
 *[[Investigator]]: Occult Specialization*  
 *Source: Valda's Spire of Secrets p. 107*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 
@@ -97,18 +98,18 @@ By 14th level, you've secured the crown jewel of your collection: a lich's phyla
 
 This magic item is always attuned to you and doesn't count against your total number of attuned magic items. It has 5 charges, and regains `1d4 + 1` expended charges daily at dawn. You can expend one or more of these charges to use the following abilities:
 
-#### 1 Charge:
+#### 1 Charge
 
 You can cast the spell false life as a second level spell without expending spell slots or spell components.
 
-#### 1 Charge:
+#### 1 Charge
 
 You can use your bonus action to regain an expended use of your Trinkets.
 
-#### 2 Charges:
+#### 2 Charges
 
 As a reaction when you drop to 0 hit points, you can drop to 1 hit point instead.
 
-#### 3 Charges:
+#### 3 Charges
 
 Make a melee spell attack against creature within your reach. On a hit, the target takes `5d6` necrotic damage and you regain hit points equal to the total amount of necrotic damage dealt.

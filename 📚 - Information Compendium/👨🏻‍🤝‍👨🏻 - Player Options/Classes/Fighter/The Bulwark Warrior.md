@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/ghpg
-- ttrpg-cli/subclass/fighter/bulwark-warrior
+tags: [ttrpg-cli/compendium/src/5e/ghpg, ttrpg-cli/subclass/fighter/bulwark-warrior]
 aliases:
-- The Bulwark Warrior
+  - The Bulwark Warrior
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # The Bulwark Warrior
+
 *[Fighter](Fighter.md): Martial Archetype*  
 *Source: Grim Hollow: The Player's Guide*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/ghpg
-- ttrpg-cli/domain/inquisition
-- ttrpg-cli/subclass/cleric/inquisition
+tags: [ttrpg-cli/compendium/src/5e/ghpg, ttrpg-cli/domain/inquisition, ttrpg-cli/subclass/cleric/inquisition]
 aliases:
-- Inquisition Domain
+  - Inquisition Domain
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Inquisition Domain
+
 *[Cleric](Cleric.md): Divine Domain*  
 *Source: Grim Hollow: The Player's Guide*  
 
@@ -43,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Inquisition Domain (Level 1)
@@ -59,6 +59,7 @@ The Inquisition domain reflects the order of the multiverse and the rejection of
 | 5th | [dispel magic](/3-Content/Compendiums/spells/dispel-magic-xphb.md), [remove curse](/3-Content/Compendiums/spells/remove-curse-xphb.md) |
 | 7th | [arcane eye](/3-Content/Compendiums/spells/arcane-eye-xphb.md), [locate creature](/3-Content/Compendiums/spells/locate-creature-xphb.md) |
 | 9th | [creation](/3-Content/Compendiums/spells/creation-xphb.md), [hallow](/3-Content/Compendiums/spells/hallow-xphb.md) |
+
 ^inquisition-domain-spells
 
 ### Bonus Proficiencies (Level 1)

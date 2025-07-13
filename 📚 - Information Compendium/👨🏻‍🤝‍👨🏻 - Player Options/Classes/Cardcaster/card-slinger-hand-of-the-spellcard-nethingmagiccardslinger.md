@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/nethingmagiccardslinger
-- ttrpg-cli/subclass/card-slinger/spellcard
+tags: [ttrpg-cli/compendium/src/5e/nethingmagiccardslinger, ttrpg-cli/subclass/card-slinger/spellcard]
 aliases:
-- Hand of the Spellcard
+  - Hand of the Spellcard
+  - Hand of the Spellcard
+created: 2025/06/13 at 22:26
+updated: 2025/07/13 at 00:17
 ---
+
 # Hand of the Spellcard
+
 *[Card Slinger](./card-slinger-nethingmagiccardslinger.md): Hand*  
 *Source: The Card Slinger*  
 
@@ -42,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Hand of the Spellcard (Level 3)
@@ -59,7 +61,7 @@ When you reach 3rd level, you gain the ability to cast spells. See "chapter 10" 
 - For example, if you know the 1st-level spell fog cloud and have a 1st-level and a 2nd-level spell slot available, you can cast fog cloud using either slot.  
 
 - You know three 1st-level wizard spells of your choice, two of which you must choose from the conjuration and transmutation spells on the wizard spell list.  
-- The Spells Known column of the Marksmage  Spellcasting table shows when you learn more wizard spells of 1st level or higher. Each of these spells must be an conjuration or transmutation spell of your choice, and must be of a level for which you have spell slots. For instance, when you reach 7th level in this class, you can learn one new spell of 1st or 2nd level.  
+- The Spells Known column of the Marksmage Spellcasting table shows when you learn more wizard spells of 1st level or higher. Each of these spells must be an conjuration or transmutation spell of your choice, and must be of a level for which you have spell slots. For instance, when you reach 7th level in this class, you can learn one new spell of 1st or 2nd level.  
 - The spells you learn at 8th, 14th, and 20th level can come from any school of magic.  
 - Whenever you gain a level in this class, you can replace one of the wizard spells you know with another spell of your choice from the wizard spell list. The new spell must be of a level for which you have spell slots, and it must be an conjuration or transmutation spell, unless you're replacing the spell you gained at 8th, 14th, or 20th level.  
 

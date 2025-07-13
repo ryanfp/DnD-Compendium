@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/tdcsr
-- subclass/wizard/blood-magic
+tags: [compendium/src/5e/tdcsr, subclass/wizard/blood-magic]
 aliases:
-- Blood Magic
+  - Blood Magic
+created: 2025/06/15 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # Blood Magic
+
 *[Wizard](Wizard.md): Arcane Tradition*  
 *Source: Tal'Dorei Campaign Setting Reborn p. 178*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

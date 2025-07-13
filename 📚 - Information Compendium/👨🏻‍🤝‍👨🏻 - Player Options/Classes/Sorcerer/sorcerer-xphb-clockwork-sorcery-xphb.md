@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/sorcerer/clockwork
+tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/subclass/sorcerer/clockwork]
 aliases:
-- Clockwork Sorcery
+  - Clockwork Sorcery
+  - Clockwork Sorcery
+created: 2025/06/15 at 15:37
+updated: 2025/07/13 at 00:17
 ---
+
 # Clockwork Sorcery
+
 *[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass*  
 *Source: Player's Handbook (2024) p. 146*  
 
@@ -42,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Clockwork Sorcery (Level 3)
@@ -63,6 +65,7 @@ When you reach a Sorcerer level specified in the Clockwork Spells table, you the
 | 5th | [Dispel Magic](/3-Content/Compendiums/spells/dispel-magic-xphb.md), [Protection From Energy](/3-Content/Compendiums/spells/protection-from-energy-xphb.md) |
 | 7th | [Freedom of Movement](/3-Content/Compendiums/spells/freedom-of-movement-xphb.md), [Summon Construct](/3-Content/Compendiums/spells/summon-construct-xphb.md) |
 | 9th | [Greater Restoration](/3-Content/Compendiums/spells/greater-restoration-xphb.md), [Wall of Force](/3-Content/Compendiums/spells/wall-of-force-xphb.md) |
+
 ^clockwork-spells
 
 In addition, consult the Manifestations of Order table and choose or randomly determine a way your connection to order manifests while you are casting any of your Sorcerer spells.
@@ -79,6 +82,7 @@ In addition, consult the Manifestations of Order table and choose or randomly de
 | 4 | Floating equations and geometric objects overlay your body. |
 | 5 | Your [Spellcasting Focus](/3-Content/Rules/variant-rules/spellcasting-focus-xphb.md) temporarily takes the form of a Tiny clockwork mechanism. |
 | 6 | The ticking of gears or ringing of a clock can be heard by you and those affected by your magic. |
+
 ^manifestations-of-order
 
 ### Restore Balance (Level 3)

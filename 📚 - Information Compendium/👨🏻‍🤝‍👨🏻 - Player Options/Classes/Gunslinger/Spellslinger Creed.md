@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/gunslinger/spellslinger
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/gunslinger/spellslinger]
 aliases:
+  - Spellslinger Creed
   - Spellslinger
-title: Spellslinger Creed
+created: 2025/06/13 at 22:27
+updated: 2025/07/13 at 00:17
 ---
+
 # Spellslinger Creed
+
 *[Gunslinger](Gunslinger.md): Gunslinger's Creed*  
 *Source: Valda's Spire of Secrets*  
 
@@ -42,7 +44,6 @@ title: Spellslinger Creed
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

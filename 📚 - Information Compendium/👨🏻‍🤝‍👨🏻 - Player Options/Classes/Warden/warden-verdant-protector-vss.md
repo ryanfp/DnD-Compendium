@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/vss
-- ttrpg-cli/subclass/warden/verdant-protector
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/warden/verdant-protector]
 aliases:
-- Verdant Protector
+  - Verdant Protector
+  - Verdant Protector
+created: 2025/06/13 at 22:33
+updated: 2025/07/13 at 00:17
 ---
+
 # Verdant Protector
+
 *[Warden](VSS%20Warden.md): Champion's Call*  
 *Source: Valda's Spire of Secrets*  
 
@@ -41,7 +44,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

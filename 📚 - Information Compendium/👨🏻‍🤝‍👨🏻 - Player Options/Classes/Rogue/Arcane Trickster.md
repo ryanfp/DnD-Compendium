@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/subclass/rogue/arcane-trickster
+tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/subclass/rogue/arcane-trickster]
 aliases:
-- Arcane Trickster
+  - Arcane Trickster
+created: 2025/06/15 at 15:37
+updated: 2025/07/13 at 00:17
 ---
+
 # Arcane Trickster
+
 *[Rogue](Rogue.md): Roguish Archetype*  
 *Source: Player's Handbook p. 97*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

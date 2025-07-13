@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/xge
-- subclass/sorcerer/divine-soul
+tags: [compendium/src/5e/xge, subclass/sorcerer/divine-soul]
 aliases:
-- Divine Soul
+  - Divine Soul
+created: 2025/06/15 at 22:28
+updated: 2025/07/13 at 00:17
 ---
+
 # Divine Soul
+
 *[Sorcerer](Sorcerer.md): Sorcerous Origin*  
 *Source: Xanathar's Guide to Everything p. 50*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 > [!quote] A quote from Xanathar  
 > 
 > Why do so many celestial things have bird wings and infernal things have bat wings? It seems arbitrary. There should be a bat angel!
@@ -72,6 +73,7 @@ In addition, choose an affinity for the source of your divine power: good, evil,
 | Law | [bless](/📚%20-%20Information%20Compendium/spells/bless.md) |
 | Chaos | [bane](/📚%20-%20Information%20Compendium/spells/bane.md) |
 | Neutrality | [protection from evil and good](/📚%20-%20Information%20Compendium/spells/protection-from-evil-and-good.md) |
+
 ^affinity-spell
 
 ### Favored by the Gods (Level 1)

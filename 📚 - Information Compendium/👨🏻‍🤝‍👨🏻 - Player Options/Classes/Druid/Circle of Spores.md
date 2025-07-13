@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/druid/spores
+tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/druid/spores]
 aliases:
-- Circle of Spores
+  - Circle of Spores
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Circle of Spores
+
 *[Druid](Druid.md): Druid Circle*  
 *Source: Tasha's Cauldron of Everything p. 36*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Circle of Spores (Level 2)
@@ -67,6 +68,7 @@ Once you gain access to one of these spells, you always have it prepared, and it
 | 5th | [animate dead](/3-Content/Compendiums/spells/animate-dead-xphb.md), [gaseous form](/3-Content/Compendiums/spells/gaseous-form-xphb.md) |
 | 7th | [blight](/3-Content/Compendiums/spells/blight-xphb.md), [confusion](/3-Content/Compendiums/spells/confusion-xphb.md) |
 | 9th | [cloudkill](/3-Content/Compendiums/spells/cloudkill-xphb.md), [contagion](/3-Content/Compendiums/spells/contagion-xphb.md) |
+
 ^circle-of-spores-spells
 
 ### Halo of Spores (Level 2)

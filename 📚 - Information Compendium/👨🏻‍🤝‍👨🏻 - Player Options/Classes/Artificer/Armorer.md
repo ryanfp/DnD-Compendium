@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/artificer/armorer
+tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/artificer/armorer]
 aliases:
-- Armorer
+  - Armorer
+created: 2025/06/15 at 15:34
+updated: 2025/07/13 at 00:17
 ---
+
 # Armorer
+
 *[Artificer](Artificer.md): Artificer Specialist*  
 *Source: Tasha's Cauldron of Everything p. 15*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Armorer (Level 3)
@@ -70,6 +71,7 @@ You always have certain spells prepared after you reach particular levels in thi
 | 9th | [hypnotic pattern](/3-Content/Compendiums/spells/hypnotic-pattern-xphb.md), [lightning bolt](/3-Content/Compendiums/spells/lightning-bolt-xphb.md) |
 | 13th | [fire shield](/3-Content/Compendiums/spells/fire-shield-xphb.md), [greater invisibility](/3-Content/Compendiums/spells/greater-invisibility-xphb.md) |
 | 17th | [passwall](/3-Content/Compendiums/spells/passwall-xphb.md), [wall of force](/3-Content/Compendiums/spells/wall-of-force-xphb.md) |
+
 ^armorer-spells
 
 ### Arcane Armor (Level 3)

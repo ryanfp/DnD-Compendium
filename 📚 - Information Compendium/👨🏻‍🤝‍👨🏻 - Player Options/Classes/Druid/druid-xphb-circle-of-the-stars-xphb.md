@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/druid/stars
+tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/subclass/druid/stars]
 aliases:
-- Circle of the Stars
+  - Circle of the Stars
+  - Circle of the Stars
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Circle of the Stars
+
 *[Druid](./druid-xphb.md): Druid Subclass*  
 *Source: Player's Handbook (2024) p. 88*  
 
@@ -42,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Circle of the Stars (Level 3)
@@ -71,6 +73,7 @@ If you lose the map, you can perform a 1-hour ceremony to magically create a rep
 | 4 | A collection of maps bound in an ebony cover |
 | 5 | A crystal engraved with starry patterns |
 | 6 | A glass disk etched with constellations |
+
 ^star-map
 
 ### Starry Form (Level 3)

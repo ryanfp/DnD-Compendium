@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/barbarian
-- ttrpg-cli/compendium/src/5e/phb
+tags: [ttrpg-cli/class/barbarian, ttrpg-cli/compendium/src/5e/phb]
 aliases:
-- Barbarian
+  - Barbarian
+created: 2025/06/15 at 15:34
+updated: 2025/07/13 at 00:17
 ---
+
 # Barbarian
+
 *Source: Player's Handbook p. 46. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d12 per Barbarian level
 - **Hit Points at First Level:** 12 + CON
-- **Hit Points at Higher Levels:** add 7 OR 1d12 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 7 OR 1d12 + CON (minimum of 1)
 
 ## Starting Barbarian
 
@@ -119,6 +121,7 @@ It can be tempting to play a barbarian character that is a straightforward appli
 > Rawr! I'm really angry! Funny, I don't feel any stronger. Maybe because I'm always angry, I'm always in top condition. Stands to reason.
 
 ## Personal Totems
+
 _Source: Xanathar's Guide to Everything_
 
 Barbarians tend to travel light, carrying little in the way of personal effects or other unnecessary gear. The few possessions they do carry often include small items that have special significance. A personal totem is significant because it has a mystical origin or is tied to an important moment in the character's life—perhaps a remembrance from the barbarian's past or a harbinger of what lies ahead.
@@ -139,9 +142,11 @@ Consider creating one or more personal totems for your character—objects that 
 | 4 | A small leather pouch holding three stones that represent your ancestors |
 | 5 | A few small bones from the first beast you killed, tied together with colored wool |
 | 6 | An egg-sized stone in the shape of your spirit animal that appeared one day in your belt pouch |
+
 ^personal-totems
 
 ## Tattoos
+
 _Source: Xanathar's Guide to Everything_
 
 The members of many barbarian clans decorate their bodies with tattoos, each of which represents a significant moment in the life of the bearer or the bearer's ancestors, or which symbolizes a feeling or an attitude. As with personal totems, a barbarian's tattoos might or might not be related to an animal spirit.
@@ -160,9 +165,11 @@ Each tattoo a barbarian displays contributes to that individual's identity. If y
 | 4 | The antlers of an elk are inked across your back. |
 | 5 | Images of your spirit animal are tattooed along your weapon arm and hand. |
 | 6 | The eyes of a wolf are marked on your back to help you see and ward off evil spirits. |
+
 ^tattoos
 
 ## Superstitions
+
 _Source: Xanathar's Guide to Everything_
 
 Barbarians vary widely in how they understand life. Some follow gods and look for guidance from those deities in the cycles of nature and the animals they encounter. These barbarians believe that spirits inhabit the plants and animals of the world, and the barbarians look to them for omens and power.
@@ -185,6 +192,7 @@ If your barbarian character has any superstitions, were they ingrained in you by
 | 4 | Magical things bring trouble. Never sleep with a magic object within ten feet of you. |
 | 5 | When you walk through a graveyard, be sure to wear silver, or a ghost might jump into your body. |
 | 6 | If an elf looks you in the eyes, she's trying to read your thoughts. |
+
 ^superstition
 
 ## Class Features
@@ -222,6 +230,7 @@ Starting at 2nd level, you can throw aside all concern for defense to attack wit
 At 3rd level, you choose a path that shapes the nature of your rage from the list of available paths. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.
 
 ### Primal Knowledge (Level 3)
+
 _Source: Tasha's Cauldron of Everything p. 24_
 
 *3rd-level barbarian [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md)*
@@ -253,6 +262,7 @@ By 7th level, your instincts are so honed that you have advantage on initiative 
 Additionally, if you are [surprised](/3-Content/Rules/conditions.md#Surprised) at the beginning of combat and aren't [incapacitated](/3-Content/Rules/conditions.md#Incapacitated), you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
 
 ### Instinctive Pounce (Level 7)
+
 _Source: Tasha's Cauldron of Everything p. 24_
 
 *7th-level barbarian [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md)*
@@ -271,7 +281,7 @@ Beginning at 9th level, you can roll one additional weapon damage die when deter
 
 This increases to two additional dice at 13th level and three additional dice at 17th level.
 
-### Path feature (Level 10)
+### Path Feature (Level 10)
 
 At 10th level, you gain a feature from your Primal Path.
 
@@ -293,7 +303,7 @@ At 13th level, you can roll two additional weapon damage dice when determining t
 
 This increases to three additional dice at 17th level.
 
-### Path feature (Level 14)
+### Path Feature (Level 14)
 
 At 14th level, you gain a feature from your Primal Path.
 

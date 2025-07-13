@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/tdcsr
-- subclass/monk/cobalt-soul
+tags: [compendium/src/5e/tdcsr, subclass/monk/cobalt-soul]
 aliases:
-- Way of the Cobalt Soul
+  - Way of the Cobalt Soul
+created: 2025/06/15 at 22:26
+updated: 2025/07/13 at 00:17
 ---
+
 # Way of the Cobalt Soul
+
 *[Monk](Monk.md): Monastic Tradition*  
 *Source: Tal'Dorei Campaign Setting Reborn p. 173*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

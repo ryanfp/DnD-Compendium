@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/ghpg
-- ttrpg-cli/subclass/paladin/pestilence
+tags: [ttrpg-cli/compendium/src/5e/ghpg, ttrpg-cli/subclass/paladin/pestilence]
 aliases:
-- Oath of Pestilence
+  - Oath of Pestilence
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Oath of Pestilence
+
 *[Paladin](Paladin.md): Sacred Oath*  
 *Source: Grim Hollow: The Player's Guide*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Oath of Pestilence (Level 3)
@@ -54,16 +55,19 @@ Clad in grime-soaked armor and wielding rusting weapons, the Oath of Pestilence 
 The tenets of the Oath of Pestilence emphasize the role of disease as a purifying element in the cycle of life.
 
 #### Strength in Resilience
+
 _Source: Grim Hollow: The Player's Guide_
 
 Surviving hardship and plague make you stronger. Spreading these things causes strength to flourish.
 
 #### All Things Must Pass
+
 _Source: Grim Hollow: The Player's Guide_
 
 Death is the natural conclusion of life. There is nothing unnatural or amoral about the ending of life.
 
 #### Might Makes Right
+
 _Source: Grim Hollow: The Player's Guide_
 
 The laws of mortals mean nothing to poxes and plagues, they go where they wish and take what they want. So should you.
@@ -79,6 +83,7 @@ You gain oath spells at the paladin levels listed in the Oath of Pestilence Spel
 | 9th | [flash fever](/3-Content/Compendiums/spells/flash-fever-ghpg.md), [stinking cloud](/3-Content/Compendiums/spells/stinking-cloud-xphb.md) |
 | 13th | [blight](/3-Content/Compendiums/spells/blight-xphb.md), [confusion](/3-Content/Compendiums/spells/confusion-xphb.md) |
 | 17th | [contagion](/3-Content/Compendiums/spells/contagion-xphb.md), [insect plague](/3-Content/Compendiums/spells/insect-plague-xphb.md) |
+
 ^paladin-level-spells
 
 ### Channel Divinity (Level 3)
@@ -86,6 +91,7 @@ You gain oath spells at the paladin levels listed in the Oath of Pestilence Spel
 When you take this oath at 3rd level, you gain the following Channel Divinity options:
 
 #### Debilitating Fever
+
 _Source: Grim Hollow: The Player's Guide_
 
 Your touch inflicts disease. Make a melee spell attack against a creature within your reach that isn't a construct or undead. On a hit, the creature becomes diseased and is [incapacitated](/3-Content/Rules/conditions.md#Incapacitated) for 1 minute. At the end of each of the diseased target's turns, the target can make a Constitution saving throw. On a success, the target is no longer diseased, and the effect ends.
@@ -93,6 +99,7 @@ Your touch inflicts disease. Make a melee spell attack against a creature within
 Since this ability induces a natural disease in its target, any effect that removes a disease or otherwise ameliorates a disease's effects apply to it.
 
 #### Entropic Infection
+
 _Source: Grim Hollow: The Player's Guide_
 
 You can use your Channel Divinity to weaken a creature against entropic energies. As an action, you can force a creature of your choice that you can see within 30 feet of you to make a Constitution saving throw. On a failed save, for the next minute the creature takes an additional `2d6` damage the first time it takes necrotic damage each turn. During this time, the creature loses resistance to necrotic damage if it has it.

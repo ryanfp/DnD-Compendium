@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/llsave
-  - ttrpg-cli/subclass/savant/culinarian
+tags: [ttrpg-cli/compendium/src/5e/llsave, ttrpg-cli/subclass/savant/culinarian]
 aliases:
   - Culinarian
-title: Culinarian
+created: 2025/06/13 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # Culinarian
+
 *[Savant](Savant.md): Academic Disciplines*  
 *Source: Savant Expanded*  
 
@@ -43,7 +44,6 @@ title: Culinarian
 
 ^class-progression
 
-
 ## Class Features
 
 ### Culinarian (Level 3)
@@ -60,25 +60,25 @@ In addition, so long as you have access to cook's utensils and edible ingredient
 
 You have begun to compile a Cook Book containing the exotic and wondrous [Recipes](/3-Content/Compendiums/lists/list-optfeaturetype-ll-cr.md) you create during your adventures:
 
-#### Recipes Known.
+#### Recipes Known
 
 You know two Recipes of your choice from the list at the end of this Discipline.
 
-#### Adding a Recipe.
+#### Adding a Recipe
 
 As an action, you can harvest a Sample from a creature that died within the last minute. Before the end of your next long rest, you can spend 1 hour, which can be during a short or long rest, using [cook's utensils](/3-Content/Compendiums/items/cooks-utensils-xphb.md) and the Sample to add the corresponding Recipe that corresponds to the Sample's creature type to your Cook Book.
 
-#### Preparing a Morsel.
+#### Preparing a Morsel
 
 At the end of each short or long rest, you prepare a number of Morsels equal to your Intelligence modifier. Each Morsel you prepare has the properties of one Recipe from your Cook Book.
 
 You don't need samples from a creature corresponding to a Recipe to prepare a Morsel with that Recipe. Any Morsels you prepare lose their potency at the end of the next short or long rest as they become inedible and bland.
 
-#### Serving Morsels.
+#### Serving Morsels
 
 As an action, any creature can eat a Morsel, or feed it to a willing creature within its reach. A creature that eats a Morsel gains the benefits detailed in the Recipe description. A creature can only benefit from one Morsel at a time, and eating another Morsel instantly ends any previous Morsel benefits.
 
-#### Replacing a Cook Book.
+#### Replacing a Cook Book
 
 If your Cook Book is lost or destroyed, you can spend 1 hour adding each of your old Recipes to a new Cook Book from memory. You do not need to rediscover any Recipes that were lost.
 

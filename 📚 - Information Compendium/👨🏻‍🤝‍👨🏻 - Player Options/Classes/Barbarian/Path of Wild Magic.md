@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/tce
-- subclass/barbarian/wild-magic
+tags: [compendium/src/5e/tce, subclass/barbarian/wild-magic]
 aliases:
-- Path of Wild Magic
+  - Path of Wild Magic
+created: 2025/06/15 at 22:21
+updated: 2025/07/13 at 00:17
 ---
+
 # Path of Wild Magic
+
 *[Barbarian](Barbarian.md): Primal Path*  
 *Source: Tasha's Cauldron of Everything p. 25*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

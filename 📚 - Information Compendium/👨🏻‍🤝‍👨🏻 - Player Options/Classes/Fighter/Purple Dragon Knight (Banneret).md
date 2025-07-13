@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/subclass/fighter/purple-dragon-knight-banneret
+tags: [ttrpg-cli/compendium/src/5e/scag, ttrpg-cli/subclass/fighter/purple-dragon-knight-banneret]
 aliases:
-- Purple Dragon Knight (Banneret)
+  - Purple Dragon Knight (Banneret)
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Purple Dragon Knight (Banneret)
+
 *[Fighter](Fighter.md): Martial Archetype*  
 *Source: Sword Coast Adventurer's Guide p. 128*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

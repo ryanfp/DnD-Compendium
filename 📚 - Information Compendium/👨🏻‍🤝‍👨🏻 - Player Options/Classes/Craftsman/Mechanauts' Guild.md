@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/craftsman/mechanauts
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/craftsman/mechanauts]
 aliases:
-  - Mechanauts' Guild
-title: Mechanauts' Guild
+  - "Mechanauts' Guild"
+created: 2025/06/13 at 22:27
+updated: 2025/07/13 at 00:17
 ---
+
 # Mechanauts' Guild
+
 *[Craftsman](Craftsman.md): Artisan's Guild*  
 *Source: Valda's Spire of Secrets*  
 
@@ -42,7 +43,6 @@ title: Mechanauts' Guild
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

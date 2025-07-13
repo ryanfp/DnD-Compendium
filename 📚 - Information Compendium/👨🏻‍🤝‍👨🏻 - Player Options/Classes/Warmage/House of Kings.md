@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/warmage/king
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/warmage/king]
 aliases:
   - House of Kings
-title: House of Kings
+created: 2025/06/13 at 22:34
+updated: 2025/07/13 at 00:17
 ---
+
 # House of Kings
+
 *[Warmage](Warmage.md): Warmage House*  
 *Source: Valda's Spire of Secrets*  
 
@@ -43,7 +44,6 @@ title: House of Kings
 
 ^class-progression
 
-
 ## Class Features
 
 ### House of Kings (Level 3)
@@ -70,6 +70,7 @@ Your battle die changes and more battle dice become available when you reach cer
 | 7th | 3d8 |
 | 13th | 3d10 |
 | 19th | 4d10 |
+
 ^warmage-level-battle-dice
 
 #### Using Battle Dice
@@ -84,7 +85,7 @@ When a stratagem calls for a saving throw to resist its effects, the saving thro
 
 On your turn you can use one of the following Stratagems:
 
-***Blitz.***  As a bonus action, when you hit a creature with an attack, you can expend one battle die to maneuver one of your comrades into a more advantageous position. Choose a friendly creature who can see or hear you. That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.  
+***Blitz.*** As a bonus action, when you hit a creature with an attack, you can expend one battle die to maneuver one of your comrades into a more advantageous position. Choose a friendly creature who can see or hear you. That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.  
 ***Check.*** When you hit a creature with an attack, you can expend one battle die as a bonus action to force that creature to flee. The target must make a Charisma saving throw. A creature that is immune to being charmed automatically succeeds on this saving throw. On a failed save, the target must immediately use its reaction, if available, to move up to half its speed directly away from you.  
 ***Flash of Brilliance.*** When you make an Intelligence or Wisdom check, you can expend one battle die to add it to the check. You can choose to use this stratagem after the ability check is rolled but before the GM says whether the result was a success or failure.  
 ***Gambit.*** When you hit a creature with an attack, you can expend one battle die to give your allies an opening. The next creature other than you to make an attack against the target adds the battle die to their attack roll.  

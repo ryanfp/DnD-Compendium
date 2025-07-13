@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/llsh
-  - ttrpg-cli/subclass/shaman/far-seer
+tags: [ttrpg-cli/compendium/src/5e/llsh, ttrpg-cli/subclass/shaman/far-seer]
 aliases:
   - Far Seer
-title: Far Seer
+created: 2025/06/13 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # Far Seer
+
 *[Shaman](Shaman.md): Spirituality*  
 *Source: The Shaman p. 8*  
 
@@ -43,7 +44,6 @@ title: Far Seer
 
 ^class-progression
 
-
 ## Class Features
 
 ### Far Seer (Level 2)
@@ -65,6 +65,7 @@ You always have certain spells prepared at the Shaman levels in the table below.
 | 5th | [clairvoyance](/3-Content/Compendiums/spells/clairvoyance-xphb.md), [tongues](/3-Content/Compendiums/spells/tongues-xphb.md) |
 | 7th | [arcane eye](/3-Content/Compendiums/spells/arcane-eye-xphb.md), [divination](/3-Content/Compendiums/spells/divination-xphb.md) |
 | 9th | [contact other plane](/3-Content/Compendiums/spells/contact-other-plane-xphb.md), [scrying](/3-Content/Compendiums/spells/scrying-xphb.md) |
+
 ^far-seer-spells
 
 ### Totemic Ritualist (Level 2)

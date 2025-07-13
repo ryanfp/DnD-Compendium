@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/subclass/warlock/archfey
+tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/subclass/warlock/archfey]
 aliases:
-- The Archfey
+  - The Archfey
+created: 2025/06/15 at 15:38
+updated: 2025/07/13 at 00:17
 ---
+
 # The Archfey
+
 *[Warlock](Warlock.md): Otherworldly Patron*  
 *Source: Player's Handbook p. 108*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### The Archfey (Level 1)
@@ -62,6 +63,7 @@ The Archfey lets you choose from an expanded list of spells when you learn a war
 | 3rd | [blink](/3-Content/Compendiums/spells/blink-xphb.md), [plant growth](/3-Content/Compendiums/spells/plant-growth-xphb.md) |
 | 4th | [dominate beast](/3-Content/Compendiums/spells/dominate-beast-xphb.md), [greater invisibility](/3-Content/Compendiums/spells/greater-invisibility-xphb.md) |
 | 5th | [dominate person](/3-Content/Compendiums/spells/dominate-person-xphb.md), [seeming](/3-Content/Compendiums/spells/seeming-xphb.md) |
+
 ^archfey-expanded-spells
 
 ### Fey Presence (Level 1)

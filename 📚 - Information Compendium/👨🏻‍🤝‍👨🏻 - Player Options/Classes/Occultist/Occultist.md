@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/occultist
-- ttrpg-cli/compendium/src/5e/kt-cll
+tags: [ttrpg-cli/class/occultist, ttrpg-cli/compendium/src/5e/kt-cll]
 aliases:
-- Occultist
+  - Occultist
+created: 2025/06/13 at 22:29
+updated: 2025/07/13 at 00:17
 ---
+
 # Occultist
+
 *Source: Kibbles' Compendium of Legends and Legacies p. 12*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d6 per Occultist level
 - **Hit Points at First Level:** 6 + CON
-- **Hit Points at Higher Levels:** add 4 OR 1d6 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 4 OR 1d6 + CON (minimum of 1)
 
 ## Starting Occultist
 
@@ -158,7 +160,7 @@ Additionally, when you gain a level in this class, you can choose one of the Occ
 > If a Rite creates an object, you can recreate that object if it is lost or destroyed. If the rules are not specified elsewhere, it is a process that requires any base object the Rite did and 4 hours of time. If the original still exists anywhere, it loses its magical properties when you complete this process.
 ^losing-invested-objects
 
-### Occult Tradition feature (Level 3)
+### Occult Tradition Feature (Level 3)
 
 At 3rd level, you gain a feature from your Occult Tradition.
 
@@ -168,7 +170,7 @@ When you reach 4th level, you can increase one ability score of your choice by 2
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Occult Tradition feature (Level 6)
+### Occult Tradition Feature (Level 6)
 
 At 6th level, you gain a feature from your Occult Tradition.
 
@@ -190,7 +192,7 @@ When you reach 12th level, you can increase one ability score of your choice by 
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Occult Tradition feature (Level 14)
+### Occult Tradition Feature (Level 14)
 
 At 14th level, you gain a feature from your Occult Tradition.
 

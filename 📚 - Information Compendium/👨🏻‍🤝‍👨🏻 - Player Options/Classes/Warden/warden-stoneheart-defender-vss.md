@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/vss
-- ttrpg-cli/subclass/warden/stoneheart-defender
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/warden/stoneheart-defender]
 aliases:
-- Stoneheart Defender
+  - Stoneheart Defender
+  - Stoneheart Defender
+created: 2025/06/13 at 22:33
+updated: 2025/07/13 at 00:17
 ---
+
 # Stoneheart Defender
+
 *[Warden](VSS%20Warden.md): Champion's Call*  
 *Source: Valda's Spire of Secrets*  
 
@@ -41,7 +44,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

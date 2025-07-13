@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/fighter
-- ttrpg-cli/compendium/src/5e/phb
+tags: [ttrpg-cli/class/fighter, ttrpg-cli/compendium/src/5e/phb]
 aliases:
-- Fighter
+  - Fighter
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Fighter
+
 *Source: Player's Handbook p. 70. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d10 per Fighter level
 - **Hit Points at First Level:** 10 + CON
-- **Hit Points at Higher Levels:** add 6 OR 1d10 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 6 OR 1d10 + CON (minimum of 1)
 
 ## Starting Fighter
 
@@ -118,6 +120,7 @@ The sections below offer ways to add a little depth and a few personal touches t
 > Sticks and stones may break my bones, but swords will never hurt me — as long as I stay really high and shoot down at an angle.
 
 ## Heraldic Sign
+
 _Source: Xanathar's Guide to Everything_
 
 Fighters typically do battle for a cause. Some fight on behalf of kingdoms besieged by monsters, while others quest only for personal glory. In either case, a fighter often displays a heraldic sign that represents that cause, either adopting the symbol of a nation or a royal line, or creating a crest to represent one's self-interest.
@@ -136,9 +139,11 @@ Your character could be affiliated with an organization or a cause, and thus mig
 | 4 | A skull with a dagger through it, representing the doom you bring to your enemies |
 | 5 | A phoenix in a ring of fire, an expression of an indomitable spirit |
 | 6 | Three drops of blood beneath a horizontal sword blade on a black background, symbolizing three foes you have sworn to kill |
+
 ^heraldic-signs
 
 ## Instructor
+
 _Source: Xanathar's Guide to Everything_
 
 Some fighters are natural-born combatants who have a talent for surviving in battle. Others learned the basics of their combat prowess in their formative years from spending time in a military or some other martial organization, when they were taught by the leaders of the group.
@@ -159,9 +164,11 @@ If you decide that your character had an individual instructor, what is that per
 | 4 | Tribal Warrior. Your instructor grew up in a tribe, where fighting for one's life was practically an everyday occurrence. |
 | 5 | Street Fighter. Your trainer excels at urban combat, combining close-quarters work with silence and efficiency. |
 | 6 | Weapon Master. Your mentor helped you to become one with your chosen weapon, by imparting highly specialized knowledge of how to wield it most effectively. |
+
 ^instructor
 
 ## Style
+
 _Source: Xanathar's Guide to Everything_
 
 Many fighters distinguish themselves from their peers by adopting and perfecting a particular style or method of waging combat. Although this style might be a natural outgrowth of a fighter's personality, that's not always the case—someone's approach to the world in general does not necessarily dictate how that person operates when lives are on the line.
@@ -180,6 +187,7 @@ Do you have a combat style that mirrors your outlook on life, or is something el
 | 4 | Effortless. You rarely perspire or display anything other than a stoic expression in battle. |
 | 5 | Energetic. You sing and laugh during combat as your spirit soars. You are happiest when you have a foe in front of you and a weapon in hand. |
 | 6 | Sinister. You scowl and sneer while fighting, and you enjoy mocking your foes as you defeat them. |
+
 ^style
 
 ## Class Features
@@ -218,6 +226,7 @@ When you reach 4th level, you can increase one ability score of your choice by 2
 If your DM allows the use of feats, you may instead take a feat.
 
 ### Martial Versatility (Level 4)
+
 _Source: Tasha's Cauldron of Everything p. 41_
 
 *4th-level fighter [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md)*
@@ -239,7 +248,7 @@ When you reach 6th level, you can increase one ability score of your choice by 2
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Martial Archetype feature (Level 7)
+### Martial Archetype Feature (Level 7)
 
 At 7th level, you gain a feature granted by your Martial Archetype.
 
@@ -255,7 +264,7 @@ Beginning at 9th level, you can reroll a saving throw that you fail. If you do s
 
 You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.
 
-### Martial Archetype feature (Level 10)
+### Martial Archetype Feature (Level 10)
 
 At 10th level, you gain a feature granted by your Martial Archetype.
 
@@ -279,7 +288,7 @@ When you reach 14th level, you can increase one ability score of your choice by 
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Martial Archetype feature (Level 15)
+### Martial Archetype Feature (Level 15)
 
 At 15th level, you gain a feature granted by your Martial Archetype.
 
@@ -297,7 +306,7 @@ At 17th level, you can use Action Surge twice before a rest, but only once on th
 
 At 17th level, you can use Indomitable three times between long rests.
 
-### Martial Archetype feature (Level 18)
+### Martial Archetype Feature (Level 18)
 
 At 18th level, you gain a feature granted by your Martial Archetype.
 

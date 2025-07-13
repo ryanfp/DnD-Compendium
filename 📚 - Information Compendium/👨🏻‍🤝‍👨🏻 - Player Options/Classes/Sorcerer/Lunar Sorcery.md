@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/dsotdq
-- ttrpg-cli/subclass/sorcerer/lunar
+tags: [ttrpg-cli/compendium/src/5e/dsotdq, ttrpg-cli/subclass/sorcerer/lunar]
 aliases:
-- Lunar Sorcery
+  - Lunar Sorcery
+created: 2025/06/15 at 15:37
+updated: 2025/07/13 at 00:17
 ---
+
 # Lunar Sorcery
+
 *[Sorcerer](Sorcerer.md): Sorcerous Origin*  
 *Source: Dragonlance: Shadow of the Dragon Queen p. 34*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Lunar Sorcery (Level 1)
@@ -66,6 +67,7 @@ You learn additional spells when you reach certain levels in this class, as show
 | 5th | [dispel magic](/3-Content/Compendiums/spells/dispel-magic-xphb.md) | [vampiric touch](/3-Content/Compendiums/spells/vampiric-touch-xphb.md) | [phantom steed](/3-Content/Compendiums/spells/phantom-steed-xphb.md) |
 | 7th | [death ward](/3-Content/Compendiums/spells/death-ward-xphb.md) | [confusion](/3-Content/Compendiums/spells/confusion-xphb.md) | [hallucinatory terrain](/3-Content/Compendiums/spells/hallucinatory-terrain-xphb.md) |
 | 9th | [Rary's telepathic bond](/3-Content/Compendiums/spells/rarys-telepathic-bond-xphb.md) | [hold monster](/3-Content/Compendiums/spells/hold-monster-xphb.md) | [mislead](/3-Content/Compendiums/spells/mislead-xphb.md) |
+
 ^lunar-spells
 
 Whenever you finish a long rest, you can choose what lunar phase manifests its power through your magic: Full Moon, New Moon, or Crescent Moon. While in the chosen phase, you can cast one 1st-level spell of the associated phase in the Lunar Spells table once without expending a spell slot. Once you cast a spell in this way, you can't do so again until you finish a long rest.

@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/warlock/fathomless
+tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/warlock/fathomless]
 aliases:
-- The Fathomless
+  - The Fathomless
+created: 2025/06/15 at 15:38
+updated: 2025/07/13 at 00:17
 ---
+
 # The Fathomless
+
 *[Warlock](Warlock.md): Otherworldly Patron*  
 *Source: Tasha's Cauldron of Everything p. 72*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### The Fathomless (Level 1)
@@ -54,6 +55,7 @@ Perhaps you were born into a generational cult that venerates the Fathomless and
 Entities of the deep that might empower a warlock include krakens, ancient water elementals, godlike hallucinations dreamed into being by kuo-toa, merfolk demigods, and sea hag covens.
 
 #### Expanded Spell List
+
 _Source: Tasha's Cauldron of Everything_
 
 *1st-level Fathomless feature*
@@ -69,6 +71,7 @@ The Fathomless lets you choose from an expanded list of spells when you learn a 
 | 3rd | [lightning bolt](/3-Content/Compendiums/spells/lightning-bolt-xphb.md), [sleet storm](/3-Content/Compendiums/spells/sleet-storm-xphb.md) |
 | 4th | [control water](/3-Content/Compendiums/spells/control-water-xphb.md), [summon elemental](/3-Content/Compendiums/spells/summon-elemental-xphb.md) (water only) |
 | 5th | [Bigby's hand](/3-Content/Compendiums/spells/bigbys-hand-xphb.md) (appears as a tentacle), [cone of cold](/3-Content/Compendiums/spells/cone-of-cold-xphb.md) |
+
 ^fathomless-expanded-spells
 
 ### Tentacle of the Deeps (Level 1)

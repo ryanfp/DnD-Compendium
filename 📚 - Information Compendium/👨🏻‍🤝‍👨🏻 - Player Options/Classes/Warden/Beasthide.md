@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/kt-cll
-  - ttrpg-cli/subclass/warden/beasthide
+tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/warden/beasthide]
 aliases:
   - Beasthide
-title: Beasthide
+created: 2025/06/13 at 22:33
+updated: 2025/07/13 at 00:17
 ---
+
 # Beasthide
+
 *[Warden](Warden.md): Warden Bond*  
 *Source: Kibbles' Compendium of Legends and Legacies p. 66*  
 
@@ -42,7 +43,6 @@ title: Beasthide
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 
@@ -80,6 +80,7 @@ You gain the following spells at the listed levels, and can cast each spell once
 | 9th | enlarge/reduce |
 | 13th | [mutate](/3-Content/Compendiums/spells/mutate-kt-cll.md) |
 | 17th | polymorph |
+
 ^innate-spells-1-long-rest-each
 
 ### Ruthless Interdiction (Level 3)

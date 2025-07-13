@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/rogue
-- ttrpg-cli/compendium/src/5e/phb
+tags: [ttrpg-cli/class/rogue, ttrpg-cli/compendium/src/5e/phb]
 aliases:
-- Rogue
+  - Rogue
+created: 2025/06/15 at 15:37
+updated: 2025/07/13 at 00:17
 ---
+
 # Rogue
+
 *Source: Player's Handbook p. 94. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d8 per Rogue level
 - **Hit Points at First Level:** 8 + CON
-- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON (minimum of 1)
 
 ## Starting Rogue
 
@@ -123,6 +125,7 @@ The following sections explore certain facets of what it means to be a rogue, wh
 > Thieves are the worst. I hate anyone that handles my stuff when I'm not looking, especially if they don't put it back where they found it.
 
 ## Guilty Pleasures
+
 _Source: Xanathar's Guide to Everything_
 
 Most of what rogues do revolves around obtaining treasure and preventing others from doing the same. Little gets in the way of attaining those goals, except that many rogues are enticed away from that path by a compulsion that clouds their thinking—an irresistible need that must be satisfied, even if doing so is risky.
@@ -143,9 +146,11 @@ What's the one form of temptation that your rogue character can't resist when th
 | 4 | The chance to deflate someone's ego |
 | 5 | The finest food and drink |
 | 6 | Adding to your collection of exotic coins |
+
 ^guilty-pleasures
 
 ## Adversaries
+
 _Source: Xanathar's Guide to Everything_
 
 Naturally, those who enforce the law are bound to come up against those who break it, and it's the rare rogue who isn't featured on at least one wanted poster. Beyond that, it's in the nature of their profession that rogues often come into contact with criminal elements, whether out of choice or necessity. Some of those people can be adversaries too, and they're likely to be harder to deal with than the average member of the city watch.
@@ -166,9 +171,11 @@ Does your rogue character have an adversary who also happens to be a criminal? I
 | 4 | An art collector who uses illegal means to acquire masterpieces |
 | 5 | A fence who uses you as a messenger to set up illicit meetings |
 | 6 | The proprietor of an illegal pit fighting arena where you once took bets |
+
 ^adversaries
 
 ## Benefactor
+
 _Source: Xanathar's Guide to Everything_
 
 Few rogues make it far in life before needing someone's help, which means thereafter owing that benefactor a significant debt.
@@ -187,6 +194,7 @@ If your character's backstory doesn't already include a personage of this sort, 
 | 4 | Your parents used their savings to bail you out of trouble in your younger days and are now destitute. |
 | 5 | A dragon didn't eat you when it had a chance, and in return you promised to set aside choice pieces of treasure for it. |
 | 6 | A druid once helped you out of a tight spot; now any random animal you see could be that benefactor, perhaps come to claim a return favor. |
+
 ^benefactors
 
 ## Class Features
@@ -220,6 +228,7 @@ Starting at 2nd level, your quick thinking and agility allow you to move and act
 At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities from the list of available archetypes. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
 
 ### Steady Aim (Level 3)
+
 _Source: Tasha's Cauldron of Everything p. 62_
 
 *3rd-level rogue [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md)*
@@ -250,7 +259,7 @@ When you reach 8th level, you can increase one ability score of your choice by 2
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Roguish Archetype feature (Level 9)
+### Roguish Archetype Feature (Level 9)
 
 At 9th level, you gain a feature granted by your Roguish Archetype.
 
@@ -270,7 +279,7 @@ When you reach 12th level, you can increase one ability score of your choice by 
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Roguish Archetype feature (Level 13)
+### Roguish Archetype Feature (Level 13)
 
 At 13th level, you gain a feature granted by your Roguish Archetype.
 
@@ -288,7 +297,7 @@ When you reach 16th level, you can increase one ability score of your choice by 
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Roguish Archetype feature (Level 17)
+### Roguish Archetype Feature (Level 17)
 
 At 17th level, you gain a feature granted by your Roguish Archetype.
 

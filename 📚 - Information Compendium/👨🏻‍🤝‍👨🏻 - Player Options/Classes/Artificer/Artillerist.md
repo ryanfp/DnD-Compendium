@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/artificer/artillerist
+tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/artificer/artillerist]
 aliases:
-- Artillerist
+  - Artillerist
+created: 2025/06/15 at 15:34
+updated: 2025/07/13 at 00:17
 ---
+
 # Artillerist
+
 *[Artificer](Artificer.md): Artificer Specialist*  
 *Source: Tasha's Cauldron of Everything p. 17, Eberron: Rising from the Last War p. 59*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Artillerist (Level 3)
@@ -68,6 +69,7 @@ Starting at 3rd level, you always have certain spells prepared after you reach p
 | 9th | [fireball](/3-Content/Compendiums/spells/fireball-xphb.md), [wind wall](/3-Content/Compendiums/spells/wind-wall-xphb.md) |
 | 13th | [ice storm](/3-Content/Compendiums/spells/ice-storm-xphb.md), [wall of fire](/3-Content/Compendiums/spells/wall-of-fire-xphb.md) |
 | 17th | [cone of cold](/3-Content/Compendiums/spells/cone-of-cold-xphb.md), [wall of force](/3-Content/Compendiums/spells/wall-of-force-xphb.md) |
+
 ^artillerist-spells
 
 ### Eldritch Cannon (Level 3)
@@ -87,6 +89,7 @@ When you create the cannon, you determine its appearance and whether it has legs
 | [Flamethrower](/3-Content/Compendiums/objects/eldritch-cannon-flamethrower-tce.md) | The cannon exhales fire in an adjacent 15-foot cone that you designate. Each creature in that area must make a Dexterity saving throw against your spell save DC, taking `2d8` fire damage on a failed save or half as much damage on a successful one. The fire ignites any flammable objects in the area that aren't being worn or carried. |
 | [Force Ballista](/3-Content/Compendiums/objects/eldritch-cannon-force-ballista-tce.md) | Make a ranged spell attack, originating from the cannon, at one creature or object within 120 feet of it. On a hit, the target takes `2d8` force damage, and if the target is a creature, it is pushed up to 5 feet away from the cannon. |
 | [Protector](/3-Content/Compendiums/objects/eldritch-cannon-protector-tce.md) | The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of it a number of temporary hit points equal to `d8` + your Intelligence modifier (minimum of +1). |
+
 ^eldritch-cannons
 
 ### Arcane Firearm (Level 5)

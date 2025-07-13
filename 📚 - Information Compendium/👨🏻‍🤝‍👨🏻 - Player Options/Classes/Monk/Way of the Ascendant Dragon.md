@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/ftd
-- ttrpg-cli/subclass/monk/ascendant-dragon
+tags: [ttrpg-cli/compendium/src/5e/ftd, ttrpg-cli/subclass/monk/ascendant-dragon]
 aliases:
-- Way of the Ascendant Dragon
+  - Way of the Ascendant Dragon
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Way of the Ascendant Dragon
+
 *[Monk](Monk.md): Monastic Tradition*  
 *Source: Fizban's Treasury of Dragons p. 13*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Way of the Ascendant Dragon (Level 3)
@@ -63,6 +64,7 @@ As a follower of the Way of the Ascendant Dragon, you decide how you unlocked th
 | 4 | You spent long stretches meditating in the region around an ancient dragon's lair, absorbing that lair's ambient magic. |
 | 5 | You found a scroll written in Draconic that contained inspiring new techniques. |
 | 6 | After a dream featuring a five-handed dragonborn, you awoke with the mystical breath of dragons. |
+
 ^ascendant-dragon-origin
 
 ### Draconic Disciple (Level 3)

@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/vss
-- ttrpg-cli/subclass/investigator/archivist
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/investigator/archivist]
 aliases:
-- Archivist
+  - Archivist
+created: 2025/06/14 at 02:44
+updated: 2025/07/13 at 00:17
 ---
+
 # Archivist
+
 *[Investigator](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Investigator/Investigator.md): Occult Specialization*  
 *Source: Valda's Spire of Secrets p. 108*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Archivist (Level 3)
@@ -68,6 +69,7 @@ Also at 3rd level, you gain access to certain spells associated with your thesis
 | 1st | jump, longstrider |
 | 2nd | alter self, heat metal |
 | 3th | gaseous form, meld into stone |
+
 ^corpus
 
 **Ignis**
@@ -77,6 +79,7 @@ Also at 3rd level, you gain access to certain spells associated with your thesis
 | 1st | burning hands, shatter |
 | 2nd | gust of wind, scorching ray |
 | 3th | call lightning, wind wall |
+
 ^ignis
 
 **Mortis**
@@ -86,6 +89,7 @@ Also at 3rd level, you gain access to certain spells associated with your thesis
 | 1st | bane, false life |
 | 2nd | blindness/deafness, darkness |
 | 3th | revivify, vampiric touch |
+
 ^mortis
 
 **Mortis**
@@ -95,6 +99,7 @@ Also at 3rd level, you gain access to certain spells associated with your thesis
 | 1st | charm person, hideous laughter |
 | 2nd | enthrall, suggestion |
 | 3th | dispel magic, hypnotic pattern |
+
 ^mortis
 
 ### Erudite Spell (Level 6)

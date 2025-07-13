@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/tamer
-- ttrpg-cli/compendium/src/5e/helianasguidetomonsterhunting
+tags: [ttrpg-cli/class/tamer, ttrpg-cli/compendium/src/5e/helianasguidetomonsterhunting]
 aliases:
-- Tamer
+  - Tamer
+created: 2025/06/13 at 22:33
+updated: 2025/07/13 at 00:17
 ---
+
 # Tamer
+
 *Source: Heliana's Guide to Monster Hunting*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d8 per Tamer level
 - **Hit Points at First Level:** 8 + CON
-- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON (minimum of 1)
 
 ## Starting Tamer
 
@@ -146,6 +148,7 @@ You can purchase armour for your companion Any type of armour can be purchased a
 | Medium | 1x | 2x |
 | Large | 2x | 4x |
 | Huge | 4x | 8x |
+
 ^companion-barding-cost
 
 ### Monster Trainer (Level 1)
@@ -170,6 +173,7 @@ Any newly gained companions receive these additional hit dice and improvements a
 | Go For the Throat | Your companion gains a +1 bonus to its attack and damage rolls made with its natural weapons or unarmed strikes**. |
 | Survival Instincts | Your companion gains proficiency in one saving throw. |
 | War Training | Your companion gains proficiency with one armour type or two weapons***. |
+
 ^companion-improvement-training-table
 
 *E.g., a base speed of 30 feet can be increased to 45 feet maximum, a base speed of 25 feet can be increased to 40 feet, and a base speed of 20 feet to 30 feet.
@@ -191,6 +195,7 @@ Instead, you have a pool of healing power equal to five times your tamer level t
 |    |    |
 |----|----|
 |  | Improvements/Hit Dice Gained on Taming* |
+
 ^tamer-companion-summary-table
 
 *For example, if a 10th level tamer trained a CR 1 creature, that creature would immediately gains 6 improvements (see previous page) and 1 Hit Dice. This is indicated by the value '6/1' in the 'CR 1' column and the level '10' row.
@@ -217,6 +222,7 @@ Instead, you have a pool of healing power equal to five times your tamer level t
 | 18 | 5 | Huge | 5 |
 | 19 | 6 | Huge | 6 |
 | 20 | 6 | Huge | 6 |
+
 ^tamer-level-maximum-of-bonded-companions-maximum-companion-size-maximum-companion-cr
 
 **Improvements/Hit Dice Gained on Taming***
@@ -243,6 +249,7 @@ Instead, you have a pool of healing power equal to five times your tamer level t
 | 17/4 | 14/3 | 11/3 | 8/2 | 5/1 | 2/0 | — |
 | 18/5 | 15/4 | 12/4 | 9/3 | 6/2 | 3/1 | 0/0 |
 | 19/5 | 16/4 | 13/4 | 10/3 | 7/2 | 4/1 | 1/0 |
+
 ^improvements-hit-dice-gained-on-taming
 
 ### Tame Creature (Level 1)
@@ -302,12 +309,13 @@ When a creature becomes your companion, it loses the following from its stat blo
 > Some monster features are very powerful, and aren't designed for use by players. The two most common are recharge actions and gazes. You can help make a companion more balanced by changing these features slightly. It's advised to approach this on a case-by-case basis, as each feature is different, and some might not require changing.
 > 
 > **Recharge Abilities.** Some creatures' actions haveSome creatures' actions have the addendum "Recharge (5-6)". This means that after a creature uses that action, it can't use it again until it has recharged. At the start of the creature's turn, you roll a d6, and if the result is a 5 or higher, the action recharges. No class has recharge abilities, in part because they add a lot of randomness to the game. Instead of using this recharge mechanic, you can simply change any ability with a recharge to one of the following:
-> 
+>
 > | Recharge Condition | Companion Recharge |
 > |--------------------|--------------------|
 > | Recharge (4-6) | Recharges after 1 minute |
 > | Recharge (5-6)  | Recharges after 10 minute |
 > | Recharge -6)  | Recharges on a short or long rest |
+>
 > ^recharge-condition-companion-recharge
 > 
 > **Perpetually Active Abilities.** Some traits, like aSome traits, like medusa's Petrifying Gaze, which is perpetually active and has the power of a 6th level spell, have the potential to become overpowered and repetitive. To balance this, you can add the caveat that "after a creature makes a saving throw against this effect, it is immuneimmune to the effect for the nextto the effect for 24 hours". Work with your GM to find a balanced solution for your game.

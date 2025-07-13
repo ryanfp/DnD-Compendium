@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/witch/technicolor
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/witch/technicolor]
 aliases:
   - Technicolor Magic
-title: Technicolor Magic
+created: 2025/06/13 at 22:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Technicolor Magic
+
 *[Witch](Witch.md): Witch's Craft*  
 *Source: Valda's Spire of Secrets*  
 
@@ -43,7 +44,6 @@ title: Technicolor Magic
 
 ^class-progression
 
-
 ## Class Features
 
 ### Technicolor Magic (Level 3)
@@ -59,6 +59,7 @@ Technicolor Magic witches draw their power from the friendships they find around
 | 3rd | fly, sending |
 | 4th | freedom of movement, locate creature |
 | 5th | telepathic bond, teleportation circle |
+
 ^technicolor-magic-spells
 
 ### Animal Friends (Level 3)

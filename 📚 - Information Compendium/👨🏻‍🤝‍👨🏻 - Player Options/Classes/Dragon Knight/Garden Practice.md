@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/dk
-  - ttrpg-cli/subclass/dragon-knight/garden
+tags: [ttrpg-cli/compendium/src/5e/dk, ttrpg-cli/subclass/dragon-knight/garden]
 aliases:
   - Garden Practice
-title: Garden Practice
+created: 2025/06/13 at 22:27
+updated: 2025/07/13 at 00:17
 ---
+
 # Garden Practice
+
 *[Dragon Knight](Dragon%20Knight.md): Dragon Knight Practice*  
 *Source: Dragon Knight*  
 
@@ -43,7 +44,6 @@ title: Garden Practice
 
 ^class-progression
 
-
 ## Class Features
 
 ### Garden Practice (Level 3)
@@ -62,7 +62,7 @@ Also at 3rd level, your dragon's plant like nature allows it to attune to the se
 
 You gain access to the seasonal spells appropriate to the season you're attuned to. You can cast one of the seasonal spells you have access to once, and regain the ability to do so when you finish a short or long rest. You gain a second use of this feature at 5th level, and a third use at 11th level. Castng a 3rd or 4th level seasonal spell expends two uses of this feature. When you reach certain Dragon Knight levels, you gain new seasonal spells, as shown in each of the spell tables.
 
-Finally, you use your Charisma whenever a spell refers to your spellcastng ability. In addition, you use your Charisma modifier when settng the saving throw DC for a seasonal spell you cast and when making an attack roll with one.
+Finally, you use your Charisma whenever a spell refers to your spellcastng ability. In addition, you use your Charisma modifier when setting the saving throw DC for a seasonal spell you cast and when making an attack roll with one.
 
 <span class='abilityDc'>**Spell save DC**: Charisma + Proficiency Bonus</span>
 
@@ -76,6 +76,7 @@ Finally, you use your Charisma whenever a spell refers to your spellcastng abili
 | 7th | blur, scorching ray |
 | 13th | daylight, fireball |
 | 19th | fire shield, wall of fire |
+
 ^summer-seasonal-spells
 
 **Autumn Seasonal Spells**
@@ -86,6 +87,7 @@ Finally, you use your Charisma whenever a spell refers to your spellcastng abili
 | 7th | gust of wind, warding wind |
 | 13th | feign death, haste |
 | 19th | freedom of movement, giant insect |
+
 ^autumn-seasonal-spells
 
 **Winter Seasonal Spells**
@@ -96,6 +98,7 @@ Finally, you use your Charisma whenever a spell refers to your spellcastng abili
 | 7th | darkvision, pass without trace |
 | 13th | sleet storm, slow |
 | 19th | blight, storm sphere |
+
 ^winter-seasonal-spells
 
 **Spring Seasonal Spells**
@@ -106,6 +109,7 @@ Finally, you use your Charisma whenever a spell refers to your spellcastng abili
 | 7th | lesser restoration, spike growth |
 | 13th | plant growth, hypnotic pattern |
 | 19th | grasping vine, polymorph |
+
 ^spring-seasonal-spells
 
 ### Garden's Shield (Level 3)

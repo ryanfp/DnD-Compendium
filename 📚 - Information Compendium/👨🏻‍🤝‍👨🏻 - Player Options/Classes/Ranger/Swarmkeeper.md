@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/ranger/swarmkeeper
+tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/ranger/swarmkeeper]
 aliases:
-- Swarmkeeper
+  - Swarmkeeper
+created: 2025/06/15 at 15:37
+updated: 2025/07/13 at 00:17
 ---
+
 # Swarmkeeper
+
 *[Ranger](Ranger.md): Ranger Archetype*  
 *Source: Tasha's Cauldron of Everything p. 59*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Swarmkeeper (Level 3)
@@ -65,6 +66,7 @@ A swarm of intangible nature spirits has bonded itself to you and can assist you
 | 2 | Miniature twig blights |
 | 3 | Fluttering birds |
 | 4 | Playful pixies |
+
 ^swarm-appearance
 
 Once on each of your turns, you can cause the swarm to assist you in one of the following ways, immediately after you hit a creature with an attack:
@@ -97,6 +99,7 @@ You also learn an additional spell of 1st level or higher when you reach certain
 | 9th | [gaseous form](/3-Content/Compendiums/spells/gaseous-form-xphb.md) |
 | 13th | [arcane eye](/3-Content/Compendiums/spells/arcane-eye-xphb.md) |
 | 17th | [insect plague](/3-Content/Compendiums/spells/insect-plague-xphb.md) |
+
 ^swarmkeeper-spells
 
 ### Writhing Tide (Level 7)

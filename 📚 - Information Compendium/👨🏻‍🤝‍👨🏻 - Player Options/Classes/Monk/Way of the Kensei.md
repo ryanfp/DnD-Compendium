@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/xge
-- subclass/monk/kensei
+tags: [compendium/src/5e/xge, subclass/monk/kensei]
 aliases:
-- Way of the Kensei
+  - Way of the Kensei
+created: 2025/06/15 at 22:26
+updated: 2025/07/13 at 00:17
 ---
+
 # Way of the Kensei
+
 *[Monk](Monk.md): Monastic Tradition*  
 *Source: Xanathar's Guide to Everything p. 34*  
 
@@ -42,10 +44,9 @@ aliases:
 
 ^class-progression
 
-
 > [!quote] A quote from Xanathar  
 > 
-> Why did the samurai cross the road? ... Now you say "Why?" ... Okay, here's the joke part: I kensei. Get it? What? Why aren't you laughing? The joke is solid gold, and my delivery was perfect. Maybe you didn't get it because you're stupid.
+> Why did the samurai cross the road? … Now you say "Why?" … Okay, here's the joke part: I kensei. Get it? What? Why aren't you laughing? The joke is solid gold, and my delivery was perfect. Maybe you didn't get it because you're stupid.
 
 ## Class Features
 
@@ -60,6 +61,7 @@ A kensei sees a weapon in much the same way a calligrapher or painter regards a 
 When you choose this tradition at 3rd level, your special martial arts training leads you to master the use of certain weapons. This path also includes instruction in the deft strokes of calligraphy or painting. You gain the following benefits.
 
 #### Kensei Weapons
+
 _Source: Xanathar's Guide to Everything_
 
 Choose two types of weapons to be your kensei weapons: one melee weapon and one ranged weapon. Each of these weapons can be any simple or martial weapon that lacks the heavy and special properties. The longbow is also a valid choice. You gain proficiency with these weapons if you don't already have it. Weapons of the chosen types are monk weapons for you. Many of this tradition's features work only with your kensei weapons. When you reach 6th, 11th, and 17th level in this class, you can choose another type of weapon—either melee or ranged—to be a kensei weapon for you, following the criteria above.
@@ -73,6 +75,7 @@ Choose two types of weapons to be your kensei weapons: one melee weapon and one 
     You can use a bonus action on your turn to make your ranged attacks with a kensei weapon more deadly. When you do so, any target you hit with a ranged attack using a kensei weapon takes an extra `d4` damage of the weapon's type. You retain this benefit until the end of the current turn.  
 
 #### Way of the Brush
+
 _Source: Xanathar's Guide to Everything_
 
 You gain proficiency with your choice of [calligrapher's supplies](/📚%20-%20Information%20Compendium/items/calligraphers-supplies.md) or [painter's supplies](/📚%20-%20Information%20Compendium/items/painters-supplies.md).
@@ -82,11 +85,13 @@ You gain proficiency with your choice of [calligrapher's supplies](/📚%20-%20I
 At 6th level, you extend your ki into your kensei weapons, granting you the following benefits.
 
 #### Magic Kensei Weapons
+
 _Source: Xanathar's Guide to Everything_
 
 Your attacks with your kensei weapons count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
 #### Deft Strike
+
 _Source: Xanathar's Guide to Everything_
 
 When you hit a target with a kensei weapon, you can spend 1 ki point to cause the weapon to deal extra damage to the target equal to your Martial Arts die. You can use this feature only once on each of your turns.

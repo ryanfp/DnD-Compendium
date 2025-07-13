@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/domain/twilight
-- ttrpg-cli/subclass/cleric/twilight
+tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/domain/twilight, ttrpg-cli/subclass/cleric/twilight]
 aliases:
-- Twilight Domain
+  - Twilight Domain
+  - Twilight Domain
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Twilight Domain
+
 *[Cleric](./cleric-xphb.md): Cleric Subclass*  
 *Source: Tasha's Cauldron of Everything p. 34*  
 
@@ -43,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
 
@@ -67,9 +68,11 @@ Clerics who serve these deities-examples of which appear on the Twilight Deities
 | Mishakal | Dragonlance |
 | Selûne | Forgotten Realms |
 | [Yondalla](/3-Content/Compendiums/deities/nonhuman-yondalla.md) | Halfling |
+
 ^twilight-deities
 
 #### Domain Spells
+
 _Source: Tasha's Cauldron of Everything_
 
 *1st-level Twilight Domain feature*
@@ -85,6 +88,7 @@ You gain domain spells at the cleric levels listed in the Twilight Domain Spells
 | 5th | [aura of vitality](/3-Content/Compendiums/spells/aura-of-vitality-xphb.md), [Leomund's tiny hut](/3-Content/Compendiums/spells/leomunds-tiny-hut-xphb.md) |
 | 7th | [aura of life](/3-Content/Compendiums/spells/aura-of-life-xphb.md), [greater invisibility](/3-Content/Compendiums/spells/greater-invisibility-xphb.md) |
 | 9th | [circle of power](/3-Content/Compendiums/spells/circle-of-power-xphb.md), [mislead](/3-Content/Compendiums/spells/mislead-xphb.md) |
+
 ^twilight-domain-spells
 
 ### Bonus Proficiencies (Level 1)

@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/ftd
-- ttrpg-cli/subclass/ranger/drakewarden
+tags: [ttrpg-cli/compendium/src/5e/ftd, ttrpg-cli/subclass/ranger/drakewarden]
 aliases:
-- Drakewarden
+  - Drakewarden
+  - Drakewarden
+created: 2025/06/15 at 15:37
+updated: 2025/07/13 at 00:17
 ---
+
 # Drakewarden
+
 *[Ranger](Ranger.md): Ranger Archetype*  
 *Source: Fizban's Treasury of Dragons p. 15*  
 
@@ -42,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Drakewarden (Level 3)
@@ -63,6 +65,7 @@ Consider the source of the draconic spirit you have bonded with. The Drakewarden
 | 4 | You ingested a few drops of dragon blood, forever infusing your nature magic with draconic power. |
 | 5 | An ancient Draconic inscription on a standing stone empowered you when you read it aloud. |
 | 6 | You had a vivid dream of a mysterious figure accompanied by seven yellow canaries, who warned you of impending doom. When you awoke, your drake was there, watching you. |
+
 ^drakewarden-origin
 
 ### Draconic Gift (Level 3)

@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/ghpg
-- ttrpg-cli/subclass/rogue/misfortune-bringer
+tags: [ttrpg-cli/compendium/src/5e/ghpg, ttrpg-cli/subclass/rogue/misfortune-bringer]
 aliases:
-- Misfortune Bringer
+  - Misfortune Bringer
+created: 2025/06/15 at 15:37
+updated: 2025/07/13 at 00:17
 ---
+
 # Misfortune Bringer
+
 *[Rogue](Rogue.md): Roguish Archetype*  
 *Source: Grim Hollow: The Player's Guide*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Misfortune Bringer (Level 3)
@@ -60,11 +61,13 @@ The creature remains marked by your evil eye for 1 minute or until you mark a di
 Also at 3rd level, you learn misfortunes that you can inflict on those marked by your evil eye.
 
 #### Misfortunes
+
 _Source: Grim Hollow: The Player's Guide_
 
 You learn two misfortunes of your choice, which are detailed under "Misfortunes" below. You learn an additional misfortune of your choice at 9th, 13th, and 17th level. Each time you finish a long rest, you can replace one misfortune you know with a different one.
 
 #### Jinx Points
+
 _Source: Grim Hollow: The Player's Guide_
 
 You have three jinx points. When you spend a jinx point, it is no longer available to you until you regain it. You regain all spent jinx points when you finish a short or long rest.
@@ -72,6 +75,7 @@ You have three jinx points. When you spend a jinx point, it is no longer availab
 You gain two additional jinx points at 13th level.
 
 #### Saving Throws
+
 _Source: Grim Hollow: The Player's Guide_
 
 Your evil eye, and some of your misfortunes, require your target to make a saving throw to resist their effects. The saving throw DC is calculated as follows:

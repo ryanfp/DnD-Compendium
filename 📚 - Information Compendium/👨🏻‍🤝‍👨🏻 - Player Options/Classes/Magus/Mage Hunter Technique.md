@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/kt-cll
-- ttrpg-cli/subclass/spellblade/mage-hunter
+tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/spellblade/mage-hunter]
 aliases:
-- Mage Hunter Technique
+  - Mage Hunter Technique
+created: 2025/06/13 at 22:32
+updated: 2025/07/13 at 00:17
 ---
+
 # Mage Hunter Technique
+
 *[Spellblade](./spellblade-kt-cll.md): Technique*  
 *Source: Kibbles' Compendium of Legends and Legacies p. 51*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Mage Hunter Technique (Level 3)
@@ -62,6 +63,7 @@ You learn the following spells at the following levels. The following are Spellb
 | 9th | counterspell |
 | 13th | [suffocate](/3-Content/Compendiums/spells/suffocate-kt-cll.md) |
 | 17th | dispel evil and good |
+
 ^mage-hunter-spells
 
 ### Disrupting Blows (Level 3)

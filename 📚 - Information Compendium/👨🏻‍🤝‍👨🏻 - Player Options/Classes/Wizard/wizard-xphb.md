@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/wizard
-- ttrpg-cli/compendium/src/5e/xphb
+tags: [ttrpg-cli/class/wizard, ttrpg-cli/compendium/src/5e/xphb]
 aliases:
-- Wizard
+  - Wizard
+  - Wizard
+created: 2025/06/15 at 15:38
+updated: 2025/07/13 at 00:17
 ---
+
 # Wizard
+
 *Source: Player's Handbook (2024) p. 164. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +48,7 @@ aliases:
 
 - **Hit Dice**: 1d6 per Wizard level
 - **Hit Points at First Level:** 6 + CON
-- **Hit Points at Higher Levels:** add 4 OR 1d6 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 4 OR 1d6 + CON (minimum of 1)
 
 ## Starting Wizard
 
@@ -54,7 +57,6 @@ aliases:
 - **Weapon Proficiencies**: Simple weapons
 
 **Starting Equipment:** *Choose A or B:* (A) 2 [Daggers](/3-Content/Compendiums/items/dagger-xphb.md), [Arcane Focus](/3-Content/Compendiums/items/arcane-focus-xphb.md) ([Quarterstaff](/3-Content/Compendiums/items/quarterstaff-xphb.md)), [Robe](/3-Content/Compendiums/items/robe-xphb.md), Spellbook, [Scholar's Pack](/3-Content/Compendiums/items/scholars-pack-xphb.md), and 5 GP; or (B) 55 GP
-
 
 ## Wizard
 

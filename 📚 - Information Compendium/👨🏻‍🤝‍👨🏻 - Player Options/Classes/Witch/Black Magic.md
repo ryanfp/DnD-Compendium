@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/witch/black
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/witch/black]
 aliases:
   - Black Magic
-title: Black Magic
+created: 2025/06/13 at 22:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Black Magic
+
 *[Witch](Witch.md): Witch's Craft*  
 *Source: Valda's Spire of Secrets*  
 
@@ -43,7 +44,6 @@ title: Black Magic
 
 ^class-progression
 
-
 ## Class Features
 
 ### Black Magic (Level 3)
@@ -59,6 +59,7 @@ Black magic is associated with hexes that cause pain and suffering, and spells t
 | 3rd | animate dead, vampiric touch |
 | 4th | blight, death ward |
 | 5th | cloudkill, contagion |
+
 ^black-magic-spells
 
 ### Hex: Decay (Level 3)

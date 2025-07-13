@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/artificer/battle-smith
+tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/artificer/battle-smith]
 aliases:
-- Battle Smith
+  - Battle Smith
+created: 2025/06/15 at 15:34
+updated: 2025/07/13 at 00:17
 ---
+
 # Battle Smith
+
 *[Artificer](Artificer.md): Artificer Specialist*  
 *Source: Tasha's Cauldron of Everything p. 18, Eberron: Rising from the Last War p. 60*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Battle Smith (Level 3)
@@ -68,6 +69,7 @@ Starting at 3rd level, you always have certain spells prepared after you reach p
 | 9th | [aura of vitality](/3-Content/Compendiums/spells/aura-of-vitality-xphb.md), [conjure barrage](/3-Content/Compendiums/spells/conjure-barrage-xphb.md) |
 | 13th | [aura of purity](/3-Content/Compendiums/spells/aura-of-purity-xphb.md), [fire shield](/3-Content/Compendiums/spells/fire-shield-xphb.md) |
 | 17th | [banishing smite](/3-Content/Compendiums/spells/banishing-smite-xphb.md), [mass cure wounds](/3-Content/Compendiums/spells/mass-cure-wounds-xphb.md) |
+
 ^battle-smith-spells
 
 ### Battle Ready (Level 3)

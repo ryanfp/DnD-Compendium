@@ -4,8 +4,8 @@ cssclasses: json5e-class
 tags: [ttrpg-cli/class/investigator, ttrpg-cli/compendium/src/5e/vss]
 aliases:
   - Investigator
-created: 2025/06/14, 02:43
-updated: 2025/07/10, 19:56
+created: 2025/06/14 at 02:43
+updated: 2025/07/13 at 00:17
 ---
 
 # Investigator

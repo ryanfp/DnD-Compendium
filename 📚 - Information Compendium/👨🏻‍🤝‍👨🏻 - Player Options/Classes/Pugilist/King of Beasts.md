@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/sterlingvermin:patreon
-  - ttrpg-cli/subclass/pugilist/king-of-beasts
+tags: [ttrpg-cli/compendium/src/5e/sterlingvermin:patreon, ttrpg-cli/subclass/pugilist/king-of-beasts]
 aliases:
   - King of Beasts
-title: King of Beasts
+created: 2025/06/13 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # King of Beasts
+
 *[Pugilist](./pugilist-sterlingvermin.md): Fight Club*  
 *Source: Patreon Subclasses for the Pugilist*  
 
@@ -43,7 +44,6 @@ title: King of Beasts
 
 ^class-progression
 
-
 ## Class Features
 
 ### King of Beasts (Level 3)
@@ -67,6 +67,7 @@ Your pugilist level determines the beasts you can transform into, as shown in th
 | 3rd | 1/4 | No flying or swimming speed | Wolf |
 | 6th | 1/2 | No flying speed | Crocodile |
 | 11th | 1 | — | Giant eagle |
+
 ^wild-shape-table
 
 You can stay in a beast shape for a number of hours equal to half your pugilist level (rounded down). You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.

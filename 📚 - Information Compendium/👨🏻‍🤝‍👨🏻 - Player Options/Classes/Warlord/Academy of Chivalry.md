@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/llaw
-  - ttrpg-cli/subclass/warlord/chivalry
+tags: [ttrpg-cli/compendium/src/5e/llaw, ttrpg-cli/subclass/warlord/chivalry]
 aliases:
   - Academy of Chivalry
-title: Academy of Chivalry
+created: 2025/06/13 at 22:34
+updated: 2025/07/13 at 00:17
 ---
+
 # Academy of Chivalry
+
 *[Warlord](Warlord.md): Academy of War*  
 *Source: Warlord p. 7*  
 
@@ -43,7 +44,6 @@ title: Academy of Chivalry
 
 ^class-progression
 
-
 ## Class Features
 
 ### Academy of Chivalry (Level 3)
@@ -59,6 +59,7 @@ You learn certain Exploits at the Warlord levels noted in the table below. They 
 | 3rd | attack order, commanding presence |
 | 5th | rejuvenating order, hold the line |
 | 9th | daring rescue |
+
 ^warlord-level-exploit
 
 ### Anointed Knight (Level 3)

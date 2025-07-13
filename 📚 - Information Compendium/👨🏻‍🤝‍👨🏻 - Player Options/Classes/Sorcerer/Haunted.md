@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/ghpg
-- ttrpg-cli/subclass/sorcerer/haunted
+tags: [ttrpg-cli/compendium/src/5e/ghpg, ttrpg-cli/subclass/sorcerer/haunted]
 aliases:
-- Haunted
+  - Haunted
+created: 2025/06/15 at 15:37
+updated: 2025/07/13 at 00:17
 ---
+
 # Haunted
+
 *[Sorcerer](Sorcerer.md): Sorcerous Origin*  
 *Source: Grim Hollow: The Player's Guide*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Haunted (Level 1)
@@ -62,6 +63,7 @@ When you cast a spell you know from the Haunted Spells table, you can cast it by
 | 5th | [speak with dead](/3-Content/Compendiums/spells/speak-with-dead-xphb.md) |
 | 7th | [death ward](/3-Content/Compendiums/spells/death-ward-xphb.md) |
 | 9th | [little death](/3-Content/Compendiums/spells/little-death-ghpg.md) |
+
 ^sorcerer-level-spell
 
 ### Phantom Companion (Level 1)

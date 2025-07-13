@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/vss
-- ttrpg-cli/subclass/alchemist/xenoalchemist
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/alchemist/xenoalchemist]
 aliases:
-- Xenoalchemist
+  - Xenoalchemist
+  - Xenoalchemist
+created: 2025/06/13 at 22:26
+updated: 2025/07/13 at 00:17
 ---
+
 # Xenoalchemist
+
 *[Alchemist](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Alchemist/Alchemist.md): Field of Study*  
 *Source: Valda's Spire of Secrets*  
 
@@ -41,7 +44,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

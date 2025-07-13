@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/xge
-- subclass/warlock/hexblade
+tags: [compendium/src/5e/xge, subclass/warlock/hexblade]
 aliases:
-- The Hexblade
+  - The Hexblade
+created: 2025/06/15 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # The Hexblade
+
 *[Warlock](Warlock.md): Otherworldly Patron*  
 *Source: Xanathar's Guide to Everything p. 55*  
 
@@ -42,10 +44,9 @@ aliases:
 
 ^class-progression
 
-
 > [!quote] A quote from Xanathar  
 > 
-> Hexblade. What a cool name! So is your sword evil or cursed or something? But you're evil, right? ... Okay, now I don't like the name. Names aren't cool if they don't make sense. Like mine: The Xanathar. See? It's cool, and it makes sense!
+> Hexblade. What a cool name! So is your sword evil or cursed or something? But you're evil, right? … Okay, now I don't like the name. Names aren't cool if they don't make sense. Like mine: The Xanathar. See? It's cool, and it makes sense!
 
 ## Class Features
 
@@ -56,6 +57,7 @@ You have made your pact with a mysterious entity from the Shadowfell—a force t
 Because the Raven Queen is known to have forged the first of these weapons, many sages speculate that she and the force are one and that the weapons, along with hexblade warlocks, are tools she uses to manipulate events on the Material Plane to her inscrutable ends.
 
 #### Expanded Spell List
+
 _Source: Xanathar's Guide to Everything_
 
 The Hexblade lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
@@ -69,6 +71,7 @@ The Hexblade lets you choose from an expanded list of spells when you learn a wa
 | 3rd | [blink](/📚%20-%20Information%20Compendium/spells/blink.md), [elemental weapon](/📚%20-%20Information%20Compendium/spells/elemental-weapon.md) |
 | 4th | [phantasmal killer](/📚%20-%20Information%20Compendium/spells/phantasmal-killer.md), [staggering smite](/📚%20-%20Information%20Compendium/spells/staggering-smite.md) |
 | 5th | [banishing smite](/📚%20-%20Information%20Compendium/spells/banishing-smite.md), [cone of cold](/📚%20-%20Information%20Compendium/spells/cone-of-cold.md) |
+
 ^hexblade-expanded-spells
 
 ### Hexblade's Curse (Level 1)

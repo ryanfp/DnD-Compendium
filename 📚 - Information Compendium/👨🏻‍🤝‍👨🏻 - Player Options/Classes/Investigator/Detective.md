@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/vss
-- ttrpg-cli/subclass/investigator/detective
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/investigator/detective]
 aliases:
-- Detective
+  - Detective
+created: 2025/06/14 at 02:44
+updated: 2025/07/13 at 00:17
 ---
+
 # Detective
+
 *[Investigator](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Investigator/Investigator.md): Occult Specialization*  
 *Source: Valda's Spire of Secrets p. 109*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

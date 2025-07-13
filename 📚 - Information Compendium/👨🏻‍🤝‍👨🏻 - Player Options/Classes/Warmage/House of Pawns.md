@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/warmage/pawn
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/warmage/pawn]
 aliases:
   - House of Pawns
-title: House of Pawns
+created: 2025/06/13 at 22:34
+updated: 2025/07/13 at 00:17
 ---
+
 # House of Pawns
+
 *[Warmage](Warmage.md): Warmage House*  
 *Source: Valda's Spire of Secrets*  
 
@@ -42,7 +43,6 @@ title: House of Pawns
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

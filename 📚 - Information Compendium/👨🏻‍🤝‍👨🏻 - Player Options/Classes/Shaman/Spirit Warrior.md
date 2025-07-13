@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/llsh
-  - ttrpg-cli/subclass/shaman/spirit-warrior
+tags: [ttrpg-cli/compendium/src/5e/llsh, ttrpg-cli/subclass/shaman/spirit-warrior]
 aliases:
   - Spirit Warrior
-title: Spirit Warrior
+created: 2025/06/13 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # Spirit Warrior
+
 *[Shaman](Shaman.md): Spirituality*  
 *Source: The Shaman p. 6*  
 
@@ -43,7 +44,6 @@ title: Spirit Warrior
 
 ^class-progression
 
-
 ## Class Features
 
 ### Spirit Warrior (Level 2)
@@ -65,6 +65,7 @@ You always have certain spells prepared at the Shaman levels in the table below.
 | 5th | [clairvoyance](/3-Content/Compendiums/spells/clairvoyance-xphb.md), [spirit shroud](/3-Content/Compendiums/spells/spirit-shroud-tce.md) |
 | 7th | [guardian of faith](/3-Content/Compendiums/spells/guardian-of-faith-xphb.md), staggering smite (alternate) |
 | 9th | [contact other plane](/3-Content/Compendiums/spells/contact-other-plane-xphb.md), Steel Wind Strike (alternate) |
+
 ^spirit-warrior-spells
 
 ### Ancestral Knowledge (Level 2)

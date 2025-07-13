@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/gunslinger
-- ttrpg-cli/compendium/src/5e/ha:gs
+tags: [ttrpg-cli/class/gunslinger, ttrpg-cli/compendium/src/5e/ha:gs]
 aliases:
-- Gunslinger
+  - Gunslinger
+  - Gunslinger
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Gunslinger
+
 *Source: The Gunslinger Class*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +48,7 @@ aliases:
 
 - **Hit Dice**: 1d8 per Gunslinger level
 - **Hit Points at First Level:** 8 + CON
-- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON (minimum of 1)
 
 ## Starting Gunslinger
 
@@ -144,6 +147,7 @@ When you reach 4th level you can increase one ability score of your choice by 2,
 If your DM allows the use of feats, you may instead take a feat.
 
 ### Proficiency Versatility (Level 4)
+
 _Source: The Gunslinger Class - Unearthed Arcana: Class Feature Variants p. 1_
 
 *4th-level feature (enhances Ability Score Improvement)*
@@ -160,7 +164,7 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 
 Starting at 5th level, You can load or reload a firearm you are holding as part of your move or your action.
 
-### Gunslinger Trail feature (Level 6)
+### Gunslinger Trail Feature (Level 6)
 
 Starting at 6th level, you gain one feature granted by your Gunslinger Trail.
 
@@ -178,7 +182,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 Starting at 9th level, When you are forced to make a saving throw, you can spend 1 grit point to make it with advantage.
 
-### Gunslinger Trail feature (Level 10)
+### Gunslinger Trail Feature (Level 10)
 
 At 10th level, you gain a feature granted by your Gunslinger Trail.
 
@@ -193,6 +197,7 @@ When you reach 12th level you can increase one ability score of your choice by 2
 If your DM allows the use of feats, you may instead take a feat.
 
 ### Proficiency Versatility (Level 12)
+
 _Source: The Gunslinger Class - Unearthed Arcana: Class Feature Variants p. 1_
 
 *12th-level feature (enhances Ability Score Improvement)*
@@ -224,6 +229,7 @@ Starting at 16th level you can increase one ability score of your choice by 2, o
 If your DM allows the use of feats, you may instead take a feat.
 
 ### Proficiency Versatility (Level 16)
+
 _Source: The Gunslinger Class - Unearthed Arcana: Class Feature Variants p. 1_
 
 *16th-level feature (enhances Ability Score Improvement)*
@@ -232,7 +238,7 @@ When you gain the Ability Score Improvement feature from your class, you can als
 
 This change represents one of your skills atrophying as you focus on a different skill.
 
-### Gunslinger Trail feature (Level 17)
+### Gunslinger Trail Feature (Level 17)
 
 At 17th level, you gain a feature granted by your Gunslinger Trail.
 
@@ -247,6 +253,7 @@ When you reach 19th level you can increase one ability score of your choice by 2
 If your DM allows the use of feats, you may instead take a feat.
 
 ### Proficiency Versatility (Level 19)
+
 _Source: The Gunslinger Class - Unearthed Arcana: Class Feature Variants p. 1_
 
 *19th-level feature (enhances Ability Score Improvement)*

@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/ghpg
-- ttrpg-cli/subclass/rogue/highway-rider
+tags: [ttrpg-cli/compendium/src/5e/ghpg, ttrpg-cli/subclass/rogue/highway-rider]
 aliases:
-- Highway Rider
+  - Highway Rider
+created: 2025/06/15 at 15:37
+updated: 2025/07/13 at 00:17
 ---
+
 # Highway Rider
+
 *[Rogue](Rogue.md): Roguish Archetype*  
 *Source: Grim Hollow: The Player's Guide*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/subclass/sorcerer/wild
+tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/subclass/sorcerer/wild]
 aliases:
-- Wild Magic
+  - Wild Magic
+created: 2025/06/15 at 15:37
+updated: 2025/07/13 at 00:17
 ---
+
 # Wild Magic
+
 *[Sorcerer](Sorcerer.md): Sorcerous Origin*  
 *Source: Player's Handbook p. 103*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

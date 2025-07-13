@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/tce
-- subclass/barbarian/beast
+tags: [compendium/src/5e/tce, subclass/barbarian/beast]
 aliases:
-- Path of the Beast
+  - Path of the Beast
+created: 2025/06/15 at 22:21
+updated: 2025/07/13 at 00:17
 ---
+
 # Path of the Beast
+
 *[Barbarian](Barbarian.md): Primal Path*  
 *Source: Tasha's Cauldron of Everything p. 24*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Path of the Beast (Level 3)
@@ -61,6 +62,7 @@ Such a barbarian might be inhabited by a primal spirit or be descended from shap
 | 2 | You are descended from an archdruid and inherited the ability to partially change shape. |
 | 3 | A fey spirit gifted you with the ability to adopt different bestial aspects. |
 | 4 | An ancient animal spirit dwells within you, allowing you to walk this path. |
+
 ^origin-of-the-beast
 
 ### Form of the Beast (Level 3)

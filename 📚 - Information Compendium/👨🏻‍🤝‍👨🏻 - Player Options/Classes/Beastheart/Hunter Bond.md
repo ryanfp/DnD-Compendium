@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/bst
-- ttrpg-cli/subclass/beastheart/hunter
+tags: [ttrpg-cli/compendium/src/5e/bst, ttrpg-cli/subclass/beastheart/hunter]
 aliases:
-- Hunter Bond
+  - Hunter Bond
+created: 2025/06/13 at 22:26
+updated: 2025/07/13 at 00:17
 ---
+
 # Hunter Bond
+
 *[Beastheart](Beastheart.md): Companion Bonds*  
 *Source: Beastheart and Monstrous Companions*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Hunter Bond (Level 3)
@@ -65,6 +66,7 @@ At 3rd level, your instincts improve, making you a formidable tracker and granti
 | 7th | Primal Warding |
 | 11th | Synchronized Stealth |
 | 15th | Unseen Hunters |
+
 ^hunter-bond-features
 
 ### Primal Warding (Level 7)

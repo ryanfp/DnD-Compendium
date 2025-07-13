@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/kt-cll
-  - ttrpg-cli/subclass/occultist/hedge-mage
+tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/occultist/hedge-mage]
 aliases:
   - Tradition of the Hedge Mage
-title: Tradition of the Hedge Mage
+created: 2025/06/13 at 22:29
+updated: 2025/07/13 at 00:17
 ---
+
 # Tradition of the Hedge Mage
+
 *[Occultist](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Occultist/Occultist.md): Occult Tradition*  
 *Source: Kibbles' Compendium of Legends and Legacies p. 21*  
 
@@ -42,7 +43,6 @@ title: Tradition of the Hedge Mage
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

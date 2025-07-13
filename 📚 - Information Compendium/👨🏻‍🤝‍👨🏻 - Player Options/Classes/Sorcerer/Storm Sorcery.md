@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/subclass/sorcerer/storm
+tags: [ttrpg-cli/compendium/src/5e/xge, ttrpg-cli/subclass/sorcerer/storm]
 aliases:
-- Storm Sorcery
+  - Storm Sorcery
+created: 2025/06/15 at 15:37
+updated: 2025/07/13 at 00:17
 ---
+
 # Storm Sorcery
+
 *[Sorcerer](Sorcerer.md): Sorcerous Origin*  
 *Source: Xanathar's Guide to Everything p. 51, Sword Coast Adventurer's Guide p. 137*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 > [!quote] A quote from Xanathar  
 > 

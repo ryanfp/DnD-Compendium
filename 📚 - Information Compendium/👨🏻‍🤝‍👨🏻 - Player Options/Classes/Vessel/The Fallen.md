@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/llvessel
-  - ttrpg-cli/subclass/vessel/fallen
+tags: [ttrpg-cli/compendium/src/5e/llvessel, ttrpg-cli/subclass/vessel/fallen]
 aliases:
   - The Fallen
-title: The Fallen
+created: 2025/06/13 at 22:33
+updated: 2025/07/13 at 00:17
 ---
+
 # The Fallen
+
 *[Vessel](Vessel.md): Sealed Spirit*  
 *Source: The Vessel p. 9*  
 
@@ -43,7 +44,6 @@ title: The Fallen
 
 ^class-progression
 
-
 ## Class Features
 
 ### The Fallen (Level 3)
@@ -69,6 +69,7 @@ You learn the spells at the Vessel levels noted in the table below. These don't 
 | 9th | [revivify](/3-Content/Compendiums/spells/revivify-xphb.md), [spirit shroud](/3-Content/Compendiums/spells/spirit-shroud-tce.md) |
 | 13th | [banishment](/3-Content/Compendiums/spells/banishment-xphb.md), [guardian of faith](/3-Content/Compendiums/spells/guardian-of-faith-xphb.md) |
 | 17th | [flame strike](/3-Content/Compendiums/spells/flame-strike-xphb.md), [summon celestial](/3-Content/Compendiums/spells/summon-celestial-xphb.md) |
+
 ^vessel-level-spells
 
 ### Fallen Archon (Level 3)

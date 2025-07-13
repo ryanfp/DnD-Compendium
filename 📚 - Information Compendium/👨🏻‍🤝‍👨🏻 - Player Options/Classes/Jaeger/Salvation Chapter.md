@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/sgtteh
-  - ttrpg-cli/subclass/jaeger/salvation
+tags: [ttrpg-cli/compendium/src/5e/sgtteh, ttrpg-cli/subclass/jaeger/salvation]
 aliases:
   - Salvation Chapter
-title: Salvation Chapter
+created: 2025/06/13 at 22:28
+updated: 2025/07/13 at 00:17
 ---
+
 # Salvation Chapter
+
 *[Jaeger](Jaeger.md): Chapter*  
 *Source: Steinhardt's Guide to the Eldritch Hunt p. 123*  
 
@@ -42,7 +43,6 @@ title: Salvation Chapter
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

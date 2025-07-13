@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/subclass/druid/land
+tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/subclass/druid/land]
 aliases:
-- Circle of the Land
+  - Circle of the Land
+  - Circle of the Land
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Circle of the Land
+
 *[Druid](./druid-xphb.md): Druid Subclass*  
 *Source: Player's Handbook p. 68. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
@@ -42,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
 
@@ -76,6 +78,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 5th | [sleet storm](/3-Content/Compendiums/spells/sleet-storm-xphb.md), [slow](/3-Content/Compendiums/spells/slow-xphb.md) |
 | 7th | [freedom of movement](/3-Content/Compendiums/spells/freedom-of-movement-xphb.md), [ice storm](/3-Content/Compendiums/spells/ice-storm-xphb.md) |
 | 9th | [commune with nature](/3-Content/Compendiums/spells/commune-with-nature-xphb.md), [cone of cold](/3-Content/Compendiums/spells/cone-of-cold-xphb.md) |
+
 ^arctic
 
 **Coast**
@@ -86,6 +89,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 5th | [water breathing](/3-Content/Compendiums/spells/water-breathing-xphb.md), [water walk](/3-Content/Compendiums/spells/water-walk-xphb.md) |
 | 7th | [control water](/3-Content/Compendiums/spells/control-water-xphb.md), [freedom of movement](/3-Content/Compendiums/spells/freedom-of-movement-xphb.md) |
 | 9th | [conjure elemental](/3-Content/Compendiums/spells/conjure-elemental-xphb.md), [scrying](/3-Content/Compendiums/spells/scrying-xphb.md) |
+
 ^coast
 
 **Desert**
@@ -96,6 +100,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 5th | [create food and water](/3-Content/Compendiums/spells/create-food-and-water-xphb.md), [protection from energy](/3-Content/Compendiums/spells/protection-from-energy-xphb.md) |
 | 7th | [blight](/3-Content/Compendiums/spells/blight-xphb.md), [hallucinatory terrain](/3-Content/Compendiums/spells/hallucinatory-terrain-xphb.md) |
 | 9th | [insect plague](/3-Content/Compendiums/spells/insect-plague-xphb.md), [wall of stone](/3-Content/Compendiums/spells/wall-of-stone-xphb.md) |
+
 ^desert
 
 **Forest**
@@ -106,6 +111,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 5th | [call lightning](/3-Content/Compendiums/spells/call-lightning-xphb.md), [plant growth](/3-Content/Compendiums/spells/plant-growth-xphb.md) |
 | 7th | [divination](/3-Content/Compendiums/spells/divination-xphb.md), [freedom of movement](/3-Content/Compendiums/spells/freedom-of-movement-xphb.md) |
 | 9th | [commune with nature](/3-Content/Compendiums/spells/commune-with-nature-xphb.md), [tree stride](/3-Content/Compendiums/spells/tree-stride-xphb.md) |
+
 ^forest
 
 **Grassland**
@@ -116,6 +122,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 5th | [daylight](/3-Content/Compendiums/spells/daylight-xphb.md), [haste](/3-Content/Compendiums/spells/haste-xphb.md) |
 | 7th | [divination](/3-Content/Compendiums/spells/divination-xphb.md), [freedom of movement](/3-Content/Compendiums/spells/freedom-of-movement-xphb.md) |
 | 9th | [dream](/3-Content/Compendiums/spells/dream-xphb.md), [insect plague](/3-Content/Compendiums/spells/insect-plague-xphb.md) |
+
 ^grassland
 
 **Mountain**
@@ -126,6 +133,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 5th | [lightning bolt](/3-Content/Compendiums/spells/lightning-bolt-xphb.md), [meld into stone](/3-Content/Compendiums/spells/meld-into-stone-xphb.md) |
 | 7th | [stone shape](/3-Content/Compendiums/spells/stone-shape-xphb.md), [stoneskin](/3-Content/Compendiums/spells/stoneskin-xphb.md) |
 | 9th | [passwall](/3-Content/Compendiums/spells/passwall-xphb.md), [wall of stone](/3-Content/Compendiums/spells/wall-of-stone-xphb.md) |
+
 ^mountain
 
 **Swamp**
@@ -136,6 +144,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 5th | [water walk](/3-Content/Compendiums/spells/water-walk-xphb.md), [stinking cloud](/3-Content/Compendiums/spells/stinking-cloud-xphb.md) |
 | 7th | [freedom of movement](/3-Content/Compendiums/spells/freedom-of-movement-xphb.md), [locate creature](/3-Content/Compendiums/spells/locate-creature-xphb.md) |
 | 9th | [insect plague](/3-Content/Compendiums/spells/insect-plague-xphb.md), [scrying](/3-Content/Compendiums/spells/scrying-xphb.md) |
+
 ^swamp
 
 **Underdark**
@@ -146,6 +155,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 5th | [gaseous form](/3-Content/Compendiums/spells/gaseous-form-xphb.md), [stinking cloud](/3-Content/Compendiums/spells/stinking-cloud-xphb.md) |
 | 7th | [greater invisibility](/3-Content/Compendiums/spells/greater-invisibility-xphb.md), [stone shape](/3-Content/Compendiums/spells/stone-shape-xphb.md) |
 | 9th | [cloudkill](/3-Content/Compendiums/spells/cloudkill-xphb.md), [insect plague](/3-Content/Compendiums/spells/insect-plague-xphb.md) |
+
 ^underdark
 
 ### Land's Stride (Level 6)

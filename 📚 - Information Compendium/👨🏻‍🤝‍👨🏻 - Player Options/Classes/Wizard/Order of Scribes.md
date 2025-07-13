@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/wizard/scribes
+tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/wizard/scribes]
 aliases:
-- Order of Scribes
+  - Order of Scribes
+created: 2025/06/15 at 15:38
+updated: 2025/07/13 at 00:17
 ---
+
 # Order of Scribes
+
 *[Wizard](Wizard.md): Arcane Tradition*  
 *Source: Tasha's Cauldron of Everything p. 77*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

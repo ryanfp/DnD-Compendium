@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/tdcsr
-- subclass/sorcerer/runechild
+tags: [compendium/src/5e/tdcsr, subclass/sorcerer/runechild]
 aliases:
-- Runechild
+  - Runechild
+created: 2025/06/15 at 22:28
+updated: 2025/07/13 at 00:17
 ---
+
 # Runechild
+
 *[Sorcerer](Sorcerer.md): Sorcerous Origin*  
 *Source: Tal'Dorei Campaign Setting Reborn p. 176*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 
@@ -78,6 +79,7 @@ When you gain a level in this class, you can replace one spell you gained from t
 | 5th | [glyph of warding](/📚%20-%20Information%20Compendium/spells/glyph-of-warding.md), [magic circle](/📚%20-%20Information%20Compendium/spells/magic-circle.md) |
 | 7th | [death ward](/📚%20-%20Information%20Compendium/spells/death-ward.md), [freedom of movement](/📚%20-%20Information%20Compendium/spells/freedom-of-movement.md) |
 | 9th | [greater restoration](/📚%20-%20Information%20Compendium/spells/greater-restoration.md), [telekinesis](/📚%20-%20Information%20Compendium/spells/telekinesis.md) |
+
 ^runic-spells
 
 ### Glyph of Aegis (Level 1)

@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/warmage/rook
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/warmage/rook]
 aliases:
   - House of Rooks
-title: House of Rooks
+created: 2025/06/13 at 22:34
+updated: 2025/07/13 at 00:17
 ---
+
 # House of Rooks
+
 *[Warmage](Warmage.md): Warmage House*  
 *Source: Valda's Spire of Secrets*  
 
@@ -42,7 +43,6 @@ title: House of Rooks
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

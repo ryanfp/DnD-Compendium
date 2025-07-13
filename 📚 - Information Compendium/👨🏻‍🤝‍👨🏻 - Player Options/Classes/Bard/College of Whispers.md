@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/xge
-- subclass/bard/whispers
+tags: [compendium/src/5e/xge, subclass/bard/whispers]
 aliases:
-- College of Whispers
+  - College of Whispers
+created: 2025/06/15 at 22:22
+updated: 2025/07/13 at 00:17
 ---
+
 # College of Whispers
+
 *[Bard](Bard.md): Bard College*  
 *Source: Xanathar's Guide to Everything p. 16*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 > [!quote] A quote from Xanathar  
 > 

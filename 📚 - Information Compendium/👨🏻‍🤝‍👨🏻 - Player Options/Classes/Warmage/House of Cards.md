@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/warmage/cards
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/warmage/cards]
 aliases:
   - House of Cards
-title: House of Cards
+created: 2025/06/13 at 22:34
+updated: 2025/07/13 at 00:17
 ---
+
 # House of Cards
+
 *[Warmage](Warmage.md): Warmage House*  
 *Source: Valda's Spire of Secrets*  
 
@@ -43,7 +44,6 @@ title: House of Cards
 
 ^class-progression
 
-
 ## Class Features
 
 ### House of Cards (Level 3)
@@ -72,6 +72,7 @@ Whenever you target a hostile creature with a warmage spell that deals damage, y
 | Spades | Any two spades. | Your speed increases by 10 feet until the start of your next turn. |
 | Diamonds | Any two diamonds. | You gain a +1 bonus to your AC until the start of your next turn. |
 | Clubs | any two clubs. | You gain a +1 bonus to saving throws until the start of your next turn. |
+
 ^hands
 
 ### High Stakes (Level 7)

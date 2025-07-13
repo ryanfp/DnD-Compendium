@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/ghpg
-- ttrpg-cli/domain/eldritch
-- ttrpg-cli/subclass/cleric/eldritch
+tags: [ttrpg-cli/compendium/src/5e/ghpg, ttrpg-cli/domain/eldritch, ttrpg-cli/subclass/cleric/eldritch]
 aliases:
-- Eldritch Domain
+  - Eldritch Domain
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Eldritch Domain
+
 *[Cleric](Cleric.md): Divine Domain*  
 *Source: Grim Hollow: The Player's Guide*  
 
@@ -43,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Eldritch Domain (Level 1)
@@ -59,6 +59,7 @@ Even the most benevolent divine beings operate outside the bounds of mortal comp
 | 5th | [fear](/3-Content/Compendiums/spells/fear-xphb.md), [tongues](/3-Content/Compendiums/spells/tongues-xphb.md) |
 | 7th | [confusion](/3-Content/Compendiums/spells/confusion-xphb.md), [phantasmal killer](/3-Content/Compendiums/spells/phantasmal-killer-xphb.md) |
 | 9th | [contact other plane](/3-Content/Compendiums/spells/contact-other-plane-xphb.md), [dream](/3-Content/Compendiums/spells/dream-xphb.md) |
+
 ^eldritch-domain-spells
 
 ### Unpredictable Inspiration (Level 1)
@@ -85,6 +86,7 @@ Starting at 1st level, you've been gifted with the ability to impart a fleeting 
 | 6 | The creature is reckless. It has advantage on attack rolls and attack rolls against it have advantage. |
 | 7 | The creature is [deafened](/3-Content/Rules/conditions.md#Deafened) and cannot see objects or creatures further than 30 feet away. |
 | 8 | The creature is [frightened](/3-Content/Rules/conditions.md#Frightened) of you. |
+
 ^eldritch-effects
 
 ### Channel Divinity: Prophecy of Doom (Level 2)

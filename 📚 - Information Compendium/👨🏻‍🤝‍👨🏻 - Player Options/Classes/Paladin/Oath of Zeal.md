@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/ghpg
-- ttrpg-cli/subclass/paladin/zeal
+tags: [ttrpg-cli/compendium/src/5e/ghpg, ttrpg-cli/subclass/paladin/zeal]
 aliases:
-- Oath of Zeal
+  - Oath of Zeal
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Oath of Zeal
+
 *[Paladin](Paladin.md): Sacred Oath*  
 *Source: Grim Hollow: The Player's Guide*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Oath of Zeal (Level 3)
@@ -54,21 +55,25 @@ The Oath of Zeal is taken by paladins consumed by hatred for a specific group or
 The tenets of the Oath of Zeal are serious and severe, as are those paladins who choose to take them.
 
 #### Uncover Corruption
+
 _Source: Grim Hollow: The Player's Guide_
 
 Darkness cannot abide the light of day. Wickedness must be revealed before it can be destroyed.
 
 #### Purge the Heretics
+
 _Source: Grim Hollow: The Player's Guide_
 
 Heresy is a tumor that spread through the hearts of the innocent. Cut it out at the source.
 
 #### No Mercy
+
 _Source: Grim Hollow: The Player's Guide_
 
 The righteous path requires unwavering conviction and unflinching resolve.
 
 #### By Any Means Necessary
+
 _Source: Grim Hollow: The Player's Guide_
 
 There is no sacrifice too great when it comes to defeating the wicked.
@@ -84,6 +89,7 @@ You gain oath spells at the paladin levels listed in the Oath of Zeal Spells tab
 | 9th | [fear](/3-Content/Compendiums/spells/fear-xphb.md), [tongues](/3-Content/Compendiums/spells/tongues-xphb.md) |
 | 13th | [divination](/3-Content/Compendiums/spells/divination-xphb.md), [locate creature](/3-Content/Compendiums/spells/locate-creature-xphb.md) |
 | 17th | [insect plague](/3-Content/Compendiums/spells/insect-plague-xphb.md), [scrying](/3-Content/Compendiums/spells/scrying-xphb.md) |
+
 ^paladin-level-spells
 
 ### Channel Divinity (Level 3)
@@ -91,11 +97,13 @@ You gain oath spells at the paladin levels listed in the Oath of Zeal Spells tab
 When you take this oath at 3rd level, you gain the following two Channel Divinity options:
 
 #### Mark of the Heretic
+
 _Source: Grim Hollow: The Player's Guide_
 
 You can use your Channel Divinity to mark a creature as a heretic. As a bonus action, choose a creature you can see within 30 feet and a weeping symbol appears on it. For the next minute, your weapon attacks against the chosen creature score a critical hit on a roll of 19 or 20, and each time the creature's turn starts you can use your reaction to make one weapon attack against it.
 
 #### Inquisitor's Eye
+
 _Source: Grim Hollow: The Player's Guide_
 
 You can use your Channel Divinity to open your senses to hidden signs of corruption and malfeasance. As a bonus action, you grant yourself advantage on Intelligence ([Investigation](/3-Content/Rules/skills.md#Investigation)), Wisdom ([Insight](/3-Content/Rules/skills.md#Insight)), and Wisdom ([Perception](/3-Content/Rules/skills.md#Perception)) ability checks for the next 10 minutes. During this time, you can't be surprised.

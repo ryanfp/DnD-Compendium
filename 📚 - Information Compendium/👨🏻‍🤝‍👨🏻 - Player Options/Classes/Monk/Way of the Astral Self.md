@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/monk/astral-self
+tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/monk/astral-self]
 aliases:
-- Way of the Astral Self
+  - Way of the Astral Self
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Way of the Astral Self
+
 *[Monk](Monk.md): Monastic Tradition*  
 *Source: Tasha's Cauldron of Everything p. 50*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 
@@ -81,16 +82,19 @@ The spectral visage covers your face like a helmet or mask. You determine its ap
 While the spectral visage is present, you gain the following benefits.
 
 #### Astral Sight
+
 _Source: Tasha's Cauldron of Everything_
 
 You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
 
 #### Wisdom of the Spirit
+
 _Source: Tasha's Cauldron of Everything_
 
 You have advantage on Wisdom ([Insight](/3-Content/Rules/skills.md#Insight)) and Charisma ([Intimidation](/3-Content/Rules/skills.md#Intimidation)) checks.
 
 #### Word of the Spirit
+
 _Source: Tasha's Cauldron of Everything_
 
 When you speak, you can direct your words to a creature of your choice that you can see within 60 feet of you, making it so only that creature can hear you. Alternatively, you can amplify your voice so that all creatures within 600 feet can hear you.
@@ -104,11 +108,13 @@ When you have both your astral arms and visage summoned, you can cause the body 
 While the spectral body is present, you gain the following benefits.
 
 #### Deflect Energy
+
 _Source: Tasha's Cauldron of Everything_
 
 When you take acid, cold, fire, force, lightning, or thunder damage, you can use your reaction to deflect it. When you do so, the damage you take is reduced by `d10` + your Wisdom modifier (minimum reduction of 1).
 
 #### Empowered Arms
+
 _Source: Tasha's Cauldron of Everything_
 
 Once on each of your turns when you hit a target with the Arms of the Astral Self, you can deal extra damage to the target equal to your Martial Arts die.
@@ -122,11 +128,13 @@ Your connection to your astral self is complete, allowing you to unleash its ful
 While your astral self is awakened, you gain the following benefits.
 
 #### Armor of the Spirit
+
 _Source: Tasha's Cauldron of Everything_
 
 You gain a +2 bonus to Armor Class.
 
 #### Astral Barrage
+
 _Source: Tasha's Cauldron of Everything_
 
 Whenever you use the Extra Attack feature to attack twice, you can instead attack three times if all the attacks are made with your astral arms.

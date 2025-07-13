@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/bh2022
-- ttrpg-cli/subclass/blood-hunter/mutant
+tags: [ttrpg-cli/compendium/src/5e/bh2022, ttrpg-cli/subclass/blood-hunter/mutant]
 aliases:
-- Order of the Mutant
+  - Order of the Mutant
+created: 2025/06/13 at 22:26
+updated: 2025/07/13 at 00:17
 ---
+
 # Order of the Mutant
+
 *[Blood Hunter](Blood%20Hunter.md): Blood Hunter Order*  
 *Source: Blood Hunter 2022*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Order of the Mutant (Level 3)
@@ -64,6 +65,7 @@ Mutagens are designed for the specific biology of the character who concocted th
 | 11th | 2 | 6 |
 | 15th | 3 | 7 |
 | 18th | 3 | 8 |
+
 ^blood-hunter-level-mutagens-created-formulas-known
 
 ### Formulas (Level 3)
@@ -90,7 +92,7 @@ Your Dexterity score increases by 3, as does your maximum for that score. Howeve
 
 You have advantage on Intelligence checks. However, you have disadvantage on Wisdom checks.
 
-#### Cruelty (11th level required)
+#### Cruelty (11th Level required)
 
 When you use the Attack action, you can make one additional weapon attack as a bonus action. However, you have disadvantage on Intelligence, Wisdom, and Charisma saving throws.
 
@@ -126,7 +128,7 @@ You have advantage on Wisdom checks. However, you have disadvantage on Charisma 
 
 Your Strength score increases by 3, as does your maximum for that score. However, you have disadvantage on Dexterity saving throws. Your Strength score and your maximum increase by 4 if you consume this mutagen at 11th level, and by 5 at 18th level.
 
-#### Precision (11th level required)
+#### Precision (11th Level required)
 
 Your weapon attacks score a critical hit on a roll of 19 or 20. However, you have disadvantage on Strength saving throws.
 
@@ -134,7 +136,7 @@ Your weapon attacks score a critical hit on a roll of 19 or 20. However, you hav
 
 Your speed increases by 10 feet. However, you have disadvantage on Intelligence checks. At 15th level, your speed increases by an additional 5 feet.
 
-#### Reconstruction (7th level required)
+#### Reconstruction (7th Level required)
 
 For 1 hour, at the start of each of your turns when you have at least 1 hit point but fewer hit points than half your hit point maximum, you regain hit points equal to your proficiency bonus. However, your speed is reduced by 10 feet during this time.
 
@@ -150,7 +152,7 @@ You have resistance to slashing damage, and you have vulnerability to bludgeonin
 
 You have resistance to bludgeoning damage, and you have vulnerability to piercing damage.
 
-#### Vermillion
+#### Vermilion
 
 You gain an additional use of your Blood Maledict feature. However, you have disadvantage on death saving throws.
 

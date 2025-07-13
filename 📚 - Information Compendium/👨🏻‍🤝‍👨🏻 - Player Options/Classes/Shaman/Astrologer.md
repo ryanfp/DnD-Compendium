@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/llsh:e
-  - ttrpg-cli/subclass/shaman/astrologer
+tags: [ttrpg-cli/compendium/src/5e/llsh:e, ttrpg-cli/subclass/shaman/astrologer]
 aliases:
   - Astrologer
-title: Astrologer
+created: 2025/06/13 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # Astrologer
+
 *[Shaman](Shaman.md): Spirituality*  
 *Source: Shaman Expanded p. 8*  
 
@@ -43,7 +44,6 @@ title: Astrologer
 
 ^class-progression
 
-
 ## Class Features
 
 ### Astrologer (Level 2)
@@ -51,6 +51,7 @@ title: Astrologer
 Since the earliest days of civilization, mortals have looked to stars for guidance. Drawing upon the Spirits that move these celestial bodies, Astrologer Shamans can channel the radiant power of the great Constellations that guide the mortal world.
 
 #### Astrologer Spells
+
 _Source: Shaman Expanded_
 
 *2nd-level Astrologer feature*
@@ -66,6 +67,7 @@ You always have certain spells prepared at the Shaman levels in the table below.
 | 5th | [daylight](/3-Content/Compendiums/spells/daylight-xphb.md), hypnotic pattern (alternate) |
 | 7th | [divination](/3-Content/Compendiums/spells/divination-xphb.md), [guardian of faith](/3-Content/Compendiums/spells/guardian-of-faith-xphb.md) |
 | 9th | [commune](/3-Content/Compendiums/spells/commune-xphb.md), wall of light |
+
 ^astrologer-spells
 
 ### Celestial Guidance (Level 2)
@@ -79,21 +81,25 @@ Finally, you cannot become lost, even by magical means, so long as you can see t
 You bind the radiant Spirits of the Heavens to your Totems. Your Totemic Assault now deals radiant damage, and when a creature fails its saving throw, you apply the effects of one of the Constellations below until the start of your next turn:
 
 #### Champion
+
 _Source: Shaman Expanded_
 
 The creature has disadvantage on all attacks it makes against one creature of your choice within 30 feet of it.
 
 #### Leviathan
+
 _Source: Shaman Expanded_
 
 Totemic Assault uses d12s for its damage dice.
 
 #### Maiden
+
 _Source: Shaman Expanded_
 
 The creature emits bright light in a 5-foot radius, and has disadvantage on any ability check it makes to Hide.
 
 #### Sage
+
 _Source: Shaman Expanded_
 
 The creature must subtract 1d4 from the next ability check or saving throw that it is forced to make.

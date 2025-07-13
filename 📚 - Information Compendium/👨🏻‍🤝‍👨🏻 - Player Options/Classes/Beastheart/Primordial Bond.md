@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/bst
-- ttrpg-cli/subclass/beastheart/primordial
+tags: [ttrpg-cli/compendium/src/5e/bst, ttrpg-cli/subclass/beastheart/primordial]
 aliases:
-- Primordial Bond
+  - Primordial Bond
+created: 2025/06/13 at 22:26
+updated: 2025/07/13 at 00:17
 ---
+
 # Primordial Bond
+
 *[Beastheart](Beastheart.md): Companion Bonds*  
 *Source: Beastheart and Monstrous Companions*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Primordial Bond (Level 3)
@@ -63,6 +64,7 @@ Whenever you gain a level in this class, you can choose one of the nature exploi
 | [Freezing Strike](/3-Content/optional-features/freezing-strike-2-ferocity-bst.md) | Attack Action | 2 |
 | [Sickening Strike](/3-Content/optional-features/sickening-strike-3-ferocity-bst.md) | Attack Action | 3 |
 | [Wings When I Need Them](/3-Content/optional-features/wings-when-i-need-them-5-ferocity-bst.md) | No Action | 5 |
+
 ^nature-exploits-3rd-level
 
 ### Primal Understanding (Level 3)
@@ -79,6 +81,7 @@ Additionally, you gain proficiency in the Nature skill if you do not already hav
 | 7th | Allied Earth |
 | 11th | Nature Exploits improvement, Spirit Stampede |
 | 15th | Allied Weather |
+
 ^primordial-bond-features
 
 ### Allied Earth (Level 7)
@@ -98,6 +101,7 @@ You can take one of the following exploits when you gain a new nature exploit at
 | Plant Prison | Action | 5 |
 | Stinging Swarm | Action | 6 |
 | Thunderous Rebuke | Reaction | 6 |
+
 ^nature-exploits-11th-level
 
 ### Spirit Stampede (Level 11)

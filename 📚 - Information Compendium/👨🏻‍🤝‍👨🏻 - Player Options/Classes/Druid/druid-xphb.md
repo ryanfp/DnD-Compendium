@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/druid
-- ttrpg-cli/compendium/src/5e/xphb
+tags: [ttrpg-cli/class/druid, ttrpg-cli/compendium/src/5e/xphb]
 aliases:
-- Druid
+  - Druid
+  - Druid
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Druid
+
 *Source: Player's Handbook (2024) p. 78. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +48,7 @@ aliases:
 
 - **Hit Dice**: 1d8 per Druid level
 - **Hit Points at First Level:** 8 + CON
-- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON (minimum of 1)
 
 ## Starting Druid
 
@@ -156,6 +159,7 @@ When choosing known forms, you may look in the "Monster Manual" or elsewhere for
 | 2 | 4 | 1/4 | No |
 | 4 | 6 | 1/2 | No |
 | 8 | 8 | 1 | Yes |
+
 ^beast-shapes
 
 #### Rules While Transformed

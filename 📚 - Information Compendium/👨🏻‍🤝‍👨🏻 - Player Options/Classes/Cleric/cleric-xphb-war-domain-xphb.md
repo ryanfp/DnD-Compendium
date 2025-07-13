@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/domain/war
-- ttrpg-cli/subclass/cleric/war
+tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/domain/war, ttrpg-cli/subclass/cleric/war]
 aliases:
-- War Domain
+  - War Domain
+  - War Domain
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # War Domain
+
 *[Cleric](./cleric-xphb.md): Cleric Subclass*  
 *Source: Player's Handbook (2024) p. 76*  
 
@@ -43,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### War Domain (Level 3)
@@ -66,6 +67,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 | 5th | [Crusader's Mantle](/3-Content/Compendiums/spells/crusaders-mantle-xphb.md), [Spirit Guardians](/3-Content/Compendiums/spells/spirit-guardians-xphb.md) |
 | 7th | [Fire Shield](/3-Content/Compendiums/spells/fire-shield-xphb.md), [Freedom of Movement](/3-Content/Compendiums/spells/freedom-of-movement-xphb.md) |
 | 9th | [Hold Monster](/3-Content/Compendiums/spells/hold-monster-xphb.md), [Steel Wind Strike](/3-Content/Compendiums/spells/steel-wind-strike-xphb.md) |
+
 ^war-domain-spells
 
 ### War Priest (Level 3)

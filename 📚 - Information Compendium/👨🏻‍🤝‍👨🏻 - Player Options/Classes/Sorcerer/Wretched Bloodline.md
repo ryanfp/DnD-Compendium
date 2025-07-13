@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/ghpg
-- ttrpg-cli/subclass/sorcerer/wretched
+tags: [ttrpg-cli/compendium/src/5e/ghpg, ttrpg-cli/subclass/sorcerer/wretched]
 aliases:
-- Wretched Bloodline
+  - Wretched Bloodline
+created: 2025/06/15 at 15:37
+updated: 2025/07/13 at 00:17
 ---
+
 # Wretched Bloodline
+
 *[Sorcerer](Sorcerer.md): Sorcerous Origin*  
 *Source: Grim Hollow: The Player's Guide*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 
@@ -80,16 +81,19 @@ Beginning at 14th level, you can use a bonus action to adopt the terrifying visa
 In addition, while you have adopted the terrifying visage, you gain an additional benefit based on the creature type chosen with your Blood Ties feature.
 
 #### Fey
+
 _Source: Grim Hollow: The Player's Guide_
 
 You can use a bonus action to teleport up to 30 feet in any direction.
 
 #### Fiend
+
 _Source: Grim Hollow: The Player's Guide_
 
 You have resistance to cold and fire damage.
 
 #### Undead
+
 _Source: Grim Hollow: The Player's Guide_
 
 When you take damage that isn't radiant, you can use your reaction to reduce that damage by an amount equal to half your sorcerer level.

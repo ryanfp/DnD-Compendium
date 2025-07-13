@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/blood-hunter
-- ttrpg-cli/compendium/src/5e/bh2022
+tags: [ttrpg-cli/class/blood-hunter, ttrpg-cli/compendium/src/5e/bh2022]
 aliases:
-- Blood Hunter
+  - Blood Hunter
+created: 2025/06/13 at 22:26
+updated: 2025/07/13 at 00:17
 ---
+
 # Blood Hunter
+
 *Source: Blood Hunter 2022*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d10 per Blood Hunter level
 - **Hit Points at First Level:** 10 + CON
-- **Hit Points at Higher Levels:** add 6 OR 1d10 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 6 OR 1d10 + CON (minimum of 1)
 
 ## Starting Blood Hunter
 
@@ -218,7 +220,7 @@ Once you use this feature, you can't use it again until you finish a short or lo
 
 Beginning at 6th level, you can use your Blood Maledict feature twice between rests.
 
-### Order feature (Level 7)
+### Order Feature (Level 7)
 
 At 7th level, you gain a feature granted by your Blood Hunter Order.
 
@@ -240,7 +242,7 @@ When you reach 9th level, you gain a supernatural talent for discerning the secr
 
 Starting at 10th level, the magic of hemocraft suffuses your body to permanently reinforce your resilience. Your speed increases by 5 feet, and you have a bonus to Strength, Dexterity, and Constitution saving throws equal to your Hemocraft modifier (minimum of +1).
 
-### Order feature (Level 11)
+### Order Feature (Level 11)
 
 At 11th level, you gain a feature granted by your Blood Hunter Order.
 
@@ -266,7 +268,7 @@ When you reach 14th level, you have advantage on saving throws against being [ch
 
 At 14th level, you learn an additional Crimson Rite.
 
-### Order feature (Level 15)
+### Order Feature (Level 15)
 
 At 15th level, you gain a feature granted by your Blood Hunter Order.
 
@@ -280,7 +282,7 @@ Using the optional feats rule, you can forgo taking this feature to take a feat 
 
 Beginning at 17th level, you can use your Blood Maledict feature four times between rests.
 
-### Order feature (Level 18)
+### Order Feature (Level 18)
 
 At 18th level, you gain a feature granted by your Blood Hunter Order.
 

@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/domain/trickery
-- ttrpg-cli/subclass/cleric/trickery
+tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/domain/trickery, ttrpg-cli/subclass/cleric/trickery]
 aliases:
-- Trickery Domain
+  - Trickery Domain
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Trickery Domain
+
 *[Cleric](Cleric.md): Divine Domain*  
 *Source: Player's Handbook p. 62*  
 
@@ -43,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Trickery Domain (Level 1)
@@ -61,6 +61,7 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 | 5th | [blink](/3-Content/Compendiums/spells/blink-xphb.md), [dispel magic](/3-Content/Compendiums/spells/dispel-magic-xphb.md) |
 | 7th | [dimension door](/3-Content/Compendiums/spells/dimension-door-xphb.md), [polymorph](/3-Content/Compendiums/spells/polymorph-xphb.md) |
 | 9th | [dominate person](/3-Content/Compendiums/spells/dominate-person-xphb.md), [modify memory](/3-Content/Compendiums/spells/modify-memory-xphb.md) |
+
 ^trickery-domain-spells
 
 ### Blessing of the Trickster (Level 1)
@@ -86,6 +87,7 @@ As an action, you become [invisible](/3-Content/Rules/conditions.md#Invisible) u
 At 8th level, you gain the ability to infuse your weapon strikes with poison—a gift from your deity. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `d8` poison damage to the target. When you reach 14th level, the extra damage increases to `2d8`.
 
 ### Blessed Strikes (Level 8)
+
 _Source: Tasha's Cauldron of Everything p. 30_
 
 *8th-level cleric [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*

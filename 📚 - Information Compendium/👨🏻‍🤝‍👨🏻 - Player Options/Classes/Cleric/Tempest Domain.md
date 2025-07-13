@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/domain/tempest
-- ttrpg-cli/subclass/cleric/tempest
+tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/domain/tempest, ttrpg-cli/subclass/cleric/tempest]
 aliases:
-- Tempest Domain
+  - Tempest Domain
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Tempest Domain
+
 *[Cleric](Cleric.md): Divine Domain*  
 *Source: Player's Handbook p. 62*  
 
@@ -43,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Tempest Domain (Level 1)
@@ -61,6 +61,7 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 | 5th | [call lightning](/3-Content/Compendiums/spells/call-lightning-xphb.md), [sleet storm](/3-Content/Compendiums/spells/sleet-storm-xphb.md) |
 | 7th | [control water](/3-Content/Compendiums/spells/control-water-xphb.md), [ice storm](/3-Content/Compendiums/spells/ice-storm-xphb.md) |
 | 9th | [destructive wave](/3-Content/Compendiums/spells/destructive-wave-xphb.md), [insect plague](/3-Content/Compendiums/spells/insect-plague-xphb.md) |
+
 ^tempest-domain-spells
 
 ### Bonus Proficiencies (Level 1)
@@ -88,6 +89,7 @@ At 6th level, when you deal lightning damage to a Large or smaller creature, you
 At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `d8` thunder damage to the target. When you reach 14th level, the extra damage increases to `2d8`.
 
 ### Blessed Strikes (Level 8)
+
 _Source: Tasha's Cauldron of Everything p. 30_
 
 *8th-level cleric [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*

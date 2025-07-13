@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/llsh:e
-  - ttrpg-cli/subclass/shaman/wyrmbound
+tags: [ttrpg-cli/compendium/src/5e/llsh:e, ttrpg-cli/subclass/shaman/wyrmbound]
 aliases:
   - Wyrmbound
-title: Wyrmbound
+created: 2025/06/13 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # Wyrmbound
+
 *[Shaman](Shaman.md): Spirituality*  
 *Source: Shaman Expanded p. 8*  
 
@@ -43,7 +44,6 @@ title: Wyrmbound
 
 ^class-progression
 
-
 ## Class Features
 
 ### Wyrmbound (Level 2)
@@ -51,6 +51,7 @@ title: Wyrmbound
 Unknown to many mortals, some of the most powerful spirits of the multiverse are those of dragons who have passed on. In their desire to affect the material plane, for good or ill, these draconic spirits attach themselves to mortals open to the spiritual, transforming them into Wyrmbound Shamans
 
 #### Wyrmbound Spells
+
 _Source: Shaman Expanded_
 
 *2nd-level Wyrmbound feature*
@@ -66,6 +67,7 @@ When you gain a level in this class, you can replace one spell from this feature
 | 5th | [fear](/3-Content/Compendiums/spells/fear-xphb.md), spectral passage |
 | 7th | [dominate beast](/3-Content/Compendiums/spells/dominate-beast-xphb.md), Polymorph (alternate) |
 | 9th | [geas](/3-Content/Compendiums/spells/geas-xphb.md), [summon draconic spirit](/3-Content/Compendiums/spells/summon-dragon-xphb.md) |
+
 ^wyrmbound-spells
 
 ### Totemic Wyrmshape (Level 2)
@@ -73,21 +75,25 @@ When you gain a level in this class, you can replace one spell from this feature
 As a bonus action, you can fuse with your Draconic Spirit to transform into a [Spirit Dragon](/3-Content/Compendiums/bestiary/dragon/spirit-dragon-llsh-e.md), using the rules below:
 
 #### Stat Block
+
 _Source: Shaman Expanded_
 
 Your game statistics are replaced by those in the Spirit Dragon stat block. It uses your Spell save DC and proficiency bonus (PB). While transformed you retain your alignment, personality, hit points, all skill and saving throw proficiencies, and your Intelligence, Wisdom, and Charisma scores. You also determine its appearance.
 
 #### Temporary Hit Points
+
 _Source: Shaman Expanded_
 
 When you transform, you gain temporary hit points equal to your Shaman level, and they last for the duration of your current transformation.
 
 #### Equipment
+
 _Source: Shaman Expanded_
 
 Any natural or unrefined equipment you are wearing or carrying, such as objects made of wood, animal parts, or other natural materials, can merge with your Spirit Dragon form. Metal or other highly processed equipment, such as metal weapons or armor, fall to the ground.
 
 #### Features
+
 _Source: Shaman Expanded_
 
 You retain the benefits of all features from your class, player race, and other sources, and can still use them if the Spirit Dragon is physically capable of doing so. However, you lose any special senses, unless it also has that sense.
@@ -95,11 +101,13 @@ You retain the benefits of all features from your class, player race, and other 
 You can still use Totemic Assault and any abilities you gain from your Bound Totems while in your Spirit Dragon form.
 
 #### Casting Spells
+
 _Source: Shaman Expanded_
 
 You can't cast spells in your Spirit Dragon form. However, you can maintain concentration on spells or other abilities used before you transformed.
 
 #### Duration & Uses
+
 _Source: Shaman Expanded_
 
 You can remain in Spirit Dragon form for 1 minute. Your transformation ends early if you end it as a bonus action or if you are reduced to 0 hit points.

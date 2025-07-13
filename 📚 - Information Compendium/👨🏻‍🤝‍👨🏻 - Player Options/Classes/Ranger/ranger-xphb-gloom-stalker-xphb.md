@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/ranger/gloom-stalker
+tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/subclass/ranger/gloom-stalker]
 aliases:
-- Gloom Stalker
+  - Gloom Stalker
+  - Gloom Stalker
+created: 2025/06/15 at 15:37
+updated: 2025/07/13 at 00:17
 ---
+
 # Gloom Stalker
+
 *[Ranger](./ranger-xphb.md): Ranger Subclass*  
 *Source: Player's Handbook (2024) p. 125*  
 
@@ -41,7 +44,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 
@@ -80,6 +82,7 @@ When you reach a Ranger level specified in the Gloom Stalker Spells table, you t
 | 9th | [Fear](/3-Content/Compendiums/spells/fear-xphb.md) |
 | 13th | [Greater Invisibility](/3-Content/Compendiums/spells/greater-invisibility-xphb.md) |
 | 17th | [Seeming](/3-Content/Compendiums/spells/seeming-xphb.md) |
+
 ^gloom-stalker-spells
 
 ### Umbral Sight (Level 3)

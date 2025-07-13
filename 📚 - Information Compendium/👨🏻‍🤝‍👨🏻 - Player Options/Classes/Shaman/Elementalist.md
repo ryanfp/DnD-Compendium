@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/llsh:e
-  - ttrpg-cli/subclass/shaman/elementalist
+tags: [ttrpg-cli/compendium/src/5e/llsh:e, ttrpg-cli/subclass/shaman/elementalist]
 aliases:
   - Elementalist
-title: Elementalist
+created: 2025/06/13 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # Elementalist
+
 *[Shaman](Shaman.md): Spirituality*  
 *Source: Shaman Expanded p. 8*  
 
@@ -43,7 +44,6 @@ title: Elementalist
 
 ^class-progression
 
-
 ## Class Features
 
 ### Elementalist (Level 2)
@@ -51,6 +51,7 @@ title: Elementalist
 Some Shamans gain their abilities while living near places of raw elemental power: active volcanoes, amongst the sands of blazing deserts, atop frigid mountain peaks, or on the stormy coasts of the ocean. Known as Elementalists, these Shamans learn to draw out the most destructive Elemental Spirits and channel them to devastating effect against their enemies.
 
 #### Elementalist Spells
+
 _Source: Shaman Expanded_
 
 *2nd-level Elementalist feature*
@@ -66,6 +67,7 @@ You always have spells associated with the Elemental Spirit that you are attuned
 | 5th | [lightning bolt](/3-Content/Compendiums/spells/lightning-bolt-xphb.md) | erupting earth | [fireball](/3-Content/Compendiums/spells/fireball-xphb.md) | tidal wave |
 | 7th | storm sphere | [stone shape](/3-Content/Compendiums/spells/stone-shape-xphb.md) | [wall of fire](/3-Content/Compendiums/spells/wall-of-fire-xphb.md) | [ice storm](/3-Content/Compendiums/spells/ice-storm-xphb.md) |
 | 9th | control winds | [wall of stone](/3-Content/Compendiums/spells/wall-of-stone-xphb.md) | immolation | [cone of cold](/3-Content/Compendiums/spells/cone-of-cold-xphb.md) |
+
 ^elementalist-spells
 
 ### Elemental Sage (Level 2)
@@ -81,6 +83,7 @@ This Elemental Spirit grants you resistance to, and affinity with the type of da
 | Element | Air | Earth | Fire | Water |
 |---------|-----|-------|------|-------|
 | Damage | thunder | bludgeoning | fire | cold |
+
 ^elementalist-spells
 
 ### Totemic Destruction (Level 2)
@@ -88,21 +91,25 @@ This Elemental Spirit grants you resistance to, and affinity with the type of da
 The Elemental Spirit you are attuned to infuses your Totems with its destructive power. Your Totemic Assault gains all the benefits below associated with your current Elemental Spirit:
 
 #### Air
+
 _Source: Shaman Expanded_
 
 Totemic Assault deals thunder damage, and on a failed save, the target is moved up to 15 feet in a straight line. This distance is reduced by 5 feet for each size it is over Medium.
 
 #### Earth
+
 _Source: Shaman Expanded_
 
 Totemic Assault deals bludgeoning damage, and on a failed save, a Larger or smaller creature is knocked prone.
 
 #### Fire
+
 _Source: Shaman Expanded_
 
 Totemic Assault deals fire damage, and the damage dice of Totemic Assault become d12s.
 
 #### Water
+
 _Source: Shaman Expanded_
 
 Totemic Assault deals cold damage, and on a failed save, until the start of your next turn the creature cannot take reactions and its speed is reduced by 10 feet.
@@ -115,7 +122,7 @@ Totemic Assault deals cold damage, and on a failed save, until the start of your
 > 
 > **Elementalist Spells.** Choose a second Spirituality Spell of each level from 1st through 5th. All spells should deal the damage type of your Element or be thematically appropriate as approved by your DM.
 > 
-> **Bonus Cantrip.** You learn a Cantrip corresponding to your Element, but it does not count against your total number Cantrips Known. Either beckon air, control flame (alternate), mold earth (alternate), or  shape water (alternate).
+> **Bonus Cantrip.** You learn a Cantrip corresponding to your Element, but it does not count against your total number Cantrips Known. Either beckon air, control flame (alternate), mold earth (alternate), or shape water (alternate).
 > 
 > **Master of the Elements.** In place of resistance to the listed damage types, you gain immunity to the damage type associated with your Element.
 ^optional-rule-elemental-focus
@@ -133,21 +140,25 @@ If you already had a [Spirit of Wrath](/3-Content/Compendiums/optional-features/
 The Elemental Spirit you attune to infuses your physical body, granting you mystical benefits. You gain the benefits below that correspond to your current Elemental Spirit:
 
 #### Air
+
 _Source: Shaman Expanded_
 
 You can take the Dash action as a bonus action. Whenever you take the Dash action, opportunity attacks are made with disadvantage against you.
 
 #### Earth
+
 _Source: Shaman Expanded_
 
 Whenever you are forced to make a Strength ability check or saving throw, you gain a bonus to your roll equal to your Wisdom modifier (a minimum of +1).
 
 #### Fire
+
 _Source: Shaman Expanded_
 
 When you are forced to make a saving throw to resist being Charmed or Frightened, you can add your Wisdom modifier (a minimum of +1) to your roll.
 
 #### Water
+
 _Source: Shaman Expanded_
 
 You gain a swimming speed equal to your walking speed. You can also hold your breath underwater for up to 1 hour. If you already have a swimming speed, you can Dash as a bonus action while you are swimming.
@@ -171,6 +182,7 @@ You wield the primordial elemental power of the most destructive aspects of natu
 | Air | Earth | Fire | Water |
 |-----|-------|------|-------|
 | [Elder Spirit of the Storm](/3-Content/Compendiums/optional-features/elder-spirit-of-the-storm-llsh-e.md) | [Elder Spirit of the Fissure](/3-Content/Compendiums/optional-features/elder-spirit-of-the-fissure-llsh-e.md) | [Elder Spirit of the Inferno](/3-Content/Compendiums/optional-features/elder-spirit-of-the-inferno-llsh-e.md) | [Elder Spirit of the Sea](/3-Content/Compendiums/optional-features/elder-spirit-of-the-sea-llsh-e.md) |
+
 ^elementalist-spells
 
 However, you can still only cast a single Elder Spirit spell of each level per long rest, choosing between the spells of each of your Elder Spirits.

@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/subclass/monk/sun-soul
+tags: [ttrpg-cli/compendium/src/5e/xge, ttrpg-cli/subclass/monk/sun-soul]
 aliases:
-- Way of the Sun Soul
+  - Way of the Sun Soul
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Way of the Sun Soul
+
 *[Monk](Monk.md): Monastic Tradition*  
 *Source: Xanathar's Guide to Everything p. 35, Sword Coast Adventurer's Guide p. 131*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 > [!quote] A quote from Xanathar  
 > 

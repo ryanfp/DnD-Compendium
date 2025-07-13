@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/card-slinger
-- ttrpg-cli/compendium/src/5e/nethingmagiccardslinger
+tags: [ttrpg-cli/class/card-slinger, ttrpg-cli/compendium/src/5e/nethingmagiccardslinger]
 aliases:
-- Card Slinger
+  - Card Slinger
+  - Card Slinger
+created: 2025/06/13 at 22:26
+updated: 2025/07/13 at 00:17
 ---
+
 # Card Slinger
+
 *Source: The Card Slinger*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +48,7 @@ aliases:
 
 - **Hit Dice**: 1d8 per Card Slinger level
 - **Hit Points at First Level:** 8 + CON
-- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON (minimum of 1)
 
 ## Starting Card Slinger
 
@@ -62,7 +65,6 @@ aliases:
 - (a) leather armor, a dagger, and a deck of playing cards or (b) leather armor, a shortsword, and a deck of playing cards
 
 Alternatively, you may start with `4d4×10` gp to buy your own equipment.
-
 
 ## The Card Slinger
 
@@ -88,7 +90,7 @@ You can make a Card Slinger quickly by following these suggestions. First, Chari
 
 A Card Slinger uses a deck containing four suits (Clubs, Diamonds, Hearts, and Spades) of numbered or lettered cards. Each suit has 13 cards that are numbered from two to ten and lettered J, Q, K, A (Jack, Queen, King, Ace) If a card is lost the whole deck must be replaced. The deck must have every suit and number in it or it will not work, so making a deck of 52 ace of spades will not work. In addition, if your deck includes Jokers, you must have them in your deck when you bond with it. After the card is used you can pick up the card and reshuffled the card back into the deck.
 
-#### Using the deck
+#### Using the Deck
 
 As an action, you can make a ranged attack with a drawn card that has a range of 30 ft. A drawn card must be pulled from the top of the deck after the deck has been shuffled. Shuffling and drawing a card is considered part of the action. You can use your choice of your Charisma modifier for these attack rolls instead of your Dexterity modifier.
 
@@ -96,7 +98,7 @@ Some of your card effects require your target to make a saving throw to resist t
 
 <span class='abilityDc'>**Card Slinger save DC**: Charisma + Proficiency Bonus</span>
 
-#### Bonding with your Deck
+#### Bonding with Your Deck
 
 During a long rest, you must spend no less than 30 minutes to take care of your cards. This might be putting new wax on them, separating them, airing them out, and so on. You also must shuffle the cards at least once in order to imbue them with magic. If these things are skipped the cards will lose their magic until you complete this process.
 
@@ -156,7 +158,7 @@ While the suit chooses the element of the blast, the number on the card determin
         - at level 13 the penalty increases by 1 to a -3.    
 
 - The King card now adds an AOE to the next card:  
--   
+- 
 -     - You fling the next card at one creature within range. You make a ranged attack with a drawn card at the target. On a hit, the target takes the number and suit damage of the flung card.    
         - On a Hit, the Target must do their Constitution saving throw(s) 1st.    
         - On a hit or miss, the suit damage then causes an explosion. The target and each creature within 10 feet of it must succeed on a Dexterity saving throw vs the Card Slingers DC or take 2d6 suit damage. And nothing on a successful save.    

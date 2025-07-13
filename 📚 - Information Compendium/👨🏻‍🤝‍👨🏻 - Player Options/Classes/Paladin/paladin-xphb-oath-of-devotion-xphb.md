@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/paladin/devotion
+tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/subclass/paladin/devotion]
 aliases:
-- Oath of Devotion
+  - Oath of Devotion
+  - Oath of Devotion
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Oath of Devotion
+
 *[Paladin](./paladin-xphb.md): Paladin Subclass*  
 *Source: Player's Handbook (2024) p. 113. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
@@ -42,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Oath of Devotion (Level 3)
@@ -72,6 +74,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 | 9th | [Beacon of Hope](/3-Content/Compendiums/spells/beacon-of-hope-xphb.md), [Dispel Magic](/3-Content/Compendiums/spells/dispel-magic-xphb.md) |
 | 13th | [Freedom of Movement](/3-Content/Compendiums/spells/freedom-of-movement-xphb.md), [Guardian of Faith](/3-Content/Compendiums/spells/guardian-of-faith-xphb.md) |
 | 17th | [Commune](/3-Content/Compendiums/spells/commune-xphb.md), [Flame Strike](/3-Content/Compendiums/spells/flame-strike-xphb.md) |
+
 ^oath-of-devotion-spells
 
 ### Sacred Weapon (Level 3)

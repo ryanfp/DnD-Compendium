@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- class/bard
-- compendium/src/5e/xphb
+tags: [class/bard, compendium/src/5e/xphb]
 aliases:
-- Bard
+  - Bard
+  - Bard
+created: 2025/06/15 at 22:22
+updated: 2025/07/13 at 00:17
 ---
+
 # Bard
+
 *Source: Player's Handbook (2024) p. 58. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +48,7 @@ aliases:
 
 - **Hit Dice**: 1d8 per Bard level
 - **Hit Points at First Level:** 8 + CON
-- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON (minimum of 1)
 
 ## Starting Bard
 

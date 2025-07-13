@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/gunslinger/gun-ko-master
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/gunslinger/gun-ko-master]
 aliases:
+  - Gun-Ko Master Creed
   - Gun-Ko Master
-title: Gun-Ko Master Creed
+created: 2025/06/13 at 22:27
+updated: 2025/07/13 at 00:17
 ---
+
 # Gun-Ko Master Creed
+
 *[Gunslinger](Gunslinger.md): Gunslinger's Creed*  
 *Source: Valda's Spire of Secrets*  
 
@@ -42,7 +44,6 @@ title: Gun-Ko Master Creed
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/ktp
-  - ttrpg-cli/subclass/psion/transcended
+tags: [ttrpg-cli/compendium/src/5e/ktp, ttrpg-cli/subclass/psion/transcended]
 aliases:
   - Transcended
-title: Transcended
+created: 2025/06/13 at 22:29
+updated: 2025/07/13 at 00:17
 ---
+
 # Transcended
+
 *[Psion](Psion.md): Psionic Archetype*  
 *Source: KibblesTasty: Psion*  
 
@@ -43,7 +44,6 @@ title: Transcended
 
 ^class-progression
 
-
 ## Class Features
 
 ### Transcended Mind (Level 1)
@@ -52,7 +52,7 @@ A Transcended psion is most often one that has found their path to psionic power
 
 Most often achieved either intentionally or accidentally through meditation and ritual, this can sometimes even be a passed on technique to reliably transcend the strictly material concerns, and explore the more cognitive realm and powers within.
 
-Transcended Psions tend to have the best grasp on their powers in control and principle, having come to understand the greater cosmos, but lack the reckless abandon some other Psions may have. Unfortunately less transcendent minds frequently cannot understand the greater truths they have learned and may view a Transcended Psion as a bit... peculiar.
+Transcended Psions tend to have the best grasp on their powers in control and principle, having come to understand the greater cosmos, but lack the reckless abandon some other Psions may have. Unfortunately less transcendent minds frequently cannot understand the greater truths they have learned and may view a Transcended Psion as a bit… peculiar.
 
 ### Enlightened (Level 1)
 

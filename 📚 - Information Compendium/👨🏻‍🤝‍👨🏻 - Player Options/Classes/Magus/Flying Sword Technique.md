@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/kt-cll
-- ttrpg-cli/subclass/spellblade/flying-sword
+tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/spellblade/flying-sword]
 aliases:
-- Flying Sword Technique
+  - Flying Sword Technique
+created: 2025/06/13 at 22:32
+updated: 2025/07/13 at 00:17
 ---
+
 # Flying Sword Technique
+
 *[Spellblade](./spellblade-kt-cll.md): Technique*  
 *Source: Kibbles' Compendium of Legends and Legacies p. 54*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Flying Sword Technique (Level 3)
@@ -64,6 +65,7 @@ You learn the following spells at the following levels. The following are Spellb
 | 9th | fly |
 | 13th | [quicksilver steps](/3-Content/Compendiums/spells/quicksilver-steps-kt-cll.md) |
 | 17th | animate objects |
+
 ^flying-sword-spells
 
 ### Flying Sword (Level 3)

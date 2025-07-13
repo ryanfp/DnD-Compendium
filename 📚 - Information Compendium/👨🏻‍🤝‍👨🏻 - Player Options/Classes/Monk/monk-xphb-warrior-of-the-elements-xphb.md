@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/monk/elements
+tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/subclass/monk/elements]
 aliases:
-- Warrior of the Elements
+  - Warrior of the Elements
+  - Warrior of the Elements
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Warrior of the Elements
+
 *[Monk](./monk-xphb.md): Monk Subclass*  
 *Source: Player's Handbook (2024) p. 106*  
 
@@ -41,7 +44,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

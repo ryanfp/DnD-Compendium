@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/martyr/the-end
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/martyr/the-end]
 aliases:
   - Burden of The End
-title: Burden of The End
+created: 2025/06/13 at 22:28
+updated: 2025/07/13 at 00:17
 ---
+
 # Burden of The End
+
 *[Martyr](Martyr.md): Mortal Burden*  
 *Source: Valda's Spire of Secrets*  
 
@@ -43,7 +44,6 @@ title: Burden of The End
 
 ^class-progression
 
-
 ## Class Features
 
 ### Burden of The End (Level 1)
@@ -63,6 +63,7 @@ You gain burden spells at the martyr levels listed.
 | 9th | call lightning, counterspell |
 | 13th | blight, control water |
 | 17th | flame strike, insect plague |
+
 ^martyr-level-spells
 
 ### Cantrips (Level 1)

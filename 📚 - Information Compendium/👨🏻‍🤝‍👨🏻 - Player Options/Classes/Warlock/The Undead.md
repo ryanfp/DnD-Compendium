@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/vrgr
-- subclass/warlock/undead
+tags: [compendium/src/5e/vrgr, subclass/warlock/undead]
 aliases:
-- The Undead
+  - The Undead
+created: 2025/06/15 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # The Undead
+
 *[Warlock](Warlock.md): Otherworldly Patron*  
 *Source: Van Richten's Guide to Ravenloft p. 30*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### The Undead (Level 1)
@@ -52,6 +53,7 @@ You've made a pact with a deathless being, a creature that defies the cycle and 
 Beings of this type include the demilich Acererak, the vampire tyrant Kas the Bloody-Handed, the githyanki lich-queen Vlaakith, the dracolich Dragotha, the undead pharaoh Ankhtepot, and the elusive Darklord, Azalin Rex.
 
 #### Expanded Spell List
+
 _Source: Van Richten's Guide to Ravenloft_
 
 *1st-level Undead feature*
@@ -67,6 +69,7 @@ The Undead lets you choose from an expanded list of spells when you learn a warl
 | 3rd | [phantom steed](/📚%20-%20Information%20Compendium/spells/phantom-steed.md), [speak with dead](/📚%20-%20Information%20Compendium/spells/speak-with-dead.md) |
 | 4th | [death ward](/📚%20-%20Information%20Compendium/spells/death-ward.md), [greater invisibility](/📚%20-%20Information%20Compendium/spells/greater-invisibility.md) |
 | 5th | [antilife shell](/📚%20-%20Information%20Compendium/spells/antilife-shell.md), [cloudkill](/📚%20-%20Information%20Compendium/spells/cloudkill.md) |
+
 ^undead-expanded-spells
 
 ### Form of Dread (Level 1)

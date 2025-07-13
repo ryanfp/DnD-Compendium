@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/llsav
-  - ttrpg-cli/subclass/savant/investigator
+tags: [ttrpg-cli/compendium/src/5e/llsav, ttrpg-cli/subclass/savant/investigator]
 aliases:
   - Investigator
-title: Investigator
+created: 2025/06/13 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # Investigator
+
 *[Savant](Savant.md): Academic Disciplines*  
 *Source: Savant*  
 
@@ -42,7 +43,6 @@ title: Investigator
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

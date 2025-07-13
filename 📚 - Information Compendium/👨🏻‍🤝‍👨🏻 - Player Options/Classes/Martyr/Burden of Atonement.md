@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/martyr/atonement
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/martyr/atonement]
 aliases:
   - Burden of Atonement
-title: Burden of Atonement
+created: 2025/06/13 at 22:28
+updated: 2025/07/13 at 00:17
 ---
+
 # Burden of Atonement
+
 *[Martyr](Martyr.md): Mortal Burden*  
 *Source: Valda's Spire of Secrets*  
 
@@ -32,7 +33,7 @@ title: Burden of Atonement
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Draw Agression (Level 14)' class='internal-link'>Draw Agression</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Draw Aggression (Level 14)' class='internal-link'>Draw Aggression</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -42,7 +43,6 @@ title: Burden of Atonement
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 
@@ -61,6 +61,7 @@ You gain burden spells at the martyr levels listed.
 | 9th | remove curse, speak with dead |
 | 13th | death ward, fire shield |
 | 17th | greater restoration, mass cure wounds |
+
 ^martyr-level-spells
 
 ### Bonus Proficiencies (Level 1)
@@ -77,7 +78,7 @@ Once you use this ability, you can't use it again until you finish a short or lo
 
 Starting at 6th level, whenever you use your [Torment](/3-Content/Compendiums/classes/martyr-vss.md#Torment%20(Level%203)) feature against a hostile creature and you reduce the target to 0 hit points, you lose no hit points from using the ability.
 
-### Draw Agression (Level 14)
+### Draw Aggression (Level 14)
 
 Beginning at 14th level, as a bonus action on your turn, you can invoke the ire of your foes to protect your allies. Until the start of your next turn, each hostile creature you choose within 5 feet of you that can see you has disadvantage on attack rolls against creatures other than you, and advantage on attack rolls against you.
 

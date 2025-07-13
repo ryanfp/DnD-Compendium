@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/warmage
-- ttrpg-cli/compendium/src/5e/vss
+tags: [ttrpg-cli/class/warmage, ttrpg-cli/compendium/src/5e/vss]
 aliases:
-- Warmage
+  - Warmage
+created: 2025/06/13 at 22:34
+updated: 2025/07/13 at 00:17
 ---
+
 # Warmage
+
 *Source: Valda's Spire of Secrets*  
 
 > [!tldr] Class and Feature Progression
@@ -45,14 +47,14 @@ aliases:
 
 - **Hit Dice**: 1d8 per Warmage level
 - **Hit Points at First Level:** 8 + CON
-- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON (minimum of 1)
 
 ## Starting Warmage
 
 - **Saving Throw Proficiencies**: Constitution, Intelligence
 - **Skill Proficiencies**: *Choose 2:* Acrobatics, Animal Handling, Arcana, Athletics, History, Investigation, Medicine, Perception, or Survival
 - **Weapon Proficiencies**: Simple weapons
-- **Tool Proficiencies**:  one set of artisan's tools of your choice and one gaming set of your choice
+- **Tool Proficiencies**: one set of artisan's tools of your choice and one gaming set of your choice
 - **Armor Training**: Light armor
 
 **Starting Equipment:** You start with the following items, plus anything provided by your background.

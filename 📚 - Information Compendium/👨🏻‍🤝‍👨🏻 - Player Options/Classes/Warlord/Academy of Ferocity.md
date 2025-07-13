@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/llaw
-  - ttrpg-cli/subclass/warlord/ferocity
+tags: [ttrpg-cli/compendium/src/5e/llaw, ttrpg-cli/subclass/warlord/ferocity]
 aliases:
   - Academy of Ferocity
-title: Academy of Ferocity
+created: 2025/06/13 at 22:34
+updated: 2025/07/13 at 00:17
 ---
+
 # Academy of Ferocity
+
 *[Warlord](Warlord.md): Academy of War*  
 *Source: Warlord p. 7*  
 
@@ -43,7 +44,6 @@ title: Academy of Ferocity
 
 ^class-progression
 
-
 ## Class Features
 
 ### Academy of Ferocity (Level 3)
@@ -59,6 +59,7 @@ You learn certain Exploits at the Warlord levels noted in the table below. They 
 | 3rd | cunning instinct, maneuvering order |
 | 5th | crescendo of violence, wild charge |
 | 9th | pack tactics |
+
 ^warlord-level-exploit
 
 ### Bestial Instincts (Level 3)

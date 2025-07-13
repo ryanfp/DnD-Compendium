@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/ktp
-  - ttrpg-cli/subclass/psion/shaper
+tags: [ttrpg-cli/compendium/src/5e/ktp, ttrpg-cli/subclass/psion/shaper]
 aliases:
   - Shaper
-title: Shaper
+created: 2025/06/13 at 22:29
+updated: 2025/07/13 at 00:17
 ---
+
 # Shaper
+
 *[Psion](Psion.md): Psionic Archetype*  
 *Source: KibblesTasty: Psion*  
 
@@ -42,7 +43,6 @@ title: Shaper
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

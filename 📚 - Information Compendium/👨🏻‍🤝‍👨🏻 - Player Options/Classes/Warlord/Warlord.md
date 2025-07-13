@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/warlord
-- ttrpg-cli/compendium/src/5e/llaw
+tags: [ttrpg-cli/class/warlord, ttrpg-cli/compendium/src/5e/llaw]
 aliases:
-- Warlord
+  - Warlord
+created: 2025/06/13 at 22:34
+updated: 2025/07/13 at 00:17
 ---
+
 # Warlord
+
 *Source: Warlord p. 1*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d8 per Warlord level
 - **Hit Points at First Level:** 8 + CON
-- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON (minimum of 1)
 
 ## Starting Warlord
 
@@ -111,7 +113,7 @@ Also, consider why your Warlord would lead others rather than improve their own 
 > 
 > **Proficiencies.** If Warlord isn't your initial class, here are the proficiencies you gain when you take your first level in Warlord: light and medium armor, shields, simple weapons, and one gaming set.
 > 
-> **Exploits.** If you learn Exploits from more than one of your class, subclass, or other features, follow the rules and table linked below to determine the total number and size of your Exploit Dice, and the total number of Exploits Known from each feature that grants you Exploits: Alternate Martial Multiclassing (https://www.gmbinder.com/share/-NGUL51kfZCPlESxL1wq)
+> **Exploits.** If you learn Exploits from more than one of your class, subclass, or other features, follow the rules and table linked below to determine the total number and size of your Exploit Dice, and the total number of Exploits Known from each feature that grants you Exploits: Alternate Martial Multiclassing (<https://www.gmbinder.com/share/-NGUL51kfZCPlESxL1wq>)
 ^multiclassing-and-the-warlord
 
 #### Quick Build

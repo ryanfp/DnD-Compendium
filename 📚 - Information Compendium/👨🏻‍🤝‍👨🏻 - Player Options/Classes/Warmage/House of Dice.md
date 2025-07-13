@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/warmage/dice
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/warmage/dice]
 aliases:
   - House of Dice
-title: House of Dice
+created: 2025/06/13 at 22:34
+updated: 2025/07/13 at 00:17
 ---
+
 # House of Dice
+
 *[Warmage](Warmage.md): Warmage House*  
 *Source: Valda's Spire of Secrets*  
 
@@ -42,7 +43,6 @@ title: House of Dice
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 
@@ -79,6 +79,7 @@ Also at 3rd level, you can expend two of your Dice of Fate as an action, rolling
 | 10 | You teleport up to 60 feet to an unoccupied space you can see. Each creature within 5 feet of the destination must succeed on a Dexterity saving throw against your spell save DC or take `2d6` force damage. |
 | 11 | Choose a creature you can see within 60 feet of you. That creature takes `4d6` necrotic damage, and you regain hit points equal to the necrotic damage dealt. |
 | 12 | You cast lightning bolt and can add the Dice of Fate to the damage roll. |
+
 ^2-effect
 
 ### Loaded Dice (Level 7)

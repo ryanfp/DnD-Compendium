@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/witch/red
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/witch/red]
 aliases:
   - Red Magic
-title: Red Magic
+created: 2025/06/13 at 22:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Red Magic
+
 *[Witch](Witch.md): Witch's Craft*  
 *Source: Valda's Spire of Secrets*  
 
@@ -43,7 +44,6 @@ title: Red Magic
 
 ^class-progression
 
-
 ## Class Features
 
 ### Red Magic (Level 3)
@@ -59,6 +59,7 @@ Arcane magic tied to channeling the elements is deemed red magic, and is extreme
 | 3rd | fireball, protection from energy |
 | 4th | ice storm, wall of fire |
 | 5th | cone of cold, telekinesis |
+
 ^red-magic-spells
 
 ### Hex: Imperil (Level 3)

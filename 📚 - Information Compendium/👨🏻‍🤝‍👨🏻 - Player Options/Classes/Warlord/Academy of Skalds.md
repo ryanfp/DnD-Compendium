@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/llaw
-  - ttrpg-cli/subclass/warlord/skald
+tags: [ttrpg-cli/compendium/src/5e/llaw, ttrpg-cli/subclass/warlord/skald]
 aliases:
   - Academy of Skalds
-title: Academy of Skalds
+created: 2025/06/13 at 22:34
+updated: 2025/07/13 at 00:17
 ---
+
 # Academy of Skalds
+
 *[Warlord](Warlord.md): Academy of War*  
 *Source: Warlord p. 5*  
 
@@ -43,7 +44,6 @@ title: Academy of Skalds
 
 ^class-progression
 
-
 ## Class Features
 
 ### Academy of Skalds (Level 3)
@@ -59,6 +59,7 @@ You learn certain Exploits at the Warlord levels noted in the table below. They 
 | 3rd | commanding presence, attack order |
 | 5th | enlivening order, heroic will |
 | 9th | stand the fallen |
+
 ^warlord-level-exploit
 
 ### Warrior Poet (Level 3)

@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/monk
-- ttrpg-cli/compendium/src/5e/phb
+tags: [ttrpg-cli/class/monk, ttrpg-cli/compendium/src/5e/phb]
 aliases:
-- Monk
+  - Monk
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Monk
+
 *Source: Player's Handbook p. 76. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d8 per Monk level
 - **Hit Points at First Level:** 8 + CON
-- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON (minimum of 1)
 
 ## Starting Monk
 
@@ -124,6 +126,7 @@ Playing a monk character offers many intriguing opportunities to try something d
 > What? Why are you laughing?
 
 ## Monastery
+
 _Source: Xanathar's Guide to Everything_
 
 A monk studies in a monastery in preparation for a life of asceticism. Most of those who enter a monastery make it their home for the rest of their lives, with the exception of adventurers and others who have reason to leave. For those individuals, a monastery might serve as a refuge between excursions to the world or as a source of support in times of need.
@@ -142,9 +145,11 @@ What sort of place was your monastery, and where is it located? Did attending it
 | 4 | Your monastery is built beside a volcanic system of hot springs, geysers, and sulfur pools. You regularly received visits from azer traders. |
 | 5 | Your monastery was founded by gnomes and is an underground labyrinth of tunnels and rooms. |
 | 6 | Your monastery was carved from an iceberg in the frozen reaches of the world. |
+
 ^monastery
 
 ## Icon
+
 _Source: Xanathar's Guide to Everything_
 
 Even in the monastic lifestyle, which eschews materialism and personal possessions, symbolism plays an important part in defining the identity of an order. Some monastic orders treat certain creatures with special regard, either because the creature is tied to the order's history or because it serves as an example of a quality the monks seek to emulate.
@@ -163,9 +168,11 @@ If your character's monastery had a special icon, you might wear a crude image o
 | 4 | Owlbear. The monks of your monastery revere a family of owlbears and have coexisted with them for generations. |
 | 5 | Hydra. Your order singles out the hydra for its ability to unleash several attacks simultaneously. |
 | 6 | Dragon. A dragon once laired within your monastery. Its influence remains long after its departure. |
+
 ^icon
 
 ## Master
+
 _Source: Xanathar's Guide to Everything_
 
 During your studies, you were likely under the tutelage of a master who imparted to you the precepts of the order. Your master was the one most responsible for shaping your understanding of the martial arts and your attitude toward the world. What sort of person was your master, and how did your relationship with your master affect you?
@@ -182,6 +189,7 @@ During your studies, you were likely under the tutelage of a master who imparted
 | 4 | Your master seemed goodhearted while tutoring you, but betrayed your monastery in the end. |
 | 5 | Your master was cold and distant. You suspect that the two of you might be related. |
 | 6 | Your master was kind and generous, never critical of your progress. Nevertheless, you feel you never fully lived up to the expectations placed on you. |
+
 ^master
 
 ## Class Features
@@ -227,6 +235,7 @@ You can spend 1 ki point to take the [Dodge](/3-Content/Rules/actions.md#Dodge) 
 You can spend 1 ki point to take the [Disengage](/3-Content/Rules/actions.md#Disengage) or [Dash](/3-Content/Rules/actions.md#Dash) action as a bonus action on your turn, and your jump distance is doubled for the turn.
 
 ### Dedicated Weapon (Level 2)
+
 _Source: Tasha's Cauldron of Everything p. 48_
 
 *2nd-level monk [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md)*
@@ -256,6 +265,7 @@ If you reduce the damage to 0, you can catch the missile if it is small enough f
 When you reach 3rd level, you commit yourself to a monastic tradition, chosen from the list of available traditions. Your tradition grants you features at 3rd level and again at 6th, 11th, and 17th level.
 
 ### Ki-Fueled Attack (Level 3)
+
 _Source: Tasha's Cauldron of Everything p. 48_
 
 *3rd-level monk [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md)*
@@ -273,6 +283,7 @@ If your DM allows the use of feats, you may instead take a feat.
 Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your monk level.
 
 ### Quickened Healing (Level 4)
+
 _Source: Tasha's Cauldron of Everything p. 48_
 
 *4th-level monk [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md)*
@@ -288,6 +299,7 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 Starting at 5th level, you can interfere with the flow of ki in an opponent's body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be [stunned](/3-Content/Rules/conditions.md#Stunned) until the end of your next turn.
 
 ### Focused Aim (Level 5)
+
 _Source: Tasha's Cauldron of Everything p. 48_
 
 *5th-level monk [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md)*
@@ -298,7 +310,7 @@ When you miss with an attack roll, you can spend 1 to 3 ki points to increase yo
 
 Starting at 6th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
-### Monastic Tradition feature (Level 6)
+### Monastic Tradition Feature (Level 6)
 
 At 6th level, you gain one feature granted by your Monastic Tradition.
 
@@ -316,7 +328,7 @@ When you reach 8th level, you can increase one ability score of your choice by 2
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Unarmored Movement improvement (Level 9)
+### Unarmored Movement Improvement (Level 9)
 
 At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.
 
@@ -324,7 +336,7 @@ At 9th level, you gain the ability to move along vertical surfaces and across li
 
 At 10th level, your mastery of the ki flowing through you makes you immune to disease and poison.
 
-### Monastic Tradition feature (Level 11)
+### Monastic Tradition Feature (Level 11)
 
 At 11th level, you gain one feature granted by your Monastic Tradition.
 
@@ -354,7 +366,7 @@ When you reach 16th level, you can increase one ability score of your choice by 
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Monastic Tradition feature (Level 17)
+### Monastic Tradition Feature (Level 17)
 
 At 17th level, you gain one feature granted by your Monastic Tradition.
 

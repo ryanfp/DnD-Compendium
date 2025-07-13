@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/domain/life
-- ttrpg-cli/subclass/cleric/life
+tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/domain/life, ttrpg-cli/subclass/cleric/life]
 aliases:
-- Life Domain
+  - Life Domain
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Life Domain
+
 *[Cleric](Cleric.md): Divine Domain*  
 *Source: Player's Handbook p. 60. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
@@ -43,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Life Domain (Level 1)
@@ -61,6 +61,7 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 | 5th | [beacon of hope](/3-Content/Compendiums/spells/beacon-of-hope-xphb.md), [revivify](/3-Content/Compendiums/spells/revivify-xphb.md) |
 | 7th | [death ward](/3-Content/Compendiums/spells/death-ward-xphb.md), [guardian of faith](/3-Content/Compendiums/spells/guardian-of-faith-xphb.md) |
 | 9th | [mass cure wounds](/3-Content/Compendiums/spells/mass-cure-wounds-xphb.md), [raise dead](/3-Content/Compendiums/spells/raise-dead-xphb.md) |
+
 ^life-domain-spells
 
 ### Bonus Proficiency (Level 1)
@@ -86,6 +87,7 @@ Beginning at 6th level, the healing spells you cast on others heal you as well. 
 At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `d8` radiant damage to the target. When you reach 14th level, the extra damage increases to `2d8`.
 
 ### Blessed Strikes (Level 8)
+
 _Source: Tasha's Cauldron of Everything p. 30_
 
 *8th-level cleric [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*

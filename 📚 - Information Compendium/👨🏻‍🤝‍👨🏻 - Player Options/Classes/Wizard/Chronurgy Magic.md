@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/subclass/wizard/chronurgy
+tags: [ttrpg-cli/compendium/src/5e/egw, ttrpg-cli/subclass/wizard/chronurgy]
 aliases:
-- Chronurgy Magic
+  - Chronurgy Magic
+created: 2025/06/15 at 15:38
+updated: 2025/07/13 at 00:17
 ---
+
 # Chronurgy Magic
+
 *[Wizard](Wizard.md): Arcane Tradition*  
 *Source: Explorer's Guide to Wildemount p. 184*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

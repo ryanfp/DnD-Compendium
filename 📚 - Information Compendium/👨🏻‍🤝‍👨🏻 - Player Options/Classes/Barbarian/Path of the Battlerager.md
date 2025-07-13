@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/scag
-- subclass/barbarian/battlerager
+tags: [compendium/src/5e/scag, subclass/barbarian/battlerager]
 aliases:
-- Path of the Battlerager
+  - Path of the Battlerager
+created: 2025/06/15 at 22:21
+updated: 2025/07/13 at 00:17
 ---
+
 # Path of the Battlerager
+
 *[Barbarian](Barbarian.md): Primal Path*  
 *Source: Sword Coast Adventurer's Guide p. 121*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

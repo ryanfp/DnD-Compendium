@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/subclass/ranger/beast-master
+tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/subclass/ranger/beast-master]
 aliases:
-- Beast Master
+  - Beast Master
+  - Beast Master
+created: 2025/06/15 at 15:37
+updated: 2025/07/13 at 00:17
 ---
+
 # Beast Master
+
 *[Ranger](Ranger.md): Ranger Archetype*  
 *Source: Player's Handbook p. 93*  
 
@@ -42,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Beast Master (Level 3)
@@ -62,6 +64,7 @@ While traveling through your favored terrain with only the beast, you can move s
 If the beast dies, you can obtain a new companion by spending 8 hours magically bonding with a beast that isn't hostile to you and that meets the requirements.
 
 ### Primal Companion (Level 3)
+
 _Source: Tasha's Cauldron of Everything p. 61_
 
 *3rd-level Beast Master variant feature, which replaces the Ranger's Companion feature*

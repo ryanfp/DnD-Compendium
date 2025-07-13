@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/subclass/paladin/ancients
+tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/subclass/paladin/ancients]
 aliases:
-- Oath of the Ancients
+  - Oath of the Ancients
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Oath of the Ancients
+
 *[Paladin](Paladin.md): Sacred Oath*  
 *Source: Player's Handbook p. 86*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 
@@ -82,6 +83,7 @@ You gain oath spells at the paladin levels listed.
 | 9th | [plant growth](/3-Content/Compendiums/spells/plant-growth-xphb.md), [protection from energy](/3-Content/Compendiums/spells/protection-from-energy-xphb.md) |
 | 13th | [ice storm](/3-Content/Compendiums/spells/ice-storm-xphb.md), [stoneskin](/3-Content/Compendiums/spells/stoneskin-xphb.md) |
 | 17th | [commune with nature](/3-Content/Compendiums/spells/commune-with-nature-xphb.md), [tree stride](/3-Content/Compendiums/spells/tree-stride-xphb.md) |
+
 ^oath-of-the-ancients-spells
 
 ### Channel Divinity (Level 3)

@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/domain/nature
-- ttrpg-cli/subclass/cleric/nature
+tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/domain/nature, ttrpg-cli/subclass/cleric/nature]
 aliases:
-- Nature Domain
+  - Nature Domain
+  - Nature Domain
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Nature Domain
+
 *[Cleric](./cleric-xphb.md): Cleric Subclass*  
 *Source: Player's Handbook p. 61*  
 
@@ -43,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
 
@@ -64,6 +65,7 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 | 5th | [plant growth](/3-Content/Compendiums/spells/plant-growth-xphb.md), [wind wall](/3-Content/Compendiums/spells/wind-wall-xphb.md) |
 | 7th | [dominate beast](/3-Content/Compendiums/spells/dominate-beast-xphb.md), [grasping vine](/3-Content/Compendiums/spells/grasping-vine-xphb.md) |
 | 9th | [insect plague](/3-Content/Compendiums/spells/insect-plague-xphb.md), [tree stride](/3-Content/Compendiums/spells/tree-stride-xphb.md) |
+
 ^nature-domain-spells
 
 ### Acolyte of Nature (Level 1)
@@ -89,6 +91,7 @@ Starting at 6th level, when you or a creature within 30 feet of you takes acid, 
 At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `d8` cold, fire, or lightning damage (your choice) to the target. When you reach 14th level, the extra damage increases to `2d8`.
 
 ### Blessed Strikes (Level 8)
+
 _Source: Tasha's Cauldron of Everything p. 30_
 
 *8th-level cleric [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*

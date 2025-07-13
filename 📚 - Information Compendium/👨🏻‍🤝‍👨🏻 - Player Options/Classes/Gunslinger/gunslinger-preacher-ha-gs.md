@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/ha:gs
-- ttrpg-cli/subclass/gunslinger/preacher
+tags: [ttrpg-cli/compendium/src/5e/ha:gs, ttrpg-cli/subclass/gunslinger/preacher]
 aliases:
-- Preacher
+  - Preacher
+  - Preacher
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Preacher
+
 *[Gunslinger](./gunslinger-ha-gs.md): Gunslinger Trail*  
 *Source: The Gunslinger Class*  
 
@@ -42,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Preacher (Level 3)
@@ -65,6 +67,7 @@ At your option, you can use the Motivations table to help discover the reason fo
 | 2 | You made a promise to someone you hold dear. |
 | 3 | You witnessed a miracle. |
 | 4 | You seek atonement for a life of drinking and wickedness. |
+
 ^motivations
 
 ### Man of the Cloth (Level 3)

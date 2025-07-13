@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/craftsman
-- ttrpg-cli/compendium/src/5e/vss
+tags: [ttrpg-cli/class/craftsman, ttrpg-cli/compendium/src/5e/vss]
 aliases:
-- Craftsman
+  - Craftsman
+created: 2025/06/13 at 22:27
+updated: 2025/07/13 at 00:17
 ---
+
 # Craftsman
+
 *Source: Valda's Spire of Secrets*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d10 per Craftsman level
 - **Hit Points at First Level:** 10 + CON
-- **Hit Points at Higher Levels:** add 6 OR 1d10 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 6 OR 1d10 + CON (minimum of 1)
 
 ## Starting Craftsman
 
@@ -143,6 +145,7 @@ As a craftsman, you are capable of creating weapons and armor of the utmost qual
 | Journeyman | 5th | 100 gp |
 | Master | 11th | 250 gp |
 | Legendary | 17th | 400 gp |
+
 ^masterwork-properties
 
 #### Masterwork Properties

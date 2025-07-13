@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/ghpg
-- ttrpg-cli/subclass/fighter/living-crucible
+tags: [ttrpg-cli/compendium/src/5e/ghpg, ttrpg-cli/subclass/fighter/living-crucible]
 aliases:
-- Living Crucible
+  - Living Crucible
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Living Crucible
+
 *[Fighter](Fighter.md): Martial Archetype*  
 *Source: Grim Hollow: The Player's Guide*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Living Crucible (Level 3)
@@ -54,6 +55,7 @@ Fighters who become Living Crucibles have discovered an external means of power.
 When you choose this archetype at 3rd level, you learn to create alchemical compounds toxic to others but empowering to you.
 
 #### Creating Compounds
+
 _Source: Grim Hollow: The Player's Guide_
 
 You learn three compounds of your choice, which are detailed under "Compounds" below. You can create any number of these compounds you know by using alchemist's supplies and spending 10 minutes to create them. These compounds remain potent until the end of your next long rest, after which time they become inert and have no effect.
@@ -61,6 +63,7 @@ You learn three compounds of your choice, which are detailed under "Compounds" b
 You learn two additional compounds of your choice at 7th, 10th, and 15th level. Each time you learn new compounds, you can also replace one compound you know with another one.
 
 #### Consuming Compounds
+
 _Source: Grim Hollow: The Player's Guide_
 
 As a bonus action you can consume a single compound using this feature. You can safely consume a number of compounds up to 1 + your Constitution modifier (minimum of 1). Each compound you consume after that causes you to gain a level of [exhaustion](/3-Content/Rules/conditions.md#Exhaustion). When you finish a long rest, you regain the ability to safely consume compounds. You can benefit from multiple compounds at the same time, but taking the same compound more than once provides no additional effects.

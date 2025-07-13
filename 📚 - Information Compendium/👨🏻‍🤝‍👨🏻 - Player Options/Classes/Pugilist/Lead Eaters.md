@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/ultimateadventurer
-  - ttrpg-cli/subclass/pugilist/lead-eaters
+tags: [ttrpg-cli/compendium/src/5e/ultimateadventurer, ttrpg-cli/subclass/pugilist/lead-eaters]
 aliases:
   - Lead Eaters
-title: Lead Eaters
+created: 2025/06/13 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # Lead Eaters
+
 *[Pugilist](Pugilist.md): Fight Club*  
 *Source: The Ultimate Adventurer's Handbook p. 202*  
 
@@ -43,7 +44,6 @@ title: Lead Eaters
 
 ^class-progression
 
-
 ## Class Features
 
 ### Lead Eaters (Level 3)
@@ -68,7 +68,7 @@ Also at 3rd level, you gain the following additional [moxie](/3-Content/Compendi
 
 ### Gun Club (Level 6)
 
-At 6th level, you learn to use firearms even more effectively in melee combat. When you hit a creature with a melee  attack using a black powder weapon, you can spend 2 [moxie points](/3-Content/Compendiums/classes/pugilist-ultimateadventurer.md#Moxie%20(Level%202)) to force the target to make a Constitution saving throw (DC = 8 + your proficiency bonus + your Strength modifier) or be stunned until the start of your next turn.
+At 6th level, you learn to use firearms even more effectively in melee combat. When you hit a creature with a melee attack using a black powder weapon, you can spend 2 [moxie points](/3-Content/Compendiums/classes/pugilist-ultimateadventurer.md#Moxie%20(Level%202)) to force the target to make a Constitution saving throw (DC = 8 + your proficiency bonus + your Strength modifier) or be stunned until the start of your next turn.
 
 ### The Gun Show (Level 11)
 

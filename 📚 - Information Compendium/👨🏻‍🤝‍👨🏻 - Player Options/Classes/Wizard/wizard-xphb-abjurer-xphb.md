@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/wizard/abjurer
+tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/subclass/wizard/abjurer]
 aliases:
-- Abjurer
+  - Abjurer
+  - Abjurer
+created: 2025/06/15 at 15:38
+updated: 2025/07/13 at 00:17
 ---
+
 # Abjurer
+
 *[Wizard](./wizard-xphb.md): Wizard Subclass*  
 *Source: Player's Handbook (2024) p. 172*  
 
@@ -41,7 +44,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

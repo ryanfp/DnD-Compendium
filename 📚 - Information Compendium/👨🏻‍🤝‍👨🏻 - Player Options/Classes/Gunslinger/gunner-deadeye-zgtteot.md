@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/zgtteot
-- ttrpg-cli/subclass/gunner/deadeye
+tags: [ttrpg-cli/compendium/src/5e/zgtteot, ttrpg-cli/subclass/gunner/deadeye]
 aliases:
-- Deadeye
+  - Deadeye
+  - Deadeye
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Deadeye
+
 *[Gunner](./gunner-zgtteot.md): Gunner Creed*  
 *Source: Zaman's Guide to the End of Time*  
 
@@ -42,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Deadeye (Level 3)
@@ -53,7 +55,7 @@ What first led you down the path of a Deadeye? Have you always had the patience 
 
 ### Stakeout (Level 3)
 
-No foe can escape your notice... unfortunately for them, the opposite isn't true. You gain proficiency in the [Perception](/3-Content/Rules/skills.md#Perception) and [Stealth](/3-Content/Rules/skills.md#Stealth) skills. Choose one of these skills to become an extra Lucky Skill, as per your [Lucky Skill](/3-Content/Compendiums/classes/gunner-zgtteot.md#Lucky%20Skill%20(Level%203)) feature.
+No foe can escape your notice… unfortunately for them, the opposite isn't true. You gain proficiency in the [Perception](/3-Content/Rules/skills.md#Perception) and [Stealth](/3-Content/Rules/skills.md#Stealth) skills. Choose one of these skills to become an extra Lucky Skill, as per your [Lucky Skill](/3-Content/Compendiums/classes/gunner-zgtteot.md#Lucky%20Skill%20(Level%203)) feature.
 
 ### Deadeye's Flair (Level 3)
 
@@ -86,6 +88,7 @@ You can forgo additional shots to gamble it all on a single bullet—and the mor
 | Reload (4) | `3d6` |
 | Reload (5) | `4d6` |
 | Reload (6) | `5d6` |
+
 ^damage-per-reload-value
 
 ### Steady Breath (Level 15)
@@ -96,6 +99,6 @@ Additionally, when you make an Intelligence, Wisdom, or Charisma saving throw wh
 
 ### Re-Ricochet (Level 18)
 
-You can fish for the perfect hit with clever, well-calculated plans... so what if they happen to be extremely convoluted? You can use your [Calculated Ricochet](/3-Content/Rules/actions.md#Calculated%20Ricochet) special Reaction when the attack would hit its target, causing it to miss instead so you can reroll the attack roll.
+You can fish for the perfect hit with clever, well-calculated plans… so what if they happen to be extremely convoluted? You can use your [Calculated Ricochet](/3-Content/Rules/actions.md#Calculated%20Ricochet) special Reaction when the attack would hit its target, causing it to miss instead so you can reroll the attack roll.
 
 In addition, after you use your [Calculated Ricochet](/3-Content/Rules/actions.md#Calculated%20Ricochet) special Reaction to reroll an attack roll, you can expend **1 Moxie** to reroll the attack roll again, with **Advantage**, against a different creature within **30 feet** of the second target, which can be the original one.

@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/xphb
-- subclass/bard/valor
+tags: [compendium/src/5e/xphb, subclass/bard/valor]
 aliases:
-- College of Valor
+  - College of Valor
+  - College of Valor
+created: 2025/06/15 at 22:22
+updated: 2025/07/13 at 00:17
 ---
+
 # College of Valor
+
 *[Bard](./bard-xphb.md): Bard Subclass*  
 *Source: Player's Handbook (2024) p. 67*  
 
@@ -41,7 +44,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

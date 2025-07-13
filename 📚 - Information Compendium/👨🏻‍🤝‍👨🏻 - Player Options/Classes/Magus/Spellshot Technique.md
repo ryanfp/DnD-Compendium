@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/kt-cll
-- ttrpg-cli/subclass/spellblade/spellshot
+tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/spellblade/spellshot]
 aliases:
-- Spellshot Technique
+  - Spellshot Technique
+created: 2025/06/13 at 22:32
+updated: 2025/07/13 at 00:17
 ---
+
 # Spellshot Technique
+
 *[Spellblade](./spellblade-kt-cll.md): Technique*  
 *Source: Kibbles' Compendium of Legends and Legacies p. 52*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Spellshot Technique (Level 3)
@@ -64,6 +65,7 @@ You learn the following spells at the following levels. The following are Spellb
 | 9th | lightning bolt |
 | 13th | greater invisibility |
 | 17th | [pressure cutter](/3-Content/Compendiums/spells/pressure-cutter-kt-cll.md) |
+
 ^spellshot-spells
 
 ### Ranged Spellstrike (Level 3)

@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/fighter/eldritch-knight
+tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/subclass/fighter/eldritch-knight]
 aliases:
-- Eldritch Knight
+  - Eldritch Knight
+  - Eldritch Knight
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Eldritch Knight
+
 *[Fighter](./fighter-xphb.md): Fighter Subclass*  
 *Source: Player's Handbook (2024) p. 96*  
 
@@ -42,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Eldritch Knight (Level 3)
@@ -71,7 +73,7 @@ You prepare the list of level 1+ spells that are available for you to cast with 
 
 The number of spells on your list increases as you gain Fighter levels, as shown in the Prepared Spells column of the Eldritch Knight Spellcasting table. Whenever that number increases, choose additional spells from the Wizard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 7 Fighter, your list of prepared spells can include five Wizard spells of levels 1 and 2 in any combination.
 
-#### Changing your Prepared Spells
+#### Changing Your Prepared Spells
 
 Whenever you gain a Fighter level, you can replace one spell on your list with another Wizard spell for which you have spell slots.
 

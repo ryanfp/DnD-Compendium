@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/illrigger
-- ttrpg-cli/compendium/src/5e/illriggerrevised
+tags: [ttrpg-cli/class/illrigger, ttrpg-cli/compendium/src/5e/illriggerrevised]
 aliases:
-- Illrigger
+  - Illrigger
+created: 2025/06/13 at 22:28
+updated: 2025/07/13 at 00:17
 ---
+
 # Illrigger
+
 *Source: The Illrigger Revised*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d10 per Illrigger level
 - **Hit Points at First Level:** 10 + CON
-- **Hit Points at Higher Levels:** add 6 OR 1d10 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 6 OR 1d10 + CON (minimum of 1)
 
 ## Starting Illrigger
 
@@ -77,7 +79,7 @@ When you gain a level in a class other than your first, you gain only some of th
 > 
 > This class contains a subclass called the Hellspeaker, which has themes of mental manipulation and mind control. In addition, the Sanguine Knight subclass contains effects that manipulate another creature's blood. Lastly, illriggers are typically evil-aligned characters—and even those who aren't still serve evil creatures with dark agendas.
 > 
-> We recommend using the MCDM Tabletop Safety Toolkit and Checklist (https://mcdm.gg/SafetyToolkit) and adjusting as needed to ensure everyone at your table is comfortable.
+> We recommend using the MCDM Tabletop Safety Toolkit and Checklist (<https://mcdm.gg/SafetyToolkit>) and adjusting as needed to ensure everyone at your table is comfortable.
 ^content-warning
 
 The archdevils who rule the Seven Cities of Hell scheme endlessly. Each eternally plots to bring the others to heel—to ascend to the Throne of Hell, unite the Seven Cities and every infernal being living there, and lead an inexhaustible army of devils across the timescape until all worlds burn.
@@ -204,7 +206,7 @@ On a failed save, the target takes necrotic damage equal to the total you rolled
 
 You regain any spent Infernal Conduit dice when you finish a long rest.
 
-### Diabolic Contract feature (Level 7)
+### Diabolic Contract Feature (Level 7)
 
 You sign a diabolic contract with an archdevil who welcomes you into the Order of Desolation. Choose between the Architect of Ruin (Asmodeus), Hellspeaker (Moloch), Painkiller (Dispater), Sanguine Knight (Sutekh), or Shadowmaster (Belial) as your archdevil. Each of these subclasses is detailed after the class's description. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.
 
@@ -226,7 +228,7 @@ Starting at 9th level, this feature grants you another language, for a total of 
 
 You can strengthen your defenses at the cost of your vitality. Whenever you fail a saving throw, you can spend one of your Hit Dice, rolling it and adding the number rolled to the result of the save.
 
-### Diabolic Contract feature (Level 11)
+### Diabolic Contract Feature (Level 11)
 
 You sign a diabolic contract with an archdevil who welcomes you into the Order of Desolation. Choose between the Architect of Ruin (Asmodeus), Hellspeaker (Moloch), Painkiller (Dispater), Sanguine Knight (Sutekh), or Shadowmaster (Belial) as your archdevil. Each of these subclasses is detailed after the class's description. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.
 
@@ -250,7 +252,7 @@ Damage from your seals ignores any damage resistances the target has.
 
 In addition, you can use a bonus action to regain a seal if you have none remaining. Once you regain a seal in this way, you can't do so again until you finish a long rest.
 
-### Diabolic Contract feature (Level 15)
+### Diabolic Contract Feature (Level 15)
 
 You sign a diabolic contract with an archdevil who welcomes you into the Order of Desolation. Choose between the Architect of Ruin (Asmodeus), Hellspeaker (Moloch), Painkiller (Dispater), Sanguine Knight (Sutekh), or Shadowmaster (Belial) as your archdevil. Each of these subclasses is detailed after the class's description. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.
 

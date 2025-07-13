@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/vrgr
-- subclass/bard/spirits
+tags: [compendium/src/5e/vrgr, subclass/bard/spirits]
 aliases:
-- College of Spirits
+  - College of Spirits
+created: 2025/06/15 at 22:22
+updated: 2025/07/13 at 00:17
 ---
+
 # College of Spirits
+
 *[Bard](Bard.md): Bard College*  
 *Source: Van Richten's Guide to Ravenloft p. 28*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

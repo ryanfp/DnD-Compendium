@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/xge
-- subclass/druid/shepherd
+tags: [compendium/src/5e/xge, subclass/druid/shepherd]
 aliases:
-- Circle of the Shepherd
+  - Circle of the Shepherd
+  - Circle of the Shepherd
+created: 2025/06/15 at 22:24
+updated: 2025/07/13 at 00:17
 ---
+
 # Circle of the Shepherd
+
 *[Druid](./druid-xphb.md): Druid Subclass*  
 *Source: Xanathar's Guide to Everything p. 23*  
 
@@ -42,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
 
@@ -71,16 +73,19 @@ The spirit persists for 1 minute or until you're [incapacitated](/📚%20-%20Inf
 The effect of the spirit's aura depends on the type of spirit you summon from the options below.
 
 #### Bear Spirit
+
 _Source: Xanathar's Guide to Everything_
 
 The bear spirit grants you and your allies its might and endurance. Each creature of your choice in the aura when the spirit appears gains temporary hit points equal to 5 + your druid level. In addition, you and your allies gain advantage on Strength checks and Strength saving throws while in the aura.
 
 #### Hawk Spirit
+
 _Source: Xanathar's Guide to Everything_
 
 The hawk spirit is a consummate hunter, aiding you and your allies with its keen sight. When a creature makes an attack roll against a target in the spirit's aura, you can use your reaction to grant advantage to that attack roll. In addition, you and your allies have advantage on Wisdom ([Perception](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Perception)) checks while in the aura.
 
 #### Unicorn Spirit
+
 _Source: Xanathar's Guide to Everything_
 
 The unicorn spirit lends its protection to those nearby. You and your allies gain advantage on all ability checks made to detect creatures in the spirit's aura. In addition, if you cast a spell using a spell slot that restores hit points to any creature inside or outside the aura, each creature of your choice in the aura also regains hit points equal to your druid level.

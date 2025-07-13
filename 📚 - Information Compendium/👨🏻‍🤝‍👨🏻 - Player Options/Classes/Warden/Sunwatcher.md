@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/kt-cll
-  - ttrpg-cli/subclass/warden/sunwatcher
+tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/warden/sunwatcher]
 aliases:
   - Sunwatcher
-title: Sunwatcher
+created: 2025/06/13 at 22:33
+updated: 2025/07/13 at 00:17
 ---
+
 # Sunwatcher
+
 *[Warden](Warden.md): Warden Bond*  
 *Source: Kibbles' Compendium of Legends and Legacies p. 70*  
 
@@ -43,7 +44,6 @@ title: Sunwatcher
 
 ^class-progression
 
-
 ## Class Features
 
 ### Bond of the Sunwatcher (Level 1)
@@ -72,6 +72,7 @@ You gain the following spells at the listed levels, and can cast each spell once
 | 9th | daylight |
 | 13th | [brilliant blade](/3-Content/Compendiums/spells/brilliant-blade-kt-cll.md) |
 | 17th | [heavenly ray](/3-Content/Compendiums/spells/heavenly-ray-kt-cll.md) |
+
 ^warden-level-innate-spells-1-long-rest-each
 
 ### Solar Flare (Level 3)

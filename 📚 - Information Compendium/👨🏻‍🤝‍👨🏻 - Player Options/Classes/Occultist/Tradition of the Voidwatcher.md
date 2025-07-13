@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/kt-cll
-- ttrpg-cli/subclass/occultist/voidwatcher
+tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/occultist/voidwatcher]
 aliases:
-- Tradition of the Voidwatcher
+  - Tradition of the Voidwatcher
+created: 2025/06/13 at 22:29
+updated: 2025/07/13 at 00:17
 ---
+
 # Tradition of the Voidwatcher
+
 *[Occultist](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Occultist/Occultist.md): Occult Tradition*  
 *Source: Kibbles' Compendium of Legends and Legacies p. 35*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Voidwatcher (Level 1)
@@ -73,6 +74,7 @@ Starting at 1st level, when you select this tradition and gain your powers throu
     | 7th | [pillar of fire](/3-Content/Compendiums/spells/pillar-of-fire-kt-cll.md) |  
     | 9th | [devouring darkness](/3-Content/Compendiums/spells/devouring-darkness-kt-cll.md) |  
     ^bonus-spells  
+
 - **Conclusion of Madness.** You learn the message and minor illusion cantrips, and learn the following spells at the following levels. The spells are Occultist spells for you and do not count against your spells known.  
 
     **Bonus Spells**  
@@ -85,6 +87,7 @@ Starting at 1st level, when you select this tradition and gain your powers throu
     | 7th | compulsion |  
     | 9th | dominate person |  
     ^bonus-spells  
+
 - **Conclusion of Tranquility.** You learn the guidance and resistance cantrips, and learn the following spells at the following levels. The spells are Occultist spells for you and do not count against your spells known.  
 
     **Bonus Spells**  

@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/llvessel
-  - ttrpg-cli/subclass/vessel/trickster
+tags: [ttrpg-cli/compendium/src/5e/llvessel, ttrpg-cli/subclass/vessel/trickster]
 aliases:
   - The Trickster
-title: The Trickster
+created: 2025/06/13 at 22:33
+updated: 2025/07/13 at 00:17
 ---
+
 # The Trickster
+
 *[Vessel](Vessel.md): Sealed Spirit*  
 *Source: The Vessel p. 11*  
 
@@ -43,7 +44,6 @@ title: The Trickster
 
 ^class-progression
 
-
 ## Class Features
 
 ### The Trickster (Level 3)
@@ -67,6 +67,7 @@ Your Iridescent Strikes can also deal psychic damage.
 | 9th | hypnotic pattern (alternate), [summon fey](/3-Content/Compendiums/spells/summon-fey-xphb.md) |
 | 13th | [charm monster](/3-Content/Compendiums/spells/charm-monster-xphb.md), [dimension door](/3-Content/Compendiums/spells/dimension-door-xphb.md) |
 | 17th | [dream](/3-Content/Compendiums/spells/dream-xphb.md), [mislead](/3-Content/Compendiums/spells/mislead-xphb.md) |
+
 ^vessel-level-spells
 
 ### Trickster Archon (Level 3)

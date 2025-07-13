@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/monk/mercy
+tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/monk/mercy]
 aliases:
-- Way of Mercy
+  - Way of Mercy
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Way of Mercy
+
 *[Monk](Monk.md): Monastic Tradition*  
 *Source: Tasha's Cauldron of Everything p. 49*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Way of Mercy (Level 3)
@@ -73,6 +74,7 @@ You also gain a special mask, which you often wear when using the features of th
 | 4 | Laughing visage |
 | 5 | Skull |
 | 6 | Butterfly |
+
 ^merciful-mask
 
 ### Hand of Healing (Level 3)

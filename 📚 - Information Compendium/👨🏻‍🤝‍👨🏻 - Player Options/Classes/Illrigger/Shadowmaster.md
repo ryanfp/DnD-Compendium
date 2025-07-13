@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/illriggerrevised
-- ttrpg-cli/subclass/illrigger/shadowmaster
+tags: [ttrpg-cli/compendium/src/5e/illriggerrevised, ttrpg-cli/subclass/illrigger/shadowmaster]
 aliases:
-- Shadowmaster
+  - Shadowmaster
+created: 2025/06/13 at 22:28
+updated: 2025/07/13 at 00:17
 ---
+
 # Shadowmaster
+
 *[Illrigger](Illrigger.md): Diabolic Contracts*  
 *Source: The Illrigger Revised*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

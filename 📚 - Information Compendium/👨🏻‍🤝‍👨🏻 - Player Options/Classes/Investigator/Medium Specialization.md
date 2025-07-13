@@ -5,8 +5,8 @@ tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/investigator/medium]
 aliases:
   - Medium
   - Medium
-created: 2025/06/13, 22:28
-updated: 2025/07/10, 19:56
+created: 2025/06/13 at 22:28
+updated: 2025/07/13 at 00:17
 ---
 
 # Medium

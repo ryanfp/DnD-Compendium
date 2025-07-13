@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/craftsman/calibarons
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/craftsman/calibarons]
 aliases:
-  - Calibarons' Guild
-title: Calibarons' Guild
+  - "Calibarons' Guild"
+created: 2025/06/13 at 22:27
+updated: 2025/07/13 at 00:17
 ---
+
 # Calibarons' Guild
+
 *[Craftsman](Craftsman.md): Artisan's Guild*  
 *Source: Valda's Spire of Secrets*  
 
@@ -42,7 +43,6 @@ title: Calibarons' Guild
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

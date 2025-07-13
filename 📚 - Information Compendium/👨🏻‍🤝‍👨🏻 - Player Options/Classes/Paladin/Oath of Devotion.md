@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/subclass/paladin/devotion
+tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/subclass/paladin/devotion]
 aliases:
-- Oath of Devotion
+  - Oath of Devotion
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Oath of Devotion
+
 *[Paladin](Paladin.md): Sacred Oath*  
 *Source: Player's Handbook p. 85. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 
@@ -86,6 +87,7 @@ You gain oath spells at the paladin levels listed.
 | 9th | [beacon of hope](/3-Content/Compendiums/spells/beacon-of-hope-xphb.md), [dispel magic](/3-Content/Compendiums/spells/dispel-magic-xphb.md) |
 | 13th | [freedom of movement](/3-Content/Compendiums/spells/freedom-of-movement-xphb.md), [guardian of faith](/3-Content/Compendiums/spells/guardian-of-faith-xphb.md) |
 | 17th | [commune](/3-Content/Compendiums/spells/commune-xphb.md), [flame strike](/3-Content/Compendiums/spells/flame-strike-xphb.md) |
+
 ^oath-of-devotion-spells
 
 ### Channel Divinity (Level 3)

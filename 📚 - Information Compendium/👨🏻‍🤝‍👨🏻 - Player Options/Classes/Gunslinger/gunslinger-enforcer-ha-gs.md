@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/ha:gs
-- ttrpg-cli/subclass/gunslinger/enforcer
+tags: [ttrpg-cli/compendium/src/5e/ha:gs, ttrpg-cli/subclass/gunslinger/enforcer]
 aliases:
-- Enforcer
+  - Enforcer
+  - Enforcer
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Enforcer
+
 *[Gunslinger](./gunslinger-ha-gs.md): Gunslinger Trail*  
 *Source: The Gunslinger Class*  
 
@@ -41,7 +44,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

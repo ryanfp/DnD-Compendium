@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/kt-cll
-  - ttrpg-cli/subclass/occultist/shaman
+tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/occultist/shaman]
 aliases:
   - Tradition of the Shaman
-title: Tradition of the Shaman
+created: 2025/06/13 at 22:29
+updated: 2025/07/13 at 00:17
 ---
+
 # Tradition of the Shaman
+
 *[Occultist](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Occultist/Occultist.md): Occult Tradition*  
 *Source: Kibbles' Compendium of Legends and Legacies p. 30*  
 
@@ -42,7 +43,6 @@ title: Tradition of the Shaman
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 
@@ -79,6 +79,7 @@ Starting at 3rd level, when you call a spirit, you can expend a spell slot to em
 | 3rd | 1d10 | 2d6 | 3 |
 | 4th | 1d12 | 2d8 | 4 |
 | 5th | 1d12 | 2d8 | 5 |
+
 ^empowered-spirits
 
 ### Extra Attack (Level 6)

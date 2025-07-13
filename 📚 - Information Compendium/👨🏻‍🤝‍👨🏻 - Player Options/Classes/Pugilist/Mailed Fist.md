@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/sterlingvermin:patreon
-  - ttrpg-cli/subclass/pugilist/mailed-fist
+tags: [ttrpg-cli/compendium/src/5e/sterlingvermin:patreon, ttrpg-cli/subclass/pugilist/mailed-fist]
 aliases:
   - Mailed Fist
-title: Mailed Fist
+created: 2025/06/13 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # Mailed Fist
+
 *[Pugilist](./pugilist-sterlingvermin.md): Fight Club*  
 *Source: Patreon Subclasses for the Pugilist*  
 
@@ -42,7 +43,6 @@ title: Mailed Fist
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

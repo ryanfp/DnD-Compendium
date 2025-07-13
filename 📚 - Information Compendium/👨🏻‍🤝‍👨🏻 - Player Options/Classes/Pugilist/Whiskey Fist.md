@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/sterlingvermin:patreon
-  - ttrpg-cli/subclass/pugilist/whiskey-fist
+tags: [ttrpg-cli/compendium/src/5e/sterlingvermin:patreon, ttrpg-cli/subclass/pugilist/whiskey-fist]
 aliases:
   - Whiskey Fist
-title: Whiskey Fist
+created: 2025/06/13 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # Whiskey Fist
+
 *[Pugilist](./pugilist-sterlingvermin.md): Fight Club*  
 *Source: Patreon Subclasses for the Pugilist*  
 
@@ -42,7 +43,6 @@ title: Whiskey Fist
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/domain/life
-- ttrpg-cli/subclass/cleric/life
+tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/domain/life, ttrpg-cli/subclass/cleric/life]
 aliases:
-- Life Domain
+  - Life Domain
+  - Life Domain
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Life Domain
+
 *[Cleric](./cleric-xphb.md): Cleric Subclass*  
 *Source: Player's Handbook (2024) p. 73. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
@@ -43,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Life Domain (Level 3)
@@ -66,6 +67,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 | 5th | [Mass Healing Word](/3-Content/Compendiums/spells/mass-healing-word-xphb.md), [Revivify](/3-Content/Compendiums/spells/revivify-xphb.md) |
 | 7th | [Aura of Life](/3-Content/Compendiums/spells/aura-of-life-xphb.md), [Death Ward](/3-Content/Compendiums/spells/death-ward-xphb.md) |
 | 9th | [Greater Restoration](/3-Content/Compendiums/spells/greater-restoration-xphb.md), [Mass Cure Wounds](/3-Content/Compendiums/spells/mass-cure-wounds-xphb.md) |
+
 ^life-domain-spells
 
 ### Disciple of Life (Level 3)

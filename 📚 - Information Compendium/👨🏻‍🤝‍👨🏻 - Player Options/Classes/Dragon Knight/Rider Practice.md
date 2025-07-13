@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/dk
-  - ttrpg-cli/subclass/dragon-knight/rider
+tags: [ttrpg-cli/compendium/src/5e/dk, ttrpg-cli/subclass/dragon-knight/rider]
 aliases:
   - Rider Practice
-title: Rider Practice
+created: 2025/06/13 at 22:27
+updated: 2025/07/13 at 00:17
 ---
+
 # Rider Practice
+
 *[Dragon Knight](Dragon%20Knight.md): Dragon Knight Practice*  
 *Source: Dragon Knight*  
 
@@ -43,7 +44,6 @@ title: Rider Practice
 
 ^class-progression
 
-
 ## Class Features
 
 ### Rider Practice (Level 3)
@@ -52,7 +52,7 @@ The bond between a dragon knight and their dragon is strong, but those of the Ri
 
 ### Dragon's Claw (Level 3)
 
-Starting at 3rd level, you're able to better co-ordinate with your dragon. While both you and your dragon are within 5 feet of a hostile creature, the creature has disadvantage on attack rolls that don't target you or your dragon.
+Starting at 3rd level, you're able to better coordinate with your dragon. While both you and your dragon are within 5 feet of a hostile creature, the creature has disadvantage on attack rolls that don't target you or your dragon.
 
 Additionally, when a hostile creature's movement provokes an opportunity attack from you, you can use your reaction to attempt to grapple or shove the creature.
 

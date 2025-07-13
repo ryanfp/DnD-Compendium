@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/warden
-- ttrpg-cli/compendium/src/5e/vss
+tags: [ttrpg-cli/class/warden, ttrpg-cli/compendium/src/5e/vss]
 aliases:
-- Warden
+  - Warden
+  - Warden
+created: 2025/06/13 at 22:33
+updated: 2025/07/13 at 00:17
 ---
+
 # Warden
+
 *Source: Valda's Spire of Secrets*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +48,7 @@ aliases:
 
 - **Hit Dice**: 1d10 per Warden level
 - **Hit Points at First Level:** 10 + CON
-- **Hit Points at Higher Levels:** add 6 OR 1d10 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 6 OR 1d10 + CON (minimum of 1)
 
 ## Starting Warden
 

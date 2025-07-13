@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/pugilist
-- ttrpg-cli/compendium/src/5e/ultimateadventurer
+tags: [ttrpg-cli/class/pugilist, ttrpg-cli/compendium/src/5e/ultimateadventurer]
 aliases:
-- Pugilist
+  - Pugilist
+created: 2025/06/13 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # Pugilist
+
 *Source: The Ultimate Adventurer's Handbook p. 192*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d8 per Pugilist level
 - **Hit Points at First Level:** 8 + CON
-- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON (minimum of 1)
 
 ## Starting Pugilist
 
@@ -101,11 +103,12 @@ No one becomes as tough as a pugilist without enduring terrible hardship and per
 | dice: d6 | Hardship |
 |----------|----------|
 | 1 | A plague took your family when you were a child leaving you to spend the rest of your youth in an orphanage. |
-| 2 | You were harrassed by the town guard then framed for a crime you did not commit. |
+| 2 | You were harassed by the town guard then framed for a crime you did not commit. |
 | 3 | You lost everything when a trusted friend betrayed you. |
 | 4 | Your parents sold you to the thieves guild for less than a gold piece. |
 | 5 | You drank your life away until you hit rock bottom and sobered up. |
 | 6 | You refused to throw a match at a gang boss's insistence and your family ended up paying the price. |
+
 ^hardships
 
 ### Favorite Dive
@@ -126,6 +129,7 @@ How long has your favorite dive been your go-to spot? Do you have any friends or
 | 4 | A high stakes gambling den with games of skill and chance. |
 | 5 | The orphanage you grew up in that was closed and abandoned some years ago. |
 | 6 | A quiet library. |
+
 ^dives
 
 ### Rumor
@@ -141,11 +145,12 @@ Whether or not it's true, you have a particular rumor that follows you wherever 
 | dice: d6 | Rumor |
 |----------|-------|
 | 1 | You got your prodigious strength from suckling milk at the teet of a giantess. |
-| 2 | You won a drinking competition against a dwarf...and then three more before the night was through. |
+| 2 | You won a drinking competition against a dwarf…and then three more before the night was through. |
 | 3 | The town guards hate you as much as their spouses love you. |
 | 4 | You are an enforcer for one of the most powerful figures in the criminal underworld. |
 | 5 | You wrestled an owlbear to the ground with such ease you fell asleep during the tussle. |
 | 6 | Your daddy was an earth elemental which is why your bones are made of iron. |
+
 ^rumors
 
 ### Creating a Pugilist
@@ -225,7 +230,7 @@ Starting at 5th level, when you make an attack, you can declare you are swinging
 
 Starting at 6th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to non-magical attacks and damage.
 
-### Fight Club feature (Level 6)
+### Fight Club Feature (Level 6)
 
 At 6th level, you gain one feature granted by your Fight Club.
 
@@ -253,7 +258,7 @@ Once you use this feature, you can't use it again until you finish a long rest<s
 
 By 10th level, you've graduated top of the class at the school of hard knocks and you took most of them on the head. You have resistance to psychic damage and gain advantage on saving throws against effects that would make you stunned or unconscious.
 
-### Fight Club feature (Level 11)
+### Fight Club Feature (Level 11)
 
 At 11th level, you gain a feature granted by your Fight Club.
 
@@ -281,7 +286,7 @@ When you reach 16th level you can increase one ability score of your choice by 2
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Fight Club feature (Level 17)
+### Fight Club Feature (Level 17)
 
 At 17th level, you gain a feature granted by your Fight Club.
 

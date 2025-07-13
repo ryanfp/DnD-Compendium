@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/subclass/monk/shadow
+tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/subclass/monk/shadow]
 aliases:
-- Way of Shadow
+  - Way of Shadow
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Way of Shadow
+
 *[Monk](Monk.md): Monastic Tradition*  
 *Source: Player's Handbook p. 80*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

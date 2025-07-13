@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/kt-cll
-  - ttrpg-cli/subclass/warden/bone-binder
+tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/warden/bone-binder]
 aliases:
   - Bone Binder
-title: Bone Binder
+created: 2025/06/13 at 22:33
+updated: 2025/07/13 at 00:17
 ---
+
 # Bone Binder
+
 *[Warden](Warden.md): Warden Bond*  
 *Source: Kibbles' Compendium of Legends and Legacies p. 80*  
 
@@ -42,7 +43,6 @@ title: Bone Binder
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 
@@ -84,6 +84,7 @@ You gain the following spells at the listed levels, and can cast each spell once
 | 9th | speak with dead |
 | 13th | animate dead<sup>†</sup> |
 | 17th | [ribcage](/3-Content/Compendiums/spells/ribcage-kt-cll.md) |
+
 ^innate-spells
 
 <sup>†</sup> You cannot cast this spell again early using [Endurance Dice](/3-Content/Compendiums/classes/warden-kt-cll.md#Endurance%20Dice%20(Level%202))

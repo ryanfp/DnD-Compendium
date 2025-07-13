@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/subclass/warlock/undying
+tags: [ttrpg-cli/compendium/src/5e/scag, ttrpg-cli/subclass/warlock/undying]
 aliases:
-- The Undying
+  - The Undying
+created: 2025/06/15 at 15:38
+updated: 2025/07/13 at 00:17
 ---
+
 # The Undying
+
 *[Warlock](Warlock.md): Otherworldly Patron*  
 *Source: Sword Coast Adventurer's Guide p. 139*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### The Undying (Level 1)
@@ -52,6 +53,7 @@ Death holds no sway over your patron, who has unlocked the secrets of everlastin
 In the Realms, Undying patrons include Larloch the Shadow King, legendary master of Warlock's Crypt, and Gilgeam, the God-King of Unther.
 
 #### Expanded Spell List
+
 _Source: Sword Coast Adventurer's Guide_
 
 The Undying lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
@@ -65,6 +67,7 @@ The Undying lets you choose from an expanded list of spells when you learn a war
 | 3rd | [feign death](/3-Content/Compendiums/spells/feign-death-xphb.md), [speak with dead](/3-Content/Compendiums/spells/speak-with-dead-xphb.md) |
 | 4th | [aura of life](/3-Content/Compendiums/spells/aura-of-life-xphb.md), [death ward](/3-Content/Compendiums/spells/death-ward-xphb.md) |
 | 5th | [contagion](/3-Content/Compendiums/spells/contagion-xphb.md), [legend lore](/3-Content/Compendiums/spells/legend-lore-xphb.md) |
+
 ^undying-expanded-spells
 
 ### Among the Dead (Level 1)

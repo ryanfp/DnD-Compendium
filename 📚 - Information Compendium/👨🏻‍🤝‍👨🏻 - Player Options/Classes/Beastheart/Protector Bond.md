@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/bst
-- ttrpg-cli/subclass/beastheart/protector
+tags: [ttrpg-cli/compendium/src/5e/bst, ttrpg-cli/subclass/beastheart/protector]
 aliases:
-- Protector Bond
+  - Protector Bond
+created: 2025/06/13 at 22:26
+updated: 2025/07/13 at 00:17
 ---
+
 # Protector Bond
+
 *[Beastheart](Beastheart.md): Companion Bonds*  
 *Source: Beastheart and Monstrous Companions*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Protector Bond (Level 3)
@@ -65,6 +66,7 @@ At 3rd level, you and your companion learn to engage foes up close to keep them 
 | 7th | Thickened Hide |
 | 11th | Sentinel Companion |
 | 15th | Undying Protector |
+
 ^protector-bond-features
 
 ### Thickened Hide (Level 7)

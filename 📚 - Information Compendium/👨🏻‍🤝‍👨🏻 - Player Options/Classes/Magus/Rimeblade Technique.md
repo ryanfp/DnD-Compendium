@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/kt-cll
-- ttrpg-cli/subclass/spellblade/rimeblade
+tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/spellblade/rimeblade]
 aliases:
-- Rimeblade Technique
+  - Rimeblade Technique
+created: 2025/06/13 at 22:32
+updated: 2025/07/13 at 00:17
 ---
+
 # Rimeblade Technique
+
 *[Spellblade](./spellblade-kt-cll.md): Technique*  
 *Source: Kibbles' Compendium of Legends and Legacies p. 53*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Rimeblade Technique (Level 3)
@@ -64,6 +65,7 @@ You learn the following spells at the following levels. The following are Spellb
 | 9th | slow |
 | 13th | [ice spike](/3-Content/Compendiums/spells/ice-spike-kt-cll.md) |
 | 17th | cone of cold |
+
 ^rimeblade-spells
 
 ### Ice Blade (Level 3)

@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/llsh:e
-  - ttrpg-cli/subclass/shaman/spirit-guide
+tags: [ttrpg-cli/compendium/src/5e/llsh:e, ttrpg-cli/subclass/shaman/spirit-guide]
 aliases:
   - Spirit Guide
-title: Spirit Guide
+created: 2025/06/13 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # Spirit Guide
+
 *[Shaman](Shaman.md): Spirituality*  
 *Source: Shaman Expanded p. 8*  
 
@@ -43,7 +44,6 @@ title: Spirit Guide
 
 ^class-progression
 
-
 ## Class Features
 
 ### Spirit Guide (Level 2)
@@ -51,6 +51,7 @@ title: Spirit Guide
 While most Shamans bind many Spirits, Shamans known as Spirit Guides form a single bond with their Geist Spirit. Often the Spirits of departed Shamans, Geists increase in power alongside the Shaman they are bound to, and can even channel the power bound within Totems.
 
 #### Spirit Guide Spells
+
 _Source: Shaman Expanded_
 
 *2nd-level Spirit Guide feature*
@@ -66,6 +67,7 @@ You always have certain spells prepared at Shaman levels in the table below. The
 | 5th | spectral passage, [spirit guardians](/3-Content/Compendiums/spells/spirit-guardians-xphb.md) |
 | 7th | [death ward](/3-Content/Compendiums/spells/death-ward-xphb.md), [guardian of faith](/3-Content/Compendiums/spells/guardian-of-faith-xphb.md) |
 | 9th | [arcane hand](/3-Content/Compendiums/spells/bigbys-hand-xphb.md), wall of light |
+
 ^spirit-guide-spells
 
 ### Totemic Bond (Level 2)
@@ -73,11 +75,13 @@ You always have certain spells prepared at Shaman levels in the table below. The
 You forged a bond with unique Spirit known as a [Geist Spirit](/3-Content/Compendiums/bestiary/undead/geist-spirit-llsh-e.md). Your Geist is friendly to you and your allies, and it obeys your commands. It uses the Geist stat block, which uses your Shaman Spell save DC and your proficiency bonus (PB) in several places.
 
 #### Conjuring the Geist
+
 _Source: Shaman Expanded_
 
 During a long rest, you can perform a 1-hour ritual to conjure your Geist Spirit, or restore your current Geist to its full hit points. If the Geist is reduced to 0 hit points it is banished to the Etheral Plane. As an action, you expend a Conduit magic spell slot to conjure your Geist, restoring it to its full hit points in an unoccupied space within 5 feet.
 
 #### Combat
+
 _Source: Shaman Expanded_
 
 The Geist acts during your turn. It can move and use its reaction on its own, but it only takes the Dodge action unless you use your bonus action to command it to take one of the actions listed in its stat block, or another action.
@@ -86,7 +90,7 @@ The Geist acts during your turn. It can move and use its reaction on its own, bu
 
 *6th-level Spirit Guide feature*
 
-As a bonus action, you can touch your Geist to merge with it and gain the benefits of the spectral passage spell. When the spell ends, you and your Geist instantly seperate.
+As a bonus action, you can touch your Geist to merge with it and gain the benefits of the spectral passage spell. When the spell ends, you and your Geist instantly separate.
 
 ### Soul Bond (Level 10)
 

@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/subclass/wizard/enchantment
+tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/subclass/wizard/enchantment]
 aliases:
-- School of Enchantment
+  - School of Enchantment
+created: 2025/06/15 at 15:38
+updated: 2025/07/13 at 00:17
 ---
+
 # School of Enchantment
+
 *[Wizard](Wizard.md): Arcane Tradition*  
 *Source: Player's Handbook p. 117*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

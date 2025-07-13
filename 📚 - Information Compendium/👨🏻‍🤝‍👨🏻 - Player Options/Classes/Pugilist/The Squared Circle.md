@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/ultimateadventurer
-  - ttrpg-cli/subclass/pugilist/squared-circle
+tags: [ttrpg-cli/compendium/src/5e/ultimateadventurer, ttrpg-cli/subclass/pugilist/squared-circle]
 aliases:
   - The Squared Circle
-title: The Squared Circle
+created: 2025/06/13 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # The Squared Circle
+
 *[Pugilist](Pugilist.md): Fight Club*  
 *Source: The Ultimate Adventurer's Handbook p. 207*  
 
@@ -42,7 +43,6 @@ title: The Squared Circle
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

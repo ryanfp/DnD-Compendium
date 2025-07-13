@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/subclass/fighter/eldritch-knight
+tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/subclass/fighter/eldritch-knight]
 aliases:
-- Eldritch Knight
+  - Eldritch Knight
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Eldritch Knight
+
 *[Fighter](Fighter.md): Martial Archetype*  
 *Source: Player's Handbook p. 74*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

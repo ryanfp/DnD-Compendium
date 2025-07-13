@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/subclass/paladin/oathbreaker
+tags: [ttrpg-cli/compendium/src/5e/dmg, ttrpg-cli/subclass/paladin/oathbreaker]
 aliases:
-- Oathbreaker
+  - Oathbreaker
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Oathbreaker
+
 *[Paladin](Paladin.md): Sacred Oath*  
 *Source: Dungeon Master's Guide p. 97*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Oathbreaker (Level 3)
@@ -64,6 +65,7 @@ You gain oathbreaker spells at the paladin levels listed.
 | 9th | [animate dead](/3-Content/Compendiums/spells/animate-dead-xphb.md), [bestow curse](/3-Content/Compendiums/spells/bestow-curse-xphb.md) |
 | 13th | [blight](/3-Content/Compendiums/spells/blight-xphb.md), [confusion](/3-Content/Compendiums/spells/confusion-xphb.md) |
 | 17th | [contagion](/3-Content/Compendiums/spells/contagion-xphb.md), [dominate person](/3-Content/Compendiums/spells/dominate-person-xphb.md) |
+
 ^oathbreaker-spells
 
 ### Channel Divinity (Level 3)

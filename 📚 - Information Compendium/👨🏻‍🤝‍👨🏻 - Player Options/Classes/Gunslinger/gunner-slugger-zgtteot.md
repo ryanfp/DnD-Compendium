@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/zgtteot
-- ttrpg-cli/subclass/gunner/slugger
+tags: [ttrpg-cli/compendium/src/5e/zgtteot, ttrpg-cli/subclass/gunner/slugger]
 aliases:
-- Slugger
+  - Slugger
+  - Slugger
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Slugger
+
 *[Gunner](./gunner-zgtteot.md): Gunner Creed*  
 *Source: Zaman's Guide to the End of Time*  
 
@@ -41,7 +44,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

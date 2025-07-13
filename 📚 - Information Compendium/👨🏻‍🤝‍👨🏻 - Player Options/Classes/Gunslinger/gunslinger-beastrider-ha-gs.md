@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/ha:gs
-- ttrpg-cli/subclass/gunslinger/beastrider
+tags: [ttrpg-cli/compendium/src/5e/ha:gs, ttrpg-cli/subclass/gunslinger/beastrider]
 aliases:
-- Beastrider
+  - Beastrider
+  - Beastrider
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Beastrider
+
 *[Gunslinger](./gunslinger-ha-gs.md): Gunslinger Trail*  
 *Source: The Gunslinger Class*  
 
@@ -42,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Beastrider (Level 3)
@@ -73,6 +75,7 @@ Your gunslinger level determines the range of beasts you can charm in this way, 
 | 6th | 1 | No flying speed |
 | 10th | 2 | — |
 | 17th | — | — |
+
 ^mounts
 
 In addition, while you are mounted and aren't incapacitated, your mount gains a bonus to its AC and saving throws equal to your proficiency bonus while it isn't wearing barding or other armor.

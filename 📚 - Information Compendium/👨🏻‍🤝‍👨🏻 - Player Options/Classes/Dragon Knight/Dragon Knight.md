@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/dragon-knight
-- ttrpg-cli/compendium/src/5e/dk
+tags: [ttrpg-cli/class/dragon-knight, ttrpg-cli/compendium/src/5e/dk]
 aliases:
-- Dragon Knight
+  - Dragon Knight
+created: 2025/06/13 at 22:27
+updated: 2025/07/13 at 00:17
 ---
+
 # Dragon Knight
+
 *Source: Dragon Knight*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d10 per Dragon Knight level
 - **Hit Points at First Level:** 10 + CON
-- **Hit Points at Higher Levels:** add 6 OR 1d10 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 6 OR 1d10 + CON (minimum of 1)
 
 ## Starting Dragon Knight
 
@@ -62,7 +64,6 @@ aliases:
 - (a) a dungeoneer's pack or (b) an explorer's pack
 
 Alternatively, you may start with 4d4 × 10 gp to buy your own equipment.
-
 
 ## Dragon Knight
 
@@ -118,6 +119,7 @@ When you consider the creation of this covenant, also consider the following: we
 | 4 | As a way of proving yourself, you went out into the wild to capture a dragon as proof of your strength and power. |
 | 5 | Forced to bond with your dragon, it acts as a guardian and a protector, despite how much you insist you don't need its help. |
 | 6 | Trading a large amount of treasure for a dragon's egg, you raised the dragon to serve as your mount and companion. |
+
 ^covenant
 
 #### Relationship
@@ -135,7 +137,8 @@ While you decide on your relationship, consider how it will effect the way you a
 | 3 | Despite your differences and arguments, you and your dragon have come to respect each other, but your relationship is still rocky. |
 | 4 | You and your dragon have both agreed to keep your relationship businesslike. All that matters is how you can help each other. |
 | 5 | Much to your distaste, you actually serve your dragon, and it acts as the leader in your relationship. |
-| 6 | You and your dragon bitterly hate each other, but are forced together because of the bond you share. You both understand seperation could prove disasterous. |
+| 6 | You and your dragon bitterly hate each other, but are forced together because of the bond you share. You both understand separation could prove disastrous. |
+
 ^relationship
 
 #### Obstacles
@@ -154,6 +157,7 @@ Should you choose to roll or select from the following obstacles, or create your
 | 4 | Due to your bond, you have slightly draconic features that make you appear untrustworthy and intimidating. |
 | 5 | A religious order considers you a heretic for putting a dragon under your control, and wants to "liberate" it for their own purposes. |
 | 6 | You and your dragon used to be one whole dragon, and the sudden split is strange and uncomfortable. |
+
 ^obstacles
 
 ## Class Features
@@ -171,6 +175,7 @@ At 1st level, you form a covenant with a type of dragon. The damage type associa
 | Brass | Fire | Red | Fire |
 | Bronze | Lightning | Silver | Cold |
 | Copper | Acid | White | Cold |
+
 ^dragon-covenant
 
 When you die, your dragon also dies after a number of hours equal to your dragon knight level. If your dragon companion is ever slain, the magical bond you share allows you to return it to life. With 8 hours of work and the expenditure of 25 gp worth of precious gems per your dragon knight level, you can call forth your companion's spirit and use your magic to create a new body for it. You can return a dragon companion to life in this manner even if you do not possess any part of its body.
@@ -209,6 +214,7 @@ Your dragon shares your alignment, and has a personality trait and a flaw that y
 | 2 | If you threaten my friends, you threaten me. |
 | 3 | I stay on alert so others can rest. |
 | 4 | I love to explore, so that I can discover and learn about different cultures. |
+
 ^trait
 
 `dice: [](dragon-knight-dk.md#^flaw)`
@@ -219,6 +225,7 @@ Your dragon shares your alignment, and has a personality trait and a flaw that y
 | 2 | I'm secretly terrified of other dragons. |
 | 3 | I hold permanent grudge against anyone who offends my knight. |
 | 4 | I get jealous when my knight spends time with people other than me. |
+
 ^flaw
 
 ### Fighting Style (Level 2)
@@ -295,6 +302,7 @@ Starting at 6th level, your dragon has developed the ability to unleash raw, des
 | Brass | 5 by 30 ft. line (Dex. save) | Red | 15 ft. cone (Dex. save) |
 | Bronze | 5 by 30 ft. line (Dex. save) | Silver | 15 ft. cone (Con. save) |
 | Copper | 5 by 30 ft. line (Dex. save) | White | 15 ft. cone (Con. save) |
+
 ^dragon-breath-weapon-dragon-breath-weapon
 
 As an action on its turn, the dragon can exhale this destructive energy. Each creature in the area takes 4d6 damage on a failed save, or half as much on a successful one, with the saving throw calculated as follows:
@@ -310,6 +318,7 @@ Once your dragon has used this ability, it cannot do so again until you finish a
 | 6th | 4d8 | 5 by 30 ft. line / 15 ft. cone |
 | 9th | 6d8 | 5 by 60 ft. line / 30 ft. cone |
 | 14th | 8d8 | 5 by 90 ft. line / 60 ft. cone |
+
 ^level-damage-area
 
 ### Dragon Knight Practice (Level 7)
@@ -330,7 +339,7 @@ At 9th level, your dragon companion matures, allowing you to fight together more
 
 The extra elemental damage dealt by your dragon's bite attack increases to 3d6 at 10th level.
 
-### Dragon Knight Practice feature (Level 10)
+### Dragon Knight Practice Feature (Level 10)
 
 At 10th level, you gain a feature granted by your Dragon Knight Practice.
 
@@ -372,7 +381,7 @@ The extra elemental damage dealt by your dragon's bite attack increases to 4d6 a
 
 At 14th level, you have been blessed with a dragon's extended lifespan. You age only one year for every ten years that pass, and can't be aged magically.
 
-### Dragon Knight Practice feature (Level 15)
+### Dragon Knight Practice Feature (Level 15)
 
 At 15th level, you gain a feature granted by your Dragon Knight Practice.
 
@@ -388,7 +397,7 @@ At 17th level, you can shrug off even the most dangerous effects. Whenever you o
 
 Once you use this feature, you can't do so again until you finish a long rest.
 
-### Dragon Knight Practice feature (Level 18)
+### Dragon Knight Practice Feature (Level 18)
 
 At 18th level, you gain a feature granted by your Dragon Knight Practice.
 

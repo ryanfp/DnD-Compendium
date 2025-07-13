@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/ktp
-  - ttrpg-cli/subclass/psion/unleashed
+tags: [ttrpg-cli/compendium/src/5e/ktp, ttrpg-cli/subclass/psion/unleashed]
 aliases:
   - Unleashed
-title: Unleashed
+created: 2025/06/13 at 22:29
+updated: 2025/07/13 at 00:17
 ---
+
 # Unleashed
+
 *[Psion](Psion.md): Psionic Archetype*  
 *Source: KibblesTasty: Psion*  
 
@@ -43,16 +44,15 @@ title: Unleashed
 
 ^class-progression
 
-
 ## Class Features
 
 ### Unleashed Mind (Level 1)
 
-An Unleashed Mind's power is most often an innate force they struggle to understand or control, a reflection of their state of mind and mood projected onto the world around them, often to devastating results. The life of an Unleashed Psion is frequently their journey to control their unruly powers... or one of embracing the destructive powers fully.
+An Unleashed Mind's power is most often an innate force they struggle to understand or control, a reflection of their state of mind and mood projected onto the world around them, often to devastating results. The life of an Unleashed Psion is frequently their journey to control their unruly powers… or one of embracing the destructive powers fully.
 
 What the wellspring of their innate power is varies: they could be a psionic race, born under the influence of distant twisted powers, warped by fey blood, or a herald of something more sinister brushing against the material world. Sometimes their power will show itself in simple applications, but most often their power becomes known and feared when their temper flares.
 
-Their alignment frequently depends on the approach to their powers they have taken. An Unleashed Psion who emphasizes control and restraint, keeping their emotions from running wild and their powers from running rampant will most often be lawful, following strict personal codes. On the other hand, an Unleashed Psion who lets their power run rampant will almost always be chaotic in nature, acting on impulse... with great emphasis.
+Their alignment frequently depends on the approach to their powers they have taken. An Unleashed Psion who emphasizes control and restraint, keeping their emotions from running wild and their powers from running rampant will most often be lawful, following strict personal codes. On the other hand, an Unleashed Psion who lets their power run rampant will almost always be chaotic in nature, acting on impulse… with great emphasis.
 
 ### Unshackled Power (Level 1)
 

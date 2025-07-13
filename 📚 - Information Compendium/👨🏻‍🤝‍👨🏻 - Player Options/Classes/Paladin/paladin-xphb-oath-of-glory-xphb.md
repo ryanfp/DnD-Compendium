@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/paladin/glory
+tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/subclass/paladin/glory]
 aliases:
-- Oath of Glory
+  - Oath of Glory
+  - Oath of Glory
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Oath of Glory
+
 *[Paladin](./paladin-xphb.md): Paladin Subclass*  
 *Source: Player's Handbook (2024) p. 114*  
 
@@ -42,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Oath of Glory (Level 3)
@@ -70,6 +72,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 | 9th | [Haste](/3-Content/Compendiums/spells/haste-xphb.md), [Protection from Energy](/3-Content/Compendiums/spells/protection-from-energy-xphb.md) |
 | 13th | [Compulsion](/3-Content/Compendiums/spells/compulsion-xphb.md), [Freedom of Movement](/3-Content/Compendiums/spells/freedom-of-movement-xphb.md) |
 | 17th | [Legend Lore](/3-Content/Compendiums/spells/legend-lore-xphb.md), [Yolande's Regal Presence](/3-Content/Compendiums/spells/yolandes-regal-presence-xphb.md) |
+
 ^oath-of-glory-spells
 
 ### Inspiring Smite (Level 3)

@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/domain/arcana
-- ttrpg-cli/subclass/cleric/arcana
+tags: [ttrpg-cli/compendium/src/5e/scag, ttrpg-cli/domain/arcana, ttrpg-cli/subclass/cleric/arcana]
 aliases:
-- Arcana Domain
+  - Arcana Domain
+  - Arcana Domain
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Arcana Domain
+
 *[Cleric](./cleric-xphb.md): Cleric Subclass*  
 *Source: Sword Coast Adventurer's Guide p. 125*  
 
@@ -43,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
 
@@ -66,6 +67,7 @@ At each indicated cleric level, add the listed spells to your spells prepared. T
 | 5th | [dispel magic](/3-Content/Compendiums/spells/dispel-magic-xphb.md), [magic circle](/3-Content/Compendiums/spells/magic-circle-xphb.md) |
 | 7th | [arcane eye](/3-Content/Compendiums/spells/arcane-eye-xphb.md), [Leomund's secret chest](/3-Content/Compendiums/spells/leomunds-secret-chest-xphb.md) |
 | 9th | [planar binding](/3-Content/Compendiums/spells/planar-binding-xphb.md), [teleportation circle](/3-Content/Compendiums/spells/teleportation-circle-xphb.md) |
+
 ^arcana-domain-spells
 
 ### Arcane Initiate (Level 1)
@@ -84,13 +86,14 @@ After you reach 5th level, when a creature fails its saving throw against your A
 
 **Arcane Banishment**
 
-| Cleric level | Banishes Creatures of CR... |
+| Cleric level | Banishes Creatures of CR… |
 |--------------|-----------------------------|
 | 5th | 1/2 or lower |
 | 8th | 1 or lower |
 | 11th | 2 or lower |
 | 14th | 3 or lower |
 | 17th | 4 or lower |
+
 ^arcane-banishment
 
 ### Spell Breaker (Level 6)
@@ -102,6 +105,7 @@ Starting at 6th level, when you restore hit points to an ally with a spell of 1s
 Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
 
 ### Blessed Strikes (Level 8)
+
 _Source: Tasha's Cauldron of Everything p. 30_
 
 *8th-level cleric [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md), which replaces the Potent Spellcasting feature*

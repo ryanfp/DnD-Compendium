@@ -1,13 +1,16 @@
 
 console.log("Load start publish.js");
 
-// Disable default favicon and insert custom one
+/**************************************
+  Disable default favicon and insert custom one
+*************************************/
 document.querySelector("head > link[rel=icon]").href =
   "https://publish-01.obsidian.md/access/35d05cd1bf5cc500e11cc8ba57daaf88/favicon.ico";
 
 
-  /* Show Date and Time for Creation/Updating */
-
+/****************************************
+Show Date and Time for Creation/Updating
+****************************************/
 let id;
 
 function insertMetaData() {
@@ -32,7 +35,7 @@ function insertMetaData() {
     return;
   }
 
-  const urlElement = url ? `<a href="${url}" class="url">一次情報あり</a>` : "";
+  const urlElement = url ? `<a href="${url}" class="url">Test URL</a>` : "";
 
   frontmatterEl.insertAdjacentHTML(
     "afterend",
@@ -74,12 +77,15 @@ id = setInterval(insertMetaData, 50);
 
 
 
-// Switches the custom theme to DND
-
+/*********************************
+  Switches the custom theme to DND
+*********************************/
 document.body.addClass('dnd');
 
 
-/* Hide 'Obsidian Promos' on site */
+/*********************************
+Hide 'Obsidian Promos' on site
+**********************************/
 
 function setupGraphSettings() {
     if (app && app.graph && app.graph.renderer) {
@@ -93,6 +99,45 @@ function setupGraphSettings() {
 
 // Initial call to setupGraphSettings
 setupGraphSettings();
+
+/*********************************
+    CHANGE FILE NAME VIEW TO TITLES
+**********************************/
+function pwReplaceTitles() {
+    
+    const pageHeader = document.getElementsByClassName("page-header")[0];
+    const titleProperty = app.site.cache.cache[app.currentFilepath].frontmatter["title"];
+    const doNotUseTitle = document.getElementsByClassName("pws-title-noproperty")[0];
+    const firstHeading = document.querySelectorAll(".pws-title-promote-h1 h1")[0];
+    
+    if (firstHeading) {
+        document.title = firstHeading.innerText;
+        pageHeader.innerText = firstHeading.innerText;
+        firstHeading.style.display = 'none';
+    } else if (titleProperty && !doNotUseTitle) {
+        document.title = titleProperty;
+        pageHeader.innerText = titleProperty;
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* TAG ELEMENT DISPLAY
 let id;

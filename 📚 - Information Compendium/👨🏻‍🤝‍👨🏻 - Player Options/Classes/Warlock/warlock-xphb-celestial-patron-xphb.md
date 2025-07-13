@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/warlock/celestial
+tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/subclass/warlock/celestial]
 aliases:
-- Celestial Patron
+  - Celestial Patron
+  - Celestial Patron
+created: 2025/06/15 at 15:38
+updated: 2025/07/13 at 00:17
 ---
+
 # Celestial Patron
+
 *[Warlock](./warlock-xphb.md): Warlock Subclass*  
 *Source: Player's Handbook (2024) p. 160*  
 
@@ -42,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Celestial Patron (Level 3)
@@ -63,6 +65,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 | 5 | [Daylight](/3-Content/Compendiums/spells/daylight-xphb.md), [Revivify](/3-Content/Compendiums/spells/revivify-xphb.md) |
 | 7 | [Guardian of Faith](/3-Content/Compendiums/spells/guardian-of-faith-xphb.md), [Wall of Fire](/3-Content/Compendiums/spells/wall-of-fire-xphb.md) |
 | 9 | [Greater Restoration](/3-Content/Compendiums/spells/greater-restoration-xphb.md), [Summon Celestial](/3-Content/Compendiums/spells/summon-celestial-xphb.md) |
+
 ^celestial-spells
 
 ### Healing Light (Level 3)

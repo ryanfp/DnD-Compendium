@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/ultimateadventurer
-  - ttrpg-cli/subclass/pugilist/dog-hound
+tags: [ttrpg-cli/compendium/src/5e/ultimateadventurer, ttrpg-cli/subclass/pugilist/dog-hound]
 aliases:
   - Dog & Hound
-title: Dog & Hound
+created: 2025/06/13 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # Dog & Hound
+
 *[Pugilist](Pugilist.md): Fight Club*  
 *Source: The Ultimate Adventurer's Handbook p. 199*  
 
@@ -42,7 +43,6 @@ title: Dog & Hound
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

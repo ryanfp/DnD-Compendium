@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/subclass/fighter/battle-master
+tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/subclass/fighter/battle-master]
 aliases:
-- Battle Master
+  - Battle Master
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Battle Master
+
 *[Fighter](Fighter.md): Martial Archetype*  
 *Source: Player's Handbook p. 73*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 
@@ -97,6 +98,7 @@ The maneuvers are presented in alphabetical order.
 - [Trip Attack](/3-Content/Compendiums/optional-features/trip-attack-xphb.md)  
 
 ### Maneuver Options (Level 3)
+
 _Source: Tasha's Cauldron of Everything p. 41_
 
 *3rd-level fighter [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md)*

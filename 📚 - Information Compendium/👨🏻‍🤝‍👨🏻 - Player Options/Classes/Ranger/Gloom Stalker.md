@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/xge
-- subclass/ranger/gloom-stalker
+tags: [compendium/src/5e/xge, subclass/ranger/gloom-stalker]
 aliases:
-- Gloom Stalker
+  - Gloom Stalker
+created: 2025/06/15 at 22:27
+updated: 2025/07/13 at 00:17
 ---
+
 # Gloom Stalker
+
 *[Ranger](Ranger.md): Ranger Archetype*  
 *Source: Xanathar's Guide to Everything p. 41*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 > [!quote] A quote from Xanathar  
 > 
 > So you sneak around in the dark? You know most everything but humans can see in the dark, right? We all see you. Tiptoeing doesn't turn you [invisible](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Invisible).
@@ -66,6 +67,7 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 | 9th | [fear](/📚%20-%20Information%20Compendium/spells/fear.md) |
 | 13th | [greater invisibility](/📚%20-%20Information%20Compendium/spells/greater-invisibility.md) |
 | 17th | [seeming](/📚%20-%20Information%20Compendium/spells/seeming.md) |
+
 ^gloom-stalker-spells
 
 ### Dread Ambusher (Level 3)

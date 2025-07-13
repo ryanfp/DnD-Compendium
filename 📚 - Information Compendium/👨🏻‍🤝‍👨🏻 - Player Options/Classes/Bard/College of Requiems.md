@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/ghpg
-- ttrpg-cli/subclass/bard/requiems
+tags: [ttrpg-cli/compendium/src/5e/ghpg, ttrpg-cli/subclass/bard/requiems]
 aliases:
-- College of Requiems
+  - College of Requiems
+created: 2025/06/15 at 15:34
+updated: 2025/07/13 at 00:17
 ---
+
 # College of Requiems
+
 *[Bard](Bard.md): Bard College*  
 *Source: Grim Hollow: The Player's Guide*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

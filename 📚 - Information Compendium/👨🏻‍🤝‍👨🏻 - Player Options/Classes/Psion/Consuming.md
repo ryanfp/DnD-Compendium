@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/ktp
-  - ttrpg-cli/subclass/psion/consuming
+tags: [ttrpg-cli/compendium/src/5e/ktp, ttrpg-cli/subclass/psion/consuming]
 aliases:
   - Consuming
-title: Consuming
+created: 2025/06/13 at 22:29
+updated: 2025/07/13 at 00:17
 ---
+
 # Consuming
+
 *[Psion](Psion.md): Psionic Archetype*  
 *Source: KibblesTasty: Psion*  
 
@@ -43,12 +44,11 @@ title: Consuming
 
 ^class-progression
 
-
 ## Class Features
 
 ### Consuming Mind (Level 1)
 
-A Consuming Mind is a master of a dangerous branch of psionics, born from the ability to sap energy from other creatures. This power can tear away thoughts, minds, and ultimately vitality for the psion's own consumption. A feared branch of psionics, it is sometimes believed to be one of the primeval roots of all psionic power, as it can be found among mind-eating monsters and ancient psionic space whales... which might have other names in various settings.
+A Consuming Mind is a master of a dangerous branch of psionics, born from the ability to sap energy from other creatures. This power can tear away thoughts, minds, and ultimately vitality for the psion's own consumption. A feared branch of psionics, it is sometimes believed to be one of the primeval roots of all psionic power, as it can be found among mind-eating monsters and ancient psionic space whales… which might have other names in various settings.
 
 It has been refined by those that seek greater power either from ambition or desperation, and unlocks a terrible but effective path. One example of mortal creatures walking this path is the houses of dark elves, who developed their dark powers from their study of feral vampiric brain eating monsters.
 

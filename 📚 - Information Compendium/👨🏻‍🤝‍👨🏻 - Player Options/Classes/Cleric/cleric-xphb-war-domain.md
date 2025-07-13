@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/domain/war
-- ttrpg-cli/subclass/cleric/war
+tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/domain/war, ttrpg-cli/subclass/cleric/war]
 aliases:
-- War Domain
+  - War Domain
+  - War Domain
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # War Domain
+
 *[Cleric](./cleric-xphb.md): Cleric Subclass*  
 *Source: Player's Handbook p. 63*  
 
@@ -43,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
 
@@ -64,6 +65,7 @@ At each indicated cleric level, add the listed spells to your spells prepared.
 | 5th | [crusader's mantle](/3-Content/Compendiums/spells/crusaders-mantle-xphb.md), [spirit guardians](/3-Content/Compendiums/spells/spirit-guardians-xphb.md) |
 | 7th | [freedom of movement](/3-Content/Compendiums/spells/freedom-of-movement-xphb.md), [stoneskin](/3-Content/Compendiums/spells/stoneskin-xphb.md) |
 | 9th | [flame strike](/3-Content/Compendiums/spells/flame-strike-xphb.md), [hold monster](/3-Content/Compendiums/spells/hold-monster-xphb.md) |
+
 ^war-domain-spells
 
 ### Bonus Proficiencies (Level 1)
@@ -87,6 +89,7 @@ At 6th level, when a creature within 30 feet of you makes an attack roll, you ca
 At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `d8` damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to `2d8`.
 
 ### Blessed Strikes (Level 8)
+
 _Source: Tasha's Cauldron of Everything p. 30_
 
 *8th-level cleric [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*

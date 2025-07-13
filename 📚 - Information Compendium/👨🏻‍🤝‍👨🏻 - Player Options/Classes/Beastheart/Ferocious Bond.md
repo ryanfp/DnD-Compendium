@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/bst
-- ttrpg-cli/subclass/beastheart/ferocious
+tags: [ttrpg-cli/compendium/src/5e/bst, ttrpg-cli/subclass/beastheart/ferocious]
 aliases:
-- Ferocious Bond
+  - Ferocious Bond
+created: 2025/06/13 at 22:26
+updated: 2025/07/13 at 00:17
 ---
+
 # Ferocious Bond
+
 *[Beastheart](Beastheart.md): Companion Bonds*  
 *Source: Beastheart and Monstrous Companions*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Ferocious Bond (Level 3)
@@ -65,6 +66,7 @@ Also at 3rd level, your experience with your companion's rage awes those who dar
 | 7th | Energizing Rampage |
 | 11th | Furious Rampage |
 | 15th | Invigorated Rampage |
+
 ^ferocious-bond-features
 
 ### Energizing Rampage (Level 7)

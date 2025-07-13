@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/sorcerer/aberrant
+tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/subclass/sorcerer/aberrant]
 aliases:
-- Aberrant Sorcery
+  - Aberrant Sorcery
+  - Aberrant Sorcery
+created: 2025/06/15 at 15:37
+updated: 2025/07/13 at 00:17
 ---
+
 # Aberrant Sorcery
+
 *[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass*  
 *Source: Player's Handbook (2024) p. 145*  
 
@@ -42,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Aberrant Sorcery (Level 3)
@@ -65,6 +67,7 @@ When you reach a Sorcerer level specified in the Psionic Spells table, you there
 | 5th | [Hunger of Hadar](/3-Content/Compendiums/spells/hunger-of-hadar-xphb.md), [Sending](/3-Content/Compendiums/spells/sending-xphb.md) |
 | 7th | [Evard's Black Tentacles](/3-Content/Compendiums/spells/evards-black-tentacles-xphb.md), [Summon Aberration](/3-Content/Compendiums/spells/summon-aberration-xphb.md) |
 | 9th | [Rary's Telepathic Bond](/3-Content/Compendiums/spells/rarys-telepathic-bond-xphb.md), [Telekinesis](/3-Content/Compendiums/spells/telekinesis-xphb.md) |
+
 ^psionic-spells
 
 ### Telepathic Speech (Level 3)

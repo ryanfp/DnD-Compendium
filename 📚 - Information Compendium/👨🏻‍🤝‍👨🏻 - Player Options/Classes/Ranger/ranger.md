@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/ranger
-- ttrpg-cli/compendium/src/5e/phb
+tags: [ttrpg-cli/class/ranger, ttrpg-cli/compendium/src/5e/phb]
 aliases:
-- Ranger
+  - Ranger
+created: 2025/06/15 at 15:37
+updated: 2025/07/13 at 00:17
 ---
+
 # Ranger
+
 *Source: Player's Handbook p. 89. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d10 per Ranger level
 - **Hit Points at First Level:** 10 + CON
-- **Hit Points at Higher Levels:** add 6 OR 1d10 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 6 OR 1d10 + CON (minimum of 1)
 
 ## Starting Ranger
 
@@ -121,6 +123,7 @@ If you're creating or playing a ranger character, the following sections offer i
 > I'm a monster. Are you going to try to kill me? Didn't think so. Go kill some goblins or something. On second thought, goblins aren't monsters - they're people. So maybe you should call yourself a people killer.
 
 ## View of the World
+
 _Source: Xanathar's Guide to Everything_
 
 A ranger's view of the world begins (and sometimes ends) with that character's outlook toward civilized folk and the places they occupy. Some rangers have an attitude toward civilization that's deeply rooted in disdain, while others pity the people they have sworn to protect—though on the battlefield, it's impossible to tell the difference between one ranger and another. Indeed, to those who have seen them operate and been the beneficiaries of their prowess, it scarcely matters why rangers do what they do. That said, no two rangers are likely to express their opinions on any matter in the same way.
@@ -139,9 +142,11 @@ If you haven't yet thought about the details of your character's worldview, cons
 | 4 | Walls are for cowards, who huddle behind them while others do the work of making the world safe. |
 | 5 | Visiting a town is not unpleasant, but after a few days I feel the irresistible call to return to the wild. |
 | 6 | Cities breed weakness by isolating folk from the harsh lessons of the wild. |
+
 ^view-of-the-world
 
 ## Homelands
+
 _Source: Xanathar's Guide to Everything_
 
 All rangers, regardless of how they came to take up the profession, have a strong connection to the natural world and its various terrains. For some rangers, the wilderness is where they grew up, either as a result of being born there or moving there at a young age. For other rangers, civilization was originally home, but the wilderness became a second homeland.
@@ -160,9 +165,11 @@ Think of your character's backstory and decide what terrain feels most like home
 | 4 | You dwelled on the edge of a swamp, in an area imperiled by land creatures as well as aquatic ones. |
 | 5 | Because you grew up among the peaks, finding the best path through the mountains is second nature to you. |
 | 6 | You wandered the far north, learning how to protect yourself and prosper in a realm overrun by ice. |
+
 ^homelands
 
 ## Sworn Enemy
+
 _Source: Xanathar's Guide to Everything_
 
 Every ranger begins with a favored enemy (or two). The determination of a favored enemy might be tied to a specific event in the character's early life, or it might be entirely a matter of choice.
@@ -181,6 +188,7 @@ What spurred your character to select a particular enemy? Was the choice made be
 | 4 | You find your foe fascinating, and you collect books of tales and history concerning it. |
 | 5 | You collect tokens of your fallen enemies to remind you of each kill. |
 | 6 | You respect your chosen enemy, and you see your battles as a test of respective skills. |
+
 ^sworn-enemies
 
 ## Class Features
@@ -198,6 +206,7 @@ When you gain this feature, you also learn one language of your choice that is s
 You choose one additional favored enemy, as well as an associated language, at 6th and 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on your adventures.
 
 ### Favored Foe (Level 1)
+
 _Source: Tasha's Cauldron of Everything p. 56_
 
 *1st-level ranger [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md), which replaces the Favored Enemy feature and works with the Foe Slayer feature*
@@ -226,6 +235,7 @@ While traveling for an hour or more in your favored terrain, you gain the follow
 You choose additional favored terrain types at 6th and 10th level.
 
 ### Deft Explorer (Level 1)
+
 _Source: Tasha's Cauldron of Everything p. 56_
 
 *1st-level ranger [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md), which replaces the Natural Explorer feature*
@@ -274,6 +284,7 @@ Wisdom is your spellcasting ability for your ranger spells, since your magic dra
 <span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Wisdom</span>
 
 ### Spellcasting Focus (Level 2)
+
 _Source: Tasha's Cauldron of Everything p. 56_
 
 *2nd-level ranger [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md)*
@@ -289,6 +300,7 @@ At 3rd level, you choose an archetype that you strive to emulate from the list o
 Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn't reveal the creatures' location or number.
 
 ### Primal Awareness (Level 3)
+
 _Source: Tasha's Cauldron of Everything p. 56_
 
 *3rd-level ranger [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md), which replaces the Primeval Awareness feature*
@@ -304,6 +316,7 @@ You can focus your awareness through the interconnections of nature: you learn a
 | 9th | [speak with plants](/3-Content/Compendiums/spells/speak-with-plants-xphb.md) |
 | 13th | [locate creature](/3-Content/Compendiums/spells/locate-creature-xphb.md) |
 | 17th | [commune with nature](/3-Content/Compendiums/spells/commune-with-nature-xphb.md) |
+
 ^primal-awareness-spells
 
 You can cast each of these spells once without expending a spell slot. Once you cast a spell in this way, you can't do so again until you finish a long rest.
@@ -315,6 +328,7 @@ When you reach 4th level, you can increase one ability score of your choice by 2
 If your DM allows the use of feats, you may instead take a feat.
 
 ### Martial Versatility (Level 4)
+
 _Source: Tasha's Cauldron of Everything p. 56_
 
 *4th-level ranger [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md)*
@@ -325,13 +339,14 @@ Whenever you reach a level in this class that grants the Ability Score Improveme
 
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](/3-Content/Rules/actions.md#Attack) action on your turn.
 
-### Favored Enemy and Natural Explorer improvements (Level 6)
+### Favored Enemy and Natural Explorer Improvements (Level 6)
 
 At 6th level, you gain an additional favored terrain.
 
 At 6th level, you choose one additional favored enemy, as well as an associated language. Your choice should reflect the types of monsters you have encountered on your adventures.
 
 ### Deft Explorer Improvement (Level 6)
+
 _Source: Tasha's Cauldron of Everything p. 56_
 
 You gain an additional benefit when you reach 6th level in this class.
@@ -340,7 +355,7 @@ You gain an additional benefit when you reach 6th level in this class.
 
 Your walking speed increases by 5, and you gain a climbing speed and a swimming speed equal to your walking speed.
 
-### Ranger Archetype feature (Level 7)
+### Ranger Archetype Feature (Level 7)
 
 At 7th level, you gain a feature granted to you by your Ranger Archetype.
 
@@ -363,6 +378,7 @@ Starting at 10th level, you can spend 1 minute creating camouflage for yourself.
 Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are. You gain a +10 bonus to Dexterity ([Stealth](/3-Content/Rules/skills.md#Stealth)) checks as long as you remain there without moving or taking actions. Once you move or take an action or a reaction, you must camouflage yourself again to gain this benefit.
 
 ### Nature's Veil (Level 10)
+
 _Source: Tasha's Cauldron of Everything p. 56_
 
 *10th-level ranger [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md), which replaces the Hide in Plain Sight feature*
@@ -371,11 +387,12 @@ You draw on the powers of nature to hide yourself from view briefly. As a bonus 
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-### Natural Explorer improvement (Level 10)
+### Natural Explorer Improvement (Level 10)
 
 You gain an additional favored terrain.
 
 ### Deft Explorer Improvement (Level 10)
+
 _Source: Tasha's Cauldron of Everything p. 56_
 
 You gain an additional benefit when you reach 10th level in this class.
@@ -386,7 +403,7 @@ As an action, you can give yourself a number of temporary hit points equal to `d
 
 In addition, whenever you finish a short rest, your [exhaustion](/3-Content/Rules/conditions.md#Exhaustion) level, if any, is decreased by 1.
 
-### Ranger Archetype feature (Level 11)
+### Ranger Archetype Feature (Level 11)
 
 At 11th level, you gain a feature granted to you by your Ranger Archetype.
 
@@ -400,11 +417,11 @@ If your DM allows the use of feats, you may instead take a feat.
 
 Starting at 14th level, you can use the [Hide](/3-Content/Rules/actions.md#Hide) action as a bonus action on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail.
 
-### Favored Enemy improvement (Level 14)
+### Favored Enemy Improvement (Level 14)
 
 At 14th level, you choose one additional favored enemy, as well as an associated language. Your choice should reflect the types of monsters you have encountered on your adventures.
 
-### Ranger Archetype feature (Level 15)
+### Ranger Archetype Feature (Level 15)
 
 At 15th level, you gain a feature granted to you by your Ranger Archetype.
 

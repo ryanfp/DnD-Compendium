@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/druid/moon
+tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/subclass/druid/moon]
 aliases:
-- Circle of the Moon
+  - Circle of the Moon
+  - Circle of the Moon
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Circle of the Moon
+
 *[Druid](./druid-xphb.md): Druid Subclass*  
 *Source: Player's Handbook (2024) p. 86*  
 
@@ -42,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Circle of the Moon (Level 3)
@@ -67,6 +69,7 @@ In addition, you can cast the spells from this feature while you're in a Wild Sh
 | 5 | [Conjure Animals](/3-Content/Compendiums/spells/conjure-animals-xphb.md) |
 | 7 | [Fount of Moonlight](/3-Content/Compendiums/spells/fount-of-moonlight-xphb.md) |
 | 9 | [Mass Cure Wounds](/3-Content/Compendiums/spells/mass-cure-wounds-xphb.md) |
+
 ^circle-of-the-moon-spells
 
 ### Circle Forms (Level 3)

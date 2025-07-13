@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/sorcerer/aberrant-mind
+tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/sorcerer/aberrant-mind]
 aliases:
-- Aberrant Mind
+  - Aberrant Mind
+created: 2025/06/15 at 15:37
+updated: 2025/07/13 at 00:17
 ---
+
 # Aberrant Mind
+
 *[Sorcerer](Sorcerer.md): Sorcerous Origin*  
 *Source: Tasha's Cauldron of Everything p. 66*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Aberrant Mind (Level 1)
@@ -63,6 +64,7 @@ As an Aberrant Mind sorcerer, you decide how you acquired your powers. Were you 
 | 4 | You were implanted with a mind flayer tadpole, but the ceremorphosis never completed. And now its psionic power is yours. When you use it, your flesh shines with a strange mucus. |
 | 5 | As a child, you had an imaginary friend that looked like a flumph or a strange platypus-like creature. One day, it gifted you with psionic powers, which have ended up being not so imaginary. |
 | 6 | Your nightmares whisper the truth to you: your psionic powers are not your own. You draw them from your parasitic twin! |
+
 ^aberrant-origins
 
 ### Psionic Spells (Level 1)
@@ -82,6 +84,7 @@ Whenever you gain a sorcerer level, you can replace one spell you gained from th
 | 5th | [hunger of Hadar](/3-Content/Compendiums/spells/hunger-of-hadar-xphb.md), [sending](/3-Content/Compendiums/spells/sending-xphb.md) |
 | 7th | [Evard's black tentacles](/3-Content/Compendiums/spells/evards-black-tentacles-xphb.md), [summon aberration](/3-Content/Compendiums/spells/summon-aberration-xphb.md) |
 | 9th | [Rary's telepathic bond](/3-Content/Compendiums/spells/rarys-telepathic-bond-xphb.md), [telekinesis](/3-Content/Compendiums/spells/telekinesis-xphb.md) |
+
 ^psionic-spells
 
 ### Telepathic Speech (Level 1)

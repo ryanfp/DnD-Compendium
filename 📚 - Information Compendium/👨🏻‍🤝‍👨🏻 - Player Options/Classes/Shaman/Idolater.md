@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/llsh:e
-  - ttrpg-cli/subclass/shaman/idolater
+tags: [ttrpg-cli/compendium/src/5e/llsh:e, ttrpg-cli/subclass/shaman/idolater]
 aliases:
   - Idolater
-title: Idolater
+created: 2025/06/13 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # Idolater
+
 *[Shaman](Shaman.md): Spirituality*  
 *Source: Shaman Expanded p. 8*  
 
@@ -43,7 +44,6 @@ title: Idolater
 
 ^class-progression
 
-
 ## Class Features
 
 ### Idolater (Level 2)
@@ -51,6 +51,7 @@ title: Idolater
 Since the dawn of time mortal Shamans have used the magic of idolatry to force powerful Spirits to carry out their bidding. Using ancient magic, they bind spiritual entities within Idols, and once bound, focus their spiritual power on friend and foe.
 
 #### Idolater Spells
+
 _Source: Shaman Expanded_
 
 *2nd-level Idolater feature*
@@ -66,6 +67,7 @@ You always have certain spells prepared at the Shaman levels in the table below.
 | 5th | [beacon of hope](/3-Content/Compendiums/spells/beacon-of-hope-xphb.md), [sleet storm](/3-Content/Compendiums/spells/sleet-storm-xphb.md) |
 | 7th | [aura of life](/3-Content/Compendiums/spells/aura-of-life-xphb.md), [summon construct (stone)](/3-Content/Compendiums/spells/summon-construct-xphb.md) |
 | 9th | [antilife shell](/3-Content/Compendiums/spells/antilife-shell-xphb.md), control winds |
+
 ^idolater-spells
 
 ### Totemic Idol (Level 2)

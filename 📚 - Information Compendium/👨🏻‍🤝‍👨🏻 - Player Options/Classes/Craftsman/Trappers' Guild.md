@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/craftsman/trappers
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/craftsman/trappers]
 aliases:
-  - Trappers' Guild
-title: Trappers' Guild
+  - "Trappers' Guild"
+created: 2025/06/13 at 22:27
+updated: 2025/07/13 at 00:17
 ---
+
 # Trappers' Guild
+
 *[Craftsman](Craftsman.md): Artisan's Guild*  
 *Source: Valda's Spire of Secrets*  
 
@@ -42,7 +43,6 @@ title: Trappers' Guild
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 
@@ -88,12 +88,14 @@ When you hit a Large or smaller creature with this weapon's projectile, it also 
 > # Name
 > ![[insert_image_here|cover hsmall]]
 > ###### Stats
+>
 > | Type | Stat |
 > | ---- | ---- |
 > | Test | Testing |
 > | Test | Testing |
-> 
+>
 > ##### Stats 2
+>
 > | Type | Stat |
 > | ---- | ---- |
 > | Test | Testing |

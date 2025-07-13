@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/llsh
-  - ttrpg-cli/subclass/shaman/wild-heart
+tags: [ttrpg-cli/compendium/src/5e/llsh, ttrpg-cli/subclass/shaman/wild-heart]
 aliases:
   - Wild Heart
-title: Wild Heart
+created: 2025/06/13 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # Wild Heart
+
 *[Shaman](Shaman.md): Spirituality*  
 *Source: The Shaman p. 7*  
 
@@ -43,7 +44,6 @@ title: Wild Heart
 
 ^class-progression
 
-
 ## Class Features
 
 ### Wild Heart (Level 2)
@@ -65,6 +65,7 @@ You always have certain spells prepared at the Shaman levels in the table below.
 | 5th | [conjure animals](/3-Content/Compendiums/spells/conjure-animals-xphb.md), [fear](/3-Content/Compendiums/spells/fear-xphb.md) |
 | 7th | [dominate beast](/3-Content/Compendiums/spells/dominate-beast-xphb.md), [freedom of movement](/3-Content/Compendiums/spells/freedom-of-movement-xphb.md) |
 | 9th | [hold monster](/3-Content/Compendiums/spells/hold-monster-xphb.md), [tree stride](/3-Content/Compendiums/spells/tree-stride-xphb.md) |
+
 ^wild-heart-spells
 
 ### Bestial Adaptation (Level 2)

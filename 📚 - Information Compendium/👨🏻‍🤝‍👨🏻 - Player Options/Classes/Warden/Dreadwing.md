@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/kt-cll
-  - ttrpg-cli/subclass/warden/dreadwing
+tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/warden/dreadwing]
 aliases:
   - Dreadwing
-title: Dreadwing
+created: 2025/06/13 at 22:33
+updated: 2025/07/13 at 00:17
 ---
+
 # Dreadwing
+
 *[Warden](Warden.md): Warden Bond*  
 *Source: Kibbles' Compendium of Legends and Legacies p. 74*  
 
@@ -43,7 +44,6 @@ title: Dreadwing
 
 ^class-progression
 
-
 ## Class Features
 
 ### Bond of the Dreadwing (Level 1)
@@ -75,6 +75,7 @@ You gain the following spells at the listed levels, and can cast each spell once
 | 9th | fly |
 | 13th | fear |
 | 17th | secret chest |
+
 ^warden-level-innate-spells-1-long-rest-each
 
 ### Intimidating Interdiction (Level 3)

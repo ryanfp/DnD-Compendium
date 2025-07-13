@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/gunslinger/gun-tank
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/gunslinger/gun-tank]
 aliases:
+  - Gun Tank Creed
   - Gun Tank
-title: Gun Tank Creed
+created: 2025/06/13 at 22:27
+updated: 2025/07/13 at 00:17
 ---
+
 # Gun Tank Creed
+
 *[Gunslinger](Gunslinger.md): Gunslinger's Creed*  
 *Source: Valda's Spire of Secrets*  
 
@@ -42,7 +44,6 @@ title: Gun Tank Creed
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

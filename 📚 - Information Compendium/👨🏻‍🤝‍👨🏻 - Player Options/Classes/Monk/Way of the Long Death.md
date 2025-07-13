@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/subclass/monk/long-death
+tags: [ttrpg-cli/compendium/src/5e/scag, ttrpg-cli/subclass/monk/long-death]
 aliases:
-- Way of the Long Death
+  - Way of the Long Death
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Way of the Long Death
+
 *[Monk](Monk.md): Monastic Tradition*  
 *Source: Sword Coast Adventurer's Guide p. 130*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

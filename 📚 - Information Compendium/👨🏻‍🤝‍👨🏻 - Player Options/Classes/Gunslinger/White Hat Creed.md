@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/gunslinger/white-hat
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/gunslinger/white-hat]
 aliases:
+  - White Hat Creed
   - White Hat
-title: White Hat Creed
+created: 2025/06/13 at 22:27
+updated: 2025/07/13 at 00:17
 ---
+
 # White Hat Creed
+
 *[Gunslinger](Gunslinger.md): Gunslinger's Creed*  
 *Source: Valda's Spire of Secrets*  
 
@@ -42,7 +44,6 @@ title: White Hat Creed
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 
@@ -80,4 +81,4 @@ At 14th level, your capacity for heroism increases. Your features from this arch
 
 - While a creature has temporary hit points granted by your Lay Down the Law feature, it has resistance to bludgeoning, piercing, and slashing damage.  
 - The range of your Steely-Eyed Aura feature increases to 30 feet.  
--  You regain the use of your Reach for the Skies feature when you finish a short or long rest.
+- You regain the use of your Reach for the Skies feature when you finish a short or long rest.

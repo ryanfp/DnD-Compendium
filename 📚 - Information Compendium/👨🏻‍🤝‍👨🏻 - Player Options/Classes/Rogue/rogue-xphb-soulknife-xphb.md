@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/rogue/soulknife
+tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/subclass/rogue/soulknife]
 aliases:
-- Soulknife
+  - Soulknife
+  - Soulknife
+created: 2025/06/15 at 15:37
+updated: 2025/07/13 at 00:17
 ---
+
 # Soulknife
+
 *[Rogue](./rogue-xphb.md): Rogue Subclass*  
 *Source: Player's Handbook (2024) p. 135*  
 
@@ -42,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Soulknife (Level 3)
@@ -65,6 +67,7 @@ You harbor a wellspring of psionic energy within yourself. It is represented by 
 | 11 | `D10` | 8 |
 | 13 | `D10` | 10 |
 | 17 | `D12` | 12 |
+
 ^soulknife-energy-dice
 
 Any features in this subclass that use a Psionic Energy Die use only the dice from this subclass. Some of your powers expend a Psionic Energy Die, as specified in a power's description, and you can't use a power if it requires you to use a die when your Psionic Energy Dice are all expended.

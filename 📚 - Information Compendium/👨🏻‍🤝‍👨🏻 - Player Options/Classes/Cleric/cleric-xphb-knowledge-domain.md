@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/domain/knowledge
-- ttrpg-cli/subclass/cleric/knowledge
+tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/domain/knowledge, ttrpg-cli/subclass/cleric/knowledge]
 aliases:
-- Knowledge Domain
+  - Knowledge Domain
+  - Knowledge Domain
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Knowledge Domain
+
 *[Cleric](./cleric-xphb.md): Cleric Subclass*  
 *Source: Player's Handbook p. 59*  
 
@@ -43,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
 
@@ -64,6 +65,7 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 | 5th | [nondetection](/3-Content/Compendiums/spells/nondetection-xphb.md), [speak with dead](/3-Content/Compendiums/spells/speak-with-dead-xphb.md) |
 | 7th | [arcane eye](/3-Content/Compendiums/spells/arcane-eye-xphb.md), [confusion](/3-Content/Compendiums/spells/confusion-xphb.md) |
 | 9th | [legend lore](/3-Content/Compendiums/spells/legend-lore-xphb.md), [scrying](/3-Content/Compendiums/spells/scrying-xphb.md) |
+
 ^knowledge-domain-spells
 
 ### Blessings of Knowledge (Level 1)
@@ -91,6 +93,7 @@ During that time, you can use your action to end this effect and cast the [sugge
 Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
 
 ### Blessed Strikes (Level 8)
+
 _Source: Tasha's Cauldron of Everything p. 30_
 
 *8th-level cleric [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md), which replaces the Potent Spellcasting feature*
@@ -104,11 +107,13 @@ Starting at 17th level, you can call up visions of the past that relate to an ob
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
 #### Object Reading
+
 _Source: Player's Handbook_
 
 Holding an object as you meditate, you can see visions of the object's previous owner. After meditating for 1 minute, you learn how the owner acquired and lost the object, as well as the most recent significant event involving the object and that owner. If the object was owned by another creature in the recent past (within a number of days equal to your Wisdom score), you can spend 1 additional minute for each owner to learn the same information about that creature.
 
 #### Area Reading
+
 _Source: Player's Handbook_
 
 As you meditate, you see visions of recent events in your immediate vicinity (a room, street, tunnel, clearing, or the like, up to a 50-foot cube), going back a number of days equal to your Wisdom score. For each minute you meditate, you learn about one significant event, beginning with the most recent. Significant events typically involve powerful emotions, such as battles and betrayals, marriages and murders, births and funerals. However, they might also include more mundane events that are nevertheless important in your current situation.

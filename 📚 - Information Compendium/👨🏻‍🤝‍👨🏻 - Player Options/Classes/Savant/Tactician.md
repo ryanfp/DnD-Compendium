@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/llsav
-  - ttrpg-cli/subclass/savant/tactician
+tags: [ttrpg-cli/compendium/src/5e/llsav, ttrpg-cli/subclass/savant/tactician]
 aliases:
   - Tactician
-title: Tactician
+created: 2025/06/13 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # Tactician
+
 *[Savant](Savant.md): Academic Disciplines*  
 *Source: Savant*  
 
@@ -42,7 +43,6 @@ title: Tactician
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

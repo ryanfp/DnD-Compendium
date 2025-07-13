@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/xge
-- subclass/ranger/monster-slayer
+tags: [compendium/src/5e/xge, subclass/ranger/monster-slayer]
 aliases:
-- Monster Slayer
+  - Monster Slayer
+created: 2025/06/15 at 22:27
+updated: 2025/07/13 at 00:17
 ---
+
 # Monster Slayer
+
 *[Ranger](Ranger.md): Ranger Archetype*  
 *Source: Xanathar's Guide to Everything p. 43*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Monster Slayer (Level 3)
@@ -62,6 +63,7 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 | 9th | [magic circle](/📚%20-%20Information%20Compendium/spells/magic-circle.md) |
 | 13th | [banishment](/📚%20-%20Information%20Compendium/spells/banishment.md) |
 | 17th | [hold monster](/📚%20-%20Information%20Compendium/spells/hold-monster.md) |
+
 ^monster-slayer-spells
 
 ### Hunter's Sense (Level 3)

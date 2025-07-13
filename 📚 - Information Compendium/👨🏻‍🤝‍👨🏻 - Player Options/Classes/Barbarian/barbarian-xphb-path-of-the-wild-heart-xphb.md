@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/xphb
-- subclass/barbarian/wild-heart
+tags: [compendium/src/5e/xphb, subclass/barbarian/wild-heart]
 aliases:
-- Path of the Wild Heart
+  - Path of the Wild Heart
+  - Path of the Wild Heart
+created: 2025/06/15 at 22:21
+updated: 2025/07/13 at 00:17
 ---
+
 # Path of the Wild Heart
+
 *[Barbarian](./barbarian-xphb.md): Barbarian Subclass*  
 *Source: Player's Handbook (2024) p. 55*  
 
@@ -41,7 +44,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

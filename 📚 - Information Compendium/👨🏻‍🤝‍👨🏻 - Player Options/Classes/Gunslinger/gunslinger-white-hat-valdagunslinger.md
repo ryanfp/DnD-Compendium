@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/valdagunslinger
-- subclass/gunslinger/white-hat
+tags: [compendium/src/5e/valdagunslinger, subclass/gunslinger/white-hat]
 aliases:
-- White Hat
+  - White Hat
+  - White Hat
+created: 2025/06/15 at 22:24
+updated: 2025/07/13 at 00:17
 ---
+
 # White Hat
+
 *[Gunslinger](./gunslinger-valdagunslinger.md): Subclass Feature*  
 *Source: The Gunslinger Class: Valda's Spire of Secrets*  
 
@@ -41,7 +44,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

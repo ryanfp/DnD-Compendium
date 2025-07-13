@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/xphb
-- subclass/bard/lore
+tags: [compendium/src/5e/xphb, subclass/bard/lore]
 aliases:
-- College of Lore
+  - College of Lore
+  - College of Lore
+created: 2025/06/15 at 22:22
+updated: 2025/07/13 at 00:17
 ---
+
 # College of Lore
+
 *[Bard](./bard-xphb.md): Bard Subclass*  
 *Source: Player's Handbook (2024) p. 66. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
@@ -41,7 +44,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

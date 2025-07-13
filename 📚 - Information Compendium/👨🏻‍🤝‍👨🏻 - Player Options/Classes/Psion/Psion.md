@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/psion
-- ttrpg-cli/compendium/src/5e/ktp
+tags: [ttrpg-cli/class/psion, ttrpg-cli/compendium/src/5e/ktp]
 aliases:
-- Psion
+  - Psion
+created: 2025/06/13 at 22:29
+updated: 2025/07/13 at 00:17
 ---
+
 # Psion
+
 *Source: KibblesTasty: Psion p. 1*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d6 per Psion level
 - **Hit Points at First Level:** 6 + CON
-- **Hit Points at Higher Levels:** add 4 OR 1d6 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 4 OR 1d6 + CON (minimum of 1)
 
 ## Starting Psion
 
@@ -138,7 +140,7 @@ When you reach 11th level, you gain mastery of your psionic powers. At the start
 
 At 17th level, this is increased to 3. Temporary psi points can be split between different abilities.
 
-### Innate Psionics (6th level spell) (Level 11)
+### Innate Psionics (6th Level spell) (Level 11)
 
 At 11th level, you gain the ability to exert great feats of psionic power. Choose one 6th-level spell from the Psion spell list as an innate ability. You can use this innate ability to cast that spell once. You must finish a long rest before you can do so again. At higher levels, you gain more innate abilities of your choice that can be used in this way: one 7th-level spell at 13th level, one 8th-level spell at 15th level, and one 9th-level spell at 17th level. You regain all uses of your Innate Psionics when you finish a long rest.
 
@@ -150,7 +152,7 @@ When you reach 12th level, you can increase one ability score of your choice by 
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Innate Psionics (7th level spell) (Level 13)
+### Innate Psionics (7th Level spell) (Level 13)
 
 At 13th level, you choose one 7th-level spell from the Psion spell list for your Innate Psionics.
 
@@ -158,7 +160,7 @@ At 13th level, you choose one 7th-level spell from the Psion spell list for your
 
 At 14th level, you gain a feature granted to you by your Psionic Archetype.
 
-### Innate Psionics (8th level spell) (Level 15)
+### Innate Psionics (8th Level spell) (Level 15)
 
 At 15th level, you choose one 8th-level spell from the Psion spell list for your Innate Psionics.
 
@@ -174,7 +176,7 @@ When you reach 17th level, you gain mastery of your psionic powers. At the start
 
 Temporary psi points can be split between different abilities.
 
-### Innate Psionics (9th level spell) (Level 17)
+### Innate Psionics (9th Level spell) (Level 17)
 
 At 17th level, you choose one 9th-level spell from the Psion spell list for your Innate Psionics.
 
@@ -190,6 +192,6 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Ascension (Level 20)
 
-Starting at 20th level, if you die you can choose to become an incorporeal entity on the Border Ethereal at the spot you died in the Material Plane at the start of your next turn. This entity has the physical ability scores (Strength, Dexterity, Constitution) and abilities of a  [ghost](/3-Content/Compendiums/bestiary/undead/ghost-xmm.md), but has your mental ability scores (Intelligence, Wisdom, Charisma) and your psion class abilities.
+Starting at 20th level, if you die you can choose to become an incorporeal entity on the Border Ethereal at the spot you died in the Material Plane at the start of your next turn. This entity has the physical ability scores (Strength, Dexterity, Constitution) and abilities of a [ghost](/3-Content/Compendiums/bestiary/undead/ghost-xmm.md), but has your mental ability scores (Intelligence, Wisdom, Charisma) and your psion class abilities.
 
-When you take this form your current and maximum hit points becomes that of the [ghost](/3-Content/Compendiums/bestiary/undead/ghost-xmm.md) while you are in the form, if you have less than 10 psi points when you would assume this form, you have 10 psi points. While in this form you can't rest to regain spent abilities. If you exhaust all Psi Points or the  [ghost](/3-Content/Compendiums/bestiary/undead/ghost-xmm.md) is destroyed, you die as a normal creature would.
+When you take this form your current and maximum hit points becomes that of the [ghost](/3-Content/Compendiums/bestiary/undead/ghost-xmm.md) while you are in the form, if you have less than 10 psi points when you would assume this form, you have 10 psi points. While in this form you can't rest to regain spent abilities. If you exhaust all Psi Points or the [ghost](/3-Content/Compendiums/bestiary/undead/ghost-xmm.md) is destroyed, you die as a normal creature would.

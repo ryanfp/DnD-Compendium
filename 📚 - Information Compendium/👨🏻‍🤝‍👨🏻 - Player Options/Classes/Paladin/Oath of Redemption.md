@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/xge
-- subclass/paladin/redemption
+tags: [compendium/src/5e/xge, subclass/paladin/redemption]
 aliases:
-- Oath of Redemption
+  - Oath of Redemption
+created: 2025/06/15 at 22:26
+updated: 2025/07/13 at 00:17
 ---
+
 # Oath of Redemption
+
 *[Paladin](Paladin.md): Sacred Oath*  
 *Source: Xanathar's Guide to Everything p. 38*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 > [!quote] A quote from Xanathar  
 > 
 > Redemption. So you feel bad about having done something, and then you have to do something to feel better? Why don't you just kill and eat someone? That always makes me feel better.
@@ -60,21 +61,25 @@ While redeemers are idealists, they are no fools. Redeemers know that undead, de
 The tenets of the Oath of Redemption hold a paladin to a high standard of peace and justice.
 
 #### Peace
+
 _Source: Xanathar's Guide to Everything_
 
 Violence is a weapon of last resort. Diplomacy and understanding are the paths to long-lasting peace.
 
 #### Innocence
+
 _Source: Xanathar's Guide to Everything_
 
 All people begin life in an innocent state, and it is their environment or the influence of dark forces that drives them to evil. By setting the proper example, and working to heal the wounds of a deeply flawed world, you can set anyone on a righteous path.
 
 #### Patience
+
 _Source: Xanathar's Guide to Everything_
 
 Change takes time. Those who have walked the path of the wicked must be given reminders to keep them honest and true. Once you have planted the seed of righteousness in a creature, you must work day after day to allow that seed to survive and flourish.
 
 #### Wisdom
+
 _Source: Xanathar's Guide to Everything_
 
 Your heart and mind must stay clear, for eventually you will be forced to admit defeat. While every creature can be redeemed, some are so far along the path of evil that you have no choice but to end their lives for the greater good. Any such action must be carefully weighed and the consequences fully understood, but once you have made the decision, follow through with it knowing your path is just.
@@ -92,6 +97,7 @@ You gain oath spells at the paladin levels listed.
 | 9th | [counterspell](/📚%20-%20Information%20Compendium/spells/counterspell.md), [hypnotic pattern](/📚%20-%20Information%20Compendium/spells/hypnotic-pattern.md) |
 | 13th | [Otiluke's resilient sphere](/📚%20-%20Information%20Compendium/spells/otilukes-resilient-sphere.md), [stoneskin](/📚%20-%20Information%20Compendium/spells/stoneskin.md) |
 | 17th | [hold monster](/📚%20-%20Information%20Compendium/spells/hold-monster.md), [wall of force](/📚%20-%20Information%20Compendium/spells/wall-of-force.md) |
+
 ^oath-of-redemption-spells
 
 ### Channel Divinity (Level 3)

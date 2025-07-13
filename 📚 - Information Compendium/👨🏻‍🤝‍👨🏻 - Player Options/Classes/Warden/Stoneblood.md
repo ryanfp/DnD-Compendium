@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/kt-cll
-  - ttrpg-cli/subclass/warden/stoneblood
+tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/warden/stoneblood]
 aliases:
   - Stoneblood
-title: Stoneblood
+created: 2025/06/13 at 22:33
+updated: 2025/07/13 at 00:17
 ---
+
 # Stoneblood
+
 *[Warden](Warden.md): Warden Bond*  
 *Source: Kibbles' Compendium of Legends and Legacies p. 69*  
 
@@ -43,7 +44,6 @@ title: Stoneblood
 
 ^class-progression
 
-
 ## Class Features
 
 ### Bond of the Stoneblood (Level 1)
@@ -74,6 +74,7 @@ You gain the following spells at the listed levels, and can cast each spell once
 | 9th | [quicksand](/3-Content/Compendiums/spells/quicksand-kt-cll.md) |
 | 13th | [stone coffin](/3-Content/Compendiums/spells/stone-coffin-kt-cll.md) |
 | 17th | [orbital stones](/3-Content/Compendiums/spells/orbital-stones-kt-cll.md) |
+
 ^warden-level-innate-spells-1-long-rest-each
 
 ### Seismic Backlash (Level 3)

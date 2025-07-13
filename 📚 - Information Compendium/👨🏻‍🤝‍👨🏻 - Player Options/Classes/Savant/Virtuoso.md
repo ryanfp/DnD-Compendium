@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/llsave
-  - ttrpg-cli/subclass/savant/virtuoso
+tags: [ttrpg-cli/compendium/src/5e/llsave, ttrpg-cli/subclass/savant/virtuoso]
 aliases:
   - Virtuoso
-title: Virtuoso
+created: 2025/06/13 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # Virtuoso
+
 *[Savant](Savant.md): Academic Disciplines*  
 *Source: Savant Expanded*  
 
@@ -42,7 +43,6 @@ title: Virtuoso
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

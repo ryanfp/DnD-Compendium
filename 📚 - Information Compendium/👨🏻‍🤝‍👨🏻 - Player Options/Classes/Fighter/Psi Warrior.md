@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/fighter/psi-warrior
+tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/fighter/psi-warrior]
 aliases:
-- Psi Warrior
+  - Psi Warrior
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Psi Warrior
+
 *[Fighter](Fighter.md): Martial Archetype*  
 *Source: Tasha's Cauldron of Everything p. 42*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

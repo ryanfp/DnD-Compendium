@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/warden
-- ttrpg-cli/compendium/src/5e/kt-cll
+tags: [ttrpg-cli/class/warden, ttrpg-cli/compendium/src/5e/kt-cll]
 aliases:
-- Warden
+  - Warden
+created: 2025/06/13 at 22:33
+updated: 2025/07/13 at 00:17
 ---
+
 # Warden
+
 *Source: Kibbles' Compendium of Legends and Legacies p. 60*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d12 per Warden level
 - **Hit Points at First Level:** 12 + CON
-- **Hit Points at Higher Levels:** add 7 OR 1d12 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 7 OR 1d12 + CON (minimum of 1)
 
 ## Starting Warden
 
@@ -144,7 +146,7 @@ You gain two such [Primal Manifestations](/3-Content/Compendiums/lists/list-optf
 
 Additionally, when you gain a level in the class, you can choose one of the manifestations you know and replace it with another manifestation that you could learn at that level. If a manifestation has a prerequisite, you must meet it to learn the manifestation. A level prerequisite refers to your level in this class.
 
-### Warden Bond feature (Level 3)
+### Warden Bond Feature (Level 3)
 
 At 3rd level, you gain a feature from your Warden Bond.
 
@@ -172,7 +174,7 @@ Additionally, if you roll for initiative with no Endurance Dice remaining, you r
 
 Starting at 6th level, your attacks from natural weapons count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
-### Warden Bond feature (Level 7)
+### Warden Bond Feature (Level 7)
 
 At 7th level, you gain a feature from your Warden Bond.
 
@@ -204,7 +206,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 Starting at 13th level, your [Mystic Bulwark](/3-Content/Compendiums/classes/warden-kt-cll.md#Mystic%20Bulwark%20(Level%201)) damage reduction applies to all damage types (rather than just bludgeoning, piercing, and slashing damage).
 
-### Warden Bond feature (Level 14)
+### Warden Bond Feature (Level 14)
 
 At 14th level, you gain a feature from your Warden Bond.
 
@@ -222,7 +224,7 @@ When you reach 16th level, you can increase one ability score of your choice by 
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Warden Bond feature (Level 17)
+### Warden Bond Feature (Level 17)
 
 At 17th level, you gain a feature from your Warden Bond.
 

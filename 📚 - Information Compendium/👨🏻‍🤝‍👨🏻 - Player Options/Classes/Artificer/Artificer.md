@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/artificer
-- ttrpg-cli/compendium/src/5e/tce
+tags: [ttrpg-cli/class/artificer, ttrpg-cli/compendium/src/5e/tce]
 aliases:
-- Artificer
+  - Artificer
+created: 2025/06/15 at 15:34
+updated: 2025/07/13 at 00:17
 ---
+
 # Artificer
+
 *Source: Tasha's Cauldron of Everything p. 9, Eberron: Rising from the Last War p. 54*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d8 per Artificer level
 - **Hit Points at First Level:** 8 + CON
-- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON (minimum of 1)
 
 ## Starting Artificer
 
@@ -110,11 +112,13 @@ If artificer isn't your initial class, here are the proficiencies you gain when 
 Add half your levels (rounded up) in the artificer class to the appropriate levels from other classes to determine your available spell slots.
 
 ## Artificer
+
 _Source: Eberron: Rising from the Last War_
 
 Masters of unlocking magic in everyday objects, artificers are supreme inventors. They see magic as a complex system waiting to be decoded and controlled. Artificers use tools to channel arcane power, crafting magical objects. To cast a spell, an artificer could use [alchemist's supplies](/3-Content/Compendiums/items/alchemists-supplies-xphb.md) to create a potent elixir, [calligrapher's supplies](/3-Content/Compendiums/items/calligraphers-supplies-xphb.md) to inscribe a sigil of power on an ally's armor, or [tinker's tools](/3-Content/Compendiums/items/tinkers-tools-xphb.md) to craft a temporary charm. The magic of artificers is tied to their tools and their talents.
 
 ### Arcane Science
+
 _Source: Eberron: Rising from the Last War_
 
 In the world of Eberron, arcane magic has been harnessed as a form of science and deployed throughout society. Artificers reflect this development. Their knowledge of magical devices, and their ability to infuse mundane items with magic, allows Eberron's most miraculous projects to continue.
@@ -122,6 +126,7 @@ In the world of Eberron, arcane magic has been harnessed as a form of science an
 During the Last War, artificers were marshaled on a massive scale. Many lives were saved because of the inventions of brave artificers, but countless lives were also lost because of the mass destruction unleashed by their creations.
 
 ### Seekers of New Lore
+
 _Source: Eberron: Rising from the Last War_
 
 Nothing excites an artificer quite like uncovering a new metal or discovering a source of elemental energy. In artificer circles, new inventions and strange discoveries create the most excitement. Artificers who wish to make their mark must innovate, creating something fresh, rather than iterating on familiar designs.
@@ -129,6 +134,7 @@ Nothing excites an artificer quite like uncovering a new metal or discovering a 
 This drive for novelty pushes artificers to become adventurers. Eberron's main travel routes and populated regions have long since been explored. Thus, artificers seek the frontiers of civilization in hopes of making the next great discovery in arcane research.
 
 ### Creating an Artificer
+
 _Source: Eberron: Rising from the Last War_
 
 When creating an artificer, think about your character's relationship with the artisan who taught them their craft. Does the character have a rival? Talk to your DM about the role played by artificers in the campaign and the sort of organizations you might have ties to.
@@ -139,26 +145,31 @@ When creating an artificer, think about your character's relationship with the a
 ^artificers-in-other-worlds
 
 #### Quick Build
+
 _Source: Eberron: Rising from the Last War_
 
 You can make an artificer quickly by following these suggestions. First, put your highest ability score in Intelligence, followed by Constitution or Dexterity. Second, choose the [guild artisan](/3-Content/Compendiums/backgrounds/guild-artisan.md) background.
 
 #### Optional Rule: Multiclassing
+
 _Source: Eberron: Rising from the Last War_
 
 If your group uses the optional rule on multiclassing in the "Player's Handbook", here's what you need to know if you choose artificer as one of your classes.
 
 ##### Ability Score Minimum
+
 _Source: Eberron: Rising from the Last War_
 
 As a multiclass character, you must have at least an Intelligence score of 13 to take a level in this class, or to take a level in another class if you are already an artificer.
 
 ##### Proficiencies Gained
+
 _Source: Eberron: Rising from the Last War_
 
 If artificer isn't your initial class, here are the proficiencies you gain when you take your first level as an artificer: light armor, medium armor, shields, [thieves' tools](/3-Content/Compendiums/items/thieves-tools-xphb.md), [tinker's tools](/3-Content/Compendiums/items/tinkers-tools-xphb.md).
 
 ##### Spell Slots
+
 _Source: Eberron: Rising from the Last War_
 
 Add half your levels (rounded up) in the artificer class to the appropriate levels from other classes to determine your available spell slots.
@@ -333,7 +344,7 @@ You've achieved a profound understanding of how to use and make magic items:
 
 *11th-level artificer feature*
 
-You can now store a spell in an object. Whenever you finish a long rest, you can touch one simple or martial weapon or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a 1st- or 2nd-level spell from the artificer spell list that requires 1 action to cast (you needn't have it prepared).
+You can now store a spell in an object. Whenever you finish a long rest, you can touch one simple or martial weapon or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a 1stor 2nd-level spell from the artificer spell list that requires 1 action to cast (you needn't have it prepared).
 
 While holding the object, a creature can take an action to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires [concentration](/3-Content/Rules/conditions.md#Concentration), the creature must concentrate. The spell stays in the object until it's been used a number of times equal to twice your Intelligence modifier (minimum of twice) or until you use this feature again to store a spell in an object.
 

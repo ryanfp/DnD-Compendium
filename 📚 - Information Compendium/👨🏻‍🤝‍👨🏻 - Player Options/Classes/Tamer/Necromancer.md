@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/helianasguidetomonsterhunting
-  - ttrpg-cli/subclass/tamer/necromancer
+tags: [ttrpg-cli/compendium/src/5e/helianasguidetomonsterhunting, ttrpg-cli/subclass/tamer/necromancer]
 aliases:
   - Necromancer
-title: Necromancer
+created: 2025/06/13 at 22:33
+updated: 2025/07/13 at 00:17
 ---
+
 # Necromancer
+
 *[Tamer](Tamer.md): Training Paradgim*  
 *Source: Heliana's Guide to Monster Hunting*  
 
@@ -43,7 +44,6 @@ title: Necromancer
 
 ^class-progression
 
-
 ## Class Features
 
 ### Necromancer (Level 3)
@@ -76,6 +76,7 @@ You learn additional spells when you reach certain levels in this class, as show
 | 9th | [influenza](/3-Content/Compendiums/spells/influenza-helianasguidetomonsterhunting.md), vampiric touch |
 | 13th | confusion, death ward |
 | 17th | bone cage, [endure](/3-Content/Compendiums/spells/endure-helianasguidetomonsterhunting.md) |
+
 ^necromancer-spells
 
 ### Animate Dead I (Level 7)

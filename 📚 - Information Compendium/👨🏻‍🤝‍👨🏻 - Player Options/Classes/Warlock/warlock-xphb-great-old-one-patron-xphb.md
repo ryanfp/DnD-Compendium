@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/warlock/great-old-one
+tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/subclass/warlock/great-old-one]
 aliases:
-- Great Old One Patron
+  - Great Old One Patron
+  - Great Old One Patron
+created: 2025/06/15 at 15:38
+updated: 2025/07/13 at 00:17
 ---
+
 # Great Old One Patron
+
 *[Warlock](./warlock-xphb.md): Warlock Subclass*  
 *Source: Player's Handbook (2024) p. 162*  
 
@@ -42,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Great Old One Patron (Level 3)
@@ -63,6 +65,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 | 5 | [Clairvoyance](/3-Content/Compendiums/spells/clairvoyance-xphb.md), [Hunger of Hadar](/3-Content/Compendiums/spells/hunger-of-hadar-xphb.md) |
 | 7 | [Confusion](/3-Content/Compendiums/spells/confusion-xphb.md), [Summon Aberration](/3-Content/Compendiums/spells/summon-aberration-xphb.md) |
 | 9 | [Modify Memory](/3-Content/Compendiums/spells/modify-memory-xphb.md), [Telekinesis](/3-Content/Compendiums/spells/telekinesis-xphb.md) |
+
 ^great-old-one-spells
 
 ### Awakened Mind (Level 3)

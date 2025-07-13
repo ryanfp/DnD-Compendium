@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/cleric
-- ttrpg-cli/compendium/src/5e/phb
+tags: [ttrpg-cli/class/cleric, ttrpg-cli/compendium/src/5e/phb]
 aliases:
-- Cleric
+  - Cleric
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Cleric
+
 *Source: Player's Handbook p. 56. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d8 per Cleric level
 - **Hit Points at First Level:** 8 + CON
-- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON (minimum of 1)
 
 ## Starting Cleric
 
@@ -124,6 +126,7 @@ If you're playing a cleric character, the following sections offer ways to add s
 > I don't understand the attraction of gods. Why would anyone worship anything other than me?
 
 ## Temple
+
 _Source: Xanathar's Guide to Everything_
 
 Most clerics start their lives of service as priests in an order, then later realize that they have been blessed by their god with the qualities needed to become a cleric. To prepare for this new duty, candidates typically receive instruction from a cleric of a temple or another place of study devoted to their deity.
@@ -142,9 +145,11 @@ Some temples are cut off from the world so that their occupants can focus on dev
 | 4 | Your temple is a fortress and a proving ground that trains warrior-priests. |
 | 5 | Your temple is a peaceful, humble place, filled with vegetable gardens and simple priests. |
 | 6 | You served in a temple in the Outer Planes. |
+
 ^temple
 
 ### Keepsake
+
 _Source: Xanathar's Guide to Everything_
 
 Many clerics have items among their personal gear that symbolize their faith, remind them of their vows, or otherwise help to keep them on their chosen paths. Even though such an item is not imbued with divine power, it is vitally important to its owner because of what it represents.
@@ -161,9 +166,11 @@ Many clerics have items among their personal gear that symbolize their faith, re
 | 4 | A braid of hair woven from the tail of a unicorn |
 | 5 | A scroll that describes how best to rid the world of necromancers |
 | 6 | A runestone said to be blessed by your god |
+
 ^keepsake
 
 ### Secret
+
 _Source: Xanathar's Guide to Everything_
 
 No mortal soul is entirely free of second thoughts or doubt. Even a cleric must grapple with dark desires or the forbidden attraction of turning against the teachings of one's deity.
@@ -182,6 +189,7 @@ If you haven't considered this aspect of your character yet, see the table entri
 | 4 | Even though you can work divine magic, you have never truly felt the presence of a divine essence within yourself. |
 | 5 | You are plagued by nightmares that you believe are sent by your god as punishment for some unknown transgression. |
 | 6 | In times of despair, you feel that you are but a plaything of the gods, and you resent their remoteness. |
+
 ^secret
 
 > [!note] Serving a Pantheon, Philosophy, or Force
@@ -258,13 +266,14 @@ As an action, you present your holy symbol and speak a prayer censuring the unde
 A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the [Dash](/3-Content/Rules/actions.md#Dash) action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the [Dodge](/3-Content/Rules/actions.md#Dodge) action.
 
 ### Channel Divinity: Harness Divine Power (Level 2)
+
 _Source: Tasha's Cauldron of Everything p. 30_
 
 *2nd-level cleric [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md)*
 
 You can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 2nd level, once; 6th level, twice; and 18th level, thrice. You regain all expended uses when you finish a long rest.
 
-### Divine Domain feature (Level 2)
+### Divine Domain Feature (Level 2)
 
 At 2nd level, you gain a feature from your Divine Domain.
 
@@ -275,6 +284,7 @@ When you reach 4th level, you can increase one ability score of your choice by 2
 If your DM allows the use of feats, you may instead take a feat.
 
 ### Cantrip Versatility (Level 4)
+
 _Source: Tasha's Cauldron of Everything p. 30_
 
 *4th-level cleric [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md)*
@@ -289,7 +299,7 @@ Starting at 5th level, when an undead of CR 1/2 or lower fails its saving throw 
 
 Beginning at 6th level, you can use your Channel Divinity twice between rests.
 
-### Divine Domain feature (Level 6)
+### Divine Domain Feature (Level 6)
 
 At 6th level, you gain a feature from your Divine Domain.
 
@@ -303,7 +313,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 Starting at 8th level, when an undead of CR 1 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed.
 
-### Divine Domain feature (Level 8)
+### Divine Domain Feature (Level 8)
 
 At 8th level, you gain a feature from your Divine Domain.
 
@@ -339,7 +349,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 Starting at 17th level, when an undead of CR 4 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed.
 
-### Divine Domain feature (Level 17)
+### Divine Domain Feature (Level 17)
 
 At 17th level, you gain a feature from your Divine Domain.
 

@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/ghpg
-- ttrpg-cli/subclass/ranger/vermin-lord
+tags: [ttrpg-cli/compendium/src/5e/ghpg, ttrpg-cli/subclass/ranger/vermin-lord]
 aliases:
-- Vermin Lord
+  - Vermin Lord
+created: 2025/06/15 at 15:37
+updated: 2025/07/13 at 00:17
 ---
+
 # Vermin Lord
+
 *[Ranger](Ranger.md): Ranger Archetype*  
 *Source: Grim Hollow: The Player's Guide*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Vermin Lord (Level 3)
@@ -62,6 +63,7 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 | 9th | [flash fever](/3-Content/Compendiums/spells/flash-fever-ghpg.md) |
 | 13th | [freedom of movement](/3-Content/Compendiums/spells/freedom-of-movement-xphb.md) |
 | 17th | [contagion](/3-Content/Compendiums/spells/contagion-xphb.md) |
+
 ^vermin-lord-spells
 
 ### Verminkin (Level 3)

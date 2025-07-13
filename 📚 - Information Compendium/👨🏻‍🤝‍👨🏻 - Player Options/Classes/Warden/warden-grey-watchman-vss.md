@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/vss
-- ttrpg-cli/subclass/warden/grey-watchman
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/warden/grey-watchman]
 aliases:
-- Grey Watchman
+  - Grey Watchman
+  - Grey Watchman
+created: 2025/06/13 at 22:33
+updated: 2025/07/13 at 00:17
 ---
+
 # Grey Watchman
+
 *[Warden](VSS%20Warden.md): Champion's Call*  
 *Source: Valda's Spire of Secrets*  
 
@@ -42,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Grey Watchman (Level 3)
@@ -65,6 +67,7 @@ Your battle die changes and more battle dice become available when you reach cer
 | 7th | `3d8` |
 | 13th | `3d10` |
 | 19th | `4d10` |
+
 ^warden-level-battle-dice
 
 #### Using Battle Dice

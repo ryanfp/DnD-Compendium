@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/warlock/genie
+tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/warlock/genie]
 aliases:
-- The Genie
+  - The Genie
+created: 2025/06/15 at 15:38
+updated: 2025/07/13 at 00:17
 ---
+
 # The Genie
+
 *[Warlock](Warlock.md): Otherworldly Patron*  
 *Source: Tasha's Cauldron of Everything p. 73*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### The Genie (Level 1)
@@ -61,9 +62,11 @@ You choose your patron's kind or determine it randomly, using the Genie Kind tab
 | 2 | [Djinni](/3-Content/Compendiums/bestiary/elemental/djinni-xmm.md) | Air |
 | 3 | [Efreeti](/3-Content/Compendiums/bestiary/elemental/efreeti-xmm.md) | Fire |
 | 4 | [Marid](/3-Content/Compendiums/bestiary/elemental/marid-xmm.md) | Water |
+
 ^genie-kind
 
 #### Expanded Spell List
+
 _Source: Tasha's Cauldron of Everything_
 
 *1st-level Genie feature*
@@ -80,6 +83,7 @@ The Genie lets you choose from an expanded list of spells when you learn a warlo
 | 4th | [phantasmal killer](/3-Content/Compendiums/spells/phantasmal-killer-xphb.md) | [stone shape](/3-Content/Compendiums/spells/stone-shape-xphb.md) | [greater invisibility](/3-Content/Compendiums/spells/greater-invisibility-xphb.md) | [fire shield](/3-Content/Compendiums/spells/fire-shield-xphb.md) | [control water](/3-Content/Compendiums/spells/control-water-xphb.md) |
 | 5th | [creation](/3-Content/Compendiums/spells/creation-xphb.md) | [wall of stone](/3-Content/Compendiums/spells/wall-of-stone-xphb.md) | [seeming](/3-Content/Compendiums/spells/seeming-xphb.md) | [flame strike](/3-Content/Compendiums/spells/flame-strike-xphb.md) | [cone of cold](/3-Content/Compendiums/spells/cone-of-cold-xphb.md) |
 | 9th | [wish](/3-Content/Compendiums/spells/wish-xphb.md) | — | — | — | — |
+
 ^genie-expanded-spells
 
 ### Genie's Vessel (Level 1)
@@ -100,6 +104,7 @@ Your patron gifts you a magical vessel that grants you a measure of the genie's 
 | 4 | Stoppered bottle |
 | 5 | Hollow statuette |
 | 6 | Ornate lantern |
+
 ^genies-vessel
 
 While you are touching the vessel, you can use it in the following ways:

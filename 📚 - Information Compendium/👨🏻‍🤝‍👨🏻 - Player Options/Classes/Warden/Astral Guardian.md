@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/kt-cll
-  - ttrpg-cli/subclass/warden/astral-guardian
+tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/warden/astral-guardian]
 aliases:
   - Astral Guardian
-title: Astral Guardian
+created: 2025/06/13 at 22:33
+updated: 2025/07/13 at 00:17
 ---
+
 # Astral Guardian
+
 *[Warden](Warden.md): Warden Bond*  
 *Source: Kibbles' Compendium of Legends and Legacies p. 77*  
 
@@ -43,7 +44,6 @@ title: Astral Guardian
 
 ^class-progression
 
-
 ## Class Features
 
 ### Bond of the Astral Guardian (Level 1)
@@ -76,6 +76,7 @@ You gain the following spells at the listed levels, and can cast each spell once
 | 9th | [ghost step](/3-Content/Compendiums/spells/ghost-step-kt-cll.md) |
 | 13th | [dimension cutter](/3-Content/Compendiums/spells/dimension-cutter-kt-cll.md) |
 | 17th | dimension door |
+
 ^warden-level-innate-spells-1-long-rest-each
 
 ### Dimensional Interdiction (Level 3)

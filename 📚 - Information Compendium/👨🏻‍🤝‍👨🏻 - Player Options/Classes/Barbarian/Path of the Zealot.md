@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/xge
-- subclass/barbarian/zealot
+tags: [compendium/src/5e/xge, subclass/barbarian/zealot]
 aliases:
-- Path of the Zealot
+  - Path of the Zealot
+created: 2025/06/15 at 22:21
+updated: 2025/07/13 at 00:17
 ---
+
 # Path of the Zealot
+
 *[Barbarian](Barbarian.md): Primal Path*  
 *Source: Xanathar's Guide to Everything p. 11*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

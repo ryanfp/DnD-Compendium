@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/llsh:e
-  - ttrpg-cli/subclass/shaman/blood-priest
+tags: [ttrpg-cli/compendium/src/5e/llsh:e, ttrpg-cli/subclass/shaman/blood-priest]
 aliases:
   - Blood Priest
-title: Blood Priest
+created: 2025/06/13 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # Blood Priest
+
 *[Shaman](Shaman.md): Spirituality*  
 *Source: Shaman Expanded p. 8*  
 
@@ -43,7 +44,6 @@ title: Blood Priest
 
 ^class-progression
 
-
 ## Class Features
 
 ### Blood Priest (Level 2)
@@ -51,6 +51,7 @@ title: Blood Priest
 In ancient days, elder Shamans communed with Spirits that desired mortal blood above all. Over time, the Spirits taught the first Blood Priests the dark secrets of blood magic, and in return, they offered these elder Spirits the blood of their foes.
 
 #### Blood Priest Spells
+
 _Source: Shaman Expanded_
 
 *2nd-level Blood Priest feature*
@@ -66,6 +67,7 @@ You always have certain spells prepared at the Shaman levels in the table below.
 | 5th | [bestow curse](/3-Content/Compendiums/spells/bestow-curse-xphb.md), [slow](/3-Content/Compendiums/spells/slow-xphb.md) |
 | 7th | [death ward](/3-Content/Compendiums/spells/death-ward-xphb.md), [dominate beast](/3-Content/Compendiums/spells/dominate-beast-xphb.md) |
 | 9th | [contagion](/3-Content/Compendiums/spells/contagion-xphb.md), [hold monster](/3-Content/Compendiums/spells/hold-monster-xphb.md) |
+
 ^blood-priest-spells
 
 ### Blood Totem (Level 2)
@@ -73,16 +75,19 @@ You always have certain spells prepared at the Shaman levels in the table below.
 Ancient Spirits have taught you to siphon life-blood and bind its spiritual power to Blood Totems using the rules below:
 
 #### Bound Totem
+
 _Source: Shaman Expanded_
 
 You start with a single Blood Totem that does not count against your total number of Bound Totems. However, at the end of a long rest, you can forgo any number of Bound Totems to instead create that many Blood Totems.
 
 #### Harvesting
+
 _Source: Shaman Expanded_
 
 When you deal necrotic, piercing, or slashing damage to a creature within 10 feet of you, you can choose to harvest its blood, causing one Blood Totem you are holding to gain hit points equal to half the damage dealt. This ability has no effect on Constructs, Undead, or creatures without blood.
 
 #### Hit Points
+
 _Source: Shaman Expanded_
 
 Blood Totems can store up to 25 hit points at one time. If a Blood Totem is at its maximum hit points, you can expend all its hit points to cast one of your Blood Priest spells at your Slot Level, without expending a slot or the spell's normal material components.

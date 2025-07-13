@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/kt-cll
-- ttrpg-cli/subclass/spellblade/battlemage
+tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/spellblade/battlemage]
 aliases:
-- Battlemage Technique
+  - Battlemage Technique
+created: 2025/06/13 at 22:32
+updated: 2025/07/13 at 00:17
 ---
+
 # Battlemage Technique
+
 *[Spellblade](./spellblade-kt-cll.md): Technique*  
 *Source: Kibbles' Compendium of Legends and Legacies p. 47*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Battlemage Technique (Level 3)
@@ -64,6 +65,7 @@ You learn the following spells at the following levels. The following are Spellb
 | 9th | lightning bolt |
 | 13th | dimension door |
 | 17th | hold monster |
+
 ^battlemage-spells
 
 ### Arcane Warrior (Level 3)

@@ -1,3 +1,10 @@
+---
+aliases:
+  - Circle of Twilight
+created: 2025/05/19 at 00:42
+updated: 2025/07/13 at 00:17
+---
+
 I like the features of the Stars and Spores druid that expend a use of the Wild Shape, and Twilight druid feels even further away from a typical druid, so changing their Wild Shape into something else feels like a no-brainer to me. I also feel the Twilight druid lacks a little something at later levels, so I thought of how you might make it a bit more interesting. Thus I came up with the following additional feature for the Circle of Twilight druid:
 
 Reaper's Agent: Starting at 2nd level, you've gained a mystical connection to the forces beyond the veil and can draw upon their powers. You can expend one use of your Wild Shape to conjure a spectral cloak and scythe. They remain on your person for the next 10 minutes and while they are present you gain the following benefits:

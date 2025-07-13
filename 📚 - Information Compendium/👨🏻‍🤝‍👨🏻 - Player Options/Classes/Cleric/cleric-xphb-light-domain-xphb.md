@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/domain/light
-- ttrpg-cli/subclass/cleric/light
+tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/domain/light, ttrpg-cli/subclass/cleric/light]
 aliases:
-- Light Domain
+  - Light Domain
+  - Light Domain
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Light Domain
+
 *[Cleric](./cleric-xphb.md): Cleric Subclass*  
 *Source: Player's Handbook (2024) p. 74*  
 
@@ -43,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Light Domain (Level 3)
@@ -66,6 +67,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 | 5th | [Daylight](/3-Content/Compendiums/spells/daylight-xphb.md), [Fireball](/3-Content/Compendiums/spells/fireball-xphb.md) |
 | 7th | [Arcane Eye](/3-Content/Compendiums/spells/arcane-eye-xphb.md), [Wall of Fire](/3-Content/Compendiums/spells/wall-of-fire-xphb.md) |
 | 9th | [Flame Strike](/3-Content/Compendiums/spells/flame-strike-xphb.md), [Scrying](/3-Content/Compendiums/spells/scrying-xphb.md) |
+
 ^light-domain-spells
 
 ### Radiance of the Dawn (Level 3)

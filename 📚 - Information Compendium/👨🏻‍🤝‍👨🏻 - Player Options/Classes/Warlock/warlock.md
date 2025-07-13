@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/warlock
-- ttrpg-cli/compendium/src/5e/phb
+tags: [ttrpg-cli/class/warlock, ttrpg-cli/compendium/src/5e/phb]
 aliases:
-- Warlock
+  - Warlock
+created: 2025/06/15 at 15:38
+updated: 2025/07/13 at 00:17
 ---
+
 # Warlock
+
 *Source: Player's Handbook p. 105. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d8 per Warlock level
 - **Hit Points at First Level:** 8 + CON
-- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON (minimum of 1)
 
 ## Starting Warlock
 
@@ -126,6 +128,7 @@ The sections that follow provide ways to embellish a warlock character that coul
 > So you got your powers by making a contract with something? Is it in writing, perchance? Well, never mind. Just tell me this: Can I get your powers by eating you?
 
 ## Patron's Attitude
+
 _Source: Xanathar's Guide to Everything_
 
 Every relationship is a two-way street, but in the case of warlocks and their patrons it's not necessarily true that both sides of the street are the same width or made of the same stuff. The feeling that a warlock holds for their patron, whether positive or negative, might be reciprocated by the patron, or the two participants in the pact might view one another with opposing emotions.
@@ -144,9 +147,11 @@ When you determine the attitude your warlock character holds toward your patron,
 | 4 | Your patron is a strict disciplinarian but treats you with a measure of respect. |
 | 5 | Your patron tricked you into a pact and treats you as a slave. |
 | 6 | You are mostly left to your own devices with no interference from your patron. Sometimes you dread the demands it will make when it does appear. |
+
 ^patron-attitudes
 
 ## Special Terms of the Pact
+
 _Source: Xanathar's Guide to Everything_
 
 A pact can range from a loose agreement to a formal contract with lengthy, detailed clauses and lists of requirements. The terms of a pact—what a warlock must do to receive a patron's favor—are always dictated by the patron. On occasion, those terms include a special proviso that might seem odd or whimsical, but warlocks take these dictates as seriously as they do the other requirements of their pacts.
@@ -165,9 +170,11 @@ Does your character have a pact that requires you to change your behavior in an 
 | 4 | You must occasionally conduct bizarre rituals to maintain your pact. |
 | 5 | You can never wear the same outfit twice, since your patron finds such predictability to be boring. |
 | 6 | When you use an eldritch invocation, you must speak your patron's name aloud or risk incurring its displeasure. |
+
 ^special-terms
 
 ## Binding Mark
+
 _Source: Xanathar's Guide to Everything_
 
 Some patrons make a habit of, and often enjoy, marking the warlocks under their sway in some fashion. A binding mark makes it clear—to those who know about such things—that the individual in question is bound to the patron's service. A warlock might take advantage of such a mark, claiming it as proof of one's pact, or might want to keep it under wraps (if possible) to avoid the difficulties it might bring.
@@ -186,6 +193,7 @@ If your warlock's pact comes with a binding mark, how you feel about displaying 
 | 4 | Your tongue is an unnatural color. |
 | 5 | You have a vestigial tail. |
 | 6 | Your nose glows in the dark. |
+
 ^binding-marks
 
 ## Class Features
@@ -253,6 +261,7 @@ When you reach 4th level, you can increase one ability score of your choice by 2
 If your DM allows the use of feats, you may instead take a feat.
 
 ### Eldritch Versatility (Level 4)
+
 _Source: Tasha's Cauldron of Everything p. 70_
 
 *4th-level warlock [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md)*
@@ -265,7 +274,7 @@ Whenever you reach a level in this class that grants the Ability Score Improveme
 
 If this change makes you ineligible for any of your Eldritch Invocations, you must also replace them now, choosing invocations for which you qualify.
 
-### Otherworldly Patron feature (Level 6)
+### Otherworldly Patron Feature (Level 6)
 
 At 6th level, you gain a feature granted by your Otherworldly Patron.
 
@@ -275,7 +284,7 @@ When you reach 8th level, you can increase one ability score of your choice by 2
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Otherworldly Patron feature (Level 10)
+### Otherworldly Patron Feature (Level 10)
 
 At 10th level, you gain a feature granted by your Otherworldly Patron.
 
@@ -299,7 +308,7 @@ At 13th level, your patron bestows upon you a magical secret called an arcanum. 
 
 You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.
 
-### Otherworldly Patron feature (Level 14)
+### Otherworldly Patron Feature (Level 14)
 
 At 14th level, you gain a feature granted by your Otherworldly Patron.
 

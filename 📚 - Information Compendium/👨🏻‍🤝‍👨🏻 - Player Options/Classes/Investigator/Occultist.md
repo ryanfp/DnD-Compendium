@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/vss
-- ttrpg-cli/subclass/investigator/occultist
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/investigator/occultist]
 aliases:
-- Occultist
+  - Occultist
+created: 2025/06/14 at 02:43
+updated: 2025/07/13 at 00:17
 ---
+
 # Occultist
+
 *[Investigator](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Investigator/Investigator.md): Occult Specialization*  
 *Source: Valda's Spire of Secrets p. 112*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

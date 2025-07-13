@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/llvessel
-  - ttrpg-cli/subclass/vessel/cursed
+tags: [ttrpg-cli/compendium/src/5e/llvessel, ttrpg-cli/subclass/vessel/cursed]
 aliases:
   - The Cursed
-title: The Cursed
+created: 2025/06/13 at 22:33
+updated: 2025/07/13 at 00:17
 ---
+
 # The Cursed
+
 *[Vessel](Vessel.md): Sealed Spirit*  
 *Source: The Vessel p. 8*  
 
@@ -43,7 +44,6 @@ title: The Cursed
 
 ^class-progression
 
-
 ## Class Features
 
 ### The Cursed (Level 3)
@@ -69,6 +69,7 @@ Your Iridescent Strikes can also deal fire damage on hit.
 | 9th | [fireball](/3-Content/Compendiums/spells/fireball-xphb.md), [vampiric touch](/3-Content/Compendiums/spells/vampiric-touch-xphb.md) |
 | 13th | [dominate beast](/3-Content/Compendiums/spells/dominate-beast-xphb.md), [wall of fire](/3-Content/Compendiums/spells/wall-of-fire-xphb.md) |
 | 17th | [flame strike](/3-Content/Compendiums/spells/flame-strike-xphb.md), [insect plague](/3-Content/Compendiums/spells/insect-plague-xphb.md) |
+
 ^vessel-level-spells
 
 ### Cursed Archon (Level 3)

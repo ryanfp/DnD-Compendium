@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/witch/white
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/witch/white]
 aliases:
   - White Magic
-title: White Magic
+created: 2025/06/13 at 22:35
+updated: 2025/07/13 at 00:17
 ---
+
 # White Magic
+
 *[Witch](Witch.md): Witch's Craft*  
 *Source: Valda's Spire of Secrets*  
 
@@ -43,7 +44,6 @@ title: White Magic
 
 ^class-progression
 
-
 ## Class Features
 
 ### White Magic (Level 3)
@@ -59,6 +59,7 @@ White magic is fundamentally good and benevolent for all living things. Witches 
 | 3rd | beacon of hope, revivify |
 | 4th | death ward, guardian of faith |
 | 5th | mass cure wounds, raise dead |
+
 ^white-magic-spells
 
 ### Hex: Remedy (Level 3)

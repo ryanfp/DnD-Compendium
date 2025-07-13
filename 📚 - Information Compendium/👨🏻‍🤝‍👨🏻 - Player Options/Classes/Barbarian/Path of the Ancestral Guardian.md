@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/xge
-- subclass/barbarian/ancestral-guardian
+tags: [compendium/src/5e/xge, subclass/barbarian/ancestral-guardian]
 aliases:
-- Path of the Ancestral Guardian
+  - Path of the Ancestral Guardian
+created: 2025/06/15 at 22:21
+updated: 2025/07/13 at 00:17
 ---
+
 # Path of the Ancestral Guardian
+
 *[Barbarian](Barbarian.md): Primal Path*  
 *Source: Xanathar's Guide to Everything p. 9*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 > [!quote] A quote from Xanathar  
 > 

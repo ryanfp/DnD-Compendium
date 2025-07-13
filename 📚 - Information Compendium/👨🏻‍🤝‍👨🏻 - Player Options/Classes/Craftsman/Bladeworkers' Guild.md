@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/craftsman/bladeworkers
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/craftsman/bladeworkers]
 aliases:
-  - Bladeworkers' Guild
-title: Bladeworkers' Guild
+  - "Bladeworkers' Guild"
+created: 2025/06/13 at 22:27
+updated: 2025/07/13 at 00:17
 ---
+
 # Bladeworkers' Guild
+
 *[Craftsman](Craftsman.md): Artisan's Guild*  
 *Source: Valda's Spire of Secrets*  
 
@@ -42,7 +43,6 @@ title: Bladeworkers' Guild
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

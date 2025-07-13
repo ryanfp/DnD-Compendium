@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/martyr
-- ttrpg-cli/compendium/src/5e/vss
+tags: [ttrpg-cli/class/martyr, ttrpg-cli/compendium/src/5e/vss]
 aliases:
-- Martyr
+  - Martyr
+created: 2025/06/13 at 22:28
+updated: 2025/07/13 at 00:17
 ---
+
 # Martyr
+
 *Source: Valda's Spire of Secrets*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d12 per Martyr level
 - **Hit Points at First Level:** 12 + CON
-- **Hit Points at Higher Levels:** add 7 OR 1d12 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 7 OR 1d12 + CON (minimum of 1)
 
 ## Starting Martyr
 
@@ -140,6 +142,7 @@ The Spell Uses column of the Martyr table shows how many spells you can cast. Wh
 | 3rd | 20 |
 | 4th | 30 |
 | 5th | 45 |
+
 ^hit-points-spellcasting
 
 #### Preparing Spells
@@ -192,7 +195,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-### Mortal Burden feature (Level 6)
+### Mortal Burden Feature (Level 6)
 
 At 6th level, you gain one feature granted by your Mortal Burden.
 
@@ -210,7 +213,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 Beginning at 10th level, when you drop to 0 hit points and aren't killed outright, you can choose to drop to 1 hit point instead. Once you use this ability, you can't use it again until you finish a long rest.
 
-### Torment improvement (Level 11)
+### Torment Improvement (Level 11)
 
 Starting at 11th level when using your [Torment](/3-Content/Compendiums/classes/martyr-vss.md#Torment%20(Level%203)), you can choose to lose 10 hit points to deal an extra +20 damage to the target.
 
@@ -220,7 +223,7 @@ When you reach 12th level you can increase one ability score of your choice by 2
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Mortal Burden feature (Level 14)
+### Mortal Burden Feature (Level 14)
 
 At 14th level, you gain one feature granted by your Mortal Burden.
 
@@ -234,7 +237,7 @@ When you reach 16th level you can increase one ability score of your choice by 2
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Mortal Burden feature (Level 18)
+### Mortal Burden Feature (Level 18)
 
 At 18th level, you gain one feature granted by your Mortal Burden.
 

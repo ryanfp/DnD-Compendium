@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/kt-cll
-- ttrpg-cli/subclass/spellblade/aether-blade
+tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/spellblade/aether-blade]
 aliases:
-- Aether Blade Technique
+  - Aether Blade Technique
+created: 2025/06/13 at 22:32
+updated: 2025/07/13 at 00:17
 ---
+
 # Aether Blade Technique
+
 *[Spellblade](./spellblade-kt-cll.md): Technique*  
 *Source: Kibbles' Compendium of Legends and Legacies p. 48*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Aether Blade Technique (Level 3)
@@ -62,6 +63,7 @@ You learn the following spells at the following levels. The following are Spellb
 | 9th | [aether lance](/3-Content/Compendiums/spells/aether-lance-kt-cll.md) |
 | 13th | [dimension cutter](/3-Content/Compendiums/spells/dimension-cutter-kt-cll.md) |
 | 17th | [aether storm](/3-Content/Compendiums/spells/aether-storm-kt-cll.md) |
+
 ^aether-blade-spells
 
 ### Aether Blade (Level 3)

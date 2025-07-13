@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/monk/mercy
+tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/subclass/monk/mercy]
 aliases:
-- Warrior of Mercy
+  - Warrior of Mercy
+  - Warrior of Mercy
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Warrior of Mercy
+
 *[Monk](./monk-xphb.md): Monk Subclass*  
 *Source: Player's Handbook (2024) p. 104*  
 
@@ -41,7 +44,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

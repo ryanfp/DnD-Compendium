@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/kt-cll
-- ttrpg-cli/subclass/spellblade/spellfist
+tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/spellblade/spellfist]
 aliases:
-- Spellfist Technique
+  - Spellfist Technique
+created: 2025/06/13 at 22:32
+updated: 2025/07/13 at 00:17
 ---
+
 # Spellfist Technique
+
 *[Spellblade](./spellblade-kt-cll.md): Technique*  
 *Source: Kibbles' Compendium of Legends and Legacies p. 55*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Spellfist Technique (Level 3)
@@ -64,6 +65,7 @@ You learn the following spells at the following levels. The following are Spellb
 | 9th | [vortex blast](/3-Content/Compendiums/spells/vortex-blast-kt-cll.md) |
 | 13th | [aero barrage](/3-Content/Compendiums/spells/aero-barrage-kt-cll.md) |
 | 17th | [shockwave](/3-Content/Compendiums/spells/shockwave-kt-cll.md) |
+
 ^spellfist-spells
 
 ### Kinetic Magic (Level 3)

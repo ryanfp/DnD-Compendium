@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/druid/land
+tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/subclass/druid/land]
 aliases:
-- Circle of the Land
+  - Circle of the Land
+  - Circle of the Land
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Circle of the Land
+
 *[Druid](./druid-xphb.md): Druid Subclass*  
 *Source: Player's Handbook (2024) p. 84. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
@@ -42,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Circle of the Land (Level 3)
@@ -63,6 +65,7 @@ Whenever you finish a [Long Rest](/3-Content/Rules/variant-rules/long-rest-xphb.
 | 5th | [Fireball](/3-Content/Compendiums/spells/fireball-xphb.md) |
 | 7th | [Blight](/3-Content/Compendiums/spells/blight-xphb.md) |
 | 9th | [Wall of Stone](/3-Content/Compendiums/spells/wall-of-stone-xphb.md) |
+
 ^arid-land
 
 **Polar Land**
@@ -73,6 +76,7 @@ Whenever you finish a [Long Rest](/3-Content/Rules/variant-rules/long-rest-xphb.
 | 5th | [Sleet Storm](/3-Content/Compendiums/spells/sleet-storm-xphb.md) |
 | 7th | [Ice Storm](/3-Content/Compendiums/spells/ice-storm-xphb.md) |
 | 9th | [Cone of Cold](/3-Content/Compendiums/spells/cone-of-cold-xphb.md) |
+
 ^polar-land
 
 **Temperate Land**
@@ -83,6 +87,7 @@ Whenever you finish a [Long Rest](/3-Content/Rules/variant-rules/long-rest-xphb.
 | 5th | [Lightning Bolt](/3-Content/Compendiums/spells/lightning-bolt-xphb.md) |
 | 7th | [Freedom of Movement](/3-Content/Compendiums/spells/freedom-of-movement-xphb.md) |
 | 9th | [Tree Stride](/3-Content/Compendiums/spells/tree-stride-xphb.md) |
+
 ^temperate-land
 
 **Tropical Land**
@@ -93,6 +98,7 @@ Whenever you finish a [Long Rest](/3-Content/Rules/variant-rules/long-rest-xphb.
 | 5th | [Stinking Cloud](/3-Content/Compendiums/spells/stinking-cloud-xphb.md) |
 | 7th | [Polymorph](/3-Content/Compendiums/spells/polymorph-xphb.md) |
 | 9th | [Insect Plague](/3-Content/Compendiums/spells/insect-plague-xphb.md) |
+
 ^tropical-land
 
 ### Land's Aid (Level 3)
@@ -119,6 +125,7 @@ You are immune to the [Poisoned](/3-Content/Rules/conditions.md#Poisoned) condit
 | Polar | Cold |
 | Temperate | Lightning |
 | Tropical | Poison |
+
 ^natures-ward
 
 ### Nature's Sanctuary (Level 14)

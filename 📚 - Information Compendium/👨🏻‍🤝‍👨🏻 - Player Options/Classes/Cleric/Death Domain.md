@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/domain/death
-- ttrpg-cli/subclass/cleric/death
+tags: [ttrpg-cli/compendium/src/5e/dmg, ttrpg-cli/domain/death, ttrpg-cli/subclass/cleric/death]
 aliases:
-- Death Domain
+  - Death Domain
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Death Domain
+
 *[Cleric](Cleric.md): Divine Domain*  
 *Source: Dungeon Master's Guide p. 96*  
 
@@ -43,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Death Domain (Level 1)
@@ -61,6 +61,7 @@ At each indicated cleric level, add the listed spells to your spells prepared. T
 | 5th | [animate dead](/3-Content/Compendiums/spells/animate-dead-xphb.md), [vampiric touch](/3-Content/Compendiums/spells/vampiric-touch-xphb.md) |
 | 7th | [blight](/3-Content/Compendiums/spells/blight-xphb.md), [death ward](/3-Content/Compendiums/spells/death-ward-xphb.md) |
 | 9th | [antilife shell](/3-Content/Compendiums/spells/antilife-shell-xphb.md), [cloudkill](/3-Content/Compendiums/spells/cloudkill-xphb.md) |
+
 ^death-domain-spells
 
 ### Bonus Proficiency (Level 1)
@@ -86,6 +87,7 @@ Starting at 6th level, the cleric's ability to channel negative energy becomes m
 At 8th level, the cleric gains the ability to infuse his or her weapon strikes with necrotic energy. Once on each of the cleric's turns when he or she hits a creature with a weapon attack, the cleric can cause the attack to deal an extra `d8` necrotic damage to the target. When the cleric reaches 14th level, the extra damage increases to `2d8`.
 
 ### Blessed Strikes (Level 8)
+
 _Source: Tasha's Cauldron of Everything p. 30_
 
 *8th-level cleric [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*

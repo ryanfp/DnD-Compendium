@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/paladin/vengeance
+tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/subclass/paladin/vengeance]
 aliases:
-- Oath of Vengeance
+  - Oath of Vengeance
+  - Oath of Vengeance
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Oath of Vengeance
+
 *[Paladin](./paladin-xphb.md): Paladin Subclass*  
 *Source: Player's Handbook (2024) p. 116*  
 
@@ -42,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Oath of Vengeance (Level 3)
@@ -70,6 +72,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 | 9th | [Haste](/3-Content/Compendiums/spells/haste-xphb.md), [Protection from Energy](/3-Content/Compendiums/spells/protection-from-energy-xphb.md) |
 | 13th | [Banishment](/3-Content/Compendiums/spells/banishment-xphb.md), [Dimension Door](/3-Content/Compendiums/spells/dimension-door-xphb.md) |
 | 17th | [Hold Monster](/3-Content/Compendiums/spells/hold-monster-xphb.md), [Scrying](/3-Content/Compendiums/spells/scrying-xphb.md) |
+
 ^oath-of-vengeance-spells
 
 ### Vow of Enmity (Level 3)

@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/savant
-- ttrpg-cli/compendium/src/5e/llsav
+tags: [ttrpg-cli/class/savant, ttrpg-cli/compendium/src/5e/llsav]
 aliases:
-- Savant
+  - Savant
+created: 2025/06/13 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # Savant
+
 *Source: Savant*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d8 per Savant level
 - **Hit Points at First Level:** 8 + CON
-- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON (minimum of 1)
 
 ## Starting Savant
 
@@ -111,6 +113,7 @@ In their desire to answer every question, Savants can develop obsessions. These 
 | 2 | As a child you saw a majestic golden bird fly across the sky that left a rainbow in its wake. |
 | 3 | Your father charged you to find the legendary, and most likely fictional, chalice of Bahamut. |
 | 4 | You use the word "inconceivable" all the time even though you aren't exactly sure what it means |
+
 ^obsession
 
 ## Eccentricities
@@ -127,6 +130,7 @@ Often, with great intellect and intense mental focus comes some strange habits. 
 | 4 | When someone doesn't understand something you just haven't explained it enough times. |
 | 5 | You take diligent notes on everything even when it isn't socially appropriate. |
 | 6 | You are so dedicated to your field of study that you find yourself explaining things to your foes. |
+
 ^eccentricity
 
 ## Good Luck Charms
@@ -143,6 +147,7 @@ Often, despite their intellect, Savants develop attachments to mundane charms, o
 | 4 | You carry a scroll of insane ramblings. One day you *will* figure out its meaning. |
 | 5 | You wear a pair of crystal spectacles even though you have perfect vision. |
 | 6 | You never leave home without a copy of your mentor's thesis on [owlbear](/3-Content/Compendiums/bestiary/monstrosity/owlbear-xmm.md) anatomy. |
+
 ^lucky-trinket
 
 ## Irrational Fears
@@ -159,6 +164,7 @@ Despite their impressive minds, Savants tend to develop fears that anyone with c
 | 4 | You hate snakes and snake-like creatures. |
 | 5 | You are so afraid of undead that the sight of them causes you to vomit. |
 | 6 | You give out code words to your allies so they can prove they aren't [doppelgangers](/3-Content/Compendiums/bestiary/monstrosity/doppelganger-xmm.md). |
+
 ^irrational-fear
 
 ## Quick Build

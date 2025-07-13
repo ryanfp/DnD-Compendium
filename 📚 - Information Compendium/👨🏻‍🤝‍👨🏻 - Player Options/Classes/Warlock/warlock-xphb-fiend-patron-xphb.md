@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/warlock/fiend
+tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/subclass/warlock/fiend]
 aliases:
-- Fiend Patron
+  - Fiend Patron
+  - Fiend Patron
+created: 2025/06/15 at 15:38
+updated: 2025/07/13 at 00:17
 ---
+
 # Fiend Patron
+
 *[Warlock](./warlock-xphb.md): Warlock Subclass*  
 *Source: Player's Handbook (2024) p. 161. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
@@ -42,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Fiend Patron (Level 3)
@@ -63,6 +65,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 | 5 | [Fireball](/3-Content/Compendiums/spells/fireball-xphb.md), [Stinking Cloud](/3-Content/Compendiums/spells/stinking-cloud-xphb.md) |
 | 7 | [Fire Shield](/3-Content/Compendiums/spells/fire-shield-xphb.md), [Wall of Fire](/3-Content/Compendiums/spells/wall-of-fire-xphb.md) |
 | 9 | [Geas](/3-Content/Compendiums/spells/geas-xphb.md), [Insect Plague](/3-Content/Compendiums/spells/insect-plague-xphb.md) |
+
 ^fiend-spells
 
 ### Dark One's Blessing (Level 3)

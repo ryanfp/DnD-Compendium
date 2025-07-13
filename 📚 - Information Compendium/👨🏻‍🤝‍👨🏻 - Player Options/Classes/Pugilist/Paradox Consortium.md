@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/ultimateadventurer
-  - ttrpg-cli/subclass/pugilist/paradox-consortium
+tags: [ttrpg-cli/compendium/src/5e/ultimateadventurer, ttrpg-cli/subclass/pugilist/paradox-consortium]
 aliases:
   - Paradox Consortium
-title: Paradox Consortium
+created: 2025/06/13 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # Paradox Consortium
+
 *[Pugilist](./pugilist-ultimateadventurer.md): Fight Club*  
 *Source: The Ultimate Adventurer's Handbook p. 203*  
 
@@ -43,12 +44,11 @@ title: Paradox Consortium
 
 ^class-progression
 
-
 ## Class Features
 
 ### Paradox Consortium (Level 3)
 
-Pugilists of the Paradox Consortium fight like time is on their side, mostly because it is. They build and utilize equipment powered by their moxie to bend the flow of time, jump back in short bursts to de-canonize their mistakes, and accelerate localized time for themselves and others. To such a pugilist, navigating the wibbly wobbly, timey wimey stuff is just another Tuesday. If you mess with one, be prepared to get punched into next week... literally.
+Pugilists of the Paradox Consortium fight like time is on their side, mostly because it is. They build and utilize equipment powered by their moxie to bend the flow of time, jump back in short bursts to de-canonize their mistakes, and accelerate localized time for themselves and others. To such a pugilist, navigating the wibbly wobbly, timey wimey stuff is just another Tuesday. If you mess with one, be prepared to get punched into next week… literally.
 
 ### Time Tinkerer (Level 3)
 

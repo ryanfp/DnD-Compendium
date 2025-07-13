@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/paladin/watchers
+tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/paladin/watchers]
 aliases:
-- Oath of the Watchers
+  - Oath of the Watchers
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Oath of the Watchers
+
 *[Paladin](Paladin.md): Sacred Oath*  
 *Source: Tasha's Cauldron of Everything p. 54*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Oath of the Watchers (Level 3)
@@ -56,16 +57,19 @@ Paladins who follow the Watchers' oath are ever vigilant in spotting the influen
 A paladin who assumes the Oath of the Watchers swears to safeguard mortal realms from otherworldly threats.
 
 #### Vigilance
+
 _Source: Tasha's Cauldron of Everything_
 
 The threats you face are cunning, powerful, and subversive. Be ever alert for their corruption.
 
 #### Loyalty
+
 _Source: Tasha's Cauldron of Everything_
 
 Never accept gifts or favors from fiends or those who truck with them. Stay true to your order, your comrades, and your duty.
 
 #### Discipline
+
 _Source: Tasha's Cauldron of Everything_
 
 You are the shield against the endless terrors that lie beyond the stars. Your blade must be forever sharp and your mind keen to survive what lies beyond.
@@ -85,6 +89,7 @@ You gain oath spells at the paladin levels listed in the Oath of the Watchers ta
 | 9th | [counterspell](/3-Content/Compendiums/spells/counterspell-xphb.md), [nondetection](/3-Content/Compendiums/spells/nondetection-xphb.md) |
 | 13th | [aura of purity](/3-Content/Compendiums/spells/aura-of-purity-xphb.md), [banishment](/3-Content/Compendiums/spells/banishment-xphb.md) |
 | 17th | [hold monster](/3-Content/Compendiums/spells/hold-monster-xphb.md), [scrying](/3-Content/Compendiums/spells/scrying-xphb.md) |
+
 ^oath-of-the-watchers-spells
 
 ### Channel Divinity (Level 3)

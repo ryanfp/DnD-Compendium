@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/tdcsr
-- subclass/druid/blighted
+tags: [compendium/src/5e/tdcsr, subclass/druid/blighted]
 aliases:
-- Circle of the Blighted
+  - Circle of the Blighted
+created: 2025/06/15 at 22:24
+updated: 2025/07/13 at 00:17
 ---
+
 # Circle of the Blighted
+
 *[Druid](Druid.md): Druid Circle*  
 *Source: Tal'Dorei Campaign Setting Reborn p. 171*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 
@@ -87,11 +88,13 @@ The extra damage dealt by your defiled ground increases to `d8` when you reach 1
 Starting at 10th level, the creatures you conjure are malformed and bloated with toxins. Any beast, fey, or plant (including your [blighted sapling](/📚%20-%20Information%20Compendium/bestiary/plant/blighted-sapling-tdcsr.md)) summoned or created by your spells or class features gains the following traits:
 
 #### Blighted Resilience
+
 _Source: Tal'Dorei Campaign Setting Reborn_
 
 The creature has immunity to necrotic and poison damage and to the [poisoned](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Poisoned) condition.
 
 #### Toxic Demise
+
 _Source: Tal'Dorei Campaign Setting Reborn_
 
 When the creature is reduced to 0 hit points, it explodes in a burst of toxic mulch or fetid viscera. Each creature within 5 feet of the exploding creature must succeed on a Constitution saving throw against your spell save DC or take necrotic damage based on the creature's challenge rating (see the table below). As an action, you can also cause a summoned creature to explode, immediately killing it.
@@ -104,6 +107,7 @@ When the creature is reduced to 0 hit points, it explodes in a burst of toxic mu
 | 1/2 | `d6` necrotic damage |
 | 1 or higher | A number of d8s of necrotic damage equal to the creature's challenge rating |
 | No challenge rating | A number of d6s of necrotic damage equal to your proficiency bonus |
+
 ^toxic-demise-damage
 
 ### Incarnation of Corruption (Level 14)

@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/llvessel
-  - ttrpg-cli/subclass/vessel/ascended
+tags: [ttrpg-cli/compendium/src/5e/llvessel, ttrpg-cli/subclass/vessel/ascended]
 aliases:
   - The Ascended
-title: The Ascended
+created: 2025/06/13 at 22:33
+updated: 2025/07/13 at 00:17
 ---
+
 # The Ascended
+
 *[Vessel](Vessel.md): Sealed Spirit*  
 *Source: The Vessel p. 5*  
 
@@ -43,7 +44,6 @@ title: The Ascended
 
 ^class-progression
 
-
 ## Class Features
 
 ### The Ascended (Level 3)
@@ -67,6 +67,7 @@ Your Iridescent Strikes can also deal the damage type of any Vessel spell you kn
 | 9th | melf's minute meteors, counterspell (alternate) |
 | 13th | [arcane eye](/3-Content/Compendiums/spells/arcane-eye-xphb.md), [resilient sphere](/3-Content/Compendiums/spells/otilukes-resilient-sphere-xphb.md) |
 | 17th | [legend lore](/3-Content/Compendiums/spells/legend-lore-xphb.md), [wall of force](/3-Content/Compendiums/spells/wall-of-force-xphb.md) |
+
 ^vessel-level-spells
 
 ### Ascended Archon (Level 3)

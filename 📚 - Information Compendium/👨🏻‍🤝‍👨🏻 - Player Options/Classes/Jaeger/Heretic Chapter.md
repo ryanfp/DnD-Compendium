@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/sgtteh
-  - ttrpg-cli/subclass/jaeger/heretic
+tags: [ttrpg-cli/compendium/src/5e/sgtteh, ttrpg-cli/subclass/jaeger/heretic]
 aliases:
   - Heretic Chapter
   - jaeger-heretic-chapter-sgtteh
-title: Heretic Chapter
+created: 2025/06/13 at 22:28
+updated: 2025/07/13 at 00:17
 ---
+
 # Heretic Chapter
+
 *[Jaeger](Jaeger.md): Chapter*  
 *Source: Steinhardt's Guide to the Eldritch Hunt p. 119*  
 
@@ -43,7 +44,6 @@ title: Heretic Chapter
 > </tbody></table>
 
 ^class-progression
-
 
 > [!quote] A quote from Unknown  
 > 

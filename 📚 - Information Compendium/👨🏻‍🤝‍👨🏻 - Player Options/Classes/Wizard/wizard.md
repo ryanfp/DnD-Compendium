@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/wizard
-- ttrpg-cli/compendium/src/5e/phb
+tags: [ttrpg-cli/class/wizard, ttrpg-cli/compendium/src/5e/phb]
 aliases:
-- Wizard
+  - Wizard
+created: 2025/06/15 at 15:38
+updated: 2025/07/13 at 00:17
 ---
+
 # Wizard
+
 *Source: Player's Handbook p. 112. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d6 per Wizard level
 - **Hit Points at First Level:** 6 + CON
-- **Hit Points at Higher Levels:** add 4 OR 1d6 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 4 OR 1d6 + CON (minimum of 1)
 
 ## Starting Wizard
 
@@ -117,6 +119,7 @@ If you're playing a wizard, take advantage of the opportunity to make your chara
 > Hey, wizard! You can't do magic. Oops, now you can. Oops, now you can't anymore. Ha ha ha!
 
 ## Spellbook
+
 _Source: Xanathar's Guide to Everything_
 
 Your wizard character's most prized possession—your spellbook—might be an innocuous-looking volume whose covers show no hint of what's inside. Or you might display some flair, as many wizards do, by carrying a spellbook of an unusual sort. If you don't own such an item already, one of your goals might be to find a spellbook that sets you apart by its appearance or its means of manufacture.
@@ -133,9 +136,11 @@ Your wizard character's most prized possession—your spellbook—might be an in
 | 4 | Small stones inscribed with spells and kept in a cloth bag |
 | 5 | A scorched book, ravaged by dragon fire, with the script of your spells barely visible on its pages |
 | 6 | A tome full of black pages whose writing is visible only in dim light or darkness |
+
 ^spellbooks
 
 ## Ambition
+
 _Source: Xanathar's Guide to Everything_
 
 Few aspiring wizards undertake the study of magic without some personal goal in mind. Many wizards use their spells as a tool to produce a tangible benefit, in material goods or in status, for themselves or their companions. For others, the theoretical aspect of magic might have a strong appeal, pushing those wizards to seek out knowledge that supports new theories of the arcane or confirms old ones.
@@ -154,9 +159,11 @@ Beyond the obvious, why does your wizard character study magic, and what do you 
 | 4 | Magic is a dangerous tool. You use it to protect what you treasure. |
 | 5 | Arcane power must be taken away from those who would abuse it. |
 | 6 | You will become the greatest wizard the world has seen in generations. |
+
 ^ambitions
 
 ## Eccentricity
+
 _Source: Xanathar's Guide to Everything_
 
 Endless hours of solitary study and research can have a negative effect on anyone's social skills. Wizards, who are a breed apart to begin with, are no exception. An odd mannerism or two is not necessarily a drawback, though; an eccentricity of this sort is usually harmless and could provide a source of amusement or serve as a calling card of sorts.
@@ -175,6 +182,7 @@ If your character has an eccentricity, is it a physical tic or a mental one? Are
 | 4 | Your most prized possession is a dead worm that you keep inside a potion vial. |
 | 5 | When you want people to leave you alone, you start talking to yourself. That usually does the trick. |
 | 6 | Your fashion sense and grooming, or more accurately lack thereof, sometimes cause others to assume you are a beggar. |
+
 ^eccentricities
 
 ## Class Features
@@ -253,6 +261,7 @@ Each time you gain a wizard level, you can add two wizard spells of your choice 
 When you reach 2nd level, you choose an arcane tradition from the list of available traditions, shaping your practice of magic. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
 ### Cantrip Formulas (Level 3)
+
 _Source: Tasha's Cauldron of Everything p. 75_
 
 *3rd-level wizard [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md)*
@@ -265,7 +274,7 @@ When you reach 4th level, you can increase one ability score of your choice by 2
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Arcane Tradition feature (Level 6)
+### Arcane Tradition Feature (Level 6)
 
 At 6th level, you gain a feature granted by your Arcane Tradition.
 
@@ -275,7 +284,7 @@ When you reach 8th level, you can increase one ability score of your choice by 2
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Arcane Tradition feature (Level 10)
+### Arcane Tradition Feature (Level 10)
 
 At 10th level, you gain a feature granted by your Arcane Tradition.
 
@@ -285,7 +294,7 @@ When you reach 12th level, you can increase one ability score of your choice by 
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Arcane Tradition feature (Level 14)
+### Arcane Tradition Feature (Level 14)
 
 At 14th level, you gain a feature granted by your Arcane Tradition.
 

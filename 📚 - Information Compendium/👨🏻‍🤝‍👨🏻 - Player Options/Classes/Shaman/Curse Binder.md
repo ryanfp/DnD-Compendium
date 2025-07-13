@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/llsh
-  - ttrpg-cli/subclass/shaman/curse-binder
+tags: [ttrpg-cli/compendium/src/5e/llsh, ttrpg-cli/subclass/shaman/curse-binder]
 aliases:
   - Curse Binder
-title: Curse Binder
+created: 2025/06/13 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # Curse Binder
+
 *[Shaman](Shaman.md): Spirituality*  
 *Source: The Shaman p. 6*  
 
@@ -43,7 +44,6 @@ title: Curse Binder
 
 ^class-progression
 
-
 ## Class Features
 
 ### Curse Binder (Level 2)
@@ -65,6 +65,7 @@ You always have certain spells prepared at the Shaman levels in the table below.
 | 5th | [bestow curse](/3-Content/Compendiums/spells/bestow-curse-xphb.md), [vampiric touch](/3-Content/Compendiums/spells/vampiric-touch-xphb.md) |
 | 7th | [blight](/3-Content/Compendiums/spells/blight-xphb.md), [phantasmal killer](/3-Content/Compendiums/spells/phantasmal-killer-xphb.md) |
 | 9th | [contagion](/3-Content/Compendiums/spells/contagion-xphb.md), enervation |
+
 ^curse-binder-spells
 
 ### Evil Eye (Level 2)

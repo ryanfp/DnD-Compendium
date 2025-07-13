@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/llsh
-  - ttrpg-cli/subclass/shaman/witch-doctor
+tags: [ttrpg-cli/compendium/src/5e/llsh, ttrpg-cli/subclass/shaman/witch-doctor]
 aliases:
   - Witch Doctor
-title: Witch Doctor
+created: 2025/06/13 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # Witch Doctor
+
 *[Shaman](Shaman.md): Spirituality*  
 *Source: The Shaman p. 8*  
 
@@ -43,7 +44,6 @@ title: Witch Doctor
 
 ^class-progression
 
-
 ## Class Features
 
 ### Witch Doctor (Level 2)
@@ -65,6 +65,7 @@ You always have certain spells prepared at the Shaman levels in the table below.
 | 5th | [beacon of hope](/3-Content/Compendiums/spells/beacon-of-hope-xphb.md), [revivify](/3-Content/Compendiums/spells/revivify-xphb.md) |
 | 7th | [aura of life](/3-Content/Compendiums/spells/aura-of-life-xphb.md), [death ward](/3-Content/Compendiums/spells/death-ward-xphb.md) |
 | 9th | [creation](/3-Content/Compendiums/spells/creation-xphb.md), [reincarnate](/3-Content/Compendiums/spells/reincarnate-xphb.md) |
+
 ^witch-doctor-spells
 
 ### Life Bearer (Level 2)

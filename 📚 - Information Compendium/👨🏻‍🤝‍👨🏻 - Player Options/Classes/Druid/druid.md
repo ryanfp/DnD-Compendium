@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/druid
-- ttrpg-cli/compendium/src/5e/phb
+tags: [ttrpg-cli/class/druid, ttrpg-cli/compendium/src/5e/phb]
 aliases:
-- Druid
+  - Druid
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Druid
+
 *Source: Player's Handbook p. 64. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d8 per Druid level
 - **Hit Points at First Level:** 8 + CON
-- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON (minimum of 1)
 
 ## Starting Druid
 
@@ -136,6 +138,7 @@ Your druid character might be a true worshiper of nature, one who has always sco
 > I've always liked druids, because they are made of natural ingredients. And I believe that everyone should have such a healthy diet.
 
 ## Treasured Item
+
 _Source: Xanathar's Guide to Everything_
 
 Some druids carry one or more items that are sacred to them or have deep personal significance. Such items are not necessarily magical, but every one is an object whose meaning connects the druid's mind and heart to a profound concept or spiritual outlook.
@@ -154,9 +157,11 @@ When you decide what your character's treasured item is, think about giving it a
 | 4 | A small bronze bowl engraved with animal images |
 | 5 | A rattle made from a dried gourd and holly berries |
 | 6 | A miniature golden sickle handed down to you by your mentor |
+
 ^treasured-item
 
 ## Guiding Aspects
+
 _Source: Xanathar's Guide to Everything_
 
 Many druids feel a strong link to a specific aspect of the natural world, such as a body of water, an animal, a type of tree, or some other sort of plant. You identify with your chosen aspect; by its behavior or its very nature, it sets an example that you seek to emulate.
@@ -173,9 +178,11 @@ Many druids feel a strong link to a specific aspect of the natural world, such a
 | 4 | The sea is a constant, churning cauldron of power and chaos. It reminds you that accepting change is necessary to sustain yourself in the world. |
 | 5 | The birds in the sky are evidence that even the smallest creatures can survive if they remain above the fray. |
 | 6 | As demonstrated by the actions of the wolf, an individual's strength is nothing compared to the power of the pack. |
+
 ^guiding-aspects
 
 ## Mentors
+
 _Source: Xanathar's Guide to Everything_
 
 It's not unusual for would-be druids to seek out (or be sought out by) instructors or elders who teach them the basics of their magical arts. Most druids who learn from a mentor begin their training at a young age, and the mentor has a vital role in shaping a student's attitudes and beliefs.
@@ -194,9 +201,11 @@ If your character received training from someone else, who or what was that indi
 | 4 | You were one of several youngsters who were mentored by an old druid, until one of your fellow pupils betrayed your group and killed your master. |
 | 5 | Your mentor has appeared to you only in visions. You have yet to meet this person, and you are not sure such a person exists in mortal form. |
 | 6 | Your mentor was a werebear who taught you to treat all living things with equal regard. |
+
 ^mentors
 
 ## Learning Beast Shapes
+
 _Source: Xanathar's Guide to Everything_
 
 The Wild Shape feature in the player's handbook lets you transform into a beast that you've seen. That rule gives you a tremendous amount of flexibility, making it easy to amass an array of beast form options for yourself, but you must abide by the limitations in the Beast Shapes table in that book.
@@ -211,7 +220,8 @@ These tables can also help you and your DM determine which animals you might see
 
 The tables include all the individual beasts that are eligible for Wild Shape (up to a challenge rating of 1) or the Circle Forms feature of the Circle of the Moon (up to a challenge rating of 6).
 
-### 
+###
+
 _Source: Xanathar's Guide to Everything_
 
 **Arctic**
@@ -225,6 +235,7 @@ _Source: Xanathar's Guide to Everything_
 | 2 | [Polar bear](/3-Content/Compendiums/bestiary/beast/polar-bear-xmm.md) | Swim |
 | 2 | [Saber-toothed tiger](/3-Content/Compendiums/bestiary/beast/saber-toothed-tiger-xmm.md) | — |
 | 6 | [Mammoth](/3-Content/Compendiums/bestiary/beast/mammoth-xmm.md) | — |
+
 ^arctic
 
 **Coast**
@@ -243,6 +254,7 @@ _Source: Xanathar's Guide to Everything_
 | 1 | [Giant eagle](/3-Content/Compendiums/bestiary/celestial/giant-eagle-xmm.md) | Fly |
 | 1 | [Giant toad](/3-Content/Compendiums/bestiary/beast/giant-toad-xmm.md) | Swim |
 | 2 | [Plesiosaurus](/3-Content/Compendiums/bestiary/beast/plesiosaurus-xmm.md) | Swim |
+
 ^coast
 
 **Desert**
@@ -270,6 +282,7 @@ _Source: Xanathar's Guide to Everything_
 | 1 | [Lion](/3-Content/Compendiums/bestiary/beast/lion-xmm.md) | — |
 | 2 | [Giant constrictor snake](/3-Content/Compendiums/bestiary/beast/giant-constrictor-snake-xmm.md) | Swim |
 | 3 | [Giant scorpion](/3-Content/Compendiums/bestiary/beast/giant-scorpion-xmm.md) | — |
+
 ^desert
 
 **Forest**
@@ -313,6 +326,7 @@ _Source: Xanathar's Guide to Everything_
 | 2 | [Giant boar](/3-Content/Compendiums/bestiary/beast/giant-boar-xmm.md) | — |
 | 2 | [Giant constrictor snake](/3-Content/Compendiums/bestiary/beast/giant-constrictor-snake-xmm.md) | Swim |
 | 2 | [Giant elk](/3-Content/Compendiums/bestiary/celestial/giant-elk-xmm.md) | — |
+
 ^forest
 
 **Grassland**
@@ -354,6 +368,7 @@ _Source: Xanathar's Guide to Everything_
 | 3 | [Ankylosaurus](/3-Content/Compendiums/bestiary/beast/ankylosaurus-xmm.md) | — |
 | 4 | [Elephant](/3-Content/Compendiums/bestiary/beast/elephant-xmm.md) | — |
 | 5 | [Triceratops](/3-Content/Compendiums/bestiary/beast/triceratops-xmm.md) | — |
+
 ^grassland
 
 **Hill**
@@ -387,6 +402,7 @@ _Source: Xanathar's Guide to Everything_
 | 1 | [Lion](/3-Content/Compendiums/bestiary/beast/lion-xmm.md) | — |
 | 2 | [Giant boar](/3-Content/Compendiums/bestiary/beast/giant-boar-xmm.md) | — |
 | 2 | [Giant elk](/3-Content/Compendiums/bestiary/celestial/giant-elk-xmm.md) | — |
+
 ^hill
 
 **Mountain**
@@ -403,6 +419,7 @@ _Source: Xanathar's Guide to Everything_
 | 1 | [Lion](/3-Content/Compendiums/bestiary/beast/lion-xmm.md) | — |
 | 2 | [Giant elk](/3-Content/Compendiums/bestiary/celestial/giant-elk-xmm.md) | — |
 | 2 | [Saber-toothed tiger](/3-Content/Compendiums/bestiary/beast/saber-toothed-tiger-xmm.md) | — |
+
 ^mountain
 
 **Swamp**
@@ -423,6 +440,7 @@ _Source: Xanathar's Guide to Everything_
 | 1 | [Giant toad](/3-Content/Compendiums/bestiary/beast/giant-toad-xmm.md) | Swim |
 | 2 | [Giant constrictor snake](/3-Content/Compendiums/bestiary/beast/giant-constrictor-snake-xmm.md) | Swim |
 | 5 | [Giant crocodile](/3-Content/Compendiums/bestiary/beast/giant-crocodile-xmm.md) | Swim |
+
 ^swamp
 
 **Underdark**
@@ -440,6 +458,7 @@ _Source: Xanathar's Guide to Everything_
 | 1 | [Giant toad](/3-Content/Compendiums/bestiary/beast/giant-toad-xmm.md) | Swim |
 | 2 | [Giant constrictor snake](/3-Content/Compendiums/bestiary/beast/giant-constrictor-snake-xmm.md) | Swim |
 | 2 | [Polar bear](/3-Content/Compendiums/bestiary/beast/polar-bear-xmm.md) (cave bear) | Swim |
+
 ^underdark
 
 **Underwater**
@@ -456,6 +475,7 @@ _Source: Xanathar's Guide to Everything_
 | 2 | [Plesiosaurus](/3-Content/Compendiums/bestiary/beast/plesiosaurus-xmm.md) | Swim |
 | 3 | [Killer whale](/3-Content/Compendiums/bestiary/beast/killer-whale-xmm.md) | Swim |
 | 5 | [Giant shark](/3-Content/Compendiums/bestiary/beast/giant-shark-xmm.md) | Swim |
+
 ^underwater
 
 ## Class Features
@@ -511,6 +531,7 @@ Your druid level determines the beasts you can transform into, as shown in the B
 | 2nd | 1/4 | No flying or swimming speed | Wolf |
 | 4th | 1/2 | No flying speed | Crocodile |
 | 8th | 1 | — | Giant eagle |
+
 ^beast-shapes
 
 You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall [unconscious](/3-Content/Rules/conditions.md#Unconscious), drop to 0 hit points, or die.
@@ -524,6 +545,7 @@ While you are transformed, the following rules apply:
 - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.  
 
 ### Wild Companion (Level 2)
+
 _Source: Tasha's Cauldron of Everything p. 35_
 
 *2nd-level druid [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md)*
@@ -547,13 +569,14 @@ When you reach 4th level, you can increase one ability score of your choice by 2
 If your DM allows the use of feats, you may instead take a feat.
 
 ### Cantrip Versatility (Level 4)
+
 _Source: Tasha's Cauldron of Everything p. 35_
 
 *4th-level druid [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md)*
 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the druid spell list.
 
-### Druid Circle feature (Level 6)
+### Druid Circle Feature (Level 6)
 
 At 6th level, you gain a feature granted by your Druid Circle.
 
@@ -567,7 +590,7 @@ When you reach 8th level, you can increase one ability score of your choice by 2
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Druid Circle feature (Level 10)
+### Druid Circle Feature (Level 10)
 
 At 10th level, you gain a feature granted by your Druid Circle feature.
 
@@ -577,7 +600,7 @@ When you reach 12th level, you can increase one ability score of your choice by 
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Druid Circle feature (Level 14)
+### Druid Circle Feature (Level 14)
 
 At 14th level, you gain a feature granted by your Druid Circle feature.
 

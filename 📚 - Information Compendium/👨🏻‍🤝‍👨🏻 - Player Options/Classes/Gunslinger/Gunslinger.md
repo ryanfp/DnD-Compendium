@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/gunslinger
-- ttrpg-cli/compendium/src/5e/vss
+tags: [ttrpg-cli/class/gunslinger, ttrpg-cli/compendium/src/5e/vss]
 aliases:
-- Gunslinger
+  - Gunslinger
+created: 2025/06/13 at 22:27
+updated: 2025/07/13 at 00:17
 ---
+
 # Gunslinger
+
 *Source: Valda's Spire of Secrets*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d8 per Gunslinger level
 - **Hit Points at First Level:** 8 + CON
-- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON (minimum of 1)
 
 ## Starting Gunslinger
 
@@ -158,6 +160,7 @@ Once per turn, you can expend a risk die to perform a deed of your choice. Your 
 ### Gunslinger's Creed (Level 3)
 
 By the time gunslingers reach 3rd level, they embrace a way of living, known as their creed, which guides their judgments and their unique brand of gunslinging. You walk the path of one of the following creeds:
+
 - [[Big Game Hunter Creed]]
 - [[Covert Operative Creed]]
 - [[Deadeye Creed]]
@@ -189,7 +192,7 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 
 Starting at 6th level, whenever you score a critical hit against a Large or smaller creature with a firearm, the bullet lodges itself in the target. Until the creature uses its action to dislodge the bullet, it moves at half speed and has disadvantage on attack rolls and ability checks. Elementals, oozes, and undead are immune to this effect.
 
-### Gunslinger's Creed feature (Level 7)
+### Gunslinger's Creed Feature (Level 7)
 
 At 7th level, you gain one feature granted by your Gunslinger's Creed.
 
@@ -207,7 +210,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 At 9th level, your ranged firearm attacks score a critical hit on a roll of 18-20.
 
-### Gunslinger's Creed feature (Level 10)
+### Gunslinger's Creed Feature (Level 10)
 
 At 10th level, you gain one feature granted by your Gunslinger's Creed.
 
@@ -225,7 +228,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 Beginning at 13th level, whenever you score a critical hit, you regain one expended risk die.
 
-### Gunslinger's Creed feature (Level 14)
+### Gunslinger's Creed Feature (Level 14)
 
 At 14th level, you gain one feature granted by your Gunslinger's Creed.
 
@@ -256,7 +259,9 @@ When you reach 19th level you can increase one ability score of your choice by 2
 If your DM allows the use of feats, you may instead take a feat.
 
 ### Head Shot (Level 20)
+
 CRITICAL STRIKE
+
 At 20th level, when you score a critical hit against a creature with a firearm, you can choose for the shot to be a head shot. If the creature has less than 100 hit points, it dies. Otherwise, it takes an extra `10d10` damage from the hit. Elementals, oozes, undead, and creatures that lack nervous systems or vital organs take no extra damage from this feature.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.

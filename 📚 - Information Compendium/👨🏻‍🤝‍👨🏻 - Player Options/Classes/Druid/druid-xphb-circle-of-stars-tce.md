@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/druid/stars
+tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/druid/stars]
 aliases:
-- Circle of Stars
+  - Circle of Stars
+  - Circle of Stars
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Circle of Stars
+
 *[Druid](./druid-xphb.md): Druid Subclass*  
 *Source: Tasha's Cauldron of Everything p. 38*  
 
@@ -42,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
 
@@ -72,6 +74,7 @@ You've created a star chart as part of your heavenly studies. It is a Tiny objec
 | 4 | A collection of maps bound in an ebony cover |
 | 5 | A crystal that projects starry patterns when placed before a light |
 | 6 | Glass disks that depict constellations |
+
 ^star-map
 
 While holding this map, you have these benefits:

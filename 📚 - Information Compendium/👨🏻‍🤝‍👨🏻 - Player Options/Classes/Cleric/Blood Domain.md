@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/tdcsr
-- domain/blood
-- subclass/cleric/blood
+tags: [compendium/src/5e/tdcsr, domain/blood, subclass/cleric/blood]
 aliases:
-- Blood Domain
+  - Blood Domain
+created: 2025/06/15 at 22:22
+updated: 2025/07/13 at 00:17
 ---
+
 # Blood Domain
+
 *[Cleric](Cleric.md): Divine Domain*  
 *Source: Tal'Dorei Campaign Setting Reborn p. 168*  
 
@@ -43,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Blood Domain (Level 1)
@@ -65,6 +65,7 @@ You gain domain spells at the cleric levels listed in the Blood Domain Spells ta
 | 5th | [haste](/📚%20-%20Information%20Compendium/spells/haste.md), [slow](/📚%20-%20Information%20Compendium/spells/slow.md) |
 | 7th | [blight](/📚%20-%20Information%20Compendium/spells/blight.md), [stoneskin](/📚%20-%20Information%20Compendium/spells/stoneskin.md) |
 | 9th | [dominate person](/📚%20-%20Information%20Compendium/spells/dominate-person.md), [hold monster](/📚%20-%20Information%20Compendium/spells/hold-monster.md) |
+
 ^blood-domain-spells
 
 ### Bonus Proficiencies (Level 1)

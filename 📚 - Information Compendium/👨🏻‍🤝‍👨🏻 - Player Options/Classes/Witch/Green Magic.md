@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/witch/green
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/witch/green]
 aliases:
   - Green Magic
-title: Green Magic
+created: 2025/06/13 at 22:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Green Magic
+
 *[Witch](Witch.md): Witch's Craft*  
 *Source: Valda's Spire of Secrets*  
 
@@ -43,7 +44,6 @@ title: Green Magic
 
 ^class-progression
 
-
 ## Class Features
 
 ### Green Magic (Level 3)
@@ -59,6 +59,7 @@ Plants, nature, and things that grow are the domain of green magic. Normally a t
 | 3rd | conjure animals, plant growth |
 | 4th | conjure woodland beings, stoneskin |
 | 5th | awaken, tree stride |
+
 ^green-magic-spells
 
 ### Hex: Elder Tongue (Level 3)

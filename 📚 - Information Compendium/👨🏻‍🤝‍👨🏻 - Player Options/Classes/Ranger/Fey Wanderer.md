@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/ranger/fey-wanderer
+tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/ranger/fey-wanderer]
 aliases:
-- Fey Wanderer
+  - Fey Wanderer
+created: 2025/06/15 at 15:37
+updated: 2025/07/13 at 00:17
 ---
+
 # Fey Wanderer
+
 *[Ranger](Ranger.md): Ranger Archetype*  
 *Source: Tasha's Cauldron of Everything p. 58*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Fey Wanderer (Level 3)
@@ -72,6 +73,7 @@ You learn an additional spell when you reach certain levels in this class, as sh
 | 9th | [dispel magic](/3-Content/Compendiums/spells/dispel-magic-xphb.md) |
 | 13th | [dimension door](/3-Content/Compendiums/spells/dimension-door-xphb.md) |
 | 17th | [mislead](/3-Content/Compendiums/spells/mislead-xphb.md) |
+
 ^fey-wanderer-spells
 
 You also possess a preternatural blessing from a fey ally or a place of fey power. Choose your blessing from the Feywild Gifts table or determine it randomly.
@@ -88,6 +90,7 @@ You also possess a preternatural blessing from a fey ally or a place of fey powe
 | 4 | Your shadow dances while no one is looking directly at it. |
 | 5 | Horns or antlers sprout from your head. |
 | 6 | Your skin and hair change color to match the season at each dawn. |
+
 ^feywild-gifts
 
 ### Otherworldly Glamour (Level 3)

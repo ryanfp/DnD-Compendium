@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/class/paladin
-- ttrpg-cli/compendium/src/5e/phb
+tags: [ttrpg-cli/class/paladin, ttrpg-cli/compendium/src/5e/phb]
 aliases:
-- Paladin
+  - Paladin
+created: 2025/06/15 at 15:36
+updated: 2025/07/13 at 00:17
 ---
+
 # Paladin
+
 *Source: Player's Handbook p. 82. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 > [!tldr] Class and Feature Progression
@@ -45,7 +47,7 @@ aliases:
 
 - **Hit Dice**: 1d10 per Paladin level
 - **Hit Points at First Level:** 10 + CON
-- **Hit Points at Higher Levels:** add 6 OR 1d10 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 6 OR 1d10 + CON (minimum of 1)
 
 ## Starting Paladin
 
@@ -122,6 +124,7 @@ You can flesh out your paladin character by using the suggestions below. It's im
 > Living up to an oath? That sounds ridiculous. Why would anyone ever do that? There's nothing wrong with making promises, but only suckers keep them.
 
 ## Personal Goal
+
 _Source: Xanathar's Guide to Everything_
 
 The precepts of a paladin's oath provide purpose to the character and dictate an ultimate goal or an overall intent that the paladin abides by and advances. Aside from that, some paladins are driven by a personal goal that either complements or transcends the dictates of their oaths. Paladins who swear different oaths might have the same personal goal, differing only in how they apply that goal to their actions when upholding their oaths.
@@ -140,9 +143,11 @@ If your paladin character has a personal goal, it might be drawn from some life 
 | 4 | Leadership. You will win a great battle that bards will sing about, and in so doing, you will become an example to inspire others. |
 | 5 | Faith. You know your path is righteous, or else the gods would not have set you upon it. |
 | 6 | Glory. You will lead the world into a grand new era, one that will be branded with your name. |
+
 ^personal-goal
 
 ## Symbol
+
 _Source: Xanathar's Guide to Everything_
 
 Paladins are mindful of the influence of symbols, and many of them adopt or design an artistic device that bears a distinctive image. Your symbol exemplifies the oath you have taken and communicates that message to those around you, friend and foe alike.
@@ -161,9 +166,11 @@ Your symbol might be displayed on a banner, a flag, or your clothing for all to 
 | 4 | A red heart, showing the world your commitment to justice |
 | 5 | A black heart, signifying that emotions such as pity do not sway your dedication to your oath |
 | 6 | An unblinking eye, meaning that you are ever alert to all threats against your cause |
+
 ^symbol
 
 ## Nemesis
+
 _Source: Xanathar's Guide to Everything_
 
 Their adherence to a sacred oath demands that paladins take an active stance in carrying their beliefs into the world. This activity naturally leads to conflict with creatures or entities that oppose those beliefs. Among those opponents, one often stands out as a paladin's most persistent or most formidable foe—a nemesis whose presence or influence is a constant factor in a paladin's life.
@@ -182,9 +189,11 @@ Your paladin character might have an enemy that dates from the days before you t
 | 4 | A high priest who sees you as a misguided fool and wants you to abandon your religion |
 | 5 | A rival paladin who trained with you but became an oath-breaker and holds you responsible |
 | 6 | A vampire who has sworn revenge against all paladins after being defeated by one |
+
 ^nemesis
 
 ## Temptation
+
 _Source: Xanathar's Guide to Everything_
 
 Although paladins are dedicated to their oaths, they are mortals, and thus they are flawed. Many of them exhibit a type of behavior or hold to an attitude that is not in keeping with the highest ideals of their calling.
@@ -203,6 +212,7 @@ What is the temptation that your character succumbs to or finds it difficult to 
 | 4 | Envy. You are mindful of what some famous folk have accomplished, and you feel inadequate when your deeds don't compare to theirs. |
 | 5 | Despair. You consider the great strength of the enemies you must defeat, and at times you see no way to achieve final victory. |
 | 6 | Greed. Regardless of how much glory and treasure you amass, it's never enough for you. |
+
 ^temptation
 
 ## Class Features
@@ -287,6 +297,7 @@ When you use your Channel Divinity, you choose which option to use. You must the
 Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your paladin spell save DC.
 
 ### Channel Divinity: Harness Divine Power (Level 3)
+
 _Source: Tasha's Cauldron of Everything p. 52_
 
 *3rd-level paladin [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md)*
@@ -309,6 +320,7 @@ When you reach 4th level, you can increase one ability score of your choice by 2
 If your DM allows the use of feats, you may instead take a feat.
 
 ### Martial Versatility (Level 4)
+
 _Source: Tasha's Cauldron of Everything p. 52_
 
 *4th-level paladin [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md)*
@@ -325,7 +337,7 @@ Starting at 6th level, whenever you or a friendly creature within 10 feet of you
 
 At 18th level, the range of this aura increases to 30 feet.
 
-### Sacred Oath feature (Level 7)
+### Sacred Oath Feature (Level 7)
 
 At 7th level, you gain a feature granted to you by your Sacred Oath.
 
@@ -357,7 +369,7 @@ Beginning at 14th level, you can use your action to end one spell on yourself or
 
 You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain expended uses when you finish a long rest.
 
-### Sacred Oath feature (Level 15)
+### Sacred Oath Feature (Level 15)
 
 At 15th level, you gain a feature granted to you by your Sacred Oath.
 
@@ -367,7 +379,7 @@ When you reach 16th level, you can increase one ability score of your choice by 
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Aura improvements (Level 18)
+### Aura Improvements (Level 18)
 
 At 18th level, the range of your Aura of Protection increases to 30 feet.
 
@@ -377,7 +389,7 @@ When you reach 19th level, you can increase one ability score of your choice by 
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Sacred Oath feature (Level 20)
+### Sacred Oath Feature (Level 20)
 
 At 20th level, you gain a feature granted to you by your Sacred Oath.
 

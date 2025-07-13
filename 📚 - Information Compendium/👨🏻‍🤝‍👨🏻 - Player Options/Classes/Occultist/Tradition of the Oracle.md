@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/kt-cll
-  - ttrpg-cli/subclass/occultist/oracle
+tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/occultist/oracle]
 aliases:
   - Tradition of the Oracle
-title: Tradition of the Oracle
+created: 2025/06/13 at 22:29
+updated: 2025/07/13 at 00:17
 ---
+
 # Tradition of the Oracle
+
 *[Occultist](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Occultist/Occultist.md): Occult Tradition*  
 *Source: Kibbles' Compendium of Legends and Legacies p. 24*  
 
@@ -43,7 +44,6 @@ title: Tradition of the Oracle
 
 ^class-progression
 
-
 ## Class Features
 
 ### Tradition of the Oracle (Level 1)
@@ -65,13 +65,14 @@ You learn the following spells at the following levels. These are Occultist spel
 | 5th | clairvoyance |
 | 7th | locate creature |
 | 9th | legend lore |
+
 ^occultist-level-spells-learned
 
 ### Mystery Unveiled (Level 1)
 
 Additionally at 1st level, the touch of the divine inside of you has opened up new pathways of magic and understanding that most cannot comprehend—a connection to magic. Select one of the following mysteries: [Darkness](/3-Content/Compendiums/optional-features/mystery-of-darkness-kt-cll.md), [Death](/3-Content/Compendiums/optional-features/mystery-of-death-kt-cll.md), [Fire](/3-Content/Compendiums/optional-features/mystery-of-fire-kt-cll.md), [Life](/3-Content/Compendiums/optional-features/mystery-of-life-kt-cll.md), [Light](/3-Content/Compendiums/optional-features/mystery-of-light-kt-cll.md), [Nature](/3-Content/Compendiums/optional-features/mystery-of-nature-kt-cll.md), [Souls](/3-Content/Compendiums/optional-features/mystery-of-souls-kt-cll.md), or [War](/3-Content/Compendiums/optional-features/mystery-of-war-kt-cll.md). Spells learned from your Mystery are Occultist spells for you, but do not count against your spells known.
 
-Some oracles are burdened with too much power for their mortal body. Optionally you can select to be one of these by selecting the [Oracle's Curse](/3-Content/Compendiums/classes/occultist-tradition-of-the-oracle-kt-cll.md#Oracle's%20Curse%20(Level%201))  feature, gaining an additional divine boon and curse.
+Some oracles are burdened with too much power for their mortal body. Optionally you can select to be one of these by selecting the [Oracle's Curse](/3-Content/Compendiums/classes/occultist-tradition-of-the-oracle-kt-cll.md#Oracle's%20Curse%20(Level%201)) feature, gaining an additional divine boon and curse.
 
 You can select [an additional Mystery](/3-Content/Compendiums/lists/list-optfeaturetype-kt-om.md) at 5th (two Mysteries) and again at 11th level (three Mysteries).
 

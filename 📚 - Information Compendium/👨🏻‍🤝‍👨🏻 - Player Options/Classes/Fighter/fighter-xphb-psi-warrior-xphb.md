@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/fighter/psi-warrior
+tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/subclass/fighter/psi-warrior]
 aliases:
-- Psi Warrior
+  - Psi Warrior
+  - Psi Warrior
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Psi Warrior
+
 *[Fighter](./fighter-xphb.md): Fighter Subclass*  
 *Source: Player's Handbook (2024) p. 98*  
 
@@ -42,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Psi Warrior (Level 3)
@@ -65,6 +67,7 @@ You harbor a wellspring of psionic energy within yourself. It is represented by 
 | 11 | `D10` | 8 |
 | 13 | `D10` | 10 |
 | 17 | `D12` | 12 |
+
 ^psi-warrior-energy-dice
 
 Any features in this subclass that use a Psionic Energy Die use only the dice from this subclass. Some of your powers expend the Psionic Energy Die, as specified in a power's description, and you can't use a power if it requires you to use a die when all your Psionic Energy Dice are expended.

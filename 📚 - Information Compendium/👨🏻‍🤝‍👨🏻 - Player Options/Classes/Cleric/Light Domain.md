@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/domain/light
-- ttrpg-cli/subclass/cleric/light
+tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/domain/light, ttrpg-cli/subclass/cleric/light]
 aliases:
-- Light Domain
+  - Light Domain
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Light Domain
+
 *[Cleric](Cleric.md): Divine Domain*  
 *Source: Player's Handbook p. 60*  
 
@@ -43,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Light Domain (Level 1)
@@ -61,6 +61,7 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 | 5th | [daylight](/3-Content/Compendiums/spells/daylight-xphb.md), [fireball](/3-Content/Compendiums/spells/fireball-xphb.md) |
 | 7th | [guardian of faith](/3-Content/Compendiums/spells/guardian-of-faith-xphb.md), [wall of fire](/3-Content/Compendiums/spells/wall-of-fire-xphb.md) |
 | 9th | [flame strike](/3-Content/Compendiums/spells/flame-strike-xphb.md), [scrying](/3-Content/Compendiums/spells/scrying-xphb.md) |
+
 ^light-domain-spells
 
 ### Bonus Cantrip (Level 1)
@@ -88,6 +89,7 @@ Starting at 6th level, you can also use your Warding Flare feature when a creatu
 Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
 
 ### Blessed Strikes (Level 8)
+
 _Source: Tasha's Cauldron of Everything p. 30_
 
 *8th-level cleric [optional feature](/3-Content/Rules/variant-rules/optional-class-features-tce.md), which replaces the Potent Spellcasting feature*

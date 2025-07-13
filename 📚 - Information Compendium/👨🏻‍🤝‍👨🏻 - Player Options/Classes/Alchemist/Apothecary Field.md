@@ -7,6 +7,8 @@ aliases:
   - Apothecary
 date created: 2025:06:13, 22:25
 date modified: 2025:07:06, 18:58
+created: 2025/06/13 at 22:25
+updated: 2025/07/13 at 00:17
 ---
 
 # Apothecary

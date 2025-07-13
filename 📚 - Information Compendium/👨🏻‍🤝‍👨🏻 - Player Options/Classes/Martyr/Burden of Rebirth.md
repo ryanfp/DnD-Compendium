@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/martyr/rebirth
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/martyr/rebirth]
 aliases:
   - Burden of Rebirth
-title: Burden of Rebirth
+created: 2025/06/13 at 22:28
+updated: 2025/07/13 at 00:17
 ---
+
 # Burden of Rebirth
+
 *[Martyr](Martyr.md): Mortal Burden*  
 *Source: Valda's Spire of Secrets*  
 
@@ -43,7 +44,6 @@ title: Burden of Rebirth
 
 ^class-progression
 
-
 ## Class Features
 
 ### Burden of Rebirth (Level 1)
@@ -63,6 +63,7 @@ You gain burden spells at the martyr levels listed.
 | 9th | plant growth, speak with plants |
 | 13th | conjure woodland beings, hallucinatory terrain |
 | 17th | awaken, reincarnate |
+
 ^martyr-level-spells
 
 ### Cantrips (Level 1)

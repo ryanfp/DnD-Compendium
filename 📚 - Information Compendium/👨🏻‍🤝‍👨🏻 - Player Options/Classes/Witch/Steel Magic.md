@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/witch/steel
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/witch/steel]
 aliases:
   - Steel Magic
-title: Steel Magic
+created: 2025/06/13 at 22:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Steel Magic
+
 *[Witch](Witch.md): Witch's Craft*  
 *Source: Valda's Spire of Secrets*  
 
@@ -43,7 +44,6 @@ title: Steel Magic
 
 ^class-progression
 
-
 ## Class Features
 
 ### Steel Magic (Level 3)
@@ -59,6 +59,7 @@ Secret covens throughout the Material Plane practice their magic by drawing spel
 | 3rd | blink, haste |
 | 4th | death ward, freedom of movement |
 | 5th | flame strike, telekinesis |
+
 ^steel-magic-spells
 
 ### Bonus Proficiencies (Level 3)

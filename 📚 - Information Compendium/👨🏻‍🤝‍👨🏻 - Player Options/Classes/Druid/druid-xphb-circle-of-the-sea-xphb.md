@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/druid/sea
+tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/subclass/druid/sea]
 aliases:
-- Circle of the Sea
+  - Circle of the Sea
+  - Circle of the Sea
+created: 2025/06/15 at 15:35
+updated: 2025/07/13 at 00:17
 ---
+
 # Circle of the Sea
+
 *[Druid](./druid-xphb.md): Druid Subclass*  
 *Source: Player's Handbook (2024) p. 87*  
 
@@ -42,7 +45,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Circle of the Sea (Level 3)
@@ -63,6 +65,7 @@ When you reach a Druid level specified in the Circle of the Sea Spells table, yo
 | 5th | [Lightning Bolt](/3-Content/Compendiums/spells/lightning-bolt-xphb.md), [Water Breathing](/3-Content/Compendiums/spells/water-breathing-xphb.md) |
 | 7th | [Control Water](/3-Content/Compendiums/spells/control-water-xphb.md), [Ice Storm](/3-Content/Compendiums/spells/ice-storm-xphb.md) |
 | 9th | [Conjure Elemental](/3-Content/Compendiums/spells/conjure-elemental-xphb.md), [Hold Monster](/3-Content/Compendiums/spells/hold-monster-xphb.md) |
+
 ^circle-of-the-sea-spells
 
 ### Wrath of the Sea (Level 3)

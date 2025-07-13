@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/kt-cll
-  - ttrpg-cli/subclass/occultist/witch
+tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/occultist/witch]
 aliases:
   - Tradition of the Witch
-title: Tradition of the Witch
+created: 2025/06/13 at 22:29
+updated: 2025/07/13 at 00:17
 ---
+
 # Tradition of the Witch
+
 *[Occultist](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Occultist/Occultist.md): Occult Tradition*  
 *Source: Kibbles' Compendium of Legends and Legacies p. 15*  
 
@@ -42,7 +43,6 @@ title: Tradition of the Witch
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 
@@ -82,6 +82,7 @@ Each Coven explores a different expression of magic. A Witch of the Black Coven 
 | 5th | bestow curse, [curse of doom](/3-Content/Compendiums/spells/curse-of-doom-kt-cll.md) |
 | 7th | black tentacles, [devour shadow](/3-Content/Compendiums/spells/devour-shadow-kt-cll.md) |
 | 9th | [killing curse](/3-Content/Compendiums/spells/killing-curse-kt-cll.md), contagion |
+
 ^black-coven-spells
 
 **White Coven Spells**
@@ -93,6 +94,7 @@ Each Coven explores a different expression of magic. A Witch of the Black Coven 
 | 5th | [karmic curse](/3-Content/Compendiums/spells/karmic-curse-kt-cll.md), mass healing word |
 | 7th | banishment, resilient sphere |
 | 9th | [enfeebling curse](/3-Content/Compendiums/spells/enfeebling-curse-kt-cll.md), dispel evil and good |
+
 ^white-coven-spells
 
 **Green Coven Spells**
@@ -104,6 +106,7 @@ Each Coven explores a different expression of magic. A Witch of the Black Coven 
 | 5th | [curse of misfortune](/3-Content/Compendiums/spells/curse-of-misfortune-kt-cll.md), major image |
 | 7th | greater invisibility, polymorph |
 | 9th | [swapping curse](/3-Content/Compendiums/spells/swapping-curse-kt-cll.md), seeming |
+
 ^green-coven-spells
 
 ### Familiar Bond (Level 3)

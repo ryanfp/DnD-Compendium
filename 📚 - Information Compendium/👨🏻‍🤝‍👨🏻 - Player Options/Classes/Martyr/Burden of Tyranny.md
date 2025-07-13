@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/martyr/tyranny
+tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/martyr/tyranny]
 aliases:
   - Burden of Tyranny
-title: Burden of Tyranny
+created: 2025/06/13 at 22:28
+updated: 2025/07/13 at 00:17
 ---
+
 # Burden of Tyranny
+
 *[Martyr](Martyr.md): Mortal Burden*  
 *Source: Valda's Spire of Secrets*  
 
@@ -43,7 +44,6 @@ title: Burden of Tyranny
 
 ^class-progression
 
-
 ## Class Features
 
 ### Burden of Tyranny (Level 1)
@@ -61,6 +61,7 @@ You gain burden spells at the martyr levels listed.
 | 9th | bestow curse, fear |
 | 13th | banishment, dominate beast |
 | 17th | dominate person, geas |
+
 ^martyr-level-spells
 
 ### Bonus Proficiencies (Level 1)

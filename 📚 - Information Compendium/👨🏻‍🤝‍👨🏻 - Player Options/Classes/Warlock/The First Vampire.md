@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/ghpg
-- ttrpg-cli/subclass/warlock/the-first-vampire
+tags: [ttrpg-cli/compendium/src/5e/ghpg, ttrpg-cli/subclass/warlock/the-first-vampire]
 aliases:
-- The First Vampire
+  - The First Vampire
+created: 2025/06/15 at 15:38
+updated: 2025/07/13 at 00:17
 ---
+
 # The First Vampire
+
 *[Warlock](Warlock.md): Otherworldly Patron*  
 *Source: Grim Hollow: The Player's Guide*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### The First Vampire (Level 1)
@@ -60,6 +61,7 @@ The First Vampire lets you choose from an expanded list of spells when you learn
 | 3rd | [conjure animals](/3-Content/Compendiums/spells/conjure-animals-xphb.md) ([bats](/3-Content/Compendiums/bestiary/beast/bat-xmm.md), [rats](/3-Content/Compendiums/bestiary/beast/rat-xmm.md) or [wolves](/3-Content/Compendiums/bestiary/beast/wolf-xmm.md) only), [gaseous form](/3-Content/Compendiums/spells/gaseous-form-xphb.md) |
 | 4th | [dominate beast](/3-Content/Compendiums/spells/dominate-beast-xphb.md), [greater invisibility](/3-Content/Compendiums/spells/greater-invisibility-xphb.md) |
 | 5th | [dominate person](/3-Content/Compendiums/spells/dominate-person-xphb.md), [seeming](/3-Content/Compendiums/spells/seeming-xphb.md) |
+
 ^spell-level-spells
 
 ### Nocturnal Predator (Level 1)

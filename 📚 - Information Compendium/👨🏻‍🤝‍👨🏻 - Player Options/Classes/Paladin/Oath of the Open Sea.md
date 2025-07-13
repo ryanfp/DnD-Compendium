@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/tdcsr
-- subclass/paladin/open-sea
+tags: [compendium/src/5e/tdcsr, subclass/paladin/open-sea]
 aliases:
-- Oath of the Open Sea
+  - Oath of the Open Sea
+created: 2025/06/15 at 22:26
+updated: 2025/07/13 at 00:17
 ---
+
 # Oath of the Open Sea
+
 *[Paladin](Paladin.md): Sacred Oath*  
 *Source: Tal'Dorei Campaign Setting Reborn p. 174*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 ## Class Features
 
 ### Oath of the Open Sea (Level 3)
@@ -56,21 +57,25 @@ Such guardians believe in the natural beauty of the sea, often making offerings 
 Freedom can be a selfless virtue or a selfish want. For paladins who swear the Oath of the Open Sea, freedom is the highest calling, and a gift to be granted to all.
 
 #### No Greater Life than a Life Lived Free
+
 _Source: Tal'Dorei Campaign Setting Reborn_
 
 One should be free to chart their own path without oppression. Those who would exert their power to dominate others shall be smote.
 
 #### Trust the Skies
+
 _Source: Tal'Dorei Campaign Setting Reborn_
 
 The guidance of a strong breeze. The rumbling warnings of a coming storm. Nature is a source of portent and council that should be heeded.
 
 #### Adapt Like the Water
+
 _Source: Tal'Dorei Campaign Setting Reborn_
 
 The waters of the ocean can shift around any obstacle—or become the most impassable obstacle of all. They carve away the land to reveal the secrets of the past, or swallow the truth and hide it forever. To embrace this fluidity is to be ready for any challenge.
 
 #### Explore the Uncharted
+
 _Source: Tal'Dorei Campaign Setting Reborn_
 
 The world is filled with mystery. Through the pursuit of enigmatic ends, one can uncover those who hide their foul deeds, and find the path to becoming something great.
@@ -88,6 +93,7 @@ You gain oath spells at the paladin levels listed in the Oath of the Open Sea Sp
 | 9th | [call lightning](/📚%20-%20Information%20Compendium/spells/call-lightning.md), [freedom of the waves](/📚%20-%20Information%20Compendium/spells/freedom-of-the-waves-tdcsr.md)* |
 | 13th | [control water](/📚%20-%20Information%20Compendium/spells/control-water.md), [freedom of movement](/📚%20-%20Information%20Compendium/spells/freedom-of-movement.md) |
 | 17th | [commune with nature](/📚%20-%20Information%20Compendium/spells/commune-with-nature.md), [freedom of the winds](/📚%20-%20Information%20Compendium/spells/freedom-of-the-winds-tdcsr.md)* |
+
 ^oath-of-the-open-sea-spells
 
 ### Channel Divinity (Level 3)

@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/xge
-- subclass/wizard/war
+tags: [compendium/src/5e/xge, subclass/wizard/war]
 aliases:
-- War Magic
+  - War Magic
+created: 2025/06/15 at 22:30
+updated: 2025/07/13 at 00:17
 ---
+
 # War Magic
+
 *[Wizard](Wizard.md): Arcane Tradition*  
 *Source: Xanathar's Guide to Everything p. 59*  
 
@@ -41,7 +43,6 @@ aliases:
 > </tbody></table>
 
 ^class-progression
-
 
 > [!quote] A quote from Xanathar  
 > 

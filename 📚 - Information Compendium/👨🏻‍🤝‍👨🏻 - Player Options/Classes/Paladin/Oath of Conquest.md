@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-- compendium/src/5e/xge
-- subclass/paladin/conquest
+tags: [compendium/src/5e/xge, subclass/paladin/conquest]
 aliases:
-- Oath of Conquest
+  - Oath of Conquest
+created: 2025/06/15 at 22:26
+updated: 2025/07/13 at 00:17
 ---
+
 # Oath of Conquest
+
 *[Paladin](Paladin.md): Sacred Oath*  
 *Source: Xanathar's Guide to Everything p. 37*  
 
@@ -42,7 +44,6 @@ aliases:
 
 ^class-progression
 
-
 > [!quote] A quote from Xanathar  
 > 
 > Conquest sounds cool. Do you have to leave your house for that? Because I've got a fish named Sylgar, and I can't be away for too long or he gets sad.
@@ -60,16 +61,19 @@ Some of these paladins go so far as to consort with the powers of the Nine Hells
 A paladin who takes this oath has the tenets of conquest seared on the upper arm.
 
 #### Douse the Flame of Hope
+
 _Source: Xanathar's Guide to Everything_
 
 It is not enough to merely defeat an enemy in battle. Your victory must be so overwhelming that your enemies' will to fight is shattered forever. A blade can end a life. Fear can end an empire.
 
 #### Rule with an Iron Fist
+
 _Source: Xanathar's Guide to Everything_
 
 Once you have conquered, tolerate no dissent. Your word is law. Those who obey it shall be favored. Those who defy it shall be punished as an example to all who might follow.
 
 #### Strength Above All
+
 _Source: Xanathar's Guide to Everything_
 
 You shall rule until a stronger one arises. Then you must grow mightier and meet the challenge, or fall to your own ruin.
@@ -87,6 +91,7 @@ You gain oath spells at the paladin levels listed.
 | 9th | [bestow curse](/📚%20-%20Information%20Compendium/spells/bestow-curse.md), [fear](/📚%20-%20Information%20Compendium/spells/fear.md) |
 | 13th | [dominate beast](/📚%20-%20Information%20Compendium/spells/dominate-beast.md), [stoneskin](/📚%20-%20Information%20Compendium/spells/stoneskin.md) |
 | 17th | [cloudkill](/📚%20-%20Information%20Compendium/spells/cloudkill.md), [dominate person](/📚%20-%20Information%20Compendium/spells/dominate-person.md) |
+
 ^oath-of-conquest-spells
 
 ### Channel Divinity (Level 3)

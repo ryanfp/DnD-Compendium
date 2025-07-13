@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/kt-cll
-  - ttrpg-cli/subclass/warden/timetwister
+tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/warden/timetwister]
 aliases:
   - Timetwister
-title: Timetwister
+created: 2025/06/13 at 22:33
+updated: 2025/07/13 at 00:17
 ---
+
 # Timetwister
+
 *[Warden](Warden.md): Warden Bond*  
 *Source: Kibbles' Compendium of Legends and Legacies p. 76*  
 
@@ -42,7 +43,6 @@ title: Timetwister
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 
@@ -83,6 +83,7 @@ You gain the following spells at the listed levels, and can cast each spell once
 | 9th | slow |
 | 13th | haste |
 | 17th | hold monster |
+
 ^warden-level-innate-spells-1-long-rest-each
 
 ### Time Distortion (Level 3)

@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/ktp
-  - ttrpg-cli/subclass/psion/elemental
+tags: [ttrpg-cli/compendium/src/5e/ktp, ttrpg-cli/subclass/psion/elemental]
 aliases:
   - Elemental
-title: Elemental
+created: 2025/06/13 at 22:29
+updated: 2025/07/13 at 00:17
 ---
+
 # Elemental
+
 *[Psion](Psion.md): Psionic Archetype*  
 *Source: KibblesTasty: Psion*  
 
@@ -42,7 +43,6 @@ title: Elemental
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 

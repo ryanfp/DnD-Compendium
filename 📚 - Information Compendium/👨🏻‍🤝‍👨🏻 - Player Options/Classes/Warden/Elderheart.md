@@ -1,14 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/kt-cll
-  - ttrpg-cli/subclass/warden/elderheart
+tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/warden/elderheart]
 aliases:
   - Elderheart
-title: Elderheart
+created: 2025/06/13 at 22:33
+updated: 2025/07/13 at 00:17
 ---
+
 # Elderheart
+
 *[Warden](Warden.md): Warden Bond*  
 *Source: Kibbles' Compendium of Legends and Legacies p. 69*  
 
@@ -42,7 +43,6 @@ title: Elderheart
 > </tbody></table>
 
 ^class-progression
-
 
 ## Class Features
 
@@ -81,6 +81,7 @@ You gain the following spells at the listed levels, and can cast each spell once
 | 9th | plant growth |
 | 13th | [summon plant](/3-Content/Compendiums/spells/summon-plant-kt-cll.md) |
 | 17th | [carnivorous garden](/3-Content/Compendiums/spells/carnivorous-garden-kt-cll.md) |
+
 ^innate-spells-1-long-rest-each
 
 ### Body of Thorns (Level 3)
