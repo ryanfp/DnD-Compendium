@@ -133,6 +133,7 @@ function pwNavFunctions() {
     pwProcessFrontmatter();
     pwReplaceTitles();
     pwToggleGraphView();
+    insertMetaData();
 }
 
 function pwNavCallback(mutationRecords, observer) {
@@ -141,7 +142,7 @@ function pwNavCallback(mutationRecords, observer) {
             if(addedNode.firstChild?.classList?.contains("frontmatter")) { // To catch internal page nav
                 //console.log("<================== FIRED");
                 pwNavFunctions(); // Immediate exectuion for internal page nav
-                setTimeout(pwNavFunctions, 500); // Delayed execution for new page / refreshes
+                setTimeout(pwNavFunctions, 550); // Delayed execution for new page / refreshes
             }
         }
     }
