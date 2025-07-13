@@ -5,24 +5,72 @@
       "path": "this is a test of the current file hahahah.md"
     },
     {
-      "basename": "Untitled",
-      "path": "z_Templates/Untitled.md"
-    },
-    {
-      "basename": "new file name",
-      "path": "new file name.md"
-    },
-    {
-      "basename": "current filename TEST ALL SETTINGS WHOOOOOOOOO HA HA HA",
-      "path": "current filename TEST ALL SETTINGS WHOOOOOOOOO HA HA HA.md"
+      "basename": "20 - Add Permalink",
+      "path": "z_Templates/20 - Add Permalink.md"
     },
     {
       "basename": "filename as permalink test",
       "path": "filename as permalink test.md"
     },
     {
+      "basename": "Untitled",
+      "path": "z_Templates/Core/Untitled.md"
+    },
+    {
+      "basename": "3 - Session Notes Template",
+      "path": "z_Templates/3 - Session Notes Template.md"
+    },
+    {
+      "basename": "To-Do List",
+      "path": "To-Do List.md"
+    },
+    {
+      "basename": "new file name",
+      "path": "new file name.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "01 - Basic Callout Selecter",
+      "path": "z_Templates/01 - Basic Callout Selecter.md"
+    },
+    {
+      "basename": "09 - Format YouTube Link",
+      "path": "z_Templates/09 - Format YouTube Link.md"
+    },
+    {
+      "basename": "08 - Convert Image to Wiki",
+      "path": "z_Templates/08 - Convert Image to Wiki.md"
+    },
+    {
+      "basename": "07 - Edit Metadata",
+      "path": "z_Templates/07 - Edit Metadata.md"
+    },
+    {
+      "basename": "06 - Insert Infobox - Right",
+      "path": "z_Templates/06 - Insert Infobox - Right.md"
+    },
+    {
+      "basename": "05 - Insert Infobox - Left",
+      "path": "z_Templates/05 - Insert Infobox - Left.md"
+    },
+    {
+      "basename": "02 - Insert Table of Contents",
+      "path": "z_Templates/02 - Insert Table of Contents.md"
+    },
+    {
+      "basename": "04 - Insert Wiki Sidebar",
+      "path": "z_Templates/04 - Insert Wiki Sidebar.md"
+    },
+    {
+      "basename": "current filename TEST ALL SETTINGS WHOOOOOOOOO HA HA HA",
+      "path": "current filename TEST ALL SETTINGS WHOOOOOOOOO HA HA HA.md"
     },
     {
       "basename": "Organization Hierarchy",
@@ -37,24 +85,12 @@
       "path": "z_Templates/11 - Insert Quotes.md"
     },
     {
-      "basename": "9 - Format YouTube Link",
-      "path": "z_Templates/9 - Format YouTube Link.md"
-    },
-    {
       "basename": "Class  Template",
       "path": "z_Templates/Class  Template.md"
     },
     {
-      "basename": "3 - Session Notes Template",
-      "path": "z_Templates/3 - Session Notes Template.md"
-    },
-    {
       "basename": "99 - New File Auto Template",
       "path": "z_Templates/99 - New File Auto Template.md"
-    },
-    {
-      "basename": "7 - Edit Metadata",
-      "path": "z_Templates/7 - Edit Metadata.md"
     },
     {
       "basename": "Azorius Functionary",
@@ -125,14 +161,6 @@
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
     },
     {
-      "basename": "To-Do List",
-      "path": "To-Do List.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "Medium Specialization",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/Medium Specialization.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "cobalt-scholar-sage-egw",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/cobalt-scholar-sage-egw.md"
-    },
-    {
-      "basename": "alarm",
-      "path": "📚 - Information Compendium/Spells/alarm.md"
-    },
-    {
-      "basename": "guide-xphb",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/guide-xphb.md"
-    },
-    {
-      "basename": "guard-xphb",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/guard-xphb.md"
-    },
-    {
-      "basename": "Grinner",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Grinner.md"
-    },
-    {
-      "basename": "Gruul Anarch",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Gruul Anarch.md"
-    },
-    {
-      "basename": "Gamekeeper",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Gamekeeper.md"
-    },
-    {
-      "basename": "former-adventurer-toh",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/former-adventurer-toh.md"
     }
   ],
   "omittedPaths": [],

@@ -4,8 +4,8 @@ aliases:
   - filename as permalink test
   - Test
 created: 2025/06/24 at 22:06
-updated: 2025/07/13 at 15:31
-title: ""
+updated: 2025/07/13 at 17:13
+title: filename as permalink test
 ---
 
 tp.file.filename.replace(/ /, '-')

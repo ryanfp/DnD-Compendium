@@ -1,3 +1,8 @@
+---
+aliases:
+  - 7 - Edit Metadata
+title: 07 - Edit Metadata
+---
 <%*
 const modalForm = app.plugins.plugins.modalforms.api;
   const run = async (frontmatter) => {

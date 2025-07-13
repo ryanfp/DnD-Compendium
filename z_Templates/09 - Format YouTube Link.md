@@ -1,3 +1,8 @@
+---
+aliases:
+  - 9 - Format YouTube Link
+title: 09 - Format YouTube Link
+---
 <%*
 Let url = await tp.System.Clipboard ();
 Let page = await tp.Obsidian.Request ({url});

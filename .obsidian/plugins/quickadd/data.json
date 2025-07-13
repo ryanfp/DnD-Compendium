@@ -4,7 +4,86 @@
     {
       "name": "Add Permalink",
       "id": "0923c37d-8cc5-47af-950e-d1e3ac11608c",
-      "commands": [],
+      "commands": [
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "b7084614-e319-48e7-a805-f4e7b5c04b72",
+          "time": 100
+        },
+        {
+          "name": "Templates: Insert template",
+          "type": "Obsidian",
+          "id": "b1b211c5-99f9-44e3-8203-9bd8aeba5f3c",
+          "commandId": "insert-template"
+        },
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "43fc0e3f-ae70-4006-818e-060dbab14b43",
+          "choice": {
+            "id": "341b846d-4dcf-4ec6-8c32-2208ffa384fc",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "z",
+            "fileNameFormat": {
+              "enabled": false,
+              "format": ""
+            },
+            "folder": {
+              "enabled": false,
+              "folders": [],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default",
+            "fileExistsMode": "Increment the file name",
+            "setFileExistsBehavior": false
+          }
+        },
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "02495a49-e3f5-4e47-bc50-68eb0d61c6dc",
+          "choice": {
+            "id": "66df19c8-e4a1-40ce-8abc-cc58c30d0ef3",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "",
+            "fileNameFormat": {
+              "enabled": false,
+              "format": ""
+            },
+            "folder": {
+              "enabled": false,
+              "folders": [],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default",
+            "fileExistsMode": "Increment the file name",
+            "setFileExistsBehavior": false
+          }
+        }
+      ],
       "runOnStartup": false
     }
   ],

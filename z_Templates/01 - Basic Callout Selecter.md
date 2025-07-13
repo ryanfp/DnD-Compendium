@@ -1,3 +1,8 @@
+---
+aliases:
+  - 1 - Basic Callout Selecter
+title: 01 - Basic Callout Selecter
+---
 <%*
 const callouts = {
 //  Callout name   |  Icon     |  UI Icon Description
