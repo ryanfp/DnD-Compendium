@@ -30,7 +30,8 @@
   "syntax_highlighting_mobile": true,
   "enabled_templates_hotkeys": [
     "templates/Insert Callout.md",
-    "z_Templates/16 - ✅New Task.md"
+    "z_Templates/16 - ✅New Task.md",
+    "z_Templates/20 - Add Permalink.md"
   ],
   "startup_templates": [
     ""

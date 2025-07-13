@@ -2,10 +2,9 @@
 permalink: Classification Hierarchy
 aliases:
   - Classification Hierarchy
-  - Classification Hierarchy
 created: 2025/06/22 at 23:39
-updated: 2025/07/13 at 14:58
-title: Classification Hierarchy
+updated: 2025/07/13 at 17:27
+title: Organization Hierarchy
 ---
 
 # Classification Hierarchy

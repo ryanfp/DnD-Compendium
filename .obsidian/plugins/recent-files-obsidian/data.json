@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "this is a test of the current file hahahah",
-      "path": "this is a test of the current file hahahah.md"
+      "basename": "Ideas",
+      "path": "Ideas.md"
     },
     {
       "basename": "20 - Add Permalink",
       "path": "z_Templates/20 - Add Permalink.md"
     },
     {
+      "basename": "this is a test of the current file hahahah",
+      "path": "this is a test of the current file hahahah.md"
+    },
+    {
+      "basename": "new file name",
+      "path": "new file name.md"
+    },
+    {
       "basename": "filename as permalink test",
       "path": "filename as permalink test.md"
     },
     {
-      "basename": "Untitled",
-      "path": "z_Templates/Core/Untitled.md"
+      "basename": "Curse of Animation",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Animation.md"
+    },
+    {
+      "basename": "Organization Hierarchy",
+      "path": "Organization Hierarchy.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "3 - Session Notes Template",
@@ -25,16 +41,8 @@
       "path": "To-Do List.md"
     },
     {
-      "basename": "new file name",
-      "path": "new file name.md"
-    },
-    {
       "basename": "Home",
       "path": "Home.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "01 - Basic Callout Selecter",
@@ -73,10 +81,6 @@
       "path": "current filename TEST ALL SETTINGS WHOOOOOOOOO HA HA HA.md"
     },
     {
-      "basename": "Organization Hierarchy",
-      "path": "Organization Hierarchy.md"
-    },
-    {
       "basename": "12 - Insert File Title",
       "path": "z_Templates/12 - Insert File Title.md"
     },
@@ -103,10 +107,6 @@
     {
       "basename": "abrupt-hug-toh",
       "path": "📚 - Information Compendium/Spells/abrupt-hug-toh.md"
-    },
-    {
-      "basename": "Curse of Animation",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Animation.md"
     },
     {
       "basename": "abolish-shadows-elminsters-guide-to-magic",
@@ -187,18 +187,6 @@
     {
       "basename": "Curse of Somnolence",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Somnolence.md"
-    },
-    {
-      "basename": "Apothecary Field",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/Apothecary Field.md"
-    },
-    {
-      "basename": "clasp-member-myriad-operative-variant-tdcsr",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/clasp-member-myriad-operative-variant-tdcsr.md"
-    },
-    {
-      "basename": "cobalt-scholar-sage-egw",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/cobalt-scholar-sage-egw.md"
     }
   ],
   "omittedPaths": [],
