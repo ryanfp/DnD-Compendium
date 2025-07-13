@@ -5,9 +5,11 @@ tags: [compendium/src/5e/xge, spell/class/bard, spell/class/sorcerer, spell/clas
 classes: [Bard, Cleric (Arcana Domain), Sorcerer, Wizard]
 aliases:
   - "Abi-Dalzim's Horrid Wilting"
-title: abi-dalzims-horrid-wilting-xge
+  - "Abi-Dalzim's Horrid Wilting"
 date created: 2025:06:15, 22:44
 date modified: 2025:07:06, 18:13
+created: 2025/06/15 pmt 22:44
+updated: 2025/07/12 pmt 23:47
 ---
 
 # Abi-Dalzim's Horrid Wilting

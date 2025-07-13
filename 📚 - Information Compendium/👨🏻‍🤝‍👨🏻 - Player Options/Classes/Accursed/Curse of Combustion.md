@@ -6,6 +6,8 @@ aliases:
   - Curse of Combustion
 date created: 2025:05:14, 21:46
 date modified: 2025:07:06, 18:58
+created: 2025/05/14 pmt 21:46
+updated: 2025/07/12 pmt 23:46
 ---
 
 # Curse of Combustion

@@ -1,10 +1,20 @@
+---
+aliases:
+  - Classification Hierarchy
+created: 2025/06/22 pmt 23:39
+updated: 2025/07/12 pmt 23:44
+---
+
 # Classification Hierarchy
 
 Read the CLI tags theyre pretty good
+
 **Sources would be tags for all**
+
 ## Player Options
 
 ### Features & Skills
+
 - Epic Boons
 - Feats
 	- Origin Feats
@@ -14,9 +24,11 @@ Read the CLI tags theyre pretty good
 	- Optional Class Skills
 	- Subclass Skills
 		- Optional Subclass Skills
+
 ### Spells
 
 #### Level
+
 - Cantrip
 - 1st
 - 2nd
@@ -29,6 +41,7 @@ Read the CLI tags theyre pretty good
 - 9th
 
 #### Attributes
+
 - Elements
 	- Fire
 	- Cold
@@ -58,6 +71,7 @@ Read the CLI tags theyre pretty good
 - Components
 
 #### Class Spell List
+
 - Bard
 - Cleric
 - Druid
@@ -68,11 +82,11 @@ Read the CLI tags theyre pretty good
 - Wizard
 
 ### Character Details
+
 - Classes
 	- Subclasses
 - Background
 - Races
-
 
 ## Meta
 
@@ -84,10 +98,10 @@ Read the CLI tags theyre pretty good
 
 ### Conditions, Ailments & Diseases
 
-
 ## Items
 
 ### Types
+
 - Weapons
 	- Weapon Properties
 		- Ammunition
@@ -294,7 +308,8 @@ Read the CLI tags theyre pretty good
 		- Waterskin
 - Miscellaneous
 
-####  Attributes
+#### Attributes
+
 - Rarities
 	- Common
 	- Uncommon
@@ -303,9 +318,11 @@ Read the CLI tags theyre pretty good
 	- Legendary / Exotic
 	- Artifact / Exotic
 Magical
+
 ## Bestiary
 
 ### Types
+
 - Aberration
 - Beast
 - Celestial
@@ -322,6 +339,7 @@ Magical
 - Undead
 
 #### Attributes
+
 - Size
 	- Tiny
 	- Small

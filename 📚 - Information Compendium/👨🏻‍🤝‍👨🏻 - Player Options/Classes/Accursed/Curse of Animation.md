@@ -7,8 +7,8 @@ aliases:
   - Curse of Animation - Accursed
 date created: 2025:05:14, 21:46
 date modified: 2025:07:06, 20:22
-created: 2025/05/14, 21:46
-updated: 2025/07/10, 19:45
+created: 2025/05/14 pmt 21:46
+updated: 2025/07/12 pmt 23:46
 ---
 
 # Curse of Animation

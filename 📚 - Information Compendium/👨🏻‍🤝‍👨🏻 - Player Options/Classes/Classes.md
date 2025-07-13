@@ -3,8 +3,8 @@ aliases:
   - Classes
 date created: 2025:05:14, 22:29
 date modified: 2025:07:06, 18:57
-created: 2025/05/14, 22:29
-updated: 2025/07/10, 23:12
+created: 2025/05/14 pmt 22:29
+updated: 2025/07/12 pmt 23:45
 ---
 
 *A compiled list of all the various classes and subclasses scattered throughout my ever-growing collection of homebrew. A brief description is included. Their sources are listed with each subclass if they’re not in base 5e*
@@ -5487,7 +5487,9 @@ Sources:
 	- Way of the Swift Step
 	- Magebane
 - ~~Steinhardt’s Guide to the Eldritch Hunt~~ %% fold %%
+
 	- ~~~**Jaeger Class**~~~
+
 - ~~Ryoko’s Guide to the Yokai Realms~~ %% fold %%
 	- ~~Tamer Class~~
 	- ~~**Bender Class**~~
