@@ -1,8 +1,11 @@
 ---
+permalink: Classification Hierarchy
 aliases:
   - Classification Hierarchy
-created: 2025/06/22 pmt 23:39
-updated: 2025/07/12 pmt 23:44
+  - Classification Hierarchy
+created: 2025/06/22 at 23:39
+updated: 2025/07/13 at 14:58
+title: Classification Hierarchy
 ---
 
 # Classification Hierarchy

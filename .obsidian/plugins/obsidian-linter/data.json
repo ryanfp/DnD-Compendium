@@ -31,8 +31,8 @@
       "force-multi-line-array-style": ""
     },
     "insert-yaml-attributes": {
-      "enabled": false,
-      "text-to-insert": "aliases: \ntags: "
+      "enabled": true,
+      "text-to-insert": "permalink: <%* \nconst permalink = tp.file.filename; \nconst sanitizedFilename = filename\n\t.toLowerCase() \n\t.replace(/[^a-z0-9]+/g, '-') \n\t.replace(/^-+|-+$/g, '');  \n%>"
     },
     "move-tags-to-yaml": {
       "enabled": true,
@@ -78,8 +78,8 @@
       "enabled": true,
       "preserve-existing-alias-section-style": false,
       "keep-alias-that-matches-the-filename": true,
-      "use-yaml-key-to-keep-track-of-old-filename-or-heading": false,
-      "alias-helper-key": "test-title"
+      "use-yaml-key-to-keep-track-of-old-filename-or-heading": true,
+      "alias-helper-key": "permalink"
     },
     "capitalize-headings": {
       "enabled": true,
@@ -276,7 +276,9 @@
   "lintOnFileChange": true,
   "displayLintOnFileChangeNotice": true,
   "settingsConvertedToConfigKeyValues": true,
-  "foldersToIgnore": [],
+  "foldersToIgnore": [
+    "z_Templates"
+  ],
   "filesToIgnore": [],
   "linterLocale": "system-default",
   "logLevel": "ERROR",
