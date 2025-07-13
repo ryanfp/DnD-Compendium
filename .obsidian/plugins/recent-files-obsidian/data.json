@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "new file name",
+      "path": "new file name.md"
+    },
+    {
       "basename": "current filename TEST ALL SETTINGS WHOOOOOOOOO HA HA HA",
       "path": "current filename TEST ALL SETTINGS WHOOOOOOOOO HA HA HA.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Folk Hero",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Folk Hero.md"
-    },
-    {
-      "basename": "Farmer",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Farmer.md"
     }
   ],
   "omittedPaths": [],

@@ -708,6 +708,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "current filename TEST ALL SETTINGS WHOOOOOOOOO HA HA HA",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"current filename TEST ALL SETTINGS WHOOOOOOOOO HA HA HA.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"current filename TEST ALL SETTINGS WHOOOOOOOOO HA HA HA\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":37},\"to\":{\"line\":13,\"ch\":37}}}"
+                },
+                {
                   "title": "filename as permalink test",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"filename as permalink test.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"filename as permalink test\"}",
@@ -1078,13 +1084,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "current filename TEST ALL SETTINGS WHOOOOOOOOO HA HA HA.md",
+                "file": "new file name.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "current filename TEST ALL SETTINGS WHOOOOOOOOO HA HA HA"
+              "title": "new file name"
             }
           }
         ],
@@ -1542,8 +1548,9 @@
   },
   "active": "2b86e314139b98aa",
   "lastOpenFiles": [
-    "filename as permalink test.md",
     "current filename TEST ALL SETTINGS WHOOOOOOOOO HA HA HA.md",
+    "new file name.md",
+    "filename as permalink test.md",
     "z_Scripts/trim_title.js",
     "z_Scripts/New Text Document.txt",
     "z_Scripts",
@@ -1572,7 +1579,6 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Misfortune.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Immortality.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of the Created.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Combustion.md",
     "japanesepublish.js",
     "japanesepublish.css",
     "test.js",

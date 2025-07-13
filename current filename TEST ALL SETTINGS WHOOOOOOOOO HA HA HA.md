@@ -1,10 +1,10 @@
 ---
 permalink: File Heading
-title: File Heading
+title: current filename TEST ALL SETTINGS WHOOOOOOOOO HA HA HA
 aliases:
   - File Heading
 created: 2025/07/13 at 15:34
-updated: 2025/07/13 at 15:43
+updated: 2025/07/13 at 15:47
 ---
 
 This is a test

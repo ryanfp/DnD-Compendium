@@ -72,14 +72,14 @@
     "yaml-title": {
       "enabled": true,
       "title-key": "title",
-      "mode": "first-h1"
+      "mode": "filename"
     },
     "yaml-title-alias": {
       "enabled": true,
       "preserve-existing-alias-section-style": false,
       "keep-alias-that-matches-the-filename": true,
-      "use-yaml-key-to-keep-track-of-old-filename-or-heading": true,
-      "alias-helper-key": "permalink"
+      "use-yaml-key-to-keep-track-of-old-filename-or-heading": false,
+      "alias-helper-key": ""
     },
     "capitalize-headings": {
       "enabled": true,
