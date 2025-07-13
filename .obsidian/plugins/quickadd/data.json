@@ -1,9 +1,16 @@
 {
   "choices": [],
-  "macros": [],
+  "macros": [
+    {
+      "name": "Add Permalink",
+      "id": "0923c37d-8cc5-47af-950e-d1e3ac11608c",
+      "commands": [],
+      "runOnStartup": false
+    }
+  ],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "",
+  "templateFolderPath": "z_Templates",
   "announceUpdates": true,
   "version": "1.13.2",
   "disableOnlineFeatures": true,

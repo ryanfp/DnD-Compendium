@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "this is a test of the current file hahahah",
+      "path": "this is a test of the current file hahahah.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "z_Templates/Untitled.md"
+    },
+    {
       "basename": "new file name",
       "path": "new file name.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "former-adventurer-toh",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/former-adventurer-toh.md"
-    },
-    {
-      "basename": "Forest dweller",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Forest dweller.md"
-    },
-    {
-      "basename": "Folk Hero",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Folk Hero.md"
     }
   ],
   "omittedPaths": [],

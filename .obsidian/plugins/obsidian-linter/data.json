@@ -282,7 +282,13 @@
   "filesToIgnore": [],
   "linterLocale": "system-default",
   "logLevel": "ERROR",
-  "lintCommands": [],
+  "lintCommands": [
+    {
+      "id": "markdown:add-alias",
+      "name": "Add alias",
+      "enabled": false
+    }
+  ],
   "customRegexes": [],
   "commonStyles": {
     "aliasArrayStyle": "multi-line",
