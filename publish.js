@@ -105,7 +105,7 @@ setupGraphSettings();
 **********************************/
 function pwReplaceTitles() {
     
-    const pageHeader = document.getElementsByClassName("page-header")[0];
+    const pageHeader = document.getElementsByClassName("publish-article-heading")[0];
     const titleProperty = app.site.cache.cache[app.currentFilepath].frontmatter["title"];
     const doNotUseTitle = document.getElementsByClassName("pws-title-noproperty")[0];
     const firstHeading = document.querySelectorAll(".pws-title-promote-h1 h1")[0];
@@ -122,6 +122,33 @@ function pwReplaceTitles() {
 }
 
 
+/****************
+ Page Nav Observer
+****************/
+
+const pageNavObserverConfig  = { childList:true, subtree: true }
+const pageNavObserverNode = document.getElementsByClassName("markdown-preview-section")[0];
+
+function pwNavFunctions() {
+    pwProcessFrontmatter();
+    pwReplaceTitles();
+    pwToggleGraphView();
+}
+
+function pwNavCallback(mutationRecords, observer) {
+    for(let mutationRecord of mutationRecords) { // each mutation in event
+        for(let addedNode of mutationRecord.addedNodes) { // each node in mutation
+            if(addedNode.firstChild?.classList?.contains("frontmatter")) { // To catch internal page nav
+                //console.log("<================== FIRED");
+                pwNavFunctions(); // Immediate exectuion for internal page nav
+                setTimeout(pwNavFunctions, 500); // Delayed execution for new page / refreshes
+            }
+        }
+    }
+}
+
+let pageNavObserver = new MutationObserver(pwNavCallback);
+pageNavObserver.observe(pageNavObserverNode, pageNavObserverConfig);
 
 
 

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-background
-tags:
-  - background
-  - compendium/src/5e/ggr
+tags: [background, compendium/src/5e/ggr]
 aliases:
   - Azorius Functionary
-title: Azorius Functionary
+created: 2025/06/15 at 22:47
+updated: 2025/07/13 at 00:45
 ---
-# Azorius Functionary
-*Source: Guildmasters' Guide to Ravnica p. 33*  
 
+# Azorius Functionary
+
+*Source: Guildmasters' Guide to Ravnica p. 33*  
 
 - **Skill Proficiencies.** [Insight](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Insight), [Intimidation](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Intimidation)  
 - **Languages.** Two of your choice  
@@ -38,6 +38,7 @@ For you, the spells on the Azorius Guild Spells table are added to the spell lis
 | 3rd | [clairvoyance](/📚%20-%20Information%20Compendium/spells/clairvoyance.md), [counterspell](/📚%20-%20Information%20Compendium/spells/counterspell.md) |
 | 4th | [compulsion](/📚%20-%20Information%20Compendium/spells/compulsion.md), [divination](/📚%20-%20Information%20Compendium/spells/divination.md) |
 | 5th | [dominate person](/📚%20-%20Information%20Compendium/spells/dominate-person.md) |
+
 ^azorius-guild-spells
 
 Your magic often takes the form of blue or golden runes floating and glowing in the air in circular patterns or of shimmering azure barriers of magical energy. If you cast [ensnaring strike](/📚%20-%20Information%20Compendium/spells/ensnaring-strike.md), for example, the vines created by the spell might appear as rune-inscribed glowing bands that wrap around the target and hold it in place.
@@ -60,6 +61,7 @@ Members of the Azorius Senate tend toward a demeanor of cold dignity and a pragm
 | 6 | I always say exactly what I mean, no matter how many words it takes to communicate the particular nuance I am attempting to convey. |
 | 7 | I'm very literal and don't appreciate metaphor or sarcasm. |
 | 8 | I never change my mind once it's made up. |
+
 ^personality-traits
 
 **Ideals**
@@ -74,6 +76,7 @@ Members of the Azorius Senate tend toward a demeanor of cold dignity and a pragm
 | 4 | **Compliance**. Coercion is a fine way of ensuring that the laws are obeyed. (Lawful) |
 | 5 | **Legislation**. The law embodies excellence in its precision and detail. (Lawful) |
 | 6 | **Punishment**. A public display of consequences is an excellent deterrent for other criminals. (Evil) |
+
 ^ideals
 
 **Bonds**
@@ -88,6 +91,7 @@ Members of the Azorius Senate tend toward a demeanor of cold dignity and a pragm
 | 4 | I successfully prevented a murder, and the would-be perpetrator wants me dead. |
 | 5 | One of my parents was prominent in the guild, and I resent constantly being compared to that standard. |
 | 6 | I've modeled my career after a highly respected lawmage or arrester, but I fear that my role model might be involved in something illegal. |
+
 ^bonds
 
 **Flaws**
@@ -102,6 +106,7 @@ Members of the Azorius Senate tend toward a demeanor of cold dignity and a pragm
 | 4 | I was traumatized by witnessing a crime as a child. |
 | 5 | I'm incapable of deception. |
 | 6 | I wish I had joined the Boros, but I fear they'd never accept me. |
+
 ^flaws
 
 ## Contacts
@@ -124,6 +129,7 @@ Roll twice on the Azorius Contacts table (for an ally and a rival) and once on t
 | 6 | A good friend was promoted into work they can't tell me about. |
 | 7 | I know a homunculus in the halls of New Prahv who can get things done behind the scenes. |
 | 8 | I was once summoned to the presence of Supreme Judge Isperia, the guildmaster of the Azorius, who complimented me on my work. |
+
 ^azorius-contacts
 
 **Non-Azorius Contacts**
@@ -142,6 +148,7 @@ Roll twice on the Azorius Contacts table (for an ally and a rival) and once on t
 | 8 | I was ridiculed once in a Rakdos performance; the performer was impressed with my good humor about it and now does me occasional favors. |
 | 9 | I have a fanatical Selesnya cousin who keeps trying to recruit me and everyone else in the family. |
 | 10 | While growing up, I was bullied by a brat who's now a hybrid in the Simic Combine. |
+
 ^non-azorius-contacts
 
 ## How Do I Fit In?
