@@ -1,13 +1,13 @@
 
 console.log("Load start publish.js");
 
-// Disable default favicon
+// Disable default favicon and insert custom one
 document.querySelector("head > link[rel=icon]").href =
   "https://publish-01.obsidian.md/access/35d05cd1bf5cc500e11cc8ba57daaf88/favicon.ico";
 
 
   /* Show Date and Time for Creation/Updating */
-  
+
 let id;
 
 function insertMetaData() {
@@ -79,6 +79,20 @@ id = setInterval(insertMetaData, 50);
 document.body.addClass('dnd');
 
 
+/* Hide 'Obsidian Promos' on site */
+
+function setupGraphSettings() {
+    if (app && app.graph && app.graph.renderer) {
+        app.graph.renderer.hidePowerTag = true;
+        console.log('Graph settings successfully applied.');
+    } else {
+        console.log('Graph renderer still not available, retrying in 10ms...');
+        setTimeout(setupGraphSettings, 10); // Retry after 10ms
+    }
+}
+
+// Initial call to setupGraphSettings
+setupGraphSettings();
 
 /* TAG ELEMENT DISPLAY
 let id;
