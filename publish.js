@@ -8,6 +8,31 @@ document.querySelector("head > link[rel=icon]").href =
   "https://publish-01.obsidian.md/access/35d05cd1bf5cc500e11cc8ba57daaf88/favicon.ico";
 
 
+
+
+/****************
+ Utility Functions
+
+
+<script src="linkify.min.js"></script>
+<script src="linkify-html.min.js"></script>
+
+
+function pwLinkify(innerHTML) {
+    if(typeof(innerHTML) == "number") {
+        return innerHTML;
+    } else if(innerHTML.search(/\[\[.*\]\]/g) > -1) {
+        const textActual = innerHTML.replace(/"/g, "").replace(/\[/g, "").replace(/]/g, "");
+        const textUrl = textActual.replace(/\s/g, "+");
+        const newHTML = `<a data-href="${textActual}" href="${URL_PAGES}${textUrl}" class="internal-link" target="_blank" rel="noopener">${textActual}</a>`;
+        return newHTML;
+    } else {
+        return innerHTML;
+    }
+}
+****************/
+
+
 /****************************************
 Show Date and Time for Creation/Updating
 ****************************************/

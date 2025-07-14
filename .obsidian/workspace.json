@@ -492,11 +492,10 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "8d62c4a32034980a",
+  "active": "fcaa59025a7544d2",
   "lastOpenFiles": [
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Animation.md",
     "Ideas.md",
