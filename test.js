@@ -136,6 +136,36 @@ function pwToggleGraphView() {
 }
 
 
+/****************
+ Navigation Title Functions
+****************/
+
+function pwGetNavTitle(filePath) {
+    // Get the file's frontmatter from cache
+    const fileCache = app.site.cache.cache[filePath];
+    if (!fileCache) return null;
+
+    // Check for title in frontmatter
+    const titleProperty = fileCache.frontmatter?.title;
+    if (titleProperty) return titleProperty;
+
+    // Fallback to filename without extension
+    return filePath.split('/').pop().replace(/\.[^/.]+$/, '');
+}
+
+function pwUpdateNavTitles() {
+    // Update all navigation file titles
+    const navTitles = document.querySelectorAll('.nav-file-title-content');
+    navTitles.forEach(titleEl => {
+        const filePath = titleEl.closest('.nav-file-title')?.getAttribute('data-path');
+        if (!filePath) return;
+        
+        const displayTitle = pwGetNavTitle(filePath);
+        if (displayTitle) {
+            titleEl.textContent = displayTitle;
+        }
+    });
+}
 
 /****************
  Page Nav Observer
@@ -148,6 +178,7 @@ function pwNavFunctions() {
     pwProcessFrontmatter();
     pwReplaceTitles();
     pwToggleGraphView();
+    pwUpdateNavTitles(); // Add this line to update nav titles when page changes
 }
 
 function pwNavCallback(mutationRecords, observer) {
