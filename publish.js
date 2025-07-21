@@ -122,37 +122,45 @@ function pwReplaceTitles() {
 }
 
 
-/****************
- Navigation Title Functions
-****************/
-
-function pwGetNavTitle(filePath) {
-  // Get the file's frontmatter from cache
-  const fileCache = app.site.cache.cache[filePath];
-  if (!fileCache) return null;
-
-  // Check for title in frontmatter
-  const titleProperty = fileCache.frontmatter?.title;
-  if (titleProperty) return titleProperty;
-
-  // Fallback to filename without extension
-  return filePath.split('/').pop().replace(/\.[^/.]+$/, '');
+/*********************************
+    UPDATE TREE ITEM DISPLAY TEXT
+**********************************/
+function pwUpdateTreeItemTitles() {
+    // Find all tree items in the navigation
+    const treeItems = document.querySelectorAll('.tree-item-self');
+    
+    treeItems.forEach(item => {
+        // Skip if we've already processed this item
+        if (item.hasAttribute('data-title-processed')) return;
+        
+        // Get the file path from data-path attribute (already includes .md)
+        const filePath = item.getAttribute('data-path');
+        if (!filePath) return;
+        
+        // Log for debugging
+        console.log('Processing file:', filePath);
+        
+        // Get the file's frontmatter from cache
+        const fileCache = app.site.cache.cache[filePath];
+        if (!fileCache?.frontmatter) {
+            console.log('No frontmatter found for:', filePath);
+            return;
+        }
+        
+        // Find the inner element that contains the text
+        const innerEl = item.querySelector('.tree-item-inner');
+        if (!innerEl) return;
+        
+        // Use title from frontmatter if available, otherwise keep existing text
+        const title = fileCache.frontmatter.title;
+        if (title) {
+            console.log('Updating title for', filePath, 'to:', title);
+            innerEl.textContent = title;
+            // Mark parent as processed to avoid reprocessing
+            item.setAttribute('data-title-processed', 'true');
+        }
+    });
 }
-
-function pwUpdateNavTitles() {
-  // Update all navigation file titles
-  const navTitles = document.querySelectorAll('.nav-file-title-content');
-  navTitles.forEach(titleEl => {
-      const filePath = titleEl.closest('.nav-file-title')?.getAttribute('data-path');
-      if (!filePath) return;
-      
-      const displayTitle = pwGetNavTitle(filePath);
-      if (displayTitle) {
-          titleEl.textContent = displayTitle;
-      }
-  });
-}
-
 
 /****************
  Page Nav Observer
@@ -166,7 +174,7 @@ function pwNavFunctions() {
     pwReplaceTitles();
     pwToggleGraphView();
     insertMetaData();
-    pwUpdateNavTitles(); // Add this line to update nav titles when page changes
+    pwUpdateTreeItemTitles(); // Add this line to update tree item text
 }
 
 function pwNavCallback(mutationRecords, observer) {
