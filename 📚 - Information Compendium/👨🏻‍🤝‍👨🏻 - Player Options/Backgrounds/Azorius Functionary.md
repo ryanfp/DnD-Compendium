@@ -5,9 +5,9 @@ tags: [background, compendium/src/5e/ggr]
 aliases:
   - Azorius Functionary
 created: 2025/06/15 at 22:47
-updated: 2025/07/13 at 14:52
+updated: 2025/07/21 at 00:06
 title: Azorius Functionary
-permalink: Azorius Functionary
+permalink: azorius-functionary
 ---
 
 # Azorius Functionary

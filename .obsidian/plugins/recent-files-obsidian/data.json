@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "filename-test",
+      "path": "filename-test.md"
+    },
+    {
+      "basename": "Augen Trust {Spy}",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Augen Trust {Spy}.md"
+    },
+    {
+      "basename": "Azorius Functionary",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Azorius Functionary.md"
+    },
+    {
+      "basename": "Acolyte",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Acolyte.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "Ideas",
       "path": "Ideas.md"
-    },
-    {
-      "basename": "Augen Trust {Spy}",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Augen Trust {Spy}.md"
     },
     {
       "basename": "Classes",
@@ -91,10 +103,6 @@
     {
       "basename": "99 - New File Auto Template",
       "path": "z_Templates/99 - New File Auto Template.md"
-    },
-    {
-      "basename": "Azorius Functionary",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/Azorius Functionary.md"
     },
     {
       "basename": "abrupt-hug-toh",

@@ -1,16 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-background
-tags:
-  - background
-  - compendium/src/5e/phb
+tags: [background, compendium/src/5e/phb]
 aliases:
   - Acolyte
 title: Acolyte
+permalink: acolyte
+created: 2025/06/15 at 22:47
+updated: 2025/07/20 at 23:58
 ---
-# Acolyte
-*Source: Player's Handbook p. 127. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
+# Acolyte
+
+*Source: Player's Handbook p. 127. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 - **Skill Proficiencies.** [Insight](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Insight), [Religion](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Religion)  
 - **Languages.** Two of your choice  
@@ -42,6 +44,7 @@ Acolytes are shaped by their experience in temples or other religious communitie
 | 6 | I am tolerant (or intolerant) of other faiths and respect (or condemn) the worship of other gods. |
 | 7 | I've enjoyed fine food, drink, and high society among my temple's elite. Rough living grates on me. |
 | 8 | I've spent so long in the temple that I have little practical experience dealing with people in the outside world. |
+
 ^personality-trait
 
 `dice: [](acolyte.md#^ideal)`
@@ -54,6 +57,7 @@ Acolytes are shaped by their experience in temples or other religious communitie
 | 4 | Power. I hope to one day rise to the top of my faith's religious hierarchy. (Lawful) |
 | 5 | Faith. I trust that my deity will guide my actions. I have faith that if I work hard, things will go well. (Lawful) |
 | 6 | Aspiration. I seek to prove myself worthy of my god's favor by matching my actions against his or her teachings. (Any) |
+
 ^ideal
 
 `dice: [](acolyte.md#^bond)`
@@ -66,6 +70,7 @@ Acolytes are shaped by their experience in temples or other religious communitie
 | 4 | Everything I do is for the common people. |
 | 5 | I will do anything to protect the temple where I served. |
 | 6 | I seek to preserve a sacred text that my enemies consider heretical and seek to destroy. |
+
 ^bond
 
 `dice: [](acolyte.md#^flaw)`
@@ -78,4 +83,5 @@ Acolytes are shaped by their experience in temples or other religious communitie
 | 4 | I am inflexible in my thinking. |
 | 5 | I am suspicious of strangers and expect the worst of them. |
 | 6 | Once I pick a goal, I become obsessed with it to the detriment of everything else in my life. |
+
 ^flaw
