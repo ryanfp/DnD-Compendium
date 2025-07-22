@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "old filemame",
-      "path": "old filemame.md"
+      "basename": "filename-test",
+      "path": "filename-test.md"
     },
     {
       "basename": "Smart Rename from Permalink",
       "path": "z_Templates/Smart Rename from Permalink.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Ideas",
+      "path": "Ideas.md"
     },
     {
       "basename": "20 - Add Permalink",
@@ -191,14 +199,6 @@
     {
       "basename": "clan-crafter",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/clan-crafter.md"
-    },
-    {
-      "basename": "city-watch-investigator-variant",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/city-watch-investigator-variant.md"
-    },
-    {
-      "basename": "city-watch",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/city-watch.md"
     }
   ],
   "omittedPaths": [],

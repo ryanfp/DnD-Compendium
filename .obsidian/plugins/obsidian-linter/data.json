@@ -277,7 +277,9 @@
   "displayLintOnFileChangeNotice": true,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [
-    "z_Templates"
+    "z_Templates",
+    "z_Scripts",
+    ""
   ],
   "filesToIgnore": [],
   "linterLocale": "system-default",

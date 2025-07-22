@@ -1,9 +1,9 @@
 ---
-title: Ideas
+title: ""
 aliases:
   - Ideas
 created: 2025/07/13 at 17:36
-updated: 2025/07/13 at 17:59
+updated: 2025/07/22 at 19:25
 permalink: ideas
 ---
 
