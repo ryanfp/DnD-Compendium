@@ -1,8 +1,11 @@
 ---
-permalink: curse-of-animation
+curse-of-animation
 obsidianUIMode: preview
-cssclasses: [json5e-class]
-tags: [ttrpg-cli/compendium/src/5e/ultimateadventurer, ttrpg-cli/subclass/accursed/animation]
+cssclasses:
+  - json5e-class
+tags:
+  - ttrpg-cli/compendium/src/5e/ultimateadventurer
+  - ttrpg-cli/subclass/accursed/animation
 aliases:
   - Curse of Animation
   - Curse of Animation - Accursed

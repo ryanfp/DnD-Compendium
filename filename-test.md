@@ -3,7 +3,7 @@ title: First Heading
 aliases:
   - First Heading
 created: 2025/07/21 at 00:07
-updated: 2025/07/21 at 00:08
+updated: 2025/07/22 at 18:24
 permalink: filename-test
 ---
 
@@ -14,4 +14,3 @@ Some body text under first heading
 ## Heading 2
 
 Body text again
-

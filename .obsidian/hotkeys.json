@@ -245,5 +245,14 @@
       "modifiers": [],
       "key": "F9"
     }
+  ],
+  "quickadd:choice:a4182113-e36d-4916-81a5-38f09e63b618": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "X"
+    }
   ]
 }
