@@ -239,5 +239,11 @@
       "key": "F2"
     }
   ],
-  "workspace:edit-file-title": []
+  "workspace:edit-file-title": [],
+  "obsidian-metacopy:obsidian-metacopy": [
+    {
+      "modifiers": [],
+      "key": "F9"
+    }
+  ]
 }

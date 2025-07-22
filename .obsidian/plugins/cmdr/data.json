@@ -64,7 +64,14 @@
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
-  "pageHeader": [],
+  "pageHeader": [
+    {
+      "id": "obsidian-metacopy:obsidian-metacopy",
+      "icon": "lucide-airplay",
+      "name": "Metacopy: Metacopy",
+      "mode": "any"
+    }
+  ],
   "macros": [],
   "explorer": [],
   "hide": {
