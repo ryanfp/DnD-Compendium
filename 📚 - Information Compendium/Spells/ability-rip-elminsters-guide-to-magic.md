@@ -4,11 +4,10 @@ cssclasses: json5e-spell
 tags: [compendium/src/5e/elminsters guide to magic, spell/level/6th-level, spell/school/necromancy]
 aliases:
   - Ability Rip
-  - Ability Rip
-date created: 2025:06:15, 22:44
-date modified: 2025:06:28, 20:07
-created: 2025/06/15 pmt 22:44
-updated: 2025/07/12 pmt 23:47
+created: 2025/06/15 at 22:44
+updated: 2025/07/21 at 02:05
+permalink: ability-rip-elminsters-guide-to
+title: Ability Rip
 ---
 
 # Ability Rip

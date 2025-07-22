@@ -1,13 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-background
-tags:
-- background
-- compendium/src/5e/xphb
+tags: [background, compendium/src/5e/xphb]
 aliases:
-- Acolyte
+  - Acolyte
+permalink: acolyte-xphb
+title: Acolyte
+created: 2025/06/15 at 22:47
+updated: 2025/07/21 at 02:03
 ---
+
 # Acolyte
+
 *Source: Player's Handbook (2024) p. 178. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 ![[acolyte 1.webp]]
 - **Ability Scores.** Intelligence, Wisdom, Charisma  

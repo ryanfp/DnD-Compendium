@@ -102,7 +102,7 @@ setupGraphSettings();
 
 /*********************************
     CHANGE FILE NAME VIEW TO TITLES
-**********************************/
+
 function pwReplaceTitles() {
     
     const pageHeader = document.getElementsByClassName("page-header")[0];
@@ -120,22 +120,46 @@ function pwReplaceTitles() {
     }
     
 }
-
+**********************************/
 
 /*********************************
     UPDATE TREE ITEM DISPLAY TEXT
 **********************************/
+// Wait for nav view to be available
+function waitForNavView(callback) {
+    const navView = document.querySelector('.site-body-left-column .nav-view');
+    if (navView) {
+        console.log('Nav view found');
+        callback();
+    } else {
+        console.log('Nav view not found, retrying...');
+        setTimeout(() => waitForNavView(callback), 100);
+    }
+}
+
 function pwUpdateTreeItemTitles() {
-    // Find all tree items in the navigation
-    const treeItems = document.querySelectorAll('.tree-item-self');
+    console.log('pwUpdateTreeItemTitles called');
+    const navView = document.querySelector('.site-body-left-column .nav-view');
+    if (!navView) {
+        console.log('Nav view not available');
+        return;
+    }
+
+    // Find all visible tree items within the nav view
+    // This gets items that aren't in a collapsed folder
+    const visibleItems = navView.querySelectorAll('.tree-item:not(.is-collapsed) > .tree-item-self');
+    console.log('Found visible items:', visibleItems.length);
     
-    treeItems.forEach(item => {
+    visibleItems.forEach(item => {
         // Skip if we've already processed this item
         if (item.hasAttribute('data-title-processed')) return;
         
-        // Get the file path from data-path attribute (already includes .md)
+        // Get the file path from data-path attribute
         const filePath = item.getAttribute('data-path');
         if (!filePath) return;
+        
+        // Skip if this is a folder (no .md extension)
+        if (!filePath.endsWith('.md')) return;
         
         // Log for debugging
         console.log('Processing file:', filePath);
@@ -162,6 +186,47 @@ function pwUpdateTreeItemTitles() {
     });
 }
 
+// Create observer for nav view content and folder state changes
+const navViewObserver = new MutationObserver((mutations) => {
+    mutations.forEach((mutation) => {
+        // Check if nodes were added or class changes occurred
+        if (mutation.addedNodes.length || 
+            (mutation.type === 'attributes' && mutation.attributeName === 'class')) {
+            console.log('Nav view content or folder state updated');
+            pwUpdateTreeItemTitles();
+        }
+    });
+});
+
+// Start observing once nav view is available
+function setupNavViewObserver() {
+    waitForNavView(() => {
+        const navView = document.querySelector('.site-body-left-column .nav-view');
+        console.log('Setting up nav view observer');
+        navViewObserver.observe(navView, {
+            childList: true,
+            subtree: true,
+            attributes: true,
+            attributeFilter: ['class']  // Only watch for class changes
+        });
+        // Run initial update
+        pwUpdateTreeItemTitles();
+    });
+}
+
+// Initialize when the document is ready
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', setupNavViewObserver);
+} else {
+    setupNavViewObserver();
+}
+
+// Ensure we run after any dynamic content loads
+window.addEventListener('load', () => {
+    console.log('Window loaded, ensuring observer is setup');
+    setupNavViewObserver();
+});
+
 /****************
  Page Nav Observer
 ****************/
@@ -170,11 +235,9 @@ const pageNavObserverConfig  = { childList:true, subtree: true }
 const pageNavObserverNode = document.getElementsByClassName("markdown-preview-section")[0];
 
 function pwNavFunctions() {
-    pwProcessFrontmatter();
     pwReplaceTitles();
     pwToggleGraphView();
-    insertMetaData();
-    pwUpdateTreeItemTitles(); // Add this line to update tree item text
+    pwUpdateTreeItemTitles(); // Try updating titles during navigation
 }
 
 function pwNavCallback(mutationRecords, observer) {

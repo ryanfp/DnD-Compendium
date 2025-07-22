@@ -5,9 +5,9 @@ tags: [background, compendium/src/5e/phb]
 aliases:
   - Acolyte
 title: Acolyte
-permalink: acolyte
+permalink: acolyte-phb
 created: 2025/06/15 at 22:47
-updated: 2025/07/20 at 23:58
+updated: 2025/07/21 at 02:04
 ---
 
 # Acolyte
