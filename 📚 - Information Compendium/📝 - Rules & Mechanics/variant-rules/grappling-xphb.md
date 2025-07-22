@@ -13,7 +13,7 @@ A creature can grapple another creature. Characters typically grapple by using a
 
 ## Grappled Condition
 
-Successfully grappling a creature gives it the [Grappled](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Grappled) condition.
+Successfully grappling a creature gives it the [Grappled](conditions.md#Grappled) condition.
 
 ## One Grapple per Hand
 
@@ -21,4 +21,4 @@ A creature must have a hand free to grapple another creature. Some stat blocks a
 
 ## Ending a Grapple
 
-A Grappled creature can use its action to make a Strength ([Athletics](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Athletics)) or Dexterity ([Acrobatics](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Acrobatics)) check against the grapple's escape DC, ending the [condition](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/condition-xphb.md) on itself on a success. The [condition](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/condition-xphb.md) also ends if the grappler has the [Incapacitated](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated) condition or if the distance between the Grappled target and the grappler exceeds the grapple's range. In addition, the grappler can release the target at any time (no action required).
+A Grappled creature can use its action to make a Strength ([Athletics](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Athletics)) or Dexterity ([Acrobatics](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Acrobatics)) check against the grapple's escape DC, ending the [condition](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/condition-xphb.md) on itself on a success. The [condition](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/condition-xphb.md) also ends if the grappler has the [Incapacitated](conditions.md#Incapacitated) condition or if the distance between the Grappled target and the grappler exceeds the grapple's range. In addition, the grappler can release the target at any time (no action required).

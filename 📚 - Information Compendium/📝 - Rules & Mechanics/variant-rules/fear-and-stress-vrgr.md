@@ -45,9 +45,9 @@ For example, imagine that a character has the Seed of Fear "I hate being stuck i
 
 ## Fear
 
-An overwhelming foe or horrid monster doesn't need magic or some supernatural ability to strike fear into the most stalwart adventurers. During any frightful encounter, you can call on a character to make a saving throw to resist being scared. The character must succeed on a DC 15 Wisdom saving throw or become [frightened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened) until the end of their next turn.
+An overwhelming foe or horrid monster doesn't need magic or some supernatural ability to strike fear into the most stalwart adventurers. During any frightful encounter, you can call on a character to make a saving throw to resist being scared. The character must succeed on a DC 15 Wisdom saving throw or become [frightened](conditions.md#Frightened) until the end of their next turn.
 
-Any of the following circumstances might be reasons to have one or more characters make saving throws to resist being [frightened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened):
+Any of the following circumstances might be reasons to have one or more characters make saving throws to resist being [frightened](conditions.md#Frightened):
 
 - The character experiences one of their Seeds of Fear.  
 - An enemy is immune to the character's attacks or spells.  
@@ -74,6 +74,6 @@ When a character makes an attack roll, an ability check, or a saving throw, they
 
 A character who spends an entire day relaxing or in otherwise calm circumstances reduces their Stress Score by 1 when they finish their next long rest.
 
-The [calm emotions](/📚%20-%20Information%20Compendium/spells/calm-emotions.md) spell effect used to suppress the [charmed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Charmed) and [frightened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened) conditions also suppresses the effects of one's Stress Score for the spell's duration.
+The [calm emotions](/📚%20-%20Information%20Compendium/spells/calm-emotions.md) spell effect used to suppress the [charmed](conditions.md#Charmed) and [frightened](conditions.md#Frightened) conditions also suppresses the effects of one's Stress Score for the spell's duration.
 
 A [lesser restoration](/📚%20-%20Information%20Compendium/spells/lesser-restoration.md) spell reduces the target's Stress Score by 1, and a [greater restoration](/📚%20-%20Information%20Compendium/spells/greater-restoration.md) spell reduces a character's Stress Score to 0.

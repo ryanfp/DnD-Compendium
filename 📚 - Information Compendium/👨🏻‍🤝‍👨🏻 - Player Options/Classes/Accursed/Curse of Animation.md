@@ -6,10 +6,8 @@ tags: [ttrpg-cli/compendium/src/5e/ultimateadventurer, ttrpg-cli/subclass/accurs
 aliases:
   - Curse of Animation
   - Curse of Animation - Accursed
-date created: 2025:05:14, 21:46
-date modified: 2025:07:06, 20:22
 created: 2025/05/14 at 21:46
-updated: 2025/07/13 at 18:13
+updated: 2025/07/21 at 21:58
 title: Curse of Animation
 ---
 
@@ -85,7 +83,7 @@ Starting at 2nd level, your increasing mastery of your curse causes you to learn
 | Accursed Level | Spells |
 |----------------|--------|
 | 2nd | shield |
-| 5th | [[Skull Servant\|skull servant]]|
+| 5th | [[skull-servant|skull servant]]|
 | 9th | animate dead |
 | 13th | stoneskin |
 | 17th | danse macabre |

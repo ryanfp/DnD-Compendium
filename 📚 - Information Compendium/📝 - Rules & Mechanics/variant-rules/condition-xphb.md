@@ -11,20 +11,20 @@ aliases:
 
 A condition is a temporary game state. The definition of a condition says how it affects its recipient, and various rules define how to end a condition. This glossary defines these conditions:
 
-- [Blinded](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Blinded)  
-- [Charmed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Charmed)  
-- [Deafened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Deafened)  
-- [Exhaustion](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Exhaustion)  
-- [Frightened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened)  
-- [Grappled](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Grappled)  
-- [Incapacitated](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated)  
-- [Invisible](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Invisible)  
-- [Paralyzed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Paralyzed)  
-- [Petrified](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Petrified)  
-- [Poisoned](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Poisoned)  
-- [Prone](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Prone)  
-- [Restrained](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Restrained)  
-- [Stunned](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Stunned)  
-- [Unconscious](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Unconscious)  
+- [Blinded](conditions.md#Blinded)  
+- [Charmed](conditions.md#Charmed)  
+- [Deafened](conditions.md#Deafened)  
+- [Exhaustion](conditions.md#Exhaustion)  
+- [Frightened](conditions.md#Frightened)  
+- [Grappled](conditions.md#Grappled)  
+- [Incapacitated](conditions.md#Incapacitated)  
+- [Invisible](conditions.md#Invisible)  
+- [Paralyzed](conditions.md#Paralyzed)  
+- [Petrified](conditions.md#Petrified)  
+- [Poisoned](conditions.md#Poisoned)  
+- [Prone](conditions.md#Prone)  
+- [Restrained](conditions.md#Restrained)  
+- [Stunned](conditions.md#Stunned)  
+- [Unconscious](conditions.md#Unconscious)  
 
-A condition doesn't stack with itself; a recipient either has a condition or doesn't. The [Exhaustion](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Exhaustion) condition is an exception to that rule.
+A condition doesn't stack with itself; a recipient either has a condition or doesn't. The [Exhaustion](conditions.md#Exhaustion) condition is an exception to that rule.

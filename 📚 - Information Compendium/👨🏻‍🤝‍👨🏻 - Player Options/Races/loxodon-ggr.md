@@ -35,7 +35,7 @@ You count as one size larger when determining your carrying capacity and the wei
 
 ### Loxodon Serenity
 
-You have advantage on saving throws against being [charmed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Charmed) or [frightened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened).
+You have advantage on saving throws against being [charmed](conditions.md#Charmed) or [frightened](conditions.md#Frightened).
 
 ### Natural Armor
 

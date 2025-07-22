@@ -30,7 +30,7 @@ You place a curse on a creature that you can see within range. Until the spell e
 
 If the target drops to 0 [Hit Points](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/hit-points-xphb.md) before this spell ends, you can take a [Bonus Action](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/bonus-action-xphb.md) on a later turn to curse a new creature.
 
-**Using a Higher-Level Spell Slot.** Your [Concentration](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Concentration) can last longer with a spell slot of level 2 (up to 4 hours), 3-4 (up to 8 hours), or 5+ (24 hours).
+**Using a Higher-Level Spell Slot.** Your [Concentration](conditions.md#Concentration) can last longer with a spell slot of level 2 (up to 4 hours), 3-4 (up to 8 hours), or 5+ (24 hours).
 
 **Classes**: [Bard](/📚%20-%20Information%20Compendium/lists/list-spells-classes-bard.md); [Warlock](/📚%20-%20Information%20Compendium/lists/list-spells-classes-warlock.md); [Warlock (Great Old One Patron)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB")
 

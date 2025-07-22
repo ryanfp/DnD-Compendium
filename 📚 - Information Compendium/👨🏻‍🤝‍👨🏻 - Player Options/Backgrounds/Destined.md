@@ -1,16 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-background
-tags:
-  - background
-  - compendium/src/5e/toh
+tags: [background, compendium/src/5e/toh]
 aliases:
   - Destined
 title: Destined
+permalink: destined
+created: 2025/06/15 at 22:47
+updated: 2025/07/21 at 22:14
 ---
-# Destined
-*Source: Tome of Heroes p. 158*  
 
+# Destined
+
+*Source: Tome of Heroes p. 158*  
 
 - **Skill Proficiencies.** History, Insight  
 - **Languages.** One of your choice  
@@ -34,6 +36,7 @@ You're a person who's running from something or hurtling headfirst towards somet
 | 6 | You are the reincarnation of a famous figure, and you're expected to live in an isolated temple. |
 | 7 | You were supposed to serve an honorary but dangerous position in your people's military. |
 | 8 | Members of your family have occupied a civil office (court scribe, sheriff, census official, or similar) for generations. |
+
 ^destiny
 
 ## Feature: Reputation of Opportunity
@@ -56,6 +59,7 @@ Destined characters might be running toward or away from destiny, but whatever t
 | 6 | I didn't ask for this, and I don't want it. I'm bitter that I must change my life for it. |
 | 7 | Few have been chosen to complete this lifepath, and I'm proud to be one of them. |
 | 8 | Who can say how this will work out? The world is an uncertain place, and I'll find my destiny when it finds me. |
+
 ^personality-trait
 
 `dice: [](destined-toh.md#^ideal)`
@@ -68,6 +72,7 @@ Destined characters might be running toward or away from destiny, but whatever t
 | 4 | **Greater Good.** Completing my duty ensures the betterment of my family, community, or region. (Good) |
 | 5 | **Power.** If I can take this role and be successful, I'll have opportunities to do whatever I want. (Chaotic) |
 | 6 | **Responsibility.** It doesn't matter if I want it or not; it's what I'm supposed to do. (Lawful) |
+
 ^ideal
 
 `dice: [](destined-toh.md#^bond)`
@@ -80,6 +85,7 @@ Destined characters might be running toward or away from destiny, but whatever t
 | 4 | How I reach my destiny is just as important as how I accomplish my destiny. |
 | 5 | People expect me to complete this task. I don't know how I feel about succeeding or failing, but I'm committed to it. |
 | 6 | Without this role fulfilled, the people of my home region will suffer, and that's not acceptable. |
+
 ^bond
 
 `dice: [](destined-toh.md#^flaw)`
@@ -92,4 +98,5 @@ Destined characters might be running toward or away from destiny, but whatever t
 | 4 | What if I follow through with this and I fail? |
 | 5 | It doesn't matter what someone else sacrificed for this. I only care about my feelings. |
 | 6 | Occasionally — ok, maybe "often" — I make poor decisions in life, like running from this destiny. |
+
 ^flaw

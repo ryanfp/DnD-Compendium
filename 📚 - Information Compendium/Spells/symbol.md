@@ -52,7 +52,7 @@ Each target must make a Constitution saving throw. On a failed save, a target bi
 
 ## Fear
 
-Each target must make a Wisdom saving throw and becomes [frightened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened) for 1 minute on a failed save. While [frightened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened), the target drops whatever it is holding and must move at least 30 feet away from the glyph on each of its turns, if able.
+Each target must make a Wisdom saving throw and becomes [frightened](conditions.md#Frightened) for 1 minute on a failed save. While [frightened](conditions.md#Frightened), the target drops whatever it is holding and must move at least 30 feet away from the glyph on each of its turns, if able.
 
 ## Hopelessness
 
@@ -64,15 +64,15 @@ Each target must make an Intelligence saving throw. On a failed save, the target
 
 ## Pain
 
-Each target must make a Constitution saving throw and becomes [incapacitated](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated) with excruciating pain for 1 minute on a failed save.
+Each target must make a Constitution saving throw and becomes [incapacitated](conditions.md#Incapacitated) with excruciating pain for 1 minute on a failed save.
 
 ## Sleep
 
-Each target must make a Wisdom saving throw and falls [unconscious](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Unconscious) for 10 minutes on a failed save. A creature awakens if it takes damage or if someone uses an action to shake or slap it awake.
+Each target must make a Wisdom saving throw and falls [unconscious](conditions.md#Unconscious) for 10 minutes on a failed save. A creature awakens if it takes damage or if someone uses an action to shake or slap it awake.
 
 ## Stunning
 
-Each target must make a Wisdom saving throw and becomes [stunned](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Stunned) for 1 minute on a failed save.
+Each target must make a Wisdom saving throw and becomes [stunned](conditions.md#Stunned) for 1 minute on a failed save.
 
 ## Summary
 

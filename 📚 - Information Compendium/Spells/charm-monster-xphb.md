@@ -34,7 +34,7 @@ aliases:
 - **Components:** V, S
 - **Duration:** 1 hour
 
-One creature you can see within range makes a Wisdom saving throw. It does so with [Advantage](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/advantage-xphb.md) if you or your allies are fighting it. On a failed save, the target has the [Charmed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Charmed) condition until the spell ends or until you or your allies damage it. The [Charmed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Charmed) creature is Friendly to you. When the spell ends, the target knows it was [Charmed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Charmed) by you.
+One creature you can see within range makes a Wisdom saving throw. It does so with [Advantage](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/advantage-xphb.md) if you or your allies are fighting it. On a failed save, the target has the [Charmed](conditions.md#Charmed) condition until the spell ends or until you or your allies damage it. The [Charmed](conditions.md#Charmed) creature is Friendly to you. When the spell ends, the target knows it was [Charmed](conditions.md#Charmed) by you.
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 4.
 

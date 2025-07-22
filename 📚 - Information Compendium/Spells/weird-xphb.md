@@ -28,9 +28,9 @@ aliases:
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-You try to create illusory terrors in others' minds. Each creature of your choice in a 30-foot-radius Sphere centered on a point within range makes a Wisdom saving throw. On a failed save, a target takes `10d10` Psychic damage and has the [Frightened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened) condition for the duration. On a successful save, a target takes half as much damage only.
+You try to create illusory terrors in others' minds. Each creature of your choice in a 30-foot-radius Sphere centered on a point within range makes a Wisdom saving throw. On a failed save, a target takes `10d10` Psychic damage and has the [Frightened](conditions.md#Frightened) condition for the duration. On a successful save, a target takes half as much damage only.
 
-A [Frightened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened) target makes a Wisdom saving throw at the end of each of its turns. On a failed save, it takes `5d10` Psychic damage. On a successful save, the spell ends on that target.
+A [Frightened](conditions.md#Frightened) target makes a Wisdom saving throw at the end of each of its turns. On a failed save, it takes `5d10` Psychic damage. On a successful save, the spell ends on that target.
 
 **Classes**: [Wizard (Illusionist)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Arcana Domain)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Wizard](/📚%20-%20Information%20Compendium/lists/list-spells-classes-wizard.md); [Bard](/📚%20-%20Information%20Compendium/lists/list-spells-classes-bard.md); [Warlock](/📚%20-%20Information%20Compendium/lists/list-spells-classes-warlock.md); [Cleric (Arcana Domain)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG")
 

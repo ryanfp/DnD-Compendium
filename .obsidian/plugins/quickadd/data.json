@@ -13,7 +13,14 @@
       "type": "Multi",
       "command": false,
       "choices": [],
-      "collapsed": false
+      "collapsed": true
+    },
+    {
+      "id": "a4182113-e36d-4916-81a5-38f09e63b618",
+      "name": "t2",
+      "type": "Macro",
+      "command": true,
+      "macroId": "996d7850-ba73-474e-8a2b-f1fedb7d27ad"
     }
   ],
   "macros": [
@@ -46,6 +53,85 @@
           "commandId": "templater-obsidian:z_Templates/20 - Add Permalink.md"
         }
       ],
+      "runOnStartup": false
+    },
+    {
+      "name": "test2",
+      "id": "996d7850-ba73-474e-8a2b-f1fedb7d27ad",
+      "commands": [
+        {
+          "name": "Permalink",
+          "type": "Choice",
+          "id": "7d6591db-d826-48cb-b867-cb39771f8fc0",
+          "choiceId": "035f3794-7392-4615-8c68-7a07eb9342b0"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "7300c2ed-c081-42d7-b04e-ed9c5e69f2bc",
+          "time": 100
+        },
+        {
+          "name": "Select active line",
+          "type": "EditorCommand",
+          "id": "37b5afa7-720f-4224-9c02-40829956f87d",
+          "editorCommandType": "Select active line"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "d9edb6fd-3fe4-482e-9111-910a3afefe97",
+          "time": 100
+        },
+        {
+          "name": "Copy",
+          "type": "EditorCommand",
+          "id": "abc13fda-dddf-4c99-afbd-4bbdcea11b76",
+          "editorCommandType": "Copy"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "ac1b1e8c-918c-4fe4-a737-13035444eab4",
+          "time": 100
+        },
+        {
+          "name": "Smart Rename: Smart Rename",
+          "type": "Obsidian",
+          "id": "16c492fd-d9e0-42e3-ac82-82a14c8a88da",
+          "commandId": "smart-rename:smart-rename"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "2796f29d-d253-4893-8a3d-6da76fb447aa",
+          "time": 100
+        },
+        {
+          "name": "Select active line",
+          "type": "EditorCommand",
+          "id": "6385dea2-270b-4371-a7b6-ddc696d8015a",
+          "editorCommandType": "Select active line"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "c08ea2fb-a7d7-47b7-9490-8e9aa77c4c77",
+          "time": 100
+        },
+        {
+          "name": "Paste",
+          "type": "EditorCommand",
+          "id": "9340a79b-065d-475e-ad5b-314edbf74fa4",
+          "editorCommandType": "Paste"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "t2",
+      "id": "e00814e4-427e-47f9-ab7f-80c8ed0a2934",
+      "commands": [],
       "runOnStartup": false
     }
   ],

@@ -30,7 +30,7 @@ aliases:
 - **Components:** V, S, M (a hummingbird feather)
 - **Duration:** 8 hours
 
-You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target can't be [surprised](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Surprised) and has advantage on attack rolls, ability checks, and saving throws. Additionally, other creatures have disadvantage on attack rolls against the target for the duration.
+You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target can't be [surprised](conditions.md#Surprised) and has advantage on attack rolls, ability checks, and saving throws. Additionally, other creatures have disadvantage on attack rolls against the target for the duration.
 
 This spell immediately ends if you cast it again before its duration ends.
 

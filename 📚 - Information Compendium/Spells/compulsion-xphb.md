@@ -22,9 +22,9 @@ aliases:
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-Each creature of your choice that you can see within range must succeed on a Wisdom saving throw or have the [Charmed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Charmed) condition until the spell ends.
+Each creature of your choice that you can see within range must succeed on a Wisdom saving throw or have the [Charmed](conditions.md#Charmed) condition until the spell ends.
 
-For the duration, you can take a [Bonus Action](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/bonus-action-xphb.md) to designate a direction that is horizontal to you. Each [Charmed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Charmed) target must use as much of its movement as possible to move in that direction on its next turn, taking the safest route. After moving in this way, a target repeats the save, ending the spell on itself on a success.
+For the duration, you can take a [Bonus Action](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/bonus-action-xphb.md) to designate a direction that is horizontal to you. Each [Charmed](conditions.md#Charmed) target must use as much of its movement as possible to move in that direction on its next turn, taking the safest route. After moving in this way, a target repeats the save, ending the spell on itself on a success.
 
 **Classes**: [Bard](/📚%20-%20Information%20Compendium/lists/list-spells-classes-bard.md); [Paladin (Oath of Glory)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB")
 

@@ -1,16 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-background
-tags:
-  - background
-  - compendium/src/5e/phb
+tags: [background, compendium/src/5e/phb]
 aliases:
   - Charlatan
 title: Charlatan
+permalink: charlatan
+created: 2025/06/15 at 22:47
+updated: 2025/07/21 at 22:08
 ---
-# Charlatan
-*Source: Player's Handbook p. 128*  
 
+# Charlatan
+
+*Source: Player's Handbook p. 128*  
 
 - **Skill Proficiencies.** [Deception](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Deception), [Sleight of Hand](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Sleight%20of%20Hand)  
 - **Tool Proficiencies.** [Disguise kit](/📚%20-%20Information%20Compendium/items/disguise-kit.md), [Forgery kit](/📚%20-%20Information%20Compendium/items/forgery-kit.md)  
@@ -38,6 +40,7 @@ Every charlatan has an angle he or she uses in preference to other schemes. Choo
 | 4 | I put on new identities like clothes. |
 | 5 | I run sleight-of-hand cons on street corners. |
 | 6 | I convince people that worthless junk is worth their hard-earned money. |
+
 ^scam
 
 ## Suggested Characteristics
@@ -56,6 +59,7 @@ Charlatans are colorful characters who conceal their true selves behind the mask
 | 6 | Sarcasm and insults are my weapons of choice. |
 | 7 | I keep multiple holy symbols on me and invoke whatever deity might come in useful at any given moment. |
 | 8 | I pocket anything I see that might have some value. |
+
 ^personality-trait
 
 `dice: [](charlatan.md#^ideal)`
@@ -68,6 +72,7 @@ Charlatans are colorful characters who conceal their true selves behind the mask
 | 4 | Creativity. I never run the same con twice. (Chaotic) |
 | 5 | Friendship. Material goods come and go. Bonds of friendship last forever. (Good) |
 | 6 | Aspiration. I'm determined to make something of myself. (Any) |
+
 ^ideal
 
 `dice: [](charlatan.md#^bond)`
@@ -80,6 +85,7 @@ Charlatans are colorful characters who conceal their true selves behind the mask
 | 4 | I come from a noble family, and one day I'll reclaim my lands and title from those who stole them from me. |
 | 5 | A powerful person killed someone I love. Some day soon, I'll have my revenge. |
 | 6 | I swindled and ruined a person who didn't deserve it. I seek to atone for my misdeeds but might never be able to forgive myself. |
+
 ^bond
 
 `dice: [](charlatan.md#^flaw)`
@@ -92,4 +98,5 @@ Charlatans are colorful characters who conceal their true selves behind the mask
 | 4 | I'm too greedy for my own good. I can't resist taking a risk if there's money involved. |
 | 5 | I can't resist swindling people who are more powerful than me. |
 | 6 | I hate to admit it and will hate myself for it, but I'll run and preserve my own hide if the going gets tough. |
+
 ^flaw

@@ -1,16 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-background
-tags:
-  - background
-  - compendium/src/5e/scag
+tags: [background, compendium/src/5e/scag]
 aliases:
   - Courtier
 title: Courtier
+permalink: courtier
+created: 2025/06/15 at 22:47
+updated: 2025/07/21 at 22:12
 ---
-# Courtier
-*Source: Sword Coast Adventurer's Guide p. 146*  
 
+# Courtier
+
+*Source: Sword Coast Adventurer's Guide p. 146*  
 
 - **Skill Proficiencies.** [Insight](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Insight), [Persuasion](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Persuasion)  
 - **Languages.** Any two of your choice  

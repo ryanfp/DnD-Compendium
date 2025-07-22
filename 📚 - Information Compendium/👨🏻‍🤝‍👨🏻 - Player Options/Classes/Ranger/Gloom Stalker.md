@@ -46,7 +46,7 @@ updated: 2025/07/13 at 00:17
 
 > [!quote] A quote from Xanathar  
 > 
-> So you sneak around in the dark? You know most everything but humans can see in the dark, right? We all see you. Tiptoeing doesn't turn you [invisible](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Invisible).
+> So you sneak around in the dark? You know most everything but humans can see in the dark, right? We all see you. Tiptoeing doesn't turn you [invisible](conditions.md#Invisible).
 
 ## Class Features
 
@@ -80,7 +80,7 @@ At the start of your first turn of each combat, your walking speed increases by 
 
 At 3rd level, you gain [darkvision](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/senses.md#Darkvision) out to a range of 60 feet. If you already have [darkvision](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/senses.md#Darkvision) from your race, its range increases by 30 feet.
 
-You are also adept at evading creatures that rely on [darkvision](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/senses.md#Darkvision). While in darkness, you are [invisible](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Invisible) to any creature that relies on [darkvision](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/senses.md#Darkvision) to see you in that darkness.
+You are also adept at evading creatures that rely on [darkvision](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/senses.md#Darkvision). While in darkness, you are [invisible](conditions.md#Invisible) to any creature that relies on [darkvision](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/senses.md#Darkvision) to see you in that darkness.
 
 ### Iron Mind (Level 7)
 

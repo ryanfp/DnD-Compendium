@@ -96,11 +96,11 @@ You have [Advantage](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%2
 
 #### No Concentration or Spells
 
-You can't maintain [Concentration](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Concentration), and you can't cast spells.
+You can't maintain [Concentration](conditions.md#Concentration), and you can't cast spells.
 
 #### Duration
 
-The Rage lasts until the end of your next turn, and it ends early if you don Heavy armor or have the [Incapacitated](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated) condition. If your Rage is still active on your next turn, you can extend the Rage for another round by doing one of the following:
+The Rage lasts until the end of your next turn, and it ends early if you don Heavy armor or have the [Incapacitated](conditions.md#Incapacitated) condition. If your Rage is still active on your next turn, you can extend the Rage for another round by doing one of the following:
 
 - Make an attack roll against an enemy.  
 - Force an enemy to make a saving throw.  
@@ -120,7 +120,7 @@ When you reach certain Barbarian levels, you gain the ability to use the [master
 
 ### Danger Sense (Level 2)
 
-You gain an uncanny sense of when things aren't as they should be, giving you an edge when you dodge perils. You have [Advantage](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/advantage-xphb.md) on Dexterity saving throws unless you have the [Incapacitated](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated) condition.
+You gain an uncanny sense of when things aren't as they should be, giving you an edge when you dodge perils. You have [Advantage](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/advantage-xphb.md) on Dexterity saving throws unless you have the [Incapacitated](conditions.md#Incapacitated) condition.
 
 ### Reckless Attack (Level 2)
 
@@ -210,7 +210,7 @@ You gain a feature from your Barbarian subclass.
 
 When you roll [Initiative](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/initiative-xphb.md), you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can't do so again until you finish a [Long Rest](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/long-rest-xphb.md).
 
-In addition, your Rage is so fierce that it now lasts for 10 minutes without you needing to do anything to extend it from round to round. Your Rage ends early if you have the [Unconscious](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Unconscious) condition (not just the [Incapacitated](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated) condition) or don Heavy armor.
+In addition, your Rage is so fierce that it now lasts for 10 minutes without you needing to do anything to extend it from round to round. Your Rage ends early if you have the [Unconscious](conditions.md#Unconscious) condition (not just the [Incapacitated](conditions.md#Incapacitated) condition) or don Heavy armor.
 
 ### Ability Score Improvement (Level 16)
 

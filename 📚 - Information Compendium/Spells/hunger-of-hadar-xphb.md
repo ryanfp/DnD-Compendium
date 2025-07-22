@@ -26,7 +26,7 @@ aliases:
 - **Components:** V, S, M (a pickled tentacle)
 - **Duration:** Concentration, up to 1 minute
 
-You open a gateway to the Far Realm, a region infested with unspeakable horrors. A 20-foot-radius Sphere of [Darkness](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/darkness-xphb.md) appears, centered on a point with range and lasting for the duration. The Sphere is [Difficult Terrain](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/difficult-terrain-xphb.md), and it is filled with strange whispers and slurping noises, which can be heard up to 30 feet away. No light, magical or otherwise, can illuminate the area, and creatures fully within it have the [Blinded](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Blinded) condition.
+You open a gateway to the Far Realm, a region infested with unspeakable horrors. A 20-foot-radius Sphere of [Darkness](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/darkness-xphb.md) appears, centered on a point with range and lasting for the duration. The Sphere is [Difficult Terrain](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/difficult-terrain-xphb.md), and it is filled with strange whispers and slurping noises, which can be heard up to 30 feet away. No light, magical or otherwise, can illuminate the area, and creatures fully within it have the [Blinded](conditions.md#Blinded) condition.
 
 Any creature that starts its turn in the area takes `2d6` Cold damage. Any creature that ends its turn there must succeed on a Dexterity saving throw or take `2d6` Acid damage from otherworldly tentacles.
 

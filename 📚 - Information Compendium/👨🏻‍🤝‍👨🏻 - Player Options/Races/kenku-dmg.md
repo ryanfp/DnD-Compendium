@@ -19,7 +19,7 @@ aliases:
 
 ### Ambusher
 
-In the first round of a combat, you have advantage on attack rolls against any creature who is [surprised](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Surprised).
+In the first round of a combat, you have advantage on attack rolls against any creature who is [surprised](conditions.md#Surprised).
 
 ### Mimicry
 

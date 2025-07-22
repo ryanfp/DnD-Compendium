@@ -23,7 +23,7 @@ aliases:
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You sap the vitality of one creature you can see in range. The target must succeed on a Constitution saving throw or take `d4` necrotic damage and fall [prone](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Prone).
+You sap the vitality of one creature you can see in range. The target must succeed on a Constitution saving throw or take `d4` necrotic damage and fall [prone](conditions.md#Prone).
 
 This spell's damage increases by `d4` when you reach 5th level (`2d4`), 11th level (`3d4`), and 17th level (`4d4`).
 

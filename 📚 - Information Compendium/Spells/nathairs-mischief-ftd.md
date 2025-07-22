@@ -40,9 +40,9 @@ You fill a 20-foot cube you can see within range with fey and draconic magic. Ro
 
 | dice: d4 | Effect |
 |----------|--------|
-| 1 | The smell of apple pie fills the air, and each creature in the cube must succeed on a Wisdom saving throw or become [charmed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Charmed) by you until the start of your next turn. |
-| 2 | Bouquets of flowers appear all around, and each creature in the cube must succeed on a Dexterity saving throw or be [blinded](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Blinded) until the start of your next turn as the flowers spray water in their faces. |
-| 3 | Each creature in the cube must succeed on a Wisdom saving throw or begin giggling until the start of your next turn. A giggling creature is [incapacitated](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated) and uses all its movement to move in a random direction. |
+| 1 | The smell of apple pie fills the air, and each creature in the cube must succeed on a Wisdom saving throw or become [charmed](conditions.md#Charmed) by you until the start of your next turn. |
+| 2 | Bouquets of flowers appear all around, and each creature in the cube must succeed on a Dexterity saving throw or be [blinded](conditions.md#Blinded) until the start of your next turn as the flowers spray water in their faces. |
+| 3 | Each creature in the cube must succeed on a Wisdom saving throw or begin giggling until the start of your next turn. A giggling creature is [incapacitated](conditions.md#Incapacitated) and uses all its movement to move in a random direction. |
 | 4 | Drops of molasses hover in the cube, making it difficult terrain until the start of your next turn. |
 ^mischievous-surge
 

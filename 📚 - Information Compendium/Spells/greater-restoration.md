@@ -40,9 +40,9 @@ aliases:
 - **Components:** V, S, M (diamond dust worth at least 100 gp, which the spell consumes)
 - **Duration:** Instantaneous
 
-You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's [exhaustion](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Exhaustion) level by one, or end one of the following effects on the target:
+You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's [exhaustion](conditions.md#Exhaustion) level by one, or end one of the following effects on the target:
 
-- One effect that [charmed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Charmed) or [petrified](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Petrified) the target  
+- One effect that [charmed](conditions.md#Charmed) or [petrified](conditions.md#Petrified) the target  
 - One curse, including the target's attunement to a cursed magic item  
 - Any reduction to one of the target's ability scores  
 - One effect reducing the target's hit point maximum  

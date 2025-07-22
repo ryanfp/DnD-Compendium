@@ -52,11 +52,11 @@ The target takes `10d6` cold damage on a failed save, or half as much damage on 
 
 ## 6-Indigo
 
-On a failed save, the target is [restrained](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Restrained). It must then make a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the [petrified](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Petrified) condition. The successes and failures don't need to be consecutive, keep track of both until the target collects three of a kind.
+On a failed save, the target is [restrained](conditions.md#Restrained). It must then make a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the [petrified](conditions.md#Petrified) condition. The successes and failures don't need to be consecutive, keep track of both until the target collects three of a kind.
 
 ## 7-Violet
 
-On a failed save, the target is [blinded](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Blinded). It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of existence of the DM's choosing and is no longer [blinded](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Blinded). (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.)
+On a failed save, the target is [blinded](conditions.md#Blinded). It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of existence of the DM's choosing and is no longer [blinded](conditions.md#Blinded). (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.)
 
 ## 8-Special
 

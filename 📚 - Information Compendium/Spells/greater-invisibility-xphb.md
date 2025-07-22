@@ -34,7 +34,7 @@ aliases:
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-A creature you touch has the [Invisible](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Invisible) condition until the spell ends.
+A creature you touch has the [Invisible](conditions.md#Invisible) condition until the spell ends.
 
 **Classes**: [Wizard (Illusionist)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/📚%20-%20Information%20Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](/📚%20-%20Information%20Compendium/lists/list-spells-classes-wizard.md); [Ranger (Gloom Stalker)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-gloom-stalker-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/📚%20-%20Information%20Compendium/lists/list-spells-classes-bard.md); [Warlock (Archfey Patron)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-eldritch-knight.md)
 

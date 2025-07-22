@@ -68,7 +68,7 @@ Choose two types of weapons to be your kensei weapons: one melee weapon and one 
 
 - **Agile Parry**  
 
-    If you make an unarmed strike as part of the [Attack](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/actions.md#Attack) action on your turn and are holding a kensei weapon, you can use it to defend yourself if it is a melee weapon. You gain a +2 bonus to AC until the start of your next turn, while the weapon is in your hand and you aren't [incapacitated](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated).  
+    If you make an unarmed strike as part of the [Attack](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/actions.md#Attack) action on your turn and are holding a kensei weapon, you can use it to defend yourself if it is a melee weapon. You gain a +2 bonus to AC until the start of your next turn, while the weapon is in your hand and you aren't [incapacitated](conditions.md#Incapacitated).  
 
 - **Kensei's Shot**  
 

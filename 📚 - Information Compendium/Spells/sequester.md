@@ -24,7 +24,7 @@ aliases:
 - **Components:** V, S, M (a powder composed of diamond, emerald, ruby, and sapphire dust worth at least 5,000 gp, which the spell consumes)
 - **Duration:** Until dispelled
 
-By means of this spell, a willing creature or an object can be hidden away, safe from detection for the duration. When you cast the spell and touch the target, it becomes [invisible](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Invisible) and can't be targeted by divination spells or perceived through scrying sensors created by divination spells.
+By means of this spell, a willing creature or an object can be hidden away, safe from detection for the duration. When you cast the spell and touch the target, it becomes [invisible](conditions.md#Invisible) and can't be targeted by divination spells or perceived through scrying sensors created by divination spells.
 
 If the target is a creature, it falls into a state of suspended animation. Time ceases to flow for it, and it doesn't grow older.
 

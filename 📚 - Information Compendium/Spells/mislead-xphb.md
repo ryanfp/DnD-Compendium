@@ -28,7 +28,7 @@ aliases:
 - **Components:** S
 - **Duration:** Concentration, up to 1 hour
 
-You gain the [Invisible](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Invisible) condition at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends immediately after you make an attack roll, deal damage, or cast a spell.
+You gain the [Invisible](conditions.md#Invisible) condition at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends immediately after you make an attack roll, deal damage, or cast a spell.
 
 As a [Magic](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/actions.md#Magic) action, you can move the illusory double up to twice your [Speed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/speed-xphb.md) and make it gesture, speak, and behave in whatever way you choose. It is intangible and invulnerable.
 

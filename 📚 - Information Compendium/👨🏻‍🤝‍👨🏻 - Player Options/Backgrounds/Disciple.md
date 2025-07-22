@@ -1,15 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-background
-tags:
-  - background
-  - compendium/src/5e/sgtteh
+tags: [background, compendium/src/5e/sgtteh]
 aliases:
   - Disciple
   - disciple-sgtteh
 title: Disciple
+permalink: disciple
+created: 2025/06/15 at 22:47
+updated: 2025/07/21 at 22:14
 ---
+
 # Disciple
+
 *Source: Steinhardt's Guide to the Eldritch Hunt p. 177*  
 ![](/📚%20-%20Information%20Compendium/books/steinhardts-guide-to-the-eldritch-hunt/img/04374.webp#right)
 
@@ -54,6 +57,7 @@ You have dedicated your life to the Radiant One, and its teachings have molded y
 | 6 | I always try to offer guidance to those who seem lost. |
 | 7 | I have a peaceful demeanor and a comforting presence. |
 | 8 | I am strict and expect others to abide by the teachings of the Church. |
+
 ^personality-traits
 
 **Ideals**
@@ -68,6 +72,7 @@ You have dedicated your life to the Radiant One, and its teachings have molded y
 | 4 | **Knowledge**. The true path to enlightenment is the pursuit of knowledge. (Neutral) |
 | 5 | **Charity**. It's my duty to help those in need, and to provide for the less fortunate. (Good) |
 | 6 | **Independence**. I must question and challenge my faith to truly understand it. (Chaotic) |
+
 ^ideals
 
 **Bonds**
@@ -82,6 +87,7 @@ You have dedicated your life to the Radiant One, and its teachings have molded y
 | 4 | I aim to preserve the unity of the Church amidst its division into factions. |
 | 5 | I feel responsible for those who stray from the path of the Radiant One. |
 | 6 | I will redeem the Church from its insidious corruption and restore its noble ideals. |
+
 ^bonds
 
 **Flaws**
@@ -96,4 +102,5 @@ You have dedicated your life to the Radiant One, and its teachings have molded y
 | 4 | I struggle with doubt and question my faith, particularly when facing the unfairness of life. |
 | 5 | I have high expectations for myself and others, which often leads to disappointment. |
 | 6 | I find it hard to forgive myself for past mistakes and often dwell on them. |
+
 ^flaws

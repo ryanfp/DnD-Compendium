@@ -38,7 +38,7 @@ A strong wind (20 miles per hour) blows around you in a 10-foot radius and moves
 
 The wind has the following effects:
 
-- It [deafens](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Deafened) you and other creatures in its area.  
+- It [deafens](conditions.md#Deafened) you and other creatures in its area.  
 - It extinguishes unprotected flames in its area that are torch-sized or smaller.  
 - It hedges out vapor, gas, and fog that can be dispersed by strong wind.  
 - The area is difficult terrain for creatures other than you.  

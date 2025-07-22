@@ -26,7 +26,7 @@ aliases:
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-Choose a creature that you can see within range. Positive energy washes through the target, restoring 70 [Hit Points](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/hit-points-xphb.md). This spell also ends the [Blinded](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Blinded), [Deafened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Deafened), and [Poisoned](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Poisoned) conditions on the target.
+Choose a creature that you can see within range. Positive energy washes through the target, restoring 70 [Hit Points](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/hit-points-xphb.md). This spell also ends the [Blinded](conditions.md#Blinded), [Deafened](conditions.md#Deafened), and [Poisoned](conditions.md#Poisoned) conditions on the target.
 
 **Using a Higher-Level Spell Slot.** The healing increases by `10` for each spell slot level above 6.
 

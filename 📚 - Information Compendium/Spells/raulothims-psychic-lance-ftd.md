@@ -32,7 +32,7 @@ aliases:
 
 You unleash a shimmering lance of psychic power from your forehead at a creature that you can see within range. Alternatively, you can utter a creature's name. If the named target is within range, it becomes the spell's target even if you can't see it. If the named target isn't within range, the lance dissipates without effect.
 
-The target must make an Intelligence saving throw. On a failed save, the target takes `7d6` psychic damage and is [incapacitated](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated) until the start of your next turn. On a successful save, the creature takes half as much damage and isn't [incapacitated](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated).
+The target must make an Intelligence saving throw. On a failed save, the target takes `7d6` psychic damage and is [incapacitated](conditions.md#Incapacitated) until the start of your next turn. On a successful save, the creature takes half as much damage and isn't [incapacitated](conditions.md#Incapacitated).
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the damage increases by `d6` for each slot level above 4th.
 

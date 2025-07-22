@@ -36,11 +36,11 @@ At the start of each of your turns, each of your enemies within 10 feet of any t
 
 ## Roots and Vines
 
-At the end of each of your turns, one creature of your choice that is on the ground in the cube must succeed on a Strength saving throw or become [restrained](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Restrained) until the spell ends. A [restrained](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Restrained) creature can use an action to make a Strength ([Athletics](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Athletics)) check against your spell save DC, ending the effect on itself on a success.
+At the end of each of your turns, one creature of your choice that is on the ground in the cube must succeed on a Strength saving throw or become [restrained](conditions.md#Restrained) until the spell ends. A [restrained](conditions.md#Restrained) creature can use an action to make a Strength ([Athletics](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Athletics)) check against your spell save DC, ending the effect on itself on a success.
 
 ## Rocks
 
-As a bonus action on your turn, you can cause a loose rock in the cube to launch at a creature you can see in the cube. Make a ranged spell attack against the target. On a hit, the target takes `3d8` nonmagical bludgeoning damage, and it must succeed on a Strength saving throw or fall [prone](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Prone).
+As a bonus action on your turn, you can cause a loose rock in the cube to launch at a creature you can see in the cube. Make a ranged spell attack against the target. On a hit, the target takes `3d8` nonmagical bludgeoning damage, and it must succeed on a Strength saving throw or fall [prone](conditions.md#Prone).
 
 ## Summary
 

@@ -31,9 +31,9 @@ You utter a word imbued with power from the Upper Planes. Each creature of your 
 | Hit Points | Effect |
 |------------|--------|
 | 0-20 | The target dies. |
-| 21-30 | The target has the [Blinded](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Blinded), [Deafened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Deafened), and [Stunned](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Stunned) conditions for 1 hour. |
-| 31-40 | The target has the [Blinded](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Blinded) and [Deafened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Deafened) conditions for 10 minutes. |
-| 41-50 | The target has the [Deafened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Deafened) condition for 1 minute. |
+| 21-30 | The target has the [Blinded](conditions.md#Blinded), [Deafened](conditions.md#Deafened), and [Stunned](conditions.md#Stunned) conditions for 1 hour. |
+| 31-40 | The target has the [Blinded](conditions.md#Blinded) and [Deafened](conditions.md#Deafened) conditions for 10 minutes. |
+| 41-50 | The target has the [Deafened](conditions.md#Deafened) condition for 1 minute. |
 ^divine-word-effects
 
 **Classes**: [Sorcerer (Divine Soul)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Sorcerer (Divine Soul)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Bard](/📚%20-%20Information%20Compendium/lists/list-spells-classes-bard.md); [Cleric](/📚%20-%20Information%20Compendium/lists/list-spells-classes-cleric.md)

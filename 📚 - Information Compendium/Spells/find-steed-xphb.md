@@ -28,7 +28,7 @@ The steed resembles a Large, rideable animal of your choice, such as a horse, a 
 
 ## Combat
 
-The steed is an ally to you and your allies. In combat, it shares your [Initiative](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/initiative-xphb.md) count, and it functions as a controlled mount while you ride it (as defined in the rules on "mounted combat"). If you have the [Incapacitated](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated) condition, the steed takes its turn immediately after yours and acts independently, focusing on protecting you.
+The steed is an ally to you and your allies. In combat, it shares your [Initiative](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/initiative-xphb.md) count, and it functions as a controlled mount while you ride it (as defined in the rules on "mounted combat"). If you have the [Incapacitated](conditions.md#Incapacitated) condition, the steed takes its turn immediately after yours and acts independently, focusing on protecting you.
 
 ## Disappearance of the Steed
 

@@ -28,7 +28,7 @@ You are vulnerable to bludgeoning damage.
 
 ### Undead Nature
 
-You are immune to poison damage and [exhaustion](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Exhaustion), and you can't be [poisoned](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Poisoned). You don't require air, food, drink, or sleep.
+You are immune to poison damage and [exhaustion](conditions.md#Exhaustion), and you can't be [poisoned](conditions.md#Poisoned). You don't require air, food, drink, or sleep.
 
 ### Darkvision
 

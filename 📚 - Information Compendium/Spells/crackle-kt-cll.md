@@ -24,7 +24,7 @@ aliases:
 
 You create three arcs of lightning striking targets in range. You can direct them at one target or several.
 
-Make a ranged spell attack for each arc. On a hit, the target takes `d12` lightning damage. If three or more arcs hit a single target, it must make a Constitution saving throw or become [shocked](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Shocked), stunning it until the start of its next turn.
+Make a ranged spell attack for each arc. On a hit, the target takes `d12` lightning damage. If three or more arcs hit a single target, it must make a Constitution saving throw or become [shocked](conditions.md#Shocked), stunning it until the start of its next turn.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you create one additional arc for each slot level above 2nd.
 

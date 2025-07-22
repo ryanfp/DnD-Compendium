@@ -28,7 +28,7 @@ You can see in dim light within 60 feet of you as if it were bright light and in
 
 ### Fey Ancestry
 
-You have advantage on saving throws you make to avoid or end the [charmed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Charmed) condition on yourself.
+You have advantage on saving throws you make to avoid or end the [charmed](conditions.md#Charmed) condition on yourself.
 
 ### Long-Limbed
 

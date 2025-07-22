@@ -1,20 +1,19 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-note
-tags:
-- compendium/src/5e/ccg
-- compendium/src/5e/darkmatter
-- compendium/src/5e/exploringeberron
-- compendium/src/5e/obojimatallgrass
-- compendium/src/5e/saf
-- compendium/src/5e/sgtteh
-- compendium/src/5e/toh
+tags: [compendium/src/5e/ccg, compendium/src/5e/darkmatter, compendium/src/5e/exploringeberron, compendium/src/5e/obojimatallgrass, compendium/src/5e/saf, compendium/src/5e/sgtteh, compendium/src/5e/toh]
 aliases:
-- Item Types
+  - Item Types
+permalink: item-types
+title: Item Types
+created: 2025/06/15 at 22:31
+updated: 2025/07/21 at 22:00
 ---
+
 # Item Types
 
 ## Clockwork Creation
+
 _Source: Tome of Heroes p. 201_
 
 Only the greatest tinkerers and clockwork priests can build gearforged bodies and coax fading souls into gearforged soul gems, but gearforged aren't the only clockwork creations. Many clockwork crafters build devices and automatons suited to more mundane tasks. Each clockwork creation comes with a control rod branded with the creator's maker's mark and bound to that specific creation. Though the original control rods were actual rods, the control rod for a clockwork creation can be any metal object. Many control rods exist in the shape of amulets, weapons, bracelets, other jewelry, or even in the metal symbols on shields. The creature holding or carrying the control rod can command the clockwork creation as if it was the original creator, but the control rod must be within 100 feet of the clockwork creation for the holder to command the creation.
@@ -24,6 +23,7 @@ Some clockwork creations come with certain modifications already installed. See 
 Consult with your GM before choosing clockwork creations for your character. Clockwork creations might not exist at all, or might be more or less scarce (and, therefore, more or less expensive) in the campaign world.
 
 ## Clockwork Modification
+
 _Source: Tome of Heroes p. 203_
 
 Many clockwork crafters make a living off of modifying clockwork creations rather than creating them. Each of the following modifications takes `3d6` days to complete, and the clockwork creation must remain with the clockwork crafter for the duration. Some modifications can't be applied to a creation if another, conflicting modification has already been applied to a creation.
@@ -31,6 +31,7 @@ Many clockwork crafters make a living off of modifying clockwork creations rathe
 Unless specified otherwise, a clockwork creation can't have the same modification more than once. This also applies to clockwork creations that come with modifications already built into them. For example, the clockwork gardener has the Hidden Compartment modification, which means it can't have that modification again and it can't have the Chemical Reservoir modification.
 
 ## Construct Graft
+
 _Source: Dark Matter p. 0_
 
 **Attaching a Graft.** Attaching a graft for the first time requires a laborious surgical procedure, normally removing an original body part. This procedure takes one hour and requires a healer's kit, a set of mechanist's tools, and a knife (or a facility with access to such tools), as well as someone to perform the operation. A construct graft is permanent until another graft is provided to replace it.
@@ -44,6 +45,7 @@ Vect require no recovery time and suffer no penalties after adding a construct g
 **Body Slots.** Each graft takes up one of the following slots: Arms, External, Head, Internal, or Legs. You can't have more than one graft in the same body slot. For instance, if you already have an arm graft, you must remove it before you can attach a different arm graft.
 
 ## Eldritch Carving
+
 _Source: Steinhardt's Guide to the Eldritch Hunt p. 257_
 
 ---
@@ -74,6 +76,7 @@ The DC of the Constitution saving throw can be increased or decreased, depending
 - A creature that has seen an imperfect copy of the carving and studied it for 8 hours is misguided in their approach, and the DC of the saving throw is increased by 5.  
 
 ## Eldritch Machine
+
 _Source: Exploring Eberron_
 
 Eldritch machines are marvels of magic and engineering that require special components and conditions to function. For example, a particular eldritch machine might function only in a manifest zone where two or more planes are coterminous.
@@ -81,9 +84,11 @@ Eldritch machines are marvels of magic and engineering that require special comp
 Ultimately, eldritch machines are plot devices that can represent the culmination of a villain's master plan or a last defense against evil.
 
 ## Ingredient
+
 _Source: Obojima: Tales from the Tall Grass p. 200_
 
 ## Magic Plant
+
 _Source: Tome of Heroes p. 263_
 
 Magic plants are rare, exceptional specimens that stand out among more common varietals and have a few notable qualities. Magic plants can grow nearly anywhere, though each type of plant has an affinity for certain locations. Unless carefully tended, magic plants expire swiftly when outside their preferred growing environments. A magic plant that is harvested or separated from its soil by someone without the [Hedgecraft](/📚%20-%20Information%20Compendium/feats/hedgecraft-toh.md) feat has a 10 percent chance of wasting away after 24 hours. Otherwise, a fresh cutting of a magic plant remains usable and magical for up to 10 days.
@@ -97,6 +102,7 @@ A ceremonial wort with a level in parenthesis indicates that wort can be used on
 A minor wort always requires 1 dried or fresh cutting of a magic plant. Ceremony worts require fresh cuttings and each entry notes how many cuttings are required to perform these worts.
 
 ## Ship Weapon
+
 _Source: Dark Matter p. 0_
 
 **Ship Weapons.** Ship-mounted weapons are among the most lethal devices ever conceived. A direct shot with any of these massive weapons can vaporize an unprotected person, but no less is necessary to pierce the armored hull of a starship.
@@ -106,6 +112,7 @@ Ship-mounted weapons are used by crewmen in the Gunner role. A character with ma
 Ship weapon damages are given in mega damage points.
 
 ## Special Material
+
 _Source: Tome of Heroes p. 194_
 
 Though leather and iron are the most common materials for creating armor and weapons, artisans in fantasy worlds can have access to a wide variety of crafting materials. Some monsters that have immunity or resistance to nonmagical weapons are susceptible to weapons made from other materials. Likewise, some materials are more resilient, lighter, or can enhance the wielder's abilities, making them moreideal than traditional weapons in specific situations.
@@ -113,6 +120,7 @@ Though leather and iron are the most common materials for creating armor and wea
 Consult with your GM before choosing armor or weapons made of special materials, as they might not exist or might be more or less scarce (and therefore more or less expensive) in the campaign world.
 
 ## System
+
 _Source: Dark Matter p. 0_
 
 **Ship System.** A ship relies on a myriad of technological systems to provide most of its noncombative functions. All ships have a ship computer which provides executive function to all its other systems, and nearly all possess a [life support](/📚%20-%20Information%20Compendium/items/life-support-darkmatter.md) system.
@@ -141,9 +149,11 @@ The costs to install new systems are found on the System Costs table below. Addi
 | [Teleporters](/📚%20-%20Information%20Compendium/items/teleporters-darkmatter.md) | 20,000 gp |
 | [Tractor Beam](/📚%20-%20Information%20Compendium/items/tractor-beam-darkmatter.md) | 10,000 gp |
 | [Umbilicus](/📚%20-%20Information%20Compendium/items/umbilicus-darkmatter.md) | 1,500 gp |
+
 ^system-costs
 
 ## Trick Weapon
+
 _Source: Steinhardt's Guide to the Eldritch Hunt p. 214_
 
 ---
@@ -152,11 +162,12 @@ Trick weapons are weapons that can be transformed into alternate forms and have 
 
 If a character isn't proficient with one of the forms of the weapon, they don't add their proficiency bonus to attack rolls made with that form of the weapon, as would be the case for not being proficient with a 'regular' weapon. If a character is proficient with at least one form of the weapon, they can use all properties of the weapon.
 
-For example the '[serpent bladewhip](/📚%20-%20Information%20Compendium/items/serpent-bladewhip-sgtteh.md)' [...] ^[The following text has been removed with this homebrew: (page 214)] is a whip in its untransformed state and a rapier in its transformed state. If a character is proficient with the whip but not the rapier, they can still access all the properties of the weapon, but when they attempt to use the rapier for attack rolls, they do not add their proficiency bonus.
+For example the '[serpent bladewhip](/📚%20-%20Information%20Compendium/items/serpent-bladewhip-sgtteh.md)' […] ^[The following text has been removed with this homebrew: (page 214)] is a whip in its untransformed state and a rapier in its transformed state. If a character is proficient with the whip but not the rapier, they can still access all the properties of the weapon, but when they attempt to use the rapier for attack rolls, they do not add their proficiency bonus.
 
 Due to the complexity of trick weapons, if a creature is not proficient with any of the forms of the weapon, they cannot use it in combat at all. They have disadvantage on attack rolls made with the weapon, can only transform the weapon as an action, and cannot use any special properties the weapon might have.
 
 ## War Animal
+
 _Source: Tome of Heroes p. 204_
 
 A beast trained for combat, such as a warhorse or [pit terrier](/📚%20-%20Information%20Compendium/bestiary/beast/pit-terrier-toh.md), doesn't get spooked or flee when it is in an area of conflict. The beast knows which humanoids are friendly to it and which ones aren't, even in a pitched battle.
@@ -165,24 +176,28 @@ Unless specified otherwise in its entry, a combat-trained beast will take comman
 
 A combat-trained beast can be trained to obey up to four humanoids. Each humanoid must spend one week training with the beast before it learns to obey that humanoid. If the beast is trained to obey a new humanoid when it already obeys four, it no longer obeys the humanoid whose most recent command to it was issued the longest amount of time ago and obeys the new humanoid instead. At the GM's discretion, a beast with a particularly strong bond with one or more humanoids might not forget those humanoids. In such cases, training the beast to obey a new humanoid when it already obeys four fails.
 
-## regular gear pack
+## Regular Gear Pack
+
 _Source: Crystalpunk Campaign Guide p. 100_
 
 > [!note]
 > See [Regular Gear Pack](/📚%20-%20Information%20Compendium/items/regular-gear-pack-ccg.md) for more information about gear packs.
 
-## requires installation
+## Requires Installation
+
 _Source: Strongholds and Followers p. 246_
 
 **Installation.** Some items must be **installed** in your stronghold in order to function. Such items cease to function if taken from the stronghold in which they were installed, and must be reinstalled to regain their power, though their powers may still work on *you* if you leave.
 
-## tool gear pack
+## Tool Gear Pack
+
 _Source: Crystalpunk Campaign Guide p. 100_
 
 > [!note]
 > See [Tool Gear Pack](/📚%20-%20Information%20Compendium/items/tool-gear-pack-ccg.md) for more information about gear packs.
 
-## vehicle weapon upgrade
+## Vehicle Weapon Upgrade
+
 _Source: Crystalpunk Campaign Guide p. 210_
 
 **Vehicle Weapon.** Vehicle weapons can be operated by passengers in the vehicle, as long as they have proficiency in martial weapons. The provided vehicle weapons detail a specific weapon attack, and this attack can be made as an action, requiring the user to use both of their hands. Vehicle weapons use the operating character's Strength or Dexterity score (based on the weapon) as well as their proficiency bonus in their attack and damage rolls. If a character can make multiple attacks as a part of the attack action on their turn, they can make that many attacks when they use their action to attack with a vehicle weapon.

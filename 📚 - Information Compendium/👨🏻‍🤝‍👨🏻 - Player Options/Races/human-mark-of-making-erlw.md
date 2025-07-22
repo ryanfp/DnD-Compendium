@@ -40,7 +40,7 @@ You gain proficiency with one type of artisan's tools of your choice.
 
 ### Spellsmith
 
-You know the [mending](/📚%20-%20Information%20Compendium/spells/mending.md) cantrip. You can also cast the [magic weapon](/📚%20-%20Information%20Compendium/spells/magic-weapon.md) spell with this trait. When you do so, the spell lasts for 1 hour and doesn't require [concentration](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Concentration). Once you cast the spell with this trait, you can't do so again until you finish a long rest. Intelligence is your spellcasting ability for these spells.
+You know the [mending](/📚%20-%20Information%20Compendium/spells/mending.md) cantrip. You can also cast the [magic weapon](/📚%20-%20Information%20Compendium/spells/magic-weapon.md) spell with this trait. When you do so, the spell lasts for 1 hour and doesn't require [concentration](conditions.md#Concentration). Once you cast the spell with this trait, you can't do so again until you finish a long rest. Intelligence is your spellcasting ability for these spells.
 
 ### Spells of the Mark
 

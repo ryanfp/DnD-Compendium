@@ -30,7 +30,7 @@ For the duration, Celestials, Elementals, Fey, Fiends, and Undead have [Disadvan
 
 ## Break Enchantment
 
-As a [Magic](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/actions.md#Magic) action, you touch a creature that is possessed by or has the [Charmed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Charmed) or [Frightened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened) condition from one or more creatures of the types above. The target is no longer possessed, [Charmed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Charmed), or [Frightened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened) by such creatures.
+As a [Magic](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/actions.md#Magic) action, you touch a creature that is possessed by or has the [Charmed](conditions.md#Charmed) or [Frightened](conditions.md#Frightened) condition from one or more creatures of the types above. The target is no longer possessed, [Charmed](conditions.md#Charmed), or [Frightened](conditions.md#Frightened) by such creatures.
 
 ## Dismissal
 

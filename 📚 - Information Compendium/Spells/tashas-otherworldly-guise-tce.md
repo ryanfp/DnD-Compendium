@@ -31,7 +31,7 @@ aliases:
 Uttering an incantation, you draw on the magic of the Lower Planes or Upper Planes (your choice) to transform yourself. You gain the following benefits until the spell ends:
 
 - You are immune to fire and poison damage (Lower Planes) or radiant and necrotic damage (Upper Planes).  
-- You are immune to the [poisoned](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Poisoned) condition (Lower Planes) or the [charmed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Charmed) condition (Upper Planes).  
+- You are immune to the [poisoned](conditions.md#Poisoned) condition (Lower Planes) or the [charmed](conditions.md#Charmed) condition (Upper Planes).  
 - Spectral wings appear on your back, giving you a flying speed of 40 feet.  
 - You have a +2 bonus to AC.  
 - All your weapon attacks are magical, and when you make a weapon attack, you can use your spellcasting ability modifier, instead of Strength or Dexterity, for the attack and damage rolls.  

@@ -78,7 +78,7 @@ Once per turn when you deal damage to a creature or object with a wizard spell, 
 
 ### Durable Magic (Level 10)
 
-Beginning at 10th level, the magic you channel helps ward off harm. While you maintain [concentration](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Concentration) on a spell, you have a +2 bonus to AC and all saving throws.
+Beginning at 10th level, the magic you channel helps ward off harm. While you maintain [concentration](conditions.md#Concentration) on a spell, you have a +2 bonus to AC and all saving throws.
 
 ### Deflecting Shroud (Level 14)
 

@@ -5,18 +5,19 @@ tags: [background, compendium/src/5e/egw]
 aliases:
   - Cobalt Scholar - Sage
   - Cobalt Scholar (Sage)
-title: cobalt-scholar-sage-egw
-date created: 2025:06:15, 22:47
-date modified: 2025:06:28, 20:23
+title: Cobalt Scholar (Sage)
+permalink: cobalt-scholar-sage-egw
+created: 2025/06/15 at 22:47
+updated: 2025/07/21 at 22:11
 ---
 
 # Cobalt Scholar (Sage)
 
 *Source: Explorer's Guide to Wildemount p. 203*  
 
-- **Skill Proficiencies.** [[Arcana]], [[History]]  
+- **Skill Proficiencies.** [Arcana](Arcana.md), [History](History.md)  
 - **Languages.** Two of your choice  
-- **Equipment.** A [[bottle of black ink]], a quill, a small knife, a letter from a dead colleague posing a question you have not yet been able to answer, a set of [[common clothes]], and a belt [[pouch]] containing 10 gp  
+- **Equipment.** A [bottle of black ink](bottle of black ink.md), a quill, a small knife, a letter from a dead colleague posing a question you have not yet been able to answer, a set of [common clothes](common clothes.md), and a belt [pouch](pouch.md) containing 10 gp  
 
 The Cobalt Soul is an organization of monastic scholars dedicated to preserving knowledge and recorded history, not just across Wildemount but all of Exandria. Its operations are primarily based out of the cities of Zadash and Rexxentrum in the Dwendalian Empire, and you likely studied at one of those sites.
 
@@ -30,7 +31,7 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
 
 To determine the nature of your scholarly training, roll a d8 or choose from the options in the table below.
 
-`dice: [[cobalt-scholar-sage-egw.md#^field-of-study]]`
+`dice: [](cobalt-scholar-sage-egw.md.md#^field-of-study)`
 
 | dice: d8 | Field of Study |
 |----------|----------------|
@@ -49,7 +50,7 @@ To determine the nature of your scholarly training, roll a d8 or choose from the
 
 Sages are defined by their extensive studies, and their characteristics reflect this life of study. Devoted to scholarly pursuits, a sage values knowledge highly—sometimes in its own right, sometimes as a means toward other ideals.
 
-`dice: [[cobalt-scholar-sage-egw.md#^personality-trait]]`
+`dice: [](cobalt-scholar-sage-egw.md.md#^personality-trait)`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|

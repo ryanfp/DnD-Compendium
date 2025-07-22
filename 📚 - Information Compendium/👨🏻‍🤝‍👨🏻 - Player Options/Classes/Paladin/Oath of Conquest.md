@@ -100,7 +100,7 @@ When you take this oath at 3rd level, you gain the following two Channel Divinit
 
 ### Conquering Presence (Level 3)
 
-You can use your Channel Divinity to exude a terrifying presence. As an action, you force each creature of your choice that you can see within 30 feet of you to make a Wisdom saving throw. On a failed save, a creature becomes [frightened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened) of you for 1 minute. The [frightened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened) creature can repeat this saving throw at the end of each of its turns, ending the effect on itself on a success.
+You can use your Channel Divinity to exude a terrifying presence. As an action, you force each creature of your choice that you can see within 30 feet of you to make a Wisdom saving throw. On a failed save, a creature becomes [frightened](conditions.md#Frightened) of you for 1 minute. The [frightened](conditions.md#Frightened) creature can repeat this saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ### Guided Strike (Level 3)
 
@@ -108,15 +108,15 @@ You can use your Channel Divinity to strike with supernatural accuracy. When you
 
 ### Aura of Conquest (Level 7)
 
-Starting at 7th level, you constantly emanate a menacing aura while you're not [incapacitated](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated). The aura extends 10 feet from you in every direction, but not through total cover.
+Starting at 7th level, you constantly emanate a menacing aura while you're not [incapacitated](conditions.md#Incapacitated). The aura extends 10 feet from you in every direction, but not through total cover.
 
-If a creature is [frightened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened) of you, its speed is reduced to 0 while in the aura, and that creature takes psychic damage equal to half your paladin level if it starts its turn there.
+If a creature is [frightened](conditions.md#Frightened) of you, its speed is reduced to 0 while in the aura, and that creature takes psychic damage equal to half your paladin level if it starts its turn there.
 
 At 18th level, the range of this aura increases to 30 feet.
 
 ### Scornful Rebuke (Level 15)
 
-Starting at 15th level, those who dare to strike you are psychically punished for their audacity. Whenever a creature hits you with an attack, that creature takes psychic damage equal to your Charisma modifier (minimum of 1) if you're not [incapacitated](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated).
+Starting at 15th level, those who dare to strike you are psychically punished for their audacity. Whenever a creature hits you with an attack, that creature takes psychic damage equal to your Charisma modifier (minimum of 1) if you're not [incapacitated](conditions.md#Incapacitated).
 
 ### Invincible Conqueror (Level 20)
 

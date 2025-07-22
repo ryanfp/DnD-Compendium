@@ -42,7 +42,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells yo
 
 ### Fey Ancestry
 
-You have [Advantage](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/advantage-xphb.md) on saving throws you make to avoid or end the [Charmed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Charmed) condition.
+You have [Advantage](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/advantage-xphb.md) on saving throws you make to avoid or end the [Charmed](conditions.md#Charmed) condition.
 
 ### Keen Senses
 

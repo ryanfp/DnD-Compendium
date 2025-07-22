@@ -169,7 +169,7 @@ You gain a feature from your Bard Subclass.
 
 ### Countercharm (Level 7)
 
-You can use musical notes or words of power to disrupt mind-influencing effects. If you or a creature within 30 feet of you fails a saving throw against an effect that applies the [Charmed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Charmed) or [Frightened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened) condition, you can take a [Reaction](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/reaction-xphb.md) to cause the save to be rerolled, and the new roll has [Advantage](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/advantage-xphb.md).
+You can use musical notes or words of power to disrupt mind-influencing effects. If you or a creature within 30 feet of you fails a saving throw against an effect that applies the [Charmed](conditions.md#Charmed) or [Frightened](conditions.md#Frightened) condition, you can take a [Reaction](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/reaction-xphb.md) to cause the save to be rerolled, and the new roll has [Advantage](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/advantage-xphb.md).
 
 ### Ability Score Improvement (Level 8)
 

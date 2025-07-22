@@ -34,15 +34,15 @@ On each of your turns until the spell ends, you can take a [Magic](/📚%20-%20I
 
 ## Asleep
 
-The target has the [Unconscious](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Unconscious) condition. It wakes up if it takes any damage or if another creature takes an action to shake it awake.
+The target has the [Unconscious](conditions.md#Unconscious) condition. It wakes up if it takes any damage or if another creature takes an action to shake it awake.
 
 ## Panicked
 
-The target has the [Frightened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened) condition. On each of its turns, the [Frightened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened) target must take the [Dash](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/actions.md#Dash) action and move away from you by the safest and shortest route available. If the target moves to a space at least 60 feet away from you where it can't see you, this effect ends.
+The target has the [Frightened](conditions.md#Frightened) condition. On each of its turns, the [Frightened](conditions.md#Frightened) target must take the [Dash](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/actions.md#Dash) action and move away from you by the safest and shortest route available. If the target moves to a space at least 60 feet away from you where it can't see you, this effect ends.
 
 ## Sickened
 
-The target has the [Poisoned](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Poisoned) condition.
+The target has the [Poisoned](conditions.md#Poisoned) condition.
 
 ## Summary
 

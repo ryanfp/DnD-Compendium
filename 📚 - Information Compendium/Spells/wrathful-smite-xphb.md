@@ -23,7 +23,7 @@ aliases:
 - **Components:** V
 - **Duration:** 1 minute
 
-The target takes an extra `d6` Necrotic damage from the attack, and it must succeed on a Wisdom saving throw or have the [Frightened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened) condition until the spell ends. At the end of each of its turns, the [Frightened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened) target repeats the save, ending the spell on itself on a success.
+The target takes an extra `d6` Necrotic damage from the attack, and it must succeed on a Wisdom saving throw or have the [Frightened](conditions.md#Frightened) condition until the spell ends. At the end of each of its turns, the [Frightened](conditions.md#Frightened) target repeats the save, ending the spell on itself on a success.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d6` for each spell slot level above 1.
 

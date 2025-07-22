@@ -37,9 +37,9 @@ aliases:
 - **Components:** V, S
 - **Duration:** 1 hour
 
-You touch a creature. If it is [poisoned](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Poisoned), you neutralize the poison. If more than one poison afflicts the target, you neutralize one poison that you know is present, or you neutralize one at random.
+You touch a creature. If it is [poisoned](conditions.md#Poisoned), you neutralize the poison. If more than one poison afflicts the target, you neutralize one poison that you know is present, or you neutralize one at random.
 
-For the duration, the target has advantage on saving throws against being [poisoned](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Poisoned), and it has resistance to poison damage.
+For the duration, the target has advantage on saving throws against being [poisoned](conditions.md#Poisoned), and it has resistance to poison damage.
 
 **Classes**: [Sorcerer (Divine Soul)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Sorcerer (Runechild)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-runechild-tdcsr.md "subclass=TDCSR"); [Paladin](/📚%20-%20Information%20Compendium/lists/list-spells-classes-paladin.md); [Sorcerer (Runechild)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-runechild-tdcsr.md "subclass=TDCSR;class=XPHB"); [Sorcerer (Divine Soul)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Bard](/📚%20-%20Information%20Compendium/lists/list-spells-classes-bard.md); [Cleric](/📚%20-%20Information%20Compendium/lists/list-spells-classes-cleric.md); [Druid](/📚%20-%20Information%20Compendium/lists/list-spells-classes-druid.md); [Ranger](/📚%20-%20Information%20Compendium/lists/list-spells-classes-ranger.md); [Artificer](/📚%20-%20Information%20Compendium/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
 

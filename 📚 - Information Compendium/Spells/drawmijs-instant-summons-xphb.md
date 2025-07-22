@@ -25,7 +25,7 @@ aliases:
 - **Components:** V, S, M (a sapphire worth 1,000+ GP)
 - **Duration:** Until dispelled
 
-You touch the sapphire used in the casting and an object weighing 10 pounds or less whose longest dimension is 6 feet or less. The spell leaves an [Invisible](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Invisible) mark on that object and invisibly inscribes the object's name on the sapphire. Each time you cast this spell, you must use a different sapphire.
+You touch the sapphire used in the casting and an object weighing 10 pounds or less whose longest dimension is 6 feet or less. The spell leaves an [Invisible](conditions.md#Invisible) mark on that object and invisibly inscribes the object's name on the sapphire. Each time you cast this spell, you must use a different sapphire.
 
 Thereafter, you can take a [Magic](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/actions.md#Magic) action to speak the object's name and crush the sapphire. The object instantly appears in your hand regardless of physical or planar distances, and the spell ends.
 

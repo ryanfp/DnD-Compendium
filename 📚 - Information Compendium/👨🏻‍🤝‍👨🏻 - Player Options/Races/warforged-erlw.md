@@ -33,14 +33,14 @@ Your size is Medium.
 
 You were created to have remarkable fortitude, represented by the following benefits:
 
-- You have advantage on saving throws against being [poisoned](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Poisoned), and you have resistance to poison damage.  
+- You have advantage on saving throws against being [poisoned](conditions.md#Poisoned), and you have resistance to poison damage.  
 - You don't need to eat, drink, or breathe.  
 - You are immune to disease.  
 - You don't need to sleep, and magic can't put you to sleep.  
 
 ### Sentry's Rest
 
-When you take a long rest, you must spend at least six hours in an inactive, motionless state, rather than sleeping. In this state, you appear inert, but it doesn't render you [unconscious](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Unconscious), and you can see and hear as normal.
+When you take a long rest, you must spend at least six hours in an inactive, motionless state, rather than sleeping. In this state, you appear inert, but it doesn't render you [unconscious](conditions.md#Unconscious), and you can see and hear as normal.
 
 ### Integrated Protection
 

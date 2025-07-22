@@ -26,7 +26,7 @@ aliases:
 - **Components:** V, S, M (a pinch of phosphorus)
 - **Duration:** Concentration, up to 1 minute
 
-You unleash a storm of flashing light and raging thunder in a 10-foot-radius, 40-foot-high Cylinder centered on a point you can see within range. While in this area, creatures have the [Blinded](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Blinded) and [Deafened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Deafened) conditions, and they can't cast spells with a Verbal component.
+You unleash a storm of flashing light and raging thunder in a 10-foot-radius, 40-foot-high Cylinder centered on a point you can see within range. While in this area, creatures have the [Blinded](conditions.md#Blinded) and [Deafened](conditions.md#Deafened) conditions, and they can't cast spells with a Verbal component.
 
 When the storm appears, each creature in it makes a Constitution saving throw, taking `2d10` Radiant damage and `2d10` Thunder damage on a failed save or half as much damage on a successful one. A creature also makes this save when it enters the spell's area for the first time on a turn or ends its turn there. A creature makes this save only once per turn.
 

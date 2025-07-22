@@ -1,12 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-note
-tags:
-- compendium/src/5e/fleemortals
+tags: [compendium/src/5e/fleemortals]
 aliases:
-- Chapter 1: Creatures
+  - "Chapter 1: Creatures"
+permalink: 2-chapter-1-creatures
+title: "Chapter 1: Creatures"
+created: 2025/06/15 at 23:00
+updated: 2025/07/21 at 21:59
 ---
+
 # Chapter 1: Creatures
+
 *Source: Flee, Mortals!, p. 27* 
 
 From swarms of spiders to ancient wyrms, the creatures who appear most often in your games are in this chapter. All the creatures are listed in alphabetical order. Refer to the introduction if you want to see the creatures listed by challenge rating. Most of the creature entries feature more than one stat block, providing different roles like action-oriented creatures, companions, minions, and retainers.
@@ -17,17 +22,17 @@ From swarms of spiders to ancient wyrms, the creatures who appear most often in 
 > 
 > This river water taste funny to you, Sir Rogar?
 
-Found in freshwater swamps, rivers, and rainforests, angulotls (ang-gwa-LAH-tulls (https://mcdm.gg/FleeMortals/Angualotl.html)) are diminutive, brightly colored amphibious humanoids. Rather than defending their settlements and breeding grounds against hostile creatures, these poisonous frog folk prefer to establish their homes in places that are nigh-impossible for other humanoids to find, such as underwater caves and other enclosed spaces only accessible by water. They are happy to hide and watch a gaggle of noisy adventurers stumble past the entrance to an angulotl clutch without realizing it. Though angulotls prefer to avoid combat, when they're threatened or pressed, they turn deadly.
+Found in freshwater swamps, rivers, and rainforests, angulotls (ang-gwa-LAH-tulls (<https://mcdm.gg/FleeMortals/Angualotl.html>)) are diminutive, brightly colored amphibious humanoids. Rather than defending their settlements and breeding grounds against hostile creatures, these poisonous frog folk prefer to establish their homes in places that are nigh-impossible for other humanoids to find, such as underwater caves and other enclosed spaces only accessible by water. They are happy to hide and watch a gaggle of noisy adventurers stumble past the entrance to an angulotl clutch without realizing it. Though angulotls prefer to avoid combat, when they're threatened or pressed, they turn deadly.
 
 ***Deadly Toxins.*** Angulotls are poisonous creatures, which suits their preference to avoid aggression—they don't need to be! The contact toxin secreted by their skin gives them an edge in close combat; they also distill this toxin into more potent forms for coating blades and tipping darts.
 
-***Indicator Species.*** Angulotl physiology is delicately balanced, and it doesn't take much to upset it. While toxins don't kill them, they are still affected by pollutants in their waters. Ongoing contamination of their environment can corrupt angulotls, making them aggressive, confused, and angry. Most pollution-corrupted angulotls eventually attack any creature who crosses their path—even other angulotls! Runoff from magical experimentation seems to affect them the most . . . and sometimes gives them strange abilities.
+***Indicator Species.*** Angulotl physiology is delicately balanced, and it doesn't take much to upset it. While toxins don't kill them, they are still affected by pollutants in their waters. Ongoing contamination of their environment can corrupt angulotls, making them aggressive, confused, and angry. Most pollution-corrupted angulotls eventually attack any creature who crosses their path—even other angulotls! Runoff from magical experimentation seems to affect them the most … and sometimes gives them strange abilities.
 
-***Moisture Dependent.*** Angulotls breathe through their skin, but they need to stay damp or they suffocate. They often avoid travel in very dry areas, and they prefer not to stray far from a source of freshwater . . . unless it's raining.
+***Moisture Dependent.*** Angulotls breathe through their skin, but they need to stay damp or they suffocate. They often avoid travel in very dry areas, and they prefer not to stray far from a source of freshwater … unless it's raining.
 
 ### Clawfish
 
-Known as q'ukutxal (koo-OOK-oot-shaal (https://mcdm.gg/FleeMortals/Qukutxal.html)) to angulotls, the clawfish resembles a moray eel with eight reptilian legs. These small beasts can slither through grass and clamber up trees nearly as well as they glide through river currents. Angulotls train them not only to pull rafts, but to cleverly fight by choking or electrocuting foes.
+Known as q'ukutxal (koo-OOK-oot-shaal (<https://mcdm.gg/FleeMortals/Qukutxal.html>)) to angulotls, the clawfish resembles a moray eel with eight reptilian legs. These small beasts can slither through grass and clamber up trees nearly as well as they glide through river currents. Angulotls train them not only to pull rafts, but to cleverly fight by choking or electrocuting foes.
 
 [Angulotl Blade](/📚%20-%20Information%20Compendium/bestiary/humanoid/angulotl-blade-fleemortals.md)
 
@@ -160,6 +165,7 @@ Felines of all shapes and sizes roam the wilds—and the occasional urban alleyw
 | [Clever Claws](/📚%20-%20Information%20Compendium/optional-features/clever-claws-fleemortals.md) | Sloth bear |
 | [Powerful Jaws](/📚%20-%20Information%20Compendium/optional-features/powerful-jaws-fleemortals.md) | Giant panda, sun bear |
 | [Sprint (Recharges after a Short or Long Rest)](/📚%20-%20Information%20Compendium/optional-features/sprint-recharges-after-a-short-or-long-rest-fleemortals.md) | Black bear, brown bear (grizzly bear), polar bear, spectacled bear, sun bear |
+
 ^optional-bear-features
 
 > [!note] Wild Shape and Optional Features
@@ -185,6 +191,7 @@ Felines of all shapes and sizes roam the wilds—and the occasional urban alleyw
 | [Powerful Impact](/📚%20-%20Information%20Compendium/optional-features/powerful-impact-fleemortals.md) | Falcon |
 | [Scavenger's Resilience](/📚%20-%20Information%20Compendium/optional-features/scavengers-resilience-fleemortals.md) | Vulture, caracara |
 | [Wind Hover](/📚%20-%20Information%20Compendium/optional-features/wind-hover-fleemortals.md) | Kestrel, osprey |
+
 ^optional-bird-of-prey-features
 
 [Camel](/📚%20-%20Information%20Compendium/bestiary/beast/camel-fleemortals.md)
@@ -225,6 +232,7 @@ Felines of all shapes and sizes roam the wilds—and the occasional urban alleyw
 | [Durable](/📚%20-%20Information%20Compendium/optional-features/durable-fleemortals.md) | Cockroaches |
 | [Flyer](/📚%20-%20Information%20Compendium/optional-features/flyer-fleemortals.md) | Cicadas, locusts, wasps, any flying insect |
 | [Sting](/📚%20-%20Information%20Compendium/optional-features/sting-fleemortals.md) | Fire ants, bullet ants, wasps |
+
 ^optional-insect-swarm-features
 
 [Swarm of Spiders](/📚%20-%20Information%20Compendium/bestiary/beast/swarm-of-spiders-fleemortals.md)
@@ -257,6 +265,7 @@ Felines of all shapes and sizes roam the wilds—and the occasional urban alleyw
 | [Pack Tactics](/📚%20-%20Information%20Compendium/optional-features/pack-tactics-fleemortals.md) | Lion |
 | [Powerful Leap](/📚%20-%20Information%20Compendium/optional-features/powerful-leap-fleemortals.md) | Caracal, cougar, lion, margay, serval, snow leopard |
 | [Swimmer](/📚%20-%20Information%20Compendium/optional-features/swimmer-fleemortals.md) | Tiger, leopard, ocelot, jaguar |
+
 ^optional-wildcat-features
 
 [Bear Companion](/📚%20-%20Information%20Compendium/bestiary/beast/bear-companion-fleemortals.md)
@@ -473,7 +482,7 @@ Category 9 demons—the demon lords—are the most powerful. Their names are whi
 
 ### Aurumvas of Meaningless Greed
 
-Covetous is too soft a word to describe the avarice of Aurumvas (or-UM-vahs (https://mcdm.gg/FleeMortals/Aurumvas.html)). This towering Category 6 demon wears a stack of crowns atop his reptilian head. His gaudy robe of gold and jewels hangs open, exposing his bare chest.
+Covetous is too soft a word to describe the avarice of Aurumvas (or-UM-vahs (<https://mcdm.gg/FleeMortals/Aurumvas.html>)). This towering Category 6 demon wears a stack of crowns atop his reptilian head. His gaudy robe of gold and jewels hangs open, exposing his bare chest.
 
 Aurumvas hungers for riches just as much as souls. His private vaults in the Abyssal Wastes hold treasures his band of demons has slaughtered hundreds of creatures to acquire. All he does is gaze on them and want for more.
 
@@ -506,13 +515,13 @@ In the lower plane of Hell, devils of the Seven Cities vie unceasingly against e
 
 ***True Names.*** All devils have two names: one they're commonly known by, and another secret true name. Every devil zealously safeguards the latter, as their true name can be spoken aloud to aid in summoning the fiend or to strip them of their power.
 
-***Hell's Defectors.***  Not every devil in the Seven Cities wants to ruthlessly ascend the hierarchy. Some others do desire advancement, but they remain dissatisfied at the bottom. As luck would have it, these fiends can free themselves from Hell's bureaucracy—for when a mortal overestimates their fortitude and dies while enacting an infernal summoning, it leaves open a passage to the Mundane World that an enterprising devil can cross through.
+***Hell's Defectors.*** Not every devil in the Seven Cities wants to ruthlessly ascend the hierarchy. Some others do desire advancement, but they remain dissatisfied at the bottom. As luck would have it, these fiends can free themselves from Hell's bureaucracy—for when a mortal overestimates their fortitude and dies while enacting an infernal summoning, it leaves open a passage to the Mundane World that an enterprising devil can cross through.
 
 Some of these defectors cling to old habits, acquiring power in mortal spheres of business, law, or politics. Others, inspired by mortals, join adventuring parties or set out to explore the world. These devils and their descendants are often colloquially known as tieflings.
 
 ### Infernal Chancellor Lazivos
 
-To reach the rank of chancellor, Lazivos (LAH-zih-vohs (https://mcdm.gg/FleeMortals/Lazivos.html)) has executed dozens of intricate schemes, uttered hundreds of deceptions into opportune ears, and positioned count less rivals into unfortunate—yet completely compromising—circumstances.
+To reach the rank of chancellor, Lazivos (LAH-zih-vohs (<https://mcdm.gg/FleeMortals/Lazivos.html>)) has executed dozens of intricate schemes, uttered hundreds of deceptions into opportune ears, and positioned count less rivals into unfortunate—yet completely compromising—circumstances.
 
 And still, he remains unsatisfied.
 
@@ -592,6 +601,7 @@ A successful ritual binds the devil to a contract with the summoner. The devil m
 | 15-17 | Devil magistrate |
 | 18-19 | Devil adjudicator |
 | 20 | Infernal Chancellor Lazivos |
+
 ^summoned-devil
 
 ##### Failure
@@ -643,14 +653,15 @@ Although dragonets rarely practice spellcraft themselves, they are attuned to ar
 
 | dice: d8 | Name (Nickname) | Pronunciation |  |
 |----------|-----------------|---------------|--|
-| 1 | Avirdrziliiv (Aviz) | ah-VEER-driz-ill-iv (https://mcdm.gg/FleeMortals/Avirdrziliiv.html) (AH-veez) (https://mcdm.gg/FleeMortals/Aviz.html) |
-| 2 | Cytraxaan (Traxie) | sigh-TRACKS-zan (https://mcdm.gg/FleeMortals/Cytraxaan.html) (TRACKS-ee) (https://mcdm.gg/FleeMortals/Traxie.html) |
-| 3 | Dvaxildail (Xil) | duh-VAX-ill-dale (https://mcdm.gg/FleeMortals/Dvaxildail.html) (ZIL) (https://mcdm.gg/FleeMortals/Xil.html) |
-| 4 | Favinalakze (Fava) | fah-VEEN-ah-lack-ze (https://mcdm.gg/FleeMortals/Favinalakze.html) (FAH-vah) (https://mcdm.gg/FleeMortals/Fava.html) |
-| 5 | Lorimazdrix (Lori) | lore-ee-MAZ-dricks (https://mcdm.gg/FleeMortals/Lorimazdrix.html) (LORE-ee) (https://mcdm.gg/FleeMortals/Lori.html) |
-| 6 | Nerilatrixaaza (Aaza) | ner-ill-AT-rix-ah-zah (https://mcdm.gg/FleeMortals/Nerilatrixaaza.html) (AH-zah) (https://mcdm.gg/FleeMortals/Aaza.html) |
-| 7 | Quiytrepartrz (Qui) | KEY-tray-par-triz (https://mcdm.gg/FleeMortals/Quiytrepartrz.html) (KEY) (https://mcdm.gg/FleeMortals/Qui.html) |
-| 8 | Verilandrii (Verily) | vare-ill-AN-dree (https://mcdm.gg/FleeMortals/Verilandrii.html) (VARE-ill-ee) (https://mcdm.gg/FleeMortals/Verily.html) |
+| 1 | Avirdrziliiv (Aviz) | ah-VEER-driz-ill-iv (<https://mcdm.gg/FleeMortals/Avirdrziliiv.html>) (AH-veez) (<https://mcdm.gg/FleeMortals/Aviz.html>) |
+| 2 | Cytraxaan (Traxie) | sigh-TRACKS-zan (<https://mcdm.gg/FleeMortals/Cytraxaan.html>) (TRACKS-ee) (<https://mcdm.gg/FleeMortals/Traxie.html>) |
+| 3 | Dvaxildail (Xil) | duh-VAX-ill-dale (<https://mcdm.gg/FleeMortals/Dvaxildail.html>) (ZIL) (<https://mcdm.gg/FleeMortals/Xil.html>) |
+| 4 | Favinalakze (Fava) | fah-VEEN-ah-lack-ze (<https://mcdm.gg/FleeMortals/Favinalakze.html>) (FAH-vah) (<https://mcdm.gg/FleeMortals/Fava.html>) |
+| 5 | Lorimazdrix (Lori) | lore-ee-MAZ-dricks (<https://mcdm.gg/FleeMortals/Lorimazdrix.html>) (LORE-ee) (<https://mcdm.gg/FleeMortals/Lori.html>) |
+| 6 | Nerilatrixaaza (Aaza) | ner-ill-AT-rix-ah-zah (<https://mcdm.gg/FleeMortals/Nerilatrixaaza.html>) (AH-zah) (<https://mcdm.gg/FleeMortals/Aaza.html>) |
+| 7 | Quiytrepartrz (Qui) | KEY-tray-par-triz (<https://mcdm.gg/FleeMortals/Quiytrepartrz.html>) (KEY) (<https://mcdm.gg/FleeMortals/Qui.html>) |
+| 8 | Verilandrii (Verily) | vare-ill-AN-dree (<https://mcdm.gg/FleeMortals/Verilandrii.html>) (VARE-ill-ee) (<https://mcdm.gg/FleeMortals/Verily.html>) |
+
 ^dragonet-names
 
 [Dragonet](/📚%20-%20Information%20Compendium/bestiary/dragon/dragonet-fleemortals.md)
@@ -667,7 +678,7 @@ Those who remain are unbroken by the passage of the ages, biding their time as t
 
 Dragons are immune to the ravages of time, and those who have endured grow ever more powerful with age. The oldest among them become fountains of primal creation, their mere presence reshaping the world around them to their will.
 
-***Ageless Grudge.***  With lives spanning millennia, dragons have a perspective mortals can scarcely comprehend, and they often hold grudges for slights committed against them or their kin long ago. But some resentments predate even a dragon's own existence. Enmities boil deep within their blood, burdening them with the anger of a thousand ancestors. This is the price of their immortality—an endless cycle of spite that keeps each dragon from trusting anyone except themself.
+***Ageless Grudge.*** With lives spanning millennia, dragons have a perspective mortals can scarcely comprehend, and they often hold grudges for slights committed against them or their kin long ago. But some resentments predate even a dragon's own existence. Enmities boil deep within their blood, burdening them with the anger of a thousand ancestors. This is the price of their immortality—an endless cycle of spite that keeps each dragon from trusting anyone except themself.
 
 > [!note] Campaign Bosses
 > 
@@ -676,25 +687,25 @@ Dragons are immune to the ravages of time, and those who have endured grow ever 
 
 ### Durixaviinox
 
-In a cold expanse at the edge of the world, Durixaviinox (dur-ih-ZAH-vin-nox (https://mcdm.gg/FleeMortals/Durixaviinox.html)) lairs beneath the ruins of the draconic city of Vexinoth. Though many now call him the Ruined Providence, this frost-breathing ruin dragon once ruled as a benevolent and all-powerful emperor who amassed enough reverence to rival the gods. But Durixaviinox was betrayed by his sister Yserthrax, who conspired with Qazyldrath to destroy the city. The conflict killed countless dragons on both sides and Durixaviinox was left for dead, his body buried beneath the rubble of a once-mighty civilization.
+In a cold expanse at the edge of the world, Durixaviinox (dur-ih-ZAH-vin-nox (<https://mcdm.gg/FleeMortals/Durixaviinox.html>)) lairs beneath the ruins of the draconic city of Vexinoth. Though many now call him the Ruined Providence, this frost-breathing ruin dragon once ruled as a benevolent and all-powerful emperor who amassed enough reverence to rival the gods. But Durixaviinox was betrayed by his sister Yserthrax, who conspired with Qazyldrath to destroy the city. The conflict killed countless dragons on both sides and Durixaviinox was left for dead, his body buried beneath the rubble of a once-mighty civilization.
 
 But the Providence refused to die, bringing himself back from the brink through force of will. As Durixaviinox slowly regained his physical might over a millennium of wound licking, he swore oaths of revenge against his sister and Qazyldrath. He plans to bring an eternal winter to the Mundane World, making it a place fit only for those with frigid hearts.
 
 ### Forzaantirilys
 
-The blood dragon known as the Ashen Song is a creature of ash and cinder, her body wreathed in flames that burn with an unearthly heat. Forzaantirilys (for-zan-TILL-ih-riss (https://mcdm.gg/FleeMortals/Forzaantilirys.html)) lairs in the heart of the world's largest volcano, and if the rumors are true, she can see and hear through magma and lava flows everywhere.
+The blood dragon known as the Ashen Song is a creature of ash and cinder, her body wreathed in flames that burn with an unearthly heat. Forzaantirilys (for-zan-TILL-ih-riss (<https://mcdm.gg/FleeMortals/Forzaantilirys.html>)) lairs in the heart of the world's largest volcano, and if the rumors are true, she can see and hear through magma and lava flows everywhere.
 
-Forzaantirilys is an inferno of anger, and this burning rage makes her immune to all fires, including the harsh light of the sun. She hates humanoids for their belief they are entitled to the Mundane World, and she abhors the gods who created them. The Ashen Song also despises the wyrm Xaantikorijek, who killed her mate, Frezzelvarax (frezz-el-VAR-ax (https://mcdm.gg/FleeMortals/Frezzelvarax.html)), nearly a thousand years ago. She wants nothing more than to see the world consumed and remade by her fire, though she knows wanton destruction would lead to her demise.
+Forzaantirilys is an inferno of anger, and this burning rage makes her immune to all fires, including the harsh light of the sun. She hates humanoids for their belief they are entitled to the Mundane World, and she abhors the gods who created them. The Ashen Song also despises the wyrm Xaantikorijek, who killed her mate, Frezzelvarax (frezz-el-VAR-ax (<https://mcdm.gg/FleeMortals/Frezzelvarax.html>)), nearly a thousand years ago. She wants nothing more than to see the world consumed and remade by her fire, though she knows wanton destruction would lead to her demise.
 
 ### Qazyldrath
 
-Qazyldrath (KAZZ-ill-drath (https://mcdm.gg/FleeMortals/Qazyldrath.html)) is an ancient creature of nightmares, a manipulator of acid and shadows, a monster who has haunted mortal minds ever since the dragon's wings first engulfed the light of the sun. This gloom dragon's venerable age is surpassed only by the fear they command. Also known as the Sun Eater and the Silent Decay, Qazyldrath features heavily in the oral tradition of draconic ancestries; they're said to be one of the progenitors of lesser dragons and the one responsible for the viciousness of dragonkind.
+Qazyldrath (KAZZ-ill-drath (<https://mcdm.gg/FleeMortals/Qazyldrath.html>)) is an ancient creature of nightmares, a manipulator of acid and shadows, a monster who has haunted mortal minds ever since the dragon's wings first engulfed the light of the sun. This gloom dragon's venerable age is surpassed only by the fear they command. Also known as the Sun Eater and the Silent Decay, Qazyldrath features heavily in the oral tradition of draconic ancestries; they're said to be one of the progenitors of lesser dragons and the one responsible for the viciousness of dragonkind.
 
 Though Qazyldrath hasn't been seen in millennia, their influence is ever-present across the timescape. Many elven dialects still use variations of the dragon's name for the word "eclipse." Some people believe darkness amplifies Qazyldrath's power, and the Sun Eater will one day return to plunge the world into eternal shadow.
 
 ### Xaantikorijek
 
-Deep beneath the barren wastes of the world rests one of its oldest creatures—so old, in fact, that he has forgotten his own name. This storm dragon has come to be known simply as the Voice of the Ages—or Xaantikorijek (zan-tihKOR-eh-jehk (https://mcdm.gg/FleeMortals/Xaantikorijek.html)) in Draconic.
+Deep beneath the barren wastes of the world rests one of its oldest creatures—so old, in fact, that he has forgotten his own name. This storm dragon has come to be known simply as the Voice of the Ages—or Xaantikorijek (zan-tihKOR-eh-jehk (<https://mcdm.gg/FleeMortals/Xaantikorijek.html>)) in Draconic.
 
 Xaantikorijek is a master of thunder and lightning, and as part of the first brood to hatch on the Mundane World, he predates most of his surviving kin. Legend holds that the Voice of the Ages once knew a secret that could remake the Mundane World in whatever form they choose—but the aging wyrm remembers very little of his own past. Whether this was the cost of surviving the doom that befell the dragons of old, a self-imposed condition, or some other magical malady, is unknown even to Xaantikorijek.
 
@@ -702,7 +713,7 @@ Once every few centuries, however, Xaantikorijek remembers a detail about his lo
 
 ### Yserthrax
 
-In the deepest and darkest parts of the timescape, there are beings that should not be, touched by corruption beyond worlds. One such creature is Yserthrax (EE-sur-thracks (https://mcdm.gg/FleeMortals/Yserthrax.html)), a draconic abomination whose wings are lined with hundreds of emerald eyes.
+In the deepest and darkest parts of the timescape, there are beings that should not be, touched by corruption beyond worlds. One such creature is Yserthrax (EE-sur-thracks (<https://mcdm.gg/FleeMortals/Yserthrax.html>)), a draconic abomination whose wings are lined with hundreds of emerald eyes.
 
 Yserthrax was born a venom dragon, revered for her mastery of spellcraft and occult lore. Now, she has been transformed by the machinations of elder evils, her body becoming distended and covered with strange growths.
 
@@ -825,7 +836,7 @@ Sunlight nexuses often serve as emissaries for their ishkrar. Their angelic appe
 
 ### Atæshia, Queen of Ash
 
-Atæshia (ah-TAY-shee-ah (https://mcdm.gg/FleeMortals/Ataeshia.html)) was among the first elementals to inhabit the Mundane World, and the first to strike back against the mortals who attempted to tame the wild world. Her army clashed with humanoids for decades, but her enemies' numbers were too great and her allies too few. As the tides of war turned against the elementals, Atæshia knew it would be better for the elementals to live, rebuild their forces, and wait for another day to take back what was once theirs.
+Atæshia (ah-TAY-shee-ah (<https://mcdm.gg/FleeMortals/Ataeshia.html>)) was among the first elementals to inhabit the Mundane World, and the first to strike back against the mortals who attempted to tame the wild world. Her army clashed with humanoids for decades, but her enemies' numbers were too great and her allies too few. As the tides of war turned against the elementals, Atæshia knew it would be better for the elementals to live, rebuild their forces, and wait for another day to take back what was once theirs.
 
 Atæshia considers all elementals within her ishkrar, and many would fight under her banner in turn. She hasn't forgotten their great war, and she views mortals and the gods who created them as the greatest threat to the timescape.
 
@@ -947,7 +958,7 @@ Of all the giant cultures, hill giants are the most likely to interact with huma
 
 Fascinated by the act of creation, stone giants carve cities out of ancient caverns, mine precious metals and gems, and craft relics worthy of glory. To many a stone giant, artisanship is the highest calling, and all their creations are crafted with an eye to beauty and longevity.
 
-***Of the Stone.***  Stone giants are made of the same kinds of rocks that form their home—marble, granite, or even basalt. Their stone bodies not only protect them from attack, but also provide them with an additional outlet for self-expression. They often carve runes into their skin, which serve a wide variety of artistic and cultural purposes.
+***Of the Stone.*** Stone giants are made of the same kinds of rocks that form their home—marble, granite, or even basalt. Their stone bodies not only protect them from attack, but also provide them with an additional outlet for self-expression. They often carve runes into their skin, which serve a wide variety of artistic and cultural purposes.
 
 [Fire Giant Lightbearer](/📚%20-%20Information%20Compendium/bestiary/giant/fire-giant-lightbearer-fleemortals.md)
 
@@ -1197,7 +1208,7 @@ With the head, front legs, and wings of an eagle and the powerful body and haunc
 
 Daring poachers sometimes attempt to steal griffon eggs from wild aeries, but such thieves typically meet their end by griffon beak or talon. So great is the death toll that many localities have outlawed the poaching of griffon eggs.
 
-***Inaccessible Aeries.***  Griffons roost alone or in pairs on craggy mountainsides, in forests, or on cliffs overlooking the ocean. They hide their nests in enormous treetops, scrubby thickets clinging to a cliff, or similarly sheltered nooks that are nearly unreachable for creatures who can't fly. Each aerie holds up to three eggs during brooding season, which lasts for several months in the early spring. Chicks hatch after forty days of incubation, then they remain in or near the nest as their parents feed the rapidly growing flightless chick. About forty days after hatching, a griffon chick learns to fly—and after that, it's only a matter of days before they set out from their nest into the wider world, generally making their own nest somewhere nearby.
+***Inaccessible Aeries.*** Griffons roost alone or in pairs on craggy mountainsides, in forests, or on cliffs overlooking the ocean. They hide their nests in enormous treetops, scrubby thickets clinging to a cliff, or similarly sheltered nooks that are nearly unreachable for creatures who can't fly. Each aerie holds up to three eggs during brooding season, which lasts for several months in the early spring. Chicks hatch after forty days of incubation, then they remain in or near the nest as their parents feed the rapidly growing flightless chick. About forty days after hatching, a griffon chick learns to fly—and after that, it's only a matter of days before they set out from their nest into the wider world, generally making their own nest somewhere nearby.
 
 ***Rare Breeds.*** Griffons come in many varieties. While the most common griffon is the leonine eagle, others include a falcon-panther variety and a bearded vulture-clouded leopard variety. The latter only feeds on carrion, and experts continue to debate whether they should be considered a true griffon or if they deserve their own categorization. Many scholars offer abundant rewards to adventurers who can return with evidence of rare or undiscovered griffon types.
 
@@ -1218,7 +1229,7 @@ When fear of death or hunger for power grips a mortal (often a druid, warlock, o
 
 ***Hiding in Plain Sight.*** Though hags typically appear as older humanoid women, their true form is as vicious and nasty as their nature. They prefer to show the world a charitable face, but the general wisdom concerning hags is that the more beautiful their appearance, the deeper the rot within. However, this theory has never been confirmed, as few who see a hag's true form live to tell the tale.
 
-***Dealmakers and Heart-Breakers.*** Since old age can't kill hags, the oldest among them accumulate as much knowledge, magic, and repute as ancient dragons. They are happy to share their wares . . . for the right price. Rather than ask for paltry coin, a hag usually bargains for something dear to the customer—perhaps their ability to love, the sound of their child's laugh, or their left pinky toe.
+***Dealmakers and Heart-Breakers.*** Since old age can't kill hags, the oldest among them accumulate as much knowledge, magic, and repute as ancient dragons. They are happy to share their wares … for the right price. Rather than ask for paltry coin, a hag usually bargains for something dear to the customer—perhaps their ability to love, the sound of their child's laugh, or their left pinky toe.
 
 Adding insult to injury, those who deal with hags almost always discover the product is worse than advertised. Mortals should pay close attention to the precise wording of their agreements, lest they end up with a hex they thought would be a gift. Such curses often lead to the corruption of good but desperate folk, and some get so twisted up in fey deals that they become hags themselves.
 
@@ -1232,7 +1243,7 @@ Due to their preferred lairs and varying ambitions, hags typically work with hag
 
 ### Shtriga Nonna
 
-Shtriga Nonna loves cats, cooking, and not much else. This ancient hag has lived high atop her snowy mountain for time beyond even the memory of most other hags. Shtriga Nonna is unique among her kind—she isn't of the forest, the night, or the sea, and the hag insists she has no need of sisters . . . at least, not anymore.
+Shtriga Nonna loves cats, cooking, and not much else. This ancient hag has lived high atop her snowy mountain for time beyond even the memory of most other hags. Shtriga Nonna is unique among her kind—she isn't of the forest, the night, or the sea, and the hag insists she has no need of sisters … at least, not anymore.
 
 Rumors abound that she ate her former coven, and there's every reason to believe these stories are true. Shtriga Nonna enjoys dining on the flesh of any creature, especially if it's marinated with the fear and sadness born from making several bad deals with a hag.
 
@@ -1325,7 +1336,7 @@ Though hellhounds can survive in most environments, they shun the cold and thriv
 
 ***Bent on Destruction.*** Without the steady hand of their trainer, hellhounds become more chaotic and destructive. Like a bad dog left alone, they lay ruin to anything and anyone they can bite or set aflame.
 
-***Redemption.***  Though most hellhounds are formed from the souls of beasts, fiends sometimes sadistically bind fallen humanoid souls that were once good people but lost their way, forcing them to serve as hellhounds. In rare cases, such a hound can be redeemed if rescued at a young age by a kind and capable trainer who can lead the hound on a gentler path. Upon its death, a redeemed hellhound is freed from the Seven Cities of Hell and moves on to a better afterlife.
+***Redemption.*** Though most hellhounds are formed from the souls of beasts, fiends sometimes sadistically bind fallen humanoid souls that were once good people but lost their way, forcing them to serve as hellhounds. In rare cases, such a hound can be redeemed if rescued at a young age by a kind and capable trainer who can lead the hound on a gentler path. Upon its death, a redeemed hellhound is freed from the Seven Cities of Hell and moves on to a better afterlife.
 
 [Hellhound](/📚%20-%20Information%20Compendium/bestiary/fiend/hellhound-fleemortals.md)
 
@@ -1434,7 +1445,7 @@ Fortunately, many humans devote themselves to righting wrongs and reshaping the 
 
 Humans see unrealized potential everywhere, whether envisioning an untamed forest transformed into a prosperous village or an ancient dungeon yielding a chest full of coins. Pursuing such ambitions might end in catastrophe, but for these gamblers, it's a game worth playing.
 
-Swords for Hire. With an appetite for warfare and gold, human adventurers are well represented in most mercenary bands. A human mercenary makes a stout ally . . . if you can afford their price.
+Swords for Hire. With an appetite for warfare and gold, human adventurers are well represented in most mercenary bands. A human mercenary makes a stout ally … if you can afford their price.
 
 ### Baron Uthrak
 
@@ -1731,7 +1742,7 @@ The extroverted Lady Emer craves company, but members of her order rarely visit 
 
 > [!note] Medusa Petrification
 > 
-> At lower levels, the petrified condition can take a character out of the game permanently. If you want to give a low-level character a chance to recover from being petrified after a medusa encounter, make sure there is a temple nearby with a priest who can cast greater restoration . . . for a price, of course.
+> At lower levels, the petrified condition can take a character out of the game permanently. If you want to give a low-level character a chance to recover from being petrified after a medusa encounter, make sure there is a temple nearby with a priest who can cast greater restoration … for a price, of course.
 ^medusa-petrification
 
 [Lady Emer](/📚%20-%20Information%20Compendium/bestiary/npc/lady-emer-fleemortals.md)
@@ -1781,7 +1792,7 @@ Used as Distractions. Spies, thieves, and others who wish to walk into guarded l
 
 > [!quote] A quote from The Sun, Senior Pyrokinetic, The Society  
 > 
-> *Just* the doorknob, right? Not the *door*, just that one doorknob. Little shit almost chewed my hand off before I even knew what was happening. But what are you gonna do? You can't just . . . stop opening doors. Just need to expect the unexpected. Not the most useful lesson, I realize.
+> *Just* the doorknob, right? Not the *door*, just that one doorknob. Little shit almost chewed my hand off before I even knew what was happening. But what are you gonna do? You can't just … stop opening doors. Just need to expect the unexpected. Not the most useful lesson, I realize.
 
 ## Minotaurs
 
@@ -2013,7 +2024,7 @@ Unwitting explorers sometimes accidentally abscond with an egg. If unfertilized,
 > 
 > "Hahaha! Surprised? You forgot my allies among the drow, I think. You should know better, my lady. Nothing exceeds my Grasp."
 
-Xorannox (ZOR-ah-nocks (https://mcdm.gg/FleeMortals/Xorannox.html)) rules as Lord of the White Tower, a multi-level finger of alabaster stone. Commonly known as the Tyract—an ancient Deep Speech word that literally translates as "a king who rules with his teeth"—the overmind indeed consumes those who displease him.
+Xorannox (ZOR-ah-nocks (<https://mcdm.gg/FleeMortals/Xorannox.html>)) rules as Lord of the White Tower, a multi-level finger of alabaster stone. Commonly known as the Tyract—an ancient Deep Speech word that literally translates as "a king who rules with his teeth"—the overmind indeed consumes those who displease him.
 
 Xorannox is chief of the Grasp, a secret organization made up of deep gnomes, dark elves, and humans. They seek to overthrow the voiceless talkers' great empire and place Xorannox above all, first as king, then as god.
 
@@ -2122,7 +2133,7 @@ A tiny winged insectoid with a long proboscis, the stirge feasts not on blood, b
 
 ## Time Raiders
 
-The kuran'zoi (coor-AN-zoy (https://mcdm.gg/FleeMortals/Kuranzoi.html)), also called time raiders, are humanoids who make the Astral Sea their home. Many kuran'zoi make their living as guides for travelers from other planes, while others survive on the Sea of Stars through piracy of interplanar vessels.
+The kuran'zoi (coor-AN-zoy (<https://mcdm.gg/FleeMortals/Kuranzoi.html>)), also called time raiders, are humanoids who make the Astral Sea their home. Many kuran'zoi make their living as guides for travelers from other planes, while others survive on the Sea of Stars through piracy of interplanar vessels.
 
 Veterans of the Psychic Wars. Thousands of years ago, the synlirii—a powerful species of evil psionic aberrations—created kuran'zoi as soldiers. But as the synlirii experimented and enhanced these warriors' psionic abilities, the kuran'zoi saw the true nature of their progenitors. They rebelled against the synlirii and fled to the Astral Sea, becoming nomads of the timescape.
 
@@ -2174,7 +2185,7 @@ Creatures Outside Time. While in the Sea of Stars, time raiders and other creatu
 
 A titan slumbers beneath each of the eight regions of Orden, rousing from their sleep every few millennia—so infrequently, most people view the titans as mere legends. References to these beings of immense form and power appear on the walls of ancient temples and in histories of ancient catastrophes.
 
-The few people who know the titans exist worship them as protectors and defenders against the end of the world. Though the titans of Orden rank among the most powerful creatures in the timescape, no texts even hint at where they came from, or who created them—if they were created. This section describes two titans: Goxomoc (GAUZ-ahmock (https://mcdm.gg/FleeMortals/Goxomoc.html)), titan of Ix, and the Kraken, titan of Higara. Some others, like the Phoenix, titan of Phaedros, are known, while the nature of several remains a mystery.
+The few people who know the titans exist worship them as protectors and defenders against the end of the world. Though the titans of Orden rank among the most powerful creatures in the timescape, no texts even hint at where they came from, or who created them—if they were created. This section describes two titans: Goxomoc (GAUZ-ahmock (<https://mcdm.gg/FleeMortals/Goxomoc.html>)), titan of Ix, and the Kraken, titan of Higara. Some others, like the Phoenix, titan of Phaedros, are known, while the nature of several remains a mystery.
 
 ***Defenders of All the World.*** Legends and sages agree that the titans awaken only when their homeland, their people, or the entire world is threatened—but it's unclear what these godlike creatures view as a threat. They certainly don't seem interested in local politics, tyrants, plagues, or natural disasters. In truth, they await an existential threat powerful enough to destroy the world.
 
@@ -2190,7 +2201,7 @@ Sages believe that waking a titan for no reason would provoke them into a ruinou
 
 ### Goxomoc
 
-Goxomoc the Terror Lord slumbers under the great volcano called Ynixquichcauitl (een-eeks-keesh-KAH-hooeetuhl (https://mcdm.gg/FleeMortals/Ynixquichcahuitl.html)) which can be translated to "The End of All Things." The Oaxuatl people of Ix believe this volcano's inevitable eruption will signal the end of this world, and they look to it to determine the slumbering titan's mood.
+Goxomoc the Terror Lord slumbers under the great volcano called Ynixquichcauitl (een-eeks-keesh-KAH-hooeetuhl (<https://mcdm.gg/FleeMortals/Ynixquichcahuitl.html>)) which can be translated to "The End of All Things." The Oaxuatl people of Ix believe this volcano's inevitable eruption will signal the end of this world, and they look to it to determine the slumbering titan's mood.
 
 The Oaxuatl respect and revere their protector in his aspects as a being of the earth and of storms. In both ancient and modern Ixian temples, iconography features Goxomoc in many stylized forms. The Oaxuatl do not pray to him, invoke his name, or even believe he is aware of them. But they share an unshakable belief that, should the land be threatened, the Terror Lord shall rouse and defend the land.
 
@@ -2299,7 +2310,7 @@ Shadows. Specters. Wraiths. Spectral undead come in many forms. One might be for
 
 Once a humble historian and archaeologist, Kiona Duemois stumbled across the Codex Mortis, a powerful tome of necromancy, in her travels. It changed her life forever—and ended it.
 
-She spent months poring over her discovery, attempting to decipher the book's archaic passages. At first, she only meant to study the tome and record notes on her findings . . . but the codex called to her. Enthralled, Kiona convinced herself that she should just perform one of the book's smaller incantations for posterity. That one spell destroyed her earthly form and turned her ragged soul into a twisted, shadowy abomination of dark power.
+She spent months poring over her discovery, attempting to decipher the book's archaic passages. At first, she only meant to study the tome and record notes on her findings … but the codex called to her. Enthralled, Kiona convinced herself that she should just perform one of the book's smaller incantations for posterity. That one spell destroyed her earthly form and turned her ragged soul into a twisted, shadowy abomination of dark power.
 
 The Codex Mortis mysteriously disappeared shortly after Kiona's death. In her new form, she set out to amass more power. The once genial archaeologist thirsts for the life of the living and yearns to hold the Codex Mortis once more. To those ends, she has built an army of spectral undead who carry out her every desire.
 
@@ -2414,9 +2425,9 @@ As long as their soulstone remains intact, a lich can never truly die. Most soul
 
 #### High Mage Vairae
 
-Vairae (veh-RYE (https://mcdm.gg/FleeMortals/Vairae.html)) came from a long line of elf mages in Gael Wode. They excelled at school and easily made friends—which meant no one challenged them when they bullied the weaker children.
+Vairae (veh-RYE (<https://mcdm.gg/FleeMortals/Vairae.html>)) came from a long line of elf mages in Gael Wode. They excelled at school and easily made friends—which meant no one challenged them when they bullied the weaker children.
 
-As an adult, Vairae joined the Gael garrison as a battle mage to round out their skills. Again they performed admirably and were showered with admirers and promotions. But after discovering a cryptic tome on the corpse of an enemy wizard, Vairae set their sights even higher—for the tome contained a ritual to keep their vigor and power forever. After many late nights spent deciphering the text, Vairae succumbed to the irresistible pull to complete this ritual . . . and sacrificed their best friend in the process.
+As an adult, Vairae joined the Gael garrison as a battle mage to round out their skills. Again they performed admirably and were showered with admirers and promotions. But after discovering a cryptic tome on the corpse of an enemy wizard, Vairae set their sights even higher—for the tome contained a ritual to keep their vigor and power forever. After many late nights spent deciphering the text, Vairae succumbed to the irresistible pull to complete this ritual … and sacrificed their best friend in the process.
 
 Their heart now sealed in a sphere of everlasting ice, Vairae returned to Gael Wode in disguise and ambitiously rose to the rank of High Mage. Today, the centuries-old Vairae is as spry and handsome as ever, with loyal followers at their command. But the world outside the wode is large and doesn't belong to Vairae—yet.
 
@@ -2477,7 +2488,7 @@ Mummies are humanoids raised from the dead via a complex series of magical ritua
 
 #### Ashyra, Keeper of the Crypt
 
-Ashyra (ah-SHEE-rah (https://mcdm.gg/FleeMortals/Ashyra.html)) is the last survivor of an ancient people long passed from the world. Though traces of her civilization have disappeared from the surface, she still carries out her duty, guarding a subterranean necropolis where the remains of one hundred sorcerer-sovereigns rest in eternal slumber.
+Ashyra (ah-SHEE-rah (<https://mcdm.gg/FleeMortals/Ashyra.html>)) is the last survivor of an ancient people long passed from the world. Though traces of her civilization have disappeared from the surface, she still carries out her duty, guarding a subterranean necropolis where the remains of one hundred sorcerer-sovereigns rest in eternal slumber.
 
 In her human life, Ashyra led a mystery cult dedicated to unlocking the secrets of immortality. She uncovered the ritual of mummification and performed it on herself just as her people were overthrown. In undeath, Ashyra works slowly and patiently, gathering the knowledge and supplies needed to return the sorcerer-sovereigns from the dead so her people may take back the world that was once theirs.
 
@@ -2534,7 +2545,7 @@ Whenever a servant disobeys a vampire, swift retribution comes in the form of te
 
 Vampire spawn hide anywhere they can avoid the sun, such as tombs, sewers, or cellars. True vampires build more lavish lairs—opulent manors, shadowed castles, and vast crypts spiraling beneath the earth. Vampire lords lair in blackened towers, hollowed moons, and private demiplanes where the light of day never reaches.
 
-#### Count Rhodar von Glauer
+#### Count Rhodar Von Glauer
 
 > [!quote] A quote from Motto of House von Glauer  
 > 
@@ -2596,7 +2607,7 @@ Servoks, the labor and siege class of valok, are huge, slow, and built for a spe
 
 The dead language of the steel dwarves is lost to time and beyond the reach of most magic, but scholars believe that someone who spoke this ancient tongue could command a servok. Even then, servoks can't act outside their design parameters—a servok designed to mine ore can't be commanded to make a vase.
 
-***Servok Builder.*** Steel dwarves used one class of servoks, called builders, to construct buildings, roads, and walls. Their valiar arms can lift and fling enormous stones, and a great mixing cannister on their back holds concrete that can be spewed forth from an opening at the front of the construct. The steel dwarves equipped each builder with a valiar wrecking ball to demolish any old construction impeding the servok's progress.
+***Servok Builder.*** Steel dwarves used one class of servoks, called builders, to construct buildings, roads, and walls. Their valiar arms can lift and fling enormous stones, and a great mixing canister on their back holds concrete that can be spewed forth from an opening at the front of the construct. The steel dwarves equipped each builder with a valiar wrecking ball to demolish any old construction impeding the servok's progress.
 
 Some active builders still work the caverns where they were left, clearing the ground in preparation for some grand project known only to their progenitors.
 
@@ -2626,7 +2637,7 @@ Active chiefs still roam the halls of the steel dwarves, organizing their fellow
 
 > [!quote] A quote from Remainer  
 > 
-> . . . and, eventually, machines indistinguishable from living, thinking beings—the omnivok. Originally intended as a gift to Empress Xiong, the human-seeming omnivok were never delivered. The steel dwarves made their servants too well, and they could not abide treating the machine people they'd created as slaves.
+> … and, eventually, machines indistinguishable from living, thinking beings—the omnivok. Originally intended as a gift to Empress Xiong, the human-seeming omnivok were never delivered. The steel dwarves made their servants too well, and they could not abide treating the machine people they'd created as slaves.
 
 [Servok Builder](/📚%20-%20Information%20Compendium/bestiary/construct/servok-builder-fleemortals.md)
 
@@ -2667,7 +2678,7 @@ Mindkiller whelps are a lesser form of mindkiller that can be created in a fract
 
 ### Lord Syuul
 
-Chief Design Architect of his nation's body banks, the synliroi Lord Syuul (see-YOU-ull (https://mcdm.gg/FleeMortals/Syull.html)) seeks more material for his experiments. His spies, informants, and allies are always on the lookout for subjects with unique hereditary traits the Interlace might extract.
+Chief Design Architect of his nation's body banks, the synliroi Lord Syuul (see-YOU-ull (<https://mcdm.gg/FleeMortals/Syull.html>)) seeks more material for his experiments. His spies, informants, and allies are always on the lookout for subjects with unique hereditary traits the Interlace might extract.
 
 Lord Syuul, who belongs to an ancient and respected noble house, never leaves his estate without a retinue of guards and minions. They obey his orders fanatically—as Syuul has ensured they're biologically incapable of refusing to do so.
 
@@ -2677,7 +2688,7 @@ Syuul's recent experiments have focused on isolating the trait that expresses so
 
 > [!note] Psi-Tech
 > 
-> While most psi-tech weapons can be used only by voiceless talkers, a character using the talent class (from the MCDM supplement The Talent and Psionics (https://mcdm.gg/talent)) can use these weapons by gaining 1 strain each time they make an attack with one. A creature using a psi-tech ranged weapon uses Intelligence instead of Dexterity for attack and damage rolls.
+> While most psi-tech weapons can be used only by voiceless talkers, a character using the talent class (from the MCDM supplement The Talent and Psionics (<https://mcdm.gg/talent>)) can use these weapons by gaining 1 strain each time they make an attack with one. A creature using a psi-tech ranged weapon uses Intelligence instead of Dexterity for attack and damage rolls.
 ^psi-tech
 
 [Voiceless Talker Artillerist](/📚%20-%20Information%20Compendium/bestiary/aberration/voiceless-talker-artillerist-fleemortals.md)

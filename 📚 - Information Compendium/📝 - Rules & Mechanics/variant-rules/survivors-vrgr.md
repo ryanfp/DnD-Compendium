@@ -76,7 +76,7 @@ Survivors don't possess classes as detailed in the "Player's Handbook". Despite 
 
 Whenever a survivor gains a level, it gains one Hit Die and its hit point maximum increases. To determine the amount of the increase, roll the Hit Die (the type that appears in the survivor's stat block), and add the survivor's Constitution modifier. It gains a minimum of 1 hit point per level.
 
-If a survivor drops to 0 hit points, it falls [unconscious](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Unconscious) and subsequently makes death saving throws just like a normal player character.
+If a survivor drops to 0 hit points, it falls [unconscious](conditions.md#Unconscious) and subsequently makes death saving throws just like a normal player character.
 
 ## Survivor Talents
 
@@ -84,7 +84,7 @@ At 2nd level and again at 3rd level, a survivor gains their choice of one of the
 
 ### Adrenaline Surge
 
-At the start of your turn, you can choose one creature you can see within 30 feet of you. Until the start of your next turn, you are [frightened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened) of that creature and your walking speed is doubled.
+At the start of your turn, you can choose one creature you can see within 30 feet of you. Until the start of your next turn, you are [frightened](conditions.md#Frightened) of that creature and your walking speed is doubled.
 
 ### Desperate Scream
 

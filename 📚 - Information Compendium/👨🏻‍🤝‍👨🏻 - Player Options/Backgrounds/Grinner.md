@@ -1,14 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-background
-tags:
-  - background
-  - compendium/src/5e/egw
+tags: [background, compendium/src/5e/egw]
 aliases:
   - Grinner
 title: Grinner
+permalink: grinner
+created: 2025/06/15 at 22:47
+updated: 2025/07/21 at 22:17
 ---
+
 # Grinner
+
 *Source: Explorer's Guide to Wildemount p. 200*  
 ![](/📚%20-%20Information%20Compendium/backgrounds/img/grinner.webp#right)
 
@@ -34,6 +37,7 @@ All members of the Golden Grin have learned a handful of folk songs in their tra
 | 4 | Let the Sword Grow Rust. An antiwar anthem from Marquet, this song has uncertain origins. Use it to help quell violent encounters. |
 | 5 | Drink Deep, Li'l Hummingbird. A drinking rondo from the Menagerie Coast, this song tells the tale of a young person who drinks so heavily that they awaken to find they've stowed away on a ship. Use it to encourage alertness in social situations. |
 | 6 | Dirge for the Emerald Fire. This elven song supposedly has thousands of obscure verses. Use the first two verses to spread news of death or defeat. |
+
 ^favorite-code-song
 
 ## Feature: Ballad of the Grinning Fool
@@ -58,6 +62,7 @@ Grinners are trained in the art of secrecy and innuendo, and are skilled at hidi
 | 6 | I'm always humming an old tune from my past. |
 | 7 | When I don't have a reason to smile, I'm miserable. |
 | 8 | I'm lucky like you wouldn't believe. |
+
 ^personality-trait
 
 `dice: [](grinner-egw.md#^ideal)`
@@ -70,6 +75,7 @@ Grinners are trained in the art of secrecy and innuendo, and are skilled at hidi
 | 4 | Expression. Music, joy, and laughter are the keys to freedom. (Good) |
 | 5 | Self-Determination. People should be free to do as they please. (Chaotic) |
 | 6 | Vigilance. A free people must be carefully taught, lest they be misled. (Neutral) |
+
 ^ideal
 
 `dice: [](grinner-egw.md#^bond)`
@@ -82,6 +88,7 @@ Grinners are trained in the art of secrecy and innuendo, and are skilled at hidi
 | 4 | I will be known as the greatest spy who ever lived. |
 | 5 | All life is precious to me. I know I can change the world without taking a humanoid life. |
 | 6 | The elite in their ivory towers don't understand how we suffer. I intend to show them. |
+
 ^bond
 
 `dice: [](grinner-egw.md#^flaw)`
@@ -94,4 +101,5 @@ Grinners are trained in the art of secrecy and innuendo, and are skilled at hidi
 | 4 | I can't focus on my mission. I just want to carouse and sing and play! |
 | 5 | Yeah, that's my name. Yeah, I'm a Grinner spy. Who cares about staying undercover? |
 | 6 | I can't afford to trust anyone. Not. Anyone. |
+
 ^flaw

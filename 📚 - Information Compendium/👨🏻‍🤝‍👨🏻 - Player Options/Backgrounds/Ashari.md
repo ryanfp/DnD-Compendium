@@ -1,16 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-background
-tags:
-  - background
-  - compendium/src/5e/tdcsr
+tags: [background, compendium/src/5e/tdcsr]
 aliases:
   - Ashari
 title: Ashari
+permalink: ashari
+created: 2025/06/15 at 22:47
+updated: 2025/07/21 at 22:03
 ---
-# Ashari
-*Source: Tal'Dorei Campaign Setting Reborn p. 180*  
 
+# Ashari
+
+*Source: Tal'Dorei Campaign Setting Reborn p. 180*  
 
 - **Skill Proficiencies.** [[Nature]], plus your choice of [[Arcana]] or [[Survival]]  
 - **Tool Proficiencies.** [[Herbalism Kit]]  
@@ -65,6 +67,7 @@ To learn more about your character's Ashari order, see ""The Ashari"".
 | 6 | I'm a plain talker, even with people who outrank me. |
 | 7 | I've always got some of my native element with me in some form. (This might be modeling clay, pure water, special burning incense, or a bottled cloud.) |
 | 8 | I talk with everyone like I've known them all my life. Because most people I know, I have known all my life! |
+
 ^ashari-personality-traits
 
 **Ashari Ideals**
@@ -79,6 +82,7 @@ To learn more about your character's Ashari order, see ""The Ashari"".
 | 4 | **Freedom**. I don't care what anyone says. Even if it causes problems, the elements must be free. And so should I. (Chaotic) |
 | 5 | **Structure**. The elements are in harmony when they are free to act as they will, within the safe boundaries set by "the Ashari". People are much the same. (Lawful) |
 | 6 | **Virtuous Cycle**. If I see someone who needs help, I feel compelled to assist them. Surely they'll return the favor someday! (Good) |
+
 ^ashari-ideals
 
 **Ashari Bonds**
@@ -93,6 +97,7 @@ To learn more about your character's Ashari order, see ""The Ashari"".
 | 4 | My older sibling set out on their Aramente a year ago, and I haven't seen them since. |
 | 5 | When I was a baby, a [[giant eagle]] brought me to "Zephrah". I love my family, but I often wonder who my birth parents are. |
 | 6 | I trust my animal friends more than any humanoid ally. |
+
 ^ashari-bonds
 
 **Ashari Flaws**
@@ -107,4 +112,5 @@ To learn more about your character's Ashari order, see ""The Ashari"".
 | 4 | I think the mission of my people is a fool's errand. They should abandon isolation, let the elements be, and enjoy the pleasures of the world! |
 | 5 | I can't stand it when people say one thing and mean another! Just say what you mean! |
 | 6 | Ugh, I know it's not right, but I can't help but look down on people who can't manipulate the elements. It's not like it's hard! |
+
 ^ashari-flaws

@@ -53,7 +53,7 @@ You have proficiency in the [Survival](/📚%20-%20Information%20Compendium/📝
 
 ### Shifting Feature
 
-While shifted, you have advantage on Wisdom checks, and no creature within 30 feet of you can make an attack roll with advantage against you, unless you're [incapacitated](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated).
+While shifted, you have advantage on Wisdom checks, and no creature within 30 feet of you can make an attack roll with advantage against you, unless you're [incapacitated](conditions.md#Incapacitated).
 
 ## Description
 

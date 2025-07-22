@@ -33,10 +33,10 @@ You create a magical restraint to hold a creature that you can see within range.
 Until the spell ends, the target is also affected by one of the following effects of your choice:
 
 - **Burial.** The target is entombed beneath the earth in a hollow globe of magical force that is just large enough to contain the target. Nothing can pass into or out of the globe.  
-- **Chaining.** Chains firmly rooted in the ground hold the target in place. The target has the [Restrained](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Restrained) condition and can't be moved by any means.  
+- **Chaining.** Chains firmly rooted in the ground hold the target in place. The target has the [Restrained](conditions.md#Restrained) condition and can't be moved by any means.  
 - **Hedged Prison.** The target is trapped in a demiplane that is warded against teleportation and planar travel. The demiplane is your choice of a labyrinth, a cage, a tower, or the like.  
 - **Minimus Containment.** The target becomes 1 inch tall and is trapped inside an indestructible gemstone or a similar object. Light can pass through the gemstone (allowing the target to see out and other creatures to see in), but nothing else can pass through by any means.  
-- **Slumber.** The target has the [Unconscious](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Unconscious) condition and can't be awoken.  
+- **Slumber.** The target has the [Unconscious](conditions.md#Unconscious) condition and can't be awoken.  
 
 ## Ending the Spell
 

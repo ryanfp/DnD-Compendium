@@ -34,7 +34,7 @@ aliases:
 - **Components:** V, S, M (a magnifying glass)
 - **Duration:** Concentration, up to 1 minute
 
-You launch a sunbeam in a 5-foot-wide, 60-foot-long Line. Each creature in the Line makes a Constitution saving throw. On a failed save, a creature takes `6d8` Radiant damage and has the [Blinded](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Blinded) condition until the start of your next turn. On a successful save, it takes half as much damage only.
+You launch a sunbeam in a 5-foot-wide, 60-foot-long Line. Each creature in the Line makes a Constitution saving throw. On a failed save, a creature takes `6d8` Radiant damage and has the [Blinded](conditions.md#Blinded) condition until the start of your next turn. On a successful save, it takes half as much damage only.
 
 Until the spell ends, you can take a [Magic](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/actions.md#Magic) action to create a new Line of radiance.
 

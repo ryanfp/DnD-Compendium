@@ -46,7 +46,7 @@ Whenever a group's average level goes up, the sidekick gains a level. It doesn't
 
 Whenever the sidekick gains a level, it gains one Hit Die, and its hit point maximum increases. To determine the amount of the increase, roll the Hit Die (the type of die appears in the sidekick's stat block), and add its Constitution modifier. It gains a minimum of 1 hit point per level.
 
-If the sidekick drops to 0 hit points and isn't killed outright, it falls [unconscious](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Unconscious) and subsequently makes death saving throws, just like a player character.
+If the sidekick drops to 0 hit points and isn't killed outright, it falls [unconscious](conditions.md#Unconscious) and subsequently makes death saving throws, just like a player character.
 
 ### Proficiency Bonus
 

@@ -39,11 +39,11 @@ You can breathe air and water.
 
 ### Poison Immunity
 
-You're immune to poison damage and the [poisoned](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Poisoned) condition.
+You're immune to poison damage and the [poisoned](conditions.md#Poisoned) condition.
 
 ### Poisonous Skin
 
-Any creature that grapples you or otherwise comes into direct contact with your skin must succeed on a DC 12 Constitution saving throw or become [poisoned](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Poisoned) for 1 minute. A [poisoned](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Poisoned) creature no longer in direct contact with you can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+Any creature that grapples you or otherwise comes into direct contact with your skin must succeed on a DC 12 Constitution saving throw or become [poisoned](conditions.md#Poisoned) for 1 minute. A [poisoned](conditions.md#Poisoned) creature no longer in direct contact with you can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 You can also apply this poison to any piercing weapon as part of an attack with that weapon, though when you hit the poison reacts differently. The target must succeed on a DC 12 Constitution saving throw or take `2d4` poison damage.
 
@@ -53,7 +53,7 @@ Your long jump is up to 25 feet and your high jump is up to 15 feet, with or wit
 
 ### Water Dependency
 
-If you fail to immerse yourself in water for at least 1 hour during a day, you suffer one level of [exhaustion](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Exhaustion) at the end of that day. You can only recover from this [exhaustion](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Exhaustion) through magic or by immersing yourself in water for at least 1 hour.
+If you fail to immerse yourself in water for at least 1 hour during a day, you suffer one level of [exhaustion](conditions.md#Exhaustion) at the end of that day. You can only recover from this [exhaustion](conditions.md#Exhaustion) through magic or by immersing yourself in water for at least 1 hour.
 
 ### Languages
 

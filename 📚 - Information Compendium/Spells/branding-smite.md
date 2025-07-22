@@ -26,7 +26,7 @@ aliases:
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-The next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra `2d6` radiant damage to the target, which becomes visible if it's [invisible](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Invisible), and the target sheds dim light in a 5-foot radius and can't become [invisible](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Invisible) until the spell ends.
+The next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra `2d6` radiant damage to the target, which becomes visible if it's [invisible](conditions.md#Invisible), and the target sheds dim light in a 5-foot radius and can't become [invisible](conditions.md#Invisible) until the spell ends.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the extra damage increases by `d6` for each slot level above 2nd.
 

@@ -1,16 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-background
-tags:
-  - background
-  - compendium/src/5e/darkmatter
+tags: [background, compendium/src/5e/darkmatter]
 aliases:
   - Exile
 title: Exile
+permalink: exile
+created: 2025/06/15 at 22:47
+updated: 2025/07/21 at 22:15
 ---
-# Exile
-*Source: Dark Matter p. 116*  
 
+# Exile
+
+*Source: Dark Matter p. 116*  
 
 - **Skill Proficiencies.** Deception, Survival  
 - **Languages.** Any two of your choice  
@@ -50,6 +52,7 @@ You were exiled for a reason. Choose a 'crime' or roll on the table below to det
 | 8 | Escaping shameful failures committed at home |
 | 9 | Fleeing false accusations |
 | 10 | Self-imposed exile/journey of self-discovery |
+
 ^ship-names
 
 ## Suggested Characteristics
@@ -68,6 +71,7 @@ Being exiled is a deeply painful experience, and life as a stateless persona non
 | 6 | I have a lot of interesting and unusual friends. |
 | 7 | I often reminisce about my years before exile. |
 | 8 | I write a lot of poetry in my spare time. |
+
 ^personality-trait
 
 `dice: [](exile-darkmatter.md#^ideal)`
@@ -80,6 +84,7 @@ Being exiled is a deeply painful experience, and life as a stateless persona non
 | 4 | Leadership. It is on me to lead my people through the wilderness. (Good) |
 | 5 | Revenge. I must take revenge on those who cast me out! (Evil) |
 | 6 | Refuge. In these dangerous times, I must focus solely on survival. (Neutral) |
+
 ^ideal
 
 `dice: [](exile-darkmatter.md#^bond)`
@@ -92,6 +97,7 @@ Being exiled is a deeply painful experience, and life as a stateless persona non
 | 4 | I have started a new family in my adoptive homeland. |
 | 5 | I cannot return home until I have found what I am looking for. |
 | 6 | I am still wanted by the courts. |
+
 ^bond
 
 `dice: [](exile-darkmatter.md#^flaw)`
@@ -104,4 +110,5 @@ Being exiled is a deeply painful experience, and life as a stateless persona non
 | 4 | My hatred for the people who exiled me sometimes crowds out reason in my head. |
 | 5 | I prefer to work alone, and rarely seek compromise with others. |
 | 6 | I've been away so long, I have lost touch with my family/culture/language. |
+
 ^flaw

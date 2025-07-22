@@ -1,13 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-background
-tags:
-- background
-- compendium/src/5e/vrgr
+tags: [background, compendium/src/5e/vrgr]
 aliases:
-- Haunted One
+  - Haunted One
+permalink: haunted-one-vrgr
+title: Haunted One
+created: 2025/06/15 at 22:47
+updated: 2025/07/21 at 22:22
 ---
+
 # Haunted One
+
 *Source: Van Richten's Guide to Ravenloft p. 34*  
 ![](/📚%20-%20Information%20Compendium/backgrounds/img/haunted-one.webp#right)
 
@@ -41,6 +45,7 @@ Prior to becoming an adventurer, your path in life was defined by one dark momen
 | 8 | You opened an eldritch tome and saw things unfit for a sane mind. You burned the book, but its words and images are burned into your psyche. |
 | 9 | A fiend possessed you as a child. You were locked away but escaped. The fiend is still inside you, but now you try to keep it bottled up. |
 | 10 | You did terrible things to avenge the murder of someone you loved. You became a monster, and it haunts your waking dreams. |
+
 ^harrowing-event
 
 ## Horror Characteristics
@@ -65,6 +70,7 @@ Characters in a horror-focused campaign might have distinct motivations and char
 | 10 | Nothing is more important than life, and I never leave anyone in danger. |
 | 11 | I'm quick to jump to extreme solutions. Why risk a lesser option not working? |
 | 12 | I'm easily startled, but I'm not a coward. |
+
 ^horror-character-personality-traits
 
 **Horror Character Ideals**
@@ -85,6 +91,7 @@ Characters in a horror-focused campaign might have distinct motivations and char
 | 10 | Revelation. I need to know what lies beyond the mysteries of death, the world, or the Mists. |
 | 11 | Sanctuary. I know the forces at work in the world and strive to create islands apart from them. |
 | 12 | Truth. I care about the truth above all else, even if it doesn't benefit anyone. |
+
 ^horror-character-ideals
 
 **Horror Character Bonds**
@@ -105,6 +112,7 @@ Characters in a horror-focused campaign might have distinct motivations and char
 | 10 | Spirits are drawn to me. I do all I can to help them find peace. |
 | 11 | I use my cunning mind to solve mysteries and find justice for those who've been wronged. |
 | 12 | I lost someone I care about, but I still see them in guilty visions, recurring dreams, or as a spirit. |
+
 ^horror-character-bonds
 
 **Horror Character Flaws**
@@ -125,4 +133,5 @@ Characters in a horror-focused campaign might have distinct motivations and char
 | 10 | I'm exceptionally cautious, planning laboriously and devising countless contingencies. |
 | 11 | I have a reputation for defeating a great evil, but that's a lie and the wicked force knows. |
 | 12 | I know the ends always justify the means and am quick to make sacrifices to attain my goals. |
+
 ^horror-character-flaws

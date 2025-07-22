@@ -23,7 +23,7 @@ You can breathe air and water.
 
 ### Otherworldly Perception
 
-You can sense the presence of any creature within 30 feet of you that is [invisible](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Invisible) or on the Ethereal Plane. You can pinpoint such a creature that is moving.
+You can sense the presence of any creature within 30 feet of you that is [invisible](conditions.md#Invisible) or on the Ethereal Plane. You can pinpoint such a creature that is moving.
 
 ### Slippery
 

@@ -22,9 +22,9 @@ aliases:
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-A churning storm cloud forms, centered on a point you can see and spreading to a radius of 360 feet. Lightning flashes in the area, thunder booms, and strong winds roar. Each creature under the cloud (no more than 5,000 feet beneath the cloud) when it appears must make a Constitution saving throw. On a failed save, a creature takes `2d6` thunder damage and becomes [deafened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Deafened) for 5 minutes.
+A churning storm cloud forms, centered on a point you can see and spreading to a radius of 360 feet. Lightning flashes in the area, thunder booms, and strong winds roar. Each creature under the cloud (no more than 5,000 feet beneath the cloud) when it appears must make a Constitution saving throw. On a failed save, a creature takes `2d6` thunder damage and becomes [deafened](conditions.md#Deafened) for 5 minutes.
 
-Each round you maintain [concentration](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Concentration) on this spell, the storm produces different effects on your turn.
+Each round you maintain [concentration](conditions.md#Concentration) on this spell, the storm produces different effects on your turn.
 
 ## Round 2
 
@@ -40,7 +40,7 @@ Hailstones rain down from the cloud. Each creature under the cloud takes `2d6` b
 
 ## Round 5–10
 
-Gusts and freezing rain assail the area under the cloud. The area becomes difficult terrain and is heavily obscured. Each creature there takes `d6` cold damage. Ranged weapon attacks in the area are impossible. The wind and rain count as a severe distraction for the purposes of maintaining [concentration](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Concentration) on spells. Finally, gusts of strong wind (ranging from 20 to 50 miles per hour) automatically disperse fog, mists, and similar phenomena in the area, whether mundane or magical.
+Gusts and freezing rain assail the area under the cloud. The area becomes difficult terrain and is heavily obscured. Each creature there takes `d6` cold damage. Ranged weapon attacks in the area are impossible. The wind and rain count as a severe distraction for the purposes of maintaining [concentration](conditions.md#Concentration) on spells. Finally, gusts of strong wind (ranging from 20 to 50 miles per hour) automatically disperse fog, mists, and similar phenomena in the area, whether mundane or magical.
 
 ## Summary
 

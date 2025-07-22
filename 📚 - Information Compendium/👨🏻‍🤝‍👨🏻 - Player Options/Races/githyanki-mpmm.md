@@ -24,7 +24,7 @@ You can mystically access a reservoir of experiences of entities connected to th
 
 ### Githyanki Psionics
 
-You know the [mage hand](/📚%20-%20Information%20Compendium/spells/mage-hand.md) cantrip, and the hand is [invisible](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Invisible) when you cast the cantrip with this trait.
+You know the [mage hand](/📚%20-%20Information%20Compendium/spells/mage-hand.md) cantrip, and the hand is [invisible](conditions.md#Invisible) when you cast the cantrip with this trait.
 
 Starting at 3rd level, you can cast the [jump](/📚%20-%20Information%20Compendium/spells/jump.md) spell with this trait. Starting at 5th level, you can also cast [misty step](/📚%20-%20Information%20Compendium/spells/misty-step.md) with it. Once you cast [jump](/📚%20-%20Information%20Compendium/spells/jump.md) or [misty step](/📚%20-%20Information%20Compendium/spells/misty-step.md) with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
 

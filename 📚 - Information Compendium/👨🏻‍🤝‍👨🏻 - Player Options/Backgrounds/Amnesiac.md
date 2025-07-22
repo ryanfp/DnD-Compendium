@@ -1,16 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-background
-tags:
-  - background
-  - compendium/src/5e/sgtteh
+tags: [background, compendium/src/5e/sgtteh]
 aliases:
   - Amnesiac
 title: Amnesiac
+permalink: amnesiac
+created: 2025/06/15 at 22:47
+updated: 2025/07/21 at 22:02
 ---
-# Amnesiac
-*Source: Steinhardt's Guide to the Eldritch Hunt p. 174*  
 
+# Amnesiac
+
+*Source: Steinhardt's Guide to the Eldritch Hunt p. 174*  
 
 - **Skill Proficiencies.** Insight, Investigation  
 - **Tool Proficiencies.** One type of artisan's tools  
@@ -41,6 +43,7 @@ Your amnesia makes you a blank slate, and can make you eager to experience the w
 | 6 | I have a wary nature due to the uncertainty of my identity. |
 | 7 | My dreams are full of cryptic symbols and images that I try to decipher. |
 | 8 | I have a heightened empathy for the suffering of others. |
+
 ^personality-traits
 
 **Ideals**
@@ -55,6 +58,7 @@ Your amnesia makes you a blank slate, and can make you eager to experience the w
 | 4 | **Isolation**. The less I involve myself with others, the less harm my past can cause them. (Neutral) |
 | 5 | **Sanity**. I must ensure that no one else loses themselves, be it to amnesia, madness or scourge. (Good) |
 | 6 | **Ruthlessness**. I will ensure that those responsible for my memory loss pay. (Evil) |
+
 ^ideals
 
 **Bonds**
@@ -69,6 +73,7 @@ Your amnesia makes you a blank slate, and can make you eager to experience the w
 | 4 | An unsettling symbol haunts my dreams; I must uncover its meaning. |
 | 5 | I feel a deep bond with a new acquaintance, a connection that transcends both our memories. |
 | 6 | The fear in the eyes of Luyarnha's citizens resonates with me; I must alleviate it. |
+
 ^bonds
 
 **Flaws**
@@ -83,4 +88,5 @@ Your amnesia makes you a blank slate, and can make you eager to experience the w
 | 4 | I avoid forming attachments, afraid they will forget about me too. |
 | 5 | I obsess over small details, convinced they hold the key to my past. |
 | 6 | I am overly defensive, afraid that others will take advantage of my amnesia. |
+
 ^flaws

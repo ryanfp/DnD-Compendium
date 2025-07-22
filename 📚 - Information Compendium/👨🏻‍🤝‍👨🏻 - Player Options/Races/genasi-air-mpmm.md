@@ -32,7 +32,7 @@ You can speak, read, and write Common and one other language that you and your D
 
 ### Unending Breath
 
-You can hold your breath indefinitely while you're not [incapacitated](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated).
+You can hold your breath indefinitely while you're not [incapacitated](conditions.md#Incapacitated).
 
 ### Lightning Resistance
 

@@ -39,7 +39,7 @@ aliases:
 - **Components:** V, S, M (a small, straight piece of iron)
 - **Duration:** Concentration, up to 1 minute
 
-Choose a creature that you can see within range. The target must succeed on a Wisdom saving throw or be [paralyzed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Paralyzed) for the duration. This spell has no effect on undead. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.
+Choose a creature that you can see within range. The target must succeed on a Wisdom saving throw or be [paralyzed](conditions.md#Paralyzed) for the duration. This spell has no effect on undead. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. The creatures must be within 30 feet of each other when you target them.
 

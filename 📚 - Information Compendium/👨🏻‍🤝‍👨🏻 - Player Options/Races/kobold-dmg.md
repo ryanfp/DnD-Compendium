@@ -19,7 +19,7 @@ aliases:
 
 ### Pack Tactics
 
-You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't [incapacitated](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated).
+You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't [incapacitated](conditions.md#Incapacitated).
 
 ### Sunlight Sensitivity
 

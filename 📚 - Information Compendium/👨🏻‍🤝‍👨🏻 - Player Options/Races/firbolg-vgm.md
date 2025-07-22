@@ -32,7 +32,7 @@ You can cast [detect magic](/📚%20-%20Information%20Compendium/spells/detect-m
 
 ### Hidden Step
 
-As a bonus action, you can magically turn [invisible](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Invisible) until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. Once you use this trait, you can't use it again until you finish a short or long rest.
+As a bonus action, you can magically turn [invisible](conditions.md#Invisible) until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. Once you use this trait, you can't use it again until you finish a short or long rest.
 
 ### Powerful Build
 

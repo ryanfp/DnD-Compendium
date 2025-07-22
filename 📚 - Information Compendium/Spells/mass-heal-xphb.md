@@ -24,7 +24,7 @@ aliases:
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-A flood of healing energy flows from you into creatures around you. You restore up to 700 [Hit Points](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/hit-points-xphb.md), divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell also have the [Blinded](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Blinded), [Deafened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Deafened), and [Poisoned](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Poisoned) conditions removed from them.
+A flood of healing energy flows from you into creatures around you. You restore up to 700 [Hit Points](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/hit-points-xphb.md), divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell also have the [Blinded](conditions.md#Blinded), [Deafened](conditions.md#Deafened), and [Poisoned](conditions.md#Poisoned) conditions removed from them.
 
 **Classes**: [Sorcerer (Divine Soul)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Sorcerer (Divine Soul)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Bard](/📚%20-%20Information%20Compendium/lists/list-spells-classes-bard.md); [Cleric](/📚%20-%20Information%20Compendium/lists/list-spells-classes-cleric.md)
 

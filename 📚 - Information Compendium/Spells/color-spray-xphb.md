@@ -36,7 +36,7 @@ aliases:
 - **Components:** V, S, M (a pinch of colorful sand)
 - **Duration:** Instantaneous
 
-You launch a dazzling array of flashing, colorful light. Each creature in a 15-foot Cone originating from you must succeed on a Constitution saving throw or have the [Blinded](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Blinded) condition until the end of your next turn.
+You launch a dazzling array of flashing, colorful light. Each creature in a 15-foot Cone originating from you must succeed on a Constitution saving throw or have the [Blinded](conditions.md#Blinded) condition until the end of your next turn.
 
 **Classes**: [Wizard (Illusionist)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/📚%20-%20Information%20Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](/📚%20-%20Information%20Compendium/lists/list-spells-classes-wizard.md); [Bard](/📚%20-%20Information%20Compendium/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-arcane-trickster.md); [Bard (College of Lore)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-eldritch-knight.md)
 

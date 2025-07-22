@@ -20,7 +20,7 @@ aliases:
 
 ### Githzerai Psionics
 
-You know the [mage hand](/📚%20-%20Information%20Compendium/spells/mage-hand.md) cantrip, and the hand is [invisible](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Invisible) when you cast the cantrip with this trait.
+You know the [mage hand](/📚%20-%20Information%20Compendium/spells/mage-hand.md) cantrip, and the hand is [invisible](conditions.md#Invisible) when you cast the cantrip with this trait.
 
 Starting at 3rd level, you can cast the [shield](/📚%20-%20Information%20Compendium/spells/shield.md) spell with this trait. Starting at 5th level, you can also cast the [detect thoughts](/📚%20-%20Information%20Compendium/spells/detect-thoughts.md) spell with it. Once you cast [shield](/📚%20-%20Information%20Compendium/spells/shield.md) or [detect thoughts](/📚%20-%20Information%20Compendium/spells/detect-thoughts.md) spell with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
 
@@ -28,7 +28,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
 
 ### Mental Discipline
 
-Your innate psychic defenses grant you advantage on saving throws you make to avoid or end the [charmed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Charmed) and [frightened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened) conditions on yourself.
+Your innate psychic defenses grant you advantage on saving throws you make to avoid or end the [charmed](conditions.md#Charmed) and [frightened](conditions.md#Frightened) conditions on yourself.
 
 ### Psychic Resilience
 

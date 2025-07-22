@@ -7,7 +7,7 @@ aliases:
 permalink: acolyte-xphb
 title: Acolyte
 created: 2025/06/15 at 22:47
-updated: 2025/07/21 at 02:03
+updated: 2025/07/21 at 22:02
 ---
 
 # Acolyte

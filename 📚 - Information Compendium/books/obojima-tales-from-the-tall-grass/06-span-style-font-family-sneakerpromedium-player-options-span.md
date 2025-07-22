@@ -355,4 +355,4 @@ Below you'll find two skills which are new to D&D and specifically used on the i
 
 Below you'll find a condition which is new to D&D and used by creatures and in spells found on the island of Obojima.
 
-- <span style="font-family: SneakerProMedium">[Pacify](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Pacified)</span>
+- <span style="font-family: SneakerProMedium">[Pacify](conditions.md#Pacified)</span>

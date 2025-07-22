@@ -37,9 +37,9 @@ Each creature's stat block lists their challenge rating in the top right corner.
 
 Some of the creatures in this book inflict—or are immune to—the following new conditions.
 
-[Dazed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Dazed)
+[Dazed](conditions.md#Dazed)
 
-[Flanked](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Flanked)
+[Flanked](conditions.md#Flanked)
 
 ### Creature Roles
 
@@ -1005,7 +1005,7 @@ If the characters take more than two short rests during an adventuring day, add 
 
 Combat encounters don't typically occur in big empty rooms. Hazards, terrain, traps, and even the shape of an environment can change the difficulty of an encounter. An encounter is easier if there's a choke point where the characters can easily fight a group of dangerous monsters one at a time, while a sphere of annihilation rolling through a hallway can make an easy battle turn deadly.
 
-Similarly, you may need to increase the encounter's difficulty by one step if it includes an environment that deals damage to the characters but not their enemies, or if it inflicts the blinded, charmed, [dazed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Dazed),  frightened, petrified, poisoned, paralyzed, restrained, stunned, or unconscious conditions or similar effects on the characters but not their enemies.
+Similarly, you may need to increase the encounter's difficulty by one step if it includes an environment that deals damage to the characters but not their enemies, or if it inflicts the blinded, charmed, [dazed](conditions.md#Dazed),  frightened, petrified, poisoned, paralyzed, restrained, stunned, or unconscious conditions or similar effects on the characters but not their enemies.
 
 ## Creatures by CR
 

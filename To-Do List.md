@@ -1,13 +1,11 @@
 ---
-permalink: <% tp.user.trim_title( tp.file.title ) %>
-kanban:
+permalink: to-do-list
+kanban: 
 tags: [completed, in-progress, not-started, started]
 aliases:
   - To-Do List
-date created: 2025:06:18, 22:43
-date modified: 2025:07:06, 20:24
 created: 2025/06/18 at 22:43
-updated: 2025/07/13 at 17:11
+updated: 2025/07/21 at 22:22
 title: To-Do List
 ---
 

@@ -24,7 +24,7 @@ You have [Darkvision](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%
 
 ### Dwarven Resilience
 
-You have [Resistance](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/resistance-xphb.md) to Poison damage. You also have [Advantage](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/advantage-xphb.md) on saving throws you make to avoid or end the [Poisoned](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Poisoned) condition.
+You have [Resistance](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/resistance-xphb.md) to Poison damage. You also have [Advantage](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/advantage-xphb.md) on saving throws you make to avoid or end the [Poisoned](conditions.md#Poisoned) condition.
 
 ### Dwarven Toughness
 

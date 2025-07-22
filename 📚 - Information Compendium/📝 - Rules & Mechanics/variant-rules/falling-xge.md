@@ -9,7 +9,7 @@ aliases:
 # Falling
 *Source: Xanathar's Guide to Everything p. 77* 
 
-Falling from a great height is a significant risk for adventurers and their foes. The rule given in the "Player's Handbook" is simple: at the end of a fall, you take `d6` bludgeoning damage for every 10 feet you fell, to a maximum of `20d6`. You also land [prone](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Prone), unless you somehow avoid taking damage from the fall. Here are two optional rules that expand on that simple rule.
+Falling from a great height is a significant risk for adventurers and their foes. The rule given in the "Player's Handbook" is simple: at the end of a fall, you take `d6` bludgeoning damage for every 10 feet you fell, to a maximum of `20d6`. You also land [prone](conditions.md#Prone), unless you somehow avoid taking damage from the fall. Here are two optional rules that expand on that simple rule.
 
 ## Rate of Falling
 
@@ -19,8 +19,8 @@ When you fall from a great height, you instantly descend up to 500 feet. If you'
 
 ## Flying Creatures and Falling
 
-A flying creature in flight falls if it is knocked [prone](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Prone), if its speed is reduced to 0 feet, or if it otherwise loses the ability to move, unless it can hover or it is being held aloft by magic, such as the [fly](/📚%20-%20Information%20Compendium/spells/fly.md) spell.
+A flying creature in flight falls if it is knocked [prone](conditions.md#Prone), if its speed is reduced to 0 feet, or if it otherwise loses the ability to move, unless it can hover or it is being held aloft by magic, such as the [fly](/📚%20-%20Information%20Compendium/spells/fly.md) spell.
 
-If you'd like a flying creature to have a better chance of surviving a fall than a non-flying creature does, use this rule: subtract the creature's current flying speed from the distance it fell before calculating falling damage. This rule is helpful to a flier that is knocked [prone](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Prone) but is still conscious and has a current flying speed that is greater than 0 feet. The rule is designed to simulate the creature flapping its wings furiously or taking similar measures to slow the velocity of its fall.
+If you'd like a flying creature to have a better chance of surviving a fall than a non-flying creature does, use this rule: subtract the creature's current flying speed from the distance it fell before calculating falling damage. This rule is helpful to a flier that is knocked [prone](conditions.md#Prone) but is still conscious and has a current flying speed that is greater than 0 feet. The rule is designed to simulate the creature flapping its wings furiously or taking similar measures to slow the velocity of its fall.
 
-If you use the rule for rate of falling in the previous section, a flying creature descends 500 feet on the turn when it falls, just as other creatures do. But if that creature starts any of its later turns still falling and is [prone](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Prone), it can halt the fall on its turn by spending half its flying speed to counter the [prone](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Prone) condition (as if it were standing up in midair).
+If you use the rule for rate of falling in the previous section, a flying creature descends 500 feet on the turn when it falls, just as other creatures do. But if that creature starts any of its later turns still falling and is [prone](conditions.md#Prone), it can halt the fall on its turn by spending half its flying speed to counter the [prone](conditions.md#Prone) condition (as if it were standing up in midair).

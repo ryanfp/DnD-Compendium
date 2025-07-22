@@ -33,7 +33,7 @@ You endow yourself with endurance and martial prowess fueled by magic. Until the
 - You have proficiency in Strength and Constitution saving throws.  
 - You can attack twice, instead of once, when you take the [Attack](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/actions.md#Attack) action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that gives you extra attacks.  
 
-Immediately after the spell ends, you must succeed on a DC 15 Constitution saving throw or suffer one level of [exhaustion](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Exhaustion).
+Immediately after the spell ends, you must succeed on a DC 15 Constitution saving throw or suffer one level of [exhaustion](conditions.md#Exhaustion).
 
 **Classes**: [Cleric (Arcana Domain)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Wizard](/📚%20-%20Information%20Compendium/lists/list-spells-classes-wizard.md); [Bard](/📚%20-%20Information%20Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG")
 

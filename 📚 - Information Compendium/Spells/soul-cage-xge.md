@@ -42,7 +42,7 @@ You can use a bonus action to bolster yourself with the soul's life experience, 
 
 ## Eyes of the Dead
 
-You can use an action to name a place the humanoid saw in life, which creates an invisible sensor somewhere in that place if it is on the plane of existence you're currently on. The sensor remains for as long as you concentrate, up to 10 minutes (as if you were [concentrating](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Concentration) on a spell). You receive visual and auditory information from the sensor as if you were in its space using your senses.
+You can use an action to name a place the humanoid saw in life, which creates an invisible sensor somewhere in that place if it is on the plane of existence you're currently on. The sensor remains for as long as you concentrate, up to 10 minutes (as if you were [concentrating](conditions.md#Concentration) on a spell). You receive visual and auditory information from the sensor as if you were in its space using your senses.
 
 A creature that can see the sensor (such as one using [see invisibility](/📚%20-%20Information%20Compendium/spells/see-invisibility.md) or [truesight](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/senses.md#Truesight)) sees a translucent image of the tormented humanoid whose soul you caged.
 

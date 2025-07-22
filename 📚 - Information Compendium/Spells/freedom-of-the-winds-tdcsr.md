@@ -28,7 +28,7 @@ aliases:
 - **Components:** V, S, M (a scrap of sailcloth)
 - **Duration:** Concentration, up to 10 minutes
 
-Wind wraps around your body, tugging at your hair and clothing as your feet lift off the ground. You gain a flying speed of 60 feet. Additionally, you have advantage on ability checks to avoid being [grappled](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Grappled), and on saving throws against being [restrained](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Restrained) or [paralyzed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Paralyzed).
+Wind wraps around your body, tugging at your hair and clothing as your feet lift off the ground. You gain a flying speed of 60 feet. Additionally, you have advantage on ability checks to avoid being [grappled](conditions.md#Grappled), and on saving throws against being [restrained](conditions.md#Restrained) or [paralyzed](conditions.md#Paralyzed).
 
 When you are targeted by a spell or attack while this spell is in effect, you can use a reaction to teleport up to 60 feet to an unoccupied space you can see. If this movement takes you out of range of the triggering spell or attack, you are unaffected by it. This spell then ends when you reappear.
 

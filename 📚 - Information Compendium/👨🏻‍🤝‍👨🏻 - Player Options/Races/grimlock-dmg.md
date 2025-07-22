@@ -19,7 +19,7 @@ aliases:
 
 ### Blindsight
 
-You have no eyes, and cannot be [blinded](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Blinded). You can perceive your surroundings within 30 ft., or 10 ft. while [deafened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Deafened). You are considered blind beyond this radius.
+You have no eyes, and cannot be [blinded](conditions.md#Blinded). You can perceive your surroundings within 30 ft., or 10 ft. while [deafened](conditions.md#Deafened). You are considered blind beyond this radius.
 
 ### Keen Hearing and Smell
 

@@ -13,14 +13,14 @@ Some combatants might run away when a fight turns against them. You can use this
 
 A creature might flee under any of the following circumstances:
 
-- The creature is [surprised](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Surprised).  
+- The creature is [surprised](conditions.md#Surprised).  
 - The creature is reduced to half its hit points or fewer for the first time in the battle.  
 - The creature has no way to harm the opposing side on its turn.  
 
 A group of creatures might flee under any of the following circumstances:
 
-- All the creatures in the group are [surprised](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Surprised).  
-- The group's leader is reduced to 0 hit points, [incapacitated](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated), taken prisoner, or removed from battle.  
+- All the creatures in the group are [surprised](conditions.md#Surprised).  
+- The group's leader is reduced to 0 hit points, [incapacitated](conditions.md#Incapacitated), taken prisoner, or removed from battle.  
 - The group is reduced to half its original size with no losses on the opposing side.  
 
 To determine whether a creature or group of creatures flees, make a DC 10 Wisdom saving throw for the creature or the group's leader. If the opposition is overwhelming, the saving throw is made with disadvantage, or you can decide that the save fails automatically. If a group's leader can't make the saving throw for whatever reason, have the creature in the group with the next highest Charisma score make the saving throw instead.

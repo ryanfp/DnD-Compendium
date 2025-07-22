@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses:
-  - json5e-background
-tags:
-  - background
-  - compendium/src/5e/phb
+cssclasses: [json5e-background]
+tags: [background, compendium/src/5e/phb]
 aliases:
   - Entertainer (Gladiator) (Variant)
   - entertainer-gladiator-variant
+  - Gladiator
+permalink: gladiator
+title: Gladiator
+created: 2025/06/15 at 22:47
+updated: 2025/07/21 at 22:16
 ---
-# Gladiator
-*Source: Player's Handbook p. 131*  
 
+# Gladiator
+
+*Source: Player's Handbook p. 131*  
 
 - **Skill Proficiencies.** [[Acrobatics]], [[Performance]]  
 - **Tool Proficiencies.** [[Disguise kit]], one type of musical instrument  
@@ -41,6 +44,7 @@ A good entertainer is versatile, spicing up every performance with a variety of 
 | 8 | Singer |
 | 9 | Storyteller |
 | 10 | Tumbler |
+
 ^routines
 
 ## Suggested Characteristics
@@ -59,6 +63,7 @@ Successful entertainers have to be able to capture and hold an audience's attent
 | 6 | I get bitter if I'm not the center of attention. |
 | 7 | I'll settle for nothing less than perfection. |
 | 8 | I change my mood or my mind as quickly as I change key in a song. |
+
 ^personality-trait
 
 `dice: [](Gladiator.md#^ideal)`
@@ -71,6 +76,7 @@ Successful entertainers have to be able to capture and hold an audience's attent
 | 4 | Greed. I'm only in it for the money and fame. (Evil) |
 | 5 | People. I like seeing the smiles on people's faces when I perform. That's all that matters. (Neutral) |
 | 6 | Honesty. Art should reflect the soul; it should come from within and reveal who we really are. (Any) |
+
 ^ideal
 
 `dice: [](Gladiator.md#^bond)`
@@ -83,6 +89,7 @@ Successful entertainers have to be able to capture and hold an audience's attent
 | 4 | I idolize a hero of the old tales and measure my deeds against that person's. |
 | 5 | I will do anything to prove myself superior to my hated rival. |
 | 6 | I would do anything for the other members of my old troupe. |
+
 ^bond
 
 `dice: [](Gladiator.md#^flaw)`
@@ -95,4 +102,5 @@ Successful entertainers have to be able to capture and hold an audience's attent
 | 4 | I once satirized a noble who still wants my head. It was a mistake that I will likely repeat. |
 | 5 | I have trouble keeping my true feelings hidden. My sharp tongue lands me in trouble. |
 | 6 | Despite my best efforts, I am unreliable to my friends. |
+
 ^flaw

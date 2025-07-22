@@ -30,10 +30,10 @@ At the end of each of its turns, the affected target can repeat the Wisdom savin
 
 | dice: d10 | Effect |
 |-----------|--------|
-| 1-2 | **Vision of the Far Realm.** The target takes `6d12` psychic damage, and it is [stunned](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Stunned) until the end of the turn. |
+| 1-2 | **Vision of the Far Realm.** The target takes `6d12` psychic damage, and it is [stunned](conditions.md#Stunned) until the end of the turn. |
 | 3-5 | **Rending Rift.** The target must make a Dexterity saving throw, taking `8d12` force damage on a failed save, or half as much damage on a successful one. |
-| 6-8 | **Wormhole.** The target is teleported, along with everything it is wearing and carrying, up to 30 feet to an unoccupied space of your choice that you can see. The target also takes `10d12` force damage and is knocked [prone](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Prone). |
-| 9-10 | **Chill of the Dark Void.** The target takes `10d12` cold damage, and it is [blinded](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Blinded) until the end of the turn. |
+| 6-8 | **Wormhole.** The target is teleported, along with everything it is wearing and carrying, up to 30 feet to an unoccupied space of your choice that you can see. The target also takes `10d12` force damage and is knocked [prone](conditions.md#Prone). |
+| 9-10 | **Chill of the Dark Void.** The target takes `10d12` cold damage, and it is [blinded](conditions.md#Blinded) until the end of the turn. |
 ^reality-break-effects
 
 **Classes**: [Bard](/📚%20-%20Information%20Compendium/lists/list-spells-classes-bard.md)

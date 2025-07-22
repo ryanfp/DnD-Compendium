@@ -34,9 +34,9 @@ aliases:
 - **Components:** V, S, M (a piece of sunstone)
 - **Duration:** Instantaneous
 
-Brilliant sunlight flashes in a 60-foot-radius Sphere centered on a point you choose within range. Each creature in the Sphere makes a Constitution saving throw. On a failed save, a creature takes `12d6` Radiant damage and has the [Blinded](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Blinded) condition for 1 minute. On a successful save, it takes half as much damage only.
+Brilliant sunlight flashes in a 60-foot-radius Sphere centered on a point you choose within range. Each creature in the Sphere makes a Constitution saving throw. On a failed save, a creature takes `12d6` Radiant damage and has the [Blinded](conditions.md#Blinded) condition for 1 minute. On a successful save, it takes half as much damage only.
 
-A creature [Blinded](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Blinded) by this spell makes another Constitution saving throw at the end of each of its turns, ending the effect on itself on a success.
+A creature [Blinded](conditions.md#Blinded) by this spell makes another Constitution saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 This spell dispels [Darkness](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/darkness-xphb.md) in its area that was created by any spell.
 

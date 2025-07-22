@@ -221,7 +221,7 @@ If the players stay in the street, seeing the child's maimed corpse falling from
 
 ##### Fear:
 
-Use the lycans' appetite to force Wisdom saving throws. If a character or NPC is devoured alive, you can force a Wisdom saving throw against [fear](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Fear) or madness. Fear could be more fun, as the character would be unable to move, only to watch the lycan move on to their next prey.
+Use the lycans' appetite to force Wisdom saving throws. If a character or NPC is devoured alive, you can force a Wisdom saving throw against [fear](conditions.md#Fear) or madness. Fear could be more fun, as the character would be unable to move, only to watch the lycan move on to their next prey.
 
 ##### Resource Management:
 

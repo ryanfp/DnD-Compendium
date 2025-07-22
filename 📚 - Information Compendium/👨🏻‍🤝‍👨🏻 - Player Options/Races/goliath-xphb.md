@@ -25,7 +25,7 @@ You are descended from Giants. Choose one of the following benefits—a supernat
 - **Cloud's Jaunt (Cloud Giant).** As a [Bonus Action](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/bonus-action-xphb.md), you magically teleport up to 30 feet to an unoccupied space you can see.  
 - **Fire's Burn (Fire Giant).** When you hit a target with an attack roll and deal damage to it, you can also deal `d10` Fire damage to that target.  
 - **Frost's Chill (Frost Giant).** When you hit a target with an attack roll and deal damage to it, you can also deal `d6` Cold damage to that target and reduce its [Speed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/speed-xphb.md) by 10 feet until the start of your next turn.  
-- **Hill's Tumble (Hill Giant).** When you hit a Large or smaller creature with an attack roll and deal damage to it, you can give that target the [Prone](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Prone) condition.  
+- **Hill's Tumble (Hill Giant).** When you hit a Large or smaller creature with an attack roll and deal damage to it, you can give that target the [Prone](conditions.md#Prone) condition.  
 - **Stone's Endurance (Stone Giant).** When you take damage, you can take a [Reaction](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/reaction-xphb.md) to roll `d12`. Add your Constitution modifier to the number rolled and reduce the damage by that total.  
 - **Storm's Thunder (Storm Giant).** When you take damage from a creature within 60 feet of you, you can take a [Reaction](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/reaction-xphb.md) to deal `d8` Thunder damage to that creature.  
 
@@ -35,7 +35,7 @@ Starting at character level 5, you can change your size to Large as a [Bonus Act
 
 ### Powerful Build
 
-You have [Advantage](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/advantage-xphb.md) on any ability check you make to end the [Grappled](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Grappled) condition. You also count as one size larger when determining your carrying capacity.
+You have [Advantage](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/advantage-xphb.md) on any ability check you make to end the [Grappled](conditions.md#Grappled) condition. You also count as one size larger when determining your carrying capacity.
 
 ## Description
 

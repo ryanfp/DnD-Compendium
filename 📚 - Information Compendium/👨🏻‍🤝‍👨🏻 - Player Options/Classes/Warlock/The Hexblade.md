@@ -76,7 +76,7 @@ The Hexblade lets you choose from an expanded list of spells when you learn a wa
 
 ### Hexblade's Curse (Level 1)
 
-Starting at 1st level, you gain the ability to place a baleful curse on someone. As a bonus action, choose one creature you can see within 30 feet of you. The target is cursed for 1 minute. The curse ends early if the target dies, you die, or you are [incapacitated](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated). Until the curse ends, you gain the following benefits:
+Starting at 1st level, you gain the ability to place a baleful curse on someone. As a bonus action, choose one creature you can see within 30 feet of you. The target is cursed for 1 minute. The curse ends early if the target dies, you die, or you are [incapacitated](conditions.md#Incapacitated). Until the curse ends, you gain the following benefits:
 
 - You gain a bonus to damage rolls against the cursed target. The bonus equals your proficiency bonus.  
 - Any attack roll you make against the cursed target is a critical hit on a roll of 19 or 20 on the `d20`.  
@@ -104,4 +104,4 @@ At 10th level, your hex grows more powerful. If the target cursed by your Hexbla
 
 ### Master of Hexes (Level 14)
 
-Starting at 14th level, you can spread your Hexblade's Curse from a slain creature to another creature. When the creature cursed by your Hexblade's Curse dies, you can apply the curse to a different creature you can see within 30 feet of you, provided you aren't [incapacitated](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated). When you apply the curse in this way, you don't regain hit points from the death of the previously cursed creature.
+Starting at 14th level, you can spread your Hexblade's Curse from a slain creature to another creature. When the creature cursed by your Hexblade's Curse dies, you can apply the curse to a different creature you can see within 30 feet of you, provided you aren't [incapacitated](conditions.md#Incapacitated). When you apply the curse in this way, you don't regain hit points from the death of the previously cursed creature.

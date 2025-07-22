@@ -28,7 +28,7 @@ A cool light wreathes your body for the duration, emitting [Bright Light](/📚%
 
 Until the spell ends, you have [Resistance](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/resistance-xphb.md) to Radiant damage, and your melee attacks deal an extra `2d6` Radiant damage on a hit.
 
-In addition, immediately after you take damage from a creature you can see within 60 feet of yourself, you can take a [Reaction](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/reaction-xphb.md) to force the creature to make a Constitution saving throw. On a failed save, the creature has the [Blinded](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Blinded) condition until the end of your next turn.
+In addition, immediately after you take damage from a creature you can see within 60 feet of yourself, you can take a [Reaction](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/reaction-xphb.md) to force the creature to make a Constitution saving throw. On a failed save, the creature has the [Blinded](conditions.md#Blinded) condition until the end of your next turn.
 
 **Classes**: [Druid (Circle of the Moon)](/📚%20-%20Information%20Compendium/lists/list-spells-classes-circle-of-the-moon-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/📚%20-%20Information%20Compendium/lists/list-spells-classes-bard.md); [Druid](/📚%20-%20Information%20Compendium/lists/list-spells-classes-druid.md)
 

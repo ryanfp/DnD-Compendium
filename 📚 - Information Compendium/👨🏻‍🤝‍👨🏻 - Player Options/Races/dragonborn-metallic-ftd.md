@@ -46,8 +46,8 @@ You have resistance to the damage type associated with your Metallic Ancestry.
 
 At 5th level, you gain a second breath weapon. When you take the [Attack](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/actions.md#Attack) action on your turn, you can replace one of your attacks with an exhalation in a 15-foot cone. The save DC for this breath is 8 + your Constitution modifier + your proficiency bonus. Whenever you use this trait, choose one:
 
-- **Enervating Breath.** Each creature in the cone must succeed on a Constitution saving throw or become [incapacitated](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated) until the start of your next turn.  
-- **Repulsion Breath.** Each creature in the cone must succeed on a Strength saving throw or be pushed 20 feet away from you and be knocked [prone](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Prone).  
+- **Enervating Breath.** Each creature in the cone must succeed on a Constitution saving throw or become [incapacitated](conditions.md#Incapacitated) until the start of your next turn.  
+- **Repulsion Breath.** Each creature in the cone must succeed on a Strength saving throw or be pushed 20 feet away from you and be knocked [prone](conditions.md#Prone).  
 
 Once you use your Metallic Breath Weapon, you can't do so again until you finish a long rest.
 

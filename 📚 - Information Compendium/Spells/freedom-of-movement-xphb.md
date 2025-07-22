@@ -40,9 +40,9 @@ aliases:
 - **Components:** V, S, M (a leather strap)
 - **Duration:** 1 hour
 
-You touch a willing creature. For the duration, the target's movement is unaffected by [Difficult Terrain](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/difficult-terrain-xphb.md), and spells and other magical effects can neither reduce the target's [Speed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/speed-xphb.md) nor cause the target to have the [Paralyzed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Paralyzed) or [Restrained](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Restrained) conditions. The target also has a [Swim Speed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/swim-speed-xphb.md) equal to its [Speed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/speed-xphb.md).
+You touch a willing creature. For the duration, the target's movement is unaffected by [Difficult Terrain](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/difficult-terrain-xphb.md), and spells and other magical effects can neither reduce the target's [Speed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/speed-xphb.md) nor cause the target to have the [Paralyzed](conditions.md#Paralyzed) or [Restrained](conditions.md#Restrained) conditions. The target also has a [Swim Speed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/swim-speed-xphb.md) equal to its [Speed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/speed-xphb.md).
 
-In addition, the target can spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature imposing the [Grappled](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Grappled) condition on it.
+In addition, the target can spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature imposing the [Grappled](conditions.md#Grappled) condition on it.
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 4.
 

@@ -1,14 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-background
-tags:
-  - background
-  - compendium/src/5e/mot
+tags: [background, compendium/src/5e/mot]
 aliases:
   - Athlete
 title: Athlete
+permalink: athlete
+created: 2025/06/15 at 22:47
+updated: 2025/07/21 at 22:07
 ---
+
 # Athlete
+
 *Source: Mythic Odysseys of Theros p. 31*  
 ![[athlete.webp#right|600]]
 
@@ -45,6 +48,7 @@ While many athletes practice various games and events, most excel at a single fo
 | 6 | Pankration (mixed unarmed combat) |
 | 7 | Hoplite race (racing in full armor with a unit) |
 | 8 | Pentathlon (running, long jump, discus, javelin, wrestling) |
+
 ^favored-event
 
 ## Suggested Characteristics
@@ -65,6 +69,7 @@ Competition can forge strong bonds between teammates and rivals or ignite bitter
 | 6 | I love to trade banter and gibes. |
 | 7 | Anything worth doing is worth doing best. |
 | 8 | I get irritated if people praise someone else and not me. |
+
 ^athlete-personality-traits
 
 **Athlete Ideals**
@@ -79,6 +84,7 @@ Competition can forge strong bonds between teammates and rivals or ignite bitter
 | 4 | People. I strive to inspire my spectators. (Neutral) |
 | 5 | Tradition. Every game has rules, and the playing field must be level. (Lawful) |
 | 6 | Growth. Lessons hide in victory and defeat. (Any) |
+
 ^athlete-ideals
 
 **Athlete Bonds**
@@ -93,6 +99,7 @@ Competition can forge strong bonds between teammates and rivals or ignite bitter
 | 4 | I will be the best for the honor and glory of my home. |
 | 5 | The person who trained me is the most important person in my world. |
 | 6 | I strive to live up to a specific hero's example. |
+
 ^athlete-bonds
 
 **Athlete Flaws**
@@ -107,4 +114,5 @@ Competition can forge strong bonds between teammates and rivals or ignite bitter
 | 4 | I have lingering pain from old injuries. |
 | 5 | Any defeat or failure on my part is because my opponent cheated. |
 | 6 | I must be the captain of any group I join. |
+
 ^athlete-flaws

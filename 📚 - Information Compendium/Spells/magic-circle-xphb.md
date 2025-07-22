@@ -44,7 +44,7 @@ Choose one or more of the following types of creatures: Celestials, Elementals, 
 
 - The creature can't willingly enter the Cylinder by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma saving throw.  
 - The creature has [Disadvantage](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/disadvantage-xphb.md) on attack rolls against targets within the Cylinder.  
-- Targets within the Cylinder can't be possessed by or gain the [Charmed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Charmed) or [Frightened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened) condition from the creature.  
+- Targets within the Cylinder can't be possessed by or gain the [Charmed](conditions.md#Charmed) or [Frightened](conditions.md#Frightened) condition from the creature.  
 
 Each time you cast this spell, you can cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the Cylinder and protecting targets outside it.
 

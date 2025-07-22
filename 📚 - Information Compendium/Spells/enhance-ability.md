@@ -55,7 +55,7 @@ The target has advantage on Strength checks, and his or her carrying capacity do
 
 ## Cat's Grace
 
-The target has advantage on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't [incapacitated](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated).
+The target has advantage on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't [incapacitated](conditions.md#Incapacitated).
 
 ## Eagle's Splendor
 

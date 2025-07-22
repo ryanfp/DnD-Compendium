@@ -32,7 +32,7 @@ You can end the spell early by using either of the following special functions.
 
 ## Break Enchantment
 
-As your action, you touch a creature you can reach that is [charmed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Charmed), [frightened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened), or possessed by a celestial, an elemental, a fey, a fiend, or an undead. The creature you touch is no longer [charmed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Charmed), [frightened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened), or possessed by such creatures.
+As your action, you touch a creature you can reach that is [charmed](conditions.md#Charmed), [frightened](conditions.md#Frightened), or possessed by a celestial, an elemental, a fey, a fiend, or an undead. The creature you touch is no longer [charmed](conditions.md#Charmed), [frightened](conditions.md#Frightened), or possessed by such creatures.
 
 ## Dismissal
 

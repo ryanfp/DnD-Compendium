@@ -36,7 +36,7 @@ You can speak, read, and write Common and Primordial. Primordial is a guttural l
 
 ### Unending Breath
 
-You can hold your breath indefinitely while you're not [incapacitated](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated).
+You can hold your breath indefinitely while you're not [incapacitated](conditions.md#Incapacitated).
 
 ### Mingle with the Wind
 

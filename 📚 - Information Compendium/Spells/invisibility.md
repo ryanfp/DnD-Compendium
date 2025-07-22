@@ -46,7 +46,7 @@ aliases:
 - **Components:** V, S, M (an eyelash encased in gum arabic)
 - **Duration:** Concentration, up to 1 hour
 
-A creature you touch becomes [invisible](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Invisible) until the spell ends. Anything the target is wearing or carrying is [invisible](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Invisible) as long as it is on the target's person. The spell ends for a target that attacks or casts a spell.
+A creature you touch becomes [invisible](conditions.md#Invisible) until the spell ends. Anything the target is wearing or carrying is [invisible](conditions.md#Invisible) as long as it is on the target's person. The spell ends for a target that attacks or casts a spell.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 

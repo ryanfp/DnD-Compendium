@@ -20,7 +20,7 @@ aliases:
 
 ### Brave
 
-You have [Advantage](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/advantage-xphb.md) on saving throws you make to avoid or end the [Frightened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened) condition.
+You have [Advantage](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/advantage-xphb.md) on saving throws you make to avoid or end the [Frightened](conditions.md#Frightened) condition.
 
 ### Halfling Nimbleness
 

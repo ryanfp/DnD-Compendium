@@ -32,7 +32,7 @@ aliases:
 - **Components:** S, M (a pinch of sand)
 - **Duration:** 10 minutes
 
-You make a calming gesture, and up to three willing creatures of your choice that you can see within range fall [unconscious](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Unconscious) for the spell's duration. The spell ends on a target early if it takes damage or someone uses an action to shake or slap it awake. If a target remains [unconscious](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Unconscious) for the full duration, that target gains the benefit of a short rest, and it can't be affected by this spell again until it finishes a long rest.
+You make a calming gesture, and up to three willing creatures of your choice that you can see within range fall [unconscious](conditions.md#Unconscious) for the spell's duration. The spell ends on a target early if it takes damage or someone uses an action to shake or slap it awake. If a target remains [unconscious](conditions.md#Unconscious) for the full duration, that target gains the benefit of a short rest, and it can't be affected by this spell again until it finishes a long rest.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, you can target one additional willing creature for each slot level above 3rd.
 

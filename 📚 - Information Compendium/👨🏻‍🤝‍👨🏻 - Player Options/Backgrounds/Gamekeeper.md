@@ -1,16 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-background
-tags:
-  - background
-  - compendium/src/5e/toh
+tags: [background, compendium/src/5e/toh]
 aliases:
   - Gamekeeper
 title: Gamekeeper
+permalink: gamekeeper
+created: 2025/06/15 at 22:47
+updated: 2025/07/21 at 22:16
 ---
-# Gamekeeper
-*Source: Tome of Heroes p. 166*  
 
+# Gamekeeper
+
+*Source: Tome of Heroes p. 166*  
 
 - **Skill Proficiencies.** Animal Handling, Survival  
 - **Tools Proficiencies.** Leatherworker's tools  
@@ -43,6 +45,7 @@ You are one of the capable people who maintains hunting preserves, trains coursi
 | 6 | I feel like my animals are the only ones who really understand me. |
 | 7 | You can train yourself to accomplish anything you put your mind to accomplishing. |
 | 8 | The world shows you everything you need to know to understand a situation. You just have to be paying attention to the details. |
+
 ^personality-trait
 
 `dice: [](gamekeeper-toh.md#^ideal)`
@@ -55,6 +58,7 @@ You are one of the capable people who maintains hunting preserves, trains coursi
 | 4 | **Diligent.** Hard work and attention to detail bring success more often than failure. (Good) |
 | 5 | **Nature.** The glory and majesty of the wild world outshine anything mortals create. (Chaotic) |
 | 6 | **Responsibility.** When you take an oath to protect and shepherd something, that oath is for life. (Lawful) |
+
 ^ideal
 
 `dice: [](gamekeeper-toh.md#^bond)`
@@ -67,6 +71,7 @@ You are one of the capable people who maintains hunting preserves, trains coursi
 | 4 | I need to ensure people know how to manage nature rather than live in ignorance. |
 | 5 | Laws are important to prevent nature's overexploitation. |
 | 6 | I can be alone in the wilderness and not feel lonely. |
+
 ^bond
 
 `dice: [](gamekeeper-toh.md#^flaw)`
@@ -79,4 +84,5 @@ You are one of the capable people who maintains hunting preserves, trains coursi
 | 4 | Everything can be managed if you want it badly enough. |
 | 5 | When you make exceptions, you allow unworthy or wasteful things to survive. |
 | 6 | If you don't work hard for something, is it worth anything? |
+
 ^flaw

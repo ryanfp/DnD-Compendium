@@ -35,11 +35,11 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
 
 ### Dwarven Resilience
 
-You have advantage on saving throws you make to avoid or end the [poisoned](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Poisoned) condition on yourself. You also have resistance to poison damage.
+You have advantage on saving throws you make to avoid or end the [poisoned](conditions.md#Poisoned) condition on yourself. You also have resistance to poison damage.
 
 ### Psionic Fortitude
 
-You have advantage on saving throws you make to avoid or end the [charmed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Charmed) or [stunned](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Stunned) condition on yourself.
+You have advantage on saving throws you make to avoid or end the [charmed](conditions.md#Charmed) or [stunned](conditions.md#Stunned) condition on yourself.
 
 ## Description
 

@@ -36,7 +36,7 @@ aliases:
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You shoot a greenish ray at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes `2d8` Poison damage and has the [Poisoned](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Poisoned) condition until the end of your next turn.
+You shoot a greenish ray at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes `2d8` Poison damage and has the [Poisoned](conditions.md#Poisoned) condition until the end of your next turn.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d8` for each spell slot level above 1.
 

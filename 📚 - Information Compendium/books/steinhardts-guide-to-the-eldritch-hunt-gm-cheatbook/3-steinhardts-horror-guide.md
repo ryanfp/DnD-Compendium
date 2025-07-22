@@ -382,7 +382,7 @@ Creating memorable gothic horror antagonists and monsters is about blending the 
 #### Fear
 
 > [!embed-condition]- Fear
-> ![Fear](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Fear)
+> ![Fear](conditions.md#Fear)
 
 #### Gothic Traps and Puzzles
 

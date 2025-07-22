@@ -4,9 +4,10 @@ cssclasses: json5e-background
 tags: [background, compendium/src/5e/tdcsr]
 aliases:
   - Clasp Member (Myriad Operative) (Variant)
-title: clasp-member-myriad-operative-variant-tdcsr
-date created: 2025:06:15, 22:47
-date modified: 2025:06:28, 20:09
+title: Clasp Member (Myriad Operative) (Variant)
+permalink: clasp-member-myriad-operative-variant
+created: 2025/06/15 at 22:47
+updated: 2025/07/21 at 22:10
 ---
 
 # Clasp Member (Myriad Operative) (Variant)

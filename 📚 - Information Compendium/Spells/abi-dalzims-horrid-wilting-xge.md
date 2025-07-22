@@ -1,25 +1,14 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-spell
-tags:
-  - compendium/src/5e/xge
-  - spell/class/bard
-  - spell/class/sorcerer
-  - spell/class/wizard
-  - spell/level/8th-level
-  - spell/school/necromancy
-  - spell/subclass/arcana-domain
-classes:
-  - Bard
-  - Cleric (Arcana Domain)
-  - Sorcerer
-  - Wizard
+tags: [compendium/src/5e/xge, spell/class/bard, spell/class/sorcerer, spell/class/wizard, spell/level/8th-level, spell/school/necromancy, spell/subclass/arcana-domain]
+classes: [Bard, Cleric (Arcana Domain), Sorcerer, Wizard]
 aliases:
-  - Abi-Dalzim's Horrid Wilting
+  - "Abi-Dalzim's Horrid Wilting"
 created: 2025/06/15 at 22:44
-updated: 2025/07/21 at 02:07
+updated: 2025/07/21 at 21:57
 permalink: abi-dalzims-horrid-wilting-xge
-title: Abi-Dalzim's Horrid Wilting
+title: "Abi-Dalzim's Horrid Wilting"
 ---
 
 # Abi-Dalzim's Horrid Wilting

@@ -22,7 +22,7 @@ aliases:
 - **Components:** V
 - **Duration:** 1 minute
 
-The target hit by the strike takes an extra `3d8` Radiant damage from the attack, and the target has the [Blinded](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Blinded) condition until the spell ends. At the end of each of its turns, the [Blinded](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Blinded) target makes a Constitution saving throw, ending the spell on itself on a success.
+The target hit by the strike takes an extra `3d8` Radiant damage from the attack, and the target has the [Blinded](conditions.md#Blinded) condition until the spell ends. At the end of each of its turns, the [Blinded](conditions.md#Blinded) target makes a Constitution saving throw, ending the spell on itself on a success.
 
 **Using a Higher-Level Spell Slot.** The extra damage increases by `d8` for each spell slot level above 3.
 

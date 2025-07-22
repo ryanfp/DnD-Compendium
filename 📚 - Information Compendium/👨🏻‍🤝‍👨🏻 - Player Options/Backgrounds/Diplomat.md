@@ -1,16 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-background
-tags:
-  - background
-  - compendium/src/5e/toh
+tags: [background, compendium/src/5e/toh]
 aliases:
   - Diplomat
 title: Diplomat
+permalink: diplomat
+created: 2025/06/15 at 22:47
+updated: 2025/07/21 at 22:14
 ---
-# Diplomat
-*Source: Tome of Heroes p. 158*  
 
+# Diplomat
+
+*Source: Tome of Heroes p. 158*  
 
 - **Skill Proficiencies.** Insight, Persuasion  
 - **Languages.** Two of your choice  
@@ -38,6 +40,7 @@ Diplomats always have kind words and encourage their companions to think positiv
 | 6 | I am not opposed to throwing a bit of coin around to ensure a good first impression. |
 | 7 | Even when words fail at the outset, I still try to calm tempers. |
 | 8 | I treat everyone as an equal, and I encourage others to do likewise. |
+
 ^personality-trait
 
 `dice: [](diplomat-toh.md#^ideal)`
@@ -50,6 +53,7 @@ Diplomats always have kind words and encourage their companions to think positiv
 | 4 | **Freedom.** Tyranny is a roadblock to compromise. (Chaotic) |
 | 5 | **Avoidance.** A kind word is preferable to the drawing of a sword. (Any) |
 | 6 | **Unity.** It is possible to achieve a world without borders and without conflict. (Any) |
+
 ^ideal
 
 `dice: [](diplomat-toh.md#^bond)`
@@ -62,6 +66,7 @@ Diplomats always have kind words and encourage their companions to think positiv
 | 4 | My nation treats everyone equitably, and I'd like to bring that enlightenment to other nations. |
 | 5 | A traveling orator taught me the power of words, and I want to emulate that person. |
 | 6 | I fear a worldwide conflict is imminent, and I want to do all I can to stop it. |
+
 ^bond
 
 `dice: [](diplomat-toh.md#^flaw)`
@@ -74,4 +79,5 @@ Diplomats always have kind words and encourage their companions to think positiv
 | 4 | I believe I can always talk my way out of a problem. |
 | 5 | I chastise those who are rude or use vulgar language. |
 | 6 | When I feel I am on the verge of a successful negotiation, I often push my luck to obtain further concessions. |
+
 ^flaw

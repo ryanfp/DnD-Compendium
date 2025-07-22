@@ -122,7 +122,7 @@ Force damage brings the ultimate in consistency, with most spells offering no sa
 
 ## Lightning
 
-Highly volatile damage spells, these often feature `d12`s with high variance, and sometimes come with powerful status effects, [shocking](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Shocked) targets or even stunning them, they come in a mix of Constitution and Dexterity saving throws.
+Highly volatile damage spells, these often feature `d12`s with high variance, and sometimes come with powerful status effects, [shocking](conditions.md#Shocked) targets or even stunning them, they come in a mix of Constitution and Dexterity saving throws.
 
 | Level | Spells |
 |-------|--------|

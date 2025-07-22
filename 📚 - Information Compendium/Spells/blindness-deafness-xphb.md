@@ -34,7 +34,7 @@ aliases:
 - **Components:** V
 - **Duration:** 1 minute
 
-One creature that you can see within range must succeed on a Constitution saving throw, or it has the [Blinded](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Blinded) or [Deafened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Deafened) condition (your choice) for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
+One creature that you can see within range must succeed on a Constitution saving throw, or it has the [Blinded](conditions.md#Blinded) or [Deafened](conditions.md#Deafened) condition (your choice) for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 2.
 

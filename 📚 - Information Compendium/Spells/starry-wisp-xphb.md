@@ -35,7 +35,7 @@ aliases:
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You launch a mote of light at one creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes `d8` Radiant damage, and until the end of your next turn, it emits [Dim Light](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/dim-light-xphb.md) in a 10-foot radius and can't benefit from the [Invisible](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Invisible) condition.
+You launch a mote of light at one creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes `d8` Radiant damage, and until the end of your next turn, it emits [Dim Light](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/dim-light-xphb.md) in a 10-foot radius and can't benefit from the [Invisible](conditions.md#Invisible) condition.
 
 **Cantrip Upgrade.** The damage increases by `d8` when you reach levels 5 (`2d8`), 11 (`3d8`), and 17 (`4d8`).
 

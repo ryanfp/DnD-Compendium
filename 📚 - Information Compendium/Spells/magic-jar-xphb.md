@@ -30,7 +30,7 @@ You can attempt to possess any Humanoid within 100 feet of you that you can see 
 
 Once you possess a creature's body, you control it. Your [Hit Points](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/hit-points-xphb.md), [Hit Point Dice](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/hit-point-dice-xphb.md), Strength, Dexterity, Constitution, [Speed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/speed-xphb.md), and senses are replaced by the creature's. You otherwise keep your game statistics.
 
-Meanwhile, the possessed creature's soul can perceive from the container using its own senses, but it can't move and it is [Incapacitated](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated).
+Meanwhile, the possessed creature's soul can perceive from the container using its own senses, but it can't move and it is [Incapacitated](conditions.md#Incapacitated).
 
 While possessing a body, you can take a [Magic](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/actions.md#Magic) action to return from the host body to the container if it is within 100 feet of you, returning the host creature's soul to its body. If the host body dies while you're in it, the creature dies, and you make a Charisma saving throw against your own spellcasting DC. On a success, you return to the container if it is within 100 feet of you. Otherwise, you die.
 

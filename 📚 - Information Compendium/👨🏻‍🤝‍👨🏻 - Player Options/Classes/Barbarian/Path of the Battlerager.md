@@ -74,4 +74,4 @@ Beginning at 10th level, you can take the [Dash](/📚%20-%20Information%20Compe
 
 ### Spiked Retribution (Level 14)
 
-Starting at 14th level, when a creature within 5 feet of you hits you with a melee attack, the attacker takes 3 piercing damage if you are raging, aren't [incapacitated](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated), and are wearing [spiked armor](/📚%20-%20Information%20Compendium/items/spiked-armor-scag.md).
+Starting at 14th level, when a creature within 5 feet of you hits you with a melee attack, the attacker takes 3 piercing damage if you are raging, aren't [incapacitated](conditions.md#Incapacitated), and are wearing [spiked armor](/📚%20-%20Information%20Compendium/items/spiked-armor-scag.md).

@@ -36,7 +36,7 @@ Accustomed to life underground, you have superior vision in dark and dim conditi
 
 ### Duergar Resilience
 
-You have advantage on saving throws against poison, and you have resistance against poison damage. You also have advantage on saving throws against illusions and against being [charmed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Charmed) or [paralyzed](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Paralyzed).
+You have advantage on saving throws against poison, and you have resistance against poison damage. You also have advantage on saving throws against illusions and against being [charmed](conditions.md#Charmed) or [paralyzed](conditions.md#Paralyzed).
 
 ### Dwarven Combat Training
 

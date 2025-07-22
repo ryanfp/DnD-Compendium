@@ -35,7 +35,7 @@ aliases:
 - **Components:** V, S, M (a bit of bat fur)
 - **Duration:** Concentration, up to 1 hour
 
-You create an [Invisible](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Invisible), invulnerable eye within range that hovers for the duration. You mentally receive visual information from the eye, which can see in every direction. It also has [Darkvision](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/senses.md#Darkvision) with a range of 30 feet.
+You create an [Invisible](conditions.md#Invisible), invulnerable eye within range that hovers for the duration. You mentally receive visual information from the eye, which can see in every direction. It also has [Darkvision](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/senses.md#Darkvision) with a range of 30 feet.
 
 As a [Bonus Action](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/bonus-action-xphb.md), you can move the eye up to 30 feet in any direction. A solid barrier blocks the eye's movement, but the eye can pass through an opening as small as 1 inch in diameter.
 

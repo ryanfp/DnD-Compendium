@@ -29,7 +29,7 @@ The attacker has disadvantage on its attack roll if the target is holding the it
 
 This option makes it easier for melee combatants to harry each other with opportunity attacks.
 
-When a creature makes a melee attack, it can also mark its target. Until the end of the attacker's next turn, any opportunity attack it makes against the marked target has advantage. The opportunity attack doesn't expend the attacker's reaction, but the attacker can't make the attack if anything, such as the [incapacitated](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated) condition or the [shocking grasp](/📚%20-%20Information%20Compendium/spells/shocking-grasp.md) spell, is preventing it from taking reactions. The attacker is limited to one opportunity attack per turn.
+When a creature makes a melee attack, it can also mark its target. Until the end of the attacker's next turn, any opportunity attack it makes against the marked target has advantage. The opportunity attack doesn't expend the attacker's reaction, but the attacker can't make the attack if anything, such as the [incapacitated](conditions.md#Incapacitated) condition or the [shocking grasp](/📚%20-%20Information%20Compendium/spells/shocking-grasp.md) spell, is preventing it from taking reactions. The attacker is limited to one opportunity attack per turn.
 
 ## Overrun
 

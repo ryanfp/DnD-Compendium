@@ -56,19 +56,19 @@ Each target makes a Wisdom saving throw. On a failed save, a target argues with 
 
 ## Fear
 
-Each target must succeed on a Wisdom saving throw or have the [Frightened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened) condition for 1 minute. While [Frightened](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened), the target must move at least 30 feet away from the glyph on each of its turns, if able.
+Each target must succeed on a Wisdom saving throw or have the [Frightened](conditions.md#Frightened) condition for 1 minute. While [Frightened](conditions.md#Frightened), the target must move at least 30 feet away from the glyph on each of its turns, if able.
 
 ## Pain
 
-Each target must succeed on a Constitution saving throw or have the [Incapacitated](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated) condition for 1 minute.
+Each target must succeed on a Constitution saving throw or have the [Incapacitated](conditions.md#Incapacitated) condition for 1 minute.
 
 ## Sleep
 
-Each target must succeed on a Wisdom saving throw or have the [Unconscious](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Unconscious) condition for 10 minutes. A creature awakens if it takes damage or if someone takes an action to shake it awake.
+Each target must succeed on a Wisdom saving throw or have the [Unconscious](conditions.md#Unconscious) condition for 10 minutes. A creature awakens if it takes damage or if someone takes an action to shake it awake.
 
 ## Stunning
 
-Each target must succeed on a Wisdom saving throw or have the [Stunned](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Stunned) condition for 1 minute.
+Each target must succeed on a Wisdom saving throw or have the [Stunned](conditions.md#Stunned) condition for 1 minute.
 
 ## Summary
 
