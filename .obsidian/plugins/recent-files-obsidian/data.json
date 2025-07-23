@@ -1,6 +1,154 @@
 {
   "recentFiles": [
     {
+      "basename": "path-of-the-berserker-phb",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-berserker-phb.md"
+    },
+    {
+      "basename": "path-of-the-berserker",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-berserker.md"
+    },
+    {
+      "basename": "path-of-the-beast",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-beast.md"
+    },
+    {
+      "basename": "path-of-the-battlerager",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-battlerager.md"
+    },
+    {
+      "basename": "path-of-the-ancestral-guardian",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-ancestral-guardian.md"
+    },
+    {
+      "basename": "barbarian-xphb",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/barbarian-xphb.md"
+    },
+    {
+      "basename": "battle-smith",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/battle-smith.md"
+    },
+    {
+      "basename": "artillerist",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/artillerist.md"
+    },
+    {
+      "basename": "armorer",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/armorer.md"
+    },
+    {
+      "basename": "alchemist",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/alchemist.md"
+    },
+    {
+      "basename": "college-of-whispers",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/college-of-whispers.md"
+    },
+    {
+      "basename": "college-of-valor",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/college-of-valor.md"
+    },
+    {
+      "basename": "college-of-tragedy",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/college-of-tragedy.md"
+    },
+    {
+      "basename": "college-of-swords",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/college-of-swords.md"
+    },
+    {
+      "basename": "college-of-spirits",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/college-of-spirits.md"
+    },
+    {
+      "basename": "college-of-requiems",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/college-of-requiems.md"
+    },
+    {
+      "basename": "college-of-lore",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/college-of-lore.md"
+    },
+    {
+      "basename": "college-of-eloquence",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/college-of-eloquence.md"
+    },
+    {
+      "basename": "college-of-glamour",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/college-of-glamour.md"
+    },
+    {
+      "basename": "college-of-creation",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/college-of-creation.md"
+    },
+    {
+      "basename": "college-of-dance",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/college-of-dance.md"
+    },
+    {
+      "basename": "college-of-adventurers",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/college-of-adventurers.md"
+    },
+    {
+      "basename": "bard-xphb-college-of-lore",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/bard-xphb-college-of-lore.md"
+    },
+    {
+      "basename": "bard-xphb-college-of-glamour",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/bard-xphb-college-of-glamour.md"
+    },
+    {
+      "basename": "bard-xphb",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/bard-xphb.md"
+    },
+    {
+      "basename": "xenoalchemist-field",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/xenoalchemist-field.md"
+    },
+    {
+      "basename": "venomsmith-field",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/venomsmith-field.md"
+    },
+    {
+      "basename": "mutagenist-field",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/mutagenist-field.md"
+    },
+    {
+      "basename": "Beastheart",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Beastheart/Beastheart.md"
+    },
+    {
+      "basename": "Fighter",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Fighter/Fighter.md"
+    },
+    {
+      "basename": "Illrigger",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Illrigger/Illrigger.md"
+    },
+    {
+      "basename": "Paladin",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Paladin/Paladin.md"
+    },
+    {
+      "basename": "mad-bomber-field",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/mad-bomber-field.md"
+    },
+    {
+      "basename": "dynamo-engineer-field",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/dynamo-engineer-field.md"
+    },
+    {
+      "basename": "apothecary-field",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/apothecary-field.md"
+    },
+    {
+      "basename": "amorist-field",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/amorist-field.md"
+    },
+    {
+      "basename": "Psion",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Psion/Psion.md"
+    },
+    {
       "basename": "curse-of-somnolence",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-somnolence.md"
     },
@@ -51,154 +199,6 @@
     {
       "basename": "Organization Hierarchy",
       "path": "Organization Hierarchy.md"
-    },
-    {
-      "basename": "Ideas",
-      "path": "Ideas.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
-      "basename": "Smart Rename from Permalink",
-      "path": "z_Templates/Smart Rename from Permalink.md"
-    },
-    {
-      "basename": "Class  Template",
-      "path": "z_Templates/Class  Template.md"
-    },
-    {
-      "basename": "18 - Insert Vertical Timeline",
-      "path": "z_Templates/18 - Insert Vertical Timeline.md"
-    },
-    {
-      "basename": "01 - Basic Callout Selecter",
-      "path": "z_Templates/01 - Basic Callout Selecter.md"
-    },
-    {
-      "basename": "02 - Insert Table of Contents",
-      "path": "z_Templates/02 - Insert Table of Contents.md"
-    },
-    {
-      "basename": "3 - Session Notes Template",
-      "path": "z_Templates/3 - Session Notes Template.md"
-    },
-    {
-      "basename": "04 - Insert Wiki Sidebar",
-      "path": "z_Templates/04 - Insert Wiki Sidebar.md"
-    },
-    {
-      "basename": "05 - Insert Infobox - Left",
-      "path": "z_Templates/05 - Insert Infobox - Left.md"
-    },
-    {
-      "basename": "06 - Insert Infobox - Right",
-      "path": "z_Templates/06 - Insert Infobox - Right.md"
-    },
-    {
-      "basename": "07 - Edit Metadata",
-      "path": "z_Templates/07 - Edit Metadata.md"
-    },
-    {
-      "basename": "08 - Convert Image to Wiki",
-      "path": "z_Templates/08 - Convert Image to Wiki.md"
-    },
-    {
-      "basename": "09 - Format YouTube Link",
-      "path": "z_Templates/09 - Format YouTube Link.md"
-    },
-    {
-      "basename": "10 - Insert Captions",
-      "path": "z_Templates/10 - Insert Captions.md"
-    },
-    {
-      "basename": "11 - Insert Quotes",
-      "path": "z_Templates/11 - Insert Quotes.md"
-    },
-    {
-      "basename": "12 - Insert File Title",
-      "path": "z_Templates/12 - Insert File Title.md"
-    },
-    {
-      "basename": "13 - Martial Class Feature Table",
-      "path": "z_Templates/13 - Martial Class Feature Table.md"
-    },
-    {
-      "basename": "14 - Arcane Class Feature Table",
-      "path": "z_Templates/14 - Arcane Class Feature Table.md"
-    },
-    {
-      "basename": "15 - Subclass Feature Table",
-      "path": "z_Templates/15 - Subclass Feature Table.md"
-    },
-    {
-      "basename": "16 - New Task",
-      "path": "z_Templates/16 - New Task.md"
-    },
-    {
-      "basename": "17 - Insert Kanban Board",
-      "path": "z_Templates/17 - Insert Kanban Board.md"
-    },
-    {
-      "basename": "Classes",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
-    },
-    {
-      "basename": "To-Do List",
-      "path": "To-Do List.md"
-    },
-    {
-      "basename": "haunted-one-vrgr",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/haunted-one-vrgr.md"
-    },
-    {
-      "basename": "guild-artisan-guild-merchant-variant",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/guild-artisan-guild-merchant-variant.md"
-    },
-    {
-      "basename": "gruul-anarch",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/gruul-anarch.md"
-    },
-    {
-      "basename": "grinner",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/grinner.md"
-    },
-    {
-      "basename": "golgari-agent",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/golgari-agent.md"
-    },
-    {
-      "basename": "gladiator",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/gladiator.md"
-    },
-    {
-      "basename": "gamekeeper",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/gamekeeper.md"
-    },
-    {
-      "basename": "former-adventurer",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/former-adventurer.md"
-    },
-    {
-      "basename": "forest-dweller",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/forest-dweller.md"
-    },
-    {
-      "basename": "folk-hero",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/folk-hero.md"
-    },
-    {
-      "basename": "farmer",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/farmer.md"
-    },
-    {
-      "basename": "far-traveler",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/far-traveler.md"
-    },
-    {
-      "basename": "faction-agent",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/faction-agent.md"
     }
   ],
   "omittedPaths": [],

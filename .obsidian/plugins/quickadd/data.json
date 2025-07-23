@@ -8,19 +8,11 @@
       "macroId": "0923c37d-8cc5-47af-950e-d1e3ac11608c"
     },
     {
-      "id": "d931911b-f581-4f0a-abec-379618dee331",
-      "name": "test",
-      "type": "Multi",
-      "command": false,
-      "choices": [],
-      "collapsed": true
-    },
-    {
-      "id": "a4182113-e36d-4916-81a5-38f09e63b618",
-      "name": "t2",
+      "id": "30281b92-2770-4427-a638-a01c57c3d6d8",
+      "name": "Rename File on Lint",
       "type": "Macro",
       "command": true,
-      "macroId": "996d7850-ba73-474e-8a2b-f1fedb7d27ad"
+      "macroId": "e5534606-cbf2-4b1f-9715-8d1df614940a"
     }
   ],
   "macros": [
@@ -41,83 +33,10 @@
           "time": 100
         },
         {
-          "name": "Wait",
-          "type": "Wait",
-          "id": "d91e5c69-f2b8-4f44-9542-aece50b6aa3f",
-          "time": 100
-        },
-        {
           "name": "Templater: Insert z_Templates/20 - Add Permalink.md",
           "type": "Obsidian",
           "id": "9468198d-6699-43af-b2cf-4e257561df28",
           "commandId": "templater-obsidian:z_Templates/20 - Add Permalink.md"
-        }
-      ],
-      "runOnStartup": false
-    },
-    {
-      "name": "test2",
-      "id": "996d7850-ba73-474e-8a2b-f1fedb7d27ad",
-      "commands": [
-        {
-          "name": "Copy",
-          "type": "EditorCommand",
-          "id": "3e039c3f-7f97-4401-9bc2-0670a5285471",
-          "editorCommandType": "Copy"
-        },
-        {
-          "name": "Wait",
-          "type": "Wait",
-          "id": "7ca8b1f4-fd51-412a-976f-79d37a49e480",
-          "time": 100
-        },
-        {
-          "name": "Smart Rename: Smart Rename",
-          "type": "Obsidian",
-          "id": "59c8034f-13cf-435e-bdc0-ec6ec4825f28",
-          "commandId": "smart-rename:smart-rename"
-        },
-        {
-          "name": "Wait",
-          "type": "Wait",
-          "id": "475c788f-dcc3-4c55-be6c-6d8207036ed4",
-          "time": 100
-        },
-        {
-          "name": "Wait",
-          "type": "Wait",
-          "id": "8eafb986-426c-4e31-a589-9217002daad1",
-          "time": 100
-        },
-        {
-          "name": "Wait",
-          "type": "Wait",
-          "id": "813f7937-1cea-4729-844e-04e69dbab023",
-          "time": 100
-        },
-        {
-          "name": "Select active line",
-          "type": "EditorCommand",
-          "id": "db67a17c-4f77-48b4-bed7-e73509e90a97",
-          "editorCommandType": "Select active line"
-        },
-        {
-          "name": "Wait",
-          "type": "Wait",
-          "id": "dadc808a-7fa6-4f62-a198-f4279d2c334d",
-          "time": 100
-        },
-        {
-          "name": "Wait",
-          "type": "Wait",
-          "id": "6f7f30cb-bd90-49dd-acb5-75dac09070b3",
-          "time": 100
-        },
-        {
-          "name": "Paste",
-          "type": "EditorCommand",
-          "id": "80894369-ff45-47aa-bfaa-8771cae5d060",
-          "editorCommandType": "Paste"
         }
       ],
       "runOnStartup": false
@@ -174,13 +93,50 @@
         }
       ],
       "runOnStartup": false
+    },
+    {
+      "name": "Rename File on Lint",
+      "id": "e5534606-cbf2-4b1f-9715-8d1df614940a",
+      "commands": [
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "3832f2bf-90cb-46f2-ba82-5bf87f279ec2",
+          "time": 100
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "ec904c95-0bcc-42ab-b4c8-c50c84cb7b89",
+          "time": 100
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "7648df7b-68ff-4a3b-89eb-12fe4f47c68b",
+          "time": 100
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "5e209786-e134-46ce-b1c3-ad209ad3cae0",
+          "time": 100
+        },
+        {
+          "name": "Templater: Insert Smart Rename from Permalink",
+          "type": "Obsidian",
+          "id": "a3c446d3-c7a9-4e3f-ba8a-d5a9abaf3511",
+          "commandId": "templater-obsidian:z_Templates/Smart Rename from Permalink.md"
+        }
+      ],
+      "runOnStartup": false
     }
   ],
   "inputPrompt": "single-line",
   "devMode": false,
   "templateFolderPath": "z_Templates",
   "announceUpdates": true,
-  "version": "1.13.2",
+  "version": "1.18.1",
   "disableOnlineFeatures": true,
   "enableRibbonIcon": false,
   "ai": {

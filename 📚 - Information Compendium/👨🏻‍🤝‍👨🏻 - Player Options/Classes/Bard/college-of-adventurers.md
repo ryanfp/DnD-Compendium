@@ -5,7 +5,9 @@ tags: [ttrpg-cli/compendium/src/5e/ghpg, ttrpg-cli/subclass/bard/adventurers]
 aliases:
   - College of Adventurers
 created: 2025/06/15 at 15:34
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 21:12
+permalink: college-of-adventurers
+title: College of Adventurers
 ---
 
 # College of Adventurers

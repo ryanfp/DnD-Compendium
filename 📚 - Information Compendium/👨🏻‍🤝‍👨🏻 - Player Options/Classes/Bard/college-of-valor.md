@@ -5,7 +5,9 @@ tags: [compendium/src/5e/phb, subclass/bard/valor]
 aliases:
   - College of Valor
 created: 2025/06/15 at 22:22
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 21:16
+permalink: college-of-valor
+title: College of Valor
 ---
 
 # College of Valor

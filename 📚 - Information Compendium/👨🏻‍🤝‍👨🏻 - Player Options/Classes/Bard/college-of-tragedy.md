@@ -5,7 +5,9 @@ tags: [compendium/src/5e/tdcsr, subclass/bard/tragedy]
 aliases:
   - College of Tragedy
 created: 2025/06/15 at 22:22
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 21:16
+permalink: college-of-tragedy
+title: College of Tragedy
 ---
 
 # College of Tragedy

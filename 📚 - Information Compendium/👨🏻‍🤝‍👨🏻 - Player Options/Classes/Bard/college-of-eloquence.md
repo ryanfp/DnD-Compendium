@@ -5,7 +5,9 @@ tags: [compendium/src/5e/tce, subclass/bard/eloquence]
 aliases:
   - College of Eloquence
 created: 2025/06/15 at 22:22
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 21:15
+permalink: college-of-eloquence
+title: College of Eloquence
 ---
 
 # College of Eloquence

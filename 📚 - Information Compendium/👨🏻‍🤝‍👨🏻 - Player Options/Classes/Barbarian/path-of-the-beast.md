@@ -5,7 +5,9 @@ tags: [compendium/src/5e/tce, subclass/barbarian/beast]
 aliases:
   - Path of the Beast
 created: 2025/06/15 at 22:21
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 21:20
+permalink: path-of-the-beast
+title: Path of the Beast
 ---
 
 # Path of the Beast

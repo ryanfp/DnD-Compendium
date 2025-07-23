@@ -149,13 +149,13 @@ When you gain certain levels in this class, you learn additional formulae of you
 
 While all alchemists share a common knowledge base, most alchemists specialize into a particular field of study:
 
-- [[Amorist Field|Amorist]]
-- [[Apothecary Field|Apothecary]]
-- [[Dynamo Engineer Field|Dynamo Engineer]]
-- [[Mad Bomber Field|Mad Bomber]]
-- [[Mutagenist Field|Mutagenist]]
-- [[Venomsmith Field|Venomsmith]]
-- [[Xenoalchemist Field|Xenoalchemist]]
+- [[amorist-field|Amorist]]
+- [[apothecary-field|Apothecary]]
+- [[dynamo-engineer-field|Dynamo Engineer]]
+- [[mad-bomber-field|Mad Bomber]]
+- [[mutagenist-field|Mutagenist]]
+- [[venomsmith-field|Venomsmith]]
+- [[xenoalchemist-field|Xenoalchemist]]
 
 When you reach 2nd level, you select your field of study, which grants you features at 2nd, 6th, 10th, and 18th level.
 

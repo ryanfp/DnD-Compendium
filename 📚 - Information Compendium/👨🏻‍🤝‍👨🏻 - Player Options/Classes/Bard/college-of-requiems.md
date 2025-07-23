@@ -5,7 +5,9 @@ tags: [ttrpg-cli/compendium/src/5e/ghpg, ttrpg-cli/subclass/bard/requiems]
 aliases:
   - College of Requiems
 created: 2025/06/15 at 15:34
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 21:15
+permalink: college-of-requiems
+title: College of Requiems
 ---
 
 # College of Requiems

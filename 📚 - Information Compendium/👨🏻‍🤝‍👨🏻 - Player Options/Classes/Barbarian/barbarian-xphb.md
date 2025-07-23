@@ -4,9 +4,10 @@ cssclasses: json5e-class
 tags: [class/barbarian, compendium/src/5e/xphb]
 aliases:
   - Barbarian
-  - Barbarian
 created: 2025/06/15 at 22:21
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 21:18
+permalink: barbarian-xphb
+title: Barbarian
 ---
 
 # Barbarian

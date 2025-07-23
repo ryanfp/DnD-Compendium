@@ -3,10 +3,12 @@ obsidianUIMode: preview
 cssclasses: json5e-class
 tags: [compendium/src/5e/xphb, subclass/bard/lore]
 aliases:
-  - College of Lore
+  - bard-xphb-college-of-lore-xphb
   - College of Lore
 created: 2025/06/15 at 22:22
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 21:12
+permalink: bard-xphb-college-of-lore
+title: College of Lore
 ---
 
 # College of Lore

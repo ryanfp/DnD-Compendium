@@ -4,9 +4,11 @@ cssclasses: json5e-class
 tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/alchemist/xenoalchemist]
 aliases:
   - Xenoalchemist
-  - Xenoalchemist
+  - Xenoalchemist Field
 created: 2025/06/13 at 22:26
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 21:11
+permalink: xenoalchemist-field
+title: Xenoalchemist
 ---
 
 # Xenoalchemist

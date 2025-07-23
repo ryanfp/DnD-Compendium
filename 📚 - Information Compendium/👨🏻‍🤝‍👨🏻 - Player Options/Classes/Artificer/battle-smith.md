@@ -5,7 +5,9 @@ tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/artificer/battle-smit
 aliases:
   - Battle Smith
 created: 2025/06/15 at 15:34
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 21:18
+permalink: battle-smith
+title: Battle Smith
 ---
 
 # Battle Smith

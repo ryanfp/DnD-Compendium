@@ -285,6 +285,11 @@
   "logLevel": "ERROR",
   "lintCommands": [
     {
+      "id": "quickadd:choice:30281b92-2770-4427-a638-a01c57c3d6d8",
+      "name": "QuickAdd: Rename File on Lint",
+      "enabled": true
+    },
+    {
       "id": "quickadd:choice:035f3794-7392-4615-8c68-7a07eb9342b0",
       "name": "QuickAdd: Permalink",
       "enabled": true

@@ -5,7 +5,9 @@ tags: [compendium/src/5e/xge, subclass/bard/glamour]
 aliases:
   - College of Glamour
 created: 2025/06/15 at 22:22
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 21:15
+permalink: college-of-glamour
+title: College of Glamour
 ---
 
 # College of Glamour

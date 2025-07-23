@@ -59,5 +59,6 @@
   "TryFixChineseIM": true,
   "PuncRectify": false,
   "FixMacOSContextMenu": false,
-  "TryFixMSIME": false
+  "TryFixMSIME": false,
+  "CollapsePersistentEnter": false
 }

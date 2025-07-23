@@ -5,7 +5,9 @@ tags: [ttrpg-cli/class/paladin, ttrpg-cli/compendium/src/5e/phb]
 aliases:
   - Paladin
 created: 2025/06/15 at 15:36
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 21:09
+permalink: paladin
+title: Paladin
 ---
 
 # Paladin

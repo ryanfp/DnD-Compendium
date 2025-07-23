@@ -4,9 +4,11 @@ cssclasses: json5e-class
 tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/alchemist/mad-bomber]
 aliases:
   - Mad Bomber
-  - Mad Bomber
+  - Mad Bomber Field
 created: 2025/06/13 at 22:25
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 21:03
+permalink: mad-bomber-field
+title: Mad Bomber
 ---
 
 # Mad Bomber

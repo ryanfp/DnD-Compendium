@@ -5,7 +5,9 @@ tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/artificer/artillerist
 aliases:
   - Artillerist
 created: 2025/06/15 at 15:34
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 21:18
+permalink: artillerist
+title: Artillerist
 ---
 
 # Artillerist

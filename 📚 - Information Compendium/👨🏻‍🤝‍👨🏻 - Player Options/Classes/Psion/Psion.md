@@ -5,7 +5,8 @@ tags: [ttrpg-cli/class/psion, ttrpg-cli/compendium/src/5e/ktp]
 aliases:
   - Psion
 created: 2025/06/13 at 22:29
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 20:57
+title: Psion
 ---
 
 # Psion

@@ -9,7 +9,26 @@
   },
   "folderMappings": [],
   "icon": "circle-ellipsis",
+  "keepPropsState": false,
   "onboarding": {},
+  "ribbonAction": "toolbar",
+  "scriptingEnabled": false,
+  "showEditInFabMenu": false,
+  "showLaunchpad": false,
+  "showToolbarIn": {
+    "audio": false,
+    "canvas": false,
+    "image": false,
+    "kanban": false,
+    "pdf": false,
+    "video": false
+  },
+  "showToolbarInFileMenu": false,
+  "showToolbarInOther": "",
+  "toolbarProp": "notetoolbar",
+  "toolbars": [],
+  "version": 20250313.1,
+  "whatsnew_version": "1.25",
   "recentFiles": [
     "old filemame.md",
     "z_Templates/16 - New Task.md",
@@ -21,21 +40,5 @@
     "Ideas.md",
     "Home.md",
     "z_Templates/20 - Add Permalink.md"
-  ],
-  "ribbonAction": "toolbar",
-  "scriptingEnabled": false,
-  "showEditInFabMenu": false,
-  "showToolbarIn": {
-    "audio": false,
-    "canvas": false,
-    "image": false,
-    "kanban": false,
-    "pdf": false,
-    "video": false
-  },
-  "showToolbarInFileMenu": false,
-  "toolbarProp": "notetoolbar",
-  "toolbars": [],
-  "version": 20250313.1,
-  "whatsnew_version": "1.22"
+  ]
 }

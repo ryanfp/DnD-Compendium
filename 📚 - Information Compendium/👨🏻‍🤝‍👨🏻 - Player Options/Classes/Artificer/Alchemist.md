@@ -5,7 +5,9 @@ tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/artificer/alchemist]
 aliases:
   - Alchemist
 created: 2025/06/15 at 15:34
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 21:16
+permalink: alchemist
+title: Alchemist
 ---
 
 # Alchemist

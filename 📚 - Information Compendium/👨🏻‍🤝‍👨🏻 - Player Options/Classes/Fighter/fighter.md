@@ -5,7 +5,8 @@ tags: [ttrpg-cli/class/fighter, ttrpg-cli/compendium/src/5e/phb]
 aliases:
   - Fighter
 created: 2025/06/15 at 15:35
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 21:09
+title: Fighter
 ---
 
 # Fighter

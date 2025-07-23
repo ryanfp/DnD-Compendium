@@ -5,7 +5,9 @@ tags: [compendium/src/5e/xge, subclass/barbarian/ancestral-guardian]
 aliases:
   - Path of the Ancestral Guardian
 created: 2025/06/15 at 22:21
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 21:20
+permalink: path-of-the-ancestral-guardian
+title: Path of the Ancestral Guardian
 ---
 
 # Path of the Ancestral Guardian
