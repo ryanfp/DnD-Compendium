@@ -45,6 +45,9 @@
     "z_Templates/02 - Insert Table of Contents.md": {
       "icon": "lucide-table-of-contents"
     },
+    "z_Templates/03 - Session Notes Template.md": {
+      "icon": "lucide-notebook-pen"
+    },
     "z_Templates/04 - Insert Wiki Sidebar.md": {
       "icon": "obsidian-leaflet-plugin-icon-description"
     },
@@ -92,9 +95,6 @@
     },
     "z_Templates/19 - Insert Columns.md": {
       "icon": "lucide-columns-2"
-    },
-    "z_Templates/3 - Session Notes Template.md": {
-      "icon": "lucide-notebook-pen"
     },
     "z_img": {
       "icon": "lucide-image-plus",

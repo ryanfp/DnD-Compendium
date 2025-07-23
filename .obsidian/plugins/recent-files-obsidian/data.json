@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Extract Source Template",
-      "path": "z_Templates/Extract Source Template.md"
+      "basename": "03 - Session Notes Template",
+      "path": "z_Templates/03 - Session Notes Template.md"
     },
     {
-      "basename": "Smart Rename from Permalink",
-      "path": "z_Templates/Smart Rename from Permalink.md"
+      "basename": "ideas",
+      "path": "ideas.md"
+    },
+    {
+      "basename": "22 - Extract Source",
+      "path": "z_Templates/22 - Extract Source.md"
+    },
+    {
+      "basename": "21 - Smart Rename from Permalink",
+      "path": "z_Templates/21 - Smart Rename from Permalink.md"
     },
     {
       "basename": "cleric-xphb-death-domain-dmg",
@@ -191,14 +199,6 @@
     {
       "basename": "venomsmith-field",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/venomsmith-field.md"
-    },
-    {
-      "basename": "mutagenist-field",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/mutagenist-field.md"
-    },
-    {
-      "basename": "Beastheart",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Beastheart/Beastheart.md"
     }
   ],
   "omittedPaths": [],

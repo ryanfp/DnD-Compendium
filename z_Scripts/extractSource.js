@@ -28,6 +28,12 @@ async function extractSource(tp) {
         // Get existing frontmatter
         const currentFrontmatter = app.metadataCache.getFileCache(file)?.frontmatter || {};
 
+        // Check if source already exists and is correct
+        if (currentFrontmatter.source === sourceValue) {
+            console.log('Source already exists and is correct');
+            return;
+        }
+
         // Update frontmatter with the source value
         await app.fileManager.processFrontMatter(file, (frontmatter) => {
             // Preserve existing frontmatter
@@ -37,7 +43,7 @@ async function extractSource(tp) {
                 }
             });
 
-            // Add or update the source
+            // Update the source
             frontmatter["source"] = sourceValue;
         });
 
