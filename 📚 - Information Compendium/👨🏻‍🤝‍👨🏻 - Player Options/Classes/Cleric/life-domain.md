@@ -5,7 +5,10 @@ tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/domain/life, ttrpg-cli/subclas
 aliases:
   - Life Domain
 created: 2025/06/15 at 15:35
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 23:23
+source: "Player's Handbook"
+permalink: life-domain
+title: Life Domain
 ---
 
 # Life Domain

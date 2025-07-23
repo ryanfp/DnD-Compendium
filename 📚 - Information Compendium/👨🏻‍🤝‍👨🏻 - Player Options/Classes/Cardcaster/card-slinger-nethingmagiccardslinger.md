@@ -5,9 +5,10 @@ tags: [ttrpg-cli/class/card-slinger, ttrpg-cli/compendium/src/5e/nethingmagiccar
 aliases:
   - Card Slinger
 created: 2025/06/13 at 22:26
-updated: 2025/07/22 at 21:29
-permalink: card-slinger
+updated: 2025/07/22 at 23:19
+permalink: card-slinger-nethingmagiccardslinger
 title: Card Slinger
+source: The Card Slinger
 ---
 
 # Card Slinger

@@ -5,9 +5,10 @@ tags: [compendium/src/5e/tdcsr, domain/blood, subclass/cleric/blood]
 aliases:
   - Blood Domain
 created: 2025/06/15 at 22:22
-updated: 2025/07/22 at 21:31
+updated: 2025/07/22 at 23:20
 permalink: blood-domain
 title: Blood Domain
+source: "Tal'Dorei Campaign Setting Reborn"
 ---
 
 # Blood Domain

@@ -4,9 +4,11 @@ cssclasses: json5e-class
 tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/domain/order, ttrpg-cli/subclass/cleric/order]
 aliases:
   - Order Domain
-  - Order Domain
 created: 2025/06/15 at 15:35
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 23:21
+source: "Tasha's Cauldron of Everything"
+permalink: cleric-xphb-order-domain-tce
+title: Order Domain
 ---
 
 # Order Domain

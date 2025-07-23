@@ -1,108 +1,156 @@
 {
   "recentFiles": [
     {
-      "basename": "03 - Session Notes Template",
-      "path": "z_Templates/03 - Session Notes Template.md"
+      "basename": "order-domain",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/order-domain.md"
     },
     {
-      "basename": "ideas",
-      "path": "ideas.md"
+      "basename": "Peace Domain",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/Peace Domain.md"
     },
     {
-      "basename": "22 - Extract Source",
-      "path": "z_Templates/22 - Extract Source.md"
+      "basename": "nature-domain",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/nature-domain.md"
     },
     {
-      "basename": "21 - Smart Rename from Permalink",
-      "path": "z_Templates/21 - Smart Rename from Permalink.md"
+      "basename": "light-domain",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/light-domain.md"
     },
     {
-      "basename": "cleric-xphb-death-domain-dmg",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-death-domain-dmg.md"
+      "basename": "life-domain",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/life-domain.md"
+    },
+    {
+      "basename": "knowledge-domain",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/knowledge-domain.md"
+    },
+    {
+      "basename": "inquisition-domain",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/inquisition-domain.md"
+    },
+    {
+      "basename": "eldritch-domain",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/eldritch-domain.md"
+    },
+    {
+      "basename": "cleric-xphb-war-domain-xphb",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-war-domain-xphb.md"
+    },
+    {
+      "basename": "death-domain",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/death-domain.md"
+    },
+    {
+      "basename": "cleric-xphb-war-domain",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-war-domain.md"
+    },
+    {
+      "basename": "cleric-xphb-twilight-domain-tce",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-twilight-domain-tce.md"
+    },
+    {
+      "basename": "cleric-xphb-trickery-domain-xphb",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-trickery-domain-xphb.md"
+    },
+    {
+      "basename": "cleric-xphb-trickery-domain",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-trickery-domain.md"
+    },
+    {
+      "basename": "cleric-xphb-tempest-domain",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-tempest-domain.md"
+    },
+    {
+      "basename": "cleric-xphb-peace-domain-tce",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-peace-domain-tce.md"
+    },
+    {
+      "basename": "cleric-xphb-order-domain-tce",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-order-domain-tce.md"
+    },
+    {
+      "basename": "cleric-xphb-nature-domain",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-nature-domain.md"
+    },
+    {
+      "basename": "cleric-xphb-light-domain-xphb",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-light-domain-xphb.md"
+    },
+    {
+      "basename": "cleric-xphb-light-domain",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-light-domain.md"
+    },
+    {
+      "basename": "cleric-xphb-life-domain-xphb",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-life-domain-xphb.md"
+    },
+    {
+      "basename": "cleric-xphb-life-domain",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-life-domain.md"
+    },
+    {
+      "basename": "cleric-xphb-knowledge-domain",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-knowledge-domain.md"
     },
     {
       "basename": "cleric-xphb-arcana-domain-scag",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-arcana-domain-scag.md"
     },
     {
-      "basename": "arcana-domain",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/arcana-domain.md"
+      "basename": "cleric-xphb",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb.md"
     },
     {
       "basename": "blood-domain",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/blood-domain.md"
     },
     {
-      "basename": "cleric",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric.md"
-    },
-    {
-      "basename": "card-slinger-hand-of-the",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cardcaster/card-slinger-hand-of-the.md"
-    },
-    {
-      "basename": "card-slinger-hand-of-the-spellcard-nethingmagiccardslinger",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cardcaster/card-slinger-hand-of-the-spellcard-nethingmagiccardslinger.md"
+      "basename": "arcana-domain",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/arcana-domain.md"
     },
     {
       "basename": "card-slinger-nethingmagiccardslinger",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cardcaster/card-slinger-nethingmagiccardslinger.md"
     },
     {
-      "basename": "order-of-the-profane-soul",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/blood-hunter/order-of-the-profane-soul.md"
+      "basename": "card-slinger-hand-of-the-spellcard-nethingmagiccardslinger",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cardcaster/card-slinger-hand-of-the-spellcard-nethingmagiccardslinger.md"
     },
     {
-      "basename": "order-of-the-mutant",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/blood-hunter/order-of-the-mutant.md"
-    },
-    {
-      "basename": "order-of-the-lycan",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/blood-hunter/order-of-the-lycan.md"
-    },
-    {
-      "basename": "order-of-the-ghostslayer",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/blood-hunter/order-of-the-ghostslayer.md"
+      "basename": "card-slinger-hand-of-the",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cardcaster/card-slinger-hand-of-the.md"
     },
     {
       "basename": "blood-hunter",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/blood-hunter/blood-hunter.md"
     },
     {
-      "basename": "path-of-wild-magic",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-wild-magic.md"
+      "basename": "beastheart",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/beastheart/beastheart.md"
     },
     {
-      "basename": "path-of-the-zealot",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-zealot.md"
+      "basename": "protector-bond",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/beastheart/protector-bond.md"
     },
     {
-      "basename": "path-of-the-world-tree",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-world-tree.md"
+      "basename": "primordial-bond",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/beastheart/primordial-bond.md"
     },
     {
-      "basename": "path-of-the-totem-warrior",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-totem-warrior.md"
+      "basename": "infernal-bond",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/beastheart/infernal-bond.md"
     },
     {
-      "basename": "path-of-the-storm-herald",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-storm-herald.md"
+      "basename": "ferocious-bond",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/beastheart/ferocious-bond.md"
     },
     {
-      "basename": "path-of-the-juggernaut",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-juggernaut.md"
+      "basename": "hunter-bond",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/beastheart/hunter-bond.md"
     },
     {
       "basename": "path-of-the-beast",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-beast.md"
-    },
-    {
-      "basename": "path-of-the-berserker-phb",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-berserker-phb.md"
-    },
-    {
-      "basename": "path-of-the-berserker",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-berserker.md"
     },
     {
       "basename": "path-of-the-battlerager",
@@ -113,92 +161,44 @@
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-ancestral-guardian.md"
     },
     {
-      "basename": "barbarian-xphb",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/barbarian-xphb.md"
+      "basename": "Home",
+      "path": "Home.md"
     },
     {
-      "basename": "battle-smith",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/battle-smith.md"
+      "basename": "21 - Smart Rename from Permalink",
+      "path": "z_Templates/21 - Smart Rename from Permalink.md"
     },
     {
-      "basename": "artillerist",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/artillerist.md"
+      "basename": "22 - Extract Source",
+      "path": "z_Templates/22 - Extract Source.md"
     },
     {
-      "basename": "armorer",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/armorer.md"
+      "basename": "barbarian-xphb-path-of-the",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/barbarian-xphb-path-of-the.md"
     },
     {
-      "basename": "alchemist",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/alchemist.md"
+      "basename": "ideas",
+      "path": "ideas.md"
     },
     {
-      "basename": "college-of-whispers",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/college-of-whispers.md"
+      "basename": "03 - Session Notes Template",
+      "path": "z_Templates/03 - Session Notes Template.md"
     },
     {
-      "basename": "college-of-valor",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/college-of-valor.md"
+      "basename": "cleric-xphb-death-domain-dmg",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-death-domain-dmg.md"
     },
     {
-      "basename": "college-of-tragedy",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/college-of-tragedy.md"
+      "basename": "cleric",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric.md"
     },
     {
-      "basename": "college-of-swords",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/college-of-swords.md"
+      "basename": "order-of-the-profane-soul",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/blood-hunter/order-of-the-profane-soul.md"
     },
     {
-      "basename": "college-of-spirits",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/college-of-spirits.md"
-    },
-    {
-      "basename": "college-of-requiems",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/college-of-requiems.md"
-    },
-    {
-      "basename": "college-of-lore",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/college-of-lore.md"
-    },
-    {
-      "basename": "college-of-eloquence",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/college-of-eloquence.md"
-    },
-    {
-      "basename": "college-of-glamour",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/college-of-glamour.md"
-    },
-    {
-      "basename": "college-of-creation",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/college-of-creation.md"
-    },
-    {
-      "basename": "college-of-dance",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/college-of-dance.md"
-    },
-    {
-      "basename": "college-of-adventurers",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/college-of-adventurers.md"
-    },
-    {
-      "basename": "bard-xphb-college-of-lore",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/bard-xphb-college-of-lore.md"
-    },
-    {
-      "basename": "bard-xphb-college-of-glamour",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/bard-xphb-college-of-glamour.md"
-    },
-    {
-      "basename": "bard-xphb",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bard/bard-xphb.md"
-    },
-    {
-      "basename": "xenoalchemist-field",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/xenoalchemist-field.md"
-    },
-    {
-      "basename": "venomsmith-field",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/venomsmith-field.md"
+      "basename": "order-of-the-mutant",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/blood-hunter/order-of-the-mutant.md"
     }
   ],
   "omittedPaths": [],

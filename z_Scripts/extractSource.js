@@ -25,6 +25,29 @@ async function extractSource(tp) {
             sourceValue = sourceValue.split("p. ")[0].trim();
         }
 
+        // Clean up formatting symbols while preserving specific punctuation
+        sourceValue = sourceValue
+            // Remove Markdown formatting
+            .replace(/\*\*/g, '') // bold
+            .replace(/\*/g, '') // italic
+            .replace(/\_\_/g, '') // bold
+            .replace(/\_/g, '') // italic
+            .replace(/\~/g, '') // strikethrough
+            .replace(/\`/g, '') // code
+            .replace(/\[\[/g, '') // wiki links start
+            .replace(/\]\]/g, '') // wiki links end
+            .replace(/\[([^\]]+)\]\([^\)]+\)/g, '$1') // markdown links
+            .replace(/\#/g, '') // hashtags
+            .replace(/\|/g, '') // table separators
+            .replace(/\>/g, '') // blockquotes
+            .replace(/\</g, '') // html tags
+            .replace(/\{/g, '') // curly braces
+            .replace(/\}/g, '')
+            .replace(/\$/g, '') // latex delimiters
+            .replace(/\^/g, '') // superscript
+            .replace(/\=/g, '') // headers
+            .trim();
+
         // Get existing frontmatter
         const currentFrontmatter = app.metadataCache.getFileCache(file)?.frontmatter || {};
 

@@ -5,12 +5,15 @@ tags: [ttrpg-cli/compendium/src/5e/bst, ttrpg-cli/subclass/beastheart/infernal]
 aliases:
   - Infernal Bond
 created: 2025/06/13 at 22:26
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 23:17
+source: Beastheart and Monstrous Companions
+permalink: infernal-bond
+title: Infernal Bond
 ---
 
 # Infernal Bond
 
-*[Beastheart](Beastheart.md): Companion Bonds*  
+*[beastheart](beastheart.md): Companion Bonds*  
 *Source: Beastheart and Monstrous Companions*  
 
 > [!tldr] Class and Feature Progression

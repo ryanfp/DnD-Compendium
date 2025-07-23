@@ -130,10 +130,10 @@
           "time": 100
         },
         {
-          "name": "Templater: Insert Smart Rename from Permalink",
+          "name": "Templater: Insert 21 - Smart Rename from Permalink",
           "type": "Obsidian",
-          "id": "a3c446d3-c7a9-4e3f-ba8a-d5a9abaf3511",
-          "commandId": "templater-obsidian:z_Templates/Smart Rename from Permalink.md"
+          "id": "492ef1c0-7e74-4ea4-85ba-d7e9a02c3ec5",
+          "commandId": "templater-obsidian:z_Templates/21 - Smart Rename from Permalink.md"
         }
       ],
       "runOnStartup": false
@@ -149,16 +149,16 @@
           "time": 100
         },
         {
-          "name": "Templater: Insert Extract Source Template",
-          "type": "Obsidian",
-          "id": "fcf96b2f-b493-47fb-b666-208a027fe41b",
-          "commandId": "templater-obsidian:z_Templates/Extract Source Template.md"
-        },
-        {
           "name": "Wait",
           "type": "Wait",
           "id": "81d9a98f-ac99-4f6f-90b4-35efe59e58b1",
           "time": 100
+        },
+        {
+          "name": "Templater: Insert 22 - Extract Source",
+          "type": "Obsidian",
+          "id": "db69594a-d7f6-486d-8ca9-ef88fdfa0fbf",
+          "commandId": "templater-obsidian:z_Templates/22 - Extract Source.md"
         }
       ],
       "runOnStartup": false
@@ -168,7 +168,7 @@
   "devMode": false,
   "templateFolderPath": "z_Templates",
   "announceUpdates": true,
-  "version": "1.18.1",
+  "version": "1.13.2",
   "disableOnlineFeatures": true,
   "enableRibbonIcon": false,
   "ai": {

@@ -5,7 +5,10 @@ tags: [ttrpg-cli/compendium/src/5e/dmg, ttrpg-cli/domain/death, ttrpg-cli/subcla
 aliases:
   - Death Domain
 created: 2025/06/15 at 15:35
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 23:22
+source: "Dungeon Master's Guide"
+permalink: death-domain
+title: Death Domain
 ---
 
 # Death Domain

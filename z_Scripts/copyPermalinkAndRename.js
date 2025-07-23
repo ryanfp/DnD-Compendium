@@ -19,6 +19,15 @@ async function copyPermalinkAndRename(tp) {
             return;
         }
 
+        // Get current filename without extension
+        const currentName = activeFile.basename;
+        
+        // If the current filename already matches the permalink, skip renaming
+        if (currentName === permalink) {
+            console.log('Filename already matches permalink');
+            return;
+        }
+
         // Copy to clipboard using navigator API
         await navigator.clipboard.writeText(permalink);
         await wait(100); // Reduced wait after clipboard operation
@@ -129,4 +138,4 @@ async function copyPermalinkAndRename(tp) {
     }
 }
 
-module.exports = copyPermalinkAndRename;
+module.exports = copyPermalinkAndRename; 

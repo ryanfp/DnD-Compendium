@@ -1,17 +1,24 @@
 ---
-permalink: ideas
-title: ""
 aliases:
   - ideas
-  - Ideas
+  - Smart Rename from Permalink
+title: ""
 created: 2025/07/13 at 17:36
-updated: 2025/07/22 at 22:35
-source: "Random: Fucking Book"
+updated: 2025/07/22 at 23:03
+source: Random Fucking ook
+permalink: ideas
 ---
 
-title: ""
+Source: Random---
 
-Source: Random: Fucking Book p. 5423
+aliases:
+
+  - Smart Rename from Permalink
+title: 21 - Smart Rename from Permalink
+
+---
+
+ Fucking ook p. 5423
 
 aliases:
 

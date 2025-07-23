@@ -4,9 +4,11 @@ cssclasses: json5e-class
 tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/domain/tempest, ttrpg-cli/subclass/cleric/tempest]
 aliases:
   - Tempest Domain
-  - Tempest Domain
 created: 2025/06/15 at 15:35
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 23:21
+source: "Player's Handbook"
+permalink: cleric-xphb-tempest-domain
+title: Tempest Domain
 ---
 
 # Tempest Domain

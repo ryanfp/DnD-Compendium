@@ -5,9 +5,10 @@ tags: [ttrpg-cli/compendium/src/5e/scag, ttrpg-cli/domain/arcana, ttrpg-cli/subc
 aliases:
   - Arcana Domain
 created: 2025/06/15 at 15:35
-updated: 2025/07/22 at 21:31
+updated: 2025/07/22 at 23:19
 title: Arcana Domain
 permalink: arcana-domain
+source: "Sword Coast Adventurer's Guide"
 ---
 
 # Arcana Domain

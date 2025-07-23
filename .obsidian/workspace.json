@@ -18,6 +18,324 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Peace Domain",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/Peace Domain.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Peace Domain\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Order Domain",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/order-domain.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Order Domain\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "nature-domain",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/nature-domain.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"nature-domain\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "light-domain",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/light-domain.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"light-domain\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "life-domain",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/life-domain.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"life-domain\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "knowledge-domain",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/knowledge-domain.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"knowledge-domain\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "inquisition-domain",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/inquisition-domain.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"inquisition-domain\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "eldritch-domain",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/eldritch-domain.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"eldritch-domain\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "cleric-xphb-war-domain-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-war-domain-xphb.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cleric-xphb-war-domain-xphb\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "death-domain",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/death-domain.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"death-domain\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "eldritch-domain",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/eldritch-domain.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"eldritch-domain\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "death-domain",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/death-domain.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"death-domain\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "cleric-xphb-war-domain-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-war-domain-xphb.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cleric-xphb-war-domain-xphb\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "cleric-xphb-war-domain",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-war-domain.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cleric-xphb-war-domain\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "cleric-xphb-twilight-domain-tce",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-twilight-domain-tce.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cleric-xphb-twilight-domain-tce\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "cleric-xphb-trickery-domain-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-trickery-domain-xphb.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cleric-xphb-trickery-domain-xphb\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "cleric-xphb-trickery-domain",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-trickery-domain.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cleric-xphb-trickery-domain\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "cleric-xphb-tempest-domain",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-tempest-domain.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cleric-xphb-tempest-domain\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "cleric-xphb-peace-domain-tce",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-peace-domain-tce.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cleric-xphb-peace-domain-tce\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "cleric-xphb-order-domain-tce",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-order-domain-tce.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cleric-xphb-order-domain-tce\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "cleric-xphb-nature-domain",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-nature-domain.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cleric-xphb-nature-domain\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "cleric-xphb-light-domain-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-light-domain-xphb.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cleric-xphb-light-domain-xphb\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "cleric-xphb-light-domain",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-light-domain.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cleric-xphb-light-domain\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "cleric-xphb-life-domain-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-life-domain-xphb.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cleric-xphb-life-domain-xphb\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "cleric-xphb-life-domain",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-life-domain.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cleric-xphb-life-domain\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "cleric-xphb-knowledge-domain",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-knowledge-domain.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cleric-xphb-knowledge-domain\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "cleric-xphb-arcana-domain-scag",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-arcana-domain-scag.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cleric-xphb-arcana-domain-scag\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "cleric-xphb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cleric-xphb\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "title": "blood-domain",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/blood-domain.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"blood-domain\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "title": "arcana-domain",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/arcana-domain.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"arcana-domain\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "card-slinger-nethingmagiccardslinger",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cardcaster/card-slinger-nethingmagiccardslinger.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"card-slinger-nethingmagiccardslinger\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "card-slinger-hand-of-the-spellcard-nethingmagiccardslinger",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cardcaster/card-slinger-hand-of-the-spellcard-nethingmagiccardslinger.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"card-slinger-hand-of-the-spellcard-nethingmagiccardslinger\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "card-slinger-hand-of-the",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cardcaster/card-slinger-hand-of-the.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"card-slinger-hand-of-the\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "blood-hunter",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/blood-hunter/blood-hunter.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"blood-hunter\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":25},\"to\":{\"line\":12,\"ch\":25}}}"
+                },
+                {
+                  "title": "beastheart",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/beastheart/beastheart.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"beastheart\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "protector-bond",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/beastheart/protector-bond.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"protector-bond\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "primordial-bond",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/beastheart/primordial-bond.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"primordial-bond\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "infernal-bond",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/beastheart/infernal-bond.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"infernal-bond\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "ferocious-bond",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/beastheart/ferocious-bond.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ferocious-bond\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "hunter-bond",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/beastheart/hunter-bond.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"hunter-bond\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "ferocious-bond",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/beastheart/ferocious-bond.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ferocious-bond\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":2},\"to\":{\"line\":21,\"ch\":2}},\"scroll\":0}"
+                },
+                {
+                  "title": "path-of-the-beast",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-beast.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"path-of-the-beast\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.231412366313449}"
+                },
+                {
+                  "title": "path-of-the-battlerager",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-battlerager.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"path-of-the-battlerager\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "path-of-the-ancestral-guardian",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-ancestral-guardian.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"path-of-the-ancestral-guardian\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "21 - Smart Rename from Permalink",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/21 - Smart Rename from Permalink.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"21 - Smart Rename from Permalink\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":47},\"to\":{\"line\":0,\"ch\":47}}}"
+                },
+                {
+                  "title": "22 - Extract Source",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/22 - Extract Source.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"22 - Extract Source\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "21 - Smart Rename from Permalink",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/21 - Smart Rename from Permalink.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"21-smart-rename-from-permalink\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "barbarian-xphb-path-of-the",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/barbarian-xphb-path-of-the.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"barbarian-xphb-path-of-the\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "ideas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ideas.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ideas\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}}}"
+                },
+                {
+                  "title": "source_template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source_template.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"source_template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "ideas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ideas.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ideas\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":23},\"to\":{\"line\":13,\"ch\":23}}}"
+                },
+                {
+                  "title": "03 - Session Notes Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/03 - Session Notes Template.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"03 - Session Notes Template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "ideas",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ideas.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ideas\"}",
@@ -522,9 +840,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Beastheart",
+                  "title": "beastheart",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Beastheart/Beastheart.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Beastheart\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/beastheart/beastheart.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Beastheart\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 },
                 {
@@ -828,7 +1146,7 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "3 - Session Notes Template",
+                  "title": "03 - Session Notes Template",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/03 - Session Notes Template.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"3 - Session Notes Template\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
@@ -1894,7 +2212,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/03 - Session Notes Template.md",
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/order-domain.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -1909,7 +2227,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "03 - Session Notes Template"
+              "title": "order-domain"
             }
           }
         ]
@@ -2335,10 +2653,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "z_Templates/03 - Session Notes Template.md"
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/order-domain.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 03 - Session Notes Template"
+              "title": "File properties for order-domain"
             }
           }
         ],
@@ -2387,35 +2705,36 @@
   },
   "active": "8d62c4a32034980a",
   "lastOpenFiles": [
-    "ideas.md",
-    "z_Templates/22 - Extract Source.md",
-    "z_Templates/21 - Smart Rename from Permalink.md",
-    "z_Scripts/extractSource.js",
-    "source_template.md",
-    "extractSource.js",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-death-domain-dmg.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/Peace Domain.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/order-domain.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/nature-domain.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/light-domain.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/life-domain.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/knowledge-domain.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/inquisition-domain.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/eldritch-domain.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-war-domain-xphb.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/death-domain.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-war-domain.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-twilight-domain-tce.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-trickery-domain-xphb.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-trickery-domain.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-tempest-domain.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-peace-domain-tce.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-order-domain-tce.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-nature-domain.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-light-domain-xphb.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-light-domain.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-life-domain-xphb.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-life-domain.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-knowledge-domain.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-arcana-domain-scag.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/arcana-domain.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/blood-domain.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cleric/Arcana Domain.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cardcaster/card-slinger-hand-of-the.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cardcaster/card-slinger-hand-of-the-spellcard-nethingmagiccardslinger.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cardcaster/card-slinger-nethingmagiccardslinger.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/blood-hunter/order-of-the-profane-soul.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/blood-hunter/order-of-the-mutant.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/blood-hunter/order-of-the-lycan.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/blood-hunter/order-of-the-ghostslayer.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/blood-hunter/blood-hunter.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-wild-magic.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-zealot.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-world-tree.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-totem-warrior.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-storm-herald.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-juggernaut.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-beast.md",
-    "untitled-1",
+    "extractSource.js",
     "copyPermalinkAndRename.js",
+    "z_Scripts/extractSource.js",
+    "untitled-1",
     "z_Scripts/copyPermalinkAndRename.js",
     "z_Scripts/Smart Rename to Permalink.js",
     "z_Scripts/Smart Rename to Permalink.txt",

@@ -5,7 +5,10 @@ tags: [ttrpg-cli/compendium/src/5e/ghpg, ttrpg-cli/domain/eldritch, ttrpg-cli/su
 aliases:
   - Eldritch Domain
 created: 2025/06/15 at 15:35
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 23:23
+source: "Grim Hollow: The Player's Guide"
+permalink: eldritch-domain
+title: Eldritch Domain
 ---
 
 # Eldritch Domain

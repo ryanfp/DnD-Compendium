@@ -1,3 +1,0 @@
-<%*
-await tp.user.extractSource(tp);
-%> 

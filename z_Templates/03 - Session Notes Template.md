@@ -1,8 +1,3 @@
----
-aliases:
-  - 3 - Session Notes Template
-title: 03 - Session Notes Template
----
 Back to [[Everlasting - PC Handout]], back to [[Everlasting Act 2 - Loggers County]]
 ## Introduction
 **Flow Comes First.** Let's play a game where things get done.

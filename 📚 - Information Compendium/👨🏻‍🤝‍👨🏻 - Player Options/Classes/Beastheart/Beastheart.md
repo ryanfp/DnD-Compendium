@@ -5,9 +5,10 @@ tags: [ttrpg-cli/class/beastheart, ttrpg-cli/compendium/src/5e/bst]
 aliases:
   - Beastheart
 created: 2025/06/13 at 22:26
-updated: 2025/07/22 at 21:09
+updated: 2025/07/22 at 23:18
 permalink: beastheart
 title: Beastheart
+source: Beastheart and Monstrous Companions
 ---
 
 # Beastheart

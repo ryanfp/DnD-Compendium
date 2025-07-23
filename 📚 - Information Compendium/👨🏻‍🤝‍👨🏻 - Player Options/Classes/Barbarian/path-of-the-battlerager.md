@@ -5,9 +5,10 @@ tags: [compendium/src/5e/scag, subclass/barbarian/battlerager]
 aliases:
   - Path of the Battlerager
 created: 2025/06/15 at 22:21
-updated: 2025/07/22 at 21:20
+updated: 2025/07/22 at 23:09
 permalink: path-of-the-battlerager
 title: Path of the Battlerager
+source: "Sword Coast Adventurer's Guide"
 ---
 
 # Path of the Battlerager

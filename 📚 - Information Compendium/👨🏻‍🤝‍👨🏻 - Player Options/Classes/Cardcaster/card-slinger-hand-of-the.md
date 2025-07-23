@@ -6,9 +6,10 @@ aliases:
   - card-slinger-hand-of-the-deckmaster-nethingmagiccardslinger
   - Hand of the Deckmaster
 created: 2025/06/13 at 22:26
-updated: 2025/07/22 at 21:30
+updated: 2025/07/22 at 23:19
 permalink: card-slinger-hand-of-the
 title: Hand of the Deckmaster
+source: The Card Slinger
 ---
 
 # Hand of the Deckmaster

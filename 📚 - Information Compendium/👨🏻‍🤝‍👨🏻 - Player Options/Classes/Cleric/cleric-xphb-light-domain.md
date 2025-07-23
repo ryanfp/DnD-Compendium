@@ -4,9 +4,11 @@ cssclasses: json5e-class
 tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/domain/light, ttrpg-cli/subclass/cleric/light]
 aliases:
   - Light Domain
-  - Light Domain
 created: 2025/06/15 at 15:35
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 23:20
+source: "Player's Handbook"
+permalink: cleric-xphb-light-domain
+title: Light Domain
 ---
 
 # Light Domain

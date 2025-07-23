@@ -91,6 +91,132 @@
             }
           ],
           "title": "📚 - Information Compendium"
+        },
+        {
+          "type": "group",
+          "ctime": 1753239891978,
+          "items": [],
+          "title": "⏰ - Archive"
+        },
+        {
+          "type": "group",
+          "ctime": 1753239891978,
+          "items": [],
+          "title": "🌎 - Worldbuilding & Lore"
+        },
+        {
+          "type": "file",
+          "ctime": 1753239891978,
+          "path": "Home.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1753239891978,
+          "path": "ideas.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1753239891978,
+          "path": "japanesepublish.css",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1753239891978,
+          "path": "japanesepublish.js",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1753239891978,
+          "path": "Organization Hierarchy.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1753239891978,
+          "path": "publish.js",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1753239891978,
+          "path": "publish.css",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1753239891978,
+          "path": "publish - Copy.js",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1753239891978,
+          "path": "publish1.css",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1753239891978,
+          "path": "README.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1753239891978,
+          "path": "source_template.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1753239891978,
+          "path": "test.js",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1753239891978,
+          "path": "test.css",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1753239891978,
+          "path": "theme.css",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1753239891978,
+          "path": "To-Do List.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "group",
+          "ctime": 1753239891978,
+          "items": [],
+          "title": "z_img"
+        },
+        {
+          "type": "group",
+          "ctime": 1753239891978,
+          "items": [],
+          "title": "z_Templates"
+        },
+        {
+          "type": "group",
+          "ctime": 1753239891978,
+          "items": [],
+          "title": "z_Scripts"
+        },
+        {
+          "type": "file",
+          "ctime": 1753239891978,
+          "path": "untitled-1",
+          "subpath": "#^-"
         }
       ],
       "title": "sortspec"

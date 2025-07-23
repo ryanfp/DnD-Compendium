@@ -4,9 +4,11 @@ cssclasses: json5e-class
 tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/domain/war, ttrpg-cli/subclass/cleric/war]
 aliases:
   - War Domain
-  - War Domain
 created: 2025/06/15 at 15:35
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 23:23
+source: "Player's Handbook (2024)"
+permalink: cleric-xphb-war-domain-xphb
+title: War Domain
 ---
 
 # War Domain
