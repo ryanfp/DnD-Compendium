@@ -5,12 +5,15 @@ tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/craftsman/bladeworker
 aliases:
   - "Bladeworkers' Guild"
 created: 2025/06/13 at 22:27
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 23:27
+title: "Bladeworkers' Guild"
+source: "Valda's Spire of Secrets"
+permalink: bladeworkers-guild
 ---
 
 # Bladeworkers' Guild
 
-*[Craftsman](Craftsman.md): Artisan's Guild*  
+*[craftsman](craftsman.md): Artisan's Guild*  
 *Source: Valda's Spire of Secrets*  
 
 > [!tldr] Class and Feature Progression

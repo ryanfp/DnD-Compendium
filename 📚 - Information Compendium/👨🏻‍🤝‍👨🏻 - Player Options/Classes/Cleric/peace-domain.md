@@ -5,7 +5,7 @@ tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/domain/peace, ttrpg-cli/subcla
 aliases:
   - Peace Domain
 created: 2025/06/15 at 15:35
-updated: 2025/07/22 at 23:24
+updated: 2025/07/22 at 23:25
 source: "Tasha's Cauldron of Everything"
 permalink: peace-domain
 title: Peace Domain

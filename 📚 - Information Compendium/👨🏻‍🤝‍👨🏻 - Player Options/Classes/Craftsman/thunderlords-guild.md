@@ -5,12 +5,15 @@ tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/craftsman/thunderlord
 aliases:
   - "Thunderlords' Guild"
 created: 2025/06/13 at 22:27
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 23:28
+title: "Thunderlords' Guild"
+source: "Valda's Spire of Secrets"
+permalink: thunderlords-guild
 ---
 
 # Thunderlords' Guild
 
-*[Craftsman](Craftsman.md): Artisan's Guild*  
+*[craftsman](craftsman.md): Artisan's Guild*  
 *Source: Valda's Spire of Secrets*  
 
 > [!tldr] Class and Feature Progression

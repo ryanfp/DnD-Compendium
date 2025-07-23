@@ -172,12 +172,6 @@
         "74b9081e8f8b76ce"
       ]
     },
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Craftsman": {
-      "icon": "lucide-hammer",
-      "unsynced": [
-        "74b9081e8f8b76ce"
-      ]
-    },
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Druid": {
       "icon": "lucide-paw-print",
       "unsynced": [
@@ -337,6 +331,12 @@
         "74b9081e8f8b76ce"
       ],
       "color": "cyan"
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/craftsman": {
+      "icon": "lucide-hammer",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
     },
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/z_img": {
       "icon": "lucide-paperclip",

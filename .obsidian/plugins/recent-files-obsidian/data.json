@@ -1,12 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "order-domain",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/order-domain.md"
+      "basename": "elemental-practice",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Dragon Knight/elemental-practice.md"
     },
     {
-      "basename": "Peace Domain",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/Peace Domain.md"
+      "basename": "thunderlords-guild",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/craftsman/thunderlords-guild.md"
+    },
+    {
+      "basename": "trappers-guild",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/craftsman/trappers-guild.md"
+    },
+    {
+      "basename": "mechanauts-guild",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/craftsman/mechanauts-guild.md"
+    },
+    {
+      "basename": "forgeknights-guild",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/craftsman/forgeknights-guild.md"
+    },
+    {
+      "basename": "calibarons-guild",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/craftsman/calibarons-guild.md"
+    },
+    {
+      "basename": "bladeworkers-guild",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/craftsman/bladeworkers-guild.md"
+    },
+    {
+      "basename": "arcane-maesters-guild",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/craftsman/arcane-maesters-guild.md"
+    },
+    {
+      "basename": "armigers-guild",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/craftsman/armigers-guild.md"
+    },
+    {
+      "basename": "craftsman",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/craftsman/craftsman.md"
+    },
+    {
+      "basename": "war-domain",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/war-domain.md"
+    },
+    {
+      "basename": "twilight-domain",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/twilight-domain.md"
+    },
+    {
+      "basename": "trickery-domain",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/trickery-domain.md"
+    },
+    {
+      "basename": "tempest-domain",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/tempest-domain.md"
+    },
+    {
+      "basename": "peace-domain",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/peace-domain.md"
+    },
+    {
+      "basename": "order-domain",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/order-domain.md"
     },
     {
       "basename": "nature-domain",
@@ -143,62 +199,6 @@
     {
       "basename": "ferocious-bond",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/beastheart/ferocious-bond.md"
-    },
-    {
-      "basename": "hunter-bond",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/beastheart/hunter-bond.md"
-    },
-    {
-      "basename": "path-of-the-beast",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-beast.md"
-    },
-    {
-      "basename": "path-of-the-battlerager",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-battlerager.md"
-    },
-    {
-      "basename": "path-of-the-ancestral-guardian",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-ancestral-guardian.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
-      "basename": "21 - Smart Rename from Permalink",
-      "path": "z_Templates/21 - Smart Rename from Permalink.md"
-    },
-    {
-      "basename": "22 - Extract Source",
-      "path": "z_Templates/22 - Extract Source.md"
-    },
-    {
-      "basename": "barbarian-xphb-path-of-the",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/barbarian-xphb-path-of-the.md"
-    },
-    {
-      "basename": "ideas",
-      "path": "ideas.md"
-    },
-    {
-      "basename": "03 - Session Notes Template",
-      "path": "z_Templates/03 - Session Notes Template.md"
-    },
-    {
-      "basename": "cleric-xphb-death-domain-dmg",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-death-domain-dmg.md"
-    },
-    {
-      "basename": "cleric",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric.md"
-    },
-    {
-      "basename": "order-of-the-profane-soul",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/blood-hunter/order-of-the-profane-soul.md"
-    },
-    {
-      "basename": "order-of-the-mutant",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/blood-hunter/order-of-the-mutant.md"
     }
   ],
   "omittedPaths": [],

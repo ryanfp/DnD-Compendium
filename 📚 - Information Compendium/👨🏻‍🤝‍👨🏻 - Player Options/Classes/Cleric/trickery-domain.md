@@ -5,7 +5,10 @@ tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/domain/trickery, ttrpg-cli/sub
 aliases:
   - Trickery Domain
 created: 2025/06/15 at 15:35
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 23:25
+source: "Player's Handbook"
+permalink: trickery-domain
+title: Trickery Domain
 ---
 
 # Trickery Domain

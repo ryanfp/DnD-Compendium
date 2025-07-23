@@ -5,12 +5,15 @@ tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/craftsman/arcane-maes
 aliases:
   - "Arcane Maesters' Guild"
 created: 2025/06/13 at 22:27
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 23:26
+title: "Arcane Maesters' Guild"
+source: "Valda's Spire of Secrets"
+permalink: arcane-maesters-guild
 ---
 
 # Arcane Maesters' Guild
 
-*[Craftsman](Craftsman.md): Artisan's Guild*  
+*[craftsman](craftsman.md): Artisan's Guild*  
 *Source: Valda's Spire of Secrets*  
 
 > [!tldr] Class and Feature Progression
