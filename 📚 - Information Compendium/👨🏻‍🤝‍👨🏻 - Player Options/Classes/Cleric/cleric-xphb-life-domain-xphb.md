@@ -11,7 +11,7 @@ updated: 2025/07/13 at 00:17
 
 # Life Domain
 
-*[Cleric](./cleric-xphb.md): Cleric Subclass*  
+*[Cleric](cleric-xphb.md): Cleric Subclass*  
 *Source: Player's Handbook (2024) p. 73. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression

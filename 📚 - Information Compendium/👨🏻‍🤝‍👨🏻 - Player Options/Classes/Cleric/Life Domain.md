@@ -10,7 +10,7 @@ updated: 2025/07/13 at 00:17
 
 # Life Domain
 
-*[Cleric](Cleric.md): Divine Domain*  
+*[cleric](cleric.md): Divine Domain*  
 *Source: Player's Handbook p. 60. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 > [!tldr] Class and Feature Progression

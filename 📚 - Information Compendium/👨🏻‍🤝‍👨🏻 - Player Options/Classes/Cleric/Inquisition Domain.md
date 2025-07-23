@@ -10,7 +10,7 @@ updated: 2025/07/13 at 00:17
 
 # Inquisition Domain
 
-*[Cleric](Cleric.md): Divine Domain*  
+*[cleric](cleric.md): Divine Domain*  
 *Source: Grim Hollow: The Player's Guide*  
 
 > [!tldr] Class and Feature Progression

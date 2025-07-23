@@ -10,7 +10,7 @@ updated: 2025/07/13 at 00:17
 
 # Peace Domain
 
-*[Cleric](Cleric.md): Divine Domain*  
+*[cleric](cleric.md): Divine Domain*  
 *Source: Tasha's Cauldron of Everything p. 32*  
 
 > [!tldr] Class and Feature Progression

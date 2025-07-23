@@ -32,7 +32,8 @@
     "templates/Insert Callout.md",
     "z_Templates/16 - ✅New Task.md",
     "z_Templates/20 - Add Permalink.md",
-    "z_Templates/Smart Rename from Permalink.md"
+    "z_Templates/Smart Rename from Permalink.md",
+    "z_Templates/Extract Source Template.md"
   ],
   "startup_templates": [
     ""

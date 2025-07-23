@@ -4,9 +4,10 @@ cssclasses: json5e-class
 tags: [ttrpg-cli/compendium/src/5e/nethingmagiccardslinger, ttrpg-cli/subclass/card-slinger/spellcard]
 aliases:
   - Hand of the Spellcard
-  - Hand of the Spellcard
 created: 2025/06/13 at 22:26
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 21:29
+permalink: card-slinger-hand-of-the
+title: Hand of the Spellcard
 ---
 
 # Hand of the Spellcard

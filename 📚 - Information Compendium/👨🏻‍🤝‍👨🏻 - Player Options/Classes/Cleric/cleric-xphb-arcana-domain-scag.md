@@ -4,14 +4,15 @@ cssclasses: json5e-class
 tags: [ttrpg-cli/compendium/src/5e/scag, ttrpg-cli/domain/arcana, ttrpg-cli/subclass/cleric/arcana]
 aliases:
   - Arcana Domain
-  - Arcana Domain
 created: 2025/06/15 at 15:35
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 21:32
+permalink: cleric-xphb-arcana-domain-scag
+title: Arcana Domain
 ---
 
 # Arcana Domain
 
-*[Cleric](./cleric-xphb.md): Cleric Subclass*  
+*[Cleric](cleric-xphb.md): Cleric Subclass*  
 *Source: Sword Coast Adventurer's Guide p. 125*  
 
 > [!tldr] Class and Feature Progression

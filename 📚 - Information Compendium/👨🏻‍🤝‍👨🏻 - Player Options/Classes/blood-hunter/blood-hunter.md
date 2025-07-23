@@ -5,7 +5,9 @@ tags: [ttrpg-cli/class/blood-hunter, ttrpg-cli/compendium/src/5e/bh2022]
 aliases:
   - Blood Hunter
 created: 2025/06/13 at 22:26
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 21:28
+permalink: blood-hunter
+title: Blood Hunter
 ---
 
 # Blood Hunter

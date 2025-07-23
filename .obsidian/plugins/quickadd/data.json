@@ -13,6 +13,13 @@
       "type": "Macro",
       "command": true,
       "macroId": "e5534606-cbf2-4b1f-9715-8d1df614940a"
+    },
+    {
+      "id": "af2d77fc-d93d-499b-a4f6-3b3c9df0a74f",
+      "name": "Extract Source",
+      "type": "Macro",
+      "command": true,
+      "macroId": "f3830bba-7228-40e7-a9d4-afb0bd052ebf"
     }
   ],
   "macros": [
@@ -130,13 +137,39 @@
         }
       ],
       "runOnStartup": false
+    },
+    {
+      "name": "Extract Source",
+      "id": "f3830bba-7228-40e7-a9d4-afb0bd052ebf",
+      "commands": [
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "f5ef21b6-e515-40ac-ba94-8a123190f38e",
+          "time": 100
+        },
+        {
+          "name": "extractSource",
+          "type": "UserScript",
+          "id": "93caed24-687d-4d31-a384-fc1276512c35",
+          "path": "z_Scripts/extractSource.js",
+          "settings": {}
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "81d9a98f-ac99-4f6f-90b4-35efe59e58b1",
+          "time": 100
+        }
+      ],
+      "runOnStartup": false
     }
   ],
   "inputPrompt": "single-line",
   "devMode": false,
   "templateFolderPath": "z_Templates",
   "announceUpdates": true,
-  "version": "1.18.1",
+  "version": "1.13.2",
   "disableOnlineFeatures": true,
   "enableRibbonIcon": false,
   "ai": {

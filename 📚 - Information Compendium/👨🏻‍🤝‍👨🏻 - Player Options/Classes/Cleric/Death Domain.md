@@ -10,7 +10,7 @@ updated: 2025/07/13 at 00:17
 
 # Death Domain
 
-*[Cleric](Cleric.md): Divine Domain*  
+*[cleric](cleric.md): Divine Domain*  
 *Source: Dungeon Master's Guide p. 96*  
 
 > [!tldr] Class and Feature Progression

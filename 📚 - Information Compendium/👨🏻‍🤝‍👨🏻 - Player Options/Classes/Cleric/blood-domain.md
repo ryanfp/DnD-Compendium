@@ -5,12 +5,14 @@ tags: [compendium/src/5e/tdcsr, domain/blood, subclass/cleric/blood]
 aliases:
   - Blood Domain
 created: 2025/06/15 at 22:22
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 21:31
+permalink: blood-domain
+title: Blood Domain
 ---
 
 # Blood Domain
 
-*[Cleric](Cleric.md): Divine Domain*  
+*[cleric](cleric.md): Divine Domain*  
 *Source: Tal'Dorei Campaign Setting Reborn p. 168*  
 
 > [!tldr] Class and Feature Progression

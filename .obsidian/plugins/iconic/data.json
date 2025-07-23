@@ -159,12 +159,6 @@
         "74b9081e8f8b76ce"
       ]
     },
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Blood Hunter": {
-      "icon": "lucide-dna",
-      "unsynced": [
-        "74b9081e8f8b76ce"
-      ]
-    },
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Bloodrager": {
       "icon": "lucide-alert-triangle",
       "unsynced": [
@@ -177,13 +171,6 @@
       "unsynced": [
         "74b9081e8f8b76ce"
       ]
-    },
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cleric": {
-      "icon": "✝️",
-      "unsynced": [
-        "74b9081e8f8b76ce"
-      ],
-      "color": "cyan"
     },
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Craftsman": {
       "icon": "lucide-hammer",
@@ -337,6 +324,19 @@
       "unsynced": [
         "74b9081e8f8b76ce"
       ]
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/blood-hunter": {
+      "icon": "lucide-dna",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric": {
+      "icon": "✝️",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ],
+      "color": "cyan"
     },
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/z_img": {
       "icon": "lucide-paperclip",

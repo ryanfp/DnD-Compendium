@@ -1,16 +1,100 @@
 {
   "recentFiles": [
     {
+      "basename": "Extract Source Template",
+      "path": "z_Templates/Extract Source Template.md"
+    },
+    {
+      "basename": "Smart Rename from Permalink",
+      "path": "z_Templates/Smart Rename from Permalink.md"
+    },
+    {
+      "basename": "cleric-xphb-death-domain-dmg",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-death-domain-dmg.md"
+    },
+    {
+      "basename": "cleric-xphb-arcana-domain-scag",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-arcana-domain-scag.md"
+    },
+    {
+      "basename": "arcana-domain",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/arcana-domain.md"
+    },
+    {
+      "basename": "blood-domain",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/blood-domain.md"
+    },
+    {
+      "basename": "cleric",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric.md"
+    },
+    {
+      "basename": "card-slinger-hand-of-the",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cardcaster/card-slinger-hand-of-the.md"
+    },
+    {
+      "basename": "card-slinger-hand-of-the-spellcard-nethingmagiccardslinger",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cardcaster/card-slinger-hand-of-the-spellcard-nethingmagiccardslinger.md"
+    },
+    {
+      "basename": "card-slinger-nethingmagiccardslinger",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cardcaster/card-slinger-nethingmagiccardslinger.md"
+    },
+    {
+      "basename": "order-of-the-profane-soul",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/blood-hunter/order-of-the-profane-soul.md"
+    },
+    {
+      "basename": "order-of-the-mutant",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/blood-hunter/order-of-the-mutant.md"
+    },
+    {
+      "basename": "order-of-the-lycan",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/blood-hunter/order-of-the-lycan.md"
+    },
+    {
+      "basename": "order-of-the-ghostslayer",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/blood-hunter/order-of-the-ghostslayer.md"
+    },
+    {
+      "basename": "blood-hunter",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/blood-hunter/blood-hunter.md"
+    },
+    {
+      "basename": "path-of-wild-magic",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-wild-magic.md"
+    },
+    {
+      "basename": "path-of-the-zealot",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-zealot.md"
+    },
+    {
+      "basename": "path-of-the-world-tree",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-world-tree.md"
+    },
+    {
+      "basename": "path-of-the-totem-warrior",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-totem-warrior.md"
+    },
+    {
+      "basename": "path-of-the-storm-herald",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-storm-herald.md"
+    },
+    {
+      "basename": "path-of-the-juggernaut",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-juggernaut.md"
+    },
+    {
+      "basename": "path-of-the-beast",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-beast.md"
+    },
+    {
       "basename": "path-of-the-berserker-phb",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-berserker-phb.md"
     },
     {
       "basename": "path-of-the-berserker",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-berserker.md"
-    },
-    {
-      "basename": "path-of-the-beast",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-beast.md"
     },
     {
       "basename": "path-of-the-battlerager",
@@ -115,90 +199,6 @@
     {
       "basename": "Beastheart",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Beastheart/Beastheart.md"
-    },
-    {
-      "basename": "Fighter",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Fighter/Fighter.md"
-    },
-    {
-      "basename": "Illrigger",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Illrigger/Illrigger.md"
-    },
-    {
-      "basename": "Paladin",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Paladin/Paladin.md"
-    },
-    {
-      "basename": "mad-bomber-field",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/mad-bomber-field.md"
-    },
-    {
-      "basename": "dynamo-engineer-field",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/dynamo-engineer-field.md"
-    },
-    {
-      "basename": "apothecary-field",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/apothecary-field.md"
-    },
-    {
-      "basename": "amorist-field",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/amorist-field.md"
-    },
-    {
-      "basename": "Psion",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Psion/Psion.md"
-    },
-    {
-      "basename": "curse-of-somnolence",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-somnolence.md"
-    },
-    {
-      "basename": "curse-of-petrification",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-petrification.md"
-    },
-    {
-      "basename": "curse-of-mummification",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-mummification.md"
-    },
-    {
-      "basename": "curse-of-misfortune",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-misfortune.md"
-    },
-    {
-      "basename": "curse-of-immortality",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-immortality.md"
-    },
-    {
-      "basename": "curse-of-the-created",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-the-created.md"
-    },
-    {
-      "basename": "curse-of-combustion",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-combustion.md"
-    },
-    {
-      "basename": "curse-of-the-armament",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-the-armament.md"
-    },
-    {
-      "basename": "curse-of-animation",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md"
-    },
-    {
-      "basename": "20 - Add Permalink",
-      "path": "z_Templates/20 - Add Permalink.md"
-    },
-    {
-      "basename": "99 - New File Auto Template",
-      "path": "z_Templates/99 - New File Auto Template.md"
-    },
-    {
-      "basename": "19 - Insert Columns",
-      "path": "z_Templates/19 - Insert Columns.md"
-    },
-    {
-      "basename": "Organization Hierarchy",
-      "path": "Organization Hierarchy.md"
     }
   ],
   "omittedPaths": [],

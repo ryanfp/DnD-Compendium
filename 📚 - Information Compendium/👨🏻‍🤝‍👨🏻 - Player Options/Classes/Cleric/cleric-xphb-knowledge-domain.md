@@ -11,7 +11,7 @@ updated: 2025/07/13 at 00:17
 
 # Knowledge Domain
 
-*[Cleric](./cleric-xphb.md): Cleric Subclass*  
+*[Cleric](cleric-xphb.md): Cleric Subclass*  
 *Source: Player's Handbook p. 59*  
 
 > [!tldr] Class and Feature Progression

@@ -1,16 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - compendium/src/5e/phb
-  - subclass/barbarian/berserker
+tags: [compendium/src/5e/phb, subclass/barbarian/berserker]
 aliases:
   - Path of the Berserker
+  - Path of the Berserker 2014
   - Path of the Berserker PHB
 created: 2025/06/15 at 22:21
-updated: 2025/07/22 at 21:23
-permalink: path-of-the-berserker
-title: path-of-the-berserker
+updated: 2025/07/22 at 21:25
+permalink: path-of-the-berserker-phb
+title: Path of the Berserker 2014
 ---
 
 # Path of the Berserker 2014

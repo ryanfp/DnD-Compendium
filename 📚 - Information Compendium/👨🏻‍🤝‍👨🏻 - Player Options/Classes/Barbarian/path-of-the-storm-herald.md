@@ -5,7 +5,9 @@ tags: [compendium/src/5e/xge, subclass/barbarian/storm-herald]
 aliases:
   - Path of the Storm Herald
 created: 2025/06/15 at 22:21
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 21:26
+permalink: path-of-the-storm-herald
+title: Path of the Storm Herald
 ---
 
 # Path of the Storm Herald

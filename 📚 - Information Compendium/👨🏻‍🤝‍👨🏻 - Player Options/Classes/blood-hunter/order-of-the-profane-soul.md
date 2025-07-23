@@ -5,7 +5,9 @@ tags: [ttrpg-cli/compendium/src/5e/bh2022, ttrpg-cli/subclass/blood-hunter/profa
 aliases:
   - Order of the Profane Soul
 created: 2025/06/13 at 22:26
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 21:28
+title: Order of the Profane Soul
+permalink: order-of-the-profane-soul
 ---
 
 # Order of the Profane Soul

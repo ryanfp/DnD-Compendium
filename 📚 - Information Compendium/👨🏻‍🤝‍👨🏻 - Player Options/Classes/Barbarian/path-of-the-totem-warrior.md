@@ -5,7 +5,9 @@ tags: [compendium/src/5e/phb, subclass/barbarian/totem-warrior]
 aliases:
   - Path of the Totem Warrior
 created: 2025/06/15 at 22:21
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 21:26
+permalink: path-of-the-totem-warrior
+title: Path of the Totem Warrior
 ---
 
 # Path of the Totem Warrior

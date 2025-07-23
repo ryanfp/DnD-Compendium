@@ -5,7 +5,9 @@ tags: [compendium/src/5e/xge, subclass/barbarian/zealot]
 aliases:
   - Path of the Zealot
 created: 2025/06/15 at 22:21
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 21:27
+permalink: path-of-the-zealot
+title: Path of the Zealot
 ---
 
 # Path of the Zealot

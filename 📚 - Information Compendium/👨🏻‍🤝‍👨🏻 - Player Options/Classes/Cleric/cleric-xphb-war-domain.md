@@ -11,7 +11,7 @@ updated: 2025/07/13 at 00:17
 
 # War Domain
 
-*[Cleric](./cleric-xphb.md): Cleric Subclass*  
+*[Cleric](cleric-xphb.md): Cleric Subclass*  
 *Source: Player's Handbook p. 63*  
 
 > [!tldr] Class and Feature Progression

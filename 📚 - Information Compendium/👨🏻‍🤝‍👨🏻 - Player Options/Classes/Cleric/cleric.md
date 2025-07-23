@@ -5,7 +5,9 @@ tags: [ttrpg-cli/class/cleric, ttrpg-cli/compendium/src/5e/phb]
 aliases:
   - Cleric
 created: 2025/06/15 at 15:35
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 21:31
+permalink: cleric
+title: Cleric
 ---
 
 # Cleric

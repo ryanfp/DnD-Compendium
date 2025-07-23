@@ -5,12 +5,14 @@ tags: [ttrpg-cli/compendium/src/5e/scag, ttrpg-cli/domain/arcana, ttrpg-cli/subc
 aliases:
   - Arcana Domain
 created: 2025/06/15 at 15:35
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 21:31
+title: Arcana Domain
+permalink: arcana-domain
 ---
 
 # Arcana Domain
 
-*[Cleric](Cleric.md): Divine Domain*  
+*[cleric](cleric.md): Divine Domain*  
 *Source: Sword Coast Adventurer's Guide p. 125*  
 
 > [!tldr] Class and Feature Progression

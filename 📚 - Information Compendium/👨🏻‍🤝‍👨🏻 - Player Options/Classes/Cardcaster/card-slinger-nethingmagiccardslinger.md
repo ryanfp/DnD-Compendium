@@ -4,9 +4,10 @@ cssclasses: json5e-class
 tags: [ttrpg-cli/class/card-slinger, ttrpg-cli/compendium/src/5e/nethingmagiccardslinger]
 aliases:
   - Card Slinger
-  - Card Slinger
 created: 2025/06/13 at 22:26
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 21:29
+permalink: card-slinger
+title: Card Slinger
 ---
 
 # Card Slinger

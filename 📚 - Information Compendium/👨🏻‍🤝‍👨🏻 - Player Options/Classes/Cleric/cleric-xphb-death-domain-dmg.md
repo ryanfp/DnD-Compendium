@@ -4,14 +4,15 @@ cssclasses: json5e-class
 tags: [ttrpg-cli/compendium/src/5e/dmg, ttrpg-cli/domain/death, ttrpg-cli/subclass/cleric/death]
 aliases:
   - Death Domain
-  - Death Domain
 created: 2025/06/15 at 15:35
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 21:36
+permalink: cleric-xphb-death-domain-dmg
+title: Death Domain
 ---
 
 # Death Domain
 
-*[Cleric](./cleric-xphb.md): Cleric Subclass*  
+*[Cleric](cleric-xphb.md): Cleric Subclass*  
 *Source: Dungeon Master's Guide p. 96*  
 
 > [!tldr] Class and Feature Progression

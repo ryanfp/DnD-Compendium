@@ -10,7 +10,7 @@ updated: 2025/07/13 at 00:17
 
 # Tempest Domain
 
-*[Cleric](Cleric.md): Divine Domain*  
+*[cleric](cleric.md): Divine Domain*  
 *Source: Player's Handbook p. 62*  
 
 > [!tldr] Class and Feature Progression

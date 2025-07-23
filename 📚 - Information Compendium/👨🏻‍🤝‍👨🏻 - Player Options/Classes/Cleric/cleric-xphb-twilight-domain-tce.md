@@ -11,7 +11,7 @@ updated: 2025/07/13 at 00:17
 
 # Twilight Domain
 
-*[Cleric](./cleric-xphb.md): Cleric Subclass*  
+*[Cleric](cleric-xphb.md): Cleric Subclass*  
 *Source: Tasha's Cauldron of Everything p. 34*  
 
 > [!tldr] Class and Feature Progression
