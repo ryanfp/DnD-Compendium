@@ -1,10 +1,23 @@
 ---
+permalink: ideas
 title: ""
 aliases:
   - Ideas
 created: 2025/07/13 at 17:36
+updated: 2025/07/22 at 20:26
+---
+
+---
+
+title: ""
+
+aliases:
+
+  - Ideas
+created: 2025/07/13 at 17:36
 updated: 2025/07/22 at 19:25
 permalink: ideas
+
 ---
 
 - use linter yaml title alias and have quick add copy and paste that into the alias section in frontmatter

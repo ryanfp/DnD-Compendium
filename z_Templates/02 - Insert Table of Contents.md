@@ -1,8 +1,3 @@
----
-aliases:
-  - 2 - Insert Table of Contents
-title: 02 - Insert Table of Contents
----
 <%*
 // =====================================================================================================================================================================
 // FURTHER UPDATES TO PREVIOUS DANTEALI VERSIONS

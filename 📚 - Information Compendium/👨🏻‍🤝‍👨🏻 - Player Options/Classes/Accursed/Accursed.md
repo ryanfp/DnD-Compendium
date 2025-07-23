@@ -117,14 +117,14 @@ If Strength or Dexterity is your highest ability score, your next-highest should
 Through unfortunate circumstances, you were stricken with a curse that should have broken you. However, whether by sheer willpower, introspective meditation, or arcane study, you not only overcame the worst of the challenges your curse presented, but learned to harness its power. Choose the curse you conquered: 
 
 - [[curse-of-animation|Curse of Animation]]
-- [[Curse of the Armament]]
-- [[Curse of Combustion]]
-- [[Curse of the Created]]
-- [[Curse of Immortality]]
-- [[Curse of Misfortune]]
-- [[Curse of Mummification]]
-- [[Curse of Petrification]]
-- [[Curse of Somnolence]]
+- [[curse-of-the-armament|Curse of the Armament]]
+- [[curse-of-combustion|Curse of Combustion]]
+- [[curse-of-the-created|Curse of the Created]]
+- [[curse-of-immortality|Curse of Immortality]]
+- [[curse-of-misfortune|Curse of Misfortune]]
+- [[curse-of-mummification|Curse of Mummification]]
+- [[curse-of-petrification|Curse of Petrification]]
+- [[curse-of-somnolence|Curse of Somnolence]]
 
 All conquered curses are detailed at the end of the class.
 

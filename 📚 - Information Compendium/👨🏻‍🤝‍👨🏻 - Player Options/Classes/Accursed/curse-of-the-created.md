@@ -4,10 +4,10 @@ cssclasses: json5e-class
 tags: [ttrpg-cli/compendium/src/5e/ultimateadventurer, ttrpg-cli/subclass/accursed/created]
 aliases:
   - Curse of the Created
-date created: 2025:05:14, 21:46
-date modified: 2025:07:06, 18:59
 created: 2025/05/14 at 21:46
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 20:44
+permalink: curse-of-the-created
+title: Curse of the Created
 ---
 
 # Curse of the Created

@@ -1,8 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "curse-of-somnolence",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-somnolence.md"
+    },
+    {
+      "basename": "curse-of-petrification",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-petrification.md"
+    },
+    {
+      "basename": "curse-of-mummification",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-mummification.md"
+    },
+    {
+      "basename": "curse-of-misfortune",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-misfortune.md"
+    },
+    {
+      "basename": "curse-of-immortality",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-immortality.md"
+    },
+    {
+      "basename": "curse-of-the-created",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-the-created.md"
+    },
+    {
+      "basename": "curse-of-combustion",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-combustion.md"
+    },
+    {
+      "basename": "curse-of-the-armament",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-the-armament.md"
+    },
+    {
+      "basename": "curse-of-animation",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md"
+    },
+    {
       "basename": "20 - Add Permalink",
       "path": "z_Templates/20 - Add Permalink.md"
+    },
+    {
+      "basename": "99 - New File Auto Template",
+      "path": "z_Templates/99 - New File Auto Template.md"
+    },
+    {
+      "basename": "19 - Insert Columns",
+      "path": "z_Templates/19 - Insert Columns.md"
+    },
+    {
+      "basename": "Organization Hierarchy",
+      "path": "Organization Hierarchy.md"
     },
     {
       "basename": "Ideas",
@@ -21,48 +69,36 @@
       "path": "z_Templates/Class  Template.md"
     },
     {
-      "basename": "99 - New File Auto Template",
-      "path": "z_Templates/99 - New File Auto Template.md"
-    },
-    {
-      "basename": "19 - Insert Columns",
-      "path": "z_Templates/19 - Insert Columns.md"
-    },
-    {
-      "basename": "Curse of the Armament",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of the Armament.md"
-    },
-    {
-      "basename": "Curse of Combustion",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Combustion.md"
-    },
-    {
-      "basename": "curse-of-animation",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md"
-    },
-    {
-      "basename": "Classes",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
-    },
-    {
-      "basename": "16 - New Task",
-      "path": "z_Templates/16 - New Task.md"
+      "basename": "18 - Insert Vertical Timeline",
+      "path": "z_Templates/18 - Insert Vertical Timeline.md"
     },
     {
       "basename": "01 - Basic Callout Selecter",
       "path": "z_Templates/01 - Basic Callout Selecter.md"
     },
     {
-      "basename": "17 - Insert Kanban Board",
-      "path": "z_Templates/17 - Insert Kanban Board.md"
+      "basename": "02 - Insert Table of Contents",
+      "path": "z_Templates/02 - Insert Table of Contents.md"
     },
     {
-      "basename": "13 - Martial Class Feature Table",
-      "path": "z_Templates/13 - Martial Class Feature Table.md"
+      "basename": "3 - Session Notes Template",
+      "path": "z_Templates/3 - Session Notes Template.md"
     },
     {
-      "basename": "10 - Insert Captions",
-      "path": "z_Templates/10 - Insert Captions.md"
+      "basename": "04 - Insert Wiki Sidebar",
+      "path": "z_Templates/04 - Insert Wiki Sidebar.md"
+    },
+    {
+      "basename": "05 - Insert Infobox - Left",
+      "path": "z_Templates/05 - Insert Infobox - Left.md"
+    },
+    {
+      "basename": "06 - Insert Infobox - Right",
+      "path": "z_Templates/06 - Insert Infobox - Right.md"
+    },
+    {
+      "basename": "07 - Edit Metadata",
+      "path": "z_Templates/07 - Edit Metadata.md"
     },
     {
       "basename": "08 - Convert Image to Wiki",
@@ -73,12 +109,40 @@
       "path": "z_Templates/09 - Format YouTube Link.md"
     },
     {
-      "basename": "05 - Insert Infobox - Left",
-      "path": "z_Templates/05 - Insert Infobox - Left.md"
+      "basename": "10 - Insert Captions",
+      "path": "z_Templates/10 - Insert Captions.md"
     },
     {
-      "basename": "04 - Insert Wiki Sidebar",
-      "path": "z_Templates/04 - Insert Wiki Sidebar.md"
+      "basename": "11 - Insert Quotes",
+      "path": "z_Templates/11 - Insert Quotes.md"
+    },
+    {
+      "basename": "12 - Insert File Title",
+      "path": "z_Templates/12 - Insert File Title.md"
+    },
+    {
+      "basename": "13 - Martial Class Feature Table",
+      "path": "z_Templates/13 - Martial Class Feature Table.md"
+    },
+    {
+      "basename": "14 - Arcane Class Feature Table",
+      "path": "z_Templates/14 - Arcane Class Feature Table.md"
+    },
+    {
+      "basename": "15 - Subclass Feature Table",
+      "path": "z_Templates/15 - Subclass Feature Table.md"
+    },
+    {
+      "basename": "16 - New Task",
+      "path": "z_Templates/16 - New Task.md"
+    },
+    {
+      "basename": "17 - Insert Kanban Board",
+      "path": "z_Templates/17 - Insert Kanban Board.md"
+    },
+    {
+      "basename": "Classes",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
     },
     {
       "basename": "To-Do List",
@@ -135,70 +199,6 @@
     {
       "basename": "faction-agent",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/faction-agent.md"
-    },
-    {
-      "basename": "exile",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/exile.md"
-    },
-    {
-      "basename": "entertainer",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/entertainer.md"
-    },
-    {
-      "basename": "dragonmarked-foundling",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/dragonmarked-foundling.md"
-    },
-    {
-      "basename": "dragonmarked-scion",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/dragonmarked-scion.md"
-    },
-    {
-      "basename": "dragonmarked-bravo",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/dragonmarked-bravo.md"
-    },
-    {
-      "basename": "disciple",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/disciple.md"
-    },
-    {
-      "basename": "diplomat",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/diplomat.md"
-    },
-    {
-      "basename": "dimir-operative",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/dimir-operative.md"
-    },
-    {
-      "basename": "destined",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/destined.md"
-    },
-    {
-      "basename": "desert-runner",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/desert-runner.md"
-    },
-    {
-      "basename": "cult-initiate",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/cult-initiate.md"
-    },
-    {
-      "basename": "criminal-spy-variant",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/criminal-spy-variant.md"
-    },
-    {
-      "basename": "criminal",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/criminal.md"
-    },
-    {
-      "basename": "courtier",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/courtier.md"
-    },
-    {
-      "basename": "court-servant",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/court-servant.md"
-    },
-    {
-      "basename": "courier-brigade-cadet",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/courier-brigade-cadet.md"
     }
   ],
   "omittedPaths": [],

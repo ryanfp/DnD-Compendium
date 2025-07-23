@@ -1,8 +1,3 @@
----
-aliases:
-  - 6 - Insert Infobox - Right
-title: 06 - Insert Infobox - Right
----
 > [!infobox|right]
 > # Name
 > ![[Image.png|cover hsmall]]

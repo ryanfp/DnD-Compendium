@@ -1,10 +1,9 @@
 ---
-permalink: Classification Hierarchy
 aliases:
   - Classification Hierarchy
 created: 2025/06/22 at 23:39
-updated: 2025/07/13 at 17:27
-title: Organization Hierarchy
+updated: 2025/07/22 at 20:27
+title: Classification Hierarchy
 ---
 
 # Classification Hierarchy
