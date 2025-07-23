@@ -1,5 +1,5 @@
 {
-  "version": "",
+  "version": "1.5.3",
   "data": {
     "boardConfigs": [
       {
@@ -12,7 +12,8 @@
             "collapsed": false,
             "name": "Not Started",
             "index": 1,
-            "coltag": "not started"
+            "coltag": "not started",
+            "id": 301835
           },
           {
             "colType": "namedTag",
@@ -20,7 +21,8 @@
             "collapsed": false,
             "name": "In-Progress",
             "index": 2,
-            "coltag": "in-progress"
+            "coltag": "in-progress",
+            "id": 132858
           },
           {
             "colType": "namedTag",
@@ -28,7 +30,8 @@
             "collapsed": false,
             "name": "On Hold",
             "index": 3,
-            "coltag": "on hold"
+            "coltag": "on hold",
+            "id": 982333
           },
           {
             "colType": "namedTag",
@@ -36,7 +39,8 @@
             "collapsed": false,
             "name": "Under Review/Issue",
             "index": 4,
-            "coltag": "under review/issue"
+            "coltag": "under review/issue",
+            "id": 520779
           },
           {
             "colType": "namedTag",
@@ -44,7 +48,8 @@
             "collapsed": false,
             "name": "Cancelled",
             "index": 5,
-            "coltag": "cancelled"
+            "coltag": "cancelled",
+            "id": 587396
           },
           {
             "colType": "namedTag",
@@ -52,7 +57,8 @@
             "collapsed": false,
             "name": "Completed",
             "index": 6,
-            "coltag": "completed"
+            "coltag": "completed",
+            "id": 462685
           }
         ],
         "showColumnTags": true
@@ -160,8 +166,18 @@
       "compatiblePlugins": {
         "dailyNotesPlugin": false,
         "tasksPlugin": false,
-        "reminderPlugin": false
-      }
+        "reminderPlugin": false,
+        "dayPlannerPlugin": false,
+        "quickAddPlugin": false
+      },
+      "universalDateFormat": "yyyy-MM-DD",
+      "autoAddCreatedDate": false,
+      "autoAddUniversalDate": true,
+      "universalDate": "due",
+      "preDefinedNote": "Task_board_note.md",
+      "quickAddPluginDefaultChoice": "",
+      "archivedTasksFilePath": "",
+      "showFileNameInCard": false
     }
   }
 }

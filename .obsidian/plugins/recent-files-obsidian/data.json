@@ -1,24 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "filename-test",
-      "path": "filename-test.md"
-    },
-    {
-      "basename": "Smart Rename from Permalink",
-      "path": "z_Templates/Smart Rename from Permalink.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
+      "basename": "20 - Add Permalink",
+      "path": "z_Templates/20 - Add Permalink.md"
     },
     {
       "basename": "Ideas",
       "path": "Ideas.md"
     },
     {
-      "basename": "20 - Add Permalink",
-      "path": "z_Templates/20 - Add Permalink.md"
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Smart Rename from Permalink",
+      "path": "z_Templates/Smart Rename from Permalink.md"
+    },
+    {
+      "basename": "Class  Template",
+      "path": "z_Templates/Class  Template.md"
+    },
+    {
+      "basename": "99 - New File Auto Template",
+      "path": "z_Templates/99 - New File Auto Template.md"
+    },
+    {
+      "basename": "19 - Insert Columns",
+      "path": "z_Templates/19 - Insert Columns.md"
+    },
+    {
+      "basename": "Curse of the Armament",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of the Armament.md"
+    },
+    {
+      "basename": "Curse of Combustion",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Combustion.md"
+    },
+    {
+      "basename": "curse-of-animation",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md"
+    },
+    {
+      "basename": "Classes",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
+    },
+    {
+      "basename": "16 - New Task",
+      "path": "z_Templates/16 - New Task.md"
     },
     {
       "basename": "01 - Basic Callout Selecter",
@@ -51,10 +79,6 @@
     {
       "basename": "04 - Insert Wiki Sidebar",
       "path": "z_Templates/04 - Insert Wiki Sidebar.md"
-    },
-    {
-      "basename": "Curse of Animation",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Curse of Animation.md"
     },
     {
       "basename": "To-Do List",
@@ -175,30 +199,6 @@
     {
       "basename": "courier-brigade-cadet",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/courier-brigade-cadet.md"
-    },
-    {
-      "basename": "commercial-pilot",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/commercial-pilot.md"
-    },
-    {
-      "basename": "cobalt-scholar-sage-egw",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/cobalt-scholar-sage-egw.md"
-    },
-    {
-      "basename": "cloistered-scholar",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/cloistered-scholar.md"
-    },
-    {
-      "basename": "clasp-member-myriad-operative-variant-tdcsr",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/clasp-member-myriad-operative-variant-tdcsr.md"
-    },
-    {
-      "basename": "clasp-member",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/clasp-member.md"
-    },
-    {
-      "basename": "clan-crafter",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/clan-crafter.md"
     }
   ],
   "omittedPaths": [],

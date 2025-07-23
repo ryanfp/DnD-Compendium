@@ -64,7 +64,7 @@ SoManyRobots (<sup>SMR</sup>)
 
 *Through unfortunate circumstances, you were stricken with a curse that should have broken you. However, whether by sheer willpower, introspective meditation, or arcane study, you not only overcame the worst of the challenges your curse presented, but learned to harness its power.*
 
-#### **[[Curse of Animation]]**
+#### **[[curse-of-animation|Curse of Animation]]**
 While still alive, your skeleton was animated with dark magic by a cruel and powerful necromancer, causing it to have a desire to break free and rebel. This subclass deals with calcium manipulation to create bone-weapons and other augmentations/tools.
 #### **Curse of The Armament**
 You were cursed by a magical or sentient object. For some reason, you’ve chosen to remain attuned to this object. This subclass lets you increase in power by scaling your weapon attacks and giving it powerful abilities, such as auto-returning when thrown.

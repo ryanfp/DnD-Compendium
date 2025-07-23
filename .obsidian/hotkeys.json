@@ -254,5 +254,11 @@
       ],
       "key": "X"
     }
+  ],
+  "templater-obsidian:z_Templates/Smart Rename from Permalink.md": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
   ]
 }

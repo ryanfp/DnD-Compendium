@@ -33,13 +33,8 @@
       "id": "iconic:change-icon-current-file",
       "icon": "lucide-component",
       "name": "Iconic: Change icon of the current file",
-      "mode": "any"
-    },
-    {
-      "id": "smart-rename:smart-rename",
-      "icon": "lucide-a-arrow-up",
-      "name": "Smart Rename",
-      "mode": "any"
+      "mode": "any",
+      "color": "#fb09cf"
     },
     {
       "id": "workspace:copy-path",
@@ -58,6 +53,13 @@
       "icon": "lucide-files",
       "name": "Files: Show file explorer",
       "mode": "any"
+    },
+    {
+      "id": "obsidian-linter:ignore-file",
+      "icon": "lint-ignored-file",
+      "name": "Linter: Ignore file",
+      "mode": "any",
+      "color": "#d40c0c"
     }
   ],
   "leftRibbon": [],

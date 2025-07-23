@@ -21,7 +21,7 @@ async function copyPermalinkAndRename(tp) {
 
         // Copy to clipboard using navigator API
         await navigator.clipboard.writeText(permalink);
-        await wait(150); // Slightly reduced wait after clipboard operation
+        await wait(100); // Reduced wait after clipboard operation
 
         // Create and dispatch F2 key event
         const f2Event = new KeyboardEvent('keydown', {
@@ -35,18 +35,18 @@ async function copyPermalinkAndRename(tp) {
         document.dispatchEvent(f2Event);
 
         // Wait for modal to appear and handle the rename process
-        await wait(400); // Reduced wait for modal to appear
+        await wait(300); // Reduced wait for modal to appear
 
         // Get the rename modal input
         const renameModal = document.querySelector('.modal-container input[type="text"]');
         if (renameModal) {
             // Focus the input first
             renameModal.focus();
-            await wait(200); // Reduced wait after focus
+            await wait(100); // Reduced wait after focus
 
             // First try: programmatic selection
             renameModal.select();
-            await wait(150);
+            await wait(100);
 
             // Second try: simulate Ctrl+A
             const ctrlDown = new KeyboardEvent('keydown', {
@@ -67,14 +67,14 @@ async function copyPermalinkAndRename(tp) {
                 ctrlKey: true
             });
             renameModal.dispatchEvent(ctrlDown);
-            await wait(50);
+            await wait(30);
             renameModal.dispatchEvent(aDown);
-            await wait(200);
+            await wait(100);
 
             // Set the value directly
             renameModal.value = permalink;
             renameModal.dispatchEvent(new Event('input'));
-            await wait(150);
+            await wait(100);
 
             // Also try pasting
             const pasteEvent = new ClipboardEvent('paste', {
@@ -83,14 +83,14 @@ async function copyPermalinkAndRename(tp) {
                 clipboardData: new DataTransfer()
             });
             renameModal.dispatchEvent(pasteEvent);
-            await wait(200);
+            await wait(100);
 
             // Ensure the value is set
             if (renameModal.value !== permalink) {
                 renameModal.value = permalink;
                 renameModal.dispatchEvent(new Event('input'));
             }
-            await wait(150);
+            await wait(100);
 
             // Simulate Enter key press
             const enterDown = new KeyboardEvent('keydown', {
@@ -111,11 +111,11 @@ async function copyPermalinkAndRename(tp) {
             });
             
             renameModal.dispatchEvent(enterDown);
-            await wait(50);
+            await wait(30);
             renameModal.dispatchEvent(enterUp);
 
             // As a backup, also try clicking the submit button
-            await wait(100);
+            await wait(50);
             const submitButton = document.querySelector('.modal-button-container button.mod-cta');
             if (submitButton) {
                 submitButton.click();
@@ -129,4 +129,4 @@ async function copyPermalinkAndRename(tp) {
     }
 }
 
-module.exports = copyPermalinkAndRename; 
+module.exports = copyPermalinkAndRename;

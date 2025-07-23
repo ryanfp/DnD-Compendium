@@ -1,13 +1,27 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/ultimateadventurer, ttrpg-cli/subclass/accursed/armament]
+permalink: curse-of-the-armament
+title: Curse of the Armament
 aliases:
   - Curse of the Armament
-date created: 2025:05:14, 21:46
-date modified: 2025:07:06, 18:58
 created: 2025/05/14 at 21:46
-updated: 2025/07/13 at 00:17
+updated: 2025/07/22 at 20:19
+---
+
+---
+
+obsidianUIMode: preview
+
+cssclasses: json5e-class
+
+tags: [ttrpg-cli/compendium/src/5e/ultimateadventurer, ttrpg-cli/subclass/accursed/armament]
+
+aliases:
+
+  - Curse of the Armament
+created: 2025/05/14 at 21:46
+updated: 2025/07/22 at 20:02
+title: Curse of the Armament
+
 ---
 
 # Curse of the Armament

@@ -1,17 +1,14 @@
 ---
-curse-of-animation
 obsidianUIMode: preview
-cssclasses:
-  - json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/ultimateadventurer
-  - ttrpg-cli/subclass/accursed/animation
+cssclasses: [json5e-class]
+tags: [ttrpg-cli/compendium/src/5e/ultimateadventurer, ttrpg-cli/subclass/accursed/animation]
 aliases:
   - Curse of Animation
   - Curse of Animation - Accursed
 created: 2025/05/14 at 21:46
-updated: 2025/07/21 at 21:58
+updated: 2025/07/22 at 20:19
 title: Curse of Animation
+permalink: curse-of-animation
 ---
 
 # Curse of Animation
@@ -95,9 +92,9 @@ Starting at 2nd level, your increasing mastery of your curse causes you to learn
 
 ### Necromantic Spurs (Level 3)
 
-Starting at 3rd level, each weapon you create with your [Bone Spurring](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Accursed/Curse%20of%20Animation.md#Bone%20Spurring%20(Level%201)) counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage while you wield it.
+Starting at 3rd level, each weapon you create with your [Bone Spurring](curse-of-animation.md) counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage while you wield it.
 
-Additionally, you can empower the bone objects you create with your curse's animating energy. When you create an object with your [Bone Spurring](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Accursed/Curse%20of%20Animation.md#Bone%20Spurring%20(Level%201)) or as a bonus action while holding one of your bone objects, you can expend a spell slot to empower it until it leaves your hand. The empowered effect depends on the type of bone object.
+Additionally, you can empower the bone objects you create with your curse's animating energy. When you create an object with your [Bone Spurring](curse-of-animation.md) or as a bonus action while holding one of your bone objects, you can expend a spell slot to empower it until it leaves your hand. The empowered effect depends on the type of bone object.
 
 #### Shield
 

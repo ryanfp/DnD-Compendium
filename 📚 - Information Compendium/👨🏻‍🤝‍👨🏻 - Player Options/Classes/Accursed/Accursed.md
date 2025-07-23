@@ -116,7 +116,7 @@ If Strength or Dexterity is your highest ability score, your next-highest should
 
 Through unfortunate circumstances, you were stricken with a curse that should have broken you. However, whether by sheer willpower, introspective meditation, or arcane study, you not only overcame the worst of the challenges your curse presented, but learned to harness its power. Choose the curse you conquered: 
 
-- [[Curse of Animation]]
+- [[curse-of-animation|Curse of Animation]]
 - [[Curse of the Armament]]
 - [[Curse of Combustion]]
 - [[Curse of the Created]]
