@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Classes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Classes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "ideas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ideas.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ideas\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "elemental-practice",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Dragon Knight/elemental-practice.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"elemental-practice\"}",
@@ -2332,7 +2344,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ideas.md",
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Druid/Circle of Blood.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -2347,7 +2359,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ideas"
+              "title": "Circle of Blood"
             }
           }
         ]
@@ -2470,8 +2482,7 @@
               "title": "Tag Folder"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -2774,10 +2785,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ideas.md"
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Druid/Circle of Blood.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for ideas"
+              "title": "File properties for Circle of Blood"
             }
           }
         ],
@@ -2820,11 +2831,18 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "8d62c4a32034980a",
   "lastOpenFiles": [
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
+    "source_template.md",
+    "copyPermalinkAndRename.js",
+    "extractSource.js",
+    "add_permalink_template.md",
+    "ideas.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Dragon Knight/elemental-practice.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/craftsman/thunderlords-guild.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/craftsman/trappers-guild.md",
@@ -2847,12 +2865,6 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/life-domain.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/knowledge-domain.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/inquisition-domain.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/eldritch-domain.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-war-domain-xphb.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/death-domain.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-war-domain.md",
-    "extractSource.js",
-    "copyPermalinkAndRename.js",
     "z_Scripts/extractSource.js",
     "untitled-1",
     "z_Scripts/copyPermalinkAndRename.js",

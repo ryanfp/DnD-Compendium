@@ -4,9 +4,8 @@ aliases:
   - Smart Rename from Permalink
 title: ""
 created: 2025/07/13 at 17:36
-updated: 2025/07/22 at 23:52
-source: Random---
-permalink: ideas
+updated: 2025/07/23 at 22:58
+source: Randompermalink: ideas
 ---
 
 Source: Random---

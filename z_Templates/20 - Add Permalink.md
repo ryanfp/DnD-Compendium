@@ -1,21 +1,42 @@
 <%*
-tp.hooks.on_all_templates_executed(async () => {
-  const file = tp.file.find_tfile(tp.file.path(true));
-  
-  // Get existing frontmatter
-  const currentFrontmatter = app.metadataCache.getFileCache(file)?.frontmatter || {};
-  
-  // Merge new permalink with existing frontmatter
-  await app.fileManager.processFrontMatter(file, (frontmatter) => {
-    // Preserve existing frontmatter by copying all properties
-    Object.keys(currentFrontmatter).forEach(key => {
-      if (key !== 'position') { // Skip position metadata
-        frontmatter[key] = currentFrontmatter[key];
-      }
-    });
-    
-    // Add or update the permalink
-    frontmatter["permalink"] = tp.user.trim_title(tp.file.title);
-  });
-});
+async function processFolder(folderPath) {
+    // Get all markdown files in the folder
+    const folder = app.vault.getAbstractFileByPath(folderPath);
+    if (!folder || !folder.children) {
+        console.warn(`Folder not found or not a folder: ${folderPath}`);
+        return;
+    }
+
+    // Process all markdown files in the folder
+    for (const file of folder.children) {
+        if (file.extension === 'md') {
+            await tp.user.trimTitle.processFile(file, app);
+        }
+    }
+}
+
+async function addPermalink() {
+    try {
+        // Check if we're processing a folder
+        const folderPath = await tp.system.prompt("Enter folder path to process (leave empty for current file):");
+        
+        if (folderPath) {
+            // Process entire folder
+            await processFolder(folderPath);
+        } else {
+            // Process single file
+            const file = tp.file.find_tfile(tp.file.path(true));
+            if (!file) {
+                console.warn('No active file found');
+                return;
+            }
+            await tp.user.trimTitle.processFile(file, app);
+        }
+
+    } catch (error) {
+        console.error('Error in addPermalink:', error);
+    }
+}
+
+await addPermalink();
 %>
