@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ideas",
+      "path": "ideas.md"
+    },
+    {
       "basename": "elemental-practice",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Dragon Knight/elemental-practice.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "infernal-bond",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/beastheart/infernal-bond.md"
-    },
-    {
-      "basename": "ferocious-bond",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/beastheart/ferocious-bond.md"
     }
   ],
   "omittedPaths": [],

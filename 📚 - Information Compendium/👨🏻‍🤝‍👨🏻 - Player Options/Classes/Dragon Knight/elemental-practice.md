@@ -1,13 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/dk
-  - ttrpg-cli/subclass/dragon-knight/elemental
+tags: [ttrpg-cli/compendium/src/5e/dk, ttrpg-cli/subclass/dragon-knight/elemental]
 aliases:
   - Elemental Practice
 created: 2025/06/13 at 22:27
-updated: 2025/07/22 at 23:31
+updated: 2025/07/22 at 23:35
 source: Dragon Knight
 permalink: elemental-practice
 title: Elemental Practice
