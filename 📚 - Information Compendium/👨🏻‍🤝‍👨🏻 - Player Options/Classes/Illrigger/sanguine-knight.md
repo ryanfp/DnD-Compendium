@@ -5,12 +5,15 @@ tags: [ttrpg-cli/compendium/src/5e/illriggerrevised, ttrpg-cli/subclass/illrigge
 aliases:
   - Sanguine Knight
 created: 2025/06/13 at 22:28
-updated: 2025/07/13 at 00:17
+updated: 2025/07/24 at 00:52
+title: Sanguine Knight
+permalink: sanguine-knight
+source: The Illrigger Revised
 ---
 
 # Sanguine Knight
 
-*[Illrigger](Illrigger.md): Diabolic Contracts*  
+*[illrigger](illrigger.md): Diabolic Contracts*  
 *Source: The Illrigger Revised*  
 
 > [!tldr] Class and Feature Progression

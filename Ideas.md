@@ -36,4 +36,6 @@ permalink: ideas
 	- get folder notes working with publish
 - in obsidian publish megathread
 	- click image to enlarge
-	- 
+- create functions for templates
+	- insert base class table that prompts for each skill/abillitiy, level, etc. 
+		- Also have it just prompt for each class or subclass ability too

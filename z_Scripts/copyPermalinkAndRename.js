@@ -1,14 +1,52 @@
 /**
- * Renames a file to match its permalink frontmatter using Smart Rename
+ * @typedef {import('obsidian').TFile} TFile
+ * @typedef {import('obsidian').TFolder} TFolder
+ */
+
+/**
+ * Updates a link's display text in a file's content
+ * @param {TFile} file - The file containing the link
+ * @param {string} oldPath - The old file path
+ * @param {string} newPath - The new file path
+ * @param {string} oldName - The old file name
+ * @param {App} app - The Obsidian app instance
+ */
+async function updateLinkDisplayText(file, oldPath, newPath, oldName, app) {
+    try {
+        const content = await app.vault.read(file);
+        let newContent = content;
+
+        // Update wiki-style links that use the old name as display text
+        // [[oldPath|oldName]] -> [[newPath|oldName]]
+        const wikiLinkRegex = new RegExp(`\\[\\[([^\\]|]*${oldPath})[^\\]]*\\|${oldName}\\]\\]`, 'g');
+        newContent = newContent.replace(wikiLinkRegex, (match, p1) => {
+            return `[[${newPath}|${oldName}]]`;
+        });
+
+        // Update markdown-style links that use the old name as display text
+        // [oldName](oldPath) -> [oldName](newPath)
+        const markdownLinkRegex = new RegExp(`\\[${oldName}\\]\\(([^\\)]*)${oldPath}[^\\)]*\\)`, 'g');
+        newContent = newContent.replace(markdownLinkRegex, (match, p1) => {
+            return `[${oldName}](${newPath})`;
+        });
+
+        // Only modify the file if changes were made
+        if (newContent !== content) {
+            await app.vault.modify(file, newContent);
+        }
+    } catch (error) {
+        console.error(`Error updating links in ${file.path}:`, error);
+    }
+}
+
+/**
+ * Renames a file to match its permalink frontmatter while preserving links and display text
  * @param {TFile} file - The file to process
  * @param {App} app - The Obsidian app instance
  * @returns {Promise<void>}
  */
 async function processFile(file, app) {
     try {
-        // Helper function for controlled delays
-        const wait = (ms) => new Promise(resolve => setTimeout(resolve, ms));
-
         // Get the frontmatter
         const cache = app.metadataCache.getFileCache(file)?.frontmatter;
         const permalink = cache?.permalink;
@@ -27,68 +65,44 @@ async function processFile(file, app) {
             return;
         }
 
-        // Try to use Smart Rename's command API
-        const smartRenameCommand = app.commands.commands['smart-rename:smart-rename'];
-        if (!smartRenameCommand) {
-            console.warn('Smart Rename plugin not found - please install it to preserve links and aliases');
-            return;
-        }
-
-        // Focus/select the file in the file explorer to ensure Smart Rename works on the correct file
-        const fileExplorer = app.workspace.getLeavesOfType('file-explorer')[0]?.view;
-        if (fileExplorer) {
-            fileExplorer.revealInFolder(file);
-            // Select the file in the explorer
-            fileExplorer.setSelection([file]);
-            await wait(150);
-        }
-
-        // Execute Smart Rename command
-        await app.commands.executeCommandById('smart-rename:smart-rename');
-        await wait(200);
-
-        // Get the rename modal input
-        const renameModal = document.querySelector('.modal-container input[type="text"]');
-        if (renameModal) {
-            // Focus and select all text
-            renameModal.focus();
-            await wait(100);
-            renameModal.select();
-            await wait(100);
-
-            // Set new value
-            renameModal.value = permalink;
-            renameModal.dispatchEvent(new Event('input'));
-            await wait(150);
-
-            // Submit the rename
-            const enterEvent = new KeyboardEvent('keydown', {
-                key: 'Enter',
-                code: 'Enter',
-                keyCode: 13,
-                which: 13,
-                bubbles: true,
-                cancelable: true
-            });
-            renameModal.dispatchEvent(enterEvent);
-
-            // Wait for Smart Rename to process
-            await wait(400);
-
-            // Check if the modal is still open (indicating the rename might have failed)
-            const modalStillOpen = document.querySelector('.modal-container input[type="text"]');
-            if (modalStillOpen) {
-                // Try clicking the submit button as backup
-                const submitButton = document.querySelector('.modal-button-container button.mod-cta');
-                if (submitButton) {
-                    submitButton.click();
-                    await wait(200);
-                }
+        try {
+            // First, ensure the old name is added as an alias if it doesn't exist
+            const aliases = cache?.aliases || [];
+            if (!aliases.includes(currentName)) {
+                await app.fileManager.processFrontMatter(file, (frontmatter) => {
+                    frontmatter.aliases = frontmatter.aliases || [];
+                    if (!frontmatter.aliases.includes(currentName)) {
+                        frontmatter.aliases.push(currentName);
+                    }
+                });
+                // Small delay to ensure frontmatter is saved
+                await new Promise(resolve => setTimeout(resolve, 100));
             }
 
-            console.log(`Renamed ${file.basename} to ${permalink} using Smart Rename`);
-        } else {
-            console.warn(`Could not find Smart Rename modal for ${file.basename}`);
+            // Get the old and new paths
+            const oldPath = file.path;
+            const newPath = file.path.replace(file.basename, permalink);
+
+            // Get all files that link to this one
+            const backlinks = app.metadataCache.getBacklinksForFile(file);
+            if (backlinks) {
+                // Update display text in all backlinks before renaming
+                for (const [sourcePath, _] of backlinks.data.entries()) {
+                    const sourceFile = app.vault.getAbstractFileByPath(sourcePath);
+                    if (sourceFile instanceof TFile) {
+                        await updateLinkDisplayText(sourceFile, currentName, permalink, currentName, app);
+                    }
+                }
+                // Small delay to ensure all backlinks are updated
+                await new Promise(resolve => setTimeout(resolve, 100));
+            }
+            
+            // Use Obsidian's file manager to rename (this preserves basic links)
+            await app.fileManager.renameFile(file, newPath);
+            console.log(`Renamed ${file.basename} to ${permalink}`);
+
+        } catch (error) {
+            console.error(`Error renaming ${file.basename}:`, error);
         }
 
     } catch (error) {
@@ -103,18 +117,32 @@ async function processFile(file, app) {
  * @returns {Promise<void>}
  */
 async function processFolder(folder, app) {
-    if (!folder || !folder.children) {
-        console.warn('Invalid folder object');
-        return;
-    }
+    try {
+        // Get all immediate markdown files in this folder (non-recursive)
+        const files = folder.children
+            .filter(file => file instanceof TFile && file.extension === 'md');
 
-    for (const file of folder.children) {
-        if (file.extension === 'md') {
+        // Process each file
+        for (const file of files) {
             await processFile(file, app);
-            // Add a longer delay between files to ensure Smart Rename completes
-            await new Promise(resolve => setTimeout(resolve, 600));
+            // Add a small delay between files
+            await new Promise(resolve => setTimeout(resolve, 200));
         }
+    } catch (error) {
+        console.error(`Error processing folder:`, error);
     }
+}
+
+/**
+ * Check if a file is a folder note
+ * @param {TFile} file - The file to check
+ * @returns {boolean} - True if the file is a folder note
+ */
+function isFolderNote(file) {
+    // Check if the file has the same name as its parent folder
+    if (!file || !file.parent) return false;
+    const fileNameWithoutExt = file.basename;
+    return file.parent.name === fileNameWithoutExt;
 }
 
 /**
@@ -124,31 +152,28 @@ async function processFolder(folder, app) {
  */
 async function copyPermalinkAndRename(tp = null) {
     try {
-        let targetFile = null;
-
-        // Check if we're in a Linter/folder context first
+        // Try to get selected files from file explorer
         const fileExplorer = app.workspace.getLeavesOfType('file-explorer')[0]?.view;
         if (fileExplorer) {
-            // Get the selected files using the correct API method
-            const selection = fileExplorer.getSelection();
-            if (selection && selection.length > 0) {
-                // Process all selected items
-                for (const item of selection) {
-                    if (item instanceof TFolder) {
-                        await processFolder(item, app);
-                    } else if (item instanceof TFile && item.extension === 'md') {
-                        await processFile(item, app);
+            const selectedFiles = fileExplorer.getSelectedFiles();
+            if (selectedFiles && selectedFiles.length > 0) {
+                // Process only the selected files
+                for (const file of selectedFiles) {
+                    if (file instanceof TFile && file.extension === 'md' && !isFolderNote(file)) {
+                        await processFile(file, app);
+                        // Add a small delay between files
+                        await new Promise(resolve => setTimeout(resolve, 200));
                     }
                 }
-                return; // Exit early if we processed selected items
+                return;
             }
         }
 
-        // If no selection, try other contexts
-        targetFile = app.workspace.getActiveFile();
+        // If no selection, try Templater or active file
+        let targetFile = null;
 
-        // If no active file but Templater context exists, try that
-        if (!targetFile && tp) {
+        // Try Templater context
+        if (tp) {
             try {
                 targetFile = tp.file.find_tfile(tp.file.path(true));
             } catch (e) {
@@ -156,14 +181,22 @@ async function copyPermalinkAndRename(tp = null) {
             }
         }
 
-        // Process the target if we found one
-        if (targetFile) {
-            if (targetFile instanceof TFolder) {
-                await processFolder(targetFile, app);
-            } else if (targetFile instanceof TFile && targetFile.extension === 'md') {
-                await processFile(targetFile, app);
-            }
+        // If no file from Templater, try active file
+        if (!targetFile) {
+            targetFile = app.workspace.getActiveFile();
         }
+
+        // If we have a single file, process it
+        if (targetFile && targetFile.extension === 'md' && !isFolderNote(targetFile)) {
+            await processFile(targetFile, app);
+            return;
+        }
+
+        // If we're processing a folder
+        if (targetFile?.parent) {
+            await processFolder(targetFile.parent, app);
+        }
+
     } catch (error) {
         console.error('Error in copyPermalinkAndRename:', error);
     }

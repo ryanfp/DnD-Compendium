@@ -1,4 +1,9 @@
 /**
+ * @typedef {import('obsidian').TFile} TFile
+ * @typedef {import('obsidian').TFolder} TFolder
+ */
+
+/**
  * Extracts source information from file content and updates frontmatter
  * @param {TFile} file - The file to process
  * @param {App} app - The Obsidian app instance
@@ -96,15 +101,45 @@ async function processFolder(folder, app) {
 }
 
 /**
+ * Check if a file is a folder note
+ * @param {TFile} file - The file to check
+ * @returns {boolean} - True if the file is a folder note
+ */
+function isFolderNote(file) {
+    // Check if the file has the same name as its parent folder
+    if (!file || !file.parent) return false;
+    const fileNameWithoutExt = file.basename;
+    return file.parent.name === fileNameWithoutExt;
+}
+
+/**
  * Main function to handle both single file and folder cases
  * @param {Object} tp - The Templater object (optional)
  * @returns {Promise<void>}
  */
 async function extractSource(tp = null) {
     try {
+        // Try to get selected files from file explorer
+        const fileExplorer = app.workspace.getLeavesOfType('file-explorer')[0]?.view;
+        if (fileExplorer) {
+            const selectedFiles = fileExplorer.getSelectedFiles();
+            if (selectedFiles && selectedFiles.length > 0) {
+                // Process only the selected files
+                for (const file of selectedFiles) {
+                    if (file instanceof TFile && file.extension === 'md' && !isFolderNote(file)) {
+                        await processFile(file, app);
+                        // Add a small delay between files
+                        await new Promise(resolve => setTimeout(resolve, 200));
+                    }
+                }
+                return;
+            }
+        }
+
+        // If no selection, try Templater or active file
         let targetFile = null;
 
-        // First try to get file from Templater context
+        // Try Templater context
         if (tp) {
             try {
                 targetFile = tp.file.find_tfile(tp.file.path(true));
@@ -119,21 +154,14 @@ async function extractSource(tp = null) {
         }
 
         // If we have a single file, process it
-        if (targetFile && targetFile instanceof TFile && targetFile.extension === 'md') {
+        if (targetFile && targetFile.extension === 'md' && !isFolderNote(targetFile)) {
             await processFile(targetFile, app);
             return;
         }
 
-        // If we're processing a folder (from Linter)
-        const currentFolder = targetFile?.parent || app.vault.getRoot();
-        if (currentFolder) {
-            // Get all markdown files in the folder
-            const files = currentFolder.children || [];
-            for (const file of files) {
-                if (file instanceof TFile && file.extension === 'md') {
-                    await processFile(file, app);
-                }
-            }
+        // If we're processing a folder
+        if (targetFile?.parent) {
+            await processFolder(targetFile.parent, app);
         }
 
     } catch (error) {

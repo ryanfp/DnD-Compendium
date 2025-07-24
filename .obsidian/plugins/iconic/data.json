@@ -190,13 +190,6 @@
         "74b9081e8f8b76ce"
       ]
     },
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Illrigger": {
-      "icon": "👿",
-      "unsynced": [
-        "74b9081e8f8b76ce"
-      ],
-      "color": "cyan"
-    },
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator": {
       "icon": "🔎",
       "unsynced": [
@@ -337,6 +330,13 @@
       "unsynced": [
         "74b9081e8f8b76ce"
       ]
+    },
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/illrigger": {
+      "icon": "👿",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ],
+      "color": "cyan"
     },
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/z_img": {
       "icon": "lucide-paperclip",

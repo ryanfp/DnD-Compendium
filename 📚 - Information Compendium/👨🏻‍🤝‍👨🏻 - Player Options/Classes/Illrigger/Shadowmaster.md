@@ -5,12 +5,15 @@ tags: [ttrpg-cli/compendium/src/5e/illriggerrevised, ttrpg-cli/subclass/illrigge
 aliases:
   - Shadowmaster
 created: 2025/06/13 at 22:28
-updated: 2025/07/13 at 00:17
+updated: 2025/07/24 at 00:44
+title: Shadowmaster
+permalink: shadowmaster
+source: The Illrigger Revised
 ---
 
 # Shadowmaster
 
-*[Illrigger](Illrigger.md): Diabolic Contracts*  
+*[illrigger](illrigger.md): Diabolic Contracts*  
 *Source: The Illrigger Revised*  
 
 > [!tldr] Class and Feature Progression

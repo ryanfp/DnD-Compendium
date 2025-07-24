@@ -5,8 +5,10 @@ tags: [ttrpg-cli/compendium/src/5e/dk, ttrpg-cli/subclass/dragon-knight/shadow]
 aliases:
   - Shadow Practice
 created: 2025/06/13 at 22:27
-updated: 2025/07/23 at 23:50
+updated: 2025/07/24 at 00:35
 title: Shadow Practice
+permalink: shadow-practice
+source: Dragon Knight
 ---
 
 # Shadow Practice

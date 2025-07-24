@@ -5,7 +5,10 @@ tags: [ttrpg-cli/class/illrigger, ttrpg-cli/compendium/src/5e/illriggerrevised]
 aliases:
   - Illrigger
 created: 2025/06/13 at 22:28
-updated: 2025/07/13 at 00:17
+updated: 2025/07/24 at 00:37
+permalink: illrigger
+source: The Illrigger Revised
+title: Illrigger
 ---
 
 # Illrigger

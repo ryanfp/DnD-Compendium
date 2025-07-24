@@ -60,7 +60,7 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "path",
+  "settingsTab": "folder_overview",
   "supportedFileTypes": [
     "md",
     "canvas"
@@ -98,7 +98,7 @@
     "string": ""
   },
   "hideCollapsingIcon": false,
-  "hideCollapsingIconForEmptyFolders": false,
+  "hideCollapsingIconForEmptyFolders": true,
   "tabManagerEnabled": true,
   "ignoreAttachmentFolder": true,
   "deleteFilesAction": "trash",
