@@ -1,20 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "ideas",
-      "path": "ideas.md"
+      "basename": "hellspeaker",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/illrigger/hellspeaker.md"
     },
     {
-      "basename": "to-do-list",
-      "path": "to-do-list.md"
+      "basename": "new-note-for-testing",
+      "path": "new-note-for-testing.md"
+    },
+    {
+      "basename": "Alchemist",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/Alchemist.md"
+    },
+    {
+      "basename": "Accursed",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md"
+    },
+    {
+      "basename": "curse-of-animation",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md"
+    },
+    {
+      "basename": "curse-of-combustion",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-combustion.md"
+    },
+    {
+      "basename": "curse-of-the-armament",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-the-armament.md"
+    },
+    {
+      "basename": "rider-practice",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/dragon-knight/rider-practice.md"
+    },
+    {
+      "basename": "platinum-practice",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/dragon-knight/platinum-practice.md"
+    },
+    {
+      "basename": "garden-practice",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/dragon-knight/garden-practice.md"
+    },
+    {
+      "basename": "elemental-practice",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/dragon-knight/elemental-practice.md"
+    },
+    {
+      "basename": "painkiller",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/illrigger/painkiller.md"
+    },
+    {
+      "basename": "architect-of-ruin",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/illrigger/architect-of-ruin.md"
+    },
+    {
+      "basename": "shadowmaster",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/illrigger/shadowmaster.md"
     },
     {
       "basename": "sanguine-knight",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/illrigger/sanguine-knight.md"
     },
     {
-      "basename": "shadowmaster",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/illrigger/shadowmaster.md"
+      "basename": "Test Folder",
+      "path": "Test Folder/Test Folder.md"
+    },
+    {
+      "basename": "ideas",
+      "path": "ideas.md"
+    },
+    {
+      "basename": "to-do-list",
+      "path": "to-do-list.md"
     },
     {
       "basename": "illrigger",
@@ -31,26 +87,6 @@
     {
       "basename": "dragon-knight",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/dragon-knight/dragon-knight.md"
-    },
-    {
-      "basename": "garden-practice",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/dragon-knight/garden-practice.md"
-    },
-    {
-      "basename": "elemental-practice",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/dragon-knight/elemental-practice.md"
-    },
-    {
-      "basename": "rider-practice",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/dragon-knight/rider-practice.md"
-    },
-    {
-      "basename": "platinum-practice",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/dragon-knight/platinum-practice.md"
-    },
-    {
-      "basename": "new-note-for-testing",
-      "path": "new-note-for-testing.md"
     },
     {
       "basename": "20 - Add Permalink",
@@ -163,42 +199,6 @@
     {
       "basename": "cleric-xphb-war-domain",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-war-domain.md"
-    },
-    {
-      "basename": "cleric-xphb-twilight-domain-tce",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-twilight-domain-tce.md"
-    },
-    {
-      "basename": "cleric-xphb-trickery-domain-xphb",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-trickery-domain-xphb.md"
-    },
-    {
-      "basename": "cleric-xphb-trickery-domain",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-trickery-domain.md"
-    },
-    {
-      "basename": "cleric-xphb-tempest-domain",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-tempest-domain.md"
-    },
-    {
-      "basename": "cleric-xphb-peace-domain-tce",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-peace-domain-tce.md"
-    },
-    {
-      "basename": "cleric-xphb-order-domain-tce",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-order-domain-tce.md"
-    },
-    {
-      "basename": "cleric-xphb-nature-domain",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-nature-domain.md"
-    },
-    {
-      "basename": "cleric-xphb-light-domain-xphb",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-light-domain-xphb.md"
-    },
-    {
-      "basename": "cleric-xphb-light-domain",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-light-domain.md"
     }
   ],
   "omittedPaths": [],

@@ -98,18 +98,6 @@ async function processFolder(folder, app) {
 }
 
 /**
- * Check if a file is a folder note
- * @param {TFile} file - The file to check
- * @returns {boolean} - True if the file is a folder note
- */
-function isFolderNote(file) {
-    // Check if the file has the same name as its parent folder
-    if (!file || !file.parent) return false;
-    const fileNameWithoutExt = file.basename;
-    return file.parent.name === fileNameWithoutExt;
-}
-
-/**
  * Main function to handle both single file and folder cases
  * @param {Object} tp - The Templater object (optional)
  * @returns {Promise<void>}
@@ -117,13 +105,16 @@ function isFolderNote(file) {
 async function trim_title(tp = null) {
     try {
         // Try to get selected files from file explorer
-        const fileExplorer = app.workspace.getLeavesOfType('file-explorer')[0]?.view;
-        if (fileExplorer) {
-            const selectedFiles = fileExplorer.getSelectedFiles();
+        const fileExplorer = app.workspace.getLeavesOfType('file-explorer')[0];
+        if (fileExplorer?.view?.fileItems) {
+            const selectedFiles = Object.values(fileExplorer.view.fileItems)
+                .filter(item => item.file && item.selected)
+                .map(item => item.file);
+
             if (selectedFiles && selectedFiles.length > 0) {
                 // Process only the selected files
                 for (const file of selectedFiles) {
-                    if (file instanceof TFile && file.extension === 'md' && !isFolderNote(file)) {
+                    if (file instanceof TFile && file.extension === 'md') {
                         await processFile(file, app);
                         // Add a small delay between files
                         await new Promise(resolve => setTimeout(resolve, 200));
@@ -151,7 +142,7 @@ async function trim_title(tp = null) {
         }
 
         // If we have a single file, process it
-        if (targetFile && targetFile.extension === 'md' && !isFolderNote(targetFile)) {
+        if (targetFile && targetFile.extension === 'md') {
             await processFile(targetFile, app);
             return;
         }

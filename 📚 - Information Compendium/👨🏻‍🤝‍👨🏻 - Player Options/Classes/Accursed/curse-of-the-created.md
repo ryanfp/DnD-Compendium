@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/ultimateadventurer, ttrpg-cli/subclass/accursed/created]
+tags:
+  - ttrpg-cli/compendium/src/5e/ultimateadventurer
+  - ttrpg-cli/subclass/accursed/created
 aliases:
   - Curse of the Created
 created: 2025/05/14 at 21:46
 updated: 2025/07/22 at 20:44
 permalink: curse-of-the-created
 title: Curse of the Created
+source: The Ultimate Adventurer's Handbook
 ---
 
 # Curse of the Created

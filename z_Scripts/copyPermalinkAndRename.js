@@ -40,13 +40,28 @@ async function updateLinkDisplayText(file, oldPath, newPath, oldName, app) {
 }
 
 /**
- * Renames a file to match its permalink frontmatter while preserving links and display text
+ * Track files we've already processed to prevent duplicates
+ */
+const processedFiles = new Set();
+
+/**
+ * Process a single file
  * @param {TFile} file - The file to process
  * @param {App} app - The Obsidian app instance
  * @returns {Promise<void>}
  */
 async function processFile(file, app) {
     try {
+        // Skip if we've already processed this file
+        if (processedFiles.has(file.path)) {
+            console.log(`Skipping ${file.basename}: already processed`);
+            return;
+        }
+        processedFiles.add(file.path);
+
+        // Add a delay to ensure any previous operations have completed
+        await new Promise(resolve => setTimeout(resolve, 500));
+        
         // Get the frontmatter
         const cache = app.metadataCache.getFileCache(file)?.frontmatter;
         const permalink = cache?.permalink;
@@ -97,6 +112,13 @@ async function processFile(file, app) {
                 await new Promise(resolve => setTimeout(resolve, 100));
             }
             
+            // Check if the target file exists to prevent errors
+            const targetFile = app.vault.getAbstractFileByPath(newPath);
+            if (targetFile) {
+                console.log(`Cannot rename ${file.basename}: target file ${permalink} already exists`);
+                return;
+            }
+            
             // Use Obsidian's file manager to rename (this preserves basic links)
             await app.fileManager.renameFile(file, newPath);
             console.log(`Renamed ${file.basename} to ${permalink}`);
@@ -111,38 +133,28 @@ async function processFile(file, app) {
 }
 
 /**
- * Process all files in a folder
+ * Process all markdown files in a folder
  * @param {TFolder} folder - The folder to process
  * @param {App} app - The Obsidian app instance
  * @returns {Promise<void>}
  */
 async function processFolder(folder, app) {
     try {
-        // Get all immediate markdown files in this folder (non-recursive)
-        const files = folder.children
-            .filter(file => file instanceof TFile && file.extension === 'md');
-
-        // Process each file
+        // Clear the processed files set when starting a new folder
+        processedFiles.clear();
+        
+        // Get all markdown files in the folder
+        const files = folder.children || [];
         for (const file of files) {
-            await processFile(file, app);
-            // Add a small delay between files
-            await new Promise(resolve => setTimeout(resolve, 200));
+            if (file instanceof TFile && file.extension === 'md') {
+                await processFile(file, app);
+                // Add a delay between files to prevent race conditions
+                await new Promise(resolve => setTimeout(resolve, 300));
+            }
         }
     } catch (error) {
-        console.error(`Error processing folder:`, error);
+        console.error(`Error processing folder ${folder.path}:`, error);
     }
-}
-
-/**
- * Check if a file is a folder note
- * @param {TFile} file - The file to check
- * @returns {boolean} - True if the file is a folder note
- */
-function isFolderNote(file) {
-    // Check if the file has the same name as its parent folder
-    if (!file || !file.parent) return false;
-    const fileNameWithoutExt = file.basename;
-    return file.parent.name === fileNameWithoutExt;
 }
 
 /**
@@ -152,17 +164,23 @@ function isFolderNote(file) {
  */
 async function copyPermalinkAndRename(tp = null) {
     try {
+        // Clear the processed files set at the start
+        processedFiles.clear();
+        
         // Try to get selected files from file explorer
-        const fileExplorer = app.workspace.getLeavesOfType('file-explorer')[0]?.view;
-        if (fileExplorer) {
-            const selectedFiles = fileExplorer.getSelectedFiles();
+        const fileExplorer = app.workspace.getLeavesOfType('file-explorer')[0];
+        if (fileExplorer?.view?.fileItems) {
+            const selectedFiles = Object.values(fileExplorer.view.fileItems)
+                .filter(item => item.file && item.selected)
+                .map(item => item.file);
+
             if (selectedFiles && selectedFiles.length > 0) {
                 // Process only the selected files
                 for (const file of selectedFiles) {
-                    if (file instanceof TFile && file.extension === 'md' && !isFolderNote(file)) {
+                    if (file instanceof TFile && file.extension === 'md') {
                         await processFile(file, app);
-                        // Add a small delay between files
-                        await new Promise(resolve => setTimeout(resolve, 200));
+                        // Add a delay between files to prevent race conditions
+                        await new Promise(resolve => setTimeout(resolve, 300));
                     }
                 }
                 return;
@@ -187,7 +205,7 @@ async function copyPermalinkAndRename(tp = null) {
         }
 
         // If we have a single file, process it
-        if (targetFile && targetFile.extension === 'md' && !isFolderNote(targetFile)) {
+        if (targetFile && targetFile.extension === 'md') {
             await processFile(targetFile, app);
             return;
         }

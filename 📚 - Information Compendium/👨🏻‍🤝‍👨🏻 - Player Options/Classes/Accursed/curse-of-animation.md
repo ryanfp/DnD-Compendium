@@ -6,9 +6,10 @@ aliases:
   - Curse of Animation
   - Curse of Animation - Accursed
 created: 2025/05/14 at 21:46
-updated: 2025/07/22 at 20:43
+updated: 2025/07/24 at 01:13
 title: Curse of Animation
 permalink: curse-of-animation
+source: "The Ultimate Adventurer's Handbook"
 ---
 
 # Curse of Animation

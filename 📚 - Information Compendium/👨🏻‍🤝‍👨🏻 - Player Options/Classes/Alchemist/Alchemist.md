@@ -5,7 +5,10 @@ tags: [ttrpg-cli/class/alchemist, ttrpg-cli/compendium/src/5e/vss]
 aliases:
   - Alchemist
 created: 2025/06/13 at 22:25
-updated: 2025/07/13 at 00:17
+updated: 2025/07/24 at 01:17
+title: Alchemist
+permalink: alchemist
+source: "Valda's Spire of Secrets"
 ---
 
 # Alchemist

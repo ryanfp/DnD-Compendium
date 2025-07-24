@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/ultimateadventurer, ttrpg-cli/subclass/accursed/petrification]
+tags:
+  - ttrpg-cli/compendium/src/5e/ultimateadventurer
+  - ttrpg-cli/subclass/accursed/petrification
 aliases:
   - Curse of Petrification
 created: 2025/05/14 at 21:46
 updated: 2025/07/22 at 20:53
 permalink: curse-of-petrification
 title: Curse of Petrification
+source: The Ultimate Adventurer's Handbook
 ---
 
 # Curse of Petrification

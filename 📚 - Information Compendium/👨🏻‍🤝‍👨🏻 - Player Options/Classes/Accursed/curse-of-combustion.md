@@ -5,9 +5,10 @@ tags: [ttrpg-cli/compendium/src/5e/ultimateadventurer, ttrpg-cli/subclass/accurs
 aliases:
   - Curse of Combustion
 created: 2025/05/14 at 21:46
-updated: 2025/07/22 at 20:43
+updated: 2025/07/24 at 01:14
 title: Curse of Combustion
 permalink: curse-of-combustion
+source: "The Ultimate Adventurer's Handbook"
 ---
 
 # Curse of Combustion

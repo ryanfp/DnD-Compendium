@@ -28,12 +28,6 @@
       "id": "0923c37d-8cc5-47af-950e-d1e3ac11608c",
       "commands": [
         {
-          "name": "Wait",
-          "type": "Wait",
-          "id": "cecac497-6332-4168-90de-5866110596f4",
-          "time": 100
-        },
-        {
           "name": "Templater: Insert z_Templates/20 - Add Permalink.md",
           "type": "Obsidian",
           "id": "9468198d-6699-43af-b2cf-4e257561df28",
@@ -100,30 +94,6 @@
       "id": "e5534606-cbf2-4b1f-9715-8d1df614940a",
       "commands": [
         {
-          "name": "Wait",
-          "type": "Wait",
-          "id": "3832f2bf-90cb-46f2-ba82-5bf87f279ec2",
-          "time": 100
-        },
-        {
-          "name": "Wait",
-          "type": "Wait",
-          "id": "ec904c95-0bcc-42ab-b4c8-c50c84cb7b89",
-          "time": 100
-        },
-        {
-          "name": "Wait",
-          "type": "Wait",
-          "id": "7648df7b-68ff-4a3b-89eb-12fe4f47c68b",
-          "time": 100
-        },
-        {
-          "name": "Wait",
-          "type": "Wait",
-          "id": "5e209786-e134-46ce-b1c3-ad209ad3cae0",
-          "time": 100
-        },
-        {
           "name": "Templater: Insert 21 - Smart Rename from Permalink",
           "type": "Obsidian",
           "id": "492ef1c0-7e74-4ea4-85ba-d7e9a02c3ec5",
@@ -136,18 +106,6 @@
       "name": "Extract Source",
       "id": "f3830bba-7228-40e7-a9d4-afb0bd052ebf",
       "commands": [
-        {
-          "name": "Wait",
-          "type": "Wait",
-          "id": "f5ef21b6-e515-40ac-ba94-8a123190f38e",
-          "time": 100
-        },
-        {
-          "name": "Wait",
-          "type": "Wait",
-          "id": "81d9a98f-ac99-4f6f-90b4-35efe59e58b1",
-          "time": 100
-        },
         {
           "name": "Templater: Insert 22 - Extract Source",
           "type": "Obsidian",

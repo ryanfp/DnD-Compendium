@@ -5,8 +5,10 @@ tags: [ttrpg-cli/compendium/src/5e/illriggerrevised, ttrpg-cli/subclass/illrigge
 aliases:
   - Painkiller
 created: 2025/06/13 at 22:28
-updated: 2025/07/24 at 00:37
+updated: 2025/07/24 at 01:11
 title: Painkiller
+permalink: painkiller
+source: The Illrigger Revised
 ---
 
 # Painkiller
