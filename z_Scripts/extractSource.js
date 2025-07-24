@@ -97,16 +97,15 @@ async function processFolder(folder, app) {
 
 /**
  * Main function to handle both single file and folder cases
- * @param {Object} tp - The Templater object
+ * @param {Object} tp - The Templater object (optional)
  * @returns {Promise<void>}
  */
-async function extractSource(tp) {
+async function extractSource(tp = null) {
     try {
-        // Try to get the file from the active editor first
-        let targetFile = app.workspace.getActiveFile();
+        let targetFile = null;
 
-        // If no active file, try to get it from Templater
-        if (!targetFile && tp) {
+        // First try to get file from Templater context
+        if (tp) {
             try {
                 targetFile = tp.file.find_tfile(tp.file.path(true));
             } catch (e) {
@@ -114,38 +113,29 @@ async function extractSource(tp) {
             }
         }
 
-        // If still no file, check if we're processing a folder with Linter
+        // If no file from Templater, try active file
         if (!targetFile) {
-            const activeView = app.workspace.getActiveViewOfType(app.workspace.getLeaf());
-            if (activeView && activeView.file) {
-                targetFile = activeView.file;
-            }
+            targetFile = app.workspace.getActiveFile();
         }
 
-        // If we found a target
-        if (targetFile) {
-            // Check if it's a folder
-            if (targetFile.children) {
-                await processFolder(targetFile, app);
-            } else {
-                await processFile(targetFile, app);
-            }
-        } else {
-            // No file or folder found - check if we're in a Linter folder context
-            const explorerView = app.workspace.getLeavesOfType('file-explorer')[0]?.view;
-            if (explorerView) {
-                const selectedItems = explorerView.getSelectedItems();
-                if (selectedItems && selectedItems.length > 0) {
-                    for (const item of selectedItems) {
-                        if (item.children) {
-                            await processFolder(item, app);
-                        } else if (item.extension === 'md') {
-                            await processFile(item, app);
-                        }
-                    }
+        // If we have a single file, process it
+        if (targetFile && targetFile instanceof TFile && targetFile.extension === 'md') {
+            await processFile(targetFile, app);
+            return;
+        }
+
+        // If we're processing a folder (from Linter)
+        const currentFolder = targetFile?.parent || app.vault.getRoot();
+        if (currentFolder) {
+            // Get all markdown files in the folder
+            const files = currentFolder.children || [];
+            for (const file of files) {
+                if (file instanceof TFile && file.extension === 'md') {
+                    await processFile(file, app);
                 }
             }
         }
+
     } catch (error) {
         console.error('Error in extractSource:', error);
     }

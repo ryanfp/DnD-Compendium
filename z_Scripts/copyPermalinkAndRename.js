@@ -27,59 +27,68 @@ async function processFile(file, app) {
             return;
         }
 
-        // Try to use Smart Rename's command API first
+        // Try to use Smart Rename's command API
         const smartRenameCommand = app.commands.commands['smart-rename:smart-rename'];
-        if (smartRenameCommand) {
-            // Focus/select the file in the file explorer
-            const fileExplorer = app.workspace.getLeavesOfType('file-explorer')[0]?.view;
-            if (fileExplorer) {
-                fileExplorer.revealInFolder(file);
-                await wait(50);
-            }
+        if (!smartRenameCommand) {
+            console.warn('Smart Rename plugin not found - please install it to preserve links and aliases');
+            return;
+        }
 
-            // Execute Smart Rename command
-            await app.commands.executeCommandById('smart-rename:smart-rename');
+        // Focus/select the file in the file explorer to ensure Smart Rename works on the correct file
+        const fileExplorer = app.workspace.getLeavesOfType('file-explorer')[0]?.view;
+        if (fileExplorer) {
+            fileExplorer.revealInFolder(file);
+            // Select the file in the explorer
+            fileExplorer.setSelection([file]);
+            await wait(150);
+        }
+
+        // Execute Smart Rename command
+        await app.commands.executeCommandById('smart-rename:smart-rename');
+        await wait(200);
+
+        // Get the rename modal input
+        const renameModal = document.querySelector('.modal-container input[type="text"]');
+        if (renameModal) {
+            // Focus and select all text
+            renameModal.focus();
+            await wait(100);
+            renameModal.select();
             await wait(100);
 
-            // Get the rename modal input
-            const renameModal = document.querySelector('.modal-container input[type="text"]');
-            if (renameModal) {
-                renameModal.focus();
-                await wait(50);
+            // Set new value
+            renameModal.value = permalink;
+            renameModal.dispatchEvent(new Event('input'));
+            await wait(150);
 
-                // Select all existing text
-                renameModal.select();
-                await wait(50);
+            // Submit the rename
+            const enterEvent = new KeyboardEvent('keydown', {
+                key: 'Enter',
+                code: 'Enter',
+                keyCode: 13,
+                which: 13,
+                bubbles: true,
+                cancelable: true
+            });
+            renameModal.dispatchEvent(enterEvent);
 
-                // Set new value
-                renameModal.value = permalink;
-                renameModal.dispatchEvent(new Event('input'));
-                await wait(50);
+            // Wait for Smart Rename to process
+            await wait(400);
 
-                // Submit the rename
-                const enterEvent = new KeyboardEvent('keydown', {
-                    key: 'Enter',
-                    code: 'Enter',
-                    keyCode: 13,
-                    which: 13,
-                    bubbles: true,
-                    cancelable: true
-                });
-                renameModal.dispatchEvent(enterEvent);
-
-                // As backup, also try clicking the submit button
-                await wait(50);
+            // Check if the modal is still open (indicating the rename might have failed)
+            const modalStillOpen = document.querySelector('.modal-container input[type="text"]');
+            if (modalStillOpen) {
+                // Try clicking the submit button as backup
                 const submitButton = document.querySelector('.modal-button-container button.mod-cta');
                 if (submitButton) {
                     submitButton.click();
+                    await wait(200);
                 }
-
-                console.log(`Renamed ${file.basename} to ${permalink}`);
-            } else {
-                console.warn(`Could not find rename modal for ${file.basename}`);
             }
+
+            console.log(`Renamed ${file.basename} to ${permalink} using Smart Rename`);
         } else {
-            console.warn('Smart Rename plugin command not found');
+            console.warn(`Could not find Smart Rename modal for ${file.basename}`);
         }
 
     } catch (error) {
@@ -102,23 +111,43 @@ async function processFolder(folder, app) {
     for (const file of folder.children) {
         if (file.extension === 'md') {
             await processFile(file, app);
-            // Add a small delay between files to ensure Smart Rename modal closes
-            await new Promise(resolve => setTimeout(resolve, 200));
+            // Add a longer delay between files to ensure Smart Rename completes
+            await new Promise(resolve => setTimeout(resolve, 600));
         }
     }
 }
 
 /**
  * Main function to handle both single file and folder cases
- * @param {Object} tp - The Templater object
+ * @param {Object} tp - The Templater object (optional)
  * @returns {Promise<void>}
  */
-async function copyPermalinkAndRename(tp) {
+async function copyPermalinkAndRename(tp = null) {
     try {
-        // Try to get the file from the active editor first
-        let targetFile = app.workspace.getActiveFile();
+        let targetFile = null;
 
-        // If no active file, try to get it from Templater
+        // Check if we're in a Linter/folder context first
+        const fileExplorer = app.workspace.getLeavesOfType('file-explorer')[0]?.view;
+        if (fileExplorer) {
+            // Get the selected files using the correct API method
+            const selection = fileExplorer.getSelection();
+            if (selection && selection.length > 0) {
+                // Process all selected items
+                for (const item of selection) {
+                    if (item instanceof TFolder) {
+                        await processFolder(item, app);
+                    } else if (item instanceof TFile && item.extension === 'md') {
+                        await processFile(item, app);
+                    }
+                }
+                return; // Exit early if we processed selected items
+            }
+        }
+
+        // If no selection, try other contexts
+        targetFile = app.workspace.getActiveFile();
+
+        // If no active file but Templater context exists, try that
         if (!targetFile && tp) {
             try {
                 targetFile = tp.file.find_tfile(tp.file.path(true));
@@ -127,36 +156,12 @@ async function copyPermalinkAndRename(tp) {
             }
         }
 
-        // If still no file, check if we're processing a folder with Linter
-        if (!targetFile) {
-            const activeView = app.workspace.getActiveViewOfType(app.workspace.getLeaf());
-            if (activeView && activeView.file) {
-                targetFile = activeView.file;
-            }
-        }
-
-        // If we found a target
+        // Process the target if we found one
         if (targetFile) {
-            // Check if it's a folder
-            if (targetFile.children) {
+            if (targetFile instanceof TFolder) {
                 await processFolder(targetFile, app);
-            } else {
+            } else if (targetFile instanceof TFile && targetFile.extension === 'md') {
                 await processFile(targetFile, app);
-            }
-        } else {
-            // No file or folder found - check if we're in a Linter folder context
-            const explorerView = app.workspace.getLeavesOfType('file-explorer')[0]?.view;
-            if (explorerView) {
-                const selectedItems = explorerView.getSelectedItems();
-                if (selectedItems && selectedItems.length > 0) {
-                    for (const item of selectedItems) {
-                        if (item.children) {
-                            await processFolder(item, app);
-                        } else if (item.extension === 'md') {
-                            await processFile(item, app);
-                        }
-                    }
-                }
             }
         }
     } catch (error) {
@@ -165,4 +170,4 @@ async function copyPermalinkAndRename(tp) {
 }
 
 // Export the main function as default
-module.exports = copyPermalinkAndRename; 
+module.exports = copyPermalinkAndRename;
