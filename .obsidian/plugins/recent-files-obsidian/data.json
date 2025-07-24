@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "dragon-knight",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/dragon-knight/dragon-knight.md"
+    },
+    {
+      "basename": "new-note-for-testing",
+      "path": "new-note-for-testing.md"
+    },
+    {
+      "basename": "to-do-list",
+      "path": "to-do-list.md"
+    },
+    {
+      "basename": "20 - Add Permalink",
+      "path": "z_Templates/20 - Add Permalink.md"
+    },
+    {
+      "basename": "21 - Smart Rename from Permalink",
+      "path": "z_Templates/21 - Smart Rename from Permalink.md"
+    },
+    {
       "basename": "Circle of Blood",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Druid/Circle of Blood.md"
     },
@@ -14,7 +34,7 @@
     },
     {
       "basename": "elemental-practice",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Dragon Knight/elemental-practice.md"
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/dragon-knight/elemental-practice.md"
     },
     {
       "basename": "thunderlords-guild",
@@ -179,26 +199,6 @@
     {
       "basename": "card-slinger-nethingmagiccardslinger",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cardcaster/card-slinger-nethingmagiccardslinger.md"
-    },
-    {
-      "basename": "card-slinger-hand-of-the-spellcard-nethingmagiccardslinger",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cardcaster/card-slinger-hand-of-the-spellcard-nethingmagiccardslinger.md"
-    },
-    {
-      "basename": "card-slinger-hand-of-the",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cardcaster/card-slinger-hand-of-the.md"
-    },
-    {
-      "basename": "blood-hunter",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/blood-hunter/blood-hunter.md"
-    },
-    {
-      "basename": "beastheart",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/beastheart/beastheart.md"
-    },
-    {
-      "basename": "protector-bond",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/beastheart/protector-bond.md"
     }
   ],
   "omittedPaths": [],

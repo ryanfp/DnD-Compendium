@@ -30,12 +30,6 @@
         {
           "name": "Wait",
           "type": "Wait",
-          "id": "ba537786-22a0-431d-b944-fb9066b4c7eb",
-          "time": 100
-        },
-        {
-          "name": "Wait",
-          "type": "Wait",
           "id": "cecac497-6332-4168-90de-5866110596f4",
           "time": 100
         },
@@ -168,7 +162,7 @@
   "devMode": false,
   "templateFolderPath": "z_Templates",
   "announceUpdates": false,
-  "version": "1.13.2",
+  "version": "1.18.1",
   "disableOnlineFeatures": true,
   "enableRibbonIcon": false,
   "ai": {

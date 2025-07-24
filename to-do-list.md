@@ -5,7 +5,7 @@ tags: [completed, in-progress, not-started, started]
 aliases:
   - To-Do List
 created: 2025/06/18 at 22:43
-updated: 2025/07/21 at 22:22
+updated: 2025/07/23 at 23:49
 title: To-Do List
 ---
 

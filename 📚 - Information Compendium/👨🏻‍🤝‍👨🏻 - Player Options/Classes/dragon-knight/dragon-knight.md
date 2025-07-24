@@ -5,7 +5,10 @@ tags: [ttrpg-cli/class/dragon-knight, ttrpg-cli/compendium/src/5e/dk]
 aliases:
   - Dragon Knight
 created: 2025/06/13 at 22:27
-updated: 2025/07/13 at 00:17
+updated: 2025/07/23 at 23:50
+permalink: dragon-knight
+source: Dragon Knight
+title: Dragon Knight
 ---
 
 # Dragon Knight

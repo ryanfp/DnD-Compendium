@@ -5,7 +5,8 @@ tags: [ttrpg-cli/compendium/src/5e/dk, ttrpg-cli/subclass/dragon-knight/platinum
 aliases:
   - Platinum Practice
 created: 2025/06/13 at 22:27
-updated: 2025/07/13 at 00:17
+updated: 2025/07/23 at 23:50
+title: Platinum Practice
 ---
 
 # Platinum Practice

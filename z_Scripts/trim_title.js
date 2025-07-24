@@ -44,7 +44,7 @@ async function processFile(file, app) {
         // Get current frontmatter
         const currentFrontmatter = app.metadataCache.getFileCache(file)?.frontmatter || {};
         
-        // Generate new permalink from filename (without extension)
+        // Generate new permalink from title
         const newPermalink = trimTitle(file.basename);
         
         // If permalink exists and matches, skip
@@ -65,7 +65,7 @@ async function processFile(file, app) {
             // Add or update permalink
             frontmatter["permalink"] = newPermalink;
         });
-        
+
         console.log(`Updated permalink for ${file.basename}`);
 
     } catch (error) {
@@ -73,4 +73,80 @@ async function processFile(file, app) {
     }
 }
 
-module.exports = { trimTitle, processFile };
+/**
+ * Process all files in a folder
+ * @param {TFolder} folder - The folder to process
+ * @param {App} app - The Obsidian app instance
+ * @returns {Promise<void>}
+ */
+async function processFolder(folder, app) {
+    if (!folder || !folder.children) {
+        console.warn(`Invalid folder object`);
+        return;
+    }
+
+    for (const file of folder.children) {
+        if (file.extension === 'md') {
+            await processFile(file, app);
+        }
+    }
+}
+
+/**
+ * Main function to handle both single file and folder cases
+ * @param {Object} tp - The Templater object
+ * @returns {Promise<void>}
+ */
+async function trim_title(tp) {
+    try {
+        // Try to get the file from the active editor first
+        let targetFile = app.workspace.getActiveFile();
+
+        // If no active file, try to get it from Templater
+        if (!targetFile && tp) {
+            try {
+                targetFile = tp.file.find_tfile(tp.file.path(true));
+            } catch (e) {
+                // Ignore error if tp.file.path fails
+            }
+        }
+
+        // If still no file, check if we're processing a folder with Linter
+        if (!targetFile) {
+            const activeView = app.workspace.getActiveViewOfType(app.workspace.getLeaf());
+            if (activeView && activeView.file) {
+                targetFile = activeView.file;
+            }
+        }
+
+        // If we found a target
+        if (targetFile) {
+            // Check if it's a folder
+            if (targetFile.children) {
+                await processFolder(targetFile, app);
+            } else {
+                await processFile(targetFile, app);
+            }
+        } else {
+            // No file or folder found - check if we're in a Linter folder context
+            const explorerView = app.workspace.getLeavesOfType('file-explorer')[0]?.view;
+            if (explorerView) {
+                const selectedItems = explorerView.getSelectedItems();
+                if (selectedItems && selectedItems.length > 0) {
+                    for (const item of selectedItems) {
+                        if (item.children) {
+                            await processFolder(item, app);
+                        } else if (item.extension === 'md') {
+                            await processFile(item, app);
+                        }
+                    }
+                }
+            }
+        }
+    } catch (error) {
+        console.error('Error in trim_title:', error);
+    }
+}
+
+// Export the main function as default
+module.exports = trim_title;

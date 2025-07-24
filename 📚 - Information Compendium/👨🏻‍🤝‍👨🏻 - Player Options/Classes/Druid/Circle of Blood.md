@@ -5,7 +5,8 @@ tags: [ttrpg-cli/compendium/src/5e/ghpg, ttrpg-cli/subclass/druid/blood]
 aliases:
   - Circle of Blood
 created: 2025/06/15 at 15:35
-updated: 2025/07/13 at 00:17
+updated: 2025/07/23 at 23:26
+title: Circle of Blood
 ---
 
 # Circle of Blood
