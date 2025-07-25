@@ -68,4 +68,4 @@ if (typeof window !== 'undefined') {
 }
 
 // Export for Templater
-exports.default = obsidianStateManager; 
+module.exports = obsidianStateManager; 

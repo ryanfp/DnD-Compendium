@@ -11,8 +11,9 @@
  */
 async function processFile(file, app) {
     try {
+        const stateManager = window.obsidianStateManager;
         // Skip if already processed
-        if (window.obsidianStateManager.isFileProcessed(file.path, 'rename')) {
+        if (stateManager.isFileProcessed(file.path, 'rename')) {
             console.log(`Skipping ${file.basename}: already processed`);
             return;
         }
@@ -30,7 +31,7 @@ async function processFile(file, app) {
         // Skip if filename already matches
         if (file.basename === permalink) {
             console.log(`Skipping ${file.basename}: filename already matches permalink`);
-            window.obsidianStateManager.markFileProcessed(file.path, 'rename');
+            stateManager.markFileProcessed(file.path, 'rename');
             return;
         }
 
@@ -63,7 +64,7 @@ async function processFile(file, app) {
             await app.metadataCache.trigger();
             
             console.log(`Renamed ${file.basename} to ${permalink}`);
-            window.obsidianStateManager.markFileProcessed(newPath, 'rename');
+            stateManager.markFileProcessed(newPath, 'rename');
 
         } catch (error) {
             console.error(`Error renaming ${file.basename}:`, error);
@@ -101,8 +102,9 @@ async function processFolder(folder, app) {
  * @param {any} tp - Templater object
  */
 async function renameFromPermalink(tp) {
+    const stateManager = window.obsidianStateManager;
     // Try to acquire lock
-    if (!await window.obsidianStateManager.acquireLock()) {
+    if (!await stateManager.acquireLock()) {
         console.log('Another script is running, please wait and try again');
         return;
     }
@@ -158,12 +160,9 @@ async function renameFromPermalink(tp) {
         console.error('Error in renameFromPermalink:', error);
     } finally {
         // Always release the lock when done
-        window.obsidianStateManager.releaseLock();
+        stateManager.releaseLock();
     }
 }
 
 // Export for Templater
-exports.default = renameFromPermalink;
-
-// Also make it available as a named export
-exports.renameFromPermalink = renameFromPermalink;
+module.exports = renameFromPermalink;

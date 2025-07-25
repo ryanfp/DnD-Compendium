@@ -1,4 +1,1 @@
-<%*
-const extractSource = tp.user.extractSource.default;
-await extractSource(tp);
-%>
+<%* await tp.user.extractSource(tp) %>

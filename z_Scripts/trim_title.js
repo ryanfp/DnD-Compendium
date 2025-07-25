@@ -46,8 +46,9 @@ function trimTitle(title) {
  */
 async function processFile(file, app) {
     try {
+        const stateManager = window.obsidianStateManager;
         // Skip if already processed
-        if (window.obsidianStateManager.isFileProcessed(file.path, 'permalink')) {
+        if (stateManager.isFileProcessed(file.path, 'permalink')) {
             console.log(`Skipping ${file.basename}: already processed`);
             return;
         }
@@ -58,7 +59,7 @@ async function processFile(file, app) {
         // Skip if permalink already exists
         if (cache?.permalink) {
             console.log(`Skipping ${file.basename}: permalink already exists`);
-            window.obsidianStateManager.markFileProcessed(file.path, 'permalink');
+            stateManager.markFileProcessed(file.path, 'permalink');
             return;
         }
 
@@ -74,7 +75,7 @@ async function processFile(file, app) {
         await app.metadataCache.trigger();
 
         console.log(`Added permalink for ${file.basename}`);
-        window.obsidianStateManager.markFileProcessed(file.path, 'permalink');
+        stateManager.markFileProcessed(file.path, 'permalink');
 
     } catch (error) {
         console.error(`Error processing ${file.basename}:`, error);
@@ -108,8 +109,9 @@ async function processFolder(folder, app) {
  * @param {any} tp - Templater object
  */
 async function addPermalink(tp) {
+    const stateManager = window.obsidianStateManager;
     // Try to acquire lock
-    if (!await window.obsidianStateManager.acquireLock()) {
+    if (!await stateManager.acquireLock()) {
         console.log('Another script is running, please wait and try again');
         return;
     }
@@ -165,12 +167,9 @@ async function addPermalink(tp) {
         console.error('Error in addPermalink:', error);
     } finally {
         // Always release the lock when done
-        window.obsidianStateManager.releaseLock();
+        stateManager.releaseLock();
     }
 }
 
 // Export for Templater
-exports.default = addPermalink;
-
-// Also make it available as a named export
-exports.addPermalink = addPermalink;
+module.exports = addPermalink;
