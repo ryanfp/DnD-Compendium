@@ -3282,6 +3282,7 @@
   },
   "active": "c8ddf2f537d6bbbf",
   "lastOpenFiles": [
+    "z_Scripts/stateManager.js",
     "new-note-for-testing.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/Alchemist.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md",
@@ -3308,7 +3309,6 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/dragon-knight/shadow-practice.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/dragon-knight/dragon-knight.md",
     "z_Templates/20 - Add Permalink.md",
-    "source_template.md",
     "copyPermalinkAndRename.js",
     "extractSource.js",
     "z_Scripts/extractSource.js",

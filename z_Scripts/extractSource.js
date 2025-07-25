@@ -4,64 +4,6 @@
  */
 
 /**
- * Track files we've already processed to prevent duplicates
- */
-const processedFiles = new Set();
-
-/**
- * Global lock to prevent concurrent script execution
- */
-let scriptLock = false;
-
-/**
- * Wait for script lock to be released
- * @param {number} timeout - Maximum time to wait in milliseconds
- * @returns {Promise<boolean>} - True if lock was acquired, false if timeout
- */
-async function waitForLock(timeout = 30000) {
-    const startTime = Date.now();
-    while (scriptLock) {
-        if (Date.now() - startTime > timeout) {
-            console.log('Timeout waiting for script lock');
-            return false;
-        }
-        await new Promise(resolve => setTimeout(resolve, 100));
-    }
-    scriptLock = true;
-    return true;
-}
-
-/**
- * Release the script lock
- */
-function releaseLock() {
-    scriptLock = false;
-}
-
-/**
- * Check if a file needs processing
- * @param {TFile} file - The file to check
- * @param {App} app - The Obsidian app instance
- * @returns {Promise<{needsProcessing: boolean, reason: string}>}
- */
-async function checkFileStatus(file, app) {
-    // Skip if we've already processed this file
-    if (processedFiles.has(file.path)) {
-        return { needsProcessing: false, reason: "already processed" };
-    }
-
-    // Get the frontmatter
-    const cache = app.metadataCache.getFileCache(file)?.frontmatter;
-    
-    // Check if source already exists
-    if (cache?.source) {
-        return { needsProcessing: false, reason: "source already exists" };
-    }
-
-    return { needsProcessing: true, reason: "needs source" };
-}
-
-/**
  * Process a single file
  * @param {TFile} file - The file to process
  * @param {App} app - The Obsidian app instance
@@ -69,11 +11,19 @@ async function checkFileStatus(file, app) {
  */
 async function processFile(file, app) {
     try {
-        // Check if file needs processing
-        const status = await checkFileStatus(file, app);
-        if (!status.needsProcessing) {
-            console.log(`Skipping ${file.basename}: ${status.reason}`);
-            processedFiles.add(file.path);
+        // Skip if already processed
+        if (window.obsidianStateManager.isFileProcessed(file.path, 'source')) {
+            console.log(`Skipping ${file.basename}: already processed`);
+            return;
+        }
+
+        // Get the frontmatter
+        const cache = app.metadataCache.getFileCache(file)?.frontmatter;
+        
+        // Skip if source already exists
+        if (cache?.source) {
+            console.log(`Skipping ${file.basename}: source already exists`);
+            window.obsidianStateManager.markFileProcessed(file.path, 'source');
             return;
         }
 
@@ -144,7 +94,7 @@ async function processFile(file, app) {
         await app.metadataCache.trigger();
 
         console.log(`Updated source for ${file.basename}`);
-        processedFiles.add(file.path);
+        window.obsidianStateManager.markFileProcessed(file.path, 'source');
 
     } catch (error) {
         console.error(`Error processing ${file.basename}:`, error);
@@ -152,21 +102,20 @@ async function processFile(file, app) {
 }
 
 /**
- * Process all markdown files in a folder sequentially
+ * Process all markdown files in a folder
  * @param {TFolder} folder - The folder to process
  * @param {App} app - The Obsidian app instance
  * @returns {Promise<void>}
  */
 async function processFolder(folder, app) {
     try {
-        // Clear the processed files set when starting a new folder
-        processedFiles.clear();
-        
         // Get all markdown files in the folder
         const files = folder.children || [];
         for (const file of files) {
             if (file instanceof TFile && file.extension === 'md') {
                 await processFile(file, app);
+                // Add a delay between files
+                await new Promise(resolve => setTimeout(resolve, 100));
             }
         }
     } catch (error) {
@@ -175,40 +124,26 @@ async function processFolder(folder, app) {
 }
 
 /**
- * Check if a file is a folder note
- * @param {TFile} file - The file to check
- * @returns {boolean} - True if the file is a folder note
+ * Main function for Templater
+ * @param {any} tp - Templater object
  */
-function isFolderNote(file) {
-    // Check if the file has the same name as its parent folder
-    if (!file || !file.parent) return false;
-    const fileNameWithoutExt = file.basename;
-    return file.parent.name === fileNameWithoutExt;
-}
-
-/**
- * Main function to handle both single file and folder cases
- * @param {Object} tp - The Templater object (optional)
- * @returns {Promise<void>}
- */
-async function extractSource(tp = null) {
+async function extractSource(tp) {
     // Try to acquire lock
-    if (!await waitForLock()) {
+    if (!await window.obsidianStateManager.acquireLock()) {
         console.log('Another script is running, please wait and try again');
         return;
     }
 
     try {
-        // Clear the processed files set at the start
-        processedFiles.clear();
-        
+        const app = tp.obsidian.app;
+
         // Try to get selected files from file explorer
         const fileExplorer = app.workspace.getLeavesOfType('file-explorer')[0];
         if (fileExplorer?.view?.fileItems) {
             const selectedFiles = Object.values(fileExplorer.view.fileItems)
                 .filter(item => item.file && item.selected)
                 .map(item => item.file);
-
+            
             if (selectedFiles && selectedFiles.length > 0) {
                 // Process only the selected files
                 for (const file of selectedFiles) {
@@ -224,12 +159,10 @@ async function extractSource(tp = null) {
         let targetFile = null;
 
         // Try Templater context
-        if (tp) {
-            try {
-                targetFile = tp.file.find_tfile(tp.file.path(true));
-            } catch (e) {
-                // Ignore error if tp.file.path fails
-            }
+        try {
+            targetFile = tp.file.find_tfile(tp.file.path(true));
+        } catch (e) {
+            // Ignore error if tp.file.path fails
         }
 
         // If no file from Templater, try active file
@@ -252,9 +185,12 @@ async function extractSource(tp = null) {
         console.error('Error in extractSource:', error);
     } finally {
         // Always release the lock when done
-        releaseLock();
+        window.obsidianStateManager.releaseLock();
     }
 }
 
-// Export the main function as default
-module.exports = extractSource; 
+// Export for Templater
+exports.default = extractSource;
+
+// Also make it available as a named export
+exports.extractSource = extractSource; 

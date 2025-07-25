@@ -1,1 +1,4 @@
-oimage.png<%* await tp.user.trim_title(tp) %>
+<%*
+const addPermalink = tp.user.trim_title.default;
+await addPermalink(tp);
+%>

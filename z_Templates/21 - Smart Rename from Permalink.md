@@ -1,1 +1,4 @@
-<%* await tp.user.copyPermalinkAndRename(tp) %>
+<%*
+const renameFromPermalink = tp.user.copyPermalinkAndRename.default;
+await renameFromPermalink(tp);
+%>
