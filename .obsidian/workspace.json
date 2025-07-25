@@ -2927,8 +2927,7 @@
               "title": "Tag Folder"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -3242,7 +3241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 221.5
   },
   "left-ribbon": {
     "hiddenItems": {

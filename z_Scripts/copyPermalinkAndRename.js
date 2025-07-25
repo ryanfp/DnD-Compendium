@@ -57,6 +57,20 @@ async function processFile(file, app) {
                 await app.metadataCache.trigger();
             }
 
+            // Get all files that link to this one
+            const backlinks = app.metadataCache.getBacklinksForFile(file);
+            if (backlinks) {
+                // Update display text in all backlinks before renaming
+                for (const [sourcePath, _] of backlinks.data.entries()) {
+                    const sourceFile = app.vault.getAbstractFileByPath(sourcePath);
+                    if (sourceFile instanceof TFile) {
+                        await updateLinkDisplayText(sourceFile, file.basename, permalink, file.basename, app);
+                    }
+                }
+                // Force metadata cache refresh after updating backlinks
+                await app.metadataCache.trigger();
+            }
+
             // Use Obsidian's file manager to rename (this preserves links)
             await app.fileManager.renameFile(file, newPath);
             
@@ -72,6 +86,42 @@ async function processFile(file, app) {
 
     } catch (error) {
         console.error(`Error processing ${file.basename}:`, error);
+    }
+}
+
+/**
+ * Updates a link's display text in a file's content
+ * @param {TFile} file - The file containing the link
+ * @param {string} oldPath - The old file path
+ * @param {string} newPath - The new file path
+ * @param {string} oldName - The old file name
+ * @param {App} app - The Obsidian app instance
+ */
+async function updateLinkDisplayText(file, oldPath, newPath, oldName, app) {
+    try {
+        const content = await app.vault.read(file);
+        let newContent = content;
+
+        // Update wiki-style links that use the old name as display text
+        // [[oldPath|oldName]] -> [[newPath|oldName]]
+        const wikiLinkRegex = new RegExp(`\\[\\[([^\\]|]*${oldPath})[^\\]]*\\|${oldName}\\]\\]`, 'g');
+        newContent = newContent.replace(wikiLinkRegex, (match, p1) => {
+            return `[[${newPath}|${oldName}]]`;
+        });
+
+        // Update markdown-style links that use the old name as display text
+        // [oldName](oldPath) -> [oldName](newPath)
+        const markdownLinkRegex = new RegExp(`\\[${oldName}\\]\\(([^\\)]*)${oldPath}[^\\)]*\\)`, 'g');
+        newContent = newContent.replace(markdownLinkRegex, (match, p1) => {
+            return `[${oldName}](${newPath})`;
+        });
+
+        // Only modify the file if changes were made
+        if (newContent !== content) {
+            await app.vault.modify(file, newContent);
+        }
+    } catch (error) {
+        console.error(`Error updating links in ${file.path}:`, error);
     }
 }
 
@@ -101,17 +151,17 @@ async function processFolder(folder, app) {
  * Main function for Templater
  * @param {any} tp - Templater object
  */
-async function renameFromPermalink(tp) {
+function renameFromPermalink(tp) {
+    const app = tp.app;
     const stateManager = window.obsidianStateManager;
+
     // Try to acquire lock
-    if (!await stateManager.acquireLock()) {
+    if (!stateManager.acquireLock()) {
         console.log('Another script is running, please wait and try again');
         return;
     }
 
     try {
-        const app = tp.obsidian.app;
-
         // Try to get selected files from file explorer
         const fileExplorer = app.workspace.getLeavesOfType('file-explorer')[0];
         if (fileExplorer?.view?.fileItems) {
@@ -123,7 +173,7 @@ async function renameFromPermalink(tp) {
                 // Process only the selected files
                 for (const file of selectedFiles) {
                     if (file instanceof TFile && file.extension === 'md') {
-                        await processFile(file, app);
+                        processFile(file, app);
                     }
                 }
                 return;
@@ -147,13 +197,13 @@ async function renameFromPermalink(tp) {
 
         // If we have a single file, process it
         if (targetFile && targetFile.extension === 'md') {
-            await processFile(targetFile, app);
+            processFile(targetFile, app);
             return;
         }
 
         // If we're processing a folder
         if (targetFile?.parent) {
-            await processFolder(targetFile.parent, app);
+            processFolder(targetFile.parent, app);
         }
 
     } catch (error) {
@@ -164,5 +214,4 @@ async function renameFromPermalink(tp) {
     }
 }
 
-// Export for Templater
 module.exports = renameFromPermalink;

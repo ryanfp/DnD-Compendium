@@ -2,8 +2,8 @@
  * Shared state manager for Obsidian scripts
  */
 
-// Global state manager for Obsidian scripts
-const obsidianStateManager = {
+// Create the state manager instance
+const stateManagerInstance = {
     processedFiles: new Set(),
     scriptLock: false,
     lockTimeout: 30000, // 30 seconds
@@ -64,8 +64,17 @@ const obsidianStateManager = {
 
 // Make it globally available
 if (typeof window !== 'undefined') {
-    window.obsidianStateManager = obsidianStateManager;
+    window.obsidianStateManager = stateManagerInstance;
 }
 
-// Export for Templater
-module.exports = obsidianStateManager; 
+/**
+ * Function to get the state manager instance
+ * This is what Templater will use
+ * @returns {Object} The state manager instance
+ */
+function getStateManager() {
+    return stateManagerInstance;
+}
+
+// Export the function for Templater
+module.exports = getStateManager; 

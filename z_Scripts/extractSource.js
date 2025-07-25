@@ -128,17 +128,17 @@ async function processFolder(folder, app) {
  * Main function for Templater
  * @param {any} tp - Templater object
  */
-async function extractSource(tp) {
+function extractSource(tp) {
+    const app = tp.app;
     const stateManager = window.obsidianStateManager;
+
     // Try to acquire lock
-    if (!await stateManager.acquireLock()) {
+    if (!stateManager.acquireLock()) {
         console.log('Another script is running, please wait and try again');
         return;
     }
 
     try {
-        const app = tp.obsidian.app;
-
         // Try to get selected files from file explorer
         const fileExplorer = app.workspace.getLeavesOfType('file-explorer')[0];
         if (fileExplorer?.view?.fileItems) {
@@ -150,7 +150,7 @@ async function extractSource(tp) {
                 // Process only the selected files
                 for (const file of selectedFiles) {
                     if (file instanceof TFile && file.extension === 'md') {
-                        await processFile(file, app);
+                        processFile(file, app);
                     }
                 }
                 return;
@@ -174,13 +174,13 @@ async function extractSource(tp) {
 
         // If we have a single file, process it
         if (targetFile && targetFile.extension === 'md') {
-            await processFile(targetFile, app);
+            processFile(targetFile, app);
             return;
         }
 
         // If we're processing a folder
         if (targetFile?.parent) {
-            await processFolder(targetFile.parent, app);
+            processFolder(targetFile.parent, app);
         }
 
     } catch (error) {
@@ -191,5 +191,4 @@ async function extractSource(tp) {
     }
 }
 
-// Export for Templater
 module.exports = extractSource; 
