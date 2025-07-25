@@ -2933,7 +2933,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -3282,26 +3283,25 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "c8ddf2f537d6bbbf",
   "lastOpenFiles": [
+    "Chat Logs/cursor_retrieve_permalink_and_automate.md",
+    "Chat Logs",
+    "New folder",
+    "error log.txt",
     "Script Backups/stateManager.backup.js",
     "Script Backups/extractSource.backup.js",
     "Script Backups/copyPermalinkAndRename.backup.js",
     "Script Backups/addPermalink.backup.js",
     "Script Backups",
-    "New folder",
     "z_Templates/22 - Extract Source.backup.md",
     "z_Templates/21 - Smart Rename from Permalink.backup.md",
     "z_Templates/20 - Add Permalink.backup.md",
     "z_Scripts/stateManager.backup.js",
     "z_Scripts/extractSource.backup.js",
-    "z_Scripts/copyPermalinkAndRename.backup.js",
-    "z_Scripts/addPermalink.backup.js",
-    "z_Scripts/addPermalink.js",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/illrigger/hellspeaker.md",
     "new-note-for-testing.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/Alchemist.md",

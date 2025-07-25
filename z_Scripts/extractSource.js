@@ -12,22 +12,21 @@
 async function processFile(file, app) {
     try {
         const stateManager = window.obsidianStateManager;
-        // Skip if already processed
+        
+        // Skip if already processed or not ready for source
         if (stateManager.isFileProcessed(file.path, 'source')) {
             console.log(`Skipping ${file.basename}: already processed`);
+            return;
+        }
+
+        if (!stateManager.isFileReadyForOperation(file.path, 'source')) {
+            console.log(`Skipping ${file.basename}: not ready for source`);
             return;
         }
 
         // Get the frontmatter
         const cache = app.metadataCache.getFileCache(file)?.frontmatter;
         
-        // Skip if source already exists
-        if (cache?.source) {
-            console.log(`Skipping ${file.basename}: source already exists`);
-            stateManager.markFileProcessed(file.path, 'source');
-            return;
-        }
-
         // Read the file content
         const content = await app.vault.read(file);
 
@@ -75,6 +74,7 @@ async function processFile(file, app) {
         // Check if source already exists and is correct
         if (currentFrontmatter.source === sourceValue) {
             console.log(`Skipping ${file.basename}: source already matches`);
+            stateManager.markOperationComplete(file.path, 'source');
             return;
         }
 
@@ -93,9 +93,12 @@ async function processFile(file, app) {
 
         // Force metadata cache refresh
         await app.metadataCache.trigger();
+        
+        // Add a small delay to ensure cache is updated
+        await new Promise(resolve => setTimeout(resolve, 100));
 
         console.log(`Updated source for ${file.basename}`);
-        stateManager.markFileProcessed(file.path, 'source');
+        stateManager.markOperationComplete(file.path, 'source');
 
     } catch (error) {
         console.error(`Error processing ${file.basename}:`, error);
@@ -111,23 +114,27 @@ async function processFile(file, app) {
 async function processFolder(folder, app) {
     try {
         const stateManager = window.obsidianStateManager;
-        // Get all markdown files in the folder
-        const files = folder.children || [];
         
-        // First, check which files need processing
-        const filesToProcess = files.filter(file => 
-            file instanceof TFile && 
-            file.extension === 'md' && 
-            !stateManager.isFileComplete(file.path)
-        );
-
-        console.log(`Found ${filesToProcess.length} files to process in ${folder.path}`);
-
-        // Process each file that needs it
-        for (const file of filesToProcess) {
-            await processFile(file, app);
-            // Add a delay between files
-            await new Promise(resolve => setTimeout(resolve, 100));
+        // Start fresh folder processing
+        stateManager.startFolderProcessing(folder.path);
+        
+        // Get all markdown files in the folder and queue them
+        const files = folder.children || [];
+        const filePaths = files
+            .filter(file => file instanceof TFile && file.extension === 'md')
+            .map(file => file.path);
+        
+        stateManager.queueFiles(filePaths);
+        
+        // Process files from queue
+        let nextFilePath;
+        while ((nextFilePath = stateManager.getNextFile('source')) !== null) {
+            const file = app.vault.getAbstractFileByPath(nextFilePath);
+            if (file instanceof TFile) {
+                await processFile(file, app);
+                // Add a delay between files
+                await new Promise(resolve => setTimeout(resolve, 100));
+            }
         }
     } catch (error) {
         console.error(`Error processing folder ${folder.path}:`, error);
@@ -138,17 +145,18 @@ async function processFolder(folder, app) {
  * Main function for Templater
  * @param {any} tp - Templater object
  */
-function extractSource(tp) {
-    const app = tp.app;
+async function extractSource(tp) {
     const stateManager = window.obsidianStateManager;
-
+    
     // Try to acquire lock
-    if (!stateManager.acquireLock()) {
+    if (!await stateManager.acquireLock()) {
         console.log('Another script is running, please wait and try again');
         return;
     }
 
     try {
+        const app = tp.app;
+
         // Try to get selected files from file explorer
         const fileExplorer = app.workspace.getLeavesOfType('file-explorer')[0];
         if (fileExplorer?.view?.fileItems) {
@@ -157,10 +165,21 @@ function extractSource(tp) {
                 .map(item => item.file);
             
             if (selectedFiles && selectedFiles.length > 0) {
-                // Process only the selected files
-                for (const file of selectedFiles) {
-                    if (file instanceof TFile && file.extension === 'md') {
-                        processFile(file, app);
+                // Queue selected files
+                const filePaths = selectedFiles
+                    .filter(file => file instanceof TFile && file.extension === 'md')
+                    .map(file => file.path);
+                
+                stateManager.queueFiles(filePaths);
+                
+                // Process files from queue
+                let nextFilePath;
+                while ((nextFilePath = stateManager.getNextFile('source')) !== null) {
+                    const file = app.vault.getAbstractFileByPath(nextFilePath);
+                    if (file instanceof TFile) {
+                        await processFile(file, app);
+                        // Add a delay between files
+                        await new Promise(resolve => setTimeout(resolve, 100));
                     }
                 }
                 return;
@@ -184,13 +203,14 @@ function extractSource(tp) {
 
         // If we have a single file, process it
         if (targetFile && targetFile.extension === 'md') {
-            processFile(targetFile, app);
+            stateManager.queueFiles([targetFile.path]);
+            await processFile(targetFile, app);
             return;
         }
 
         // If we're processing a folder
         if (targetFile?.parent) {
-            processFolder(targetFile.parent, app);
+            await processFolder(targetFile.parent, app);
         }
 
     } catch (error) {
@@ -201,6 +221,6 @@ function extractSource(tp) {
     }
 }
 
-// Export both named and default for Templater
+// Export for Templater
 module.exports = extractSource;
 module.exports.extractSource = extractSource; 

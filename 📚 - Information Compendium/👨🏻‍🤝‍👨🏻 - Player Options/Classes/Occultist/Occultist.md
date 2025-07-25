@@ -5,8 +5,10 @@ tags: [ttrpg-cli/class/occultist, ttrpg-cli/compendium/src/5e/kt-cll]
 aliases:
   - Occultist
 created: 2025/06/13 at 22:29
-updated: 2025/07/24 at 01:15
+updated: 2025/07/25 at 00:30
 title: Occultist
+permalink: occultist
+source: "Kibbles' Compendium of Legends and Legacies"
 ---
 
 # Occultist

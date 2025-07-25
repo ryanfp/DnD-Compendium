@@ -42,7 +42,8 @@ function trimTitle(title) {
 async function processFile(file, app) {
     try {
         const stateManager = window.obsidianStateManager;
-        // Skip if already processed
+        
+        // Skip if already processed or not ready
         if (stateManager.isFileProcessed(file.path, 'permalink')) {
             console.log(`Skipping ${file.basename}: already processed`);
             return;
@@ -51,26 +52,27 @@ async function processFile(file, app) {
         // Get the frontmatter
         const cache = app.metadataCache.getFileCache(file)?.frontmatter;
         
-        // Skip if permalink already exists
-        if (cache?.permalink) {
-            console.log(`Skipping ${file.basename}: permalink already exists`);
-            stateManager.markFileProcessed(file.path, 'permalink');
+        // Skip if permalink already exists and matches what we would generate
+        const wouldBePermalink = trimTitle(file.basename);
+        if (cache?.permalink === wouldBePermalink) {
+            console.log(`Skipping ${file.basename}: permalink already correct`);
+            stateManager.markOperationComplete(file.path, 'permalink');
             return;
         }
 
-        // Generate permalink from basename
-        const permalink = trimTitle(file.basename);
-        
         // Update frontmatter
         await app.fileManager.processFrontMatter(file, (frontmatter) => {
-            frontmatter.permalink = permalink;
+            frontmatter.permalink = wouldBePermalink;
         });
 
         // Force metadata cache refresh
         await app.metadataCache.trigger();
+        
+        // Add a small delay to ensure cache is updated
+        await new Promise(resolve => setTimeout(resolve, 100));
 
         console.log(`Added permalink for ${file.basename}`);
-        stateManager.markFileProcessed(file.path, 'permalink');
+        stateManager.markOperationComplete(file.path, 'permalink');
 
     } catch (error) {
         console.error(`Error processing ${file.basename}:`, error);
@@ -86,23 +88,27 @@ async function processFile(file, app) {
 async function processFolder(folder, app) {
     try {
         const stateManager = window.obsidianStateManager;
-        // Get all markdown files in the folder
-        const files = folder.children || [];
         
-        // First, check which files need processing
-        const filesToProcess = files.filter(file => 
-            file instanceof TFile && 
-            file.extension === 'md' && 
-            !stateManager.isFileComplete(file.path)
-        );
-
-        console.log(`Found ${filesToProcess.length} files to process in ${folder.path}`);
-
-        // Process each file that needs it
-        for (const file of filesToProcess) {
-            await processFile(file, app);
-            // Add a delay between files
-            await new Promise(resolve => setTimeout(resolve, 100));
+        // Start fresh folder processing
+        stateManager.startFolderProcessing(folder.path);
+        
+        // Get all markdown files in the folder and queue them
+        const files = folder.children || [];
+        const filePaths = files
+            .filter(file => file instanceof TFile && file.extension === 'md')
+            .map(file => file.path);
+        
+        stateManager.queueFiles(filePaths);
+        
+        // Process files from queue
+        let nextFilePath;
+        while ((nextFilePath = stateManager.getNextFile('permalink')) !== null) {
+            const file = app.vault.getAbstractFileByPath(nextFilePath);
+            if (file instanceof TFile) {
+                await processFile(file, app);
+                // Add a delay between files
+                await new Promise(resolve => setTimeout(resolve, 100));
+            }
         }
     } catch (error) {
         console.error(`Error processing folder ${folder.path}:`, error);
@@ -113,17 +119,18 @@ async function processFolder(folder, app) {
  * Main function for Templater
  * @param {any} tp - Templater object
  */
-function addPermalink(tp) {
-    const app = tp.app;
+async function addPermalink(tp) {
     const stateManager = window.obsidianStateManager;
-
+    
     // Try to acquire lock
-    if (!stateManager.acquireLock()) {
+    if (!await stateManager.acquireLock()) {
         console.log('Another script is running, please wait and try again');
         return;
     }
 
     try {
+        const app = tp.app;
+
         // Try to get selected files from file explorer
         const fileExplorer = app.workspace.getLeavesOfType('file-explorer')[0];
         if (fileExplorer?.view?.fileItems) {
@@ -132,10 +139,21 @@ function addPermalink(tp) {
                 .map(item => item.file);
             
             if (selectedFiles && selectedFiles.length > 0) {
-                // Process only the selected files
-                for (const file of selectedFiles) {
-                    if (file instanceof TFile && file.extension === 'md') {
-                        processFile(file, app);
+                // Queue selected files
+                const filePaths = selectedFiles
+                    .filter(file => file instanceof TFile && file.extension === 'md')
+                    .map(file => file.path);
+                
+                stateManager.queueFiles(filePaths);
+                
+                // Process files from queue
+                let nextFilePath;
+                while ((nextFilePath = stateManager.getNextFile('permalink')) !== null) {
+                    const file = app.vault.getAbstractFileByPath(nextFilePath);
+                    if (file instanceof TFile) {
+                        await processFile(file, app);
+                        // Add a delay between files
+                        await new Promise(resolve => setTimeout(resolve, 100));
                     }
                 }
                 return;
@@ -159,13 +177,14 @@ function addPermalink(tp) {
 
         // If we have a single file, process it
         if (targetFile && targetFile.extension === 'md') {
-            processFile(targetFile, app);
+            stateManager.queueFiles([targetFile.path]);
+            await processFile(targetFile, app);
             return;
         }
 
         // If we're processing a folder
         if (targetFile?.parent) {
-            processFolder(targetFile.parent, app);
+            await processFolder(targetFile.parent, app);
         }
 
     } catch (error) {
@@ -176,9 +195,7 @@ function addPermalink(tp) {
     }
 }
 
-// Export both named and default for Templater
+// Export for Templater
 module.exports = addPermalink;
 module.exports.addPermalink = addPermalink;
-
-// Also export the helper function in case it's needed elsewhere
 module.exports.trimTitle = trimTitle; 

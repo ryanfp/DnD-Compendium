@@ -1,0 +1,144 @@
+[2025-07-25T04:48:28.213Z] LOCK_ATTEMPT - system - Attempting to acquire lock
+VM8593:33 [2025-07-25T04:48:28.214Z] LOCK_ACQUIRED - system - Lock acquired successfully
+VM8593:33 [2025-07-25T04:48:28.215Z] QUEUE - multiple - Queueing 1 files
+VM8593:33 [2025-07-25T04:48:28.215Z] QUEUE_ADD - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md - Added to queue
+VM8593:33 [2025-07-25T04:48:28.215Z] CHECK_PROCESSED - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md - permalink processed: false
+VM8569:56 Skipping tradition-of-the-shaman: permalink already exists
+VM8593:33 [2025-07-25T04:48:28.215Z] OPERATION_COMPLETE - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md - Completed permalink
+VM8593:33 [2025-07-25T04:48:28.215Z] LOCK_RELEASE - system - Releasing lock
+VM8595:33 [2025-07-25T04:48:28.219Z] LOCK_ATTEMPT - system - Attempting to acquire lock
+VM8595:33 [2025-07-25T04:48:28.219Z] LOCK_ACQUIRED - system - Lock acquired successfully
+VM8595:33 [2025-07-25T04:48:28.221Z] QUEUE - multiple - Queueing 1 files
+VM8595:33 [2025-07-25T04:48:28.221Z] QUEUE_ADD - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md - Added to queue
+VM8595:33 [2025-07-25T04:48:28.221Z] CHECK_PROCESSED - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md - rename processed: false
+VM8575:33 Skipping tradition-of-the-shaman: filename already matches permalink
+VM8595:33 [2025-07-25T04:48:28.221Z] OPERATION_COMPLETE - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md - Completed rename
+VM8595:33 [2025-07-25T04:48:28.221Z] LOCK_RELEASE - system - Releasing lock
+VM8597:33 [2025-07-25T04:48:28.225Z] LOCK_ATTEMPT - system - Attempting to acquire lock
+VM8597:33 [2025-07-25T04:48:28.225Z] LOCK_ACQUIRED - system - Lock acquired successfully
+VM8597:33 [2025-07-25T04:48:28.226Z] QUEUE - multiple - Queueing 1 files
+VM8597:33 [2025-07-25T04:48:28.226Z] QUEUE_ADD - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md - Added to queue
+VM8597:33 [2025-07-25T04:48:28.226Z] CHECK_PROCESSED - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md - source processed: false
+VM8584:26 Skipping tradition-of-the-shaman: source already exists
+VM8597:33 [2025-07-25T04:48:28.226Z] OPERATION_COMPLETE - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md - Completed source
+VM8597:33 [2025-07-25T04:48:28.226Z] LOCK_RELEASE - system - Releasing lock
+VM8608:33 [2025-07-25T04:48:28.241Z] LOCK_ATTEMPT - system - Attempting to acquire lock
+VM8608:33 [2025-07-25T04:48:28.241Z] LOCK_ACQUIRED - system - Lock acquired successfully
+VM8608:33 [2025-07-25T04:48:28.243Z] QUEUE - multiple - Queueing 1 files
+VM8608:33 [2025-07-25T04:48:28.243Z] QUEUE_ADD - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - Added to queue
+VM8608:33 [2025-07-25T04:48:28.243Z] CHECK_PROCESSED - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - permalink processed: false
+VM8577:56 Skipping tradition-of-the-witch: permalink already exists
+VM8608:33 [2025-07-25T04:48:28.243Z] OPERATION_COMPLETE - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - Completed permalink
+VM8608:33 [2025-07-25T04:48:28.243Z] LOCK_RELEASE - system - Releasing lock
+VM8610:33 [2025-07-25T04:48:28.248Z] LOCK_ATTEMPT - system - Attempting to acquire lock
+VM8610:33 [2025-07-25T04:48:28.248Z] LOCK_ACQUIRED - system - Lock acquired successfully
+VM8610:33 [2025-07-25T04:48:28.249Z] QUEUE - multiple - Queueing 1 files
+VM8610:33 [2025-07-25T04:48:28.249Z] QUEUE_ADD - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - Added to queue
+VM8610:33 [2025-07-25T04:48:28.249Z] CHECK_PROCESSED - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - rename processed: false
+VM8586:33 Skipping tradition-of-the-witch: filename already matches permalink
+VM8610:33 [2025-07-25T04:48:28.250Z] OPERATION_COMPLETE - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - Completed rename
+VM8610:33 [2025-07-25T04:48:28.250Z] LOCK_RELEASE - system - Releasing lock
+VM8612:33 [2025-07-25T04:48:28.253Z] LOCK_ATTEMPT - system - Attempting to acquire lock
+VM8612:33 [2025-07-25T04:48:28.253Z] LOCK_ACQUIRED - system - Lock acquired successfully
+VM8612:33 [2025-07-25T04:48:28.255Z] QUEUE - multiple - Queueing 1 files
+VM8612:33 [2025-07-25T04:48:28.255Z] QUEUE_ADD - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - Added to queue
+VM8612:33 [2025-07-25T04:48:28.255Z] CHECK_PROCESSED - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - source processed: false
+VM8601:26 Skipping tradition-of-the-witch: source already exists
+VM8612:33 [2025-07-25T04:48:28.255Z] OPERATION_COMPLETE - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - Completed source
+VM8612:33 [2025-07-25T04:48:28.255Z] LOCK_RELEASE - system - Releasing lock
+VM8623:33 [2025-07-25T04:48:28.268Z] LOCK_ATTEMPT - system - Attempting to acquire lock
+VM8623:33 [2025-07-25T04:48:28.268Z] LOCK_ACQUIRED - system - Lock acquired successfully
+VM8623:33 [2025-07-25T04:48:28.269Z] QUEUE - multiple - Queueing 1 files
+VM8623:33 [2025-07-25T04:48:28.269Z] QUEUE_ADD - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - Added to queue
+VM8623:33 [2025-07-25T04:48:28.269Z] CHECK_PROCESSED - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - permalink processed: false
+VM8588:56 Skipping tradition-of-the-witch: permalink already exists
+VM8623:33 [2025-07-25T04:48:28.269Z] OPERATION_COMPLETE - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - Completed permalink
+VM8623:33 [2025-07-25T04:48:28.269Z] LOCK_RELEASE - system - Releasing lock
+VM8625:33 [2025-07-25T04:48:28.273Z] LOCK_ATTEMPT - system - Attempting to acquire lock
+VM8625:33 [2025-07-25T04:48:28.273Z] LOCK_ACQUIRED - system - Lock acquired successfully
+VM8625:33 [2025-07-25T04:48:28.275Z] QUEUE - multiple - Queueing 1 files
+VM8625:33 [2025-07-25T04:48:28.275Z] QUEUE_ADD - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - Added to queue
+VM8625:33 [2025-07-25T04:48:28.275Z] CHECK_PROCESSED - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - rename processed: false
+VM8603:33 Skipping tradition-of-the-witch: filename already matches permalink
+VM8625:33 [2025-07-25T04:48:28.275Z] OPERATION_COMPLETE - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - Completed rename
+VM8625:33 [2025-07-25T04:48:28.275Z] LOCK_RELEASE - system - Releasing lock
+VM8627:33 [2025-07-25T04:48:28.276Z] LOCK_ATTEMPT - system - Attempting to acquire lock
+VM8627:33 [2025-07-25T04:48:28.276Z] LOCK_ACQUIRED - system - Lock acquired successfully
+VM8627:33 [2025-07-25T04:48:28.277Z] QUEUE - multiple - Queueing 1 files
+VM8627:33 [2025-07-25T04:48:28.277Z] QUEUE_ADD - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - Added to queue
+VM8627:33 [2025-07-25T04:48:28.277Z] CHECK_PROCESSED - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - source processed: false
+VM8616:26 Skipping tradition-of-the-witch: source already exists
+VM8627:33 [2025-07-25T04:48:28.277Z] OPERATION_COMPLETE - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - Completed source
+VM8627:33 [2025-07-25T04:48:28.277Z] LOCK_RELEASE - system - Releasing lock
+VM8638:33 [2025-07-25T04:48:28.290Z] LOCK_ATTEMPT - system - Attempting to acquire lock
+VM8638:33 [2025-07-25T04:48:28.290Z] LOCK_ACQUIRED - system - Lock acquired successfully
+VM8638:33 [2025-07-25T04:48:28.291Z] QUEUE - multiple - Queueing 1 files
+VM8638:33 [2025-07-25T04:48:28.291Z] QUEUE_ADD - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - Added to queue
+VM8638:33 [2025-07-25T04:48:28.292Z] CHECK_PROCESSED - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - permalink processed: false
+VM8605:56 Skipping tradition-of-the-witch: permalink already exists
+VM8638:33 [2025-07-25T04:48:28.292Z] OPERATION_COMPLETE - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - Completed permalink
+VM8638:33 [2025-07-25T04:48:28.292Z] LOCK_RELEASE - system - Releasing lock
+VM8640:33 [2025-07-25T04:48:28.298Z] LOCK_ATTEMPT - system - Attempting to acquire lock
+VM8640:33 [2025-07-25T04:48:28.298Z] LOCK_ACQUIRED - system - Lock acquired successfully
+VM8640:33 [2025-07-25T04:48:28.299Z] QUEUE - multiple - Queueing 1 files
+VM8640:33 [2025-07-25T04:48:28.299Z] QUEUE_ADD - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - Added to queue
+VM8640:33 [2025-07-25T04:48:28.299Z] CHECK_PROCESSED - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - rename processed: false
+VM8618:33 Skipping tradition-of-the-witch: filename already matches permalink
+VM8640:33 [2025-07-25T04:48:28.299Z] OPERATION_COMPLETE - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - Completed rename
+VM8640:33 [2025-07-25T04:48:28.299Z] LOCK_RELEASE - system - Releasing lock
+VM8642:33 [2025-07-25T04:48:28.303Z] LOCK_ATTEMPT - system - Attempting to acquire lock
+VM8642:33 [2025-07-25T04:48:28.303Z] LOCK_ACQUIRED - system - Lock acquired successfully
+VM8642:33 [2025-07-25T04:48:28.304Z] QUEUE - multiple - Queueing 1 files
+VM8642:33 [2025-07-25T04:48:28.304Z] QUEUE_ADD - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - Added to queue
+VM8642:33 [2025-07-25T04:48:28.304Z] CHECK_PROCESSED - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - source processed: false
+VM8631:26 Skipping tradition-of-the-witch: source already exists
+VM8642:33 [2025-07-25T04:48:28.304Z] OPERATION_COMPLETE - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - Completed source
+VM8642:33 [2025-07-25T04:48:28.305Z] LOCK_RELEASE - system - Releasing lock
+VM8650:33 [2025-07-25T04:48:28.318Z] LOCK_ATTEMPT - system - Attempting to acquire lock
+VM8650:33 [2025-07-25T04:48:28.318Z] LOCK_ACQUIRED - system - Lock acquired successfully
+VM8650:33 [2025-07-25T04:48:28.320Z] QUEUE - multiple - Queueing 1 files
+VM8650:33 [2025-07-25T04:48:28.320Z] QUEUE_ADD - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - Added to queue
+VM8650:33 [2025-07-25T04:48:28.320Z] CHECK_PROCESSED - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - permalink processed: false
+VM8620:56 Skipping tradition-of-the-witch: permalink already exists
+VM8650:33 [2025-07-25T04:48:28.320Z] OPERATION_COMPLETE - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - Completed permalink
+VM8650:33 [2025-07-25T04:48:28.320Z] LOCK_RELEASE - system - Releasing lock
+VM8652:33 [2025-07-25T04:48:28.323Z] LOCK_ATTEMPT - system - Attempting to acquire lock
+VM8652:33 [2025-07-25T04:48:28.323Z] LOCK_ACQUIRED - system - Lock acquired successfully
+VM8652:33 [2025-07-25T04:48:28.324Z] QUEUE - multiple - Queueing 1 files
+VM8652:33 [2025-07-25T04:48:28.324Z] QUEUE_ADD - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - Added to queue
+VM8652:33 [2025-07-25T04:48:28.324Z] CHECK_PROCESSED - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - rename processed: false
+VM8633:33 Skipping tradition-of-the-witch: filename already matches permalink
+VM8652:33 [2025-07-25T04:48:28.324Z] OPERATION_COMPLETE - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - Completed rename
+VM8652:33 [2025-07-25T04:48:28.325Z] LOCK_RELEASE - system - Releasing lock
+VM8654:33 [2025-07-25T04:48:28.327Z] LOCK_ATTEMPT - system - Attempting to acquire lock
+VM8654:33 [2025-07-25T04:48:28.327Z] LOCK_ACQUIRED - system - Lock acquired successfully
+VM8654:33 [2025-07-25T04:48:28.329Z] QUEUE - multiple - Queueing 1 files
+VM8654:33 [2025-07-25T04:48:28.329Z] QUEUE_ADD - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - Added to queue
+VM8654:33 [2025-07-25T04:48:28.329Z] CHECK_PROCESSED - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - source processed: false
+VM8646:26 Skipping tradition-of-the-witch: source already exists
+VM8654:33 [2025-07-25T04:48:28.329Z] OPERATION_COMPLETE - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - Completed source
+VM8654:33 [2025-07-25T04:48:28.329Z] LOCK_RELEASE - system - Releasing lock
+VM8659:33 [2025-07-25T04:48:28.336Z] LOCK_ATTEMPT - system - Attempting to acquire lock
+VM8659:33 [2025-07-25T04:48:28.336Z] LOCK_ACQUIRED - system - Lock acquired successfully
+VM8659:33 [2025-07-25T04:48:28.338Z] QUEUE - multiple - Queueing 1 files
+VM8659:33 [2025-07-25T04:48:28.338Z] QUEUE_ADD - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - Added to queue
+VM8659:33 [2025-07-25T04:48:28.338Z] CHECK_PROCESSED - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - permalink processed: false
+VM8635:56 Skipping tradition-of-the-witch: permalink already exists
+VM8659:33 [2025-07-25T04:48:28.338Z] OPERATION_COMPLETE - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - Completed permalink
+VM8659:33 [2025-07-25T04:48:28.338Z] LOCK_RELEASE - system - Releasing lock
+VM8661:33 [2025-07-25T04:48:28.339Z] LOCK_ATTEMPT - system - Attempting to acquire lock
+VM8661:33 [2025-07-25T04:48:28.339Z] LOCK_ACQUIRED - system - Lock acquired successfully
+VM8661:33 [2025-07-25T04:48:28.340Z] QUEUE - multiple - Queueing 1 files
+VM8661:33 [2025-07-25T04:48:28.341Z] QUEUE_ADD - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - Added to queue
+VM8661:33 [2025-07-25T04:48:28.341Z] CHECK_PROCESSED - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - rename processed: false
+VM8648:33 Skipping tradition-of-the-witch: filename already matches permalink
+VM8661:33 [2025-07-25T04:48:28.341Z] OPERATION_COMPLETE - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - Completed rename
+VM8661:33 [2025-07-25T04:48:28.341Z] LOCK_RELEASE - system - Releasing lock
+VM8663:33 [2025-07-25T04:48:28.343Z] LOCK_ATTEMPT - system - Attempting to acquire lock
+VM8663:33 [2025-07-25T04:48:28.343Z] LOCK_ACQUIRED - system - Lock acquired successfully
+VM8663:33 [2025-07-25T04:48:28.344Z] QUEUE - multiple - Queueing 1 files
+VM8663:33 [2025-07-25T04:48:28.344Z] QUEUE_ADD - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - Added to queue
+VM8663:33 [2025-07-25T04:48:28.344Z] CHECK_PROCESSED - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - source processed: false
+VM8658:26 Skipping tradition-of-the-witch: source already exists
+VM8663:33 [2025-07-25T04:48:28.344Z] OPERATION_COMPLETE - 📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md - Completed source
+VM8663:33 [2025-07-25T04:48:28.344Z] LOCK_RELEASE - system - Releasing lock
