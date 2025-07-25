@@ -4,74 +4,92 @@
  */
 
 /**
- * Trims and formats a title for use as a permalink
- * @param {string} title - The title to format
- * @returns {string} - The formatted permalink
+ * Track files we've already processed to prevent duplicates
  */
-function trimTitle(title) {
-    if (!title) return '';
+const processedFiles = new Set();
 
-    // Clean up the title
-    let cleanTitle = title
-        // Replace special characters with space
-        .replace(/[^\w\s\-'&()]/g, ' ')  // Keep hyphen, apostrophe, ampersand, and parentheses
-        // Replace multiple spaces with single space
-        .replace(/\s+/g, ' ')
-        // Trim whitespace
-        .trim()
-        // Split into words
-        .split(' ')
-        // Take first 5 words
-        .slice(0, 5)
-        // Join with hyphens
-        .join('-')
-        // Convert to lowercase
-        .toLowerCase()
-        // Clean up any remaining unwanted characters
-        .replace(/['"]/g, '')  // Remove quotes
-        .replace(/\(|\)/g, '') // Remove parentheses
-        .replace(/&/g, 'and')  // Replace & with 'and'
-        // Clean up multiple hyphens and hyphens at start/end
-        .replace(/-+/g, '-')
-        .replace(/^-+|-+$/g, '');
+/**
+ * Global lock to prevent concurrent script execution
+ */
+let scriptLock = false;
 
-    return cleanTitle;
+/**
+ * Wait for script lock to be released
+ * @param {number} timeout - Maximum time to wait in milliseconds
+ * @returns {Promise<boolean>} - True if lock was acquired, false if timeout
+ */
+async function waitForLock(timeout = 30000) {
+    const startTime = Date.now();
+    while (scriptLock) {
+        if (Date.now() - startTime > timeout) {
+            console.log('Timeout waiting for script lock');
+            return false;
+        }
+        await new Promise(resolve => setTimeout(resolve, 100));
+    }
+    scriptLock = true;
+    return true;
 }
 
 /**
- * Process a file to add/update its permalink
+ * Release the script lock
+ */
+function releaseLock() {
+    scriptLock = false;
+}
+
+/**
+ * Check if a file needs processing
+ * @param {TFile} file - The file to check
+ * @param {App} app - The Obsidian app instance
+ * @returns {Promise<{needsProcessing: boolean, reason: string}>}
+ */
+async function checkFileStatus(file, app) {
+    // Skip if we've already processed this file
+    if (processedFiles.has(file.path)) {
+        return { needsProcessing: false, reason: "already processed" };
+    }
+
+    // Get the frontmatter
+    const cache = app.metadataCache.getFileCache(file)?.frontmatter;
+    
+    // Check if permalink already exists
+    if (cache?.permalink) {
+        return { needsProcessing: false, reason: "permalink already exists" };
+    }
+
+    return { needsProcessing: true, reason: "needs permalink" };
+}
+
+/**
+ * Process a single file
  * @param {TFile} file - The file to process
  * @param {App} app - The Obsidian app instance
  * @returns {Promise<void>}
  */
 async function processFile(file, app) {
     try {
-        // Get current frontmatter
-        const currentFrontmatter = app.metadataCache.getFileCache(file)?.frontmatter || {};
-        
-        // Generate new permalink from title
-        const newPermalink = trimTitle(file.basename);
-        
-        // If permalink exists and matches, skip
-        if (currentFrontmatter.permalink === newPermalink) {
-            console.log(`Skipping ${file.basename}: permalink already matches`);
+        // Check if file needs processing
+        const status = await checkFileStatus(file, app);
+        if (!status.needsProcessing) {
+            console.log(`Skipping ${file.basename}: ${status.reason}`);
+            processedFiles.add(file.path);
             return;
         }
 
-        // Update frontmatter
+        // Generate permalink from filename
+        const permalink = file.basename.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
+        
+        // Add permalink to frontmatter
         await app.fileManager.processFrontMatter(file, (frontmatter) => {
-            // Preserve existing frontmatter
-            Object.keys(currentFrontmatter).forEach(key => {
-                if (key !== 'position') {
-                    frontmatter[key] = currentFrontmatter[key];
-                }
-            });
-            
-            // Add or update permalink
-            frontmatter["permalink"] = newPermalink;
+            frontmatter.permalink = permalink;
         });
 
-        console.log(`Updated permalink for ${file.basename}`);
+        // Force metadata cache refresh
+        await app.metadataCache.trigger();
+
+        console.log(`Added permalink to ${file.basename}`);
+        processedFiles.add(file.path);
 
     } catch (error) {
         console.error(`Error processing ${file.basename}:`, error);
@@ -79,21 +97,25 @@ async function processFile(file, app) {
 }
 
 /**
- * Process all files in a folder
+ * Process all markdown files in a folder sequentially
  * @param {TFolder} folder - The folder to process
  * @param {App} app - The Obsidian app instance
  * @returns {Promise<void>}
  */
 async function processFolder(folder, app) {
-    if (!folder || !folder.children) {
-        console.warn(`Invalid folder object`);
-        return;
-    }
-
-    for (const file of folder.children) {
-        if (file.extension === 'md') {
-            await processFile(file, app);
+    try {
+        // Clear the processed files set when starting a new folder
+        processedFiles.clear();
+        
+        // Get all markdown files in the folder
+        const files = folder.children || [];
+        for (const file of files) {
+            if (file instanceof TFile && file.extension === 'md') {
+                await processFile(file, app);
+            }
         }
+    } catch (error) {
+        console.error(`Error processing folder ${folder.path}:`, error);
     }
 }
 
@@ -103,7 +125,16 @@ async function processFolder(folder, app) {
  * @returns {Promise<void>}
  */
 async function trim_title(tp = null) {
+    // Try to acquire lock
+    if (!await waitForLock()) {
+        console.log('Another script is running, please wait and try again');
+        return;
+    }
+
     try {
+        // Clear the processed files set at the start
+        processedFiles.clear();
+        
         // Try to get selected files from file explorer
         const fileExplorer = app.workspace.getLeavesOfType('file-explorer')[0];
         if (fileExplorer?.view?.fileItems) {
@@ -116,8 +147,6 @@ async function trim_title(tp = null) {
                 for (const file of selectedFiles) {
                     if (file instanceof TFile && file.extension === 'md') {
                         await processFile(file, app);
-                        // Add a small delay between files
-                        await new Promise(resolve => setTimeout(resolve, 200));
                     }
                 }
                 return;
@@ -154,6 +183,9 @@ async function trim_title(tp = null) {
 
     } catch (error) {
         console.error('Error in trim_title:', error);
+    } finally {
+        // Always release the lock when done
+        releaseLock();
     }
 }
 

@@ -4,13 +4,79 @@
  */
 
 /**
- * Extracts source information from file content and updates frontmatter
+ * Track files we've already processed to prevent duplicates
+ */
+const processedFiles = new Set();
+
+/**
+ * Global lock to prevent concurrent script execution
+ */
+let scriptLock = false;
+
+/**
+ * Wait for script lock to be released
+ * @param {number} timeout - Maximum time to wait in milliseconds
+ * @returns {Promise<boolean>} - True if lock was acquired, false if timeout
+ */
+async function waitForLock(timeout = 30000) {
+    const startTime = Date.now();
+    while (scriptLock) {
+        if (Date.now() - startTime > timeout) {
+            console.log('Timeout waiting for script lock');
+            return false;
+        }
+        await new Promise(resolve => setTimeout(resolve, 100));
+    }
+    scriptLock = true;
+    return true;
+}
+
+/**
+ * Release the script lock
+ */
+function releaseLock() {
+    scriptLock = false;
+}
+
+/**
+ * Check if a file needs processing
+ * @param {TFile} file - The file to check
+ * @param {App} app - The Obsidian app instance
+ * @returns {Promise<{needsProcessing: boolean, reason: string}>}
+ */
+async function checkFileStatus(file, app) {
+    // Skip if we've already processed this file
+    if (processedFiles.has(file.path)) {
+        return { needsProcessing: false, reason: "already processed" };
+    }
+
+    // Get the frontmatter
+    const cache = app.metadataCache.getFileCache(file)?.frontmatter;
+    
+    // Check if source already exists
+    if (cache?.source) {
+        return { needsProcessing: false, reason: "source already exists" };
+    }
+
+    return { needsProcessing: true, reason: "needs source" };
+}
+
+/**
+ * Process a single file
  * @param {TFile} file - The file to process
  * @param {App} app - The Obsidian app instance
  * @returns {Promise<void>}
  */
 async function processFile(file, app) {
     try {
+        // Check if file needs processing
+        const status = await checkFileStatus(file, app);
+        if (!status.needsProcessing) {
+            console.log(`Skipping ${file.basename}: ${status.reason}`);
+            processedFiles.add(file.path);
+            return;
+        }
+
         // Read the file content
         const content = await app.vault.read(file);
 
@@ -74,7 +140,11 @@ async function processFile(file, app) {
             frontmatter["source"] = sourceValue;
         });
 
+        // Force metadata cache refresh
+        await app.metadataCache.trigger();
+
         console.log(`Updated source for ${file.basename}`);
+        processedFiles.add(file.path);
 
     } catch (error) {
         console.error(`Error processing ${file.basename}:`, error);
@@ -82,21 +152,25 @@ async function processFile(file, app) {
 }
 
 /**
- * Process all files in a folder
+ * Process all markdown files in a folder sequentially
  * @param {TFolder} folder - The folder to process
  * @param {App} app - The Obsidian app instance
  * @returns {Promise<void>}
  */
 async function processFolder(folder, app) {
-    if (!folder || !folder.children) {
-        console.warn('Invalid folder object');
-        return;
-    }
-
-    for (const file of folder.children) {
-        if (file.extension === 'md') {
-            await processFile(file, app);
+    try {
+        // Clear the processed files set when starting a new folder
+        processedFiles.clear();
+        
+        // Get all markdown files in the folder
+        const files = folder.children || [];
+        for (const file of files) {
+            if (file instanceof TFile && file.extension === 'md') {
+                await processFile(file, app);
+            }
         }
+    } catch (error) {
+        console.error(`Error processing folder ${folder.path}:`, error);
     }
 }
 
@@ -118,7 +192,16 @@ function isFolderNote(file) {
  * @returns {Promise<void>}
  */
 async function extractSource(tp = null) {
+    // Try to acquire lock
+    if (!await waitForLock()) {
+        console.log('Another script is running, please wait and try again');
+        return;
+    }
+
     try {
+        // Clear the processed files set at the start
+        processedFiles.clear();
+        
         // Try to get selected files from file explorer
         const fileExplorer = app.workspace.getLeavesOfType('file-explorer')[0];
         if (fileExplorer?.view?.fileItems) {
@@ -131,8 +214,6 @@ async function extractSource(tp = null) {
                 for (const file of selectedFiles) {
                     if (file instanceof TFile && file.extension === 'md') {
                         await processFile(file, app);
-                        // Add a small delay between files
-                        await new Promise(resolve => setTimeout(resolve, 200));
                     }
                 }
                 return;
@@ -169,6 +250,9 @@ async function extractSource(tp = null) {
 
     } catch (error) {
         console.error('Error in extractSource:', error);
+    } finally {
+        // Always release the lock when done
+        releaseLock();
     }
 }
 

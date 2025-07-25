@@ -1,1 +1,1 @@
-<%* await tp.user.trim_title(tp) %>
+oimage.png<%* await tp.user.trim_title(tp) %>

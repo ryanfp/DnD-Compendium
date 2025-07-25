@@ -45,6 +45,71 @@ async function updateLinkDisplayText(file, oldPath, newPath, oldName, app) {
 const processedFiles = new Set();
 
 /**
+ * Global lock to prevent concurrent script execution
+ */
+let scriptLock = false;
+
+/**
+ * Wait for script lock to be released
+ * @param {number} timeout - Maximum time to wait in milliseconds
+ * @returns {Promise<boolean>} - True if lock was acquired, false if timeout
+ */
+async function waitForLock(timeout = 30000) {
+    const startTime = Date.now();
+    while (scriptLock) {
+        if (Date.now() - startTime > timeout) {
+            console.log('Timeout waiting for script lock');
+            return false;
+        }
+        await new Promise(resolve => setTimeout(resolve, 100));
+    }
+    scriptLock = true;
+    return true;
+}
+
+/**
+ * Release the script lock
+ */
+function releaseLock() {
+    scriptLock = false;
+}
+
+/**
+ * Check if a file needs processing
+ * @param {TFile} file - The file to check
+ * @param {App} app - The Obsidian app instance
+ * @returns {Promise<{needsProcessing: boolean, reason: string}>}
+ */
+async function checkFileStatus(file, app) {
+    // Skip if we've already processed this file
+    if (processedFiles.has(file.path)) {
+        return { needsProcessing: false, reason: "already processed" };
+    }
+
+    // Get the frontmatter
+    const cache = app.metadataCache.getFileCache(file)?.frontmatter;
+    
+    // Check if permalink exists (required for rename)
+    if (!cache?.permalink) {
+        return { needsProcessing: false, reason: "permalink required before rename" };
+    }
+
+    // Check if filename already matches permalink
+    if (file.basename === cache.permalink) {
+        return { needsProcessing: false, reason: "filename already matches permalink" };
+    }
+
+    // Check if target file exists
+    const newPath = file.path.replace(file.basename, cache.permalink);
+    const targetFile = app.vault.getAbstractFileByPath(newPath);
+    if (targetFile) {
+        return { needsProcessing: false, reason: "target file already exists" };
+    }
+
+    return { needsProcessing: true, reason: "needs rename" };
+}
+
+/**
  * Process a single file
  * @param {TFile} file - The file to process
  * @param {App} app - The Obsidian app instance
@@ -52,33 +117,18 @@ const processedFiles = new Set();
  */
 async function processFile(file, app) {
     try {
-        // Skip if we've already processed this file
-        if (processedFiles.has(file.path)) {
-            console.log(`Skipping ${file.basename}: already processed`);
+        // Check if file needs processing
+        const status = await checkFileStatus(file, app);
+        if (!status.needsProcessing) {
+            console.log(`Skipping ${file.basename}: ${status.reason}`);
+            processedFiles.add(file.path);
             return;
         }
-        processedFiles.add(file.path);
 
-        // Add a delay to ensure any previous operations have completed
-        await new Promise(resolve => setTimeout(resolve, 500));
-        
         // Get the frontmatter
         const cache = app.metadataCache.getFileCache(file)?.frontmatter;
         const permalink = cache?.permalink;
-        
-        if (!permalink) {
-            console.log(`No permalink found in ${file.basename}`);
-            return;
-        }
-
-        // Get current filename without extension
         const currentName = file.basename;
-        
-        // If the current filename already matches the permalink, skip renaming
-        if (currentName === permalink) {
-            console.log(`Skipping ${file.basename}: filename already matches permalink`);
-            return;
-        }
 
         try {
             // First, ensure the old name is added as an alias if it doesn't exist
@@ -90,8 +140,8 @@ async function processFile(file, app) {
                         frontmatter.aliases.push(currentName);
                     }
                 });
-                // Small delay to ensure frontmatter is saved
-                await new Promise(resolve => setTimeout(resolve, 100));
+                // Force metadata cache refresh after updating aliases
+                await app.metadataCache.trigger();
             }
 
             // Get the old and new paths
@@ -108,20 +158,18 @@ async function processFile(file, app) {
                         await updateLinkDisplayText(sourceFile, currentName, permalink, currentName, app);
                     }
                 }
-                // Small delay to ensure all backlinks are updated
-                await new Promise(resolve => setTimeout(resolve, 100));
-            }
-            
-            // Check if the target file exists to prevent errors
-            const targetFile = app.vault.getAbstractFileByPath(newPath);
-            if (targetFile) {
-                console.log(`Cannot rename ${file.basename}: target file ${permalink} already exists`);
-                return;
+                // Force metadata cache refresh after updating backlinks
+                await app.metadataCache.trigger();
             }
             
             // Use Obsidian's file manager to rename (this preserves basic links)
             await app.fileManager.renameFile(file, newPath);
+            
+            // Force final metadata cache refresh
+            await app.metadataCache.trigger();
+            
             console.log(`Renamed ${file.basename} to ${permalink}`);
+            processedFiles.add(newPath);
 
         } catch (error) {
             console.error(`Error renaming ${file.basename}:`, error);
@@ -133,7 +181,7 @@ async function processFile(file, app) {
 }
 
 /**
- * Process all markdown files in a folder
+ * Process all markdown files in a folder sequentially
  * @param {TFolder} folder - The folder to process
  * @param {App} app - The Obsidian app instance
  * @returns {Promise<void>}
@@ -148,8 +196,6 @@ async function processFolder(folder, app) {
         for (const file of files) {
             if (file instanceof TFile && file.extension === 'md') {
                 await processFile(file, app);
-                // Add a delay between files to prevent race conditions
-                await new Promise(resolve => setTimeout(resolve, 300));
             }
         }
     } catch (error) {
@@ -163,6 +209,12 @@ async function processFolder(folder, app) {
  * @returns {Promise<void>}
  */
 async function copyPermalinkAndRename(tp = null) {
+    // Try to acquire lock
+    if (!await waitForLock()) {
+        console.log('Another script is running, please wait and try again');
+        return;
+    }
+
     try {
         // Clear the processed files set at the start
         processedFiles.clear();
@@ -179,8 +231,6 @@ async function copyPermalinkAndRename(tp = null) {
                 for (const file of selectedFiles) {
                     if (file instanceof TFile && file.extension === 'md') {
                         await processFile(file, app);
-                        // Add a delay between files to prevent race conditions
-                        await new Promise(resolve => setTimeout(resolve, 300));
                     }
                 }
                 return;
@@ -217,6 +267,9 @@ async function copyPermalinkAndRename(tp = null) {
 
     } catch (error) {
         console.error('Error in copyPermalinkAndRename:', error);
+    } finally {
+        // Always release the lock when done
+        releaseLock();
     }
 }
 

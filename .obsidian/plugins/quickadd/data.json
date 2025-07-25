@@ -20,6 +20,13 @@
       "type": "Macro",
       "command": true,
       "macroId": "f3830bba-7228-40e7-a9d4-afb0bd052ebf"
+    },
+    {
+      "id": "31e4aec8-f158-4655-b7a8-199a6bbe178c",
+      "name": "File Processing",
+      "type": "Macro",
+      "command": true,
+      "macroId": "61cb8f00-16ad-4867-a4e3-9342ab9a0bd9"
     }
   ],
   "macros": [
@@ -110,6 +117,31 @@
           "name": "Templater: Insert 22 - Extract Source",
           "type": "Obsidian",
           "id": "db69594a-d7f6-486d-8ca9-ef88fdfa0fbf",
+          "commandId": "templater-obsidian:z_Templates/22 - Extract Source.md"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "File Processing",
+      "id": "61cb8f00-16ad-4867-a4e3-9342ab9a0bd9",
+      "commands": [
+        {
+          "name": "Templater: Insert 20 - Add Permalink",
+          "type": "Obsidian",
+          "id": "24309500-287e-4f82-9a6d-9d0f457a76ce",
+          "commandId": "templater-obsidian:z_Templates/20 - Add Permalink.md"
+        },
+        {
+          "name": "Templater: Insert 21 - Smart Rename from Permalink",
+          "type": "Obsidian",
+          "id": "22d56823-3efc-4b1e-8a8d-ab5079d3bef2",
+          "commandId": "templater-obsidian:z_Templates/21 - Smart Rename from Permalink.md"
+        },
+        {
+          "name": "Templater: Insert 22 - Extract Source",
+          "type": "Obsidian",
+          "id": "59309326-dac3-4764-b7e4-023de6cb2d39",
           "commandId": "templater-obsidian:z_Templates/22 - Extract Source.md"
         }
       ],
