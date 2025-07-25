@@ -13,14 +13,9 @@ async function processFile(file, app) {
     try {
         const stateManager = window.obsidianStateManager;
         
-        // Skip if already processed or not ready for source
+        // Skip if already processed
         if (stateManager.isFileProcessed(file.path, 'source')) {
-            console.log(`Skipping ${file.basename}: already processed`);
-            return;
-        }
-
-        if (!stateManager.isFileReadyForOperation(file.path, 'source')) {
-            console.log(`Skipping ${file.basename}: not ready for source`);
+            stateManager.skipOperation(file.path, 'source', 'already processed');
             return;
         }
 
@@ -33,7 +28,7 @@ async function processFile(file, app) {
         // Look for "Source:" pattern and extract the value
         const sourceMatch = content.match(/Source:\s*([^\n]+)/);
         if (!sourceMatch) {
-            console.log(`No Source: pattern found in ${file.basename}`);
+            stateManager.skipOperation(file.path, 'source', 'no Source: pattern found');
             return;
         }
 
@@ -73,8 +68,7 @@ async function processFile(file, app) {
 
         // Check if source already exists and is correct
         if (currentFrontmatter.source === sourceValue) {
-            console.log(`Skipping ${file.basename}: source already matches`);
-            stateManager.markOperationComplete(file.path, 'source');
+            stateManager.skipOperation(file.path, 'source', 'source already matches');
             return;
         }
 

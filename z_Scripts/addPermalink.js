@@ -43,9 +43,9 @@ async function processFile(file, app) {
     try {
         const stateManager = window.obsidianStateManager;
         
-        // Skip if already processed or not ready
+        // Skip if already processed
         if (stateManager.isFileProcessed(file.path, 'permalink')) {
-            console.log(`Skipping ${file.basename}: already processed`);
+            stateManager.skipOperation(file.path, 'permalink', 'already processed');
             return;
         }
 
@@ -55,8 +55,7 @@ async function processFile(file, app) {
         // Skip if permalink already exists and matches what we would generate
         const wouldBePermalink = trimTitle(file.basename);
         if (cache?.permalink === wouldBePermalink) {
-            console.log(`Skipping ${file.basename}: permalink already correct`);
-            stateManager.markOperationComplete(file.path, 'permalink');
+            stateManager.skipOperation(file.path, 'permalink', 'already correct');
             return;
         }
 

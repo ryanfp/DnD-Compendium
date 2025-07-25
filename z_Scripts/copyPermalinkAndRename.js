@@ -13,14 +13,9 @@ async function processFile(file, app) {
     try {
         const stateManager = window.obsidianStateManager;
         
-        // Skip if already processed or not ready for rename
+        // Skip if already processed
         if (stateManager.isFileProcessed(file.path, 'rename')) {
-            console.log(`Skipping ${file.basename}: already processed`);
-            return;
-        }
-
-        if (!stateManager.isFileReadyForOperation(file.path, 'rename')) {
-            console.log(`Skipping ${file.basename}: not ready for rename`);
+            stateManager.skipOperation(file.path, 'rename', 'already processed');
             return;
         }
 
@@ -30,14 +25,13 @@ async function processFile(file, app) {
         
         // Skip if no permalink
         if (!permalink) {
-            console.log(`Skipping ${file.basename}: no permalink found`);
+            stateManager.skipOperation(file.path, 'rename', 'no permalink found');
             return;
         }
 
         // Skip if filename already matches
         if (file.basename === permalink) {
-            console.log(`Skipping ${file.basename}: filename already matches permalink`);
-            stateManager.markOperationComplete(file.path, 'rename');
+            stateManager.skipOperation(file.path, 'rename', 'filename already matches permalink');
             return;
         }
 
@@ -45,7 +39,7 @@ async function processFile(file, app) {
         const newPath = file.path.replace(file.basename, permalink);
         const targetFile = app.vault.getAbstractFileByPath(newPath);
         if (targetFile) {
-            console.log(`Skipping ${file.basename}: target file already exists`);
+            stateManager.skipOperation(file.path, 'rename', 'target file already exists');
             return;
         }
 

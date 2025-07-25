@@ -69,11 +69,22 @@ const stateManagerInstance = {
     queueFiles(filePaths) {
         this.logOperation('QUEUE', 'multiple', `Queueing ${filePaths.length} files`);
         filePaths.forEach(path => {
-            if (!this.completedFiles.has(path) && !this.processQueue.includes(path)) {
+            // Don't queue if:
+            // 1. Already completed
+            // 2. Already in queue
+            // 3. Currently being processed
+            // 4. Has any operations completed (partial processing)
+            if (this.completedFiles.has(path)) {
+                this.logOperation('QUEUE_SKIP', path, 'Already completed');
+            } else if (this.processQueue.includes(path)) {
+                this.logOperation('QUEUE_SKIP', path, 'Already in queue');
+            } else if (path === this.currentFile) {
+                this.logOperation('QUEUE_SKIP', path, 'Currently being processed');
+            } else if (this.currentOperations.size > 0 && path === this.currentFile) {
+                this.logOperation('QUEUE_SKIP', path, 'Partial processing in progress');
+            } else {
                 this.processQueue.push(path);
                 this.logOperation('QUEUE_ADD', path, 'Added to queue');
-            } else {
-                this.logOperation('QUEUE_SKIP', path, 'Already queued or completed');
             }
         });
     },
@@ -104,35 +115,82 @@ const stateManagerInstance = {
             return null;
         }
 
-        // Start processing next file in queue
-        this.currentFile = this.processQueue[0];
+        // Get next file from queue (but don't remove it yet)
+        const nextFile = this.processQueue[0];
+        
+        // Skip if somehow already completed
+        if (this.completedFiles.has(nextFile)) {
+            this.processQueue.shift(); // Remove completed file from queue
+            this.logOperation('NEXT_FILE_SKIP', nextFile, 'Already completed');
+            return null;
+        }
+
+        // Start processing next file
+        this.currentFile = nextFile;
         this.currentOperations.clear();
-        this.logOperation('NEXT_FILE', this.currentFile, `Starting new file with ${operation}`);
-        return this.currentFile;
+        this.logOperation('NEXT_FILE', nextFile, `Starting new file with ${operation}`);
+        return nextFile;
     },
 
     /**
      * Mark current operation as complete
      * @param {string} filePath - The file that's complete
      * @param {string} operation - The operation completed
+     * @param {boolean} [skipCheck=false] - Whether to skip current file check
      */
-    markOperationComplete(filePath, operation) {
-        if (filePath !== this.currentFile) {
+    markOperationComplete(filePath, operation, skipCheck = false) {
+        // Verify this is the current file (unless explicitly skipped)
+        if (!skipCheck && filePath !== this.currentFile) {
             this.logOperation('ERROR', filePath, `Attempted to complete operation on non-current file`);
             return;
         }
 
+        // Add operation to completed set
         this.currentOperations.add(operation);
         this.logOperation('OPERATION_COMPLETE', filePath, `Completed ${operation}`);
 
-        // If all operations are complete for this file
+        // Check if all operations are complete for this file
         if (this.currentOperations.size === this.operationOrder.length) {
+            // Mark file as complete
             this.completedFiles.add(filePath);
-            this.processQueue.shift(); // Remove the completed file from queue
+            
+            // Remove from queue
+            const index = this.processQueue.indexOf(filePath);
+            if (index > -1) {
+                this.processQueue.splice(index, 1);
+            }
+            
+            // Clear current file state
             this.currentFile = null;
             this.currentOperations.clear();
+            
             this.logOperation('FILE_COMPLETE', filePath, 'All operations completed');
         }
+    },
+
+    /**
+     * Skip current operation and mark it as complete
+     * @param {string} filePath - The file being processed
+     * @param {string} operation - The operation to skip
+     * @param {string} reason - Why the operation was skipped
+     */
+    skipOperation(filePath, operation, reason) {
+        // If this isn't the current file, make it current
+        if (filePath !== this.currentFile) {
+            // If we have a different current file, can't skip
+            if (this.currentFile !== null) {
+                this.logOperation('SKIP_ERROR', filePath, `Cannot skip operation on non-current file`);
+                return;
+            }
+            this.currentFile = filePath;
+            this.currentOperations.clear();
+        }
+
+        // Log the skip
+        this.logOperation('SKIP', filePath, `Skipping ${operation}: ${reason}`);
+
+        // Mark the operation as complete
+        this.markOperationComplete(filePath, operation, true);
     },
 
     /**
@@ -186,6 +244,44 @@ const stateManagerInstance = {
         const isComplete = this.completedFiles.has(filePath);
         this.logOperation('CHECK_PROCESSED', filePath, `${operation} processed: ${isComplete}`);
         return isComplete;
+    },
+
+    /**
+     * Check if a file is ready for an operation
+     * @param {string} filePath - The file path to check
+     * @param {string} operation - The operation to check
+     * @returns {boolean}
+     */
+    isFileReadyForOperation(filePath, operation) {
+        // If file is completed, it's not ready for any operation
+        if (this.completedFiles.has(filePath)) {
+            this.logOperation('CHECK_READY', filePath, `Not ready: already completed`);
+            return false;
+        }
+
+        // If this isn't the current file and we have a current file, not ready
+        if (filePath !== this.currentFile && this.currentFile !== null) {
+            this.logOperation('CHECK_READY', filePath, `Not ready: another file in progress`);
+            return false;
+        }
+
+        // If this is the current file, check if this operation is next
+        if (filePath === this.currentFile) {
+            const nextOp = this.operationOrder[this.currentOperations.size];
+            const isReady = operation === nextOp;
+            this.logOperation('CHECK_READY', filePath, `Ready for ${operation}: ${isReady}`);
+            return isReady;
+        }
+
+        // If no current file and this file is next in queue, it's ready for first operation
+        if (this.currentFile === null && this.processQueue[0] === filePath) {
+            const isReady = operation === this.operationOrder[0];
+            this.logOperation('CHECK_READY', filePath, `Ready as next file: ${isReady}`);
+            return isReady;
+        }
+
+        this.logOperation('CHECK_READY', filePath, `Not ready: waiting in queue`);
+        return false;
     },
 
     /**
