@@ -1,1 +1,1 @@
-<%* await tp.user.renameFromPermalink(tp) %>
+<%* await tp.user.copyPermalinkAndRename(tp) %>

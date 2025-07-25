@@ -1,6 +1,6 @@
 /**
- * @typedef {import('obsidian').TFile} TFile
- * @typedef {import('obsidian').TFolder} TFolder
+ * BACKUP OF WORKING STATE - DO NOT MODIFY
+ * Created as reference point for working implementation
  */
 
 /**
@@ -171,4 +171,9 @@ function addPermalink(tp) {
     }
 }
 
+// Export both named and default for Templater
 module.exports = addPermalink;
+module.exports.addPermalink = addPermalink;
+
+// Also export the helper function in case it's needed elsewhere
+module.exports.trimTitle = trimTitle; 

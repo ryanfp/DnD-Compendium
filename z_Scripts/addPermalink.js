@@ -1,7 +1,37 @@
 /**
- * @typedef {import('obsidian').TFile} TFile
- * @typedef {import('obsidian').TFolder} TFolder
+ * Trims and formats a title for use as a permalink
+ * @param {string} title - The title to format
+ * @returns {string} - The formatted permalink
  */
+function trimTitle(title) {
+    if (!title) return '';
+
+    // Clean up the title
+    let cleanTitle = title
+        // Replace special characters with space
+        .replace(/[^\w\s\-'&()]/g, ' ')  // Keep hyphen, apostrophe, ampersand, and parentheses
+        // Replace multiple spaces with single space
+        .replace(/\s+/g, ' ')
+        // Trim whitespace
+        .trim()
+        // Split into words
+        .split(' ')
+        // Take first 5 words
+        .slice(0, 5)
+        // Join with hyphens
+        .join('-')
+        // Convert to lowercase
+        .toLowerCase()
+        // Clean up any remaining unwanted characters
+        .replace(/['"]/g, '')  // Remove quotes
+        .replace(/\(|\)/g, '') // Remove parentheses
+        .replace(/&/g, 'and')  // Replace & with 'and'
+        // Clean up multiple hyphens and hyphens at start/end
+        .replace(/-+/g, '-')
+        .replace(/^-+|-+$/g, '');
+
+    return cleanTitle;
+}
 
 /**
  * Process a single file
@@ -13,7 +43,7 @@ async function processFile(file, app) {
     try {
         const stateManager = window.obsidianStateManager;
         // Skip if already processed
-        if (stateManager.isFileProcessed(file.path, 'source')) {
+        if (stateManager.isFileProcessed(file.path, 'permalink')) {
             console.log(`Skipping ${file.basename}: already processed`);
             return;
         }
@@ -21,81 +51,26 @@ async function processFile(file, app) {
         // Get the frontmatter
         const cache = app.metadataCache.getFileCache(file)?.frontmatter;
         
-        // Skip if source already exists
-        if (cache?.source) {
-            console.log(`Skipping ${file.basename}: source already exists`);
-            stateManager.markFileProcessed(file.path, 'source');
+        // Skip if permalink already exists
+        if (cache?.permalink) {
+            console.log(`Skipping ${file.basename}: permalink already exists`);
+            stateManager.markFileProcessed(file.path, 'permalink');
             return;
         }
 
-        // Read the file content
-        const content = await app.vault.read(file);
-
-        // Look for "Source:" pattern and extract the value
-        const sourceMatch = content.match(/Source:\s*([^\n]+)/);
-        if (!sourceMatch) {
-            console.log(`No Source: pattern found in ${file.basename}`);
-            return;
-        }
-
-        // Get the source value and clean it
-        let sourceValue = sourceMatch[1].trim();
+        // Generate permalink from basename
+        const permalink = trimTitle(file.basename);
         
-        // Remove page numbers by splitting at "p. " and taking the first part
-        if (sourceValue.includes("p. ")) {
-            sourceValue = sourceValue.split("p. ")[0].trim();
-        }
-
-        // Clean up formatting symbols while preserving specific punctuation
-        sourceValue = sourceValue
-            // Remove Markdown formatting
-            .replace(/\*\*/g, '') // bold
-            .replace(/\*/g, '') // italic
-            .replace(/\_\_/g, '') // bold
-            .replace(/\_/g, '') // italic
-            .replace(/\~/g, '') // strikethrough
-            .replace(/\`/g, '') // code
-            .replace(/\[\[/g, '') // wiki links start
-            .replace(/\]\]/g, '') // wiki links end
-            .replace(/\[([^\]]+)\]\([^\)]+\)/g, '$1') // markdown links
-            .replace(/\#/g, '') // hashtags
-            .replace(/\|/g, '') // table separators
-            .replace(/\>/g, '') // blockquotes
-            .replace(/\</g, '') // html tags
-            .replace(/\{/g, '') // curly braces
-            .replace(/\}/g, '')
-            .replace(/\$/g, '') // latex delimiters
-            .replace(/\^/g, '') // superscript
-            .replace(/\=/g, '') // headers
-            .trim();
-
-        // Get existing frontmatter
-        const currentFrontmatter = app.metadataCache.getFileCache(file)?.frontmatter || {};
-
-        // Check if source already exists and is correct
-        if (currentFrontmatter.source === sourceValue) {
-            console.log(`Skipping ${file.basename}: source already matches`);
-            return;
-        }
-
         // Update frontmatter
         await app.fileManager.processFrontMatter(file, (frontmatter) => {
-            // Preserve existing frontmatter
-            Object.keys(currentFrontmatter).forEach(key => {
-                if (key !== 'position') {
-                    frontmatter[key] = currentFrontmatter[key];
-                }
-            });
-
-            // Update the source
-            frontmatter["source"] = sourceValue;
+            frontmatter.permalink = permalink;
         });
 
         // Force metadata cache refresh
         await app.metadataCache.trigger();
 
-        console.log(`Updated source for ${file.basename}`);
-        stateManager.markFileProcessed(file.path, 'source');
+        console.log(`Added permalink for ${file.basename}`);
+        stateManager.markFileProcessed(file.path, 'permalink');
 
     } catch (error) {
         console.error(`Error processing ${file.basename}:`, error);
@@ -138,7 +113,7 @@ async function processFolder(folder, app) {
  * Main function for Templater
  * @param {any} tp - Templater object
  */
-function extractSource(tp) {
+function addPermalink(tp) {
     const app = tp.app;
     const stateManager = window.obsidianStateManager;
 
@@ -194,7 +169,7 @@ function extractSource(tp) {
         }
 
     } catch (error) {
-        console.error('Error in extractSource:', error);
+        console.error('Error in addPermalink:', error);
     } finally {
         // Always release the lock when done
         stateManager.releaseLock();
@@ -202,5 +177,8 @@ function extractSource(tp) {
 }
 
 // Export both named and default for Templater
-module.exports = extractSource;
-module.exports.extractSource = extractSource; 
+module.exports = addPermalink;
+module.exports.addPermalink = addPermalink;
+
+// Also export the helper function in case it's needed elsewhere
+module.exports.trimTitle = trimTitle; 

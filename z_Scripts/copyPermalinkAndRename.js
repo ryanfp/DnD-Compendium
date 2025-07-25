@@ -133,14 +133,24 @@ async function updateLinkDisplayText(file, oldPath, newPath, oldName, app) {
  */
 async function processFolder(folder, app) {
     try {
+        const stateManager = window.obsidianStateManager;
         // Get all markdown files in the folder
         const files = folder.children || [];
-        for (const file of files) {
-            if (file instanceof TFile && file.extension === 'md') {
-                await processFile(file, app);
-                // Add a delay between files
-                await new Promise(resolve => setTimeout(resolve, 100));
-            }
+        
+        // First, check which files need processing
+        const filesToProcess = files.filter(file => 
+            file instanceof TFile && 
+            file.extension === 'md' && 
+            !stateManager.isFileComplete(file.path)
+        );
+
+        console.log(`Found ${filesToProcess.length} files to process in ${folder.path}`);
+
+        // Process each file that needs it
+        for (const file of filesToProcess) {
+            await processFile(file, app);
+            // Add a delay between files
+            await new Promise(resolve => setTimeout(resolve, 100));
         }
     } catch (error) {
         console.error(`Error processing folder ${folder.path}:`, error);
@@ -151,7 +161,7 @@ async function processFolder(folder, app) {
  * Main function for Templater
  * @param {any} tp - Templater object
  */
-function renameFromPermalink(tp) {
+function copyPermalinkAndRename(tp) {
     const app = tp.app;
     const stateManager = window.obsidianStateManager;
 
@@ -207,11 +217,13 @@ function renameFromPermalink(tp) {
         }
 
     } catch (error) {
-        console.error('Error in renameFromPermalink:', error);
+        console.error('Error in copyPermalinkAndRename:', error);
     } finally {
         // Always release the lock when done
         stateManager.releaseLock();
     }
 }
 
-module.exports = renameFromPermalink;
+// Export both named and default for Templater
+module.exports = copyPermalinkAndRename;
+module.exports.copyPermalinkAndRename = copyPermalinkAndRename;

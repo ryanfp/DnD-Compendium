@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "tradition-of-the-shaman",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md"
+    },
+    {
       "basename": "hellspeaker",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/illrigger/hellspeaker.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "death-domain",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/death-domain.md"
-    },
-    {
-      "basename": "cleric-xphb-war-domain",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-war-domain.md"
     }
   ],
   "omittedPaths": [],
