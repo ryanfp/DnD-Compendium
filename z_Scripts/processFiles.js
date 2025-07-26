@@ -9,6 +9,10 @@
  * @param {object} params - Parameters from Templater
  * @returns {Promise<void>}
  */
+
+// Track processed files to prevent duplication
+const processedFiles = new Set();
+
 async function processFiles(params) {
     try {
         console.log("Starting unified file processing");
@@ -23,43 +27,39 @@ async function processFiles(params) {
             throw new Error("App not provided");
         }
         
-        // Handle different ways the file parameter might be provided
+        // Get the active file
         let fileObj;
         
-        // Try to get the file from various possible locations
-        if (params.file) {
-            fileObj = params.file;
-        } else if (params.tp && params.tp.file) {
-            fileObj = params.tp.file;
-        } else if (app.workspace.getActiveFile()) {
+        try {
             fileObj = app.workspace.getActiveFile();
+            console.log("Got active file:", fileObj ? fileObj.path : "none");
+        } catch (err) {
+            console.log("Error getting active file:", err);
         }
         
-        if (!fileObj) {
-            throw new Error("No file provided and could not determine active file");
+        // If we couldn't get the active file, try other methods
+        if (!fileObj && params.file) {
+            fileObj = params.file;
+            console.log("Using file from params:", fileObj.path);
         }
         
-        console.log("File object received:", fileObj);
-        
-        // Check if it's a Templater-specific file object that needs conversion
-        if (fileObj && typeof fileObj === 'object' && !(fileObj instanceof app.vault.TFile) && !(fileObj instanceof app.vault.TFolder) && fileObj.path) {
-            console.log("Converting file object to Obsidian file object");
-            const actualFile = app.vault.getAbstractFileByPath(fileObj.path);
-            if (actualFile) {
-                fileObj = actualFile;
-                console.log("Successfully converted to Obsidian file object");
-            }
+        // If we still don't have a valid file, throw an error
+        if (!fileObj || !fileObj.path) {
+            throw new Error("Could not find a valid file to process. Please make sure a file is active.");
         }
+        
+        console.log("File object found:", fileObj.path);
+        
+        // Clear the processed files set at the start of each main call
+        processedFiles.clear();
         
         // Process based on whether we have a file or folder
-        if (fileObj instanceof app.vault.TFolder) {
-            // It's a folder - process all markdown files in it
+        if (fileObj.children && Array.isArray(fileObj.children)) {
+            // It's a folder
             await processFolder(fileObj, app);
-        } else if (fileObj instanceof app.vault.TFile) {
-            // It's a single file
-            await processFile(fileObj, app);
         } else {
-            throw new Error("The provided object is neither a valid file nor folder");
+            // It's a file
+            await processFile(fileObj, app);
         }
         
         console.log("File processing complete");
@@ -77,12 +77,26 @@ async function processFiles(params) {
 async function processFile(file, app) {
     try {
         // Validate file object
-        if (!file || !(file instanceof app.vault.TFile)) {
+        if (!file) {
             console.error("Invalid file object:", file);
             return;
         }
         
-        const fileName = file.basename || "unknown file";
+        if (!file.path) {
+            console.error("File object has no path:", file);
+            return;
+        }
+        
+        // Skip if already processed
+        if (processedFiles.has(file.path)) {
+            console.log(`Skipping already processed file: ${file.path}`);
+            return;
+        }
+        
+        // Mark as processed
+        processedFiles.add(file.path);
+        
+        const fileName = file.basename || file.name || file.path.split('/').pop().split('.')[0] || "unknown";
         const filePath = file.path;
         
         console.log(`Processing file: ${fileName} at path ${filePath}`);
@@ -93,7 +107,7 @@ async function processFile(file, app) {
         
         // Need to get updated file reference after potential permalink addition
         let currentFile = app.vault.getAbstractFileByPath(filePath);
-        if (!currentFile || !(currentFile instanceof app.vault.TFile)) {
+        if (!currentFile) {
             console.error(`File no longer exists at ${filePath}`);
             return;
         }
@@ -107,19 +121,29 @@ async function processFile(file, app) {
             app.vault.getAbstractFileByPath(newFilePath) : 
             currentFile;
         
-        if (!currentFile || !(currentFile instanceof app.vault.TFile)) {
+        if (!currentFile) {
             console.error(`File no longer exists after rename`);
             return;
         }
         
-        // Step 3: Extract source from content to frontmatter
-        console.log(`Step 3: Extracting source for ${currentFile.basename}`);
-        await extractSource(currentFile, app);
+        // Add the new path to processed files
+        if (newFilePath) {
+            processedFiles.add(newFilePath);
+        }
         
-        console.log(`Completed processing: ${currentFile.basename}`);
+        // Step 3: Extract source from content to frontmatter
+        console.log(`Step 3: Extracting source for ${currentFile.basename || currentFile.name || fileName}`);
+        
+        // Fix for "Error reading file undefined" - use try/catch here
+        try {
+            await extractSource(currentFile, app);
+        } catch (extractError) {
+            console.error(`Error extracting source: ${extractError.message}`);
+        }
+        
+        console.log(`Completed processing: ${currentFile.basename || currentFile.name || fileName}`);
     } catch (error) {
-        const fileName = file ? (file.basename || "unknown") : "unknown";
-        console.error(`Error processing file ${fileName}:`, error);
+        console.error(`Error processing file:`, error);
     }
 }
 
@@ -132,25 +156,36 @@ async function processFile(file, app) {
 async function processFolder(folder, app) {
     try {
         // Validate folder object
-        if (!folder || !(folder instanceof app.vault.TFolder)) {
+        if (!folder || !Array.isArray(folder.children)) {
             console.error("Invalid folder object:", folder);
             return;
         }
         
-        const folderName = folder.name || folder.path;
+        const folderName = folder.name || folder.path || "unknown folder";
         console.log(`Processing folder: ${folderName}`);
         
         // Get all markdown files in the folder
         const files = folder.children
-            .filter(file => file instanceof app.vault.TFile && file.extension === 'md');
+            .filter(file => 
+                // Check if it's a file and if it has a .md extension
+                file && 
+                file.path && 
+                file.path.toLowerCase().endsWith('.md')
+            );
         
         console.log(`Found ${files.length} markdown files in folder`);
         
         // Process each file sequentially
         for (const file of files) {
+            // Skip if already processed
+            if (processedFiles.has(file.path)) {
+                console.log(`Skipping already processed file: ${file.path}`);
+                continue;
+            }
+            
             await processFile(file, app);
             // Small delay to prevent overwhelming the system
-            await new Promise(resolve => setTimeout(resolve, 50));
+            await new Promise(resolve => setTimeout(resolve, 100));
         }
         
         console.log(`Completed processing folder: ${folderName}`);
@@ -167,43 +202,90 @@ async function processFolder(folder, app) {
  */
 async function addPermalink(file, app) {
     try {
-        if (!file || !(file instanceof app.vault.TFile)) {
-            console.error("Invalid file object");
+        if (!file || !file.path) {
+            console.error("Invalid file object in addPermalink");
             return false;
         }
         
         // Skip if not a markdown file
-        if (file.extension !== 'md') {
+        if (!file.path.toLowerCase().endsWith('.md')) {
             console.log(`Skipping non-markdown file: ${file.path}`);
             return false;
         }
         
-        const cache = app.metadataCache.getFileCache(file)?.frontmatter;
+        // Get the basename from the path if not directly available
+        const basename = file.basename || file.name || file.path.split('/').pop().split('.')[0] || "unknown";
+        
+        // Get the metadata cache for the file
+        let fileCache;
+        try {
+            fileCache = app.metadataCache.getFileCache(file);
+        } catch (error) {
+            console.log(`Error getting metadata cache: ${error.message}`);
+            fileCache = null;
+        }
+        
+        if (!fileCache) {
+            console.log(`No metadata cache for file: ${basename}, will try to read raw content`);
+        }
+        
+        let existingPermalink = null;
+        
+        // Try to get existing permalink from cache
+        if (fileCache && fileCache.frontmatter && fileCache.frontmatter.permalink) {
+            existingPermalink = fileCache.frontmatter.permalink;
+        } 
+        // If no cache or no permalink in cache, try reading the file directly
+        else if (file.path) {
+            try {
+                const content = await app.vault.read(file);
+                const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/);
+                
+                if (frontmatterMatch) {
+                    const frontmatterText = frontmatterMatch[1];
+                    const permalinkMatch = frontmatterText.match(/permalink:\s*(.+)/);
+                    if (permalinkMatch) {
+                        existingPermalink = permalinkMatch[1].trim();
+                    }
+                }
+            } catch (err) {
+                console.log(`Could not read file to check frontmatter: ${err.message}`);
+            }
+        }
         
         // Generate permalink from basename
-        const wouldBePermalink = trimTitle(file.basename);
+        const wouldBePermalink = trimTitle(basename);
         
         // Skip if permalink already exists and matches
-        if (cache?.permalink === wouldBePermalink) {
-            console.log(`Permalink already exists for ${file.basename}`);
+        if (existingPermalink === wouldBePermalink) {
+            console.log(`Permalink already exists for ${basename}`);
             return false;
         }
         
         // Update frontmatter
-        await app.fileManager.processFrontMatter(file, (frontmatter) => {
-            frontmatter.permalink = wouldBePermalink;
-        });
-        
-        // Force metadata cache refresh
-        await app.metadataCache.trigger();
-        
-        // Add a small delay to ensure cache is updated
-        await new Promise(resolve => setTimeout(resolve, 100));
-        
-        console.log(`Added permalink for ${file.basename}: ${wouldBePermalink}`);
-        return true;
+        try {
+            await app.fileManager.processFrontMatter(file, (frontmatter) => {
+                frontmatter.permalink = wouldBePermalink;
+            });
+            
+            // Force metadata cache refresh
+            try {
+                await app.metadataCache.trigger();
+            } catch (error) {
+                console.log(`Error refreshing cache: ${error.message}`);
+            }
+            
+            // Add a small delay to ensure cache is updated
+            await new Promise(resolve => setTimeout(resolve, 200));
+            
+            console.log(`Added permalink for ${basename}: ${wouldBePermalink}`);
+            return true;
+        } catch (err) {
+            console.error(`Error updating frontmatter for ${basename}:`, err);
+            return false;
+        }
     } catch (error) {
-        console.error(`Error adding permalink to ${file?.basename || 'unknown'}:`, error);
+        console.error(`Error in addPermalink:`, error);
         return false;
     }
 }
@@ -216,24 +298,57 @@ async function addPermalink(file, app) {
  */
 async function renameFileBasedOnPermalink(file, app) {
     try {
-        if (!file || !(file instanceof app.vault.TFile)) {
-            console.error("Invalid file object");
+        if (!file || !file.path) {
+            console.error("Invalid file object in renameFileBasedOnPermalink");
             return null;
         }
         
-        // Get the frontmatter
-        const cache = app.metadataCache.getFileCache(file)?.frontmatter;
-        const permalink = cache?.permalink;
+        // Get the basename
+        const basename = file.basename || file.name || file.path.split('/').pop().split('.')[0] || "unknown";
+        
+        // Get the metadata cache for the file
+        let fileCache;
+        try {
+            fileCache = app.metadataCache.getFileCache(file);
+        } catch (error) {
+            console.log(`Error getting metadata cache: ${error.message}`);
+            fileCache = null;
+        }
+        
+        // Get the permalink either from cache or by reading the file
+        let permalink = null;
+        
+        if (fileCache && fileCache.frontmatter) {
+            permalink = fileCache.frontmatter.permalink;
+        }
+        
+        // If we couldn't get it from cache, try reading the file
+        if (!permalink && file.path) {
+            try {
+                const content = await app.vault.read(file);
+                const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/);
+                
+                if (frontmatterMatch) {
+                    const frontmatterText = frontmatterMatch[1];
+                    const permalinkMatch = frontmatterText.match(/permalink:\s*(.+)/);
+                    if (permalinkMatch) {
+                        permalink = permalinkMatch[1].trim();
+                    }
+                }
+            } catch (err) {
+                console.log(`Could not read file to check frontmatter: ${err.message}`);
+            }
+        }
         
         // Skip if no permalink
         if (!permalink) {
-            console.log(`No permalink found for ${file.basename}`);
+            console.log(`No permalink found for ${basename}`);
             return null;
         }
         
         // Skip if filename already matches
-        if (file.basename === permalink) {
-            console.log(`Filename already matches permalink for ${file.basename}`);
+        if (basename === permalink) {
+            console.log(`Filename already matches permalink for ${basename}`);
             return null;
         }
         
@@ -254,35 +369,60 @@ async function renameFileBasedOnPermalink(file, app) {
             return null;
         }
         
-        // First, ensure the old name is added as an alias if it doesn't exist
-        const aliases = cache?.aliases || [];
-        if (!aliases.includes(file.basename)) {
-            await app.fileManager.processFrontMatter(file, (frontmatter) => {
-                frontmatter.aliases = frontmatter.aliases || [];
-                if (!frontmatter.aliases.includes(file.basename)) {
-                    frontmatter.aliases.push(file.basename);
+        try {
+            // First, ensure the old name is added as an alias if it doesn't exist
+            let aliases = [];
+            
+            // Try to get existing aliases
+            if (fileCache && fileCache.frontmatter && fileCache.frontmatter.aliases) {
+                if (Array.isArray(fileCache.frontmatter.aliases)) {
+                    aliases = fileCache.frontmatter.aliases;
+                } else if (typeof fileCache.frontmatter.aliases === 'string') {
+                    // If it's a string, try to parse it as an array
+                    aliases = fileCache.frontmatter.aliases.split(',').map(a => a.trim());
                 }
-            });
+            }
+            
+            if (!aliases.includes(basename)) {
+                await app.fileManager.processFrontMatter(file, (frontmatter) => {
+                    frontmatter.aliases = frontmatter.aliases || [];
+                    if (!frontmatter.aliases.includes(basename)) {
+                        frontmatter.aliases.push(basename);
+                    }
+                });
+                
+                // Force metadata cache refresh
+                try {
+                    await app.metadataCache.trigger();
+                } catch (error) {
+                    console.log(`Error refreshing cache: ${error.message}`);
+                }
+                
+                // Add a small delay to ensure cache is updated
+                await new Promise(resolve => setTimeout(resolve, 200));
+            }
+            
+            // Now rename the file
+            await app.fileManager.renameFile(file, newPath);
+            
             // Force metadata cache refresh
-            await app.metadataCache.trigger();
+            try {
+                await app.metadataCache.trigger();
+            } catch (error) {
+                console.log(`Error refreshing cache: ${error.message}`);
+            }
             
             // Add a small delay to ensure cache is updated
-            await new Promise(resolve => setTimeout(resolve, 100));
+            await new Promise(resolve => setTimeout(resolve, 200));
+            
+            console.log(`Renamed ${basename} to ${permalink}`);
+            return newPath;
+        } catch (err) {
+            console.error(`Error during rename operation for ${basename}:`, err);
+            return null;
         }
-        
-        // Now rename the file
-        await app.fileManager.renameFile(file, newPath);
-        
-        // Force metadata cache refresh
-        await app.metadataCache.trigger();
-        
-        // Add a small delay to ensure cache is updated
-        await new Promise(resolve => setTimeout(resolve, 100));
-        
-        console.log(`Renamed ${file.basename} to ${permalink}`);
-        return newPath;
     } catch (error) {
-        console.error(`Error renaming ${file?.basename || 'unknown'}:`, error);
+        console.error(`Error in renameFileBasedOnPermalink:`, error);
         return null;
     }
 }
@@ -295,27 +435,27 @@ async function renameFileBasedOnPermalink(file, app) {
  */
 async function extractSource(file, app) {
     try {
-        if (!file || !(file instanceof app.vault.TFile)) {
-            console.error("Invalid file object");
+        if (!file || !file.path) {
+            console.error("Invalid file object in extractSource");
             return false;
         }
         
-        // Get the frontmatter
-        const cache = app.metadataCache.getFileCache(file)?.frontmatter;
+        // Get the basename
+        const basename = file.basename || file.name || file.path.split('/').pop().split('.')[0] || "unknown";
         
         // Read the file content
         let content;
         try {
             content = await app.vault.read(file);
         } catch (error) {
-            console.error(`Could not read file content for ${file.basename}:`, error);
+            console.error(`Could not read file content for ${basename}:`, error);
             return false;
         }
         
         // Look for "Source:" pattern and extract the value
         const sourceMatch = content.match(/Source:\s*([^\n]+)/);
         if (!sourceMatch) {
-            console.log(`No Source: pattern found in ${file.basename}`);
+            console.log(`No Source: pattern found in ${basename}`);
             return false;
         }
         
@@ -350,38 +490,62 @@ async function extractSource(file, app) {
             .replace(/\=/g, '') // headers
             .trim();
         
-        // Get existing frontmatter
-        const currentFrontmatter = app.metadataCache.getFileCache(file)?.frontmatter || {};
+        // Get existing frontmatter source
+        let existingSource = null;
         
-        // Check if source already exists and is correct
-        if (currentFrontmatter.source === sourceValue) {
-            console.log(`Source already matches in ${file.basename}`);
+        // Try to get it from cache first
+        try {
+            const fileCache = app.metadataCache.getFileCache(file);
+            if (fileCache && fileCache.frontmatter) {
+                existingSource = fileCache.frontmatter.source;
+            }
+        } catch (error) {
+            console.log(`Error getting metadata cache: ${error.message}`);
+        }
+        
+        // If we couldn't get it from cache, try parsing the frontmatter
+        if (existingSource === null) {
+            const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/);
+            if (frontmatterMatch) {
+                const frontmatterText = frontmatterMatch[1];
+                const sourceMatch = frontmatterText.match(/source:\s*(.+)/);
+                if (sourceMatch) {
+                    existingSource = sourceMatch[1].trim();
+                }
+            }
+        }
+        
+        // Check if source already exists and matches
+        if (existingSource === sourceValue) {
+            console.log(`Source already matches in ${basename}`);
             return false;
         }
         
         // Update frontmatter
-        await app.fileManager.processFrontMatter(file, (frontmatter) => {
-            // Preserve existing frontmatter
-            Object.keys(currentFrontmatter).forEach(key => {
-                if (key !== 'position') {
-                    frontmatter[key] = currentFrontmatter[key];
-                }
+        try {
+            await app.fileManager.processFrontMatter(file, (frontmatter) => {
+                // Update the source
+                frontmatter["source"] = sourceValue;
             });
             
-            // Update the source
-            frontmatter["source"] = sourceValue;
-        });
-        
-        // Force metadata cache refresh
-        await app.metadataCache.trigger();
-        
-        // Add a small delay to ensure cache is updated
-        await new Promise(resolve => setTimeout(resolve, 100));
-        
-        console.log(`Updated source for ${file.basename}: ${sourceValue}`);
-        return true;
+            // Force metadata cache refresh
+            try {
+                await app.metadataCache.trigger();
+            } catch (error) {
+                console.log(`Error refreshing cache: ${error.message}`);
+            }
+            
+            // Add a small delay to ensure cache is updated
+            await new Promise(resolve => setTimeout(resolve, 200));
+            
+            console.log(`Updated source for ${basename}: ${sourceValue}`);
+            return true;
+        } catch (err) {
+            console.error(`Error updating frontmatter for ${basename}:`, err);
+            return false;
+        }
     } catch (error) {
-        console.error(`Error extracting source for ${file?.basename || 'unknown'}:`, error);
+        console.error(`Error in extractSource:`, error);
         return false;
     }
 }
@@ -392,33 +556,41 @@ async function extractSource(file, app) {
  * @returns {string} - The formatted permalink
  */
 function trimTitle(title) {
-    if (!title) return '';
+    if (!title || typeof title !== 'string') {
+        console.error("Invalid title in trimTitle:", title);
+        return '';
+    }
     
-    // Clean up the title
-    let cleanTitle = title
-        // Replace special characters with space
-        .replace(/[^\w\s\-'&()]/g, ' ')  // Keep hyphen, apostrophe, ampersand, and parentheses
-        // Replace multiple spaces with single space
-        .replace(/\s+/g, ' ')
-        // Trim whitespace
-        .trim()
-        // Split into words
-        .split(' ')
-        // Take first 5 words
-        .slice(0, 5)
-        // Join with hyphens
-        .join('-')
-        // Convert to lowercase
-        .toLowerCase()
-        // Clean up any remaining unwanted characters
-        .replace(/['"]/g, '')  // Remove quotes
-        .replace(/\(|\)/g, '') // Remove parentheses
-        .replace(/&/g, 'and')  // Replace & with 'and'
-        // Clean up multiple hyphens and hyphens at start/end
-        .replace(/-+/g, '-')
-        .replace(/^-+|-+$/g, '');
-    
-    return cleanTitle;
+    try {
+        // Clean up the title
+        let cleanTitle = title
+            // Replace special characters with space
+            .replace(/[^\w\s\-'&()]/g, ' ')  // Keep hyphen, apostrophe, ampersand, and parentheses
+            // Replace multiple spaces with single space
+            .replace(/\s+/g, ' ')
+            // Trim whitespace
+            .trim()
+            // Split into words
+            .split(' ')
+            // Take first 5 words
+            .slice(0, 5)
+            // Join with hyphens
+            .join('-')
+            // Convert to lowercase
+            .toLowerCase()
+            // Clean up any remaining unwanted characters
+            .replace(/['"]/g, '')  // Remove quotes
+            .replace(/\(|\)/g, '') // Remove parentheses
+            .replace(/&/g, 'and')  // Replace & with 'and'
+            // Clean up multiple hyphens and hyphens at start/end
+            .replace(/-+/g, '-')
+            .replace(/^-+|-+$/g, '');
+        
+        return cleanTitle;
+    } catch (error) {
+        console.error("Error in trimTitle:", error);
+        return '';
+    }
 }
 
 // Export the main function for Templater

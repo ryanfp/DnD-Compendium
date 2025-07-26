@@ -1,39 +1,28 @@
-<%* 
+<%*
+// Very simple template that just processes the active file
 try {
     const app = this.app;
+    const activeFile = app.workspace.getActiveFile();
     
-    // Try to get the current file or folder
-    let targetObject;
-    
-    // First try the object this template is being applied to
-    if (tp.file && tp.file.path) {
-        targetObject = app.vault.getAbstractFileByPath(tp.file.path);
-    }
-    
-    // If that didn't work, try the active file
-    if (!targetObject) {
-        targetObject = app.workspace.getActiveFile();
-    }
-    
-    // If we still don't have an object, inform the user
-    if (!targetObject) {
-        new Notice("No file or folder selected. Please select a file or folder first.");
+    if (!activeFile) {
+        new Notice("No active file. Please open a file first.");
+        tR = "";
         return;
     }
     
-    // Check if it's a folder using Obsidian's instanceof check
-    const isFolder = targetObject instanceof app.vault.TFolder;
-    const objectType = isFolder ? "folder" : "file";
-    const objectName = targetObject.name || targetObject.basename || targetObject.path.split('/').pop();
+    new Notice(`Starting processing for: ${activeFile.basename}`);
     
-    new Notice(`Starting processing for ${objectType}: ${objectName}`);
+    // Process the file using our script
+    await tp.user.processFiles({
+        app: app,
+        file: activeFile
+    });
     
-    // Call the unified processing function
-    await tp.user.processFiles({ app, file: targetObject });
-    
-    new Notice(`Processing complete for ${objectType}: ${objectName}!`);
+    new Notice("Processing complete!");
+    tR = ""; // Clear template result
 } catch (error) {
     console.error('Error in template:', error);
-    new Notice(`Error processing: ${error.message}`);
+    new Notice(`Error: ${error.message}`);
+    tR = ""; // Clear template result
 }
-%>
+-%>
