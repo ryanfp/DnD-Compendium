@@ -287,11 +287,6 @@
     {
       "id": "quickadd:choice:31e4aec8-f158-4655-b7a8-199a6bbe178c",
       "name": "QuickAdd: File Processing",
-      "enabled": false
-    },
-    {
-      "id": "quickadd:choice:9e5b9993-f187-4e2d-8296-3b2e54656c19",
-      "name": "QuickAdd: TestMacro",
       "enabled": true
     }
   ],

@@ -5,11 +5,13 @@
 
 /**
  * Process a single file
- * @param {TFile} file - The file to process
- * @param {App} app - The Obsidian app instance
+ * @param {object} params - Parameters object 
+ * @param {TFile} params.file - The file to process
+ * @param {App} params.app - The Obsidian app instance
  * @returns {Promise<void>}
  */
-async function processFile(file, app) {
+async function processFile(params) {
+    const { file, app } = params;
     try {
         const stateManager = window.obsidianStateManager;
         
@@ -100,110 +102,45 @@ async function processFile(file, app) {
 
 /**
  * Process all markdown files in a folder
- * @param {TFolder} folder - The folder to process
- * @param {App} app - The Obsidian app instance
+ * @param {object} params - Parameters object
+ * @param {TFolder} params.file - The folder to process (accessed as file in templater)
+ * @param {App} params.app - The Obsidian app instance
  * @returns {Promise<void>}
  */
-async function processFolder(folder, app) {
+async function processFolder(params) {
+    const { file: folder, app } = params;
     try {
         const stateManager = window.obsidianStateManager;
         
-        // Start fresh folder processing
-        stateManager.startFolderProcessing(folder.path);
-        
-        // Get all markdown files in the folder and queue them
-        const files = folder.children || [];
-        const filePaths = files
-            .filter(file => file instanceof TFile && file.extension === 'md')
-            .map(file => file.path);
-        
-        stateManager.queueFiles(filePaths);
-        
-        // Process files from queue
+        // Process files already in the queue from previous stage
         let nextFilePath;
         while ((nextFilePath = stateManager.getNextFile()) !== null) {
-            const file = app.vault.getAbstractFileByPath(nextFilePath);
-            if (file instanceof TFile) {
-                await processFile(file, app);
-                // Add a delay between files
-                await new Promise(resolve => setTimeout(resolve, 100));
+            if (stateManager.currentStage !== 'source') {
+                break; // We've moved to next stage, exit this loop
             }
-        }
-    } catch (error) {
-        console.error(`Error processing folder ${folder.path}:`, error);
-    }
-}
-
-/**
- * Main function for Templater
- * @param {any} tp - Templater object
- */
-async function extractSource(tp) {
-    try {
-        const app = tp.app;
-        const stateManager = window.obsidianStateManager;
-
-        // Try to get selected files from file explorer
-        const fileExplorer = app.workspace.getLeavesOfType('file-explorer')[0];
-        if (fileExplorer?.view?.fileItems) {
-            const selectedFiles = Object.values(fileExplorer.view.fileItems)
-                .filter(item => item.file && item.selected)
-                .map(item => item.file);
             
-            if (selectedFiles && selectedFiles.length > 0) {
-                // Queue selected files
-                const filePaths = selectedFiles
-                    .filter(file => file instanceof TFile && file.extension === 'md')
-                    .map(file => file.path);
-                
-                stateManager.queueFiles(filePaths);
-                
-                // Process files from queue
-                let nextFilePath;
-                while ((nextFilePath = stateManager.getNextFile()) !== null) {
-                    const file = app.vault.getAbstractFileByPath(nextFilePath);
-                    if (file instanceof TFile) {
-                        await processFile(file, app);
-                        // Add a delay between files
-                        await new Promise(resolve => setTimeout(resolve, 100));
-                    }
-                }
-                return;
+            const file = app.vault.getAbstractFileByPath(nextFilePath);
+            if (file && file instanceof app.TFile) {
+                await processFile({ file, app });
+            } else {
+                console.warn(`File not found or not a TFile: ${nextFilePath}`);
+                stateManager.skipOperation(nextFilePath, 'source', 'file not found');
             }
         }
-
-        // If no selection, try Templater or active file
-        let targetFile = null;
-
-        // Try Templater context
-        try {
-            targetFile = tp.file.find_tfile(tp.file.path(true));
-        } catch (e) {
-            // Ignore error if tp.file.path fails
-        }
-
-        // If no file from Templater, try active file
-        if (!targetFile) {
-            targetFile = app.workspace.getActiveFile();
-        }
-
-        // If we have a single file, process it
-        if (targetFile && targetFile.extension === 'md') {
-            stateManager.queueFiles([targetFile.path]);
-            await processFile(targetFile, app);
-            return;
-        }
-
-        // If we're processing a folder
-        if (targetFile?.parent) {
-            await processFolder(targetFile.parent, app);
-        }
-
     } catch (error) {
-        console.error('Error in extractSource:', error);
+        console.error(`Error in processFolder:`, error);
     }
 }
 
-// Export for Templater
-module.exports = extractSource;
-module.exports.extractSource = extractSource; 
+// Export a single function as default for Templater compatibility
+module.exports = function(params) {
+    const { file, app } = params;
+    
+    if (file.children) {
+        // Target is a folder
+        return processFolder(params);
+    } else {
+        // Target is a file
+        return processFile(params);
+    }
+};
