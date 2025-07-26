@@ -1,22 +1,108 @@
 /**
- * @typedef {import('obsidian').TFile} TFile
- * @typedef {import('obsidian').TFolder} TFolder
+ * Main function to extract source from file content
+ * @param {object} params - Parameters passed from Templater
+ * @returns {Promise<void>}
  */
+async function extractSource(params) {
+    try {
+        const { file, app } = params;
+        
+        // Safety check - ensure state manager exists
+        if (!window.obsidianStateManager) {
+            try {
+                console.log("State manager not found, initializing");
+                // Try to initialize through various means
+                if (app.plugins.plugins.templater?.templater?.functions?.user?.stateManager) {
+                    await app.plugins.plugins.templater.templater.functions.user.stateManager(params);
+                } else {
+                    // Direct initialization if templater function not available
+                    window.obsidianStateManager = {
+                        // Minimal implementation to prevent errors
+                        needsProcessing: () => true,
+                        markOperationComplete: () => {},
+                        skipOperation: () => {},
+                        updatePathMapping: () => {},
+                        getCurrentPath: (path) => path,
+                        logOperation: (op, path, msg) => console.log(`[${op}] ${path}: ${msg}`)
+                    };
+                    console.log("Created minimal state manager");
+                }
+            } catch (initError) {
+                console.error("Failed to initialize state manager:", initError);
+                // Create minimal state manager to prevent further errors
+                window.obsidianStateManager = {
+                    needsProcessing: () => true,
+                    markOperationComplete: () => {},
+                    skipOperation: () => {},
+                    updatePathMapping: () => {},
+                    getCurrentPath: (path) => path,
+                    logOperation: (op, path, msg) => console.log(`[${op}] ${path}: ${msg}`)
+                };
+            }
+        }
+        
+        // Now process based on whether it's a file or folder
+        if (file.children) {
+            // It's a folder
+            const folder = file;
+            await processFolder(folder, app);
+        } else {
+            // It's a single file
+            await processFile(file, app);
+        }
+    } catch (error) {
+        console.error("Error in extractSource:", error);
+    }
+}
+
+/**
+ * Safe path handling - ensure path is a string
+ * @param {any} path - The path to check
+ * @returns {string} The path as a string
+ */
+function ensurePathIsString(path) {
+    if (path === null || path === undefined) {
+        return "";
+    }
+    
+    if (typeof path !== 'string') {
+        // Try to convert to string if possible
+        try {
+            return String(path);
+        } catch (e) {
+            console.error("Could not convert path to string:", path);
+            return "";
+        }
+    }
+    
+    return path;
+}
 
 /**
  * Process a single file
- * @param {object} params - Parameters object 
- * @param {TFile} params.file - The file to process
- * @param {App} params.app - The Obsidian app instance
+ * @param {TFile} file - The file to process
+ * @param {App} app - The Obsidian app instance
  * @returns {Promise<void>}
  */
-async function processFile(params) {
-    const { file, app } = params;
+async function processFile(file, app) {
     try {
+        // Safety check for file
+        if (!file) {
+            console.error("File is undefined or null");
+            return;
+        }
+        
+        // Ensure path is a string
+        const filePath = ensurePathIsString(file.path);
+        if (!filePath) {
+            console.error("Invalid file path:", file);
+            return;
+        }
+        
         const stateManager = window.obsidianStateManager;
         
         // Skip if file doesn't need processing
-        if (!stateManager.needsProcessing(file.path)) {
+        if (!stateManager.needsProcessing(filePath)) {
             return;
         }
 
@@ -24,12 +110,19 @@ async function processFile(params) {
         const cache = app.metadataCache.getFileCache(file)?.frontmatter;
         
         // Read the file content
-        const content = await app.vault.read(file);
+        let content;
+        try {
+            content = await app.vault.read(file);
+        } catch (error) {
+            console.error(`Error reading file ${file.basename}:`, error);
+            stateManager.skipOperation(filePath, 'source', 'error reading file');
+            return;
+        }
 
         // Look for "Source:" pattern and extract the value
         const sourceMatch = content.match(/Source:\s*([^\n]+)/);
         if (!sourceMatch) {
-            stateManager.skipOperation(file.path, 'source', 'no Source: pattern found');
+            stateManager.skipOperation(filePath, 'source', 'no Source: pattern found');
             return;
         }
 
@@ -69,7 +162,7 @@ async function processFile(params) {
 
         // Check if source already exists and is correct
         if (currentFrontmatter.source === sourceValue) {
-            stateManager.skipOperation(file.path, 'source', 'source already matches');
+            stateManager.skipOperation(filePath, 'source', 'source already matches');
             return;
         }
 
@@ -93,38 +186,49 @@ async function processFile(params) {
         await new Promise(resolve => setTimeout(resolve, 100));
 
         console.log(`Updated source for ${file.basename}`);
-        stateManager.markOperationComplete(file.path, 'source');
+        stateManager.markOperationComplete(filePath, 'source');
 
     } catch (error) {
-        console.error(`Error processing ${file.basename}:`, error);
+        const fileName = file ? (file.basename || "unknown") : "unknown";
+        console.error(`Error processing ${fileName}:`, error);
     }
 }
 
 /**
  * Process all markdown files in a folder
- * @param {object} params - Parameters object
- * @param {TFolder} params.file - The folder to process (accessed as file in templater)
- * @param {App} params.app - The Obsidian app instance
+ * @param {TFolder} folder - The folder to process
+ * @param {App} app - The Obsidian app instance
  * @returns {Promise<void>}
  */
-async function processFolder(params) {
-    const { file: folder, app } = params;
+async function processFolder(folder, app) {
     try {
         const stateManager = window.obsidianStateManager;
         
         // Process files already in the queue from previous stage
         let nextFilePath;
         while ((nextFilePath = stateManager.getNextFile()) !== null) {
+            // Ensure path is a string
+            nextFilePath = ensurePathIsString(nextFilePath);
+            if (!nextFilePath) {
+                console.error("Invalid file path in queue");
+                continue;
+            }
+            
             if (stateManager.currentStage !== 'source') {
                 break; // We've moved to next stage, exit this loop
             }
             
-            const file = app.vault.getAbstractFileByPath(nextFilePath);
-            if (file && file instanceof app.TFile) {
-                await processFile({ file, app });
-            } else {
-                console.warn(`File not found or not a TFile: ${nextFilePath}`);
-                stateManager.skipOperation(nextFilePath, 'source', 'file not found');
+            try {
+                const file = app.vault.getAbstractFileByPath(nextFilePath);
+                if (file && file instanceof app.vault.TFile) {
+                    await processFile(file, app);
+                } else {
+                    console.warn(`File not found or not a TFile: ${nextFilePath}`);
+                    stateManager.skipOperation(nextFilePath, 'source', 'file not found');
+                }
+            } catch (error) {
+                console.error(`Error processing file ${nextFilePath}:`, error);
+                stateManager.skipOperation(nextFilePath, 'source', 'processing error');
             }
         }
     } catch (error) {
@@ -133,14 +237,4 @@ async function processFolder(params) {
 }
 
 // Export a single function as default for Templater compatibility
-module.exports = function(params) {
-    const { file, app } = params;
-    
-    if (file.children) {
-        // Target is a folder
-        return processFolder(params);
-    } else {
-        // Target is a file
-        return processFile(params);
-    }
-};
+module.exports = extractSource;

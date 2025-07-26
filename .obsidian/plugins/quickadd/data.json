@@ -29,11 +29,11 @@
       "macroId": "61cb8f00-16ad-4867-a4e3-9342ab9a0bd9"
     },
     {
-      "id": "9e5b9993-f187-4e2d-8296-3b2e54656c19",
-      "name": "TestMacro",
+      "id": "1002e97e-2fce-4684-a401-a446dc083072",
+      "name": "Process Files",
       "type": "Macro",
       "command": true,
-      "macroId": "8686c824-a582-47db-a562-4e09a97175f2"
+      "macroId": "e187ae00-21fb-47eb-bee8-920819e07232"
     }
   ],
   "macros": [
@@ -155,14 +155,14 @@
       "runOnStartup": false
     },
     {
-      "name": "TestMacro",
-      "id": "8686c824-a582-47db-a562-4e09a97175f2",
+      "name": "PROCESS",
+      "id": "e187ae00-21fb-47eb-bee8-920819e07232",
       "commands": [
         {
-          "name": "Templater: Insert test_state_manager",
+          "name": "Templater: Insert Process Files",
           "type": "Obsidian",
-          "id": "a92e230c-a039-49ef-b53c-cfe670b6845e",
-          "commandId": "templater-obsidian:z_Templates/test_state_manager.md"
+          "id": "7e6ab605-d248-44b1-9af8-ea1ef2acb48e",
+          "commandId": "templater-obsidian:z_Templates/Process Files.md"
         }
       ],
       "runOnStartup": false

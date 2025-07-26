@@ -1,55 +1,69 @@
 /**
- * Shared state manager for Obsidian scripts
- * @param {object} params - Parameters from Templater (not used but required for compatibility)
- * @returns {object} The state manager instance for debugging
+ * Initialize the shared state manager
+ * @param {object} params - Templater parameters (not used but required for compatibility)
+ * @returns {object} The state manager instance
  */
 function initializeStateManager(params) {
-    // Create the state manager instance if it doesn't exist
+    console.log("Initializing or retrieving state manager...");
+    
+    /**
+     * Safe path handling - ensure path is a string
+     * @param {any} path - The path to check
+     * @returns {string} The path as a string
+     */
+    function ensurePathIsString(path) {
+        if (path === null || path === undefined) {
+            return "";
+        }
+        
+        if (typeof path !== 'string') {
+            // Try to convert to string if possible
+            try {
+                return String(path);
+            } catch (e) {
+                console.error("Could not convert path to string:", path);
+                return "";
+            }
+        }
+        
+        return path;
+    }
+    
+    // Only create if it doesn't already exist
     if (!window.obsidianStateManager) {
+        console.log("Creating new state manager");
         window.obsidianStateManager = {
-            fileQueue: [], // Array of all files to process
+            fileQueue: [], 
             stageQueues: {
                 'permalink': [],
                 'rename': [],
                 'source': []
-            }, // Queue for each stage
-            fileStatus: new Map(), // Map of file path to its completed stages
-            filePathMappings: new Map(), // Track old path to new path mappings
-            currentStage: 'permalink', // Current processing stage
+            },
+            fileStatus: new Map(),
+            filePathMappings: new Map(),
+            currentStage: 'permalink',
             stages: ['permalink', 'rename', 'source'],
-            operationLog: [], // Track operation history
-            folderProcessing: false, // Flag indicating if we're processing a folder
-            currentFolder: null, // Current folder being processed
-
-            /**
-             * Log an operation with timestamp and details
-             * @param {string} operation - The operation being performed
-             * @param {string} filePath - The file being operated on
-             * @param {string} details - Additional details about the operation
-             */
+            operationLog: [],
+            folderProcessing: false,
+            currentFolder: null,
+            
+            // Helper methods with path safety
             logOperation(operation, filePath, details) {
                 const timestamp = new Date().toISOString();
+                // Ensure path is a string
+                filePath = ensurePathIsString(filePath);
+                
                 const logEntry = {
                     timestamp,
                     operation,
                     filePath,
                     details,
-                    currentStage: this.currentStage,
-                    queueSizes: {
-                        permalink: this.stageQueues.permalink.length,
-                        rename: this.stageQueues.rename.length,
-                        source: this.stageQueues.source.length
-                    },
-                    stageProgress: this.getStageProgress()
+                    currentStage: this.currentStage
                 };
                 console.log(`[${timestamp}] ${operation} - ${filePath} - ${details}`);
                 this.operationLog.push(logEntry);
             },
-
-            /**
-             * Get progress of current stage
-             * @returns {string} Progress description
-             */
+            
             getStageProgress() {
                 if (!this.currentStage) return 'No stage active';
                 const completed = Array.from(this.fileStatus.values())
@@ -57,14 +71,12 @@ function initializeStateManager(params) {
                     .length;
                 return `${completed}/${this.fileQueue.length} files completed ${this.currentStage}`;
             },
-
-            /**
-             * Queue files for processing
-             * @param {string[]} filePaths - Array of file paths to process
-             */
+            
             queueFiles(filePaths) {
                 this.logOperation('QUEUE', 'multiple', `Starting new batch with ${filePaths.length} files`);
-                this.fileQueue = [...filePaths];
+                // Ensure all paths are strings
+                this.fileQueue = filePaths.map(path => ensurePathIsString(path)).filter(path => path);
+                
                 this.fileStatus.clear();
                 this.filePathMappings.clear();
                 this.currentStage = this.stages[0];
@@ -76,38 +88,34 @@ function initializeStateManager(params) {
                     'source': []
                 };
                 
-                filePaths.forEach(path => {
+                this.fileQueue.forEach(path => {
                     this.fileStatus.set(path, []);
                     this.stageQueues[this.currentStage].push(path);
                     this.logOperation('QUEUE_ADD', path, `Added to ${this.currentStage} queue`);
                 });
             },
-
-            /**
-             * Start processing a folder
-             * @param {string} folderPath - Path of the folder to process
-             */
+            
             startFolderProcessing(folderPath) {
                 this.folderProcessing = true;
-                this.currentFolder = folderPath;
-                this.logOperation('FOLDER_START', folderPath, 'Starting folder processing');
+                this.currentFolder = ensurePathIsString(folderPath);
+                this.logOperation('FOLDER_START', this.currentFolder, 'Starting folder processing');
             },
-
-            /**
-             * End folder processing
-             */
+            
             endFolderProcessing() {
                 this.folderProcessing = false;
                 this.currentFolder = null;
                 this.logOperation('FOLDER_END', 'none', 'Finished folder processing');
             },
-
-            /**
-             * Update path mapping when a file is renamed
-             * @param {string} oldPath - Original file path
-             * @param {string} newPath - New file path after renaming
-             */
+            
             updatePathMapping(oldPath, newPath) {
+                oldPath = ensurePathIsString(oldPath);
+                newPath = ensurePathIsString(newPath);
+                
+                if (!oldPath || !newPath) {
+                    console.error("Invalid path for mapping:", { oldPath, newPath });
+                    return;
+                }
+                
                 this.filePathMappings.set(oldPath, newPath);
                 
                 // Transfer the status from old path to new path
@@ -124,11 +132,7 @@ function initializeStateManager(params) {
                 
                 this.logOperation('PATH_MAPPING', `${oldPath} -> ${newPath}`, 'Updated path mapping after rename');
             },
-
-            /**
-             * Get next file to process in current stage
-             * @returns {string|null} Next file path or null if stage complete
-             */
+            
             getNextFile() {
                 // If no current stage, we're done
                 if (!this.currentStage) {
@@ -150,6 +154,10 @@ function initializeStateManager(params) {
                         
                         // Move all files that need the next stage processing to its queue
                         this.fileQueue.forEach(path => {
+                            // Ensure path is a string
+                            path = ensurePathIsString(path);
+                            if (!path) return;
+                            
                             // Get current path (may have been renamed)
                             const currentPath = this.getCurrentPath(path);
                             if (currentPath && !this.hasCompleted(currentPath, nextStage)) {
@@ -172,30 +180,40 @@ function initializeStateManager(params) {
                     }
                 }
                 
-                return nextFile;
+                return ensurePathIsString(nextFile);
             },
             
-            /**
-             * Get the current path for a file (accounting for renames)
-             * @param {string} originalPath - The original file path
-             * @returns {string} The current path of the file
-             */
             getCurrentPath(originalPath) {
+                // Ensure path is a string
+                originalPath = ensurePathIsString(originalPath);
+                if (!originalPath) return "";
+                
                 // Follow path mappings to get the most current path
                 let currentPath = originalPath;
                 let nextPath;
-                while ((nextPath = this.filePathMappings.get(currentPath))) {
+                
+                // Safety counter to prevent infinite loops
+                let safetyCounter = 0;
+                const MAX_REDIRECTS = 10;
+                
+                while (safetyCounter < MAX_REDIRECTS && 
+                      (nextPath = this.filePathMappings.get(currentPath))) {
+                    // Ensure next path is a string
+                    nextPath = ensurePathIsString(nextPath);
+                    if (!nextPath) break;
+                    
                     currentPath = nextPath;
+                    safetyCounter++;
                 }
+                
                 return currentPath;
             },
-
-            /**
-             * Check if a file needs processing in the current stage
-             * @param {string} filePath - The file path to check
-             * @returns {boolean} True if the file needs processing
-             */
+            
             needsProcessing(filePath) {
+                // Ensure path is a string
+                filePath = ensurePathIsString(filePath);
+                if (!filePath) return false;
+                
                 // Get current path in case file was renamed
                 const currentPath = this.getCurrentPath(filePath);
                 
@@ -203,13 +221,15 @@ function initializeStateManager(params) {
                 const completedStages = this.fileStatus.get(currentPath) || [];
                 return !completedStages.includes(this.currentStage);
             },
-
-            /**
-             * Mark a file's operation as complete for the current stage
-             * @param {string} filePath - The file path that was processed
-             * @param {string} stage - The stage that was completed
-             */
+            
             markOperationComplete(filePath, stage) {
+                // Ensure path is a string
+                filePath = ensurePathIsString(filePath);
+                if (!filePath) {
+                    console.error("Invalid file path for marking complete");
+                    return;
+                }
+                
                 const currentPath = this.getCurrentPath(filePath);
                 const completedStages = this.fileStatus.get(currentPath) || [];
                 if (!completedStages.includes(stage)) {
@@ -218,14 +238,15 @@ function initializeStateManager(params) {
                 }
                 this.logOperation('COMPLETE', currentPath, `Completed ${stage} operation`);
             },
-
-            /**
-             * Skip a file's operation for a stage
-             * @param {string} filePath - The file path to skip
-             * @param {string} stage - The stage to skip
-             * @param {string} reason - Reason for skipping
-             */
+            
             skipOperation(filePath, stage, reason) {
+                // Ensure path is a string
+                filePath = ensurePathIsString(filePath);
+                if (!filePath) {
+                    console.error("Invalid file path for skipping");
+                    return;
+                }
+                
                 const currentPath = this.getCurrentPath(filePath);
                 const completedStages = this.fileStatus.get(currentPath) || [];
                 if (!completedStages.includes(stage)) {
@@ -235,21 +256,16 @@ function initializeStateManager(params) {
                 this.logOperation('SKIP', currentPath, `Skipped ${stage}: ${reason}`);
             },
             
-            /**
-             * Check if a file has completed a specific stage
-             * @param {string} filePath - The file path to check
-             * @param {string} stage - The stage to check
-             * @returns {boolean} True if the file has completed the stage
-             */
             hasCompleted(filePath, stage) {
+                // Ensure path is a string
+                filePath = ensurePathIsString(filePath);
+                if (!filePath) return false;
+                
                 const currentPath = this.getCurrentPath(filePath);
                 const completedStages = this.fileStatus.get(currentPath) || [];
                 return completedStages.includes(stage);
             },
-
-            /**
-             * Clear the state (for testing)
-             */
+            
             clearState() {
                 this.fileQueue = [];
                 this.stageQueues = {
@@ -265,10 +281,6 @@ function initializeStateManager(params) {
                 this.currentFolder = null;
             },
             
-            /**
-             * Get debug info about the current state
-             * @returns {object} Debug info
-             */
             getDebugInfo() {
                 return {
                     fileQueue: [...this.fileQueue],
@@ -285,13 +297,11 @@ function initializeStateManager(params) {
                 };
             }
         };
-        
-        console.log('State manager initialized');
     } else {
-        console.log('State manager already exists');
+        console.log("Using existing state manager");
     }
     
-    return window.obsidianStateManager.getDebugInfo();
+    return window.obsidianStateManager;
 }
 
 // Export a single function as default for Templater compatibility
