@@ -5,8 +5,13 @@
 // Create the state manager instance
 const stateManagerInstance = {
     fileQueue: [], // Array of all files to process
-    fileStatus: new Map(), // Map of file path to its current status
-    currentStage: null, // Current processing stage
+    stageQueues: {
+        'permalink': [],
+        'rename': [],
+        'source': []
+    }, // Queue for each stage
+    fileStatus: new Map(), // Map of file path to its completed stages
+    currentStage: 'permalink', // Current processing stage
     stages: ['permalink', 'rename', 'source'],
     operationLog: [], // Track operation history
 
@@ -24,7 +29,11 @@ const stateManagerInstance = {
             filePath,
             details,
             currentStage: this.currentStage,
-            queueSize: this.fileQueue.length,
+            queueSizes: {
+                permalink: this.stageQueues.permalink.length,
+                rename: this.stageQueues.rename.length,
+                source: this.stageQueues.source.length
+            },
             stageProgress: this.getStageProgress()
         };
         console.log(`[${timestamp}] ${operation} - ${filePath} - ${details}`);
@@ -38,7 +47,7 @@ const stateManagerInstance = {
     getStageProgress() {
         if (!this.currentStage) return 'No stage active';
         const completed = Array.from(this.fileStatus.values())
-            .filter(status => status.includes(this.currentStage))
+            .filter(stages => stages.includes(this.currentStage))
             .length;
         return `${completed}/${this.fileQueue.length} files completed ${this.currentStage}`;
     },
@@ -50,13 +59,14 @@ const stateManagerInstance = {
     queueFiles(filePaths) {
         this.logOperation('QUEUE', 'multiple', `Starting new batch with ${filePaths.length} files`);
         this.fileQueue = [...filePaths];
-        this.fileStatus = new Map();
+        this.fileStatus.clear();
         this.currentStage = this.stages[0];
         
-        // Initialize status for all files
+        // Initialize status for all files and add to first stage queue
         filePaths.forEach(path => {
             this.fileStatus.set(path, []);
-            this.logOperation('QUEUE_ADD', path, 'Added to queue');
+            this.stageQueues[this.currentStage].push(path);
+            this.logOperation('QUEUE_ADD', path, `Added to ${this.currentStage} queue`);
         });
     },
 
@@ -71,42 +81,40 @@ const stateManagerInstance = {
             return null;
         }
 
-        // Find first file that hasn't completed current stage
-        const nextFile = this.fileQueue.find(path => {
-            const status = this.fileStatus.get(path) || [];
-            return !status.includes(this.currentStage);
-        });
-
+        // Get next file from current stage queue
+        const nextFile = this.stageQueues[this.currentStage][0];
         if (!nextFile) {
-            // All files complete for this stage
-            const currentIndex = this.stages.indexOf(this.currentStage);
-            if (currentIndex < this.stages.length - 1) {
+            // Current stage queue is empty, check if all files are done
+            const allFilesComplete = this.fileQueue.every(path => {
+                const status = this.fileStatus.get(path) || [];
+                return status.includes(this.currentStage);
+            });
+
+            if (allFilesComplete) {
                 // Move to next stage
-                this.currentStage = this.stages[currentIndex + 1];
-                this.logOperation('STAGE_COMPLETE', 'all', `Moving to stage: ${this.currentStage}`);
-                // Try to get next file from new stage
-                return this.getNextFile();
-            } else {
-                // All stages complete
-                this.currentStage = null;
-                this.logOperation('COMPLETE', 'all', 'All stages completed');
-                return null;
+                const currentIndex = this.stages.indexOf(this.currentStage);
+                if (currentIndex < this.stages.length - 1) {
+                    const nextStage = this.stages[currentIndex + 1];
+                    this.currentStage = nextStage;
+                    
+                    // Queue all files for next stage
+                    this.fileQueue.forEach(path => {
+                        this.stageQueues[nextStage].push(path);
+                        this.logOperation('QUEUE_ADD', path, `Added to ${nextStage} queue`);
+                    });
+                    
+                    this.logOperation('STAGE_COMPLETE', 'all', `Moving to stage: ${nextStage}`);
+                    return this.getNextFile();
+                } else {
+                    // All stages complete
+                    this.currentStage = null;
+                    this.logOperation('COMPLETE', 'all', 'All stages completed');
+                    return null;
+                }
             }
         }
 
-        this.logOperation('NEXT_FILE', nextFile, `Processing ${this.currentStage}`);
         return nextFile;
-    },
-
-    /**
-     * Check if a file needs processing in the current stage
-     * @param {string} filePath - The file to check
-     * @returns {boolean} True if file needs processing
-     */
-    needsProcessing(filePath) {
-        if (!this.currentStage) return false;
-        const status = this.fileStatus.get(filePath) || [];
-        return !status.includes(this.currentStage);
     },
 
     /**
@@ -125,9 +133,13 @@ const stateManagerInstance = {
             this.fileStatus.set(filePath, status);
         }
 
-        this.logOperation('COMPLETE', filePath, `${operation} complete${details ? ': ' + details : ''}`);
+        // Remove file from current stage queue
+        const index = this.stageQueues[operation].indexOf(filePath);
+        if (index > -1) {
+            this.stageQueues[operation].splice(index, 1);
+        }
 
-        // Log progress
+        this.logOperation('COMPLETE', filePath, `${operation} complete${details ? ': ' + details : ''}`);
         this.logOperation('PROGRESS', 'all', this.getStageProgress());
     },
 
@@ -158,8 +170,22 @@ const stateManagerInstance = {
         this.logOperation('CLEAR_STATE', 'all', 'Clearing all state');
         this.fileQueue = [];
         this.fileStatus.clear();
-        this.currentStage = null;
+        Object.keys(this.stageQueues).forEach(stage => {
+            this.stageQueues[stage] = [];
+        });
+        this.currentStage = this.stages[0];
         // Keep the operation log for debugging
+    },
+
+    /**
+     * Check if a file needs processing in the current stage
+     * @param {string} filePath - The file to check
+     * @returns {boolean} True if file needs processing
+     */
+    needsProcessing(filePath) {
+        if (!this.currentStage) return false;
+        const status = this.fileStatus.get(filePath) || [];
+        return !status.includes(this.currentStage);
     },
 
     /**
@@ -170,7 +196,7 @@ const stateManagerInstance = {
         return {
             currentStage: this.currentStage,
             queueSize: this.fileQueue.length,
-            queuedFiles: [...this.fileQueue],
+            stageQueues: { ...this.stageQueues },
             fileStatus: Object.fromEntries(this.fileStatus),
             operationLog: this.operationLog,
             stageProgress: this.getStageProgress()

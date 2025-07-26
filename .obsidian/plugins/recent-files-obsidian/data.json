@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Occultist",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/Occultist.md"
+      "basename": "Filename Test",
+      "path": "Filename Test.md"
+    },
+    {
+      "basename": "Test Folder",
+      "path": "Test Folder/Test Folder.md"
+    },
+    {
+      "basename": "new-note-for-testing",
+      "path": "new-note-for-testing.md"
+    },
+    {
+      "basename": "occultist",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/occultist/occultist.md"
     },
     {
       "basename": "tradition-of-the-shaman",
@@ -11,10 +23,6 @@
     {
       "basename": "hellspeaker",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/illrigger/hellspeaker.md"
-    },
-    {
-      "basename": "new-note-for-testing",
-      "path": "new-note-for-testing.md"
     },
     {
       "basename": "Alchemist",
@@ -67,10 +75,6 @@
     {
       "basename": "sanguine-knight",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/illrigger/sanguine-knight.md"
-    },
-    {
-      "basename": "Test Folder",
-      "path": "Test Folder/Test Folder.md"
     },
     {
       "basename": "ideas",
@@ -195,10 +199,6 @@
     {
       "basename": "eldritch-domain",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/eldritch-domain.md"
-    },
-    {
-      "basename": "cleric-xphb-war-domain-xphb",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-war-domain-xphb.md"
     }
   ],
   "omittedPaths": [],

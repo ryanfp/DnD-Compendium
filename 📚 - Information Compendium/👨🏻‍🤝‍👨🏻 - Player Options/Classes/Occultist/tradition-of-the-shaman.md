@@ -13,7 +13,7 @@ source: "Kibbles' Compendium of Legends and Legacies"
 
 # Tradition of the Shaman
 
-*[Occultist](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Occultist/Occultist.md): Occult Tradition*  
+*[occultist](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/occultist/occultist.md): Occult Tradition*  
 *Source: Kibbles' Compendium of Legends and Legacies p. 30*  
 
 > [!tldr] Class and Feature Progression

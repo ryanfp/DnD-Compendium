@@ -2664,6 +2664,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Test Folder",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Test Folder/Test Folder.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Test Folder\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "new-note-for-testing",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new-note-for-testing.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"new-note-for-testing\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "occultist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/occultist/occultist.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Occultist\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "tradition-of-the-shaman",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"tradition-of-the-shaman\"}",
@@ -2800,7 +2818,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/Occultist.md",
+                "file": "Filename Test.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -2815,7 +2833,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Occultist"
+              "title": "Filename Test"
             }
           }
         ],
@@ -3242,10 +3260,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/Occultist.md"
+                "file": "Filename Test.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Occultist"
+              "title": "File properties for Filename Test"
             }
           }
         ],
@@ -3294,6 +3312,14 @@
   },
   "active": "c8ddf2f537d6bbbf",
   "lastOpenFiles": [
+    "test staemanager logs.txt",
+    "Test Folder/Test Folder.md",
+    "Filename Test.md",
+    "new-note-for-testing.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/occultist.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/occultist/occultist.md",
+    "z_Templates/test_state_manager.md",
+    "z_Scripts/test_state_manager.js",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md",
     "Chat Logs/cursor_retrieve_permalink_and_automate.md",
     "Chat Logs",
@@ -3308,9 +3334,7 @@
     "z_Templates/21 - Smart Rename from Permalink.backup.md",
     "z_Templates/20 - Add Permalink.backup.md",
     "z_Scripts/stateManager.backup.js",
-    "z_Scripts/extractSource.backup.js",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/illrigger/hellspeaker.md",
-    "new-note-for-testing.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/Alchemist.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md",
@@ -3324,12 +3348,6 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/illrigger/architect-of-ruin.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/illrigger/shadowmaster.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/illrigger/sanguine-knight.md",
-    "Test Folder/Test Folder.md",
-    "ideas.md",
-    "to-do-list.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/illrigger/illrigger.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Illrigger/Architect of Ruin.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Illrigger/illrigger.md",
     "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg",
     "z_img/Pause-Circle-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg",
     "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",

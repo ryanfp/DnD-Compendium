@@ -27,6 +27,13 @@
       "type": "Macro",
       "command": true,
       "macroId": "61cb8f00-16ad-4867-a4e3-9342ab9a0bd9"
+    },
+    {
+      "id": "9e5b9993-f187-4e2d-8296-3b2e54656c19",
+      "name": "TestMacro",
+      "type": "Macro",
+      "command": true,
+      "macroId": "8686c824-a582-47db-a562-4e09a97175f2"
     }
   ],
   "macros": [
@@ -143,6 +150,19 @@
           "type": "Obsidian",
           "id": "59309326-dac3-4764-b7e4-023de6cb2d39",
           "commandId": "templater-obsidian:z_Templates/22 - Extract Source.md"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "TestMacro",
+      "id": "8686c824-a582-47db-a562-4e09a97175f2",
+      "commands": [
+        {
+          "name": "Templater: Insert test_state_manager",
+          "type": "Obsidian",
+          "id": "a92e230c-a039-49ef-b53c-cfe670b6845e",
+          "commandId": "templater-obsidian:z_Templates/test_state_manager.md"
         }
       ],
       "runOnStartup": false
