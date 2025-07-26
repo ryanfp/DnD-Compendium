@@ -43,9 +43,8 @@ async function processFile(file, app) {
     try {
         const stateManager = window.obsidianStateManager;
         
-        // Skip if already processed
-        if (stateManager.isFileProcessed(file.path, 'permalink')) {
-            stateManager.skipOperation(file.path, 'permalink', 'already processed');
+        // Skip if file doesn't need processing
+        if (!stateManager.needsProcessing(file.path)) {
             return;
         }
 
@@ -101,7 +100,7 @@ async function processFolder(folder, app) {
         
         // Process files from queue
         let nextFilePath;
-        while ((nextFilePath = stateManager.getNextFile('permalink')) !== null) {
+        while ((nextFilePath = stateManager.getNextFile()) !== null) {
             const file = app.vault.getAbstractFileByPath(nextFilePath);
             if (file instanceof TFile) {
                 await processFile(file, app);
@@ -119,16 +118,9 @@ async function processFolder(folder, app) {
  * @param {any} tp - Templater object
  */
 async function addPermalink(tp) {
-    const stateManager = window.obsidianStateManager;
-    
-    // Try to acquire lock
-    if (!await stateManager.acquireLock()) {
-        console.log('Another script is running, please wait and try again');
-        return;
-    }
-
     try {
         const app = tp.app;
+        const stateManager = window.obsidianStateManager;
 
         // Try to get selected files from file explorer
         const fileExplorer = app.workspace.getLeavesOfType('file-explorer')[0];
@@ -147,7 +139,7 @@ async function addPermalink(tp) {
                 
                 // Process files from queue
                 let nextFilePath;
-                while ((nextFilePath = stateManager.getNextFile('permalink')) !== null) {
+                while ((nextFilePath = stateManager.getNextFile()) !== null) {
                     const file = app.vault.getAbstractFileByPath(nextFilePath);
                     if (file instanceof TFile) {
                         await processFile(file, app);
@@ -188,9 +180,6 @@ async function addPermalink(tp) {
 
     } catch (error) {
         console.error('Error in addPermalink:', error);
-    } finally {
-        // Always release the lock when done
-        stateManager.releaseLock();
     }
 }
 

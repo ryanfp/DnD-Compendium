@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Occultist",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/Occultist.md"
+    },
+    {
       "basename": "tradition-of-the-shaman",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "cleric-xphb-war-domain-xphb",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/cleric-xphb-war-domain-xphb.md"
-    },
-    {
-      "basename": "death-domain",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/death-domain.md"
     }
   ],
   "omittedPaths": [],
