@@ -12,19 +12,54 @@
 async function processFiles(params) {
     try {
         console.log("Starting unified file processing");
-        const { app, file } = params;
         
-        if (!file) {
-            throw new Error("No file provided");
+        // Make sure params is an object
+        if (!params || typeof params !== 'object') {
+            throw new Error("Invalid params: not an object");
+        }
+        
+        const { app } = params;
+        if (!app) {
+            throw new Error("App not provided");
+        }
+        
+        // Handle different ways the file parameter might be provided
+        let fileObj;
+        
+        // Try to get the file from various possible locations
+        if (params.file) {
+            fileObj = params.file;
+        } else if (params.tp && params.tp.file) {
+            fileObj = params.tp.file;
+        } else if (app.workspace.getActiveFile()) {
+            fileObj = app.workspace.getActiveFile();
+        }
+        
+        if (!fileObj) {
+            throw new Error("No file provided and could not determine active file");
+        }
+        
+        console.log("File object received:", fileObj);
+        
+        // Check if it's a Templater-specific file object that needs conversion
+        if (fileObj && typeof fileObj === 'object' && !(fileObj instanceof app.vault.TFile) && !(fileObj instanceof app.vault.TFolder) && fileObj.path) {
+            console.log("Converting file object to Obsidian file object");
+            const actualFile = app.vault.getAbstractFileByPath(fileObj.path);
+            if (actualFile) {
+                fileObj = actualFile;
+                console.log("Successfully converted to Obsidian file object");
+            }
         }
         
         // Process based on whether we have a file or folder
-        if (file.children) {
+        if (fileObj instanceof app.vault.TFolder) {
             // It's a folder - process all markdown files in it
-            await processFolder(file, app);
-        } else {
+            await processFolder(fileObj, app);
+        } else if (fileObj instanceof app.vault.TFile) {
             // It's a single file
-            await processFile(file, app);
+            await processFile(fileObj, app);
+        } else {
+            throw new Error("The provided object is neither a valid file nor folder");
         }
         
         console.log("File processing complete");
@@ -41,15 +76,16 @@ async function processFiles(params) {
  */
 async function processFile(file, app) {
     try {
-        if (!file || !file.path || !file.basename) {
+        // Validate file object
+        if (!file || !(file instanceof app.vault.TFile)) {
             console.error("Invalid file object:", file);
             return;
         }
         
-        const fileName = file.basename;
+        const fileName = file.basename || "unknown file";
         const filePath = file.path;
         
-        console.log(`Processing file: ${fileName}`);
+        console.log(`Processing file: ${fileName} at path ${filePath}`);
         
         // Step 1: Add permalink to frontmatter
         console.log(`Step 1: Adding permalink to ${fileName}`);
@@ -95,7 +131,8 @@ async function processFile(file, app) {
  */
 async function processFolder(folder, app) {
     try {
-        if (!folder || !folder.children) {
+        // Validate folder object
+        if (!folder || !(folder instanceof app.vault.TFolder)) {
             console.error("Invalid folder object:", folder);
             return;
         }
@@ -130,6 +167,17 @@ async function processFolder(folder, app) {
  */
 async function addPermalink(file, app) {
     try {
+        if (!file || !(file instanceof app.vault.TFile)) {
+            console.error("Invalid file object");
+            return false;
+        }
+        
+        // Skip if not a markdown file
+        if (file.extension !== 'md') {
+            console.log(`Skipping non-markdown file: ${file.path}`);
+            return false;
+        }
+        
         const cache = app.metadataCache.getFileCache(file)?.frontmatter;
         
         // Generate permalink from basename
@@ -155,7 +203,7 @@ async function addPermalink(file, app) {
         console.log(`Added permalink for ${file.basename}: ${wouldBePermalink}`);
         return true;
     } catch (error) {
-        console.error(`Error adding permalink to ${file.basename}:`, error);
+        console.error(`Error adding permalink to ${file?.basename || 'unknown'}:`, error);
         return false;
     }
 }
@@ -168,6 +216,11 @@ async function addPermalink(file, app) {
  */
 async function renameFileBasedOnPermalink(file, app) {
     try {
+        if (!file || !(file instanceof app.vault.TFile)) {
+            console.error("Invalid file object");
+            return null;
+        }
+        
         // Get the frontmatter
         const cache = app.metadataCache.getFileCache(file)?.frontmatter;
         const permalink = cache?.permalink;
@@ -185,7 +238,13 @@ async function renameFileBasedOnPermalink(file, app) {
         }
         
         // Calculate new path
-        const fileDir = file.path.substring(0, file.path.lastIndexOf('/') + 1);
+        let fileDir = '';
+        const pathParts = file.path.split('/');
+        if (pathParts.length > 1) {
+            // Remove the last part (the filename) and join the rest
+            fileDir = pathParts.slice(0, -1).join('/') + '/';
+        }
+        
         const newPath = fileDir + permalink + '.md';
         
         // Check if target file exists
@@ -223,7 +282,7 @@ async function renameFileBasedOnPermalink(file, app) {
         console.log(`Renamed ${file.basename} to ${permalink}`);
         return newPath;
     } catch (error) {
-        console.error(`Error renaming ${file.basename}:`, error);
+        console.error(`Error renaming ${file?.basename || 'unknown'}:`, error);
         return null;
     }
 }
@@ -236,11 +295,22 @@ async function renameFileBasedOnPermalink(file, app) {
  */
 async function extractSource(file, app) {
     try {
+        if (!file || !(file instanceof app.vault.TFile)) {
+            console.error("Invalid file object");
+            return false;
+        }
+        
         // Get the frontmatter
         const cache = app.metadataCache.getFileCache(file)?.frontmatter;
         
         // Read the file content
-        const content = await app.vault.read(file);
+        let content;
+        try {
+            content = await app.vault.read(file);
+        } catch (error) {
+            console.error(`Could not read file content for ${file.basename}:`, error);
+            return false;
+        }
         
         // Look for "Source:" pattern and extract the value
         const sourceMatch = content.match(/Source:\s*([^\n]+)/);
@@ -311,7 +381,7 @@ async function extractSource(file, app) {
         console.log(`Updated source for ${file.basename}: ${sourceValue}`);
         return true;
     } catch (error) {
-        console.error(`Error extracting source for ${file.basename}:`, error);
+        console.error(`Error extracting source for ${file?.basename || 'unknown'}:`, error);
         return false;
     }
 }

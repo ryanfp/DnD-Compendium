@@ -2664,6 +2664,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "tradition-of-the-shaman",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"tradition-of-the-shaman\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Filename Test",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Filename Test.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Filename Test\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Test Folder",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Test Folder/Test Folder.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Test Folder\"}",
@@ -2818,7 +2830,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filename Test.md",
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -2833,7 +2845,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Filename Test"
+              "title": "tradition-of-the-witch"
             }
           }
         ],
@@ -3260,10 +3272,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Filename Test.md"
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Filename Test"
+              "title": "File properties for tradition-of-the-witch"
             }
           }
         ],
@@ -3310,8 +3322,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "c8ddf2f537d6bbbf",
+  "active": "a5ec94890ee5953b",
   "lastOpenFiles": [
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md",
+    "Filename Test.md",
+    "z_Scripts/Unconfirmed 278189.crdownload",
+    "z_Templates/Unconfirmed 981055.crdownload",
     "z_Templates/Process Files.md",
     "z_Templates/Unconfirmed 405927.crdownload",
     "z_Scripts/processFiles.js",
@@ -3322,17 +3338,13 @@
     "z_Scripts/Unconfirmed 61005.crdownload",
     "z_Templates/Run All Steps.md",
     "z_Templates/Unconfirmed 637552.crdownload",
-    "z_Scripts/Unconfirmed 334916.crdownload",
-    "z_Scripts/Unconfirmed 539476.crdownload",
     "z_Templates/30 - Process All Stages.md",
     "Chat Logs/cursor_retrieve_permalink_and_automate2.md",
     "Test Folder/Test Folder.md",
-    "Filename Test.md",
     "new-note-for-testing.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/occultist.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/occultist/occultist.md",
     "z_Templates/test_state_manager.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md",
     "Chat Logs/cursor_retrieve_permalink_and_automate.md",
     "z_Templates/22 - Extract Source.backup.md",
     "z_Templates/21 - Smart Rename from Permalink.backup.md",
@@ -3347,7 +3359,6 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/dragon-knight/platinum-practice.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/dragon-knight/garden-practice.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/dragon-knight/elemental-practice.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/illrigger/painkiller.md",
     "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg",
     "z_img/Pause-Circle-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg",
     "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "tradition-of-the-witch",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md"
+    },
+    {
+      "basename": "tradition-of-the-shaman",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md"
+    },
+    {
       "basename": "Filename Test",
       "path": "Filename Test.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "occultist",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/occultist/occultist.md"
-    },
-    {
-      "basename": "tradition-of-the-shaman",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md"
     },
     {
       "basename": "hellspeaker",
@@ -195,10 +199,6 @@
     {
       "basename": "inquisition-domain",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/inquisition-domain.md"
-    },
-    {
-      "basename": "eldritch-domain",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/eldritch-domain.md"
     }
   ],
   "omittedPaths": [],
