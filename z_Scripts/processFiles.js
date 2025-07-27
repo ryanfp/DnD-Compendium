@@ -1,55 +1,56 @@
 /**
- * Process files script for Templater
- * Works with QuickAdd and Linter integration
+ * Templater user script for file processing
+ * 
+ * Usage in Templater:
+ * <%* await tp.user.processFiles() %>
  */
-class FileProcessor {
-    constructor(app) {
-        this.app = app;
+
+module.exports = async function processFiles(target = null) {
+    try {
+        const app = this.app;
         
-        // Initialize global tracking if it doesn't exist
-        if (!window.zProcessedFiles) {
-            window.zProcessedFiles = new Set();
-        }
-    }
-
-    async process(tp) {
+        // Import FileProcessor using relative path (adjust based on your structure)
+        let FileProcessor;
         try {
-            // Get the current file
-            const currentFile = tp.file.find_tfile();
-            
-            if (!currentFile || !currentFile.path) {
-                console.error("No valid file to process");
-                return "No valid file to process";
+            // Try relative path from Templater user scripts
+            FileProcessor = require('../../z_Scripts/fileProcessor.js');
+        } catch (e) {
+            try {
+                // Try with absolute path 
+                const filePath = app.vault.adapter.basePath + '/z_Scripts/fileProcessor.js';
+                FileProcessor = require(filePath);
+            } catch (e2) {
+                throw new Error("Could not load FileProcessor. Please check file paths.");
             }
-
-            // Use our global tracking to see if this file has been processed
-            if (window.zProcessedFiles.has(currentFile.path)) {
-                console.log(`File ${currentFile.path} already processed, skipping`);
-                return "File already processed";
-            }
-            
-            // Mark the file as processed
-            window.zProcessedFiles.add(currentFile.path);
-            
-            // Your actual processing logic here
-            console.log(`Processing file: ${currentFile.path}`);
-            
-            // Example processing code:
-            // Read file content
-            const content = await this.app.vault.read(currentFile);
-            
-            // Process content (example: add timestamp)
-            const processedContent = content + "\nProcessed at: " + new Date().toISOString();
-            
-            // Write back to file
-            await this.app.vault.modify(currentFile, processedContent);
-            
-            return `Successfully processed ${currentFile.path}`;
-        } catch (error) {
-            console.error("Error in processFiles:", error);
-            return `Error processing file: ${error.message}`;
         }
+        
+        // If no target provided, try to find one
+        if (!target) {
+            // Try file explorer selection
+            const fileExplorer = app.workspace.getLeavesOfType("file-explorer")[0]?.view;
+            if (fileExplorer && typeof fileExplorer.getSelectedFile === 'function') {
+                target = fileExplorer.getSelectedFile();
+            }
+            
+            // If still no target, use active file
+            if (!target) {
+                target = app.workspace.getActiveFile();
+            }
+        }
+        
+        if (!target) {
+            new Notice("No file selected or active");
+            return false;
+        }
+        
+        // Process the file or folder
+        const processor = new FileProcessor(app);
+        const result = await processor.process(target);
+        
+        return result;
+    } catch (error) {
+        console.error("Error in processFiles user script:", error);
+        new Notice(`Error: ${error.message}`);
+        return { success: false, error: error.message };
     }
-}
-
-module.exports = FileProcessor;
+};

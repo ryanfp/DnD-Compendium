@@ -72,6 +72,18 @@
       "icon": "lucide-a-arrow-down",
       "name": "QuickAdd: Process Files",
       "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:1002e97e-2fce-4684-a401-a446dc083072",
+      "icon": "lucide-a-large-small",
+      "name": "QuickAdd: Process Files",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:31e4aec8-f158-4655-b7a8-199a6bbe178c",
+      "icon": "lucide-alert-triangle",
+      "name": "QuickAdd: File Processing",
+      "mode": "any"
     }
   ],
   "leftRibbon": [],

@@ -1,24 +1,17 @@
 /**
- * Comprehensive file processing script
- * - Works with files/folders from any context (active, selected, or context menu)
+ * Comprehensive file processing script for Obsidian
+ * - Works with files/folders from any context
  * - Handles permalink generation, renaming, and source extraction
- * - Avoids duplicate processing during a single session while still checking files each time
- * - No "processed" tag or other unnecessary frontmatter additions
- * 
- * Created: 2025-07-27
+ * - No reliance on active editors
  */
 class FileProcessor {
     constructor(app) {
         this.app = app;
-        // Track files processed in current session to avoid duplicate processing
         this.currentSessionFiles = new Set();
     }
     
     /**
      * Process a target (file or folder)
-     * @param {Object} target - File or folder to process
-     * @param {Object} options - Processing options
-     * @returns {Promise<Object>} - Processing results
      */
     async process(target, options = {}) {
         // Default options
@@ -30,10 +23,10 @@ class FileProcessor {
         };
         
         try {
-            // Clear session cache at the beginning of each explicit call to process
+            // Clear session tracking
             this.currentSessionFiles.clear();
             
-            // If no target provided, try to find one from context
+            // If no target provided, try to find one
             if (!target) {
                 target = await this._getTargetFromContext();
                 
@@ -62,56 +55,56 @@ class FileProcessor {
     }
     
     /**
-     * Get a target file or folder from the context using multiple methods
-     * Inspired by Linter's approach to finding files
+     * Get a target file or folder from the context
      * @private
      */
     async _getTargetFromContext() {
-        let target = null;
+        // Try all possible ways to get the target file/folder
         
-        // 1. Try to get from file explorer selection (like Linter does)
+        // 1. Try file explorer selection
         try {
+            // Get file explorer view
             const fileExplorer = this.app.workspace.getLeavesOfType("file-explorer")[0]?.view;
             
             if (fileExplorer) {
-                // Handle different Obsidian versions and plugins that might modify the API
+                // Try different API versions
                 if (typeof fileExplorer.getSelectedFile === 'function') {
-                    target = fileExplorer.getSelectedFile();
-                } else if (fileExplorer.file && typeof fileExplorer.file === 'object') {
-                    target = fileExplorer.file;
-                } else if (fileExplorer.getFileData && typeof fileExplorer.getFileData === 'function') {
-                    const fileData = fileExplorer.getFileData();
-                    if (fileData && fileData.file) {
-                        target = fileData.file;
+                    const selected = fileExplorer.getSelectedFile();
+                    if (selected) {
+                        console.log(`Found target in file explorer API: ${selected.path}`);
+                        return selected;
+                    }
+                } 
+                
+                // Try DOM-based approach (Linter style)
+                const selectedEl = fileExplorer.containerEl.querySelector(
+                    '.nav-folder.is-active, .nav-file.is-active, .nav-folder.mod-active, .nav-file.mod-active'
+                );
+                
+                if (selectedEl) {
+                    const filepath = selectedEl.getAttribute('data-path');
+                    if (filepath) {
+                        const file = this.app.vault.getAbstractFileByPath(filepath);
+                        if (file) {
+                            console.log(`Found target in DOM: ${file.path}`);
+                            return file;
+                        }
                     }
                 }
-                
-                // If we got a target, return it
-                if (target) {
-                    console.log(`Found target in file explorer: ${target.path}`);
-                    return target;
-                }
             }
         } catch (e) {
-            console.warn("Error accessing file explorer:", e);
+            console.warn("Error getting file from explorer:", e);
         }
         
-        // 2. Try to get from the most recently active leaf's file
+        // 2. Try active file
         try {
-            const activeLeaf = this.app.workspace.getLeaf();
-            if (activeLeaf && activeLeaf.view && activeLeaf.view.file) {
-                console.log(`Found target in active leaf: ${activeLeaf.view.file.path}`);
-                return activeLeaf.view.file;
+            const activeFile = this.app.workspace.getActiveFile();
+            if (activeFile) {
+                console.log(`Using active file: ${activeFile.path}`);
+                return activeFile;
             }
         } catch (e) {
-            console.warn("Error accessing active leaf:", e);
-        }
-        
-        // 3. Fall back to traditional active file method
-        const activeFile = this.app.workspace.getActiveFile();
-        if (activeFile) {
-            console.log(`Using active file: ${activeFile.path}`);
-            return activeFile;
+            console.warn("Error getting active file:", e);
         }
         
         return null;
@@ -119,9 +112,6 @@ class FileProcessor {
     
     /**
      * Process a folder by recursively processing all markdown files
-     * Using Linter-inspired approach to folder traversal
-     * @param {Object} folder - Folder to process
-     * @param {Object} options - Processing options
      * @private
      */
     async _processFolder(folder, options) {
@@ -177,9 +167,6 @@ class FileProcessor {
     
     /**
      * Get all markdown files in a folder recursively
-     * Similar to how Linter scans folders
-     * @param {Object} folder - Folder to scan
-     * @returns {Array} - All markdown files in folder and subfolders
      * @private
      */
     async _getAllMarkdownFiles(folder) {
@@ -207,8 +194,6 @@ class FileProcessor {
     
     /**
      * Process a single file
-     * @param {Object} file - File to process
-     * @param {Object} options - Processing options
      * @private
      */
     async _processFile(file, options) {
@@ -269,9 +254,6 @@ class FileProcessor {
     
     /**
      * Add permalink to frontmatter if it doesn't exist
-     * @param {Object} file - File to add permalink to
-     * @param {Object} frontmatter - Frontmatter object
-     * @returns {Boolean} - Whether frontmatter was modified
      * @private
      */
     async _addPermalink(file, frontmatter) {
@@ -305,10 +287,6 @@ class FileProcessor {
     
     /**
      * Extract source from content and add to frontmatter
-     * @param {Object} file - File to extract source from
-     * @param {Object} frontmatter - Frontmatter object
-     * @param {String} body - File body content
-     * @returns {Boolean} - Whether frontmatter was modified
      * @private
      */
     async _extractSource(file, frontmatter, body) {
@@ -318,7 +296,7 @@ class FileProcessor {
             return false;
         }
         
-        // Look for source patterns in the content with improved regex
+        // Look for source patterns in the content
         // Matches both "Source:" and "Source;" with various capitalizations
         // Excludes page numbers in (p. X) or (pp. X-Y) format
         const sourcePattern = /\b(?:Source|source)[;:]\s*([^(][^\n]+?)(?:\s*\((?:p|pp)\.?\s*\d+(?:-\d+)?\))?$/m;
@@ -336,9 +314,6 @@ class FileProcessor {
     
     /**
      * Rename file based on permalink while preserving backlinks
-     * @param {Object} file - File to rename
-     * @param {Object} frontmatter - Frontmatter object
-     * @returns {Boolean} - Whether the file was renamed
      * @private
      */
     async _renameFromPermalink(file, frontmatter) {
@@ -417,8 +392,6 @@ class FileProcessor {
     
     /**
      * Parse frontmatter from file content
-     * @param {String} content - File content
-     * @returns {Object} - Parsed frontmatter and body
      * @private
      */
     _parseFrontmatter(content) {
@@ -449,9 +422,6 @@ class FileProcessor {
     
     /**
      * Generate file content from frontmatter and body
-     * @param {Object} frontmatter - Frontmatter object
-     * @param {String} body - File body content
-     * @returns {String} - Combined file content
      * @private
      */
     _generateFileContent(frontmatter, body) {
@@ -468,19 +438,28 @@ class FileProcessor {
     
     /**
      * Display notification
-     * @param {String} message - Notification message
-     * @param {String} type - Notification type (info, error, success)
      * @private
      */
     _notify(message, type = "info") {
-        const Notice = window.Notice;
-        if (Notice) {
-            new Notice(message);
-        } else {
+        try {
+            // Try to use Obsidian's Notice API
+            const Notice = this.app.plugins.plugins.quickadd?.api?.Notice || window.Notice;
+            if (Notice) {
+                new Notice(message);
+            } else {
+                console.log(`[${type}] ${message}`);
+            }
+        } catch (e) {
+            // Fallback to console if Notice fails
             console.log(`[${type}] ${message}`);
         }
     }
 }
 
-// Export for both CommonJS and ES modules
-module.exports = FileProcessor;
+// Make available for other scripts
+if (typeof module !== 'undefined') {
+    module.exports = FileProcessor;
+}
+if (typeof window !== 'undefined') {
+    window.FileProcessor = FileProcessor;
+}
