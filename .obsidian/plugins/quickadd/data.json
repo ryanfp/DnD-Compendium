@@ -161,15 +161,9 @@
         {
           "name": "quickAddFileCheck",
           "type": "UserScript",
-          "id": "08ed9960-7fc7-47c6-8db7-f1ea05a6a7fe",
+          "id": "f3081c86-5709-4234-9252-896bd3bc01ae",
           "path": "z_Scripts/quickAddFileCheck.js",
           "settings": {}
-        },
-        {
-          "name": "Templater: Insert Process Files",
-          "type": "Obsidian",
-          "id": "774b3c5d-caef-421d-837b-bd3a42df1f8e",
-          "commandId": "templater-obsidian:z_Templates/Process Files.md"
         }
       ],
       "runOnStartup": false
@@ -181,7 +175,7 @@
       "runOnStartup": false
     }
   ],
-  "inputPrompt": "multi-line",
+  "inputPrompt": "single-line",
   "devMode": false,
   "templateFolderPath": "z_Templates",
   "announceUpdates": false,

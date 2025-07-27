@@ -5,10 +5,11 @@ tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/occultist/shaman]
 aliases:
   - Tradition of the Shaman
 created: 2025/06/13 at 22:29
-updated: 2025/07/24 at 01:23
+updated: 2025/07/27 at 00:50
 title: Tradition of the Shaman
 permalink: tradition-of-the-shaman
 source: "Kibbles' Compendium of Legends and Legacies"
+processed: 2025-07-27
 ---
 
 # Tradition of the Shaman

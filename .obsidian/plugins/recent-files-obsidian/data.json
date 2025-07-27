@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "new-note-for-testing",
-      "path": "new-note-for-testing.md"
+      "basename": "whitestone-rifle-corps-tdcsr",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/whitestone-rifle-corps-tdcsr.md"
+    },
+    {
+      "basename": "tradition-of-the-shaman",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md"
     },
     {
       "basename": "tradition-of-the-witch",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md"
     },
     {
-      "basename": "tradition-of-the-shaman",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md"
+      "basename": "new-note-for-testing",
+      "path": "new-note-for-testing.md"
     },
     {
       "basename": "Filename Test",
@@ -195,10 +199,6 @@
     {
       "basename": "knowledge-domain",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/knowledge-domain.md"
-    },
-    {
-      "basename": "inquisition-domain",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/inquisition-domain.md"
     }
   ],
   "omittedPaths": [],

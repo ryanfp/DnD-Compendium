@@ -60,6 +60,18 @@
       "name": "Linter: Ignore file",
       "mode": "any",
       "color": "#d40c0c"
+    },
+    {
+      "id": "quickadd:choice:1002e97e-2fce-4684-a401-a446dc083072",
+      "icon": "lucide-antenna",
+      "name": "Add Metadata to File/Folder - QuickAdd",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:1002e97e-2fce-4684-a401-a446dc083072",
+      "icon": "lucide-a-arrow-down",
+      "name": "QuickAdd: Process Files",
+      "mode": "any"
     }
   ],
   "leftRibbon": [],

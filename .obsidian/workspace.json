@@ -2664,6 +2664,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "tradition-of-the-shaman",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"tradition-of-the-shaman\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "tradition-of-the-witch",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"tradition-of-the-witch\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "new-note-for-testing",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"new-note-for-testing.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"new-note-for-testing\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "tradition-of-the-witch",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"tradition-of-the-witch\"}",
@@ -2836,7 +2854,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "new-note-for-testing.md",
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/whitestone-rifle-corps-tdcsr.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -2846,12 +2864,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "new-note-for-testing"
+              "title": "whitestone-rifle-corps-tdcsr"
             }
           }
         ],
@@ -3278,10 +3296,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "new-note-for-testing.md"
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/whitestone-rifle-corps-tdcsr.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for new-note-for-testing"
+              "title": "File properties for whitestone-rifle-corps-tdcsr"
             }
           }
         ],
@@ -3329,28 +3347,27 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "c8ddf2f537d6bbbf",
+  "active": "a5ec94890ee5953b",
   "lastOpenFiles": [
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md",
+    "new-note-for-testing.md",
+    "z_Scripts/Unconfirmed 371491.crdownload",
+    "z_Scripts/Unconfirmed 719668.crdownload",
+    "z_Scripts/Unconfirmed 759178.crdownload",
+    "z_Scripts/Unconfirmed 958640.crdownload",
+    "z_Scripts/Unconfirmed 64748.crdownload",
+    "z_Templates/Unconfirmed 156543.crdownload",
     "z_Scripts/Unconfirmed 607609.crdownload",
     "z_Scripts/Unconfirmed 223213.crdownload",
     "z_Scripts/Unconfirmed 591392.crdownload",
     "z_Scripts/Unconfirmed 111128.crdownload",
-    "z_Scripts/Unconfirmed 604470.crdownload",
-    "z_Scripts/Unconfirmed 152835.crdownload",
-    "z_Scripts/Unconfirmed 588330.crdownload",
-    "z_Scripts/Unconfirmed 663205.crdownload",
-    "z_Scripts/Unconfirmed 479913.crdownload",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md",
-    "z_Scripts/quickAddFileCheck.js",
-    "z_Scripts/Unconfirmed 660196.crdownload",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md",
     "Filename Test.md",
     "z_Templates/Process Files.md",
     "z_Templates/Run All Steps.md",
     "z_Templates/30 - Process All Stages.md",
     "Chat Logs/cursor_retrieve_permalink_and_automate2.md",
     "Test Folder/Test Folder.md",
-    "new-note-for-testing.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/occultist.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/occultist/occultist.md",
     "z_Templates/test_state_manager.md",

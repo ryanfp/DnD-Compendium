@@ -5,10 +5,11 @@ tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/occultist/witch]
 aliases:
   - Tradition of the Witch
 created: 2025/06/13 at 22:29
-updated: 2025/07/24 at 01:23
+updated: 2025/07/27 at 00:49
 title: Tradition of the Witch
 permalink: tradition-of-the-witch
 source: "Kibbles' Compendium of Legends and Legacies"
+processed: 2025-07-27
 ---
 
 # Tradition of the Witch
