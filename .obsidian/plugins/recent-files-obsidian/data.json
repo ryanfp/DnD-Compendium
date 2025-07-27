@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "whitestone-rifle-corps-tdcsr",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/whitestone-rifle-corps-tdcsr.md"
+      "basename": "tradition-of-the-witch",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md"
+    },
+    {
+      "basename": "Aberrant Mind",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Aberrant Mind.md"
+    },
+    {
+      "basename": "Clockwork Soul",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Clockwork Soul.md"
+    },
+    {
+      "basename": "tradition-of-the-hedge-mage",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-hedge-mage.md"
     },
     {
       "basename": "tradition-of-the-shaman",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md"
     },
     {
-      "basename": "tradition-of-the-witch",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md"
+      "basename": "whitestone-rifle-corps-tdcsr",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/whitestone-rifle-corps-tdcsr.md"
     },
     {
       "basename": "new-note-for-testing",
@@ -187,18 +199,6 @@
     {
       "basename": "nature-domain",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/nature-domain.md"
-    },
-    {
-      "basename": "light-domain",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/light-domain.md"
-    },
-    {
-      "basename": "life-domain",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/life-domain.md"
-    },
-    {
-      "basename": "knowledge-domain",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/knowledge-domain.md"
     }
   ],
   "omittedPaths": [],

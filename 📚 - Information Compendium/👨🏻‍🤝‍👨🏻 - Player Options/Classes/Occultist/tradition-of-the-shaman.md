@@ -9,7 +9,6 @@ updated: 2025/07/27 at 00:50
 title: Tradition of the Shaman
 permalink: tradition-of-the-shaman
 source: "Kibbles' Compendium of Legends and Legacies"
-processed: 2025-07-27
 ---
 
 # Tradition of the Shaman

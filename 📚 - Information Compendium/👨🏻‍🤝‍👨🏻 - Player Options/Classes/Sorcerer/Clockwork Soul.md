@@ -5,7 +5,8 @@ tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/sorcerer/clockwork-so
 aliases:
   - Clockwork Soul
 created: 2025/06/15 at 15:37
-updated: 2025/07/13 at 00:17
+updated: 2025/07/27 at 01:18
+title: Clockwork Soul
 ---
 
 # Clockwork Soul

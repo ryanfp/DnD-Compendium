@@ -2664,6 +2664,48 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Aberrant Mind",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Aberrant Mind.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Aberrant Mind\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":11},\"to\":{\"line\":9,\"ch\":11}}}"
+                },
+                {
+                  "title": "Clockwork Soul",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Clockwork Soul.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Clockwork Soul\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Aberrant Mind",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Aberrant Mind.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Aberrant Mind\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "tradition-of-the-hedge-mage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-hedge-mage.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"tradition-of-the-hedge-mage\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
+                },
+                {
+                  "title": "tradition-of-the-shaman",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"tradition-of-the-shaman\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":53},\"to\":{\"line\":10,\"ch\":53}}}"
+                },
+                {
+                  "title": "tradition-of-the-witch",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"tradition-of-the-witch\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":53},\"to\":{\"line\":10,\"ch\":53}}}"
+                },
+                {
+                  "title": "whitestone-rifle-corps-tdcsr",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/whitestone-rifle-corps-tdcsr.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"whitestone-rifle-corps-tdcsr\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":11},\"to\":{\"line\":6,\"ch\":11}}}"
+                },
+                {
                   "title": "tradition-of-the-shaman",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"tradition-of-the-shaman\"}",
@@ -2854,7 +2896,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/whitestone-rifle-corps-tdcsr.md",
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -2869,7 +2911,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "whitestone-rifle-corps-tdcsr"
+              "title": "tradition-of-the-witch"
             }
           }
         ],
@@ -3296,10 +3338,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/whitestone-rifle-corps-tdcsr.md"
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for whitestone-rifle-corps-tdcsr"
+              "title": "File properties for tradition-of-the-witch"
             }
           }
         ],
@@ -3349,19 +3391,24 @@
   },
   "active": "a5ec94890ee5953b",
   "lastOpenFiles": [
+    "z_Scripts/Unconfirmed 403145.crdownload",
+    "z_Scripts/Unconfirmed 52192.crdownload",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Aberrant Mind.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Clockwork Soul.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-hedge-mage.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/whitestone-rifle-corps-tdcsr.md",
+    "z_Templates/Unconfirmed 988802.crdownload",
+    "z_Scripts/Unconfirmed 627095.crdownload",
+    "z_Scripts/fileProcessor.js",
+    "z_Scripts/Unconfirmed 686930.crdownload",
     "new-note-for-testing.md",
     "z_Scripts/Unconfirmed 371491.crdownload",
     "z_Scripts/Unconfirmed 719668.crdownload",
     "z_Scripts/Unconfirmed 759178.crdownload",
     "z_Scripts/Unconfirmed 958640.crdownload",
     "z_Scripts/Unconfirmed 64748.crdownload",
-    "z_Templates/Unconfirmed 156543.crdownload",
-    "z_Scripts/Unconfirmed 607609.crdownload",
-    "z_Scripts/Unconfirmed 223213.crdownload",
-    "z_Scripts/Unconfirmed 591392.crdownload",
-    "z_Scripts/Unconfirmed 111128.crdownload",
     "Filename Test.md",
     "z_Templates/Process Files.md",
     "z_Templates/Run All Steps.md",
@@ -3380,10 +3427,6 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-combustion.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-the-armament.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/dragon-knight/rider-practice.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/dragon-knight/platinum-practice.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/dragon-knight/garden-practice.md",
     "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg",
     "z_img/Pause-Circle-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg",
     "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",

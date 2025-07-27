@@ -1,13 +1,18 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-background
-tags:
-- background
-- compendium/src/5e/tdcsr
+tags: []
 aliases:
-- Whitestone Rifle Corps
+  - Whitestone Rifle Corps
+permalink: whitestone-rifle-corps-tdcsr
+source: "Tal'Dorei Campaign Setting Reborn p. 187*"
+title: Whitestone Rifle Corps
+created: 2025/06/15 at 22:47
+updated: 2025/07/27 at 01:16
 ---
+
 # Whitestone Rifle Corps
+
 *Source: Tal'Dorei Campaign Setting Reborn p. 187*  
 ![A muscled Black half-elven...](/📚%20-%20Information%20Compendium/backgrounds/img/riflecorps.webp#right "A muscled Black half-elven woman with long brown dreadlocks wearing a blue coat, crouching on one knee in a patch of white daisies, aiming a rifle.")
 
@@ -46,6 +51,7 @@ You are—or were—a member of an elite and trusted band of "Whitestone's" stau
 | 4 | I don't think firearms technology should be kept secret, so I escaped from the Rifle Corps with my weapon and am on the run. |
 | 5 | I was on a mission with my company when I got separated from them. Now I need to find my way back home. |
 | 6 | My weapon was stolen. I built a new one, but I can't return home until I've tracked down the thief and recovered the original. ("Whitestone Hunter" variant only) |
+
 ^rifle-corps-relationships
 
 ## Suggested Characteristics
@@ -62,12 +68,13 @@ Your bond is likely associated with your comrades-in-arms or with "Whitestone" i
 |----------|-------------------|
 | 1 | I want to make a good impression at all times. That means keeping my clothes and gear clean and in top condition. |
 | 2 | I don't like being the center of attention. I'd rather let someone else do the talking while I watch their back. |
-| 3 | I feel safe only if I'm carrying my trusty rifle. And my dagger. And my concealed pistol. Oh, and of course my.... |
+| 3 | I feel safe only if I'm carrying my trusty rifle. And my dagger. And my concealed pistol. Oh, and of course my…. |
 | 4 | I don't trust people with my secrets easily, so it feels like a big deal when someone else shares a secret with me. |
 | 5 | I like coming up with solutions to problems using my esoteric knowledge of natural philosophy. |
 | 6 | Everyone around me takes things so seriously. Sometimes I just want to let loose and have fun! |
 | 7 | Knowing things that other people don't know makes me feel special and important. |
 | 8 | I'm most at home in woods and mountains, where everything feels at once familiar, always growing and changing. |
+
 ^rifle-corps-personality-traits
 
 **Rifle Corps Ideals**
@@ -82,6 +89,7 @@ Your bond is likely associated with your comrades-in-arms or with "Whitestone" i
 | 4 | **Camaraderie**. It's important to have people you can trust to help out in a fight—and to uncork a bottle together afterward. (Any) |
 | 5 | **Context**. There are no universal rights or wrongs. Every choice depends on the details of the situation. (Chaotic) |
 | 6 | **Secrecy**. Information is valuable, but it can also be dangerous. I'll keep my mouth shut and gather as much intel as I can. (Neutral) |
+
 ^rifle-corps-ideals
 
 **Rifle Corps Bons**
@@ -96,6 +104,7 @@ Your bond is likely associated with your comrades-in-arms or with "Whitestone" i
 | 4 | My quick thinking saved a noble from assassination, and she showed me great kindness in return. I daren't say it, but I'm more loyal to her than I am to the de Rolos. |
 | 5 | My weapon is my life. I clean it, repair it, and care for it—and it serves me loyally in return. |
 | 6 | The people of "Whitestone" cared for my family when we had nothing. I promise to repay their compassion with my service. |
+
 ^rifle-corps-bons
 
 **Rifle Corps Flaws**
@@ -110,4 +119,5 @@ Your bond is likely associated with your comrades-in-arms or with "Whitestone" i
 | 4 | I'm tired of protecting spoiled people who don't know how to protect themselves. |
 | 5 | I shoot first and ask questions later. |
 | 6 | The first and only time I killed someone, it changed my life. I still dream about it, and I'll never be the carefree person I was before. |
+
 ^rifle-corps-flaws
