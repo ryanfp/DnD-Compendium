@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "new-note-for-testing",
+      "path": "new-note-for-testing.md"
+    },
+    {
       "basename": "tradition-of-the-witch",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Test Folder",
       "path": "Test Folder/Test Folder.md"
-    },
-    {
-      "basename": "new-note-for-testing",
-      "path": "new-note-for-testing.md"
     },
     {
       "basename": "occultist",

@@ -10,12 +10,26 @@
  * @returns {Promise<void>}
  */
 
-// Track processed files to prevent duplication
-const processedFiles = new Set();
+// Use window object to persist processed files between runs
+// This way it survives across multiple calls from Linter
+if (!window.zProcessedFiles) {
+    window.zProcessedFiles = new Set();
+}
+
+// Add a timestamp to track runs and reset the cache after a while
+const CACHE_TIMEOUT = 60000; // 1 minute
+if (!window.zLastProcessingTime || Date.now() - window.zLastProcessingTime > CACHE_TIMEOUT) {
+    window.zProcessedFiles.clear();
+    window.zLastProcessingTime = Date.now();
+}
 
 async function processFiles(params) {
     try {
+        // Update processing time
+        window.zLastProcessingTime = Date.now();
+        
         console.log("Starting unified file processing");
+        console.log(`Currently ${window.zProcessedFiles.size} files in processed cache`);
         
         // Make sure params is an object
         if (!params || typeof params !== 'object') {
@@ -49,9 +63,6 @@ async function processFiles(params) {
         }
         
         console.log("File object found:", fileObj.path);
-        
-        // Clear the processed files set at the start of each main call
-        processedFiles.clear();
         
         // Process based on whether we have a file or folder
         if (fileObj.children && Array.isArray(fileObj.children)) {
@@ -87,14 +98,14 @@ async function processFile(file, app) {
             return;
         }
         
-        // Skip if already processed
-        if (processedFiles.has(file.path)) {
+        // Skip if already processed in this session
+        if (window.zProcessedFiles.has(file.path)) {
             console.log(`Skipping already processed file: ${file.path}`);
             return;
         }
         
         // Mark as processed
-        processedFiles.add(file.path);
+        window.zProcessedFiles.add(file.path);
         
         const fileName = file.basename || file.name || file.path.split('/').pop().split('.')[0] || "unknown";
         const filePath = file.path;
@@ -126,9 +137,9 @@ async function processFile(file, app) {
             return;
         }
         
-        // Add the new path to processed files
+        // Add the new path to processed files if it was renamed
         if (newFilePath) {
-            processedFiles.add(newFilePath);
+            window.zProcessedFiles.add(newFilePath);
         }
         
         // Step 3: Extract source from content to frontmatter
@@ -178,8 +189,8 @@ async function processFolder(folder, app) {
         // Process each file sequentially
         for (const file of files) {
             // Skip if already processed
-            if (processedFiles.has(file.path)) {
-                console.log(`Skipping already processed file: ${file.path}`);
+            if (window.zProcessedFiles.has(file.path)) {
+                console.log(`Skipping already processed file in folder: ${file.path}`);
                 continue;
             }
             

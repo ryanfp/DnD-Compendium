@@ -271,7 +271,7 @@
     }
   },
   "lintOnSave": true,
-  "recordLintOnSaveLogs": false,
+  "recordLintOnSaveLogs": true,
   "displayChanged": true,
   "lintOnFileChange": true,
   "displayLintOnFileChangeNotice": true,
@@ -282,12 +282,12 @@
   ],
   "filesToIgnore": [],
   "linterLocale": "system-default",
-  "logLevel": "ERROR",
+  "logLevel": "DEBUG",
   "lintCommands": [
     {
       "id": "quickadd:choice:31e4aec8-f158-4655-b7a8-199a6bbe178c",
       "name": "QuickAdd: File Processing",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "quickadd:choice:1002e97e-2fce-4684-a401-a446dc083072",
