@@ -141,10 +141,10 @@
       "id": "e187ae00-21fb-47eb-bee8-920819e07232",
       "commands": [
         {
-          "name": "fileProcessor",
+          "name": "quickAddFileCheck",
           "type": "UserScript",
-          "id": "cab0d27b-124c-4946-bfca-bdc27229212a",
-          "path": "z_Scripts/fileProcessor.js",
+          "id": "3d84315b-b6d3-42c8-8cdb-ee61eeed7fed",
+          "path": "z_Scripts/quickAddFileCheck.js",
           "settings": {}
         }
       ],

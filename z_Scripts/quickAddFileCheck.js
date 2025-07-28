@@ -4,6 +4,8 @@
  * - Adds permalinks (without dates)
  * - Extracts sources
  * - Renames files preserving backlinks
+ * 
+ * Updated: 2025-07-28 04:21:37
  */
 module.exports = async function(params) {
     const { app } = params;
@@ -37,65 +39,108 @@ module.exports = async function(params) {
 };
 
 /**
- * Try multiple methods to get the selected file or folder
- * Based on Linter's approach
+ * Get the target file or folder using techniques from Obsidian Linter
  */
 async function getTargetFromMultipleSources(app, params) {
-    let target = null;
-    
-    // 1. Try QuickAdd's params.file or params.filepath (highest priority)
+    // Try QuickAdd's params.file (highest priority)
     if (params.file) {
-        console.log(`Using file from params.file: ${params.file.path}`);
+        console.log(`Using file/folder from params: ${params.file.path}`);
         return params.file;
-    } 
-    
-    if (params.filepath) {
-        target = app.vault.getAbstractFileByPath(params.filepath);
-        if (target) {
-            console.log(`Using file from filepath: ${target.path}`);
-            return target;
-        }
     }
     
-    // 2. Try to get selected item from file explorer (like Linter does)
-    try {
-        const fileExplorer = app.workspace.getLeavesOfType("file-explorer")[0]?.view;
+    // Try to get file from context menu or file explorer
+    const activeLeaf = app.workspace.activeLeaf;
+    
+    // First, check if there's a file explorer view
+    const fileExplorers = app.workspace.getLeavesOfType('file-explorer');
+    
+    if (fileExplorers.length > 0) {
+        const fileExplorer = fileExplorers[0].view;
         
-        if (fileExplorer) {
-            // Try DOM-based approach first (from Linter)
-            const selectedEl = fileExplorer.containerEl.querySelector(
-                '.nav-folder.is-active, .nav-folder.mod-active, .nav-file.is-active, .nav-file.mod-active'
-            );
-            
-            if (selectedEl) {
-                const filePath = selectedEl.getAttribute('data-path');
-                if (filePath) {
-                    target = app.vault.getAbstractFileByPath(filePath);
-                    if (target) {
-                        console.log(`Using selection from DOM: ${target.path}`);
-                        return target;
-                    }
-                }
+        // Try all possible selection mechanisms
+        const selectedFile = getSelectedFileFromExplorer(fileExplorer, app);
+        
+        if (selectedFile) {
+            console.log(`Using selection from file explorer: ${selectedFile.path}`);
+            return selectedFile;
+        } else {
+            console.log("No selection found in file explorer");
+        }
+    }
+    
+    // Fall back to active file
+    const activeFile = app.workspace.getActiveFile();
+    if (activeFile) {
+        console.log(`Using active file: ${activeFile.path}`);
+        return activeFile;
+    }
+    
+    return null;
+}
+
+/**
+ * Get selected file using various methods from file explorer
+ */
+function getSelectedFileFromExplorer(fileExplorer, app) {
+    try {
+        // Method 1: Try using the API method if available
+        if (typeof fileExplorer.getSelectedFile === 'function') {
+            const file = fileExplorer.getSelectedFile();
+            if (file) {
+                console.log("Found file via getSelectedFile API");
+                return file;
             }
-            
-            // Then try API approach
-            if (typeof fileExplorer.getSelectedFile === 'function') {
-                target = fileExplorer.getSelectedFile();
-                if (target) {
-                    console.log(`Using selection from file explorer API: ${target.path}`);
-                    return target;
+        }
+        
+        // Method 2: Try DOM-based approach
+        console.log("Looking for selected elements in DOM");
+        
+        // Look for file elements first
+        const selectedFileEls = fileExplorer.containerEl.querySelectorAll('.nav-file.is-active, .nav-file.mod-active');
+        console.log(`Found ${selectedFileEls.length} selected file elements`);
+        
+        if (selectedFileEls.length > 0) {
+            const selectedEl = selectedFileEls[0];
+            const path = selectedEl.getAttribute('data-path');
+            if (path) {
+                const file = app.vault.getAbstractFileByPath(path);
+                if (file) {
+                    console.log(`Found file via DOM: ${file.path}`);
+                    return file;
                 }
             }
         }
+        
+        // Look for folder elements next
+        const selectedFolderEls = fileExplorer.containerEl.querySelectorAll('.nav-folder.is-active, .nav-folder.mod-active');
+        console.log(`Found ${selectedFolderEls.length} selected folder elements`);
+        
+        if (selectedFolderEls.length > 0) {
+            const selectedEl = selectedFolderEls[0];
+            const path = selectedEl.getAttribute('data-path');
+            if (path) {
+                const folder = app.vault.getAbstractFileByPath(path);
+                if (folder) {
+                    console.log(`Found folder via DOM: ${folder.path}`);
+                    return folder;
+                }
+            }
+        }
+        
+        // Method 3: Try file items if available
+        if (fileExplorer.fileItems) {
+            const selectedFiles = Object.values(fileExplorer.fileItems)
+                .filter(item => item.file && item.selected)
+                .map(item => item.file);
+            
+            if (selectedFiles && selectedFiles.length > 0) {
+                console.log(`Found ${selectedFiles.length} files via fileItems`);
+                return selectedFiles[0];
+            }
+        }
+        
     } catch (e) {
-        console.warn("Error getting selection from file explorer:", e);
-    }
-    
-    // 3. Fall back to active file
-    target = app.workspace.getActiveFile();
-    if (target) {
-        console.log(`Using active file: ${target.path}`);
-        return target;
+        console.error("Error while getting selected file:", e);
     }
     
     return null;
@@ -103,79 +148,84 @@ async function getTargetFromMultipleSources(app, params) {
 
 /**
  * Process a folder and all markdown files within it
- * Using the path comparison approach from Linter
  */
 async function processFolder(app, folder) {
-    console.log(`Processing folder: ${folder.path}`);
-    new Notice(`Processing folder: ${folder.name}`);
-    
-    // Get all markdown files from vault
-    const allFiles = app.vault.getMarkdownFiles();
-    const folderPath = normalizeFilePath(folder.path);
-    
-    // Filter for files in this folder (including subfolders)
-    // Using Linter's approach of comparing normalized paths
-    const filesInFolder = allFiles.filter(file => {
-        const normalizedFilePath = normalizeFilePath(file.path);
-        return normalizedFilePath.startsWith(folderPath + '|') || 
-               (normalizedFilePath === folderPath + '.md');
-    });
-    
-    console.log(`Found ${filesInFolder.length} markdown files in folder ${folder.path}`);
-    
-    if (filesInFolder.length === 0) {
-        console.log("No markdown files found in folder");
-        new Notice("No markdown files found in folder");
-        return false;
-    }
-    
-    // Process each file
-    let processed = 0;
-    let permalinksAdded = 0;
-    let sourcesExtracted = 0;
-    let renamed = 0;
-    let skipped = 0;
-    
-    for (const file of filesInFolder) {
-        try {
-            console.log(`Processing file in folder: ${file.path}`);
-            const result = await processFile(app, file, false); // Don't show individual notifications
-            
-            if (result.processed) {
-                processed++;
+    try {
+        console.log(`Processing folder: ${folder.path}`);
+        new Notice(`Processing folder: ${folder.name}`);
+        
+        // Get all markdown files from vault
+        const allFiles = app.vault.getMarkdownFiles();
+        const folderPath = normalizeFilePath(folder.path);
+        
+        // Filter for files in this folder (including subfolders)
+        const filesInFolder = allFiles.filter(file => {
+            const normalizedFilePath = normalizeFilePath(file.path);
+            return normalizedFilePath.startsWith(folderPath + '|') || 
+                  (normalizedFilePath === folderPath + '.md');
+        });
+        
+        console.log(`Found ${filesInFolder.length} markdown files in folder ${folder.path}`);
+        
+        if (filesInFolder.length === 0) {
+            console.log("No markdown files found in folder");
+            new Notice("No markdown files found in folder");
+            return false;
+        }
+        
+        // Process each file
+        let processed = 0;
+        let permalinksAdded = 0;
+        let sourcesExtracted = 0;
+        let renamed = 0;
+        let skipped = 0;
+        
+        for (const file of filesInFolder) {
+            try {
+                console.log(`Processing file in folder: ${file.path}`);
+                const result = await processFile(app, file, false); // Don't show individual notifications
                 
-                if (result.permalinkAdded) {
-                    permalinksAdded++;
+                if (result.processed) {
+                    processed++;
+                    
+                    if (result.permalinkAdded) {
+                        permalinksAdded++;
+                    }
+                    
+                    if (result.sourceExtracted) {
+                        sourcesExtracted++;
+                    }
+                    
+                    if (result.renamed) {
+                        renamed++;
+                    }
+                } else {
+                    skipped++;
                 }
                 
-                if (result.sourceExtracted) {
-                    sourcesExtracted++;
-                }
+                // Small delay to prevent UI freezing
+                await new Promise(resolve => setTimeout(resolve, 30));
                 
-                if (result.renamed) {
-                    renamed++;
-                }
-            } else {
+            } catch (error) {
+                console.error(`Error processing file ${file.path}:`, error);
                 skipped++;
             }
-            
-            // Small delay to prevent UI freezing
-            await new Promise(resolve => setTimeout(resolve, 30));
-            
-        } catch (error) {
-            console.error(`Error processing file ${file.path}:`, error);
-            skipped++;
         }
+        
+        console.log(`Processed ${processed} files, added ${permalinksAdded} permalinks, extracted ${sourcesExtracted} sources, renamed ${renamed} files, skipped ${skipped} in folder ${folder.path}`);
+        new Notice(`Processed ${processed} files, renamed ${renamed} in ${folder.name}`);
+        
+        return true;
+        
+    } catch (error) {
+        console.error(`Error processing folder ${folder.path}:`, error);
+        new Notice(`Error processing folder: ${error.message}`);
+        return false;
     }
-    
-    console.log(`Processed ${processed} files, added ${permalinksAdded} permalinks, extracted ${sourcesExtracted} sources, renamed ${renamed} files, skipped ${skipped} in folder ${folder.path}`);
-    new Notice(`Processed ${processed} files, renamed ${renamed} in ${folder.name}`);
-    
-    return true;
 }
 
 /**
- * Process a single file
+ * Process a single file (works for non-active files)
  */
 async function processFile(app, file, showNotifications = true) {
     try {
@@ -192,12 +242,16 @@ async function processFile(app, file, showNotifications = true) {
         // 2. Extract source if needed
         sourceExtracted = await extractSourceFromFile(app, file);
         
-        // 3. Rename file if needed
+        // 3. Rename file based on permalink (if different from current name)
         renamed = await renameFileFromPermalink(app, file);
         
         // Show notification for individual file processing
         if (showNotifications && (permalinkAdded || sourceExtracted || renamed)) {
-            new Notice(`Processed: ${file.basename}`);
+            if (renamed) {
+                new Notice(`Processed and renamed: ${file.basename}`);
+            } else {
+                new Notice(`Processed: ${file.basename}`);
+            }
         }
         
         return { 
@@ -223,7 +277,6 @@ async function processFile(app, file, showNotifications = true) {
 
 /**
  * Trims and formats a title for use as a permalink
- * Exact implementation from addPermalink.backup.js
  */
 function trimTitle(title) {
     if (!title) return '';
@@ -256,7 +309,7 @@ function trimTitle(title) {
 }
 
 /**
- * Add permalink to frontmatter
+ * Add permalink to frontmatter (works with non-active files)
  */
 async function addPermalinkToFile(app, file) {
     try {
@@ -300,7 +353,7 @@ async function extractSourceFromFile(app, file) {
             return false;
         }
 
-        // Read file content
+        // Read file content (works for non-active files)
         const content = await app.vault.read(file);
         
         // Match Source: pattern (case insensitive)
@@ -341,19 +394,14 @@ async function extractSourceFromFile(app, file) {
 
 /**
  * Rename file based on permalink in frontmatter
- * Preserves backlinks by adding previous filename as alias
+ * Preserves backlinks by adding the original filename as an alias
  */
 async function renameFileFromPermalink(app, file) {
     try {
         // Get the frontmatter
         const cache = app.metadataCache.getFileCache(file)?.frontmatter;
         
-        // Skip if auto_rename is not enabled or no permalink exists
-        if (cache?.auto_rename !== true && cache?.auto_rename !== "true") {
-            console.log(`Skipping rename for ${file.basename}: auto_rename not enabled`);
-            return false;
-        }
-        
+        // Skip if no permalink exists
         if (!cache?.permalink) {
             console.log(`Skipping rename for ${file.basename}: no permalink found`);
             return false;
@@ -366,7 +414,7 @@ async function renameFileFromPermalink(app, file) {
         
         // Skip if file already has the correct name
         if (file.path === newPath) {
-            console.log(`Skipping rename for ${file.basename}: already has correct name`);
+            console.log(`Skipping rename for ${file.basename}: already has correct name (${permalink}.md)`);
             return false;
         }
 
@@ -410,25 +458,20 @@ async function renameFileFromPermalink(app, file) {
             }
         });
         
-        try {
-            // Rename the file
-            await app.fileManager.renameFile(file, newPath);
-            console.log(`Successfully renamed file to: ${newPath}`);
-            return true;
-        } catch (renameError) {
-            console.error(`Error renaming file ${file.path}:`, renameError);
-            new Notice(`Error renaming file: ${renameError.message}`);
-            return false;
-        }
+        // Rename the file
+        await app.fileManager.renameFile(file, newPath);
+        console.log(`Successfully renamed file to: ${permalink}.md`);
+        return true;
 
     } catch (error) {
         console.error(`Error in rename process for ${file.basename}:`, error);
+        new Notice(`Error renaming ${file.basename}: ${error.message}`);
         return false;
     }
 }
 
 /**
- * Normalize file path for comparison (like Linter does)
+ * Normalize file path for comparison
  */
 function normalizeFilePath(path) {
     return path.replace(/\\/g, '|').replace(/\//g, '|');

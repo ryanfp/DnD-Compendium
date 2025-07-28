@@ -2664,6 +2664,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "tradition-of-the-voidwatcher",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-voidwatcher.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"tradition-of-the-voidwatcher\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "tradition-of-the-hedge-mage",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-hedge-mage.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"tradition-of-the-hedge-mage\"}",
@@ -2914,7 +2920,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/Tradition of the Voidwatcher.md",
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -2929,7 +2935,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tradition of the Voidwatcher"
+              "title": "tradition-of-the-witch"
             }
           }
         ],
@@ -3357,10 +3363,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/Tradition of the Voidwatcher.md"
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Tradition of the Voidwatcher"
+              "title": "File properties for tradition-of-the-witch"
             }
           }
         ],
@@ -3407,8 +3413,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "fcaa59025a7544d2",
+  "active": "a5ec94890ee5953b",
   "lastOpenFiles": [
+    "z_Scripts/Unconfirmed 380459.crdownload",
+    "z_Scripts/Unconfirmed 148834.crdownload",
+    "z_Scripts/Unconfirmed 93346.crdownload",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-voidwatcher.md",
+    "z_Scripts/Unconfirmed 932853.crdownload",
     "z_Scripts/Unconfirmed 705717.crdownload",
     "z_Scripts/Unconfirmed 227845.crdownload",
     "z_Scripts/Unconfirmed 647001.crdownload",
@@ -3419,10 +3430,6 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md",
     "z_Scripts/Unconfirmed 30028.crdownload",
     "z_Scripts/Unconfirmed 514344.crdownload",
-    "z_Scripts/Unconfirmed 862511.crdownload",
-    "z_Scripts/Unconfirmed 20998.crdownload",
-    "z_Scripts/Unconfirmed 213608.crdownload",
-    "z_Scripts/processFolder.js",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Aberrant Mind.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Clockwork Soul.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md",
@@ -3444,7 +3451,6 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/illrigger/hellspeaker.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/Alchemist.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md",
     "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg",
     "z_img/Pause-Circle-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg",
     "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
