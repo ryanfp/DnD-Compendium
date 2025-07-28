@@ -22,18 +22,25 @@
       "macroId": "f3830bba-7228-40e7-a9d4-afb0bd052ebf"
     },
     {
-      "id": "31e4aec8-f158-4655-b7a8-199a6bbe178c",
-      "name": "File Processing",
-      "type": "Macro",
-      "command": true,
-      "macroId": "61cb8f00-16ad-4867-a4e3-9342ab9a0bd9"
-    },
-    {
       "id": "1002e97e-2fce-4684-a401-a446dc083072",
       "name": "Process Files",
       "type": "Macro",
       "command": true,
       "macroId": "e187ae00-21fb-47eb-bee8-920819e07232"
+    },
+    {
+      "id": "b0c7c61a-6e09-4c4f-b3b3-bfed50a5582c",
+      "name": "Process File",
+      "type": "Macro",
+      "command": true,
+      "macroId": "3612e4e7-cd5c-4292-ad2f-67ec2d59495f"
+    },
+    {
+      "id": "1a164220-3b67-438b-8d0a-88fd05ce82e2",
+      "name": "Process Folder",
+      "type": "Macro",
+      "command": true,
+      "macroId": "454bef03-394e-4a34-bea2-dc0adaf3753f"
     }
   ],
   "macros": [
@@ -130,20 +137,6 @@
       "runOnStartup": false
     },
     {
-      "name": "File Processing",
-      "id": "61cb8f00-16ad-4867-a4e3-9342ab9a0bd9",
-      "commands": [
-        {
-          "name": "processFilesTemplater",
-          "type": "UserScript",
-          "id": "bbb9b481-5361-43ed-a463-a8c95a0f95aa",
-          "path": "z_Scripts/processFilesTemplater.js",
-          "settings": {}
-        }
-      ],
-      "runOnStartup": false
-    },
-    {
       "name": "PROCESS",
       "id": "e187ae00-21fb-47eb-bee8-920819e07232",
       "commands": [
@@ -160,6 +153,34 @@
       "name": "Process Files",
       "id": "d4a18734-c495-4d10-a14e-552f12953a80",
       "commands": [],
+      "runOnStartup": false
+    },
+    {
+      "name": "Single File",
+      "id": "3612e4e7-cd5c-4292-ad2f-67ec2d59495f",
+      "commands": [
+        {
+          "name": "processSingleFile",
+          "type": "UserScript",
+          "id": "f8969023-f342-47cb-8f50-4c75f1345152",
+          "path": "z_Scripts/processSingleFile.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Folder",
+      "id": "454bef03-394e-4a34-bea2-dc0adaf3753f",
+      "commands": [
+        {
+          "name": "processFolder",
+          "type": "UserScript",
+          "id": "7cf763aa-bcb3-4e4d-af17-361d161debf1",
+          "path": "z_Scripts/processFolder.js",
+          "settings": {}
+        }
+      ],
       "runOnStartup": false
     }
   ],

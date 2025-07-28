@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/occultist/oracle]
-aliases:
-  - Tradition of the Oracle
+aliases: 
 created: 2025/06/13 at 22:29
 updated: 2025/07/24 at 01:15
 title: Tradition of the Oracle
+permalink: 2025-07-28-tradition-of-the-oracle
+source: Kibbles' Compendium of Legends and Legacies p. 24*
 ---
 
 # Tradition of the Oracle

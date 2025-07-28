@@ -43,12 +43,6 @@
       "mode": "any"
     },
     {
-      "id": "file-title-updater:sync-titles-default",
-      "icon": "lucide-arrow-down-circle",
-      "name": "File Title Updater: Sync titles using default source",
-      "mode": "any"
-    },
-    {
       "id": "file-explorer:open",
       "icon": "lucide-files",
       "name": "Files: Show file explorer",
@@ -62,28 +56,18 @@
       "color": "#d40c0c"
     },
     {
-      "id": "quickadd:choice:1002e97e-2fce-4684-a401-a446dc083072",
-      "icon": "lucide-antenna",
-      "name": "Add Metadata to File/Folder - QuickAdd",
-      "mode": "any"
+      "id": "quickadd:choice:b0c7c61a-6e09-4c4f-b3b3-bfed50a5582c",
+      "icon": "lucide-file",
+      "name": "QuickAdd: Process File",
+      "mode": "any",
+      "color": "#0af5ba"
     },
     {
-      "id": "quickadd:choice:1002e97e-2fce-4684-a401-a446dc083072",
-      "icon": "lucide-a-arrow-down",
-      "name": "QuickAdd: Process Files",
-      "mode": "any"
-    },
-    {
-      "id": "quickadd:choice:1002e97e-2fce-4684-a401-a446dc083072",
-      "icon": "lucide-a-large-small",
-      "name": "QuickAdd: Process Files",
-      "mode": "any"
-    },
-    {
-      "id": "quickadd:choice:31e4aec8-f158-4655-b7a8-199a6bbe178c",
-      "icon": "lucide-alert-triangle",
-      "name": "QuickAdd: File Processing",
-      "mode": "any"
+      "id": "quickadd:choice:1a164220-3b67-438b-8d0a-88fd05ce82e2",
+      "icon": "lucide-folder-cog",
+      "name": "QuickAdd: Process Folder",
+      "mode": "any",
+      "color": "#17e88d"
     }
   ],
   "leftRibbon": [],

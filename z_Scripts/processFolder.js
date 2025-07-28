@@ -1,165 +1,150 @@
 /**
- * QuickAdd integration for file processing
- * - Works with files/folders from context menu
- * - Based on Obsidian Linter's folder processing approach
+ * Process all markdown files in a folder:
+ * - Add permalink based on filename
+ * - Rename file based on permalink (preserving backlinks)
+ * - Extract source from content
+ *
+ * Using Linter's approach for folder selection and file processing
+ * Updated: 2025-07-28
  */
 module.exports = async function(params) {
     const { app } = params;
     
     try {
-        // Get the target file or folder from multiple sources
-        let target = await getTargetFromMultipleSources(app, params);
+        // Get the selected folder using Linter's approach
+        const folder = await getTargetFolder(app, params);
         
-        if (!target) {
-            console.error("No file or folder found to process");
-            new Notice("No file or folder found to process");
+        if (!folder) {
+            console.error("No folder selected");
+            new Notice("No folder selected. Please select a folder in the file explorer.");
             return false;
         }
         
-        console.log(`Selected target: ${target.path}`);
+        console.log(`Processing folder: ${folder.path}`);
+        new Notice(`Processing folder: ${folder.name}`);
         
-        // Process based on whether it's a file or folder
-        const isFolder = target.children !== undefined;
+        // Get all markdown files using Linter's approach
+        const allFiles = app.vault.getMarkdownFiles();
+        const folderPath = normalizeFilePath(folder.path);
         
-        if (isFolder) {
-            return await processFolder(app, target);
-        } else {
-            return await processFile(app, target);
+        // Filter for files in this folder (including subfolders)
+        // Using Linter's approach of comparing normalized paths
+        const filesInFolder = allFiles.filter(file => 
+            normalizeFilePath(file.path).startsWith(folderPath + '|') || 
+            normalizeFilePath(file.path) === folderPath
+        );
+        
+        if (filesInFolder.length === 0) {
+            console.log("No markdown files found in folder");
+            new Notice("No markdown files found in folder");
+            return false;
         }
         
+        // Process each file
+        let processed = 0;
+        let skipped = 0;
+        let errors = 0;
+        
+        for (const file of filesInFolder) {
+            try {
+                const result = await processFile(app, file, false); // Don't show individual notifications
+                
+                if (result) {
+                    processed++;
+                } else {
+                    skipped++;
+                }
+                
+                // Small delay to prevent UI freezing
+                await new Promise(resolve => setTimeout(resolve, 30));
+                
+            } catch (error) {
+                console.error(`Error processing file ${file.path}:`, error);
+                errors++;
+                // Continue with next file
+            }
+        }
+        
+        console.log(`Processed ${processed} files, skipped ${skipped}, errors: ${errors} in folder ${folder.path}`);
+        new Notice(`Processed ${processed} files, skipped ${skipped}${errors ? `, errors: ${errors}` : ''} in ${folder.name}`);
+        
+        return true;
+        
     } catch (error) {
-        console.error("Error in QuickAdd script:", error);
+        console.error("Error processing folder:", error);
         new Notice(`Error: ${error.message}`);
         return false;
     }
 };
 
 /**
- * Try multiple methods to get the selected file or folder
- * Based on Linter's approach
+ * Get the target folder using multiple methods
  */
-async function getTargetFromMultipleSources(app, params) {
-    let target = null;
+async function getTargetFolder(app, params) {
+    let folder = null;
     
-    // 1. Try QuickAdd's params.file or params.filepath (highest priority)
-    if (params.file) {
-        console.log(`Using file from params.file: ${params.file.path}`);
+    // 1. Try QuickAdd's params.file (highest priority)
+    if (params.file && params.file.children) {
+        console.log(`Using folder from params.file: ${params.file.path}`);
         return params.file;
-    } 
+    }
     
+    // 2. Try from filepath parameter
     if (params.filepath) {
-        target = app.vault.getAbstractFileByPath(params.filepath);
-        if (target) {
-            console.log(`Using file from filepath: ${target.path}`);
-            return target;
+        folder = app.vault.getAbstractFileByPath(params.filepath);
+        if (folder && folder.children) {
+            console.log(`Using folder from filepath: ${folder.path}`);
+            return folder;
         }
     }
     
-    // 2. Try to get selected item from file explorer (like Linter does)
+    // 3. Try to get selected folder from file explorer (like Linter does)
     try {
         const fileExplorer = app.workspace.getLeavesOfType("file-explorer")[0]?.view;
         
         if (fileExplorer) {
             // Different versions of Obsidian use different methods
             if (typeof fileExplorer.getSelectedFile === 'function') {
-                target = fileExplorer.getSelectedFile();
-                if (target) {
-                    console.log(`Using selection from file explorer API: ${target.path}`);
-                    return target;
+                folder = fileExplorer.getSelectedFile();
+                if (folder && folder.children) {
+                    console.log(`Using selection from file explorer API: ${folder.path}`);
+                    return folder;
                 }
             }
             
             // Try DOM-based approach (as seen in Linter)
             const selectedEl = fileExplorer.containerEl.querySelector(
-                '.nav-folder.is-active, .nav-folder.mod-active, .nav-file.is-active, .nav-file.mod-active'
+                '.nav-folder.is-active, .nav-folder.mod-active'
             );
             
             if (selectedEl) {
-                const filePath = selectedEl.getAttribute('data-path');
-                if (filePath) {
-                    target = app.vault.getAbstractFileByPath(filePath);
-                    if (target) {
-                        console.log(`Using selection from DOM: ${target.path}`);
-                        return target;
+                const folderPath = selectedEl.getAttribute('data-path');
+                if (folderPath) {
+                    folder = app.vault.getAbstractFileByPath(folderPath);
+                    if (folder && folder.children) {
+                        console.log(`Using folder from DOM selection: ${folder.path}`);
+                        return folder;
                     }
                 }
             }
         }
     } catch (e) {
-        console.warn("Error getting selection from file explorer:", e);
+        console.warn("Error getting folder from explorer:", e);
     }
     
-    // 3. Fall back to active file
-    target = app.workspace.getActiveFile();
-    if (target) {
-        console.log(`Using active file: ${target.path}`);
-        return target;
+    // 4. Last resort: use active file's parent folder
+    try {
+        const activeFile = app.workspace.getActiveFile();
+        if (activeFile && activeFile.parent) {
+            folder = activeFile.parent;
+            console.log(`Using active file's parent folder: ${folder.path}`);
+            return folder;
+        }
+    } catch (e) {
+        console.warn("Error getting active file's parent folder:", e);
     }
     
     return null;
-}
-
-/**
- * Process a folder and all markdown files within it
- * Using the path comparison approach from Linter
- */
-async function processFolder(app, folder) {
-    console.log(`Processing folder: ${folder.path}`);
-    new Notice(`Processing folder: ${folder.name}`);
-    
-    // Get all markdown files from vault
-    const allFiles = app.vault.getMarkdownFiles();
-    const folderPath = normalizeFilePath(folder.path);
-    
-    // Filter for files in this folder (including subfolders)
-    // Using Linter's approach of comparing normalized paths
-    const filesInFolder = allFiles.filter(file => 
-        normalizeFilePath(file.path).startsWith(folderPath + '|') || 
-        normalizeFilePath(file.path) === folderPath
-    );
-    
-    if (filesInFolder.length === 0) {
-        console.log("No markdown files found in folder");
-        new Notice("No markdown files found in folder");
-        return false;
-    }
-    
-    // Process each file
-    let processed = 0;
-    let skipped = 0;
-    let errors = 0;
-    const processedFiles = new Set();
-    
-    for (const file of filesInFolder) {
-        try {
-            if (processedFiles.has(file.path)) {
-                console.log(`File ${file.path} already processed, skipping`);
-                skipped++;
-                continue;
-            }
-            
-            processedFiles.add(file.path);
-            const success = await processFile(app, file, false); // Don't show individual notifications
-            
-            if (success) {
-                processed++;
-            } else {
-                skipped++;
-            }
-            
-            // Small delay to prevent UI freezing
-            await new Promise(resolve => setTimeout(resolve, 30));
-            
-        } catch (error) {
-            console.error(`Error processing file ${file.path}:`, error);
-            errors++;
-        }
-    }
-    
-    console.log(`Processed ${processed} files, skipped ${skipped}, errors: ${errors} in folder ${folder.path}`);
-    new Notice(`Processed ${processed} files, skipped ${skipped}${errors ? `, errors: ${errors}` : ''} in ${folder.name}`);
-    
-    return true;
 }
 
 /**
@@ -167,8 +152,6 @@ async function processFolder(app, folder) {
  */
 async function processFile(app, file, showNotifications = true) {
     try {
-        console.log(`Processing file: ${file.path}`);
-        
         // 1. Read file content
         const content = await app.vault.read(file);
         
@@ -288,7 +271,7 @@ async function processFile(app, file, showNotifications = true) {
         if (showNotifications) {
             new Notice(`Error processing ${file.basename}: ${error.message}`);
         }
-        return false;
+        throw error; // Re-throw to be handled by the caller
     }
 }
 
@@ -338,7 +321,6 @@ function generateFileContent(frontmatter, contentWithoutFrontmatter) {
 
 /**
  * Normalize file path for comparison (like Linter does)
- * Replaces path separators with a common character
  */
 function normalizeFilePath(path) {
     return path.replace(/\\/g, '|').replace(/\//g, '|');
