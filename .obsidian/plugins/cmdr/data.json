@@ -68,6 +68,12 @@
       "name": "QuickAdd: Process Folder",
       "mode": "any",
       "color": "#17e88d"
+    },
+    {
+      "id": "quickadd:choice:1002e97e-2fce-4684-a401-a446dc083072",
+      "icon": "lucide-alarm-clock",
+      "name": "QuickAdd: Process Files - Consolidated Scripts",
+      "mode": "any"
     }
   ],
   "leftRibbon": [],

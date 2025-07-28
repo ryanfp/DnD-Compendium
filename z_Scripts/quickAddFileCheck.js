@@ -1,7 +1,9 @@
 /**
  * QuickAdd integration for file processing
  * - Works with files/folders from context menu
- * - Based on Obsidian Linter's folder processing approach
+ * - Adds permalinks (without dates)
+ * - Extracts sources
+ * - Renames files preserving backlinks
  */
 module.exports = async function(params) {
     const { app } = params;
@@ -60,16 +62,7 @@ async function getTargetFromMultipleSources(app, params) {
         const fileExplorer = app.workspace.getLeavesOfType("file-explorer")[0]?.view;
         
         if (fileExplorer) {
-            // Different versions of Obsidian use different methods
-            if (typeof fileExplorer.getSelectedFile === 'function') {
-                target = fileExplorer.getSelectedFile();
-                if (target) {
-                    console.log(`Using selection from file explorer API: ${target.path}`);
-                    return target;
-                }
-            }
-            
-            // Try DOM-based approach (as seen in Linter)
+            // Try DOM-based approach first (from Linter)
             const selectedEl = fileExplorer.containerEl.querySelector(
                 '.nav-folder.is-active, .nav-folder.mod-active, .nav-file.is-active, .nav-file.mod-active'
             );
@@ -82,6 +75,15 @@ async function getTargetFromMultipleSources(app, params) {
                         console.log(`Using selection from DOM: ${target.path}`);
                         return target;
                     }
+                }
+            }
+            
+            // Then try API approach
+            if (typeof fileExplorer.getSelectedFile === 'function') {
+                target = fileExplorer.getSelectedFile();
+                if (target) {
+                    console.log(`Using selection from file explorer API: ${target.path}`);
+                    return target;
                 }
             }
         }
@@ -113,10 +115,13 @@ async function processFolder(app, folder) {
     
     // Filter for files in this folder (including subfolders)
     // Using Linter's approach of comparing normalized paths
-    const filesInFolder = allFiles.filter(file => 
-        normalizeFilePath(file.path).startsWith(folderPath + '|') || 
-        normalizeFilePath(file.path) === folderPath
-    );
+    const filesInFolder = allFiles.filter(file => {
+        const normalizedFilePath = normalizeFilePath(file.path);
+        return normalizedFilePath.startsWith(folderPath + '|') || 
+               (normalizedFilePath === folderPath + '.md');
+    });
+    
+    console.log(`Found ${filesInFolder.length} markdown files in folder ${folder.path}`);
     
     if (filesInFolder.length === 0) {
         console.log("No markdown files found in folder");
@@ -126,23 +131,30 @@ async function processFolder(app, folder) {
     
     // Process each file
     let processed = 0;
+    let permalinksAdded = 0;
+    let sourcesExtracted = 0;
+    let renamed = 0;
     let skipped = 0;
-    let errors = 0;
-    const processedFiles = new Set();
     
     for (const file of filesInFolder) {
         try {
-            if (processedFiles.has(file.path)) {
-                console.log(`File ${file.path} already processed, skipping`);
-                skipped++;
-                continue;
-            }
+            console.log(`Processing file in folder: ${file.path}`);
+            const result = await processFile(app, file, false); // Don't show individual notifications
             
-            processedFiles.add(file.path);
-            const success = await processFile(app, file, false); // Don't show individual notifications
-            
-            if (success) {
+            if (result.processed) {
                 processed++;
+                
+                if (result.permalinkAdded) {
+                    permalinksAdded++;
+                }
+                
+                if (result.sourceExtracted) {
+                    sourcesExtracted++;
+                }
+                
+                if (result.renamed) {
+                    renamed++;
+                }
             } else {
                 skipped++;
             }
@@ -152,12 +164,12 @@ async function processFolder(app, folder) {
             
         } catch (error) {
             console.error(`Error processing file ${file.path}:`, error);
-            errors++;
+            skipped++;
         }
     }
     
-    console.log(`Processed ${processed} files, skipped ${skipped}, errors: ${errors} in folder ${folder.path}`);
-    new Notice(`Processed ${processed} files, skipped ${skipped}${errors ? `, errors: ${errors}` : ''} in ${folder.name}`);
+    console.log(`Processed ${processed} files, added ${permalinksAdded} permalinks, extracted ${sourcesExtracted} sources, renamed ${renamed} files, skipped ${skipped} in folder ${folder.path}`);
+    new Notice(`Processed ${processed} files, renamed ${renamed} in ${folder.name}`);
     
     return true;
 }
@@ -169,176 +181,254 @@ async function processFile(app, file, showNotifications = true) {
     try {
         console.log(`Processing file: ${file.path}`);
         
-        // 1. Read file content
-        const content = await app.vault.read(file);
-        
-        // 2. Parse frontmatter
-        const { frontmatter, contentWithoutFrontmatter } = parseFrontmatter(content);
-        
-        // 3. Track if anything was modified
-        let frontmatterModified = false;
-        
-        // 4. Add permalink if needed
-        if (!frontmatter.permalink) {
-            // Generate permalink from filename
-            const currentDate = new Date().toISOString().split('T')[0];
-            let nameBase = file.basename.toLowerCase()
-                .replace(/[^\w\s-]/g, '')   // Remove invalid chars
-                .replace(/\s+/g, '-')       // Replace spaces with hyphens
-                .replace(/--+/g, '-')       // Replace multiple hyphens with single
-                .replace(/^-+|-+$/g, '');   // Trim hyphens from both ends
-            
-            // Create permalink
-            const permalink = `${currentDate}-${nameBase}`;
-            frontmatter.permalink = permalink;
-            frontmatterModified = true;
-            console.log(`Added permalink: ${permalink}`);
-        }
-        
-        // 5. Extract source if needed
-        if (!frontmatter.source) {
-            // Look for source pattern in content
-            const sourcePattern = /\b(?:Source|source)[;:]\s*([^(][^\n]+?)(?:\s*\((?:p|pp)\.?\s*\d+(?:-\d+)?\))?$/m;
-            const match = contentWithoutFrontmatter.match(sourcePattern);
-            
-            if (match && match[1]) {
-                const source = match[1].trim();
-                frontmatter.source = source;
-                frontmatterModified = true;
-                console.log(`Extracted source: ${source}`);
-            }
-        }
-        
-        // 6. Update file if frontmatter was modified
-        if (frontmatterModified) {
-            // Generate new frontmatter
-            const newContent = generateFileContent(frontmatter, contentWithoutFrontmatter);
-            await app.vault.modify(file, newContent);
-            console.log("Updated frontmatter");
-        }
-        
-        // 7. Rename file if auto_rename is enabled
+        // Track changes
+        let permalinkAdded = false;
+        let sourceExtracted = false;
         let renamed = false;
-        if (frontmatter.auto_rename === "true" || frontmatter.auto_rename === true) {
-            const permalink = frontmatter.permalink;
-            
-            if (permalink) {
-                const newFileName = permalink + ".md";
-                const folderPath = file.path.substring(0, file.path.lastIndexOf("/"));
-                const newPath = folderPath ? `${folderPath}/${newFileName}` : newFileName;
-                
-                // Skip if file already has correct name
-                if (file.path !== newPath) {
-                    // Handle aliases to preserve backlinks
-                    let aliases = [];
-                    let aliasesModified = false;
-                    
-                    if (frontmatter.aliases) {
-                        // Parse aliases
-                        const aliasesStr = frontmatter.aliases.toString().trim();
-                        
-                        if (aliasesStr.startsWith("[") && aliasesStr.endsWith("]")) {
-                            // Parse YAML array format
-                            aliases = aliasesStr
-                                .slice(1, -1)
-                                .split(",")
-                                .map(a => a.trim().replace(/^["']|["']$/g, '')); // Remove quotes if present
-                        } else {
-                            // Single value
-                            aliases = [aliasesStr.replace(/^["']|["']$/g, '')]; // Remove quotes if present
-                        }
-                    }
-                    
-                    // Add current filename as alias if it's not already there
-                    if (!aliases.includes(file.basename)) {
-                        aliases.push(file.basename);
-                        aliasesModified = true;
-                    }
-                    
-                    // Update aliases in frontmatter if modified
-                    if (aliasesModified) {
-                        frontmatter.aliases = aliases.length === 1 
-                            ? aliases[0] 
-                            : "[" + aliases.join(", ") + "]";
-                        
-                        // Update file with new frontmatter before renaming
-                        const newContent = generateFileContent(frontmatter, contentWithoutFrontmatter);
-                        await app.vault.modify(file, newContent);
-                    }
-                    
-                    // Rename the file
-                    await app.fileManager.renameFile(file, newPath);
-                    console.log(`Renamed file to: ${newPath}`);
-                    if (showNotifications) {
-                        new Notice(`Renamed to: ${newFileName}`);
-                    }
-                    renamed = true;
-                }
-            }
-        }
         
-        if ((frontmatterModified || renamed) && showNotifications) {
+        // 1. Add permalink if needed
+        permalinkAdded = await addPermalinkToFile(app, file);
+        
+        // 2. Extract source if needed
+        sourceExtracted = await extractSourceFromFile(app, file);
+        
+        // 3. Rename file if needed
+        renamed = await renameFileFromPermalink(app, file);
+        
+        // Show notification for individual file processing
+        if (showNotifications && (permalinkAdded || sourceExtracted || renamed)) {
             new Notice(`Processed: ${file.basename}`);
         }
         
-        return frontmatterModified || renamed;
+        return { 
+            processed: permalinkAdded || sourceExtracted || renamed,
+            permalinkAdded,
+            sourceExtracted,
+            renamed
+        };
         
     } catch (error) {
         console.error(`Error processing file ${file.path}:`, error);
         if (showNotifications) {
             new Notice(`Error processing ${file.basename}: ${error.message}`);
         }
+        return {
+            processed: false,
+            permalinkAdded: false,
+            sourceExtracted: false,
+            renamed: false
+        };
+    }
+}
+
+/**
+ * Trims and formats a title for use as a permalink
+ * Exact implementation from addPermalink.backup.js
+ */
+function trimTitle(title) {
+    if (!title) return '';
+
+    // Clean up the title
+    let cleanTitle = title
+        // Replace special characters with space
+        .replace(/[^\w\s\-'&()]/g, ' ')  // Keep hyphen, apostrophe, ampersand, and parentheses
+        // Replace multiple spaces with single space
+        .replace(/\s+/g, ' ')
+        // Trim whitespace
+        .trim()
+        // Split into words
+        .split(' ')
+        // Take first 5 words
+        .slice(0, 5)
+        // Join with hyphens
+        .join('-')
+        // Convert to lowercase
+        .toLowerCase()
+        // Clean up any remaining unwanted characters
+        .replace(/['"]/g, '')  // Remove quotes
+        .replace(/\(|\)/g, '') // Remove parentheses
+        .replace(/&/g, 'and')  // Replace & with 'and'
+        // Clean up multiple hyphens and hyphens at start/end
+        .replace(/-+/g, '-')
+        .replace(/^-+|-+$/g, '');
+
+    return cleanTitle;
+}
+
+/**
+ * Add permalink to frontmatter
+ */
+async function addPermalinkToFile(app, file) {
+    try {
+        // Get the frontmatter
+        const cache = app.metadataCache.getFileCache(file)?.frontmatter;
+        
+        // Skip if permalink already exists
+        if (cache?.permalink) {
+            console.log(`Skipping permalink for ${file.basename}: permalink already exists`);
+            return false;
+        }
+
+        // Generate permalink from basename using the trimTitle function
+        const permalink = trimTitle(file.basename);
+        
+        // Update frontmatter
+        await app.fileManager.processFrontMatter(file, (frontmatter) => {
+            frontmatter.permalink = permalink;
+        });
+
+        console.log(`Added permalink for ${file.basename}: ${permalink}`);
+        return true;
+
+    } catch (error) {
+        console.error(`Error adding permalink to ${file.basename}:`, error);
         return false;
     }
 }
 
 /**
- * Parse frontmatter from file content
+ * Extract source from content and add to frontmatter
  */
-function parseFrontmatter(content) {
-    let frontmatter = {};
-    let contentWithoutFrontmatter = content;
-    
-    if (content.startsWith("---")) {
-        const endIndex = content.indexOf("---", 3);
+async function extractSourceFromFile(app, file) {
+    try {
+        // Get the frontmatter
+        const cache = app.metadataCache.getFileCache(file)?.frontmatter;
         
-        if (endIndex !== -1) {
-            const frontmatterText = content.slice(3, endIndex).trim();
-            contentWithoutFrontmatter = content.slice(endIndex + 3).trim();
-            
-            // Parse frontmatter lines
-            frontmatterText.split("\n").forEach(line => {
-                const colonIndex = line.indexOf(":");
-                if (colonIndex > 0) {
-                    const key = line.substring(0, colonIndex).trim();
-                    const value = line.substring(colonIndex + 1).trim();
-                    frontmatter[key] = value;
-                }
-            });
+        // Skip if source already exists
+        if (cache?.source) {
+            console.log(`Skipping source extraction for ${file.basename}: source already exists`);
+            return false;
         }
+
+        // Read file content
+        const content = await app.vault.read(file);
+        
+        // Match Source: pattern (case insensitive)
+        // Matches both "Source:" and "Source;" with various capitalizations
+        const sourcePattern = /\b(?:Source|source)[;:]\s*([^(][^\n]+?)(?:\s*\((?:p|pp)\.?\s*\d+(?:-\d+)?\))?$/m;
+        const match = content.match(sourcePattern);
+        
+        if (match && match[1]) {
+            let source = match[1].trim();
+            
+            // Clean up the source
+            // Remove quotes and asterisks
+            source = source.replace(/[*"]/g, '');
+            
+            // Remove page references
+            source = source.replace(/\s*(p\.|pg\.)\s*\d+.*$/, '');
+            
+            // Remove trailing whitespace
+            source = source.trim();
+            
+            // Update frontmatter
+            await app.fileManager.processFrontMatter(file, (frontmatter) => {
+                frontmatter.source = source;
+            });
+
+            console.log(`Extracted source for ${file.basename}: "${source}"`);
+            return true;
+        } else {
+            console.log(`No source found in ${file.basename}`);
+            return false;
+        }
+
+    } catch (error) {
+        console.error(`Error extracting source from ${file.basename}:`, error);
+        return false;
     }
-    
-    return { frontmatter, contentWithoutFrontmatter };
 }
 
 /**
- * Generate content with updated frontmatter
+ * Rename file based on permalink in frontmatter
+ * Preserves backlinks by adding previous filename as alias
  */
-function generateFileContent(frontmatter, contentWithoutFrontmatter) {
-    let content = "---\n";
-    
-    // Add all frontmatter properties
-    Object.entries(frontmatter).forEach(([key, value]) => {
-        content += `${key}: ${value}\n`;
-    });
-    
-    content += "---\n\n" + contentWithoutFrontmatter;
-    return content;
+async function renameFileFromPermalink(app, file) {
+    try {
+        // Get the frontmatter
+        const cache = app.metadataCache.getFileCache(file)?.frontmatter;
+        
+        // Skip if auto_rename is not enabled or no permalink exists
+        if (cache?.auto_rename !== true && cache?.auto_rename !== "true") {
+            console.log(`Skipping rename for ${file.basename}: auto_rename not enabled`);
+            return false;
+        }
+        
+        if (!cache?.permalink) {
+            console.log(`Skipping rename for ${file.basename}: no permalink found`);
+            return false;
+        }
+
+        // Get the permalink and current folder path
+        const permalink = cache.permalink;
+        const folderPath = file.path.substring(0, file.path.lastIndexOf("/") + 1);
+        const newPath = folderPath + permalink + '.md';
+        
+        // Skip if file already has the correct name
+        if (file.path === newPath) {
+            console.log(`Skipping rename for ${file.basename}: already has correct name`);
+            return false;
+        }
+
+        console.log(`Will rename file from ${file.path} to ${newPath}`);
+
+        // Add current filename as alias to preserve backlinks
+        await app.fileManager.processFrontMatter(file, (frontmatter) => {
+            // Initialize aliases
+            if (!frontmatter.aliases) {
+                frontmatter.aliases = [];
+            } 
+            
+            // Convert string aliases to array
+            if (typeof frontmatter.aliases === 'string') {
+                // Check if it's a YAML array format "[item1, item2]"
+                if (frontmatter.aliases.startsWith('[') && frontmatter.aliases.endsWith(']')) {
+                    try {
+                        // Parse the array string
+                        const aliasStr = frontmatter.aliases.slice(1, -1);
+                        frontmatter.aliases = aliasStr
+                            .split(',')
+                            .map(a => a.trim().replace(/^["']|["']$/g, ''));
+                    } catch (e) {
+                        frontmatter.aliases = [frontmatter.aliases];
+                    }
+                } else {
+                    // It's a single string
+                    frontmatter.aliases = [frontmatter.aliases];
+                }
+            }
+            
+            // Ensure aliases is an array
+            if (!Array.isArray(frontmatter.aliases)) {
+                frontmatter.aliases = [frontmatter.aliases];
+            }
+            
+            // Add basename as alias if not already present
+            if (!frontmatter.aliases.includes(file.basename)) {
+                console.log(`Adding ${file.basename} as alias to preserve backlinks`);
+                frontmatter.aliases.push(file.basename);
+            }
+        });
+        
+        try {
+            // Rename the file
+            await app.fileManager.renameFile(file, newPath);
+            console.log(`Successfully renamed file to: ${newPath}`);
+            return true;
+        } catch (renameError) {
+            console.error(`Error renaming file ${file.path}:`, renameError);
+            new Notice(`Error renaming file: ${renameError.message}`);
+            return false;
+        }
+
+    } catch (error) {
+        console.error(`Error in rename process for ${file.basename}:`, error);
+        return false;
+    }
 }
 
 /**
  * Normalize file path for comparison (like Linter does)
- * Replaces path separators with a common character
  */
 function normalizeFilePath(path) {
     return path.replace(/\\/g, '|').replace(/\//g, '|');

@@ -6,8 +6,8 @@ aliases:
 created: 2025/06/13 at 22:29
 updated: 2025/07/24 at 01:15
 title: Tradition of the Voidwatcher
-permalink: 2025-07-28-tradition-of-the-voidwatcher
-source: Kibbles' Compendium of Legends and Legacies p. 35*
+permalink: tradition-of-the-voidwatcher
+source: Kibbles' Compendium of Legends and Legacies
 ---
 
 # Tradition of the Voidwatcher

@@ -1,15 +1,17 @@
 /**
- * Process a single file for QuickAdd
+ * Process a single file:
  * - Add permalink based on filename
  * - Rename file based on permalink (preserving backlinks)
  * - Extract source from content
+ * 
+ * Updated: 2025-07-28
  */
 module.exports = async function(params) {
     const { app } = params;
     
     try {
-        // Get the target file
-        const file = params.file || app.workspace.getActiveFile();
+        // Get the target file from multiple sources
+        let file = await getTargetFile(app, params);
         
         if (!file) {
             console.error("No file found to process");
@@ -19,6 +21,85 @@ module.exports = async function(params) {
         
         console.log(`Processing single file: ${file.path}`);
         
+        // Process the file
+        return await processFile(app, file);
+        
+    } catch (error) {
+        console.error("Error processing file:", error);
+        new Notice(`Error: ${error.message}`);
+        return false;
+    }
+};
+
+/**
+ * Get target file using multiple methods
+ */
+async function getTargetFile(app, params) {
+    let file = null;
+    
+    // 1. Try QuickAdd's params.file or params.filepath (highest priority)
+    if (params.file && !params.file.children) {
+        console.log(`Using file from params.file: ${params.file.path}`);
+        return params.file;
+    } 
+    
+    if (params.filepath) {
+        file = app.vault.getAbstractFileByPath(params.filepath);
+        if (file && !file.children) {
+            console.log(`Using file from filepath: ${file.path}`);
+            return file;
+        }
+    }
+    
+    // 2. Try to get selected item from file explorer (like Linter does)
+    try {
+        const fileExplorer = app.workspace.getLeavesOfType("file-explorer")[0]?.view;
+        
+        if (fileExplorer) {
+            // Different versions of Obsidian use different methods
+            if (typeof fileExplorer.getSelectedFile === 'function') {
+                file = fileExplorer.getSelectedFile();
+                if (file && !file.children) {
+                    console.log(`Using selection from file explorer API: ${file.path}`);
+                    return file;
+                }
+            }
+            
+            // Try DOM-based approach (as seen in Linter)
+            const selectedEl = fileExplorer.containerEl.querySelector(
+                '.nav-file.is-active, .nav-file.mod-active'
+            );
+            
+            if (selectedEl) {
+                const filePath = selectedEl.getAttribute('data-path');
+                if (filePath) {
+                    file = app.vault.getAbstractFileByPath(filePath);
+                    if (file && !file.children) {
+                        console.log(`Using selection from DOM: ${file.path}`);
+                        return file;
+                    }
+                }
+            }
+        }
+    } catch (e) {
+        console.warn("Error getting selection from file explorer:", e);
+    }
+    
+    // 3. Fall back to active file
+    file = app.workspace.getActiveFile();
+    if (file) {
+        console.log(`Using active file: ${file.path}`);
+        return file;
+    }
+    
+    return null;
+}
+
+/**
+ * Process a single file
+ */
+async function processFile(app, file) {
+    try {
         // 1. Read file content
         const content = await app.vault.read(file);
         
@@ -68,6 +149,7 @@ module.exports = async function(params) {
         }
         
         // 7. Rename file if auto_rename is enabled
+        let renamed = false;
         if (frontmatter.auto_rename === "true" || frontmatter.auto_rename === true) {
             const permalink = frontmatter.permalink;
             
@@ -119,21 +201,29 @@ module.exports = async function(params) {
                     await app.fileManager.renameFile(file, newPath);
                     console.log(`Renamed file to: ${newPath}`);
                     new Notice(`Renamed to: ${newFileName}`);
+                    renamed = true;
                 }
             }
         }
         
-        new Notice(`Processed: ${file.basename}`);
-        return true;
+        if (frontmatterModified || renamed) {
+            new Notice(`Processed: ${file.basename}`);
+            return true;
+        } else {
+            console.log(`No changes needed for ${file.path}`);
+            return false;
+        }
         
     } catch (error) {
-        console.error("Error processing file:", error);
-        new Notice(`Error: ${error.message}`);
+        console.error(`Error processing file ${file.path}:`, error);
+        new Notice(`Error processing ${file.basename}: ${error.message}`);
         return false;
     }
-};
+}
 
-// Helper function to parse frontmatter
+/**
+ * Parse frontmatter from file content
+ */
 function parseFrontmatter(content) {
     let frontmatter = {};
     let contentWithoutFrontmatter = content;
@@ -160,7 +250,9 @@ function parseFrontmatter(content) {
     return { frontmatter, contentWithoutFrontmatter };
 }
 
-// Helper function to generate content with updated frontmatter
+/**
+ * Generate content with updated frontmatter
+ */
 function generateFileContent(frontmatter, contentWithoutFrontmatter) {
     let content = "---\n";
     

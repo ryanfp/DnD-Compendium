@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Tradition of the Voidwatcher",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/Tradition of the Voidwatcher.md"
+    },
+    {
+      "basename": "tradition-of-the-hedge-mage",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-hedge-mage.md"
+    },
+    {
+      "basename": "Tradition of the Oracle",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/Tradition of the Oracle.md"
+    },
+    {
       "basename": "tradition-of-the-witch",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "Clockwork Soul",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Clockwork Soul.md"
-    },
-    {
-      "basename": "tradition-of-the-hedge-mage",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-hedge-mage.md"
     },
     {
       "basename": "tradition-of-the-shaman",
@@ -191,14 +199,6 @@
     {
       "basename": "peace-domain",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/peace-domain.md"
-    },
-    {
-      "basename": "order-domain",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/order-domain.md"
-    },
-    {
-      "basename": "nature-domain",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/nature-domain.md"
     }
   ],
   "omittedPaths": [],

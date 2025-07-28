@@ -141,10 +141,11 @@
       "id": "e187ae00-21fb-47eb-bee8-920819e07232",
       "commands": [
         {
-          "name": "Templater: Insert Process Files",
-          "type": "Obsidian",
-          "id": "bdd879c7-9299-464d-84f6-429c2d360f09",
-          "commandId": "templater-obsidian:z_Templates/Process Files.md"
+          "name": "fileProcessor",
+          "type": "UserScript",
+          "id": "cab0d27b-124c-4946-bfca-bdc27229212a",
+          "path": "z_Scripts/fileProcessor.js",
+          "settings": {}
         }
       ],
       "runOnStartup": false

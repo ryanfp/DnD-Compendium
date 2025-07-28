@@ -1,465 +1,666 @@
 /**
- * Comprehensive file processing script for Obsidian
- * - Works with files/folders from any context
- * - Handles permalink generation, renaming, and source extraction
- * - No reliance on active editors
+ * Combined File Processor
+ * - Adds permalinks
+ * - Extracts sources
+ * - Renames files based on permalinks (with backlink preservation)
+ * 
+ * Uses file selection techniques from Obsidian Linter for better folder handling
+ * Updated: 2025-07-28 03:39:03
  */
-class FileProcessor {
-    constructor(app) {
-        this.app = app;
-        this.currentSessionFiles = new Set();
+
+// =====================================================
+// State Manager to prevent duplicate processing
+// =====================================================
+
+/**
+ * StateManager handles script execution state
+ * Tracks processed files and prevents duplicate runs
+ */
+class StateManager {
+    constructor() {
+        this.processedFiles = {};
+        this.isLocked = false;
+        this.lockTimeout = null;
     }
-    
+
     /**
-     * Process a target (file or folder)
+     * Check if file has been processed for a specific operation
+     * @param {string} filePath - The file path
+     * @param {string} operation - The operation type
+     * @returns {boolean} - Whether the file was processed
      */
-    async process(target, options = {}) {
-        // Default options
-        const opts = {
-            addPermalink: true,
-            renameFromPermalink: true, 
-            extractSource: true,
-            ...options
-        };
-        
-        try {
-            // Clear session tracking
-            this.currentSessionFiles.clear();
-            
-            // If no target provided, try to find one
-            if (!target) {
-                target = await this._getTargetFromContext();
-                
-                if (!target) {
-                    this._notify("No file or folder found to process", "error");
-                    return { success: false, error: "No target found" };
-                }
-            }
-            
-            console.log(`Starting processing on: ${target.path}`);
-            
-            // Process based on type
-            const isFolder = target.children !== undefined;
-            
-            if (isFolder) {
-                return await this._processFolder(target, opts);
-            } else {
-                return await this._processFile(target, opts);
-            }
-            
-        } catch (error) {
-            console.error("Processing error:", error);
-            this._notify(`Error: ${error.message}`, "error");
-            return { success: false, error: error.message };
+    isFileProcessed(filePath, operation) {
+        if (!this.processedFiles[filePath]) return false;
+        return this.processedFiles[filePath].includes(operation);
+    }
+
+    /**
+     * Mark a file as processed for a specific operation
+     * @param {string} filePath - The file path
+     * @param {string} operation - The operation type
+     */
+    markFileProcessed(filePath, operation) {
+        if (!this.processedFiles[filePath]) {
+            this.processedFiles[filePath] = [];
+        }
+        if (!this.processedFiles[filePath].includes(operation)) {
+            this.processedFiles[filePath].push(operation);
         }
     }
-    
+
     /**
-     * Get a target file or folder from the context
-     * @private
+     * Clear processed files for a specific operation
+     * @param {string} operation - The operation type
      */
-    async _getTargetFromContext() {
-        // Try all possible ways to get the target file/folder
-        
-        // 1. Try file explorer selection
-        try {
-            // Get file explorer view
-            const fileExplorer = this.app.workspace.getLeavesOfType("file-explorer")[0]?.view;
-            
-            if (fileExplorer) {
-                // Try different API versions
-                if (typeof fileExplorer.getSelectedFile === 'function') {
-                    const selected = fileExplorer.getSelectedFile();
-                    if (selected) {
-                        console.log(`Found target in file explorer API: ${selected.path}`);
-                        return selected;
-                    }
-                } 
-                
-                // Try DOM-based approach (Linter style)
-                const selectedEl = fileExplorer.containerEl.querySelector(
-                    '.nav-folder.is-active, .nav-file.is-active, .nav-folder.mod-active, .nav-file.mod-active'
-                );
-                
-                if (selectedEl) {
-                    const filepath = selectedEl.getAttribute('data-path');
-                    if (filepath) {
-                        const file = this.app.vault.getAbstractFileByPath(filepath);
-                        if (file) {
-                            console.log(`Found target in DOM: ${file.path}`);
-                            return file;
-                        }
-                    }
-                }
+    clearProcessedFiles(operation) {
+        for (const filePath in this.processedFiles) {
+            const index = this.processedFiles[filePath].indexOf(operation);
+            if (index > -1) {
+                this.processedFiles[filePath].splice(index, 1);
             }
-        } catch (e) {
-            console.warn("Error getting file from explorer:", e);
-        }
-        
-        // 2. Try active file
-        try {
-            const activeFile = this.app.workspace.getActiveFile();
-            if (activeFile) {
-                console.log(`Using active file: ${activeFile.path}`);
-                return activeFile;
+            if (this.processedFiles[filePath].length === 0) {
+                delete this.processedFiles[filePath];
             }
-        } catch (e) {
-            console.warn("Error getting active file:", e);
-        }
-        
-        return null;
-    }
-    
-    /**
-     * Process a folder by recursively processing all markdown files
-     * @private
-     */
-    async _processFolder(folder, options) {
-        console.log(`Processing folder: ${folder.path}`);
-        this._notify(`Processing folder: ${folder.name}`, "info");
-        
-        // Get all markdown files from the folder (recursive)
-        const files = await this._getAllMarkdownFiles(folder);
-        
-        if (files.length === 0) {
-            console.log("No markdown files found in folder");
-            this._notify("No markdown files found in folder", "info");
-            return { success: true, processed: 0, skipped: 0 };
-        }
-        
-        // Process each file
-        let processed = 0;
-        let skipped = 0;
-        let errors = 0;
-        
-        for (const file of files) {
-            try {
-                // Check if already processed in this session
-                if (this.currentSessionFiles.has(file.path)) {
-                    console.log(`File ${file.path} already processed in this session, skipping`);
-                    skipped++;
-                    continue;
-                }
-                
-                // Process file and track result
-                const result = await this._processFile(file, options);
-                
-                if (result.success) {
-                    processed++;
-                } else if (result.skipped) {
-                    skipped++;
-                }
-                
-                // Small delay to prevent UI freezing
-                await new Promise(resolve => setTimeout(resolve, 30));
-            } catch (error) {
-                console.error(`Error processing file ${file.path}:`, error);
-                errors++;
-                // Continue with next file
-            }
-        }
-        
-        console.log(`Processed ${processed} files, skipped ${skipped}, errors: ${errors} in folder ${folder.path}`);
-        this._notify(`Processed ${processed} files, skipped ${skipped}${errors ? `, errors: ${errors}` : ''} in ${folder.name}`, "success");
-        
-        return { success: true, processed, skipped, errors };
-    }
-    
-    /**
-     * Get all markdown files in a folder recursively
-     * @private
-     */
-    async _getAllMarkdownFiles(folder) {
-        const files = [];
-        
-        // Function to recursively collect files
-        const collectFiles = (item) => {
-            if (!item) return;
-            
-            if (item.children) {
-                // It's a folder, process its children
-                for (const child of item.children) {
-                    collectFiles(child);
-                }
-            } else if (item.extension === 'md') {
-                // It's a markdown file
-                files.push(item);
-            }
-        };
-        
-        // Start collection from the folder
-        collectFiles(folder);
-        return files;
-    }
-    
-    /**
-     * Process a single file
-     * @private
-     */
-    async _processFile(file, options) {
-        const filePath = file.path;
-        
-        // Mark as processed in this session
-        this.currentSessionFiles.add(filePath);
-        
-        console.log(`Processing file: ${filePath}`);
-        
-        try {
-            // Read file content
-            const content = await this.app.vault.read(file);
-            
-            // Parse frontmatter and body
-            let { frontmatter, body } = this._parseFrontmatter(content);
-            let modified = false;
-            
-            // 1. Add permalink if needed
-            if (options.addPermalink) {
-                const permalinkAdded = await this._addPermalink(file, frontmatter);
-                modified = modified || permalinkAdded;
-            }
-            
-            // 2. Extract source if needed
-            if (options.extractSource) {
-                const sourceExtracted = await this._extractSource(file, frontmatter, body);
-                modified = modified || sourceExtracted;
-            }
-            
-            // 3. Update file content if modified
-            if (modified) {
-                const newContent = this._generateFileContent(frontmatter, body);
-                await this.app.vault.modify(file, newContent);
-                console.log(`Updated frontmatter for ${file.path}`);
-            }
-            
-            // 4. Rename file from permalink if needed
-            let renamed = false;
-            if (options.renameFromPermalink) {
-                renamed = await this._renameFromPermalink(file, frontmatter);
-            }
-            
-            if (modified || renamed) {
-                this._notify(`Processed: ${file.basename}`, "success");
-                return { success: true, modified };
-            } else {
-                console.log(`No changes needed for ${file.path}`);
-                return { success: false, skipped: true };
-            }
-            
-        } catch (error) {
-            console.error(`Error processing ${filePath}:`, error);
-            this._notify(`Error processing ${file.basename}: ${error.message}`, "error");
-            throw error;
         }
     }
-    
+
     /**
-     * Add permalink to frontmatter if it doesn't exist
-     * @private
+     * Try to acquire the execution lock
+     * @returns {boolean} - Whether the lock was acquired
      */
-    async _addPermalink(file, frontmatter) {
-        if (frontmatter.permalink) {
-            console.log(`Permalink already exists: ${frontmatter.permalink}`);
-            return false;
+    acquireLock() {
+        if (this.isLocked) return false;
+        
+        this.isLocked = true;
+        
+        // Auto-release lock after 30 seconds to prevent deadlocks
+        if (this.lockTimeout) {
+            clearTimeout(this.lockTimeout);
         }
         
-        // Generate a permalink using the improved formatting from addPermalink
-        // Get current date in ISO format (YYYY-MM-DD)
-        const currentDate = new Date().toISOString().split('T')[0];
-        
-        // Clean the filename by:
-        // 1. Converting to lowercase
-        // 2. Removing any characters that aren't letters, numbers, spaces, or hyphens
-        // 3. Replacing multiple spaces with a single hyphen
-        // 4. Trimming any leading or trailing hyphens
-        let nameBase = file.basename.toLowerCase()
-            .replace(/[^\w\s-]/g, '')   // Remove invalid chars
-            .replace(/\s+/g, '-')       // Replace spaces with hyphens
-            .replace(/--+/g, '-')       // Replace multiple hyphens with single
-            .replace(/^-+|-+$/g, '');   // Trim hyphens from both ends
-        
-        // Combine date and cleaned name to create the permalink
-        const permalink = `${currentDate}-${nameBase}`;
-        frontmatter.permalink = permalink;
-        console.log(`Added permalink: ${permalink}`);
+        this.lockTimeout = setTimeout(() => {
+            this.releaseLock();
+        }, 30000);
         
         return true;
     }
-    
+
     /**
-     * Extract source from content and add to frontmatter
-     * @private
+     * Release the execution lock
      */
-    async _extractSource(file, frontmatter, body) {
-        // Skip if source already exists in frontmatter
-        if (frontmatter.source) {
-            console.log(`Source already exists in frontmatter: ${frontmatter.source}`);
-            return false;
-        }
-        
-        // Look for source patterns in the content
-        // Matches both "Source:" and "Source;" with various capitalizations
-        // Excludes page numbers in (p. X) or (pp. X-Y) format
-        const sourcePattern = /\b(?:Source|source)[;:]\s*([^(][^\n]+?)(?:\s*\((?:p|pp)\.?\s*\d+(?:-\d+)?\))?$/m;
-        const match = body.match(sourcePattern);
-        
-        if (match && match[1]) {
-            const source = match[1].trim();
-            frontmatter.source = source;
-            console.log(`Extracted source: ${source}`);
-            return true;
-        }
-        
-        return false;
-    }
-    
-    /**
-     * Rename file based on permalink while preserving backlinks
-     * @private
-     */
-    async _renameFromPermalink(file, frontmatter) {
-        // Skip if auto_rename is not enabled
-        if (frontmatter.auto_rename !== "true" && frontmatter.auto_rename !== true) {
-            return false;
-        }
-        
-        const permalink = frontmatter.permalink;
-        if (!permalink) {
-            console.log("No permalink found for renaming");
-            return false;
-        }
-        
-        const newFileName = permalink + ".md";
-        const folderPath = file.path.substring(0, file.path.lastIndexOf("/"));
-        const newPath = folderPath ? `${folderPath}/${newFileName}` : newFileName;
-        
-        // Skip if file already has the correct name
-        if (file.path === newPath) {
-            console.log(`File already has the correct name: ${file.path}`);
-            return false;
-        }
-        
-        // Handle aliases to preserve backlinks
-        let aliases = [];
-        let aliasesModified = false;
-        
-        if (frontmatter.aliases) {
-            // Parse aliases (handles various formats)
-            const aliasesStr = frontmatter.aliases.toString().trim();
-            
-            if (aliasesStr.startsWith("[") && aliasesStr.endsWith("]")) {
-                // Parse YAML array format
-                aliases = aliasesStr
-                    .slice(1, -1)
-                    .split(",")
-                    .map(a => a.trim().replace(/^["']|["']$/g, '')); // Remove quotes if present
-            } else {
-                // Single value
-                aliases = [aliasesStr.replace(/^["']|["']$/g, '')]; // Remove quotes if present
-            }
-        }
-        
-        // Add current filename as alias if it's not already there
-        if (!aliases.includes(file.basename)) {
-            aliases.push(file.basename);
-            aliasesModified = true;
-        }
-        
-        // Update aliases in frontmatter if modified
-        if (aliasesModified) {
-            frontmatter.aliases = aliases.length === 1 
-                ? aliases[0] 
-                : "[" + aliases.join(", ") + "]";
-            
-            // Update file with new frontmatter before renaming
-            const content = await this.app.vault.read(file);
-            const { body } = this._parseFrontmatter(content);
-            const updatedContent = this._generateFileContent(frontmatter, body);
-            await this.app.vault.modify(file, updatedContent);
-            console.log("Updated aliases in frontmatter");
-        }
-        
-        // Rename the file using Obsidian's API which preserves links
-        try {
-            await this.app.fileManager.renameFile(file, newPath);
-            console.log(`Renamed file to: ${newPath}`);
-            this._notify(`Renamed to: ${newFileName}`, "info");
-            return true;
-        } catch (error) {
-            console.error("Error renaming file:", error);
-            throw error;
-        }
-    }
-    
-    /**
-     * Parse frontmatter from file content
-     * @private
-     */
-    _parseFrontmatter(content) {
-        let frontmatter = {};
-        let body = content;
-        
-        if (content.startsWith("---")) {
-            const endIndex = content.indexOf("---", 3);
-            
-            if (endIndex !== -1) {
-                const frontmatterText = content.slice(3, endIndex).trim();
-                body = content.slice(endIndex + 3).trim();
-                
-                // Parse frontmatter lines
-                frontmatterText.split("\n").forEach(line => {
-                    const colonIndex = line.indexOf(":");
-                    if (colonIndex > 0) {
-                        const key = line.substring(0, colonIndex).trim();
-                        const value = line.substring(colonIndex + 1).trim();
-                        frontmatter[key] = value;
-                    }
-                });
-            }
-        }
-        
-        return { frontmatter, body };
-    }
-    
-    /**
-     * Generate file content from frontmatter and body
-     * @private
-     */
-    _generateFileContent(frontmatter, body) {
-        let content = "---\n";
-        
-        // Add all frontmatter properties
-        Object.entries(frontmatter).forEach(([key, value]) => {
-            content += `${key}: ${value}\n`;
-        });
-        
-        content += "---\n\n" + body;
-        return content;
-    }
-    
-    /**
-     * Display notification
-     * @private
-     */
-    _notify(message, type = "info") {
-        try {
-            // Try to use Obsidian's Notice API
-            const Notice = this.app.plugins.plugins.quickadd?.api?.Notice || window.Notice;
-            if (Notice) {
-                new Notice(message);
-            } else {
-                console.log(`[${type}] ${message}`);
-            }
-        } catch (e) {
-            // Fallback to console if Notice fails
-            console.log(`[${type}] ${message}`);
+    releaseLock() {
+        this.isLocked = false;
+        if (this.lockTimeout) {
+            clearTimeout(this.lockTimeout);
+            this.lockTimeout = null;
         }
     }
 }
 
-// Make available for other scripts
-if (typeof module !== 'undefined') {
-    module.exports = FileProcessor;
+// Initialize the state manager if it doesn't exist
+if (!window.obsidianStateManager) {
+    window.obsidianStateManager = new StateManager();
 }
-if (typeof window !== 'undefined') {
-    window.FileProcessor = FileProcessor;
+
+// =====================================================
+// Permalink Generation
+// =====================================================
+
+/**
+ * Trims and formats a title for use as a permalink
+ * @param {string} title - The title to format
+ * @returns {string} - The formatted permalink
+ */
+function trimTitle(title) {
+    if (!title) return '';
+
+    // Clean up the title
+    let cleanTitle = title
+        // Replace special characters with space
+        .replace(/[^\w\s\-'&()]/g, ' ')  // Keep hyphen, apostrophe, ampersand, and parentheses
+        // Replace multiple spaces with single space
+        .replace(/\s+/g, ' ')
+        // Trim whitespace
+        .trim()
+        // Split into words
+        .split(' ')
+        // Take first 5 words
+        .slice(0, 5)
+        // Join with hyphens
+        .join('-')
+        // Convert to lowercase
+        .toLowerCase()
+        // Clean up any remaining unwanted characters
+        .replace(/['"]/g, '')  // Remove quotes
+        .replace(/\(|\)/g, '') // Remove parentheses
+        .replace(/&/g, 'and')  // Replace & with 'and'
+        // Clean up multiple hyphens and hyphens at start/end
+        .replace(/-+/g, '-')
+        .replace(/^-+|-+$/g, '');
+
+    return cleanTitle;
 }
+
+/**
+ * Add permalink to a file's frontmatter
+ * @param {TFile} file - The file to process
+ * @param {App} app - The Obsidian app instance
+ * @returns {Promise<boolean>} - Whether the permalink was added
+ */
+async function addPermalinkToFile(file, app) {
+    try {
+        const stateManager = window.obsidianStateManager;
+        // Skip if already processed
+        if (stateManager.isFileProcessed(file.path, 'permalink')) {
+            console.log(`Skipping permalink for ${file.basename}: already processed`);
+            return false;
+        }
+
+        // Get the frontmatter
+        const cache = app.metadataCache.getFileCache(file)?.frontmatter;
+        
+        // Skip if permalink already exists
+        if (cache?.permalink) {
+            console.log(`Skipping permalink for ${file.basename}: permalink already exists`);
+            stateManager.markFileProcessed(file.path, 'permalink');
+            return false;
+        }
+
+        // Generate permalink from basename
+        const permalink = trimTitle(file.basename);
+        
+        // Update frontmatter
+        await app.fileManager.processFrontMatter(file, (frontmatter) => {
+            frontmatter.permalink = permalink;
+        });
+
+        // Force metadata cache refresh
+        await app.metadataCache.trigger();
+
+        console.log(`Added permalink for ${file.basename}: ${permalink}`);
+        stateManager.markFileProcessed(file.path, 'permalink');
+        return true;
+
+    } catch (error) {
+        console.error(`Error adding permalink to ${file.basename}:`, error);
+        return false;
+    }
+}
+
+// =====================================================
+// Source Extraction
+// =====================================================
+
+/**
+ * Extract source from file content to frontmatter
+ * @param {TFile} file - The file to process
+ * @param {App} app - The Obsidian app instance
+ * @returns {Promise<boolean>} - Whether the source was extracted
+ */
+async function extractSourceFromFile(file, app) {
+    try {
+        const stateManager = window.obsidianStateManager;
+        // Skip if already processed
+        if (stateManager.isFileProcessed(file.path, 'extract-source')) {
+            console.log(`Skipping source extraction for ${file.basename}: already processed`);
+            return false;
+        }
+
+        // Get the frontmatter
+        const cache = app.metadataCache.getFileCache(file)?.frontmatter;
+        
+        // Skip if source already exists
+        if (cache?.source) {
+            console.log(`Skipping source extraction for ${file.basename}: source already exists`);
+            stateManager.markFileProcessed(file.path, 'extract-source');
+            return false;
+        }
+
+        // Read file content
+        const content = await app.vault.read(file);
+        
+        // Match Source: pattern (case insensitive)
+        // Matches both "Source:" and "Source;" with various capitalizations
+        // Excludes page numbers in (p. X) or (pp. X-Y) format
+        const sourcePattern = /\b(?:Source|source)[;:]\s*([^(][^\n]+?)(?:\s*\((?:p|pp)\.?\s*\d+(?:-\d+)?\))?$/m;
+        const match = content.match(sourcePattern);
+        
+        if (match && match[1]) {
+            const source = match[1].trim();
+            
+            // Update frontmatter
+            await app.fileManager.processFrontMatter(file, (frontmatter) => {
+                frontmatter.source = source;
+            });
+
+            // Force metadata cache refresh
+            await app.metadataCache.trigger();
+
+            console.log(`Extracted source for ${file.basename}: "${source}"`);
+            stateManager.markFileProcessed(file.path, 'extract-source');
+            return true;
+        } else {
+            console.log(`No source found in ${file.basename}`);
+            stateManager.markFileProcessed(file.path, 'extract-source');
+            return false;
+        }
+
+    } catch (error) {
+        console.error(`Error extracting source from ${file.basename}:`, error);
+        return false;
+    }
+}
+
+// =====================================================
+// File Renaming
+// =====================================================
+
+/**
+ * Rename file based on permalink in frontmatter
+ * @param {TFile} file - The file to process
+ * @param {App} app - The Obsidian app instance
+ * @returns {Promise<boolean>} - Whether the file was renamed
+ */
+async function renameFileFromPermalink(file, app) {
+    try {
+        const stateManager = window.obsidianStateManager;
+        // Skip if already processed
+        if (stateManager.isFileProcessed(file.path, 'rename')) {
+            console.log(`Skipping rename for ${file.basename}: already processed`);
+            return false;
+        }
+
+        // Get the frontmatter
+        const cache = app.metadataCache.getFileCache(file)?.frontmatter;
+        
+        // Skip if auto_rename is not enabled or no permalink exists
+        if (cache?.auto_rename !== true && cache?.auto_rename !== "true") {
+            console.log(`Skipping rename for ${file.basename}: auto_rename not enabled`);
+            stateManager.markFileProcessed(file.path, 'rename');
+            return false;
+        }
+        
+        if (!cache?.permalink) {
+            console.log(`Skipping rename for ${file.basename}: no permalink found`);
+            stateManager.markFileProcessed(file.path, 'rename');
+            return false;
+        }
+
+        // Get the permalink and current folder path
+        const permalink = cache.permalink;
+        const folderPath = file.path.substring(0, file.path.lastIndexOf('/') + 1);
+        const newPath = folderPath + permalink + '.md';
+        
+        // Skip if file already has the correct name
+        if (file.path === newPath) {
+            console.log(`Skipping rename for ${file.basename}: already has correct name`);
+            stateManager.markFileProcessed(file.path, 'rename');
+            return false;
+        }
+
+        console.log(`Renaming ${file.path} to ${newPath}`);
+
+        // Add current filename as alias to preserve backlinks
+        await app.fileManager.processFrontMatter(file, (frontmatter) => {
+            // Initialize aliases array
+            if (!frontmatter.aliases) {
+                frontmatter.aliases = [];
+            } 
+            // Convert string alias to array if needed
+            else if (typeof frontmatter.aliases === 'string') {
+                frontmatter.aliases = [frontmatter.aliases];
+            }
+            // Convert YAML array format to JS array if needed
+            else if (typeof frontmatter.aliases === 'string' && 
+                    frontmatter.aliases.startsWith('[') && 
+                    frontmatter.aliases.endsWith(']')) {
+                try {
+                    // Parse the array string
+                    const aliasStr = frontmatter.aliases.slice(1, -1);
+                    frontmatter.aliases = aliasStr
+                        .split(',')
+                        .map(a => a.trim().replace(/^["']|["']$/g, ''));
+                } catch (e) {
+                    console.warn(`Error parsing aliases array for ${file.path}:`, e);
+                    frontmatter.aliases = [frontmatter.aliases];
+                }
+            }
+            
+            // Ensure aliases is an array
+            if (!Array.isArray(frontmatter.aliases)) {
+                frontmatter.aliases = [frontmatter.aliases];
+            }
+            
+            // Add basename as alias if not already present
+            if (!frontmatter.aliases.includes(file.basename)) {
+                console.log(`Adding ${file.basename} as alias for preserving backlinks`);
+                frontmatter.aliases.push(file.basename);
+            }
+        });
+
+        // Force metadata cache refresh
+        await app.metadataCache.trigger();
+        
+        // Rename the file
+        await app.fileManager.renameFile(file, newPath);
+        console.log(`Renamed file to ${permalink}.md`);
+        
+        // Mark as processed with the new path (after rename)
+        const renamedFile = app.vault.getAbstractFileByPath(newPath);
+        if (renamedFile) {
+            stateManager.markFileProcessed(renamedFile.path, 'rename');
+        }
+        
+        return true;
+
+    } catch (error) {
+        console.error(`Error renaming ${file.basename}:`, error);
+        return false;
+    }
+}
+
+// =====================================================
+// File/Folder Selection and Processing
+// =====================================================
+
+/**
+ * Get target file or folder using multiple methods (based on Linter)
+ * @param {App} app - The Obsidian app instance
+ * @param {object} params - Parameters from calling context
+ * @returns {TAbstractFile|Array} - Selected file, folder, or array of files
+ */
+async function getTarget(app, params) {
+    let target = null;
+    
+    // 1. Try direct parameter (from QuickAdd)
+    if (params?.file) {
+        console.log(`Using target from params: ${params.file.path}`);
+        return params.file;
+    }
+    
+    // 2. Try to get selected items from file explorer using Linter's approach
+    try {
+        const fileExplorer = app.workspace.getLeavesOfType("file-explorer")[0]?.view;
+        
+        if (fileExplorer) {
+            // Try DOM-based approach first (as seen in Linter)
+            const selectedEl = fileExplorer.containerEl.querySelector(
+                '.nav-folder.is-active, .nav-folder.mod-active, .nav-file.is-active, .nav-file.mod-active'
+            );
+            
+            if (selectedEl) {
+                const path = selectedEl.getAttribute('data-path');
+                if (path) {
+                    target = app.vault.getAbstractFileByPath(path);
+                    if (target) {
+                        console.log(`Using selection from DOM: ${target.path}`);
+                        return target;
+                    }
+                }
+            }
+            
+            // Try API if DOM selection failed
+            if (typeof fileExplorer.getSelectedFile === 'function') {
+                target = fileExplorer.getSelectedFile();
+                if (target) {
+                    console.log(`Using selection from file explorer API: ${target.path}`);
+                    return target;
+                }
+            }
+            
+            // Try Obsidian's fileItems for multiple selection
+            if (fileExplorer.fileItems) {
+                const selectedFiles = Object.values(fileExplorer.fileItems)
+                    .filter(item => item.file && item.selected)
+                    .map(item => item.file);
+                
+                if (selectedFiles && selectedFiles.length > 0) {
+                    console.log(`Found ${selectedFiles.length} selected files in explorer`);
+                    return selectedFiles;
+                }
+            }
+        }
+    } catch (e) {
+        console.warn("Error getting selection from file explorer:", e);
+    }
+    
+    // 3. Try Templater context if available
+    if (params?.tp) {
+        try {
+            target = params.tp.file.find_tfile(params.tp.file.path(true));
+            if (target) {
+                console.log(`Using file from Templater: ${target.path}`);
+                return target;
+            }
+        } catch (e) {
+            console.warn("Error getting file from Templater:", e);
+        }
+    }
+    
+    // 4. Fall back to active file
+    target = app.workspace.getActiveFile();
+    if (target) {
+        console.log(`Using active file: ${target.path}`);
+        return target;
+    }
+    
+    return null;
+}
+
+/**
+ * Process files in a folder using Linter's approach
+ * @param {TFolder} folder - The folder to process
+ * @param {App} app - The Obsidian app instance
+ * @returns {Promise<object>} - Processing results
+ */
+async function processFolder(folder, app) {
+    try {
+        console.log(`Processing folder: ${folder.path}`);
+        new Notice(`Processing folder: ${folder.name}`);
+        
+        // Get all markdown files from vault
+        const allFiles = app.vault.getMarkdownFiles();
+        const folderPath = normalizeFilePath(folder.path);
+        
+        // Filter for files in this folder (including subfolders)
+        // Using Linter's approach of comparing normalized paths
+        const filesInFolder = allFiles.filter(file => {
+            const normalizedFilePath = normalizeFilePath(file.path);
+            return normalizedFilePath.startsWith(folderPath + '|') || // Files in subfolders 
+                  (normalizedFilePath === folderPath + '.md'); // Files directly in this folder
+        });
+        
+        console.log(`Found ${filesInFolder.length} markdown files in folder ${folder.path}`);
+        
+        if (filesInFolder.length === 0) {
+            console.log("No markdown files found in folder");
+            new Notice("No markdown files found in folder");
+            return { processed: 0, renamed: 0, skipped: 0 };
+        }
+        
+        // Process each file
+        let processed = 0;
+        let renamed = 0;
+        let skipped = 0;
+        
+        for (const file of filesInFolder) {
+            try {
+                const result = await processFile(file, app, false); // Don't show individual notifications
+                
+                if (result.processed) {
+                    processed++;
+                }
+                if (result.renamed) {
+                    renamed++;
+                }
+                if (!result.processed && !result.renamed) {
+                    skipped++;
+                }
+                
+                // Small delay to prevent UI freezing
+                await new Promise(resolve => setTimeout(resolve, 50));
+                
+            } catch (error) {
+                console.error(`Error processing file ${file.path}:`, error);
+                skipped++;
+            }
+        }
+        
+        console.log(`Processed ${processed} files, renamed ${renamed}, skipped ${skipped} in folder ${folder.path}`);
+        new Notice(`Processed ${processed} files, renamed ${renamed} in ${folder.name}`);
+        
+        return { processed, renamed, skipped };
+        
+    } catch (error) {
+        console.error(`Error processing folder ${folder.path}:`, error);
+        new Notice(`Error processing folder: ${error.message}`);
+        return { processed: 0, renamed: 0, skipped: 0, error: error.message };
+    }
+}
+
+/**
+ * Process a single file
+ * @param {TFile} file - The file to process
+ * @param {App} app - The Obsidian app instance
+ * @param {boolean} showNotifications - Whether to show notifications
+ * @returns {Promise<object>} - Processing results
+ */
+async function processFile(file, app, showNotifications = true) {
+    try {
+        console.log(`Processing file: ${file.path}`);
+        
+        // Track results
+        let permalink = false;
+        let source = false;
+        let renamed = false;
+        
+        // 1. Add permalink if needed
+        permalink = await addPermalinkToFile(file, app);
+        
+        // 2. Extract source if needed
+        source = await extractSourceFromFile(file, app);
+        
+        // 3. Rename file if needed (and permalink was added)
+        renamed = await renameFileFromPermalink(file, app);
+        
+        // Show notification
+        if (showNotifications && (permalink || source || renamed)) {
+            new Notice(`Processed: ${file.basename}`);
+        }
+        
+        return { 
+            processed: permalink || source,
+            renamed: renamed
+        };
+        
+    } catch (error) {
+        console.error(`Error processing file ${file.path}:`, error);
+        if (showNotifications) {
+            new Notice(`Error processing ${file.basename}: ${error.message}`);
+        }
+        return { processed: false, renamed: false, error: error.message };
+    }
+}
+
+/**
+ * Normalize file path for comparison (like Linter does)
+ * @param {string} path - The path to normalize
+ * @returns {string} - Normalized path
+ */
+function normalizeFilePath(path) {
+    return path.replace(/\\/g, '|').replace(/\//g, '|');
+}
+
+// =====================================================
+// Main Function for QuickAdd/Templater
+// =====================================================
+
+/**
+ * Main function for processing files
+ * @param {object} params - Parameters (app, tp for Templater)
+ * @returns {Promise<object>} - Processing results
+ */
+async function fileProcessor(params) {
+    // Get app from params or from tp
+    const app = params?.app || (params?.tp ? params.tp.app : null);
+    
+    if (!app) {
+        console.error("No app reference available");
+        new Notice("Failed to get app reference");
+        return { success: false, error: "No app reference" };
+    }
+    
+    const stateManager = window.obsidianStateManager;
+    
+    // Try to acquire lock
+    if (!stateManager.acquireLock()) {
+        console.log('Another script is running, please wait and try again');
+        new Notice('Another script is running, please wait and try again');
+        return { success: false, error: "Script is already running" };
+    }
+    
+    try {
+        // Get the target file or folder
+        const target = await getTarget(app, params);
+        
+        if (!target) {
+            console.error("No file or folder found to process");
+            new Notice("No file or folder found to process");
+            return { success: false, error: "No target found" };
+        }
+        
+        // Process based on target type
+        if (Array.isArray(target)) {
+            // Process multiple selected files
+            console.log(`Processing ${target.length} selected files`);
+            let processed = 0;
+            let renamed = 0;
+            
+            for (const file of target) {
+                if (file.extension === 'md') {
+                    const result = await processFile(file, app);
+                    if (result.processed) processed++;
+                    if (result.renamed) renamed++;
+                    await new Promise(resolve => setTimeout(resolve, 50));
+                }
+            }
+            
+            return { success: true, processed, renamed };
+        }
+        else if (target.children !== undefined) {
+            // It's a folder
+            return { success: true, ...await processFolder(target, app) };
+        }
+        else if (target.extension === 'md') {
+            // It's a single file
+            const result = await processFile(target, app);
+            return { 
+                success: true, 
+                processed: result.processed ? 1 : 0, 
+                renamed: result.renamed ? 1 : 0 
+            };
+        }
+        else {
+            console.error("Selected item is not a markdown file or folder");
+            new Notice("Selected item is not a markdown file or folder");
+            return { success: false, error: "Invalid target type" };
+        }
+        
+    } catch (error) {
+        console.error('Error in fileProcessor:', error);
+        new Notice(`Error: ${error.message}`);
+        return { success: false, error: error.message };
+    } finally {
+        // Always release the lock when done
+        stateManager.releaseLock();
+    }
+}
+
+// Export for both QuickAdd and Templater
+module.exports = fileProcessor;
+
+// Export individual functions for potential separate use
+module.exports.addPermalinkToFile = addPermalinkToFile;
+module.exports.extractSourceFromFile = extractSourceFromFile;
+module.exports.renameFileFromPermalink = renameFileFromPermalink;
+module.exports.trimTitle = trimTitle;

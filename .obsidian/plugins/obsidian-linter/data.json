@@ -271,7 +271,7 @@
     }
   },
   "lintOnSave": true,
-  "recordLintOnSaveLogs": true,
+  "recordLintOnSaveLogs": false,
   "displayChanged": true,
   "lintOnFileChange": true,
   "displayLintOnFileChangeNotice": true,
@@ -282,7 +282,7 @@
   ],
   "filesToIgnore": [],
   "linterLocale": "system-default",
-  "logLevel": "DEBUG",
+  "logLevel": "ERROR",
   "lintCommands": [],
   "customRegexes": [],
   "commonStyles": {
