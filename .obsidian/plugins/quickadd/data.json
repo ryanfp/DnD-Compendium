@@ -41,6 +41,13 @@
       "type": "Macro",
       "command": true,
       "macroId": "454bef03-394e-4a34-bea2-dc0adaf3753f"
+    },
+    {
+      "id": "0ef618ce-d97f-44bd-8ef7-cb3005e49df4",
+      "name": "Rename from Permalink",
+      "type": "Macro",
+      "command": true,
+      "macroId": "48770f67-1d8d-4d76-8826-a3fafb1c463a"
     }
   ],
   "macros": [
@@ -179,6 +186,20 @@
           "type": "UserScript",
           "id": "7cf763aa-bcb3-4e4d-af17-361d161debf1",
           "path": "z_Scripts/processFolder.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Rename from Permalink",
+      "id": "48770f67-1d8d-4d76-8826-a3fafb1c463a",
+      "commands": [
+        {
+          "name": "renameFromPermalink",
+          "type": "UserScript",
+          "id": "51a8dfd0-f7b0-483d-a879-958816ab1901",
+          "path": "z_Scripts/renameFromPermalink.js",
           "settings": {}
         }
       ],

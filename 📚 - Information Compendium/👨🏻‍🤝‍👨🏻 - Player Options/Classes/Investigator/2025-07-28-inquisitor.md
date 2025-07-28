@@ -5,12 +5,15 @@ tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/investigator/inquisit
 aliases:
   - Inquisitor
 created: 2025/06/14 at 02:44
-updated: 2025/07/13 at 00:17
+updated: 2025/07/28 at 01:14
+permalink: 2025-07-28-inquisitor
+source: "Valda's Spire of Secrets p. 110*"
+title: Inquisitor
 ---
 
 # Inquisitor
 
-*[Investigator](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Investigator/Investigator.md): Occult Specialization*  
+*[2025-07-28-investigator](2025-07-28-investigator.md): Occult Specialization*  
 *Source: Valda's Spire of Secrets p. 110*  
 
 > [!tldr] Class and Feature Progression

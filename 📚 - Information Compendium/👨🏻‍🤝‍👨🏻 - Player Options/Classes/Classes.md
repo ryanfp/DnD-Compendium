@@ -2144,7 +2144,7 @@ The church has long been the first line of defense against the tide of impending
 
 As a righteous inquisitor of the faith, you are tasked with rooting out heresy, exorcising demons, and stamping out any sign of the occult, and are offered clemency for any action you take in the defense of the greater good. You may investigate anyone or anything you deem to be in line with the forces of evil, for you alone are a holy blade in the dark, the arbiter of your church.
 
-#### **[[Medium Specialization|Medium]]** %% Fold %%
+#### **[[2025-07-28-medium-specialization|Medium]]** %% Fold %%
 
 As conduits between the living and dead, mediums offer an essential glimpse past the veil of mortality. Using their auguries, seances, and divinations, mediums can retrieve morsels of information from the afterlife to settle debts with the living or and assist ongoing investigations. This information, however cryptic, can point an interested party toward clues or evidence which only the deceased might be able to provide.
 

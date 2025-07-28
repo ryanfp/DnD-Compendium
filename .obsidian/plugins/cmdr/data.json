@@ -80,6 +80,12 @@
       "icon": "lucide-activity",
       "name": "QuickAdd: Process Files",
       "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:0ef618ce-d97f-44bd-8ef7-cb3005e49df4",
+      "icon": "lucide-a-arrow-down",
+      "name": "QuickAdd: Rename from Permalink",
+      "mode": "any"
     }
   ],
   "leftRibbon": [],

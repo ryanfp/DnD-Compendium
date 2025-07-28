@@ -4,9 +4,12 @@ cssclasses: json5e-class
 tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/investigator/medium]
 aliases:
   - Medium
-  - Medium
+  - Medium Specialization
 created: 2025/06/13 at 22:28
-updated: 2025/07/13 at 00:17
+updated: 2025/07/28 at 01:14
+permalink: 2025-07-28-medium-specialization
+source: "Valda's Spire of Secrets p. 111*"
+title: Medium
 ---
 
 # Medium

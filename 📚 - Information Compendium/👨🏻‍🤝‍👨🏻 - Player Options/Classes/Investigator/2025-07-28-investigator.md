@@ -5,7 +5,10 @@ tags: [ttrpg-cli/class/investigator, ttrpg-cli/compendium/src/5e/vss]
 aliases:
   - Investigator
 created: 2025/06/14 at 02:43
-updated: 2025/07/13 at 00:17
+updated: 2025/07/28 at 01:14
+permalink: 2025-07-28-investigator
+source: "Valda's Spire of Secrets p. 103*"
+title: Investigator
 ---
 
 # Investigator

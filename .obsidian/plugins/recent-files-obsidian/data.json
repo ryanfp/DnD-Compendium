@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "tradition-of-the-witch",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md"
+      "basename": "2025-07-28-spy",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/2025-07-28-spy.md"
     },
     {
-      "basename": "Tradition of the Oracle",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/Tradition of the Oracle.md"
-    },
-    {
-      "basename": "occultist",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/occultist.md"
+      "basename": "tradition-of-the-shaman",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md"
     },
     {
       "basename": "tradition-of-the-hedge-mage",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-hedge-mage.md"
     },
     {
-      "basename": "tradition-of-the-shaman",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md"
+      "basename": "tradition-of-the-oracle",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-oracle.md"
+    },
+    {
+      "basename": "tradition-of-the-witch",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md"
+    },
+    {
+      "basename": "occultist",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/occultist.md"
     },
     {
       "basename": "tradition-of-the-voidwatcher",
@@ -195,10 +199,6 @@
     {
       "basename": "trickery-domain",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/trickery-domain.md"
-    },
-    {
-      "basename": "tempest-domain",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/tempest-domain.md"
     }
   ],
   "omittedPaths": [],

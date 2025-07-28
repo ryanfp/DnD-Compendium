@@ -5,12 +5,15 @@ tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/investigator/antiquar
 aliases:
   - Antiquarian
 created: 2025/06/17 at 23:53
-updated: 2025/07/13 at 00:17
+updated: 2025/07/28 at 01:14
+permalink: 2025-07-28-antiquarian
+source: "Valda's Spire of Secrets p. 107*"
+title: Antiquarian
 ---
 
 # Antiquarian
 
-*[[Investigator]]: Occult Specialization*  
+*[[2025-07-28-investigator]]: Occult Specialization*  
 *Source: Valda's Spire of Secrets p. 107*  
 
 > [!tldr] Class and Feature Progression

@@ -5,7 +5,7 @@
  * - Extracts sources
  * - Renames files preserving backlinks
  * 
- * Updated: 2025-07-28 04:47:21
+ * Updated: 2025-07-28 04:52:21
  */
 
 // Make sure we have the state manager defined globally
@@ -44,30 +44,35 @@ module.exports = async function(params) {
         
         // Get the Notice class from the global scope
         const Notice = window.Notice;
+        
+        console.log("QuickAddFileCheck: Starting script");
 
         // Try to get selected files from file explorer
         const fileExplorer = app.workspace.getLeavesOfType('file-explorer')[0];
         if (fileExplorer?.view?.fileItems) {
+            console.log("QuickAddFileCheck: Found file explorer");
+            
             const selectedFiles = Object.values(fileExplorer.view.fileItems)
-                .filter(item => item.file && item.selected)
-                .map(item => item.file);
+                .filter(item => item.file && item.selected);
+            
+            console.log(`QuickAddFileCheck: Found ${selectedFiles.length} selected items`);
             
             if (selectedFiles && selectedFiles.length > 0) {
-                // Queue selected files
-                const filePaths = selectedFiles
-                    .filter(file => file.extension === 'md')
-                    .map(file => file.path);
+                console.log("QuickAddFileCheck: Processing selected files/folders");
                 
-                stateManager.queueFiles(filePaths);
-                
-                // Process files from queue
-                let nextFilePath;
-                while ((nextFilePath = stateManager.getNextFile()) !== null) {
-                    const file = app.vault.getAbstractFileByPath(nextFilePath);
-                    if (file && file.extension === 'md') {
+                // Process each selected item (file or folder)
+                for (const item of selectedFiles) {
+                    const file = item.file;
+                    
+                    // Handle folders
+                    if (file.children) {
+                        console.log(`QuickAddFileCheck: Processing folder ${file.path}`);
+                        await processFolder(file, app, Notice);
+                    } 
+                    // Handle files
+                    else if (file.extension === 'md') {
+                        console.log(`QuickAddFileCheck: Processing file ${file.path}`);
                         await processFile(file, app, Notice);
-                        // Add a delay between files
-                        await new Promise(resolve => setTimeout(resolve, 100));
                     }
                 }
                 return;
@@ -76,67 +81,118 @@ module.exports = async function(params) {
 
         // If no selection, try QuickAdd or active file
         let targetFile = null;
+        console.log("QuickAddFileCheck: No selection in file explorer, checking other sources");
 
         // Try QuickAdd context
         if (params.file) {
             targetFile = params.file;
+            console.log(`QuickAddFileCheck: Found file from QuickAdd context: ${targetFile.path}`);
         }
 
         // If no file from QuickAdd, try active file
         if (!targetFile) {
             targetFile = app.workspace.getActiveFile();
+            if (targetFile) {
+                console.log(`QuickAddFileCheck: Using active file: ${targetFile.path}`);
+            }
         }
 
         // If we have a single file, process it
         if (targetFile && targetFile.extension === 'md') {
-            stateManager.queueFiles([targetFile.path]);
             await processFile(targetFile, app, Notice);
             return;
         }
 
         // If we're processing a folder
-        if (targetFile?.children) {
+        if (targetFile && targetFile.children) {
             await processFolder(targetFile, app, Notice);
+            return;
         }
+
+        console.log("QuickAddFileCheck: No file or folder found to process");
+        new Notice("No file or folder found to process");
 
     } catch (error) {
         console.error('Error in quickAddFileCheck:', error);
-        new window.Notice(`Error: ${error.message}`);
+        new Notice(`Error: ${error.message}`);
     }
 };
 
 /**
  * Process all markdown files in a folder
- * Exact copy from working processFolders.js script with added rename functionality
  */
 async function processFolder(folder, app, Notice) {
     try {
-        const stateManager = window.obsidianStateManager;
+        console.log(`Processing folder: ${folder.path}`);
+        new Notice(`Processing folder: ${folder.name}`);
         
-        // Start fresh folder processing
-        stateManager.startFolderProcessing(folder.path);
+        // Get all markdown files from vault
+        const allFiles = app.vault.getMarkdownFiles();
+        const folderPath = normalizeFilePath(folder.path);
         
-        // Get all markdown files in the folder and queue them
-        const files = folder.children || [];
-        const filePaths = files
-            .filter(file => file.extension === 'md')
-            .map(file => file.path);
+        // Filter for files in this folder (including subfolders)
+        const filesInFolder = allFiles.filter(file => {
+            const normalizedFilePath = normalizeFilePath(file.path);
+            return normalizedFilePath.startsWith(folderPath + '|') || 
+                  (normalizedFilePath === folderPath + '.md');
+        });
         
-        stateManager.queueFiles(filePaths);
+        console.log(`Found ${filesInFolder.length} markdown files in folder ${folder.path}`);
         
-        // Process files from queue
-        let nextFilePath;
-        while ((nextFilePath = stateManager.getNextFile()) !== null) {
-            const file = app.vault.getAbstractFileByPath(nextFilePath);
-            if (file && file.extension === 'md') {
-                await processFile(file, app, Notice);
-                // Add a delay between files
-                await new Promise(resolve => setTimeout(resolve, 100));
+        if (filesInFolder.length === 0) {
+            console.log("No markdown files found in folder");
+            new Notice("No markdown files found in folder");
+            return false;
+        }
+        
+        // Process each file
+        let processed = 0;
+        let permalinksAdded = 0;
+        let sourcesExtracted = 0;
+        let renamed = 0;
+        let skipped = 0;
+        
+        for (const file of filesInFolder) {
+            try {
+                console.log(`Processing file in folder: ${file.path}`);
+                const result = await processFile(file, app, Notice, false); // Don't show individual notifications
+                
+                if (result.permalinkAdded || result.sourceExtracted || result.renamed) {
+                    processed++;
+                    
+                    if (result.permalinkAdded) {
+                        permalinksAdded++;
+                    }
+                    
+                    if (result.sourceExtracted) {
+                        sourcesExtracted++;
+                    }
+                    
+                    if (result.renamed) {
+                        renamed++;
+                    }
+                } else {
+                    skipped++;
+                }
+                
+                // Small delay to prevent UI freezing
+                await new Promise(resolve => setTimeout(resolve, 50));
+                
+            } catch (error) {
+                console.error(`Error processing file ${file.path}:`, error);
+                skipped++;
             }
         }
+        
+        console.log(`Processed ${processed} files, added ${permalinksAdded} permalinks, extracted ${sourcesExtracted} sources, renamed ${renamed} files, skipped ${skipped} in folder ${folder.path}`);
+        new Notice(`Processed ${processed} files, renamed ${renamed} in ${folder.name}`);
+        
+        return true;
+        
     } catch (error) {
         console.error(`Error processing folder ${folder.path}:`, error);
         new Notice(`Error processing folder: ${error.message}`);
+        return false;
     }
 }
 
@@ -144,29 +200,54 @@ async function processFolder(folder, app, Notice) {
  * Process a single file
  * Adds permalink, extracts source, and now renames the file based on permalink
  */
-async function processFile(file, app, Notice) {
+async function processFile(file, app, Notice, showNotifications = true) {
     try {
         console.log(`Processing file: ${file.path}`);
         
+        // Track changes
+        let permalinkAdded = false;
+        let sourceExtracted = false;
+        let renamed = false;
+        
         // 1. Add permalink if needed
-        const permalinkAdded = await addPermalinkToFile(file, app);
+        permalinkAdded = await addPermalinkToFile(file, app);
         
         // 2. Extract source if needed
-        const sourceExtracted = await extractSourceFromFile(file, app);
+        sourceExtracted = await extractSourceFromFile(file, app);
         
         // 3. New feature: Rename file based on permalink if different from current name
-        const renamed = await renameFileFromPermalink(file, app, Notice);
+        renamed = await renameFileFromPermalink(file, app, Notice);
         
-        return { permalinkAdded, sourceExtracted, renamed };
+        // Show notification for individual file processing
+        if (showNotifications && (permalinkAdded || sourceExtracted || renamed)) {
+            if (renamed) {
+                new Notice(`Processed and renamed: ${file.basename}`);
+            } else {
+                new Notice(`Processed: ${file.basename}`);
+            }
+        }
+        
+        return { 
+            permalinkAdded,
+            sourceExtracted,
+            renamed
+        };
+        
     } catch (error) {
         console.error(`Error processing file ${file.path}:`, error);
-        return { permalinkAdded: false, sourceExtracted: false, renamed: false };
+        if (showNotifications) {
+            new Notice(`Error processing ${file.basename}: ${error.message}`);
+        }
+        return {
+            permalinkAdded: false,
+            sourceExtracted: false,
+            renamed: false
+        };
     }
 }
 
 /**
  * Add permalink to frontmatter
- * Kept same parameter order as in the original script
  */
 async function addPermalinkToFile(file, app) {
     try {
@@ -198,7 +279,6 @@ async function addPermalinkToFile(file, app) {
 
 /**
  * Extract source from content and add to frontmatter
- * Kept same parameter order as in the original script
  */
 async function extractSourceFromFile(file, app) {
     try {
@@ -251,7 +331,7 @@ async function extractSourceFromFile(file, app) {
 }
 
 /**
- * NEW FUNCTION: Rename file based on permalink in frontmatter
+ * Rename file based on permalink in frontmatter
  * Preserves backlinks by adding the original filename as an alias
  */
 async function renameFileFromPermalink(file, app, Notice) {
@@ -320,7 +400,6 @@ async function renameFileFromPermalink(file, app, Notice) {
             // Rename the file
             await app.fileManager.renameFile(file, newPath);
             console.log(`Successfully renamed file to: ${permalink}.md`);
-            new Notice(`Renamed: ${file.basename} → ${permalink}.md`);
             return true;
         } catch (renameError) {
             console.error(`Error renaming file ${file.path}:`, renameError);
@@ -337,7 +416,6 @@ async function renameFileFromPermalink(file, app, Notice) {
 
 /**
  * Trims and formats a title for use as a permalink
- * Exact implementation from addPermalink.backup.js
  */
 function trimTitle(title) {
     if (!title) return '';
@@ -367,4 +445,11 @@ function trimTitle(title) {
         .replace(/^-+|-+$/g, '');
 
     return cleanTitle;
+}
+
+/**
+ * Normalize file path for comparison (like Linter does)
+ */
+function normalizeFilePath(path) {
+    return path.replace(/\\/g, '|').replace(/\//g, '|');
 }
