@@ -74,6 +74,12 @@
       "icon": "lucide-alarm-clock",
       "name": "QuickAdd: Process Files - Consolidated Scripts",
       "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:1002e97e-2fce-4684-a401-a446dc083072",
+      "icon": "lucide-activity",
+      "name": "QuickAdd: Process Files",
+      "mode": "any"
     }
   ],
   "leftRibbon": [],

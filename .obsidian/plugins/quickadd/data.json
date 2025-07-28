@@ -143,7 +143,7 @@
         {
           "name": "quickAddFileCheck",
           "type": "UserScript",
-          "id": "3d84315b-b6d3-42c8-8cdb-ee61eeed7fed",
+          "id": "8840c2b1-2b9f-41cf-b72d-13f9f9428c18",
           "path": "z_Scripts/quickAddFileCheck.js",
           "settings": {}
         }
