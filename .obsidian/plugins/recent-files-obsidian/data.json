@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Vessel",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Vessel/Vessel.md"
+    },
+    {
       "basename": "2025-07-28-spy",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/2025-07-28-spy.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "twilight-domain",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/twilight-domain.md"
-    },
-    {
-      "basename": "trickery-domain",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/trickery-domain.md"
     }
   ],
   "omittedPaths": [],
