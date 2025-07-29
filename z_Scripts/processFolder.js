@@ -1,38 +1,124 @@
 /**
- * Process all markdown files in a folder:
- * - Add permalink based on filename
- * - Rename file based on permalink (preserving backlinks)
- * - Extract source from content
- *
- * Using Linter's approach for folder selection and file processing
- * Updated: 2025-07-28
+ * QuickAdd integration for file processing
+ * - Works with files/folders from context menu
+ * - Adds permalinks (without dates)
+ * - Extracts sources (properly cleaned)
+ * - Can include parent folder name in permalink
+ * 
+ * Updated: 2025-07-29 00:31:45
  */
-module.exports = async function(params) {
-    const { app } = params;
-    
-    try {
-        // Get the selected folder using Linter's approach
-        const folder = await getTargetFolder(app, params);
+
+// Make sure we have the state manager defined globally
+if (!window.obsidianStateManager) {
+    window.obsidianStateManager = {
+        fileQueue: [],
+        currentFolder: null,
         
-        if (!folder) {
-            console.error("No folder selected");
-            new Notice("No folder selected. Please select a folder in the file explorer.");
-            return false;
+        // Start a fresh folder processing operation
+        startFolderProcessing(folderPath) {
+            this.fileQueue = [];
+            this.currentFolder = folderPath;
+            console.log(`Started processing folder: ${folderPath}`);
+        },
+        
+        // Add files to the processing queue
+        queueFiles(filePaths) {
+            this.fileQueue = [...this.fileQueue, ...filePaths];
+            console.log(`Queued ${filePaths.length} files, total in queue: ${this.fileQueue.length}`);
+        },
+        
+        // Get the next file to process
+        getNextFile() {
+            if (this.fileQueue.length === 0) {
+                return null;
+            }
+            return this.fileQueue.shift();
         }
+    };
+}
+
+module.exports = async function(params) {
+    try {
+        const app = params.app;
+        const stateManager = window.obsidianStateManager;
         
+        // Get the Notice class from the global scope
+        const Notice = window.Notice;
+
+        // Try to get selected files from file explorer
+        const fileExplorer = app.workspace.getLeavesOfType('file-explorer')[0];
+        if (fileExplorer?.view?.fileItems) {
+            const selectedFiles = Object.values(fileExplorer.view.fileItems)
+                .filter(item => item.file && item.selected);
+            
+            if (selectedFiles && selectedFiles.length > 0) {
+                // Process each selected item (file or folder)
+                for (const item of selectedFiles) {
+                    const file = item.file;
+                    
+                    // Handle folders
+                    if (file.children) {
+                        await processFolder(file, app, Notice);
+                    } 
+                    // Handle files
+                    else if (file.extension === 'md') {
+                        await processFile(file, app, Notice);
+                    }
+                }
+                return;
+            }
+        }
+
+        // If no selection, try QuickAdd or active file
+        let targetFile = null;
+
+        // Try QuickAdd context
+        if (params.file) {
+            targetFile = params.file;
+        }
+
+        // If no file from QuickAdd, try active file
+        if (!targetFile) {
+            targetFile = app.workspace.getActiveFile();
+        }
+
+        // If we have a single file, process it
+        if (targetFile && targetFile.extension === 'md') {
+            await processFile(targetFile, app, Notice);
+            return;
+        }
+
+        // If we're processing a folder
+        if (targetFile?.children) {
+            await processFolder(targetFile, app, Notice);
+        }
+
+    } catch (error) {
+        console.error('Error in processFolder:', error);
+        new Notice(`Error: ${error.message}`);
+    }
+};
+
+/**
+ * Process all markdown files in a folder
+ */
+async function processFolder(folder, app, Notice) {
+    try {
         console.log(`Processing folder: ${folder.path}`);
         new Notice(`Processing folder: ${folder.name}`);
         
-        // Get all markdown files using Linter's approach
+        // Get all markdown files from vault
         const allFiles = app.vault.getMarkdownFiles();
         const folderPath = normalizeFilePath(folder.path);
         
         // Filter for files in this folder (including subfolders)
-        // Using Linter's approach of comparing normalized paths
-        const filesInFolder = allFiles.filter(file => 
-            normalizeFilePath(file.path).startsWith(folderPath + '|') || 
-            normalizeFilePath(file.path) === folderPath
-        );
+        const filesInFolder = allFiles.filter(file => {
+            const normalizedFilePath = normalizeFilePath(file.path);
+            return normalizedFilePath.startsWith(folderPath + '|') || 
+                  (normalizedFilePath === folderPath + '.md');
+        });
+        
+        console.log(`Found ${filesInFolder.length} markdown files in folder ${folder.path}`);
         
         if (filesInFolder.length === 0) {
             console.log("No markdown files found in folder");
@@ -42,285 +128,234 @@ module.exports = async function(params) {
         
         // Process each file
         let processed = 0;
-        let skipped = 0;
-        let errors = 0;
+        let permalinksAdded = 0;
+        let sourcesExtracted = 0;
         
         for (const file of filesInFolder) {
             try {
-                const result = await processFile(app, file, false); // Don't show individual notifications
+                console.log(`Processing file in folder: ${file.path}`);
+                const result = await processFile(file, app, Notice, false); // Don't show individual notifications
                 
-                if (result) {
+                if (result.permalinkAdded || result.sourceExtracted) {
                     processed++;
-                } else {
-                    skipped++;
+                    
+                    if (result.permalinkAdded) {
+                        permalinksAdded++;
+                    }
+                    
+                    if (result.sourceExtracted) {
+                        sourcesExtracted++;
+                    }
                 }
                 
                 // Small delay to prevent UI freezing
-                await new Promise(resolve => setTimeout(resolve, 30));
+                await new Promise(resolve => setTimeout(resolve, 50));
                 
             } catch (error) {
                 console.error(`Error processing file ${file.path}:`, error);
-                errors++;
-                // Continue with next file
             }
         }
         
-        console.log(`Processed ${processed} files, skipped ${skipped}, errors: ${errors} in folder ${folder.path}`);
-        new Notice(`Processed ${processed} files, skipped ${skipped}${errors ? `, errors: ${errors}` : ''} in ${folder.name}`);
+        console.log(`Processed ${processed} files, added ${permalinksAdded} permalinks, extracted ${sourcesExtracted} sources in folder ${folder.path}`);
+        new Notice(`Processed ${processed} files in ${folder.name}`);
         
         return true;
         
     } catch (error) {
-        console.error("Error processing folder:", error);
-        new Notice(`Error: ${error.message}`);
+        console.error(`Error processing folder ${folder.path}:`, error);
+        new Notice(`Error processing folder: ${error.message}`);
         return false;
     }
-};
-
-/**
- * Get the target folder using multiple methods
- */
-async function getTargetFolder(app, params) {
-    let folder = null;
-    
-    // 1. Try QuickAdd's params.file (highest priority)
-    if (params.file && params.file.children) {
-        console.log(`Using folder from params.file: ${params.file.path}`);
-        return params.file;
-    }
-    
-    // 2. Try from filepath parameter
-    if (params.filepath) {
-        folder = app.vault.getAbstractFileByPath(params.filepath);
-        if (folder && folder.children) {
-            console.log(`Using folder from filepath: ${folder.path}`);
-            return folder;
-        }
-    }
-    
-    // 3. Try to get selected folder from file explorer (like Linter does)
-    try {
-        const fileExplorer = app.workspace.getLeavesOfType("file-explorer")[0]?.view;
-        
-        if (fileExplorer) {
-            // Different versions of Obsidian use different methods
-            if (typeof fileExplorer.getSelectedFile === 'function') {
-                folder = fileExplorer.getSelectedFile();
-                if (folder && folder.children) {
-                    console.log(`Using selection from file explorer API: ${folder.path}`);
-                    return folder;
-                }
-            }
-            
-            // Try DOM-based approach (as seen in Linter)
-            const selectedEl = fileExplorer.containerEl.querySelector(
-                '.nav-folder.is-active, .nav-folder.mod-active'
-            );
-            
-            if (selectedEl) {
-                const folderPath = selectedEl.getAttribute('data-path');
-                if (folderPath) {
-                    folder = app.vault.getAbstractFileByPath(folderPath);
-                    if (folder && folder.children) {
-                        console.log(`Using folder from DOM selection: ${folder.path}`);
-                        return folder;
-                    }
-                }
-            }
-        }
-    } catch (e) {
-        console.warn("Error getting folder from explorer:", e);
-    }
-    
-    // 4. Last resort: use active file's parent folder
-    try {
-        const activeFile = app.workspace.getActiveFile();
-        if (activeFile && activeFile.parent) {
-            folder = activeFile.parent;
-            console.log(`Using active file's parent folder: ${folder.path}`);
-            return folder;
-        }
-    } catch (e) {
-        console.warn("Error getting active file's parent folder:", e);
-    }
-    
-    return null;
 }
 
 /**
  * Process a single file
+ * Adds permalink, extracts source
  */
-async function processFile(app, file, showNotifications = true) {
+async function processFile(file, app, Notice, showNotifications = true) {
     try {
-        // 1. Read file content
-        const content = await app.vault.read(file);
+        console.log(`Processing file: ${file.path}`);
         
-        // 2. Parse frontmatter
-        const { frontmatter, contentWithoutFrontmatter } = parseFrontmatter(content);
+        // 1. Add permalink if needed
+        const permalinkAdded = await addPermalinkToFile(file, app);
         
-        // 3. Track if anything was modified
-        let frontmatterModified = false;
+        // 2. Extract source if needed
+        const sourceExtracted = await extractSourceFromFile(file, app);
         
-        // 4. Add permalink if needed
-        if (!frontmatter.permalink) {
-            // Generate permalink from filename
-            const currentDate = new Date().toISOString().split('T')[0];
-            let nameBase = file.basename.toLowerCase()
-                .replace(/[^\w\s-]/g, '')   // Remove invalid chars
-                .replace(/\s+/g, '-')       // Replace spaces with hyphens
-                .replace(/--+/g, '-')       // Replace multiple hyphens with single
-                .replace(/^-+|-+$/g, '');   // Trim hyphens from both ends
-            
-            // Create permalink
-            const permalink = `${currentDate}-${nameBase}`;
-            frontmatter.permalink = permalink;
-            frontmatterModified = true;
-            console.log(`Added permalink: ${permalink}`);
-        }
-        
-        // 5. Extract source if needed
-        if (!frontmatter.source) {
-            // Look for source pattern in content
-            const sourcePattern = /\b(?:Source|source)[;:]\s*([^(][^\n]+?)(?:\s*\((?:p|pp)\.?\s*\d+(?:-\d+)?\))?$/m;
-            const match = contentWithoutFrontmatter.match(sourcePattern);
-            
-            if (match && match[1]) {
-                const source = match[1].trim();
-                frontmatter.source = source;
-                frontmatterModified = true;
-                console.log(`Extracted source: ${source}`);
-            }
-        }
-        
-        // 6. Update file if frontmatter was modified
-        if (frontmatterModified) {
-            // Generate new frontmatter
-            const newContent = generateFileContent(frontmatter, contentWithoutFrontmatter);
-            await app.vault.modify(file, newContent);
-            console.log("Updated frontmatter");
-        }
-        
-        // 7. Rename file if auto_rename is enabled
-        let renamed = false;
-        if (frontmatter.auto_rename === "true" || frontmatter.auto_rename === true) {
-            const permalink = frontmatter.permalink;
-            
-            if (permalink) {
-                const newFileName = permalink + ".md";
-                const folderPath = file.path.substring(0, file.path.lastIndexOf("/"));
-                const newPath = folderPath ? `${folderPath}/${newFileName}` : newFileName;
-                
-                // Skip if file already has correct name
-                if (file.path !== newPath) {
-                    // Handle aliases to preserve backlinks
-                    let aliases = [];
-                    let aliasesModified = false;
-                    
-                    if (frontmatter.aliases) {
-                        // Parse aliases
-                        const aliasesStr = frontmatter.aliases.toString().trim();
-                        
-                        if (aliasesStr.startsWith("[") && aliasesStr.endsWith("]")) {
-                            // Parse YAML array format
-                            aliases = aliasesStr
-                                .slice(1, -1)
-                                .split(",")
-                                .map(a => a.trim().replace(/^["']|["']$/g, '')); // Remove quotes if present
-                        } else {
-                            // Single value
-                            aliases = [aliasesStr.replace(/^["']|["']$/g, '')]; // Remove quotes if present
-                        }
-                    }
-                    
-                    // Add current filename as alias if it's not already there
-                    if (!aliases.includes(file.basename)) {
-                        aliases.push(file.basename);
-                        aliasesModified = true;
-                    }
-                    
-                    // Update aliases in frontmatter if modified
-                    if (aliasesModified) {
-                        frontmatter.aliases = aliases.length === 1 
-                            ? aliases[0] 
-                            : "[" + aliases.join(", ") + "]";
-                        
-                        // Update file with new frontmatter before renaming
-                        const newContent = generateFileContent(frontmatter, contentWithoutFrontmatter);
-                        await app.vault.modify(file, newContent);
-                    }
-                    
-                    // Rename the file
-                    await app.fileManager.renameFile(file, newPath);
-                    console.log(`Renamed file to: ${newPath}`);
-                    if (showNotifications) {
-                        new Notice(`Renamed to: ${newFileName}`);
-                    }
-                    renamed = true;
-                }
-            }
-        }
-        
-        if ((frontmatterModified || renamed) && showNotifications) {
+        // Show notification for individual file processing
+        if (showNotifications && (permalinkAdded || sourceExtracted)) {
             new Notice(`Processed: ${file.basename}`);
         }
         
-        return frontmatterModified || renamed;
+        return { 
+            permalinkAdded,
+            sourceExtracted
+        };
         
     } catch (error) {
         console.error(`Error processing file ${file.path}:`, error);
         if (showNotifications) {
             new Notice(`Error processing ${file.basename}: ${error.message}`);
         }
-        throw error; // Re-throw to be handled by the caller
+        return {
+            permalinkAdded: false,
+            sourceExtracted: false
+        };
     }
 }
 
 /**
- * Parse frontmatter from file content
+ * Add permalink to frontmatter with parent folder name
  */
-function parseFrontmatter(content) {
-    let frontmatter = {};
-    let contentWithoutFrontmatter = content;
-    
-    if (content.startsWith("---")) {
-        const endIndex = content.indexOf("---", 3);
+async function addPermalinkToFile(file, app) {
+    try {
+        // Get the frontmatter
+        const cache = app.metadataCache.getFileCache(file)?.frontmatter;
         
-        if (endIndex !== -1) {
-            const frontmatterText = content.slice(3, endIndex).trim();
-            contentWithoutFrontmatter = content.slice(endIndex + 3).trim();
-            
-            // Parse frontmatter lines
-            frontmatterText.split("\n").forEach(line => {
-                const colonIndex = line.indexOf(":");
-                if (colonIndex > 0) {
-                    const key = line.substring(0, colonIndex).trim();
-                    const value = line.substring(colonIndex + 1).trim();
-                    frontmatter[key] = value;
-                }
-            });
+        // Skip if permalink already exists
+        if (cache?.permalink) {
+            console.log(`Skipping permalink for ${file.basename}: permalink already exists`);
+            return false;
         }
+
+        // Generate permalink from basename
+        let permalink = trimTitle(file.basename);
+        
+        // Add parent folder name to permalink
+        const shouldIncludeParent = true; // Set to false if you don't want this feature
+        
+        if (shouldIncludeParent) {
+            const pathParts = file.path.split('/');
+            if (pathParts.length >= 2) {
+                // Get immediate parent folder name
+                const parentFolder = pathParts[pathParts.length - 2];
+                // Clean it up the same way we clean titles
+                const cleanParent = trimTitle(parentFolder);
+                
+                // Don't add parent if it's already in the permalink
+                if (cleanParent && !permalink.includes(cleanParent)) {
+                    permalink = permalink + '-' + cleanParent;
+                }
+            }
+        }
+        
+        // Update frontmatter
+        await app.fileManager.processFrontMatter(file, (frontmatter) => {
+            frontmatter.permalink = permalink;
+        });
+
+        console.log(`Added permalink for ${file.basename}: ${permalink}`);
+        return true;
+
+    } catch (error) {
+        console.error(`Error adding permalink to ${file.basename}:`, error);
+        return false;
     }
-    
-    return { frontmatter, contentWithoutFrontmatter };
 }
 
 /**
- * Generate content with updated frontmatter
+ * Extract source from content and add to frontmatter
+ * Improved to properly clean sources
  */
-function generateFileContent(frontmatter, contentWithoutFrontmatter) {
-    let content = "---\n";
-    
-    // Add all frontmatter properties
-    Object.entries(frontmatter).forEach(([key, value]) => {
-        content += `${key}: ${value}\n`;
-    });
-    
-    content += "---\n\n" + contentWithoutFrontmatter;
-    return content;
+async function extractSourceFromFile(file, app) {
+    try {
+        // Get the frontmatter
+        const cache = app.metadataCache.getFileCache(file)?.frontmatter;
+        
+        // Skip if source already exists
+        if (cache?.source) {
+            console.log(`Skipping source extraction for ${file.basename}: source already exists`);
+            return false;
+        }
+
+        // Read file content
+        const content = await app.vault.read(file);
+        
+        // Match Source: pattern (case insensitive)
+        // Matches both "Source:" and "Source;" with various capitalizations
+        const sourcePattern = /\b(?:Source|source)[;:]\s*([^(][^\n]+?)(?:\s*\((?:p|pp)\.?\s*\d+(?:-\d+)?\))?$/m;
+        const match = content.match(sourcePattern);
+        
+        if (match && match[1]) {
+            let source = match[1].trim();
+            
+            // Clean up the source - improved version
+            source = cleanSource(source);
+            
+            // Update frontmatter
+            await app.fileManager.processFrontMatter(file, (frontmatter) => {
+                frontmatter.source = source;
+            });
+
+            console.log(`Extracted source for ${file.basename}: "${source}"`);
+            return true;
+        } else {
+            console.log(`No source found in ${file.basename}`);
+            return false;
+        }
+
+    } catch (error) {
+        console.error(`Error extracting source from ${file.basename}:`, error);
+        return false;
+    }
 }
 
 /**
- * Normalize file path for comparison (like Linter does)
+ * Properly clean a source string
+ */
+function cleanSource(source) {
+    if (!source) return '';
+    
+    // Remove quotes, asterisks, and other formatting characters
+    let clean = source.replace(/[*"'"]/g, '');
+    
+    // Remove page references (p. X, pg. X, page X)
+    clean = clean.replace(/\s*(?:p\.?|pg\.?|page)\s*\d+.*$/i, '');
+    
+    // Remove trailing punctuation
+    clean = clean.replace(/[.,;:]+$/, '');
+    
+    // Trim whitespace
+    clean = clean.trim();
+    
+    return clean;
+}
+
+/**
+ * Trims and formats a title for use as a permalink
+ */
+function trimTitle(title) {
+    if (!title) return '';
+
+    // Clean up the title
+    let cleanTitle = title
+        // Replace special characters with space
+        .replace(/[^\w\s\-'&()]/g, ' ')  // Keep hyphen, apostrophe, ampersand, and parentheses
+        // Replace multiple spaces with single space
+        .replace(/\s+/g, ' ')
+        // Trim whitespace
+        .trim()
+        // Split into words
+        .split(' ')
+        // Take first 5 words
+        .slice(0, 5)
+        // Join with hyphens
+        .join('-')
+        // Convert to lowercase
+        .toLowerCase()
+        // Clean up any remaining unwanted characters
+        .replace(/['"]/g, '')  // Remove quotes
+        .replace(/\(|\)/g, '') // Remove parentheses
+        .replace(/&/g, 'and')  // Replace & with 'and'
+        // Clean up multiple hyphens and hyphens at start/end
+        .replace(/-+/g, '-')
+        .replace(/^-+|-+$/g, '');
+
+    return cleanTitle;
+}
+
+/**
+ * Normalize file path for comparison
  */
 function normalizeFilePath(path) {
     return path.replace(/\\/g, '|').replace(/\//g, '|');

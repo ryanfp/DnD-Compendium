@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags: [ttrpg-cli/compendium/src/5e/llvessel, ttrpg-cli/subclass/vessel/trickster]
-aliases: 
+aliases:
+  - The Trickster
 created: 2025/06/13 at 22:33
-updated: 2025/07/13 at 00:17
+updated: 2025/07/28 at 20:07
 permalink: 2025-07-29-the-trickster
 source: The Vessel p. 11*
+title: The Trickster
 ---
 
 # The Trickster

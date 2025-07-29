@@ -5,6 +5,10 @@
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Vessel/Vessel.md"
     },
     {
+      "basename": "The Trickster",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Vessel/The Trickster.md"
+    },
+    {
       "basename": "2025-07-28-spy",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/2025-07-28-spy.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "war-domain",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/war-domain.md"
-    },
-    {
-      "basename": "twilight-domain",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/twilight-domain.md"
     }
   ],
   "omittedPaths": [],
