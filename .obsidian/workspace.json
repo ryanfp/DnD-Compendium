@@ -2664,6 +2664,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "vessel",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Vessel/vessel.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"vessel\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "The Trickster",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Vessel/2025-07-29-the-trickster.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"The Trickster\"}",
@@ -2998,7 +3004,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Vessel/vessel.md",
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Vessel/2025-07-29-the-ascended-vessel.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -3013,7 +3019,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "vessel"
+              "title": "2025-07-29-the-ascended-vessel"
             }
           }
         ],
@@ -3440,10 +3446,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Vessel/vessel.md"
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Vessel/2025-07-29-the-ascended-vessel.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for vessel"
+              "title": "File properties for 2025-07-29-the-ascended-vessel"
             }
           }
         ],
@@ -3487,16 +3493,20 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "fcaa59025a7544d2",
   "lastOpenFiles": [
+    "z_Scripts/Unconfirmed 538324.crdownload",
+    "z_Scripts/Unconfirmed 470205.crdownload",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Vessel/vessel.md",
+    "z_Scripts/Unconfirmed 713014.crdownload",
     "z_Scripts/Unconfirmed 858638.crdownload",
     "z_Scripts/Unconfirmed 116891.crdownload",
     "z_Scripts/Unconfirmed 494161.crdownload",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Vessel/2025-07-29-the-trickster.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Vessel/vessel.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/2025-07-28-spy.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-hedge-mage.md",
@@ -3507,9 +3517,6 @@
     "z_Scripts/Unconfirmed 937884.crdownload",
     "z_Scripts/renameFromPermalink.js",
     "z_Scripts/Unconfirmed 826511.crdownload",
-    "z_Scripts/Unconfirmed 513009.crdownload",
-    "z_Scripts/Unconfirmed 514133.crdownload",
-    "z_Scripts/Unconfirmed 858879.crdownload",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/occultist.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-voidwatcher.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Aberrant Mind.md",

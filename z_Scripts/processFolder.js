@@ -4,11 +4,10 @@
  * - Adds permalinks (without dates)
  * - Extracts sources (properly cleaned)
  * - Can include parent folder name in permalink
- * - Updates existing permalinks/sources if they would be different
  * - Removes articles like "the", "a", "an" (but keeps "of")
  * 
- * Updated: 2025-07-29 01:26:55
- * User: ryanfpwe
+ * Updated: 2025-07-29 02:32:20
+ * User: ryanfp
  */
 
 module.exports = async function(params) {
@@ -16,39 +15,37 @@ module.exports = async function(params) {
     const Notice = window.Notice;
     
     try {
+        console.log("processFolder: Starting script");
+        
         // Get the selected file or folder
+        let targetFile = null;
+        
+        // Try from file explorer selection
         const fileExplorer = app.workspace.getLeavesOfType('file-explorer')[0];
-        let selectedFiles = [];
-        
         if (fileExplorer?.view?.fileItems) {
-            selectedFiles = Object.values(fileExplorer.view.fileItems)
-                .filter(item => item.file && item.selected)
-                .map(item => item.file);
-        }
-        
-        // Process selected files and folders
-        if (selectedFiles.length > 0) {
-            for (const file of selectedFiles) {
-                if (file.children) {
-                    // It's a folder, process all files within
-                    await processFolder(file, app, Notice);
-                } else if (file.extension === 'md') {
-                    // It's a markdown file, process it
-                    await processFile(file, app, Notice);
-                }
+            const selectedItems = Object.values(fileExplorer.view.fileItems)
+                .filter(item => item.file && item.selected);
+            
+            if (selectedItems.length > 0) {
+                targetFile = selectedItems[0].file;
+                console.log(`processFolder: Selected ${targetFile.path} from file explorer`);
             }
-            return;
         }
         
-        // If no selection, try getting file from context
-        let targetFile = params.file || app.workspace.getActiveFile();
-        
+        // If no selection, try from params or active file
         if (!targetFile) {
-            new Notice('No file selected');
-            return;
+            targetFile = params.file || app.workspace.getActiveFile();
+            
+            if (targetFile) {
+                console.log(`processFolder: Using ${targetFile.path} from context or active file`);
+            } else {
+                console.log("processFolder: No file selected");
+                new Notice('No file selected');
+                return;
+            }
         }
         
-        // Process either the file or folder
+        // Process folder or file
         if (targetFile.children) {
             await processFolder(targetFile, app, Notice);
         } else if (targetFile.extension === 'md') {
@@ -56,6 +53,7 @@ module.exports = async function(params) {
         } else {
             new Notice('Selected item is not a markdown file or folder');
         }
+        
     } catch (error) {
         console.error('Error in processFolder:', error);
         new Notice(`Error: ${error.message}`);
@@ -70,9 +68,9 @@ async function processFolder(folder, app, Notice) {
         console.log(`Processing folder: ${folder.path}`);
         new Notice(`Processing folder: ${folder.name}`);
         
-        // Get all files in the folder and subfolders
-        const files = getAllMarkdownFiles(app, folder);
-        console.log(`Found ${files.length} markdown files in folder ${folder.path}`);
+        // Get all files in folder recursively
+        const files = getAllFiles(folder);
+        console.log(`Found ${files.length} files in folder ${folder.path}`);
         
         // Process each file
         let processed = 0;
@@ -80,17 +78,18 @@ async function processFolder(folder, app, Notice) {
         let sourcesExtracted = 0;
         
         for (const file of files) {
-            try {
-                const result = await processFile(file, app, null, false); // Don't show notifications for individual files
-                
-                if (result.permalinkAdded) permalinksAdded++;
-                if (result.sourceExtracted) sourcesExtracted++;
-                if (result.permalinkAdded || result.sourceExtracted) processed++;
-                
-                // Add a small delay to prevent UI lockup
-                await new Promise(resolve => setTimeout(resolve, 50));
-            } catch (error) {
-                console.error(`Error processing file ${file.path}:`, error);
+            if (file.extension === 'md') {
+                try {
+                    const result = await processFile(file, app, null, false);
+                    
+                    if (result.permalinkAdded) permalinksAdded++;
+                    if (result.sourceExtracted) sourcesExtracted++;
+                    if (result.permalinkAdded || result.sourceExtracted) processed++;
+                    
+                    await new Promise(resolve => setTimeout(resolve, 50)); // Small delay
+                } catch (error) {
+                    console.error(`Error processing file ${file.path}:`, error);
+                }
             }
         }
         
@@ -104,18 +103,18 @@ async function processFolder(folder, app, Notice) {
 }
 
 /**
- * Get all markdown files in a folder including subfolders
+ * Get all files in a folder recursively
  */
-function getAllMarkdownFiles(app, folder) {
+function getAllFiles(folder) {
     const files = [];
     
-    function processFolder(folder) {
-        if (!folder.children) return;
+    function processFolder(item) {
+        if (!item.children) return;
         
-        for (const child of folder.children) {
+        for (const child of item.children) {
             if (child.children) {
                 processFolder(child);
-            } else if (child.extension === 'md') {
+            } else {
                 files.push(child);
             }
         }
@@ -170,27 +169,13 @@ async function addPermalinkToFile(file, app) {
         // Get the frontmatter
         const cache = app.metadataCache.getFileCache(file)?.frontmatter;
         
-        // Generate new permalink from basename
-        let newPermalink = trimTitle(file.basename);
-        
-        // Add parent folder name to permalink
-        const pathParts = file.path.split('/');
-        if (pathParts.length >= 2) {
-            // Get immediate parent folder name
-            const parentFolder = pathParts[pathParts.length - 2];
-            // Clean it up the same way we clean titles
-            const cleanParent = trimTitle(parentFolder);
-            
-            // Don't add parent if it's already in the permalink
-            if (cleanParent && !newPermalink.includes(cleanParent)) {
-                newPermalink = newPermalink + '-' + cleanParent;
-            }
-        }
-        
-        // Check if permalink exists and if it would be different
+        // Skip if permalink already exists
         if (cache?.permalink) {
             // Clean existing permalink (remove dates)
             const existingPermalink = cleanPermalink(cache.permalink);
+            
+            // Generate new permalink
+            const newPermalink = generatePermalink(file);
             
             // If the permalinks are the same, skip
             if (existingPermalink === newPermalink) {
@@ -199,21 +184,54 @@ async function addPermalinkToFile(file, app) {
             }
             
             console.log(`Updating permalink for ${file.basename}: ${existingPermalink} -> ${newPermalink}`);
-        } else {
-            console.log(`Adding permalink for ${file.basename}: ${newPermalink}`);
+            
+            // Update frontmatter
+            await app.fileManager.processFrontMatter(file, (frontmatter) => {
+                frontmatter.permalink = newPermalink;
+            });
+            
+            return true;
         }
+        
+        // No permalink exists, add one
+        const permalink = generatePermalink(file);
         
         // Update frontmatter
         await app.fileManager.processFrontMatter(file, (frontmatter) => {
-            frontmatter.permalink = newPermalink;
+            frontmatter.permalink = permalink;
         });
-        
+
+        console.log(`Added permalink for ${file.basename}: ${permalink}`);
         return true;
 
     } catch (error) {
         console.error(`Error adding permalink to ${file.basename}:`, error);
         return false;
     }
+}
+
+/**
+ * Generate a permalink from file path
+ */
+function generatePermalink(file) {
+    // Start with basename
+    let permalink = trimTitle(file.basename);
+    
+    // Add parent folder name to permalink
+    const pathParts = file.path.split('/');
+    if (pathParts.length >= 2) {
+        // Get immediate parent folder name
+        const parentFolder = pathParts[pathParts.length - 2];
+        // Clean it up the same way we clean titles
+        const cleanParent = trimTitle(parentFolder);
+        
+        // Don't add parent if it's already in the permalink
+        if (cleanParent && !permalink.includes(cleanParent)) {
+            permalink = permalink + '-' + cleanParent;
+        }
+    }
+    
+    return permalink;
 }
 
 /**

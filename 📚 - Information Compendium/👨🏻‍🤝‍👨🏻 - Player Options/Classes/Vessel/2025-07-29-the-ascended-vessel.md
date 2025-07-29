@@ -6,10 +6,11 @@ tags:
   - ttrpg-cli/subclass/vessel/ascended
 aliases:
   - The Ascended
+  - 2025-07-29-the-ascended
 created: 2025/06/13 at 22:33
 updated: 2025/07/13 at 00:17
-permalink: 2025-07-29-the-ascended
-source: The Vessel p. 5*
+permalink: 2025-07-29-the-ascended-vessel
+source: The Vessel
 ---
 
 # The Ascended
