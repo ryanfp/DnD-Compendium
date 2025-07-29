@@ -1,8 +1,11 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/llvessel, ttrpg-cli/subclass/vessel/cataclysm]
-aliases: 
+tags:
+  - ttrpg-cli/compendium/src/5e/llvessel
+  - ttrpg-cli/subclass/vessel/cataclysm
+aliases:
+  - The Cataclysm
 created: 2025/06/13 at 22:33
 updated: 2025/07/13 at 00:17
 permalink: 2025-07-29-the-cataclysm
@@ -11,7 +14,7 @@ source: The Vessel p. 6*
 
 # The Cataclysm
 
-*[Vessel](Vessel.md): Sealed Spirit*  
+*[vessel](vessel.md): Sealed Spirit*  
 *Source: The Vessel p. 6*  
 
 > [!tldr] Class and Feature Progression

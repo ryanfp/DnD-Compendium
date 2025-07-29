@@ -1,7 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/llvessel, ttrpg-cli/subclass/vessel/trickster]
+tags:
+  - ttrpg-cli/compendium/src/5e/llvessel
+  - ttrpg-cli/subclass/vessel/trickster
 aliases:
   - The Trickster
 created: 2025/06/13 at 22:33
@@ -13,7 +15,7 @@ title: The Trickster
 
 # The Trickster
 
-*[Vessel](Vessel.md): Sealed Spirit*  
+*[vessel](vessel.md): Sealed Spirit*  
 *Source: The Vessel p. 11*  
 
 > [!tldr] Class and Feature Progression
