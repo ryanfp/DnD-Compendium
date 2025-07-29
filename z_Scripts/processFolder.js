@@ -5,154 +5,131 @@
  * - Extracts sources (properly cleaned)
  * - Can include parent folder name in permalink
  * - Updates existing permalinks/sources if they would be different
+ * - Removes articles like "the", "a", "an" (but keeps "of")
  * 
- * Updated: 2025-07-29 00:43:31
- * User: ryanfp
+ * Updated: 2025-07-29 01:26:55
+ * User: ryanfpwe
  */
 
-// Make sure we have the state manager defined globally
-if (!window.obsidianStateManager) {
-    window.obsidianStateManager = {
-        fileQueue: [],
-        currentFolder: null,
-        
-        // Start a fresh folder processing operation
-        startFolderProcessing(folderPath) {
-            this.fileQueue = [];
-            this.currentFolder = folderPath;
-            console.log(`Started processing folder: ${folderPath}`);
-        },
-        
-        // Add files to the processing queue
-        queueFiles(filePaths) {
-            this.fileQueue = [...this.fileQueue, ...filePaths];
-            console.log(`Queued ${filePaths.length} files, total in queue: ${this.fileQueue.length}`);
-        },
-        
-        // Get the next file to process
-        getNextFile() {
-            if (this.fileQueue.length === 0) {
-                return null;
-            }
-            return this.fileQueue.shift();
-        }
-    };
-}
-
 module.exports = async function(params) {
+    const app = params.app;
+    const Notice = window.Notice;
+    
     try {
-        const app = params.app;
-        const stateManager = window.obsidianStateManager;
-        
-        // Get the Notice class from the global scope
-        const Notice = window.Notice;
-
-        // Try to get selected files from file explorer
+        // Get the selected file or folder
         const fileExplorer = app.workspace.getLeavesOfType('file-explorer')[0];
+        let selectedFiles = [];
+        
         if (fileExplorer?.view?.fileItems) {
-            const selectedFiles = Object.values(fileExplorer.view.fileItems)
-                .filter(item => item.file && item.selected);
-            
-            if (selectedFiles && selectedFiles.length > 0) {
-                console.log(`Found ${selectedFiles.length} selected items`);
-                
-                // Queue selected files
-                for (const item of selectedFiles) {
-                    const file = item.file;
-                    
-                    // Handle folders
-                    if (file.children) {
-                        console.log(`Processing folder: ${file.path}`);
-                        const folderFiles = getMarkdownFilesInFolder(app, file);
-                        stateManager.queueFiles(folderFiles.map(f => f.path));
-                    } 
-                    // Handle individual files
-                    else if (file.extension === 'md') {
-                        stateManager.queueFiles([file.path]);
-                    }
+            selectedFiles = Object.values(fileExplorer.view.fileItems)
+                .filter(item => item.file && item.selected)
+                .map(item => item.file);
+        }
+        
+        // Process selected files and folders
+        if (selectedFiles.length > 0) {
+            for (const file of selectedFiles) {
+                if (file.children) {
+                    // It's a folder, process all files within
+                    await processFolder(file, app, Notice);
+                } else if (file.extension === 'md') {
+                    // It's a markdown file, process it
+                    await processFile(file, app, Notice);
                 }
-                
-                // Process files from queue
-                let nextFilePath;
-                while ((nextFilePath = stateManager.getNextFile()) !== null) {
-                    const file = app.vault.getAbstractFileByPath(nextFilePath);
-                    if (file && file.extension === 'md') {
-                        await processFile(file, app, Notice);
-                        // Add a delay between files
-                        await new Promise(resolve => setTimeout(resolve, 100));
-                    }
-                }
-                return;
             }
-        }
-
-        // If no selection, try QuickAdd or active file
-        let targetFile = null;
-
-        // Try QuickAdd context
-        if (params.file) {
-            targetFile = params.file;
-        }
-
-        // If no file from QuickAdd, try active file
-        if (!targetFile) {
-            targetFile = app.workspace.getActiveFile();
-        }
-
-        // If we have a single file, process it
-        if (targetFile && targetFile.extension === 'md') {
-            stateManager.queueFiles([targetFile.path]);
-            await processFile(targetFile, app, Notice);
             return;
         }
-
-        // If we're processing a folder
-        if (targetFile?.children) {
-            const folderFiles = getMarkdownFilesInFolder(app, targetFile);
-            stateManager.queueFiles(folderFiles.map(f => f.path));
-            
-            // Process files from queue
-            let nextFilePath;
-            let processed = 0;
-            
-            while ((nextFilePath = stateManager.getNextFile()) !== null) {
-                const file = app.vault.getAbstractFileByPath(nextFilePath);
-                if (file && file.extension === 'md') {
-                    await processFile(file, app, Notice);
-                    processed++;
-                    // Add a delay between files
-                    await new Promise(resolve => setTimeout(resolve, 100));
-                }
-            }
-            
-            new Notice(`Processed ${processed} files in ${targetFile.name}`);
+        
+        // If no selection, try getting file from context
+        let targetFile = params.file || app.workspace.getActiveFile();
+        
+        if (!targetFile) {
+            new Notice('No file selected');
+            return;
         }
-
+        
+        // Process either the file or folder
+        if (targetFile.children) {
+            await processFolder(targetFile, app, Notice);
+        } else if (targetFile.extension === 'md') {
+            await processFile(targetFile, app, Notice);
+        } else {
+            new Notice('Selected item is not a markdown file or folder');
+        }
     } catch (error) {
         console.error('Error in processFolder:', error);
-        new window.Notice(`Error: ${error.message}`);
+        new Notice(`Error: ${error.message}`);
     }
 };
 
 /**
- * Get all markdown files in a folder (including subfolders)
+ * Process all markdown files in a folder
  */
-function getMarkdownFilesInFolder(app, folder) {
-    const allFiles = app.vault.getMarkdownFiles();
-    const folderPath = normalizeFilePath(folder.path);
+async function processFolder(folder, app, Notice) {
+    try {
+        console.log(`Processing folder: ${folder.path}`);
+        new Notice(`Processing folder: ${folder.name}`);
+        
+        // Get all files in the folder and subfolders
+        const files = getAllMarkdownFiles(app, folder);
+        console.log(`Found ${files.length} markdown files in folder ${folder.path}`);
+        
+        // Process each file
+        let processed = 0;
+        let permalinksAdded = 0;
+        let sourcesExtracted = 0;
+        
+        for (const file of files) {
+            try {
+                const result = await processFile(file, app, null, false); // Don't show notifications for individual files
+                
+                if (result.permalinkAdded) permalinksAdded++;
+                if (result.sourceExtracted) sourcesExtracted++;
+                if (result.permalinkAdded || result.sourceExtracted) processed++;
+                
+                // Add a small delay to prevent UI lockup
+                await new Promise(resolve => setTimeout(resolve, 50));
+            } catch (error) {
+                console.error(`Error processing file ${file.path}:`, error);
+            }
+        }
+        
+        console.log(`Processed ${processed} files, added ${permalinksAdded} permalinks, extracted ${sourcesExtracted} sources in folder ${folder.path}`);
+        new Notice(`Processed ${processed} files in ${folder.name}`);
+        
+    } catch (error) {
+        console.error(`Error processing folder ${folder.path}:`, error);
+        new Notice(`Error processing folder: ${error.message}`);
+    }
+}
+
+/**
+ * Get all markdown files in a folder including subfolders
+ */
+function getAllMarkdownFiles(app, folder) {
+    const files = [];
     
-    return allFiles.filter(file => {
-        const normalizedFilePath = normalizeFilePath(file.path);
-        return normalizedFilePath.startsWith(folderPath + '|') || 
-              (normalizedFilePath === folderPath + '.md');
-    });
+    function processFolder(folder) {
+        if (!folder.children) return;
+        
+        for (const child of folder.children) {
+            if (child.children) {
+                processFolder(child);
+            } else if (child.extension === 'md') {
+                files.push(child);
+            }
+        }
+    }
+    
+    processFolder(folder);
+    return files;
 }
 
 /**
  * Process a single file
  * Adds permalink, extracts source
  */
-async function processFile(file, app, Notice) {
+async function processFile(file, app, Notice, showNotifications = true) {
     try {
         console.log(`Processing file: ${file.path}`);
         
@@ -163,7 +140,7 @@ async function processFile(file, app, Notice) {
         const sourceExtracted = await extractSourceFromFile(file, app);
         
         // Show notification for individual file processing
-        if (permalinkAdded || sourceExtracted) {
+        if ((permalinkAdded || sourceExtracted) && showNotifications && Notice) {
             new Notice(`Processed: ${file.basename}`);
         }
         
@@ -174,7 +151,9 @@ async function processFile(file, app, Notice) {
         
     } catch (error) {
         console.error(`Error processing file ${file.path}:`, error);
-        new Notice(`Error processing ${file.basename}: ${error.message}`);
+        if (showNotifications && Notice) {
+            new Notice(`Error processing ${file.basename}: ${error.message}`);
+        }
         return {
             permalinkAdded: false,
             sourceExtracted: false
@@ -329,6 +308,7 @@ function cleanSource(source) {
 
 /**
  * Trims and formats a title for use as a permalink
+ * Also removes common articles like "the", "a", "an" (but keeps "of")
  */
 function trimTitle(title) {
     if (!title) return '';
@@ -343,6 +323,8 @@ function trimTitle(title) {
         .trim()
         // Split into words
         .split(' ')
+        // Remove articles like "the", "a", "an" (but keep "of")
+        .filter(word => !["the", "a", "an"].includes(word.toLowerCase()))
         // Take first 5 words
         .slice(0, 5)
         // Join with hyphens
@@ -358,11 +340,4 @@ function trimTitle(title) {
         .replace(/^-+|-+$/g, '');
 
     return cleanTitle;
-}
-
-/**
- * Normalize file path for comparison
- */
-function normalizeFilePath(path) {
-    return path.replace(/\\/g, '|').replace(/\//g, '|');
 }
