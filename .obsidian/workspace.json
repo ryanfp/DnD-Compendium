@@ -2664,6 +2664,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Academy of Chivalry",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlord/Academy of Chivalry.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Academy of Chivalry\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Astral Guardian",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warden/Astral Guardian.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Astral Guardian\"}",
@@ -3160,7 +3166,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlord/Academy of Chivalry.md",
+                "file": "ideas.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -3175,7 +3181,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Academy of Chivalry"
+              "title": "ideas"
             }
           }
         ],
@@ -3602,10 +3608,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlord/Academy of Chivalry.md"
+                "file": "ideas.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Academy of Chivalry"
+              "title": "File properties for ideas"
             }
           }
         ],
@@ -3655,6 +3661,7 @@
   },
   "active": "a5ec94890ee5953b",
   "lastOpenFiles": [
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlord/Academy of Chivalry.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warden/Astral Guardian.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/arcana-domain.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cardcaster/card-slinger-hand-of-the-cardcaster.md",
@@ -3690,7 +3697,6 @@
     "new-note-for-testing.md",
     "Filename Test.md",
     "z_Templates/Process Files.md",
-    "z_Templates/Run All Steps.md",
     "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg",
     "z_img/Pause-Circle-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg",
     "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",

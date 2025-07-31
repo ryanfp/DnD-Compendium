@@ -5,7 +5,8 @@ tags: [ttrpg-cli/compendium/src/5e/llaw, ttrpg-cli/subclass/warlord/chivalry]
 aliases:
   - Academy of Chivalry
 created: 2025/06/13 at 22:34
-updated: 2025/07/13 at 00:17
+updated: 2025/07/30 at 23:57
+title: Academy of Chivalry
 ---
 
 # Academy of Chivalry
