@@ -12,43 +12,38 @@
 
 module.exports = async function(params) {
     const app = params.app;
-    console.log("processFolder: Starting with params", Object.keys(params));
     const Notice = params.Notice || window.Notice;
     
-    try {
-        console.log("TRYING TO GET ACTIVE FILE'S PARENT FOLDER");
-    
     // Try to get selected files from file explorer
- 
-        if (activeFile) {
-            console.log(`Using active file: ${activeFile.path}`);
-
-    const fileExplorer = app.workspace.getLeavesOfType("file-explorer")[0];
-
-
-            // If active file's parent folder should be processed
-            const parentFolder = activeFile.parent;
-            if (parentFolder) {
-                console.log(`Using active file's parent folder: ${parentFolder.path}`);
-                new window.Notice(`Processing folder: ${parentFolder.name}`);
-                await processFolder(parentFolder, app);
-            } else {
-                // Just process the active file
-                await renameFileFromPermalink(activeFile, app);
-            }
-        } else {
-            console.log("No active file found");
-            new window.Notice("No file or folder selected");
-        }
-    } catch (error) {
-        console.error("Error in renameFromPermalink:", error);
-        new window.Notice(`Error: ${error.message}`);
-    }
-};
--------------------------------------------------------------------    
-    // Process each selected item (file or folder)
-
+    let selectedFiles = [];
     
+    const fileExplorer = app.workspace.getLeavesOfType("file-explorer")[0];
+    if (fileExplorer && fileExplorer.view && fileExplorer.view.fileItems) {
+        selectedFiles = Object.values(fileExplorer.view.fileItems)
+            .filter(item => item.file && item.selected)
+            .map(item => item.file);
+    }
+    
+    // If nothing selected in file explorer but we have a context file
+    if (selectedFiles.length === 0 && params.file) {
+        selectedFiles = [params.file];
+    }
+    
+    // If still nothing, try active file
+    if (selectedFiles.length === 0) {
+        const activeFile = app.workspace.getActiveFile();
+        if (activeFile) {
+            selectedFiles = [activeFile];
+        }
+    }
+    
+    // No files to process
+    if (selectedFiles.length === 0) {
+        new Notice("No files selected");
+        return;
+    }
+    
+    // Process each selected item (file or folder)
     let processed = 0;
     let permalinksAdded = 0;
     let sourcesExtracted = 0;
