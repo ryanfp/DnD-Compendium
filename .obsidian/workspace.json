@@ -3143,7 +3143,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -3493,12 +3494,15 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "fcaa59025a7544d2",
   "lastOpenFiles": [
+    "z_Scripts/Unconfirmed 765612.crdownload",
+    "z_Scripts/Unconfirmed 959004.crdownload",
+    "z_Scripts/Unconfirmed 609189.crdownload",
+    "z_Scripts/Unconfirmed 198927.crdownload",
     "z_Scripts/Unconfirmed 434632.crdownload",
     "z_Scripts/Unconfirmed 788932.crdownload",
     "z_Scripts/Unconfirmed 538324.crdownload",
@@ -3507,16 +3511,12 @@
     "z_Scripts/Unconfirmed 713014.crdownload",
     "z_Scripts/Unconfirmed 858638.crdownload",
     "z_Scripts/Unconfirmed 116891.crdownload",
-    "z_Scripts/Unconfirmed 494161.crdownload",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Vessel/2025-07-29-the-trickster.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/2025-07-28-spy.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-hedge-mage.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-oracle.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md",
-    "z_Scripts/Unconfirmed 607150.crdownload",
-    "z_Scripts/Unconfirmed 933152.crdownload",
-    "z_Scripts/Unconfirmed 937884.crdownload",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/occultist.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-voidwatcher.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Aberrant Mind.md",

@@ -1,95 +1,118 @@
 /**
  * QuickAdd integration for file processing
- * - Uses the EXACT SAME folder traversal code as renameFromPermalink
+ * - Works with files/folders from context menu or file explorer selections
  * - Adds permalinks (without dates)
  * - Extracts sources (properly cleaned)
  * - Includes parent folder name in permalinks
  * - Removes articles like "the", "a", "an" (but keeps "of")
  * 
- * Updated: 2025-07-29 03:06:45
+ * Updated: 2025-07-29 03:28:01
  * User: ryanfp
  */
 
-module.exports = async function processFolder(params) {
+module.exports = async function(params) {
     const app = params.app;
-    const Notice = window.Notice;
+    const Notice = params.Notice || window.Notice;
     
-    // EXACT COPY FROM renameFromPermalink START
-    // Get selected folder/file
-    let targetFile;
+    // Try to get selected files from file explorer
+    let selectedFiles = [];
     
-    // Check for selection in file explorer
     const fileExplorer = app.workspace.getLeavesOfType("file-explorer")[0];
     if (fileExplorer && fileExplorer.view && fileExplorer.view.fileItems) {
-        const selectedItems = Object.values(fileExplorer.view.fileItems)
-            .filter(i => i.file && i.selected);
-        
-        if (selectedItems.length > 0) {
-            targetFile = selectedItems[0].file;
-            console.log(`Using selected file/folder: ${targetFile.path}`);
+        selectedFiles = Object.values(fileExplorer.view.fileItems)
+            .filter(item => item.file && item.selected)
+            .map(item => item.file);
+    }
+    
+    // If nothing selected in file explorer but we have a context file
+    if (selectedFiles.length === 0 && params.file) {
+        selectedFiles = [params.file];
+    }
+    
+    // If still nothing, try active file
+    if (selectedFiles.length === 0) {
+        const activeFile = app.workspace.getActiveFile();
+        if (activeFile) {
+            selectedFiles = [activeFile];
         }
     }
     
-    // If no selection, try from params
-    if (!targetFile) {
-        targetFile = params.file;
-        if (targetFile) {
-            console.log(`Using file from params: ${targetFile.path}`);
-        }
+    // No files to process
+    if (selectedFiles.length === 0) {
+        new Notice("No files selected");
+        return;
     }
     
-    // If still no target, use active file
-    if (!targetFile) {
-        targetFile = app.workspace.getActiveFile();
-        if (targetFile) {
-            console.log(`Using active file: ${targetFile.path}`);
-        } else {
-            new Notice("No file or folder selected");
-            return;
-        }
-    }
-    // EXACT COPY FROM renameFromPermalink END
-    
-    // Process folder or file
-    try {
-        if (targetFile.children) {
-            // It's a folder
-            await processAllFiles(targetFile, app, Notice);
-        } else if (targetFile.extension === "md") {
-            // It's a markdown file
-            await processFile(targetFile, app, Notice);
-        } else {
-            new Notice("Selected item is not a markdown file or folder");
-        }
-    } catch (error) {
-        console.error(`Error processing: ${error.message}`);
-        new Notice(`Error: ${error.message}`);
-    }
-};
-
-/**
- * Process all files in a folder recursively (EXACT methodology from renameFromPermalink)
- */
-async function processAllFiles(folder, app, Notice) {
-    // EXACT COPY FROM renameFromPermalink's folder processing
-    console.log(`Processing folder: ${folder.path}`);
-    new Notice(`Processing folder: ${folder.path}`);
-    
+    // Process each selected item (file or folder)
     let processed = 0;
     let permalinksAdded = 0;
     let sourcesExtracted = 0;
     
-    // Process function to handle recursion
-    async function processItem(item) {
-        if (item.children) {
-            // It's a folder, process all children
-            for (const child of item.children) {
-                await processItem(child);
+    for (const file of selectedFiles) {
+        if (file.children) {
+            // It's a folder
+            try {
+                const result = await processFolder(file, app, Notice);
+                processed += result.processed || 0;
+                permalinksAdded += result.permalinksAdded || 0;
+                sourcesExtracted += result.sourcesExtracted || 0;
+            } catch (error) {
+                console.error(`Error processing folder ${file.path}:`, error);
+                new Notice(`Error processing folder: ${error.message}`);
             }
-        } else if (item.extension === "md") {
+        } else if (file.extension === "md") {
             // It's a markdown file
             try {
-                const result = await processFile(item, app, null, false);
+                const result = await processFile(file, app, Notice);
+                if (result.permalinkAdded) permalinksAdded++;
+                if (result.sourceExtracted) sourcesExtracted++;
+                if (result.permalinkAdded || result.sourceExtracted) processed++;
+            } catch (error) {
+                console.error(`Error processing file ${file.path}:`, error);
+                new Notice(`Error processing file: ${error.message}`);
+            }
+        }
+    }
+    
+    new Notice(`Processed ${processed} files (${permalinksAdded} permalinks, ${sourcesExtracted} sources)`);
+};
+
+/**
+ * Process all markdown files in a folder
+ */
+async function processFolder(folder, app, Notice) {
+    try {
+        console.log(`Processing folder: ${folder.path}`);
+        new Notice(`Processing folder: ${folder.name}`);
+        
+        let processed = 0;
+        let permalinksAdded = 0;
+        let sourcesExtracted = 0;
+        
+        // Get all markdown files in the folder recursively
+        const files = [];
+        
+        // Function to collect files recursively
+        const collectFiles = (item) => {
+            if (!item.children) return;
+            
+            for (const child of item.children) {
+                if (child.children) {
+                    collectFiles(child);
+                } else if (child.extension === "md") {
+                    files.push(child);
+                }
+            }
+        };
+        
+        collectFiles(folder);
+        console.log(`Found ${files.length} markdown files in folder ${folder.path}`);
+        
+        // Process each file
+        for (const file of files) {
+            try {
+                const result = await processFile(file, app, null, false);
+                
                 if (result.permalinkAdded) permalinksAdded++;
                 if (result.sourceExtracted) sourcesExtracted++;
                 if (result.permalinkAdded || result.sourceExtracted) processed++;
@@ -97,17 +120,20 @@ async function processAllFiles(folder, app, Notice) {
                 // Add a small delay to prevent UI lockup
                 await new Promise(resolve => setTimeout(resolve, 30));
             } catch (error) {
-                console.error(`Error processing ${item.path}: ${error.message}`);
+                console.error(`Error processing file ${file.path}:`, error);
             }
         }
+        
+        console.log(`Processed ${processed} files, added ${permalinksAdded} permalinks, extracted ${sourcesExtracted} sources in folder ${folder.path}`);
+        new Notice(`Processed ${processed} files in ${folder.name}`);
+        
+        return { processed, permalinksAdded, sourcesExtracted };
+        
+    } catch (error) {
+        console.error(`Error processing folder ${folder.path}:`, error);
+        new Notice(`Error processing folder: ${error.message}`);
+        return { processed: 0, permalinksAdded: 0, sourcesExtracted: 0 };
     }
-    
-    // Start processing from the root folder
-    await processItem(folder);
-    
-    // Show summary
-    console.log(`Processed ${processed} files, added ${permalinksAdded} permalinks, extracted ${sourcesExtracted} sources`);
-    new Notice(`Processed ${processed} files in ${folder.name}`);
 }
 
 /**
@@ -308,7 +334,7 @@ function trimTitle(title) {
         .trim()
         // Split into words
         .split(' ')
-        // Remove articles like "the", "a", "an" (but keep "of")
+        // Remove articles like "the", "a", "an" (but keeps "of")
         .filter(word => !["the", "a", "an"].includes(word.toLowerCase()))
         // Take first 5 words
         .slice(0, 5)
