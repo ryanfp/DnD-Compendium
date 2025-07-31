@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/llvessel
-  - ttrpg-cli/subclass/vessel/formless
+tags: [ttrpg-cli/compendium/src/5e/llvessel, ttrpg-cli/subclass/vessel/formless]
 aliases:
+  - 2025-07-29-the-formless
   - The Formless
 created: 2025/06/13 at 22:33
-updated: 2025/07/13 at 00:17
-permalink: 2025-07-29-the-formless
-source: The Vessel p. 10*
+updated: 2025/07/30 at 23:28
+permalink: the-formless-vessel
+source: The Vessel
+title: The Formless
 ---
 
 # The Formless

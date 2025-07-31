@@ -5,10 +5,10 @@ tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/occultist/hedge-ma
 aliases:
   - Tradition of the Hedge Mage
 created: 2025/06/13 at 22:29
-updated: 2025/07/24 at 01:23
+updated: 2025/07/30 at 23:30
 title: Tradition of the Hedge Mage
-permalink: tradition-of-the-hedge-mage
-source: "Kibbles' Compendium of Legends and Legacies"
+permalink: tradition-of-the-hedge-mage-occultist
+source: Kibbles Compendium of Legends and Legacies
 ---
 
 # Tradition of the Hedge Mage

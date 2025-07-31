@@ -5,7 +5,8 @@ tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/warden/astral-guar
 aliases:
   - Astral Guardian
 created: 2025/06/13 at 22:33
-updated: 2025/07/13 at 00:17
+updated: 2025/07/30 at 23:33
+title: Astral Guardian
 ---
 
 # Astral Guardian

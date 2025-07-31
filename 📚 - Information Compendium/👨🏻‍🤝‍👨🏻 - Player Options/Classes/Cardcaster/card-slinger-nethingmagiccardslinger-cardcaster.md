@@ -1,12 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [ttrpg-cli/class/card-slinger, ttrpg-cli/compendium/src/5e/nethingmagiccardslinger]
+tags:
+  - ttrpg-cli/class/card-slinger
+  - ttrpg-cli/compendium/src/5e/nethingmagiccardslinger
 aliases:
   - Card Slinger
+  - card-slinger-nethingmagiccardslinger
 created: 2025/06/13 at 22:26
-updated: 2025/07/22 at 23:19
-permalink: card-slinger-nethingmagiccardslinger
+updated: 2025/07/30 at 23:32
+permalink: card-slinger-nethingmagiccardslinger-cardcaster
 title: Card Slinger
 source: The Card Slinger
 ---

@@ -1,16 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/llvessel
-  - ttrpg-cli/subclass/vessel/ascended
+tags: [ttrpg-cli/compendium/src/5e/llvessel, ttrpg-cli/subclass/vessel/ascended]
 aliases:
-  - The Ascended
   - 2025-07-29-the-ascended
+  - The Ascended
 created: 2025/06/13 at 22:33
-updated: 2025/07/13 at 00:17
+updated: 2025/07/30 at 23:19
 permalink: 2025-07-29-the-ascended-vessel
 source: The Vessel
+title: The Ascended
 ---
 
 # The Ascended

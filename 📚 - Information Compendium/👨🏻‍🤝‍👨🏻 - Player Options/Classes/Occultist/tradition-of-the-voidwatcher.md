@@ -5,10 +5,10 @@ tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/occultist/voidwatc
 aliases:
   - Tradition of the Voidwatcher
 created: 2025/06/13 at 22:29
-updated: 2025/07/28 at 00:02
+updated: 2025/07/30 at 23:32
 title: Tradition of the Voidwatcher
-permalink: tradition-of-the-voidwatcher
-source: "Kibbles' Compendium of Legends and Legacies"
+permalink: tradition-of-the-voidwatcher-occultist
+source: Kibbles Compendium of Legends and Legacies
 ---
 
 # Tradition of the Voidwatcher

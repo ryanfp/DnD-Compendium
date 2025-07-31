@@ -1,44 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-07-29-the-ascended-vessel",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Vessel/2025-07-29-the-ascended-vessel.md"
+      "basename": "Academy of Chivalry",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlord/Academy of Chivalry.md"
     },
     {
-      "basename": "vessel",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Vessel/vessel.md"
+      "basename": "Astral Guardian",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warden/Astral Guardian.md"
     },
     {
-      "basename": "2025-07-29-the-trickster",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Vessel/2025-07-29-the-trickster.md"
+      "basename": "arcana-domain",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/cleric/arcana-domain.md"
     },
     {
-      "basename": "2025-07-28-spy",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/2025-07-28-spy.md"
+      "basename": "card-slinger-hand-of-the-cardcaster",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cardcaster/card-slinger-hand-of-the-cardcaster.md"
+    },
+    {
+      "basename": "card-slinger-hand-of-the-spellcard-nethingmagiccardslinger-cardcaster",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cardcaster/card-slinger-hand-of-the-spellcard-nethingmagiccardslinger-cardcaster.md"
+    },
+    {
+      "basename": "card-slinger-nethingmagiccardslinger-cardcaster",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Cardcaster/card-slinger-nethingmagiccardslinger-cardcaster.md"
+    },
+    {
+      "basename": "tradition-of-the-voidwatcher",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-voidwatcher.md"
     },
     {
       "basename": "tradition-of-the-shaman",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-shaman.md"
     },
     {
-      "basename": "tradition-of-the-hedge-mage",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-hedge-mage.md"
-    },
-    {
       "basename": "tradition-of-the-oracle",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-oracle.md"
     },
     {
-      "basename": "tradition-of-the-witch",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md"
+      "basename": "tradition-of-the-hedge-mage",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-hedge-mage.md"
     },
     {
       "basename": "occultist",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/occultist.md"
     },
     {
-      "basename": "tradition-of-the-voidwatcher",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-voidwatcher.md"
+      "basename": "the-ascended-vessel",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Vessel/the-ascended-vessel.md"
+    },
+    {
+      "basename": "the-cataclysm",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Vessel/the-cataclysm.md"
+    },
+    {
+      "basename": "the-cursed",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Vessel/the-cursed.md"
+    },
+    {
+      "basename": "the-fallen",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Vessel/the-fallen.md"
+    },
+    {
+      "basename": "the-formless",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Vessel/the-formless.md"
+    },
+    {
+      "basename": "the-trickster",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Vessel/the-trickster.md"
+    },
+    {
+      "basename": "vessel",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Vessel/vessel.md"
+    },
+    {
+      "basename": "2025-07-28-spy",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Investigator/2025-07-28-spy.md"
+    },
+    {
+      "basename": "tradition-of-the-witch",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist/tradition-of-the-witch.md"
     },
     {
       "basename": "Aberrant Mind",
@@ -159,46 +199,6 @@
     {
       "basename": "Circle of Blood",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Druid/Circle of Blood.md"
-    },
-    {
-      "basename": "Classes",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
-    },
-    {
-      "basename": "thunderlords-guild",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/craftsman/thunderlords-guild.md"
-    },
-    {
-      "basename": "trappers-guild",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/craftsman/trappers-guild.md"
-    },
-    {
-      "basename": "mechanauts-guild",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/craftsman/mechanauts-guild.md"
-    },
-    {
-      "basename": "forgeknights-guild",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/craftsman/forgeknights-guild.md"
-    },
-    {
-      "basename": "calibarons-guild",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/craftsman/calibarons-guild.md"
-    },
-    {
-      "basename": "bladeworkers-guild",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/craftsman/bladeworkers-guild.md"
-    },
-    {
-      "basename": "arcane-maesters-guild",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/craftsman/arcane-maesters-guild.md"
-    },
-    {
-      "basename": "armigers-guild",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/craftsman/armigers-guild.md"
-    },
-    {
-      "basename": "craftsman",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/craftsman/craftsman.md"
     }
   ],
   "omittedPaths": [],

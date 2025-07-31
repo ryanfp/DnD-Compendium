@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/llvessel
-  - ttrpg-cli/subclass/vessel/cursed
+tags: [ttrpg-cli/compendium/src/5e/llvessel, ttrpg-cli/subclass/vessel/cursed]
 aliases:
+  - 2025-07-29-the-cursed
   - The Cursed
 created: 2025/06/13 at 22:33
-updated: 2025/07/13 at 00:17
-permalink: 2025-07-29-the-cursed
-source: The Vessel p. 8*
+updated: 2025/07/30 at 23:28
+permalink: the-cursed-vessel
+source: The Vessel
+title: The Cursed
 ---
 
 # The Cursed

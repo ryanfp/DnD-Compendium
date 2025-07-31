@@ -5,10 +5,10 @@ tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/occultist/oracle]
 aliases:
   - Tradition of the Oracle
 created: 2025/06/13 at 22:29
-updated: 2025/07/28 at 01:10
+updated: 2025/07/30 at 23:31
 title: Tradition of the Oracle
-permalink: tradition-of-the-oracle
-source: "Kibbles' Compendium of Legends and Legacies"
+permalink: tradition-of-the-oracle-occultist
+source: Kibbles Compendium of Legends and Legacies
 ---
 
 # Tradition of the Oracle

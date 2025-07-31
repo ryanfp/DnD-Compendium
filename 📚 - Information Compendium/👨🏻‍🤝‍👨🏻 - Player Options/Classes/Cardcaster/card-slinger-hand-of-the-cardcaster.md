@@ -3,18 +3,19 @@ obsidianUIMode: preview
 cssclasses: json5e-class
 tags: [ttrpg-cli/compendium/src/5e/nethingmagiccardslinger, ttrpg-cli/subclass/card-slinger/deckmaster]
 aliases:
+  - card-slinger-hand-of-the
   - card-slinger-hand-of-the-deckmaster-nethingmagiccardslinger
   - Hand of the Deckmaster
 created: 2025/06/13 at 22:26
-updated: 2025/07/22 at 23:19
-permalink: card-slinger-hand-of-the
+updated: 2025/07/30 at 23:33
+permalink: card-slinger-hand-of-the-cardcaster
 title: Hand of the Deckmaster
 source: The Card Slinger
 ---
 
 # Hand of the Deckmaster
 
-*[Card Slinger](./card-slinger-nethingmagiccardslinger.md): Hand*  
+*[Card Slinger](card-slinger-nethingmagiccardslinger-cardcaster.md): Hand*  
 *Source: The Card Slinger*  
 
 > [!tldr] Class and Feature Progression

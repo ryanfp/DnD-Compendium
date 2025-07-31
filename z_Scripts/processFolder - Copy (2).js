@@ -6,68 +6,26 @@
  * - Includes parent folder name in permalinks
  * - Removes articles like "the", "a", "an" (but keeps "of")
  * 
- * Updated: 2025-07-31 03:24:12
+ * Updated: 2025-07-29 03:28:01
  * User: ryanfp
  */
 
 module.exports = async function(params) {
     const app = params.app;
-    
     console.log("processFolder: Starting with params", Object.keys(params));
+    const Notice = params.Notice || window.Notice;
     
     try {
         console.log("TRYING TO GET ACTIVE FILE'S PARENT FOLDER");
-        
-        // Try to get selected files from file explorer
-        const fileExplorer = app.workspace.getLeavesOfType('file-explorer')[0];
-        
-        if (fileExplorer) {
-            console.log("Found file explorer");
-            console.log("File explorer:", Object.keys(fileExplorer));
-            console.log("File explorer view:", fileExplorer.view ? Object.keys(fileExplorer.view) : "no view");
-            
-            if (fileExplorer.view && fileExplorer.view.fileItems) {
-                console.log("fileItems exists:", Object.keys(fileExplorer.view.fileItems).length);
-                
-                const selectedFileItems = Object.values(fileExplorer.view.fileItems)
-                    .filter(item => {
-                        const isSelected = item && item.selected;
-                        if (isSelected) {
-                            console.log("Found selected item:", item.file ? item.file.path : "no file");
-                        }
-                        return isSelected && item.file;
-                    });
-                
-                console.log(`Found ${selectedFileItems.length} selected items`);
-                
-                if (selectedFileItems.length > 0) {
-                    for (const item of selectedFileItems) {
-                        const file = item.file;
-                        if (file.children) {
-                            // It's a folder
-                            console.log(`Selected folder: ${file.path}`);
-                            new window.Notice(`Processing folder: ${file.name}`);
-                            await processFolder(file, app);
-                        } else if (file.extension === 'md') {
-                            // It's a markdown file
-                            console.log(`Selected file: ${file.path}`);
-                            await processFile(file, app);
-                        }
-                    }
-                    return;
-                }
-            }
-        }
-        
-        // If we get here, we don't have selected files
-        console.log("No selection found, using active file");
-        
-        // Get the active file or folder
-        const activeFile = app.workspace.getActiveFile();
-        
+    
+    // Try to get selected files from file explorer
+ 
         if (activeFile) {
             console.log(`Using active file: ${activeFile.path}`);
-            
+
+    const fileExplorer = app.workspace.getLeavesOfType("file-explorer")[0];
+
+
             // If active file's parent folder should be processed
             const parentFolder = activeFile.parent;
             if (parentFolder) {
@@ -76,7 +34,7 @@ module.exports = async function(params) {
                 await processFolder(parentFolder, app);
             } else {
                 // Just process the active file
-                await processFile(activeFile, app);
+                await processFolder(activeFile, app);
             }
         } else {
             console.log("No active file found");
@@ -87,49 +45,99 @@ module.exports = async function(params) {
         new window.Notice(`Error: ${error.message}`);
     }
 };
+-------------------------------------------------------------------    
+    // Process each selected item (file or folder)
+
+    
+    let processed = 0;
+    let permalinksAdded = 0;
+    let sourcesExtracted = 0;
+    
+    for (const file of selectedFiles) {
+        if (file.children) {
+            // It's a folder
+            try {
+                const result = await processFolder(file, app, Notice);
+                processed += result.processed || 0;
+                permalinksAdded += result.permalinksAdded || 0;
+                sourcesExtracted += result.sourcesExtracted || 0;
+            } catch (error) {
+                console.error(`Error processing folder ${file.path}:`, error);
+                new Notice(`Error processing folder: ${error.message}`);
+            }
+        } else if (file.extension === "md") {
+            // It's a markdown file
+            try {
+                const result = await processFile(file, app, Notice);
+                if (result.permalinkAdded) permalinksAdded++;
+                if (result.sourceExtracted) sourcesExtracted++;
+                if (result.permalinkAdded || result.sourceExtracted) processed++;
+            } catch (error) {
+                console.error(`Error processing file ${file.path}:`, error);
+                new Notice(`Error processing file: ${error.message}`);
+            }
+        }
+    }
+    
+    new Notice(`Processed ${processed} files (${permalinksAdded} permalinks, ${sourcesExtracted} sources)`);
+};
 
 /**
  * Process all markdown files in a folder
  */
-async function processFolder(folder, app) {
+async function processFolder(folder, app, Notice) {
     try {
         console.log(`Processing folder: ${folder.path}`);
-        
-        // Get all markdown files from vault
-        const allFiles = app.vault.getMarkdownFiles();
-        
-        // Filter for files in this folder (including subfolders)
-        const filesInFolder = allFiles.filter(file => {
-            return file.path.startsWith(folder.path + '/');
-        });
-        
-        console.log(`Found ${filesInFolder.length} markdown files in folder`);
+        new Notice(`Processing folder: ${folder.name}`);
         
         let processed = 0;
         let permalinksAdded = 0;
         let sourcesExtracted = 0;
         
+        // Get all markdown files in the folder recursively
+        const files = [];
+        
+        // Function to collect files recursively
+        const collectFiles = (item) => {
+            if (!item.children) return;
+            
+            for (const child of item.children) {
+                if (child.children) {
+                    collectFiles(child);
+                } else if (child.extension === "md") {
+                    files.push(child);
+                }
+            }
+        };
+        
+        collectFiles(folder);
+        console.log(`Found ${files.length} markdown files in folder ${folder.path}`);
+        
         // Process each file
-        for (const file of filesInFolder) {
+        for (const file of files) {
             try {
-                const result = await processFile(file, app, false);
+                const result = await processFile(file, app, null, false);
+                
                 if (result.permalinkAdded) permalinksAdded++;
                 if (result.sourceExtracted) sourcesExtracted++;
                 if (result.permalinkAdded || result.sourceExtracted) processed++;
                 
-                // Add a small delay
-                await new Promise(resolve => setTimeout(resolve, 50));
+                // Add a small delay to prevent UI lockup
+                await new Promise(resolve => setTimeout(resolve, 30));
             } catch (error) {
                 console.error(`Error processing file ${file.path}:`, error);
             }
         }
         
         console.log(`Processed ${processed} files, added ${permalinksAdded} permalinks, extracted ${sourcesExtracted} sources in folder ${folder.path}`);
-        new window.Notice(`Processed ${processed} files in folder ${folder.name}`);
+        new Notice(`Processed ${processed} files in ${folder.name}`);
+        
+        return { processed, permalinksAdded, sourcesExtracted };
         
     } catch (error) {
         console.error(`Error processing folder ${folder.path}:`, error);
-        new window.Notice(`Error processing folder: ${error.message}`);
+        new Notice(`Error processing folder: ${error.message}`);
+        return { processed: 0, permalinksAdded: 0, sourcesExtracted: 0 };
     }
 }
 
@@ -137,7 +145,7 @@ async function processFolder(folder, app) {
  * Process a single file
  * Adds permalink, extracts source
  */
-async function processFile(file, app, showNotifications = true) {
+async function processFile(file, app, Notice, showNotifications = true) {
     try {
         console.log(`Processing file: ${file.path}`);
         
@@ -148,8 +156,8 @@ async function processFile(file, app, showNotifications = true) {
         const sourceExtracted = await extractSourceFromFile(file, app);
         
         // Show notification for individual file processing
-        if ((permalinkAdded || sourceExtracted) && showNotifications) {
-            new window.Notice(`Processed: ${file.basename}`);
+        if ((permalinkAdded || sourceExtracted) && showNotifications && Notice) {
+            new Notice(`Processed: ${file.basename}`);
         }
         
         return { 
@@ -159,8 +167,8 @@ async function processFile(file, app, showNotifications = true) {
         
     } catch (error) {
         console.error(`Error processing file ${file.path}:`, error);
-        if (showNotifications) {
-            new window.Notice(`Error processing ${file.basename}: ${error.message}`);
+        if (showNotifications && Notice) {
+            new Notice(`Error processing ${file.basename}: ${error.message}`);
         }
         return {
             permalinkAdded: false,
@@ -223,6 +231,10 @@ async function addPermalinkToFile(file, app) {
         return false;
     }
 }
+
+/************************************** 
+        BELOW IS ALL GOOD
+***************************************/
 
 /**
  * Extract source from content and add to frontmatter

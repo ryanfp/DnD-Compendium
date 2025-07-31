@@ -1,19 +1,22 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/nethingmagiccardslinger, ttrpg-cli/subclass/card-slinger/spellcard]
+tags:
+  - ttrpg-cli/compendium/src/5e/nethingmagiccardslinger
+  - ttrpg-cli/subclass/card-slinger/spellcard
 aliases:
   - Hand of the Spellcard
+  - card-slinger-hand-of-the-spellcard-nethingmagiccardslinger
 created: 2025/06/13 at 22:26
-updated: 2025/07/22 at 23:19
-permalink: card-slinger-hand-of-the
+updated: 2025/07/30 at 23:32
+permalink: card-slinger-hand-of-the-spellcard-nethingmagiccardslinger-cardcaster
 title: Hand of the Spellcard
 source: The Card Slinger
 ---
 
 # Hand of the Spellcard
 
-*[Card Slinger](./card-slinger-nethingmagiccardslinger.md): Hand*  
+*[Card Slinger](card-slinger-nethingmagiccardslinger-cardcaster.md): Hand*  
 *Source: The Card Slinger*  
 
 > [!tldr] Class and Feature Progression

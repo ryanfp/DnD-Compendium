@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/llvessel
-  - ttrpg-cli/subclass/vessel/cataclysm
+tags: [ttrpg-cli/compendium/src/5e/llvessel, ttrpg-cli/subclass/vessel/cataclysm]
 aliases:
+  - 2025-07-29-the-cataclysm
   - The Cataclysm
 created: 2025/06/13 at 22:33
-updated: 2025/07/13 at 00:17
-permalink: 2025-07-29-the-cataclysm
-source: The Vessel p. 6*
+updated: 2025/07/30 at 23:29
+permalink: the-cataclysm-vessel
+source: The Vessel
+title: The Cataclysm
 ---
 
 # The Cataclysm
