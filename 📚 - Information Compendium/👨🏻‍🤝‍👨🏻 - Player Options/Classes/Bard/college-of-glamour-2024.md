@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [compendium/src/5e/xphb, subclass/bard/glamour]
+title: College of Glamour 2024
+created: 2025/06/15 at 22:22
+updated: 2025/08/01 at 01:00
+permalink: college-of-glamour-2024-bard
+source: "Player's Handbook (2024)"
 aliases:
+  - bard-xphb-college-of-glamour
   - bard-xphb-college-of-glamour-xphb
   - College of Glamour
-created: 2025/06/15 at 22:22
-updated: 2025/07/22 at 21:11
-permalink: bard-xphb-college-of-glamour
-title: College of Glamour
+  - College of Glamour 2024
+tags:
+  - compendium/src/5e/xphb
+  - subclass/bard/glamour
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
-# College of Glamour
+# College of Glamour 2024
 
-*[Bard](./bard-xphb.md): Bard Subclass*  
+*[Bard](bard-2024.md): Bard Subclass*  
 *Source: Player's Handbook (2024) p. 65*  
 
 > [!tldr] Class and Feature Progression

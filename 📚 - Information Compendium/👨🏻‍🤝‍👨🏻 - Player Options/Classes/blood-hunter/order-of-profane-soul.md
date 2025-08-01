@@ -1,13 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/bh2022, ttrpg-cli/subclass/blood-hunter/profane-soul]
+title: Order of the Profane Soul
+created: 2025/06/13 at 22:26
+updated: 2025/08/01 at 01:01
+permalink: order-of-profane-soul-blood-hunter
+source: Blood Hunter 2022
 aliases:
   - Order of the Profane Soul
-created: 2025/06/13 at 22:26
-updated: 2025/07/22 at 21:28
-title: Order of the Profane Soul
-permalink: order-of-the-profane-soul
+  - order-of-the-profane-soul
+tags:
+  - ttrpg-cli/compendium/src/5e/bh2022
+  - ttrpg-cli/subclass/blood-hunter/profane-soul
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Order of the Profane Soul

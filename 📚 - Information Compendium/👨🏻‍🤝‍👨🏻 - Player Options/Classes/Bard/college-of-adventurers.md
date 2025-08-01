@@ -1,18 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/ghpg, ttrpg-cli/subclass/bard/adventurers]
+title: College of Adventurers
+created: 2025/06/15 at 15:34
+updated: 2025/08/01 at 01:01
+permalink: college-of-adventurers-bard
+source: "Grim Hollow: The Player's Guide"
 aliases:
   - College of Adventurers
-created: 2025/06/15 at 15:34
-updated: 2025/07/22 at 21:12
-permalink: college-of-adventurers
-title: College of Adventurers
+tags:
+  - ttrpg-cli/compendium/src/5e/ghpg
+  - ttrpg-cli/subclass/bard/adventurers
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # College of Adventurers
 
-*[Bard](Bard.md): Bard College*  
+*[bard](bard.md): Bard College*  
 *Source: Grim Hollow: The Player's Guide*  
 
 > [!tldr] Class and Feature Progression

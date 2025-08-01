@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/scag, ttrpg-cli/domain/arcana, ttrpg-cli/subclass/cleric/arcana]
-aliases:
-  - Arcana Domain
+title: Arcana Domain 2024
 created: 2025/06/15 at 15:35
-updated: 2025/07/22 at 23:20
-permalink: cleric-xphb-arcana-domain-scag
-title: Arcana Domain
-source: "Sword Coast Adventurer's Guide"
+updated: 2025/08/01 at 01:07
+permalink: arcana-domain-2024-cleric
+source: Sword Coast Adventurer's Guide
+aliases:
+  - Arcana Domain 2024
+  - Arcana Domain
+  - cleric-xphb-arcana-domain-scag
+tags:
+  - ttrpg-cli/compendium/src/5e/scag
+  - ttrpg-cli/domain/arcana
+  - ttrpg-cli/subclass/cleric/arcana
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
-# Arcana Domain
+# Arcana Domain 2024
 
-*[Cleric](cleric-xphb.md): Cleric Subclass*  
+*[Cleric](cleric-2024.md): Cleric Subclass*  
 *Source: Sword Coast Adventurer's Guide p. 125*  
 
 > [!tldr] Class and Feature Progression

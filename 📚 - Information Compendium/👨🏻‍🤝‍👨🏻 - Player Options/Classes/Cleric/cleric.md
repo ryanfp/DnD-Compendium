@@ -1,13 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/class/cleric, ttrpg-cli/compendium/src/5e/phb]
+title: Cleric
+created: 2025/06/15 at 15:35
+updated: 2025/08/01 at 01:02
+permalink: cleric
 aliases:
   - Cleric
-created: 2025/06/15 at 15:35
-updated: 2025/07/22 at 21:31
-permalink: cleric
-title: Cleric
+tags:
+  - ttrpg-cli/class/cleric
+  - ttrpg-cli/compendium/src/5e/phb
+cssclasses: json5e-class
+obsidianUIMode: preview
+source: Player's Handbook
 ---
 
 # Cleric

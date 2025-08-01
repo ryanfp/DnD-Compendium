@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
+title: Accursed
+created: 2025/05/14 at 21:46
+updated: 2025/08/01 at 00:57
+permalink: accursed
+source: "The Ultimate Adventurer's Handbook"
+aliases:
+  - Accursed
 tags:
   - ttrpg-cli/class/accursed
   - ttrpg-cli/compendium/src/5e/ultimateadventurer
-aliases:
-  - Accursed
-created: 2025/05/14 at 21:46
-updated: 2025/07/24 at 01:14
-title: Accursed
-permalink: accursed
-source: The Ultimate Adv Handboo
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Accursed
@@ -120,9 +120,9 @@ If Strength or Dexterity is your highest ability score, your next-highest should
 Through unfortunate circumstances, you were stricken with a curse that should have broken you. However, whether by sheer willpower, introspective meditation, or arcane study, you not only overcame the worst of the challenges your curse presented, but learned to harness its power. Choose the curse you conquered: 
 
 - [[curse-of-animation|Curse of Animation]]
-- [[curse-of-the-armament|Curse of the Armament]]
+- [[curse-of-armament|Curse of the Armament]]
 - [[curse-of-combustion|Curse of Combustion]]
-- [[curse-of-the-created|Curse of the Created]]
+- [[curse-of-created|Curse of the Created]]
 - [[curse-of-immortality|Curse of Immortality]]
 - [[curse-of-misfortune|Curse of Misfortune]]
 - [[curse-of-mummification|Curse of Mummification]]

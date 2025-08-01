@@ -1,17 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [compendium/src/5e/xphb, subclass/bard/valor]
+title: College of Valor 2024
+created: 2025/06/15 at 22:22
+updated: 2025/08/01 at 00:58
+permalink: college-of-valor-2024-bard
+source: Player's Handbook (2024)
 aliases:
   - College of Valor
-  - College of Valor
-created: 2025/06/15 at 22:22
-updated: 2025/07/13 at 00:17
+  - College of Valor 2024
+  - bard-xphb-college-of-valor-xphb
+tags:
+  - compendium/src/5e/xphb
+  - subclass/bard/valor
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
-# College of Valor
+# College of Valor 2024
 
-*[Bard](./bard-xphb.md): Bard Subclass*  
+*[Bard](bard-2024.md): Bard Subclass*  
 *Source: Player's Handbook (2024) p. 67*  
 
 > [!tldr] Class and Feature Progression

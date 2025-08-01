@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/dk, ttrpg-cli/subclass/dragon-knight/platinum]
+title: Platinum Practice
+created: 2025/06/13 at 22:27
+updated: 2025/08/01 at 01:09
+permalink: platinum-practice-dragon-knight
+source: Dragon Knight
 aliases:
   - Platinum Practice
-created: 2025/06/13 at 22:27
-updated: 2025/07/24 at 00:00
-title: Platinum Practice
-permalink: platinum-practice
-source: Dragon Knight
+tags:
+  - ttrpg-cli/compendium/src/5e/dk
+  - ttrpg-cli/subclass/dragon-knight/platinum
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Platinum Practice

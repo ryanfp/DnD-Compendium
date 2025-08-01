@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [compendium/src/5e/xphb, subclass/bard/lore]
+title: College of Lore 2024
+created: 2025/06/15 at 22:22
+updated: 2025/08/01 at 00:58
+permalink: college-of-lore-2024-bard
+source: Player's Handbook (2024)
 aliases:
   - bard-xphb-college-of-lore-xphb
   - College of Lore
-created: 2025/06/15 at 22:22
-updated: 2025/07/22 at 21:12
-permalink: bard-xphb-college-of-lore
-title: College of Lore
+  - College of Lore 2024
+  - bard-xphb-college-of-lore
+tags:
+  - compendium/src/5e/xphb
+  - subclass/bard/lore
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
-# College of Lore
+# College of Lore 2024
 
-*[Bard](./bard-xphb.md): Bard Subclass*  
+*[Bard](bard-2024.md): Bard Subclass*  
 *Source: Player's Handbook (2024) p. 66. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression

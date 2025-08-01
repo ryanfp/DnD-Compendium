@@ -1,14 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/ghpg, ttrpg-cli/domain/inquisition, ttrpg-cli/subclass/cleric/inquisition]
+title: Inquisition Domain
+created: 2025/06/15 at 15:35
+updated: 2025/08/01 at 01:03
+permalink: inquisition-domain-cleric
+source: Grim Hollow: The Player's Guide
 aliases:
   - Inquisition Domain
-created: 2025/06/15 at 15:35
-updated: 2025/07/22 at 23:23
-source: "Grim Hollow: The Player's Guide"
-permalink: inquisition-domain
-title: Inquisition Domain
+tags:
+  - ttrpg-cli/compendium/src/5e/ghpg
+  - ttrpg-cli/domain/inquisition
+  - ttrpg-cli/subclass/cleric/inquisition
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Inquisition Domain

@@ -1,14 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/domain/war, ttrpg-cli/subclass/cleric/war]
+title: War Domain
+created: 2025/06/15 at 15:35
+updated: 2025/08/01 at 01:04
+permalink: war-domain-cleric
+source: Player's Handbook
 aliases:
   - War Domain
-created: 2025/06/15 at 15:35
-updated: 2025/07/22 at 23:26
-source: "Player's Handbook"
-permalink: war-domain
-title: War Domain
+tags:
+  - ttrpg-cli/compendium/src/5e/phb
+  - ttrpg-cli/domain/war
+  - ttrpg-cli/subclass/cleric/war
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # War Domain

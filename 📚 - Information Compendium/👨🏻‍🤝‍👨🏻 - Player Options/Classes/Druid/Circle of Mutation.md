@@ -1,11 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/ghpg, ttrpg-cli/subclass/druid/mutation]
+title: Circle of Mutation
+created: 2025/06/15 at 15:35
+updated: 2025/08/01 at 01:10
 aliases:
   - Circle of Mutation
-created: 2025/06/15 at 15:35
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/compendium/src/5e/ghpg
+  - ttrpg-cli/subclass/druid/mutation
+cssclasses: json5e-class
+obsidianUIMode: preview
+permalink: circle-of-mutation-druid
+source: Grim Hollow: The Player's Guide
 ---
 
 # Circle of Mutation
@@ -146,4 +151,4 @@ In addition, you can use an action to touch a beast and expend a spell slot, cau
 
 Starting at 14th level, beasts that begin their turn within 30 feet of you must make a Wisdom saving throw with a DC equal to your druid spell save. On a failure, the creature is [frightened](/3-Content/Rules/conditions.md#Frightened) for 10 minutes. On a success, the creature is immune to this effect for the next 24 hours. An affected creature can use its action on each subsequent turn to steel themselves and repeat the saving throw, ending and becoming immune to this fear effect for the next 24 hours on a success.
 
-You can use an action to cause this aura to affect chosen creatures within 30 feet, instead of only beasts, until the start of your next turn. Once you use this special action, you can't use it again until you finish a long rest.
+You can use an action to cause this aura to affect chosen creatures within 30 feet, instead of only beasts, until the start of your next turn. Once you u

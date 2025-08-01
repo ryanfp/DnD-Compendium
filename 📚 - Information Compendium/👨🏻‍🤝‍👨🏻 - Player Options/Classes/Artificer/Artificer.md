@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
+title: Artificer
+created: 2025/06/15 at 15:34
+updated: 2025/08/01 at 00:55
+permalink: artificer
+source: Tasha's Cauldron of Everything
+aliases:
+  - Artificer
 tags:
   - ttrpg-cli/class/artificer
   - ttrpg-cli/compendium/src/5e/tce
-aliases:
-  - Artificer
-created: 2025/06/15 at 15:34
-updated: 2025/07/31 at 23:56
-permalink: artificer
-source: "Tasha's Cauldron of Everything"
-title: Artificer
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Artificer

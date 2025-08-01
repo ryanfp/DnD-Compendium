@@ -1,14 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/domain/peace, ttrpg-cli/subclass/cleric/peace]
+title: Peace Domain
+created: 2025/06/15 at 15:35
+updated: 2025/08/01 at 01:03
+permalink: peace-domain-cleric
+source: Tasha's Cauldron of Everything
 aliases:
   - Peace Domain
-created: 2025/06/15 at 15:35
-updated: 2025/07/22 at 23:25
-source: "Tasha's Cauldron of Everything"
-permalink: peace-domain
-title: Peace Domain
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/domain/peace
+  - ttrpg-cli/subclass/cleric/peace
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Peace Domain

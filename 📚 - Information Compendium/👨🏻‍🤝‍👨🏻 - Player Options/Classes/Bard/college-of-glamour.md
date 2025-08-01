@@ -1,18 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [compendium/src/5e/xge, subclass/bard/glamour]
+title: College of Glamour
+created: 2025/06/15 at 22:22
+updated: 2025/08/01 at 00:59
+permalink: college-of-glamour-bard
+source: Xanathar's Guide to Everything
 aliases:
   - College of Glamour
-created: 2025/06/15 at 22:22
-updated: 2025/07/22 at 21:15
-permalink: college-of-glamour
-title: College of Glamour
+tags:
+  - compendium/src/5e/xge
+  - subclass/bard/glamour
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # College of Glamour
 
-*[Bard](Bard.md): Bard College*  
+*[bard](bard.md): Bard College*  
 *Source: Xanathar's Guide to Everything p. 14*  
 
 > [!tldr] Class and Feature Progression

@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/class/druid, ttrpg-cli/compendium/src/5e/xphb]
+title: Druid 2024
+created: 2025/06/15 at 15:35
+updated: 2025/08/01 at 01:10
 aliases:
   - Druid
-  - Druid
-created: 2025/06/15 at 15:35
-updated: 2025/07/13 at 00:17
+  - Druid 2024
+tags:
+  - ttrpg-cli/class/druid
+  - ttrpg-cli/compendium/src/5e/xphb
+cssclasses: json5e-class
+obsidianUIMode: preview
+permalink: druid-2024
+source: Player's Handbook (2024)
 ---
 
-# Druid
+# Druid 2024
 
 *Source: Player's Handbook (2024) p. 78. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

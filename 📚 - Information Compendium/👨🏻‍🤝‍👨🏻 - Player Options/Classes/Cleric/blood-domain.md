@@ -1,14 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [compendium/src/5e/tdcsr, domain/blood, subclass/cleric/blood]
+title: Blood Domain
+created: 2025/06/15 at 22:22
+updated: 2025/08/01 at 01:07
+permalink: blood-domain-cleric
+source: Tal'Dorei Campaign Setting Reborn
 aliases:
   - Blood Domain
-created: 2025/06/15 at 22:22
-updated: 2025/07/22 at 23:20
-permalink: blood-domain
-title: Blood Domain
-source: "Tal'Dorei Campaign Setting Reborn"
+tags:
+  - compendium/src/5e/tdcsr
+  - domain/blood
+  - subclass/cleric/blood
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Blood Domain

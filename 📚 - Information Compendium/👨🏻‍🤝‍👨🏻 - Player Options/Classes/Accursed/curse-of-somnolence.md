@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
+title: Curse of Somnolence
+created: 2025/05/14 at 21:46
+updated: 2025/08/01 at 00:57
+permalink: curse-of-somnolence-accursed
+source: "The Ultimate Adventurer's Handbook"
+aliases:
+  - Curse of Somnolence
 tags:
   - ttrpg-cli/compendium/src/5e/ultimateadventurer
   - ttrpg-cli/subclass/accursed/somnolence
-aliases:
-  - Curse of Somnolence
-created: 2025/05/14 at 21:46
-updated: 2025/07/31 at 23:32
-permalink: curse-of-somnolence-accursed
-title: Curse of Somnolence
-source: The Ultimate Adventurers Handbook
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Curse of Somnolence

@@ -1,9 +1,9 @@
 ---
 title: Path of the Berserker 2024
 created: 2025/06/15 at 22:21
-updated: 2025/08/01 at 00:28
+updated: 2025/08/01 at 00:53
 permalink: path-of-berserker-2024-barbarian
-source: "Player's Handbook (2024)"
+source: Player's Handbook (2024)
 aliases:
   - barbarian-xphb-path-of-the-berserker-xphb
   - Path of the Berserker

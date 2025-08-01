@@ -1,18 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [compendium/src/5e/tce, subclass/bard/eloquence]
+title: College of Eloquence
+created: 2025/06/15 at 22:22
+updated: 2025/08/01 at 01:01
+permalink: college-of-eloquence-bard
+source: "Tasha's Cauldron of Everything"
 aliases:
   - College of Eloquence
-created: 2025/06/15 at 22:22
-updated: 2025/07/22 at 21:15
-permalink: college-of-eloquence
-title: College of Eloquence
+tags:
+  - compendium/src/5e/tce
+  - subclass/bard/eloquence
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # College of Eloquence
 
-*[Bard](Bard.md): Bard College*  
+*[bard](bard.md): Bard College*  
 *Source: Tasha's Cauldron of Everything p. 29, Mythic Odysseys of Theros p. 28*  
 
 > [!tldr] Class and Feature Progression

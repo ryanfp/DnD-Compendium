@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/craftsman/calibarons]
+title: "Calibarons' Guild"
+created: 2025/06/13 at 22:27
+updated: 2025/08/01 at 01:08
+permalink: calibarons-guild-craftsman
+source: "Valda's Spire of Secrets"
 aliases:
   - "Calibarons' Guild"
-created: 2025/06/13 at 22:27
-updated: 2025/07/22 at 23:27
-title: "Calibarons' Guild"
-source: "Valda's Spire of Secrets"
-permalink: calibarons-guild
+tags:
+  - ttrpg-cli/compendium/src/5e/vss
+  - ttrpg-cli/subclass/craftsman/calibarons
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Calibarons' Guild

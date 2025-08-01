@@ -1,17 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/class/cleric, ttrpg-cli/compendium/src/5e/xphb]
+title: Cleric 2024
+created: 2025/06/15 at 15:35
+updated: 2025/08/01 at 01:07
+permalink: cleric-2024
+source: Player's Handbook (2024)
 aliases:
   - Cleric
-created: 2025/06/15 at 15:35
-updated: 2025/07/22 at 23:20
-source: "Player's Handbook (2024)"
-permalink: cleric-xphb
-title: Cleric
+  - Cleric 2024
+  - cleric-xphb
+tags:
+  - ttrpg-cli/class/cleric
+  - ttrpg-cli/compendium/src/5e/xphb
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
-# Cleric
+# Cleric 2024
 
 *Source: Player's Handbook (2024) p. 68. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

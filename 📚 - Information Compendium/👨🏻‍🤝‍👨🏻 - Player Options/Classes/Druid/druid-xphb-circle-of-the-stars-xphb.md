@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/subclass/druid/stars]
-aliases:
-  - Circle of the Stars
-  - Circle of the Stars
+title: Circle of the Stars 2024
 created: 2025/06/15 at 15:35
-updated: 2025/07/13 at 00:17
+updated: 2025/08/01 at 01:09
+aliases:
+  - Circle of the Stars 2024
+  - Circle of the Stars
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/subclass/druid/stars
+cssclasses: json5e-class
+obsidianUIMode: preview
+permalink: circle-of-stars-2024-druid
+source: Player's Handbook (2024)
 ---
 
-# Circle of the Stars
+# Circle of the Stars 2024
 
 *[Druid](./druid-xphb.md): Druid Subclass*  
 *Source: Player's Handbook (2024) p. 88*  

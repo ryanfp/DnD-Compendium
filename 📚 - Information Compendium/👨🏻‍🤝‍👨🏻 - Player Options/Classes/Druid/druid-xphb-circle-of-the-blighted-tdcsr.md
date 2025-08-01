@@ -1,12 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [compendium/src/5e/tdcsr, subclass/druid/blighted]
+title: Circle of the Blighted
+created: 2025/06/15 at 22:24
+updated: 2025/08/01 at 01:09
 aliases:
   - Circle of the Blighted
-  - Circle of the Blighted
-created: 2025/06/15 at 22:24
-updated: 2025/07/13 at 00:17
+tags:
+  - compendium/src/5e/tdcsr
+  - subclass/druid/blighted
+cssclasses: json5e-class
+obsidianUIMode: preview
+permalink: circle-of-blighted-druid
+source: Tal'Dorei Campaign Setting Reborn
 ---
 
 # Circle of the Blighted

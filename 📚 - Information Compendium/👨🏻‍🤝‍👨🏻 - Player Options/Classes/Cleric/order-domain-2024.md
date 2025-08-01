@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/domain/order, ttrpg-cli/subclass/cleric/order]
-aliases:
-  - Order Domain
+title: Order Domain 2024
 created: 2025/06/15 at 15:35
-updated: 2025/07/22 at 23:21
-source: "Tasha's Cauldron of Everything"
-permalink: cleric-xphb-order-domain-tce
-title: Order Domain
+updated: 2025/08/01 at 01:06
+permalink: order-domain-2024-cleric
+source: Tasha's Cauldron of Everything
+aliases:
+  - Order Domain 2024
+  - cleric-xphb-order-domain-tce
+  - Order Domain
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/domain/order
+  - ttrpg-cli/subclass/cleric/order
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
-# Order Domain
+# Order Domain 2024
 
-*[Cleric](cleric-xphb.md): Cleric Subclass*  
+*[Cleric](cleric-2024.md): Cleric Subclass*  
 *Source: Tasha's Cauldron of Everything p. 31*  
 
 > [!tldr] Class and Feature Progression

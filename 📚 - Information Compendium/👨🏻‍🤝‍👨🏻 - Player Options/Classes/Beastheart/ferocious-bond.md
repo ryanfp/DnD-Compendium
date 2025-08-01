@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/bst, ttrpg-cli/subclass/beastheart/ferocious]
+title: Ferocious Bond
+created: 2025/06/13 at 22:26
+updated: 2025/08/01 at 00:59
+permalink: ferocious-bond-beastheart
+source: Beastheart and Monstrous Companions
 aliases:
   - Ferocious Bond
-created: 2025/06/13 at 22:26
-updated: 2025/07/22 at 23:17
-source: Beastheart and Monstrous Companions
-permalink: ferocious-bond
-title: Ferocious Bond
+tags:
+  - ttrpg-cli/compendium/src/5e/bst
+  - ttrpg-cli/subclass/beastheart/ferocious
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Ferocious Bond

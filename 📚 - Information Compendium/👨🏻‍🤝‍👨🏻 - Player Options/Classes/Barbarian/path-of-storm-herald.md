@@ -3,7 +3,7 @@ title: Path of the Storm Herald
 created: 2025/06/15 at 22:21
 updated: 2025/08/01 at 00:28
 permalink: path-of-storm-herald-barbarian
-source: "Xanathar's Guide to Everything"
+source: Xanathar's Guide to Everything
 aliases:
   - Path of the Storm Herald
   - path-of-the-storm-herald

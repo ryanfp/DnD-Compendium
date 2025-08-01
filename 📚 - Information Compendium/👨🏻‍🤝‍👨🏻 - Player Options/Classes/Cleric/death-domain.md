@@ -1,14 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/dmg, ttrpg-cli/domain/death, ttrpg-cli/subclass/cleric/death]
+title: Death Domain
+created: 2025/06/15 at 15:35
+updated: 2025/08/01 at 01:03
+permalink: death-domain-cleric
+source: Dungeon Master's Guide
 aliases:
   - Death Domain
-created: 2025/06/15 at 15:35
-updated: 2025/07/22 at 23:22
-source: "Dungeon Master's Guide"
-permalink: death-domain
-title: Death Domain
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/domain/death
+  - ttrpg-cli/subclass/cleric/death
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Death Domain

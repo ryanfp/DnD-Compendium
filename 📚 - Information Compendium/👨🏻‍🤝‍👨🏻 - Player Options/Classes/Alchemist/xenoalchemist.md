@@ -1,9 +1,9 @@
 ---
 title: Xenoalchemist
 created: 2025/06/13 at 22:26
-updated: 2025/08/01 at 00:33
+updated: 2025/08/01 at 00:54
 permalink: xenoalchemist
-source: "Valdas Spire of Secrets"
+source: Valda's Spire of Secrets
 aliases:
   - Xenoalchemist
   - Xenoalchemist Field

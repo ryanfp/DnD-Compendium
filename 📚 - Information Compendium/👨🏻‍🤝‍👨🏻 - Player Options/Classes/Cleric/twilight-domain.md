@@ -1,14 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/domain/twilight, ttrpg-cli/subclass/cleric/twilight]
+title: Twilight Domain
+created: 2025/06/15 at 15:35
+updated: 2025/08/01 at 01:04
+permalink: twilight-domain-cleric
+source: Tasha's Cauldron of Everything
 aliases:
   - Twilight Domain
-created: 2025/06/15 at 15:35
-updated: 2025/07/22 at 23:25
-source: "Tasha's Cauldron of Everything"
-permalink: twilight-domain
-title: Twilight Domain
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/domain/twilight
+  - ttrpg-cli/subclass/cleric/twilight
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Twilight Domain

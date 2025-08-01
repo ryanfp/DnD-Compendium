@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/bst, ttrpg-cli/subclass/beastheart/protector]
+title: Protector Bond
+created: 2025/06/13 at 22:26
+updated: 2025/08/01 at 01:00
+permalink: protector-bond-beastheart
+source: Beastheart and Monstrous Companions
 aliases:
   - Protector Bond
-created: 2025/06/13 at 22:26
-updated: 2025/07/22 at 23:18
-source: Beastheart and Monstrous Companions
-permalink: protector-bond
-title: Protector Bond
+tags:
+  - ttrpg-cli/compendium/src/5e/bst
+  - ttrpg-cli/subclass/beastheart/protector
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Protector Bond

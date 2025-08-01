@@ -1,13 +1,13 @@
 ---
 title: Barbarian 2014
 created: 2025/06/15 at 15:34
-updated: 2025/08/01 at 00:30
+updated: 2025/08/01 at 00:54
 permalink: barbarian-2014
-source: test
+source: "Player's Handbook"
 aliases:
-  - Barbarian 2014
-  - Barbarian
   - barbarian
+  - Barbarian
+  - Barbarian 2014
 tags:
   - ttrpg-cli/class/barbarian
   - ttrpg-cli/compendium/src/5e/phb

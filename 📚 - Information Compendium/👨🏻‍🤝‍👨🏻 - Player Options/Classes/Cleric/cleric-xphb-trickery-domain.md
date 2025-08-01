@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/domain/trickery, ttrpg-cli/subclass/cleric/trickery]
-aliases:
-  - Trickery Domain
+title: Trickery Domain 2024
 created: 2025/06/15 at 15:35
-updated: 2025/07/22 at 23:21
+updated: 2025/08/01 at 01:08
+permalink: trickery-domain-2024-cleric
 source: "Player's Handbook"
-permalink: cleric-xphb-trickery-domain
-title: Trickery Domain
+aliases:
+  - cleric-xphb-trickery-domain
+  - Trickery Domain
+  - Trickery Domain 2024
+tags:
+  - ttrpg-cli/compendium/src/5e/phb
+  - ttrpg-cli/domain/trickery
+  - ttrpg-cli/subclass/cleric/trickery
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
-# Trickery Domain
+# Trickery Domain 2024
 
-*[Cleric](cleric-xphb.md): Cleric Subclass*  
+*[Cleric](cleric-2024.md): Cleric Subclass*  
 *Source: Player's Handbook p. 62*  
 
 > [!tldr] Class and Feature Progression

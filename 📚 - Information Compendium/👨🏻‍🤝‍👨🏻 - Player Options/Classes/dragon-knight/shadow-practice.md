@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/dk, ttrpg-cli/subclass/dragon-knight/shadow]
+title: Shadow Practice
+created: 2025/06/13 at 22:27
+updated: 2025/08/01 at 01:09
+permalink: shadow-practice-dragon-knight
+source: Dragon Knight
 aliases:
   - Shadow Practice
-created: 2025/06/13 at 22:27
-updated: 2025/07/24 at 00:35
-title: Shadow Practice
-permalink: shadow-practice
-source: Dragon Knight
+tags:
+  - ttrpg-cli/compendium/src/5e/dk
+  - ttrpg-cli/subclass/dragon-knight/shadow
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Shadow Practice

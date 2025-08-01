@@ -1,14 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/domain/life, ttrpg-cli/subclass/cleric/life]
+title: Life Domain
+created: 2025/06/15 at 15:35
+updated: 2025/08/01 at 01:03
+permalink: life-domain-cleric
+source: Player's Handbook
 aliases:
   - Life Domain
-created: 2025/06/15 at 15:35
-updated: 2025/07/22 at 23:23
-source: "Player's Handbook"
-permalink: life-domain
-title: Life Domain
+tags:
+  - ttrpg-cli/compendium/src/5e/phb
+  - ttrpg-cli/domain/life
+  - ttrpg-cli/subclass/cleric/life
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Life Domain

@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/domain/light, ttrpg-cli/subclass/cleric/light]
-aliases:
-  - Light Domain
+title: Light Domain 2024
 created: 2025/06/15 at 15:35
-updated: 2025/07/22 at 23:20
-source: "Player's Handbook"
-permalink: cleric-xphb-light-domain
-title: Light Domain
+updated: 2025/08/01 at 01:07
+permalink: light-domain-2024-cleric
+source: Player's Handbook
+aliases:
+  - cleric-xphb-light-domain
+  - Light Domain
+  - Light Domain 2024
+tags:
+  - ttrpg-cli/compendium/src/5e/phb
+  - ttrpg-cli/domain/light
+  - ttrpg-cli/subclass/cleric/light
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
-# Light Domain
+# Light Domain 2024
 
-*[Cleric](cleric-xphb.md): Cleric Subclass*  
+*[Cleric](cleric-2024.md): Cleric Subclass*  
 *Source: Player's Handbook p. 60*  
 
 > [!tldr] Class and Feature Progression

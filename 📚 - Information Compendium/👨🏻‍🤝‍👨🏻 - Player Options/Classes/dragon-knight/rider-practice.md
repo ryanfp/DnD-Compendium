@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/dk, ttrpg-cli/subclass/dragon-knight/rider]
+title: Rider Practice
+created: 2025/06/13 at 22:27
+updated: 2025/08/01 at 01:09
+permalink: rider-practice-dragon-knight
+source: Dragon Knight
 aliases:
   - Rider Practice
-created: 2025/06/13 at 22:27
-updated: 2025/07/24 at 00:00
-title: Rider Practice
-permalink: rider-practice
-source: Dragon Knight
+tags:
+  - ttrpg-cli/compendium/src/5e/dk
+  - ttrpg-cli/subclass/dragon-knight/rider
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Rider Practice

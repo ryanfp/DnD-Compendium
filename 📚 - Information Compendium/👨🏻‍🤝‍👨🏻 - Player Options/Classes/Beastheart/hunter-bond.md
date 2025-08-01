@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/bst, ttrpg-cli/subclass/beastheart/hunter]
+title: Hunter Bond
+created: 2025/06/13 at 22:26
+updated: 2025/08/01 at 01:00
+permalink: hunter-bond-beastheart
+source: Beastheart and Monstrous Companions
 aliases:
   - Hunter Bond
-created: 2025/06/13 at 22:26
-updated: 2025/07/22 at 23:17
-source: Beastheart and Monstrous Companions
-permalink: hunter-bond
-title: Hunter Bond
+tags:
+  - ttrpg-cli/compendium/src/5e/bst
+  - ttrpg-cli/subclass/beastheart/hunter
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Hunter Bond

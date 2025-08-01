@@ -1,13 +1,14 @@
 ---
 title: Path of the Wild Heart (Totem Warrior 2014)
 created: 2025/06/15 at 22:21
-updated: 2025/08/01 at 00:39
-permalink: path-of-wild-heart-barbarian
-source: "Player's Handbook (2024)"
+updated: 2025/08/01 at 00:53
+permalink: path-of-wild-heart-totem-barbarian
+source: Player's Handbook (2024)
 aliases:
   - barbarian-xphb-path-of-the
   - Path of the Wild Heart
   - Path of the Wild Heart (Totem Warrior 2014)
+  - path-of-wild-heart
 tags:
   - compendium/src/5e/xphb
   - subclass/barbarian/wild-heart

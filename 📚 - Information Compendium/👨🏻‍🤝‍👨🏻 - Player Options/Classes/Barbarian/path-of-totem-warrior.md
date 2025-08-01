@@ -3,7 +3,7 @@ title: Path of the Totem Warrior
 created: 2025/06/15 at 22:21
 updated: 2025/08/01 at 00:28
 permalink: path-of-totem-warrior-barbarian
-source: "Player's Handbook"
+source: Player's Handbook
 aliases:
   - Path of the Totem Warrior
   - path-of-the-totem-warrior

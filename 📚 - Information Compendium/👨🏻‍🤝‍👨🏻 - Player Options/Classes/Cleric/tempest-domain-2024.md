@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/domain/tempest, ttrpg-cli/subclass/cleric/tempest]
-aliases:
-  - Tempest Domain
+title: Tempest Domain 2024
 created: 2025/06/15 at 15:35
-updated: 2025/07/22 at 23:21
-source: "Player's Handbook"
-permalink: cleric-xphb-tempest-domain
-title: Tempest Domain
+updated: 2025/08/01 at 01:06
+permalink: tempest-domain-2024-cleric
+source: Player's Handbook
+aliases:
+  - Tempest Domain 2024
+  - cleric-xphb-tempest-domain
+  - Tempest Domain
+tags:
+  - ttrpg-cli/compendium/src/5e/phb
+  - ttrpg-cli/domain/tempest
+  - ttrpg-cli/subclass/cleric/tempest
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
-# Tempest Domain
+# Tempest Domain 2024
 
-*[Cleric](cleric-xphb.md): Cleric Subclass*  
+*[Cleric](cleric-2024.md): Cleric Subclass*  
 *Source: Player's Handbook p. 62*  
 
 > [!tldr] Class and Feature Progression

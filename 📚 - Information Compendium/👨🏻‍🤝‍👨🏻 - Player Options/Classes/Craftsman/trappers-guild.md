@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/craftsman/trappers]
+title: "Trappers' Guild"
+created: 2025/06/13 at 22:27
+updated: 2025/08/01 at 01:08
+permalink: trappers-guild-craftsman
+source: "Valda's Spire of Secrets"
 aliases:
   - "Trappers' Guild"
-created: 2025/06/13 at 22:27
-updated: 2025/07/22 at 23:27
-title: "Trappers' Guild"
-source: "Valda's Spire of Secrets"
-permalink: trappers-guild
+tags:
+  - ttrpg-cli/compendium/src/5e/vss
+  - ttrpg-cli/subclass/craftsman/trappers
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Trappers' Guild

@@ -1,18 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/dmg, ttrpg-cli/domain/death, ttrpg-cli/subclass/cleric/death]
-aliases:
-  - Death Domain
+title: Death Domain 2024
 created: 2025/06/15 at 15:35
-updated: 2025/07/22 at 21:36
-permalink: cleric-xphb-death-domain-dmg
-title: Death Domain
+updated: 2025/08/01 at 01:07
+permalink: death-domain-2024-cleric
+source: Dungeon Master's Guide
+aliases:
+  - Death Domain 2024
+  - cleric-xphb-death-domain-dmg
+  - Death Domain
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/domain/death
+  - ttrpg-cli/subclass/cleric/death
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
-# Death Domain
+# Death Domain 2024
 
-*[Cleric](cleric-xphb.md): Cleric Subclass*  
+*[Cleric](cleric-2024.md): Cleric Subclass*  
 *Source: Dungeon Master's Guide p. 96*  
 
 > [!tldr] Class and Feature Progression

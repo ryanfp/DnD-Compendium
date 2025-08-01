@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/craftsman/arcane-maesters]
+title: "Arcane Maesters' Guild"
+created: 2025/06/13 at 22:27
+updated: 2025/08/01 at 01:08
+permalink: arcane-maesters-guild-craftsman
+source: "Valda's Spire of Secrets"
 aliases:
   - "Arcane Maesters' Guild"
-created: 2025/06/13 at 22:27
-updated: 2025/07/22 at 23:26
-title: "Arcane Maesters' Guild"
-source: "Valda's Spire of Secrets"
-permalink: arcane-maesters-guild
+tags:
+  - ttrpg-cli/compendium/src/5e/vss
+  - ttrpg-cli/subclass/craftsman/arcane-maesters
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Arcane Maesters' Guild

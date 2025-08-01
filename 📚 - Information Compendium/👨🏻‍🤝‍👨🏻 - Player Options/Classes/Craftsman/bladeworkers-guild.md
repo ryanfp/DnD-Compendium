@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/craftsman/bladeworkers]
+title: "Bladeworkers' Guild"
+created: 2025/06/13 at 22:27
+updated: 2025/08/01 at 01:08
+permalink: bladeworkers-guild-craftsman
+source: "Valda's Spire of Secrets"
 aliases:
   - "Bladeworkers' Guild"
-created: 2025/06/13 at 22:27
-updated: 2025/07/22 at 23:27
-title: "Bladeworkers' Guild"
-source: "Valda's Spire of Secrets"
-permalink: bladeworkers-guild
+tags:
+  - ttrpg-cli/compendium/src/5e/vss
+  - ttrpg-cli/subclass/craftsman/bladeworkers
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Bladeworkers' Guild

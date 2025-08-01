@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/class/dragon-knight, ttrpg-cli/compendium/src/5e/dk]
-aliases:
-  - Dragon Knight
+title: Dragon Knight
 created: 2025/06/13 at 22:27
-updated: 2025/07/23 at 23:50
+updated: 2025/08/01 at 01:09
 permalink: dragon-knight
 source: Dragon Knight
-title: Dragon Knight
+aliases:
+  - Dragon Knight
+tags:
+  - ttrpg-cli/class/dragon-knight
+  - ttrpg-cli/compendium/src/5e/dk
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Dragon Knight

@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/domain/twilight, ttrpg-cli/subclass/cleric/twilight]
-aliases:
-  - Twilight Domain
+title: Twilight Domain 2024
 created: 2025/06/15 at 15:35
-updated: 2025/07/22 at 23:22
-source: "Tasha's Cauldron of Everything"
-permalink: cleric-xphb-twilight-domain-tce
-title: Twilight Domain
+updated: 2025/08/01 at 01:06
+permalink: twilight-domain-2024-cleric
+source: Tasha's Cauldron of Everything
+aliases:
+  - Twilight Domain 2024
+  - cleric-xphb-twilight-domain-tce
+  - Twilight Domain
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/domain/twilight
+  - ttrpg-cli/subclass/cleric/twilight
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
-# Twilight Domain
+# Twilight Domain 2024
 
-*[Cleric](cleric-xphb.md): Cleric Subclass*  
+*[Cleric](cleric-2024.md): Cleric Subclass*  
 *Source: Tasha's Cauldron of Everything p. 34*  
 
 > [!tldr] Class and Feature Progression

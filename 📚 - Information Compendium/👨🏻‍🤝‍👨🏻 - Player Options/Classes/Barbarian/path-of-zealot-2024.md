@@ -3,7 +3,7 @@ title: Path of the Zealot 2024
 created: 2025/06/15 at 22:21
 updated: 2025/08/01 at 00:30
 permalink: path-of-zealot-2024-barbarian
-source: "Player's Handbook (2024)"
+source: Player's Handbook (2024)
 aliases:
   - barbarian-xphb-path-of-the-zealot-xphb
   - Path of the Zealot

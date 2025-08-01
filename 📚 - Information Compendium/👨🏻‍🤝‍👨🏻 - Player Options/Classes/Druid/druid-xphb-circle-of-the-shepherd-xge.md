@@ -1,12 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [compendium/src/5e/xge, subclass/druid/shepherd]
+title: Circle of the Shepherd
+created: 2025/06/15 at 22:24
+updated: 2025/08/01 at 01:09
 aliases:
   - Circle of the Shepherd
-  - Circle of the Shepherd
-created: 2025/06/15 at 22:24
-updated: 2025/07/13 at 00:17
+tags:
+  - compendium/src/5e/xge
+  - subclass/druid/shepherd
+cssclasses: json5e-class
+obsidianUIMode: preview
+permalink: circle-of-shepherd-druid
+source: Xanathar's Guide to Everything
 ---
 
 # Circle of the Shepherd

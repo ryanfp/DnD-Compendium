@@ -12,7 +12,7 @@
     },
     "escape-yaml-special-characters": {
       "enabled": true,
-      "try-to-escape-single-line-arrays": false
+      "try-to-escape-single-line-arrays": true
     },
     "force-yaml-escape": {
       "enabled": false,
@@ -41,7 +41,7 @@
     },
     "remove-yaml-keys": {
       "enabled": true,
-      "yaml-keys-to-remove": "date created:\ndate modified:"
+      "yaml-keys-to-remove": "date created\ndate modified\ndate created:\ndate modified:"
     },
     "sort-yaml-array-values": {
       "enabled": true,

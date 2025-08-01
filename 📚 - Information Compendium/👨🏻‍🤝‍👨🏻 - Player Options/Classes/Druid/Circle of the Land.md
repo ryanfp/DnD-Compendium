@@ -1,11 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/subclass/druid/land]
+title: Circle of the Land
+created: 2025/06/15 at 15:35
+updated: 2025/08/01 at 01:10
 aliases:
   - Circle of the Land
-created: 2025/06/15 at 15:35
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/compendium/src/5e/phb
+  - ttrpg-cli/subclass/druid/land
+cssclasses: json5e-class
+obsidianUIMode: preview
+permalink: circle-of-land-druid
+source: Player's Handbook
 ---
 
 # Circle of the Land
@@ -168,4 +173,4 @@ When you reach 10th level, you can't be [charmed](/3-Content/Rules/conditions.md
 
 When you reach 14th level, creatures of the natural world sense your connection to nature and become hesitant to attack you. When a beast or plant creature attacks you, that creature must make a Wisdom saving throw against your druid spell save DC. On a failed save, the creature must choose a different target, or the attack automatically misses. On a successful save, the creature is immune to this effect for 24 hours.
 
-The creature is aware of this effect before it makes its attack against you.
+The creature is aw

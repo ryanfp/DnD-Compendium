@@ -1,12 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/subclass/druid/moon]
+title: Circle of the Moon
+created: 2025/06/15 at 15:35
+updated: 2025/08/01 at 01:09
 aliases:
   - Circle of the Moon
-  - Circle of the Moon
-created: 2025/06/15 at 15:35
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/compendium/src/5e/phb
+  - ttrpg-cli/subclass/druid/moon
+cssclasses: json5e-class
+obsidianUIMode: preview
+permalink: circle-of-moon-druid
+source: Player's Handbook
 ---
 
 # Circle of the Moon

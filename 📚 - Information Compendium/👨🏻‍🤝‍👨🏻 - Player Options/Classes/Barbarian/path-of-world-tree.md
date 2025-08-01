@@ -3,7 +3,7 @@ title: Path of the World Tree
 created: 2025/06/15 at 22:21
 updated: 2025/08/01 at 00:28
 permalink: path-of-world-tree-barbarian
-source: "Player's Handbook (2024)"
+source: Player's Handbook (2024)
 aliases:
   - Path of the World Tree
   - path-of-the-world-tree

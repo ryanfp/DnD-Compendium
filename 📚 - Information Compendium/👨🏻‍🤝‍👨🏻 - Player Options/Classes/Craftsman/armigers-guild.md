@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/craftsman/armigers]
+title: "Armigers' Guild"
+created: 2025/06/13 at 22:27
+updated: 2025/08/01 at 01:08
+permalink: armigers-guild-craftsman
+source: "Valda's Spire of Secrets"
 aliases:
   - "Armigers' Guild"
-created: 2025/06/13 at 22:27
-updated: 2025/07/22 at 23:26
-title: "Armigers' Guild"
-source: "Valda's Spire of Secrets"
-permalink: armigers-guild
+tags:
+  - ttrpg-cli/compendium/src/5e/vss
+  - ttrpg-cli/subclass/craftsman/armigers
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Armigers' Guild

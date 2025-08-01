@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
+title: Artillerist
+created: 2025/06/15 at 15:34
+updated: 2025/08/01 at 00:55
+permalink: artillerist-artificer
+source: Tasha's Cauldron of Everything
+aliases:
+  - Artillerist
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/subclass/artificer/artillerist
-aliases:
-  - Artillerist
-created: 2025/06/15 at 15:34
-updated: 2025/07/31 at 23:56
-permalink: artillerist-artificer
-title: Artillerist
-source: "Tasha's Cauldron of Everything"
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Artillerist

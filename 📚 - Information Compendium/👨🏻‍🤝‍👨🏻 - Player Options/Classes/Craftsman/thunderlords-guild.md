@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/craftsman/thunderlords]
+title: "Thunderlords' Guild"
+created: 2025/06/13 at 22:27
+updated: 2025/08/01 at 01:08
+permalink: thunderlords-guild-craftsman
+source: "Valda's Spire of Secrets"
 aliases:
   - "Thunderlords' Guild"
-created: 2025/06/13 at 22:27
-updated: 2025/07/22 at 23:28
-title: "Thunderlords' Guild"
-source: "Valda's Spire of Secrets"
-permalink: thunderlords-guild
+tags:
+  - ttrpg-cli/compendium/src/5e/vss
+  - ttrpg-cli/subclass/craftsman/thunderlords
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Thunderlords' Guild

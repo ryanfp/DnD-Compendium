@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [compendium/src/5e/xphb, subclass/bard/dance]
+title: College of Dance 2024
+created: 2025/06/15 at 22:22
+updated: 2025/08/01 at 00:59
+permalink: college-of-dance-2024-bard
+source: Player's Handbook (2024)
 aliases:
   - College of Dance
-created: 2025/06/15 at 22:22
-updated: 2025/07/22 at 21:14
-permalink: college-of-dance
-title: College of Dance
+  - College of Dance 2024
+  - college-of-dance
+tags:
+  - compendium/src/5e/xphb
+  - subclass/bard/dance
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
-# College of Dance
+# College of Dance 2024
 
-*[Bard](./bard-xphb.md): Bard Subclass*  
+*[Bard](bard-2024.md): Bard Subclass*  
 *Source: Player's Handbook (2024) p. 64*  
 
 > [!tldr] Class and Feature Progression

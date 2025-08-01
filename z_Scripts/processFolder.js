@@ -6,10 +6,11 @@
  * - Includes parent folder name in permalinks
  * - Removes articles like "the", "a", "an" (but keeps "of")
  * - Preserves apostrophes in sources
- * - Always updates source when found in content
+ * - ALWAYS updates source when found in content (no comparison)
+ * - Doesn't add quotes to frontmatter values
  * 
- * Updated: 2025-08-01 04:33:02
- * User: ryanfp
+ * Updated: 2025-08-01 04:37:31
+ * User: ryanfptwo
  */
 
 module.exports = async function(params) {
@@ -249,34 +250,27 @@ async function addPermalinkToFile(file, app) {
             console.log(`Adding permalink for ${file.basename}: "${newPermalink}"`);
         }
         
-        // Update frontmatter
-        await app.fileManager.processFrontMatter(file, (frontmatter) => {
-            frontmatter.permalink = newPermalink;
-        });
-        
-        // Force update as backup approach
-        try {
-            const newContent = content.replace(
-                /^---\s*\n([\s\S]*?)\n---/,
-                (match, frontmatterContent) => {
-                    const lines = frontmatterContent.split('\n');
-                    const permalinkIndex = lines.findIndex(line => line.trim().startsWith('permalink:'));
-                    
-                    if (permalinkIndex >= 0) {
-                        lines[permalinkIndex] = `permalink: "${newPermalink}"`;
-                    } else {
-                        lines.push(`permalink: "${newPermalink}"`);
-                    }
-                    
-                    return `---\n${lines.join('\n')}\n---`;
+        // Update frontmatter - DIRECTLY MODIFY THE FILE to avoid YAML escaping issues
+        const newContent = content.replace(
+            /^---\s*\n([\s\S]*?)\n---/,
+            (match, frontmatterContent) => {
+                const lines = frontmatterContent.split('\n');
+                const permalinkIndex = lines.findIndex(line => line.trim().startsWith('permalink:'));
+                
+                if (permalinkIndex >= 0) {
+                    // Update without quotes
+                    lines[permalinkIndex] = `permalink: ${newPermalink}`;
+                } else {
+                    // Add without quotes
+                    lines.push(`permalink: ${newPermalink}`);
                 }
-            );
-            
-            if (newContent !== content) {
-                await app.vault.modify(file, newContent);
+                
+                return `---\n${lines.join('\n')}\n---`;
             }
-        } catch (writeError) {
-            console.error(`Direct write error: ${writeError}`);
+        );
+        
+        if (newContent !== content) {
+            await app.vault.modify(file, newContent);
         }
         
         return true;
@@ -289,7 +283,8 @@ async function addPermalinkToFile(file, app) {
 
 /**
  * Extract source from content and add to frontmatter
- * UPDATED: Always updates source when found in content (no comparison)
+ * UPDATED: ALWAYS updates source when found in content (no comparison)
+ * FIXED: Direct file modification to ensure it works and avoids quote issues
  */
 async function extractSourceFromFile(file, app) {
     try {
@@ -306,37 +301,35 @@ async function extractSourceFromFile(file, app) {
             let newSource = cleanSource(match[1].trim());
             console.log(`Found and cleaned source: "${newSource}"`);
             
-            // ALWAYS update the source when found in content (no comparison)
+            // ALWAYS update the source when found in content
             console.log(`Updating source for ${file.basename} to: "${newSource}"`);
             
-            // Update frontmatter
-            await app.fileManager.processFrontMatter(file, (frontmatter) => {
-                frontmatter.source = newSource;
-            });
-            
-            // Force update as backup approach
-            try {
-                const newContent = content.replace(
-                    /^---\s*\n([\s\S]*?)\n---/,
-                    (match, frontmatterContent) => {
-                        const lines = frontmatterContent.split('\n');
-                        const sourceIndex = lines.findIndex(line => line.trim().startsWith('source:'));
-                        
-                        if (sourceIndex >= 0) {
-                            lines[sourceIndex] = `source: "${newSource}"`;
-                        } else {
-                            lines.push(`source: "${newSource}"`);
-                        }
-                        
-                        return `---\n${lines.join('\n')}\n---`;
+            // DIRECT APPROACH: Update frontmatter by directly modifying the file
+            // This avoids issues with the processFrontMatter API adding quotes
+            const newContent = content.replace(
+                /^---\s*\n([\s\S]*?)\n---/,
+                (match, frontmatterContent) => {
+                    const lines = frontmatterContent.split('\n');
+                    const sourceIndex = lines.findIndex(line => line.trim().startsWith('source:'));
+                    
+                    if (sourceIndex >= 0) {
+                        // Update without quotes
+                        lines[sourceIndex] = `source: ${newSource}`;
+                    } else {
+                        // Add without quotes
+                        lines.push(`source: ${newSource}`);
                     }
-                );
-                
-                if (newContent !== content) {
-                    await app.vault.modify(file, newContent);
+                    
+                    return `---\n${lines.join('\n')}\n---`;
                 }
-            } catch (writeError) {
-                console.error(`Direct write error: ${writeError}`);
+            );
+            
+            // Only write if content has changed
+            if (newContent !== content) {
+                await app.vault.modify(file, newContent);
+                console.log(`Successfully updated source for ${file.basename}`);
+            } else {
+                console.log(`No change needed in content for ${file.basename}`);
             }
             
             return true;

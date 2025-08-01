@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/domain/nature, ttrpg-cli/subclass/cleric/nature]
-aliases:
-  - Nature Domain
+title: Nature Domain 2024
 created: 2025/06/15 at 15:35
-updated: 2025/07/22 at 23:21
-source: "Player's Handbook"
-permalink: cleric-xphb-nature-domain
-title: Nature Domain
+updated: 2025/08/01 at 01:06
+permalink: nature-domain-2024-cleric
+source: Player's Handbook
+aliases:
+  - Nature Domain 2024
+  - cleric-xphb-nature-domain
+  - Nature Domain
+tags:
+  - ttrpg-cli/compendium/src/5e/phb
+  - ttrpg-cli/domain/nature
+  - ttrpg-cli/subclass/cleric/nature
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
-# Nature Domain
+# Nature Domain 2024
 
-*[Cleric](cleric-xphb.md): Cleric Subclass*  
+*[Cleric](cleric-2024.md): Cleric Subclass*  
 *Source: Player's Handbook p. 61*  
 
 > [!tldr] Class and Feature Progression

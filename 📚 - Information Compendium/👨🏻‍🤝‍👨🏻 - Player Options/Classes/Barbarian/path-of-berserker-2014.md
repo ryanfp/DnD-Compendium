@@ -1,9 +1,9 @@
 ---
 title: Path of the Berserker 2014
 created: 2025/06/15 at 22:21
-updated: 2025/08/01 at 00:29
+updated: 2025/08/01 at 00:53
 permalink: path-of-berserker-2014-barbarian
-source: "Player's Handbook"
+source: Player's Handbook
 aliases:
   - Path of the Berserker
   - Path of the Berserker 2014

@@ -1,14 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/domain/trickery, ttrpg-cli/subclass/cleric/trickery]
+title: Trickery Domain
+created: 2025/06/15 at 15:35
+updated: 2025/08/01 at 01:03
+permalink: trickery-domain-cleric
+source: Player's Handbook
 aliases:
   - Trickery Domain
-created: 2025/06/15 at 15:35
-updated: 2025/07/22 at 23:25
-source: "Player's Handbook"
-permalink: trickery-domain
-title: Trickery Domain
+tags:
+  - ttrpg-cli/compendium/src/5e/phb
+  - ttrpg-cli/domain/trickery
+  - ttrpg-cli/subclass/cleric/trickery
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Trickery Domain

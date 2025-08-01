@@ -1,14 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/domain/light, ttrpg-cli/subclass/cleric/light]
+title: Light Domain
+created: 2025/06/15 at 15:35
+updated: 2025/08/01 at 01:03
+permalink: light-domain-cleric
+source: Player's Handbook
 aliases:
   - Light Domain
-created: 2025/06/15 at 15:35
-updated: 2025/07/22 at 23:23
-source: "Player's Handbook"
-permalink: light-domain
-title: Light Domain
+tags:
+  - ttrpg-cli/compendium/src/5e/phb
+  - ttrpg-cli/domain/light
+  - ttrpg-cli/subclass/cleric/light
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Light Domain

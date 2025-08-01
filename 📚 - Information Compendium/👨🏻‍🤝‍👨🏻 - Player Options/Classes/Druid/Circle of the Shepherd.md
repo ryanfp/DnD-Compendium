@@ -1,11 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [compendium/src/5e/xge, subclass/druid/shepherd]
+title: Circle of the Shepherd
+created: 2025/06/15 at 22:24
+updated: 2025/08/01 at 01:10
 aliases:
   - Circle of the Shepherd
-created: 2025/06/15 at 22:24
-updated: 2025/07/13 at 00:17
+tags:
+  - compendium/src/5e/xge
+  - subclass/druid/shepherd
+cssclasses: json5e-class
+obsidianUIMode: preview
+permalink: circle-of-shepherd-druid
+source: Xanathar's Guide to Everything
 ---
 
 # Circle of the Shepherd
@@ -101,4 +106,4 @@ Beginning at 10th level, your Spirit Totem safeguards the beasts and fey that yo
 
 Starting at 14th level, the nature spirits you commune with protect you when you are the most defenseless. If you are reduced to 0 hit points or are [incapacitated](conditions.md#Incapacitated) against your will, you can immediately gain the benefits of [conjure animals](/📚%20-%20Information%20Compendium/spells/conjure-animals.md) as if it were cast using a 9th-level spell slot. It summons four beasts of your choice that are challenge rating 2 or lower. The conjured beasts appear within 20 feet of you. If they receive no commands from you, they protect you from harm and attack your foes. The spell lasts for 1 hour, requiring no [concentration](conditions.md#Concentration), or until you dismiss it (no action required).
 
-Once you use this feature, you can't use it again until you finish a long rest.
+Once

@@ -7,6 +7,8 @@ aliases:
   - Circle of the Land
 created: 2025/06/15 at 15:35
 updated: 2025/07/13 at 00:17
+permalink: druid-xphb-circle-of-the-land
+source: Player's Handbook
 ---
 
 # Circle of the Land

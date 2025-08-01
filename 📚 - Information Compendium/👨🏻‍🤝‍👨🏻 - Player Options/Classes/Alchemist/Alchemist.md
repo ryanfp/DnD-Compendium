@@ -1,7 +1,7 @@
 ---
 title: Alchemist
 created: 2025/06/13 at 22:25
-updated: 2025/08/01 at 00:37
+updated: 2025/08/01 at 00:55
 permalink: alchemist
 source: "Valda's Spire of Secrets"
 aliases:

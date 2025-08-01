@@ -1,7 +1,7 @@
 ---
 title: Path of the Ancestral Guardian
 created: 2025/06/15 at 22:21
-updated: 2025/08/01 at 00:28
+updated: 2025/08/01 at 00:54
 permalink: path-of-ancestral-guardian-barbarian
 source: "Xanathar's Guide to Everything"
 aliases:

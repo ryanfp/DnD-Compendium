@@ -1,18 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [compendium/src/5e/xge, subclass/bard/swords]
+title: College of Swords
+created: 2025/06/15 at 22:22
+updated: 2025/08/01 at 00:59
+permalink: college-of-swords-bard
+source: Xanathar's Guide to Everything
 aliases:
   - College of Swords
-created: 2025/06/15 at 22:22
-updated: 2025/07/22 at 21:16
-permalink: college-of-swords
-title: College of Swords
+tags:
+  - compendium/src/5e/xge
+  - subclass/bard/swords
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # College of Swords
 
-*[Bard](Bard.md): Bard College*  
+*[bard](bard.md): Bard College*  
 *Source: Xanathar's Guide to Everything p. 15*  
 
 > [!tldr] Class and Feature Progression

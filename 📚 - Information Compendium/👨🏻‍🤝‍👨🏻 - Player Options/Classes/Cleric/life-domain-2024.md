@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/domain/life, ttrpg-cli/subclass/cleric/life]
+title: Life Domain 2024
+created: 2025/06/15 at 15:35
+updated: 2025/08/01 at 01:03
+permalink: life-domain-2024-cleric
+source: Player's Handbook (2024)
 aliases:
   - Life Domain
-created: 2025/06/15 at 15:35
-updated: 2025/07/22 at 23:20
-source: "Player's Handbook (2024)"
-permalink: cleric-xphb-life-domain-xphb
-title: Life Domain
+  - Life Domain 2024
+  - cleric-xphb-life-domain-xphb
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/domain/life
+  - ttrpg-cli/subclass/cleric/life
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
-# Life Domain
+# Life Domain 2024
 
-*[Cleric](cleric-xphb.md): Cleric Subclass*  
+*[Cleric](cleric-2024.md): Cleric Subclass*  
 *Source: Player's Handbook (2024) p. 73. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression

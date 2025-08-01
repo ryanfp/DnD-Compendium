@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/dk, ttrpg-cli/subclass/dragon-knight/valiant]
+title: Valiant Practice
+created: 2025/06/13 at 22:27
+updated: 2025/08/01 at 01:09
+permalink: valiant-practice-dragon-knight
+source: Dragon Knight
 aliases:
   - Valiant Practice
-created: 2025/06/13 at 22:27
-updated: 2025/07/24 at 00:37
-title: Valiant Practice
-permalink: valiant-practice
-source: Dragon Knight
+tags:
+  - ttrpg-cli/compendium/src/5e/dk
+  - ttrpg-cli/subclass/dragon-knight/valiant
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Valiant Practice

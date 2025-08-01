@@ -1,18 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/ghpg, ttrpg-cli/subclass/bard/requiems]
+title: College of Requiems
+created: 2025/06/15 at 15:34
+updated: 2025/08/01 at 00:59
+permalink: college-of-requiems-bard
+source: Grim Hollow: The Player's Guide
 aliases:
   - College of Requiems
-created: 2025/06/15 at 15:34
-updated: 2025/07/22 at 21:15
-permalink: college-of-requiems
-title: College of Requiems
+tags:
+  - ttrpg-cli/compendium/src/5e/ghpg
+  - ttrpg-cli/subclass/bard/requiems
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # College of Requiems
 
-*[Bard](Bard.md): Bard College*  
+*[bard](bard.md): Bard College*  
 *Source: Grim Hollow: The Player's Guide*  
 
 > [!tldr] Class and Feature Progression

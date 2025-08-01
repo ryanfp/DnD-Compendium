@@ -1,12 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [compendium/src/5e/xge, subclass/druid/dreams]
+title: Circle of Dreams
+created: 2025/06/15 at 22:24
+updated: 2025/08/01 at 01:09
 aliases:
   - Circle of Dreams
-  - Circle of Dreams
-created: 2025/06/15 at 22:24
-updated: 2025/07/13 at 00:17
+tags:
+  - compendium/src/5e/xge
+  - subclass/druid/dreams
+cssclasses: json5e-class
+obsidianUIMode: preview
+permalink: circle-of-dreams-druid
+source: Xanathar's Guide to Everything
 ---
 
 # Circle of Dreams

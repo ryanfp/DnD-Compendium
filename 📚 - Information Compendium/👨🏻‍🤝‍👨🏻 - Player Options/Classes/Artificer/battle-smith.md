@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
+title: Battle Smith
+created: 2025/06/15 at 15:34
+updated: 2025/08/01 at 00:55
+permalink: battle-smith-artificer
+source: Tasha's Cauldron of Everything
+aliases:
+  - Battle Smith
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/subclass/artificer/battle-smith
-aliases:
-  - Battle Smith
-created: 2025/06/15 at 15:34
-updated: 2025/07/31 at 23:59
-permalink: battle-smith-artificer
-title: Battle Smith
-source: "Tasha's Cauldron of Everything"
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Battle Smith

@@ -1,18 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [compendium/src/5e/tce, subclass/bard/creation]
+title: College of Creation
+created: 2025/06/15 at 22:22
+updated: 2025/08/01 at 00:59
+permalink: college-of-creation-bard
+source: Tasha's Cauldron of Everything
 aliases:
   - College of Creation
-created: 2025/06/15 at 22:22
-updated: 2025/07/22 at 21:15
-permalink: college-of-creation
-title: College of Creation
+tags:
+  - compendium/src/5e/tce
+  - subclass/bard/creation
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # College of Creation
 
-*[Bard](Bard.md): Bard College*  
+*[bard](bard.md): Bard College*  
 *Source: Tasha's Cauldron of Everything p. 28*  
 
 > [!tldr] Class and Feature Progression

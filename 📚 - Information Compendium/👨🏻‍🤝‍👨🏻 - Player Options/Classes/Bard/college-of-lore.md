@@ -1,18 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [compendium/src/5e/phb, subclass/bard/lore]
+title: College of Lore
+created: 2025/06/15 at 22:22
+updated: 2025/08/01 at 00:59
+permalink: college-of-lore-bard
+source: Player's Handbook
 aliases:
   - College of Lore
-created: 2025/06/15 at 22:22
-updated: 2025/07/22 at 21:15
-permalink: college-of-lore
-title: College of Lore
+tags:
+  - compendium/src/5e/phb
+  - subclass/bard/lore
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # College of Lore
 
-*[Bard](Bard.md): Bard College*  
+*[bard](bard.md): Bard College*  
 *Source: Player's Handbook p. 54. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 > [!tldr] Class and Feature Progression

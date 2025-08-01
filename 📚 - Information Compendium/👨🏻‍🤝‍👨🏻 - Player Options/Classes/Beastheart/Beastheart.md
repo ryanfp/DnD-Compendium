@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/class/beastheart, ttrpg-cli/compendium/src/5e/bst]
+title: Beastheart
+created: 2025/06/13 at 22:26
+updated: 2025/08/01 at 00:59
+permalink: beastheart
+source: Beastheart and Monstrous Companions
 aliases:
   - Beastheart
-created: 2025/06/13 at 22:26
-updated: 2025/07/22 at 23:18
-permalink: beastheart
-title: Beastheart
-source: Beastheart and Monstrous Companions
+tags:
+  - ttrpg-cli/class/beastheart
+  - ttrpg-cli/compendium/src/5e/bst
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Beastheart

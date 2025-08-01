@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/subclass/druid/land]
-aliases:
-  - Circle of the Land
-  - Circle of the Land
+title: Circle of the Land 2024
 created: 2025/06/15 at 15:35
-updated: 2025/07/13 at 00:17
+updated: 2025/08/01 at 01:09
+aliases:
+  - Circle of the Land 2024
+  - Circle of the Land
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/subclass/druid/land
+cssclasses: json5e-class
+obsidianUIMode: preview
+permalink: circle-of-land-2024-druid
+source: Player's Handbook (2024)
 ---
 
-# Circle of the Land
+# Circle of the Land 2024
 
 *[Druid](./druid-xphb.md): Druid Subclass*  
 *Source: Player's Handbook (2024) p. 84. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

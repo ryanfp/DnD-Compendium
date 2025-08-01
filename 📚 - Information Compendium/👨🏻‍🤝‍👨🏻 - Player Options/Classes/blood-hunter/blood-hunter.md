@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/class/blood-hunter, ttrpg-cli/compendium/src/5e/bh2022]
+title: Blood Hunter
+created: 2025/06/13 at 22:26
+updated: 2025/08/01 at 01:01
+permalink: blood-hunter
+source: Blood Hunter 2022
 aliases:
   - Blood Hunter
-created: 2025/06/13 at 22:26
-updated: 2025/07/22 at 23:19
-permalink: blood-hunter
-title: Blood Hunter
-source: Blood Hunter 2022
+tags:
+  - ttrpg-cli/class/blood-hunter
+  - ttrpg-cli/compendium/src/5e/bh2022
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Blood Hunter

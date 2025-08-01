@@ -1,18 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [compendium/src/5e/xge, subclass/bard/whispers]
+title: College of Whispers
+created: 2025/06/15 at 22:22
+updated: 2025/08/01 at 00:59
+permalink: college-of-whispers-bard
+source: Xanathar's Guide to Everything
 aliases:
   - College of Whispers
-created: 2025/06/15 at 22:22
-updated: 2025/07/22 at 21:16
-permalink: college-of-whispers
-title: College of Whispers
+tags:
+  - compendium/src/5e/xge
+  - subclass/bard/whispers
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # College of Whispers
 
-*[Bard](Bard.md): Bard College*  
+*[bard](bard.md): Bard College*  
 *Source: Xanathar's Guide to Everything p. 16*  
 
 > [!tldr] Class and Feature Progression

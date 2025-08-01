@@ -1,14 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/domain/tempest, ttrpg-cli/subclass/cleric/tempest]
+title: Tempest Domain
+created: 2025/06/15 at 15:35
+updated: 2025/08/01 at 01:03
+permalink: tempest-domain-cleric
+source: Player's Handbook
 aliases:
   - Tempest Domain
-created: 2025/06/15 at 15:35
-updated: 2025/07/22 at 23:25
-source: "Player's Handbook"
-permalink: tempest-domain
-title: Tempest Domain
+tags:
+  - ttrpg-cli/compendium/src/5e/phb
+  - ttrpg-cli/domain/tempest
+  - ttrpg-cli/subclass/cleric/tempest
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Tempest Domain

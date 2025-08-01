@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/dk, ttrpg-cli/subclass/dragon-knight/garden]
+title: Garden Practice
+created: 2025/06/13 at 22:27
+updated: 2025/08/01 at 01:09
+permalink: garden-practice-dragon-knight
+source: Dragon Knight
 aliases:
   - Garden Practice
-created: 2025/06/13 at 22:27
-updated: 2025/07/23 at 23:59
-title: Garden Practice
-permalink: garden-practice
-source: Dragon Knight
+tags:
+  - ttrpg-cli/compendium/src/5e/dk
+  - ttrpg-cli/subclass/dragon-knight/garden
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Garden Practice

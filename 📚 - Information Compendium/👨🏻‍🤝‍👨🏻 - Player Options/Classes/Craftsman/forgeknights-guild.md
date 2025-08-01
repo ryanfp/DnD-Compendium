@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/craftsman/forgeknights]
+title: "Forgeknights' Guild"
+created: 2025/06/13 at 22:27
+updated: 2025/08/01 at 01:08
+permalink: forgeknights-guild-craftsman
+source: "Valda's Spire of Secrets"
 aliases:
   - "Forgeknights' Guild"
-created: 2025/06/13 at 22:27
-updated: 2025/07/22 at 23:27
-title: "Forgeknights' Guild"
-source: "Valda's Spire of Secrets"
-permalink: forgeknights-guild
+tags:
+  - ttrpg-cli/compendium/src/5e/vss
+  - ttrpg-cli/subclass/craftsman/forgeknights
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Forgeknights' Guild

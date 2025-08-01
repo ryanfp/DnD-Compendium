@@ -1,11 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/druid/spores]
+title: Circle of Spores
+created: 2025/06/15 at 15:35
+updated: 2025/08/01 at 01:10
 aliases:
   - Circle of Spores
-created: 2025/06/15 at 15:35
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/subclass/druid/spores
+cssclasses: json5e-class
+obsidianUIMode: preview
+permalink: circle-of-spores-druid
+source: Tasha's Cauldron of Everything
 ---
 
 # Circle of Spores
@@ -102,4 +107,4 @@ While the cube of spores persists, you can't use your Halo of Spores reaction.
 
 ### Fungal Body (Level 14)
 
-At 14th level, the fungal spores in your body alter you: you can't be [blinded](/3-Content/Rules/conditions.md#Blinded), [deafened](/3-Content/Rules/conditions.md#Deafened), [frightened](/3-Content/Rules/conditions.md#Frightened), or [poisoned](/3-Content/Rules/conditions.md#Poisoned), and any critical hit against you counts as a normal hit instead, unless you're [incapacitated](/3-Content/Rules/conditions.md#Incapacitated).
+At 14th level, the fungal spores in your body alter you: you can't be [blinded](/3-Content/Rules/conditions.md#Blinded), [deafened](/3-Content/Rules/conditions.md#Deafened), [frightened](/3-Content/Rules/conditions.md#Frightened), or [poisoned](/3-Content/Rules/conditions.md#Poisoned), and any critical hit against you counts as a normal hit instead, unl

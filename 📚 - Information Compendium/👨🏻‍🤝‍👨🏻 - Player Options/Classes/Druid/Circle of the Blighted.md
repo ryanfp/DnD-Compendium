@@ -1,11 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [compendium/src/5e/tdcsr, subclass/druid/blighted]
+title: Circle of the Blighted
+created: 2025/06/15 at 22:24
+updated: 2025/08/01 at 01:10
 aliases:
   - Circle of the Blighted
-created: 2025/06/15 at 22:24
-updated: 2025/07/13 at 00:17
+tags:
+  - compendium/src/5e/tdcsr
+  - subclass/druid/blighted
+cssclasses: json5e-class
+obsidianUIMode: preview
+permalink: circle-of-blighted-druid
+source: Tal'Dorei Campaign Setting Reborn
 ---
 
 # Circle of the Blighted
@@ -114,4 +119,4 @@ When the creature is reduced to 0 hit points, it explodes in a burst of toxic mu
 
 At 14th level, your physical form begins to take on the tainted traits of the land you are bonded to. Your skin grows ashen, and your eyes darken or turn completely white. Spines and jagged spurs emerge from your body, granting you resistance to necrotic damage and a +2 bonus to AC.
 
-Additionally, whenever you start your turn within the radius of the corruption created by your [Defile Ground](/📚%20-%20Information%20Compendium/classes/druid-circle-of-the-blighted-tdcsr.md#Defile%20Ground%20(Level%202)) feature, you can use a bonus action to gain temporary hit points equal to your proficiency bonus.
+Additionally, whenever you start your turn within the radius of the corruption created by your [Defile Ground](/📚%20-%20Information%20Compendium/classes/druid-circle-of-the-blighted-tdcsr.md#Defile%20Ground%20(Level%202)) feature, you can us

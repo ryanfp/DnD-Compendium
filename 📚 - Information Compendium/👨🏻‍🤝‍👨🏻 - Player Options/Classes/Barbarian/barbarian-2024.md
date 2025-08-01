@@ -1,7 +1,7 @@
 ---
 title: Barbarian 2024
 created: 2025/06/15 at 22:21
-updated: 2025/08/01 at 00:39
+updated: 2025/08/01 at 00:54
 permalink: barbarian-2024
 source: "Player's Handbook (2024)"
 aliases:

@@ -3,7 +3,7 @@ title: Path of Wild Magic
 created: 2025/06/15 at 22:21
 updated: 2025/08/01 at 00:28
 permalink: path-of-wild-magic-barbarian
-source: "Tasha's Cauldron of Everything"
+source: Tasha's Cauldron of Everything
 aliases:
   - Path of Wild Magic
 tags:

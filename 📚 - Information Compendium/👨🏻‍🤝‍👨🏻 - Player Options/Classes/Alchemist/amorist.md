@@ -1,9 +1,9 @@
 ---
 title: Amorist
 created: 2025/06/13 at 22:25
-updated: 2025/08/01 at 00:33
+updated: 2025/08/01 at 00:55
 permalink: amorist-alchemist
-source: "Valdas Spire of Secrets"
+source: "Valda's Spire of Secrets"
 aliases:
   - Amorist
   - Amorist Field

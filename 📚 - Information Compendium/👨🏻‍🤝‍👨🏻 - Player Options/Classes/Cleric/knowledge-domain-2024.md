@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/domain/knowledge, ttrpg-cli/subclass/cleric/knowledge]
-aliases:
-  - Knowledge Domain
+title: Knowledge Domain 2024
 created: 2025/06/15 at 15:35
-updated: 2025/07/22 at 23:20
-source: "Player's Handbook"
-permalink: cleric-xphb-knowledge-domain
-title: Knowledge Domain
+updated: 2025/08/01 at 01:07
+permalink: knowledge-domain-2024-cleric
+source: Player's Handbook
+aliases:
+  - Knowledge Domain 2024
+  - cleric-xphb-knowledge-domain
+  - Knowledge Domain
+tags:
+  - ttrpg-cli/compendium/src/5e/phb
+  - ttrpg-cli/domain/knowledge
+  - ttrpg-cli/subclass/cleric/knowledge
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
-# Knowledge Domain
+# Knowledge Domain 2024
 
-*[Cleric](cleric-xphb.md): Cleric Subclass*  
+*[Cleric](cleric-2024.md): Cleric Subclass*  
 *Source: Player's Handbook p. 59*  
 
 > [!tldr] Class and Feature Progression

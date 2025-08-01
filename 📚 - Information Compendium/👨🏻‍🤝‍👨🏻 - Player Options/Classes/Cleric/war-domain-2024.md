@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/xphb, ttrpg-cli/domain/war, ttrpg-cli/subclass/cleric/war]
+title: War Domain 2024
+created: 2025/06/15 at 15:35
+updated: 2025/08/01 at 01:03
+permalink: war-domain-2024-cleric
+source: Player's Handbook (2024)
 aliases:
   - War Domain
-created: 2025/06/15 at 15:35
-updated: 2025/07/22 at 23:23
-source: "Player's Handbook (2024)"
-permalink: cleric-xphb-war-domain-xphb
-title: War Domain
+  - War Domain 2024
+  - cleric-xphb-war-domain-xphb
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/domain/war
+  - ttrpg-cli/subclass/cleric/war
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
-# War Domain
+# War Domain 2024
 
-*[Cleric](cleric-xphb.md): Cleric Subclass*  
+*[Cleric](cleric-2024.md): Cleric Subclass*  
 *Source: Player's Handbook (2024) p. 76*  
 
 > [!tldr] Class and Feature Progression

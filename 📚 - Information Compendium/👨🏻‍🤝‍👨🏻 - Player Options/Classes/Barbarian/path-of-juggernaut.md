@@ -1,9 +1,9 @@
 ---
 title: Path of the Juggernaut
 created: 2025/06/15 at 22:21
-updated: 2025/08/01 at 00:28
+updated: 2025/08/01 at 00:41
 permalink: path-of-juggernaut-barbarian
-source: "Tal'Dorei Campaign Setting Reborn"
+source: Tal'Dorei Campaign Setting Reborn
 aliases:
   - Path of the Juggernaut
   - path-of-the-juggernaut

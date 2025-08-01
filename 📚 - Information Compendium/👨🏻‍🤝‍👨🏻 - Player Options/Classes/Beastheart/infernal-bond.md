@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/bst, ttrpg-cli/subclass/beastheart/infernal]
+title: Infernal Bond
+created: 2025/06/13 at 22:26
+updated: 2025/08/01 at 01:00
+permalink: infernal-bond-beastheart
+source: Beastheart and Monstrous Companions
 aliases:
   - Infernal Bond
-created: 2025/06/13 at 22:26
-updated: 2025/07/22 at 23:17
-source: Beastheart and Monstrous Companions
-permalink: infernal-bond
-title: Infernal Bond
+tags:
+  - ttrpg-cli/compendium/src/5e/bst
+  - ttrpg-cli/subclass/beastheart/infernal
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Infernal Bond

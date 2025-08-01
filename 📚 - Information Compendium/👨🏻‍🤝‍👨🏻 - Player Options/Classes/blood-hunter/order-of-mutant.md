@@ -1,13 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/bh2022, ttrpg-cli/subclass/blood-hunter/mutant]
+title: Order of the Mutant
+created: 2025/06/13 at 22:26
+updated: 2025/08/01 at 01:01
+permalink: order-of-mutant-blood-hunter
+source: Blood Hunter 2022
 aliases:
   - Order of the Mutant
-created: 2025/06/13 at 22:26
-updated: 2025/07/22 at 21:28
-title: Order of the Mutant
-permalink: order-of-the-mutant
+  - order-of-the-mutant
+tags:
+  - ttrpg-cli/compendium/src/5e/bh2022
+  - ttrpg-cli/subclass/blood-hunter/mutant
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Order of the Mutant

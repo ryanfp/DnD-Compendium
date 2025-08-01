@@ -1,14 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/scag, ttrpg-cli/domain/arcana, ttrpg-cli/subclass/cleric/arcana]
+title: Arcana Domain
+created: 2025/06/15 at 15:35
+updated: 2025/08/01 at 01:07
+permalink: arcana-domain-cleric
+source: Sword Coast Adventurer's Guide
 aliases:
   - Arcana Domain
-created: 2025/06/15 at 15:35
-updated: 2025/07/22 at 23:19
-title: Arcana Domain
-permalink: arcana-domain
-source: "Sword Coast Adventurer's Guide"
+tags:
+  - ttrpg-cli/compendium/src/5e/scag
+  - ttrpg-cli/domain/arcana
+  - ttrpg-cli/subclass/cleric/arcana
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Arcana Domain

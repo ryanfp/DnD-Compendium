@@ -1,7 +1,7 @@
 ---
 title: Path of the Battlerager
 created: 2025/06/15 at 22:21
-updated: 2025/08/01 at 00:04
+updated: 2025/08/01 at 00:52
 permalink: path-of-battlerager-barbarian
 source: Sword Coast Adventurer's Guide
 aliases:

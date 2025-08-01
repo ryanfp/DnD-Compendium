@@ -1,9 +1,9 @@
 ---
 title: Path of the Beast
 created: 2025/06/15 at 22:21
-updated: 2025/08/01 at 00:28
+updated: 2025/08/01 at 00:52
 permalink: path-of-beast-barbarian
-source: "Tasha's Cauldron of Everything"
+source: Tasha's Cauldron of Everything
 aliases:
   - Path of the Beast
   - path-of-the-beast

@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/bst, ttrpg-cli/subclass/beastheart/primordial]
+title: Primordial Bond
+created: 2025/06/13 at 22:26
+updated: 2025/08/01 at 01:00
+permalink: primordial-bond-beastheart
+source: Beastheart and Monstrous Companions
 aliases:
   - Primordial Bond
-created: 2025/06/13 at 22:26
-updated: 2025/07/22 at 23:18
-source: Beastheart and Monstrous Companions
-permalink: primordial-bond
-title: Primordial Bond
+tags:
+  - ttrpg-cli/compendium/src/5e/bst
+  - ttrpg-cli/subclass/beastheart/primordial
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Primordial Bond

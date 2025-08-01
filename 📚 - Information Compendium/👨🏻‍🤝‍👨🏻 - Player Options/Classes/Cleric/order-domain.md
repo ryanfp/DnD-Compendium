@@ -1,14 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/domain/order, ttrpg-cli/subclass/cleric/order]
+title: Order Domain
+created: 2025/06/15 at 15:35
+updated: 2025/08/01 at 01:03
+permalink: order-domain-cleric
+source: Tasha's Cauldron of Everything
 aliases:
   - Order Domain
-created: 2025/06/15 at 15:35
-updated: 2025/07/22 at 23:24
-source: "Tasha's Cauldron of Everything"
-permalink: order-domain
-title: Order Domain
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/domain/order
+  - ttrpg-cli/subclass/cleric/order
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Order Domain

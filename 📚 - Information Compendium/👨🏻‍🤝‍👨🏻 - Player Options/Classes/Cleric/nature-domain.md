@@ -1,14 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/domain/nature, ttrpg-cli/subclass/cleric/nature]
+title: Nature Domain
+created: 2025/06/15 at 15:35
+updated: 2025/08/01 at 01:03
+permalink: nature-domain-cleric
+source: Player's Handbook
 aliases:
   - Nature Domain
-created: 2025/06/15 at 15:35
-updated: 2025/07/22 at 23:24
-source: "Player's Handbook"
-permalink: nature-domain
-title: Nature Domain
+tags:
+  - ttrpg-cli/compendium/src/5e/phb
+  - ttrpg-cli/domain/nature
+  - ttrpg-cli/subclass/cleric/nature
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Nature Domain

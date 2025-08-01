@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/class/craftsman, ttrpg-cli/compendium/src/5e/vss]
+title: Craftsman
+created: 2025/06/13 at 22:27
+updated: 2025/08/01 at 01:08
+permalink: craftsman
+source: "Valda's Spire of Secrets"
 aliases:
   - Craftsman
-created: 2025/06/13 at 22:27
-updated: 2025/07/22 at 23:26
-source: "Valda's Spire of Secrets"
-permalink: craftsman
-title: Craftsman
+tags:
+  - ttrpg-cli/class/craftsman
+  - ttrpg-cli/compendium/src/5e/vss
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Craftsman
