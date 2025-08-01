@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/ghpg, ttrpg-cli/subclass/monk/pride]
+title: Way of Pride
+created: 2025/06/15 at 15:36
+updated: 2025/08/01 at 01:20
 aliases:
   - Way of Pride
-created: 2025/06/15 at 15:36
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/compendium/src/5e/ghpg
+  - ttrpg-cli/subclass/monk/pride
+cssclasses: json5e-class
+obsidianUIMode: preview
+permalink: way-of-pride-monk
+source: Grim Hollow: The Player's Guide
 ---
 
 # Way of Pride
 
-*[Monk](Monk.md): Monastic Tradition*  
+*[monk](monk.md): Monastic Tradition*  
 *Source: Grim Hollow: The Player's Guide*  
 
 > [!tldr] Class and Feature Progression

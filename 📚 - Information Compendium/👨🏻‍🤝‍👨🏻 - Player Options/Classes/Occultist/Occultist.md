@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/class/occultist, ttrpg-cli/compendium/src/5e/kt-cll]
-aliases:
-  - Occultist
-created: 2025/06/13 at 22:29
-updated: 2025/07/30 at 23:30
 title: Occultist
+created: 2025/06/13 at 22:29
+updated: 2025/08/01 at 01:21
 permalink: occultist
 source: Kibbles Compendium of Legends and Legacies
+aliases:
+  - Occultist
+tags:
+  - ttrpg-cli/class/occultist
+  - ttrpg-cli/compendium/src/5e/kt-cll
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Occultist

@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/subclass/rogue/assassin]
+title: Assassin
+created: 2025/06/15 at 15:37
+updated: 2025/08/01 at 01:29
 aliases:
   - Assassin
-created: 2025/06/15 at 15:37
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/compendium/src/5e/phb
+  - ttrpg-cli/subclass/rogue/assassin
+cssclasses: json5e-class
+obsidianUIMode: preview
+permalink: assassin-rogue
+source: Player's Handbook
 ---
 
 # Assassin
 
-*[Rogue](Rogue.md): Roguish Archetype*  
+*[rogue](rogue.md): Roguish Archetype*  
 *Source: Player's Handbook p. 97*  
 
 > [!tldr] Class and Feature Progression

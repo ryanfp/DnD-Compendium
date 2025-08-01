@@ -56,30 +56,11 @@
       "color": "#d40c0c"
     },
     {
-      "id": "quickadd:choice:b0c7c61a-6e09-4c4f-b3b3-bfed50a5582c",
-      "icon": "lucide-file",
-      "name": "QuickAdd: Process File",
-      "mode": "any",
-      "color": "#0af5ba"
-    },
-    {
       "id": "quickadd:choice:1a164220-3b67-438b-8d0a-88fd05ce82e2",
       "icon": "lucide-folder-cog",
       "name": "QuickAdd: Process Folder",
       "mode": "any",
       "color": "#17e88d"
-    },
-    {
-      "id": "quickadd:choice:1002e97e-2fce-4684-a401-a446dc083072",
-      "icon": "lucide-alarm-clock",
-      "name": "QuickAdd: Process Files - Consolidated Scripts",
-      "mode": "any"
-    },
-    {
-      "id": "quickadd:choice:1002e97e-2fce-4684-a401-a446dc083072",
-      "icon": "lucide-activity",
-      "name": "QuickAdd: Process Files",
-      "mode": "any"
     },
     {
       "id": "quickadd:choice:0ef618ce-d97f-44bd-8ef7-cb3005e49df4",

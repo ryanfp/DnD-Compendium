@@ -1,13 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/class/paladin, ttrpg-cli/compendium/src/5e/phb]
+title: Paladin
+created: 2025/06/15 at 15:36
+updated: 2025/08/01 at 01:23
+permalink: paladin
 aliases:
   - Paladin
-created: 2025/06/15 at 15:36
-updated: 2025/07/22 at 21:09
-permalink: paladin
-title: Paladin
+tags:
+  - ttrpg-cli/class/paladin
+  - ttrpg-cli/compendium/src/5e/phb
+cssclasses: json5e-class
+obsidianUIMode: preview
+source: Player's Handbook
 ---
 
 # Paladin

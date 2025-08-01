@@ -1,11 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/class/tamer, ttrpg-cli/compendium/src/5e/helianasguidetomonsterhunting]
+title: Tamer
+created: 2025/06/13 at 22:33
+updated: 2025/08/01 at 01:35
 aliases:
   - Tamer
-created: 2025/06/13 at 22:33
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/class/tamer
+  - ttrpg-cli/compendium/src/5e/helianasguidetomonsterhunting
+cssclasses: json5e-class
+obsidianUIMode: preview
+permalink: tamer
+source: Heliana's Guide to Monster Hunting
 ---
 
 # Tamer

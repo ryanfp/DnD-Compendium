@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/subclass/fighter/champion]
+title: Champion
+created: 2025/06/15 at 15:35
+updated: 2025/08/01 at 01:13
+permalink: champion-fighter
+source: Player's Handbook
 aliases:
   - Champion
-created: 2025/06/15 at 15:35
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/compendium/src/5e/phb
+  - ttrpg-cli/subclass/fighter/champion
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Champion
 
-*[Fighter](Fighter.md): Martial Archetype*  
+*[fighter](fighter.md): Martial Archetype*  
 *Source: Player's Handbook p. 72. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 > [!tldr] Class and Feature Progression

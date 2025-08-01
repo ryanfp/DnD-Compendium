@@ -1,19 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/subclass/druid/land]
+title: Circle of the Land
+created: 2025/06/15 at 15:35
+updated: 2025/08/01 at 01:10
+permalink: circle-of-land-druid
+source: Player's Handbook
 aliases:
   - Circle of the Land
-  - Circle of the Land
-created: 2025/06/15 at 15:35
-updated: 2025/07/13 at 00:17
-permalink: druid-xphb-circle-of-the-land
-source: Player's Handbook
+  - druid-xphb-circle-of-the-land
+tags:
+  - ttrpg-cli/compendium/src/5e/phb
+  - ttrpg-cli/subclass/druid/land
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Circle of the Land
 
-*[Druid](./druid-xphb.md): Druid Subclass*  
+*[Druid](druid-2024.md): Druid Subclass*  
 *Source: Player's Handbook p. 68. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 > [!tldr] Class and Feature Progression

@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/illriggerrevised, ttrpg-cli/subclass/illrigger/hellspeaker]
+title: Hellspeaker
+created: 2025/06/13 at 22:28
+updated: 2025/08/01 at 01:15
+permalink: hellspeaker-illrigger
+source: The Illrigger Revised
 aliases:
   - Hellspeaker
-created: 2025/06/13 at 22:28
-updated: 2025/07/24 at 01:08
-title: Hellspeaker
-permalink: hellspeaker
-source: The Illrigger Revised
+tags:
+  - ttrpg-cli/compendium/src/5e/illriggerrevised
+  - ttrpg-cli/subclass/illrigger/hellspeaker
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Hellspeaker

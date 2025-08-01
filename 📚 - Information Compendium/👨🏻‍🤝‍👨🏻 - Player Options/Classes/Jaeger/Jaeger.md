@@ -1,11 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/class/jaeger, ttrpg-cli/compendium/src/5e/sgtteh]
+title: Jaeger
+created: 2025/06/13 at 22:28
+updated: 2025/08/01 at 01:18
+permalink: jaeger
+source: "Steinhardt's Guide to the Eldritch Hunt"
 aliases:
   - Jaeger
-created: 2025/06/13 at 22:28
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/class/jaeger
+  - ttrpg-cli/compendium/src/5e/sgtteh
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Jaeger

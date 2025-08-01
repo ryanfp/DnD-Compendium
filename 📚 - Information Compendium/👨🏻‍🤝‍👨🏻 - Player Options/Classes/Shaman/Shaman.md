@@ -1,11 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/class/shaman, ttrpg-cli/compendium/src/5e/llsh]
+title: Shaman
+created: 2025/06/13 at 22:30
+updated: 2025/08/01 at 01:33
+permalink: shaman
+source: The Shaman
 aliases:
   - Shaman
-created: 2025/06/13 at 22:30
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/class/shaman
+  - ttrpg-cli/compendium/src/5e/llsh
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Shaman

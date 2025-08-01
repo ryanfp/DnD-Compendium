@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/dsotdq, ttrpg-cli/subclass/sorcerer/lunar]
+title: Lunar Sorcery
+created: 2025/06/15 at 15:37
+updated: 2025/08/01 at 01:30
 aliases:
   - Lunar Sorcery
-created: 2025/06/15 at 15:37
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/compendium/src/5e/dsotdq
+  - ttrpg-cli/subclass/sorcerer/lunar
+cssclasses: json5e-class
+obsidianUIMode: preview
+permalink: lunar-sorcery-sorcerer
+source: Dragonlance: Shadow of the Dragon Queen
 ---
 
 # Lunar Sorcery
 
-*[Sorcerer](Sorcerer.md): Sorcerous Origin*  
+*[sorcerer](sorcerer.md): Sorcerous Origin*  
 *Source: Dragonlance: Shadow of the Dragon Queen p. 34*  
 
 > [!tldr] Class and Feature Progression

@@ -1,11 +1,14 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [compendium/src/5e/tdcsr, subclass/wizard/blood-magic]
+title: Blood Magic
+created: 2025/06/15 at 22:30
+updated: 2025/08/01 at 01:30
 aliases:
   - Blood Magic
-created: 2025/06/15 at 22:30
-updated: 2025/07/13 at 00:17
+tags:
+  - compendium/src/5e/tdcsr
+  - subclass/wizard/blood-magic
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Blood Magic

@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/xge, ttrpg-cli/subclass/rogue/mastermind]
+title: Mastermind
+created: 2025/06/15 at 15:37
+updated: 2025/08/01 at 01:29
 aliases:
   - Mastermind
-created: 2025/06/15 at 15:37
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/subclass/rogue/mastermind
+cssclasses: json5e-class
+obsidianUIMode: preview
+permalink: mastermind-rogue
+source: Xanathar's Guide to Everything
 ---
 
 # Mastermind
 
-*[Rogue](Rogue.md): Roguish Archetype*  
+*[rogue](rogue.md): Roguish Archetype*  
 *Source: Xanathar's Guide to Everything p. 46, Sword Coast Adventurer's Guide p. 135*  
 
 > [!tldr] Class and Feature Progression

@@ -1,12 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/class/psion, ttrpg-cli/compendium/src/5e/ktp]
+title: Psion
+created: 2025/06/13 at 22:29
+updated: 2025/08/01 at 01:26
+permalink: psion
+source: "KibblesTasty: Psion"
 aliases:
   - Psion
-created: 2025/06/13 at 22:29
-updated: 2025/07/22 at 20:57
-title: Psion
+tags:
+  - ttrpg-cli/class/psion
+  - ttrpg-cli/compendium/src/5e/ktp
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Psion

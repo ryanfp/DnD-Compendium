@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/warden/sunwatcher]
+title: Sunwatcher
+created: 2025/06/13 at 22:33
+updated: 2025/08/01 at 01:38
+permalink: sunwatcher-warden
+source: Kibbles' Compendium of Legends and Legacies
 aliases:
   - Sunwatcher
-created: 2025/06/13 at 22:33
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/compendium/src/5e/kt-cll
+  - ttrpg-cli/subclass/warden/sunwatcher
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Sunwatcher
 
-*[Warden](Warden.md): Warden Bond*  
+*[warden](warden.md): Warden Bond*  
 *Source: Kibbles' Compendium of Legends and Legacies p. 70*  
 
 > [!tldr] Class and Feature Progression

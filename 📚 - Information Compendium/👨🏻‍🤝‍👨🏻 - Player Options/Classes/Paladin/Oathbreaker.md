@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/dmg, ttrpg-cli/subclass/paladin/oathbreaker]
+title: Oathbreaker
+created: 2025/06/15 at 15:36
+updated: 2025/08/01 at 01:23
 aliases:
   - Oathbreaker
-created: 2025/06/15 at 15:36
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/subclass/paladin/oathbreaker
+cssclasses: json5e-class
+obsidianUIMode: preview
+permalink: oathbreaker-paladin
+source: Dungeon Master's Guide
 ---
 
 # Oathbreaker
 
-*[Paladin](Paladin.md): Sacred Oath*  
+*[paladin](paladin.md): Sacred Oath*  
 *Source: Dungeon Master's Guide p. 97*  
 
 > [!tldr] Class and Feature Progression

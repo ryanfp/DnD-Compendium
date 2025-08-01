@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/ghpg, ttrpg-cli/subclass/sorcerer/wretched]
+title: Wretched Bloodline
+created: 2025/06/15 at 15:37
+updated: 2025/08/01 at 01:30
 aliases:
   - Wretched Bloodline
-created: 2025/06/15 at 15:37
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/compendium/src/5e/ghpg
+  - ttrpg-cli/subclass/sorcerer/wretched
+cssclasses: json5e-class
+obsidianUIMode: preview
+permalink: wretched-bloodline-sorcerer
+source: Grim Hollow: The Player's Guide
 ---
 
 # Wretched Bloodline
 
-*[Sorcerer](Sorcerer.md): Sorcerous Origin*  
+*[sorcerer](sorcerer.md): Sorcerous Origin*  
 *Source: Grim Hollow: The Player's Guide*  
 
 > [!tldr] Class and Feature Progression

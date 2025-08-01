@@ -1,11 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/class/martyr, ttrpg-cli/compendium/src/5e/vss]
+title: Martyr
+created: 2025/06/13 at 22:28
+updated: 2025/08/01 at 01:19
+permalink: martyr
+source: "Valda's Spire of Secrets"
 aliases:
   - Martyr
-created: 2025/06/13 at 22:28
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/class/martyr
+  - ttrpg-cli/compendium/src/5e/vss
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Martyr

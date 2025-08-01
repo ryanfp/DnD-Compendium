@@ -1,12 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/class/fighter, ttrpg-cli/compendium/src/5e/phb]
+title: Fighter
+created: 2025/06/15 at 15:35
+updated: 2025/08/01 at 01:13
+permalink: fighter
+source: Player's Handbook
 aliases:
   - Fighter
-created: 2025/06/15 at 15:35
-updated: 2025/07/22 at 21:09
-title: Fighter
+tags:
+  - ttrpg-cli/class/fighter
+  - ttrpg-cli/compendium/src/5e/phb
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Fighter

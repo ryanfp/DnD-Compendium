@@ -1,15 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/class/warden, ttrpg-cli/compendium/src/5e/vss]
-aliases:
-  - Warden
-  - Warden
+title: "Warden Valda's"
 created: 2025/06/13 at 22:33
-updated: 2025/07/13 at 00:17
+updated: 2025/08/01 at 01:38
+permalink: warden
+source: "Valda's Spire of Secrets"
+aliases:
+  - "Warden Valda's"
+  - VSS Warden
+  - Warden
+tags:
+  - ttrpg-cli/class/warden
+  - ttrpg-cli/compendium/src/5e/vss
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
-# Warden
+# Warden Valda's
 
 *Source: Valda's Spire of Secrets*  
 

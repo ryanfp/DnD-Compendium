@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/warden/ironbound]
+title: Ironbound
+created: 2025/06/13 at 22:33
+updated: 2025/08/01 at 01:37
+permalink: ironbound-warden
+source: Kibbles' Compendium of Legends and Legacies
 aliases:
   - Ironbound
-created: 2025/06/13 at 22:33
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/compendium/src/5e/kt-cll
+  - ttrpg-cli/subclass/warden/ironbound
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Ironbound
 
-*[Warden](Warden.md): Warden Bond*  
+*[warden](warden.md): Warden Bond*  
 *Source: Kibbles' Compendium of Legends and Legacies p. 72*  
 
 > [!tldr] Class and Feature Progression

@@ -2,6 +2,8 @@
 title: Druid
 created: 2025/06/15 at 15:35
 updated: 2025/08/01 at 01:10
+permalink: druid
+source: Player's Handbook
 aliases:
   - Druid
 tags:
@@ -9,8 +11,6 @@ tags:
   - ttrpg-cli/compendium/src/5e/phb
 cssclasses: json5e-class
 obsidianUIMode: preview
-permalink: druid
-source: Player's Handbook
 ---
 
 # Druid

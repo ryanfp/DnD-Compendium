@@ -2,6 +2,8 @@
 title: Circle of Dreams
 created: 2025/06/15 at 22:24
 updated: 2025/08/01 at 01:10
+permalink: circle-of-dreams-druid
+source: Xanathar's Guide to Everything
 aliases:
   - Circle of Dreams
 tags:
@@ -9,13 +11,11 @@ tags:
   - subclass/druid/dreams
 cssclasses: json5e-class
 obsidianUIMode: preview
-permalink: circle-of-dreams-druid
-source: Xanathar's Guide to Everything
 ---
 
 # Circle of Dreams
 
-*[Druid](Druid.md): Druid Circle*  
+*[druid](druid.md): Druid Circle*  
 *Source: Xanathar's Guide to Everything p. 22*  
 
 > [!tldr] Class and Feature Progression
@@ -89,4 +89,4 @@ When you finish a short rest, you can cast one of the following spells, without 
 
 This use of [teleportation circle](/📚%20-%20Information%20Compendium/spells/teleportation-circle.md) is special. Rather than opening a portal to a permanent [teleportation circle](/📚%20-%20Information%20Compendium/spells/teleportation-circle.md), it opens a portal to the last location where you finished a long rest on your current plane of existence. If you haven't taken a long rest on your current plane, the spell fails but isn't wasted.
 
-Once y
+Once you use this feature, you can't use it again until you finish a long rest.

@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/llsave, ttrpg-cli/subclass/savant/orator]
+title: Orator
+created: 2025/06/13 at 22:30
+updated: 2025/08/01 at 01:33
+permalink: orator-savant
+source: Savant Expanded
 aliases:
   - Orator
-created: 2025/06/13 at 22:30
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/compendium/src/5e/llsave
+  - ttrpg-cli/subclass/savant/orator
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Orator
 
-*[Savant](Savant.md): Academic Disciplines*  
+*[savant](savant.md): Academic Disciplines*  
 *Source: Savant Expanded*  
 
 > [!tldr] Class and Feature Progression

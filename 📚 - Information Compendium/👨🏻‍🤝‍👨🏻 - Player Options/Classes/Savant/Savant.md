@@ -1,11 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/class/savant, ttrpg-cli/compendium/src/5e/llsav]
+title: Savant
+created: 2025/06/13 at 22:30
+updated: 2025/08/01 at 01:33
+permalink: savant
+source: Savant
 aliases:
   - Savant
-created: 2025/06/13 at 22:30
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/class/savant
+  - ttrpg-cli/compendium/src/5e/llsav
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Savant

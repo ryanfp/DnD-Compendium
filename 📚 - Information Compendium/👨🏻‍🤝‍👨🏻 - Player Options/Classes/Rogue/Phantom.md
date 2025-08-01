@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/rogue/phantom]
+title: Phantom
+created: 2025/06/15 at 15:37
+updated: 2025/08/01 at 01:29
 aliases:
   - Phantom
-created: 2025/06/15 at 15:37
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/subclass/rogue/phantom
+cssclasses: json5e-class
+obsidianUIMode: preview
+permalink: phantom-rogue
+source: Tasha's Cauldron of Everything
 ---
 
 # Phantom
 
-*[Rogue](Rogue.md): Roguish Archetype*  
+*[rogue](rogue.md): Roguish Archetype*  
 *Source: Tasha's Cauldron of Everything p. 62*  
 
 > [!tldr] Class and Feature Progression

@@ -1,11 +1,14 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/wizard/bladesinging]
+title: Bladesinging
+created: 2025/06/15 at 15:38
+updated: 2025/08/01 at 01:31
 aliases:
   - Bladesinging
-created: 2025/06/15 at 15:38
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/subclass/wizard/bladesinging
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Bladesinging

@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/helianasguidetomonsterhunting, ttrpg-cli/subclass/tamer/infuser]
+title: Infuser
+created: 2025/06/13 at 22:33
+updated: 2025/08/01 at 01:35
+permalink: infuser-tamer
+source: "Heliana's Guide to Monster Hunting"
 aliases:
   - Infuser
-created: 2025/06/13 at 22:33
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/compendium/src/5e/helianasguidetomonsterhunting
+  - ttrpg-cli/subclass/tamer/infuser
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Infuser
 
-*[Tamer](Tamer.md): Training Paradgim*  
+*[tamer](tamer.md): Training Paradgim*  
 *Source: Heliana's Guide to Monster Hunting*  
 
 > [!tldr] Class and Feature Progression

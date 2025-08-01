@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/llsav, ttrpg-cli/subclass/savant/naturalist]
+title: Naturalist
+created: 2025/06/13 at 22:30
+updated: 2025/08/01 at 01:33
+permalink: naturalist-savant
+source: Savant
 aliases:
   - Naturalist
-created: 2025/06/13 at 22:30
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/compendium/src/5e/llsav
+  - ttrpg-cli/subclass/savant/naturalist
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Naturalist
 
-*[Savant](Savant.md): Academic Disciplines*  
+*[savant](savant.md): Academic Disciplines*  
 *Source: Savant*  
 
 > [!tldr] Class and Feature Progression

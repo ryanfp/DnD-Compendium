@@ -2,6 +2,8 @@
 title: Circle of Stars
 created: 2025/06/15 at 15:35
 updated: 2025/08/01 at 01:10
+permalink: circle-of-stars-druid
+source: Tasha's Cauldron of Everything
 aliases:
   - Circle of Stars
 tags:
@@ -9,13 +11,11 @@ tags:
   - ttrpg-cli/subclass/druid/stars
 cssclasses: json5e-class
 obsidianUIMode: preview
-permalink: circle-of-stars-druid
-source: Tasha's Cauldron of Everything
 ---
 
 # Circle of Stars
 
-*[Druid](Druid.md): Druid Circle*  
+*[druid](druid.md): Druid Circle*  
 *Source: Tasha's Cauldron of Everything p. 38*  
 
 > [!tldr] Class and Feature Progression
@@ -131,4 +131,4 @@ Moreover, at the start of each of your turns while in your Starry Form, you can 
 
 *14th-level Circle of the Stars feature*
 
-While in your Starry Form, you become partially incorpore
+While in your Starry Form, you become partially incorporeal, giving you resistance to bludgeoning, piercing, and slashing damage.

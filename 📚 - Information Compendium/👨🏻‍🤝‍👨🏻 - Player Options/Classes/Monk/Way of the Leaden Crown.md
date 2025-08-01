@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/ghpg, ttrpg-cli/subclass/monk/leaden-crown]
+title: Way of the Leaden Crown
+created: 2025/06/15 at 15:36
+updated: 2025/08/01 at 01:20
 aliases:
   - Way of the Leaden Crown
-created: 2025/06/15 at 15:36
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/compendium/src/5e/ghpg
+  - ttrpg-cli/subclass/monk/leaden-crown
+cssclasses: json5e-class
+obsidianUIMode: preview
+permalink: way-of-leaden-crown-monk
+source: Grim Hollow: The Player's Guide
 ---
 
 # Way of the Leaden Crown
 
-*[Monk](Monk.md): Monastic Tradition*  
+*[monk](monk.md): Monastic Tradition*  
 *Source: Grim Hollow: The Player's Guide*  
 
 > [!tldr] Class and Feature Progression

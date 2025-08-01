@@ -1,11 +1,14 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/egw, ttrpg-cli/subclass/wizard/chronurgy]
+title: Chronurgy Magic
+created: 2025/06/15 at 15:38
+updated: 2025/08/01 at 01:30
 aliases:
   - Chronurgy Magic
-created: 2025/06/15 at 15:38
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/compendium/src/5e/egw
+  - ttrpg-cli/subclass/wizard/chronurgy
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Chronurgy Magic

@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/class/vessel, ttrpg-cli/compendium/src/5e/llvessel]
-aliases:
-  - Vessel
+title: Vessel
 created: 2025/06/13 at 22:33
-updated: 2025/07/28 at 22:24
+updated: 2025/08/01 at 01:35
 permalink: vessel
 source: The Vessel
-title: Vessel
+aliases:
+  - Vessel
+tags:
+  - ttrpg-cli/class/vessel
+  - ttrpg-cli/compendium/src/5e/llvessel
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Vessel

@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/phb, ttrpg-cli/subclass/rogue/thief]
+title: Thief
+created: 2025/06/15 at 15:37
+updated: 2025/08/01 at 01:30
 aliases:
   - Thief
-created: 2025/06/15 at 15:37
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/compendium/src/5e/phb
+  - ttrpg-cli/subclass/rogue/thief
+cssclasses: json5e-class
+obsidianUIMode: preview
+permalink: thief-rogue
+source: Player's Handbook
 ---
 
 # Thief
 
-*[Rogue](Rogue.md): Roguish Archetype*  
+*[rogue](rogue.md): Roguish Archetype*  
 *Source: Player's Handbook p. 97. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 > [!tldr] Class and Feature Progression

@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/ktp, ttrpg-cli/subclass/psion/wandering]
+title: Wandering
+created: 2025/06/13 at 22:29
+updated: 2025/08/01 at 01:26
+permalink: wandering-psion
+source: "KibblesTasty: Psion"
 aliases:
   - Wandering
-created: 2025/06/13 at 22:29
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/compendium/src/5e/ktp
+  - ttrpg-cli/subclass/psion/wandering
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Wandering
 
-*[Psion](Psion.md): Psionic Archetype*  
+*[psion](psion.md): Psionic Archetype*  
 *Source: KibblesTasty: Psion*  
 
 > [!tldr] Class and Feature Progression

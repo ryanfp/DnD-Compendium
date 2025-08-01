@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/illriggerrevised, ttrpg-cli/subclass/illrigger/sanguine-knight]
+title: Sanguine Knight
+created: 2025/06/13 at 22:28
+updated: 2025/08/01 at 01:15
+permalink: sanguine-knight-illrigger
+source: The Illrigger Revised
 aliases:
   - Sanguine Knight
-created: 2025/06/13 at 22:28
-updated: 2025/07/24 at 00:52
-title: Sanguine Knight
-permalink: sanguine-knight
-source: The Illrigger Revised
+tags:
+  - ttrpg-cli/compendium/src/5e/illriggerrevised
+  - ttrpg-cli/subclass/illrigger/sanguine-knight
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Sanguine Knight

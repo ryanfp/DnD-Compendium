@@ -2,6 +2,8 @@
 title: Circle of the Moon
 created: 2025/06/15 at 15:35
 updated: 2025/08/01 at 01:10
+permalink: circle-of-moon-druid
+source: Player's Handbook
 aliases:
   - Circle of the Moon
 tags:
@@ -9,13 +11,11 @@ tags:
   - ttrpg-cli/subclass/druid/moon
 cssclasses: json5e-class
 obsidianUIMode: preview
-permalink: circle-of-moon-druid
-source: Player's Handbook
 ---
 
 # Circle of the Moon
 
-*[Druid](Druid.md): Druid Circle*  
+*[druid](druid.md): Druid Circle*  
 *Source: Player's Handbook p. 69*  
 
 > [!tldr] Class and Feature Progression
@@ -94,4 +94,4 @@ At 10th level, you can expend two uses of Wild Shape at the same time to transfo
 
 ### Thousand Forms (Level 14)
 
-By 14th level, you have learned to use magic to alter your physical form in more subtle ways. You can cast the [alter self](/3-Con
+By 14th level, you have learned to use magic to alter your physical form in more subtle ways. You can cast the [alter self](/3-Content/Compendiums/spells/alter-self-xphb.md) spell at will.

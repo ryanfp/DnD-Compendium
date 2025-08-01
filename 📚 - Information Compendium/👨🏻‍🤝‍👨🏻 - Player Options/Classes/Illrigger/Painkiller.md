@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/illriggerrevised, ttrpg-cli/subclass/illrigger/painkiller]
+title: Painkiller
+created: 2025/06/13 at 22:28
+updated: 2025/08/01 at 01:15
+permalink: painkiller-illrigger
+source: The Illrigger Revised
 aliases:
   - Painkiller
-created: 2025/06/13 at 22:28
-updated: 2025/07/24 at 01:11
-title: Painkiller
-permalink: painkiller
-source: The Illrigger Revised
+tags:
+  - ttrpg-cli/compendium/src/5e/illriggerrevised
+  - ttrpg-cli/subclass/illrigger/painkiller
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Painkiller

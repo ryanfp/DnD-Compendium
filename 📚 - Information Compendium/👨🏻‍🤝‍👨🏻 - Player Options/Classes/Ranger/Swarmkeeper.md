@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/ranger/swarmkeeper]
+title: Swarmkeeper
+created: 2025/06/15 at 15:37
+updated: 2025/08/01 at 01:29
+permalink: swarmkeeper-ranger
+source: "Tasha's Cauldron of Everything"
 aliases:
   - Swarmkeeper
-created: 2025/06/15 at 15:37
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/subclass/ranger/swarmkeeper
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Swarmkeeper
 
-*[Ranger](Ranger.md): Ranger Archetype*  
+*[ranger](ranger.md): Ranger Archetype*  
 *Source: Tasha's Cauldron of Everything p. 59*  
 
 > [!tldr] Class and Feature Progression

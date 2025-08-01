@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/warden/dreadwing]
+title: Dreadwing
+created: 2025/06/13 at 22:33
+updated: 2025/08/01 at 01:37
+permalink: dreadwing-warden
+source: Kibbles' Compendium of Legends and Legacies
 aliases:
   - Dreadwing
-created: 2025/06/13 at 22:33
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/compendium/src/5e/kt-cll
+  - ttrpg-cli/subclass/warden/dreadwing
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Dreadwing
 
-*[Warden](Warden.md): Warden Bond*  
+*[warden](warden.md): Warden Bond*  
 *Source: Kibbles' Compendium of Legends and Legacies p. 74*  
 
 > [!tldr] Class and Feature Progression

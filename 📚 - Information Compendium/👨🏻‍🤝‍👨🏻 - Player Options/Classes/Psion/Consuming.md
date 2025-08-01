@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/ktp, ttrpg-cli/subclass/psion/consuming]
+title: Consuming
+created: 2025/06/13 at 22:29
+updated: 2025/08/01 at 01:26
+permalink: consuming-psion
+source: "KibblesTasty: Psion"
 aliases:
   - Consuming
-created: 2025/06/13 at 22:29
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/compendium/src/5e/ktp
+  - ttrpg-cli/subclass/psion/consuming
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Consuming
 
-*[Psion](Psion.md): Psionic Archetype*  
+*[psion](psion.md): Psionic Archetype*  
 *Source: KibblesTasty: Psion*  
 
 > [!tldr] Class and Feature Progression

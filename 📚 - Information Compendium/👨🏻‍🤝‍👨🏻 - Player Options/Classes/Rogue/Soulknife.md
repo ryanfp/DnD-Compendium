@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/rogue/soulknife]
+title: Soulknife
+created: 2025/06/15 at 15:37
+updated: 2025/08/01 at 01:30
 aliases:
   - Soulknife
-created: 2025/06/15 at 15:37
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/subclass/rogue/soulknife
+cssclasses: json5e-class
+obsidianUIMode: preview
+permalink: soulknife-rogue
+source: Tasha's Cauldron of Everything
 ---
 
 # Soulknife
 
-*[Rogue](Rogue.md): Roguish Archetype*  
+*[rogue](rogue.md): Roguish Archetype*  
 *Source: Tasha's Cauldron of Everything p. 63*  
 
 > [!tldr] Class and Feature Progression

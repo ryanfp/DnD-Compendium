@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/llsh:e, ttrpg-cli/subclass/shaman/elementalist]
+title: Elementalist
+created: 2025/06/13 at 22:30
+updated: 2025/08/01 at 01:33
+permalink: elementalist-shaman
+source: Shaman Expanded
 aliases:
   - Elementalist
-created: 2025/06/13 at 22:30
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/compendium/src/5e/llsh:e
+  - ttrpg-cli/subclass/shaman/elementalist
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Elementalist
 
-*[Shaman](Shaman.md): Spirituality*  
+*[shaman](shaman.md): Spirituality*  
 *Source: Shaman Expanded p. 8*  
 
 > [!tldr] Class and Feature Progression

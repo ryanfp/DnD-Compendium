@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/ktp, ttrpg-cli/subclass/psion/awakened]
+title: Awakened
+created: 2025/06/13 at 22:29
+updated: 2025/08/01 at 01:26
+permalink: awakened-psion
+source: "KibblesTasty: Psion"
 aliases:
   - Awakened
-created: 2025/06/13 at 22:29
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/compendium/src/5e/ktp
+  - ttrpg-cli/subclass/psion/awakened
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Awakened
 
-*[Psion](Psion.md): Psionic Archetype*  
+*[psion](psion.md): Psionic Archetype*  
 *Source: KibblesTasty: Psion*  
 
 > [!tldr] Class and Feature Progression

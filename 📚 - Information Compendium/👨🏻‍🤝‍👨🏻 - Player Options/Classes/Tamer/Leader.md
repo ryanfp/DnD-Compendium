@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/helianasguidetomonsterhunting, ttrpg-cli/subclass/tamer/leader]
+title: Leader
+created: 2025/06/13 at 22:33
+updated: 2025/08/01 at 01:35
 aliases:
   - Leader
-created: 2025/06/13 at 22:33
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/compendium/src/5e/helianasguidetomonsterhunting
+  - ttrpg-cli/subclass/tamer/leader
+cssclasses: json5e-class
+obsidianUIMode: preview
+permalink: leader-tamer
+source: Heliana's Guide to Monster Hunting
 ---
 
 # Leader
 
-*[Tamer](Tamer.md): Training Paradgim*  
+*[tamer](tamer.md): Training Paradgim*  
 *Source: Heliana's Guide to Monster Hunting*  
 
 > [!tldr] Class and Feature Progression

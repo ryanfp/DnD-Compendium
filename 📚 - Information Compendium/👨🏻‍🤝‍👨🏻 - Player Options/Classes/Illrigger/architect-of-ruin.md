@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/illriggerrevised, ttrpg-cli/subclass/illrigger/architect-of-ruin]
+title: Architect of Ruin
+created: 2025/06/13 at 22:28
+updated: 2025/08/01 at 01:15
+permalink: architect-of-ruin-illrigger
+source: The Illrigger Revised
 aliases:
   - Architect of Ruin
-created: 2025/06/13 at 22:28
-updated: 2025/07/24 at 01:09
-title: Architect of Ruin
-permalink: architect-of-ruin
-source: The Illrigger Revised
+tags:
+  - ttrpg-cli/compendium/src/5e/illriggerrevised
+  - ttrpg-cli/subclass/illrigger/architect-of-ruin
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Architect of Ruin

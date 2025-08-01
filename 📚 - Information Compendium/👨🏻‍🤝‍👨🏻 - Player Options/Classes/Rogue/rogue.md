@@ -1,11 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/class/rogue, ttrpg-cli/compendium/src/5e/phb]
+title: Rogue
+created: 2025/06/15 at 15:37
+updated: 2025/08/01 at 01:29
 aliases:
   - Rogue
-created: 2025/06/15 at 15:37
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/class/rogue
+  - ttrpg-cli/compendium/src/5e/phb
+cssclasses: json5e-class
+obsidianUIMode: preview
+permalink: rogue
+source: Player's Handbook
 ---
 
 # Rogue

@@ -1,15 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/class/wizard, ttrpg-cli/compendium/src/5e/xphb]
-aliases:
-  - Wizard
-  - Wizard
+title: Wizard 2024
 created: 2025/06/15 at 15:38
-updated: 2025/07/13 at 00:17
+updated: 2025/08/01 at 01:30
+aliases:
+  - Wizard 2024
+  - Wizard
+tags:
+  - ttrpg-cli/class/wizard
+  - ttrpg-cli/compendium/src/5e/xphb
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
-# Wizard
+# Wizard 2024
 
 *Source: Player's Handbook (2024) p. 164. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

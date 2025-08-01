@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [compendium/src/5e/tdcsr, subclass/sorcerer/runechild]
+title: Runechild
+created: 2025/06/15 at 22:28
+updated: 2025/08/01 at 01:30
 aliases:
   - Runechild
-created: 2025/06/15 at 22:28
-updated: 2025/07/13 at 00:17
+tags:
+  - compendium/src/5e/tdcsr
+  - subclass/sorcerer/runechild
+cssclasses: json5e-class
+obsidianUIMode: preview
+permalink: runechild-sorcerer
+source: Tal'Dorei Campaign Setting Reborn
 ---
 
 # Runechild
 
-*[Sorcerer](Sorcerer.md): Sorcerous Origin*  
+*[sorcerer](sorcerer.md): Sorcerous Origin*  
 *Source: Tal'Dorei Campaign Setting Reborn p. 176*  
 
 > [!tldr] Class and Feature Progression
