@@ -5,9 +5,8 @@
  * - Extracts sources (properly cleaned)
  * - Includes parent folder name in permalinks
  * - Removes articles like "the", "a", "an" (but keeps "of")
- * - Preserves apostrophes in sources
  * 
- * Updated: 2025-08-01 03:57:14
+ * Updated: 2025-07-31 03:24:12
  * User: ryanfp
  */
 
@@ -228,7 +227,6 @@ async function addPermalinkToFile(file, app) {
 /**
  * Extract source from content and add to frontmatter
  * Also updates existing source if it would be different
- * - FIXED: Always updates source when found in content
  */
 async function extractSourceFromFile(file, app) {
     try {
@@ -243,30 +241,29 @@ async function extractSourceFromFile(file, app) {
         if (match && match[1]) {
             // Clean up the source
             let newSource = cleanSource(match[1].trim());
-            console.log(`Extracted source from ${file.basename}: "${newSource}"`);
             
-            // Get current frontmatter
-            const currentFrontmatter = app.metadataCache.getFileCache(file)?.frontmatter || {};
-            const currentSource = currentFrontmatter.source;
+            // Get the frontmatter
+            const cache = app.metadataCache.getFileCache(file)?.frontmatter;
             
-            // Log the comparison for debugging
-            console.log(`Current source in frontmatter: "${currentSource || 'none'}"`);
-            console.log(`New source extracted: "${newSource}"`);
-            
-            // Always update the frontmatter with the extracted source
-            // Removing the comparison logic that might be causing issues
-            try {
-                await app.fileManager.processFrontMatter(file, (frontmatter) => {
-                    // Update or add the source
-                    frontmatter.source = newSource;
-                });
+            // Check if source exists and if it would be different
+            if (cache?.source) {
+                // If the sources are the same, skip
+                if (cache.source === newSource) {
+                    console.log(`Skipping source extraction for ${file.basename}: source already exists and wouldn't change`);
+                    return false;
+                }
                 
-                console.log(`Updated source for ${file.basename}`);
-                return true;
-            } catch (updateError) {
-                console.error(`Error updating frontmatter: ${updateError}`);
-                return false;
+                console.log(`Updating source for ${file.basename}: "${cache.source}" -> "${newSource}"`);
+            } else {
+                console.log(`Adding source for ${file.basename}: "${newSource}"`);
             }
+            
+            // Update frontmatter
+            await app.fileManager.processFrontMatter(file, (frontmatter) => {
+                frontmatter.source = newSource;
+            });
+            
+            return true;
         } else {
             console.log(`No source found in ${file.basename}`);
             return false;
@@ -298,13 +295,12 @@ function cleanPermalink(permalink) {
 
 /**
  * Properly clean a source string
- * - Now preserves apostrophes
  */
 function cleanSource(source) {
     if (!source) return '';
     
-    // Remove quotes, asterisks, but KEEP apostrophes
-    let clean = source.replace(/[*""]/g, '');
+    // Remove quotes, asterisks, and other formatting characters
+    let clean = source.replace(/[*"'"]/g, '');
     
     // Remove page references (p. X, pg. X, page X)
     clean = clean.replace(/\s*(?:p\.?|pg\.?|page)\s*\d+.*$/i, '');

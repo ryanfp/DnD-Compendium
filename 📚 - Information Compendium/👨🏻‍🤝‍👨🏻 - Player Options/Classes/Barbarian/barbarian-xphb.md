@@ -1,13 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [class/barbarian, compendium/src/5e/xphb]
+title: Barbarian
+created: 2025/06/15 at 22:21
+updated: 2025/08/01 at 00:04
+permalink: barbarian-xphb
+source: Player's Handbook (2024)
 aliases:
   - Barbarian
-created: 2025/06/15 at 22:21
-updated: 2025/07/22 at 21:18
-permalink: barbarian-xphb
-title: Barbarian
+tags:
+  - class/barbarian
+  - compendium/src/5e/xphb
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Barbarian

@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/artificer/alchemist]
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/subclass/artificer/alchemist
 aliases:
   - Alchemist
 created: 2025/06/15 at 15:34
-updated: 2025/07/22 at 21:16
-permalink: alchemist
+updated: 2025/07/31 at 23:56
+permalink: alchemist-artificer
 title: Alchemist
+source: "Tasha's Cauldron of Everything"
 ---
 
 # Alchemist
 
-*[Artificer](Artificer.md): Artificer Specialist*  
+*[artificer](artificer.md): Artificer Specialist*  
 *Source: Tasha's Cauldron of Everything p. 14, Eberron: Rising from the Last War p. 58*  
 
 > [!tldr] Class and Feature Progression

@@ -10,7 +10,7 @@ created: 2025/05/14 at 21:46
 updated: 2025/07/24 at 01:14
 title: Accursed
 permalink: accursed
-source: The Ultimate Adventurers Handbook
+source: The Ultimate Adv Handboo
 ---
 
 # Accursed

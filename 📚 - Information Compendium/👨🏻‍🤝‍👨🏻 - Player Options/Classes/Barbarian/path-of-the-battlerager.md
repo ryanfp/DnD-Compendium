@@ -1,19 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [compendium/src/5e/scag, subclass/barbarian/battlerager]
+title: Path of the Battlerager
+created: 2025/06/15 at 22:21
+updated: 2025/08/01 at 00:04
+permalink: path-of-the-battlerager-barbarian
+source: Sword Coast Adventurer's Guide
 aliases:
   - Path of the Battlerager
-created: 2025/06/15 at 22:21
-updated: 2025/07/22 at 23:09
-permalink: path-of-the-battlerager
-title: Path of the Battlerager
-source: "Sword Coast Adventurer's Guide"
+tags:
+  - compendium/src/5e/scag
+  - subclass/barbarian/battlerager
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Path of the Battlerager
 
-*[Barbarian](Barbarian.md): Primal Path*  
+*[barbarian](barbarian.md): Primal Path*  
 *Source: Sword Coast Adventurer's Guide p. 121*  
 
 > [!tldr] Class and Feature Progression

@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [compendium/src/5e/xphb, subclass/barbarian/wild-heart]
+title: Path of the Wild Heart
+created: 2025/06/15 at 22:21
+updated: 2025/08/01 at 00:04
+permalink: barbarian-xphb-path-of-the
+source: Player's Handbook (2024)
 aliases:
   - Path of the Wild Heart
-created: 2025/06/15 at 22:21
-updated: 2025/07/22 at 23:03
-source: "Player's Handbook (2024)"
-permalink: barbarian-xphb-path-of-the
-title: Path of the Wild Heart
+tags:
+  - compendium/src/5e/xphb
+  - subclass/barbarian/wild-heart
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Path of the Wild Heart

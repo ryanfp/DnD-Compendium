@@ -1,18 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [compendium/src/5e/phb, subclass/barbarian/totem-warrior]
+title: Path of the Totem Warrior
+created: 2025/06/15 at 22:21
+updated: 2025/08/01 at 00:04
+permalink: path-of-the-totem-warrior-barbarian
+source: Player's Handbook
 aliases:
   - Path of the Totem Warrior
-created: 2025/06/15 at 22:21
-updated: 2025/07/22 at 21:26
-permalink: path-of-the-totem-warrior
-title: Path of the Totem Warrior
+tags:
+  - compendium/src/5e/phb
+  - subclass/barbarian/totem-warrior
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Path of the Totem Warrior
 
-*[Barbarian](Barbarian.md): Primal Path*  
+*[barbarian](barbarian.md): Primal Path*  
 *Source: Player's Handbook p. 50*  
 
 > [!tldr] Class and Feature Progression

@@ -1,19 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [compendium/src/5e/tce, subclass/barbarian/beast]
+title: Path of the Beast
+created: 2025/06/15 at 22:21
+updated: 2025/08/01 at 00:04
+permalink: path-of-the-beast-barbarian
+source: Tasha's Cauldron of Everything
 aliases:
   - Path of the Beast
-created: 2025/06/15 at 22:21
-updated: 2025/07/22 at 23:11
-permalink: path-of-the-beast
-title: Path of the Beast
-source: "Tasha's Cauldron of Everything"
+tags:
+  - compendium/src/5e/tce
+  - subclass/barbarian/beast
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Path of the Beast
 
-*[Barbarian](Barbarian.md): Primal Path*  
+*[barbarian](barbarian.md): Primal Path*  
 *Source: Tasha's Cauldron of Everything p. 24*  
 
 > [!tldr] Class and Feature Progression

@@ -1,20 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [compendium/src/5e/phb, subclass/barbarian/berserker]
+title: Path of the Berserker 2014
+created: 2025/06/15 at 22:21
+updated: 2025/08/01 at 00:04
+permalink: path-of-the-berserker-phb-barbarian
+source: Player's Handbook
 aliases:
   - Path of the Berserker
   - Path of the Berserker 2014
   - Path of the Berserker PHB
-created: 2025/06/15 at 22:21
-updated: 2025/07/22 at 21:25
-permalink: path-of-the-berserker-phb
-title: Path of the Berserker 2014
+tags:
+  - compendium/src/5e/phb
+  - subclass/barbarian/berserker
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Path of the Berserker 2014
 
-*[Barbarian](Barbarian.md): Primal Path*  
+*[barbarian](barbarian.md): Primal Path*  
 *Source: Player's Handbook p. 49. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 > [!tldr] Class and Feature Progression

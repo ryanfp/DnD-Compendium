@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/artificer/battle-smith]
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/subclass/artificer/battle-smith
 aliases:
   - Battle Smith
 created: 2025/06/15 at 15:34
-updated: 2025/07/22 at 21:18
-permalink: battle-smith
+updated: 2025/07/31 at 23:59
+permalink: battle-smith-artificer
 title: Battle Smith
+source: "Tasha's Cauldron of Everything"
 ---
 
 # Battle Smith
 
-*[Artificer](Artificer.md): Artificer Specialist*  
+*[artificer](artificer.md): Artificer Specialist*  
 *Source: Tasha's Cauldron of Everything p. 18, Eberron: Rising from the Last War p. 60*  
 
 > [!tldr] Class and Feature Progression

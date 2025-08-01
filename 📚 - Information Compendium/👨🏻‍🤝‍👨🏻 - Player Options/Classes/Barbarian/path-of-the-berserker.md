@@ -1,15 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [compendium/src/5e/xphb, subclass/barbarian/berserker]
+title: Path of the Berserker 2024
+created: 2025/06/15 at 22:21
+updated: 2025/08/01 at 00:04
+permalink: path-of-the-berserker-barbarian
+source: Player's Handbook (2024)
 aliases:
   - barbarian-xphb-path-of-the-berserker-xphb
   - Path of the Berserker
   - Path of the Berserker 2024
-created: 2025/06/15 at 22:21
-updated: 2025/07/22 at 21:25
-permalink: path-of-the-berserker
-title: Path of the Berserker 2024
+tags:
+  - compendium/src/5e/xphb
+  - subclass/barbarian/berserker
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Path of the Berserker 2024

@@ -1,13 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [compendium/src/5e/xphb, subclass/barbarian/world-tree]
+title: Path of the World Tree
+created: 2025/06/15 at 22:21
+updated: 2025/08/01 at 00:04
+permalink: path-of-the-world-tree-barbarian
+source: Player's Handbook (2024)
 aliases:
   - Path of the World Tree
-created: 2025/06/15 at 22:21
-updated: 2025/07/22 at 21:27
-permalink: path-of-the-world-tree
-title: Path of the World Tree
+tags:
+  - compendium/src/5e/xphb
+  - subclass/barbarian/world-tree
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Path of the World Tree

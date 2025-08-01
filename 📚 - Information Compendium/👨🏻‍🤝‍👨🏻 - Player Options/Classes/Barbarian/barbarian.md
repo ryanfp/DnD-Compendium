@@ -1,11 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/class/barbarian, ttrpg-cli/compendium/src/5e/phb]
+title: Barbarian
+created: 2025/06/15 at 15:34
+updated: 2025/08/01 at 00:04
+permalink: barbarian
+source: test
 aliases:
   - Barbarian
-created: 2025/06/15 at 15:34
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/class/barbarian
+  - ttrpg-cli/compendium/src/5e/phb
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Barbarian

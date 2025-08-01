@@ -1,12 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [compendium/src/5e/xphb, subclass/barbarian/zealot]
+title: Path of the Zealot
+created: 2025/06/15 at 22:21
+updated: 2025/08/01 at 00:05
+permalink: barbarian-xphb-path-of-the-zealot-xphb
+source: Player's Handbook (2024)
 aliases:
   - Path of the Zealot
-  - Path of the Zealot
-created: 2025/06/15 at 22:21
-updated: 2025/07/13 at 00:17
+tags:
+  - compendium/src/5e/xphb
+  - subclass/barbarian/zealot
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Path of the Zealot

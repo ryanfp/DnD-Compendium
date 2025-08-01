@@ -1,8 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "barbarian-xphb-path-of-the",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/barbarian-xphb-path-of-the.md"
+    },
+    {
+      "basename": "barbarian-xphb-path-of-the-zealot-xphb",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/barbarian-xphb-path-of-the-zealot-xphb.md"
+    },
+    {
+      "basename": "path-of-the-ancestral-guardian",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/path-of-the-ancestral-guardian.md"
+    },
+    {
+      "basename": "barbarian-xphb",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/barbarian-xphb.md"
+    },
+    {
+      "basename": "barbarian",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/barbarian.md"
+    },
+    {
+      "basename": "battle-smith",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/battle-smith.md"
+    },
+    {
+      "basename": "artillerist",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/artillerist.md"
+    },
+    {
+      "basename": "artificer",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/artificer.md"
+    },
+    {
+      "basename": "armorer",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/armorer.md"
+    },
+    {
+      "basename": "alchemist",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/alchemist.md"
+    },
+    {
       "basename": "Alchemist",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/Alchemist.md"
+    },
+    {
+      "basename": "accursed",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/accursed.md"
+    },
+    {
+      "basename": "curse-of-animation",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md"
     },
     {
       "basename": "curse-of-the-armament",
@@ -23,10 +71,6 @@
     {
       "basename": "curse-of-misfortune",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-misfortune.md"
-    },
-    {
-      "basename": "curse-of-animation",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md"
     },
     {
       "basename": "vessel",
@@ -145,10 +189,6 @@
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/illrigger/hellspeaker.md"
     },
     {
-      "basename": "accursed",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/accursed.md"
-    },
-    {
       "basename": "rider-practice",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/dragon-knight/rider-practice.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "garden-practice",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/dragon-knight/garden-practice.md"
-    },
-    {
-      "basename": "elemental-practice",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/dragon-knight/elemental-practice.md"
-    },
-    {
-      "basename": "painkiller",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/illrigger/painkiller.md"
-    },
-    {
-      "basename": "architect-of-ruin",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/illrigger/architect-of-ruin.md"
-    },
-    {
-      "basename": "shadowmaster",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/illrigger/shadowmaster.md"
-    },
-    {
-      "basename": "sanguine-knight",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/illrigger/sanguine-knight.md"
-    },
-    {
-      "basename": "to-do-list",
-      "path": "to-do-list.md"
-    },
-    {
-      "basename": "illrigger",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/illrigger/illrigger.md"
-    },
-    {
-      "basename": "valiant-practice",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/dragon-knight/valiant-practice.md"
-    },
-    {
-      "basename": "shadow-practice",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/dragon-knight/shadow-practice.md"
-    },
-    {
-      "basename": "dragon-knight",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/dragon-knight/dragon-knight.md"
     }
   ],
   "omittedPaths": [],

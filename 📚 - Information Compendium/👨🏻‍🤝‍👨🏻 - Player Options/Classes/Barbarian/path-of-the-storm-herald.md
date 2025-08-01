@@ -1,18 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [compendium/src/5e/xge, subclass/barbarian/storm-herald]
+title: Path of the Storm Herald
+created: 2025/06/15 at 22:21
+updated: 2025/08/01 at 00:04
+permalink: path-of-the-storm-herald-barbarian
+source: Xanathar's Guide to Everything
 aliases:
   - Path of the Storm Herald
-created: 2025/06/15 at 22:21
-updated: 2025/07/22 at 21:26
-permalink: path-of-the-storm-herald
-title: Path of the Storm Herald
+tags:
+  - compendium/src/5e/xge
+  - subclass/barbarian/storm-herald
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Path of the Storm Herald
 
-*[Barbarian](Barbarian.md): Primal Path*  
+*[barbarian](barbarian.md): Primal Path*  
 *Source: Xanathar's Guide to Everything p. 10*  
 
 > [!tldr] Class and Feature Progression

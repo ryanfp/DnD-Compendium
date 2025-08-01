@@ -1,18 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/tce, ttrpg-cli/subclass/artificer/armorer]
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/subclass/artificer/armorer
 aliases:
   - Armorer
 created: 2025/06/15 at 15:34
-updated: 2025/07/22 at 21:18
-permalink: armorer
+updated: 2025/07/31 at 23:56
+permalink: armorer-artificer
 title: Armorer
+source: "Tasha's Cauldron of Everything"
 ---
 
 # Armorer
 
-*[Artificer](Artificer.md): Artificer Specialist*  
+*[artificer](artificer.md): Artificer Specialist*  
 *Source: Tasha's Cauldron of Everything p. 15*  
 
 > [!tldr] Class and Feature Progression

@@ -1,18 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [compendium/src/5e/tdcsr, subclass/barbarian/juggernaut]
+title: Path of the Juggernaut
+created: 2025/06/15 at 22:21
+updated: 2025/08/01 at 00:04
+permalink: path-of-the-juggernaut-barbarian
+source: Tal'Dorei Campaign Setting Reborn
 aliases:
   - Path of the Juggernaut
-created: 2025/06/15 at 22:21
-updated: 2025/07/22 at 21:26
-permalink: path-of-the-juggernaut
-title: Path of the Juggernaut
+tags:
+  - compendium/src/5e/tdcsr
+  - subclass/barbarian/juggernaut
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Path of the Juggernaut
 
-*[Barbarian](Barbarian.md): Primal Path*  
+*[barbarian](barbarian.md): Primal Path*  
 *Source: Tal'Dorei Campaign Setting Reborn p. 165*  
 
 > [!tldr] Class and Feature Progression
