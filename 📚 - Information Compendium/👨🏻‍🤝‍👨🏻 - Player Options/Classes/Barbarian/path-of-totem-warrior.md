@@ -1,11 +1,12 @@
 ---
 title: Path of the Totem Warrior
 created: 2025/06/15 at 22:21
-updated: 2025/08/01 at 00:04
-permalink: path-of-the-totem-warrior-barbarian
-source: Player's Handbook
+updated: 2025/08/01 at 00:28
+permalink: path-of-totem-warrior-barbarian
+source: "Player's Handbook"
 aliases:
   - Path of the Totem Warrior
+  - path-of-the-totem-warrior
 tags:
   - compendium/src/5e/phb
   - subclass/barbarian/totem-warrior
@@ -15,7 +16,7 @@ obsidianUIMode: preview
 
 # Path of the Totem Warrior
 
-*[barbarian](barbarian.md): Primal Path*  
+*[barbarian-2014](barbarian-2014.md): Primal Path*  
 *Source: Player's Handbook p. 50*  
 
 > [!tldr] Class and Feature Progression

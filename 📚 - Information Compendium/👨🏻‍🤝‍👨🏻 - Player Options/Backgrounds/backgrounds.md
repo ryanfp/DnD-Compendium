@@ -1,8 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
 title: Index of Backgrounds
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 00:21
+aliases:
+  - Index of Backgrounds
+cssclasses: json5e-note
+obsidianUIMode: preview
 ---
+
 # Index of Backgrounds
 
 - [amnesiac](amnesiac.md)

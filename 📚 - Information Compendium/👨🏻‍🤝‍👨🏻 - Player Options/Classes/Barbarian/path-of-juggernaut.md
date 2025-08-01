@@ -1,11 +1,12 @@
 ---
 title: Path of the Juggernaut
 created: 2025/06/15 at 22:21
-updated: 2025/08/01 at 00:04
-permalink: path-of-the-juggernaut-barbarian
-source: Tal'Dorei Campaign Setting Reborn
+updated: 2025/08/01 at 00:28
+permalink: path-of-juggernaut-barbarian
+source: "Tal'Dorei Campaign Setting Reborn"
 aliases:
   - Path of the Juggernaut
+  - path-of-the-juggernaut
 tags:
   - compendium/src/5e/tdcsr
   - subclass/barbarian/juggernaut
@@ -15,7 +16,7 @@ obsidianUIMode: preview
 
 # Path of the Juggernaut
 
-*[barbarian](barbarian.md): Primal Path*  
+*[barbarian-2014](barbarian-2014.md): Primal Path*  
 *Source: Tal'Dorei Campaign Setting Reborn p. 165*  
 
 > [!tldr] Class and Feature Progression

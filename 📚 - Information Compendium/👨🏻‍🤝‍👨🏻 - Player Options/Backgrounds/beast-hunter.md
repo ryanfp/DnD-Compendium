@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags: [background, compendium/src/5e/sgtteh]
+title: Beast Hunter
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 00:21
+permalink: beast-hunter
 aliases:
   - Beast Hunter
-title: Beast Hunter
-permalink: beast-hunter
-created: 2025/06/15 at 22:47
-updated: 2025/07/21 at 22:07
+tags:
+  - background
+  - compendium/src/5e/sgtteh
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
 
 # Beast Hunter

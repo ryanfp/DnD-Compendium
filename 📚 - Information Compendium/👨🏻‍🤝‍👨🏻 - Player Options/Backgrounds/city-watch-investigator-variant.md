@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags: [background, compendium/src/5e/scag]
+title: City Watch (Investigator) (Variant)
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 00:21
+permalink: city-watch-investigator-variant
 aliases:
   - City Watch (Investigator) (Variant)
   - City Watch {Investigator} {Variant}
-permalink: city-watch-investigator-variant
-title: City Watch (Investigator) (Variant)
-created: 2025/06/15 at 22:47
-updated: 2025/07/21 at 22:09
+tags:
+  - background
+  - compendium/src/5e/scag
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
 
 # City Watch (Investigator) (Variant)

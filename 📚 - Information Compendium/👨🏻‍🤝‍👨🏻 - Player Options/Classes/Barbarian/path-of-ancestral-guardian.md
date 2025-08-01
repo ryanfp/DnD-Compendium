@@ -1,11 +1,12 @@
 ---
 title: Path of the Ancestral Guardian
 created: 2025/06/15 at 22:21
-updated: 2025/08/01 at 00:04
-permalink: path-of-the-ancestral-guardian-barbarian
-source: Xanathar's Guide to Everything
+updated: 2025/08/01 at 00:28
+permalink: path-of-ancestral-guardian-barbarian
+source: "Xanathar's Guide to Everything"
 aliases:
   - Path of the Ancestral Guardian
+  - path-of-the-ancestral-guardian
 tags:
   - compendium/src/5e/xge
   - subclass/barbarian/ancestral-guardian
@@ -15,7 +16,7 @@ obsidianUIMode: preview
 
 # Path of the Ancestral Guardian
 
-*[barbarian](barbarian.md): Primal Path*  
+*[barbarian-2014](barbarian-2014.md): Primal Path*  
 *Source: Xanathar's Guide to Everything p. 9*  
 
 > [!tldr] Class and Feature Progression

@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags: [background, compendium/src/5e/egw]
+title: Cobalt Scholar (Sage)
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 00:21
+permalink: cobalt-scholar-sage-egw
 aliases:
   - Cobalt Scholar - Sage
   - Cobalt Scholar (Sage)
-title: Cobalt Scholar (Sage)
-permalink: cobalt-scholar-sage-egw
-created: 2025/06/15 at 22:47
-updated: 2025/07/21 at 22:11
+tags:
+  - background
+  - compendium/src/5e/egw
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
 
 # Cobalt Scholar (Sage)

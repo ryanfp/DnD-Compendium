@@ -1,11 +1,14 @@
 ---
-title: Path of the Zealot
+title: Path of the Zealot 2014
 created: 2025/06/15 at 22:21
-updated: 2025/08/01 at 00:04
-permalink: path-of-the-zealot-barbarian
+updated: 2025/08/01 at 00:29
+permalink: path-of-zealot-2014-barbarian
 source: Xanathar's Guide to Everything
 aliases:
+  - Path of the Zealot 2014
   - Path of the Zealot
+  - path-of-the-zealot
+  - path-of-zealot
 tags:
   - compendium/src/5e/xge
   - subclass/barbarian/zealot
@@ -13,9 +16,9 @@ cssclasses: json5e-class
 obsidianUIMode: preview
 ---
 
-# Path of the Zealot
+# Path of the Zealot 2014
 
-*[barbarian](barbarian.md): Primal Path*  
+*[barbarian-2014](barbarian-2014.md): Primal Path*  
 *Source: Xanathar's Guide to Everything p. 11*  
 
 > [!tldr] Class and Feature Progression

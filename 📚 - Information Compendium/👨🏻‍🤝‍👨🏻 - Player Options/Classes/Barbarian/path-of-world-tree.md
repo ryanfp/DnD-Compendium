@@ -1,11 +1,12 @@
 ---
 title: Path of the World Tree
 created: 2025/06/15 at 22:21
-updated: 2025/08/01 at 00:04
-permalink: path-of-the-world-tree-barbarian
-source: Player's Handbook (2024)
+updated: 2025/08/01 at 00:28
+permalink: path-of-world-tree-barbarian
+source: "Player's Handbook (2024)"
 aliases:
   - Path of the World Tree
+  - path-of-the-world-tree
 tags:
   - compendium/src/5e/xphb
   - subclass/barbarian/world-tree
@@ -15,7 +16,7 @@ obsidianUIMode: preview
 
 # Path of the World Tree
 
-*[Barbarian](./barbarian-xphb.md): Barbarian Subclass*  
+*[Barbarian](barbarian-2024.md): Barbarian Subclass*  
 *Source: Player's Handbook (2024) p. 56*  
 
 > [!tldr] Class and Feature Progression

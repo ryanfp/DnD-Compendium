@@ -1,13 +1,14 @@
 ---
 title: Path of the Berserker 2014
 created: 2025/06/15 at 22:21
-updated: 2025/08/01 at 00:04
-permalink: path-of-the-berserker-phb-barbarian
-source: Player's Handbook
+updated: 2025/08/01 at 00:29
+permalink: path-of-berserker-2014-barbarian
+source: "Player's Handbook"
 aliases:
   - Path of the Berserker
   - Path of the Berserker 2014
   - Path of the Berserker PHB
+  - path-of-the-berserker-phb
 tags:
   - compendium/src/5e/phb
   - subclass/barbarian/berserker
@@ -17,7 +18,7 @@ obsidianUIMode: preview
 
 # Path of the Berserker 2014
 
-*[barbarian](barbarian.md): Primal Path*  
+*[barbarian-2014](barbarian-2014.md): Primal Path*  
 *Source: Player's Handbook p. 49. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 > [!tldr] Class and Feature Progression

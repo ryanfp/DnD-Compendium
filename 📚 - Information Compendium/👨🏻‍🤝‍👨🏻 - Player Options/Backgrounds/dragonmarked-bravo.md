@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags: [background, compendium/src/5e/foequickstone]
-aliases:
-  - Dragonmarked Bravo
-permalink: dragonmarked-bravo
 title: Dragonmarked Bravo
 created: 2025/06/15 at 22:47
-updated: 2025/07/21 at 22:14
+updated: 2025/08/01 at 00:21
+permalink: dragonmarked-bravo
+aliases:
+  - Dragonmarked Bravo
+tags:
+  - background
+  - compendium/src/5e/foequickstone
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
 
 # Dragonmarked Bravo

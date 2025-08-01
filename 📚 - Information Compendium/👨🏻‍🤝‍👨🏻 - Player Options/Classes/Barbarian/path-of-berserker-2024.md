@@ -1,13 +1,14 @@
 ---
 title: Path of the Berserker 2024
 created: 2025/06/15 at 22:21
-updated: 2025/08/01 at 00:04
-permalink: path-of-the-berserker-barbarian
-source: Player's Handbook (2024)
+updated: 2025/08/01 at 00:28
+permalink: path-of-berserker-2024-barbarian
+source: "Player's Handbook (2024)"
 aliases:
   - barbarian-xphb-path-of-the-berserker-xphb
   - Path of the Berserker
   - Path of the Berserker 2024
+  - path-of-the-berserker
 tags:
   - compendium/src/5e/xphb
   - subclass/barbarian/berserker
@@ -17,7 +18,7 @@ obsidianUIMode: preview
 
 # Path of the Berserker 2024
 
-*[Barbarian](./barbarian-xphb.md): Barbarian Subclass*  
+*[Barbarian](barbarian-2024.md): Barbarian Subclass*  
 *Source: Player's Handbook (2024) p. 54. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 > [!tldr] Class and Feature Progression

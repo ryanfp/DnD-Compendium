@@ -2,10 +2,11 @@
 title: Path of the Battlerager
 created: 2025/06/15 at 22:21
 updated: 2025/08/01 at 00:04
-permalink: path-of-the-battlerager-barbarian
+permalink: path-of-battlerager-barbarian
 source: Sword Coast Adventurer's Guide
 aliases:
   - Path of the Battlerager
+  - path-of-the-battlerager
 tags:
   - compendium/src/5e/scag
   - subclass/barbarian/battlerager
@@ -15,7 +16,7 @@ obsidianUIMode: preview
 
 # Path of the Battlerager
 
-*[barbarian](barbarian.md): Primal Path*  
+*[barbarian-2014](barbarian-2014.md): Primal Path*  
 *Source: Sword Coast Adventurer's Guide p. 121*  
 
 > [!tldr] Class and Feature Progression

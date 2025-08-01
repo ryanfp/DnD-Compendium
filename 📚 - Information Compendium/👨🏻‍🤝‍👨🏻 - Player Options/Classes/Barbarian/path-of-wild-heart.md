@@ -1,11 +1,13 @@
 ---
-title: Path of the Wild Heart
+title: Path of the Wild Heart (Totem Warrior 2014)
 created: 2025/06/15 at 22:21
-updated: 2025/08/01 at 00:04
-permalink: barbarian-xphb-path-of-the
-source: Player's Handbook (2024)
+updated: 2025/08/01 at 00:39
+permalink: path-of-wild-heart-barbarian
+source: "Player's Handbook (2024)"
 aliases:
+  - barbarian-xphb-path-of-the
   - Path of the Wild Heart
+  - Path of the Wild Heart (Totem Warrior 2014)
 tags:
   - compendium/src/5e/xphb
   - subclass/barbarian/wild-heart
@@ -13,9 +15,9 @@ cssclasses: json5e-class
 obsidianUIMode: preview
 ---
 
-# Path of the Wild Heart
+# Path of the Wild Heart (Totem Warrior 2014)
 
-*[Barbarian](./barbarian-xphb.md): Barbarian Subclass*  
+*[Barbarian](barbarian-2024.md): Barbarian Subclass*  
 *Source: Player's Handbook (2024) p. 55*  
 
 > [!tldr] Class and Feature Progression

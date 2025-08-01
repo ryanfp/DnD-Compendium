@@ -1,11 +1,13 @@
 ---
-title: Path of the Zealot
+title: Path of the Zealot 2024
 created: 2025/06/15 at 22:21
-updated: 2025/08/01 at 00:05
-permalink: barbarian-xphb-path-of-the-zealot-xphb
-source: Player's Handbook (2024)
+updated: 2025/08/01 at 00:30
+permalink: path-of-zealot-2024-barbarian
+source: "Player's Handbook (2024)"
 aliases:
+  - barbarian-xphb-path-of-the-zealot-xphb
   - Path of the Zealot
+  - Path of the Zealot 2024
 tags:
   - compendium/src/5e/xphb
   - subclass/barbarian/zealot
@@ -13,9 +15,9 @@ cssclasses: json5e-class
 obsidianUIMode: preview
 ---
 
-# Path of the Zealot
+# Path of the Zealot 2024
 
-*[Barbarian](./barbarian-xphb.md): Barbarian Subclass*  
+*[Barbarian](barbarian-2024.md): Barbarian Subclass*  
 *Source: Player's Handbook (2024) p. 57*  
 
 > [!tldr] Class and Feature Progression

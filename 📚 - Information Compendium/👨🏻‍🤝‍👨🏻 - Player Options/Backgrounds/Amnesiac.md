@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags: [background, compendium/src/5e/sgtteh]
+title: Amnesiac
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 00:21
+permalink: amnesiac
 aliases:
   - Amnesiac
-title: Amnesiac
-permalink: amnesiac
-created: 2025/06/15 at 22:47
-updated: 2025/07/21 at 22:02
+tags:
+  - background
+  - compendium/src/5e/sgtteh
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
 
 # Amnesiac

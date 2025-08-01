@@ -1,11 +1,14 @@
 ---
-title: Barbarian
+title: Barbarian 2024
 created: 2025/06/15 at 22:21
-updated: 2025/08/01 at 00:04
-permalink: barbarian-xphb
-source: Player's Handbook (2024)
+updated: 2025/08/01 at 00:39
+permalink: barbarian-2024
+source: "Player's Handbook (2024)"
 aliases:
+  - barbarian
   - Barbarian
+  - Barbarian 2024
+  - barbarian-xphb
 tags:
   - class/barbarian
   - compendium/src/5e/xphb
@@ -13,7 +16,7 @@ cssclasses: json5e-class
 obsidianUIMode: preview
 ---
 
-# Barbarian
+# Barbarian 2024
 
 *Source: Player's Handbook (2024) p. 50. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

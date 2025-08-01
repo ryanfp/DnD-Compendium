@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags:
-- background
-- compendium/src/5e/xphb
+title: Criminal
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 00:21
 aliases:
-- Criminal
+  - Criminal
+tags:
+  - background
+  - compendium/src/5e/xphb
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
+
 # Criminal
+
 *Source: Player's Handbook (2024) p. 180. Available in the Free Rules (2024)*  
 ![](/📚%20-%20Information%20Compendium/backgrounds/img/criminal.webp#right)
 

@@ -1,15 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags:
-- background
-- compendium/src/5e/toh
+title: Monstrous Adoptee
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 00:21
 aliases:
-- Monstrous Adoptee
+  - Monstrous Adoptee
+tags:
+  - background
+  - compendium/src/5e/toh
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
-# Monstrous Adoptee
-*Source: Tome of Heroes p. 172*  
 
+# Monstrous Adoptee
+
+*Source: Tome of Heroes p. 172*  
 
 - **Skill Proficiencies.** Intimidation, Survival  
 - **Languages.** One language of your choice, typically your adopted parents' language (if any)  
@@ -42,6 +46,7 @@ Prior to becoming an adventurer, you defined your history by the creatures who r
 | 8 | Giant (such as ettin, fire giant, ogre, or troll) |
 | 9 | Plant or ooze (such as awakened shrub, gray ooze, shambling mound, or treant) |
 | 10 | Monstrosity (such as behir, chimera, griffon, mimic, or minotaur) |
+
 ^creature-type
 
 ## Feature: Abnormal Demeanor
@@ -58,7 +63,7 @@ When you choose a creature to be your character's adopted parent, think about ho
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
-| 1 | I don't eat my friends (at least not while they are alive). My foes, on the other hand ... |
+| 1 | I don't eat my friends (at least not while they are alive). My foes, on the other hand … |
 | 2 | Meeting another's gaze is a challenge for dominance that I never fail to answer. |
 | 3 | Monsters I understand; people are confusing. |
 | 4 | There are two types of creatures in life: prey or not-prey. |
@@ -66,6 +71,7 @@ When you choose a creature to be your character's adopted parent, think about ho
 | 6 | Inconsequential items fascinate me. |
 | 7 | It's not my fault, I was raised by [insert parent's type here]. |
 | 8 | I may look fine, but I behave like a monster. |
+
 ^personality-trait
 
 `dice: [](monstrous-adoptee-toh.md#^ideal)`
@@ -78,6 +84,7 @@ When you choose a creature to be your character's adopted parent, think about ho
 | 4 | **Harmony.** With my unique perspective and upbringing, I hope to bring understanding between the different creatures of the world. (Good) |
 | 5 | **Freedom.** My past away from law-abiding society has shown me the ridiculousness of those laws. (Chaotic) |
 | 6 | **Redemption.** I will rise above the cruelty of my adopted parent and embrace the wider world. (Lawful) |
+
 ^ideal
 
 `dice: [](monstrous-adoptee-toh.md#^bond)`
@@ -90,6 +97,7 @@ When you choose a creature to be your character's adopted parent, think about ho
 | 4 | My monstrous family deserves a place in this world, too. |
 | 5 | I'm hiding from my monstrous family. They want me back! |
 | 6 | An old enemy of my adopted parents is on my trail. |
+
 ^bond
 
 `dice: [](monstrous-adoptee-toh.md#^flaw)`
@@ -102,4 +110,5 @@ When you choose a creature to be your character's adopted parent, think about ho
 | 4 | I am easily startled by loud noises or bright lights. |
 | 5 | I have trouble respecting anyone who can't best me in a fight. |
 | 6 | Kindness is for the weak. |
+
 ^flaw

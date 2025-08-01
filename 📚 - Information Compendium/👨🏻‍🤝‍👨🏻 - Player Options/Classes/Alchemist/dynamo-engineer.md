@@ -1,22 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/alchemist/dynamo-engineer
+title: Dynamo Engineer
+created: 2025/06/13 at 22:25
+updated: 2025/08/01 at 00:33
+permalink: dynamo-engineer-alchemist
+source: "Valdas Spire of Secrets"
 aliases:
   - Dynamo Engineer
   - Dynamo Engineer Field
-created: 2025/06/13 at 22:25
-updated: 2025/07/31 at 23:39
-permalink: dynamo-engineer-field-alchemist
-title: Dynamo Engineer
-source: Valdas Spire of Secrets
+  - dynamo-engineer-field
+tags:
+  - ttrpg-cli/compendium/src/5e/vss
+  - ttrpg-cli/subclass/alchemist/dynamo-engineer
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Dynamo Engineer
 
-*[Alchemist](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Alchemist/Alchemist.md): Field of Study*  
+*[alchemist](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Alchemist/alchemist.md): Field of Study*  
 *Source: Valda's Spire of Secrets*  
 
 > [!tldr] Class and Feature Progression

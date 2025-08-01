@@ -1,16 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background,
-tags: [anothertest, background, compendium/src/5e/egw, testing, testingagain, thising, thisisalsoatestforpublsi]
+title: Augen Trust (Spy)
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 00:21
+permalink: augen-trust-spy
 aliases:
   - Augen Trust (Spy)
   - Augen Trust {Spy}
   - augen-trust-spy-egw
   - augen-trust-spy-egw.md
-created: 2025/06/15 at 22:47
-updated: 2025/07/21 at 22:05
-title: Augen Trust (Spy)
-permalink: augen-trust-spy
+tags:
+  - anothertest
+  - background
+  - compendium/src/5e/egw
+  - testing
+  - testingagain
+  - thising
+  - thisisalsoatestforpublsi
+cssclasses: json5e-background,
+obsidianUIMode: preview
 ---
 
 # Augen Trust (Spy)

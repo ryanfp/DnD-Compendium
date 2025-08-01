@@ -1,11 +1,13 @@
 ---
-title: Barbarian
+title: Barbarian 2014
 created: 2025/06/15 at 15:34
-updated: 2025/08/01 at 00:04
-permalink: barbarian
+updated: 2025/08/01 at 00:30
+permalink: barbarian-2014
 source: test
 aliases:
+  - Barbarian 2014
   - Barbarian
+  - barbarian
 tags:
   - ttrpg-cli/class/barbarian
   - ttrpg-cli/compendium/src/5e/phb
@@ -13,7 +15,7 @@ cssclasses: json5e-class
 obsidianUIMode: preview
 ---
 
-# Barbarian
+# Barbarian 2014
 
 *Source: Player's Handbook p. 46. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 

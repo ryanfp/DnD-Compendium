@@ -1,11 +1,12 @@
 ---
 title: Path of the Beast
 created: 2025/06/15 at 22:21
-updated: 2025/08/01 at 00:04
-permalink: path-of-the-beast-barbarian
-source: Tasha's Cauldron of Everything
+updated: 2025/08/01 at 00:28
+permalink: path-of-beast-barbarian
+source: "Tasha's Cauldron of Everything"
 aliases:
   - Path of the Beast
+  - path-of-the-beast
 tags:
   - compendium/src/5e/tce
   - subclass/barbarian/beast
@@ -15,7 +16,7 @@ obsidianUIMode: preview
 
 # Path of the Beast
 
-*[barbarian](barbarian.md): Primal Path*  
+*[barbarian-2014](barbarian-2014.md): Primal Path*  
 *Source: Tasha's Cauldron of Everything p. 24*  
 
 > [!tldr] Class and Feature Progression

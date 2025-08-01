@@ -1,22 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/alchemist/amorist
+title: Amorist
+created: 2025/06/13 at 22:25
+updated: 2025/08/01 at 00:33
+permalink: amorist-alchemist
+source: "Valdas Spire of Secrets"
 aliases:
   - Amorist
   - Amorist Field
-created: 2025/06/13 at 22:25
-updated: 2025/07/31 at 23:39
-permalink: amorist-field-alchemist
-title: Amorist
-source: Valdas Spire of Secrets
+  - amorist-field
+tags:
+  - ttrpg-cli/compendium/src/5e/vss
+  - ttrpg-cli/subclass/alchemist/amorist
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Amorist
 
-*[Alchemist](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Alchemist/Alchemist.md): Field of Study*  
+*[alchemist](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Alchemist/alchemist.md): Field of Study*  
 *Source: Valda's Spire of Secrets*  
 
 > [!tldr] Class and Feature Progression

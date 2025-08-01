@@ -1,13 +1,14 @@
 /**
  * QuickAdd integration for file processing
  * - Works with files/folders from context menu or file explorer selections
- * - Adds permalinks (without dates)
+ * - Adds permalinks (without dates) based on frontmatter title
  * - Extracts sources (properly cleaned)
  * - Includes parent folder name in permalinks
  * - Removes articles like "the", "a", "an" (but keeps "of")
  * - Preserves apostrophes in sources
+ * - Always updates source when found in content
  * 
- * Updated: 2025-08-01 03:57:14
+ * Updated: 2025-08-01 04:33:02
  * User: ryanfp
  */
 
@@ -172,15 +173,53 @@ async function processFile(file, app, showNotifications = true) {
 
 /**
  * Add permalink to frontmatter with parent folder name
- * Also updates existing permalink if it would be different
+ * UPDATED: Uses title property instead of filename
  */
 async function addPermalinkToFile(file, app) {
     try {
-        // Get the frontmatter
-        const cache = app.metadataCache.getFileCache(file)?.frontmatter;
+        // Read file content to get frontmatter directly
+        const content = await app.vault.read(file);
         
-        // Generate new permalink from basename
-        let newPermalink = trimTitle(file.basename);
+        // Extract frontmatter using regex
+        const frontmatterMatch = content.match(/^---\s*\n([\s\S]*?)\n---/);
+        let existingPermalink = null;
+        let title = null;
+        
+        if (frontmatterMatch && frontmatterMatch[1]) {
+            const frontmatterContent = frontmatterMatch[1];
+            
+            // Find permalink in frontmatter
+            const permalinkLine = frontmatterContent.split('\n')
+                .find(line => line.trim().startsWith('permalink:'));
+            
+            if (permalinkLine) {
+                existingPermalink = permalinkLine.substring(permalinkLine.indexOf(':') + 1).trim();
+                // Remove quotes if present
+                existingPermalink = existingPermalink.replace(/^["']|["']$/g, '');
+                existingPermalink = cleanPermalink(existingPermalink);
+            }
+            
+            // Find title in frontmatter
+            const titleLine = frontmatterContent.split('\n')
+                .find(line => line.trim().startsWith('title:'));
+            
+            if (titleLine) {
+                title = titleLine.substring(titleLine.indexOf(':') + 1).trim();
+                // Remove quotes if present
+                title = title.replace(/^["']|["']$/g, '');
+                console.log(`Found title in frontmatter: "${title}"`);
+            }
+        }
+        
+        // If no title in frontmatter, fall back to basename
+        if (!title) {
+            title = file.basename;
+            console.log(`No title found, using basename: "${title}"`);
+        }
+        
+        // Generate new permalink from title
+        let newPermalink = trimTitle(title);
+        console.log(`Generated permalink from title: "${newPermalink}"`);
         
         // Add parent folder name to permalink
         const pathParts = file.path.split('/');
@@ -193,29 +232,52 @@ async function addPermalinkToFile(file, app) {
             // Don't add parent if it's already in the permalink
             if (cleanParent && !newPermalink.includes(cleanParent)) {
                 newPermalink = newPermalink + '-' + cleanParent;
+                console.log(`Added parent folder: "${newPermalink}"`);
             }
         }
         
         // Check if permalink exists and if it would be different
-        if (cache?.permalink) {
-            // Clean existing permalink (remove dates)
-            const existingPermalink = cleanPermalink(cache.permalink);
-            
+        if (existingPermalink) {
             // If the permalinks are the same, skip
             if (existingPermalink === newPermalink) {
                 console.log(`Skipping permalink for ${file.basename}: permalink already exists and wouldn't change`);
                 return false;
             }
             
-            console.log(`Updating permalink for ${file.basename}: ${existingPermalink} -> ${newPermalink}`);
+            console.log(`Updating permalink for ${file.basename}: "${existingPermalink}" -> "${newPermalink}"`);
         } else {
-            console.log(`Adding permalink for ${file.basename}: ${newPermalink}`);
+            console.log(`Adding permalink for ${file.basename}: "${newPermalink}"`);
         }
         
         // Update frontmatter
         await app.fileManager.processFrontMatter(file, (frontmatter) => {
             frontmatter.permalink = newPermalink;
         });
+        
+        // Force update as backup approach
+        try {
+            const newContent = content.replace(
+                /^---\s*\n([\s\S]*?)\n---/,
+                (match, frontmatterContent) => {
+                    const lines = frontmatterContent.split('\n');
+                    const permalinkIndex = lines.findIndex(line => line.trim().startsWith('permalink:'));
+                    
+                    if (permalinkIndex >= 0) {
+                        lines[permalinkIndex] = `permalink: "${newPermalink}"`;
+                    } else {
+                        lines.push(`permalink: "${newPermalink}"`);
+                    }
+                    
+                    return `---\n${lines.join('\n')}\n---`;
+                }
+            );
+            
+            if (newContent !== content) {
+                await app.vault.modify(file, newContent);
+            }
+        } catch (writeError) {
+            console.error(`Direct write error: ${writeError}`);
+        }
         
         return true;
 
@@ -227,8 +289,7 @@ async function addPermalinkToFile(file, app) {
 
 /**
  * Extract source from content and add to frontmatter
- * Also updates existing source if it would be different
- * - FIXED: Always updates source when found in content
+ * UPDATED: Always updates source when found in content (no comparison)
  */
 async function extractSourceFromFile(file, app) {
     try {
@@ -243,30 +304,42 @@ async function extractSourceFromFile(file, app) {
         if (match && match[1]) {
             // Clean up the source
             let newSource = cleanSource(match[1].trim());
-            console.log(`Extracted source from ${file.basename}: "${newSource}"`);
+            console.log(`Found and cleaned source: "${newSource}"`);
             
-            // Get current frontmatter
-            const currentFrontmatter = app.metadataCache.getFileCache(file)?.frontmatter || {};
-            const currentSource = currentFrontmatter.source;
+            // ALWAYS update the source when found in content (no comparison)
+            console.log(`Updating source for ${file.basename} to: "${newSource}"`);
             
-            // Log the comparison for debugging
-            console.log(`Current source in frontmatter: "${currentSource || 'none'}"`);
-            console.log(`New source extracted: "${newSource}"`);
+            // Update frontmatter
+            await app.fileManager.processFrontMatter(file, (frontmatter) => {
+                frontmatter.source = newSource;
+            });
             
-            // Always update the frontmatter with the extracted source
-            // Removing the comparison logic that might be causing issues
+            // Force update as backup approach
             try {
-                await app.fileManager.processFrontMatter(file, (frontmatter) => {
-                    // Update or add the source
-                    frontmatter.source = newSource;
-                });
+                const newContent = content.replace(
+                    /^---\s*\n([\s\S]*?)\n---/,
+                    (match, frontmatterContent) => {
+                        const lines = frontmatterContent.split('\n');
+                        const sourceIndex = lines.findIndex(line => line.trim().startsWith('source:'));
+                        
+                        if (sourceIndex >= 0) {
+                            lines[sourceIndex] = `source: "${newSource}"`;
+                        } else {
+                            lines.push(`source: "${newSource}"`);
+                        }
+                        
+                        return `---\n${lines.join('\n')}\n---`;
+                    }
+                );
                 
-                console.log(`Updated source for ${file.basename}`);
-                return true;
-            } catch (updateError) {
-                console.error(`Error updating frontmatter: ${updateError}`);
-                return false;
+                if (newContent !== content) {
+                    await app.vault.modify(file, newContent);
+                }
+            } catch (writeError) {
+                console.error(`Direct write error: ${writeError}`);
             }
+            
+            return true;
         } else {
             console.log(`No source found in ${file.basename}`);
             return false;

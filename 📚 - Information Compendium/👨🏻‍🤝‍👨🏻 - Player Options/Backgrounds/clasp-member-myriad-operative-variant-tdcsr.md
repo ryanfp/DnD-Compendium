@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags: [background, compendium/src/5e/tdcsr]
+title: Clasp Member (Myriad Operative) (Variant)
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 00:21
+permalink: clasp-member-myriad-operative-variant
 aliases:
   - Clasp Member (Myriad Operative) (Variant)
-title: Clasp Member (Myriad Operative) (Variant)
-permalink: clasp-member-myriad-operative-variant
-created: 2025/06/15 at 22:47
-updated: 2025/07/21 at 22:10
+tags:
+  - background
+  - compendium/src/5e/tdcsr
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
 
 # Clasp Member (Myriad Operative) (Variant)

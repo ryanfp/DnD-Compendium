@@ -1,16 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
+title: Alchemist
+created: 2025/06/13 at 22:25
+updated: 2025/08/01 at 00:37
+permalink: alchemist
+source: "Valda's Spire of Secrets"
+aliases:
+  - Alchemist
 tags:
   - ttrpg-cli/class/alchemist
   - ttrpg-cli/compendium/src/5e/vss
-aliases:
-  - Alchemist
-created: 2025/06/13 at 22:25
-updated: 2025/07/31 at 23:39
-title: Alchemist
-permalink: alchemist
-source: Valdas Spire of Secrets
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Alchemist
@@ -154,13 +154,13 @@ When you gain certain levels in this class, you learn additional formulae of you
 
 While all alchemists share a common knowledge base, most alchemists specialize into a particular field of study:
 
-- [[amorist-field|Amorist]]
-- [[apothecary-field|Apothecary]]
-- [[dynamo-engineer-field|Dynamo Engineer]]
-- [[mad-bomber-field|Mad Bomber]]
-- [[mutagenist-field|Mutagenist]]
-- [[venomsmith-field|Venomsmith]]
-- [[xenoalchemist-field|Xenoalchemist]]
+- [[amorist|Amorist]]
+- [[apothecary|Apothecary]]
+- [[dynamo-engineer|Dynamo Engineer]]
+- [[mad-bomber|Mad Bomber]]
+- [[mutagenist|Mutagenist]]
+- [[venomsmith|Venomsmith]]
+- [[xenoalchemist|Xenoalchemist]]
 
 When you reach 2nd level, you select your field of study, which grants you features at 2nd, 6th, 10th, and 18th level.
 
