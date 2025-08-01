@@ -5,14 +5,15 @@ tags: [ttrpg-cli/compendium/src/5e/ultimateadventurer, ttrpg-cli/subclass/accurs
 aliases:
   - Curse of Immortality
 created: 2025/05/14 at 21:46
-updated: 2025/07/22 at 20:44
-permalink: curse-of-immortality
+updated: 2025/07/31 at 23:34
+permalink: curse-of-immortality-accursed
 title: Curse of Immortality
+source: The Ultimate Adventurers Handbook
 ---
 
 # Curse of Immortality
 
-*[Accursed](Accursed.md): Conquered Curse*  
+*[accursed](accursed.md): Conquered Curse*  
 *Source: The Ultimate Adventurer's Handbook p. 172*  
 
 > [!summary] Class and Feature Progression

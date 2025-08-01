@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [ttrpg-cli/class/accursed, ttrpg-cli/compendium/src/5e/ultimateadventurer]
+tags:
+  - ttrpg-cli/class/accursed
+  - ttrpg-cli/compendium/src/5e/ultimateadventurer
 aliases:
   - Accursed
 created: 2025/05/14 at 21:46
 updated: 2025/07/24 at 01:14
 title: Accursed
 permalink: accursed
-source: "The Ultimate Adventurer's Handbook"
+source: The Ultimate Adventurers Handbook
 ---
 
 # Accursed

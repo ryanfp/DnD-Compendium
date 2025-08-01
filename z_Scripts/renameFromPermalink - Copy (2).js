@@ -2,10 +2,9 @@
  * QuickAdd integration for renaming files based on permalink
  * - Preserves backlinks by adding the original filename as an alias
  * - Works with files/folders from context menu
- * - Removes parent folder name from permalink when renaming
  * 
- * Updated: 2025-08-01 03:11:41
- * User: ryanfp
+ * Created: 2025-07-28 05:08:08
+ * Author: ryanfp
  */
 
 module.exports = async function(params) {
@@ -143,29 +142,8 @@ async function renameFileFromPermalink(file, app, showNotification = true) {
             return false;
         }
 
-        // Get the parent folder name
-        const pathParts = file.path.split('/');
-        let parentFolderName = "";
-        if (pathParts.length >= 2) {
-            parentFolderName = pathParts[pathParts.length - 2];
-        }
-        
-        // Get the permalink and remove parent folder name if present
-        let permalink = cache.permalink;
-        
-        // Only attempt to remove parent folder name if it exists
-        if (parentFolderName) {
-            // Clean the parent folder name the same way as we do in processFolder
-            const cleanParentName = trimTitle(parentFolderName);
-            
-            // Check if permalink ends with "-parentfolder"
-            if (permalink.endsWith('-' + cleanParentName)) {
-                permalink = permalink.substring(0, permalink.length - cleanParentName.length - 1);
-                console.log(`Removed parent folder name from permalink: ${cache.permalink} → ${permalink}`);
-            }
-        }
-        
-        // Get current folder path and create new path
+        // Get the permalink and current folder path
+        const permalink = cache.permalink;
         const folderPath = file.path.substring(0, file.path.lastIndexOf("/") + 1);
         const newPath = folderPath + permalink + '.md';
         
@@ -240,41 +218,4 @@ async function renameFileFromPermalink(file, app, showNotification = true) {
         }
         return false;
     }
-}
-
-/**
- * Trims and formats a title for use as a permalink
- * Also removes common articles like "the", "a", "an" (but keeps "of")
- * - This is a copy of the function from processFolder.js for consistency
- */
-function trimTitle(title) {
-    if (!title) return '';
-
-    // Clean up the title
-    let cleanTitle = title
-        // Replace special characters with space
-        .replace(/[^\w\s\-'&()]/g, ' ')  // Keep hyphen, apostrophe, ampersand, and parentheses
-        // Replace multiple spaces with single space
-        .replace(/\s+/g, ' ')
-        // Trim whitespace
-        .trim()
-        // Split into words
-        .split(' ')
-        // Remove articles like "the", "a", "an" (but keeps "of")
-        .filter(word => !["the", "a", "an"].includes(word.toLowerCase()))
-        // Take first 5 words
-        .slice(0, 5)
-        // Join with hyphens
-        .join('-')
-        // Convert to lowercase
-        .toLowerCase()
-        // Clean up any remaining unwanted characters
-        .replace(/['"]/g, '')  // Remove quotes
-        .replace(/\(|\)/g, '') // Remove parentheses
-        .replace(/&/g, 'and')  // Replace & with 'and'
-        // Clean up multiple hyphens and hyphens at start/end
-        .replace(/-+/g, '-')
-        .replace(/^-+|-+$/g, '');
-
-    return cleanTitle;
 }

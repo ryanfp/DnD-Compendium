@@ -7,15 +7,15 @@ tags:
 aliases:
   - Curse of Petrification
 created: 2025/05/14 at 21:46
-updated: 2025/07/22 at 20:53
-permalink: curse-of-petrification
+updated: 2025/07/31 at 23:32
+permalink: curse-of-petrification-accursed
 title: Curse of Petrification
-source: The Ultimate Adventurer's Handbook
+source: The Ultimate Adventurers Handbook
 ---
 
 # Curse of Petrification
 
-*[Accursed](Accursed.md): Conquered Curse*  
+*[accursed](accursed.md): Conquered Curse*  
 *Source: The Ultimate Adventurer's Handbook p. 178*  
 
 > [!tldr] Class and Feature Progression

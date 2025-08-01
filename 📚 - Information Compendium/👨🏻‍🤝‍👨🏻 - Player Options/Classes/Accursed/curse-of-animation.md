@@ -6,15 +6,15 @@ aliases:
   - Curse of Animation
   - Curse of Animation - Accursed
 created: 2025/05/14 at 21:46
-updated: 2025/07/24 at 01:13
+updated: 2025/07/31 at 23:32
 title: Curse of Animation
-permalink: curse-of-animation
-source: "The Ultimate Adventurer's Handbook"
+permalink: curse-of-animation-accursed
+source: The Ultimate Adventurers Handbook
 ---
 
 # Curse of Animation
 
-*[Accursed](Accursed.md): Conquered Curse*  
+*[accursed](accursed.md): Conquered Curse*  
 *Source: The Ultimate Adventurer's Handbook p. 165*  
 
 > [!tldr] Class and Feature Progression

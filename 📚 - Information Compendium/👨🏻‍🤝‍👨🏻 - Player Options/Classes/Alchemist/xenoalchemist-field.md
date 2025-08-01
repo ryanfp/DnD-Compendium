@@ -1,14 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/alchemist/xenoalchemist]
+tags:
+  - ttrpg-cli/compendium/src/5e/vss
+  - ttrpg-cli/subclass/alchemist/xenoalchemist
 aliases:
   - Xenoalchemist
   - Xenoalchemist Field
 created: 2025/06/13 at 22:26
-updated: 2025/07/22 at 21:11
+updated: 2025/07/31 at 23:39
 permalink: xenoalchemist-field
 title: Xenoalchemist
+source: Valdas Spire of Secrets
 ---
 
 # Xenoalchemist

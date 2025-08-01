@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [ttrpg-cli/class/alchemist, ttrpg-cli/compendium/src/5e/vss]
+tags:
+  - ttrpg-cli/class/alchemist
+  - ttrpg-cli/compendium/src/5e/vss
 aliases:
   - Alchemist
 created: 2025/06/13 at 22:25
-updated: 2025/07/24 at 01:17
+updated: 2025/07/31 at 23:39
 title: Alchemist
 permalink: alchemist
-source: "Valda's Spire of Secrets"
+source: Valdas Spire of Secrets
 ---
 
 # Alchemist

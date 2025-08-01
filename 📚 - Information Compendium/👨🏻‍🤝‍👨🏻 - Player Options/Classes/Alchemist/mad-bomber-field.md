@@ -1,14 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/alchemist/mad-bomber]
+tags:
+  - ttrpg-cli/compendium/src/5e/vss
+  - ttrpg-cli/subclass/alchemist/mad-bomber
 aliases:
   - Mad Bomber
   - Mad Bomber Field
 created: 2025/06/13 at 22:25
-updated: 2025/07/22 at 21:03
-permalink: mad-bomber-field
+updated: 2025/07/31 at 23:39
+permalink: mad-bomber-field-alchemist
 title: Mad Bomber
+source: Valdas Spire of Secrets
 ---
 
 # Mad Bomber

@@ -1,19 +1,21 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/ultimateadventurer, ttrpg-cli/subclass/accursed/armament]
+tags:
+  - ttrpg-cli/compendium/src/5e/ultimateadventurer
+  - ttrpg-cli/subclass/accursed/armament
 aliases:
   - Curse of the Armament
 created: 2025/05/14 at 21:46
-updated: 2025/07/24 at 01:14
+updated: 2025/07/31 at 23:39
 title: Curse of the Armament
-permalink: curse-of-the-armament
-source: "The Ultimate Adventurer's Handbook"
+permalink: curse-of-the-armament-accursed
+source: The Ultimate Adventurers Handbook
 ---
 
 # Curse of the Armament
 
-*[Accursed](Accursed.md): Conquered Curse*  
+*[accursed](accursed.md): Conquered Curse*  
 *Source: The Ultimate Adventurer's Handbook p. 167*  
 
 > [!tldr] Class and Feature Progression

@@ -5,14 +5,15 @@ tags: [ttrpg-cli/compendium/src/5e/ultimateadventurer, ttrpg-cli/subclass/accurs
 aliases:
   - Curse of Misfortune
 created: 2025/05/14 at 21:46
-updated: 2025/07/22 at 20:49
-permalink: curse-of-misfortune
+updated: 2025/07/31 at 23:34
+permalink: curse-of-misfortune-accursed
 title: Curse of Misfortune
+source: The Ultimate Adventurers Handbook
 ---
 
 # Curse of Misfortune
 
-*[Accursed](Accursed.md): Conquered Curse*  
+*[accursed](accursed.md): Conquered Curse*  
 *Source: The Ultimate Adventurer's Handbook p. 174*  
 
 > [!tldr] Class and Feature Progression

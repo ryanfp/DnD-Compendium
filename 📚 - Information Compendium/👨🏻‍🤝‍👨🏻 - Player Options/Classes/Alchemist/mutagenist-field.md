@@ -1,14 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/alchemist/mutagenist]
+tags:
+  - ttrpg-cli/compendium/src/5e/vss
+  - ttrpg-cli/subclass/alchemist/mutagenist
 aliases:
   - Mutagenist
   - Mutagenist Field
 created: 2025/06/13 at 22:25
-updated: 2025/07/22 at 21:09
-permalink: mutagenist-field
+updated: 2025/07/31 at 23:39
+permalink: mutagenist-field-alchemist
 title: Mutagenist
+source: Valdas Spire of Secrets
 ---
 
 # Mutagenist

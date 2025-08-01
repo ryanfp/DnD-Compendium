@@ -1,14 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/alchemist/amorist]
+tags:
+  - ttrpg-cli/compendium/src/5e/vss
+  - ttrpg-cli/subclass/alchemist/amorist
 aliases:
   - Amorist
   - Amorist Field
 created: 2025/06/13 at 22:25
-updated: 2025/07/22 at 20:57
-permalink: amorist-field
+updated: 2025/07/31 at 23:39
+permalink: amorist-field-alchemist
 title: Amorist
+source: Valdas Spire of Secrets
 ---
 
 # Amorist

@@ -5,15 +5,15 @@ tags: [ttrpg-cli/compendium/src/5e/ultimateadventurer, ttrpg-cli/subclass/accurs
 aliases:
   - Curse of Combustion
 created: 2025/05/14 at 21:46
-updated: 2025/07/24 at 01:14
+updated: 2025/07/31 at 23:33
 title: Curse of Combustion
-permalink: curse-of-combustion
-source: "The Ultimate Adventurer's Handbook"
+permalink: curse-of-combustion-accursed
+source: The Ultimate Adventurers Handbook
 ---
 
 # Curse of Combustion
 
-*[Accursed](Accursed.md): Conquered Curse*  
+*[accursed](accursed.md): Conquered Curse*  
 *Source: The Ultimate Adventurer's Handbook p. 165*  
 
 > [!tldr] Class and Feature Progression

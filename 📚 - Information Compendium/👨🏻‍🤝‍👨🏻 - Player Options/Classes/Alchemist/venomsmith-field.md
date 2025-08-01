@@ -1,14 +1,17 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/alchemist/venomsmith]
+tags:
+  - ttrpg-cli/compendium/src/5e/vss
+  - ttrpg-cli/subclass/alchemist/venomsmith
 aliases:
   - Venomsmith
   - Venomsmith Field
 created: 2025/06/13 at 22:25
-updated: 2025/07/22 at 21:10
-permalink: venomsmith-field
+updated: 2025/07/31 at 23:39
+permalink: venomsmith-field-alchemist
 title: Venomsmith
+source: Valdas Spire of Secrets
 ---
 
 # Venomsmith

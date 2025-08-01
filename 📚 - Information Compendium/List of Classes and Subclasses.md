@@ -54,7 +54,7 @@ SoManyRobots (<sup>SMR</sup>)
 
 
 
-## [[Accursed]]
+## [[accursed]]
 
 *Afflicted by a horrific curse but finds a way to take control, alleviating the worst of its effects and wielding its power for themselves. **(Source: The Ultimate Adventurer’s Handbook)**
 
