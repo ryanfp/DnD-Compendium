@@ -2664,6 +2664,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "silverquill-student",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/silverquill-student.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"silverquill-student\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "whitestone-rifle-corps-grey-hunter",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/whitestone-rifle-corps-grey-hunter.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"whitestone-rifle-corps-grey-hunter\"}",
@@ -6394,7 +6400,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/silverquill-student.md",
+                "file": "ideas.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -6409,7 +6415,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "silverquill-student"
+              "title": "ideas"
             }
           }
         ],
@@ -6900,13 +6906,20 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "fcaa59025a7544d2",
+  "active": "a5ec94890ee5953b",
   "lastOpenFiles": [
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/whitestone-rifle-corps-grey-hunter.md",
+    "Unconfirmed 587105.crdownload",
+    "Script Backups/the publish files are before trying new stuff 8-4",
+    "Script Backups/New folder",
+    "Script Backups/publish.js",
+    "Script Backups/publish.css",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/silverquill-student.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/whitestone-rifle-corps-grey-hunter.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/acolyte-phb.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/bladesinging.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Witch/black-magic.md",
@@ -6930,17 +6943,12 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/undying.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/warlock-2024.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/archfey-patron-2024.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/celestial-patron-2024.md",
     "z_Scripts/Unconfirmed 590601.crdownload",
     "z_Scripts/Unconfirmed 479202.crdownload",
     "z_Scripts/Unconfirmed 455363.crdownload",
     "z_Scripts/Unconfirmed 303980.crdownload",
     "z_Scripts/Unconfirmed 830761.crdownload",
     "z_Scripts/Unconfirmed 988941.crdownload",
-    "z_Scripts/Unconfirmed 100012.crdownload",
-    "z_Scripts/processFolder - Copy (4).js",
-    "z_Scripts/Unconfirmed 394562.crdownload",
-    "z_Scripts/renameFromPermalink - Copy (2).js",
     "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg",
     "z_img/Pause-Circle-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg",
     "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",

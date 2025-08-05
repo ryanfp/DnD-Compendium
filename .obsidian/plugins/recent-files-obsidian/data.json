@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ideas",
+      "path": "ideas.md"
+    },
+    {
       "basename": "silverquill-student",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/silverquill-student.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "wild-magic-sorcery-2024",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/wild-magic-sorcery-2024.md"
-    },
-    {
-      "basename": "draconic-sorcery-2024",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/draconic-sorcery-2024.md"
     }
   ],
   "omittedPaths": [],

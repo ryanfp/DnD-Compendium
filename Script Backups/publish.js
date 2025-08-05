@@ -1,3 +1,4 @@
+
 console.log("Load start publish.js");
 
 /**************************************
@@ -13,15 +14,8 @@ Show Date and Time for Creation/Updating
 let id;
 
 function insertMetaData() {
-  // Check if app and site cache is available yet
-  if (!app || !app.site || !app.site.cache || !app.currentFilepath || !app.site.cache.cache[app.currentFilepath]) {
-    console.log("App data not yet available, waiting...");
-    return;
-  }
-
   const frontmatter = app.site.cache.cache[app.currentFilepath].frontmatter;
   if (!frontmatter) {
-    console.log("No frontmatter found");
     clearInterval(id);
     return;
   }
@@ -31,34 +25,19 @@ function insertMetaData() {
   const status = frontmatter["status"];
   const url = frontmatter["url"];
   if (!(created || updated || status || url)) {
-    console.log("No metadata to display");
     clearInterval(id);
     return;
   }
 
-  // Check if we've already inserted our container to avoid duplicates
-  if (document.querySelector(".properties-container")) {
-    console.log("Properties container already exists");
-    clearInterval(id);
-    return;
-  }
-
-  // Try both potential insertion points
   const frontmatterEl = document.querySelector(".frontmatter");
-  const pageHeaderEl = document.querySelector(".page-header");
-  
-  if (!frontmatterEl && !pageHeaderEl) {
-    // DOM not ready yet, try again on next interval
-    console.log("Insertion points not found yet");
+  if (!frontmatterEl) {
+    // DOM Don't use clearInterval because it is likely that the preparation is not yet complete
     return;
   }
 
-  // Choose insertion point (prefer frontmatter)
-  const insertionPoint = frontmatterEl || pageHeaderEl;
-  
   const urlElement = url ? `<a href="${url}" class="url">Test URL</a>` : "";
 
-  insertionPoint.insertAdjacentHTML(
+  frontmatterEl.insertAdjacentHTML(
     "afterend",
     `
 <div class="properties-container">
@@ -74,7 +53,6 @@ function insertMetaData() {
 `,
   );
 
-  console.log("Metadata insertion successful");
   clearInterval(id);
 }
 
@@ -82,61 +60,19 @@ const onChangeDOM = (mutationsList, observer) => {
   for (let mutation of mutationsList) {
     if (
       mutation.type === "childList" &&
-      mutation.addedNodes.length > 0
+      mutation.addedNodes[0]?.className === "page-header"
     ) {
-      // Check if page header or frontmatter was added
-      for (let node of mutation.addedNodes) {
-        if (node.nodeType === 1) { // Element node
-          if (node.className === "page-header" || 
-              node.querySelector?.(".frontmatter") || 
-              node.className === "frontmatter") {
-            console.log("Page content changed, resetting metadata insertion");
-            clearInterval(id);
-            id = setInterval(insertMetaData, 50);
-            break;
-          }
-        }
-      }
+      clearInterval(id);
+      id = setInterval(insertMetaData, 50);
     }
   }
 };
 
-// Start early metadata insertion attempts when document structure is available
-document.addEventListener('DOMContentLoaded', () => {
-  console.log("DOMContentLoaded fired, starting metadata insertion");
-  clearInterval(id);
-  id = setInterval(insertMetaData, 50);
-});
-
-// Also start when app object might be available
-if (document.readyState !== 'loading') {
-  console.log("Document already loaded, starting metadata insertion");
-  clearInterval(id);
-  id = setInterval(insertMetaData, 50);
-}
-
-// Set up observer for content changes
 const targetNode = document.querySelector(
   ".markdown-preview-sizer.markdown-preview-section",
 );
-
-if (targetNode) {
-  const observer = new MutationObserver(onChangeDOM);
-  observer.observe(targetNode, { childList: true, subtree: true });
-  console.log("Observer attached to markdown preview section");
-} else {
-  // Try again shortly if the target node isn't available yet
-  setTimeout(() => {
-    const retryNode = document.querySelector(".markdown-preview-sizer.markdown-preview-section");
-    if (retryNode) {
-      const observer = new MutationObserver(onChangeDOM);
-      observer.observe(retryNode, { childList: true, subtree: true });
-      console.log("Observer attached to markdown preview section (delayed)");
-    }
-  }, 100);
-}
-
-// Initial metadata insertion attempt
+const observer = new MutationObserver(onChangeDOM);
+observer.observe(targetNode, { childList: true, subtree: true });
 id = setInterval(insertMetaData, 50);
 
 
@@ -289,12 +225,6 @@ if (document.readyState === 'loading') {
 window.addEventListener('load', () => {
     console.log('Window loaded, ensuring observer is setup');
     setupNavViewObserver();
-    // Also try metadata insertion one more time
-    if (!document.querySelector(".properties-container")) {
-        console.log("Window loaded but no properties container found, trying once more");
-        clearInterval(id);
-        id = setInterval(insertMetaData, 50);
-    }
 });
 
 /****************
@@ -317,10 +247,6 @@ function pwNavCallback(mutationRecords, observer) {
                 //console.log("<================== FIRED");
                 pwNavFunctions(); // Immediate execution for internal page nav
                 setTimeout(pwNavFunctions, 550); // Delayed execution for new page / refreshes
-                
-                // Also try metadata insertion
-                clearInterval(id);
-                id = setInterval(insertMetaData, 50);
             }
         }
     }
@@ -440,4 +366,5 @@ id = setInterval(insertMetaDates, 50);
 
  <div style="display: flex-wrap; gap: 3px;">
   ${tagElms}
-</div> */ 
+</div> */
+
