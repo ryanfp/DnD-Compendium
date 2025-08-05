@@ -1,8 +1,9 @@
 ---
 title: Beast Hunter
 created: 2025/06/15 at 22:47
-updated: 2025/08/01 at 00:21
-permalink: beast-hunter
+updated: 2025/08/01 at 01:45
+permalink: beast-hunter-backgrounds
+source: "Steinhardt's Guide to the Eldritch Hunt"
 aliases:
   - Beast Hunter
 tags:

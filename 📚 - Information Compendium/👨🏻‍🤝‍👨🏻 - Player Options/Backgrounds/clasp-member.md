@@ -1,13 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags: [background, compendium/src/5e/tdcsr]
+title: Clasp Member
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 01:45
+permalink: clasp-member-backgrounds
+source: "Tal'Dorei Campaign Setting Reborn"
 aliases:
   - Clasp Member
-title: Clasp Member
-permalink: clasp-member
-created: 2025/06/15 at 22:47
-updated: 2025/07/21 at 22:10
+tags:
+  - background
+  - compendium/src/5e/tdcsr
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
 
 # Clasp Member

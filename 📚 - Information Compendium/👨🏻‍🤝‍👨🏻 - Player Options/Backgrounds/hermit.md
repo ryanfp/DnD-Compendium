@@ -1,15 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags:
-- background
-- compendium/src/5e/phb
+title: Hermit
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 01:45
+permalink: hermit-backgrounds
+source: "Player's Handbook"
 aliases:
-- Hermit
+  - Hermit
+tags:
+  - background
+  - compendium/src/5e/phb
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
-# Hermit
-*Source: Player's Handbook p. 134*  
 
+# Hermit
+
+*Source: Player's Handbook p. 134*  
 
 - **Skill Proficiencies.** [Medicine](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Medicine), [Religion](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Religion)  
 - **Tool Proficiencies.** [Herbalism kit](/📚%20-%20Information%20Compendium/items/herbalism-kit.md)  
@@ -40,6 +46,7 @@ What was the reason for your isolation, and what changed to allow you to end you
 | 6 | I needed to commune with nature, far from civilization. |
 | 7 | I was the caretaker of an ancient ruin or relic. |
 | 8 | I was a pilgrim in search of a person, place, or relic of spiritual significance. |
+
 ^life-of-seclusion
 
 ## Suggested Characteristics
@@ -58,6 +65,7 @@ Some hermits are well suited to a life of seclusion, whereas others chafe agains
 | 6 | I connect everything that happens to me to a grand, cosmic plan. |
 | 7 | I often get lost in my own thoughts and contemplation, becoming oblivious to my surroundings. |
 | 8 | I am working on a grand philosophical theory and love sharing my ideas. |
+
 ^personality-trait
 
 `dice: [](hermit.md#^ideal)`
@@ -70,6 +78,7 @@ Some hermits are well suited to a life of seclusion, whereas others chafe agains
 | 4 | Power. Solitude and contemplation are paths toward mystical or magical power. (Evil) |
 | 5 | Live and Let Live. Meddling in the affairs of others only causes trouble. (Neutral) |
 | 6 | Self-Knowledge. If you know yourself, there's nothing left to know. (Any) |
+
 ^ideal
 
 `dice: [](hermit.md#^bond)`
@@ -82,6 +91,7 @@ Some hermits are well suited to a life of seclusion, whereas others chafe agains
 | 4 | I entered seclusion because I loved someone I could not have. |
 | 5 | Should my discovery come to light, it could bring ruin to the world. |
 | 6 | My isolation gave me great insight into a great evil that only I can destroy. |
+
 ^bond
 
 `dice: [](hermit.md#^flaw)`
@@ -94,4 +104,5 @@ Some hermits are well suited to a life of seclusion, whereas others chafe agains
 | 4 | I let my need to win arguments overshadow friendships and harmony. |
 | 5 | I'd risk too much to uncover a lost bit of knowledge. |
 | 6 | I like keeping secrets and won't share them with anyone. |
+
 ^flaw

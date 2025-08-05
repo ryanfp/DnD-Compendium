@@ -1,15 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags:
-- background
-- compendium/src/5e/phb
+title: Sage
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 01:45
+permalink: sage-backgrounds
+source: "Player's Handbook"
 aliases:
-- Sage
+  - Sage
+tags:
+  - background
+  - compendium/src/5e/phb
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
-# Sage
-*Source: Player's Handbook p. 137. Available in the Basic Rules (2014)*  
 
+# Sage
+
+*Source: Player's Handbook p. 137. Available in the Basic Rules (2014)*  
 
 - **Skill Proficiencies.** [Arcana](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Arcana), [History](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#History)  
 - **Languages.** Two of your choice  
@@ -37,6 +43,7 @@ To determine the nature of your scholarly training, roll a d8 or choose from the
 | 6 | Researcher |
 | 7 | Wizard's apprentice |
 | 8 | Scribe |
+
 ^field-of-study
 
 ## Suggested Characteristics
@@ -52,9 +59,10 @@ Sages are defined by their extensive studies, and their characteristics reflect 
 | 3 | I'm used to helping out those who aren't as smart as I am, and I patiently explain anything and everything to others. |
 | 4 | There's nothing I like more than a good mystery. |
 | 5 | I'm willing to listen to every side of an argument before I make my own judgment. |
-| 6 | I... speak... slowly... when talking... to idiots,... which... almost... everyone... is... compared... to me. |
+| 6 | I… speak… slowly… when talking… to idiots,… which… almost… everyone… is… compared… to me. |
 | 7 | I am horribly, horribly awkward in social situations. |
 | 8 | I'm convinced that people are always trying to steal my secrets. |
+
 ^personality-trait
 
 `dice: [](sage.md#^ideal)`
@@ -67,6 +75,7 @@ Sages are defined by their extensive studies, and their characteristics reflect 
 | 4 | No Limits. Nothing should fetter the infinite possibility inherent in all existence. (Chaotic) |
 | 5 | Power. Knowledge is the path to power and domination. (Evil) |
 | 6 | Self-Improvement. The goal of a life of study is the betterment of oneself. (Any) |
+
 ^ideal
 
 `dice: [](sage.md#^bond)`
@@ -79,6 +88,7 @@ Sages are defined by their extensive studies, and their characteristics reflect 
 | 4 | My life's work is a series of tomes related to a specific field of lore. |
 | 5 | I've been searching my whole life for the answer to a certain question. |
 | 6 | I sold my soul for knowledge. I hope to do great deeds and win it back. |
+
 ^bond
 
 `dice: [](sage.md#^flaw)`
@@ -91,4 +101,5 @@ Sages are defined by their extensive studies, and their characteristics reflect 
 | 4 | I overlook obvious solutions in favor of complicated ones. |
 | 5 | I speak without really thinking through my words, invariably insulting others. |
 | 6 | I can't keep a secret to save my life, or anyone else's. |
+
 ^flaw

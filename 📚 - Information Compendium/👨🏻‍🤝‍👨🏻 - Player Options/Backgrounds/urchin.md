@@ -1,15 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags:
-- background
-- compendium/src/5e/phb
+title: Urchin
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 01:45
+permalink: urchin-backgrounds
+source: "Player's Handbook"
 aliases:
-- Urchin
+  - Urchin
+tags:
+  - background
+  - compendium/src/5e/phb
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
-# Urchin
-*Source: Player's Handbook p. 141*  
 
+# Urchin
+
+*Source: Player's Handbook p. 141*  
 
 - **Skill Proficiencies.** [Sleight of Hand](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Sleight%20of%20Hand), [Stealth](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Stealth)  
 - **Tool Proficiencies.** [Disguise kit](/📚%20-%20Information%20Compendium/items/disguise-kit.md), [Thieves' tools](/📚%20-%20Information%20Compendium/items/thieves-tools.md)  
@@ -39,6 +45,7 @@ Urchins are shaped by lives of desperate poverty, for good and for ill. They ten
 | 6 | I think anyone who's nice to me is hiding evil intent. |
 | 7 | I don't like to bathe. |
 | 8 | I bluntly say what others are hinting at or hiding. |
+
 ^personality-trait
 
 `dice: [](urchin.md#^ideal)`
@@ -51,6 +58,7 @@ Urchins are shaped by lives of desperate poverty, for good and for ill. They ten
 | 4 | Retribution. The rich need to be shown what life and death are like in the gutters. (Evil) |
 | 5 | People. I help the people who help me—that's what keeps us alive. (Neutral) |
 | 6 | Aspiration. I'm going to prove that I'm worthy of a better life. (Any) |
+
 ^ideal
 
 `dice: [](urchin.md#^bond)`
@@ -63,6 +71,7 @@ Urchins are shaped by lives of desperate poverty, for good and for ill. They ten
 | 4 | I owe a debt I can never repay to the person who took pity on me. |
 | 5 | I escaped my life of poverty by robbing an important person, and I'm wanted for it. |
 | 6 | No one else should have to endure the hardships I've been through. |
+
 ^bond
 
 `dice: [](urchin.md#^flaw)`
@@ -75,4 +84,5 @@ Urchins are shaped by lives of desperate poverty, for good and for ill. They ten
 | 4 | I'd rather kill someone in their sleep than fight fair. |
 | 5 | It's not stealing if I need it more than someone else. |
 | 6 | People who can't take care of themselves get what they deserve. |
+
 ^flaw

@@ -1,13 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags: [background, compendium/src/5e/obojimatallgrass]
-aliases:
-  - Apprentice of AHA
-permalink: apprentice-of-aha
 title: Apprentice of AHA
 created: 2025/06/15 at 22:47
-updated: 2025/07/21 at 22:03
+updated: 2025/08/01 at 01:45
+permalink: apprentice-of-aha-backgrounds
+source: "Obojima: Tales from the Tall Grass"
+aliases:
+  - Apprentice of AHA
+tags:
+  - background
+  - compendium/src/5e/obojimatallgrass
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
 
 # Apprentice of AHA

@@ -1,13 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags: [background, compendium/src/5e/xphb]
+title: Farmer
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 01:45
+permalink: farmer-backgrounds
+source: "Player's Handbook (2024)"
 aliases:
   - Farmer
-title: Farmer
-permalink: farmer
-created: 2025/06/15 at 22:47
-updated: 2025/07/21 at 22:15
+tags:
+  - background
+  - compendium/src/5e/xphb
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
 
 # Farmer

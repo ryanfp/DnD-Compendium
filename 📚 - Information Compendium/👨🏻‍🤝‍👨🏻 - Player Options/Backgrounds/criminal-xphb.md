@@ -1,9 +1,12 @@
 ---
 title: Criminal
 created: 2025/06/15 at 22:47
-updated: 2025/08/01 at 00:21
+updated: 2025/08/01 at 01:45
+permalink: criminal-backgrounds
+source: Player's Handbook (2024)
 aliases:
   - Criminal
+  - criminal-xphb
 tags:
   - background
   - compendium/src/5e/xphb

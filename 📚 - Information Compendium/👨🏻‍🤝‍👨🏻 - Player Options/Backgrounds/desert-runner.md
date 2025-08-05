@@ -1,8 +1,9 @@
 ---
 title: Desert Runner
 created: 2025/06/15 at 22:47
-updated: 2025/08/01 at 00:21
-permalink: desert-runner
+updated: 2025/08/01 at 01:45
+permalink: desert-runner-backgrounds
+source: Tome of Heroes
 aliases:
   - Desert Runner
 tags:

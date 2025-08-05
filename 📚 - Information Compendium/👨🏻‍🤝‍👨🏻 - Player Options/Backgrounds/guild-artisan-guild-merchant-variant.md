@@ -1,15 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags: [background, compendium/src/5e/phb]
+title: Guild Artisan (Guild Merchant) (Variant)
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 01:45
+permalink: guild-artisan-guild-merchant-variant-backgrounds
+source: "Player's Handbook"
 aliases:
   - Guild Artisan (Guild Merchant) (Variant)
   - Guild Artisan {Guild Merchant} {Variant}
   - guild-artisan-guild-merchant-variant
-title: Guild Artisan (Guild Merchant) (Variant)
-permalink: guild-artisan-guild-merchant-variant
-created: 2025/06/15 at 22:47
-updated: 2025/07/21 at 22:18
+tags:
+  - background
+  - compendium/src/5e/phb
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
 
 # Guild Artisan (Guild Merchant) (Variant)

@@ -1,13 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags:
-- background
-- compendium/src/5e/xphb
+title: Charlatan
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 01:45
+permalink: charlatan-backgrounds
+source: Player's Handbook (2024)
 aliases:
-- Charlatan
+  - Charlatan
+  - charlatan-xphb
+tags:
+  - background
+  - compendium/src/5e/xphb
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
+
 # Charlatan
+
 *Source: Player's Handbook (2024) p. 180*  
 ![](/📚%20-%20Information%20Compendium/backgrounds/img/charlatan.webp#right)
 

@@ -1,15 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags:
-- background
-- compendium/src/5e/phb
+title: Sailor
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 01:45
+permalink: sailor-backgrounds
+source: "Player's Handbook"
 aliases:
-- Sailor
+  - Sailor
+tags:
+  - background
+  - compendium/src/5e/phb
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
-# Sailor
-*Source: Player's Handbook p. 139*  
 
+# Sailor
+
+*Source: Player's Handbook p. 139*  
 
 - **Skill Proficiencies.** [Athletics](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Athletics), [Perception](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Perception)  
 - **Tool Proficiencies.** [Navigator's tools](/📚%20-%20Information%20Compendium/items/navigators-tools.md), vehicles (water)  
@@ -41,6 +47,7 @@ Sailors can be a rough lot, but the responsibilities of life on a ship make them
 | 6 | I never pass up a friendly wager. |
 | 7 | My language is as foul as an otyugh nest. |
 | 8 | I like a job well done, especially if I can convince someone else to do it. |
+
 ^personality-trait
 
 `dice: [](sailor.md#^ideal)`
@@ -53,6 +60,7 @@ Sailors can be a rough lot, but the responsibilities of life on a ship make them
 | 4 | Mastery. I'm a predator, and the other ships on the sea are my prey. (Evil) |
 | 5 | People. I'm committed to my crewmates, not to ideals. (Neutral) |
 | 6 | Aspiration. Someday, I'll own my own ship and chart my own destiny. (Any) |
+
 ^ideal
 
 `dice: [](sailor.md#^bond)`
@@ -65,6 +73,7 @@ Sailors can be a rough lot, but the responsibilities of life on a ship make them
 | 4 | In a harbor town, I have a paramour whose eyes nearly stole me from the sea. |
 | 5 | I was cheated out of my fair share of the profits, and I want to get my due. |
 | 6 | Ruthless pirates murdered my captain and crewmates, plundered our ship, and left me to die. Vengeance will be mine. |
+
 ^bond
 
 `dice: [](sailor.md#^flaw)`
@@ -77,4 +86,5 @@ Sailors can be a rough lot, but the responsibilities of life on a ship make them
 | 4 | Once I start drinking, it's hard for me to stop. |
 | 5 | I can't help but pocket loose coins and other trinkets I come across. |
 | 6 | My pride will probably lead to my destruction. |
+
 ^flaw

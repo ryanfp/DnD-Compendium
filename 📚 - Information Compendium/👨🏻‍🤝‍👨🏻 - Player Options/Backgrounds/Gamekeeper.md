@@ -1,13 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags: [background, compendium/src/5e/toh]
+title: Gamekeeper
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 01:45
+permalink: gamekeeper-backgrounds
+source: Tome of Heroes
 aliases:
   - Gamekeeper
-title: Gamekeeper
-permalink: gamekeeper
-created: 2025/06/15 at 22:47
-updated: 2025/07/21 at 22:16
+tags:
+  - background
+  - compendium/src/5e/toh
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
 
 # Gamekeeper

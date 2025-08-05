@@ -1,15 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags:
-- background
-- compendium/src/5e/phb
+title: Noble (Retainers) (Variant)
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 01:45
+permalink: noble-retainers-variant-backgrounds
+source: "Player's Handbook"
 aliases:
-- Noble (Retainers) (Variant)
+  - Noble (Retainers) (Variant)
+tags:
+  - background
+  - compendium/src/5e/phb
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
-# Noble (Retainers) (Variant)
-*Source: Player's Handbook p. 136*  
 
+# Noble (Retainers) (Variant)
+
+*Source: Player's Handbook p. 136*  
 
 - **Skill Proficiencies.** [History](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#History), [Persuasion](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Persuasion)  
 - **Tool Proficiencies.** One type of gaming set  
@@ -48,6 +54,7 @@ Nobles are born and raised to a very different lifestyle than most people ever e
 | 6 | Despite my noble birth, I do not place myself above other folk. We all have the same blood. |
 | 7 | My favor, once lost, is lost forever. |
 | 8 | If you do me an injury, I will crush you, ruin your name, and salt your fields. |
+
 ^personality-trait
 
 `dice: [](noble-retainers-variant.md#^ideal)`
@@ -60,6 +67,7 @@ Nobles are born and raised to a very different lifestyle than most people ever e
 | 4 | Power. If I can attain more power, no one will tell me what to do. (Evil) |
 | 5 | Family. Blood runs thicker than water. (Any) |
 | 6 | Noble Obligation. It is my duty to protect and care for the people beneath me. (Good) |
+
 ^ideal
 
 `dice: [](noble-retainers-variant.md#^bond)`
@@ -72,6 +80,7 @@ Nobles are born and raised to a very different lifestyle than most people ever e
 | 4 | I am in love with the heir of a family that my family despises. |
 | 5 | My loyalty to my sovereign is unwavering. |
 | 6 | The common folk must see me as a hero of the people. |
+
 ^bond
 
 `dice: [](noble-retainers-variant.md#^flaw)`
@@ -84,4 +93,5 @@ Nobles are born and raised to a very different lifestyle than most people ever e
 | 4 | I have an insatiable desire for carnal pleasures. |
 | 5 | In fact, the world does revolve around me. |
 | 6 | By my words and actions, I often bring shame to my family. |
+
 ^flaw

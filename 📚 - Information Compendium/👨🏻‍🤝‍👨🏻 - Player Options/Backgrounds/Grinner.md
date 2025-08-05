@@ -1,13 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags: [background, compendium/src/5e/egw]
+title: Grinner
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 01:45
+permalink: grinner-backgrounds
+source: "Explorer's Guide to Wildemount"
 aliases:
   - Grinner
-title: Grinner
-permalink: grinner
-created: 2025/06/15 at 22:47
-updated: 2025/07/21 at 22:17
+tags:
+  - background
+  - compendium/src/5e/egw
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
 
 # Grinner

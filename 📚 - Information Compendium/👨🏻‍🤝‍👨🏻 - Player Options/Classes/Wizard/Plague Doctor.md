@@ -9,11 +9,13 @@ tags:
   - ttrpg-cli/subclass/wizard/plague-doctor
 cssclasses: json5e-class
 obsidianUIMode: preview
+permalink: plague-doctor-wizard
+source: Grim Hollow: The Player's Guide
 ---
 
 # Plague Doctor
 
-*[Wizard](Wizard.md): Arcane Tradition*  
+*[wizard](wizard.md): Arcane Tradition*  
 *Source: Grim Hollow: The Player's Guide*  
 
 > [!tldr] Class and Feature Progression

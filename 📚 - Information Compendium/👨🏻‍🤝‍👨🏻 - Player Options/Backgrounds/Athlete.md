@@ -1,13 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags: [background, compendium/src/5e/mot]
+title: Athlete
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 01:45
+permalink: athlete-backgrounds
+source: Mythic Odysseys of Theros
 aliases:
   - Athlete
-title: Athlete
-permalink: athlete
-created: 2025/06/15 at 22:47
-updated: 2025/07/21 at 22:07
+tags:
+  - background
+  - compendium/src/5e/mot
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
 
 # Athlete

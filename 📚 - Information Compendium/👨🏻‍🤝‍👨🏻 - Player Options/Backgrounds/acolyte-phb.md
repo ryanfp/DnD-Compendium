@@ -1,13 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags: [background, compendium/src/5e/phb]
+title: Acolyte
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 01:45
+permalink: acolyte-backgrounds
+source: Player's Handbook
 aliases:
   - Acolyte
-title: Acolyte
-permalink: acolyte-phb
-created: 2025/06/15 at 22:47
-updated: 2025/07/21 at 02:04
+  - acolyte-phb
+tags:
+  - background
+  - compendium/src/5e/phb
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
 
 # Acolyte

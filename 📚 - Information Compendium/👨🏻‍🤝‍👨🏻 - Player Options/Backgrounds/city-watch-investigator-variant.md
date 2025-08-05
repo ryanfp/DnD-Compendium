@@ -1,8 +1,9 @@
 ---
 title: City Watch (Investigator) (Variant)
 created: 2025/06/15 at 22:47
-updated: 2025/08/01 at 00:21
-permalink: city-watch-investigator-variant
+updated: 2025/08/01 at 01:45
+permalink: city-watch-investigator-variant-backgrounds
+source: "Sword Coast Adventurer's Guide"
 aliases:
   - City Watch (Investigator) (Variant)
   - City Watch {Investigator} {Variant}

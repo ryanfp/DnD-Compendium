@@ -1,13 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags: [background, compendium/src/5e/exploringeberron]
+title: Changeling Traveler
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 01:45
+permalink: changeling-traveler-backgrounds
+source: Exploring Eberron
 aliases:
   - Changeling Traveler
-title: Changeling Traveler
-permalink: changeling-traveler
-created: 2025/06/15 at 22:47
-updated: 2025/07/21 at 22:08
+tags:
+  - background
+  - compendium/src/5e/exploringeberron
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
 
 # Changeling Traveler

@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "silverquill-student",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/silverquill-student.md"
+    },
+    {
+      "basename": "whitestone-rifle-corps-grey-hunter",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/whitestone-rifle-corps-grey-hunter.md"
+    },
+    {
+      "basename": "acolyte-phb",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/acolyte-phb.md"
+    },
+    {
+      "basename": "bladesinging",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/bladesinging.md"
+    },
+    {
+      "basename": "black-magic",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Witch/black-magic.md"
+    },
+    {
+      "basename": "house-of-bishops",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warmage/house-of-bishops.md"
+    },
+    {
       "basename": "academy-of-chivalry",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlord/academy-of-chivalry.md"
     },
@@ -89,60 +113,56 @@
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/great-old-one-patron-2024.md"
     },
     {
-      "basename": "Bladesinging",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Bladesinging.md"
+      "basename": "blood-magic",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/blood-magic.md"
     },
     {
-      "basename": "Blood Magic",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Blood Magic.md"
+      "basename": "chronurgy-magic",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/chronurgy-magic.md"
     },
     {
-      "basename": "Chronurgy Magic",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Chronurgy Magic.md"
+      "basename": "graviturgy-magic",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/graviturgy-magic.md"
     },
     {
-      "basename": "Graviturgy Magic",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Graviturgy Magic.md"
-    },
-    {
-      "basename": "Order of Scribes",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Order of Scribes.md"
+      "basename": "order-of-scribes",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/order-of-scribes.md"
     },
     {
       "basename": "Plague Doctor",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Plague Doctor.md"
     },
     {
-      "basename": "School of Necromancy",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/School of Necromancy.md"
+      "basename": "school-of-necromancy",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/school-of-necromancy.md"
     },
     {
       "basename": "School of Sangromancy",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/School of Sangromancy.md"
     },
     {
-      "basename": "School of Transmutation",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/School of Transmutation.md"
+      "basename": "school-of-transmutation",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/school-of-transmutation.md"
     },
     {
-      "basename": "wizard-xphb-illusionist-xphb",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-xphb-illusionist-xphb.md"
+      "basename": "illusionist-2024",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/illusionist-2024.md"
     },
     {
-      "basename": "wizard-xphb-evoker-xphb",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-xphb-evoker-xphb.md"
+      "basename": "evoker-2024",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/evoker-2024.md"
     },
     {
-      "basename": "wizard-xphb-diviner-xphb",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-xphb-diviner-xphb.md"
+      "basename": "diviner-2024",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/diviner-2024.md"
     },
     {
-      "basename": "wizard-xphb-abjurer-xphb",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-xphb-abjurer-xphb.md"
+      "basename": "abjurer-2024",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/abjurer-2024.md"
     },
     {
-      "basename": "wizard-xphb",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-xphb.md"
+      "basename": "wizard-2024",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/wizard-2024.md"
     },
     {
       "basename": "runechild",
@@ -179,26 +199,6 @@
     {
       "basename": "draconic-sorcery-2024",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/draconic-sorcery-2024.md"
-    },
-    {
-      "basename": "clockwork-sorcery-2024",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/clockwork-sorcery-2024.md"
-    },
-    {
-      "basename": "aberrant-sorcery-2024",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/aberrant-sorcery-2024.md"
-    },
-    {
-      "basename": "sorcerer-2024",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/sorcerer-2024.md"
-    },
-    {
-      "basename": "thief",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Rogue/thief.md"
-    },
-    {
-      "basename": "swashbuckler",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Rogue/swashbuckler.md"
     }
   ],
   "omittedPaths": [],

@@ -1,13 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags:
-- background
-- compendium/src/5e/sgtteh
+title: Investigator
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 01:45
+permalink: investigator-backgrounds
+source: Steinhardt's Guide to the Eldritch Hunt
 aliases:
-- Investigator
+  - Investigator
+  - investigator-sgtteh
+tags:
+  - background
+  - compendium/src/5e/sgtteh
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
+
 # Investigator
+
 *Source: Steinhardt's Guide to the Eldritch Hunt p. 181*  
 ![](/📚%20-%20Information%20Compendium/books/steinhardts-guide-to-the-eldritch-hunt/img/04472.webp#right)
 
@@ -40,6 +48,7 @@ You have a keen mind and a drive to uncover the truth. This passion, fueled by y
 | 6 | I am haunted by a terror afflicting Luyarnha (e.g., Scourge, cults, etc..) and its effects on people, and I won't rest until I've uncovered its origins. |
 | 7 | I often come off as distant or cold, but I'm deeply compassionate towards those affected by the mysteries I investigate. |
 | 8 | I have a cynical sense of humor, often making light of grim situations to keep my spirits up. |
+
 ^personality-traits
 
 **Ideals**
@@ -54,6 +63,7 @@ You have a keen mind and a drive to uncover the truth. This passion, fueled by y
 | 4 | **Knowledge**. Knowledge is power, and I must know it all. (Any) |
 | 5 | **Whistleblower**. Everyone has the right to know the truth about what's happening in the city. (Chaotic) |
 | 6 | **Survival**. The mysteries I investigate are a threat to all life. Stopping them is all that matters. (Any) |
+
 ^ideals
 
 **Bonds**
@@ -68,6 +78,7 @@ You have a keen mind and a drive to uncover the truth. This passion, fueled by y
 | 4 | I've been bribed to look the other way before, my greed cost many their lives, never again. |
 | 5 | I have a rival investigator who is always one step ahead of me. One day, I will outshine them. |
 | 6 | I believe some people know more about the Scourge than they're letting on. I must uncover their secrets. |
+
 ^bonds
 
 **Flaws**
@@ -82,4 +93,5 @@ You have a keen mind and a drive to uncover the truth. This passion, fueled by y
 | 4 | I enjoy riches, and am not above investigating wealthy individuals to blackmail them later. |
 | 5 | I tend to see mysteries everywhere, even where they don't exist. |
 | 6 | I have a dark secret related to my investigation that I fear others may discover. |
+
 ^flaws

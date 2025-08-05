@@ -1,13 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags: [background, compendium/src/5e/obojimatallgrass]
+title: Apprentice Diver
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 01:45
+permalink: apprentice-diver-backgrounds
+source: "Obojima: Tales from the Tall Grass"
 aliases:
   - Apprentice Diver
-title: Apprentice Diver
-permalink: apprentice-diver
-created: 2025/06/15 at 22:47
-updated: 2025/07/21 at 22:03
+tags:
+  - background
+  - compendium/src/5e/obojimatallgrass
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
 
 # Apprentice Diver

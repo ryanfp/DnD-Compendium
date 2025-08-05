@@ -1,15 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags:
-- background
-- compendium/src/5e/phb
+title: Outlander
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 01:45
+permalink: outlander-backgrounds
+source: "Player's Handbook"
 aliases:
-- Outlander
+  - Outlander
+tags:
+  - background
+  - compendium/src/5e/phb
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
-# Outlander
-*Source: Player's Handbook p. 136*  
 
+# Outlander
+
+*Source: Player's Handbook p. 136*  
 
 - **Skill Proficiencies.** [Athletics](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Athletics), [Survival](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Survival)  
 - **Tool Proficiencies.** One type of musical instrument  
@@ -40,6 +46,7 @@ You've been to strange places and seen things that others cannot begin to fathom
 | 8 | Tribal nomad |
 | 9 | Hunter-gatherer |
 | 10 | Tribal marauder |
+
 ^origin
 
 ## Suggested Characteristics
@@ -58,6 +65,7 @@ Often considered rude and uncouth among civilized folk, outlanders have little r
 | 6 | I'm always picking things up, absently fiddling with them, and sometimes accidentally breaking them. |
 | 7 | I feel far more comfortable around animals than people. |
 | 8 | I was, in fact, raised by wolves. |
+
 ^personality-trait
 
 `dice: [](outlander.md#^ideal)`
@@ -70,6 +78,7 @@ Often considered rude and uncouth among civilized folk, outlanders have little r
 | 4 | Might. The strongest are meant to rule. (Evil) |
 | 5 | Nature. The natural world is more important than all the constructs of civilization. (Neutral) |
 | 6 | Glory. I must earn glory in battle, for myself and my clan. (Any) |
+
 ^ideal
 
 `dice: [](outlander.md#^bond)`
@@ -82,6 +91,7 @@ Often considered rude and uncouth among civilized folk, outlanders have little r
 | 4 | I am the last of my tribe, and it is up to me to ensure their names enter legend. |
 | 5 | I suffer awful visions of a coming disaster and will do anything to prevent it. |
 | 6 | It is my duty to provide children to sustain my tribe. |
+
 ^bond
 
 `dice: [](outlander.md#^flaw)`
@@ -94,4 +104,5 @@ Often considered rude and uncouth among civilized folk, outlanders have little r
 | 4 | I am slow to trust members of other races, tribes, and societies. |
 | 5 |  Violence is my answer to almost any challenge. |
 | 6 |  Don't expect me to save those who can't save themselves. It is nature's way that the strong thrive and the weak perish. |
+
 ^flaw

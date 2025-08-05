@@ -1,13 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags:
-- background
-- compendium/src/5e/xphb
+title: Noble
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 01:45
+permalink: noble-backgrounds
+source: Player's Handbook (2024)
 aliases:
-- Noble
+  - Noble
+  - noble-xphb
+tags:
+  - background
+  - compendium/src/5e/xphb
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
+
 # Noble
+
 *Source: Player's Handbook (2024) p. 183*  
 ![](/📚%20-%20Information%20Compendium/backgrounds/img/noble.webp#right)
 

@@ -15,7 +15,7 @@ obsidianUIMode: preview
 
 # Curse Binder
 
-*[shaman](shaman.md): Spirituality*  
+*[shaman](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Shaman/shaman.md): Spirituality*  
 *Source: The Shaman p. 6*  
 
 > [!tldr] Class and Feature Progression

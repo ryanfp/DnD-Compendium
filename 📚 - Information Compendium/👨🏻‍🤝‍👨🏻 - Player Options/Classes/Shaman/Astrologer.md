@@ -15,7 +15,7 @@ obsidianUIMode: preview
 
 # Astrologer
 
-*[shaman](shaman.md): Spirituality*  
+*[shaman](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Shaman/shaman.md): Spirituality*  
 *Source: Shaman Expanded p. 8*  
 
 > [!tldr] Class and Feature Progression

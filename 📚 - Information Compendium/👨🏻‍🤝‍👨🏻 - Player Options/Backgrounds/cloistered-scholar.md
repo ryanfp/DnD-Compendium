@@ -1,13 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags: [background, compendium/src/5e/scag]
+title: Cloistered Scholar
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 01:45
+permalink: cloistered-scholar-backgrounds
+source: "Sword Coast Adventurer's Guide"
 aliases:
   - Cloistered Scholar
-title: Cloistered Scholar
-permalink: cloistered-scholar
-created: 2025/06/15 at 22:47
-updated: 2025/07/21 at 22:10
+tags:
+  - background
+  - compendium/src/5e/scag
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
 
 # Cloistered Scholar

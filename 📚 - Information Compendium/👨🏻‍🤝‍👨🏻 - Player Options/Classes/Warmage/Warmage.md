@@ -1,11 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [ttrpg-cli/class/warmage, ttrpg-cli/compendium/src/5e/vss]
+title: Warmage
+created: 2025/06/13 at 22:34
+updated: 2025/08/01 at 01:41
+permalink: warmage
+source: "Valda's Spire of Secrets"
 aliases:
   - Warmage
-created: 2025/06/13 at 22:34
-updated: 2025/07/13 at 00:17
+tags:
+  - ttrpg-cli/class/warmage
+  - ttrpg-cli/compendium/src/5e/vss
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Warmage

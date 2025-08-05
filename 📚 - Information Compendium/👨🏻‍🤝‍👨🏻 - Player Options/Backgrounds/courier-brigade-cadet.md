@@ -1,13 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags: [background, compendium/src/5e/obojimatallgrass]
+title: Courier Brigade Cadet
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 01:45
+permalink: courier-brigade-cadet-backgrounds
+source: "Obojima: Tales from the Tall Grass"
 aliases:
   - Courier Brigade Cadet
-title: Courier Brigade Cadet
-permalink: courier-brigade-cadet
-created: 2025/06/15 at 22:47
-updated: 2025/07/21 at 22:11
+tags:
+  - background
+  - compendium/src/5e/obojimatallgrass
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
 
 # Courier Brigade Cadet

@@ -1,8 +1,9 @@
 ---
 title: Azorius Functionary
 created: 2025/06/15 at 22:47
-updated: 2025/08/01 at 00:21
-permalink: azorius-functionary
+updated: 2025/08/01 at 01:45
+permalink: azorius-functionary-backgrounds
+source: "Guildmasters' Guide to Ravnica"
 aliases:
   - Azorius Functionary
 tags:

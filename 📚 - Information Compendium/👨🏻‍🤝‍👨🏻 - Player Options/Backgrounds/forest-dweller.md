@@ -1,14 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags: [background, compendium/src/5e/toh]
-aliases:
-  - Forest Dweller
-  - Forest dweller
 title: Forest Dweller
-permalink: forest-dweller
 created: 2025/06/15 at 22:47
-updated: 2025/07/21 at 22:16
+updated: 2025/08/01 at 01:45
+permalink: forest-dweller-backgrounds
+source: Tome of Heroes
+aliases:
+  - Forest dweller
+  - Forest Dweller
+tags:
+  - background
+  - compendium/src/5e/toh
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
 
 # Forest Dweller

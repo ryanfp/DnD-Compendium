@@ -1,8 +1,9 @@
 ---
 title: Amnesiac
 created: 2025/06/15 at 22:47
-updated: 2025/08/01 at 00:21
-permalink: amnesiac
+updated: 2025/08/01 at 01:45
+permalink: amnesiac-backgrounds
+source: "Steinhardt's Guide to the Eldritch Hunt"
 aliases:
   - Amnesiac
 tags:

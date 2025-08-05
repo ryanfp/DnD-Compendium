@@ -1,8 +1,9 @@
 ---
 title: Dragonmarked Bravo
 created: 2025/06/15 at 22:47
-updated: 2025/08/01 at 00:21
-permalink: dragonmarked-bravo
+updated: 2025/08/01 at 01:45
+permalink: dragonmarked-bravo-backgrounds
+source: "Frontiers of Eberron: Quickstone"
 aliases:
   - Dragonmarked Bravo
 tags:

@@ -1,7 +1,9 @@
 ---
 title: Bladesinging
 created: 2025/06/15 at 15:38
-updated: 2025/08/01 at 01:31
+updated: 2025/08/01 at 01:42
+permalink: bladesinging-wizard
+source: "Tasha's Cauldron of Everything"
 aliases:
   - Bladesinging
 tags:
@@ -13,7 +15,7 @@ obsidianUIMode: preview
 
 # Bladesinging
 
-*[Wizard](Wizard.md): Arcane Tradition*  
+*[wizard](wizard.md): Arcane Tradition*  
 *Source: Tasha's Cauldron of Everything p. 76, Sword Coast Adventurer's Guide p. 141*  
 
 > [!tldr] Class and Feature Progression

@@ -1,13 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags: [background, compendium/src/5e/darkmatter]
+title: Commercial Pilot
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 01:45
+permalink: commercial-pilot-backgrounds
+source: Dark Matter
 aliases:
   - Commercial Pilot
-title: Commercial Pilot
-permalink: commercial-pilot
-created: 2025/06/15 at 22:47
-updated: 2025/07/21 at 22:11
+tags:
+  - background
+  - compendium/src/5e/darkmatter
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
 
 # Commercial Pilot

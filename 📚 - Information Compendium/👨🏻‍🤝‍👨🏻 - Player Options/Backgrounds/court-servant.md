@@ -1,13 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags: [background, compendium/src/5e/toh]
+title: Court Servant
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 01:45
+permalink: court-servant-backgrounds
+source: Tome of Heroes
 aliases:
   - Court Servant
-title: Court Servant
-permalink: court-servant
-created: 2025/06/15 at 22:47
-updated: 2025/07/21 at 22:11
+tags:
+  - background
+  - compendium/src/5e/toh
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
 
 # Court Servant

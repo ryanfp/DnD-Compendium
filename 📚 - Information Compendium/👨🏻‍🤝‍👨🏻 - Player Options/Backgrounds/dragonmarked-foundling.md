@@ -1,8 +1,9 @@
 ---
 title: Dragonmarked Foundling
 created: 2025/06/15 at 22:47
-updated: 2025/08/01 at 00:21
-permalink: dragonmarked-foundling
+updated: 2025/08/01 at 01:45
+permalink: dragonmarked-foundling-backgrounds
+source: "Frontiers of Eberron: Quickstone"
 aliases:
   - Dragonmarked Foundling
 tags:

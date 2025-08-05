@@ -1,15 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags:
-- background
-- compendium/src/5e/phb
+title: Soldier
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 01:45
+permalink: soldier-backgrounds
+source: "Player's Handbook"
 aliases:
-- Soldier
+  - Soldier
+tags:
+  - background
+  - compendium/src/5e/phb
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
-# Soldier
-*Source: Player's Handbook p. 140. Available in the Basic Rules (2014)*  
 
+# Soldier
+
+*Source: Player's Handbook p. 140. Available in the Basic Rules (2014)*  
 
 - **Skill Proficiencies.** [Athletics](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Athletics), [Intimidation](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Intimidation)  
 - **Tool Proficiencies.** One type of gaming set, vehicles (land)  
@@ -39,6 +45,7 @@ During your time as a soldier, you had a specific role to play in your unit or a
 | 6 | Quartermaster |
 | 7 | Standard-bearer |
 | 8 | Support staff (cook, blacksmith, or the like) |
+
 ^role
 
 ## Suggested Characteristics
@@ -57,6 +64,7 @@ The horrors of war combined with the rigid discipline of military service leave 
 | 6 | I enjoy being strong and like breaking things. |
 | 7 | I have a crude sense of humor. |
 | 8 | I face problems head-on. A simple, direct solution is the best path to success. |
+
 ^personality-trait
 
 `dice: [](soldier.md#^ideal)`
@@ -69,6 +77,7 @@ The horrors of war combined with the rigid discipline of military service leave 
 | 4 | Might. In life as in war, the stronger force wins. (Evil) |
 | 5 | Live and Let Live. Ideals aren't worth killing over or going to war for. (Neutral) |
 | 6 | Nation. My city, nation, or people are all that matter. (Any) |
+
 ^ideal
 
 `dice: [](soldier.md#^bond)`
@@ -81,6 +90,7 @@ The horrors of war combined with the rigid discipline of military service leave 
 | 4 | I'll never forget the crushing defeat my company suffered or the enemies who dealt it. |
 | 5 | Those who fight beside me are those worth dying for. |
 | 6 | I fight for those who cannot fight for themselves. |
+
 ^bond
 
 `dice: [](soldier.md#^flaw)`
@@ -93,4 +103,5 @@ The horrors of war combined with the rigid discipline of military service leave 
 | 4 | My hatred of my enemies is blinding and unreasoning. |
 | 5 | I obey the law, even if the law causes misery. |
 | 6 | I'd rather eat my armor than admit when I'm wrong. |
+
 ^flaw

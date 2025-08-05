@@ -1,15 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags:
-- background
-- compendium/src/5e/phb
+title: Guild Artisan
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 01:45
+permalink: guild-artisan-backgrounds
+source: "Player's Handbook"
 aliases:
-- Guild Artisan
+  - Guild Artisan
+tags:
+  - background
+  - compendium/src/5e/phb
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
-# Guild Artisan
-*Source: Player's Handbook p. 132*  
 
+# Guild Artisan
+
+*Source: Player's Handbook p. 132*  
 
 - **Skill Proficiencies.** [Insight](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Insight), [Persuasion](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Persuasion)  
 - **Tool Proficiencies.** One type of artisan's tools  
@@ -54,6 +60,7 @@ Guilds are generally found in cities large enough to support several artisans pr
 | 18 | Wagon-makers and wheelwrights |
 | 19 | Weavers and dyers |
 | 20 | Woodcarvers, coopers, and bowyers |
+
 ^guild-business
 
 ## Suggested Characteristics
@@ -72,6 +79,7 @@ Guild artisans are among the most ordinary people in the world—until they set 
 | 6 | I like to talk at length about my profession. |
 | 7 | I don't part with my money easily and will haggle tirelessly to get the best deal possible. |
 | 8 | I'm well known for my work, and I want to make sure everyone appreciates it. I'm always taken aback when people haven't heard of me. |
+
 ^personality-trait
 
 `dice: [](guild-artisan.md#^ideal)`
@@ -84,6 +92,7 @@ Guild artisans are among the most ordinary people in the world—until they set 
 | 4 | Greed. I'm only in it for the money. (Evil) |
 | 5 | People. I'm committed to the people I care about, not to ideals. (Neutral) |
 | 6 | Aspiration. I work hard to be the best there is at my craft. (Any) |
+
 ^ideal
 
 `dice: [](guild-artisan.md#^bond)`
@@ -96,6 +105,7 @@ Guild artisans are among the most ordinary people in the world—until they set 
 | 4 | I pursue wealth to secure someone's love. |
 | 5 | One day I will return to my guild and prove that I am the greatest artisan of them all. |
 | 6 | I will get revenge on the evil forces that destroyed my place of business and ruined my livelihood. |
+
 ^bond
 
 `dice: [](guild-artisan.md#^flaw)`
@@ -108,4 +118,5 @@ Guild artisans are among the most ordinary people in the world—until they set 
 | 4 | I'm never satisfied with what I have—I always want more. |
 | 5 | I would kill to acquire a noble title. |
 | 6 | I'm horribly jealous of anyone who can outshine my handiwork. Everywhere I go, I'm surrounded by rivals. |
+
 ^flaw

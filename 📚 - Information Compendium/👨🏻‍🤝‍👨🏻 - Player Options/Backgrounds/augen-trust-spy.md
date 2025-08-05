@@ -1,8 +1,9 @@
 ---
 title: Augen Trust (Spy)
 created: 2025/06/15 at 22:47
-updated: 2025/08/01 at 00:21
-permalink: augen-trust-spy
+updated: 2025/08/01 at 01:45
+permalink: augen-trust-spy-backgrounds
+source: "Explorer's Guide to Wildemount"
 aliases:
   - Augen Trust (Spy)
   - Augen Trust {Spy}

@@ -1,13 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags: [background, compendium/src/5e/scag]
+title: Clan Crafter
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 01:45
+permalink: clan-crafter-backgrounds
+source: "Sword Coast Adventurer's Guide"
 aliases:
   - Clan Crafter
-title: Clan Crafter
-permalink: clan-crafter
-created: 2025/06/15 at 22:47
-updated: 2025/07/21 at 22:10
+tags:
+  - background
+  - compendium/src/5e/scag
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
 
 # Clan Crafter

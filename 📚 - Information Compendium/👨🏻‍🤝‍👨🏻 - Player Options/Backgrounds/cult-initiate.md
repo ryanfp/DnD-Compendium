@@ -1,13 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags: [background, compendium/src/5e/sgtteh]
+title: Cult Initiate
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 01:45
+permalink: cult-initiate-backgrounds
+source: "Steinhardt's Guide to the Eldritch Hunt"
 aliases:
   - Cult Initiate
-title: Cult Initiate
-permalink: cult-initiate
-created: 2025/06/15 at 22:47
-updated: 2025/07/21 at 22:13
+tags:
+  - background
+  - compendium/src/5e/sgtteh
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
 
 # Cult Initiate

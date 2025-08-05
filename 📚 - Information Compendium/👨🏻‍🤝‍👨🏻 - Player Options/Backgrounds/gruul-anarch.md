@@ -1,13 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags: [background, compendium/src/5e/ggr]
+title: Gruul Anarch
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 01:45
+permalink: gruul-anarch-backgrounds
+source: "Guildmasters' Guide to Ravnica"
 aliases:
   - Gruul Anarch
-title: Gruul Anarch
-permalink: gruul-anarch
-created: 2025/06/15 at 22:47
-updated: 2025/07/21 at 22:17
+tags:
+  - background
+  - compendium/src/5e/ggr
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
 
 # Gruul Anarch

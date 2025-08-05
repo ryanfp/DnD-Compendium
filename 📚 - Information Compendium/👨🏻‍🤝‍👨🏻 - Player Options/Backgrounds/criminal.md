@@ -1,13 +1,16 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags: [background, compendium/src/5e/phb]
+title: Criminal
+created: 2025/06/15 at 22:47
+updated: 2025/08/01 at 01:45
+permalink: criminal-backgrounds
+source: "Player's Handbook"
 aliases:
   - Criminal
-title: Criminal
-permalink: criminal
-created: 2025/06/15 at 22:47
-updated: 2025/07/21 at 22:12
+tags:
+  - background
+  - compendium/src/5e/phb
+cssclasses: json5e-background
+obsidianUIMode: preview
 ---
 
 # Criminal

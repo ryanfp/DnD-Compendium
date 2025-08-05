@@ -9,11 +9,13 @@ tags:
   - ttrpg-cli/subclass/wizard/sangromancy
 cssclasses: json5e-class
 obsidianUIMode: preview
+permalink: school-of-sangromancy-wizard
+source: Grim Hollow: The Player's Guide
 ---
 
 # School of Sangromancy
 
-*[Wizard](Wizard.md): Arcane Tradition*  
+*[wizard](wizard.md): Arcane Tradition*  
 *Source: Grim Hollow: The Player's Guide*  
 
 > [!tldr] Class and Feature Progression
