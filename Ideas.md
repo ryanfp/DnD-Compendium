@@ -13,6 +13,7 @@
 - [ ] Need to create or implement showing graph on mobile
 - [ ] Need to create or implement maybe a google form like thing for any page that always generates where someone can make a comment about it that auto-sends an email?
 - [ ] Implement reading mode that hides the right sidebar and increases line length? or just that focuses the content? Not sure
+- [ ] Have separate navigation tab for bookmarks/favorites maybe? If possible
 
 ## General
 - [ ] Need to create or implement a modal form that generates frontmatter and directs you to template. Kind of already implemented in ObsidianTTRPGs but this could also pre-generate a class table prefilled with resource names and the like. Probably parse multiple class and subclass files to get a generic Modal Form
