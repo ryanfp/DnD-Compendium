@@ -1404,19 +1404,19 @@ Many druids of this circle keep records of the constellations and the stars’ e
 
 Druids within the Circle of Wildfire understand that destruction is sometimes the precursor of creation, such as when a forest fire promotes later growth. These druids bond with a primal spirit that harbors both destructive and creative power, allowing the druids to create controlled flames that burn away one thing but give life to another.
 
-#### **Circle Of the City**<sup>(VSS)</sup> %% Fold %%
+#### **!Circle Of the City**<sup>(VSS)</sup> %% Fold %%
 
 The city lives; it has a pulse. It’s skin is of walls and towering stone structures, it’s breath of chimneys and rivers. While the city exists, it lives in harmony with it’s people, a delicate balance mediated by the urban druids. 
 
 These urban druids belong to the Circle of the City and are a direct antithesis to the conventional idea of a druid; whereas a normal druid lives among majestic forests or breathtaking mountains and dresses in the greenery of the forest, an urban druid wears unassuming clothes and wanders the back alleys of a well-trodden city. But their powers are not to be underestimated. Druids of this circle can channel their natural powers to twist the streets into knots, uproot towers, and animate the cobblestones. Their charge might be unorthodox, but their authority over the cityscape matches any other druid’s power over the forest. 
 
-#### **Circle Of the Deep**<sup>(VSS)</sup> %% Fold %%
+#### **!Circle Of the Deep**<sup>(VSS)</sup> %% Fold %%
 
 The druids that maintain and protect the land are deluded to think that they keep dominion over the natural world, for they stand guard over only a small fraction of it; far greater, and far wilder, is the deep. Druids of the Deep are fewer in number, but greater in task, vowing to stand guard over the world’s oceans, seas, lakes and rivers. Safeguarding their inhabitants from the fools that walk the surface. 
 
 The crushing depths have hardened these druids, and taught them to battle with every weapon underneath the waves. After all, the ocean is an unforgiving place; you can’t survive by just talking to fish. 
 
-#### **Circle Of the Fist**<sup>(VSS)</sup> %% Fold %%
+#### ~~**Circle Of the Fist**~~<sup>(VSS)</sup> %% Fold %%
 
 The defenders of the forests and champions of the trees, druids who join this circle take their charge as natural protectors seriously. Traditionally, all druid circles strive to protect the natural realm and maintain the world’s balance, but only druids of this circle guard the woodlands with the vigilance and fervor of a territorial beast. Fists of the Forest, as they are called, stave off intruders to their realms with flurries of bare-fisted strikes, empowered by the natural world, before disappearing into the treetops. At the height of their expertise, these druids fight more like beast of the forests than men, and are twice as deadly. 
 
@@ -1428,11 +1428,11 @@ Age-old monuments crafted in forgotten times attest to a simple truth: there is 
 
 Druids of the Circle of Vermin, sometimes known as Vermin Lords, find their source of power in the lowliest of creatures: insects, rats, spiders and other pests or vermin. Unmistakably, your coming is signaled by the scrambling of little claws and the cawing of the crows. You hold legions of these creatures at your command, ready to swarm, bite, and claw, and you can become one of them, top walk among your innumerable children. 
 
-#### **Circle Of the Wyrm**<sup>(VSS)</sup> %% Fold %%
+#### ~~**Circle Of the Wyrm**~~<sup>(VSS)</sup> %% Fold %%
 
 Druids who join the Circle of the Wyrm hold dragons in higher esteem than all other works of creation. These druids believe, as many dragons do, that wyrms are perfect creatures: the pinnacle of all life brought into existence by the antediluvian gods. Likewise, these druids aspire to perfect wyrmhood, and gradually become like dragonkind. 
 
-#### **Circle Of Twilight**<sup>(UA)</sup> %% Fold %%
+#### **!Circle Of Twilight**<sup>(UA)</sup> %% Fold %%
 
 The [[Circle of Twilight]] seeks to exterminate undead creatures and preserve the natural cycle of life and death that rules over the cosmos. Their magic allows them to manipulate the boundary between life and death, sending their foes to their final rest while keeping their allies from that fate.
 
@@ -1452,7 +1452,7 @@ Druids of this circle often use the phoenix as their symbol, an elemental creatu
 
 Druids of the Circle of Bees are friends to all stinging insects but focus their attention on honeybees and other pollinating insects. When not adventuring, they tend hives, either created by the insects or by themselves. They tap into the horror inherent in stinging insects to protect their allies or the fields hosting their bee friends.
 
-#### **Circle Of Crystals**<sup>(TOH)</sup> %% Fold %%
+#### **!Circle Of Crystals**<sup>(TOH)</sup> %% Fold %%
 
 Circle of Crystals druids first arose in subterranean environments, where they helped tend giant crystal gardens, but now they can be found most anywhere with access to underground caverns or geothermal activity. These druids view crystals as a naturally occurring form of order and perfection, and they value the crystals’ slow growth cycle, as it reminds them the natural world moves gradually but eternally. This teaches young druids patience and assures elder druids their legacy will be carried on in each spire of crystal. As druids of this circle tend their crystals, they learn how to use the harmonic frequencies of different crystals to create a variety of effects, including storing magic.
 
@@ -1466,15 +1466,22 @@ While the unacquainted might view sand as lifeless and desolate, druids of this 
 
 Druids of the Circle of the Green devote themselves to the plants and green things of the world, recognizing the role of plants in giving life. By continued communion with plant life, they believe they draw nearer to what they call “The Green,” a cosmic thread that binds all plant life. Druids of this circle believe they gain their abilities by tapping into the Green, and they use this connection to summon a spirit from it.
 
-#### **Circle Of The Shapeless**<sup>(TOH)</sup> %% Fold %%
+#### ~~**Circle Of The Shapeless**~~<sup>(TOH)</sup> %% Fold %%
 
 Druids of the Circle of the Shapeless believe that oozes, puddings, and jellies serve an important and integral role in the natural world, particularly in decomposition and in clearing detritus. Druids of this circle also admire the adaptability of these gelatinous creatures and study them to learn how to duplicate some of their abilities. 
 
 The sworn enemies of Circle of the Shapeless druids are the so-called ooze lords and their servants who pervert the natural order by controlling and weaponizing such creatures.
 
-#### **Circle Of Wind**<sup>(TOH)</sup> %% Fold %%
+#### **!!~~Circle Of Wind~~**<sup>(TOH)</sup> %% Fold %%
 
 Founded in deserts, badlands, and grasslands, where wind dominates and controls the landscape, the teachings of the Circle of Wind have spread far and wide, like a mighty storm. Druids who follow this circle’s teachings embrace the mercurial winds to create several effects.
+
+Vizier of the Winds
+Starting at 10th level, you can ask the winds one
+question, and they whisper secrets back to you. You
+can cast commune without preparing the spell or
+expending a spell slot. Once you use this feature, you
+can’t use it again until you finish a long rest.
 
 #### **Circle Of Bough**<sup>(TCEE)</sup> %% Fold %%
 
@@ -1484,17 +1491,17 @@ There are druids who seek to bond not with beasts, but with the timeless sentine
 
 Druids are known amongst the masses for their secret groups, sacred locales, and sacramental rites. None fit this description more so than the druids that gather together in the spirit of cult sorority, where the whole is exponentially more powerful than the mere sum of its parts - which parts often consist of hags and other unseelie fey. These mystical magicians, while not known for infant-snatching like their namesake, do give more attention to the civilized world than the rest of their kind. Their skill with the cauldron, and their ability to take the form of humanoids in addition to beasts, allow them to closely observe and even infiltrate communities of all kinds. While the intentions of these druids are frequently debated amongst those who are familiar with them, their power is not.
 
-#### **Circle Of the Dragonfriend**<sup>(TCEE)</sup> %% Fold %%
+#### ~~**Circle Of the Dragonfriend**~~<sup>(TCEE)</sup> %% Fold %%
 
 Dragons are powerful magical beings that shape the environment around them and their lairs. A few brave druids work with these creatures and tend to those environments. Such druids often pick up tips, tricks, and magical traits from their companions. These druids are known as dragonfriends. 
 
 It is rare to find a dragonfriend trying to dominate a dragon, or that condescends to be ruled by one. While dragonfriends usually maintain a realistic understanding that dragons’ powers are much greater than their own, they maintain peaceful coexistence and peership with dragons. Those who live near evil dragons often make arrangements for tenuous, indefinite alliances.
 
-#### **Circle Of Seafarers**<sup>(TCEE)</sup> %% Fold %%
+#### **!Circle Of Seafarers**<sup>(TCEE)</sup> %% Fold %%
 
 You follow an old tradition of sea-dwelling druids that protect the waters from creatures, and creatures from the waters. Your culture has developed unique fighting styles not found in other druidic sects, which make you excellent combatants in and around the seas.
 
-#### **Circle Of the Leaf**<sup>(ToV)</sup> %% Fold %%
+#### ~~**Circle Of the Leaf**~~<sup>(ToV)</sup> %% Fold %%
 
 Druids who align with the ring of the Leaf feel a deep connection to plants. Leaf druids are drawn to the quiet, natural spaces of the world. They find great peace and wisdom among hidden groves, ancient forests, and overgrown gardens left to flourish without the influence of civilization. To you, nothing is more important than nurturing the flora that makes all life possible.
 
@@ -1516,7 +1523,7 @@ The vines, they grew at lightning speed, up from the ground they came. They inte
 
 The ancient forests of the world lie in restless slumber. Humble servants of the Old Way, the Circle of the Primeval Grove are conduits for the vengeful wilds, full of thorn and moss, and of gnarled roots clawing their way across the ground, twisted with malice and old enough to recall every cruelty imposed upon them over the millennia.
 
-#### **Circle Of Crystals**<sup>(CCS)</sup> %% Fold %%
+#### **!Circle Of Crystals**<sup>(CCS)</sup> %% Fold %%
 
 Druids of the Circle of Crystals have a deep connection to arcane crystals, which are magically infused crystals discovered in the early settlement of Prismatic Falls. To these druids, naturally occurring sources of such crystals are sacred, and they believe that they harbor the closest and deepest connection to the intrinsic magic of the world.
 
@@ -1532,13 +1539,13 @@ A circle of the aspects druid, frequently called a spirit shifter, is a druid th
 
 Druids of this circle must walk a fine line, as it can be easy for them to delve too deeply into the powerful and savage states of mind they enter. However, these magical aspects grant them both unique power and perspective as they walk the world, seeing the world through the eyes of the bestial spirits that boil within them.
 
-#### **Circle Of Elements**<sup>(KT)</sup> %% Fold %%
+#### **!Circle Of Elements**<sup>(KT)</sup> %% Fold %%
 
 The Circle of Elements allows druids to tap the purest of primal powers, unleashing devastating elemental powers destroy their enemies and reshape the battlefield. These druids are the wrath of nature incarnate, and leave a path that is burned, frozen, scorched, or broken through all that would defile. 
 
 Anyone that makes the mistake of thinking that nature is serene beauty would do well remember why civilized creatures spend so much of their time trying to keep it at bay.
 
-#### **Circle Of Growth**<sup>(KT)</sup> %% Fold %%
+#### **!Circle Of Growth**<sup>(KT)</sup> %% Fold %%
 
 Druids within the Circle of Growth are among the most direct emissaries of nature, speaking for the forests and wilderness in order to bring its will to the rest of the world.. They can be kind and nurturing presences that seek to ease the suffering all living things, or militant wardens that seek to end the exploitation of natural resources.
 
@@ -1548,7 +1555,7 @@ While many druids have a kinship with the deep woods of nature, a Circle of Root
 
 Frequently, regardless of the nature of their connection, these druids will feel most comfortable deep in nature, and place great value in its unspoiled form, sharing a world view more in common with dryads and treants than other mortals… perhaps they were even raised by such creatures, leading them to this path.
 
-#### **Circle Of the City**<sup>(KT)</sup> %% Fold %%
+#### **!Circle Of the City**<sup>(KT)</sup> %% Fold %%
 
 The circle of the city is about adaption. The adaption of nature to cities, and the adaption of cities to nature. Druids of the circle see the teeming life of the city as just another ecosystem, one adapted to a special type of life, feeling kinship with the creatures that thrive in such an environment, particularly that which remains wild in the heart of the city, such as rats, pigeons, and cats. 
 
