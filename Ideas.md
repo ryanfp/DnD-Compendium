@@ -1,3 +1,11 @@
+---
+title: Need To-Dos
+created: 2025/07/13 at 17:36
+updated: 2025/08/06 at 20:04
+aliases:
+  - Need To-Dos
+---
+
 # Need To-Dos
 
 ## Publish
@@ -16,9 +24,10 @@
 - [ ] Have separate navigation tab for bookmarks/favorites maybe? If possible
 
 ## General
+
 - [ ] Need to create or implement a modal form that generates frontmatter and directs you to template. Kind of already implemented in ObsidianTTRPGs but this could also pre-generate a class table prefilled with resource names and the like. Probably parse multiple class and subclass files to get a generic Modal Form
 - [ ] Need to create or implement the same but for tags, also reformat tags to remove the cli/ttrpg-cli or whatever it is
-- [ ] Need to create or implement data-view search function that can send to notes based on various filters, kind of like a website to search, filter out spells, sources,  damage types, weapons, etc. Have it return list of potential file matches
+- [ ] Need to create or implement data-view search function that can send to notes based on various filters, kind of like a website to search, filter out spells, sources, damage types, weapons, etc. Have it return list of potential file matches
 - [ ] Need to create or implement similar to above but VERY basic character builder to give race, class, background, feat, spells, weapons, items, etc.
 - [ ] Need to create or implement 
 - [ ] Need to create or implement
