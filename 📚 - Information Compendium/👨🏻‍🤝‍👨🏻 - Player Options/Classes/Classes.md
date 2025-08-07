@@ -1462,7 +1462,7 @@ The Circle of Sand originally arose among the desert dunes, where druids forged 
 
 While the unacquainted might view sand as lifeless and desolate, druids of this circle know the truth—there is life within the sand, as there is almost anywhere. These druids have witnessed the destructive power of sand and the sandstorm and know to fear and respect them. Underestimating the power of sand is only for the foolish.
 
-#### **Circle Of The Green**<sup>(TOH)</sup> %% Fold %%
+#### **!!Circle Of The Green**<sup>(TOH)</sup> %% Fold %%
 
 Druids of the Circle of the Green devote themselves to the plants and green things of the world, recognizing the role of plants in giving life. By continued communion with plant life, they believe they draw nearer to what they call “The Green,” a cosmic thread that binds all plant life. Druids of this circle believe they gain their abilities by tapping into the Green, and they use this connection to summon a spirit from it.
 
@@ -1533,19 +1533,19 @@ Druids are often thought of as the guardians of the natural order and having a d
 
 Druids of this circle may be haunted by the terrors they see, but many simply find their minds inoculated against the horror (perhaps by the touch of madness). Some even treat twisted abominations with the same care other druids might take to vicious and wild animals, treating them with pragmatic understanding and empathy Sometimes their connection even seems to be mutual.
 
-#### **Circle Of Aspects**<sup>(KT)</sup> %% Fold %%
+#### **!Circle Of Aspects**<sup>(KT)</sup> %% Fold %%
 
 A circle of the aspects druid, frequently called a spirit shifter, is a druid that has attuned themselves to the spiritual aspects of beasts. These druids tap into their fundamental nature, calling up certain aspects of wilderness and embodying them in spirit. A druid of this circle can be said to Wild Shape their soul, rather than their body. 
 
 Druids of this circle must walk a fine line, as it can be easy for them to delve too deeply into the powerful and savage states of mind they enter. However, these magical aspects grant them both unique power and perspective as they walk the world, seeing the world through the eyes of the bestial spirits that boil within them.
 
-#### **!Circle Of Elements**<sup>(KT)</sup> %% Fold %%
+#### ~~**!Circle Of Elements**~~<sup>(KT)</sup> %% Fold %%
 
 The Circle of Elements allows druids to tap the purest of primal powers, unleashing devastating elemental powers destroy their enemies and reshape the battlefield. These druids are the wrath of nature incarnate, and leave a path that is burned, frozen, scorched, or broken through all that would defile. 
 
 Anyone that makes the mistake of thinking that nature is serene beauty would do well remember why civilized creatures spend so much of their time trying to keep it at bay.
 
-#### **!Circle Of Growth**<sup>(KT)</sup> %% Fold %%
+#### **!!Circle Of Growth**<sup>(KT)</sup> %% Fold %%
 
 Druids within the Circle of Growth are among the most direct emissaries of nature, speaking for the forests and wilderness in order to bring its will to the rest of the world.. They can be kind and nurturing presences that seek to ease the suffering all living things, or militant wardens that seek to end the exploitation of natural resources.
 
@@ -1567,7 +1567,7 @@ Druids revere aspects aspects of nature, and none is more central the cycle of l
 
 Druids of the Circle often stand in opposition that with crawls through the dark, that which corrupts in the absence of light, and while still inclined to the neutrality many Druids uphold, they tend to swing further the extremes of passion and action, willing to burn away the rot. Though they might aim for a controlled burn, a controlled burn may often be more destructive than a simple pruning.
 
-#### **Circle Of The Wild**<sup>(KT)</sup> %% Fold %%
+#### ~~**Circle Of The Wild**~~<sup>(KT)</sup> %% Fold %%
 
 For some druids, they have found their friends among the beasts of the wild, forming a close kinship with the furred and the fanged. They often roam the wilderness, placing little value on the trappings of civilization, more concerned with nature, hunting, and exploring. 
 
@@ -1579,7 +1579,7 @@ Druids of the Circle of Seasons learn early in their trials that all things are 
 
 As a druid of the seasons, you embody nature’s invisible hand. Whether through famine or pestilence, flood or fire, you revere the world’s natural cycle of destruction and rebirth. Your connection to the natural cycles of life and death allows you to burn nature’s enemies and renew her allies.
 
-#### **Circle Of the Spiritlord**<sup>(XLNEE)</sup> %% Fold %%
+#### **!Circle Of the Spiritlord**<sup>(XLNEE)</sup> %% Fold %%
 
 Ages ago, nature priests with a greater connection to the spirit realm believed the world itself to be formed from a group of elemental and primordial spirits, each specifically charged to harness one of the major elements of creation. This band of tribal druids developed a set of ritual practices that allowed them to summon these spirits, whose essence now resides in every rock, tree, and breath of air, controlling the ebb and flow of nature not only in their homeland, but in all lands beyond. This order of priests were known as spiritlords. 
 
@@ -1611,7 +1611,7 @@ Druids from this Circle know that dragons, and draconic magic, are as connected 
 
 Druids of the Circle of the Eclipse are stewards of the celestial balance, and draw their power from the luminous bond shared by sun and moon. They find their strength waxing and waning with the ebb and flow of these celestial bodies, but it is during the rare moments of eclipse, when the world is briefly cloaked in celestial union, that they feel truly connected to the natural world and the cosmos above. Masters of both the brilliance of daylight and the mystique of darkness, druids of this circle embody the harmony of cosmic forces, wielding their celestial magic to protect the natural world and preserve the delicate equilibrium of day and night.
 
-#### **Circle Of the Grove**<sup>(TGS)</sup> %% Fold %%
+#### ~~**!Circle Of the Grove**~~<sup>(TGS)</sup> %% Fold %%
 
 Druids of the Circle of the Grove spend weeks alone in forest glades in silent meditation. They find peace and wisdom in the stillness of the woods, and in time learn how to become a part of them themselves. Ancient rings of trees are sometimes archdruids themselves, transformed into trees in endless meditation. Dryads and half-dryads that become practicing druids are often members of this Circle.
 
@@ -1625,11 +1625,11 @@ Those who channel the magic of life and nature often find themselves drawn to a 
 
 Whether through the subtle corruption of vile magics, the tainted presence of an ancient terror, or a terrible mistake unleashed by druids themselves, a land can become cursed with magic that warps any druid bound to that land. Twisted by their connection to an unhallowed territory, these guardians come to embody the defiled nature they serve, exalting the natural process of decay and using it to further their goals—or sometimes to seek a means to end the curse that plagues them.
 
-#### **Circle Of Bond**<sup>UAH</sup> %% Fold %%
+#### ~~**Circle Of Bond**~~<sup>UAH</sup> %% Fold %%
 
 Ruids of the Circle of the Bond feel a greater connection to beasts than they do other sapient life. Many wish to eschew the complexities and complications of living within a society and interacting with hyumanoids for the quiet simpliciity offered by beasts, while others have experienced tragedy or betrayal at the hands of their peers, and seek comfort in an animal companion. Regardless of the reasons you joined this circle, you have formed a magical partnership with a beast, a deep bond that interlocks your minds and souls. 
 
-#### **Circle Of Branch**<sup>UAH</sup> %% Fold %%
+#### ~~**Circle Of Branch**~~<sup>UAH</sup> %% Fold %%
 
 The Circle of the Branch is made up of sages and warriors who believe that the greatest wisdom is found in the stillness of plants, especially long-lived trees. Seeking to achieve a modicum o their groves’ enlightenment, these druids magically fuse bark from sacred trees into their flesh, assuming arboreal forms that they use to protect and learn from the ancient forests of the multiverse. Often referred to as barksleeves these defenders emphasize violence only in defense of self or of primordial grove, preferring the stillness of peace and mutual growth to the tragedy of cutting down something of great potential. 
 
@@ -1637,17 +1637,17 @@ The Circle of the Branch is made up of sages and warriors who believe that the g
 
 Druids in the Circle of Cataclysm embody the most destructive manifestations of nature’s power. Channeling the untamed might of natural catastrophes such as earthquakes, tsunamis and volcanoes, these spellcasters destroy their enemies with none of the subtlety typical of druids. Members of this circle see themselves as agents of the end times, heralds of ruination, and deliverers of nature’s judgment. 
 
-#### **Circle Of Community**<sup>UAH</sup> %% Fold %%
+#### **!Circle Of Community**<sup>UAH</sup> %% Fold %%
 
-Druids of this circle recognize communication and symbiotic relationships as the most powerful dforces in nature. Countless sapient species and monsters, each with their own tradition and culture, have achieved more than they might ever have through cooperation and community. It is this innate sense of togetherness that druids of this circle thrive on. A community is only as strong as its weakest link, and a Druid of Community makes it their goal to empower their companions to survive and thrive as one. 
+Druids of this circle recognize communication and symbiotic relationships as the most powerful forces in nature. Countless sapient species and monsters, each with their own tradition and culture, have achieved more than they might ever have through cooperation and community. It is this innate sense of togetherness that druids of this circle thrive on. A community is only as strong as its weakest link, and a Druid of Community makes it their goal to empower their companions to survive and thrive as one. 
 
-#### **Circle Of the Spirit**<sup>UAH</sup> %% Fold %%
+#### **!!Circle Of the Spirit**<sup>UAH</sup> %% Fold %%
 
 Druids of the Circle of the Spirit are the shamans and spirit-talkers of the Old Faith. While other druids turn their focus to the emulation of the natural world or beasts, shamans learn to commune with the spirits and ethereal beings that remain hidden from mortal senses. Not satisfied by merely peering into the invisible realm, shamans learn to call spirits from it, channeling their power and using it as their own. 
 
 #### **Circle Of Succulents**<sup>UAH</sup> %% Fold %%
 
-There is one goal for druids of the Circle of Succulents: survive. They don’t necessarily aim to defeat unnatural force sin the world, but rather to outlast them, as the toughest plants in nature commonly do. These druids typically hail from warmer climate, s where succulents are common. 
+There is one goal for druids of the Circle of Succulents: survive. They don’t necessarily aim to defeat unnatural force sin the world, but rather to outlast them, as the toughest plants in nature commonly do. These druids typically hail from warmer climate, where succulents are common. 
 
 #### **Circle Of Petal**<sup>(OTG)</sup> %% Fold %%
 
@@ -1659,7 +1659,7 @@ Members of the Circle of the Petal are revered for their deep connection to the 
 
 As druids are often in tune with nature and the natural order, most see delirium as a scourge upon the world. However, a rare few see the truth: the eldritch stones are an essential part of the natural order, one which works at a cosmic scale. Druids of the Circle of Contamination use the blighted rocks and contaminating Haze as a conduit for supernatural evolution. They have embraced the chaotic power of Delirium as an extension of the inherent chaos in the natural order, spreading the Haze while wielding it as a powerful ally to fuel their spells.
 
-## *Evolutionist*
+## ~~*Evolutionist*~~
 
 *Evolutionists are ambitious warriors; who rather than building their strength through practice and training, improve their natural talents by enhancing and upgrading their body. They reject the idea that they should play the hand they’re dealt, instead seeking to change the game. Where most accept the body they are given, evolutionists aim to control it and push it past its limits. Each evolutionist has different methods and motivations for upgrading their body, but they all are connected by one common goal: evolution. (**Source: Crystalpunk Campaign Setting**)* is this needed or good? Is the flavor worth it
 
@@ -1695,7 +1695,7 @@ Your form is intensely magical—infused within you is the power of pure arcana.
 
 The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows.
 
-#### **Battle Master** %% Fold %%
+#### **!Battle Master** %% Fold %%
 
 Those who emulate the archetypal Battle Master employ martial techniques passed down through generations. To a Battle Master, combat is an academic field, sometimes including subjects beyond battle such as weaponsmithing and calligraphy. Not every fighter absorbs the lessons of history, theory, and artistry that are reflected in the Battle Master archetype, but those who do are well-rounded fighters of great skill and knowledge.
 
@@ -1707,7 +1707,7 @@ The archetypal Eldritch Knight combines the martial mastery common to all fighte
 
 An Arcane Archer studies a unique elven method of archery that weaves magic into attacks to produce supernatural effects. Arcane Archers are some of the most elite warriors among the elves. They stand watch over the fringes of elven domains, keeping a keen eye out for trespassers and using magic-infused arrows to defeat monsters and invaders before they can reach elven settlements. Over the centuries, the methods of these elf archers have been learned by members of other races who can also balance arcane aptitude with archery.
 
-#### **Cavalier** %% Fold %%
+#### **!Cavalier** %% Fold %%
 
 The archetypal Cavalier excels at mounted combat. Usually born among the nobility and raised at court, a Cavalier is equally at home leading a cavalry charge or exchanging repartee at a state dinner. Cavaliers also learn how to guard those in their charge from harm, often serving as the protectors of their superiors and of the weak. Compelled to right wrongs or earn prestige, many of these fighters leave their lives of comfort to embark on glorious adventure.
 
@@ -1715,7 +1715,7 @@ The archetypal Cavalier excels at mounted combat. Usually born among the nobilit
 
 The Samurai is a fighter who draws on an implacable fighting spirit to overcome enemies. A Samurai’s resolve is nearly unbreakable, and the enemies in a Samurai’s path have two choices: yield or die fighting.
 
-#### **Psi Warrior** %% Fold %%
+#### **!Psi Warrior** %% Fold %%
 
 Awake to the psionic power within, a Psi Warrior is a fighter who augments their physical might with psi-infused weapon strikes, telekinetic lashes, and barriers of mental force. Many githyanki train to become such warriors, as do some of the most disciplined high elves. In the world of Eberron, many young kalashtar dream of becoming Psi Warriors.
 
