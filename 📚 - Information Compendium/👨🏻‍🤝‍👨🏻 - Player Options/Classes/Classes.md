@@ -1857,13 +1857,13 @@ Who is the mightiest warrior? A fighter who is quick with a blade? A commander w
 
 Fighters of the Weaponforger Archetype are specially trained in modifying weapons to unlock their full potential. Their attacks are furious, yet calculated, and are enhanced with a variety of powerful arcane bursts. Often soldiers on the front line, these versatile warriors keep an arsenal of different weapons, ready for anything they might face.
 
-#### **!Tech Knight**<sup>(KT)</sup> %% Fold %%
+#### **Tech Knight**<sup>(KT)</sup> %% Fold %%
 
 A Tech Knight believes that it is neither brains nor brawn that determine the best fighter, but the combination thereof. Why limit yourself to what nature has provided you when you can supplement your combat superiority in unique and inventive ways that give you the edge? You build and innovate on the cutting edge… and use that edge to hew through your foes. There are few things more dangerous than weaponized creativity in the hands of someone that knows how to use it. 
 
 A Tech Knight could be called an inventor that opened the door of innovation, found the deadliest thing they could invent, and closed it once more, but that wouldn’t be accurate. They innovate continuously, improving their art, just with a highly specialized focus. Some perhaps adventure and fight to test their weapons, others perhaps turned to innovation to overcome some obstacle or seek to change the world, and others still care little for the science and engineering of the weapon, and merely cobbled together something to annihilate their foes.
 
-#### **!Adventurer**<sup>(KT)</sup> %% Fold %%
+#### ~~**!Adventurer**<sup>(KT)</sup>~~ %% Fold %%
 
 An adventurer is a well rounded fighter that specializes in preparation. They are resourceful survivors that excel at tackling a wide range of situations with preparation. They are generalists who are always useful to have around. They come from any walk of life, sharing only a spirit of adventure and knack for being useful.
 
@@ -1877,7 +1877,7 @@ A brawler is always armed and dangerous, and isn’t above using a weapon if it�
 
 Champions strive for perfection—exemplars of form and fitness, they represent masters of straightforward martial prowess.
 
-#### **Crusader**<sup>(KT)</sup> %% Fold %%
+#### **!Crusader**<sup>(KT)</sup> %% Fold %%
 
 Crusaders are fighters that serve a faith, often zealously so. They may be directly in the service of god, belong to an order of some kind, or have taken up a more personal cause. They wield powers that let them protect themselves from the evils of their foes and purge that which defies them. Some see them as similar to Paladins, but mistaking them for one can be a fatal mistake, as Crusaders are not restrained by an oath: enacting the will of the higher power they serve without such fetters.
 
@@ -1907,13 +1907,13 @@ You are one of the few who have wandered inside at some point in your life, seek
 
 In battle, blades clash and ring, shields break and snap, warriors yell and scream, and beneath it all, the sound of violence reigns supreme. One sound, however, stands out above the rest in your memory: the eternal song of the Perfect Chord. A manifestation of light and sound that bore witness to your conflict, collecting the cries of the wounded and the yells of the victors before vanishing once more. Inspired by this melody, you have dedicated your martial focus to the creation of dissonance, adjusting the vibrations of the universe to inflict a discordant cacophony of destructive power upon your adversaries. With weapons singing a tale of triumph and despair, you stand valiant before the chaos of everlasting war. 
 
-#### **Tavern Brawler**<sup>(LAL)</sup> %% Fold %%
+#### **!!Tavern Brawler**<sup>(LAL)</sup> %% Fold %%
 
 The taste of ale-soaked floorboards is a familiar flavor to Tavern Brawlers. Whether they’ve been thrown to the ground in a glorious takedown, blocked an improvised weapon with their teeth, or tackled a foe into a pile of flailing limbs, Tavern Brawlers cherish the memory of every scuffle that hasn’t been knocked out of their brains. 
 
 Though most inns and pubs decry barroom brawls as unnecessarily damaging and expensive affairs, celebrated carpenter and philosopher Lottaw Ood proposed that without the constant kerfuffles, woodworkers and the entire lumber industry might collapse. In fact, more shrewd carpentry guilds have opened “Brawl-Inns”; taverns with dedicated brawling areas and a microtransaction economy that encourages fighters to purchase chairs with which to clout their fellow patrons.
 
-#### **Couatl Herald**<sup>(TGS)</sup> %% Fold %%
+#### ~~**!Couatl Herald**<sup>(TGS)</sup>~~ %% Fold %%
 
 The Couatl Heralds were, or are, martial warriors whose intention was to neutralize threats without always resorting to deadly force. These combatants were a beloved symbol of peace in the once great city of Hearth, whose terrible destruction has been all but entirely lost to history. Perhaps you come from a long line of sequestered heralds who had escaped the city before its collapse, or maybe you found the age-old journals of one of the city’s training officers. Regardless of how you come across this knowledge, training, and virtue, a true Couatl Herald defends the lives of all: regardless of their transgressions.
 
@@ -1929,7 +1929,7 @@ Meteor knights can exercise a limited degree of control over the gravity around 
 
 Fighters touched by the plane of shadow itself reign supreme in the dark. These warriors, called Shadow Knights, cloak themselves in darkness to become elusive phantoms on the battlefield. With each strike, they unleash the dark and chilling powers of the realm of shadow, sowing fear and uncertainty in the hearts of their enemies. While evil often thrives in darkness, Shadow Knights have no singular motivation, and simply use the powers of darkness as they would a sword or shield.
 
-#### **Sea Captain**<sup>E</sup> %% Fold %%
+#### **!Sea Captain**<sup>E</sup> %% Fold %%
 
 Those of the Sea Captain archetype are swashbuckling leaders. They draw their power them from hydromancy, using their control over water to amplify their groups strength in battle. As skilled captains, these fighters are not only experts at leading a crew through the high seas but they are experts at commanding and leading a party through any situation. Using a combination of their martial abilities, inspiring words, and water magic, fighters of this archetype are sure that their party never seeks to their foes, and are often the ones to turn the tides of battle when things are looking the most bleak.
 
@@ -1937,11 +1937,11 @@ Those of the Sea Captain archetype are swashbuckling leaders. They draw their po
 
 Armigers take pride in their armor and learn to use it to deflect attacks that might otherwise prove lethal. Masters of defense, these fighters create, mend, and maintain their own shields and suits of armor. Where many warriors enter battle hoping to make quick work of their enemies, Armigers focus on outlasting their foes rather than quickly dispatching them.
 
-#### **Combat Medic**<sup>UAH</sup> %% Fold %%
+#### **!Combat Medic**<sup>UAH</sup> %% Fold %%
 
 A Combat Medic knows how to create carnage as well as any other fighter, but also learns to deal with the aftermath. These fighters know how to quickly assess a situation to determine where they are most needed, and how to use materials on hand for feats of medical skill that save lives.
 
-#### **Crusader**<sup>UAH</sup> %% Fold %%
+#### **!Crusader**<sup>UAH</sup> %% Fold %%
 
 Archetypal Crusaders faithfully execute the will and enforce the ideologies of their deities, their martial prowess augmented by divine magic. Crusaders specialize in abjuration and evocation magic to better protect the allies of their god and destroy their god’s enemies. A crusader’s greatest ambition is to build an army of faithful devotees and bring the word of their deity to all.
 
@@ -1949,29 +1949,13 @@ Archetypal Crusaders faithfully execute the will and enforce the ideologies of t
 
 You’ve turned life or death combat into a form of entertainment. While other fighters focus on honing their skills to get the job done, gladiators combine martial prowess with crowd-pleasing. The only thing you love more than a good fight is a big audience cheering you on. You’ve learned to challenge your opponents to one-on-one combat and leverage your natural showmanship for advantage in combat.
 
-#### **Gunslinger**<sup>UAH</sup> %% Fold %%
+#### ~~**Gunslinger**<sup>UAH</sup>~~ %% Fold %%
 
 You are one of a rare new breed of fighters in the world. Gunslingers master the use of firearms as they wrestle with their place in society, wander the world, and settle personal grudges. These fighters use new technology to do battle, but the reasons they fight are timeless. Gunslingers live by a code, though whether that code gives them free reign to terrorize the local town or demands they protect it at all costs depends on the path they choose for themselves. When you live and die by the gun, you’re a gunslinger.
 
-#### **Seafarer**<sup>UAH</sup> %% Fold %%
+#### **!Seafarer**<sup>UAH</sup> %% Fold %%
 
-The seafarer has gone by many a name, depending
-
-on the nature of their time upon the sea. Mariner,
-
-bluejacket, sea dog — all of these hearty sailors are tied
-
-together by a life on the waters and the trials it puts one
-
-through. The seafarer is not always the most practiced
-
-fighter, but what they lack in expertise they make up
-
-for in camaraderie. A sailor knows how to bond with
-
-their fellow crew to finish a task, and their shanty songs
-
-keep morale high through even the roughest battle.
+The seafarer has gone by many a name, depending on the nature of their time upon the sea. Mariner, bluejacket, sea dog — all of these hearty sailors are tied together by a life on the waters and the trials it puts on through. The seafarer is not always the most practiced fighter, but what they lack in expertise they make up for in camaraderie. A sailor knows how to bond with their fellow crew to finish a task, and their shanty songs keep morale high through even the roughest battle.
 
 #### **The Spirit Fused**<sup>(OTG)</sup> %% Fold %%
 
@@ -1979,7 +1963,7 @@ Those who take on the moniker of a spirit-fused fighter do not normally do so by
 
 All that is known is that the spirit's mind and body have passed on, and its essence now coexists within the fighter, granting them abilities beyond the capability of a normal spirit. Those who can harness this power can channel the latent energy into objects, which produce a magical quirk or powerful attacks. These arcane tricks are how these unconventional warriors fight and are the reason they have garnered so much attention and interest on the island.
 
-#### **Commander**<sup>(GTD)</sup> %% Fold %%
+#### ~~**!Commander**<sup>(GTD)</sup>~~ %% Fold %%
 
 Between the nations of Westemär, Elyria, and Caspia there have been countless wars fought. Many great knights, valiant soldiers, and powerful combatants have tested their mettle against man and monster alike. Amongst the brave there are always those who are born to lead, and the Commander is just that. They stand at the front of battle, uniting their allies and leading the charge against their enemies.
 
@@ -4497,7 +4481,7 @@ At the onset of their journey and as they use their powers, Oni Kin begin to see
 
 Delirium is naturally drawn to magic and can twist and augment its presence in unnatural and unpredictable ways. Some who ventured into the ruins of Drakkenheim are twisted by the eldritch powers and emerge infused with contaminated energies. They become a living vessel for the Arcane Anomalies and twisting realities found within the ruins.
 
-## *Soulshaper*
+## ~~*Soulshaper*~~
 
 *Soulshapers are mystical spiritualists who can effortlessly manipulate the spectral energy of their soul and the souls of others. Their powers are awakened by a moment of sudden enlightenment, rarely found through meditation but more commonly realized through a near-death experience. Their powers continue to develop based on the emotion that revealed them, from serene acceptance to a furious desire for revenge. (**Source: Crystalpunk Campaign Guide**)*
 
