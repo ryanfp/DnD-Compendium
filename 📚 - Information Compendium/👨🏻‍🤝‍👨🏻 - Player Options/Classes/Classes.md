@@ -1745,7 +1745,7 @@ Feared frontline warriors bearing lances and unique, streamlined armor, Celestia
 
 #### ~~**Corsair**<sup>(VSS)</sup>~~
 
-#### **Dungeoneer**<sup>(VSS)</sup> %% Fold %%
+#### **!!!Dungeoneer**<sup>(VSS)</sup> %% Fold %%
 
 Only fools would dive headfirst into an abandoned crypt filled with monsters and deathtraps, but it seems only fools emerge from such crypts laden with as much loot as they can carry. The archetypal dungeon delver is a veteran of such suicidal dungeon delves, and has become intimately familiar with the hazards therein. In the course of their adventures, such a dungeoneer will have adopted countless best practices, along with a litany of unproven superstitions which they believe keeps them alive. Principles from “always be the first one to hit the monster” to “never be the first one to touch a treasure chest” line a dungeoneer’s journal. However, it’s probably better to be paranoid and superstitious than lying at the bottom of a pit trap, incinerated by a fireball, or digested by a mimic. 
 
@@ -1757,15 +1757,15 @@ Blades sweeping around in dramatic arcs, propelled by ghostly, disembodied hands
 
 #### ~~**Arcane Marksman (AA Revision)**<sup>(UA)</sup>~~ %% Fold %%
 
-#### **Buccaneer**<sup>(TOH)</sup> %% Fold %%
+#### **!Buccaneer**<sup>(TOH)</sup> %% Fold %%
 
 Honing their martial skills in fierce ship-to-ship combat, buccaneers become skilled in both gun and blade, able to lay out opponents with savage shots, while resisting the worst that can be thrown at them.
 
-#### **Chaplain**<sup>(TOH)</sup> %% Fold %%
+#### ~~**!Chaplain**<sup>(TOH)</sup>~~ %% Fold %%
 
 Militaries and mercenary companies often contain members of various clergies among their ranks. These chaplains typically come from religious sects whose tenets promote war, healing, peace, protection, or freedom, and they tend to the emotional and physical well-being of their charges. In the eyes of your companions, you are as much a counselor and spiritual leader as you are a fellow warrior.
 
-#### **Legionary**<sup>(TOH)</sup> %% Fold %%
+#### ~~**Legionary**<sup>(TOH)</sup>~~ %% Fold %%
 
 A legionary follows the techniques of close-quarters combat developed by soldiers fighting shoulder to shoulder with their allies. This style of fighting spread far and wide, finding an honored place among the armies and mercenary companies of other races. True legionaries scoff at the image of the storybook hero standing alone against impossible odds, knowing together they can face any danger and emerge victorious.
 
@@ -1807,7 +1807,7 @@ You were a member of an order of knights dedicated to a deity of sun and light. 
 
 There are warriors who move so quickly that they seem to stop time, then there are those who actually alter time with their attacks. The timeblade augments physical attacks by manipulating temporal powers and eventually learns to step outside time itself.
 
-#### **Tunnel Watcher**<sup>(TOH)</sup> %% Fold %%
+#### **!!!Tunnel Watcher**<sup>(TOH)</sup> %% Fold %%
 
 For untold ages, the dwarves have paid in blood to keep their subterranean homes safe. The keystone to the defense of the dwarven citadels are the tunnel watchers, warriors trained in the tight, uneven paths beneath the surface of the world. While the techniques of the tunnel watchers originated with the dwarves, others see the value in such specialization. Tunnel watchers can thus be found throughout the mountainous regions of the world.
 
@@ -1817,7 +1817,7 @@ Bodyguards are highly skilled fighters that hone their skills and reflexes to re
 
 Anyone with the unflinching devotion to protect their allies can excel as a bodyguard. In the Forgotten Realms, the Masked Lords of Waterdeep often secure the services of bodyguards, as do many wealthy merchants traveling up and down the Sword Coast. In Eberron, the most famed and respected bodyguards in the Five Nations belong to House Deneith’s Defenders Guild, followed closely by distinguished members of House Medani’s Warning Guild.
 
-#### **Fencer**<sup>(TCEE)</sup> %% Fold %%
+#### ~~**!Fencer**<sup>(TCEE)</sup>~~ %% Fold %%
 
 Fencers are highly skilled duelists and swordmasters. These quick-footed warriors forego the usual heavy armor that most fighters wear, in favor of unfettered movement and flexibility. Fencers have a flair for style and panache, and usually seize victory with a cunningly precise strike that leaves their foes baffled, and shortly thereafter, bleeding. 
 
@@ -1831,11 +1831,11 @@ These fighters know how to harness their fire in order to retaliate against foes
 
 Those who mimic a phoenix have a fondness for flame and warmth. They relish sunlight and bonfires. They sometimes find themselves staring into fire, imagining enemies igniting and the wounds of allies cauterizing within the popping embers and dancing flames. Sometimes, if they stare hard enough, they can almost see feathers amid the ashes.
 
-#### **Scrapper**<sup>(TCEE)</sup> %% Fold %%
+#### **!!!Scrapper**<sup>(TCEE)</sup> %% Fold %%
 
 Some fighters hone their combat skills through sheer discipline and endless hours of training. They study tactics and techniques developed by time-honored experts in the art of war, and aspire to join their ranks. You are not one of those fighters. Scrappers learn to defend themselves on the street and in the tavern, fighting dirty and grabbing whatever’s at hand for a weapon. They’re probably grinning the whole time, too, except for when they’re spitting out teeth.
 
-#### **Scofflaw**<sup>(HWD)</sup> %% Fold %%
+#### **!!!Scofflaw**<sup>(HWD)</sup> %% Fold %%
 
 A fighter who hits hard and fights dirty, the Scofflaw balks at the ideals of honor and tradition, doing what they need to survive. Rules are made to be broken, and the Scofflaw extends this logic to their fighting style. Using every trick at their disposal to gain the upper hand against their foes, the Scofflaw cows their enemy into submission, or overwhelms their defenses with a single cheap shot. 
 
@@ -1845,7 +1845,7 @@ Scofflaws eventually trust their notorious reputation to do much of the work for
 
 The Court Guard employs the supernatural gifts of their regal benefactors to protect their charges. Whether their benefactor is a court of fey, fiends, or celestials, the court guard uses the training received from other realms to mold their fighting style. The court guard draws the attention of foes on the battlefield and debilitates enemies using these supernatural gifts.
 
-#### **Phylax**<sup>(ECHH)</sup> %% Fold %%
+#### **!Phylax**<sup>(ECHH)</sup> %% Fold %%
 
 In a land of larger than life heroes, whose exploits are praised in song in every mead hall across the land, one should never underestimate the disciplined line fighter. A phylax is among the best of line fighters whose experience has allowed them to become a master of tactics as well. Driven by discipline, duty, and a keen understanding, they know that their shield and the soldier next to them are what will turn the tide of a battle, not individual heroics.
 
@@ -1853,21 +1853,21 @@ In a land of larger than life heroes, whose exploits are praised in song in ever
 
 Who is the mightiest warrior? A fighter who is quick with a blade? A commander who can rally the troops and lead an army to victory? A pious knight? No, the warrior who wields not blade, wits, or magic but a hero’s soul will always prevail. Relentlessly fighting for glory, capable of perfectly adapting to any situation, always pushing onwards, a myrmidon decides their own fate. Others can squabble over the reasons why they failed, comparing training and styles, blaming each other as well as themselves, while the myrmidon never loses sight of the real prize: living on forever through deeds that echo through eternity.
 
-#### **Weaponforger**<sup>(CCS)</sup> %% Fold %%
+#### **!Weaponforger**<sup>(CCS)</sup> %% Fold %%
 
 Fighters of the Weaponforger Archetype are specially trained in modifying weapons to unlock their full potential. Their attacks are furious, yet calculated, and are enhanced with a variety of powerful arcane bursts. Often soldiers on the front line, these versatile warriors keep an arsenal of different weapons, ready for anything they might face.
 
-#### **Tech Knight**<sup>(KT)</sup> %% Fold %%
+#### **!Tech Knight**<sup>(KT)</sup> %% Fold %%
 
 A Tech Knight believes that it is neither brains nor brawn that determine the best fighter, but the combination thereof. Why limit yourself to what nature has provided you when you can supplement your combat superiority in unique and inventive ways that give you the edge? You build and innovate on the cutting edge… and use that edge to hew through your foes. There are few things more dangerous than weaponized creativity in the hands of someone that knows how to use it. 
 
 A Tech Knight could be called an inventor that opened the door of innovation, found the deadliest thing they could invent, and closed it once more, but that wouldn’t be accurate. They innovate continuously, improving their art, just with a highly specialized focus. Some perhaps adventure and fight to test their weapons, others perhaps turned to innovation to overcome some obstacle or seek to change the world, and others still care little for the science and engineering of the weapon, and merely cobbled together something to annihilate their foes.
 
-#### **Adventurer**<sup>(KT)</sup> %% Fold %%
+#### **!Adventurer**<sup>(KT)</sup> %% Fold %%
 
 An adventurer is a well rounded fighter that specializes in preparation. They are resourceful survivors that excel at tackling a wide range of situations with preparation. They are generalists who are always useful to have around. They come from any walk of life, sharing only a spirit of adventure and knack for being useful.
 
-#### **Brawler**<sup>(KT)</sup> %% Fold %%
+#### ~~**Brawler**<sup>(KT)</sup>~~ %% Fold %%
 
 A brawler is a fighter that takes a holistic approach to beating things down. They are not the specialized martial artists of monks, but can throw a punch… or a chair. They specialize in being resourceful and, more importantly, strong. Ranging from brutish thugs and drunks to witty chaps who had to learn to wag their fists as fast as their tongue to keep their head on their shoulders. 
 
@@ -1885,7 +1885,7 @@ Crusaders are fighters that serve a faith, often zealously so. They may be direc
 
 A Spiritsworn fighter is one that masters their martial prowess in tandem with a special spirit weapon, forming an unbreakable bond of shared growth and becoming a peerless martial team.
 
-#### **Green Knight**<sup>(KT)</sup> %% Fold %%
+#### ~~**Green Knight**<sup>(KT)</sup>~~ %% Fold %%
 
 The Green Knight is a fighter who draws on the power of nature to imbue their attacks with the strength of the earth itself. They are fierce defenders of the natural world, sworn to protect it at all costs.
 
