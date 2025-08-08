@@ -17,7 +17,7 @@ obsidianUIMode: preview
 
 # Curse of Animation
 
-*[accursed](Accursed.md): Conquered Curse*  
+*[Accursed](accursed.md): Conquered Curse*  
 *Source: The Ultimate Adventurer's Handbook p. 165*  
 
 > [!tldr] Class and Feature Progression

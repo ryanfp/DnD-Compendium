@@ -1,0 +1,10 @@
+{
+  "id": "link-display-text-replacer",
+  "name": "Link Display Text Replacer",
+  "version": "1.0.1",
+  "minAppVersion": "0.15.0",
+  "description": "Automatically replaces internal link text with frontmatter title",
+  "author": "ryanfp",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}

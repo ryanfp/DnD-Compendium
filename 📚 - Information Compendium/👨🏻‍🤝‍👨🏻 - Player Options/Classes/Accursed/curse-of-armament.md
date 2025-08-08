@@ -1,9 +1,9 @@
 ---
 title: Curse of the Armament
 created: 2025/05/14 at 21:46
-updated: 2025/08/01 at 00:57
+updated: 2025/08/07 at 21:46
 permalink: curse-of-armament-accursed
-source: The Ultimate Adventurer's Handbook
+source: "The Ultimate Adventurer's Handbook"
 aliases:
   - Curse of the Armament
   - curse-of-the-armament

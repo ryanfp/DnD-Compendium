@@ -1,0 +1,14 @@
+/* Styling for links with frontmatter display text */
+.has-frontmatter-display {
+  color: var(--text-accent);
+  border-bottom: 1px dashed var(--text-accent);
+}
+
+/* Add subtle indicator */
+.has-frontmatter-display::after {
+  content: "ᶠ";
+  font-size: 0.7em;
+  vertical-align: super;
+  opacity: 0.6;
+  margin-left: 2px;
+}

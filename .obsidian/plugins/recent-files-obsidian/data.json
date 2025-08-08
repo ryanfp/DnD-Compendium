@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "curse-of-armament",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-armament.md"
+    },
+    {
       "basename": "Classes",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
     },
     {
       "basename": "Accursed",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md"
+    },
+    {
+      "basename": "curse-of-animation",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md"
+    },
+    {
+      "basename": "alchemist",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist.md"
     },
     {
       "basename": "ideas",
@@ -187,18 +199,6 @@
     {
       "basename": "Haunted",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Haunted.md"
-    },
-    {
-      "basename": "clockwork-soul",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/clockwork-soul.md"
-    },
-    {
-      "basename": "Wretched Bloodline",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/Wretched Bloodline.md"
-    },
-    {
-      "basename": "wild-magic",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/wild-magic.md"
     }
   ],
   "omittedPaths": [],
