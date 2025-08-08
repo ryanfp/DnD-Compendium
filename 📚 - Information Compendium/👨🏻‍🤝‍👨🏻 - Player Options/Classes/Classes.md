@@ -1,10 +1,10 @@
 ---
+title: Classes
+created: 2025/05/14 at 22:29
+updated: 2025/08/07 at 21:16
+permalink: classes
 aliases:
   - Classes
-created: 2025/05/14 at 22:29
-updated: 2025/07/23 at 23:26
-permalink: classes
-title: Classes
 ---
 
 *A compiled list of all the various classes and subclasses scattered throughout my ever-growing collection of homebrew. A brief description is included. Their sources are listed with each subclass if they’re not in base 5e*
@@ -45,9 +45,9 @@ The Ultimate Adventurer’s Handbook (<sup>UAG</sup>)
 GM Binder (<sup>GMB</sup>)
 SoManyRobots (<sup>SMR</sup>)
 
-## [[accursed]]
+## [[Accursed|accursed]]
 
-*Afflicted by a horrific curse but finds a way to take control, alleviating the worst of its effects and wielding its power for themselves. **(Source: The Ultimate Adventurer’s Handbook)*
+*Afflicted by a horrific curse but finds a way to take control, alleviating the worst of its effects and wielding its power for themselves. (**Source: The Ultimate Adventurer’s Handbook**)*
 
 *An accursed dedicates their time and willpower to find a way to make the magic of their curse work for them, though each in their own way. Some accurseds experiment in a lab or scour the world for forgotten lore, trying to find a ritual or alchemical concoction. Others turn to nature or faith, using prayer, meditation, or mindfulness to synthesize the curse's magic into their own being. And others still use sheer stubbornness to bend the curse to their will. Regardless of method, an accursed is one who has conquered their curse, drawing on its magic while managing its lingering side effects.*
 
@@ -59,39 +59,35 @@ SoManyRobots (<sup>SMR</sup>)
 
 While still alive, your skeleton was animated with dark magic by a cruel and powerful necromancer, causing it to have a desire to break free and rebel. This subclass deals with calcium manipulation to create bone-weapons and other augmentations/tools.
 
-#### **Curse Of The Armament** %% Fold %%
+#### **[[curse-of-armament|Curse Of The Armament]]** %% Fold %%
 
 You were cursed by a magical or sentient object. For some reason, you’ve chosen to remain attuned to this object. This subclass lets you increase in power by scaling your weapon attacks and giving it powerful abilities, such as auto-returning when thrown.
 
-#### **Curse Of Combustion** %% Fold %%
+#### **[[curse-of-combustion|Curse Of Combustion]]** %% Fold %%
 
 Your body is an explosive with a fuse of unknown length, most likely due to angering a divine or infernal being associated with fire. This subclass grants you abilities dealing with fire, such as becoming a ball of fire or granting you fire damage on hit.
 
-#### **Curse Of The Created** %% Fold %%
+#### **[[curse-of-created|Curse of the Created]]** %% Fold %%
 
 You were not born, nor were you cursed. Instead you lurched to life with electricity crackling in the air around you. This subclass is based on Frankenstein, granting you lightning augments to abilities. 
 
-#### **!Curse Of Immortality** %% Fold %%
-
-Literally immortal, you return to life if dead at the start of each day. Jack of all trades with lots of knowledge due to being alive for forever
-
-#### **Curse Of Misfortune** %% Fold %%
+#### **[[curse-of-misfortune|Curse Of Misfortune]]** %% Fold %%
 
 Cursed with bad luck, however you can also manipulate dice rolls and other “games of chance”. 
 
-#### **Curse Of Mummification** %% Fold %%
+#### **[[curse-of-mummification|Curse of Mummification]]** %% Fold %%
 
 You were turned into a mummy upon death, giving you necrotic damage and fear abilities.
 
-#### **Curse Of Petrification** %% Fold %%
+#### **[[curse-of-petrification|Curse of Petrification]]** %% Fold %%
 
 You were turned into a statue, and can change into this form at will. Grants you damage resistance and powerful slams and other weight/inertia based abilities.
 
-#### **Curse Of Somnolence** %% Fold %%
+#### **[[curse-of-somnolence|Curse of Somnolence]]** %% Fold %%
 
 You were cursed by a fey to sleep forever, fighting to stay awake and live your life. You can give enemies fatigue, learn one-time use spells and negate exhaustion penalties.
 
-## Alchemist
+## [[alchemist|Alchemist]]
 
 *Experiments with a wide array of scientific discoveries and lethal bombs. Combining science and magic together in unholy concoctions, an alchemist brews up explosives and transmutative potions on the fly. (**Source: Valda’s Spire of Secrets**)* 
 
@@ -101,31 +97,31 @@ You were cursed by a fey to sleep forever, fighting to stay awake and live your 
 
 *Some focus on the healing arts, and some focus on destruction, while others focus on research or potion-brewing. Fields of study are as varied as the alchemists who research them and have applications equally as diverse.*
 
-#### **!Amorist Field** %% Fold %%
+#### **[[amorist|Amorist Field]]** %% Fold %%
 
 You study mind-affecting alchemy, specializing in the brewing of potions that produce strong emotional responses in their drinkers. While love potions are by far the most popular product, you can craft pungent pheromone bombs that can soften the hearts of even the most terrible monsters.
 
-#### **Apothecary Field** %% Fold %%
+#### **[[apothecary|Apothecary Field]]** %% Fold %%
 
 You study the science of apothecary, specializing in potions and herbology that relate to healing. You can create a steady source of income using your skills, and you’re an invaluable member in any adventuring party.
 
-#### **Dynamo Engineer Field** %% Fold %%
+#### **[[dynamo-engineer|Dynamo Engineer Field]]** %% Fold %%
 
 You study the concepts of an early alchemical thesis: *if the fundamental energy of magic could be captured within physical substance, there would be no need for magic-users*. You create and iterate small devices known as dynamos, which store and manipulate arcane energy.
 
-#### **Mad Bomber Field** %% Fold %%
+#### **[[mad-bomber|Mad Bomber Field]]** %% Fold %%
 
 You study explosives and pyrotechnics, specializing in things that burn, blast and blow things up. You are constantly trying to improve the lethality and effectiveness of your IEDs, devoted to finding the perfect explosion.
 
-#### **Mutagenist Field** %% Fold %%
+#### **[[mutagenist|Mutagenist]]** %% Fold %%
 
 You study the transmutative properties of elixirs and potions, specializing in the creation of mutagens. The keystone of transmutation, mutagens transform your body, granting supernatural strength or speed, additional limbs, or turning your skin into a stone-like material.
 
-#### **!Venomsmith Field** %% Fold %%
+#### **[[venomsmith|Venomsmith Field]]** %% Fold %%
 
 You study the the effects of various poisons and coatings, specializing in the art of crafting deadly and debilitating poisons. You pursue the darker side of alchemy, lending your expertise to assassin’s guilds or political rivals in exchange for money, power, and the elevation of your research.
 
-#### **Xenoalchemist Field** %% Fold %%
+#### **[[xenoalchemist|Xenoalchemist Field]]** %% Fold %%
 
 You study the relation between alchemy and the body, more specifically your body. Specializing in experimenting on themselves, you modify or even attach new body parts, augmenting your abilities and toeing the line of morality.
 
@@ -133,15 +129,15 @@ You study the relation between alchemy and the body, more specifically your body
 
 Masterclass CODEX
 
-	~~Creation~~
+~~Creation~~
 
-	~~Destruction~~
+~~Destruction~~
 
-	~~Illumination~~
+~~Illumination~~
 
-	~~Mutation~~
+~~Mutation~~
 
-	~~Regeneration~~
+~~Regeneration~~
 
 ## Artificer
 
@@ -1477,10 +1473,15 @@ The sworn enemies of Circle of the Shapeless druids are the so-called ooze lords
 Founded in deserts, badlands, and grasslands, where wind dominates and controls the landscape, the teachings of the Circle of Wind have spread far and wide, like a mighty storm. Druids who follow this circle’s teachings embrace the mercurial winds to create several effects.
 
 Vizier of the Winds
+
 Starting at 10th level, you can ask the winds one
+
 question, and they whisper secrets back to you. You
+
 can cast commune without preparing the spell or
+
 expending a spell slot. Once you use this feature, you
+
 can’t use it again until you finish a long rest.
 
 #### **Circle Of Bough**<sup>(TCEE)</sup> %% Fold %%
@@ -5480,6 +5481,7 @@ Sources:
 - ~~Steinhardt’s Guide to the Eldritch Hunt~~ %% fold %%
 
 	- ~~~**Jaeger Class**~~~
+
 
 
 

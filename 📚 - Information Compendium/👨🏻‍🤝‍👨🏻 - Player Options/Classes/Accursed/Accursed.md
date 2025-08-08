@@ -1,10 +1,11 @@
 ---
 title: Accursed
 created: 2025/05/14 at 21:46
-updated: 2025/08/01 at 00:57
+updated: 2025/08/07 at 21:18
 permalink: accursed
 source: "The Ultimate Adventurer's Handbook"
 aliases:
+  - accursed
   - Accursed
 tags:
   - ttrpg-cli/class/accursed

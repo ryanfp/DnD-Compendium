@@ -5,6 +5,10 @@
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
     },
     {
+      "basename": "Accursed",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/Accursed.md"
+    },
+    {
       "basename": "ideas",
       "path": "ideas.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "wild-magic",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/wild-magic.md"
-    },
-    {
-      "basename": "storm-sorcery",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/storm-sorcery.md"
     }
   ],
   "omittedPaths": [],

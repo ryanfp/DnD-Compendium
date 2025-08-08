@@ -15,7 +15,7 @@ obsidianUIMode: preview
 
 # Curse of Misfortune
 
-*[accursed](accursed.md): Conquered Curse*  
+*[accursed](Accursed.md): Conquered Curse*  
 *Source: The Ultimate Adventurer's Handbook p. 174*  
 
 > [!tldr] Class and Feature Progression
