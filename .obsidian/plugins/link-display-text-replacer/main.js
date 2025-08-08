@@ -1,6 +1,6 @@
-import { Plugin, MarkdownView, PluginSettingTab, Setting, Notice } from 'obsidian';
+const { Plugin, MarkdownView, PluginSettingTab, Setting, Notice } = require('obsidian');
 
-export default class LinkDisplayTextReplacer extends Plugin {
+class LinkDisplayTextReplacer extends Plugin {
   async onload() {
     console.log('Loading Link Display Text Replacer plugin');
 
@@ -173,3 +173,5 @@ class LinkDisplayTextSettingsTab extends PluginSettingTab {
         }));
   }
 }
+
+module.exports = LinkDisplayTextReplacer;

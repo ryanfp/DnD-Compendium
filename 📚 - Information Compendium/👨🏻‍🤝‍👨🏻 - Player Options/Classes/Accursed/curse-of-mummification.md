@@ -15,7 +15,7 @@ obsidianUIMode: preview
 
 # Curse of Mummification
 
-*[accursed](Accursed.md): Conquered Curse*  
+*[Accursed](accursed.md): Conquered Curse*  
 *Source: The Ultimate Adventurer's Handbook p. 176*  
 
 > [!tldr] Class and Feature Progression

@@ -1,9 +1,9 @@
 ---
 title: Curse of Misfortune
 created: 2025/05/14 at 21:46
-updated: 2025/08/01 at 00:56
+updated: 2025/08/07 at 22:07
 permalink: curse-of-misfortune-accursed
-source: The Ultimate Adventurer's Handbook
+source: "The Ultimate Adventurer's Handbook"
 aliases:
   - Curse of Misfortune
 tags:
@@ -15,7 +15,7 @@ obsidianUIMode: preview
 
 # Curse of Misfortune
 
-*[accursed](Accursed.md): Conquered Curse*  
+*[Accursed](accursed.md): Conquered Curse*  
 *Source: The Ultimate Adventurer's Handbook p. 174*  
 
 > [!tldr] Class and Feature Progression

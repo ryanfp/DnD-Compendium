@@ -1,9 +1,9 @@
 ---
 title: Dynamo Engineer
 created: 2025/06/13 at 22:25
-updated: 2025/08/01 at 00:54
+updated: 2025/08/07 at 22:08
 permalink: dynamo-engineer-alchemist
-source: Valda's Spire of Secrets
+source: "Valda's Spire of Secrets"
 aliases:
   - Dynamo Engineer
   - Dynamo Engineer Field

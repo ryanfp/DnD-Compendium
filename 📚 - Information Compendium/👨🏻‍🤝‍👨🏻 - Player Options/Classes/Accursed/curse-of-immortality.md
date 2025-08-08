@@ -15,7 +15,7 @@ obsidianUIMode: preview
 
 # Curse of Immortality
 
-*[accursed](Accursed.md): Conquered Curse*  
+*[Accursed](accursed.md): Conquered Curse*  
 *Source: The Ultimate Adventurer's Handbook p. 172*  
 
 > [!summary] Class and Feature Progression

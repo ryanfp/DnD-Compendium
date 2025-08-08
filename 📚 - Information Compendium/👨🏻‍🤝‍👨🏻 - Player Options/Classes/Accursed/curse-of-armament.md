@@ -16,7 +16,7 @@ obsidianUIMode: preview
 
 # Curse of the Armament
 
-*[accursed](Accursed.md): Conquered Curse*  
+*[Accursed](accursed.md): Conquered Curse*  
 *Source: The Ultimate Adventurer's Handbook p. 167*  
 
 > [!tldr] Class and Feature Progression

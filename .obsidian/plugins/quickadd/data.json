@@ -48,6 +48,13 @@
       "type": "Macro",
       "command": true,
       "macroId": "48770f67-1d8d-4d76-8826-a3fafb1c463a"
+    },
+    {
+      "id": "91469814-3331-4ba0-b0cf-fd7bfd36f57c",
+      "name": "Replace Link Display Text",
+      "type": "Macro",
+      "command": true,
+      "macroId": "4ada7591-7b17-4fbb-86a2-4ec56931d32e"
     }
   ],
   "macros": [
@@ -200,6 +207,20 @@
           "type": "UserScript",
           "id": "51a8dfd0-f7b0-483d-a879-958816ab1901",
           "path": "z_Scripts/renameFromPermalink.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Replace Link Display Text",
+      "id": "4ada7591-7b17-4fbb-86a2-4ec56931d32e",
+      "commands": [
+        {
+          "name": "link-title-replacer",
+          "type": "UserScript",
+          "id": "e303e435-b92e-4970-a37b-3a3a7b06354d",
+          "path": "z_Scripts/link-title-replacer.js",
           "settings": {}
         }
       ],
