@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "new-note-for-testing",
+      "path": "new-note-for-testing.md"
+    },
+    {
+      "basename": "filename-test",
+      "path": "filename-test.md"
+    },
+    {
       "basename": "alchemist",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/alchemist.md"
-    },
-    {
-      "basename": "artificer",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/artificer.md"
-    },
-    {
-      "basename": "Classes",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
     },
     {
       "basename": "battle-smith",
@@ -21,8 +21,16 @@
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/artillerist.md"
     },
     {
+      "basename": "artificer",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/artificer.md"
+    },
+    {
       "basename": "armorer",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/armorer.md"
+    },
+    {
+      "basename": "Classes",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
     },
     {
       "basename": "curse-of-petrification",
@@ -191,14 +199,6 @@
     {
       "basename": "warlock-2024",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/warlock-2024.md"
-    },
-    {
-      "basename": "archfey-patron-2024",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/archfey-patron-2024.md"
-    },
-    {
-      "basename": "celestial-patron-2024",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/celestial-patron-2024.md"
     }
   ],
   "omittedPaths": [],

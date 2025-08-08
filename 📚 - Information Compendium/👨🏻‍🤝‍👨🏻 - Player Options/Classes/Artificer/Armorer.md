@@ -128,13 +128,13 @@ You customize your armor for subtle undertakings. It has the following features:
 
 - **Dampening Field**  
 
-    You have advantage on Dexterity ([Skills](/3-Content/Rules/skills.md#Stealth)) checks. If the armor normally imposes disadvantage on such checks, the advantage and disadvantage cancel each other, as normal.  
+    You have advantage on Dexterity ([Stealth](/3-Content/Rules/skills.md#Stealth)) checks. If the armor normally imposes disadvantage on such checks, the advantage and disadvantage cancel each other, as normal.  
 
 ### Extra Attack (Level 5)
 
 *5th-level Armorer feature*
 
-You can attack twice, rather than once, whenever you take the [Actions](/3-Content/Rules/actions.md#Attack) action on your turn.
+You can attack twice, rather than once, whenever you take the [Attack](/3-Content/Rules/actions.md#Attack) action on your turn.
 
 ### Armor Modifications (Level 9)
 
