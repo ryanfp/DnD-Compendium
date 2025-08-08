@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "new-note-for-testing",
-      "path": "new-note-for-testing.md"
+      "basename": "blood-hunter",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/blood-hunter/blood-hunter.md"
     },
     {
-      "basename": "filename-test",
-      "path": "filename-test.md"
+      "basename": "beastheart",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/beastheart/beastheart.md"
+    },
+    {
+      "basename": "accursed",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/accursed.md"
+    },
+    {
+      "basename": "apothecary",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/apothecary.md"
+    },
+    {
+      "basename": "amorist",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/amorist.md"
+    },
+    {
+      "basename": "alchemist",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist.md"
+    },
+    {
+      "basename": "list-optfeaturetype-di",
+      "path": "3-Content/Compendiums/lists/list-optfeaturetype-di.md"
     },
     {
       "basename": "alchemist",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/alchemist.md"
+    },
+    {
+      "basename": "new-note-for-testing 12",
+      "path": "test folder22/new-note-for-testing 12.md"
+    },
+    {
+      "basename": "new-note-for-testing",
+      "path": "test folder22/new-note-for-testing.md"
+    },
+    {
+      "basename": "filename-test",
+      "path": "filename-test.md"
     },
     {
       "basename": "battle-smith",
@@ -61,18 +93,6 @@
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/dynamo-engineer.md"
     },
     {
-      "basename": "apothecary",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/apothecary.md"
-    },
-    {
-      "basename": "amorist",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/amorist.md"
-    },
-    {
-      "basename": "alchemist",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist.md"
-    },
-    {
       "basename": "curse-of-misfortune",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-misfortune.md"
     },
@@ -95,10 +115,6 @@
     {
       "basename": "curse-of-animation",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md"
-    },
-    {
-      "basename": "accursed",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/accursed.md"
     },
     {
       "basename": "ideas",
@@ -183,22 +199,6 @@
     {
       "basename": "archaeologist",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Savant/archaeologist.md"
-    },
-    {
-      "basename": "misfortune-bringer",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Rogue/misfortune-bringer.md"
-    },
-    {
-      "basename": "arcane-trickster",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Rogue/arcane-trickster.md"
-    },
-    {
-      "basename": "undying",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/undying.md"
-    },
-    {
-      "basename": "warlock-2024",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/warlock-2024.md"
     }
   ],
   "omittedPaths": [],

@@ -9,6 +9,9 @@ module.exports = async (params) => {
     console.log(`Link Title Replacer: ${message}`);
   }
   
+  // List of common words to ignore in similarity comparison (defined once globally)
+  const commonWords = ['the', 'a', 'an', 'of', 'in', 'on', 'at', 'to', 'for', 'with', 'by', 'as'];
+  
   // Process a single file
   async function processFile(file) {
     if (file.extension !== 'md') return false;
@@ -135,9 +138,6 @@ module.exports = async (params) => {
   
   // Check if text appears to be a filename rather than a custom title
   function isFilenameText(text) {
-    // List of common words to ignore in similarity comparison
-    const commonWords = ['the', 'a', 'an', 'of', 'in', 'on', 'at', 'to', 'for', 'with', 'by', 'as'];
-    
     // Normalize text for checking
     const normalizedText = text.toLowerCase()
       .replace(/[_\-\.]/g, ' ')
@@ -184,17 +184,13 @@ module.exports = async (params) => {
   
   // Check if display text is similar to the filename (fuzzy matching)
   function isSimilarText(displayText, filename) {
-    // List of common words to ignore in similarity comparison
-    const commonWords = ['the', 'a', 'an', 'of', 'in', 'on', 'at', 'to', 'for', 'with', 'by', 'as'];
-    
-    // Normalize both strings: lowercase, remove hyphens/underscores, and remove file extension
+    // Normalize both strings and remove common words
     const normalizeText = (text) => {
       const normalized = text.toLowerCase()
         .replace(/[_\-\.]/g, ' ')
         .replace(/\s+/g, ' ')
         .trim();
       
-      // Remove common words for comparison
       let words = normalized.split(' ');
       words = words.filter(word => !commonWords.includes(word));
       return words.join(' ');
@@ -223,9 +219,9 @@ module.exports = async (params) => {
     
     // If most significant words match (>80% similarity), consider it a match
     // Using a higher threshold (80% vs previous 70%) to be more selective
-    const commonWords = displayWords.filter(w => filenameWords.includes(w)).length;
+    const matchingWords = displayWords.filter(w => filenameWords.includes(w)).length;
     const maxWords = Math.max(displayWords.length, filenameWords.length);
-    if (commonWords / maxWords > 0.8) {
+    if (matchingWords / maxWords > 0.8) {
       return true;
     }
     
