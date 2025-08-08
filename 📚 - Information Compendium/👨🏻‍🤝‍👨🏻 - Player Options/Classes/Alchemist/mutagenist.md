@@ -1,9 +1,9 @@
 ---
 title: Mutagenist
 created: 2025/06/13 at 22:25
-updated: 2025/08/01 at 00:54
+updated: 2025/08/07 at 22:28
 permalink: mutagenist-alchemist
-source: Valda's Spire of Secrets
+source: "Valda's Spire of Secrets"
 aliases:
   - Mutagenist
   - Mutagenist Field
@@ -17,7 +17,7 @@ obsidianUIMode: preview
 
 # Mutagenist
 
-*[alchemist](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Alchemist/alchemist.md): Field of Study*  
+*[Alchemist](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Alchemist/alchemist.md): Field of Study*  
 *Source: Valda's Spire of Secrets*  
 
 > [!tldr] Class and Feature Progression

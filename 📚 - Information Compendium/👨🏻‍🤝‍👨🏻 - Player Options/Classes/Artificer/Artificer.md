@@ -1,9 +1,9 @@
 ---
 title: Artificer
 created: 2025/06/15 at 15:34
-updated: 2025/08/01 at 00:55
+updated: 2025/08/07 at 22:36
 permalink: artificer
-source: Tasha's Cauldron of Everything
+source: "Tasha's Cauldron of Everything"
 aliases:
   - Artificer
 tags:
@@ -57,10 +57,10 @@ obsidianUIMode: preview
 ## Starting Artificer
 
 - **Saving Throws**: Constitution, Intelligence
-- **Armor**: [light armor](/3-Content/Rules/item-types.md#Light%20Armor), [medium armor](/3-Content/Rules/item-types.md#Medium%20Armor), [shields](/3-Content/Compendiums/items/shield.md)
+- **Armor**: [Item Types](/3-Content/Rules/item-types.md#Light%20Armor), [Item Types](/3-Content/Rules/item-types.md#Medium%20Armor), [shields](/3-Content/Compendiums/items/shield.md)
 - **Weapons**: simple weapons, firearms (optional)
 - **Tools**: [thieves' tools](/3-Content/Compendiums/items/thieves-tools-xphb.md), [tinker's tools](/3-Content/Compendiums/items/tinkers-tools-xphb.md), one type of [artisan's tools](/3-Content/Compendiums/items/artisans-tools-xphb.md) of your choice
-- **Skills**: choose 2 from [Arcana](/3-Content/Rules/skills.md#Arcana), [History](/3-Content/Rules/skills.md#History), [Investigation](/3-Content/Rules/skills.md#Investigation), [Medicine](/3-Content/Rules/skills.md#Medicine), [Nature](/3-Content/Rules/skills.md#Nature), [Perception](/3-Content/Rules/skills.md#Perception), and [Sleight of Hand](/3-Content/Rules/skills.md#Sleight%20of%20Hand)
+- **Skills**: choose 2 from [Skills](/3-Content/Rules/skills.md#Arcana), [Skills](/3-Content/Rules/skills.md#History), [Skills](/3-Content/Rules/skills.md#Investigation), [Skills](/3-Content/Rules/skills.md#Medicine), [Skills](/3-Content/Rules/skills.md#Nature), [Skills](/3-Content/Rules/skills.md#Perception), and [Skills](/3-Content/Rules/skills.md#Sleight%20of%20Hand)
 
 You start with the following items, plus anything provided by your background.
 
@@ -77,7 +77,7 @@ Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
-- **Armor**: [light armor](/3-Content/Rules/item-types.md#Light%20Armor), [medium armor](/3-Content/Rules/item-types.md#Medium%20Armor), [shields](/3-Content/Compendiums/items/shield.md)
+- **Armor**: [Item Types](/3-Content/Rules/item-types.md#Light%20Armor), [Item Types](/3-Content/Rules/item-types.md#Medium%20Armor), [shields](/3-Content/Compendiums/items/shield.md)
 - **Tools**: [thieves' tools](/3-Content/Compendiums/items/thieves-tools-xphb.md), [tinker's tools](/3-Content/Compendiums/items/tinkers-tools-xphb.md)
 
 ## Artificer
@@ -153,7 +153,7 @@ When creating an artificer, think about your character's relationship with the a
 
 _Source: Eberron: Rising from the Last War_
 
-You can make an artificer quickly by following these suggestions. First, put your highest ability score in Intelligence, followed by Constitution or Dexterity. Second, choose the [guild artisan](/3-Content/Compendiums/backgrounds/guild-artisan.md) background.
+You can make an artificer quickly by following these suggestions. First, put your highest ability score in Intelligence, followed by Constitution or Dexterity. Second, choose the [Guild Artisan](/3-Content/Compendiums/backgrounds/guild-artisan.md) background.
 
 #### Optional Rule: Multiclassing
 
@@ -351,7 +351,7 @@ You've achieved a profound understanding of how to use and make magic items:
 
 You can now store a spell in an object. Whenever you finish a long rest, you can touch one simple or martial weapon or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a 1stor 2nd-level spell from the artificer spell list that requires 1 action to cast (you needn't have it prepared).
 
-While holding the object, a creature can take an action to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires [concentration](/3-Content/Rules/conditions.md#Concentration), the creature must concentrate. The spell stays in the object until it's been used a number of times equal to twice your Intelligence modifier (minimum of twice) or until you use this feature again to store a spell in an object.
+While holding the object, a creature can take an action to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires [Conditions](/3-Content/Rules/conditions.md#Concentration), the creature must concentrate. The spell stays in the object until it's been used a number of times equal to twice your Intelligence modifier (minimum of twice) or until you use this feature again to store a spell in an object.
 
 ### Ability Score Improvement (Level 12)
 

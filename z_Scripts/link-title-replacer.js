@@ -4,6 +4,11 @@
 module.exports = async (params) => {
   const { app, quickAddApi } = params;
   
+  // Simple console logging function
+  function log(message) {
+    console.log(`Link Title Replacer: ${message}`);
+  }
+  
   // Process a single file
   async function processFile(file) {
     if (file.extension !== 'md') return false;
@@ -28,12 +33,29 @@ module.exports = async (params) => {
         
         // Only process links without custom alias
         if (alias === undefined) {
+          // Skip if link references a heading
+          if (link.includes('#')) {
+            log(`Skipping wiki link with heading reference: ${link}`);
+            continue;
+          }
+          
+          // Get just the filename without path for link
+          const fileName = link.split(/[\/\\]/).pop();
+          
+          // If the link text already appears to be a custom title (not just the filename)
+          // then skip it - we only want to replace file-like display text
+          if (!isFilenameText(fileName)) {
+            log(`Skipping wiki link with apparent custom text: ${link}`);
+            continue;
+          }
+          
           const title = await getTitleFromLink(link);
-          if (title && shouldReplaceText(link, title)) {
+          if (title && shouldReplaceText(fileName, title)) {
             // Replace with new title
             const replacement = `[[${link}|${title}]]`;
             content = content.replace(fullMatch, replacement);
             modified = true;
+            log(`Updated wiki link: ${link} -> ${title}`);
           }
         }
       }
@@ -42,24 +64,59 @@ module.exports = async (params) => {
       const mdMatches = [...content.matchAll(markdownLinkRegex)];
       for (const match of mdMatches) {
         const fullMatch = match[0];
-        const text = match[1];
-        const link = match[2];
+        const displayText = match[1];
+        let link = match[2];
+        
+        // Handle URL encoded characters
+        try {
+          link = decodeURIComponent(link);
+        } catch (e) {
+          // If decoding fails, use original link
+        }
+        
+        // Extract the base link (without heading reference)
+        const hasHeading = link.includes('#');
+        const baseLink = hasHeading ? link.split('#')[0] : link;
         
         // Clean the link (remove .md extension if present)
-        const cleanLink = link.replace(/\.md$/, '');
+        const cleanLink = baseLink.replace(/\.md$/, '');
         
-        // Get the filename from the link (handle paths)
-        const fileName = cleanLink.split('/').pop();
+        // Get just the filename without path for comparison
+        // Handle both forward and back slashes
+        const fileName = cleanLink.split(/[\/\\]/).pop();
         
-        // Check if display text is roughly the same as the filename
-        if (isSimilarText(text, fileName)) {
-          const title = await getTitleFromLink(cleanLink);
-          if (title) {
-            // Replace with new title
-            const replacement = `[${title}](${link})`;
-            content = content.replace(fullMatch, replacement);
-            modified = true;
+        // If link has a heading and the display text matches the heading (not the filename)
+        // then we should skip this link as it's already properly customized
+        if (hasHeading) {
+          const headingPart = link.split('#')[1];
+          // Decode the heading part for comparison
+          try {
+            const decodedHeading = decodeURIComponent(headingPart);
+            // Check if display text is similar to the heading
+            if (isSimilarText(displayText, decodedHeading)) {
+              log(`Skipping link with heading-matching display text: ${fullMatch}`);
+              continue;
+            }
+          } catch (e) {
+            // If decoding fails, continue with normal processing
           }
+        }
+        
+        // Skip if the display text appears to be intentionally customized
+        // (Check if it's not similar to filename or if it appears to be a custom title)
+        if (!isSimilarText(displayText, fileName) || !isFilenameText(displayText)) {
+          log(`Skipping markdown link with apparent custom text: ${fullMatch}`);
+          continue;
+        }
+        
+        // Use the original link for lookup (without the heading part)
+        const title = await getTitleFromLink(cleanLink);
+        if (title && shouldReplaceText(displayText, title)) {
+          // Replace with new title, but keep the original link including heading reference
+          const replacement = `[${title}](${match[2]})`;
+          content = content.replace(fullMatch, replacement);
+          modified = true;
+          log(`Updated markdown link: ${displayText} -> ${title}`);
         }
       }
       
@@ -76,19 +133,77 @@ module.exports = async (params) => {
     }
   }
   
+  // Check if text appears to be a filename rather than a custom title
+  function isFilenameText(text) {
+    // List of common words to ignore in similarity comparison
+    const commonWords = ['the', 'a', 'an', 'of', 'in', 'on', 'at', 'to', 'for', 'with', 'by', 'as'];
+    
+    // Normalize text for checking
+    const normalizedText = text.toLowerCase()
+      .replace(/[_\-\.]/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+    
+    // Characteristics of filenames vs titles:
+    
+    // 1. Filenames often use kebab-case or snake_case
+    if (text.includes('-') || text.includes('_')) {
+      return true;
+    }
+    
+    // 2. Filenames typically don't use proper title case (first letter of major words capitalized)
+    // A title would have proper capitalization like "My Important Note"
+    const words = text.split(/\s+/);
+    if (words.length > 1) {
+      // Count capitalized words (excluding the first word and common words)
+      const capitalizedWords = words.slice(1).filter(word => 
+        !commonWords.includes(word.toLowerCase()) && 
+        word.length > 1 && 
+        word[0] === word[0].toUpperCase()
+      );
+      
+      // If there are multiple words but few capitalized, it's likely a filename
+      if (words.length > 2 && capitalizedWords.length < (words.length / 3)) {
+        return true;
+      }
+    }
+    
+    // 3. Check for spaces - filenames typically don't have spaces in Obsidian links
+    if (!text.includes(' ')) {
+      return true;
+    }
+    
+    // 4. Filenames might include file extensions
+    if (text.endsWith('.md') || text.match(/\.\w{2,4}$/)) {
+      return true;
+    }
+    
+    // If we can't determine clearly, be cautious and say it might be a custom title
+    return false;
+  }
+  
   // Check if display text is similar to the filename (fuzzy matching)
   function isSimilarText(displayText, filename) {
+    // List of common words to ignore in similarity comparison
+    const commonWords = ['the', 'a', 'an', 'of', 'in', 'on', 'at', 'to', 'for', 'with', 'by', 'as'];
+    
     // Normalize both strings: lowercase, remove hyphens/underscores, and remove file extension
-    const normalizeText = (text) => 
-      text.toLowerCase()
-           .replace(/[_\-\.]/g, ' ')
-           .replace(/\s+/g, ' ')
-           .trim();
+    const normalizeText = (text) => {
+      const normalized = text.toLowerCase()
+        .replace(/[_\-\.]/g, ' ')
+        .replace(/\s+/g, ' ')
+        .trim();
+      
+      // Remove common words for comparison
+      let words = normalized.split(' ');
+      words = words.filter(word => !commonWords.includes(word));
+      return words.join(' ');
+    };
            
     const normalizedDisplay = normalizeText(displayText);
     const normalizedFilename = normalizeText(filename);
     
-    // Direct match
+    // Direct match after normalization
     if (normalizedDisplay === normalizedFilename) return true;
     
     // Check if one is a subset of the other (handles abbreviated forms)
@@ -98,16 +213,20 @@ module.exports = async (params) => {
     }
     
     // Compare words (for more fuzzy matching)
-    const displayWords = normalizedDisplay.split(' ');
-    const filenameWords = normalizedFilename.split(' ');
+    const displayWords = normalizedDisplay.split(' ').filter(w => w.length > 1); // Ignore single-letter words
+    const filenameWords = normalizedFilename.split(' ').filter(w => w.length > 1);
     
-    // If most words match (>70% similarity), consider it a match
-    if (displayWords.length > 0 && filenameWords.length > 0) {
-      const commonWords = displayWords.filter(w => filenameWords.includes(w)).length;
-      const maxWords = Math.max(displayWords.length, filenameWords.length);
-      if (commonWords / maxWords > 0.7) {
-        return true;
-      }
+    // If both have no significant words after filtering, they're not similar enough
+    if (displayWords.length === 0 || filenameWords.length === 0) {
+      return false;
+    }
+    
+    // If most significant words match (>80% similarity), consider it a match
+    // Using a higher threshold (80% vs previous 70%) to be more selective
+    const commonWords = displayWords.filter(w => filenameWords.includes(w)).length;
+    const maxWords = Math.max(displayWords.length, filenameWords.length);
+    if (commonWords / maxWords > 0.8) {
+      return true;
     }
     
     return false;
@@ -127,12 +246,22 @@ module.exports = async (params) => {
   // Get the title from a linked file
   async function getTitleFromLink(link) {
     try {
-      // Clean the link
-      const cleanLink = link.split('#')[0].split('|')[0].trim();
+      // Clean the link - handle various formats
+      let cleanLink = link.split('#')[0].split('|')[0].trim();
       
-      // Find the file
-      const targetFile = app.metadataCache.getFirstLinkpathDest(cleanLink, '');
-      if (!targetFile) return null;
+      // Try to find the file using Obsidian's resolver
+      let targetFile = app.metadataCache.getFirstLinkpathDest(cleanLink, '');
+      
+      // If not found directly, try other variations
+      if (!targetFile) {
+        // Try removing the path and just use the filename
+        const fileName = cleanLink.split(/[\/\\]/).pop();
+        targetFile = app.metadataCache.getFirstLinkpathDest(fileName, '');
+      }
+      
+      if (!targetFile) {
+        return null;
+      }
       
       // Get the frontmatter
       const metadata = app.metadataCache.getFileCache(targetFile);
@@ -147,63 +276,145 @@ module.exports = async (params) => {
     }
   }
   
-  // Ask user what to process
-  const choice = await quickAddApi.suggester(
-    ["Current File", "Current Folder"], 
-    ["current", "folder"]
-  );
+  // Get all files in a folder (always recursive)
+  function getFilesInFolder(folderPath) {
+    try {
+      const folder = app.vault.getAbstractFileByPath(folderPath);
+      if (!folder || folder.children === undefined) {
+        console.error(`Folder not found: ${folderPath}`);
+        return [];
+      }
+      
+      let files = [];
+      
+      // Process all children
+      for (const child of folder.children) {
+        if (child.extension === 'md') {
+          // It's a markdown file
+          files.push(child);
+        } else if (child.children) {
+          // It's a subfolder, always process recursively
+          const subFiles = getFilesInFolder(child.path);
+          files = files.concat(subFiles);
+        }
+      }
+      
+      return files;
+    } catch (error) {
+      console.error(`Error getting files from folder ${folderPath}:`, error);
+      return [];
+    }
+  }
   
-  if (choice === "current") {
-    // Process active file
-    const activeFile = app.workspace.getActiveFile();
-    if (!activeFile) {
-      new Notice('No active file');
-      return;
-    }
-    
-    const result = await processFile(activeFile);
-    new Notice(result ? 'Links updated with titles' : 'No links needed updating');
-  } 
-  else if (choice === "folder") {
-    // Process current folder
-    const activeFile = app.workspace.getActiveFile();
-    if (!activeFile) {
-      new Notice('No active file');
-      return;
-    }
-    
-    // Get the folder path from the active file
-    const folderPath = activeFile.parent?.path || '';
-    
-    // Get all markdown files in the folder
-    const files = app.vault.getFiles().filter(f => 
-      f.extension === 'md' && f.parent && f.parent.path === folderPath
-    );
-    
+  // Process multiple files
+  async function processFiles(files) {
     if (files.length === 0) {
-      new Notice('No markdown files found in the current folder');
+      console.log("No markdown files found");
       return;
     }
     
     let updatedCount = 0;
     const totalFiles = files.length;
     
-    // Create progress notification
-    const statusBarItem = app.statusBar.addStatusBarItem();
-    statusBarItem.setText(`Processing files: 0/${totalFiles}`);
+    log(`Starting to process ${totalFiles} files...`);
     
+    // Process files one by one
     for (let i = 0; i < files.length; i++) {
       const file = files[i];
-      statusBarItem.setText(`Processing files: ${i+1}/${totalFiles}`);
+      log(`Processing ${i+1}/${totalFiles}: ${file.path}`);
       const result = await processFile(file);
       if (result) updatedCount++;
     }
     
-    // Remove progress notification
-    statusBarItem.remove();
-    
-    new Notice(`Updated links in ${updatedCount} of ${totalFiles} files`);
+    log(`Finished processing. Updated links in ${updatedCount} of ${totalFiles} files`);
+    return updatedCount;
   }
   
-  return "Done";
+  // Main function
+  try {
+    const choices = [
+      {name: "Current File", value: "current"},
+      {name: "Current Folder (includes subfolders)", value: "folder"},
+      {name: "Select Folder", value: "select-folder"}
+    ];
+    
+    const choice = await quickAddApi.suggester(
+      choices.map(c => c.name), 
+      choices.map(c => c.value)
+    );
+    
+    if (!choice) return "Cancelled"; // User cancelled
+    
+    if (choice === "current") {
+      // Process active file
+      const activeFile = app.workspace.getActiveFile();
+      if (!activeFile) {
+        log('No active file');
+        return "No active file";
+      }
+      
+      log(`Processing file: ${activeFile.path}`);
+      const result = await processFile(activeFile);
+      const message = result ? 'Links updated with titles' : 'No links needed updating';
+      log(message);
+      
+      // Show a notice for user feedback
+      const Notice = app.Notice || window.Notice;
+      if (typeof Notice === 'function') {
+        new Notice(message);
+      }
+    } 
+    else if (choice === "folder") {
+      // Process current folder
+      const activeFile = app.workspace.getActiveFile();
+      if (!activeFile) {
+        log('No active file');
+        return "No active file";
+      }
+      
+      // Get the folder path from the active file
+      const folderPath = activeFile.parent?.path || '';
+      log(`Processing folder: ${folderPath}`);
+      
+      // Get all markdown files in the folder (recursively)
+      const files = getFilesInFolder(folderPath);
+      const updatedCount = await processFiles(files);
+      
+      // Show a notice for user feedback
+      const Notice = app.Notice || window.Notice;
+      if (typeof Notice === 'function') {
+        new Notice(`Updated links in ${updatedCount} files`);
+      }
+    }
+    else if (choice === "select-folder") {
+      // Let user select a folder
+      const folders = app.vault.getAllLoadedFiles()
+        .filter(f => f.children !== undefined)
+        .map(f => f.path);
+      
+      const selectedFolder = await quickAddApi.suggester(folders, folders);
+      
+      if (!selectedFolder) {
+        log('No folder selected');
+        return "No folder selected";
+      }
+      
+      log(`Processing selected folder: ${selectedFolder}`);
+      
+      // Get all markdown files in the folder (recursively)
+      const files = getFilesInFolder(selectedFolder);
+      const updatedCount = await processFiles(files);
+      
+      // Show a notice for user feedback
+      const Notice = app.Notice || window.Notice;
+      if (typeof Notice === 'function') {
+        new Notice(`Updated links in ${updatedCount} files`);
+      }
+    }
+    
+    return "Done";
+  } catch (error) {
+    console.error("Error in script execution:", error);
+    return "Error: " + error.message;
+  }
 };

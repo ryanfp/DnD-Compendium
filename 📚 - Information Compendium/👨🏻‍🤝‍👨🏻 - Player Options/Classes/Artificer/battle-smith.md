@@ -1,9 +1,9 @@
 ---
 title: Battle Smith
 created: 2025/06/15 at 15:34
-updated: 2025/08/01 at 00:55
+updated: 2025/08/07 at 22:36
 permalink: battle-smith-artificer
-source: Tasha's Cauldron of Everything
+source: "Tasha's Cauldron of Everything"
 aliases:
   - Battle Smith
 tags:
@@ -88,7 +88,7 @@ When you reach 3rd level, your combat training and your experiments with magic h
 
 By 3rd level, your tinkering has borne you a faithful companion, a [steel defender](/3-Content/Compendiums/bestiary/construct/steel-defender-tce.md). It is friendly to you and your companions, and it obeys your commands. See this creature's game statistics in the steel defender stat block, which uses your proficiency bonus (PB) in several places. You determine the creature's appearance and whether it has two legs or four; your choice has no effect on its game statistics.
 
-In combat, the defender shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the [Dodge](/3-Content/Rules/actions.md#Dodge) action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are [incapacitated](/3-Content/Rules/conditions.md#Incapacitated), the defender can take any action of its choice, not just [Dodge](/3-Content/Rules/actions.md#Dodge).
+In combat, the defender shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the [Actions](/3-Content/Rules/actions.md#Dodge) action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are [Conditions](/3-Content/Rules/conditions.md#Incapacitated), the defender can take any action of its choice, not just [Actions](/3-Content/Rules/actions.md#Dodge).
 
 If the [mending](/3-Content/Compendiums/spells/mending-xphb.md) spell is cast on it, it regains `2d6` hit points. If it has died within the last hour, you can use your [smith's tools](/3-Content/Compendiums/items/smiths-tools-xphb.md) as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The steel defender returns to life after 1 minute with all its hit points restored.
 
@@ -96,7 +96,7 @@ At the end of a long rest, you can create a new steel defender if you have your 
 
 ### Extra Attack (Level 5)
 
-Starting at 5th level, you can attack twice, rather than once, whenever you take the [Attack](/3-Content/Rules/actions.md#Attack) action on your turn.
+Starting at 5th level, you can attack twice, rather than once, whenever you take the [Actions](/3-Content/Rules/actions.md#Attack) action on your turn.
 
 ### Arcane Jolt (Level 9)
 

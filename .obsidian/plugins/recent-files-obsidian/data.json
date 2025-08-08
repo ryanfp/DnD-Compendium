@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "alchemist",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/alchemist.md"
+    },
+    {
+      "basename": "artificer",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/artificer.md"
+    },
+    {
+      "basename": "Classes",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
+    },
+    {
+      "basename": "battle-smith",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/battle-smith.md"
+    },
+    {
+      "basename": "artillerist",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/artillerist.md"
+    },
+    {
+      "basename": "armorer",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/armorer.md"
+    },
+    {
+      "basename": "curse-of-petrification",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-petrification.md"
+    },
+    {
+      "basename": "curse-of-somnolence",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-somnolence.md"
+    },
+    {
+      "basename": "xenoalchemist",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/xenoalchemist.md"
+    },
+    {
+      "basename": "venomsmith",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/venomsmith.md"
+    },
+    {
+      "basename": "mutagenist",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/mutagenist.md"
+    },
+    {
       "basename": "mad-bomber",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/mad-bomber.md"
     },
@@ -47,10 +91,6 @@
     {
       "basename": "accursed",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/accursed.md"
-    },
-    {
-      "basename": "Classes",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
     },
     {
       "basename": "ideas",
@@ -159,46 +199,6 @@
     {
       "basename": "celestial-patron-2024",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/celestial-patron-2024.md"
-    },
-    {
-      "basename": "fiend-patron-2024",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/fiend-patron-2024.md"
-    },
-    {
-      "basename": "great-old-one-patron-2024",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/great-old-one-patron-2024.md"
-    },
-    {
-      "basename": "blood-magic",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/blood-magic.md"
-    },
-    {
-      "basename": "chronurgy-magic",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/chronurgy-magic.md"
-    },
-    {
-      "basename": "graviturgy-magic",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/graviturgy-magic.md"
-    },
-    {
-      "basename": "order-of-scribes",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/order-of-scribes.md"
-    },
-    {
-      "basename": "Plague Doctor",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/Plague Doctor.md"
-    },
-    {
-      "basename": "school-of-necromancy",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/school-of-necromancy.md"
-    },
-    {
-      "basename": "School of Sangromancy",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/School of Sangromancy.md"
-    },
-    {
-      "basename": "school-of-transmutation",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/school-of-transmutation.md"
     }
   ],
   "omittedPaths": [],

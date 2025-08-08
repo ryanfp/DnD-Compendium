@@ -1,7 +1,7 @@
 ---
 title: Classes
 created: 2025/05/14 at 22:29
-updated: 2025/08/07 at 21:50
+updated: 2025/08/07 at 22:37
 permalink: classes
 aliases:
   - Classes
@@ -5481,6 +5481,7 @@ Sources:
 - ~~Steinhardt’s Guide to the Eldritch Hunt~~ %% fold %%
 
 	- ~~~**Jaeger Class**~~~
+
 
 
 

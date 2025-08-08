@@ -15,7 +15,7 @@ obsidianUIMode: preview
 
 # Alchemist
 
-*[artificer](artificer.md): Artificer Specialist*  
+*[Artificer](artificer.md): Artificer Specialist*  
 *Source: Tasha's Cauldron of Everything p. 14, Eberron: Rising from the Last War p. 58*  
 
 > [!tldr] Class and Feature Progression
@@ -115,5 +115,5 @@ Starting at 9th level, you can incorporate restorative reagents into some of you
 
 By 15th level, you have been exposed to so many chemicals that they pose little risk to you, and you can use them to quickly end certain ailments:
 
-- You gain resistance to acid damage and poison damage, and you are immune to the [poisoned](/3-Content/Rules/conditions.md#Poisoned) condition.  
+- You gain resistance to acid damage and poison damage, and you are immune to the [Conditions](/3-Content/Rules/conditions.md#Poisoned) condition.  
 - You can cast [greater restoration](/3-Content/Compendiums/spells/greater-restoration-xphb.md) and [heal](/3-Content/Compendiums/spells/heal-xphb.md) without expending a spell slot, without preparing the spell, and without material components, provided you use [alchemist's supplies](/3-Content/Compendiums/items/alchemists-supplies-xphb.md) as the spellcasting focus. Once you cast either spell with this feature, you can't cast that spell with it again until you finish a long rest.

@@ -1,9 +1,9 @@
 ---
 title: Armorer
 created: 2025/06/15 at 15:34
-updated: 2025/08/01 at 00:55
+updated: 2025/08/07 at 22:35
 permalink: armorer-artificer
-source: Tasha's Cauldron of Everything
+source: "Tasha's Cauldron of Everything"
 aliases:
   - Armorer
 tags:
@@ -15,7 +15,7 @@ obsidianUIMode: preview
 
 # Armorer
 
-*[artificer](artificer.md): Artificer Specialist*  
+*[Artificer](artificer.md): Artificer Specialist*  
 *Source: Tasha's Cauldron of Everything p. 15*  
 
 > [!tldr] Class and Feature Progression
@@ -128,13 +128,13 @@ You customize your armor for subtle undertakings. It has the following features:
 
 - **Dampening Field**  
 
-    You have advantage on Dexterity ([Stealth](/3-Content/Rules/skills.md#Stealth)) checks. If the armor normally imposes disadvantage on such checks, the advantage and disadvantage cancel each other, as normal.  
+    You have advantage on Dexterity ([Skills](/3-Content/Rules/skills.md#Stealth)) checks. If the armor normally imposes disadvantage on such checks, the advantage and disadvantage cancel each other, as normal.  
 
 ### Extra Attack (Level 5)
 
 *5th-level Armorer feature*
 
-You can attack twice, rather than once, whenever you take the [Attack](/3-Content/Rules/actions.md#Attack) action on your turn.
+You can attack twice, rather than once, whenever you take the [Actions](/3-Content/Rules/actions.md#Attack) action on your turn.
 
 ### Armor Modifications (Level 9)
 
