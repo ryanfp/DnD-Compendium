@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/subclass/warlock/great-old-one
+- compendium/src/5e/phb
+- subclass/warlock/great-old-one
 aliases:
 - The Great Old One
 ---

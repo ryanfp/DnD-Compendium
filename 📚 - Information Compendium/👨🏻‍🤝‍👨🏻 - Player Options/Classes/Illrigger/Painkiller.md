@@ -7,8 +7,8 @@ source: The Illrigger Revised
 aliases:
   - Painkiller
 tags:
-  - ttrpg-cli/compendium/src/5e/illriggerrevised
-  - ttrpg-cli/subclass/illrigger/painkiller
+  - compendium/src/5e/illriggerrevised
+  - subclass/illrigger/painkiller
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

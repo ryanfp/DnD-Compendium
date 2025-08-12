@@ -7,8 +7,8 @@ source: "Valda's Spire of Secrets"
 aliases:
   - Burden of Rebirth
 tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/martyr/rebirth
+  - compendium/src/5e/vss
+  - subclass/martyr/rebirth
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

@@ -7,8 +7,8 @@ source: "KibblesTasty: Psion"
 aliases:
   - Transcended
 tags:
-  - ttrpg-cli/compendium/src/5e/ktp
-  - ttrpg-cli/subclass/psion/transcended
+  - compendium/src/5e/ktp
+  - subclass/psion/transcended
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

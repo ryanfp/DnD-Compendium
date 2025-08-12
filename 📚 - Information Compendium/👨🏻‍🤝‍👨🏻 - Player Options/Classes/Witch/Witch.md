@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:41
 aliases:
   - Witch
 tags:
-  - ttrpg-cli/class/witch
-  - ttrpg-cli/compendium/src/5e/vss
+  - class/witch
+  - compendium/src/5e/vss
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: witch

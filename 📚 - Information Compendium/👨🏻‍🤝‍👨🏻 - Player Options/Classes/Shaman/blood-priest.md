@@ -7,8 +7,8 @@ source: Shaman Expanded
 aliases:
   - Blood Priest
 tags:
-  - ttrpg-cli/compendium/src/5e/llsh:e
-  - ttrpg-cli/subclass/shaman/blood-priest
+  - compendium/src/5e/llsh:e
+  - subclass/shaman/blood-priest
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

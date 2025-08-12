@@ -8,8 +8,8 @@ aliases:
   - Beast Master
   - ranger-beast-master
 tags:
-  - ttrpg-cli/compendium/src/5e/phb
-  - ttrpg-cli/subclass/ranger/beast-master
+  - compendium/src/5e/phb
+  - subclass/ranger/beast-master
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

@@ -8,8 +8,8 @@ aliases:
   - Bloodwrath Guardian
   - warden-bloodwrath-guardian-vss
 tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/warden/bloodwrath-guardian
+  - compendium/src/5e/vss
+  - subclass/warden/bloodwrath-guardian
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

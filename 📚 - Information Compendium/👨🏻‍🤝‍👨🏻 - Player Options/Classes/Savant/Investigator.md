@@ -7,8 +7,8 @@ source: Savant
 aliases:
   - Investigator
 tags:
-  - ttrpg-cli/compendium/src/5e/llsav
-  - ttrpg-cli/subclass/savant/investigator
+  - compendium/src/5e/llsav
+  - subclass/savant/investigator
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

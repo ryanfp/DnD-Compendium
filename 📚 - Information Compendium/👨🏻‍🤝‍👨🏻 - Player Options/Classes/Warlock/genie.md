@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:38
 aliases:
   - The Genie
 tags:
-  - ttrpg-cli/compendium/src/5e/tce
-  - ttrpg-cli/subclass/warlock/genie
+  - compendium/src/5e/tce
+  - subclass/warlock/genie
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: genie-warlock

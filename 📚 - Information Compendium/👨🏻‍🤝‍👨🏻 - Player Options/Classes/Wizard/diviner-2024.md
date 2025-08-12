@@ -7,8 +7,8 @@ aliases:
   - Diviner 2024
   - wizard-xphb-diviner-xphb
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/subclass/wizard/diviner
+  - compendium/src/5e/xphb
+  - subclass/wizard/diviner
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: diviner-2024-wizard

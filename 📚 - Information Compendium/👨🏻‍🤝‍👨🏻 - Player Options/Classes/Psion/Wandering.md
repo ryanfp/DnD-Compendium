@@ -7,8 +7,8 @@ source: "KibblesTasty: Psion"
 aliases:
   - Wandering
 tags:
-  - ttrpg-cli/compendium/src/5e/ktp
-  - ttrpg-cli/subclass/psion/wandering
+  - compendium/src/5e/ktp
+  - subclass/psion/wandering
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

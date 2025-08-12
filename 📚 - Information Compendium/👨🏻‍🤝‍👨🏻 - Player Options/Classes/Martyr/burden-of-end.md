@@ -7,8 +7,8 @@ source: "Valda's Spire of Secrets"
 aliases:
   - Burden of The End
 tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/martyr/the-end
+  - compendium/src/5e/vss
+  - subclass/martyr/the-end
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

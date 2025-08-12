@@ -7,8 +7,8 @@ aliases:
   - Paladin 2024
   - paladin-xphb
 tags:
-  - ttrpg-cli/class/paladin
-  - ttrpg-cli/compendium/src/5e/xphb
+  - class/paladin
+  - compendium/src/5e/xphb
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: paladin-2024

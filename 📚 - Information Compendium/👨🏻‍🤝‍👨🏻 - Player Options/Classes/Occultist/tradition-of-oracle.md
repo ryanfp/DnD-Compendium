@@ -8,8 +8,8 @@ aliases:
   - Tradition of the Oracle
   - tradition-of-the-oracle
 tags:
-  - ttrpg-cli/compendium/src/5e/kt-cll
-  - ttrpg-cli/subclass/occultist/oracle
+  - compendium/src/5e/kt-cll
+  - subclass/occultist/oracle
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

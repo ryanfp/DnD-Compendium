@@ -1187,7 +1187,22 @@
     "testingagain": 28,
     "thising": 29,
     "artificer": 30,
-    "a": 31
+    "a": 31,
+    "subclass/paladin/ancients": 4,
+    "subclass/paladin/crown": 5,
+    "subclass/paladin/devotion": 6,
+    "subclass/paladin/glory": 7,
+    "compendium/src/5e/ghpg": 52,
+    "subclass/paladin/pestilence": 8,
+    "subclass/paladin/vengeance": 9,
+    "subclass/paladin/watchers": 10,
+    "subclass/paladin/oathbreaker": 11,
+    "class/paladin": 4,
+    "compendium/src/5e/llaw": 53,
+    "subclass/warlord": 13,
+    "subclass/warlord/skald": 1,
+    "subclass/warlord/tactics": 2,
+    "class/warlord": 5
   },
   "_version": 3
 }

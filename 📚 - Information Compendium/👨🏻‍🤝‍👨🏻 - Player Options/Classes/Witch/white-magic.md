@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:41
 aliases:
   - White Magic
 tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/witch/white
+  - compendium/src/5e/vss
+  - subclass/witch/white
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: white-magic-witch

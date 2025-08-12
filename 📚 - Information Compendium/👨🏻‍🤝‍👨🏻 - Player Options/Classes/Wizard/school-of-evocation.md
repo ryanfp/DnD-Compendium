@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:42
 aliases:
   - School of Evocation
 tags:
-  - ttrpg-cli/compendium/src/5e/phb
-  - ttrpg-cli/subclass/wizard/evocation
+  - compendium/src/5e/phb
+  - subclass/wizard/evocation
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: school-of-evocation-wizard

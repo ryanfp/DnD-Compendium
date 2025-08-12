@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:20
 aliases:
   - Way of the Ascendant Dragon
 tags:
-  - ttrpg-cli/compendium/src/5e/ftd
-  - ttrpg-cli/subclass/monk/ascendant-dragon
+  - compendium/src/5e/ftd
+  - subclass/monk/ascendant-dragon
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: way-of-ascendant-dragon-monk

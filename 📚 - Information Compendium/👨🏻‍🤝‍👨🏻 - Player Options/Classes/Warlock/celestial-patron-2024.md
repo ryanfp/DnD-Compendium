@@ -7,8 +7,8 @@ aliases:
   - Celestial Patron 2024
   - warlock-xphb-celestial-patron-xphb
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/subclass/warlock/celestial
+  - compendium/src/5e/xphb
+  - subclass/warlock/celestial
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: celestial-patron-2024-warlock

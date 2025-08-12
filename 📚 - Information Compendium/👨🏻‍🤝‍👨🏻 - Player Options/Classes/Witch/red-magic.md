@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:41
 aliases:
   - Red Magic
 tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/witch/red
+  - compendium/src/5e/vss
+  - subclass/witch/red
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: red-magic-witch

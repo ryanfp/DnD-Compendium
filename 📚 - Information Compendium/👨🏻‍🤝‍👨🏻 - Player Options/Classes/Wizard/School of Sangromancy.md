@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:30
 aliases:
   - School of Sangromancy
 tags:
-  - ttrpg-cli/compendium/src/5e/ghpg
-  - ttrpg-cli/subclass/wizard/sangromancy
+  - compendium/src/5e/ghpg
+  - subclass/wizard/sangromancy
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: school-of-sangromancy-wizard

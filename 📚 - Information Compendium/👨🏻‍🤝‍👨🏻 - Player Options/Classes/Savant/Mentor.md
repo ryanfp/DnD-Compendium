@@ -7,8 +7,8 @@ source: Savant Expanded
 aliases:
   - Mentor
 tags:
-  - ttrpg-cli/compendium/src/5e/llsave
-  - ttrpg-cli/subclass/savant/mentor
+  - compendium/src/5e/llsave
+  - subclass/savant/mentor
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

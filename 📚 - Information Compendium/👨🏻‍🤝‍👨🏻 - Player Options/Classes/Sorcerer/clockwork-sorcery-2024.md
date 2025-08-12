@@ -7,8 +7,8 @@ aliases:
   - Clockwork Sorcery 2024
   - sorcerer-xphb-clockwork-sorcery-xphb
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/subclass/sorcerer/clockwork
+  - compendium/src/5e/xphb
+  - subclass/sorcerer/clockwork
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: clockwork-sorcery-2024-sorcerer

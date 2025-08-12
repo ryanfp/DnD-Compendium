@@ -7,8 +7,8 @@ source: The Shaman
 aliases:
   - Wild Heart
 tags:
-  - ttrpg-cli/compendium/src/5e/llsh
-  - ttrpg-cli/subclass/shaman/wild-heart
+  - compendium/src/5e/llsh
+  - subclass/shaman/wild-heart
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

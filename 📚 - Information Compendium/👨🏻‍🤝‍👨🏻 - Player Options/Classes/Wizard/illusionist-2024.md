@@ -7,8 +7,8 @@ aliases:
   - Illusionist 2024
   - wizard-xphb-illusionist-xphb
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/subclass/wizard/illusionist
+  - compendium/src/5e/xphb
+  - subclass/wizard/illusionist
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: illusionist-2024-wizard

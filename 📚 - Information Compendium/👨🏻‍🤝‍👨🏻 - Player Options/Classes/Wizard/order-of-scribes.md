@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:30
 aliases:
   - Order of Scribes
 tags:
-  - ttrpg-cli/compendium/src/5e/tce
-  - ttrpg-cli/subclass/wizard/scribes
+  - compendium/src/5e/tce
+  - subclass/wizard/scribes
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: order-of-scribes-wizard

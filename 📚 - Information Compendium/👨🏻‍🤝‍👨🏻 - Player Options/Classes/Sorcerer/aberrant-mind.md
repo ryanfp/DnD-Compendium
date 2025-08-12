@@ -7,8 +7,8 @@ source: "Tasha's Cauldron of Everything"
 aliases:
   - Aberrant Mind
 tags:
-  - ttrpg-cli/compendium/src/5e/tce
-  - ttrpg-cli/subclass/sorcerer/aberrant-mind
+  - compendium/src/5e/tce
+  - subclass/sorcerer/aberrant-mind
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

@@ -7,8 +7,8 @@ source: Dragon Knight
 aliases:
   - Dragon Knight
 tags:
-  - ttrpg-cli/class/dragon-knight
-  - ttrpg-cli/compendium/src/5e/dk
+  - class/dragon-knight
+  - compendium/src/5e/dk
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

@@ -7,8 +7,8 @@ source: Explorer's Guide to Wildemount
 aliases:
   - Echo Knight
 tags:
-  - ttrpg-cli/compendium/src/5e/egw
-  - ttrpg-cli/subclass/fighter/echo-knight
+  - compendium/src/5e/egw
+  - subclass/fighter/echo-knight
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

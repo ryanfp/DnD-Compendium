@@ -9,9 +9,9 @@ aliases:
   - War Domain 2024
   - cleric-xphb-war-domain-xphb
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/domain/war
-  - ttrpg-cli/subclass/cleric/war
+  - compendium/src/5e/xphb
+  - domain/war
+  - subclass/cleric/war
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

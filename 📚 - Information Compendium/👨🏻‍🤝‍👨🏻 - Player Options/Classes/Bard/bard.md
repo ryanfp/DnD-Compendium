@@ -7,8 +7,8 @@ source: Player's Handbook
 aliases:
   - Bard
 tags:
-  - ttrpg-cli/class/bard
-  - ttrpg-cli/compendium/src/5e/phb
+  - class/bard
+  - compendium/src/5e/phb
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

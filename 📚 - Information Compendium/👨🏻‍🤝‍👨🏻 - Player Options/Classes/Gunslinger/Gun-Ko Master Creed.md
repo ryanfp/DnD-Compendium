@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/gunslinger/gun-ko-master]
+tags: [compendium/src/5e/vss, subclass/gunslinger/gun-ko-master]
 aliases:
   - Gun-Ko Master Creed
   - Gun-Ko Master

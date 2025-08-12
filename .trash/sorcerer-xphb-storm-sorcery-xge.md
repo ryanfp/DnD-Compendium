@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/subclass/sorcerer/storm
+- compendium/src/5e/xge
+- subclass/sorcerer/storm
 aliases:
 - Storm Sorcery
 ---

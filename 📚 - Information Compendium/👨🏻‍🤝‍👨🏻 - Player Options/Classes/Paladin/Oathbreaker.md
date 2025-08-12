@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:23
 aliases:
   - Oathbreaker
 tags:
-  - ttrpg-cli/compendium/src/5e/dmg
-  - ttrpg-cli/subclass/paladin/oathbreaker
+  - compendium/src/5e/dmg
+  - subclass/paladin/oathbreaker
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: oathbreaker-paladin

@@ -8,8 +8,8 @@ aliases:
   - Nightgaunt
   - warden-nightgaunt-vss
 tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/warden/nightgaunt
+  - compendium/src/5e/vss
+  - subclass/warden/nightgaunt
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

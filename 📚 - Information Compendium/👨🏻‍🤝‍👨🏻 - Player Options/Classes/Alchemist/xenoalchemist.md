@@ -9,8 +9,8 @@ aliases:
   - Xenoalchemist Field
   - xenoalchemist-field
 tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/alchemist/xenoalchemist
+  - compendium/src/5e/vss
+  - subclass/alchemist/xenoalchemist
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

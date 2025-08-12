@@ -7,8 +7,8 @@ source: Grim Hollow: The Player's Guide
 aliases:
   - College of Requiems
 tags:
-  - ttrpg-cli/compendium/src/5e/ghpg
-  - ttrpg-cli/subclass/bard/requiems
+  - compendium/src/5e/ghpg
+  - subclass/bard/requiems
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

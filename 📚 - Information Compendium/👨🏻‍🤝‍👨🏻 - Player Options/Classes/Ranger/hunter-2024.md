@@ -9,8 +9,8 @@ aliases:
   - Hunter 2024
   - ranger-xphb-hunter-xphb
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/subclass/ranger/hunter
+  - compendium/src/5e/xphb
+  - subclass/ranger/hunter
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:23
 aliases:
   - Oath of Vengeance
 tags:
-  - ttrpg-cli/compendium/src/5e/phb
-  - ttrpg-cli/subclass/paladin/vengeance
+  - compendium/src/5e/phb
+  - subclass/paladin/vengeance
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: oath-of-vengeance-paladin

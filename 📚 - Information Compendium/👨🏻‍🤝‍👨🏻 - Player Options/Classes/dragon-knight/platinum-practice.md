@@ -7,8 +7,8 @@ source: Dragon Knight
 aliases:
   - Platinum Practice
 tags:
-  - ttrpg-cli/compendium/src/5e/dk
-  - ttrpg-cli/subclass/dragon-knight/platinum
+  - compendium/src/5e/dk
+  - subclass/dragon-knight/platinum
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

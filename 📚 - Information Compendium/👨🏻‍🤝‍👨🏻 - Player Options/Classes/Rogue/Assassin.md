@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:29
 aliases:
   - Assassin
 tags:
-  - ttrpg-cli/compendium/src/5e/phb
-  - ttrpg-cli/subclass/rogue/assassin
+  - compendium/src/5e/phb
+  - subclass/rogue/assassin
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: assassin-rogue

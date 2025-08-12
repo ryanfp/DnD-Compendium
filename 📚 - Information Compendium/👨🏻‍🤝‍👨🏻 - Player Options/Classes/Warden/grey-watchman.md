@@ -8,8 +8,8 @@ aliases:
   - Grey Watchman
   - warden-grey-watchman-vss
 tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/warden/grey-watchman
+  - compendium/src/5e/vss
+  - subclass/warden/grey-watchman
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

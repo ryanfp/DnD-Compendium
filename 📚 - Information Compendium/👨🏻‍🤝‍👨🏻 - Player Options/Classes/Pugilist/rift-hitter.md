@@ -7,8 +7,8 @@ source: "The Ultimate Adventurer's Handbook"
 aliases:
   - Rift Hitter
 tags:
-  - ttrpg-cli/compendium/src/5e/ultimateadventurer
-  - ttrpg-cli/subclass/pugilist/rift-hitter
+  - compendium/src/5e/ultimateadventurer
+  - subclass/pugilist/rift-hitter
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

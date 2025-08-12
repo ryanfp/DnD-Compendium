@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/vss
-- ttrpg-cli/subclass/investigator/detective
+- compendium/src/5e/vss
+- subclass/investigator/detective
 aliases:
 - Detective
 ---

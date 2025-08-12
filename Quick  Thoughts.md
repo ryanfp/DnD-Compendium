@@ -1,3 +1,13 @@
+---
+title: Quick Thoughts
+created: 2025/08/11 at 23:01
+updated: 2025/08/11 at 23:23
+aliases:
+  - Quick Thoughts
+tags:
+  - a
+---
+
 # Quick Thoughts
 
 ## 8-11-2025
@@ -10,4 +20,11 @@
 	- Revert Magical Tinkering ability to 5e/2014 edition’s iteration
 	- Allow cantrip choice change at long rest OR ponder the idea that Artificers are not prepared spellcasters?
 	- Allow the items they create to
-- Go through homebrew [GitHub repo](https://github.com/TheGiddyLimit/homebrew/tree/master)
+- Go through homebrew [GitHub repo](https://github.com/TheGiddyLimit/homebrew/tree/master) to update certain files
+	- KibblesTasty
+		- classes/subclasses
+		- spells
+	- LaserLlama
+		- classes/subclasses
+		- spells
+	- Valda’s Spire of Secrets?

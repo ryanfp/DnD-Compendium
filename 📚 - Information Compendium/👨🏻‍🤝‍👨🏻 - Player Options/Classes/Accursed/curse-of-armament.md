@@ -8,8 +8,8 @@ aliases:
   - Curse of the Armament
   - curse-of-the-armament
 tags:
-  - ttrpg-cli/compendium/src/5e/ultimateadventurer
-  - ttrpg-cli/subclass/accursed/armament
+  - compendium/src/5e/ultimateadventurer
+  - subclass/accursed/armament
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

@@ -7,8 +7,8 @@ source: "Valda's Spire of Secrets"
 aliases:
   - Craftsman
 tags:
-  - ttrpg-cli/class/craftsman
-  - ttrpg-cli/compendium/src/5e/vss
+  - class/craftsman
+  - compendium/src/5e/vss
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

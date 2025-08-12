@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:40
 aliases:
   - Academy of Ferocity
 tags:
-  - ttrpg-cli/compendium/src/5e/llaw
-  - ttrpg-cli/subclass/warlord/ferocity
+  - compendium/src/5e/llaw
+  - subclass/warlord/ferocity
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: academy-of-ferocity-warlord

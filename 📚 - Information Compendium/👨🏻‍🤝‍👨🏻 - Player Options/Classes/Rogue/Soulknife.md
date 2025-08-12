@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:30
 aliases:
   - Soulknife
 tags:
-  - ttrpg-cli/compendium/src/5e/tce
-  - ttrpg-cli/subclass/rogue/soulknife
+  - compendium/src/5e/tce
+  - subclass/rogue/soulknife
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: soulknife-rogue

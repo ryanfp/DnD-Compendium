@@ -7,8 +7,8 @@ source: The Shaman
 aliases:
   - Far Seer
 tags:
-  - ttrpg-cli/compendium/src/5e/llsh
-  - ttrpg-cli/subclass/shaman/far-seer
+  - compendium/src/5e/llsh
+  - subclass/shaman/far-seer
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

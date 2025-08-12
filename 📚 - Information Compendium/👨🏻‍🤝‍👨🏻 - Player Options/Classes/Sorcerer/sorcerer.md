@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:33
 aliases:
   - Sorcerer
 tags:
-  - ttrpg-cli/class/sorcerer
-  - ttrpg-cli/compendium/src/5e/phb
+  - class/sorcerer
+  - compendium/src/5e/phb
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: sorcerer

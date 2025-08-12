@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/subclass/wizard/abjuration
+- compendium/src/5e/phb
+- subclass/wizard/abjuration
 aliases:
 - School of Abjuration
 ---

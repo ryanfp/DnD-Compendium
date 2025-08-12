@@ -9,8 +9,8 @@ aliases:
   - Barbarian
   - Barbarian 2014
 tags:
-  - ttrpg-cli/class/barbarian
-  - ttrpg-cli/compendium/src/5e/phb
+  - class/barbarian
+  - compendium/src/5e/phb
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:20
 aliases:
   - Way of Mercy
 tags:
-  - ttrpg-cli/compendium/src/5e/tce
-  - ttrpg-cli/subclass/monk/mercy
+  - compendium/src/5e/tce
+  - subclass/monk/mercy
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: way-of-mercy-monk

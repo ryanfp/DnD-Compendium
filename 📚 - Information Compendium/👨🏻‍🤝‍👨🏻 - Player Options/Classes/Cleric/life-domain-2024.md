@@ -9,9 +9,9 @@ aliases:
   - Life Domain 2024
   - cleric-xphb-life-domain-xphb
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/domain/life
-  - ttrpg-cli/subclass/cleric/life
+  - compendium/src/5e/xphb
+  - domain/life
+  - subclass/cleric/life
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

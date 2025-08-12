@@ -9,8 +9,8 @@ aliases:
   - The Fallen
   - the-fallen
 tags:
-  - ttrpg-cli/compendium/src/5e/llvessel
-  - ttrpg-cli/subclass/vessel/fallen
+  - compendium/src/5e/llvessel
+  - subclass/vessel/fallen
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

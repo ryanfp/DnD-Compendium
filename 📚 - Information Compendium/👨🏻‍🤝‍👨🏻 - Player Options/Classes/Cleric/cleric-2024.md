@@ -9,8 +9,8 @@ aliases:
   - Cleric 2024
   - cleric-xphb
 tags:
-  - ttrpg-cli/class/cleric
-  - ttrpg-cli/compendium/src/5e/xphb
+  - class/cleric
+  - compendium/src/5e/xphb
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

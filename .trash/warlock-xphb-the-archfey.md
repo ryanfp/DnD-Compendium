@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/subclass/warlock/archfey
+- compendium/src/5e/phb
+- subclass/warlock/archfey
 aliases:
 - The Archfey
 ---

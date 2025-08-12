@@ -8,8 +8,8 @@ aliases:
   - Curse of Animation
   - Curse of Animation - Accursed
 tags:
-  - ttrpg-cli/compendium/src/5e/ultimateadventurer
-  - ttrpg-cli/subclass/accursed/animation
+  - compendium/src/5e/ultimateadventurer
+  - subclass/accursed/animation
 cssclasses:
   - json5e-class
 obsidianUIMode: preview

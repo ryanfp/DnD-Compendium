@@ -7,9 +7,9 @@ source: Player's Handbook
 aliases:
   - War Domain
 tags:
-  - ttrpg-cli/compendium/src/5e/phb
-  - ttrpg-cli/domain/war
-  - ttrpg-cli/subclass/cleric/war
+  - compendium/src/5e/phb
+  - domain/war
+  - subclass/cleric/war
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

@@ -7,8 +7,8 @@ source: The Illrigger Revised
 aliases:
   - Illrigger
 tags:
-  - ttrpg-cli/class/illrigger
-  - ttrpg-cli/compendium/src/5e/illriggerrevised
+  - class/illrigger
+  - compendium/src/5e/illriggerrevised
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

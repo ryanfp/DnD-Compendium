@@ -8,8 +8,8 @@ aliases:
   - Tradition of the Voidwatcher
   - tradition-of-the-voidwatcher
 tags:
-  - ttrpg-cli/compendium/src/5e/kt-cll
-  - ttrpg-cli/subclass/occultist/voidwatcher
+  - compendium/src/5e/kt-cll
+  - subclass/occultist/voidwatcher
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

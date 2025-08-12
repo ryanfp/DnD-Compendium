@@ -7,8 +7,8 @@ source: "Steinhardt's Guide to the Eldritch Hunt"
 aliases:
   - Jaeger
 tags:
-  - ttrpg-cli/class/jaeger
-  - ttrpg-cli/compendium/src/5e/sgtteh
+  - class/jaeger
+  - compendium/src/5e/sgtteh
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

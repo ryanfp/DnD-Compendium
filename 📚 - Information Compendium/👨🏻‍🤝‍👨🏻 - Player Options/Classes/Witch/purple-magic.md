@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:41
 aliases:
   - Purple Magic
 tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/witch/purple
+  - compendium/src/5e/vss
+  - subclass/witch/purple
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: purple-magic-witch

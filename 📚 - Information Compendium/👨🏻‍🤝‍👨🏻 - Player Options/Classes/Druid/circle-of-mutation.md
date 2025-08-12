@@ -7,8 +7,8 @@ source: Grim Hollow: The Player's Guide
 aliases:
   - Circle of Mutation
 tags:
-  - ttrpg-cli/compendium/src/5e/ghpg
-  - ttrpg-cli/subclass/druid/mutation
+  - compendium/src/5e/ghpg
+  - subclass/druid/mutation
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

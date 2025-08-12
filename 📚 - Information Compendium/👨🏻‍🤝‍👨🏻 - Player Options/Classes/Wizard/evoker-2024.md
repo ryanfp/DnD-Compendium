@@ -7,8 +7,8 @@ aliases:
   - Evoker 2024
   - wizard-xphb-evoker-xphb
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/subclass/wizard/evoker
+  - compendium/src/5e/xphb
+  - subclass/wizard/evoker
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: evoker-2024-wizard

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/kt:o
-- ttrpg-cli/subclass/occultist/shaman
+- compendium/src/5e/kt:o
+- subclass/occultist/shaman
 aliases:
 - Tradition of the Shaman
 ---

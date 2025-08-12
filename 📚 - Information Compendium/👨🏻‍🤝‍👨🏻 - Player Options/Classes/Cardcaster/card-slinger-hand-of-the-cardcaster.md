@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/nethingmagiccardslinger, ttrpg-cli/subclass/card-slinger/deckmaster]
+tags: [compendium/src/5e/nethingmagiccardslinger, subclass/card-slinger/deckmaster]
 aliases:
   - card-slinger-hand-of-the
   - card-slinger-hand-of-the-deckmaster-nethingmagiccardslinger

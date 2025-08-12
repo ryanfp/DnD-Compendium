@@ -7,8 +7,8 @@ source: "The Ultimate Adventurer's Handbook"
 aliases:
   - Bloodhound Bruisers
 tags:
-  - ttrpg-cli/compendium/src/5e/ultimateadventurer
-  - ttrpg-cli/subclass/pugilist/bloodhound-bruisers
+  - compendium/src/5e/ultimateadventurer
+  - subclass/pugilist/bloodhound-bruisers
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

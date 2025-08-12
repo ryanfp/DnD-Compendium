@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:20
 aliases:
   - Way of Pride
 tags:
-  - ttrpg-cli/compendium/src/5e/ghpg
-  - ttrpg-cli/subclass/monk/pride
+  - compendium/src/5e/ghpg
+  - subclass/monk/pride
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: way-of-pride-monk

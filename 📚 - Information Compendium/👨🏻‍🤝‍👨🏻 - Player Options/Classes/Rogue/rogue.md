@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:29
 aliases:
   - Rogue
 tags:
-  - ttrpg-cli/class/rogue
-  - ttrpg-cli/compendium/src/5e/phb
+  - class/rogue
+  - compendium/src/5e/phb
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: rogue

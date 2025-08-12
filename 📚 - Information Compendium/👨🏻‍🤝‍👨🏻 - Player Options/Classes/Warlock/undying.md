@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:31
 aliases:
   - The Undying
 tags:
-  - ttrpg-cli/compendium/src/5e/scag
-  - ttrpg-cli/subclass/warlock/undying
+  - compendium/src/5e/scag
+  - subclass/warlock/undying
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: undying-warlock

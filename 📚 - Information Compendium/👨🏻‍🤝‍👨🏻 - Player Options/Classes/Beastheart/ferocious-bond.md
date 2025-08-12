@@ -7,8 +7,8 @@ source: Beastheart and Monstrous Companions
 aliases:
   - Ferocious Bond
 tags:
-  - ttrpg-cli/compendium/src/5e/bst
-  - ttrpg-cli/subclass/beastheart/ferocious
+  - compendium/src/5e/bst
+  - subclass/beastheart/ferocious
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

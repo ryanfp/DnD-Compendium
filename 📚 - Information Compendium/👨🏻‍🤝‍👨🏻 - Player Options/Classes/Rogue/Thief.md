@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:30
 aliases:
   - Thief
 tags:
-  - ttrpg-cli/compendium/src/5e/phb
-  - ttrpg-cli/subclass/rogue/thief
+  - compendium/src/5e/phb
+  - subclass/rogue/thief
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: thief-rogue

@@ -7,9 +7,9 @@ source: Tasha's Cauldron of Everything
 aliases:
   - Twilight Domain
 tags:
-  - ttrpg-cli/compendium/src/5e/tce
-  - ttrpg-cli/domain/twilight
-  - ttrpg-cli/subclass/cleric/twilight
+  - compendium/src/5e/tce
+  - domain/twilight
+  - subclass/cleric/twilight
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

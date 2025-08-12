@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/vss
-- ttrpg-cli/subclass/investigator/archivist
+- compendium/src/5e/vss
+- subclass/investigator/archivist
 aliases:
 - Archivist
 ---

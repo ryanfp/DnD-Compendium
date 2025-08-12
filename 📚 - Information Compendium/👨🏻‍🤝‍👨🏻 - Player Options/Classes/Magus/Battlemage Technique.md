@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/spellblade/battlemage]
+tags: [compendium/src/5e/kt-cll, subclass/spellblade/battlemage]
 aliases:
   - Battlemage Technique
 created: 2025/06/13 at 22:32

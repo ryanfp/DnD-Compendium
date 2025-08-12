@@ -7,8 +7,8 @@ source: Beastheart and Monstrous Companions
 aliases:
   - Primordial Bond
 tags:
-  - ttrpg-cli/compendium/src/5e/bst
-  - ttrpg-cli/subclass/beastheart/primordial
+  - compendium/src/5e/bst
+  - subclass/beastheart/primordial
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

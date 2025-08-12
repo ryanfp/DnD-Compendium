@@ -7,8 +7,8 @@ source: "Valda's Spire of Secrets"
 aliases:
   - House of Dice
 tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/warmage/dice
+  - compendium/src/5e/vss
+  - subclass/warmage/dice
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

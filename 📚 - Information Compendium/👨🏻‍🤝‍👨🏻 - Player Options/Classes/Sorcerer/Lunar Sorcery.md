@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:30
 aliases:
   - Lunar Sorcery
 tags:
-  - ttrpg-cli/compendium/src/5e/dsotdq
-  - ttrpg-cli/subclass/sorcerer/lunar
+  - compendium/src/5e/dsotdq
+  - subclass/sorcerer/lunar
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: lunar-sorcery-sorcerer

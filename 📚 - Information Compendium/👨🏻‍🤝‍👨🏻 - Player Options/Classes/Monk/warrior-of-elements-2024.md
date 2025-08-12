@@ -8,8 +8,8 @@ aliases:
   - Warrior of the Elements2024
   - monk-xphb-warrior-of-the-elements-xphb
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/subclass/monk/elements
+  - compendium/src/5e/xphb
+  - subclass/monk/elements
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: warrior-of-elements-2024-monk

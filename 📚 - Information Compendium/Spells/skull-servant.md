@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-spell
-tags: [ttrpg-cli/compendium/src/5e/ultimateadventurer, ttrpg-cli/spell/level/2nd-level, ttrpg-cli/spell/ritual, ttrpg-cli/spell/school/necromancy, ttrpg-cli/spell/subclass/curse-of-animation]
+tags: [compendium/src/5e/ultimateadventurer, spell/level/2nd-level, spell/ritual, spell/school/necromancy, spell/subclass/curse-of-animation]
 classes: [Accursed (Curse of Animation)]
 aliases:
   - Skull Servant

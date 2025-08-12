@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:42
 aliases:
   - School of Divination
 tags:
-  - ttrpg-cli/compendium/src/5e/phb
-  - ttrpg-cli/subclass/wizard/divination
+  - compendium/src/5e/phb
+  - subclass/wizard/divination
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: school-of-divination-wizard

@@ -9,9 +9,9 @@ aliases:
   - cleric-xphb-death-domain-dmg
   - Death Domain
 tags:
-  - ttrpg-cli/compendium/src/5e/dmg
-  - ttrpg-cli/domain/death
-  - ttrpg-cli/subclass/cleric/death
+  - compendium/src/5e/dmg
+  - domain/death
+  - subclass/cleric/death
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

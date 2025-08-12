@@ -7,8 +7,8 @@ source: Patreon Subclasses for the Pugilist
 aliases:
   - Mailed Fist
 tags:
-  - ttrpg-cli/compendium/src/5e/sterlingvermin:patreon
-  - ttrpg-cli/subclass/pugilist/mailed-fist
+  - compendium/src/5e/sterlingvermin:patreon
+  - subclass/pugilist/mailed-fist
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

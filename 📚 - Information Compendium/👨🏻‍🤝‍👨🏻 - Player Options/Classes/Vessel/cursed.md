@@ -9,8 +9,8 @@ aliases:
   - The Cursed
   - the-cursed
 tags:
-  - ttrpg-cli/compendium/src/5e/llvessel
-  - ttrpg-cli/subclass/vessel/cursed
+  - compendium/src/5e/llvessel
+  - subclass/vessel/cursed
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

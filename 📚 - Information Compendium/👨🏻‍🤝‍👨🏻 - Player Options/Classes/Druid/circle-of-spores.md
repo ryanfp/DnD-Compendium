@@ -7,8 +7,8 @@ source: Tasha's Cauldron of Everything
 aliases:
   - Circle of Spores
 tags:
-  - ttrpg-cli/compendium/src/5e/tce
-  - ttrpg-cli/subclass/druid/spores
+  - compendium/src/5e/tce
+  - subclass/druid/spores
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

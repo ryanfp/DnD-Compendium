@@ -9,8 +9,8 @@ aliases:
   - Circle of the Land 2024
   - druid-xphb-circle-of-the-land-xphb
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/subclass/druid/land
+  - compendium/src/5e/xphb
+  - subclass/druid/land
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

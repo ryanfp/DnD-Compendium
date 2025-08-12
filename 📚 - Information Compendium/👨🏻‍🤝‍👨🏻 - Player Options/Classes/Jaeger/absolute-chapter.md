@@ -8,8 +8,8 @@ aliases:
   - Absolute Chapter
   - jaeger-absolute-chapter-sgtteh
 tags:
-  - ttrpg-cli/compendium/src/5e/sgtteh
-  - ttrpg-cli/subclass/jaeger/absolute
+  - compendium/src/5e/sgtteh
+  - subclass/jaeger/absolute
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

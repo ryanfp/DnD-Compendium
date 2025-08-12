@@ -7,8 +7,8 @@ source: Patreon Subclasses for the Pugilist
 aliases:
   - Street Saint
 tags:
-  - ttrpg-cli/compendium/src/5e/sterlingvermin:patreon
-  - ttrpg-cli/subclass/pugilist/street-saint
+  - compendium/src/5e/sterlingvermin:patreon
+  - subclass/pugilist/street-saint
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

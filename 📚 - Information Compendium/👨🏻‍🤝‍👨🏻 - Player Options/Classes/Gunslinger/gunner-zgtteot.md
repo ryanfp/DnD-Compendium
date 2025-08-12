@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [ttrpg-cli/class/gunner, ttrpg-cli/compendium/src/5e/zgtteot]
+tags: [class/gunner, compendium/src/5e/zgtteot]
 aliases:
   - Gunner
   - Gunner

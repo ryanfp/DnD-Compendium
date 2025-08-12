@@ -7,8 +7,8 @@ source: Beastheart and Monstrous Companions
 aliases:
   - Infernal Bond
 tags:
-  - ttrpg-cli/compendium/src/5e/bst
-  - ttrpg-cli/subclass/beastheart/infernal
+  - compendium/src/5e/bst
+  - subclass/beastheart/infernal
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

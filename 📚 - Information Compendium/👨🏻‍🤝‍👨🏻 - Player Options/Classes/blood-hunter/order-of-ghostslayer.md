@@ -8,8 +8,8 @@ aliases:
   - Order of the Ghostslayer
   - order-of-the-ghostslayer
 tags:
-  - ttrpg-cli/compendium/src/5e/bh2022
-  - ttrpg-cli/subclass/blood-hunter/ghostslayer
+  - compendium/src/5e/bh2022
+  - subclass/blood-hunter/ghostslayer
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

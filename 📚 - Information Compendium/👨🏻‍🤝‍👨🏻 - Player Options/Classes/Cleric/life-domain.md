@@ -7,9 +7,9 @@ source: Player's Handbook
 aliases:
   - Life Domain
 tags:
-  - ttrpg-cli/compendium/src/5e/phb
-  - ttrpg-cli/domain/life
-  - ttrpg-cli/subclass/cleric/life
+  - compendium/src/5e/phb
+  - domain/life
+  - subclass/cleric/life
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

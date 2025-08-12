@@ -7,8 +7,8 @@ source: "Player's Handbook"
 aliases:
   - Ranger
 tags:
-  - ttrpg-cli/class/ranger
-  - ttrpg-cli/compendium/src/5e/phb
+  - class/ranger
+  - compendium/src/5e/phb
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

@@ -7,8 +7,8 @@ source: "The Ultimate Adventurer's Handbook"
 aliases:
   - Arena Royale
 tags:
-  - ttrpg-cli/compendium/src/5e/ultimateadventurer
-  - ttrpg-cli/subclass/pugilist/arena-royale
+  - compendium/src/5e/ultimateadventurer
+  - subclass/pugilist/arena-royale
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

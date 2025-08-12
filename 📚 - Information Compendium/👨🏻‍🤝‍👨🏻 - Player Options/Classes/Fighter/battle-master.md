@@ -7,8 +7,8 @@ source: "Player's Handbook"
 aliases:
   - Battle Master
 tags:
-  - ttrpg-cli/compendium/src/5e/phb
-  - ttrpg-cli/subclass/fighter/battle-master
+  - compendium/src/5e/phb
+  - subclass/fighter/battle-master
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

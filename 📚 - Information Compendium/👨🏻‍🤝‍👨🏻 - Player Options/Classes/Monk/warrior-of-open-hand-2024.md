@@ -8,8 +8,8 @@ aliases:
   - Warrior of the Open Hand2024
   - monk-xphb-warrior-of-the-open-hand-xphb
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/subclass/monk/open-hand
+  - compendium/src/5e/xphb
+  - subclass/monk/open-hand
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: warrior-of-open-hand-2024-monk

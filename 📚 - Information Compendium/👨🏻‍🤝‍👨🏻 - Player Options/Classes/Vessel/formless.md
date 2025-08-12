@@ -9,8 +9,8 @@ aliases:
   - The Formless
   - the-formless
 tags:
-  - ttrpg-cli/compendium/src/5e/llvessel
-  - ttrpg-cli/subclass/vessel/formless
+  - compendium/src/5e/llvessel
+  - subclass/vessel/formless
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

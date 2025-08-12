@@ -7,8 +7,8 @@ aliases:
   - Warlock 2024
   - warlock-xphb
 tags:
-  - ttrpg-cli/class/warlock
-  - ttrpg-cli/compendium/src/5e/xphb
+  - class/warlock
+  - compendium/src/5e/xphb
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: warlock-2024

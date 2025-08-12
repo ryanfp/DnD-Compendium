@@ -7,8 +7,8 @@ source: "Valda's Spire of Secrets"
 aliases:
   - House of Lancers
 tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/warmage/lancer
+  - compendium/src/5e/vss
+  - subclass/warmage/lancer
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

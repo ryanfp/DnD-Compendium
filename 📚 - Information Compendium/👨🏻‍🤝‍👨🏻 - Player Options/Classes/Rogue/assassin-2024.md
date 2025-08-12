@@ -7,8 +7,8 @@ aliases:
   - Assassin 2024
   - rogue-xphb-assassin-xphb
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/subclass/rogue/assassin
+  - compendium/src/5e/xphb
+  - subclass/rogue/assassin
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: assassin-2024-rogue

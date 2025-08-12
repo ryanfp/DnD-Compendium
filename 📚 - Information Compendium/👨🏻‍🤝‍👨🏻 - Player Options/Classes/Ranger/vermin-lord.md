@@ -7,8 +7,8 @@ source: "Grim Hollow: The Player's Guide"
 aliases:
   - Vermin Lord
 tags:
-  - ttrpg-cli/compendium/src/5e/ghpg
-  - ttrpg-cli/subclass/ranger/vermin-lord
+  - compendium/src/5e/ghpg
+  - subclass/ranger/vermin-lord
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

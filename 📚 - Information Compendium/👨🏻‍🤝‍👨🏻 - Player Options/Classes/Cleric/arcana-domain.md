@@ -7,9 +7,9 @@ source: Sword Coast Adventurer's Guide
 aliases:
   - Arcana Domain
 tags:
-  - ttrpg-cli/compendium/src/5e/scag
-  - ttrpg-cli/domain/arcana
-  - ttrpg-cli/subclass/cleric/arcana
+  - compendium/src/5e/scag
+  - domain/arcana
+  - subclass/cleric/arcana
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

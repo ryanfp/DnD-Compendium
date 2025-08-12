@@ -7,8 +7,8 @@ source: Savant Expanded
 aliases:
   - Virtuoso
 tags:
-  - ttrpg-cli/compendium/src/5e/llsave
-  - ttrpg-cli/subclass/savant/virtuoso
+  - compendium/src/5e/llsave
+  - subclass/savant/virtuoso
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

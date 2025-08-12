@@ -8,8 +8,8 @@ aliases:
   - Occultist
   - 2025-07-28-occultist
 tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/investigator/occultist
+  - compendium/src/5e/vss
+  - subclass/investigator/occultist
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

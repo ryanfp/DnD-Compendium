@@ -7,8 +7,8 @@ source: "The Ultimate Adventurer's Handbook"
 aliases:
   - Curse of Mummification
 tags:
-  - ttrpg-cli/compendium/src/5e/ultimateadventurer
-  - ttrpg-cli/subclass/accursed/mummification
+  - compendium/src/5e/ultimateadventurer
+  - subclass/accursed/mummification
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

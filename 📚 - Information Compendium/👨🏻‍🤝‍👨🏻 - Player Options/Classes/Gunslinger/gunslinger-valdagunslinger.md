@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags: [class/gunslinger, compendium/src/5e/valdagunslinger]
+title: Gunslinger
+created: 2025/06/15 at 22:24
+updated: 2025/08/11 at 23:32
 aliases:
   - Gunslinger
-  - Gunslinger
-created: 2025/06/15 at 22:24
-updated: 2025/07/13 at 00:17
+tags:
+  - class/gunslinger
+  - compendium/src/5e/valdagunslinger
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
 
 # Gunslinger

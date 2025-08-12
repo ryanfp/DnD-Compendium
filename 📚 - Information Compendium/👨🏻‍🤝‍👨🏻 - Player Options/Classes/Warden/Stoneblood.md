@@ -7,8 +7,8 @@ source: Kibbles' Compendium of Legends and Legacies
 aliases:
   - Stoneblood
 tags:
-  - ttrpg-cli/compendium/src/5e/kt-cll
-  - ttrpg-cli/subclass/warden/stoneblood
+  - compendium/src/5e/kt-cll
+  - subclass/warden/stoneblood
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

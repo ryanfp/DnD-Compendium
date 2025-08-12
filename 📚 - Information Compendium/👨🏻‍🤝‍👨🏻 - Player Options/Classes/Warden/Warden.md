@@ -7,8 +7,8 @@ source: "Kibbles' Compendium of Legends and Legacies"
 aliases:
   - Warden
 tags:
-  - ttrpg-cli/class/warden
-  - ttrpg-cli/compendium/src/5e/kt-cll
+  - class/warden
+  - compendium/src/5e/kt-cll
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

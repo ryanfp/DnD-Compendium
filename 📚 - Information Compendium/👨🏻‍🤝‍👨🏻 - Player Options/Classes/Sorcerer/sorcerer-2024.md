@@ -7,8 +7,8 @@ aliases:
   - Sorcerer 2024
   - sorcerer-xphb
 tags:
-  - ttrpg-cli/class/sorcerer
-  - ttrpg-cli/compendium/src/5e/xphb
+  - class/sorcerer
+  - compendium/src/5e/xphb
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: sorcerer-2024

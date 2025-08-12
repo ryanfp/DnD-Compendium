@@ -7,8 +7,8 @@ source: Savant Expanded
 aliases:
   - Philosopher
 tags:
-  - ttrpg-cli/compendium/src/5e/llsave
-  - ttrpg-cli/subclass/savant/philosopher
+  - compendium/src/5e/llsave
+  - subclass/savant/philosopher
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

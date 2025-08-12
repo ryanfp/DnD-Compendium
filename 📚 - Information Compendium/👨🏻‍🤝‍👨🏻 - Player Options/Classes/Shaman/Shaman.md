@@ -7,8 +7,8 @@ source: The Shaman
 aliases:
   - Shaman
 tags:
-  - ttrpg-cli/class/shaman
-  - ttrpg-cli/compendium/src/5e/llsh
+  - class/shaman
+  - compendium/src/5e/llsh
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

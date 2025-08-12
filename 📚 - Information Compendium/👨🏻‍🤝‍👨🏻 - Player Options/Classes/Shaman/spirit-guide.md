@@ -7,8 +7,8 @@ source: Shaman Expanded
 aliases:
   - Spirit Guide
 tags:
-  - ttrpg-cli/compendium/src/5e/llsh:e
-  - ttrpg-cli/subclass/shaman/spirit-guide
+  - compendium/src/5e/llsh:e
+  - subclass/shaman/spirit-guide
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

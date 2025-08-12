@@ -8,8 +8,8 @@ aliases:
   - Tradition of the Shaman
   - tradition-of-the-shaman
 tags:
-  - ttrpg-cli/compendium/src/5e/kt-cll
-  - ttrpg-cli/subclass/occultist/shaman
+  - compendium/src/5e/kt-cll
+  - subclass/occultist/shaman
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/kt:o
-- ttrpg-cli/subclass/occultist/oracle
+- compendium/src/5e/kt:o
+- subclass/occultist/oracle
 aliases:
 - Tradition of the Oracle
 ---

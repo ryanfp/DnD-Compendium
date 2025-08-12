@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- ttrpg-cli/class/occultist
-- ttrpg-cli/compendium/src/5e/kt:o
+- class/occultist
+- compendium/src/5e/kt:o
 aliases:
 - Occultist
 ---

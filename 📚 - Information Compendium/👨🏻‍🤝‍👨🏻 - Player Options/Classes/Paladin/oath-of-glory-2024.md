@@ -7,8 +7,8 @@ aliases:
   - Oath of Glory 2024
   - paladin-xphb-oath-of-glory-xphb
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/subclass/paladin/glory
+  - compendium/src/5e/xphb
+  - subclass/paladin/glory
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: oath-of-glory-2024-paladin

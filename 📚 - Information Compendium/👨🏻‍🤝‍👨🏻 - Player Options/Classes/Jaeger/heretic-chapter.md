@@ -8,8 +8,8 @@ aliases:
   - Heretic Chapter
   - jaeger-heretic-chapter-sgtteh
 tags:
-  - ttrpg-cli/compendium/src/5e/sgtteh
-  - ttrpg-cli/subclass/jaeger/heretic
+  - compendium/src/5e/sgtteh
+  - subclass/jaeger/heretic
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

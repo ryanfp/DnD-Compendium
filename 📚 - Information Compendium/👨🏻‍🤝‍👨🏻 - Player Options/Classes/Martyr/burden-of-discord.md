@@ -7,8 +7,8 @@ source: "Valda's Spire of Secrets"
 aliases:
   - Burden of Discord
 tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/martyr/discord
+  - compendium/src/5e/vss
+  - subclass/martyr/discord
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

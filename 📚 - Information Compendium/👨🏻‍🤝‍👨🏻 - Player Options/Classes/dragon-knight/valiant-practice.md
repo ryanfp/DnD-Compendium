@@ -7,8 +7,8 @@ source: Dragon Knight
 aliases:
   - Valiant Practice
 tags:
-  - ttrpg-cli/compendium/src/5e/dk
-  - ttrpg-cli/subclass/dragon-knight/valiant
+  - compendium/src/5e/dk
+  - subclass/dragon-knight/valiant
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

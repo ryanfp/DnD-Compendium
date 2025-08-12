@@ -7,9 +7,9 @@ source: Player's Handbook
 aliases:
   - Trickery Domain
 tags:
-  - ttrpg-cli/compendium/src/5e/phb
-  - ttrpg-cli/domain/trickery
-  - ttrpg-cli/subclass/cleric/trickery
+  - compendium/src/5e/phb
+  - domain/trickery
+  - subclass/cleric/trickery
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

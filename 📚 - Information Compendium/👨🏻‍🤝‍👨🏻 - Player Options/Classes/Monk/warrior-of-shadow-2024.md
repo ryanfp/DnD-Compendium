@@ -8,8 +8,8 @@ aliases:
   - Warrior of Shadow2024
   - monk-xphb-warrior-of-shadow-xphb
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/subclass/monk/shadow
+  - compendium/src/5e/xphb
+  - subclass/monk/shadow
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: warrior-of-shadow-2024-monk

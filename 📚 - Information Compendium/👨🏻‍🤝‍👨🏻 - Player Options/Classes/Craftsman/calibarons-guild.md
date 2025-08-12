@@ -7,8 +7,8 @@ source: "Valda's Spire of Secrets"
 aliases:
   - "Calibarons' Guild"
 tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/craftsman/calibarons
+  - compendium/src/5e/vss
+  - subclass/craftsman/calibarons
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

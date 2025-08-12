@@ -9,8 +9,8 @@ aliases:
   - The Trickster
   - the-trickster
 tags:
-  - ttrpg-cli/compendium/src/5e/llvessel
-  - ttrpg-cli/subclass/vessel/trickster
+  - compendium/src/5e/llvessel
+  - subclass/vessel/trickster
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

@@ -8,8 +8,8 @@ aliases:
   - Archivist
   - 2025-07-28-archivist
 tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/investigator/archivist
+  - compendium/src/5e/vss
+  - subclass/investigator/archivist
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

@@ -7,8 +7,8 @@ aliases:
   - Draconic Sorcery 2024
   - sorcerer-xphb-draconic-sorcery-xphb
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/subclass/sorcerer/draconic
+  - compendium/src/5e/xphb
+  - subclass/sorcerer/draconic
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: draconic-sorcery-2024-sorcerer

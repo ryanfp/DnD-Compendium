@@ -8,8 +8,8 @@ aliases:
   - Circle of the Land
   - druid-xphb-circle-of-the-land
 tags:
-  - ttrpg-cli/compendium/src/5e/phb
-  - ttrpg-cli/subclass/druid/land
+  - compendium/src/5e/phb
+  - subclass/druid/land
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

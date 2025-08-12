@@ -7,9 +7,9 @@ source: Player's Handbook
 aliases:
   - Light Domain
 tags:
-  - ttrpg-cli/compendium/src/5e/phb
-  - ttrpg-cli/domain/light
-  - ttrpg-cli/subclass/cleric/light
+  - compendium/src/5e/phb
+  - domain/light
+  - subclass/cleric/light
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

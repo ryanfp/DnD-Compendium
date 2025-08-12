@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - ttrpg-cli/class/card-slinger
-  - ttrpg-cli/compendium/src/5e/nethingmagiccardslinger
+  - class/card-slinger
+  - compendium/src/5e/nethingmagiccardslinger
 aliases:
   - Card Slinger
   - card-slinger-nethingmagiccardslinger

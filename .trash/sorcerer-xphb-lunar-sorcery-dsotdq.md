@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/dsotdq
-- ttrpg-cli/subclass/sorcerer/lunar
+- compendium/src/5e/dsotdq
+- subclass/sorcerer/lunar
 aliases:
 - Lunar Sorcery
 ---

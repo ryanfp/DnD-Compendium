@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:29
 aliases:
   - Mastermind
 tags:
-  - ttrpg-cli/compendium/src/5e/xge
-  - ttrpg-cli/subclass/rogue/mastermind
+  - compendium/src/5e/xge
+  - subclass/rogue/mastermind
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: mastermind-rogue

@@ -9,9 +9,9 @@ aliases:
   - cleric-xphb-tempest-domain
   - Tempest Domain
 tags:
-  - ttrpg-cli/compendium/src/5e/phb
-  - ttrpg-cli/domain/tempest
-  - ttrpg-cli/subclass/cleric/tempest
+  - compendium/src/5e/phb
+  - domain/tempest
+  - subclass/cleric/tempest
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

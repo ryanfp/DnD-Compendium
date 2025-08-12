@@ -7,8 +7,8 @@ aliases:
   - Thief 2024
   - rogue-xphb-thief-xphb
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/subclass/rogue/thief
+  - compendium/src/5e/xphb
+  - subclass/rogue/thief
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: thief-2024-rogue

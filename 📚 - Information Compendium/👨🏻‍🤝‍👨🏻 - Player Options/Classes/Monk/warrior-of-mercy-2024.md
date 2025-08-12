@@ -8,8 +8,8 @@ aliases:
   - Warrior of Mercy2024
   - monk-xphb-warrior-of-mercy-xphb
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/subclass/monk/mercy
+  - compendium/src/5e/xphb
+  - subclass/monk/mercy
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: warrior-of-mercy-2024-monk

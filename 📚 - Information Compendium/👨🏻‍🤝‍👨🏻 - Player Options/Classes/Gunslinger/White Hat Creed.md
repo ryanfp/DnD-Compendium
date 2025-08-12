@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/gunslinger/white-hat]
+tags: [compendium/src/5e/vss, subclass/gunslinger/white-hat]
 aliases:
   - White Hat Creed
   - White Hat

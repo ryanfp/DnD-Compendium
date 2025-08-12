@@ -8,8 +8,8 @@ aliases:
   - accursed
   - Accursed
 tags:
-  - ttrpg-cli/class/accursed
-  - ttrpg-cli/compendium/src/5e/ultimateadventurer
+  - class/accursed
+  - compendium/src/5e/ultimateadventurer
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

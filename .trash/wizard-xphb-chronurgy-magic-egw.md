@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/egw
-- ttrpg-cli/subclass/wizard/chronurgy
+- compendium/src/5e/egw
+- subclass/wizard/chronurgy
 aliases:
 - Chronurgy Magic
 ---

@@ -7,8 +7,8 @@ aliases:
   - Aberrant Sorcery 2024
   - sorcerer-xphb-aberrant-sorcery-xphb
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/subclass/sorcerer/aberrant
+  - compendium/src/5e/xphb
+  - subclass/sorcerer/aberrant
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: aberrant-sorcery-2024-sorcerer

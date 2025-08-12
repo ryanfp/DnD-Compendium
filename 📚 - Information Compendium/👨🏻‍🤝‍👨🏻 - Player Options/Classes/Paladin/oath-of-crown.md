@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:23
 aliases:
   - Oath of the Crown
 tags:
-  - ttrpg-cli/compendium/src/5e/scag
-  - ttrpg-cli/subclass/paladin/crown
+  - compendium/src/5e/scag
+  - subclass/paladin/crown
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: oath-of-crown-paladin

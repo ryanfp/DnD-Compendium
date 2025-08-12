@@ -7,8 +7,8 @@ source: The Vessel
 aliases:
   - Vessel
 tags:
-  - ttrpg-cli/class/vessel
-  - ttrpg-cli/compendium/src/5e/llvessel
+  - class/vessel
+  - compendium/src/5e/llvessel
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

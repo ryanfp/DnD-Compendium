@@ -9,9 +9,9 @@ aliases:
   - cleric-xphb-knowledge-domain
   - Knowledge Domain
 tags:
-  - ttrpg-cli/compendium/src/5e/phb
-  - ttrpg-cli/domain/knowledge
-  - ttrpg-cli/subclass/cleric/knowledge
+  - compendium/src/5e/phb
+  - domain/knowledge
+  - subclass/cleric/knowledge
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

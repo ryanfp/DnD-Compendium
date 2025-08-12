@@ -9,8 +9,8 @@ aliases:
   - Psi Warrior 2024
   - fighter-xphb-psi-warrior-xphb
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/subclass/fighter/psi-warrior
+  - compendium/src/5e/xphb
+  - subclass/fighter/psi-warrior
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

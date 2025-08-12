@@ -8,8 +8,8 @@ aliases:
   - Drakewarden
   - ranger-drakewarden-ftd
 tags:
-  - ttrpg-cli/compendium/src/5e/ftd
-  - ttrpg-cli/subclass/ranger/drakewarden
+  - compendium/src/5e/ftd
+  - subclass/ranger/drakewarden
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

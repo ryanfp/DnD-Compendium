@@ -9,8 +9,8 @@ aliases:
   - Dynamo Engineer Field
   - dynamo-engineer-field
 tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/alchemist/dynamo-engineer
+  - compendium/src/5e/vss
+  - subclass/alchemist/dynamo-engineer
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

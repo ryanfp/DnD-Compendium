@@ -7,8 +7,8 @@ source: "The Ultimate Adventurer's Handbook"
 aliases:
   - Dog & Hound
 tags:
-  - ttrpg-cli/compendium/src/5e/ultimateadventurer
-  - ttrpg-cli/subclass/pugilist/dog-hound
+  - compendium/src/5e/ultimateadventurer
+  - subclass/pugilist/dog-hound
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

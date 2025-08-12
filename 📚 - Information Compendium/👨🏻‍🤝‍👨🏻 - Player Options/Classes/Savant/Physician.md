@@ -7,8 +7,8 @@ source: Savant
 aliases:
   - Physician
 tags:
-  - ttrpg-cli/compendium/src/5e/llsav
-  - ttrpg-cli/subclass/savant/physician
+  - compendium/src/5e/llsav
+  - subclass/savant/physician
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

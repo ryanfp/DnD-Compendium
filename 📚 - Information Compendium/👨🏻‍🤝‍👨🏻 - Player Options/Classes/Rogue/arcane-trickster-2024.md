@@ -7,8 +7,8 @@ aliases:
   - Arcane Trickster 2024
   - rogue-xphb-arcane-trickster-xphb
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/subclass/rogue/arcane-trickster
+  - compendium/src/5e/xphb
+  - subclass/rogue/arcane-trickster
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: arcane-trickster-2024-rogue

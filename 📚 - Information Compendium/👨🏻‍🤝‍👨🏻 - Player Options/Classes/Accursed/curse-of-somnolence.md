@@ -7,8 +7,8 @@ source: "The Ultimate Adventurer's Handbook"
 aliases:
   - Curse of Somnolence
 tags:
-  - ttrpg-cli/compendium/src/5e/ultimateadventurer
-  - ttrpg-cli/subclass/accursed/somnolence
+  - compendium/src/5e/ultimateadventurer
+  - subclass/accursed/somnolence
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

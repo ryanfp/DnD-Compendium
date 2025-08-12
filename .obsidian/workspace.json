@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c37fa5d0aeda1162",
+        "id": "0f4096b47ff804e0",
         "type": "tabs",
         "children": [
           {
@@ -16,6 +16,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "gunslinger-valdagunslinger",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Gunslinger/gunslinger-valdagunslinger.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"gunslinger-valdagunslinger\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "barbarian-2024",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/barbarian-2024.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"barbarian-2024\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Quick  Thoughts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Quick  Thoughts.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Quick  Thoughts\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":28},\"to\":{\"line\":19,\"ch\":28}},\"scroll\":0}"
                 },
                 {
                   "title": "Classes",
@@ -4078,7 +4096,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick  Thoughts.md",
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/aberrant-mind.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -4093,7 +4111,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Quick  Thoughts"
+              "title": "aberrant-mind"
             }
           }
         ]
@@ -4108,7 +4126,7 @@
       {
         "id": "18a6a72c97b9c3ec",
         "type": "tabs",
-        "dimension": 64.79066575154427,
+        "dimension": 42.964996568291006,
         "children": [
           {
             "id": "fcaa59025a7544d2",
@@ -4201,7 +4219,7 @@
       {
         "id": "a3116cdcaf599a64",
         "type": "tabs",
-        "dimension": 35.20933424845573,
+        "dimension": 57.03500343170899,
         "children": [
           {
             "id": "f068611f25fe0e60",
@@ -4228,7 +4246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 378.51625061035156
   },
   "right": {
     "id": "fc1490c296b0c5ab",
@@ -4254,12 +4272,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quick  Thoughts.md",
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/aberrant-mind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Quick  Thoughts"
+              "title": "Outgoing links from aberrant-mind"
             }
           },
           {
@@ -4589,8 +4607,11 @@
   },
   "active": "a5ec94890ee5953b",
   "lastOpenFiles": [
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
+    "New folder",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Gunslinger/gunslinger-valdagunslinger.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/barbarian-2024.md",
     "Quick  Thoughts.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "Filename Test.md",
     "filename-test.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/blood-hunter/blood-hunter.md",
@@ -4619,12 +4640,9 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/venomsmith.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/mutagenist.md",
     "z_Scripts/Unconfirmed 276216.crdownload",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/mad-bomber.md",
     "z_Scripts/Unconfirmed 573939.crdownload",
     "z_Scripts/Unconfirmed 217957.crdownload",
     "z_Scripts/link-title-replacer.js",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/dynamo-engineer.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-misfortune.md",
     "z_img/garden-icon.svg",
     "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg",
     "z_img/Pause-Circle-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg",

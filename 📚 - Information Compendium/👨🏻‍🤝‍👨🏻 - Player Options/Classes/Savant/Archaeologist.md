@@ -7,8 +7,8 @@ source: Savant
 aliases:
   - Archaeologist
 tags:
-  - ttrpg-cli/compendium/src/5e/llsav
-  - ttrpg-cli/subclass/savant/archaeologist
+  - compendium/src/5e/llsav
+  - subclass/savant/archaeologist
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

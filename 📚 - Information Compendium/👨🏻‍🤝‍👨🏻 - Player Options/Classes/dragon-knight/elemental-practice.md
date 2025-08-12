@@ -7,8 +7,8 @@ source: Dragon Knight
 aliases:
   - Elemental Practice
 tags:
-  - ttrpg-cli/compendium/src/5e/dk
-  - ttrpg-cli/subclass/dragon-knight/elemental
+  - compendium/src/5e/dk
+  - subclass/dragon-knight/elemental
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

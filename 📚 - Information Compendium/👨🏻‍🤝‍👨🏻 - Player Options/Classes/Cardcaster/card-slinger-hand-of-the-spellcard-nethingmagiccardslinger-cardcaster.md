@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - ttrpg-cli/compendium/src/5e/nethingmagiccardslinger
-  - ttrpg-cli/subclass/card-slinger/spellcard
+  - compendium/src/5e/nethingmagiccardslinger
+  - subclass/card-slinger/spellcard
 aliases:
   - Hand of the Spellcard
   - card-slinger-hand-of-the-spellcard-nethingmagiccardslinger

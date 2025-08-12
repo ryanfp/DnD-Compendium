@@ -9,9 +9,9 @@ aliases:
   - cleric-xphb-order-domain-tce
   - Order Domain
 tags:
-  - ttrpg-cli/compendium/src/5e/tce
-  - ttrpg-cli/domain/order
-  - ttrpg-cli/subclass/cleric/order
+  - compendium/src/5e/tce
+  - domain/order
+  - subclass/cleric/order
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

@@ -6,8 +6,8 @@ permalink: cleric
 aliases:
   - Cleric
 tags:
-  - ttrpg-cli/class/cleric
-  - ttrpg-cli/compendium/src/5e/phb
+  - class/cleric
+  - compendium/src/5e/phb
 cssclasses: json5e-class
 obsidianUIMode: preview
 source: Player's Handbook

@@ -7,8 +7,8 @@ source: Warlord
 aliases:
   - Academy of Chivalry
 tags:
-  - ttrpg-cli/compendium/src/5e/llaw
-  - ttrpg-cli/subclass/warlord/chivalry
+  - compendium/src/5e/llaw
+  - subclass/warlord/chivalry
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

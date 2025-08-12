@@ -7,8 +7,8 @@ source: "KibblesTasty: Psion"
 aliases:
   - Shaper
 tags:
-  - ttrpg-cli/compendium/src/5e/ktp
-  - ttrpg-cli/subclass/psion/shaper
+  - compendium/src/5e/ktp
+  - subclass/psion/shaper
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

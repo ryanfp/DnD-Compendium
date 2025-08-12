@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:42
 aliases:
   - Wizard
 tags:
-  - ttrpg-cli/class/wizard
-  - ttrpg-cli/compendium/src/5e/phb
+  - class/wizard
+  - compendium/src/5e/phb
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: wizard

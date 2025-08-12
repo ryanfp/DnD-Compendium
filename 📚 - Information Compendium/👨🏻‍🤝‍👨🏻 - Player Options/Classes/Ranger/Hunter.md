@@ -7,8 +7,8 @@ source: "Player's Handbook"
 aliases:
   - Hunter
 tags:
-  - ttrpg-cli/compendium/src/5e/phb
-  - ttrpg-cli/subclass/ranger/hunter
+  - compendium/src/5e/phb
+  - subclass/ranger/hunter
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

@@ -7,8 +7,8 @@ source: "Tasha's Cauldron of Everything"
 aliases:
   - Fey Wanderer
 tags:
-  - ttrpg-cli/compendium/src/5e/tce
-  - ttrpg-cli/subclass/ranger/fey-wanderer
+  - compendium/src/5e/tce
+  - subclass/ranger/fey-wanderer
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

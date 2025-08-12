@@ -7,8 +7,8 @@ aliases:
   - Oath of the Ancients 2024
   - paladin-xphb-oath-of-the-ancients-xphb
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/subclass/paladin/ancients
+  - compendium/src/5e/xphb
+  - subclass/paladin/ancients
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: oath-of-ancients-2024-paladin

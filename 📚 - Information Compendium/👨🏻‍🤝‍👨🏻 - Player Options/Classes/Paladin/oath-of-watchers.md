@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:23
 aliases:
   - Oath of the Watchers
 tags:
-  - ttrpg-cli/compendium/src/5e/tce
-  - ttrpg-cli/subclass/paladin/watchers
+  - compendium/src/5e/tce
+  - subclass/paladin/watchers
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: oath-of-watchers-paladin

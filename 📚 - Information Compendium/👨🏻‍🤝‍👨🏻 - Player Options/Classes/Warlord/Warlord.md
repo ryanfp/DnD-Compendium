@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:40
 aliases:
   - Warlord
 tags:
-  - ttrpg-cli/class/warlord
-  - ttrpg-cli/compendium/src/5e/llaw
+  - class/warlord
+  - compendium/src/5e/llaw
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: warlord

@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:30
 aliases:
   - Wild Magic
 tags:
-  - ttrpg-cli/compendium/src/5e/phb
-  - ttrpg-cli/subclass/sorcerer/wild
+  - compendium/src/5e/phb
+  - subclass/sorcerer/wild
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: wild-magic-sorcerer

@@ -7,8 +7,8 @@ aliases:
   - Soulknife 2024
   - rogue-xphb-soulknife-xphb
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/subclass/rogue/soulknife
+  - compendium/src/5e/xphb
+  - subclass/rogue/soulknife
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: soulknife-2024-rogue

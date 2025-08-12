@@ -10,8 +10,8 @@ aliases:
   - the-ascended
   - the-ascended-vessel
 tags:
-  - ttrpg-cli/compendium/src/5e/llvessel
-  - ttrpg-cli/subclass/vessel/ascended
+  - compendium/src/5e/llvessel
+  - subclass/vessel/ascended
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

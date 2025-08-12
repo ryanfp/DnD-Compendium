@@ -7,8 +7,8 @@ source: Kibbles' Compendium of Legends and Legacies
 aliases:
   - Astral Guardian
 tags:
-  - ttrpg-cli/compendium/src/5e/kt-cll
-  - ttrpg-cli/subclass/warden/astral-guardian
+  - compendium/src/5e/kt-cll
+  - subclass/warden/astral-guardian
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

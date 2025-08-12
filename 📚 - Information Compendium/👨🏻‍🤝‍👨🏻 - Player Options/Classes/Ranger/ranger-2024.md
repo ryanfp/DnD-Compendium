@@ -9,8 +9,8 @@ aliases:
   - Ranger 2024
   - ranger-xphb
 tags:
-  - ttrpg-cli/class/ranger
-  - ttrpg-cli/compendium/src/5e/xphb
+  - class/ranger
+  - compendium/src/5e/xphb
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

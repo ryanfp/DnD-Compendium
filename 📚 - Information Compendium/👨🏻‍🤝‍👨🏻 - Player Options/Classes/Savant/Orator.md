@@ -7,8 +7,8 @@ source: Savant Expanded
 aliases:
   - Orator
 tags:
-  - ttrpg-cli/compendium/src/5e/llsave
-  - ttrpg-cli/subclass/savant/orator
+  - compendium/src/5e/llsave
+  - subclass/savant/orator
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

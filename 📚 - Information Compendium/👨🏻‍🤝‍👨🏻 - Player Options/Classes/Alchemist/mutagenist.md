@@ -9,8 +9,8 @@ aliases:
   - Mutagenist Field
   - mutagenist-field
 tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/alchemist/mutagenist
+  - compendium/src/5e/vss
+  - subclass/alchemist/mutagenist
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

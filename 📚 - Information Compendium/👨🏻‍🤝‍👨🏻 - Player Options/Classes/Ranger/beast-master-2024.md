@@ -9,8 +9,8 @@ aliases:
   - Beast Master 2024
   - ranger-xphb-beast-master-xphb
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/subclass/ranger/beast-master
+  - compendium/src/5e/xphb
+  - subclass/ranger/beast-master
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

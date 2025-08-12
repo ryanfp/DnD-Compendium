@@ -7,8 +7,8 @@ source: "Tasha's Cauldron of Everything"
 aliases:
   - Rune Knight
 tags:
-  - ttrpg-cli/compendium/src/5e/tce
-  - ttrpg-cli/subclass/fighter/rune-knight
+  - compendium/src/5e/tce
+  - subclass/fighter/rune-knight
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

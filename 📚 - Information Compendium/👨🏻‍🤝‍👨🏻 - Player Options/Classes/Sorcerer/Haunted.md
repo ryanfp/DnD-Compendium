@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:30
 aliases:
   - Haunted
 tags:
-  - ttrpg-cli/compendium/src/5e/ghpg
-  - ttrpg-cli/subclass/sorcerer/haunted
+  - compendium/src/5e/ghpg
+  - subclass/sorcerer/haunted
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: haunted-sorcerer

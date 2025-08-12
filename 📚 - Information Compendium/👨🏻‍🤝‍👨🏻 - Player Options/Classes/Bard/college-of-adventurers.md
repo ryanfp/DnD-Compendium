@@ -7,8 +7,8 @@ source: "Grim Hollow: The Player's Guide"
 aliases:
   - College of Adventurers
 tags:
-  - ttrpg-cli/compendium/src/5e/ghpg
-  - ttrpg-cli/subclass/bard/adventurers
+  - compendium/src/5e/ghpg
+  - subclass/bard/adventurers
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

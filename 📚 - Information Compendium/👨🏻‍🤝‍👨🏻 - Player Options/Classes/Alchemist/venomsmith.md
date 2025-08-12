@@ -9,8 +9,8 @@ aliases:
   - Venomsmith Field
   - venomsmith-field
 tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/alchemist/venomsmith
+  - compendium/src/5e/vss
+  - subclass/alchemist/venomsmith
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/zgtteot, ttrpg-cli/subclass/gunner/deadeye]
+tags: [compendium/src/5e/zgtteot, subclass/gunner/deadeye]
 aliases:
   - Deadeye
   - Deadeye

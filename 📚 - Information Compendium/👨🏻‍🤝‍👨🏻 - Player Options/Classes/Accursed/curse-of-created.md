@@ -8,8 +8,8 @@ aliases:
   - Curse of the Created
   - curse-of-the-created
 tags:
-  - ttrpg-cli/compendium/src/5e/ultimateadventurer
-  - ttrpg-cli/subclass/accursed/created
+  - compendium/src/5e/ultimateadventurer
+  - subclass/accursed/created
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

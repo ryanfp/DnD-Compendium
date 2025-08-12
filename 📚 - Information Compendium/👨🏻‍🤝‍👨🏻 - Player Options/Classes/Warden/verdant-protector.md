@@ -8,8 +8,8 @@ aliases:
   - Verdant Protector
   - warden-verdant-protector-vss
 tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/warden/verdant-protector
+  - compendium/src/5e/vss
+  - subclass/warden/verdant-protector
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

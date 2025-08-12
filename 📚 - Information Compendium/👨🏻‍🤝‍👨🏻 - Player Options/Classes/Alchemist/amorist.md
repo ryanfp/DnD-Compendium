@@ -9,8 +9,8 @@ aliases:
   - Amorist Field
   - amorist-field
 tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/alchemist/amorist
+  - compendium/src/5e/vss
+  - subclass/alchemist/amorist
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

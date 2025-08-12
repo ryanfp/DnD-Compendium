@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/subclass/warlock/undying
+- compendium/src/5e/scag
+- subclass/warlock/undying
 aliases:
 - The Undying
 ---

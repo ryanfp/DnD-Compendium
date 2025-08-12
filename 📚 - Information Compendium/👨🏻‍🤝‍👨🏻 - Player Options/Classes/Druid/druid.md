@@ -7,8 +7,8 @@ source: Player's Handbook
 aliases:
   - Druid
 tags:
-  - ttrpg-cli/class/druid
-  - ttrpg-cli/compendium/src/5e/phb
+  - class/druid
+  - compendium/src/5e/phb
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

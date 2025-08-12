@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:41
 aliases:
   - Blood Magic
 tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/witch/blood
+  - compendium/src/5e/vss
+  - subclass/witch/blood
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: blood-magic-witch

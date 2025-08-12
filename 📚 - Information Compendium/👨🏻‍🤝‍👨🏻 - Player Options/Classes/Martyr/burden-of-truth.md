@@ -7,8 +7,8 @@ source: "Valda's Spire of Secrets"
 aliases:
   - Burden of Truth
 tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/martyr/truth
+  - compendium/src/5e/vss
+  - subclass/martyr/truth
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

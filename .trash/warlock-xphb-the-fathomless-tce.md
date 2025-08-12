@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/warlock/fathomless
+- compendium/src/5e/tce
+- subclass/warlock/fathomless
 aliases:
 - The Fathomless
 ---

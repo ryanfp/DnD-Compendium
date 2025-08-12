@@ -7,8 +7,8 @@ source: "Tasha's Cauldron of Everything"
 aliases:
   - Artificer
 tags:
-  - ttrpg-cli/class/artificer
-  - ttrpg-cli/compendium/src/5e/tce
+  - class/artificer
+  - compendium/src/5e/tce
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

@@ -7,9 +7,9 @@ source: Grim Hollow: The Player's Guide
 aliases:
   - Eldritch Domain
 tags:
-  - ttrpg-cli/compendium/src/5e/ghpg
-  - ttrpg-cli/domain/eldritch
-  - ttrpg-cli/subclass/cleric/eldritch
+  - compendium/src/5e/ghpg
+  - domain/eldritch
+  - subclass/cleric/eldritch
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:20
 aliases:
   - Way of the Leaden Crown
 tags:
-  - ttrpg-cli/compendium/src/5e/ghpg
-  - ttrpg-cli/subclass/monk/leaden-crown
+  - compendium/src/5e/ghpg
+  - subclass/monk/leaden-crown
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: way-of-leaden-crown-monk

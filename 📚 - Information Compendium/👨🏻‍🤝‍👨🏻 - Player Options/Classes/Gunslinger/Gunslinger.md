@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [ttrpg-cli/class/gunslinger, ttrpg-cli/compendium/src/5e/vss]
+tags: [class/gunslinger, compendium/src/5e/vss]
 aliases:
   - Gunslinger
 created: 2025/06/13 at 22:27

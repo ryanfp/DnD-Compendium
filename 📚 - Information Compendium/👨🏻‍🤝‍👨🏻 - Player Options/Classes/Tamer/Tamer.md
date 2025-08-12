@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:35
 aliases:
   - Tamer
 tags:
-  - ttrpg-cli/class/tamer
-  - ttrpg-cli/compendium/src/5e/helianasguidetomonsterhunting
+  - class/tamer
+  - compendium/src/5e/helianasguidetomonsterhunting
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: tamer

@@ -9,9 +9,9 @@ aliases:
   - Trickery Domain
   - Trickery Domain 2024
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/domain/trickery
-  - ttrpg-cli/subclass/cleric/trickery
+  - compendium/src/5e/xphb
+  - domain/trickery
+  - subclass/cleric/trickery
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

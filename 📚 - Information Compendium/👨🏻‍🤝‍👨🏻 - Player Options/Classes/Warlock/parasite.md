@@ -7,8 +7,8 @@ source: "Grim Hollow: The Player's Guide"
 aliases:
   - The Parasite
 tags:
-  - ttrpg-cli/compendium/src/5e/ghpg
-  - ttrpg-cli/subclass/warlock/the-parasite
+  - compendium/src/5e/ghpg
+  - subclass/warlock/the-parasite
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

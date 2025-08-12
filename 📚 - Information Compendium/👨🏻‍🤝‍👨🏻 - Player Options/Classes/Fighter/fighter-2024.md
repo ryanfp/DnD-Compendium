@@ -9,8 +9,8 @@ aliases:
   - Fighter 2024
   - fighter-xphb
 tags:
-  - ttrpg-cli/class/fighter
-  - ttrpg-cli/compendium/src/5e/xphb
+  - class/fighter
+  - compendium/src/5e/xphb
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

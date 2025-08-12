@@ -7,8 +7,8 @@ source: The Shaman
 aliases:
   - Curse Binder
 tags:
-  - ttrpg-cli/compendium/src/5e/llsh
-  - ttrpg-cli/subclass/shaman/curse-binder
+  - compendium/src/5e/llsh
+  - subclass/shaman/curse-binder
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

@@ -7,8 +7,8 @@ aliases:
   - Rogue 2024
   - rogue-xphb
 tags:
-  - ttrpg-cli/class/rogue
-  - ttrpg-cli/compendium/src/5e/xphb
+  - class/rogue
+  - compendium/src/5e/xphb
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: rogue-2024

@@ -7,8 +7,8 @@ source: Shaman Expanded
 aliases:
   - Idolater
 tags:
-  - ttrpg-cli/compendium/src/5e/llsh:e
-  - ttrpg-cli/subclass/shaman/idolater
+  - compendium/src/5e/llsh:e
+  - subclass/shaman/idolater
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

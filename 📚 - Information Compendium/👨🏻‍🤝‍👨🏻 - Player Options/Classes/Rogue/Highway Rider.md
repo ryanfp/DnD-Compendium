@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:29
 aliases:
   - Highway Rider
 tags:
-  - ttrpg-cli/compendium/src/5e/ghpg
-  - ttrpg-cli/subclass/rogue/highway-rider
+  - compendium/src/5e/ghpg
+  - subclass/rogue/highway-rider
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: highway-rider-rogue

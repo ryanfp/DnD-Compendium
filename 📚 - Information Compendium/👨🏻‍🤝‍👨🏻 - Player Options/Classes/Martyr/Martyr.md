@@ -7,8 +7,8 @@ source: "Valda's Spire of Secrets"
 aliases:
   - Martyr
 tags:
-  - ttrpg-cli/class/martyr
-  - ttrpg-cli/compendium/src/5e/vss
+  - class/martyr
+  - compendium/src/5e/vss
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

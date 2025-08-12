@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:20
 aliases:
   - Way of the Long Death
 tags:
-  - ttrpg-cli/compendium/src/5e/scag
-  - ttrpg-cli/subclass/monk/long-death
+  - compendium/src/5e/scag
+  - subclass/monk/long-death
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: way-of-long-death-monk

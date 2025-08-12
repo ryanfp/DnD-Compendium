@@ -7,8 +7,8 @@ source: Player's Handbook
 aliases:
   - Circle of the Land
 tags:
-  - ttrpg-cli/compendium/src/5e/phb
-  - ttrpg-cli/subclass/druid/land
+  - compendium/src/5e/phb
+  - subclass/druid/land
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

@@ -7,8 +7,8 @@ source: "Valda's Spire of Secrets"
 aliases:
   - Burden of Revolution
 tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/martyr/revolution
+  - compendium/src/5e/vss
+  - subclass/martyr/revolution
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

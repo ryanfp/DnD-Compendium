@@ -7,8 +7,8 @@ source: "Valda's Spire of Secrets"
 aliases:
   - "Forgeknights' Guild"
 tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/craftsman/forgeknights
+  - compendium/src/5e/vss
+  - subclass/craftsman/forgeknights
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

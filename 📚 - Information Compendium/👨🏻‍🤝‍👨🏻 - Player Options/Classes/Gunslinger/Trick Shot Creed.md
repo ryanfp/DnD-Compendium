@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/gunslinger/trick-shot]
+tags: [compendium/src/5e/vss, subclass/gunslinger/trick-shot]
 aliases:
   - Trick Shot Creed
   - Trick Shot

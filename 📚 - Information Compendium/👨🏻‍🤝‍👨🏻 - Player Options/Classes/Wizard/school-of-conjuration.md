@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:42
 aliases:
   - School of Conjuration
 tags:
-  - ttrpg-cli/compendium/src/5e/phb
-  - ttrpg-cli/subclass/wizard/conjuration
+  - compendium/src/5e/phb
+  - subclass/wizard/conjuration
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: school-of-conjuration-wizard

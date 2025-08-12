@@ -7,8 +7,8 @@ aliases:
   - Abjurer 2024
   - wizard-xphb-abjurer-xphb
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/subclass/wizard/abjurer
+  - compendium/src/5e/xphb
+  - subclass/wizard/abjurer
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: abjurer-2024-wizard

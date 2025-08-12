@@ -7,8 +7,8 @@ source: "Valda's Spire of Secrets"
 aliases:
   - Warmage
 tags:
-  - ttrpg-cli/class/warmage
-  - ttrpg-cli/compendium/src/5e/vss
+  - class/warmage
+  - compendium/src/5e/vss
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

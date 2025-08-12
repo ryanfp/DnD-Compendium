@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:30
 aliases:
   - Graviturgy Magic
 tags:
-  - ttrpg-cli/compendium/src/5e/egw
-  - ttrpg-cli/subclass/wizard/graviturgy
+  - compendium/src/5e/egw
+  - subclass/wizard/graviturgy
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: graviturgy-magic-wizard

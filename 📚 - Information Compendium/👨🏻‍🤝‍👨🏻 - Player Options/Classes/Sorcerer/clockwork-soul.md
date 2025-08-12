@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:30
 aliases:
   - Clockwork Soul
 tags:
-  - ttrpg-cli/compendium/src/5e/tce
-  - ttrpg-cli/subclass/sorcerer/clockwork-soul
+  - compendium/src/5e/tce
+  - subclass/sorcerer/clockwork-soul
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: clockwork-soul-sorcerer

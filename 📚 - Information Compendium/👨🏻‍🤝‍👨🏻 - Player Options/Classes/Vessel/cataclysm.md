@@ -9,8 +9,8 @@ aliases:
   - The Cataclysm
   - the-cataclysm
 tags:
-  - ttrpg-cli/compendium/src/5e/llvessel
-  - ttrpg-cli/subclass/vessel/cataclysm
+  - compendium/src/5e/llvessel
+  - subclass/vessel/cataclysm
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

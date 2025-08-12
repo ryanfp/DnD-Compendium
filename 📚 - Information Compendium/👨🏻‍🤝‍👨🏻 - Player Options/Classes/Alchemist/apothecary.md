@@ -9,8 +9,8 @@ aliases:
   - Apothecary Field
   - apothecary-field
 tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/alchemist/apothecary
+  - compendium/src/5e/vss
+  - subclass/alchemist/apothecary
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

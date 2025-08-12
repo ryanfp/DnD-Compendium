@@ -7,8 +7,8 @@ source: Savant Expanded
 aliases:
   - Rune Scribe
 tags:
-  - ttrpg-cli/compendium/src/5e/llsave
-  - ttrpg-cli/subclass/savant/rune-scribe
+  - compendium/src/5e/llsave
+  - subclass/savant/rune-scribe
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

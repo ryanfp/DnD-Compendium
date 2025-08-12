@@ -7,8 +7,8 @@ source: "KibblesTasty: Psion"
 aliases:
   - Psion
 tags:
-  - ttrpg-cli/class/psion
-  - ttrpg-cli/compendium/src/5e/ktp
+  - class/psion
+  - compendium/src/5e/ktp
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

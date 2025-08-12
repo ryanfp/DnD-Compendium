@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:35
 aliases:
   - Necromancer
 tags:
-  - ttrpg-cli/compendium/src/5e/helianasguidetomonsterhunting
-  - ttrpg-cli/subclass/tamer/necromancer
+  - compendium/src/5e/helianasguidetomonsterhunting
+  - subclass/tamer/necromancer
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: necromancer-tamer

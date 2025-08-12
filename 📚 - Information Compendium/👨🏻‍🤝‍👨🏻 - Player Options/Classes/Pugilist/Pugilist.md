@@ -7,8 +7,8 @@ source: "The Ultimate Adventurer's Handbook"
 aliases:
   - Pugilist
 tags:
-  - ttrpg-cli/class/pugilist
-  - ttrpg-cli/compendium/src/5e/ultimateadventurer
+  - class/pugilist
+  - compendium/src/5e/ultimateadventurer
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/wizard/bladesinging
+- compendium/src/5e/tce
+- subclass/wizard/bladesinging
 aliases:
 - Bladesinging
 ---

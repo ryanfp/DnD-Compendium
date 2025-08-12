@@ -7,8 +7,8 @@ aliases:
   - Wizard 2024
   - wizard-xphb
 tags:
-  - ttrpg-cli/class/wizard
-  - ttrpg-cli/compendium/src/5e/xphb
+  - class/wizard
+  - compendium/src/5e/xphb
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: wizard-2024

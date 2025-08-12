@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/kt-cll, ttrpg-cli/subclass/spellblade/rimeblade]
+tags: [compendium/src/5e/kt-cll, subclass/spellblade/rimeblade]
 aliases:
   - Rimeblade Technique
 created: 2025/06/13 at 22:32

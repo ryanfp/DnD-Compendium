@@ -7,9 +7,9 @@ source: Player's Handbook
 aliases:
   - Nature Domain
 tags:
-  - ttrpg-cli/compendium/src/5e/phb
-  - ttrpg-cli/domain/nature
-  - ttrpg-cli/subclass/cleric/nature
+  - compendium/src/5e/phb
+  - domain/nature
+  - subclass/cleric/nature
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

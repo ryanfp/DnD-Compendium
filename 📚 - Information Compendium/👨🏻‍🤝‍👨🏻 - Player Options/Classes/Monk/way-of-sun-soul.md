@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:20
 aliases:
   - Way of the Sun Soul
 tags:
-  - ttrpg-cli/compendium/src/5e/xge
-  - ttrpg-cli/subclass/monk/sun-soul
+  - compendium/src/5e/xge
+  - subclass/monk/sun-soul
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: way-of-sun-soul-monk

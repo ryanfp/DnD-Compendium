@@ -7,8 +7,8 @@ source: Tasha's Cauldron of Everything
 aliases:
   - Psi Warrior
 tags:
-  - ttrpg-cli/compendium/src/5e/tce
-  - ttrpg-cli/subclass/fighter/psi-warrior
+  - compendium/src/5e/tce
+  - subclass/fighter/psi-warrior
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

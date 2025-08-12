@@ -7,8 +7,8 @@ source: The Illrigger Revised
 aliases:
   - Architect of Ruin
 tags:
-  - ttrpg-cli/compendium/src/5e/illriggerrevised
-  - ttrpg-cli/subclass/illrigger/architect-of-ruin
+  - compendium/src/5e/illriggerrevised
+  - subclass/illrigger/architect-of-ruin
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

@@ -9,8 +9,8 @@ aliases:
   - Circle of the Sea 2024
   - druid-xphb-circle-of-the-sea-xphb
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/subclass/druid/sea
+  - compendium/src/5e/xphb
+  - subclass/druid/sea
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:30
 aliases:
   - School of Necromancy
 tags:
-  - ttrpg-cli/compendium/src/5e/phb
-  - ttrpg-cli/subclass/wizard/necromancy
+  - compendium/src/5e/phb
+  - subclass/wizard/necromancy
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: school-of-necromancy-wizard

@@ -7,8 +7,8 @@ source: Shaman Expanded
 aliases:
   - Elementalist
 tags:
-  - ttrpg-cli/compendium/src/5e/llsh:e
-  - ttrpg-cli/subclass/shaman/elementalist
+  - compendium/src/5e/llsh:e
+  - subclass/shaman/elementalist
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

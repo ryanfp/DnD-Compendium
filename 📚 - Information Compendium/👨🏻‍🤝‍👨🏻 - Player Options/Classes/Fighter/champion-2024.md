@@ -9,8 +9,8 @@ aliases:
   - Champion 2024
   - fighter-xphb-champion-xphb
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/subclass/fighter/champion
+  - compendium/src/5e/xphb
+  - subclass/fighter/champion
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

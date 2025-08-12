@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:41
 aliases:
   - Technicolor Magic
 tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/witch/technicolor
+  - compendium/src/5e/vss
+  - subclass/witch/technicolor
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: technicolor-magic-witch

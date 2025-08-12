@@ -7,8 +7,8 @@ source: The Illrigger Revised
 aliases:
   - Shadowmaster
 tags:
-  - ttrpg-cli/compendium/src/5e/illriggerrevised
-  - ttrpg-cli/subclass/illrigger/shadowmaster
+  - compendium/src/5e/illriggerrevised
+  - subclass/illrigger/shadowmaster
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

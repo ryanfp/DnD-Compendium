@@ -7,8 +7,8 @@ source: Dragon Knight
 aliases:
   - Shadow Practice
 tags:
-  - ttrpg-cli/compendium/src/5e/dk
-  - ttrpg-cli/subclass/dragon-knight/shadow
+  - compendium/src/5e/dk
+  - subclass/dragon-knight/shadow
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

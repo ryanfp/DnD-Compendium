@@ -9,9 +9,9 @@ aliases:
   - Light Domain 2024
   - cleric-xphb-light-domain-xphb
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/domain/light
-  - ttrpg-cli/subclass/cleric/light
+  - compendium/src/5e/xphb
+  - domain/light
+  - subclass/cleric/light
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

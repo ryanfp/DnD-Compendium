@@ -9,8 +9,8 @@ aliases:
   - Medium Specialization
   - 2025-07-28-medium-specialization
 tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/investigator/medium
+  - compendium/src/5e/vss
+  - subclass/investigator/medium
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

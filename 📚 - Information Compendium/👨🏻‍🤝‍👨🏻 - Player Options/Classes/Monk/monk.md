@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:20
 aliases:
   - Monk
 tags:
-  - ttrpg-cli/class/monk
-  - ttrpg-cli/compendium/src/5e/phb
+  - class/monk
+  - compendium/src/5e/phb
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: monk

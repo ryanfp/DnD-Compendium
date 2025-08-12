@@ -7,8 +7,8 @@ source: Kibbles Compendium of Legends and Legacies
 aliases:
   - Occultist
 tags:
-  - ttrpg-cli/class/occultist
-  - ttrpg-cli/compendium/src/5e/kt-cll
+  - class/occultist
+  - compendium/src/5e/kt-cll
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

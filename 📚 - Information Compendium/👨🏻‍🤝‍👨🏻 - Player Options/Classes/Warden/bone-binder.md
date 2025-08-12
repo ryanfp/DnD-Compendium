@@ -7,8 +7,8 @@ source: Kibbles' Compendium of Legends and Legacies
 aliases:
   - Bone Binder
 tags:
-  - ttrpg-cli/compendium/src/5e/kt-cll
-  - ttrpg-cli/subclass/warden/bone-binder
+  - compendium/src/5e/kt-cll
+  - subclass/warden/bone-binder
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

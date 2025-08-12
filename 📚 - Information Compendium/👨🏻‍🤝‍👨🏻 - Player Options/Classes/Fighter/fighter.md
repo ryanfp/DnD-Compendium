@@ -7,8 +7,8 @@ source: Player's Handbook
 aliases:
   - Fighter
 tags:
-  - ttrpg-cli/class/fighter
-  - ttrpg-cli/compendium/src/5e/phb
+  - class/fighter
+  - compendium/src/5e/phb
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

@@ -8,8 +8,8 @@ aliases:
   - Spy
   - 2025-07-28-spy
 tags:
-  - ttrpg-cli/compendium/src/5e/vss
-  - ttrpg-cli/subclass/investigator/spy
+  - compendium/src/5e/vss
+  - subclass/investigator/spy
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

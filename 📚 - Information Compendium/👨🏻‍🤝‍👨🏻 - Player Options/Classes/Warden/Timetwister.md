@@ -7,8 +7,8 @@ source: Kibbles' Compendium of Legends and Legacies
 aliases:
   - Timetwister
 tags:
-  - ttrpg-cli/compendium/src/5e/kt-cll
-  - ttrpg-cli/subclass/warden/timetwister
+  - compendium/src/5e/kt-cll
+  - subclass/warden/timetwister
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

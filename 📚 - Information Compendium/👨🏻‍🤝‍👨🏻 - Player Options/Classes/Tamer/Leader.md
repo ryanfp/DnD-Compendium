@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:35
 aliases:
   - Leader
 tags:
-  - ttrpg-cli/compendium/src/5e/helianasguidetomonsterhunting
-  - ttrpg-cli/subclass/tamer/leader
+  - compendium/src/5e/helianasguidetomonsterhunting
+  - subclass/tamer/leader
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: leader-tamer

@@ -7,8 +7,8 @@ source: "Valda's Spire of Secrets"
 aliases:
   - Alchemist
 tags:
-  - ttrpg-cli/class/alchemist
-  - ttrpg-cli/compendium/src/5e/vss
+  - class/alchemist
+  - compendium/src/5e/vss
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

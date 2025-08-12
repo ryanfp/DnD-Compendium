@@ -8,8 +8,8 @@ aliases:
   - monk-way-of-the-four-elements
   - Way of the Four Elements
 tags:
-  - ttrpg-cli/compendium/src/5e/phb
-  - ttrpg-cli/subclass/monk/four-elements
+  - compendium/src/5e/phb
+  - subclass/monk/four-elements
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

@@ -9,8 +9,8 @@ aliases:
   - 2025-07-28-investigator
   - Investigator
 tags:
-  - ttrpg-cli/class/investigator
-  - ttrpg-cli/compendium/src/5e/vss
+  - class/investigator
+  - compendium/src/5e/vss
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

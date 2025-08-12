@@ -8,8 +8,8 @@ aliases:
   - Order of the Lycan
   - order-of-the-lycan
 tags:
-  - ttrpg-cli/compendium/src/5e/bh2022
-  - ttrpg-cli/subclass/blood-hunter/lycan
+  - compendium/src/5e/bh2022
+  - subclass/blood-hunter/lycan
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

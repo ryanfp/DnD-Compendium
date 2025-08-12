@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [ttrpg-cli/class/spellblade, ttrpg-cli/compendium/src/5e/kt-cll]
+tags: [class/spellblade, compendium/src/5e/kt-cll]
 aliases:
   - Spellblade
   - Spellblade

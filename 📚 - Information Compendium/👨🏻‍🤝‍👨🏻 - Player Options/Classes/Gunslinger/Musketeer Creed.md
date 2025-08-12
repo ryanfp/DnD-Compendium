@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [ttrpg-cli/compendium/src/5e/vss, ttrpg-cli/subclass/gunslinger/musketeer]
+tags: [compendium/src/5e/vss, subclass/gunslinger/musketeer]
 aliases:
   - Musketeer Creed
   - Musketeer

@@ -7,8 +7,8 @@ source: "Tasha's Cauldron of Everything"
 aliases:
   - Artillerist
 tags:
-  - ttrpg-cli/compendium/src/5e/tce
-  - ttrpg-cli/subclass/artificer/artillerist
+  - compendium/src/5e/tce
+  - subclass/artificer/artillerist
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

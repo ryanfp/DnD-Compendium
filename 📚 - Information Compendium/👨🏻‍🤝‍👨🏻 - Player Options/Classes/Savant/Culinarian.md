@@ -7,8 +7,8 @@ source: Savant Expanded
 aliases:
   - Culinarian
 tags:
-  - ttrpg-cli/compendium/src/5e/llsave
-  - ttrpg-cli/subclass/savant/culinarian
+  - compendium/src/5e/llsave
+  - subclass/savant/culinarian
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

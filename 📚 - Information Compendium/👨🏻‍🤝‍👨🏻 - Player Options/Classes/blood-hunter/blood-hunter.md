@@ -7,8 +7,8 @@ source: Blood Hunter 2022
 aliases:
   - Blood Hunter
 tags:
-  - ttrpg-cli/class/blood-hunter
-  - ttrpg-cli/compendium/src/5e/bh2022
+  - class/blood-hunter
+  - compendium/src/5e/bh2022
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

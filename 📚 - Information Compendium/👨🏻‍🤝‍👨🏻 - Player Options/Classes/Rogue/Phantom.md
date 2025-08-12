@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:29
 aliases:
   - Phantom
 tags:
-  - ttrpg-cli/compendium/src/5e/tce
-  - ttrpg-cli/subclass/rogue/phantom
+  - compendium/src/5e/tce
+  - subclass/rogue/phantom
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: phantom-rogue

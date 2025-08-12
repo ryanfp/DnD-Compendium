@@ -7,8 +7,8 @@ source: "KibblesTasty: Psion"
 aliases:
   - Consuming
 tags:
-  - ttrpg-cli/compendium/src/5e/ktp
-  - ttrpg-cli/subclass/psion/consuming
+  - compendium/src/5e/ktp
+  - subclass/psion/consuming
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

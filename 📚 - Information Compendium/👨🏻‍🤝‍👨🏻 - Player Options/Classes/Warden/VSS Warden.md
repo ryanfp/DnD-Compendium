@@ -9,8 +9,8 @@ aliases:
   - VSS Warden
   - Warden
 tags:
-  - ttrpg-cli/class/warden
-  - ttrpg-cli/compendium/src/5e/vss
+  - class/warden
+  - compendium/src/5e/vss
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

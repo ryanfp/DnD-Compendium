@@ -7,8 +7,8 @@ source: "Grim Hollow: The Player's Guide"
 aliases:
   - Misfortune Bringer
 tags:
-  - ttrpg-cli/compendium/src/5e/ghpg
-  - ttrpg-cli/subclass/rogue/misfortune-bringer
+  - compendium/src/5e/ghpg
+  - subclass/rogue/misfortune-bringer
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

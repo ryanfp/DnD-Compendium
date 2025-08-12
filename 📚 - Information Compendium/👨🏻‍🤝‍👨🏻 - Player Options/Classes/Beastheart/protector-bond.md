@@ -7,8 +7,8 @@ source: Beastheart and Monstrous Companions
 aliases:
   - Protector Bond
 tags:
-  - ttrpg-cli/compendium/src/5e/bst
-  - ttrpg-cli/subclass/beastheart/protector
+  - compendium/src/5e/bst
+  - subclass/beastheart/protector
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

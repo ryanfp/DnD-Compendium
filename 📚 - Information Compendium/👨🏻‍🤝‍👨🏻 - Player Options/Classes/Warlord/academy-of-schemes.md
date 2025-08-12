@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:40
 aliases:
   - Academy of Schemes
 tags:
-  - ttrpg-cli/compendium/src/5e/llaw
-  - ttrpg-cli/subclass/warlord/schemes
+  - compendium/src/5e/llaw
+  - subclass/warlord/schemes
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: academy-of-schemes-warlord

@@ -5,8 +5,8 @@ updated: 2025/08/01 at 01:30
 aliases:
   - Storm Sorcery
 tags:
-  - ttrpg-cli/compendium/src/5e/xge
-  - ttrpg-cli/subclass/sorcerer/storm
+  - compendium/src/5e/xge
+  - subclass/sorcerer/storm
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: storm-sorcery-sorcerer

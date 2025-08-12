@@ -7,8 +7,8 @@ source: "The Ultimate Adventurer's Handbook"
 aliases:
   - Lead Eaters
 tags:
-  - ttrpg-cli/compendium/src/5e/ultimateadventurer
-  - ttrpg-cli/subclass/pugilist/lead-eaters
+  - compendium/src/5e/ultimateadventurer
+  - subclass/pugilist/lead-eaters
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

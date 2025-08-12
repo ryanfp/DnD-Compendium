@@ -7,8 +7,8 @@ source: Beastheart and Monstrous Companions
 aliases:
   - Beastheart
 tags:
-  - ttrpg-cli/class/beastheart
-  - ttrpg-cli/compendium/src/5e/bst
+  - class/beastheart
+  - compendium/src/5e/bst
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

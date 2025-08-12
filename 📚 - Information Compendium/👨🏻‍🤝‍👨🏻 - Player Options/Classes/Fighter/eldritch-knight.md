@@ -7,8 +7,8 @@ source: Player's Handbook
 aliases:
   - Eldritch Knight
 tags:
-  - ttrpg-cli/compendium/src/5e/phb
-  - ttrpg-cli/subclass/fighter/eldritch-knight
+  - compendium/src/5e/phb
+  - subclass/fighter/eldritch-knight
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---
