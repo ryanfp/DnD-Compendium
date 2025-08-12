@@ -26,6 +26,12 @@
       "icon": "templater-icon",
       "name": "Insert template modal",
       "mode": "any"
+    },
+    {
+      "id": "editor:fold-all",
+      "icon": "lucide-minimize-2",
+      "name": "Fold all headings and lists",
+      "mode": "any"
     }
   ],
   "fileMenu": [
