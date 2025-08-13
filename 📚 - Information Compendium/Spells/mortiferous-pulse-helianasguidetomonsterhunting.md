@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/helianasguidetomonsterhunting
+- 
 - spell/level/2nd-level
 - spell/school/biomancy
 aliases:

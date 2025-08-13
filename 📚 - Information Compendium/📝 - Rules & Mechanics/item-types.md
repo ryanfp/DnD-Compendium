@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-note
-tags: [compendium/src/5e/ccg, compendium/src/5e/darkmatter, compendium/src/5e/exploringeberron, compendium/src/5e/obojimatallgrass, compendium/src/5e/saf, compendium/src/5e/sgtteh, compendium/src/5e/toh]
+tags: [
 aliases:
   - Item Types
 permalink: item-types

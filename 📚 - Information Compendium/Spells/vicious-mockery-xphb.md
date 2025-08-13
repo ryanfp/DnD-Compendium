@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xphb
+- 
 - spell/class/bard
 - spell/feat/magic-initiate
 - spell/level/cantrip

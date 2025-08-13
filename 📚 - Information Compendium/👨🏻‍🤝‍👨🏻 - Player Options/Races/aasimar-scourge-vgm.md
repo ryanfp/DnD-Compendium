@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/vgm
+- 
 - race/aasimar/scourge
 aliases:
 - Aasimar (Scourge)

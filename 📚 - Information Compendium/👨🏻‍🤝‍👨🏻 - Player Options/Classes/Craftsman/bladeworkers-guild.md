@@ -7,7 +7,7 @@ source: "Valda's Spire of Secrets"
 aliases:
   - "Bladeworkers' Guild"
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/craftsman/bladeworkers
 cssclasses: json5e-class
 obsidianUIMode: preview

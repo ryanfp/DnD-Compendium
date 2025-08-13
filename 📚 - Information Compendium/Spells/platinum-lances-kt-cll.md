@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/kt-cll
+- 
 - spell/level/6th-level
 - spell/school/evocation
 aliases:

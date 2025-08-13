@@ -7,7 +7,7 @@ source: "Player's Handbook"
 aliases:
   - Hunter
 tags:
-  - compendium/src/5e/phb
+  - 
   - subclass/ranger/hunter
 cssclasses: json5e-class
 obsidianUIMode: preview

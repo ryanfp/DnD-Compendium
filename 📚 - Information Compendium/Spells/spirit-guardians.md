@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
+- 
 - spell/background/lorehold-student
 - spell/background/orzhov-representative
 - spell/class/bard

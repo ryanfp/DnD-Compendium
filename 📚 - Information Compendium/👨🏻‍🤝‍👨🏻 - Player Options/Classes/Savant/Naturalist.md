@@ -7,7 +7,7 @@ source: Savant
 aliases:
   - Naturalist
 tags:
-  - compendium/src/5e/llsav
+  - 
   - subclass/savant/naturalist
 cssclasses: json5e-class
 obsidianUIMode: preview

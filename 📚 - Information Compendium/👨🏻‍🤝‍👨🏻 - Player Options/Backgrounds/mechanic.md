@@ -9,7 +9,7 @@ aliases:
   - mechanic-obojimatallgrass
 tags:
   - background
-  - compendium/src/5e/obojimatallgrass
+  - 
 cssclasses: json5e-background
 obsidianUIMode: preview
 ---

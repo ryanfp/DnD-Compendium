@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
+- 
 - spell/background/azorius-functionary
 - spell/background/izzet-engineer
 - spell/class/bard

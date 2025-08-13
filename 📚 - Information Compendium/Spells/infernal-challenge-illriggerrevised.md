@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/illriggerrevised
+- 
 - spell/level/2nd-level
 - spell/school/enchantment
 aliases:

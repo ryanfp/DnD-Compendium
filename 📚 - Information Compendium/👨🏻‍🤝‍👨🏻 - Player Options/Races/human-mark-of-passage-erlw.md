@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/erlw
+- 
 - race/human/mark-of-passage
 aliases:
 - Human (Mark of Passage)

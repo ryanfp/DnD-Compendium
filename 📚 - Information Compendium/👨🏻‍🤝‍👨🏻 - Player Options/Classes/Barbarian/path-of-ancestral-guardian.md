@@ -8,7 +8,7 @@ aliases:
   - Path of the Ancestral Guardian
   - path-of-the-ancestral-guardian
 tags:
-  - compendium/src/5e/xge
+  - 
   - subclass/barbarian/ancestral-guardian
 cssclasses: json5e-class
 obsidianUIMode: preview

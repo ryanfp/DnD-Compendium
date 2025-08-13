@@ -7,7 +7,7 @@ source: "Grim Hollow: The Player's Guide"
 aliases:
   - The First Vampire
 tags:
-  - compendium/src/5e/ghpg
+  - 
   - subclass/warlock/the-first-vampire
 cssclasses: json5e-class
 obsidianUIMode: preview

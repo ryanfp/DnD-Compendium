@@ -7,7 +7,7 @@ source: Shaman Expanded
 aliases:
   - Wyrmbound
 tags:
-  - compendium/src/5e/llsh:e
+  - 
   - subclass/shaman/wyrmbound
 cssclasses: json5e-class
 obsidianUIMode: preview

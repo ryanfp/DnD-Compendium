@@ -9,7 +9,7 @@ aliases:
   - Arcana Domain
   - cleric-xphb-arcana-domain-scag
 tags:
-  - compendium/src/5e/scag
+  - 
   - domain/arcana
   - subclass/cleric/arcana
 cssclasses: json5e-class

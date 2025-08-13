@@ -7,7 +7,7 @@ source: Player's Handbook
 aliases:
   - Circle of the Moon
 tags:
-  - compendium/src/5e/phb
+  - 
   - subclass/druid/moon
 cssclasses: json5e-class
 obsidianUIMode: preview

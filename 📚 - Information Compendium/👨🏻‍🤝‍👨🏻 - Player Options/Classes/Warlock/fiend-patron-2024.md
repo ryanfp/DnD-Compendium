@@ -7,7 +7,7 @@ aliases:
   - Fiend Patron 2024
   - warlock-xphb-fiend-patron-xphb
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/warlock/fiend
 cssclasses: json5e-class
 obsidianUIMode: preview

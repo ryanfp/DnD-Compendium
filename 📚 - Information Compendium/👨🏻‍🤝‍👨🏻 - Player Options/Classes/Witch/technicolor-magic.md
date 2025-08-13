@@ -5,7 +5,7 @@ updated: 2025/08/01 at 01:41
 aliases:
   - Technicolor Magic
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/witch/technicolor
 cssclasses: json5e-class
 obsidianUIMode: preview

@@ -7,7 +7,7 @@ source: "The Ultimate Adventurer's Handbook"
 aliases:
   - Curse of Combustion
 tags:
-  - compendium/src/5e/ultimateadventurer
+  - 
   - subclass/accursed/combustion
 cssclasses: json5e-class
 obsidianUIMode: preview

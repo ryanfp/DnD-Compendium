@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/valdaplayerpack
+- 
 - spell/level/cantrip
 - spell/optfeature/root-of-magic
 - spell/school/evocation

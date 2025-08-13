@@ -7,7 +7,7 @@ source: "The Ultimate Adventurer's Handbook"
 aliases:
   - Piss & Vinegar
 tags:
-  - compendium/src/5e/ultimateadventurer
+  - 
   - subclass/pugilist/piss-vinegar
 cssclasses: json5e-class
 obsidianUIMode: preview

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/toh
+- 
 - race/derro/uncorrupted
 aliases:
 - Derro (Uncorrupted)

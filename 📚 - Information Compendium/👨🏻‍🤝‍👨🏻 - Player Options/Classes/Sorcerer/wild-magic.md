@@ -5,7 +5,7 @@ updated: 2025/08/01 at 01:30
 aliases:
   - Wild Magic
 tags:
-  - compendium/src/5e/phb
+  - 
   - subclass/sorcerer/wild
 cssclasses: json5e-class
 obsidianUIMode: preview

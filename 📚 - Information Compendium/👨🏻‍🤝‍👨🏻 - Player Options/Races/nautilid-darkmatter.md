@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/darkmatter
+- 
 - race/nautilid
 aliases:
 - Nautilid

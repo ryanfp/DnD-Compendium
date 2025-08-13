@@ -5,7 +5,7 @@ updated: 2025/08/01 at 01:20
 aliases:
   - Way of Pride
 tags:
-  - compendium/src/5e/ghpg
+  - 
   - subclass/monk/pride
 cssclasses: json5e-class
 obsidianUIMode: preview

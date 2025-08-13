@@ -9,7 +9,7 @@ aliases:
   - cleric-xphb-death-domain-dmg
   - Death Domain
 tags:
-  - compendium/src/5e/dmg
+  - 
   - domain/death
   - subclass/cleric/death
 cssclasses: json5e-class

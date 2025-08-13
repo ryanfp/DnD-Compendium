@@ -9,7 +9,7 @@ aliases:
   - Mad Bomber Field
   - mad-bomber-field
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/alchemist/mad-bomber
 cssclasses: json5e-class
 obsidianUIMode: preview

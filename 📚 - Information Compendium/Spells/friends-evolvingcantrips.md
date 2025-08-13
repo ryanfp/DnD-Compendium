@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/evolvingcantrips
+- 
 - spell/level/cantrip
 - spell/school/enchantment
 aliases:

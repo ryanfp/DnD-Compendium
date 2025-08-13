@@ -8,7 +8,7 @@ aliases:
   - Dragon Knight
 tags:
   - class/dragon-knight
-  - compendium/src/5e/dk
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

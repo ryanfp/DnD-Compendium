@@ -7,7 +7,7 @@ source: Patreon Subclasses for the Pugilist
 aliases:
   - Whiskey Fist
 tags:
-  - compendium/src/5e/sterlingvermin:patreon
+  - 
   - subclass/pugilist/whiskey-fist
 cssclasses: json5e-class
 obsidianUIMode: preview

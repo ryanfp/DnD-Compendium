@@ -12,7 +12,7 @@ aliases:
 tags:
   - anothertest
   - background
-  - compendium/src/5e/egw
+  - 
   - testing
   - testingagain
   - thising

@@ -7,7 +7,7 @@ aliases:
   - Wild Magic Sorcery 2024
   - sorcerer-xphb-wild-magic-sorcery-xphb
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/sorcerer/wild-magic
 cssclasses: json5e-class
 obsidianUIMode: preview

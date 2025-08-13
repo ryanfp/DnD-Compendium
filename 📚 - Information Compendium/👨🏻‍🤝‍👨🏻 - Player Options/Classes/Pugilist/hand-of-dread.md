@@ -7,7 +7,7 @@ source: "The Ultimate Adventurer's Handbook"
 aliases:
   - Hand of Dread
 tags:
-  - compendium/src/5e/ultimateadventurer
+  - 
   - subclass/pugilist/hand-of-dread
 cssclasses: json5e-class
 obsidianUIMode: preview

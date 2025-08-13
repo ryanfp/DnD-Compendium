@@ -7,7 +7,7 @@ source: "Valda's Spire of Secrets"
 aliases:
   - Burden of Atonement
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/martyr/atonement
 cssclasses: json5e-class
 obsidianUIMode: preview

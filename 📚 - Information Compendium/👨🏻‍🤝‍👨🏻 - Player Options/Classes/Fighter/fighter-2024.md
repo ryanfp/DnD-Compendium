@@ -10,7 +10,7 @@ aliases:
   - fighter-xphb
 tags:
   - class/fighter
-  - compendium/src/5e/xphb
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

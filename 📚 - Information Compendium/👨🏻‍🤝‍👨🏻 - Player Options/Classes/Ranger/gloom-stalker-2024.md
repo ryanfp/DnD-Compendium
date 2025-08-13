@@ -9,7 +9,7 @@ aliases:
   - Gloom Stalker 2024
   - ranger-xphb-gloom-stalker-xphb
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/ranger/gloom-stalker
 cssclasses: json5e-class
 obsidianUIMode: preview

@@ -7,7 +7,7 @@ aliases:
   - Paladin
 tags:
   - class/paladin
-  - compendium/src/5e/phb
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 source: Player's Handbook

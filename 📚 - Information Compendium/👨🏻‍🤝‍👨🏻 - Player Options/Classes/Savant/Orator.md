@@ -7,7 +7,7 @@ source: Savant Expanded
 aliases:
   - Orator
 tags:
-  - compendium/src/5e/llsave
+  - 
   - subclass/savant/orator
 cssclasses: json5e-class
 obsidianUIMode: preview

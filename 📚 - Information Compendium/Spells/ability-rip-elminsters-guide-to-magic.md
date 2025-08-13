@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-spell
-tags: [compendium/src/5e/elminsters guide to magic, spell/level/6th-level, spell/school/necromancy]
+tags: [
 aliases:
   - Ability Rip
 created: 2025/06/15 at 22:44

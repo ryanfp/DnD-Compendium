@@ -11,7 +11,7 @@ aliases:
   - barbarian-xphb
 tags:
   - class/barbarian
-  - compendium/src/5e/xphb
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

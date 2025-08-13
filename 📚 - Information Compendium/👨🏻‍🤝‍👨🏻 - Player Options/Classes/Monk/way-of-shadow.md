@@ -5,7 +5,7 @@ updated: 2025/08/01 at 01:20
 aliases:
   - Way of Shadow
 tags:
-  - compendium/src/5e/phb
+  - 
   - subclass/monk/shadow
 cssclasses: json5e-class
 obsidianUIMode: preview

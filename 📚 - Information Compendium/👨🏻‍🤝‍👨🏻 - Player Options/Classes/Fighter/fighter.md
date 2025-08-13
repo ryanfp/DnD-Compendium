@@ -8,7 +8,7 @@ aliases:
   - Fighter
 tags:
   - class/fighter
-  - compendium/src/5e/phb
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

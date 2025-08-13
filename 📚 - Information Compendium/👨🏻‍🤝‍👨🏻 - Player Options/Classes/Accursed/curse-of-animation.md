@@ -8,7 +8,7 @@ aliases:
   - Curse of Animation
   - Curse of Animation - Accursed
 tags:
-  - compendium/src/5e/ultimateadventurer
+  - 
   - subclass/accursed/animation
 cssclasses:
   - json5e-class

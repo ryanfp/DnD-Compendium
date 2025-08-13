@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xge
+- 
 - spell/class/bard
 - spell/class/wizard
 - spell/level/6th-level

@@ -9,7 +9,7 @@ aliases:
   - Venomsmith Field
   - venomsmith-field
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/alchemist/venomsmith
 cssclasses: json5e-class
 obsidianUIMode: preview

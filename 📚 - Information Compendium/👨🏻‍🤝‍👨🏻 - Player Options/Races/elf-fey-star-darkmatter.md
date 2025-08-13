@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/darkmatter
+- 
 - race/elf/fey-star
 aliases:
 - Elf (Fey; Star)

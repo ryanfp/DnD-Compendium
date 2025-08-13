@@ -7,7 +7,7 @@ source: "Xanathar's Guide to Everything"
 aliases:
   - Horizon Walker
 tags:
-  - compendium/src/5e/xge
+  - 
   - subclass/ranger/horizon-walker
 cssclasses: json5e-class
 obsidianUIMode: preview

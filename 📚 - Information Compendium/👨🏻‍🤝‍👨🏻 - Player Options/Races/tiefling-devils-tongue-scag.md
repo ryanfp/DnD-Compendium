@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/scag
+- 
 - race/tiefling/devils-tongue
 aliases:
 - Tiefling (Devil's Tongue)

@@ -9,7 +9,7 @@ aliases:
   - shaman-ccg
 tags:
   - background
-  - compendium/src/5e/ccg
+  - 
 cssclasses: json5e-background
 obsidianUIMode: preview
 ---

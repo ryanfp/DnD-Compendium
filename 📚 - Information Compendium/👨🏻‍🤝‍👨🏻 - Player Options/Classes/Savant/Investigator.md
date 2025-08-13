@@ -7,7 +7,7 @@ source: Savant
 aliases:
   - Investigator
 tags:
-  - compendium/src/5e/llsav
+  - 
   - subclass/savant/investigator
 cssclasses: json5e-class
 obsidianUIMode: preview

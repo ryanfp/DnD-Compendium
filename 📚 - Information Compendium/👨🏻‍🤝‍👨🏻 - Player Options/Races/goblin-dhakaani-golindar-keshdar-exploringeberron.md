@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/exploringeberron
+- 
 - race/goblin/dhakaani-golindar-keshdar
 aliases:
 - Goblin (Dhakaani Golin'dar; Kesh'dar)

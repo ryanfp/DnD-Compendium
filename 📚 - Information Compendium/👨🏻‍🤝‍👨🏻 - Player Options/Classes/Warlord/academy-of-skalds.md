@@ -5,7 +5,7 @@ updated: 2025/08/01 at 01:40
 aliases:
   - Academy of Skalds
 tags:
-  - compendium/src/5e/llaw
+  - 
   - subclass/warlord/skald
 cssclasses: json5e-class
 obsidianUIMode: preview

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/kt-cll
+- 
 - spell/class/occultist
 - spell/level/7th-level
 - spell/school/conjuration

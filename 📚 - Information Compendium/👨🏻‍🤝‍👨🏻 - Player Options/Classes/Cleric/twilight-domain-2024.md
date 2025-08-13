@@ -9,7 +9,7 @@ aliases:
   - cleric-xphb-twilight-domain-tce
   - Twilight Domain
 tags:
-  - compendium/src/5e/tce
+  - 
   - domain/twilight
   - subclass/cleric/twilight
 cssclasses: json5e-class

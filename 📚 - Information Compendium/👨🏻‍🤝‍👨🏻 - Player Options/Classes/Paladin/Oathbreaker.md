@@ -5,7 +5,7 @@ updated: 2025/08/01 at 01:23
 aliases:
   - Oathbreaker
 tags:
-  - compendium/src/5e/dmg
+  - 
   - subclass/paladin/oathbreaker
 cssclasses: json5e-class
 obsidianUIMode: preview

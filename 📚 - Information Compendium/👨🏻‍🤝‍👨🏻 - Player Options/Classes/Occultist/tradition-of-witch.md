@@ -8,7 +8,7 @@ aliases:
   - Tradition of the Witch
   - tradition-of-the-witch
 tags:
-  - compendium/src/5e/kt-cll
+  - 
   - subclass/occultist/witch
 cssclasses: json5e-class
 obsidianUIMode: preview

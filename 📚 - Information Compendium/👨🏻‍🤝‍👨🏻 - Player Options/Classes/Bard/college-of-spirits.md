@@ -7,7 +7,7 @@ source: Van Richten's Guide to Ravenloft
 aliases:
   - College of Spirits
 tags:
-  - compendium/src/5e/vrgr
+  - 
   - subclass/bard/spirits
 cssclasses: json5e-class
 obsidianUIMode: preview

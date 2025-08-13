@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/elminsters guide to magic
+- 
 - spell/level/3rd-level
 - spell/school/transmutation
 aliases:

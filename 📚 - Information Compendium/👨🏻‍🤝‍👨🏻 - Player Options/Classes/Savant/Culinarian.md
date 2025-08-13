@@ -7,7 +7,7 @@ source: Savant Expanded
 aliases:
   - Culinarian
 tags:
-  - compendium/src/5e/llsave
+  - 
   - subclass/savant/culinarian
 cssclasses: json5e-class
 obsidianUIMode: preview

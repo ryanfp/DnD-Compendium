@@ -7,7 +7,7 @@ source: Savant Expanded
 aliases:
   - Philosopher
 tags:
-  - compendium/src/5e/llsave
+  - 
   - subclass/savant/philosopher
 cssclasses: json5e-class
 obsidianUIMode: preview

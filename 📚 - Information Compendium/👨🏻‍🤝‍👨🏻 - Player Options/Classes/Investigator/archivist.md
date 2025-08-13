@@ -8,7 +8,7 @@ aliases:
   - Archivist
   - 2025-07-28-archivist
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/investigator/archivist
 cssclasses: json5e-class
 obsidianUIMode: preview

@@ -7,7 +7,7 @@ aliases:
   - Arcane Trickster 2024
   - rogue-xphb-arcane-trickster-xphb
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/rogue/arcane-trickster
 cssclasses: json5e-class
 obsidianUIMode: preview

@@ -5,7 +5,7 @@ updated: 2025/08/01 at 01:20
 aliases:
   - Way of the Sun Soul
 tags:
-  - compendium/src/5e/xge
+  - 
   - subclass/monk/sun-soul
 cssclasses: json5e-class
 obsidianUIMode: preview

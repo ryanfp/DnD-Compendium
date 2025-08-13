@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/sgtteh
+- 
 - spell/level/2nd-level
 - spell/school/divination
 aliases:

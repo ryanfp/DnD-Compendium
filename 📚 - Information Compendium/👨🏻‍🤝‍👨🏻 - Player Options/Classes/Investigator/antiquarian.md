@@ -8,7 +8,7 @@ aliases:
   - 2025-07-28-antiquarian
   - Antiquarian
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/investigator/antiquarian
 cssclasses: json5e-class
 obsidianUIMode: preview

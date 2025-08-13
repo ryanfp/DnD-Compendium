@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/toh
+- 
 - race/drow/fever-bit
 aliases:
 - Drow (Fever-Bit)

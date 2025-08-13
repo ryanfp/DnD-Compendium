@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/spellsthatdontsuck
+- 
 - spell/level/cantrip
 - spell/school/necromancy
 aliases:

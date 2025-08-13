@@ -7,7 +7,7 @@ source: Tasha's Cauldron of Everything
 aliases:
   - Twilight Domain
 tags:
-  - compendium/src/5e/tce
+  - 
   - domain/twilight
   - subclass/cleric/twilight
 cssclasses: json5e-class

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/darkmatter
+- 
 - spell/level/3rd-level
 - spell/ritual
 - spell/school/transmutation

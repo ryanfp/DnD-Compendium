@@ -5,7 +5,7 @@ updated: 2025/08/01 at 01:23
 aliases:
   - Oath of the Open Sea
 tags:
-  - compendium/src/5e/tdcsr
+  - 
   - subclass/paladin/open-sea
 cssclasses: json5e-class
 obsidianUIMode: preview

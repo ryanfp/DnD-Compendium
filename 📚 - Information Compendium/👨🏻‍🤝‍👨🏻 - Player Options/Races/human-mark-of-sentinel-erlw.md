@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/erlw
+- 
 - race/human/mark-of-sentinel
 aliases:
 - Human (Mark of Sentinel)

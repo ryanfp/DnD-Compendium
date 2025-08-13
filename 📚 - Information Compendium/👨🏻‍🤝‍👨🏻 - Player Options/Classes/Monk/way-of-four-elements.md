@@ -8,7 +8,7 @@ aliases:
   - monk-way-of-the-four-elements
   - Way of the Four Elements
 tags:
-  - compendium/src/5e/phb
+  - 
   - subclass/monk/four-elements
 cssclasses: json5e-class
 obsidianUIMode: preview

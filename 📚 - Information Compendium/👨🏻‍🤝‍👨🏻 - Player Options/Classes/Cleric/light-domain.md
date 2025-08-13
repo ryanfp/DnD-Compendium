@@ -7,7 +7,7 @@ source: Player's Handbook
 aliases:
   - Light Domain
 tags:
-  - compendium/src/5e/phb
+  - 
   - domain/light
   - subclass/cleric/light
 cssclasses: json5e-class

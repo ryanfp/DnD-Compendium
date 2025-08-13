@@ -8,7 +8,7 @@ aliases:
   - Stoneheart Defender
   - warden-stoneheart-defender-vss
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/warden/stoneheart-defender
 cssclasses: json5e-class
 obsidianUIMode: preview

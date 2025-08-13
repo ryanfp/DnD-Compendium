@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/exploringeberron
+- 
 - race/hobgoblin/dhakaani-ghaaldar-guide
 aliases:
 - Hobgoblin (Dhakaani Ghaal'dar; Guide)

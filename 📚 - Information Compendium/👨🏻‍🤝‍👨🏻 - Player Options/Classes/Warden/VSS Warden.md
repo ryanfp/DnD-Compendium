@@ -10,7 +10,7 @@ aliases:
   - Warden
 tags:
   - class/warden
-  - compendium/src/5e/vss
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

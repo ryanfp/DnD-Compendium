@@ -9,7 +9,7 @@ aliases:
   - Accursed
 tags:
   - class/accursed
-  - compendium/src/5e/ultimateadventurer
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

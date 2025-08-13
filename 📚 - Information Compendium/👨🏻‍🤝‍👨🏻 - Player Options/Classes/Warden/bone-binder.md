@@ -7,7 +7,7 @@ source: Kibbles' Compendium of Legends and Legacies
 aliases:
   - Bone Binder
 tags:
-  - compendium/src/5e/kt-cll
+  - 
   - subclass/warden/bone-binder
 cssclasses: json5e-class
 obsidianUIMode: preview

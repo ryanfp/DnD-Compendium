@@ -7,7 +7,7 @@ source: "Xanathar's Guide to Everything"
 aliases:
   - Oath of Redemption
 tags:
-  - compendium/src/5e/xge
+  - 
   - subclass/paladin/redemption
 cssclasses: json5e-class
 obsidianUIMode: preview

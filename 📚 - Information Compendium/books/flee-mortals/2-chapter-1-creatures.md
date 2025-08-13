@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-note
-tags: [compendium/src/5e/fleemortals]
+tags: [
 aliases:
   - "Chapter 1: Creatures"
 permalink: 2-chapter-1-creatures

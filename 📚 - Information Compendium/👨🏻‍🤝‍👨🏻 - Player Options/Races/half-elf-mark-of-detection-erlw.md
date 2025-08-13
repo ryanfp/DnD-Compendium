@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/erlw
+- 
 - race/half-elf/mark-of-detection
 aliases:
 - Half-Elf (Mark of Detection)

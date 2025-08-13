@@ -9,7 +9,7 @@ aliases:
   - cleric-xphb-knowledge-domain
   - Knowledge Domain
 tags:
-  - compendium/src/5e/phb
+  - 
   - domain/knowledge
   - subclass/cleric/knowledge
 cssclasses: json5e-class

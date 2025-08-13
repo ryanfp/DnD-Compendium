@@ -5,7 +5,7 @@ updated: 2025/08/01 at 01:31
 aliases:
   - Swashbuckler
 tags:
-  - compendium/src/5e/xge
+  - 
   - subclass/rogue/swashbuckler
 cssclasses: json5e-class
 obsidianUIMode: preview

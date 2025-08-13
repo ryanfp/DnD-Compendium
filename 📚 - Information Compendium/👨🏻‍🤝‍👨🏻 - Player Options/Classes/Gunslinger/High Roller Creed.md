@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [compendium/src/5e/vss, subclass/gunslinger/high-roller]
+tags: [
 aliases:
   - High Roller Creed
   - High Roller

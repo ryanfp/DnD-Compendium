@@ -8,7 +8,7 @@ aliases:
   - Storm Sentinel
   - warden-storm-sentinel-vss
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/warden/storm-sentinel
 cssclasses: json5e-class
 obsidianUIMode: preview

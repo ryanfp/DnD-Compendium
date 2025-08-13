@@ -5,7 +5,7 @@ updated: 2025/08/01 at 01:30
 aliases:
   - Order of Scribes
 tags:
-  - compendium/src/5e/tce
+  - 
   - subclass/wizard/scribes
 cssclasses: json5e-class
 obsidianUIMode: preview

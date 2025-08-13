@@ -9,7 +9,7 @@ aliases:
   - Mutagenist Field
   - mutagenist-field
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/alchemist/mutagenist
 cssclasses: json5e-class
 obsidianUIMode: preview

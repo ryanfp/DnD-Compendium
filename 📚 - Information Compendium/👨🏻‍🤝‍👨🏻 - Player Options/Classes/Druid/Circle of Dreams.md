@@ -7,7 +7,7 @@ source: Xanathar's Guide to Everything
 aliases:
   - Circle of Dreams
 tags:
-  - compendium/src/5e/xge
+  - 
   - subclass/druid/dreams
 cssclasses: json5e-class
 obsidianUIMode: preview

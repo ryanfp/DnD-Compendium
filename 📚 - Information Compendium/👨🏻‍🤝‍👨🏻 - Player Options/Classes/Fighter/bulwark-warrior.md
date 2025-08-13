@@ -7,7 +7,7 @@ source: "Grim Hollow: The Player's Guide"
 aliases:
   - The Bulwark Warrior
 tags:
-  - compendium/src/5e/ghpg
+  - 
   - subclass/fighter/bulwark-warrior
 cssclasses: json5e-class
 obsidianUIMode: preview

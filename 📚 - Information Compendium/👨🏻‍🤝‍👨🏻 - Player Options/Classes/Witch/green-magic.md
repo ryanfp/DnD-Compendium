@@ -5,7 +5,7 @@ updated: 2025/08/01 at 01:41
 aliases:
   - Green Magic
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/witch/green
 cssclasses: json5e-class
 obsidianUIMode: preview

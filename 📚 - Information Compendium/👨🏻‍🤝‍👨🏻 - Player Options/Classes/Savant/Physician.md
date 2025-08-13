@@ -7,7 +7,7 @@ source: Savant
 aliases:
   - Physician
 tags:
-  - compendium/src/5e/llsav
+  - 
   - subclass/savant/physician
 cssclasses: json5e-class
 obsidianUIMode: preview

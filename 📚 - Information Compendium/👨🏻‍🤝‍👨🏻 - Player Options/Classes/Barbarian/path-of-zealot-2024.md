@@ -9,7 +9,7 @@ aliases:
   - Path of the Zealot
   - Path of the Zealot 2024
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/barbarian/zealot
 cssclasses: json5e-class
 obsidianUIMode: preview

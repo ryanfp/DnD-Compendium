@@ -7,7 +7,7 @@ source: "Player's Handbook"
 aliases:
   - Battle Master
 tags:
-  - compendium/src/5e/phb
+  - 
   - subclass/fighter/battle-master
 cssclasses: json5e-class
 obsidianUIMode: preview

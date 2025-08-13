@@ -7,7 +7,7 @@ source: Xanathar's Guide to Everything
 aliases:
   - Circle of the Shepherd
 tags:
-  - compendium/src/5e/xge
+  - 
   - subclass/druid/shepherd
 cssclasses: json5e-class
 obsidianUIMode: preview

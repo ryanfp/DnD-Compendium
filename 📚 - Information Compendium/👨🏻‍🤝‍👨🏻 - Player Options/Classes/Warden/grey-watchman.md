@@ -8,7 +8,7 @@ aliases:
   - Grey Watchman
   - warden-grey-watchman-vss
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/warden/grey-watchman
 cssclasses: json5e-class
 obsidianUIMode: preview

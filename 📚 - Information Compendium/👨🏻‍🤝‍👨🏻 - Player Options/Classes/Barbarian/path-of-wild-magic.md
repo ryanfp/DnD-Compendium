@@ -7,7 +7,7 @@ source: Tasha's Cauldron of Everything
 aliases:
   - Path of Wild Magic
 tags:
-  - compendium/src/5e/tce
+  - 
   - subclass/barbarian/wild-magic
 cssclasses: json5e-class
 obsidianUIMode: preview

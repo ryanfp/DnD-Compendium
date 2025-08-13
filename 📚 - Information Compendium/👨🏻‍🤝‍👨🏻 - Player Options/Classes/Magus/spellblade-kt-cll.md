@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [class/spellblade, compendium/src/5e/kt-cll]
+tags: [class/spellblade, 
 aliases:
   - Spellblade
   - Spellblade

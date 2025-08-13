@@ -7,7 +7,7 @@ aliases:
   - Oath of Vengeance 2024
   - paladin-xphb-oath-of-vengeance-xphb
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/paladin/vengeance
 cssclasses: json5e-class
 obsidianUIMode: preview

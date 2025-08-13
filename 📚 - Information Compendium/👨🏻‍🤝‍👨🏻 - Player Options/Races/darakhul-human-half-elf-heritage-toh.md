@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/toh
+- 
 - race/darakhul/human-half-elf-heritage
 aliases:
 - Darakhul (Human/Half-Elf Heritage)

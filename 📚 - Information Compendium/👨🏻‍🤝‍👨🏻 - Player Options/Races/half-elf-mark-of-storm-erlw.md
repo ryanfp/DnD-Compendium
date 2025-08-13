@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/erlw
+- 
 - race/half-elf/mark-of-storm
 aliases:
 - Half-Elf (Mark of Storm)

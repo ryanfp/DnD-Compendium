@@ -9,7 +9,7 @@ aliases:
   - Dynamo Engineer Field
   - dynamo-engineer-field
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/alchemist/dynamo-engineer
 cssclasses: json5e-class
 obsidianUIMode: preview

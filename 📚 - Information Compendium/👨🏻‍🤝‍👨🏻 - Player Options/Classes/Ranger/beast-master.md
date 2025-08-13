@@ -8,7 +8,7 @@ aliases:
   - Beast Master
   - ranger-beast-master
 tags:
-  - compendium/src/5e/phb
+  - 
   - subclass/ranger/beast-master
 cssclasses: json5e-class
 obsidianUIMode: preview

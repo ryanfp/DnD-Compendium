@@ -8,7 +8,7 @@ aliases:
   - Drakewarden
   - ranger-drakewarden-ftd
 tags:
-  - compendium/src/5e/ftd
+  - 
   - subclass/ranger/drakewarden
 cssclasses: json5e-class
 obsidianUIMode: preview

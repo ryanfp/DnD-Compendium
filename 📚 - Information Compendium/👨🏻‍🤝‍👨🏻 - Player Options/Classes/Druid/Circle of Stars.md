@@ -7,7 +7,7 @@ source: Tasha's Cauldron of Everything
 aliases:
   - Circle of Stars
 tags:
-  - compendium/src/5e/tce
+  - 
   - subclass/druid/stars
 cssclasses: json5e-class
 obsidianUIMode: preview

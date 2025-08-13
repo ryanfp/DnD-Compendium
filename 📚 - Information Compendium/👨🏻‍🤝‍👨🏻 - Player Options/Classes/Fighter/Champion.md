@@ -7,7 +7,7 @@ source: Player's Handbook
 aliases:
   - Champion
 tags:
-  - compendium/src/5e/phb
+  - 
   - subclass/fighter/champion
 cssclasses: json5e-class
 obsidianUIMode: preview

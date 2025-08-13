@@ -7,7 +7,7 @@ source: Dragon Knight
 aliases:
   - Garden Practice
 tags:
-  - compendium/src/5e/dk
+  - 
   - subclass/dragon-knight/garden
 cssclasses: json5e-class
 obsidianUIMode: preview

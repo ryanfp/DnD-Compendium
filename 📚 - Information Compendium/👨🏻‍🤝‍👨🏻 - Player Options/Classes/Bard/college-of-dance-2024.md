@@ -9,7 +9,7 @@ aliases:
   - College of Dance 2024
   - college-of-dance
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/bard/dance
 cssclasses: json5e-class
 obsidianUIMode: preview

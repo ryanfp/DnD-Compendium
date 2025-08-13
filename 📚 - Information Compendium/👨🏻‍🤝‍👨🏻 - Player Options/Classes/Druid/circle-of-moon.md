@@ -10,7 +10,7 @@ aliases:
   - druid-xphb-circle-of-the-moon
   - circle-of-moon
 tags:
-  - compendium/src/5e/phb
+  - 
   - subclass/druid/moon
 cssclasses: json5e-class
 obsidianUIMode: preview

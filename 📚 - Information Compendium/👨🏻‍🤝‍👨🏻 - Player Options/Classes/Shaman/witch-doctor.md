@@ -7,7 +7,7 @@ source: The Shaman
 aliases:
   - Witch Doctor
 tags:
-  - compendium/src/5e/llsh
+  - 
   - subclass/shaman/witch-doctor
 cssclasses: json5e-class
 obsidianUIMode: preview

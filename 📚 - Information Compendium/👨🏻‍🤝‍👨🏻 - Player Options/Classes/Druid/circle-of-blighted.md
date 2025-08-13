@@ -7,7 +7,7 @@ source: Tal'Dorei Campaign Setting Reborn
 aliases:
   - Circle of the Blighted
 tags:
-  - compendium/src/5e/tdcsr
+  - 
   - subclass/druid/blighted
 cssclasses: json5e-class
 obsidianUIMode: preview

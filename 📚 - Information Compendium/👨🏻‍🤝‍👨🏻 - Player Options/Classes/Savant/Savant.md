@@ -8,7 +8,7 @@ aliases:
   - Savant
 tags:
   - class/savant
-  - compendium/src/5e/llsav
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

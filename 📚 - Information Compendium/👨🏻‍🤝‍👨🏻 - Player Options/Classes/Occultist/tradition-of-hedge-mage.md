@@ -8,7 +8,7 @@ aliases:
   - Tradition of the Hedge Mage
   - tradition-of-the-hedge-mage
 tags:
-  - compendium/src/5e/kt-cll
+  - 
   - subclass/occultist/hedge-mage
 cssclasses: json5e-class
 obsidianUIMode: preview

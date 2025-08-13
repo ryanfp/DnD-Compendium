@@ -7,7 +7,7 @@ aliases:
   - Oath of Devotion 2024
   - paladin-xphb-oath-of-devotion-xphb
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/paladin/devotion
 cssclasses: json5e-class
 obsidianUIMode: preview

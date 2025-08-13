@@ -8,7 +8,7 @@ aliases:
   - Path of the Juggernaut
   - path-of-the-juggernaut
 tags:
-  - compendium/src/5e/tdcsr
+  - 
   - subclass/barbarian/juggernaut
 cssclasses: json5e-class
 obsidianUIMode: preview

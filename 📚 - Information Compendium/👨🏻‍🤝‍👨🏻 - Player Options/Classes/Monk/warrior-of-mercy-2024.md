@@ -8,7 +8,7 @@ aliases:
   - Warrior of Mercy2024
   - monk-xphb-warrior-of-mercy-xphb
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/monk/mercy
 cssclasses: json5e-class
 obsidianUIMode: preview

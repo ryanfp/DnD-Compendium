@@ -5,7 +5,7 @@ updated: 2025/08/01 at 01:41
 aliases:
   - Steel Magic
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/witch/steel
 cssclasses: json5e-class
 obsidianUIMode: preview

@@ -7,7 +7,7 @@ source: "Tasha's Cauldron of Everything"
 aliases:
   - Armorer
 tags:
-  - compendium/src/5e/tce
+  - 
   - subclass/artificer/armorer
 cssclasses: json5e-class
 obsidianUIMode: preview

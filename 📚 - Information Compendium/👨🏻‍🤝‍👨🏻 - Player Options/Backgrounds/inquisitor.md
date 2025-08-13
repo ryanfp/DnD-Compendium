@@ -9,7 +9,7 @@ aliases:
   - inquisitor-sgtteh
 tags:
   - background
-  - compendium/src/5e/sgtteh
+  - 
 cssclasses: json5e-background
 obsidianUIMode: preview
 ---

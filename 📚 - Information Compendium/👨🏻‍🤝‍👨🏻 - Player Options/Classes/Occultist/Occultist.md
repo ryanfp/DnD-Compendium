@@ -8,7 +8,7 @@ aliases:
   - Occultist
 tags:
   - class/occultist
-  - compendium/src/5e/kt-cll
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

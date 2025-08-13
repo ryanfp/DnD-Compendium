@@ -8,7 +8,7 @@ aliases:
   - Artificer
 tags:
   - class/artificer
-  - compendium/src/5e/tce
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/scag
+- 
 - race/gnome/deep-svirfneblin
 aliases:
 - Gnome (Deep/Svirfneblin)

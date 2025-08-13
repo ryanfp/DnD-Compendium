@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/kt-cll
+- 
 - spell/class/spellblade
 - spell/level/5th-level
 - spell/optfeature/primal-storm

@@ -9,7 +9,7 @@ aliases:
   - Eldritch Knight 2024
   - fighter-xphb-eldritch-knight-xphb
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/fighter/eldritch-knight
 cssclasses: json5e-class
 obsidianUIMode: preview

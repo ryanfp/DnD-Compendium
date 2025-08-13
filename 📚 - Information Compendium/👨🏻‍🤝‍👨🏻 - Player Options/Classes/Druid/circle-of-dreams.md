@@ -9,7 +9,7 @@ aliases:
   - Circle of Dreams
   - druid-xphb-circle-of-dreams-xge
 tags:
-  - compendium/src/5e/xge
+  - 
   - subclass/druid/dreams
 cssclasses: json5e-class
 obsidianUIMode: preview

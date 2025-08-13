@@ -8,7 +8,7 @@ aliases:
   - Illrigger
 tags:
   - class/illrigger
-  - compendium/src/5e/illriggerrevised
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

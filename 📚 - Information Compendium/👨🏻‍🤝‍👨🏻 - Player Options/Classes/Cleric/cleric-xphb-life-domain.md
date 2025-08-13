@@ -9,7 +9,7 @@ aliases:
   - Life Domain
   - Life Domain 2024
 tags:
-  - compendium/src/5e/phb
+  - 
   - domain/life
   - subclass/cleric/life
 cssclasses: json5e-class

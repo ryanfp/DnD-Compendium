@@ -7,7 +7,7 @@ source: "Xanathar's Guide to Everything"
 aliases:
   - Gloom Stalker
 tags:
-  - compendium/src/5e/xge
+  - 
   - subclass/ranger/gloom-stalker
 cssclasses: json5e-class
 obsidianUIMode: preview

@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [compendium/src/5e/valdagunslinger, subclass/gunslinger/high-roller]
+tags: [
 aliases:
   - High Roller
   - High Roller

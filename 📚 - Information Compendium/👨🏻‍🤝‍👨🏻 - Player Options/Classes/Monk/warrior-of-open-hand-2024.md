@@ -8,7 +8,7 @@ aliases:
   - Warrior of the Open Hand2024
   - monk-xphb-warrior-of-the-open-hand-xphb
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/monk/open-hand
 cssclasses: json5e-class
 obsidianUIMode: preview

@@ -8,7 +8,7 @@ aliases:
   - Order of the Mutant
   - order-of-the-mutant
 tags:
-  - compendium/src/5e/bh2022
+  - 
   - subclass/blood-hunter/mutant
 cssclasses: json5e-class
 obsidianUIMode: preview

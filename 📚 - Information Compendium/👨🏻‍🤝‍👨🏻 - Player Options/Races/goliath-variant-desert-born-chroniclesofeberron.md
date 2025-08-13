@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/chroniclesofeberron
+- 
 - race/goliath/variant-desert-born
 aliases:
 - Goliath (Variant: Desert Born)

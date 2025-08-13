@@ -9,7 +9,7 @@ aliases:
   - Life Domain 2024
   - cleric-xphb-life-domain-xphb
 tags:
-  - compendium/src/5e/xphb
+  - 
   - domain/life
   - subclass/cleric/life
 cssclasses: json5e-class

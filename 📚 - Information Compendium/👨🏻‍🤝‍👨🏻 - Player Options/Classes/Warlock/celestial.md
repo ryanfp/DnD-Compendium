@@ -5,7 +5,7 @@ updated: 2025/08/01 at 01:38
 aliases:
   - The Celestial
 tags:
-  - compendium/src/5e/xge
+  - 
   - subclass/warlock/celestial
 cssclasses: json5e-class
 obsidianUIMode: preview

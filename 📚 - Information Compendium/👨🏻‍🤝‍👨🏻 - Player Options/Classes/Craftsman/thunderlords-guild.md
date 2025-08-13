@@ -7,7 +7,7 @@ source: "Valda's Spire of Secrets"
 aliases:
   - "Thunderlords' Guild"
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/craftsman/thunderlords
 cssclasses: json5e-class
 obsidianUIMode: preview

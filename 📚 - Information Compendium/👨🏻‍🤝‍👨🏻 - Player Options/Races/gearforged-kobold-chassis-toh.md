@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/toh
+- 
 - race/gearforged/kobold-chassis
 aliases:
 - Gearforged (Kobold Chassis)

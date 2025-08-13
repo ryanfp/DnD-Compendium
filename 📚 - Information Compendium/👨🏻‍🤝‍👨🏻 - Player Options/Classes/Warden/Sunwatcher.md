@@ -7,7 +7,7 @@ source: Kibbles' Compendium of Legends and Legacies
 aliases:
   - Sunwatcher
 tags:
-  - compendium/src/5e/kt-cll
+  - 
   - subclass/warden/sunwatcher
 cssclasses: json5e-class
 obsidianUIMode: preview

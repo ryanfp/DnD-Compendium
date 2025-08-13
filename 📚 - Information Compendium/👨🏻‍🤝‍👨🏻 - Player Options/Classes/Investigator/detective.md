@@ -8,7 +8,7 @@ aliases:
   - Detective
   - 2025-07-28-detective
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/investigator/detective
 cssclasses: json5e-class
 obsidianUIMode: preview

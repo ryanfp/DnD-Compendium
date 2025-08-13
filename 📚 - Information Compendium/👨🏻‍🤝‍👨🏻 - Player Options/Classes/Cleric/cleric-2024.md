@@ -10,7 +10,7 @@ aliases:
   - cleric-xphb
 tags:
   - class/cleric
-  - compendium/src/5e/xphb
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

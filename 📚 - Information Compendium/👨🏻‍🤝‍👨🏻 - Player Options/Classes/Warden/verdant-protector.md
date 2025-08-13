@@ -8,7 +8,7 @@ aliases:
   - Verdant Protector
   - warden-verdant-protector-vss
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/warden/verdant-protector
 cssclasses: json5e-class
 obsidianUIMode: preview

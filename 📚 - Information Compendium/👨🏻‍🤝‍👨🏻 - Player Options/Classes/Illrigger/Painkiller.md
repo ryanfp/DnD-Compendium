@@ -7,7 +7,7 @@ source: The Illrigger Revised
 aliases:
   - Painkiller
 tags:
-  - compendium/src/5e/illriggerrevised
+  - 
   - subclass/illrigger/painkiller
 cssclasses: json5e-class
 obsidianUIMode: preview

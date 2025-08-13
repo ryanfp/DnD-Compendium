@@ -7,7 +7,7 @@ source: "Steinhardt's Guide to the Eldritch Hunt"
 aliases:
   - Marauder Chapter
 tags:
-  - compendium/src/5e/sgtteh
+  - 
   - subclass/jaeger/marauder
 cssclasses: json5e-class
 obsidianUIMode: preview

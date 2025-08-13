@@ -9,7 +9,7 @@ aliases:
   - Xenoalchemist Field
   - xenoalchemist-field
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/alchemist/xenoalchemist
 cssclasses: json5e-class
 obsidianUIMode: preview

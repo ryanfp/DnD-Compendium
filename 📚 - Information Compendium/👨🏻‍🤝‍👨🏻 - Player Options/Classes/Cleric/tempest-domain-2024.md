@@ -9,7 +9,7 @@ aliases:
   - cleric-xphb-tempest-domain
   - Tempest Domain
 tags:
-  - compendium/src/5e/phb
+  - 
   - domain/tempest
   - subclass/cleric/tempest
 cssclasses: json5e-class

@@ -8,7 +8,7 @@ aliases:
   - Athlete
 tags:
   - background
-  - compendium/src/5e/mot
+  - 
 cssclasses: json5e-background
 obsidianUIMode: preview
 ---

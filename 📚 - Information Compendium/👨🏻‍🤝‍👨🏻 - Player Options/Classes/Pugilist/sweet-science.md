@@ -7,7 +7,7 @@ source: "The Ultimate Adventurer's Handbook"
 aliases:
   - The Sweet Science
 tags:
-  - compendium/src/5e/ultimateadventurer
+  - 
   - subclass/pugilist/sweet-science
 cssclasses: json5e-class
 obsidianUIMode: preview

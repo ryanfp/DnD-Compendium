@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
   - class/card-slinger
-  - compendium/src/5e/nethingmagiccardslinger
+  - 
 aliases:
   - Card Slinger
   - card-slinger-nethingmagiccardslinger

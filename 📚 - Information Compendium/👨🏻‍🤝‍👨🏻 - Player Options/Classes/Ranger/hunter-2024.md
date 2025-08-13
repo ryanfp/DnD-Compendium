@@ -9,7 +9,7 @@ aliases:
   - Hunter 2024
   - ranger-xphb-hunter-xphb
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/ranger/hunter
 cssclasses: json5e-class
 obsidianUIMode: preview

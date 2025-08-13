@@ -7,7 +7,7 @@ source: Sword Coast Adventurer's Guide
 aliases:
   - Purple Dragon Knight (Banneret)
 tags:
-  - compendium/src/5e/scag
+  - 
   - subclass/fighter/purple-dragon-knight-banneret
 cssclasses: json5e-class
 obsidianUIMode: preview

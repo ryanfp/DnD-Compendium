@@ -7,7 +7,7 @@ source: "Tasha's Cauldron of Everything"
 aliases:
   - Swarmkeeper
 tags:
-  - compendium/src/5e/tce
+  - 
   - subclass/ranger/swarmkeeper
 cssclasses: json5e-class
 obsidianUIMode: preview

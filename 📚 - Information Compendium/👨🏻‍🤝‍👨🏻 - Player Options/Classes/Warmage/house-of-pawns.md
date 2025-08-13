@@ -7,7 +7,7 @@ source: "Valda's Spire of Secrets"
 aliases:
   - House of Pawns
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/warmage/pawn
 cssclasses: json5e-class
 obsidianUIMode: preview

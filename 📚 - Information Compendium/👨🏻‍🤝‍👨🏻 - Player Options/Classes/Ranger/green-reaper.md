@@ -7,7 +7,7 @@ source: "Grim Hollow: The Player's Guide"
 aliases:
   - Green Reaper
 tags:
-  - compendium/src/5e/ghpg
+  - 
   - subclass/ranger/green-reaper
 cssclasses: json5e-class
 obsidianUIMode: preview

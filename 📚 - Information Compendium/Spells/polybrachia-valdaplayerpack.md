@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/valdaplayerpack
+- 
 - spell/level/3rd-level
 - spell/school/conjuration
 aliases:

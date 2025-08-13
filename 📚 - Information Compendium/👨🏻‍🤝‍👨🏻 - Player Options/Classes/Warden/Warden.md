@@ -8,7 +8,7 @@ aliases:
   - Warden
 tags:
   - class/warden
-  - compendium/src/5e/kt-cll
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

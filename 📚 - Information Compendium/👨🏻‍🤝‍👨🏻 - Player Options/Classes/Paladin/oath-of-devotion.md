@@ -5,7 +5,7 @@ updated: 2025/08/01 at 01:23
 aliases:
   - Oath of Devotion
 tags:
-  - compendium/src/5e/phb
+  - 
   - subclass/paladin/devotion
 cssclasses: json5e-class
 obsidianUIMode: preview

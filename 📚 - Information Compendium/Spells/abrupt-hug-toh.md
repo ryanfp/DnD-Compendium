@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-spell
-tags: [compendium/src/5e/toh, spell/feat/coven-witch, spell/level/1st-level, spell/school/transmutation]
+tags: [
 aliases:
   - Abrupt Hug
   - Abrupt Hug

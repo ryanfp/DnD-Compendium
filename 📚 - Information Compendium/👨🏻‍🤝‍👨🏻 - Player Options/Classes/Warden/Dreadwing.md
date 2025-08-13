@@ -7,7 +7,7 @@ source: Kibbles' Compendium of Legends and Legacies
 aliases:
   - Dreadwing
 tags:
-  - compendium/src/5e/kt-cll
+  - 
   - subclass/warden/dreadwing
 cssclasses: json5e-class
 obsidianUIMode: preview

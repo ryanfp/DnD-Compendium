@@ -7,7 +7,7 @@ source: Player's Handbook
 aliases:
   - Nature Domain
 tags:
-  - compendium/src/5e/phb
+  - 
   - domain/nature
   - subclass/cleric/nature
 cssclasses: json5e-class

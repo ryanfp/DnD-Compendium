@@ -10,7 +10,7 @@ aliases:
   - druid-xphb-circle-of-the-shepherd-xge
   - circle-of-shepherd
 tags:
-  - compendium/src/5e/xge
+  - 
   - subclass/druid/shepherd
 cssclasses: json5e-class
 obsidianUIMode: preview

@@ -9,7 +9,7 @@ aliases:
   - Circle of the Stars 2024
   - druid-xphb-circle-of-the-stars-xphb
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/druid/stars
 cssclasses: json5e-class
 obsidianUIMode: preview

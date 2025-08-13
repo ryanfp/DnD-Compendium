@@ -9,7 +9,7 @@ aliases:
   - College of Valor 2024
   - bard-xphb-college-of-valor-xphb
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/bard/valor
 cssclasses: json5e-class
 obsidianUIMode: preview

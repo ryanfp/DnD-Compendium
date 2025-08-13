@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/xphb
+- 
 - spell/class/bard
 - spell/class/warlock
 - spell/level/2nd-level

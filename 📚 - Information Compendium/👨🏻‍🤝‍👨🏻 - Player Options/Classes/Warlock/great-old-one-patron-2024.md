@@ -7,7 +7,7 @@ aliases:
   - Great Old One Patron 2024
   - warlock-xphb-great-old-one-patron-xphb
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/warlock/great-old-one
 cssclasses: json5e-class
 obsidianUIMode: preview

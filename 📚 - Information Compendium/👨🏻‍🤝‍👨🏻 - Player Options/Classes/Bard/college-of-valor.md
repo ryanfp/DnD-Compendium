@@ -7,7 +7,7 @@ source: Player's Handbook
 aliases:
   - College of Valor
 tags:
-  - compendium/src/5e/phb
+  - 
   - subclass/bard/valor
 cssclasses: json5e-class
 obsidianUIMode: preview

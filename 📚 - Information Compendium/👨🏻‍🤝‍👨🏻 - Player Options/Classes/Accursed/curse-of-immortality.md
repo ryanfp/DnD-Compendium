@@ -7,7 +7,7 @@ source: "The Ultimate Adventurer's Handbook"
 aliases:
   - Curse of Immortality
 tags:
-  - compendium/src/5e/ultimateadventurer
+  - 
   - subclass/accursed/immortality
 cssclasses: json5e-class
 obsidianUIMode: preview

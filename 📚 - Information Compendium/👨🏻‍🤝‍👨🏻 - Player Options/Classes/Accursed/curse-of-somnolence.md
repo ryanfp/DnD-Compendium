@@ -7,7 +7,7 @@ source: "The Ultimate Adventurer's Handbook"
 aliases:
   - Curse of Somnolence
 tags:
-  - compendium/src/5e/ultimateadventurer
+  - 
   - subclass/accursed/somnolence
 cssclasses: json5e-class
 obsidianUIMode: preview

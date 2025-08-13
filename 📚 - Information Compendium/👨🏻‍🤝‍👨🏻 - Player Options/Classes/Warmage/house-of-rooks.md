@@ -7,7 +7,7 @@ source: "Valda's Spire of Secrets"
 aliases:
   - House of Rooks
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/warmage/rook
 cssclasses: json5e-class
 obsidianUIMode: preview

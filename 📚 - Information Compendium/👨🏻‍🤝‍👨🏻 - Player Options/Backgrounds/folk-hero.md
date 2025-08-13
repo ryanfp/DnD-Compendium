@@ -8,7 +8,7 @@ aliases:
   - Folk Hero
 tags:
   - background
-  - compendium/src/5e/phb
+  - 
 cssclasses: json5e-background
 obsidianUIMode: preview
 ---

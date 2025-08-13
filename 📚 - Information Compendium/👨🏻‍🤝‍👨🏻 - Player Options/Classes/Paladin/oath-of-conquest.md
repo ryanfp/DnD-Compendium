@@ -7,7 +7,7 @@ source: Xanathar's Guide to Everything
 aliases:
   - Oath of Conquest
 tags:
-  - compendium/src/5e/xge
+  - 
   - subclass/paladin/conquest
 cssclasses: json5e-class
 obsidianUIMode: preview

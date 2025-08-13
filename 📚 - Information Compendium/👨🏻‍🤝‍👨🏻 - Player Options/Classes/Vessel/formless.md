@@ -9,7 +9,7 @@ aliases:
   - The Formless
   - the-formless
 tags:
-  - compendium/src/5e/llvessel
+  - 
   - subclass/vessel/formless
 cssclasses: json5e-class
 obsidianUIMode: preview

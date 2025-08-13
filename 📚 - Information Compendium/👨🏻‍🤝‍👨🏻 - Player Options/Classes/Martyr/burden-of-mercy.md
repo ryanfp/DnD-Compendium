@@ -7,7 +7,7 @@ source: "Valda's Spire of Secrets"
 aliases:
   - Burden of Mercy
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/martyr/mercy
 cssclasses: json5e-class
 obsidianUIMode: preview

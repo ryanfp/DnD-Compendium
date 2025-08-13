@@ -7,7 +7,7 @@ source: Dragon Knight
 aliases:
   - Rider Practice
 tags:
-  - compendium/src/5e/dk
+  - 
   - subclass/dragon-knight/rider
 cssclasses: json5e-class
 obsidianUIMode: preview

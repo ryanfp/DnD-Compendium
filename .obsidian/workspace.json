@@ -11,11 +11,23 @@
             "id": "a5ec94890ee5953b",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "01",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/books/strongholds-and-followers/01.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"01\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":39},\"to\":{\"line\":19,\"ch\":39}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "aberrant-mind",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/aberrant-mind.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"aberrant-mind\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "gunslinger-valdagunslinger",
@@ -4096,7 +4108,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/aberrant-mind.md",
+                "file": "Quick  Thoughts.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -4111,7 +4123,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "aberrant-mind"
+              "title": "Quick  Thoughts"
             }
           }
         ]
@@ -4246,7 +4258,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.51625061035156
+    "width": 332.51625061035156
   },
   "right": {
     "id": "fc1490c296b0c5ab",
@@ -4272,12 +4284,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/aberrant-mind.md",
+                "file": "Quick  Thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from aberrant-mind"
+              "title": "Outgoing links from Quick  Thoughts"
             }
           },
           {
@@ -4600,17 +4612,17 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "task-board:Open task board": false
     }
   },
   "active": "a5ec94890ee5953b",
   "lastOpenFiles": [
+    "📚 - Information Compendium/books/strongholds-and-followers/01.md",
+    "Quick  Thoughts.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/aberrant-mind.md",
     "New folder",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Gunslinger/gunslinger-valdagunslinger.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/barbarian-2024.md",
-    "Quick  Thoughts.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "Filename Test.md",
     "filename-test.md",
@@ -4638,11 +4650,9 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-somnolence.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/xenoalchemist.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/venomsmith.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/mutagenist.md",
     "z_Scripts/Unconfirmed 276216.crdownload",
     "z_Scripts/Unconfirmed 573939.crdownload",
     "z_Scripts/Unconfirmed 217957.crdownload",
-    "z_Scripts/link-title-replacer.js",
     "z_img/garden-icon.svg",
     "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg",
     "z_img/Pause-Circle-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg",

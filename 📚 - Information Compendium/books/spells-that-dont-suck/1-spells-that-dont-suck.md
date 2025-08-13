@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/spellsthatdontsuck
+- 
 aliases:
 - Spells That Don't Suck
 ---

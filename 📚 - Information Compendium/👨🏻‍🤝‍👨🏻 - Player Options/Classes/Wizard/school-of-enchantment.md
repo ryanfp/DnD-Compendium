@@ -5,7 +5,7 @@ updated: 2025/08/01 at 01:42
 aliases:
   - School of Enchantment
 tags:
-  - compendium/src/5e/phb
+  - 
   - subclass/wizard/enchantment
 cssclasses: json5e-class
 obsidianUIMode: preview

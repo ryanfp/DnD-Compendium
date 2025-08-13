@@ -7,7 +7,7 @@ source: The Shaman
 aliases:
   - Curse Binder
 tags:
-  - compendium/src/5e/llsh
+  - 
   - subclass/shaman/curse-binder
 cssclasses: json5e-class
 obsidianUIMode: preview

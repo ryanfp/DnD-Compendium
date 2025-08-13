@@ -5,7 +5,7 @@ updated: 2025/08/01 at 01:30
 aliases:
   - Blood Magic
 tags:
-  - compendium/src/5e/tdcsr
+  - 
   - subclass/wizard/blood-magic
 cssclasses: json5e-class
 obsidianUIMode: preview

@@ -7,7 +7,7 @@ source: "The Ultimate Adventurer's Handbook"
 aliases:
   - Rift Hitter
 tags:
-  - compendium/src/5e/ultimateadventurer
+  - 
   - subclass/pugilist/rift-hitter
 cssclasses: json5e-class
 obsidianUIMode: preview

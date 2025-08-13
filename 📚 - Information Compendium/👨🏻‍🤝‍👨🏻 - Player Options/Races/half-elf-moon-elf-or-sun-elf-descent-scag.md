@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/scag
+- 
 - race/half-elf/moon-elf-or-sun-elf-descent
 aliases:
 - Half-Elf (Moon Elf or Sun Elf Descent)

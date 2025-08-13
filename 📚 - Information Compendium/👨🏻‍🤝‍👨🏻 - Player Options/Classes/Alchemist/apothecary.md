@@ -9,7 +9,7 @@ aliases:
   - Apothecary Field
   - apothecary-field
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/alchemist/apothecary
 cssclasses: json5e-class
 obsidianUIMode: preview

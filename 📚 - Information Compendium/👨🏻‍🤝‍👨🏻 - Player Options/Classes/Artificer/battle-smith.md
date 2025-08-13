@@ -7,7 +7,7 @@ source: "Tasha's Cauldron of Everything"
 aliases:
   - Battle Smith
 tags:
-  - compendium/src/5e/tce
+  - 
   - subclass/artificer/battle-smith
 cssclasses: json5e-class
 obsidianUIMode: preview

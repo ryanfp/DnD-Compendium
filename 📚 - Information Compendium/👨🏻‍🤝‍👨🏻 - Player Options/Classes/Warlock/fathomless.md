@@ -5,7 +5,7 @@ updated: 2025/08/01 at 01:38
 aliases:
   - The Fathomless
 tags:
-  - compendium/src/5e/tce
+  - 
   - subclass/warlock/fathomless
 cssclasses: json5e-class
 obsidianUIMode: preview

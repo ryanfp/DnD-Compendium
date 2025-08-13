@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/tce
+- 
 - spell/class/bard
 - spell/class/sorcerer
 - spell/class/warlock

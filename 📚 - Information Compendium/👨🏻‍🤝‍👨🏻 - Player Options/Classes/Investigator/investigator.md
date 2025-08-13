@@ -10,7 +10,7 @@ aliases:
   - Investigator
 tags:
   - class/investigator
-  - compendium/src/5e/vss
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

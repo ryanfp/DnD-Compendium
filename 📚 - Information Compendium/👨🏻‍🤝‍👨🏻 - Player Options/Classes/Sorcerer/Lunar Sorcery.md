@@ -5,7 +5,7 @@ updated: 2025/08/01 at 01:30
 aliases:
   - Lunar Sorcery
 tags:
-  - compendium/src/5e/dsotdq
+  - 
   - subclass/sorcerer/lunar
 cssclasses: json5e-class
 obsidianUIMode: preview

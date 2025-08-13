@@ -8,7 +8,7 @@ aliases:
   - Path of the Battlerager
   - path-of-the-battlerager
 tags:
-  - compendium/src/5e/scag
+  - 
   - subclass/barbarian/battlerager
 cssclasses: json5e-class
 obsidianUIMode: preview

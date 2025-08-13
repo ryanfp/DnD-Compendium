@@ -8,7 +8,7 @@ aliases:
   - Changeling Traveler
 tags:
   - background
-  - compendium/src/5e/exploringeberron
+  - 
 cssclasses: json5e-background
 obsidianUIMode: preview
 ---

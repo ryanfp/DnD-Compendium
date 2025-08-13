@@ -10,7 +10,7 @@ aliases:
   - druid-xphb
 tags:
   - class/druid
-  - compendium/src/5e/xphb
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

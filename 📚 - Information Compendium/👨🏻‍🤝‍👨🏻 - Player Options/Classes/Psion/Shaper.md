@@ -7,7 +7,7 @@ source: "KibblesTasty: Psion"
 aliases:
   - Shaper
 tags:
-  - compendium/src/5e/ktp
+  - 
   - subclass/psion/shaper
 cssclasses: json5e-class
 obsidianUIMode: preview

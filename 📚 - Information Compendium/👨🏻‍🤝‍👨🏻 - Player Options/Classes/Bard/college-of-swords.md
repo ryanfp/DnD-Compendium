@@ -7,7 +7,7 @@ source: Xanathar's Guide to Everything
 aliases:
   - College of Swords
 tags:
-  - compendium/src/5e/xge
+  - 
   - subclass/bard/swords
 cssclasses: json5e-class
 obsidianUIMode: preview

@@ -5,7 +5,7 @@ updated: 2025/08/01 at 01:42
 aliases:
   - School of Abjuration
 tags:
-  - compendium/src/5e/phb
+  - 
   - subclass/wizard/abjuration
 cssclasses: json5e-class
 obsidianUIMode: preview

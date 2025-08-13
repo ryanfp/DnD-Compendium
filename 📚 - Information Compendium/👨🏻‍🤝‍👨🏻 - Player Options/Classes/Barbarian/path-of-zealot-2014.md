@@ -10,7 +10,7 @@ aliases:
   - path-of-the-zealot
   - path-of-zealot
 tags:
-  - compendium/src/5e/xge
+  - 
   - subclass/barbarian/zealot
 cssclasses: json5e-class
 obsidianUIMode: preview

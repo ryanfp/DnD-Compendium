@@ -7,7 +7,7 @@ source: Kibbles' Compendium of Legends and Legacies
 aliases:
   - Elemental Soul
 tags:
-  - compendium/src/5e/kt-cll
+  - 
   - subclass/warden/elemental
 cssclasses: json5e-class
 obsidianUIMode: preview

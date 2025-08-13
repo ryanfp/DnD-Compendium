@@ -7,7 +7,7 @@ source: Kibbles' Compendium of Legends and Legacies
 aliases:
   - Elderheart
 tags:
-  - compendium/src/5e/kt-cll
+  - 
   - subclass/warden/elderheart
 cssclasses: json5e-class
 obsidianUIMode: preview

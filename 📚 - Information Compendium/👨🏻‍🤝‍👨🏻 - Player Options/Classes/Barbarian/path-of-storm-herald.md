@@ -8,7 +8,7 @@ aliases:
   - Path of the Storm Herald
   - path-of-the-storm-herald
 tags:
-  - compendium/src/5e/xge
+  - 
   - subclass/barbarian/storm-herald
 cssclasses: json5e-class
 obsidianUIMode: preview

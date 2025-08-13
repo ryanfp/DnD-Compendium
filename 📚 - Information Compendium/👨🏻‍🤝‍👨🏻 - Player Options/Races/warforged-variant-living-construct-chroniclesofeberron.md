@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/chroniclesofeberron
+- 
 - race/warforged/variant-living-construct
 aliases:
 - Warforged (Variant: Living Construct)

@@ -7,7 +7,7 @@ source: The Illrigger Revised
 aliases:
   - Sanguine Knight
 tags:
-  - compendium/src/5e/illriggerrevised
+  - 
   - subclass/illrigger/sanguine-knight
 cssclasses: json5e-class
 obsidianUIMode: preview

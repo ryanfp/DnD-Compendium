@@ -7,7 +7,7 @@ source: "Tasha's Cauldron of Everything"
 aliases:
   - College of Eloquence
 tags:
-  - compendium/src/5e/tce
+  - 
   - subclass/bard/eloquence
 cssclasses: json5e-class
 obsidianUIMode: preview

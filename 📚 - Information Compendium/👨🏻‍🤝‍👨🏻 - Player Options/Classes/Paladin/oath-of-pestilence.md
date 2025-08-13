@@ -7,7 +7,7 @@ source: "Grim Hollow: The Player's Guide"
 aliases:
   - Oath of Pestilence
 tags:
-  - compendium/src/5e/ghpg
+  - 
   - subclass/paladin/pestilence
 cssclasses: json5e-class
 obsidianUIMode: preview

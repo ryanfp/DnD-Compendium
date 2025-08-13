@@ -9,7 +9,7 @@ aliases:
   - Battle Master 2024
   - fighter-xphb-battle-master-xphb
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/fighter/battle-master
 cssclasses: json5e-class
 obsidianUIMode: preview

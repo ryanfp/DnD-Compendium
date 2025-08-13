@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/phb
+- 
 - spell/background/boros-legionnaire
 - spell/background/gruul-anarch
 - spell/background/rakdos-cultist

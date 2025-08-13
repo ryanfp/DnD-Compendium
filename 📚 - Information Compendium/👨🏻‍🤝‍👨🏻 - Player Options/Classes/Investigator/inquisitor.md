@@ -8,7 +8,7 @@ aliases:
   - Inquisitor
   - 2025-07-28-inquisitor
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/investigator/inquisitor
 cssclasses: json5e-class
 obsidianUIMode: preview

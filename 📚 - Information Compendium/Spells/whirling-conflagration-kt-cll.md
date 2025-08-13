@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/kt-cll
+- 
 - spell/level/3rd-level
 - spell/optfeature/mystery-of-war
 - spell/school/transmutation

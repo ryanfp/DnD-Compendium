@@ -8,7 +8,7 @@ aliases:
   - Druid
 tags:
   - class/druid
-  - compendium/src/5e/phb
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

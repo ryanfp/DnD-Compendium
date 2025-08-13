@@ -7,7 +7,7 @@ source: "Valda's Spire of Secrets"
 aliases:
   - House of Knights
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/warmage/knight
 cssclasses: json5e-class
 obsidianUIMode: preview

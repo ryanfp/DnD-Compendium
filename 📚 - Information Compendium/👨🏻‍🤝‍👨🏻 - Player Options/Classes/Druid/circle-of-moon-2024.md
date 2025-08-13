@@ -9,7 +9,7 @@ aliases:
   - Circle of the Moon 2024
   - druid-xphb-circle-of-the-moon-xphb
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/druid/moon
 cssclasses: json5e-class
 obsidianUIMode: preview

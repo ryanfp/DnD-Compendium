@@ -7,7 +7,7 @@ source: Player's Handbook
 aliases:
   - Oath of the Ancients
 tags:
-  - compendium/src/5e/phb
+  - 
   - subclass/paladin/ancients
 cssclasses: json5e-class
 obsidianUIMode: preview

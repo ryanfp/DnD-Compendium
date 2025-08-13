@@ -8,7 +8,7 @@ aliases:
   - paladin-xphb
 tags:
   - class/paladin
-  - compendium/src/5e/xphb
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: paladin-2024

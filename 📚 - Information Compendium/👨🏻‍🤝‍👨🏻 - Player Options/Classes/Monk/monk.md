@@ -6,7 +6,7 @@ aliases:
   - Monk
 tags:
   - class/monk
-  - compendium/src/5e/phb
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: monk

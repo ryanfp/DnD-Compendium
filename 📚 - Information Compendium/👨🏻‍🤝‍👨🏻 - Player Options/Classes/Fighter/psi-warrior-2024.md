@@ -9,7 +9,7 @@ aliases:
   - Psi Warrior 2024
   - fighter-xphb-psi-warrior-xphb
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/fighter/psi-warrior
 cssclasses: json5e-class
 obsidianUIMode: preview

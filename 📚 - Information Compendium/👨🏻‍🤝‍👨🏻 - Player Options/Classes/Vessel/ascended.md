@@ -10,7 +10,7 @@ aliases:
   - the-ascended
   - the-ascended-vessel
 tags:
-  - compendium/src/5e/llvessel
+  - 
   - subclass/vessel/ascended
 cssclasses: json5e-class
 obsidianUIMode: preview

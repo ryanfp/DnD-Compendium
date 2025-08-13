@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [compendium/src/5e/kt-cll, subclass/spellblade/flying-sword]
+tags: [
 aliases:
   - Flying Sword Technique
 created: 2025/06/13 at 22:32

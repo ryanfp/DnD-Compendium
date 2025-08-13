@@ -8,7 +8,7 @@ aliases:
   - Far Traveler
 tags:
   - background
-  - compendium/src/5e/scag
+  - 
 cssclasses: json5e-background
 obsidianUIMode: preview
 ---

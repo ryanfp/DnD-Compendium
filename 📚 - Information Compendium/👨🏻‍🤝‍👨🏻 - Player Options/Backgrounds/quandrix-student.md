@@ -9,7 +9,7 @@ aliases:
   - quandrix-student-scc
 tags:
   - background
-  - compendium/src/5e/scc
+  - 
 cssclasses: json5e-background
 obsidianUIMode: preview
 ---

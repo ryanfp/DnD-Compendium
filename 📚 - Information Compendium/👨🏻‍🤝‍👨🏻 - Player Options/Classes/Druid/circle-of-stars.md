@@ -10,7 +10,7 @@ aliases:
   - druid-xphb-circle-of-stars-tce
   - circle-of-stars
 tags:
-  - compendium/src/5e/tce
+  - 
   - subclass/druid/stars
 cssclasses: json5e-class
 obsidianUIMode: preview

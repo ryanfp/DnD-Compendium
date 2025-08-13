@@ -7,7 +7,7 @@ aliases:
   - Evoker 2024
   - wizard-xphb-evoker-xphb
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/wizard/evoker
 cssclasses: json5e-class
 obsidianUIMode: preview

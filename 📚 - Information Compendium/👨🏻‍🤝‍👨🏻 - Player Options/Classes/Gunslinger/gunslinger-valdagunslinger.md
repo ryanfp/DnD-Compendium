@@ -6,7 +6,7 @@ aliases:
   - Gunslinger
 tags:
   - class/gunslinger
-  - compendium/src/5e/valdagunslinger
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

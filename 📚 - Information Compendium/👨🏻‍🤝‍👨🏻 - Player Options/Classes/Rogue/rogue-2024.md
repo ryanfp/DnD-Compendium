@@ -8,7 +8,7 @@ aliases:
   - rogue-xphb
 tags:
   - class/rogue
-  - compendium/src/5e/xphb
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: rogue-2024

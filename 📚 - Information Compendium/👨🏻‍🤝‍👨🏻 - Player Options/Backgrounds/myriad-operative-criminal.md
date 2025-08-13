@@ -9,7 +9,7 @@ aliases:
   - myriad-operative-criminal-egw
 tags:
   - background
-  - compendium/src/5e/egw
+  - 
 cssclasses: json5e-background
 obsidianUIMode: preview
 ---

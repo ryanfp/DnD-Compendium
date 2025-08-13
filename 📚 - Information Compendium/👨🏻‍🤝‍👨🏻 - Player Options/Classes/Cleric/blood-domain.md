@@ -7,7 +7,7 @@ source: Tal'Dorei Campaign Setting Reborn
 aliases:
   - Blood Domain
 tags:
-  - compendium/src/5e/tdcsr
+  - 
   - domain/blood
   - subclass/cleric/blood
 cssclasses: json5e-class

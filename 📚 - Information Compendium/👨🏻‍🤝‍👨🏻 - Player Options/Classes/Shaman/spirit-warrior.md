@@ -7,7 +7,7 @@ source: The Shaman
 aliases:
   - Spirit Warrior
 tags:
-  - compendium/src/5e/llsh
+  - 
   - subclass/shaman/spirit-warrior
 cssclasses: json5e-class
 obsidianUIMode: preview

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/egw
+- 
 - spell/class/bard
 - spell/level/cantrip
 - spell/optfeature/pact-of-the-tome

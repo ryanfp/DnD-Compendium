@@ -7,7 +7,7 @@ source: "Xanathar's Guide to Everything"
 aliases:
   - Monster Slayer
 tags:
-  - compendium/src/5e/xge
+  - 
   - subclass/ranger/monster-slayer
 cssclasses: json5e-class
 obsidianUIMode: preview

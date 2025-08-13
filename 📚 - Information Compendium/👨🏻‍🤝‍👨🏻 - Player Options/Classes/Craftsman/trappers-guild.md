@@ -7,7 +7,7 @@ source: "Valda's Spire of Secrets"
 aliases:
   - "Trappers' Guild"
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/craftsman/trappers
 cssclasses: json5e-class
 obsidianUIMode: preview

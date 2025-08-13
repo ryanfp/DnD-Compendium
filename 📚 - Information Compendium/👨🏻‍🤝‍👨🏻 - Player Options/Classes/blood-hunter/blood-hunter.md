@@ -8,7 +8,7 @@ aliases:
   - Blood Hunter
 tags:
   - class/blood-hunter
-  - compendium/src/5e/bh2022
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

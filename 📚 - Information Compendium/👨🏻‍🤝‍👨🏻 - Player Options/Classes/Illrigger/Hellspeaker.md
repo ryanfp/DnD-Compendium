@@ -7,7 +7,7 @@ source: The Illrigger Revised
 aliases:
   - Hellspeaker
 tags:
-  - compendium/src/5e/illriggerrevised
+  - 
   - subclass/illrigger/hellspeaker
 cssclasses: json5e-class
 obsidianUIMode: preview

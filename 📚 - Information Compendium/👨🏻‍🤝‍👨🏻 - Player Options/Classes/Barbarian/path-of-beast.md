@@ -8,7 +8,7 @@ aliases:
   - Path of the Beast
   - path-of-the-beast
 tags:
-  - compendium/src/5e/tce
+  - 
   - subclass/barbarian/beast
 cssclasses: json5e-class
 obsidianUIMode: preview

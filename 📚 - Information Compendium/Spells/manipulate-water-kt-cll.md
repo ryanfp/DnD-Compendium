@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/kt-cll
+- 
 - spell/class/spellblade
 - spell/level/cantrip
 - spell/optfeature/root-of-magic

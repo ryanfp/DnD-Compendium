@@ -8,7 +8,7 @@ aliases:
   - Shaman
 tags:
   - class/shaman
-  - compendium/src/5e/llsh
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

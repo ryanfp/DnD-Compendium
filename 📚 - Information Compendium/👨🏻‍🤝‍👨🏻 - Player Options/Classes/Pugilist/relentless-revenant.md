@@ -7,7 +7,7 @@ source: "The Ultimate Adventurer's Handbook"
 aliases:
   - Relentless Revenant
 tags:
-  - compendium/src/5e/ultimateadventurer
+  - 
   - subclass/pugilist/relentless-revenant
 cssclasses: json5e-class
 obsidianUIMode: preview

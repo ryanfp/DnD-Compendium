@@ -8,7 +8,7 @@ aliases:
   - Circle of the Land
   - druid-xphb-circle-of-the-land
 tags:
-  - compendium/src/5e/phb
+  - 
   - subclass/druid/land
 cssclasses: json5e-class
 obsidianUIMode: preview

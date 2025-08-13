@@ -10,7 +10,7 @@ aliases:
   - druid-xphb-circle-of-spores-tce
   - circle-of-spores
 tags:
-  - compendium/src/5e/tce
+  - 
   - subclass/druid/spores
 cssclasses: json5e-class
 obsidianUIMode: preview

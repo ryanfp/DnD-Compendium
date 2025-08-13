@@ -7,7 +7,7 @@ source: "The Ultimate Adventurer's Handbook"
 aliases:
   - The Squared Circle
 tags:
-  - compendium/src/5e/ultimateadventurer
+  - 
   - subclass/pugilist/squared-circle
 cssclasses: json5e-class
 obsidianUIMode: preview

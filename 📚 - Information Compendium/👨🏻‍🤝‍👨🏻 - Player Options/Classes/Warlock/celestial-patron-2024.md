@@ -7,7 +7,7 @@ aliases:
   - Celestial Patron 2024
   - warlock-xphb-celestial-patron-xphb
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/warlock/celestial
 cssclasses: json5e-class
 obsidianUIMode: preview

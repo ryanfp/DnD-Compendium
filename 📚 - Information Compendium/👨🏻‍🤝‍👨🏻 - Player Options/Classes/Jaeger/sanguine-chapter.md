@@ -7,7 +7,7 @@ source: "Steinhardt's Guide to the Eldritch Hunt"
 aliases:
   - Sanguine Chapter
 tags:
-  - compendium/src/5e/sgtteh
+  - 
   - subclass/jaeger/sanguine
 cssclasses: json5e-class
 obsidianUIMode: preview

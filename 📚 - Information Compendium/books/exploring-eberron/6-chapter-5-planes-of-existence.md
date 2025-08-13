@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/exploringeberron
+- 
 aliases:
 - Chapter 5: Planes of Existence
 ---

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/sgtteh
+- 
 - race/cursed-blood/doused-cursed-blood
 aliases:
 - Cursed-Blood (Doused Cursed-Blood)

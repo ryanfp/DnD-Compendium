@@ -7,7 +7,7 @@ source: Kibbles' Compendium of Legends and Legacies
 aliases:
   - Ironbound
 tags:
-  - compendium/src/5e/kt-cll
+  - 
   - subclass/warden/ironbound
 cssclasses: json5e-class
 obsidianUIMode: preview

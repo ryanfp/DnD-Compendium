@@ -7,7 +7,7 @@ source: "Tasha's Cauldron of Everything"
 aliases:
   - Alchemist
 tags:
-  - compendium/src/5e/tce
+  - 
   - subclass/artificer/alchemist
 cssclasses: json5e-class
 obsidianUIMode: preview

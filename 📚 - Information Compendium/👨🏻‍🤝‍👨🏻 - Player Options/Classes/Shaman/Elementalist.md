@@ -7,7 +7,7 @@ source: Shaman Expanded
 aliases:
   - Elementalist
 tags:
-  - compendium/src/5e/llsh:e
+  - 
   - subclass/shaman/elementalist
 cssclasses: json5e-class
 obsidianUIMode: preview

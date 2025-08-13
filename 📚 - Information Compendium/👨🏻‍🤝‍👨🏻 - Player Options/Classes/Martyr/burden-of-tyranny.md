@@ -7,7 +7,7 @@ source: "Valda's Spire of Secrets"
 aliases:
   - Burden of Tyranny
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/martyr/tyranny
 cssclasses: json5e-class
 obsidianUIMode: preview

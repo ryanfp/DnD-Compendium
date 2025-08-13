@@ -9,7 +9,7 @@ aliases:
   - izzet-engineer-ggr
 tags:
   - background
-  - compendium/src/5e/ggr
+  - 
 cssclasses: json5e-background
 obsidianUIMode: preview
 ---

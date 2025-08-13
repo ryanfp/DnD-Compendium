@@ -9,7 +9,7 @@ aliases:
   - reformed-cultist-tdcsr
 tags:
   - background
-  - compendium/src/5e/tdcsr
+  - 
 cssclasses: json5e-background
 obsidianUIMode: preview
 ---

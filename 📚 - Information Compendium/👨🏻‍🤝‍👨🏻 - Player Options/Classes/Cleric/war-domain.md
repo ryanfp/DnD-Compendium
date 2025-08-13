@@ -7,7 +7,7 @@ source: Player's Handbook
 aliases:
   - War Domain
 tags:
-  - compendium/src/5e/phb
+  - 
   - domain/war
   - subclass/cleric/war
 cssclasses: json5e-class

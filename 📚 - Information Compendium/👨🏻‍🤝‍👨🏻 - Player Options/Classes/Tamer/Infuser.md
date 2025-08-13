@@ -7,7 +7,7 @@ source: "Heliana's Guide to Monster Hunting"
 aliases:
   - Infuser
 tags:
-  - compendium/src/5e/helianasguidetomonsterhunting
+  - 
   - subclass/tamer/infuser
 cssclasses: json5e-class
 obsidianUIMode: preview

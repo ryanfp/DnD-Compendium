@@ -7,7 +7,7 @@ aliases:
   - Abjurer 2024
   - wizard-xphb-abjurer-xphb
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/wizard/abjurer
 cssclasses: json5e-class
 obsidianUIMode: preview

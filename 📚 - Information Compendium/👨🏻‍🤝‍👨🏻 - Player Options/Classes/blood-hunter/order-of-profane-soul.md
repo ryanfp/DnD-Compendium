@@ -8,7 +8,7 @@ aliases:
   - Order of the Profane Soul
   - order-of-the-profane-soul
 tags:
-  - compendium/src/5e/bh2022
+  - 
   - subclass/blood-hunter/profane-soul
 cssclasses: json5e-class
 obsidianUIMode: preview

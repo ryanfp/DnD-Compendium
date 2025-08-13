@@ -9,7 +9,7 @@ aliases:
   - Amorist Field
   - amorist-field
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/alchemist/amorist
 cssclasses: json5e-class
 obsidianUIMode: preview

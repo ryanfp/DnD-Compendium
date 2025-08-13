@@ -7,7 +7,7 @@ source: Tasha's Cauldron of Everything
 aliases:
   - Peace Domain
 tags:
-  - compendium/src/5e/tce
+  - 
   - domain/peace
   - subclass/cleric/peace
 cssclasses: json5e-class

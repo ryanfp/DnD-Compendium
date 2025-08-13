@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/ccg
+- 
 - spell/class/soulshaper
 - spell/level/2nd-level
 - spell/school/evocation

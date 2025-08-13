@@ -9,7 +9,7 @@ aliases:
   - Beast Master 2024
   - ranger-xphb-beast-master-xphb
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/ranger/beast-master
 cssclasses: json5e-class
 obsidianUIMode: preview

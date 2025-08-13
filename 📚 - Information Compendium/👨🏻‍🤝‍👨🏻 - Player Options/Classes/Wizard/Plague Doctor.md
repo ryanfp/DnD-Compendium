@@ -5,7 +5,7 @@ updated: 2025/08/01 at 01:30
 aliases:
   - Plague Doctor
 tags:
-  - compendium/src/5e/ghpg
+  - 
   - subclass/wizard/plague-doctor
 cssclasses: json5e-class
 obsidianUIMode: preview

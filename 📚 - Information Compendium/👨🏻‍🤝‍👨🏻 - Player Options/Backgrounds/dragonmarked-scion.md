@@ -8,7 +8,7 @@ aliases:
   - Dragonmarked Scion
 tags:
   - background
-  - compendium/src/5e/foequickstone
+  - 
 cssclasses:
   - json5e-background
 obsidianUIMode: preview

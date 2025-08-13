@@ -8,7 +8,7 @@ aliases:
   - Warmage
 tags:
   - class/warmage
-  - compendium/src/5e/vss
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

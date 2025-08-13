@@ -9,7 +9,7 @@ aliases:
   - Trickery Domain
   - Trickery Domain 2024
 tags:
-  - compendium/src/5e/xphb
+  - 
   - domain/trickery
   - subclass/cleric/trickery
 cssclasses: json5e-class

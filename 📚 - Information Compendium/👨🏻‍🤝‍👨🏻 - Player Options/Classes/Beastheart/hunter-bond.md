@@ -7,7 +7,7 @@ source: Beastheart and Monstrous Companions
 aliases:
   - Hunter Bond
 tags:
-  - compendium/src/5e/bst
+  - 
   - subclass/beastheart/hunter
 cssclasses: json5e-class
 obsidianUIMode: preview

@@ -7,7 +7,7 @@ source: "The Ultimate Adventurer's Handbook"
 aliases:
   - Curse of Misfortune
 tags:
-  - compendium/src/5e/ultimateadventurer
+  - 
   - subclass/accursed/misfortune
 cssclasses: json5e-class
 obsidianUIMode: preview

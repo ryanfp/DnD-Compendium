@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/tcee2
+- 
 - race/ratperson
 aliases:
 - Ratperson

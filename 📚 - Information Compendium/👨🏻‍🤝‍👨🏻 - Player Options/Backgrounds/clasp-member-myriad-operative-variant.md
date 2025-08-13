@@ -9,7 +9,7 @@ aliases:
   - clasp-member-myriad-operative-variant-tdcsr
 tags:
   - background
-  - compendium/src/5e/tdcsr
+  - 
 cssclasses: json5e-background
 obsidianUIMode: preview
 ---

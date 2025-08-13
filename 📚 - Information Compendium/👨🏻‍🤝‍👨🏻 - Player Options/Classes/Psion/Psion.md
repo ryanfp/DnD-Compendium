@@ -8,7 +8,7 @@ aliases:
   - Psion
 tags:
   - class/psion
-  - compendium/src/5e/ktp
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

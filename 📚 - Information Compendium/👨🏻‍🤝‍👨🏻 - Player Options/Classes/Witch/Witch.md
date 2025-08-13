@@ -6,7 +6,7 @@ aliases:
   - Witch
 tags:
   - class/witch
-  - compendium/src/5e/vss
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: witch

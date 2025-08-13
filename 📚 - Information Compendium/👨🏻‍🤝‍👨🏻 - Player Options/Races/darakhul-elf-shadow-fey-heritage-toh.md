@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/toh
+- 
 - race/darakhul/elf-shadow-fey-heritage
 aliases:
 - Darakhul (Elf/Shadow Fey Heritage)

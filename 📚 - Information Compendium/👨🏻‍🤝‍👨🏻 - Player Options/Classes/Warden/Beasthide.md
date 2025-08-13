@@ -7,7 +7,7 @@ source: Kibbles' Compendium of Legends and Legacies
 aliases:
   - Beasthide
 tags:
-  - compendium/src/5e/kt-cll
+  - 
   - subclass/warden/beasthide
 cssclasses: json5e-class
 obsidianUIMode: preview

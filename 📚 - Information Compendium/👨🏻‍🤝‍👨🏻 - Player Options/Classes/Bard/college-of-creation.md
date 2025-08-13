@@ -7,7 +7,7 @@ source: Tasha's Cauldron of Everything
 aliases:
   - College of Creation
 tags:
-  - compendium/src/5e/tce
+  - 
   - subclass/bard/creation
 cssclasses: json5e-class
 obsidianUIMode: preview

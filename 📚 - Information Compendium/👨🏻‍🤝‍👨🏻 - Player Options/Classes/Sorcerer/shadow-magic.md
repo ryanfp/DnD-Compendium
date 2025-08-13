@@ -5,7 +5,7 @@ updated: 2025/08/01 at 01:33
 aliases:
   - Shadow Magic
 tags:
-  - compendium/src/5e/xge
+  - 
   - subclass/sorcerer/shadow
 cssclasses: json5e-class
 obsidianUIMode: preview

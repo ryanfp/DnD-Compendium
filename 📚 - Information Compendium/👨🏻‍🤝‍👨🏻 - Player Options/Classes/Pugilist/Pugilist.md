@@ -8,7 +8,7 @@ aliases:
   - Pugilist
 tags:
   - class/pugilist
-  - compendium/src/5e/ultimateadventurer
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

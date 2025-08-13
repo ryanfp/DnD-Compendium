@@ -7,7 +7,7 @@ source: "Van Richten's Guide to Ravenloft"
 aliases:
   - The Undead
 tags:
-  - compendium/src/5e/vrgr
+  - 
   - subclass/warlock/undead
 cssclasses: json5e-class
 obsidianUIMode: preview

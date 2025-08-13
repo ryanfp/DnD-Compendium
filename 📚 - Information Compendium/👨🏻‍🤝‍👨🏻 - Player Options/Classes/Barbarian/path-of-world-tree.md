@@ -8,7 +8,7 @@ aliases:
   - Path of the World Tree
   - path-of-the-world-tree
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/barbarian/world-tree
 cssclasses: json5e-class
 obsidianUIMode: preview

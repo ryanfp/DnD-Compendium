@@ -7,7 +7,7 @@ aliases:
   - Diviner 2024
   - wizard-xphb-diviner-xphb
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/wizard/diviner
 cssclasses: json5e-class
 obsidianUIMode: preview

@@ -8,7 +8,7 @@ aliases:
   - sorcerer-xphb
 tags:
   - class/sorcerer
-  - compendium/src/5e/xphb
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: sorcerer-2024

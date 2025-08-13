@@ -9,7 +9,7 @@ aliases:
   - noble-disgraced-variant-chroniclesofeberron
 tags:
   - background
-  - compendium/src/5e/chroniclesofeberron
+  - 
 cssclasses: json5e-background
 obsidianUIMode: preview
 ---

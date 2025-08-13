@@ -7,7 +7,7 @@ source: Tasha's Cauldron of Everything
 aliases:
   - Circle of Wildfire
 tags:
-  - compendium/src/5e/tce
+  - 
   - subclass/druid/wildfire
 cssclasses: json5e-class
 obsidianUIMode: preview

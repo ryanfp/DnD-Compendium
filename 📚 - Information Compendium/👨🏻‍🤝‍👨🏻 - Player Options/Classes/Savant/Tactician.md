@@ -7,7 +7,7 @@ source: Savant
 aliases:
   - Tactician
 tags:
-  - compendium/src/5e/llsav
+  - 
   - subclass/savant/tactician
 cssclasses: json5e-class
 obsidianUIMode: preview

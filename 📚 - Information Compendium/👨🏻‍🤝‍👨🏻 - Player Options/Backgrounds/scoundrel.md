@@ -9,7 +9,7 @@ aliases:
   - scoundrel-toh
 tags:
   - background
-  - compendium/src/5e/toh
+  - 
 cssclasses: json5e-background
 obsidianUIMode: preview
 ---

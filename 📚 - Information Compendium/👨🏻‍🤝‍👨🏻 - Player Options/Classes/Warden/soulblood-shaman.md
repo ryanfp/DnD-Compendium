@@ -8,7 +8,7 @@ aliases:
   - Soulblood Shaman
   - warden-soulblood-shaman-vss
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/warden/soulblood-shaman
 cssclasses: json5e-class
 obsidianUIMode: preview

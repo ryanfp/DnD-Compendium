@@ -5,7 +5,7 @@ updated: 2025/08/01 at 01:30
 aliases:
   - Chronurgy Magic
 tags:
-  - compendium/src/5e/egw
+  - 
   - subclass/wizard/chronurgy
 cssclasses: json5e-class
 obsidianUIMode: preview

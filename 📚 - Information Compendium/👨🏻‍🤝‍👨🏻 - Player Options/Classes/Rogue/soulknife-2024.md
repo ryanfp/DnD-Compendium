@@ -7,7 +7,7 @@ aliases:
   - Soulknife 2024
   - rogue-xphb-soulknife-xphb
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/rogue/soulknife
 cssclasses: json5e-class
 obsidianUIMode: preview

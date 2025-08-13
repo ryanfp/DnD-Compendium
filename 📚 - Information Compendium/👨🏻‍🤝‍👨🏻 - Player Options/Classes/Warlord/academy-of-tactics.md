@@ -5,7 +5,7 @@ updated: 2025/08/01 at 01:40
 aliases:
   - Academy of Tactics
 tags:
-  - compendium/src/5e/llaw
+  - 
   - subclass/warlord/tactics
 cssclasses: json5e-class
 obsidianUIMode: preview

@@ -10,7 +10,7 @@ aliases:
   - Barbarian 2014
 tags:
   - class/barbarian
-  - compendium/src/5e/phb
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

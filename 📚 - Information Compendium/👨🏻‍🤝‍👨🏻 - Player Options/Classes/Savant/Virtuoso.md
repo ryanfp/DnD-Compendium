@@ -7,7 +7,7 @@ source: Savant Expanded
 aliases:
   - Virtuoso
 tags:
-  - compendium/src/5e/llsave
+  - 
   - subclass/savant/virtuoso
 cssclasses: json5e-class
 obsidianUIMode: preview

@@ -13,8 +13,8 @@ tags:
 ## 8-11-2025
 
 - I think I went through all the classes and determined that the occultist, shaman, maybe the martyr? were the most likely to be removed. 
-	- Maybe find way to incorpate some of the occultist mechanics into the shaman class?
-- Also determine what to do about the craftsman and artificer? #a
+	- Maybe find way to incorporate some of the occultist mechanics into the shaman class?
+- Also determine what to do about the craftsman and artificer? 
 	- See if I should combine LaserLlama’s and KibblesTasty’s versions (Inventor)
 	- Give martial weapon proficiency back to base Artificer^[‘24]
 	- Revert Magical Tinkering ability to 5e/2014 edition’s iteration
@@ -28,3 +28,5 @@ tags:
 		- classes/subclasses
 		- spells
 	- Valda’s Spire of Secrets?
+- Go through homebrew list in CLI and decide which sources to keep, especially spells and monsters, and delete the rest
+	- Will deleting all tags that contain the shorthand source be a problem for this task?

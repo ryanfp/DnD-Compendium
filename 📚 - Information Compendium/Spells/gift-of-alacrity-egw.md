@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/egw
+- 
 - spell/class/bard
 - spell/feat/fey-touched
 - spell/level/1st-level

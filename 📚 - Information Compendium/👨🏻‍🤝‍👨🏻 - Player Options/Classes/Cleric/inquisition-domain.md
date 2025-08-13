@@ -7,7 +7,7 @@ source: Grim Hollow: The Player's Guide
 aliases:
   - Inquisition Domain
 tags:
-  - compendium/src/5e/ghpg
+  - 
   - domain/inquisition
   - subclass/cleric/inquisition
 cssclasses: json5e-class

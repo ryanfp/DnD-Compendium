@@ -6,7 +6,7 @@ aliases:
   - Tamer
 tags:
   - class/tamer
-  - compendium/src/5e/helianasguidetomonsterhunting
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: tamer

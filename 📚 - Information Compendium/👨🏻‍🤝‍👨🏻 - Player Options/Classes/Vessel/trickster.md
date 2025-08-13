@@ -9,7 +9,7 @@ aliases:
   - The Trickster
   - the-trickster
 tags:
-  - compendium/src/5e/llvessel
+  - 
   - subclass/vessel/trickster
 cssclasses: json5e-class
 obsidianUIMode: preview

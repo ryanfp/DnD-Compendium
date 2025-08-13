@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/erlw
+- 
 - race/shifter/swiftstride
 aliases:
 - Shifter (Swiftstride)

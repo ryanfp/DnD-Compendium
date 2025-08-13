@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/fotr
+- 
 - spell/level/3rd-level
 - spell/school/abjuration
 aliases:

@@ -9,7 +9,7 @@ aliases:
   - Light Domain 2024
   - cleric-xphb-light-domain-xphb
 tags:
-  - compendium/src/5e/xphb
+  - 
   - domain/light
   - subclass/cleric/light
 cssclasses: json5e-class

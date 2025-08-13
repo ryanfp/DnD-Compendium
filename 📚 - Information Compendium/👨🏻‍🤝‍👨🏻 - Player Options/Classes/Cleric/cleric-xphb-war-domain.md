@@ -9,7 +9,7 @@ aliases:
   - cleric-xphb-war-domain
   - War Domain
 tags:
-  - compendium/src/5e/phb
+  - 
   - domain/war
   - subclass/cleric/war
 cssclasses: json5e-class

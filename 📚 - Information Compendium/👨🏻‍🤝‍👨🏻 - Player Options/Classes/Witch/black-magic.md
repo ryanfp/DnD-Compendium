@@ -7,7 +7,7 @@ source: "Valda's Spire of Secrets"
 aliases:
   - Black Magic
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/witch/black
 cssclasses: json5e-class
 obsidianUIMode: preview

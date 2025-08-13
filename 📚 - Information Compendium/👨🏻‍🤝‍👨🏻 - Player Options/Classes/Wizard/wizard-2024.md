@@ -8,7 +8,7 @@ aliases:
   - wizard-xphb
 tags:
   - class/wizard
-  - compendium/src/5e/xphb
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: wizard-2024

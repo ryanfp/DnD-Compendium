@@ -8,7 +8,7 @@ aliases:
   - Commercial Pilot
 tags:
   - background
-  - compendium/src/5e/darkmatter
+  - 
 cssclasses: json5e-background
 obsidianUIMode: preview
 ---

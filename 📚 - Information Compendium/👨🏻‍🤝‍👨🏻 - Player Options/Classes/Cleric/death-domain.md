@@ -7,7 +7,7 @@ source: Dungeon Master's Guide
 aliases:
   - Death Domain
 tags:
-  - compendium/src/5e/dmg
+  - 
   - domain/death
   - subclass/cleric/death
 cssclasses: json5e-class

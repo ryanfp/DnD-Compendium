@@ -7,7 +7,7 @@ source: Player's Handbook
 aliases:
   - College of Lore
 tags:
-  - compendium/src/5e/phb
+  - 
   - subclass/bard/lore
 cssclasses: json5e-class
 obsidianUIMode: preview

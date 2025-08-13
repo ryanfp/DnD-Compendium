@@ -9,7 +9,7 @@ aliases:
   - haunted-one-vrgr
 tags:
   - background
-  - compendium/src/5e/vrgr
+  - 
 cssclasses: json5e-background
 obsidianUIMode: preview
 ---

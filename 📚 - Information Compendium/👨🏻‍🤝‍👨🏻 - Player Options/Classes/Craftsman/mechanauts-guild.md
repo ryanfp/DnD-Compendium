@@ -7,7 +7,7 @@ source: "Valda's Spire of Secrets"
 aliases:
   - "Mechanauts' Guild"
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/craftsman/mechanauts
 cssclasses: json5e-class
 obsidianUIMode: preview

@@ -9,7 +9,7 @@ aliases:
   - The Cataclysm
   - the-cataclysm
 tags:
-  - compendium/src/5e/llvessel
+  - 
   - subclass/vessel/cataclysm
 cssclasses: json5e-class
 obsidianUIMode: preview

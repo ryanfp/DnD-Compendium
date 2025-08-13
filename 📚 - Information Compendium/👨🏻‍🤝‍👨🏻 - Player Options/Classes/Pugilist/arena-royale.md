@@ -7,7 +7,7 @@ source: "The Ultimate Adventurer's Handbook"
 aliases:
   - Arena Royale
 tags:
-  - compendium/src/5e/ultimateadventurer
+  - 
   - subclass/pugilist/arena-royale
 cssclasses: json5e-class
 obsidianUIMode: preview

@@ -7,7 +7,7 @@ source: Patreon Subclasses for the Pugilist
 aliases:
   - Dragonheart
 tags:
-  - compendium/src/5e/sterlingvermin:patreon
+  - 
   - subclass/pugilist/dragonheart
 cssclasses: json5e-class
 obsidianUIMode: preview

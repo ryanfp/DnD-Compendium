@@ -7,7 +7,7 @@ source: "Valda's Spire of Secrets"
 aliases:
   - House of Cards
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/warmage/cards
 cssclasses: json5e-class
 obsidianUIMode: preview

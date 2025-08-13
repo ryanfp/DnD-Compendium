@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-note
-tags: [compendium/src/5e/ccg, compendium/src/5e/darkmatter, compendium/src/5e/obojimatallgrass]
+tags: [
 aliases:
   - Skills
 permalink: skills

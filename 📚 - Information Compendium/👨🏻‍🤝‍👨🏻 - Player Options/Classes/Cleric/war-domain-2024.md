@@ -9,7 +9,7 @@ aliases:
   - War Domain 2024
   - cleric-xphb-war-domain-xphb
 tags:
-  - compendium/src/5e/xphb
+  - 
   - domain/war
   - subclass/cleric/war
 cssclasses: json5e-class

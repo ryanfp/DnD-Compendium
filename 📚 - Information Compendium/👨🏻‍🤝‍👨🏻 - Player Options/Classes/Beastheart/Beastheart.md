@@ -8,7 +8,7 @@ aliases:
   - Beastheart
 tags:
   - class/beastheart
-  - compendium/src/5e/bst
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

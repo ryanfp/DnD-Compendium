@@ -8,7 +8,7 @@ aliases:
   - Jaeger
 tags:
   - class/jaeger
-  - compendium/src/5e/sgtteh
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

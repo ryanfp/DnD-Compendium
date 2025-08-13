@@ -7,7 +7,7 @@ source: "The Ultimate Adventurer's Handbook"
 aliases:
   - Curse of Petrification
 tags:
-  - compendium/src/5e/ultimateadventurer
+  - 
   - subclass/accursed/petrification
 cssclasses: json5e-class
 obsidianUIMode: preview

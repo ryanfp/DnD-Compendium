@@ -9,7 +9,7 @@ aliases:
   - Champion 2024
   - fighter-xphb-champion-xphb
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/fighter/champion
 cssclasses: json5e-class
 obsidianUIMode: preview

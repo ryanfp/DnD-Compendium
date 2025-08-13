@@ -9,7 +9,7 @@ aliases:
   - house-agent-erlw
 tags:
   - background
-  - compendium/src/5e/erlw
+  - 
 cssclasses: json5e-background
 obsidianUIMode: preview
 ---

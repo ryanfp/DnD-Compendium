@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [compendium/src/5e/ha:gs, subclass/gunslinger/enforcer]
+tags: [
 aliases:
   - Enforcer
   - Enforcer

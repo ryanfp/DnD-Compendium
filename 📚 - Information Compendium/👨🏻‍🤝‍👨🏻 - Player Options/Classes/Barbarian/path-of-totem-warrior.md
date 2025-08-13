@@ -8,7 +8,7 @@ aliases:
   - Path of the Totem Warrior
   - path-of-the-totem-warrior
 tags:
-  - compendium/src/5e/phb
+  - 
   - subclass/barbarian/totem-warrior
 cssclasses: json5e-class
 obsidianUIMode: preview

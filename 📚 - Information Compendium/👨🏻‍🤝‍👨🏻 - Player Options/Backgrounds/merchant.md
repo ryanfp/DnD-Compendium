@@ -9,7 +9,7 @@ aliases:
   - merchant-xphb
 tags:
   - background
-  - compendium/src/5e/xphb
+  - 
 cssclasses: json5e-background
 obsidianUIMode: preview
 ---

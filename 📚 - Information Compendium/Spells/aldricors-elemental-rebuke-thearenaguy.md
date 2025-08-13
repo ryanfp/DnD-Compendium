@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/thearenaguy
+- 
 - spell/level/208th-level
 - spell/school/evocation
 - spell/subclass/elemental-soul

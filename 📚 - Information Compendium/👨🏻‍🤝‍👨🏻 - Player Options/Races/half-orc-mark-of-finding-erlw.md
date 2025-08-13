@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/erlw
+- 
 - race/half-orc/mark-of-finding
 aliases:
 - Half-Orc (Mark of Finding)

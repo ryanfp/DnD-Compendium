@@ -10,7 +10,7 @@ aliases:
   - College of Glamour
   - College of Glamour 2024
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/bard/glamour
 cssclasses: json5e-class
 obsidianUIMode: preview

@@ -9,7 +9,7 @@ aliases:
   - urban-bounty-hunter-scag
 tags:
   - background
-  - compendium/src/5e/scag
+  - 
 cssclasses: json5e-background
 obsidianUIMode: preview
 ---

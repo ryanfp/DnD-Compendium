@@ -7,7 +7,7 @@ aliases:
   - Illusionist 2024
   - wizard-xphb-illusionist-xphb
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/wizard/illusionist
 cssclasses: json5e-class
 obsidianUIMode: preview

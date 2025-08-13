@@ -7,7 +7,7 @@ source: Savant Expanded
 aliases:
   - Mentor
 tags:
-  - compendium/src/5e/llsave
+  - 
   - subclass/savant/mentor
 cssclasses: json5e-class
 obsidianUIMode: preview

@@ -8,7 +8,7 @@ aliases:
   - Warrior of Shadow2024
   - monk-xphb-warrior-of-shadow-xphb
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/monk/shadow
 cssclasses: json5e-class
 obsidianUIMode: preview

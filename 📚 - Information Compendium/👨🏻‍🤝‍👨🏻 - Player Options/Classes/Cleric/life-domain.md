@@ -7,7 +7,7 @@ source: Player's Handbook
 aliases:
   - Life Domain
 tags:
-  - compendium/src/5e/phb
+  - 
   - domain/life
   - subclass/cleric/life
 cssclasses: json5e-class

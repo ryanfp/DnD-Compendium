@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-spell
-tags: [compendium/src/5e/xge, spell/class/bard, spell/class/sorcerer, spell/class/wizard, spell/level/8th-level, spell/school/necromancy, spell/subclass/arcana-domain]
+tags: [
 classes: [Bard, Cleric (Arcana Domain), Sorcerer, Wizard]
 aliases:
   - "Abi-Dalzim's Horrid Wilting"

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/scag
+- 
 - race/half-elf/wood-elf-descent
 aliases:
 - Half-Elf (Wood Elf Descent)

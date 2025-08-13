@@ -9,7 +9,7 @@ aliases:
   - Fey Wanderer 2024
   - ranger-xphb-fey-wanderer-xphb
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/ranger/fey-wanderer
 cssclasses: json5e-class
 obsidianUIMode: preview

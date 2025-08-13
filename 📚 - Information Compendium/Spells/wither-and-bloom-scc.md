@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/scc
+- 
 - spell/background/witherbloom-student
 - spell/class/bard
 - spell/class/druid

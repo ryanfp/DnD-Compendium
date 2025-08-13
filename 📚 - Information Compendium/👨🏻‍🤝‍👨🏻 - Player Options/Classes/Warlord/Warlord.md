@@ -6,7 +6,7 @@ aliases:
   - Warlord
 tags:
   - class/warlord
-  - compendium/src/5e/llaw
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: warlord

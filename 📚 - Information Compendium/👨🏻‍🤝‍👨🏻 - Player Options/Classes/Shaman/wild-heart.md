@@ -7,7 +7,7 @@ source: The Shaman
 aliases:
   - Wild Heart
 tags:
-  - compendium/src/5e/llsh
+  - 
   - subclass/shaman/wild-heart
 cssclasses: json5e-class
 obsidianUIMode: preview

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/elminsters guide to magic
+- 
 - spell/level/9th-level
 - spell/school/abjuration
 aliases:

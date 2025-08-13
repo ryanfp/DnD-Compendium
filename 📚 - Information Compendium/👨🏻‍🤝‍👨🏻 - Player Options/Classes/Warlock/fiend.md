@@ -5,7 +5,7 @@ updated: 2025/08/01 at 01:38
 aliases:
   - The Fiend
 tags:
-  - compendium/src/5e/phb
+  - 
   - subclass/warlock/fiend
 cssclasses: json5e-class
 obsidianUIMode: preview

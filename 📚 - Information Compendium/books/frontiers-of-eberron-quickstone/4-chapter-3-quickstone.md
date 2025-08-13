@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/foequickstone
+- 
 aliases:
 - Chapter 3: Quickstone
 ---

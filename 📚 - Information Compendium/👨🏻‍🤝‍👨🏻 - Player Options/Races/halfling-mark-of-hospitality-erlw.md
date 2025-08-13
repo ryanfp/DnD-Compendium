@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/erlw
+- 
 - race/halfling/mark-of-hospitality
 aliases:
 - Halfling (Mark of Hospitality)

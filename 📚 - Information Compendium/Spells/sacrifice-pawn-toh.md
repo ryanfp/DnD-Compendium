@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/toh
+- 
 - spell/level/4th-level
 - spell/school/necromancy
 aliases:

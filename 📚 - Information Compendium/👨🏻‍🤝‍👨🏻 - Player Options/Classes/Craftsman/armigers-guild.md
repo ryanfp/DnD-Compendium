@@ -7,7 +7,7 @@ source: "Valda's Spire of Secrets"
 aliases:
   - "Armigers' Guild"
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/craftsman/armigers
 cssclasses: json5e-class
 obsidianUIMode: preview

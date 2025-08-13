@@ -10,7 +10,7 @@ aliases:
   - College of Lore 2024
   - bard-xphb-college-of-lore
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/bard/lore
 cssclasses: json5e-class
 obsidianUIMode: preview

@@ -7,7 +7,7 @@ source: "Player's Handbook"
 aliases:
   - Arcane Trickster
 tags:
-  - compendium/src/5e/phb
+  - 
   - subclass/rogue/arcane-trickster
 cssclasses: json5e-class
 obsidianUIMode: preview

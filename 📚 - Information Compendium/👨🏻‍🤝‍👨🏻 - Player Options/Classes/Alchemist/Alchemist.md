@@ -8,7 +8,7 @@ aliases:
   - Alchemist
 tags:
   - class/alchemist
-  - compendium/src/5e/vss
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

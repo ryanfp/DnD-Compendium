@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Quick  Thoughts",
+      "path": "Quick  Thoughts.md"
+    },
+    {
+      "basename": "01",
+      "path": "📚 - Information Compendium/books/strongholds-and-followers/01.md"
+    },
+    {
       "basename": "aberrant-mind",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/aberrant-mind.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "barbarian-2024",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/barbarian-2024.md"
-    },
-    {
-      "basename": "Quick  Thoughts",
-      "path": "Quick  Thoughts.md"
     },
     {
       "basename": "Classes",
@@ -195,10 +199,6 @@
     {
       "basename": "astrologer",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Shaman/astrologer.md"
-    },
-    {
-      "basename": "archaeologist",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Savant/archaeologist.md"
     }
   ],
   "omittedPaths": [],

@@ -8,7 +8,7 @@ aliases:
   - warlock-xphb
 tags:
   - class/warlock
-  - compendium/src/5e/xphb
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: warlock-2024

@@ -7,7 +7,7 @@ source: Player's Handbook
 aliases:
   - Eldritch Knight
 tags:
-  - compendium/src/5e/phb
+  - 
   - subclass/fighter/eldritch-knight
 cssclasses: json5e-class
 obsidianUIMode: preview

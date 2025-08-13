@@ -7,7 +7,7 @@ source: Xanathar's Guide to Everything
 aliases:
   - College of Glamour
 tags:
-  - compendium/src/5e/xge
+  - 
   - subclass/bard/glamour
 cssclasses: json5e-class
 obsidianUIMode: preview

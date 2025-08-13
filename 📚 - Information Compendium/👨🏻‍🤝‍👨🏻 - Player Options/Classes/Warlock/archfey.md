@@ -7,7 +7,7 @@ source: Player's Handbook
 aliases:
   - The Archfey
 tags:
-  - compendium/src/5e/phb
+  - 
   - subclass/warlock/archfey
 cssclasses: json5e-class
 obsidianUIMode: preview

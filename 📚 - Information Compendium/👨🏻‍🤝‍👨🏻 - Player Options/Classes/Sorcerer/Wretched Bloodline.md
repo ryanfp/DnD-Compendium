@@ -5,7 +5,7 @@ updated: 2025/08/01 at 01:30
 aliases:
   - Wretched Bloodline
 tags:
-  - compendium/src/5e/ghpg
+  - 
   - subclass/sorcerer/wretched
 cssclasses: json5e-class
 obsidianUIMode: preview

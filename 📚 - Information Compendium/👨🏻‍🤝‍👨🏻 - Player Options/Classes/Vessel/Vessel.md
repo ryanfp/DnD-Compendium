@@ -8,7 +8,7 @@ aliases:
   - Vessel
 tags:
   - class/vessel
-  - compendium/src/5e/llvessel
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

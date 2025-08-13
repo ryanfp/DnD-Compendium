@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [compendium/src/5e/nethingmagiccardslinger, subclass/card-slinger/deckmaster]
+tags: [
 aliases:
   - card-slinger-hand-of-the
   - card-slinger-hand-of-the-deckmaster-nethingmagiccardslinger

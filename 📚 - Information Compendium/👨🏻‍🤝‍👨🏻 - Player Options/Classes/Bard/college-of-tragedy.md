@@ -7,7 +7,7 @@ source: Tal'Dorei Campaign Setting Reborn
 aliases:
   - College of Tragedy
 tags:
-  - compendium/src/5e/tdcsr
+  - 
   - subclass/bard/tragedy
 cssclasses: json5e-class
 obsidianUIMode: preview

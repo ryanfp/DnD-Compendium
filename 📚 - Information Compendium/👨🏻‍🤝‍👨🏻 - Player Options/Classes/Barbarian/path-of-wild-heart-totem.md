@@ -10,7 +10,7 @@ aliases:
   - Path of the Wild Heart (Totem Warrior 2014)
   - path-of-wild-heart
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/barbarian/wild-heart
 cssclasses: json5e-class
 obsidianUIMode: preview

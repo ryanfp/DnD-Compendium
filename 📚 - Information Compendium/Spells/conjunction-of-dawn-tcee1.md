@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/tcee1
+- 
 - spell/level/8th-level
 - spell/school/conjuration
 aliases:

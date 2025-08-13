@@ -6,7 +6,7 @@ aliases:
   - Warlock
 tags:
   - class/warlock
-  - compendium/src/5e/phb
+  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 permalink: warlock

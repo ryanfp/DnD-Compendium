@@ -9,7 +9,7 @@ aliases:
   - The Fallen
   - the-fallen
 tags:
-  - compendium/src/5e/llvessel
+  - 
   - subclass/vessel/fallen
 cssclasses: json5e-class
 obsidianUIMode: preview

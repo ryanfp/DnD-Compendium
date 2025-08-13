@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [class/gunner, compendium/src/5e/zgtteot]
+tags: [class/gunner, 
 aliases:
   - Gunner
   - Gunner

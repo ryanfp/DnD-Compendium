@@ -10,7 +10,7 @@ aliases:
   - Path of the Berserker PHB
   - path-of-the-berserker-phb
 tags:
-  - compendium/src/5e/phb
+  - 
   - subclass/barbarian/berserker
 cssclasses: json5e-class
 obsidianUIMode: preview

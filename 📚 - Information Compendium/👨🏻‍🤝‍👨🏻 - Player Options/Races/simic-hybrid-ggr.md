@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/ggr
+- 
 - race/simic-hybrid
 aliases:
 - Simic Hybrid

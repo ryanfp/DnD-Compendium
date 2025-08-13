@@ -7,7 +7,7 @@ source: "Tasha's Cauldron of Everything"
 aliases:
   - Bladesinging
 tags:
-  - compendium/src/5e/tce
+  - 
   - subclass/wizard/bladesinging
 cssclasses: json5e-class
 obsidianUIMode: preview

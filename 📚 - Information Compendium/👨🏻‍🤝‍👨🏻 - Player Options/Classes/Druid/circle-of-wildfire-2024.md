@@ -10,7 +10,7 @@ aliases:
   - druid-xphb-circle-of-wildfire-tce
   - circle-of-wildfire
 tags:
-  - compendium/src/5e/tce
+  - 
   - subclass/druid/wildfire
 cssclasses: json5e-class
 obsidianUIMode: preview

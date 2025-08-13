@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/helianasguidetomonsterhunting
+- 
 - spell/level/3rd-level
 - spell/school/biomancy
 - spell/subclass/necromancer

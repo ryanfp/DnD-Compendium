@@ -10,7 +10,7 @@ aliases:
   - druid-xphb-circle-of-the-blighted-tdcsr
   - circle-of-blighted
 tags:
-  - compendium/src/5e/tdcsr
+  - 
   - subclass/druid/blighted
 cssclasses: json5e-class
 obsidianUIMode: preview

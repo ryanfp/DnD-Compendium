@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- compendium/src/5e/egw
+- 
 - spell/class/bard
 - spell/level/1st-level
 - spell/school/transmutation

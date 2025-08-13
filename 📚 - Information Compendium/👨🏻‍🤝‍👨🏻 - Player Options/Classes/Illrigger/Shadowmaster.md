@@ -7,7 +7,7 @@ source: The Illrigger Revised
 aliases:
   - Shadowmaster
 tags:
-  - compendium/src/5e/illriggerrevised
+  - 
   - subclass/illrigger/shadowmaster
 cssclasses: json5e-class
 obsidianUIMode: preview

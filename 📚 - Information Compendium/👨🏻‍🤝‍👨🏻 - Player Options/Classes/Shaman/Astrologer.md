@@ -7,7 +7,7 @@ source: Shaman Expanded
 aliases:
   - Astrologer
 tags:
-  - compendium/src/5e/llsh:e
+  - 
   - subclass/shaman/astrologer
 cssclasses: json5e-class
 obsidianUIMode: preview

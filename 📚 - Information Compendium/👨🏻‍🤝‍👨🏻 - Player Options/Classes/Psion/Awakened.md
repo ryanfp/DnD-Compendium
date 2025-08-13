@@ -7,7 +7,7 @@ source: "KibblesTasty: Psion"
 aliases:
   - Awakened
 tags:
-  - compendium/src/5e/ktp
+  - 
   - subclass/psion/awakened
 cssclasses: json5e-class
 obsidianUIMode: preview

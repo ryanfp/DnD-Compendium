@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [class/gunslinger, compendium/src/5e/ha:gs]
+tags: [class/gunslinger, 
 aliases:
   - Gunslinger
   - Gunslinger

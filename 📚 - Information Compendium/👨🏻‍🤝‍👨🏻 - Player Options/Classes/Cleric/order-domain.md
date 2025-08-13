@@ -7,7 +7,7 @@ source: Tasha's Cauldron of Everything
 aliases:
   - Order Domain
 tags:
-  - compendium/src/5e/tce
+  - 
   - domain/order
   - subclass/cleric/order
 cssclasses: json5e-class

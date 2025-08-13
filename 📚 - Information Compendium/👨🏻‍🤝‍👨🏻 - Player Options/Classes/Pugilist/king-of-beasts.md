@@ -7,7 +7,7 @@ source: Patreon Subclasses for the Pugilist
 aliases:
   - King of Beasts
 tags:
-  - compendium/src/5e/sterlingvermin:patreon
+  - 
   - subclass/pugilist/king-of-beasts
 cssclasses: json5e-class
 obsidianUIMode: preview

@@ -7,7 +7,7 @@ aliases:
   - Archfey Patron 2024
   - warlock-xphb-archfey-patron-xphb
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/warlock/archfey
 cssclasses: json5e-class
 obsidianUIMode: preview

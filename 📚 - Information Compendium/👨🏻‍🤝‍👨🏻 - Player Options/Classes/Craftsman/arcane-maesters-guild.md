@@ -7,7 +7,7 @@ source: "Valda's Spire of Secrets"
 aliases:
   - "Arcane Maesters' Guild"
 tags:
-  - compendium/src/5e/vss
+  - 
   - subclass/craftsman/arcane-maesters
 cssclasses: json5e-class
 obsidianUIMode: preview

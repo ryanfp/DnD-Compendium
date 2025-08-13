@@ -7,7 +7,7 @@ source: "The Ultimate Adventurer's Handbook"
 aliases:
   - Paradox Consortium
 tags:
-  - compendium/src/5e/ultimateadventurer
+  - 
   - subclass/pugilist/paradox-consortium
 cssclasses: json5e-class
 obsidianUIMode: preview

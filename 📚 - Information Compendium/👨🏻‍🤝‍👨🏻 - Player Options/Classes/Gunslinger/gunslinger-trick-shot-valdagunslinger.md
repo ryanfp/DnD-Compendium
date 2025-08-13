@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-class
-tags: [compendium/src/5e/valdagunslinger, subclass/gunslinger/trick-shot]
+tags: [
 aliases:
   - Trick Shot
   - Trick Shot

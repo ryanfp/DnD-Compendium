@@ -5,7 +5,7 @@ updated: 2025/08/01 at 01:30
 aliases:
   - Scout
 tags:
-  - compendium/src/5e/xge
+  - 
   - subclass/rogue/scout
 cssclasses: json5e-class
 obsidianUIMode: preview

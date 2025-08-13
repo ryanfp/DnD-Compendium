@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
-- compendium/src/5e/erlw
+- 
 - race/dwarf/mark-of-warding
 aliases:
 - Dwarf (Mark of Warding)

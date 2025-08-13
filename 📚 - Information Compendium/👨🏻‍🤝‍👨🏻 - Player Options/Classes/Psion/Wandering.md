@@ -7,7 +7,7 @@ source: "KibblesTasty: Psion"
 aliases:
   - Wandering
 tags:
-  - compendium/src/5e/ktp
+  - 
   - subclass/psion/wandering
 cssclasses: json5e-class
 obsidianUIMode: preview

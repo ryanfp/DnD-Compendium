@@ -10,7 +10,7 @@ aliases:
   - Path of the Berserker 2024
   - path-of-the-berserker
 tags:
-  - compendium/src/5e/xphb
+  - 
   - subclass/barbarian/berserker
 cssclasses: json5e-class
 obsidianUIMode: preview
