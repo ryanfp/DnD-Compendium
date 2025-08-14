@@ -45,7 +45,7 @@ The Ultimate Adventurer’s Handbook (<sup>UAG</sup>)
 GM Binder (<sup>GMB</sup>)
 SoManyRobots (<sup>SMR</sup>)
 
-## [Accursed](accursed.md)
+## [Accursed](📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/accursed.md)
 
 *Afflicted by a horrific curse but finds a way to take control, alleviating the worst of its effects and wielding its power for themselves. (**Source: The Ultimate Adventurer’s Handbook**)*
 
@@ -87,7 +87,7 @@ You were turned into a statue, and can change into this form at will. Grants you
 
 You were cursed by a fey to sleep forever, fighting to stay awake and live your life. You can give enemies fatigue, learn one-time use spells and negate exhaustion penalties.
 
-## [Alchemist](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Artificer/alchemist.md)
+## [Alchemist](📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist.md)
 
 *Experiments with a wide array of scientific discoveries and lethal bombs. Combining science and magic together in unholy concoctions, an alchemist brews up explosives and transmutative potions on the fly. (**Source: Valda’s Spire of Secrets**)* 
 

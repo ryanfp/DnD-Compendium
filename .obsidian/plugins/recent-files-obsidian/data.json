@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Quick  Thoughts",
+      "path": "Quick  Thoughts.md"
+    },
+    {
       "basename": "Classes",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
+    },
+    {
+      "basename": "alchemist",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist.md"
+    },
+    {
+      "basename": "alchemist 1",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist 1.md"
+    },
+    {
+      "basename": "artificer-alchemist",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/artificer-alchemist.md"
     },
     {
       "basename": "masterclass-codex-alchemist-destruction",
@@ -11,10 +27,6 @@
     {
       "basename": "Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols",
       "path": "z_img/Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols.svg"
-    },
-    {
-      "basename": "alchemist",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/alchemist.md"
     },
     {
       "basename": "Hourglass-Top-Fill--Streamline-Sharp-Fill-Material-Symbols",
@@ -33,16 +45,8 @@
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/amorist.md"
     },
     {
-      "basename": "alchemist",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist.md"
-    },
-    {
       "basename": "accursed",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/accursed.md"
-    },
-    {
-      "basename": "Quick  Thoughts",
-      "path": "Quick  Thoughts.md"
     },
     {
       "basename": "01",
@@ -67,10 +71,6 @@
     {
       "basename": "beastheart",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/beastheart/beastheart.md"
-    },
-    {
-      "basename": "list-optfeaturetype-di",
-      "path": "3-Content/Compendiums/lists/list-optfeaturetype-di.md"
     },
     {
       "basename": "battle-smith",
@@ -195,10 +195,6 @@
     {
       "basename": "sunwatcher",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warden/sunwatcher.md"
-    },
-    {
-      "basename": "bloodwrath-guardian",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warden/bloodwrath-guardian.md"
     }
   ],
   "omittedPaths": [],

@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Classes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Classes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":92,\"ch\":0},\"to\":{\"line\":92,\"ch\":0}},\"scroll\":175.78276484416784}"
+                },
+                {
                   "title": "masterclass-codex-alchemist-destruction",
                   "icon": "lucide-image",
                   "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_img/masterclass-codex-alchemist-destruction.png\"},\"icon\":\"lucide-image\",\"title\":\"masterclass-codex-alchemist-destruction\"}",
@@ -42,9 +48,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":131,\"ch\":109},\"to\":{\"line\":131,\"ch\":109}},\"scroll\":110.58875669451123}"
                 },
                 {
-                  "title": "alchemist",
+                  "title": "artificer-alchemist",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/alchemist.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"alchemist\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/artificer-alchemist.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"alchemist\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -174,9 +180,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":262.3994550486725}"
                 },
                 {
-                  "title": "alchemist",
+                  "title": "artificer-alchemist",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/alchemist.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"alchemist\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/artificer-alchemist.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"alchemist\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
                 },
                 {
@@ -204,9 +210,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 },
                 {
-                  "title": "alchemist",
+                  "title": "artificer-alchemist",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/alchemist.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"alchemist\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/artificer-alchemist.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"alchemist\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
@@ -234,9 +240,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":136,\"ch\":69},\"to\":{\"line\":136,\"ch\":69}},\"scroll\":123.68005392727305}"
                 },
                 {
-                  "title": "alchemist",
+                  "title": "artificer-alchemist",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/alchemist.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"alchemist\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/artificer-alchemist.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"alchemist\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":118,\"ch\":368},\"to\":{\"line\":118,\"ch\":368}},\"scroll\":93.55984669231722}"
                 },
                 {
@@ -246,9 +252,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "alchemist",
+                  "title": "artificer-alchemist",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/alchemist.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"alchemist\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/artificer-alchemist.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"alchemist\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":126},\"to\":{\"line\":29,\"ch\":126}}}"
                 },
                 {
@@ -282,9 +288,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "alchemist",
+                  "title": "artificer-alchemist",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/alchemist.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"alchemist\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/artificer-alchemist.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"alchemist\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -2574,9 +2580,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":42},\"to\":{\"line\":5,\"ch\":42}}}"
                 },
                 {
-                  "title": "alchemist",
+                  "title": "artificer-alchemist",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/alchemist.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"alchemist\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/artificer-alchemist.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"alchemist\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -3480,9 +3486,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "alchemist",
+                  "title": "artificer-alchemist",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/alchemist.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"alchemist\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/artificer-alchemist.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"alchemist\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -4192,7 +4198,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
+                "file": "Quick  Thoughts.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -4207,7 +4213,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Classes"
+              "title": "Quick  Thoughts"
             }
           }
         ]
@@ -4222,7 +4228,7 @@
       {
         "id": "18a6a72c97b9c3ec",
         "type": "tabs",
-        "dimension": 42.964996568291006,
+        "dimension": 70.62457103637611,
         "children": [
           {
             "id": "fcaa59025a7544d2",
@@ -4315,7 +4321,7 @@
       {
         "id": "a3116cdcaf599a64",
         "type": "tabs",
-        "dimension": 57.03500343170899,
+        "dimension": 29.375428963623882,
         "children": [
           {
             "id": "f068611f25fe0e60",
@@ -4368,12 +4374,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
+                "file": "Quick  Thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Classes"
+              "title": "Outgoing links from Quick  Thoughts"
             }
           },
           {
@@ -4704,15 +4710,17 @@
   },
   "active": "a5ec94890ee5953b",
   "lastOpenFiles": [
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
+    "3-Content/Compendiums/lists/list-optfeaturetype-di.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist 1.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/artificer-alchemist.md",
     "z_img/masterclass-codex-alchemist-destruction.png",
     "z_img/Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/alchemist.md",
     "z_img/Hourglass-Top-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/artificer.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/apothecary.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/amorist.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/accursed.md",
     "Quick  Thoughts.md",
     "📚 - Information Compendium/books/strongholds-and-followers/01.md",
@@ -4724,7 +4732,6 @@
     "filename-test.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/blood-hunter/blood-hunter.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/beastheart/beastheart.md",
-    "3-Content/Compendiums/lists/list-optfeaturetype-di.md",
     "3-Content/Compendiums/lists",
     "3-Content/Compendiums",
     "3-Content",
