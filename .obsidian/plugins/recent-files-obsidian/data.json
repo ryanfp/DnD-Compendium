@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Classes",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
+    },
+    {
+      "basename": "masterclass-codex-alchemist-destruction",
+      "path": "z_img/masterclass-codex-alchemist-destruction.png"
+    },
+    {
+      "basename": "Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols",
+      "path": "z_img/Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols.svg"
+    },
+    {
+      "basename": "alchemist",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/alchemist.md"
+    },
+    {
+      "basename": "Hourglass-Top-Fill--Streamline-Sharp-Fill-Material-Symbols",
+      "path": "z_img/Hourglass-Top-Fill--Streamline-Sharp-Fill-Material-Symbols.svg"
+    },
+    {
+      "basename": "artificer",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/artificer.md"
+    },
+    {
+      "basename": "apothecary",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/apothecary.md"
+    },
+    {
+      "basename": "amorist",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/amorist.md"
+    },
+    {
+      "basename": "alchemist",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist.md"
+    },
+    {
+      "basename": "accursed",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/accursed.md"
+    },
+    {
       "basename": "Quick  Thoughts",
       "path": "Quick  Thoughts.md"
     },
@@ -21,10 +61,6 @@
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/barbarian-2024.md"
     },
     {
-      "basename": "Classes",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
-    },
-    {
       "basename": "blood-hunter",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/blood-hunter/blood-hunter.md"
     },
@@ -33,28 +69,8 @@
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/beastheart/beastheart.md"
     },
     {
-      "basename": "accursed",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/accursed.md"
-    },
-    {
-      "basename": "apothecary",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/apothecary.md"
-    },
-    {
-      "basename": "amorist",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/amorist.md"
-    },
-    {
-      "basename": "alchemist",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist.md"
-    },
-    {
       "basename": "list-optfeaturetype-di",
       "path": "3-Content/Compendiums/lists/list-optfeaturetype-di.md"
-    },
-    {
-      "basename": "alchemist",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/alchemist.md"
     },
     {
       "basename": "battle-smith",
@@ -63,10 +79,6 @@
     {
       "basename": "artillerist",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/artillerist.md"
-    },
-    {
-      "basename": "artificer",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/artificer.md"
     },
     {
       "basename": "armorer",
@@ -187,18 +199,6 @@
     {
       "basename": "bloodwrath-guardian",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warden/bloodwrath-guardian.md"
-    },
-    {
-      "basename": "ascended",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Vessel/ascended.md"
-    },
-    {
-      "basename": "infuser",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Tamer/infuser.md"
-    },
-    {
-      "basename": "astrologer",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Shaman/astrologer.md"
     }
   ],
   "omittedPaths": [],

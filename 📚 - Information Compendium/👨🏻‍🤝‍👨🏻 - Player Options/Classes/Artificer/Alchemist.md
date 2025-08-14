@@ -1,13 +1,12 @@
 ---
 title: Alchemist
 created: 2025/06/15 at 15:34
-updated: 2025/08/01 at 00:55
+updated: 2025/08/13 at 22:12
 permalink: alchemist-artificer
 source: "Tasha's Cauldron of Everything"
 aliases:
   - Alchemist
 tags:
-  - 
   - subclass/artificer/alchemist
 cssclasses: json5e-class
 obsidianUIMode: preview

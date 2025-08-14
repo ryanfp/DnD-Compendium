@@ -1,6 +1,6 @@
 > [!kanban]+ Board Title
 > - [[Link|Lane 1 Title]]
-> 	- ![[Image.png]]
+> 	- ![[masterclass-codex-alchemist-destruction.png]]
 > 	- [[Link|Card]]
 > - [[Link|Lane 2 Title]]
 > 	![[Image without background card styling.png]]

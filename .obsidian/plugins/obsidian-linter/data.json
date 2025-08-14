@@ -278,9 +278,16 @@
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [
     "z_Scripts",
-    "z_Templates"
+    "z_Templates",
+    "z_img"
   ],
-  "filesToIgnore": [],
+  "filesToIgnore": [
+    {
+      "match": "^📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes\\.md$",
+      "flags": "",
+      "label": ""
+    }
+  ],
   "linterLocale": "system-default",
   "logLevel": "ERROR",
   "lintCommands": [],

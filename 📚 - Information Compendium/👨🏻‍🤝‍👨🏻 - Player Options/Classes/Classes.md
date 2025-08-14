@@ -1,7 +1,7 @@
 ---
 title: Classes
 created: 2025/05/14 at 22:29
-updated: 2025/08/11 at 23:01
+updated: 2025/08/13 at 22:13
 permalink: classes
 aliases:
   - Classes
@@ -45,7 +45,7 @@ The Ultimate Adventurer’s Handbook (<sup>UAG</sup>)
 GM Binder (<sup>GMB</sup>)
 SoManyRobots (<sup>SMR</sup>)
 
-## [[Accursed]]
+## [Accursed](accursed.md)
 
 *Afflicted by a horrific curse but finds a way to take control, alleviating the worst of its effects and wielding its power for themselves. (**Source: The Ultimate Adventurer’s Handbook**)*
 
@@ -55,39 +55,39 @@ SoManyRobots (<sup>SMR</sup>)
 
 *Through unfortunate circumstances, you were stricken with a curse that should have broken you. However, whether by sheer willpower, introspective meditation, or arcane study, you not only overcame the worst of the challenges your curse presented, but learned to harness its power.*
 
-#### **[[curse-of-animation|Curse of Animation]]** %% Fold %%
+#### **[Curse of Animation](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Accursed/curse-of-animation.md)** %% Fold %%
 
 While still alive, your skeleton was animated with dark magic by a cruel and powerful necromancer, causing it to have a desire to break free and rebel. This subclass deals with calcium manipulation to create bone-weapons and other augmentations/tools.
 
-#### **[[curse-of-armament|Curse Of The Armament]]** %% Fold %%
+#### **[Curse Of The Armament](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Accursed/curse-of-armament.md)** %% Fold %%
 
 You were cursed by a magical or sentient object. For some reason, you’ve chosen to remain attuned to this object. This subclass lets you increase in power by scaling your weapon attacks and giving it powerful abilities, such as auto-returning when thrown.
 
-#### **[[curse-of-combustion|Curse Of Combustion]]** %% Fold %%
+#### **[Curse Of Combustion](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Accursed/curse-of-combustion.md)** %% Fold %%
 
 Your body is an explosive with a fuse of unknown length, most likely due to angering a divine or infernal being associated with fire. This subclass grants you abilities dealing with fire, such as becoming a ball of fire or granting you fire damage on hit.
 
-#### **[[curse-of-created|Curse of the Created]]** %% Fold %%
+#### **[Curse of the Created](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Accursed/curse-of-created.md)** %% Fold %%
 
 You were not born, nor were you cursed. Instead you lurched to life with electricity crackling in the air around you. This subclass is based on Frankenstein, granting you lightning augments to abilities. 
 
-#### **[[curse-of-misfortune|Curse Of Misfortune]]** %% Fold %%
+#### **[Curse Of Misfortune](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Accursed/curse-of-misfortune.md)** %% Fold %%
 
 Cursed with bad luck, however you can also manipulate dice rolls and other “games of chance”. 
 
-#### **[[curse-of-mummification|Curse of Mummification]]** %% Fold %%
+#### **[Curse of Mummification](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Accursed/curse-of-mummification.md)** %% Fold %%
 
 You were turned into a mummy upon death, giving you necrotic damage and fear abilities.
 
-#### **[[curse-of-petrification|Curse of Petrification]]** %% Fold %%
+#### **[Curse of Petrification](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Accursed/curse-of-petrification.md)** %% Fold %%
 
 You were turned into a statue, and can change into this form at will. Grants you damage resistance and powerful slams and other weight/inertia based abilities.
 
-#### **[[curse-of-somnolence|Curse of Somnolence]]** %% Fold %%
+#### **[Curse of Somnolence](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Accursed/curse-of-somnolence.md)** %% Fold %%
 
 You were cursed by a fey to sleep forever, fighting to stay awake and live your life. You can give enemies fatigue, learn one-time use spells and negate exhaustion penalties.
 
-## [[alchemist|Alchemist]]
+## [Alchemist](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Artificer/alchemist.md)
 
 *Experiments with a wide array of scientific discoveries and lethal bombs. Combining science and magic together in unholy concoctions, an alchemist brews up explosives and transmutative potions on the fly. (**Source: Valda’s Spire of Secrets**)* 
 
@@ -129,6 +129,8 @@ You study the relation between alchemy and the body, more specifically your body
 
 Masterclass CODEX
 
+[Tyoes of bombs for mad bomber?](z_img/masterclass-codex-alchemist-destruction.png)
+
 ~~Creation~~
 
 ~~Destruction~~
@@ -148,10 +150,6 @@ Masterclass CODEX
 ### <u>Subclasses - Specialists</u> %% Fold %%
 
 *All artificers are naturally adept at tinkering and experiments. However, usually they pursue one specific discipline, focusing on Beyond that, alchemists pick up a specialty, which they practice and research in depth.*
-
-#### ~~**Alchemist Specialist**~~ %% Fold %%
-
-~~You pursue the practice of combining reagents to produce mystical effects, using your creations to give life, and to take it away. You can create experimental elixirs that have varying effects, such as healing, swiftness, or resilience.~~ 
 
 #### **Armorer Specialist** %% Fold %%
 
@@ -5481,6 +5479,8 @@ Sources:
 - ~~Steinhardt’s Guide to the Eldritch Hunt~~ %% fold %%
 
 	- ~~~**Jaeger Class**~~~
+
+
 
 
 

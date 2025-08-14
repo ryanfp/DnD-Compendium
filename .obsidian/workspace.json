@@ -11,17 +11,101 @@
             "id": "a5ec94890ee5953b",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "01",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/books/strongholds-and-followers/01.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"01\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":39},\"to\":{\"line\":19,\"ch\":39}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "masterclass-codex-alchemist-destruction",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_img/masterclass-codex-alchemist-destruction.png\"},\"icon\":\"lucide-image\",\"title\":\"masterclass-codex-alchemist-destruction\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_img/Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols.svg\"},\"icon\":\"lucide-image\",\"title\":\"Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "masterclass-codex-alchemist-destruction",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_img/masterclass-codex-alchemist-destruction.png\"},\"icon\":\"lucide-image\",\"title\":\"masterclass-codex-alchemist-destruction\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Classes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Classes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":131,\"ch\":109},\"to\":{\"line\":131,\"ch\":109}},\"scroll\":110.58875669451123}"
+                },
+                {
+                  "title": "alchemist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/alchemist.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"alchemist\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "masterclass-codex-alchemist-destruction",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_img/masterclass-codex-alchemist-destruction.png\"},\"icon\":\"lucide-image\",\"title\":\"masterclass-codex-alchemist-destruction\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Hourglass-Top-Fill--Streamline-Sharp-Fill-Material-Symbols",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_img/Hourglass-Top-Fill--Streamline-Sharp-Fill-Material-Symbols.svg\"},\"icon\":\"lucide-image\",\"title\":\"Hourglass-Top-Fill--Streamline-Sharp-Fill-Material-Symbols\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "masterclass-codex-alchemist-destruction",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_img/masterclass-codex-alchemist-destruction.png\"},\"icon\":\"lucide-image\",\"title\":\"image\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Classes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Classes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":134,\"ch\":0},\"to\":{\"line\":134,\"ch\":0}},\"scroll\":109.07683030864081}"
+                },
+                {
+                  "title": "artificer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/artificer.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"artificer\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":7.796319468383022}"
+                },
+                {
+                  "title": "apothecary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/apothecary.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"apothecary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "amorist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/amorist.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"amorist\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":11},\"to\":{\"line\":7,\"ch\":11}}}"
+                },
+                {
+                  "title": "alchemist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"alchemist\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":19},\"to\":{\"line\":9,\"ch\":19}},\"scroll\":0}"
+                },
+                {
+                  "title": "accursed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/accursed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"accursed\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":8},\"to\":{\"line\":6,\"ch\":8}},\"scroll\":46.063992139500655}"
+                },
+                {
+                  "title": "Quick  Thoughts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Quick  Thoughts.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":true,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Quick  Thoughts\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
                 },
                 {
                   "title": "aberrant-mind",
@@ -4108,7 +4192,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick  Thoughts.md",
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -4118,12 +4202,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": true,
+                  "backlinkCollapsed": false,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Quick  Thoughts"
+              "title": "Classes"
             }
           }
         ]
@@ -4258,7 +4342,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.51625061035156
+    "width": 360.51625061035156
   },
   "right": {
     "id": "fc1490c296b0c5ab",
@@ -4267,7 +4351,7 @@
       {
         "id": "309059b9c707bcf9",
         "type": "tabs",
-        "dimension": 66.55562958027981,
+        "dimension": 44.770153231179215,
         "children": [
           {
             "id": "c8ee4e8637678702",
@@ -4284,12 +4368,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quick  Thoughts.md",
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Quick  Thoughts"
+              "title": "Outgoing links from Classes"
             }
           },
           {
@@ -4545,12 +4629,13 @@
               "title": "File properties for barbarian-xphb-path-of-the"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       },
       {
         "id": "21f9e4c778ac3689",
         "type": "tabs",
-        "dimension": 33.44437041972019,
+        "dimension": 55.22984676882079,
         "children": [
           {
             "id": "eadab09cc80380ca",
@@ -4577,7 +4662,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -4612,44 +4697,48 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "a5ec94890ee5953b",
   "lastOpenFiles": [
-    "📚 - Information Compendium/books/strongholds-and-followers/01.md",
+    "z_img/masterclass-codex-alchemist-destruction.png",
+    "z_img/Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/alchemist.md",
+    "z_img/Hourglass-Top-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/artificer.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/apothecary.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/amorist.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/accursed.md",
     "Quick  Thoughts.md",
+    "📚 - Information Compendium/books/strongholds-and-followers/01.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/aberrant-mind.md",
     "New folder",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Gunslinger/gunslinger-valdagunslinger.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/barbarian-2024.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "Filename Test.md",
     "filename-test.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/blood-hunter/blood-hunter.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/beastheart/beastheart.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/accursed.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/apothecary.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/amorist.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist.md",
     "3-Content/Compendiums/lists/list-optfeaturetype-di.md",
     "3-Content/Compendiums/lists",
     "3-Content/Compendiums",
     "3-Content",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/alchemist.md",
     "test folder22/new-note-for-testing 12.md",
     "test folder22/new-note-for-testing.md",
     "test folder22",
     "z_Scripts/Unconfirmed 254922.crdownload",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/battle-smith.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/artillerist.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/artificer.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/armorer.md",
     "z_Scripts/Unconfirmed 630161.crdownload",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-petrification.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-somnolence.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/xenoalchemist.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/venomsmith.md",
     "z_Scripts/Unconfirmed 276216.crdownload",
     "z_Scripts/Unconfirmed 573939.crdownload",
     "z_Scripts/Unconfirmed 217957.crdownload",
@@ -4657,11 +4746,8 @@
     "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg",
     "z_img/Pause-Circle-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg",
     "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
-    "z_img/Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
     "z_img/Build-Circle-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
-    "z_img/Hourglass-Top-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
     "z_img/Pause-Circle-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
-    "z_img/not-started-8ja9wado78v9nl13qfbi8c.webp",
-    "z_img/load-icon-png-8.png"
+    "z_img/not-started-8ja9wado78v9nl13qfbi8c.webp"
   ]
 }

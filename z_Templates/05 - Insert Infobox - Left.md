@@ -1,6 +1,6 @@
 > [!infobox|left]
 > # Name
-> ![[Image.png|cover hsmall]]
+> ![[masterclass-codex-alchemist-destruction.png|cover hsmall]]
 > ###### Stats
 > | Type | Stat |
 > | ---- | ---- |

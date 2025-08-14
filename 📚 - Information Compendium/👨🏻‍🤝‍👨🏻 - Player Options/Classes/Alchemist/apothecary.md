@@ -1,7 +1,7 @@
 ---
 title: Apothecary
 created: 2025/06/13 at 22:25
-updated: 2025/08/07 at 22:07
+updated: 2025/08/13 at 22:06
 permalink: apothecary-alchemist
 source: "Valda's Spire of Secrets"
 aliases:
@@ -9,7 +9,6 @@ aliases:
   - Apothecary Field
   - apothecary-field
 tags:
-  - 
   - subclass/alchemist/apothecary
 cssclasses: json5e-class
 obsidianUIMode: preview

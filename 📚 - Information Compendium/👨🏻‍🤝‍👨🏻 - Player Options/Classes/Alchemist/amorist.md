@@ -9,7 +9,6 @@ aliases:
   - Amorist Field
   - amorist-field
 tags:
-  - 
   - subclass/alchemist/amorist
 cssclasses: json5e-class
 obsidianUIMode: preview

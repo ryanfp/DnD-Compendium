@@ -1,14 +1,13 @@
 ---
 title: Artificer
 created: 2025/06/15 at 15:34
-updated: 2025/08/07 at 22:36
+updated: 2025/08/13 at 22:06
 permalink: artificer
 source: "Tasha's Cauldron of Everything"
 aliases:
   - Artificer
 tags:
   - class/artificer
-  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

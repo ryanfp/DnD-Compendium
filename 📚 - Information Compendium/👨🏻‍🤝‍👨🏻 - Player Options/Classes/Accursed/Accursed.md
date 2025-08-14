@@ -1,7 +1,7 @@
 ---
 title: Accursed
 created: 2025/05/14 at 21:46
-updated: 2025/08/07 at 22:06
+updated: 2025/08/13 at 22:04
 permalink: accursed
 source: "The Ultimate Adventurer's Handbook"
 aliases:
@@ -9,7 +9,6 @@ aliases:
   - Accursed
 tags:
   - class/accursed
-  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---
