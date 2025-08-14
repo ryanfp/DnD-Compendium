@@ -30,3 +30,7 @@ tags:
 	- Valda’s Spire of Secrets?
 - Go through homebrew list in CLI and decide which sources to keep, especially spells and monsters, and delete the rest
 	- Will deleting all tags that contain the shorthand source be a problem for this task?
+- **JESUS FUCKING CHRIST** get [cloud storage](https://www.pcmag.com/picks/the-best-cloud-storage-and-file-sharing-services) please IM begging you your options^[[[Best Cloud Storage for Large Files 2025 \[Top Options to Consider\]](https://www.cloudwards.net/best-cloud-storage-for-large-files/)]] are
+	- [pCloud](https://www.pcloud.com/cloud-storage-pricing-plans.html?period=lifetime) $400 for 2TB *lifetime* or $100 yearly
+	- [iDrive](https://www.idrive.com/pricing) $150 for 2 years of 5TB, then $200 per 2 years = $100 per year
+	- [sync](https://www.sync.com/cloudwards/?_m=cws&sv1=affiliate) $58 (at least on the sale it is rn) yearly for 2TB
