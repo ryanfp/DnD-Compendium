@@ -4357,7 +4357,7 @@
       {
         "id": "309059b9c707bcf9",
         "type": "tabs",
-        "dimension": 44.770153231179215,
+        "dimension": 44.77015323117921,
         "children": [
           {
             "id": "c8ee4e8637678702",
@@ -4703,9 +4703,7 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "task-board:Open task board": false
     }
   },
   "active": "a5ec94890ee5953b",

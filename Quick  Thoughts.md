@@ -16,6 +16,8 @@ tags:
 	- Maybe find way to incorporate some of the occultist mechanics into the shaman class?
 - Also determine what to do about the craftsman and artificer? 
 	- See if I should combine LaserLlama’s and KibblesTasty’s versions (Inventor)
+		- I honestly think im leaning towards the Inventor as a replacement to base artificer
+		- Want to also keep the other subclass options tho bvecause there are some really cool options
 	- Give martial weapon proficiency back to base Artificer^[‘24]
 	- Revert Magical Tinkering ability to 5e/2014 edition’s iteration
 	- Allow cantrip choice change at long rest OR ponder the idea that Artificers are not prepared spellcasters?
