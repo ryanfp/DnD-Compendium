@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Quick  Thoughts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Quick  Thoughts.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Quick  Thoughts\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Classes",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Classes\"}",
@@ -4198,7 +4204,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick  Thoughts.md",
+                "file": "Minecraft Links.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -4213,7 +4219,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Quick  Thoughts"
+              "title": "Minecraft Links"
             }
           }
         ]
@@ -4703,11 +4709,15 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "a5ec94890ee5953b",
   "lastOpenFiles": [
+    "Quick  Thoughts.md",
+    "Minecraft Links.md",
     "Home.md - Shortcut.lnk",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "3-Content/Compendiums/lists/list-optfeaturetype-di.md",
@@ -4721,7 +4731,6 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/apothecary.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/amorist.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/accursed.md",
-    "Quick  Thoughts.md",
     "📚 - Information Compendium/books/strongholds-and-followers/01.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/aberrant-mind.md",
     "New folder",
@@ -4746,7 +4755,6 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-somnolence.md",
     "z_Scripts/Unconfirmed 276216.crdownload",
     "z_Scripts/Unconfirmed 573939.crdownload",
-    "z_Scripts/Unconfirmed 217957.crdownload",
     "z_img/garden-icon.svg",
     "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg",
     "z_img/Pause-Circle-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg",
