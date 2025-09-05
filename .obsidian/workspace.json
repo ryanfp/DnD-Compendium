@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "CurseForge Minecraft Links",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"CurseForge Minecraft Links.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"CurseForge Minecraft Links\"}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Modrinth Minecraft Links",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Modrinth Minecraft Links.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Modrinth Minecraft Links\"}",
@@ -4288,7 +4294,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CurseForge Minecraft Links.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -4303,7 +4309,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CurseForge Minecraft Links"
+              "title": "Home"
             }
           }
         ]
@@ -4800,8 +4806,8 @@
   },
   "active": "a5ec94890ee5953b",
   "lastOpenFiles": [
-    "Modrinth Minecraft Links.md",
     "CurseForge Minecraft Links.md",
+    "Modrinth Minecraft Links.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Races.md",
     "Quick  Thoughts.md",
     "Home.md - Shortcut.lnk",

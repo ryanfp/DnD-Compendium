@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "CurseForge Minecraft Links",
       "path": "CurseForge Minecraft Links.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "archfey",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/archfey.md"
-    },
-    {
-      "basename": "VSS Warden",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warden/VSS Warden.md"
     }
   ],
   "omittedPaths": [],
