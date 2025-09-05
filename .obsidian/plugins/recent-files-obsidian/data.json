@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Minecraft Links",
-      "path": "Minecraft Links.md"
+      "basename": "CurseForge Minecraft Links",
+      "path": "CurseForge Minecraft Links.md"
+    },
+    {
+      "basename": "Modrinth Minecraft Links",
+      "path": "Modrinth Minecraft Links.md"
+    },
+    {
+      "basename": "Races",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Races.md"
     },
     {
       "basename": "Quick  Thoughts",
@@ -191,14 +199,6 @@
     {
       "basename": "VSS Warden",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warden/VSS Warden.md"
-    },
-    {
-      "basename": "warden",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warden/warden.md"
-    },
-    {
-      "basename": "sunwatcher",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warden/sunwatcher.md"
     }
   ],
   "omittedPaths": [],
