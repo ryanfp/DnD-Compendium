@@ -2526,11 +2526,11 @@ Having been trained in the fundamentals of the art of ki, these monks choose as 
 
 Monks of the Way of the Sword Saint train in dedication to mastering a level of weapon expertise that surpasses normal limitations. They can strike like the wind, step into the sky, or even sunder stone. Though they most often treat their mastery of the weapons as an art, seeking spiritual understanding through martial perfection, turning this art to more practical ends can result in very deadly encounters for their foes.
 
-#### **Way Of Atonement**<sup>(XLNEE)</sup> %% Fold %%
+#### **~~Way Of Atonemen~~t**<sup>(XLNEE)</sup> %% Fold %%
 
 Monks of the Way of Atonement seek absolve themselves for their past transgressions, sins, and current indiscretions by giving up their possessions and atoning through peaceful and selfless service. Seeking not the zealot’s path, they believe that through calming and controlling their fervor, they can bolster the universal well-being of all mortal creatures. These monks seek to protect delicate balance struck by the presence of the pantheons and strike out in malice only to defend those who can’t defend themselves from the greater evils that lurk within this realm and beyond.
 
-#### **Way Of Empathy**<sup>(XLNEE)</sup> %% Fold %%
+#### **~~Way Of Empathy~~**<sup>(XLNEE)</sup> %% Fold %%
 
 Monks of the Way of Empathy follow the tradition instilled with compassion for all living beings. While their training includes martial practice as a form of selfdiscipline, their teachings also focus on a healing art of rare form, known as Empathy. Using these techniques, they learn to manipulate the ki to transfer malady and pain from another to themselves. Some members of this tradition dedicate themselves to the sick and the poor, while others find their calling side by side with soldiers, rehabilitating the fallen in battle. Their scars might telltale of thousands of warriors, without ever feeling the cold of steel against their own flesh.
 
@@ -2546,11 +2546,11 @@ The night sky has offered peace and solace in times of turmoil, exposing the ins
 
 Regardless if your original intention, your ki has been corrupted by this unnatural void within the cosmic order, granting you the ability to draw it forth to form a deadly weapon of light and eerie blackness. Fueling your techniques with the anguish of your foes, you strive ever closer to understanding the secrets within the eternal black star that lies at the center of the cosmos. 
 
-#### **Way Of the Noble Serpent**<sup>(CFSA)</sup> %% Fold %%
+#### **!Way Of the Noble Serpent**<sup>(CFSA)</sup> %% Fold %%
 
 By lineage or accident of fate, spiritual enlightenment or inner turmoil, m you’ve taken your first steps down the path of a servant of the Serpent Empress, a ruler from beyond the planes whose power rivals the gods themselves. Residing in her palace of gold and turquoise, her imperial majesty sleeps in solitude for countless ages, traveling slowly between the planes. When her palace arrives upon a new world and she awakens, her reign of cruelty commences. Your style of martial arts has been taught to you by one of her handmaidens or was discovered in scrolls containing these forbidden techniques that were left behind when the Empress departed from your world ages ago for unknown reasons. 
 
-#### **Way Of the Artisan**<sup>(LAL)</sup> %% Fold %%
+#### **~~Way Of the Artisan~~**<sup>(LAL)</sup> %% Fold %%
 
 To a monk who follows the Way of the Artisan, taking raw materials and giving them shape and purpose is considered the noblest of pursuits. The act of creation is the purest form of meditation, an exercise in creativity and discipline that hones both mind and spirit, leading the craftsman on a never ending journey of self-discovery. 
 
@@ -2576,11 +2576,11 @@ Driven by the pursuit of knowledge and its scholars’ worship of the Knowing Me
 
 The monks of the Cobalt Soul are the embodiment of the maxim: “Know your enemy.” Through tireless research, they steel themselves against the unrelenting tides of evil. Through rigorous training, they learn to break through their foes’ mental and physical defenses. Then, once the fight is done, they record their findings for future generations of monks to study.
 
-#### **Way Of Internal Alchemy**<sup>UAH</sup> %% Fold %%
+#### **!Way Of Internal Alchemy**<sup>UAH</sup> %% Fold %%
 
 Monks following the Way of Internal Alchemy use a mystical practice to transmute their ki that mirrors traditional alchemy. Along with practicing traditional and internal alchemy, these monks subscribe to a life philosophy that emphasizes harmony and spontaneity. Some practitioners ingest alchemical reagents designed to extend their lives or enhance their mystical powers.
 
-#### **Way Of the Kabuki**<sup>UAH</sup> %% Fold %%
+#### **!Way Of the Kabuki**<sup>UAH</sup> %% Fold %%
 
 The Way of Kabuki is not practiced or taught in a stationary monastery, but in traveling theater troupes that seek to delight, awe, and shock audiences with bizarre, over-the-top performances. Monks of this tradition wear gaudy, avantgarde costumes with mask-like face paint, and utilize exaggerated movements and sounds to put on dance-dramas featuring outlandish humor and often ribald scenarios. They use stage names, and many actor monks go through several over the span of their career, reinventing themselves as they see fit, or as offended nobles and politicians demand retribution for perceived insults. Despite its appearance of irreverence and iconoclasm, the Way of Kabuki is rooted in a long tradition of honor and respect for the art and magic of showmanship and fellow actors. Performer monks too old To continue traveling, or wanting to use a new stage Name, take on an apprentice and teach them the art of Kabuki, eventually passing their moniker to the young Performer in elaborate ceremonies called shumei. This young monk then spends their life continuing The legacy of the name, and eventually passes it to an Apprentice of their own.
 
@@ -2598,7 +2598,7 @@ You follow a monastic tradition that teaches you to harness the energy field cre
 
 No matter which path you choose to follow, all aspects of the Presence are available for you to explore, and your mystic training gives you greater understanding of the workings of the multiverse.
 
-#### **Way Of Thorns**<sup>UAH</sup> %% Fold %%
+#### **~~Way Of Thorns~~**<sup>UAH</sup> %% Fold %%
 
 Monks of the Way of Thorns embrace nature in all its aspects. They are at once in harmony with nature and ferocious guardians of its pristine condition. Monasteries of this tradition are sprawling gardens, where the monks learn to cultivate plants as beautiful as they are dangerous.
 
@@ -2610,7 +2610,7 @@ The sheep dragon is often regarded as the epitome of goodness and authenticity o
 
 Monks who practice the Way of the Arcane Hand have trained their bodies and souls to be attuned to the weave of arcane magic. They can harness those cosmic energies and use them to fuel their martial practices. Monks of this tradition, although not mageborn, have gained control over the rawest and most natural forms of power.
 
-#### **Way Of the Serpent**<sup>(GTD)</sup> %% Fold %%
+#### **!Way Of the Serpent**<sup>(GTD)</sup> %% Fold %%
 
 Master of the spear, this nimble warrior uses polearms not only as a weapon, but as an extension of themselves, using their weapon to amplify mobility, maneuverability, and combat. Like a snake in the grass, the Way of the Serpent hones one’s ability to predict oncoming attacks, deflect from a distance, and strike with deadly precision.
 
