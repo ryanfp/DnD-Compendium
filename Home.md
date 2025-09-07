@@ -1,20 +1,24 @@
 ---
-permalink: home
-banner: "![[z_img/waterfall_palace_by_oliverbeck_de0lwei-pre.jpg]]"
-banner-radius: 15
-banner-inline-title-color: "#b1503e"
-banner-fade: -10
-content-start: 481
-banner-height: 500
-banner-x: 47
-banner-y: 55
-banner-max-width: 2560
-tags: [completed, in-progress, not-started, started]
 title: ""
+created: 2025/06/18 at 00:41
+updated: 2025/09/06 at 00:10
+permalink: home
 aliases:
   - Home
-created: 2025/06/18 at 00:41
-updated: 2025/07/22 at 19:29
+tags:
+  - completed
+  - in-progress
+  - not-started
+  - started
+banner: "![[z_img/waterfall_palace_by_oliverbeck_de0lwei-pre.jpg]]"
+banner-fade: -10
+banner-height: 500
+banner-inline-title-color: "#b1503e"
+banner-max-width: 2560
+banner-radius: 15
+banner-x: 47
+banner-y: 55
+content-start: 481
 ---
 
 > [!kanban]+ D&D Vault Progress
