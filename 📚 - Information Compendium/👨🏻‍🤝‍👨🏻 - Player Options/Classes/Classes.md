@@ -2378,7 +2378,7 @@ Monks of the Way of the Kensei train relentlessly with their weapons, to the poi
 
 A kensei sees a weapon in much the same way a calligrapher or painter regards a pen or brush. Whatever the weapon, the kensei views it as a tool used to express the beauty and precision of the martial arts. That such mastery makes a kensei a peerless warrior is but a side effect of intense devotion, practice, and study.
 
-#### **Way Of the Sun Soul** %% Fold %%
+#### **!Way Of the Sun Soul** %% Fold %%
 
 Monks of the Way of the Sun Soul learn to channel their life energy into searing bolts of light. They teach that meditation can unlock the ability to unleash the indomitable light shed by the soul of every living creature.
 
@@ -2386,7 +2386,7 @@ Monks of the Way of the Sun Soul learn to channel their life energy into searing
 
 Monks of the Way of the Long Death are obsessed with the meaning and mechanics of dying. They capture creatures and prepare elaborate experiments to capture, record, and understand the moments of their demise. They then use this knowledge to guide their understanding of martial arts, yielding a deadly fighting style.
 
-#### **Way Of the Ascendant Dragon** %% Fold %%
+#### **!Way Of the Ascendant Dragon** %% Fold %%
 
 The dragon god Bahamut is known to travel the Material Plane in the guise of a young monk, and legend says that he founded the first monastery of the Way of the Ascendant Dragon in this guise. The fundamental teaching of this tradition holds that by emulating dragons, a monk becomes a more integrated part of the world and its magic. By altering their spirit to resonate with draconic might, monks who follow this tradition augment their prowess in battle, bolster their allies, and can even soar through the air on draconic wings. But all this power is in service of a greater goal: achieving a spiritual unity with the essence of the Material Plane.
 
@@ -2402,7 +2402,7 @@ The Way of the Flagellant teaches an extreme, sometimes heretical, view of ascet
 
 Through the careful manipulation of their ki, monks of the Way of the Four Fists strive to emulate the unusual fighting style of the legendary Monkey King. As they progress in their training, these monks undergo a magical transformation, slowly gaining more simian features. In combat, a master of this monastic tradition is a whirling, leaping blur of elbows, fur, and fists.
 
-#### **Way Of the Mask**<sup>(VSS)</sup> %% Fold %%
+#### **!Way Of the Mask**<sup>(VSS)</sup> %% Fold %%
 
 When you put on your mask, you are not an ordinary (albeit impossibly handsome) commoner anymore; You are the greatest wrestler the world has ever known. You'll wrestle anyone — or anything — that comes within arm’s reach. Sometimes you wrestle inanimate objects just to prove that you can. That one time you wrestled an owlbear? Totally happened. For real.
 
@@ -2424,7 +2424,7 @@ Monks of the Way of the Bloodied Fist follow a tradition that teaches them to co
 
 Monks of this order strive for meaning and perfection through mastery of the Eight Gates, internal loci of spiralling energy through which ki is channeled. By way of personal contemplation and intense training, each gate can be opened in turn, and once brought into harmony, allow for a stronger channel of ki and the ability to push one’s body beyond mortal limitations. Those who follow the Way of the Eight Gates might be hermits, retreating from the chaos of the wider world and to a place of contemplative isolation. Others may be wanderers, embracing and celebrating all experiences, believing this to be the path to internal harmony. In any case, monks who walk this path eschew organized religious and spiritual practices, preferring to carve their own path of potential, freedom, and growth .
 
-#### **Way Of the Fire Dancer**<sup>(SGEH)</sup> %% Fold %%
+#### **!Way Of the Fire Dancer**<sup>(SGEH)</sup> %% Fold %%
 
 The fire dancers carry an almost extinct tradition. Once a trading group, they considered themselves a family of a single creed: “Those who harm us will bathe in flames." This nomadic group of seasoned warriors welcomed all walks of life, regardless of origin, status, or influence; as long as one conducted oneself with respect towards their fellows, the caravans would open their door. Their ironclad creed and welcoming nature was their downfall.
 
@@ -2432,19 +2432,19 @@ The fire dancers carry an almost extinct tradition. Once a trading group, they c
 
 The monks of Concordant Motion follow a tradition developed and honed by various goblin and kobold clans that favored tactics involving swarming warriors. The tradition combines tactical disciplines designed to encourage groups to work as one unit with practical strategies for enhancing allies. Where many warrior-monks view ki as a power best kept within, the Way of Concordant Motion teaches its followers to project their ki into their allies through ascetic meditation and mental exercises. Followers of this tradition value teamwork and promote functioning as a cohesive whole above any search for triumph or glory.
 
-#### **Way Of The Dragon**<sup>(TOH)</sup> %% Fold %%
+#### **~~!Way Of The Dragon~~**<sup>(TOH)</sup> %% Fold %%
 
 You have studied at a monastery devoted to dragonkind. Warriors trained in these places adapt their fighting styles to match the dragons they hold in such esteem. They are respected and feared by students of other traditions. Once they are trained, followers of this Way travel far and wide, rarely settling in one place for long.
 
-#### **Way Of the Humble Elephant**<sup>(TOH)</sup> %% Fold %%
+#### **~~Way Of the Humble Elephant~~**<sup>(TOH)</sup> %% Fold %%
 
 Like their namesake, monks of the Way of the Humble Elephant are respectful and accommodating. A large part of their training involves traveling through their home region and assisting local farmers and common folk with problems ranging from rebuilding burned homes to dispatching troublesome bandits. In areas where their Way is known, adherents are welcomed into the community and their needs are seen to in exchange for the host of benefits their Presence brings to the community.
 
-#### **Way Of Still Waters**<sup>(TOH)</sup> %% Fold %%
+#### **~~Way Of Still Waters~~**<sup>(TOH)</sup> %% Fold %%
 
 Monks who follow the Way of the Still Waters are like placid mountain lakes; they are still and calm until some outside force disrupts them and forces a reaction. Many adherents live a pacifistic lifestyle and never seek conflict. When strife finds them, though, they deal with it in a swift and decisive use of power and grace.
 
-#### **Way Of the Tipsy Monkey**<sup>(TOH)</sup> %% Fold %%
+#### **~~Way Of the Tipsy Monkey~~**<sup>(TOH)</sup> %% Fold %%
 
 Monks who practice the Way of the Tipsy Monkey lurch and waddle across the battlefield, seeming to be too intoxicated to comport themselves. Their school of fighting is typified by its low-standing stance, periods of swaying in place punctuated with bursts of wild, staggering movement, and the disorienting manner in which they seem to never be in the place they appear to be standing. 
 
@@ -2462,7 +2462,7 @@ Monks of the Wildcat train relentlessly to incorporate speed, acrobatics, and pr
 
 Monks of the Way of Devils are part of an ancient and unholy order, one dedicated to serving the legions of devils in their war against the demons of the abyss, as well as serving their infernal masters’ interests on the Material Plane. Whereas most monks train in the art of self-defense, those of the Way of Devils focus on inflicting punishment and controlling their enemies. It is said that the first of these monks were Duergar, newly bound into pacts with Asmodeus and willing to wield his devilish chains over the prospect of becoming chained themselves.
 
-#### **Way Of the Cosmic Mind**<sup>(TCEE)</sup> %% Fold %%
+#### **!Way Of the Cosmic Mind**<sup>(TCEE)</sup> %% Fold %%
 
 Monks of the Way of the Cosmic Mind learn to harness their ki to create fantastical telepathic and telekinetic effects. Githzerai are among this tradition’s most common practitioners, but followers can be found throughout many peoples across many planes. All creatures have latent innate psionic abilities, but very few ever unlock the secrets which lie beyond sentience. Monks who dedicate their lives to the mastery of their own mind eventually learn to produce incredible telepathic and telekinetic effects.
 
@@ -2470,15 +2470,13 @@ Monks of the Way of the Cosmic Mind learn to harness their ki to create fantasti
 
 There are those who study the arcane as a means to change the world around them. There is a certain arrogance in that concept, so in order to maintain balance there exists a group dedicated to preservation of the natural and the mundane. Monks who follow the Way of Mundanity use both the study of magic and the mastery of their own internal energies to battle those who use the arcane.
 
-#### **Way Of the Iron Grasp**<sup>(TCEE)</sup> %% Fold %%
+#### **!Way Of the Iron Grasp**<sup>(TCEE)</sup> %% Fold %%
 
 Balance is lost when one disrupts the livelihood of another. Monks of the Way of the Iron Grasp are taught to establish safety and order within their sphere of influence, training relentlessly in martial techniques to pin down foes and protect allies. Many of this tradition wear gauntlets that they forge themselves as a symbol of their dedication and ideals. 
 
 Monasteries that teach this tradition often act as militias for nearby settlements or as a council that oversees and rules adjacent villages and towns. The heads of these monasteries offer respect towards even the lowest of peasants, but have no tolerance for troublemakers. Still, they risk life and limb to hold the peace when external threats arise, regardless of who needs protection.
 
-#### **Way Of the Four Elements Remastered**<sup>(TCEE)</sup>
-
-#### **Way Of the Warshaper**<sup>(TCEE)</sup> %% Fold %%
+#### **!Way Of the Warshaper**<sup>(TCEE)</sup> %% Fold %%
 
 Form is fluid. Shape is a weapon. Release yourself from the constraints of your body and you can become made for war. Thus teaches the way of the warshaper, whose members learn how to alter their form on the fly. Though they do not focus on the full transformations that a druid’s wild shape might, they can grow claws and teeth, flow around attacks, rebuild their shattered body, and other similar changes. Monks who follow the way of the warshaper are often forthright defenders of the downtrodden, but not always. Their control over their own form can make them relentless, terrifying hunters able to infiltrate past defenders and terminate their targets without fail.
 
@@ -2492,7 +2490,7 @@ Some communities accept monks of this tradition as distant protectors, while oth
 
 A monk following the Way of the Living Weapon pursues physical perfection, honing their body as a smith sharpens a sword. Its traditions are drawn from cultures of shapeshifters and creatures who fight with tooth and claw. These are a few of the martial techniques that have evolved into the Way of the Living Weapon.
 
-#### **Way Of the Bestial Mimesis**<sup>(ECHH)</sup> %% Fold %%
+#### **!Way Of the Bestial Mimesis**<sup>(ECHH)</sup> %% Fold %%
 
 Some monks are captivated by the animals that prowl outside their monastery walls. They feel a deep, primal connection with the beasts as they watch them hunt and fend off other predators. Over time, this fascination grows and they begin to mimic them, to distill the essence of their movements and learn to move as the beasts do. In the process, they unlock something most of us have long forgotten, that we all hold a primal animal deep inside us, just waiting to be let out.
 
@@ -2504,7 +2502,7 @@ Combos, beats, and pauses. Fighting is rhythm down to its core. Footwork pattern
 
 Never stop listening. All living things have their own rhythms, competing to be heard. Always be aware of those around you. Learn to strike through them, to break those rhythms. Never dance their dance. Control the rhythm and you control the fight. Your rhythm will change dynamically as you yourself change, and as combat changes, but it is always your own. Control the flow.
 
-#### **Way Of the Streets**<sup>(CCS)</sup> %% Fold %%
+#### **!Way Of the Streets**<sup>(CCS)</sup> %% Fold %%
 
 Monks of the Way of the Streets learn their techniques not through traditional monastic training, rather, they learn to defend themselves on the streets, taught by those they fight and others who must similarly fight to survive. They use these techniques not only in street brawls, but also in underground fighting tournaments, where monks of this way have made a name for themselves as powerful warriors capable of unleashing devastating combos.
 
@@ -2517,8 +2515,6 @@ Monks of the Way of the Soul Blade are monks who have learned to harness and foc
 Way of the Demon Monks are those that channel demonic power to unleash special techniques. These techniques are often vicious and brutal, relying on raw power. Using them may corrupt a Monk's Ki to something dark and impure, causing others to shun them. 
 
 Many on this path have fallen to it out of pursuit of power, a dark history, or a demonic nature, but even if their powers may seem evil, not all that wield it are evil themselves. Sometimes a righteous monk will have acquired these powers from a strange path, such as sealing something demonic within themselves to protect the world from it, or be an inheritor of the techniques will seek to use them for good.
-
-#### **Way Of the Four Elements Revised**<sup>(KT)</sup>
 
 #### **Way Of the Outcast**<sup>(KT)</sup> %% Fold %%
 
