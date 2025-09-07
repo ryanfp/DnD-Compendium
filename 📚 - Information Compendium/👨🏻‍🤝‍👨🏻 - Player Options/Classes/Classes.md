@@ -2000,7 +2000,7 @@ Be bigger, be badder, and be tougher, and no man will stand in your way. You are
 
 The ancient art of gun-ko is passed through generations of gunslingers who study the gun as a perfect weapon and meditate on its intricacies. This path is not for the impatient or the faint of heart, but those who practice it diligently make their guns an extension of themselves, learning to strike with the speed of a rifle and catch bullets out of the air.
 
-#### **High Roller Creed** %% Fold %%
+#### **??High Roller Creed** %% Fold %%
 
 Fortune is a fickle thing—unless you're a high roller. These gunslingers are master card sharps and dice throwers that mix their love of risk with their talent for gunplay. High rollers push their luck until it runs out, then push harder. Why settle for just a win when you could bet it all and win big?
 
@@ -2350,7 +2350,7 @@ Monks of the Way of the Open Hand are the ultimate masters of martial arts comba
 
 Monks of the Way of Shadow follow a tradition that values stealth and subterfuge. These monks might be called ninjas or shadowdancers, and they serve as spies and assassins. Sometimes the members of a ninja monastery are family members, forming a clan sworn to secrecy about their arts and missions. Other monasteries are more like thieves’ guilds, hiring out their services to nobles, rich merchants, or anyone else who can pay their fees. Regardless of their methods, the heads of these monasteries expect the unquestioning obedience of their students.
 
-#### **Way Of the Four Elements** %% Fold %%
+#### **~~Way Of the Four Elements~~** %% Fold %%
 
 You follow a monastic tradition that teaches you to harness the elements. When you focus your ki, you can align yourself with the forces of creation and bend the four elements to your will, using them as an extension of your body. Some members of this tradition dedicate themselves to a single element, but others weave the elements together.
 
