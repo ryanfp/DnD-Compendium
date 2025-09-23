@@ -6,7 +6,7 @@
       {
         "id": "0f4096b47ff804e0",
         "type": "tabs",
-        "dimension": 58.950914340712224,
+        "dimension": 61.02021174205967,
         "children": [
           {
             "id": "a5ec94890ee5953b",
@@ -4330,7 +4330,7 @@
       {
         "id": "054b81ebeaadd54f",
         "type": "tabs",
-        "dimension": 41.049085659287776,
+        "dimension": 38.97978825794033,
         "children": [
           {
             "id": "b17a28d022df6598",
@@ -9136,10 +9136,12 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "a5ec94890ee5953b",
+  "active": "b17a28d022df6598",
   "lastOpenFiles": [
     "CurseForge Minecraft Links.md",
     "Home.md",
