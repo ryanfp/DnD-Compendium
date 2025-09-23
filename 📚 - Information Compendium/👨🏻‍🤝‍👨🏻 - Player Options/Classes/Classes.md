@@ -2832,7 +2832,7 @@ _**Defy Convention.**_ You stand to shatter the laws that seek to contain the t
 
 _**Speak Truth to Power.**_ Confront the powerful with your truth, and don’t let them turn away. Only by embracing the truth can they enact change. 
 
-#### **Oath Of Storms**<sup>(VSS)</sup> %% Fold %%
+#### **!Oath Of Storms**<sup>(VSS)</sup> %% Fold %%
 
 The Oath of Storms calls paladins to the salty brine and choppy seas, the altar of the raging storm. Paladins who swear this oath embrace the seas’ dispassionate neutrality and uphold few core tenets. With rare exceptions, these paladins are directionless crusaders, guided by the winds and tide, and might maintain distant lighthouses, hunt down vicious pirates, or seek undiscovered lands as the gales dictate. However storm nights, as they are often called, have a long memory for vengeance and deep pensions for superstition. Always listen to the wisdom of a storm night, lest the winds turn foul and the ocean tempestuous.
 
@@ -2900,37 +2900,17 @@ Yojimbo are sworn to protect those to whom they dedicate their service, be it an
 
 **Tenets of the Yojimbo**
 
-The tenets of the Oath of the Yojimbo are unflinchingly
+The tenets of the Oath of the Yojimbo are unflinchingly resolute. They do not change or vary, no matter whom a paladin pledges to protect.
 
-resolute. They do not change or vary, no matter whom a
+***Protection.*** Be a shield to those who lack a shield of their own. Be the weapon that meets the blade of those who would slaughter the weaponless.
 
-paladin pledges to protect .
+***Strength.*** Grow strong for the sake of those who cannot. To shelter the vulnerable, one must have the power to hold back the storm.
 
-_(Protection.)_ Be a shield to those who lack a shield of
+***Inspiration.*** Nurture the weak. Do not merely preserve the vulnerable; raise them up to be strong, so they might, in turn, protect others.
 
-their own. Be the weapon that meets the blade of those who
+***Self-Sacrifice.*** Wager everything for the safety of those who cannot fight. Nothing less is acceptable in the defense against tyranny.
 
-would slaughter the weaponless .
-
-_(Strength.)_ Grow strong for the sake of those who cannot .
-
-To shelter the vulnerable, one must have the power to hold
-
-back the storm .
-
-_(Inspiration.)_ Nurture the weak. Do not merely preserve
-
-the vulnerable; raise them up to be strong, so they might, in
-
-turn, protect others .
-
-_(Self-Sacrifice.)_ Wager everything for the safety of those
-
-who cannot fight. Nothing less is acceptable in the defense
-
-against tyranny .
-
-#### **Oath Of Justice**<sup>(TOH)</sup> %% Fold %%
+#### ~~**Oath Of Justice**~~<sup>(TOH)</sup> %% Fold %%
 
 The Oath of Justice is a commitment not to the tenets of good or evil but a holy vow sworn to uphold the laws of a nation, a city, or even a tiny village. When lawlessness threatens the peace, those who swear to uphold the Oath of Justice intervene to maintain order, for if order falls to lawlessness, it is only a matter of time before all of civilization collapses into anarchy. 
 
@@ -2944,7 +2924,7 @@ _**Uphold the Law.**_ The law represents the triumph of civilization over the un
 
 _**Punishment Fits the Crime.**_ The severity of justice acts in equal measure to the severity of a wrongdoer’s transgressions.
 
-#### **Oath Of Elements**<sup>(TOH)</sup> %% Fold %%
+#### ~~**Oath Of Elements**~~<sup>(TOH)</sup> %% Fold %%
 
 The Oath of the Elements is taken by those paladins who have dedicated their lives to serving the awakened spirits of air, earth, fire, and water. Such paladins might also serve a genie, elemental deity, or other powerful elemental creature. 
 
@@ -2958,7 +2938,7 @@ _**Act Wisely, Act Decisively.**_ You weigh your actions carefully and offer cou
 
 _**Integrity.**_ Your word is your bond. You don’t lie or deceive others and always treat them with fairness.
 
-#### **Oath Of the Guardian**<sup>(TOH)</sup> %% Fold %%
+#### ~~**Oath Of the Guardian**~~<sup>(TOH)</sup> %% Fold %%
 
 A paladin who takes the Oath of the Guardian is sworn to defend the community. Taking the mantle of a guardian is a solemn vow to place the needs of the many before the needs of yourself and requires constant vigilance. 
 
@@ -2972,7 +2952,7 @@ _**Preserve Order.**_ Order must be protected and preserved for all to enjoy. Yo
 
 _**Decisive Action.**_ Threats to peaceful life are often nefarious and subtle. The actions you take to combat such threats should not be.
 
-#### **Oath Of the Hearth**<sup>(TOH)</sup> %% Fold %%
+#### **!Oath Of the Hearth**<sup>(TOH)</sup> %% Fold %%
 
 Paladins who swear the Oath of the Hearth endeavor to extend the comforts of home to others, by allaying the rigors of travel or simply assuring those who grow despondent of the possibility of returning home. Ironically, paladins who follow this oath remain far from home in pursuit of their goals. Their oath reflects the welcoming warmth and light provided by the hearth, and paladins following the oath use these elements to turn away the cold or defeat enemies who employ cold as weapons. 
 
@@ -3026,7 +3006,7 @@ _**Uphold the Vow.**_ You acknowledge the person you protect may reveal themselv
 
 Unwavering. Nothing shall distract you from your mission. If you are magically compelled to desert your post, you do your utmost to resume your duty. Failing that, you take out your vengeance on the party responsible for your dereliction.
 
-#### **Oath Of Enlightenment**<sup>(TCEE)</sup> %% Fold %%
+#### ~~**Oath Of Enlightenment**~~<sup>(TCEE)</sup> %% Fold %%
 
 The Oath of Enlightenment is taken by paladins who seek for learning and growth and to share such knowledge and experience with others. As often as others call them teacher or mentor, they call themselves student and pupil. 
 
@@ -3054,13 +3034,11 @@ The Oath of Unrest is taken by those with unfinished business. They are driven b
 
 **Tenets of Unrest**
 
-The tenets of the Oath of Unrest are those of
+The tenets of the Oath of Unrest are those of completing your unfinished business.
 
-completing your unfinished business.
+***Atonement.*** You failed the first time, you must always remember that.
 
-_**Atonement.**_ You failed the first time, you must always remember that.
-
-_**Vigilance.**_ Be unwavering in your commitment to your task, you have been given a second chance for a reason.
+***Vigilance.*** Be unwavering in your commitment to your task, you have been given a second chance for a reason.
 
 _**Debt.**_ For good or ill, those that returned you to life have bestowed on you a chance of redemption, you are eternally indebted.
 
@@ -3082,7 +3060,7 @@ _**Maintain Your Own Beauty.**_ Beauty begins within the body. You cannot spread
 
 _**Show Beauty to the World.**_ Be an example to others. Let your beauty brighten the world, calling people to your cause like a lighthouse on a coast.
 
-#### **Oath Of Absolution**<sup>(ECHH)</sup> %% Fold %%
+#### **!Oath Of Absolution**<sup>(ECHH)</sup> %% Fold %%
 
 The three great virtues, diligence, harmony, and kindness, bring order and meaning to mortal life by keeping the temptation of sin at bay. Paladins who swear an oath of absolution, often referred to as Sin Eaters, seek to bring these virtues to the masses. While it is not uncommon for Aasimar or stonechildren to take this oath, the most famed Sin Eaters are the Silverhair Knights; an order of drow elite warrior priests of Eilistraee. 
 
@@ -3098,7 +3076,7 @@ _**Be Kind.**_ Be polite and tread the path of minimal conflict. Do not covet th
 
 _**Educate and Absolve.**_ Teach others the three great virtues and help them atone for their sins.
 
-#### **Oath Of Forbiddance**<sup>(ECHH)</sup> %% Fold %%
+#### **!Oath Of Forbiddance**<sup>(ECHH)</sup> %% Fold %%
 
 We mortals were never meant to understand the greater workings of the multiverse, and it is only in our arrogance that we deemed ourselves worthy. To seek that which is forbidden is beyond folly, it is heresy against the very natural order of the cosmos and cannot be allowed to pass. You will find these caches of forbidden knowledge and return them to obscurity. 
 
@@ -3128,7 +3106,7 @@ _**Fight for Equality.**_ Demand and fight for the fair treatment of all. Never 
 
 _**Lead the Rebellion.**_ Be the spark that ignites the rebellion. Lead the charge with your companions to make great changes in this world and stand with them no matter the cost.
 
-#### **Oath Of Sanity**<sup>(KT)</sup> %% Fold %%
+#### ~~**Oath Of Sanity**~~<sup>(KT)</sup> %% Fold %%
 
 The Oath of Sanity is the oath of someone that has survived exposure to the horrors that lay beyond the veil, or perhaps someone that has prepared for them through a mystical order, a forgotten tradition… or particularly vivid and over active imagination. 
 
