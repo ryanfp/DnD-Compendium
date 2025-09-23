@@ -3092,7 +3092,7 @@ _**Seek and Protect.**_ Seek out dangerous knowledge and ward it from others, wh
 
 _**Use Any Means.**_ Have no reservations when shielding the world from the forbidden. Lies can be better than truths and the tip of your sword can be a kindness.
 
-#### **Oath Of Rebellion**<sup>(CCS)</sup> %% Fold %%
+#### **!!!Oath Of Rebellion**<sup>(CCS)</sup> %% Fold %%
 
 The Oath of Rebellion is a powerful commitment to strike back against oppressors. At times where corrupt leaders and powerful organizations abuse their powers and restrict the freedoms of their patrons, these paladins arise to fight for and inspire those who cannot fight for themselves. They seek great change, even at the cost of using underhanded tactics, and understand they cannot make change alone, aiming to instead be the icon for others to follow. 
 
@@ -3146,7 +3146,7 @@ _**Purpose.**_ Actions speak louder than words. Let your sword and shield be you
 
 _**Sacred.**_ Be wary of those that use their voice to bend the world to their will for their own gain, and rebuke those that use their voice to bend creatures to their will for their own gain.
 
-#### **Oath Of Predation**<sup>(XLNEE)</sup> %% Fold %%
+#### **!Oath Of Predation**<sup>(XLNEE)</sup> %% Fold %%
 
 Paladins who follow the Oath of Predation believe that the world can only be made perfect through utter control. Through careful planning, subterfuge and unwavering patience, these paladins create hierarchies with themselves at the top, and execute their power with impunity. Few paladins can resist the allure of unchecked power, and most succumb to the temptations of tyranny.  
 
@@ -3196,7 +3196,7 @@ _**Strength in Diversity.**_ A lost species robs the world of music, color, and 
 
 #### **Oath Of Avarice**<sup>(CFSA)</sup> %% Fold %%
 
-Wealth is the availability of goods and services, and thus is a representation of both power and opportunity. A wealthy benefactor can save a civilization, while a wealthy tyrant can turn the world on its head. You’ve sworn to let nothing stand between you and the accumulation of wealt6h, as any whim that takes you can be accomplished with the prudent use of overwhelming financial might. You may have attracted the attention of the Currency Conspiracy, for if your greed blinds you to the truth of their work, they will gladly take you into their ranks. 
+Wealth is the availability of goods and services, and thus is a representation of both power and opportunity. A wealthy benefactor can save a civilization, while a wealthy tyrant can turn the world on its head. You’ve sworn to let nothing stand between you and the accumulation of wealth, as any whim that takes you can be accomplished with the prudent use of overwhelming financial might. You may have attracted the attention of the Currency Conspiracy, for if your greed blinds you to the truth of their work, they will gladly take you into their ranks. 
 
 **Tenets of Avarice**
 
@@ -3240,7 +3240,7 @@ _**Nurture Over Cure.**_ Act in the greatest interest of the many. Find ways to 
 
 _**Permit Prosperity.**_ Whether in matters of love, politics, or war, always give your antagonist the opportunity to change and redeem themselves before casting a fatal judgement. A good meal can serve as the backdrop to such events.
 
-#### **Oath Of the Hearth**<sup>(TGS)</sup> %% Fold %%
+#### **!Oath Of the Hearth**<sup>(TGS)</sup> %% Fold %%
 
 The Oath of the Hearth originates from the city of the same name, whose tragic downfall has been all but lost to history over centuries. These paladins swore an oath to protect this tropical, sunlit city in the name of their celestial guardians. Until the end, they fulfilled their oaths. You may swear this oath because you have an age-old connection to the city through your bloodline, or may have established a connection to the city’s principles through stories or interaction with a related celestial being. Regardless of your reasons for taking it, those that swear this oath adorn their armor with symbols of community, fire, and the sun to reflect their commitment to the city and the lives that were led there. 
 
@@ -3284,7 +3284,7 @@ _**A Light in the Dark.**_ When hope is hard to find, light the way.
 
 _**No Rest for the Wicked.**_ When evil sleeps, strike true, and cast it away.
 
-#### **Oath Of The Holy Flame**<sup>E</sup> %% Fold %%
+#### **!!Oath Of The Holy Flame**<sup>E</sup> %% Fold %%
 
 Paladins who swear the Oath of the Holy Flame are driven by an unquenchable fire within them, a passion for spreading light and warmth wherever they go. They see themselves as agents of a divine inferno, burning away darkness and corruption with the power of their oath. In battle, they are fearsome opponents, wreathed in holy fire that sears their enemies and guides their allies. 
 
@@ -3298,7 +3298,7 @@ _**Spread Your Light**_ Light shines the brightest in the darkest of places. Spr
 
 _**Kindle the Flame of Others**_ The Holy Flame is not meant to be held only be a select few. Kindle the flames of faith and hope in others, helping to bring light to the hearts of all. 
 
-#### **Oath Of the Open Sea**<sup>TDR</sup> %% Fold %%
+#### **!Oath Of the Open Sea**<sup>TDR</sup> %% Fold %%
 
 The Oath of the Open Sea calls to seafaring warriors, swashbuckling sailors, and traveling guardians who seek the thrill of a limitless horizon. Driven to search for adventure and mystery across and beneath every endless oceanic expanse, paladins who swear this oath stand against those who would deny liberty to likeminded travelers, rooting out tyranny and corruption wherever it is found. 
 
@@ -3316,7 +3316,7 @@ _**Adapt Like the Water.**_ The waters of the ocean can shift around any obstacl
 
 _**Explore the Uncharted.**_ The world is filled with mystery. Through the pursuit of enigmatic ends, one can uncover those who hide their foul deeds, and find the path to becoming something great.
 
-#### **Oath Of Purgation**<sup>(SMR)</sup> %% Fold %%
+#### **!!Oath Of Purgation**<sup>(SMR)</sup> %% Fold %%
 
 The Oath of Purgation is dedicated to burning away the unclean, saving society from its foulest elements and then sealing the rot with fire. Their quest is never-ending, for corruption never ceases to spread; but a paladin of Purgation is up to the challenge, their hearts burning with a zealous flame equal to their armaments. 
 
@@ -3332,7 +3332,7 @@ _**Unceasing Zeal.**_ Be steadfast in your hunt, for even the noblest hearts can
 
 _**Seal the Wound.**_ Leave no trace of rot unburnt, lest it spring back fouler than before.
 
-#### **Oath Of Ancestors**<sup>UAH</sup> %% Fold %%
+#### **Oath Of the Forefathers**<sup>UAH</sup> %% Fold %%
 
 The Oath of Ancestors is a commitment to those who came before you to carry their legacies into the future. Dwarven paladins who take this oath do so to honor the founders of their clan while elven paladins channel their grief for those who passed on. When communities abandon long held traditions, paladins who’ve sworn this oath remind them of the examples their honorable ancestors left behind. Sometimes called spectral knights, tomb guardians, or sin-eaters, paladins who swear this oath commune with their ancestors and pursue their ancestors’ ideals in the material realm. 
 
@@ -3368,7 +3368,7 @@ _**Redemption.**_ Redemption is possible for all individuals. Foster and assist 
 
 The Oath of the Planes binds a paladin to the fragile balance of good and evil in the multiverse. Unlike many Sacred Oaths, which commit paladins to narrow, unflinching ideals, this Oath implores them to view the greater tapestry. These paladins see that, just like the concept that light cannot exist without darkness, neither can the forces of good exist without the forces of evil; without the proper balance, the entirety of existence would unravel. To ensure this never occurs, these paladins — often called planeswalkers, gray knights, or portal knights — travel the planes of the multiverse, immersing themselves in dimensional magics and the boundaries of reality to maintain balance. 
 
-_**Tenets of the Planes** _
+**Tenets of the Planes** 
 
 The tenets of the Oath of the Planes are often difficult for individuals to uphold. Despite the necessity, many paladins find it difficult to remain impartial, and even more difficult to leave the ones they love when they feel themselves shirking their duties. It can also be tragic for these paladins to actively support certain evils, and actively destroy certain good, in order to keep the multiverse in balance; it is far easier for them when evil threatens to overwhelm good. Due to the harshness of the tenets, most paladins who take this oath are lawful neutral in alignment. 
 
@@ -3378,7 +3378,7 @@ _**Travel the Planes.**_ To understand the greater scope of the multiverse’s b
 
 _**Objectivity.**_ I remain impartial, placing the balance of the multiverse, and thereby everyone in it, over any individual attachment or life.
 
-#### **Oath Of Rebellion**<sup>UAH</sup> %% Fold %%
+#### **!!!Oath Of Rebellion**<sup>UAH</sup> %% Fold %%
 
 The Oath of Rebellion is a righteous commitment to stamp out all tyranny, to uphold the ideals of liberty and free will. Sometimes called torchbearers, mob knights, or riot knights, paladins who swear this oath are champions of the common man, and scourges of all those who would oppress them. They believe that, if it is in the name of ending a dictator’s rule, they can engage in any deception, treachery, and violence, proclaiming that freedom for all is worth any stain on their soul. 
 
@@ -3394,7 +3394,7 @@ _**Never Back Down.**_ No matter my own personal suffering or tragedy, I continu
 
 _**Ends Justify Means.**_ I will engage in murder, deceit, and treachery if it means that innocents can be free. I eat these sins in the name of liberty.
 
-#### **Oath Of Unity**<sup>UAH</sup> %% Fold %%
+#### **Oath Of Unity change name bro**<sup>UAH</sup> %% Fold %%
 
 Paladins of the Oath of Unity fight for their companions. And in return, it is their companions’ faith in them that powers their divine ability. Paladins of the Oath of Unity are never truly alone, not when the hopes and dreams of those around the world are riding on them. Paladins who take this oath are often inspiring leaders and empowering teammates. After all, the more they do to support their companions, the stronger they become. 
 
@@ -3408,7 +3408,7 @@ _**Trust.**_ You trust your companions with your life. You must also be the kind
 
 _**Teamwork.**_ Your victories do not just belong to you; they belong to everyone who has helped you come this far.
 
-#### **Oath Of Vigilance**<sup>UAH</sup> %% Fold %%
+#### ~~**Oath Of Vigilance**~~<sup>UAH</sup> %% Fold %%
 
 Paladins who swear the Oath of Vigilance believe their highest calling is in service to others. Those who swear the Oath of Vigilance devote their lives to finding those worthy of protection and ensuring no harm comes to them. These paladins have as strict a moral code as any other but prize obedience to a righteous master above everything else. To them, any untoward actions taken in protecting their ward is justified. 
 
