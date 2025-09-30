@@ -3438,7 +3438,7 @@ _**The River Rages.**_ If I must battle, I will fight with all my passion and st
 
 _**The River Seeks the Sea…Always.**_ I will not abandon my duty, especially when others are counting on me.
 
-#### **Oath Of Hexes**<sup>(GTD)</sup> %% Fold %%
+#### **!Oath Of Hexes**<sup>(GTD)</sup> %% Fold %%
 
 Those who swear an oath of hexes are sworn to witch covens, fey creatures, and occult deities of magic, fate, and death. In exchange, this sacred oath empowers paladins with fickle magic to curse those who would try to tempt fate or escape the ire of the Old Gods. 
 
