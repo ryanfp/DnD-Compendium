@@ -19,6 +19,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Classes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Classes\"}",
+                  "eState": "{}"
+                },
+                {
                   "title": "CurseForge Minecraft Links",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"CurseForge Minecraft Links.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"CurseForge Minecraft Links\"}",
@@ -4307,7 +4313,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
+                "file": "📚 - Information Compendium/📝 - Rules & Mechanics/rules-and-meta.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -4322,7 +4328,40 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Classes"
+              "title": "rules-and-meta"
+            }
+          },
+          {
+            "id": "c52ca86d1c1d3ec8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 - Information Compendium/Introduction.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
             }
           }
         ]
@@ -9136,18 +9175,21 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "a5ec94890ee5953b",
   "lastOpenFiles": [
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
+    "📚 - Information Compendium/Introduction.md",
     "CurseForge Minecraft Links.md",
     "Home.md",
     "Modrinth Minecraft Links.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Races.md",
     "Quick  Thoughts.md",
     "Home.md - Shortcut.lnk",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "3-Content/Compendiums/lists/list-optfeaturetype-di.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist 1.md",
@@ -9176,7 +9218,6 @@
     "test folder22",
     "z_Scripts/Unconfirmed 254922.crdownload",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/battle-smith.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/artillerist.md",
     "z_Scripts/Unconfirmed 630161.crdownload",
     "z_Scripts/Unconfirmed 276216.crdownload",
     "z_Scripts/Unconfirmed 573939.crdownload",

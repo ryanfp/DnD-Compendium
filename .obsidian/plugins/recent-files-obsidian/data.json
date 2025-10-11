@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "rules-and-meta",
+      "path": "📚 - Information Compendium/📝 - Rules & Mechanics/rules-and-meta.md"
+    },
+    {
       "basename": "Classes",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
+    },
+    {
+      "basename": "Introduction",
+      "path": "📚 - Information Compendium/Introduction.md"
     },
     {
       "basename": "CurseForge Minecraft Links",
@@ -191,14 +199,6 @@
     {
       "basename": "first-vampire",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/first-vampire.md"
-    },
-    {
-      "basename": "undead",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/undead.md"
-    },
-    {
-      "basename": "archfey",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/archfey.md"
     }
   ],
   "omittedPaths": [],
