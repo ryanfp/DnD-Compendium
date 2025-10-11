@@ -6,7 +6,7 @@
       {
         "id": "0f4096b47ff804e0",
         "type": "tabs",
-        "dimension": 61.02021174205967,
+        "dimension": 43.905817174515235,
         "children": [
           {
             "id": "a5ec94890ee5953b",
@@ -4330,7 +4330,7 @@
       {
         "id": "054b81ebeaadd54f",
         "type": "tabs",
-        "dimension": 38.97978825794033,
+        "dimension": 56.094182825484765,
         "children": [
           {
             "id": "b17a28d022df6598",
@@ -9139,7 +9139,7 @@
       "task-board:Open task board": false
     }
   },
-  "active": "b17a28d022df6598",
+  "active": "a5ec94890ee5953b",
   "lastOpenFiles": [
     "CurseForge Minecraft Links.md",
     "Home.md",
