@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Campaign Settings",
+      "path": "Campaign Settings.md"
+    },
+    {
+      "basename": "Quick  Thoughts",
+      "path": "Quick  Thoughts.md"
+    },
+    {
+      "basename": "Modrinth Minecraft Links",
+      "path": "Modrinth Minecraft Links.md"
+    },
+    {
+      "basename": "CurseForge Minecraft Links",
+      "path": "CurseForge Minecraft Links.md"
+    },
+    {
+      "basename": "Introduction",
+      "path": "📚 - Information Compendium/Introduction.md"
+    },
+    {
       "basename": "rules-and-meta",
       "path": "📚 - Information Compendium/📝 - Rules & Mechanics/rules-and-meta.md"
     },
@@ -9,28 +29,12 @@
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
     },
     {
-      "basename": "Introduction",
-      "path": "📚 - Information Compendium/Introduction.md"
-    },
-    {
-      "basename": "CurseForge Minecraft Links",
-      "path": "CurseForge Minecraft Links.md"
-    },
-    {
       "basename": "Home",
       "path": "Home.md"
     },
     {
-      "basename": "Modrinth Minecraft Links",
-      "path": "Modrinth Minecraft Links.md"
-    },
-    {
       "basename": "Races",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Races.md"
-    },
-    {
-      "basename": "Quick  Thoughts",
-      "path": "Quick  Thoughts.md"
     },
     {
       "basename": "alchemist",
@@ -195,10 +199,6 @@
     {
       "basename": "parasite",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/parasite.md"
-    },
-    {
-      "basename": "first-vampire",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Warlock/first-vampire.md"
     }
   ],
   "omittedPaths": [],

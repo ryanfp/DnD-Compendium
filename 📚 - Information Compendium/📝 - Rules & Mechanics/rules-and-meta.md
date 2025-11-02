@@ -1,10 +1,10 @@
 ---
-permalink: rules-meta
 title: Rules & Meta
+created: 2025/03/26 at 20:42
+updated: 2025/11/01 at 23:27
+permalink: rules-meta
 aliases:
   - Rules & Meta
-created: 2025/03/26 at 20:42
-updated: 2025/07/21 at 22:00
 ---
 
 # Rules & Meta
