@@ -3584,7 +3584,7 @@ Gloom Stalkers are at home in the darkest places: deep under the earth, in gloom
 
 Horizon Walkers guard the world against threats that originate from other planes or that seek to ravage the mortal realm with otherworldly magic. They seek out planar portals and keep watch over them, venturing to the Inner Planes and the Outer Planes as needed to pursue their foes. These rangers are also friends to any forces in the multiverse — especially benevolent dragons, fey, and elementals — that work to preserve life and the order of the planes.
 
-#### **Monster Slayer Conclave** %% Fold %%
+#### **!!Monster Slayer Conclave** %% Fold %%
 
 You have dedicated yourself to hunting down creatures of the night and wielders of grim magic. A Monster Slayer seeks out vampires, dragons, evil fey, fiends, and other magical threats. Trained in supernatural techniques to overcome such monsters, slayers are experts at unearthing and defeating mighty, mystical foes.
 
@@ -3616,7 +3616,7 @@ For bandits, bank robbers, and green clad folk heroes, there's no better way to 
 
 When a wizard embraces forbidden, volatile magic, or a sorcerer loses control of their arcane power, a spellbreaker is not far behind. This ancient order of rangers tracks dangerous spellcasters, from rogue bards to demonic warlocks, and eliminates them before their magic can wreak havoc on an entire city or endanger the multiverse itself. They are trained in techniques to bypass magical defenses and rip small holes in the fabric of magic itself to catch unaware any spellcaster in their midst. While most spellbreakers execute their quarry or capture them for the authorities, a few still burn which is at the stake, earning all spellbreakers a grim reputation.
 
-#### ~~**Trophy Hunter Conclave**<sup>(VSS)</sup>~~
+#### ~~**!!Trophy Hunter Conclave**<sup>(VSS)</sup>~~
 
 #### ~~**Vigilante Conclave**<sup>(VSS)</sup>~~
 
@@ -3670,11 +3670,11 @@ You follow patterns set by will-o’-wisps, departed souls that feed on fear and
 
 Blood magic is often banned for a reason. Dark Trappers tap into the primordial magic that binds creatures to the world they live in. You have learned the shape of reality, and can use it to force creatures to stay in a location, send pulsing waves of damage through their blood, and harness the energy your prey provides to keep yourself alive longer.
 
-#### **Herbalist Conclave**<sup>(TCEE)</sup> %% Fold %%
+#### ~~**Herbalist Conclave**~~<sup>(TCEE)</sup> %% Fold %%
 
 Herbalists are true masters of their environment, able to find and utilize the rare and often magical components hidden in the undergrowth. Using these skills, they can create wondrous tonics, salves, potions and balms that can provide themselves and their allies with temporary beneficial effects. These rangers are often considered to be healers and witch-doctors instead of warriors, but there is no doubt that their abilities can turn the tide of battle.
 
-#### **Predator Conclave**<sup>(TCEE)</sup> %% Fold %%
+#### **!Predator Conclave**<sup>(TCEE)</sup> %% Fold %%
 
 The Predator archetype involves hunting monstrosities of the world such as the basilisk, hydra, and wyvern. They study these creatures’ traits and emulate their abilities and behaviors using their swift cunning, physical might, and primal magic.
 
@@ -3682,7 +3682,7 @@ The Predator archetype involves hunting monstrosities of the world such as the b
 
 Staring up at the night sky, one’s thoughts may drift to the vast unknown of the cosmos; an infinitely expansive sea of darkness speckled with inconceivably hot stars and unforgivingly harsh planets. While the starry heavens might seem absolutely foreign and unknowable, the Stargazer finds comfort and guidance from them. They learn more about their current location by looking at the constellations than they would from seeing a map.
 
-#### **Bloodhound Conclave**<sup>(FEQ)</sup> %% Fold %%
+#### **!!Bloodhound Conclave**<sup>(FEQ)</sup> %% Fold %%
 
 Rangers recognize the primal connections between all living things, and as a Bloodhound you know precisely how to exploit them to track down your chosen prey. The Western Frontier is home to countless fugitives and war criminals, and conclaves train their best bounty hunters to follow these ancient techniques— while on the other side of the Border Road, some hunters and worgs of the Great Pack use the skills of the Bloodhound to track enemies of purity.
 
@@ -3690,17 +3690,17 @@ Rangers recognize the primal connections between all living things, and as a Blo
 
 Rangers who are Cosmic Callers have tamed an extraplanar creature of some kind, whether it is an elemental, an aberration of the Far Realm, or a creature from the Feywild. Through this connection, these rangers expand their understanding of arcane energy. Cosmic Callers often patrol boundaries between the Material Plane and other planes, protecting those hapless victims of circumstance that wander into dangerous extraplanar spaces.
 
-#### **Primordial Keeper Conclave**<sup>(ECHH)</sup> %% Fold %%
+#### ~~**Primordial Keeper Conclave**~~<sup>(ECHH)</sup> %% Fold %%
 
 Wind walkers, stone speakers, and flame dancers. Primordial keepers are rangers who choose to harness raw elemental power over the more subtle, more spiritual connections to animals or plants, and are most often pragmatists. The elements are tools to wield, exactly as they would a sword or bow, simple and direct, versatile and never-failing.
 
-#### **Wildcatter Conclave**<sup>(ECHH)</sup> %% Fold %%
+#### **!!Wildcatter Conclave**<sup>(ECHH)</sup> %% Fold %%
 
 You breathe in the smell of the discharged gunpowder, lowering the barrel to watch your quarry stagger and fall. Your hand reflexively comes to rest on the holstered sidearm strapped to your thigh, ready in case the muzzle flash alerted another nearby predator. You wait, but only a dull breeze comes. As calm descends, you let out your breath and your hand relaxes. 
 
 At home in the wilderness, yet born from civilization and unwilling to part from it, the wildcatter straddles these two disparate worlds much more than most other rangers.
 
-#### **Infernal Rider Conclave**<sup>(CCS)</sup> %% Fold %%
+#### ~~**Infernal Rider Conclave**~~<sup>(CCS)</sup> %% Fold %%
 
 Infernal Rider Rangers roam both the streets inside Prismatic Falls and the wastes outside of it, using high-powered arcane cycles to get around in both speed and style. They often roam in small groups, using specially made vehicles that allow them to fight while riding. The screams of fiends are a sign that an ambush from one of these gangs is imminent.
 
@@ -3712,9 +3712,9 @@ Specialists are rangers that innovate their technique and equipment in equal mea
 
 Mind Reapers are an incarnation of fear. Terrible creatures seen more often in stories told to frighten children or ancient legends than the material plane, these are predatory creatures most mortals would be right to fear, no matter what their intentions. Some use these powers to spread fear, savoring the terror of their victims. Others use their powers to dispense what they view as justified, stalking down and reaping only those they believe have earned such a grim fate.
 
-#### **Beast Master Revised**<sup>(KT)</sup> %% Fold %%
+#### ~~*Beast Master Revised**~~<sup>(KT)</sup> %% Fold %%
 
-#### **Bounty Hunter Conclave**<sup>(KT)</sup> %% Fold %%
+#### **!!Bounty Hunter Conclave**<sup>(KT)</sup> %% Fold %%
 
 Anyone that knows about adventurers will know that their legacy is equal parts heroics and burning drinking establishments to the ground. Equal parts dragons slain and merchants robbed. Everyone needs someone to fear, and Rangers that take the Bounty Hunter path are what those who bring fear to others must fear. 
 
