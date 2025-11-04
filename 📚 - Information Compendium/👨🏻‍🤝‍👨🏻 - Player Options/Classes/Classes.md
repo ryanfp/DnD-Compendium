@@ -3602,7 +3602,7 @@ Your connection to the natural world takes the form of a draconic spirit, which 
 
 #### ~~**Beastborne Conclave**<sup>(VSS)</sup>~~
 
-#### **Freerunner Conclave**<sup>(VSS)</sup> %% Fold %%
+#### **!!!!Freerunner Conclave**<sup>(VSS)</sup> %% Fold %%
 
 Agile, evasive, and unmoored from the constraints that slow down other rangers, the archetypal freerunner is supremely nimble and capable of crossing terrain faster than anyone else. They accomplish this through a skilled combination of dashing, leaping, and nimbly climbing that guides them down clever paths through their environments. Moreover, an adept freerunner can convert the momentum from their gymnastics into deadly force, crushing their enemies with exceptional impact from unexpected directions.
 
@@ -3628,7 +3628,7 @@ The Rōnin are masterless, wandering warriors, beholden to no code but their own
 
 Legends tell that the most ancient and fearsome terrors lurk deep within the old places of the earth — unfathomable and bloodthirsty entities of fallow soil and sharpened claws. Hollow Wardens venerate and draw power from such beings, transforming themselves into similarly merciless and monstrous guardians that stalk along jagged coastlines, across steep mountain crags, and through other dark and wild places. 
 
-#### **Nightstalker Conclave**<sup>(DAC)</sup> %% Fold %%
+#### **!!Nightstalker Conclave**<sup>(DAC)</sup> %% Fold %%
 
 The Nightstalker archetype emulates a unique form of shadow magic, used to create shadowy familiars to accompany you in battle. By walking this path, you learn to use your shadow familiar like an extension of yourself, using them like a weapon as you stalk through the dim forests and vast plains of the world, searching for your prey. Your choice of familiar defines your style of fighting, with each familiar playing a different role on the hunt and on the battlefield.
 
@@ -3674,7 +3674,7 @@ Blood magic is often banned for a reason. Dark Trappers tap into the primordial 
 
 Herbalists are true masters of their environment, able to find and utilize the rare and often magical components hidden in the undergrowth. Using these skills, they can create wondrous tonics, salves, potions and balms that can provide themselves and their allies with temporary beneficial effects. These rangers are often considered to be healers and witch-doctors instead of warriors, but there is no doubt that their abilities can turn the tide of battle.
 
-#### **!Predator Conclave**<sup>(TCEE)</sup> %% Fold %%
+#### **!!!Predator Conclave**<sup>(TCEE)</sup> %% Fold %%
 
 The Predator archetype involves hunting monstrosities of the world such as the basilisk, hydra, and wyvern. They study these creatures’ traits and emulate their abilities and behaviors using their swift cunning, physical might, and primal magic.
 
@@ -3708,7 +3708,7 @@ Infernal Rider Rangers roam both the streets inside Prismatic Falls and the wast
 
 Specialists are rangers that innovate their technique and equipment in equal measure. Deadly and clever, they keep their opponents guessing what is coming next.
 
-#### **Mind Reaper Conclave**<sup>(KT)</sup> %% Fold %%
+#### **!Mind Reaper Conclave**<sup>(KT)</sup> %% Fold %%
 
 Mind Reapers are an incarnation of fear. Terrible creatures seen more often in stories told to frighten children or ancient legends than the material plane, these are predatory creatures most mortals would be right to fear, no matter what their intentions. Some use these powers to spread fear, savoring the terror of their victims. Others use their powers to dispense what they view as justified, stalking down and reaping only those they believe have earned such a grim fate.
 
@@ -3720,17 +3720,17 @@ Anyone that knows about adventurers will know that their legacy is equal parts h
 
 Excelling at hunting down targets wherever they should hide, they bring them down dead or alive.
 
-#### **Burghal Explorer Conclave**<sup>(XLNEE)</sup> %% Fold %%
+#### ~~**Burghal Explorer Conclave**~~<sup>(XLNEE)</sup> %% Fold %%
 
 Burghal Explorers are at home in tight places, making their living as urban bounty hunters or guiding magical search crews through dangerous ruins. Dark slums and ruined cities, choked with thirsty weeds and decorated with crumbling remnants of once-thriving communities, become gathering points for desperate innocents—and for sneak-thieves and bandits who prey on the helpless. Burghal Explorers toe the line between the natural forest and cityscapes, moonlighting as vigilantes, or fending off unnatural horrors that reach covetously toward the darkest, deepest, plots of land.
 
-#### **Wasteland Wanderer Conclave**<sup>(XLNEE)</sup> %% Fold %%
+#### ~~**Wasteland Wanderer Conclave**~~<sup>(XLNEE)</sup> %% Fold %%
 
 Some worlds thrive, with large swathes of the land covered with flora and fauna that can be both beautiful and dangerous while other lands, or other worlds, become desolate wastelands through cataclysmic occurrences either natural or manufactured. Apocalyptic events turn the land into hazardous voids more dangerous than any monster. Only the hardiest life forms survive, and even they are often mutated into hideous reflections of their natural selves. 
 
 Forged in harsh kiln of apocalyptic survival are the Wasteland Wanderer. These rangers of ruin rely on the skills and knowledge they have gathered by surviving the terrible conditions of their world— and often helping others survive as well.
 
-#### **Spiritbound Conclave**<sup>(BoE)</sup> %% Fold %%
+#### **!!!Spiritbound Conclave**<sup>(BoE)</sup> %% Fold %%
 
 Spiritbound rangers forge a pact with the invisible nature spirits of the mountains, rivers, and forests. Often, these spirits claw at the material world and seek vengeance upon those that despoil their domains. Spiritbound rangers are the implement of their fury. 
 
@@ -3758,7 +3758,7 @@ The Rocborne are nomads of the sky who travel the world on the backs of ancestra
 
 By calling on the spirits of the wind to aid them, rangers of this archetype can exert a degree of control over both wind and weather. These skills were passed down from the rocs to the first Rocborne and continue to live on through the dedicated instruction of Rocborne elders, both living and dead. You may be taught these skills or have them passed on to you through the guidance of Rocborne spirits in whispers, dreams, or in moments of deep meditation.
 
-#### **Shadow Caller Conclave**<sup>(E)</sup> %% Fold %%
+#### **!!Shadow Caller Conclave**<sup>(E)</sup> %% Fold %%
 
 Rangers of this archetype have delved into the realm of undeath and spirits, forging a unique bond with them. This bond allows them to call various specters to their side, aiding them in and out of combat. These Rangers are often solitary figures, preferring to operate alone and relying on their own skills rather than relying on others. They have a deep understanding of the world of spirits and are able to manipulate it to their advantage.
 
@@ -3770,11 +3770,11 @@ Many rangers prefer to sleep under the stars, but the Cometcaller Conclave takes
 
 Cometcallers come from any walk of life, but tend to have an esoteric or mystical streak - it helps when exploring the cosmos beyond mortal ken. Good-aligned cometcallers have a healthy perspective about civilization's place in the universe. Evil cometcallers, conversely, mostly just like to drop meteors on their enemies.
 
-#### **Apex Predator Conclave**<sup>UAH</sup> %% Fold %%
+#### ~~**Apex Predator Conclave**~~<sup>UAH</sup> %% Fold %%
 
 You may not have been raised by beasts, but you certainly act like it. An Apex Predator uses all weapons at their disposal, lashing out with their teeth and nails at any enemy foolish enough to fight them in melee. Their instinctual affinity for animals gives rise to spells that grant them control over beasts. Their emulation of predators gives them a heightened capacity for violence and intimidation.
 
-#### **Bounty Hunter Conclave**<sup>UAH</sup> %% Fold %%
+#### **!!Bounty Hunter Conclave**<sup>UAH</sup> %% Fold %%
 
 Some rangers seek glory by hunting down the most dangerous creatures the multiverse has to offer; others take on the more practical tasks of capturing or eliminating criminals and other nuisances. A Bounty Hunter familiarizes themselves with one particular creature at a time, mastering martial techniques for efficiently capturing or killing any bounty. The success of a Bounty Hunter rests on their employment of studious techniques for quickly becoming familiar with any unfamiliar quarry.
 
@@ -3782,7 +3782,7 @@ Some rangers seek glory by hunting down the most dangerous creatures the multive
 
 Although hags have a reputation for villainy, they are powerful protectors of natural places and those who choose to live on the fringes of civilization. In this role, the Feywild natives sometimes forge an unusual alliance with rangers with similar interests. Cronesguard act as a hag coven’s agents in lands beyond their reach and, in exchange, the coven lends the ranger a portion of their power. You have made such a pledge.
 
-#### **Freerunner Conclave**<sup>UAH</sup> %% Fold %%
+#### **!!!!Freerunner Conclave**<sup>UAH</sup> %% Fold %%
 
 Freerunners dedicate their lives to movement, seeing every obstacle in front of them as an opportunity for play. While most at home climbing and sprinting through sprawling metropolises, a Freerunner can jump and flip through any locale. Though many see these rangers as foolhardy show-offs, Freerunners understand that the art of parkour isn’t about proving one’s prowess, but about exulting in the joy of movement. Running upon the line between life and death makes them feel the most alive, and for them is the truest expression of freedom.
 
@@ -3798,7 +3798,7 @@ Some rangers turn to the primordial to protect their homes, bonding with an elem
 
 You have become afflicted by the mysterious illness that haunts the island known as the Corruption. This same foul magic, which has stained the coastlines black, now resides within your body. It curses your skin and seeps from your pores, and in time it will even become difficult to distinguish you from it.
 
-#### **Urban Ranger Conclave**<sup>(GTD)</sup> %% Fold %%
+#### **!!!!Urban Ranger Conclave**<sup>(GTD)</sup> %% Fold %%
 
 Urban rangers are less accustomed to nature and the wilds, but to the rooftops and guerilla tactics of city warfare. Training for maneuverability and stealth amongst ruined buildings, and twisting streets, these rangers are at home amongst the ruins and rubble. They are agile runners, skilled snipers, and always able to know where the best vantage points against their enemies are.
 
