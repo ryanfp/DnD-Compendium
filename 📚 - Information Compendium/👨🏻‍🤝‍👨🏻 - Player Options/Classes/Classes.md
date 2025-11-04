@@ -3638,11 +3638,11 @@ The secrets of hanabi, alchemical fabrications that explode in dazzling arrays o
 
 #### ~~**Beast Trainer Conclave**<sup>(TOH)</sup>~~ %% Fold %%
 
-#### **Grove Warden Conclave**<sup>(TOH)</sup> %% Fold %%
+#### **!Grove Warden Conclave**<sup>(TOH)</sup> %% Fold %%
 
 Fiercely protective of their territory, alseid herds form close bonds with their home forests. In return for their diligent protection, the forests offer their blessings to dedicated alseid rangers. In recent years, woodsy adventurers of other races who have earned the forests’ trust also received this blessing, though their numbers are scant. These Grove Wardens can tap into the living magic of ancient forests. Your senses travel through the plants and earth of the woods, and the very land rises up to strike down your enemies.
 
-#### **Gunslinger Conclave**<sup>(TOH)</sup> %% Fold %%
+#### ~~**!Gunslinger Conclave**~~<sup>(TOH)</sup> %% Fold %%
 
 Gunslingers use their expertise to hunt and track for coin, using their marksmanship skills to bring down their prey. Some gunslingers work by a personal code that defines what they will or will not do for money, while others have no scruples in who or what they hunt.
 
@@ -3650,7 +3650,7 @@ Gunslingers use their expertise to hunt and track for coin, using their marksman
 
 It is no secret the wilds are dangerous and that many an intrepid adventurer has met an untimely end while exploring them. Haunted wardens are rangers who have come face to face with the restless spirit of one of those lost wanderers. Somehow during the course of this meeting, the yearning phantom tethers its spirit to the warden’s in order to put its unfinished business to rest. Even after its final wishes are met, or in the tragic instance they can’t come to fruition, your companion remains with you until you meet your end, both as a constant confidante and a reminder that the veil between life and death is thin indeed.
 
-#### **Snake Speaker Conclave**<sup>(TOH)</sup> %% Fold %%
+#### ~~**Snake Speaker Conclave**~~<sup>(TOH)</sup> %% Fold %%
 
 Like the serpents they adore, snake speakers are highly adaptable hunters. Snakes are common throughout the world, and people who need to travel through snake-filled jungles often retain a snake speaker guide, trusting the guide to protect them from scaly poisoners.
 

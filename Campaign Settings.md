@@ -1,6 +1,14 @@
+---
+title: Campaign Setting Options
+created: 2025/11/01 at 23:41
+updated: 2025/11/03 at 20:02
+aliases:
+  - Campaign Setting Options
+---
+
 # Campaign Setting Options
 
-##  Official
+## Official
 
 ### Forgotten Realms
 
@@ -24,5 +32,4 @@
 
 ### Humblewood
 
-### 
-
+###
