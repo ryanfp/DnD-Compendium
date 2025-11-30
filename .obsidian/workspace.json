@@ -79,10 +79,24 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "5e Tools Website To-Do & Ideas.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "5e Tools Website To-Do & Ideas"
             }
           }
         ],
@@ -574,11 +588,13 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "b205233caf1d065c",
   "lastOpenFiles": [
+    "5e Tools Website To-Do & Ideas.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "Quick  Thoughts.md",
     "Campaign Settings.md",
@@ -612,7 +628,6 @@
     "3-Content/Compendiums/lists",
     "3-Content/Compendiums",
     "3-Content",
-    "test folder22/new-note-for-testing 12.md",
     "test folder22",
     "z_Scripts/Unconfirmed 254922.crdownload",
     "z_Scripts/Unconfirmed 630161.crdownload",

@@ -762,6 +762,64 @@
                 "completion": "",
                 "cancelledDate": ""
             }
+        ],
+        "5e Tools Website To-Do & Ideas.md": [
+            {
+                "id": 4115774422,
+                "status": " ",
+                "title": "Implement the 2014 rules as a sidegrade, as the current version only offers 2024",
+                "body": [
+                    "\t- [ ] Should only need certain topics/info which should be down in [[#2014 Options]]"
+                ],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "priority": 0,
+                "filePath": "5e Tools Website To-Do & Ideas.md",
+                "lineNumber": 6,
+                "completion": "",
+                "cancelledDate": ""
+            },
+            {
+                "id": 1116423695,
+                "status": " ",
+                "title": "Implement Homebrew options, listed in [[#Homebrew To-Add]]",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "priority": 0,
+                "filePath": "5e Tools Website To-Do & Ideas.md",
+                "lineNumber": 8,
+                "completion": "",
+                "cancelledDate": ""
+            },
+            {
+                "id": 2389728567,
+                "status": " ",
+                "title": "Optimize website loading speed",
+                "body": [
+                    "\t- [x] trim homebrew content",
+                    "\t- [ ] trim base content"
+                ],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "priority": 0,
+                "filePath": "5e Tools Website To-Do & Ideas.md",
+                "lineNumber": 11,
+                "completion": "",
+                "cancelledDate": ""
+            }
         ]
     },
     "Completed": {
