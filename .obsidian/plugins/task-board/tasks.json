@@ -765,7 +765,7 @@
         ],
         "5e Tools Website To-Do & Ideas.md": [
             {
-                "id": 4115774422,
+                "id": 3701682178,
                 "status": " ",
                 "title": "Implement the 2014 rules as a sidegrade, as the current version only offers 2024",
                 "body": [
@@ -784,7 +784,7 @@
                 "cancelledDate": ""
             },
             {
-                "id": 1116423695,
+                "id": 3294733234,
                 "status": " ",
                 "title": "Implement Homebrew options, listed in [[#Homebrew To-Add]]",
                 "body": [],
@@ -801,7 +801,88 @@
                 "cancelledDate": ""
             },
             {
-                "id": 2389728567,
+                "id": 2135501510,
+                "status": " ",
+                "title": "Change site color palette to match Obsidian’s, possibly tweak it to change link colors, maybe different fonts too",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "priority": 0,
+                "filePath": "5e Tools Website To-Do & Ideas.md",
+                "lineNumber": 9,
+                "completion": "",
+                "cancelledDate": ""
+            },
+            {
+                "id": 3008336235,
+                "status": " ",
+                "title": "Potentially change layout or add more functionality to better flow with the rest of the planned site changes",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "priority": 0,
+                "filePath": "5e Tools Website To-Do & Ideas.md",
+                "lineNumber": 10,
+                "completion": "",
+                "cancelledDate": ""
+            },
+            {
+                "id": 3636781947,
+                "status": " ",
+                "title": "Properly delete unwanted site content (delete the actual files or contents in the files, not just blacklist)",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "priority": 0,
+                "filePath": "5e Tools Website To-Do & Ideas.md",
+                "lineNumber": 11,
+                "completion": "",
+                "cancelledDate": ""
+            },
+            {
+                "id": 2058875960,
+                "status": " ",
+                "title": "Go through the “JoeyJoestar Good and Evil json file and remove all unwanted content”",
+                "body": [
+                    "\t- [ ] Arcadia subclasses",
+                    "\t- [ ] BenevolentEvil’s Oath of Grif",
+                    "\t- [ ] BipBop’s Subtlety Magic",
+                    "\t- [ ] Camunon’s School of Mimic Magic",
+                    "\t- [ ] ihopethiswork’s path of MAGE",
+                    "\t- [ ] Jadeor’s Feat Compendium",
+                    "\t\t- [ ] Oath of Remembrance",
+                    "\t\t- [ ] Way of the Inner Eye",
+                    "\t- [ ] Alternate Features",
+                    "\t- [ ] Kingstarman’s College of Assassination",
+                    "\t- [ ] Kingstarman’s Moon Knight??",
+                    "\t- [ ] "
+                ],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "priority": 0,
+                "filePath": "5e Tools Website To-Do & Ideas.md",
+                "lineNumber": 12,
+                "completion": "",
+                "cancelledDate": ""
+            },
+            {
+                "id": 3079848094,
                 "status": " ",
                 "title": "Optimize website loading speed",
                 "body": [
@@ -816,7 +897,7 @@
                 "tags": [],
                 "priority": 0,
                 "filePath": "5e Tools Website To-Do & Ideas.md",
-                "lineNumber": 11,
+                "lineNumber": 27,
                 "completion": "",
                 "cancelledDate": ""
             }
