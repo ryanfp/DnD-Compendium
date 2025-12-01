@@ -29,7 +29,8 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 	- [ ] trim base content
 
 ## Ideas/Goals
-
+- Have a list of very common/useful D&D websites
+- 
 
 ## Misc.
 - rename Halflings to “Hobbits”
