@@ -50,4 +50,21 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 
 ### Homebrew To-Add
 - Add “Dazed” condition as an alternative to stunned or paralyzed
-- 
+
+### GitHub Repo Ideas
+- README Formatting
+	- Title at the top centered
+		- Short description under it with horizontal line
+		- then logo
+	- Buttons under all this
+		- WEBSITE STUFF
+			- license
+			- release version
+			- obsidian
+			- main site
+		- SOCIAL MEDIA
+			- patreon
+			- discord
+			- kofi
+			- twitter
+			- bluesky

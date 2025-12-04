@@ -765,7 +765,7 @@
         ],
         "5e Tools Website To-Do & Ideas.md": [
             {
-                "id": 70890281,
+                "id": 2319059596,
                 "status": " ",
                 "title": "Implement the 2014 rules as a sidegrade, as the current version only offers 2024",
                 "body": [
@@ -784,7 +784,7 @@
                 "cancelledDate": ""
             },
             {
-                "id": 3151574227,
+                "id": 3115798498,
                 "status": " ",
                 "title": "Implement Homebrew options, listed in [[#Homebrew To-Add]]",
                 "body": [],
@@ -801,7 +801,7 @@
                 "cancelledDate": ""
             },
             {
-                "id": 3812149895,
+                "id": 3555874173,
                 "status": " ",
                 "title": "Change site color palette to match Obsidian’s, possibly tweak it to change link colors, maybe different fonts too",
                 "body": [],
@@ -818,7 +818,7 @@
                 "cancelledDate": ""
             },
             {
-                "id": 3838092318,
+                "id": 3251430916,
                 "status": " ",
                 "title": "Potentially change layout or add more functionality to better flow with the rest of the planned site changes",
                 "body": [],
@@ -835,7 +835,7 @@
                 "cancelledDate": ""
             },
             {
-                "id": 1126039465,
+                "id": 4114119910,
                 "status": " ",
                 "title": "Properly delete unwanted site content (delete the actual files or contents in the files, not just blacklist)",
                 "body": [],
@@ -852,7 +852,7 @@
                 "cancelledDate": ""
             },
             {
-                "id": 1185829316,
+                "id": 3441501801,
                 "status": " ",
                 "title": "Go through the “JoeyJoestar Good and Evil json file and remove all unwanted content”",
                 "body": [
@@ -882,7 +882,7 @@
                 "cancelledDate": ""
             },
             {
-                "id": 2954569211,
+                "id": 1019967179,
                 "status": " ",
                 "title": "Optimize website loading speed",
                 "body": [
