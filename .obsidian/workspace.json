@@ -99,7 +99,8 @@
               "title": "5e Tools Website To-Do & Ideas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -587,13 +588,14 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "c52ca86d1c1d3ec8",
+  "active": "b205233caf1d065c",
   "lastOpenFiles": [
-    "5e Tools Website To-Do & Ideas.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
+    "5e Tools Website To-Do & Ideas.md",
     "Quick  Thoughts.md",
     "Campaign Settings.md",
     "Modrinth Minecraft Links.md",

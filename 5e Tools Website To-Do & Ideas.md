@@ -55,7 +55,7 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 - Spells
 - Feats
 - Conditions
-	- also add “Dazed” homebrew condition as well
+	- also add “Dazed” homebrew condition as well [Dazed. An Alternative to the Stunned Condition in 5e D&D](https://www.hipstersanddragons.com/dazed-alternative-condition-to-stunned/)
 - Races
 	- Really only the “Half-” species as they’re absent from 2024
 		- Half-Elf
