@@ -1,8 +1,17 @@
-#  5eTools Website Guide/Goals
+---
+title: 5eTools Website Guide/Goals
+created: 2025/11/29 at 21:58
+updated: 2025/12/04 at 20:21
+aliases:
+  - 5eTools Website Guide/Goals
+---
+
+# 5eTools Website Guide/Goals
 
 Currently building a personal mirror to the popular and useful [5etools](https://5e.tools/index.html) website. 
 
-##  To-Do List
+## To-Do List
+
 - [ ] Implement the 2014 rules as a sidegrade, as the current version only offers 2024
 	- [ ] Should only need certain topics/info which should be down in [[#2014 Options]]
 - [ ] Implement Homebrew options, listed in [[#Homebrew To-Add]]
@@ -23,20 +32,24 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 	- [ ] Kingstarman’s Moon Knight??
 	- [ ] 
 
-##  In-Progress
+## In-Progress
+
 - [ ] Optimize website loading speed
 	- [x] trim homebrew content
 	- [ ] trim base content
 
 ## Ideas/Goals
+
 - Have a list of very common/useful D&D websites
 - 
 
-## Misc.
+## Misc
+
 - rename Halflings to “Hobbits”
 - remove the GH:PP manuevers options, they seem OP
 
 ### 2014 Options
+
 - Actions
 - Rules
 - Spells
@@ -49,9 +62,11 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 		- Half-Orc
 
 ### Homebrew To-Add
+
 - Add “Dazed” condition as an alternative to stunned or paralyzed
 
 ### GitHub Repo Ideas
+
 - README Formatting
 	- Title at the top centered
 		- Short description under it with horizontal line

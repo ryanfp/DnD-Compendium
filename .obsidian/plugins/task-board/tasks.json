@@ -765,7 +765,7 @@
         ],
         "5e Tools Website To-Do & Ideas.md": [
             {
-                "id": 2319059596,
+                "id": 3212882560,
                 "status": " ",
                 "title": "Implement the 2014 rules as a sidegrade, as the current version only offers 2024",
                 "body": [
@@ -779,12 +779,12 @@
                 "tags": [],
                 "priority": 0,
                 "filePath": "5e Tools Website To-Do & Ideas.md",
-                "lineNumber": 6,
+                "lineNumber": 15,
                 "completion": "",
                 "cancelledDate": ""
             },
             {
-                "id": 3115798498,
+                "id": 1041322677,
                 "status": " ",
                 "title": "Implement Homebrew options, listed in [[#Homebrew To-Add]]",
                 "body": [],
@@ -796,12 +796,12 @@
                 "tags": [],
                 "priority": 0,
                 "filePath": "5e Tools Website To-Do & Ideas.md",
-                "lineNumber": 8,
+                "lineNumber": 17,
                 "completion": "",
                 "cancelledDate": ""
             },
             {
-                "id": 3555874173,
+                "id": 2861828599,
                 "status": " ",
                 "title": "Change site color palette to match Obsidian’s, possibly tweak it to change link colors, maybe different fonts too",
                 "body": [],
@@ -813,12 +813,12 @@
                 "tags": [],
                 "priority": 0,
                 "filePath": "5e Tools Website To-Do & Ideas.md",
-                "lineNumber": 9,
+                "lineNumber": 18,
                 "completion": "",
                 "cancelledDate": ""
             },
             {
-                "id": 3251430916,
+                "id": 3418291423,
                 "status": " ",
                 "title": "Potentially change layout or add more functionality to better flow with the rest of the planned site changes",
                 "body": [],
@@ -830,12 +830,12 @@
                 "tags": [],
                 "priority": 0,
                 "filePath": "5e Tools Website To-Do & Ideas.md",
-                "lineNumber": 10,
+                "lineNumber": 19,
                 "completion": "",
                 "cancelledDate": ""
             },
             {
-                "id": 4114119910,
+                "id": 1023927889,
                 "status": " ",
                 "title": "Properly delete unwanted site content (delete the actual files or contents in the files, not just blacklist)",
                 "body": [],
@@ -847,12 +847,12 @@
                 "tags": [],
                 "priority": 0,
                 "filePath": "5e Tools Website To-Do & Ideas.md",
-                "lineNumber": 11,
+                "lineNumber": 20,
                 "completion": "",
                 "cancelledDate": ""
             },
             {
-                "id": 3441501801,
+                "id": 627165048,
                 "status": " ",
                 "title": "Go through the “JoeyJoestar Good and Evil json file and remove all unwanted content”",
                 "body": [
@@ -877,12 +877,12 @@
                 "tags": [],
                 "priority": 0,
                 "filePath": "5e Tools Website To-Do & Ideas.md",
-                "lineNumber": 12,
+                "lineNumber": 21,
                 "completion": "",
                 "cancelledDate": ""
             },
             {
-                "id": 1019967179,
+                "id": 2055410091,
                 "status": " ",
                 "title": "Optimize website loading speed",
                 "body": [
@@ -897,7 +897,7 @@
                 "tags": [],
                 "priority": 0,
                 "filePath": "5e Tools Website To-Do & Ideas.md",
-                "lineNumber": 27,
+                "lineNumber": 37,
                 "completion": "",
                 "cancelledDate": ""
             }
