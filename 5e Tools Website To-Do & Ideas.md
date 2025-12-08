@@ -18,19 +18,7 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 - [ ] Change site color palette to match Obsidian’s, possibly tweak it to change link colors, maybe different fonts too
 - [ ] Potentially change layout or add more functionality to better flow with the rest of the planned site changes
 - [ ] Properly delete unwanted site content (delete the actual files or contents in the files, not just blacklist)
-- [ ] Go through the “JoeyJoestar Good and Evil json file and remove all unwanted content”
-	- [ ] Arcadia subclasses
-	- [ ] BenevolentEvil’s Oath of Grif
-	- [ ] BipBop’s Subtlety Magic
-	- [ ] Camunon’s School of Mimic Magic
-	- [ ] ihopethiswork’s path of MAGE
-	- [ ] Jadeor’s Feat Compendium
-		- [ ] Oath of Remembrance
-		- [ ] Way of the Inner Eye
-	- [ ] Alternate Features
-	- [ ] Kingstarman’s College of Assassination
-	- [ ] Kingstarman’s Moon Knight??
-	- [ ] 
+- [x] ~~Go through the~~Delete “JoeyJoestar Good and Evil json file ~~and remove all unwanted content”~~
 
 ## In-Progress
 
@@ -41,7 +29,7 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 ## Ideas/Goals
 
 - Have a list of very common/useful D&D websites
-- 
+- maybe have a UI option to have all three tabs show at once like (traits, info and images)
 
 ## Misc
 
