@@ -70,8 +70,14 @@
             "id": "b205233caf1d065c",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "cursor_retrieve_permalink_and_automate",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chat Logs/cursor_retrieve_permalink_and_automate.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cursor_retrieve_permalink_and_automate\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":101,\"ch\":0},\"to\":{\"line\":101,\"ch\":0}},\"scroll\":82.39606564858067}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -105,8 +111,7 @@
               "title": "Monster Classifications"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -593,13 +598,16 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "b205233caf1d065c",
+  "active": "c52ca86d1c1d3ec8",
   "lastOpenFiles": [
-    "5e Tools Website To-Do & Ideas.md",
     "Monster Classifications.md",
+    "Chat Logs/cursor_retrieve_permalink_and_automate.md",
+    "5e Tools Website To-Do & Ideas.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "Quick  Thoughts.md",
     "Campaign Settings.md",
@@ -628,7 +636,6 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Barbarian/barbarian-2024.md",
     "Filename Test.md",
     "filename-test.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/blood-hunter/blood-hunter.md",
     "3-Content/Compendiums/lists",
     "3-Content/Compendiums",
     "3-Content",

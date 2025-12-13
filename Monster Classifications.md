@@ -1,10 +1,18 @@
+---
+title: Monster Classifications
+created: 2025/12/13 at 00:37
+updated: 2025/12/13 at 13:28
+aliases:
+  - Monster Classifications
+---
+
 # Monster Classifications
 
 *The purpose is to group the monsters up a little more generally to allow for better gameplay when having a [[Favored Foe]] or a chosen monster from the Monster Hunter class from Grim Hollow*
 
-## 3  Group Classification
+## 3 Group Classification
 
-### Group 1 
+### Group 1
 
 **Possible Names**: Primordials, Cosmics, Eternals, Fundamentals, Progenitors
 
@@ -64,9 +72,9 @@
 
 - - - 
 
-## 4  Group Classification
+## 4 Group Classification
 
-### Group 1 
+### Group 1
 
 **Possible Names**: Spirituals, Ethereals, Eternals
 
@@ -138,13 +146,11 @@
 - Druidic/nature magic connections
 - Represent untamed nature and wild magic
 
-
-
 - - - 
 
-## 5  Group Classification
+## 5 Group Classification
 
-### Group 1 
+### Group 1
 
 **Possible Names**: Outsiders, Divine, Cosmics, Eternals
 
@@ -191,7 +197,6 @@
  - Dragon
  - Undead
 
-
 **Similarities/Themes:**
 
 - Legendary, mythological beings
@@ -213,14 +218,12 @@
 
 - Purely natural, mundane creatures
 - Part of normal ecosystems
-- No inherent magic
+- No inherent magi
 - Living things that grow, hunt, reproduce naturally
-- Ranger/druid domain
 
+## 5 Group Classification
 
-## 5  Group Classification
-
-### Group 1 
+### Group 1
 
 **Possible Names**: Outsiders, Divine, Cosmics, Eternals
 
@@ -228,7 +231,6 @@
 
  - Fiend
  - Celestial
-
 
 **Similarities/Themes:**
 
@@ -281,7 +283,6 @@
 
  - Beast
  - Plant
-
 
 **Similarities/Themes:**
 
