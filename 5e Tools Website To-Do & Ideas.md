@@ -63,7 +63,7 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 		- Monstrosity
 		- Undead
 		- Beast
-	  Corporeals
+	  Corporeals/Immortals
 		- Celestial
 		- Fiend
 		- Fey
