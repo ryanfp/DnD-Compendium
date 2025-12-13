@@ -31,51 +31,10 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 - Have a list of very common/useful D&D websites
 - maybe have a UI option to have all three tabs show at once like (traits, info and images)
 - When combining Monster Hunter with Ranger, also generalize the monster types to allow more flexibility
-- Ethereals
-- Primes
-- Divine
-- Naturals
-- 
-	- Type 1
-		- Aberration
-		- Monstrosity
-		- Ooze
-	  Type 2
-		- Beast
-		- Elemental
-		- Fey
-		- Giant
-	  Type 3
-		- Celestial
-		- Fiend
-		  Dragon
-	  Type 4
-		- Construct
-		- Undead
-		- Plant
-	  Type 5
-		- Ooze
-		- Plant
-		- Construct
-- 
-	- Type 1
-		- Aberration
-		- Monstrosity
-		- Undead
-
-	  Corporeals/Immortals
-		- Celestial
-		- Fiend
-		- Fey
-	  Primordials/Titans
-		- Giant
-		- Elemental
-		  Dragon
-	  Type 5
-		- Ooze
-		- Plant
-		- Construct
-		- Beast
+	- Ethereals
+	- Primes
+	- Divine
+	- Naturals
 
 ## Misc
 

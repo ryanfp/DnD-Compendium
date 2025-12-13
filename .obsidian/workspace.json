@@ -75,14 +75,20 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "5e Tools Website To-Do & Ideas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5e Tools Website To-Do & Ideas.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"5e Tools Website To-Do & Ideas\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":2},\"to\":{\"line\":36,\"ch\":2}},\"scroll\":12.34491809097652}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5e Tools Website To-Do & Ideas.md",
-                "mode": "source",
+                "file": "Monster Classifications.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -96,7 +102,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5e Tools Website To-Do & Ideas"
+              "title": "Monster Classifications"
             }
           }
         ],
@@ -587,13 +593,16 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "b205233caf1d065c",
   "lastOpenFiles": [
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "5e Tools Website To-Do & Ideas.md",
+    "Monster Classifications.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "Quick  Thoughts.md",
     "Campaign Settings.md",
     "Modrinth Minecraft Links.md",
@@ -622,7 +631,6 @@
     "Filename Test.md",
     "filename-test.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/blood-hunter/blood-hunter.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/beastheart/beastheart.md",
     "3-Content/Compendiums/lists",
     "3-Content/Compendiums",
     "3-Content",
