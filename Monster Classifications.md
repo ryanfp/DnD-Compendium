@@ -138,7 +138,85 @@
 - Druidic/nature magic connections
 - Represent untamed nature and wild magic
 
+
+
 - - - 
+
+## 5  Group Classification
+
+### Group 1 
+
+**Possible Names**: Outsiders, Divine, Cosmics, Eternals
+
+**Types**:
+
+ - Fiend
+ - Celestial
+ - Elemental
+
+**Similarities/Themes:**
+
+- Outer Plane natives representing cosmic good vs. evil
+- Serve higher powers or ideals
+- Immortal divine servants
+- Campaign-defining moral conflicts
+- Angels and demons
+
+### Group 2
+
+**Possible Names**: Aberrants, Grotesques, Nightmares, Profanes, Unseelies
+
+**Types**:
+
+ - Monstrosity
+ - Aberration
+ - Ooze
+ - Construct
+
+**Similarities/Themes:**
+
+- Represent biological horror and wrongness
+- Violate natural laws in form or function
+- Often incomprehensible or alien intelligence
+- Found in deep places (Underdark, Far Realm)
+- Inspire revulsion or madness
+
+### Group 3
+
+**Possible Names**: Mythics, Mythicals, Storieds, Fables, Ancients, Legends
+
+**Types**:
+
+ - Giant
+ - Dragon
+ - Undead
+
+
+**Similarities/Themes:**
+
+- Legendary, mythological beings
+- Ancient societies and cultures
+- Appear in folklore across cultures
+- Magical by nature
+- Often have courts, hierarchies, or honor codes
+
+### Group 4
+
+**Possible Names**: Naturals, Verdants, Wildlife, Commons
+**Types**:
+
+ - Beast
+ - Plant
+ - Fey
+
+**Similarities/Themes:**
+
+- Purely natural, mundane creatures
+- Part of normal ecosystems
+- No inherent magic
+- Living things that grow, hunt, reproduce naturally
+- Ranger/druid domain
+
 
 ## 5  Group Classification
 
