@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "3-alternate-beasts",
+      "path": "📚 - Information Compendium/books/compendium-of-beasts/3-alternate-beasts.md"
+    },
+    {
+      "basename": "2-laserllama-compendium-of-beasts-v2-0-0",
+      "path": "📚 - Information Compendium/books/compendium-of-beasts/2-laserllama-compendium-of-beasts-v2-0-0.md"
+    },
+    {
+      "basename": "1-compendium-of-beasts",
+      "path": "📚 - Information Compendium/books/compendium-of-beasts/1-compendium-of-beasts.md"
+    },
+    {
+      "basename": "Feats",
+      "path": "📚 - Information Compendium/⚔ - Features & Skills/Feats/Feats.md"
+    },
+    {
+      "basename": "👹 - Bestiary",
+      "path": "📚 - Information Compendium/👹 - Bestiary/👹 - Bestiary.md"
+    },
+    {
       "basename": "Monster Classifications",
       "path": "Monster Classifications.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "ideas",
       "path": "ideas.md"
-    },
-    {
-      "basename": "silverquill-student",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/silverquill-student.md"
-    },
-    {
-      "basename": "whitestone-rifle-corps-grey-hunter",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/whitestone-rifle-corps-grey-hunter.md"
-    },
-    {
-      "basename": "acolyte-phb",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/acolyte-phb.md"
-    },
-    {
-      "basename": "bladesinging",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Wizard/bladesinging.md"
-    },
-    {
-      "basename": "black-magic",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Witch/black-magic.md"
     }
   ],
   "omittedPaths": [],
