@@ -111,7 +111,8 @@
               "title": "Monster Classifications"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -603,12 +604,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "c52ca86d1c1d3ec8",
+  "active": "b205233caf1d065c",
   "lastOpenFiles": [
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "Monster Classifications.md",
     "Chat Logs/cursor_retrieve_permalink_and_automate.md",
     "5e Tools Website To-Do & Ideas.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "Quick  Thoughts.md",
     "Campaign Settings.md",
     "Modrinth Minecraft Links.md",
