@@ -765,7 +765,7 @@
         ],
         "5e Tools Website To-Do & Ideas.md": [
             {
-                "id": 4102285758,
+                "id": 1477144762,
                 "status": " ",
                 "title": "Implement the 2014 rules as a sidegrade, as the current version only offers 2024",
                 "body": [
@@ -784,7 +784,7 @@
                 "cancelledDate": ""
             },
             {
-                "id": 1972386821,
+                "id": 1547027204,
                 "status": " ",
                 "title": "Implement Homebrew options, listed in [[#Homebrew To-Add]]",
                 "body": [],
@@ -801,7 +801,7 @@
                 "cancelledDate": ""
             },
             {
-                "id": 410605767,
+                "id": 2512837280,
                 "status": " ",
                 "title": "Change site color palette to match Obsidian’s, possibly tweak it to change link colors, maybe different fonts too",
                 "body": [],
@@ -818,7 +818,7 @@
                 "cancelledDate": ""
             },
             {
-                "id": 2398416910,
+                "id": 1935323069,
                 "status": " ",
                 "title": "Potentially change layout or add more functionality to better flow with the rest of the planned site changes",
                 "body": [],
@@ -835,7 +835,7 @@
                 "cancelledDate": ""
             },
             {
-                "id": 4264868054,
+                "id": 501801641,
                 "status": " ",
                 "title": "Properly delete unwanted site content (delete the actual files or contents in the files, not just blacklist)",
                 "body": [],
@@ -852,7 +852,7 @@
                 "cancelledDate": ""
             },
             {
-                "id": 2803918050,
+                "id": 3547179698,
                 "status": " ",
                 "title": "Optimize website loading speed",
                 "body": [
@@ -929,7 +929,7 @@
         ],
         "5e Tools Website To-Do & Ideas.md": [
             {
-                "id": 1251695595,
+                "id": 879961139,
                 "status": "x",
                 "title": "~~Go through the~~Delete “JoeyJoestar Good and Evil json file ~~and remove all unwanted content”~~",
                 "body": [],

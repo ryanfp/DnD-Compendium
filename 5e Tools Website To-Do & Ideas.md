@@ -62,7 +62,7 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 		- Aberration
 		- Monstrosity
 		- Undead
-		- Beast
+
 	  Corporeals/Immortals
 		- Celestial
 		- Fiend
@@ -75,6 +75,7 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 		- Ooze
 		- Plant
 		- Construct
+		- Beast
 
 ## Misc
 
