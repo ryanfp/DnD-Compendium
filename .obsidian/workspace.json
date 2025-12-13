@@ -77,6 +77,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "5e Tools Website To-Do & Ideas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5e Tools Website To-Do & Ideas.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"5e Tools Website To-Do & Ideas\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":53.07472970909593}"
+                },
+                {
+                  "title": "3-alternate-beasts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/books/compendium-of-beasts/3-alternate-beasts.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"3-alternate-beasts\"}",
+                  "eState": "{}"
+                },
+                {
                   "title": "2-laserllama-compendium-of-beasts-v2-0-0",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/books/compendium-of-beasts/2-laserllama-compendium-of-beasts-v2-0-0.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2-laserllama-compendium-of-beasts-v2-0-0\"}",
@@ -117,8 +129,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 - Information Compendium/books/compendium-of-beasts/3-alternate-beasts.md",
-                "mode": "preview",
+                "file": "Monster Classifications.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -132,7 +144,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3-alternate-beasts"
+              "title": "Monster Classifications"
             }
           }
         ],
@@ -630,6 +642,8 @@
   },
   "active": "b205233caf1d065c",
   "lastOpenFiles": [
+    "5e Tools Website To-Do & Ideas.md",
+    "📚 - Information Compendium/books/compendium-of-beasts/3-alternate-beasts.md",
     "📚 - Information Compendium/books/compendium-of-beasts/2-laserllama-compendium-of-beasts-v2-0-0.md",
     "📚 - Information Compendium/books/compendium-of-beasts/1-compendium-of-beasts.md",
     "📚 - Information Compendium/⚔ - Features & Skills/Feats/Feats.md",
@@ -637,7 +651,6 @@
     "Monster Classifications.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "Chat Logs/cursor_retrieve_permalink_and_automate.md",
-    "5e Tools Website To-Do & Ideas.md",
     "Quick  Thoughts.md",
     "Campaign Settings.md",
     "Modrinth Minecraft Links.md",
@@ -659,7 +672,6 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/amorist.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/accursed.md",
     "📚 - Information Compendium/books/strongholds-and-followers/01.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Sorcerer/aberrant-mind.md",
     "New folder",
     "3-Content/Compendiums/lists",
     "3-Content/Compendiums",
