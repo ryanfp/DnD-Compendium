@@ -15,7 +15,7 @@ You have learned to channel the primal magic of nature through study and practic
 The Ranger Spellcasting table shows how many spell slots you have to cast your level 1+ spells.  You regain all expended spell slots when you finish a long rest. 
 
 #### **Prepared Spells**
-You prepare the list of Ranger spells that are available for you to cast. To start, choose two level 1 Ranger spells.  *Cure wounds* and *entangle* are recommended. 
+You prepare the list of Ranger spells that are available for you to cast. To start, choose two level 1 Ranger spells  (*cure wounds* and *entangle* are recommended). 
 
 The number of spells on your prepared list increases as you gain Ranger levels, as shown in the Prepared Spells column of the Ranger Spellcasting table.  Whenever that number increases, choose additional Ranger spells until the number of spells on your list matches the number in the table.  The chosen spells must be of a level for which you have spell slots.
 
