@@ -1,7 +1,7 @@
 ---
 title: Monster Classifications
 created: 2025/12/13 at 00:37
-updated: 2025/12/13 at 17:21
+updated: 2025/12/13 at 22:16
 aliases:
   - Monster Classifications
 ---
@@ -12,74 +12,43 @@ aliases:
 
 ## 5 Group Classification
 
-### Group 1
+### Eternals
 
-**Possible Names**: Ethereals, Cosmics, Eternals
+**Possible Names**: 
 
 **Types**:
 
  - Fiend
- - Celestial
- - Fey
+ - Celestials
 
-**Similarities/Themes:**
-
-- Outer Plane natives representing cosmic good vs. evil
-- Serve higher powers or ideals
-- Immortal divine servants
-- Campaign-defining moral conflicts
-- Angels and demons
-
-### Group 2
-
-**Possible Names**: Aberrants, Nightmares, Cryptids
+### **Nightmares**
 
 **Types**:
 
  - Monstrosity
  - Aberration
- - Ooze
 
-**Similarities/Themes:**
-
-- Represent biological horror and wrongness
-- Violate natural laws in form or function
-- Often incomprehensible or alien intelligence
-- Found in deep places (Underdark, Far Realm)
-- Inspire revulsion or madness
-
-### Group 3
-
-**Possible Names**: Ancients, Primordials, Titans
+### **Primordials**
 
 **Types**:
 
  - Giant
  - Dragon
  - Elemental
- - Construct
 
-**Similarities/Themes:**
+### **Naturals**
 
-- Legendary, mythological beings
-- Ancient societies and cultures
-- Appear in folklore across cultures
-- Magical by nature
-- Often have courts, hierarchies, or honor codes
-
-### Group 4
-
-**Possible Names**: Naturals, Terrestrials, Primals
 **Types**:
 
  - Beast
  - Plant
+ - Fey
+
+### **Unnaturals**
+
+**Types**:
+
  - Undead
+ - Construct
+ - Ooze
 
-**Similarities/Themes:**
-
-- Purely natural, mundane creatures
-- Part of normal ecosystems
-- No inherent magic
-- Living things that grow, hunt, reproduce naturally
-- Ranger/druid domain
