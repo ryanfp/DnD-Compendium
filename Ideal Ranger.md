@@ -1,7 +1,7 @@
 ---
 title: Build-A-Ranger
 created: 2025/12/13 at 19:00
-updated: 2025/12/13 at 22:01
+updated: 2025/12/14 at 16:55
 aliases:
   - Build-A-Ranger
 ---
@@ -111,7 +111,6 @@ Make the “Hunter’s mark-like feature” ability scale better, to maybe make 
 - Precise Hunter
 - Lair Sense
 
-
 Notes:
 
 Notes:
@@ -130,15 +129,79 @@ Lvl 6: Roving - +5 normally but +10 if not wearing heavy armor
 
 Lvl 6: Improved Grimoire - another part of the mechanic from the Monster Hunter class is "Additionally, your attack rolls with weapons and Unarmed Strikes against creature types in your Monster Grimoire can score a Critical Hit on a roll of 19 or 20 on the d20." I think I want to keep that as well. 
 
-Lvl 9: Knowledgable Defense - I'm not sure I like this. Maybe change it to 1d6 + Wis and then to 1d8 when quarry gets upgraded to d8? Maybe also you can also use it to add your WIS modifer to a saving throw roll?
+Lvl 9: Knowledgable Defense - I'm not sure I like this. Maybe change it to 1d6 + Wis and then to 1d8 when quarry gets upgraded to d8? Maybe also you can also use it to add your WIS modifier to a saving throw roll?
 
 Lvl 14: Nature's Veil - Move to 13th level and add ability that you can't be tracked by any means unless you choose to
 
 Lvl 14: Lair Sense - Add ability from the actual Monster Hunter class "You have Advantage on saving throws and Resistance to the damage of lair actions and regional effects caused by creatures. In addition, you have Advantage on saving throws and Resistance to damage against the Legendary Actions of creature types in your Monster Grimoire."
+
 Lvl 17: Precise Hunter - The original ability gives you advantage on attack rolls against that which is marked. 
 
 Lvl 20: Capstone - Make Hunter's Quarry at will. Creatures under the effects of quarry are crit on a roll of 18-20 and the damage die now explode. If you roll max damage 2-3? times in a row, the creature must succeed on a Con save equal to 10 + WIS modifier or take half of their max HP as damage, and if it reduces them to 0 HP they are killed outright. 
 
 - - - 
 
-please assess and determine if any one part is too over - powered or overloaded with features, I'm okay if its slightly more powerful than the 2024 or  2014 ranger, as long as it is BELOW power levels of like the twilight cleric or the other outlier subclass/class combos
+please assess and determine if any one part is too over - powered or overloaded with features, I'm okay if its slightly more powerful than the 2024 or 2014 ranger, as long as it is BELOW power levels of like the twilight cleric or the other outlier subclass/class combos
+
+hunter feature of knowing resistances
+
+changing lvl 20 feature to choose between 
+
+- hunters quarry at will, single target still. 
+- can mark two creatures at the same time as part of same action. if one dies, you can move it without expending another use as standard. If both die and aren’t moved, you must spend a new use to recast
+- when you hit and deal damage to one creature, you deal half damage to the creature and it can try a WIS save equal to 10 + WIS modifier or half of the damage it would receive, rounded down (whichever is higher)
+universal to lvl 20:
+attacks on quarries crit on 18-20, and ONLY on crits do damage dice explode. If you explode 3 times in a row (capped at 3) the creature must succeed on a con save equal to 10 + WIS modifier or take half of their max HP as damage, and if it reduces them to 0 HP they are killed outright.
+
+precise hunter changed to add half of PB rounded up to attack rolls on that which is marked
+
+- - - 
+Lvl 1: Monster Grimoire - add base benefit of advantage on Wisdom (Perception) checks made to notice those creatures as that used to be in the hunters mark spell but I dont want it added to hunters quarry mechanic
+
+Lvl 1: Hunter's Quarry - I would change it to only take a BA to move it to a creature once one dies IF it is this monster is in one of the groups from your grimoire. That way you don't use all of them in one combat in a goblin camp for example when you're supposed to be an expert goblin hunter, but for a diverse encounter it still must be used sparingly. 
+
+Lvl 2: Studied Response - First, the original mechanic from the class is as follows: "When a creature you can see within 60 feet of you targets you or another creature with a melee or ranged attack, you can take a Reaction before the attack roll to make one attack with a weapon or an Unarmed Strike against that creature.
+
+If the attack misses, you regain the use of your Reaction." which is definitely stronger, but the GH Monster Hunter delays Extra Attack until 11th level. Not sure if its better to keep EA at 5th level like base Rangers or to maybe play with the idea of moving them around
+
+Either way, I want to keep the part where you can make an attack against the creature if it targets you or someone. Maybe also keep the feature where you regain the reaction if it misses but only if the monster is in your grimoire?
+
+Lvl 6: Roving - +5 normally but +10 if not wearing heavy armor
+
+**Lvl 6: Improved Grimoire**
+
+Add another creature archetype to your monster grimoire. 
+
+Additionally, your attack rolls with weapons and Unarmed Strikes against creature types in your Monster Grimoire can score a Critical Hit on a roll of 19 or 20 on the d20.
+
+Lvl 9: Knowledgable Defense - I'm not sure I like this. Maybe change it to 1d6 + Wis and then to 1d8 when quarry gets upgraded to d8? Maybe also you can also use it to add your WIS modifier to a saving throw roll?
+
+Lvl 13: Nature's Veil - Move to 13th level and add ability that you can't be tracked by any means unless you choose to
+
+**Lvl 13: Improved Grimoire**
+
+Add another creature archetype to your monster grimoire. 
+
+Additionally, your attack rolls with weapons and Unarmed Strikes against creature types in your Monster Grimoire can score a Critical Hit on a roll of 19 or 20 on the d20.
+
+**Lvl 14: Lair Sense** 
+
+Add ability from the actual Monster Hunter class "You have Advantage on saving throws and Resistance to the damage of lair actions and regional effects caused by creatures. In addition, you can use a reaction to give yourself Advantage on saving throws and Resistance to damage against the Legendary Actions of creature types in your Monster Grimoire if it targets you, once per turn."
+
+**Lvl 17: Precise Hunter** 
+
+add half of PB rounded up to attack rolls on that which is marked
+
+**Lvl 20: Capstone - Apex Predator**
+
+You gain the following benefits:
+
+- Attacks on quarries now crit on 18-20, and ONLY on crits do damage dice explode. 
+- If you explode 3 times in a row (capped at 3) the creature must succeed on a con save equal to 10 + WIS modifier or take half of their max HP as damage, and if it reduces them to 0 HP they are killed outright.
+AND, choose ONE of the following:
+
+- hunters quarry at will, single target still. 
+OR
+- can mark two creatures at the same time as part of same action. if one dies, you can move it without expending another use as standard. If both die and aren’t moved, you must spend a new use to recast
+- when you hit and deal damage to one creature, you deal half damage to the creature and it can try a WIS save equal to 10 + WIS modifier or half of the damage it would receive, rounded down (whichever is higher)
+universal to lvl 20:
