@@ -114,6 +114,8 @@ Make the “Hunter’s mark-like feature” ability scale better, to maybe make 
 
 Notes:
 
+Notes:
+
 Lvl 1: Monster Grimoire - add base benefit of advantage on Wisdom (Perception) checks made to notice those creatures as that used to be in the hunters mark spell but I dont want it added to hunters quarry mechanic
 
 Lvl 1: Hunter's Quarry - I would change it to only take a BA to move it to a creature once one dies IF it is this monster is in one of the groups from your grimoire. That way you don't use all of them in one combat in a goblin camp for example when you're supposed to be an expert goblin hunter, but for a diverse encounter it still must be used sparingly. 
@@ -132,5 +134,11 @@ Lvl 9: Knowledgable Defense - I'm not sure I like this. Maybe change it to 1d6 +
 
 Lvl 14: Nature's Veil - Move to 13th level and add ability that you can't be tracked by any means unless you choose to
 
-Lvl 14: Lair Sense - Add ability from 
-Lvl 17: Precise Hunter - The original ability gives you advantage on attack rolls against that which is marked.
+Lvl 14: Lair Sense - Add ability from the actual Monster Hunter class "You have Advantage on saving throws and Resistance to the damage of lair actions and regional effects caused by creatures. In addition, you have Advantage on saving throws and Resistance to damage against the Legendary Actions of creature types in your Monster Grimoire."
+Lvl 17: Precise Hunter - The original ability gives you advantage on attack rolls against that which is marked. 
+
+Lvl 20: Capstone - Make Hunter's Quarry at will. Creatures under the effects of quarry are crit on a roll of 18-20 and the damage die now explode. If you roll max damage 2-3? times in a row, the creature must succeed on a Con save equal to 10 + WIS modifier or take half of their max HP as damage, and if it reduces them to 0 HP they are killed outright. 
+
+- - - 
+
+please assess and determine if any one part is too over - powered or overloaded with features, I'm okay if its slightly more powerful than the 2024 or  2014 ranger, as long as it is BELOW power levels of like the twilight cleric or the other outlier subclass/class combos
