@@ -28,6 +28,7 @@
 - Feral Senses
 
 ## Skills from LL Alternate Ranger
-
+### Level 20
+- Foe Slayer
 
 ## Skills from GH Monster Hunter
