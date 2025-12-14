@@ -1,7 +1,7 @@
 ---
 title: Build-A-Ranger
 created: 2025/12/13 at 19:00
-updated: 2025/12/14 at 16:55
+updated: 2025/12/14 at 18:04
 aliases:
   - Build-A-Ranger
 ---
@@ -156,6 +156,7 @@ attacks on quarries crit on 18-20, and ONLY on crits do damage dice explode. If 
 precise hunter changed to add half of PB rounded up to attack rolls on that which is marked
 
 - - - 
+
 Lvl 1: Monster Grimoire - add base benefit of advantage on Wisdom (Perception) checks made to notice those creatures as that used to be in the hunters mark spell but I dont want it added to hunters quarry mechanic
 
 Lvl 1: Hunter's Quarry - I would change it to only take a BA to move it to a creature once one dies IF it is this monster is in one of the groups from your grimoire. That way you don't use all of them in one combat in a goblin camp for example when you're supposed to be an expert goblin hunter, but for a diverse encounter it still must be used sparingly. 

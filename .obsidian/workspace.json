@@ -8,6 +8,57 @@
         "type": "tabs",
         "children": [
           {
+            "id": "7a45c6abedf43405",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Ideal Ranger",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ideal Ranger.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Ideal Ranger\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":153,\"ch\":109},\"to\":{\"line\":153,\"ch\":109}},\"scroll\":129.56078080885982}"
+                },
+                {
+                  "title": "Monster Classifications",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Monster Classifications.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Monster Classifications\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Ideal Ranger",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ideal Ranger.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Ideal Ranger\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":12},\"to\":{\"line\":26,\"ch\":12}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideal Ranger Write Up.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ideal Ranger Write Up"
+            }
+          },
+          {
             "id": "c52ca86d1c1d3ec8",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -158,54 +209,8 @@
               "icon": "lucide-file",
               "title": "Monster Classifications"
             }
-          },
-          {
-            "id": "7a45c6abedf43405",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Monster Classifications",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Monster Classifications.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Monster Classifications\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Ideal Ranger",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ideal Ranger.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Ideal Ranger\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":12},\"to\":{\"line\":26,\"ch\":12}},\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideal Ranger.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ideal Ranger"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -699,8 +704,9 @@
   },
   "active": "7a45c6abedf43405",
   "lastOpenFiles": [
-    "Monster Classifications.md",
     "Ideal Ranger.md",
+    "Ideal Ranger Write Up.md",
+    "Monster Classifications.md",
     "Quick  Thoughts.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "5e Tools Website To-Do & Ideas.md",
@@ -728,7 +734,6 @@
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/artificer.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/apothecary.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/amorist.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/accursed.md",
     "New folder",
     "3-Content/Compendiums/lists",
     "3-Content/Compendiums",
