@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Ideal Ranger",
+      "path": "Ideal Ranger.md"
+    },
+    {
       "basename": "Monster Classifications",
       "path": "Monster Classifications.md"
+    },
+    {
+      "basename": "Quick  Thoughts",
+      "path": "Quick  Thoughts.md"
     },
     {
       "basename": "Classes",
@@ -35,10 +43,6 @@
     {
       "basename": "cursor_retrieve_permalink_and_automate",
       "path": "Chat Logs/cursor_retrieve_permalink_and_automate.md"
-    },
-    {
-      "basename": "Quick  Thoughts",
-      "path": "Quick  Thoughts.md"
     },
     {
       "basename": "Campaign Settings",
@@ -195,10 +199,6 @@
     {
       "basename": "curse-of-animation",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md"
-    },
-    {
-      "basename": "ideas",
-      "path": "ideas.md"
     }
   ],
   "omittedPaths": [],
