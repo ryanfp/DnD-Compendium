@@ -1,3 +1,10 @@
+---
+title: Complete Harmonized Ranger/Monster Hunter Class - FINAL BALANCED VERSION
+created: 2025/12/14 at 18:04
+updated: 2025/12/14 at 20:05
+aliases:
+  - Complete Harmonized Ranger/Monster Hunter Class - FINAL BALANCED VERSION
+---
 
 # Complete Harmonized Ranger/Monster Hunter Class - FINAL BALANCED VERSION
 
@@ -12,22 +19,27 @@
 You have learned to channel the primal magic of nature through study and practice. 
 
 #### **Spell Slots**
-The Ranger Spellcasting table shows how many spell slots you have to cast your level 1+ spells.  You regain all expended spell slots when you finish a long rest. 
+
+The Ranger Spellcasting table shows how many spell slots you have to cast your level 1+ spells. You regain all expended spell slots when you finish a long rest. 
 
 #### **Prepared Spells**
-You prepare the list of Ranger spells that are available for you to cast. To start, choose two level 1 Ranger spells  (*cure wounds* and *entangle* are recommended). 
 
-The number of spells on your prepared list increases as you gain Ranger levels, as shown in the Prepared Spells column of the Ranger Spellcasting table.  Whenever that number increases, choose additional Ranger spells until the number of spells on your list matches the number in the table.  The chosen spells must be of a level for which you have spell slots.
+You prepare the list of Ranger spells that are available for you to cast. To start, choose two level 1 Ranger spells (*cure wounds* and *entangle* are recommended). 
+
+The number of spells on your prepared list increases as you gain Ranger levels, as shown in the Prepared Spells column of the Ranger Spellcasting table. Whenever that number increases, choose additional Ranger spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level for which you have spell slots.
 
 For example, if you're a 5th-level Ranger, your list of prepared spells can include six Ranger spells of level 1 or 2 in any combination. 
 
 #### **Changing Your Prepared Spells**
+
 Whenever you gain a Ranger level, you can replace one spell on your list with another Ranger spell for which you have spell slots. 
 
 #### **Spellcasting Ability**
+
 Wisdom is your spellcasting ability for your Ranger spells. 
 
 #### **Spellcasting Focus**
+
 You can use a Druidic Focus as a spellcasting focus for your Ranger spells. 
 
 ---
@@ -37,6 +49,7 @@ You can use a Druidic Focus as a spellcasting focus for your Ranger spells.
 You maintain a detailed record of the creatures you hunt, studying their weaknesses and behaviors.
 
 #### **Creature Groups**
+
 Choose one of the following creature groups: 
 
 1. **Cosmics:** Celestial, Fiend, Fey
@@ -46,6 +59,7 @@ Choose one of the following creature groups:
 5. **Undead**
 
 #### **Benefits**
+
 For each group in your Monster Grimoire, you gain the following benefits:
 
 - You have advantage on Wisdom (Survival) checks to track creatures in that group
@@ -54,6 +68,7 @@ For each group in your Monster Grimoire, you gain the following benefits:
 - You learn one language associated with creatures in that group (if applicable), chosen by your DM
 
 #### **Additional Groups**
+
 You add a second group to your Monster Grimoire at 6th level and a third group at 14th level.
 
 ---
@@ -62,7 +77,8 @@ You add a second group to your Monster Grimoire at 6th level and a third group a
 
 You can focus your tracking instincts on a specific target, marking it for destruction.
 
-#### **Marking a Creature**
+#### **Marking A Creature**
+
 You can mark a creature from one of your Monster Grimoire groups as your quarry: 
 
 - **On your turn:** Use a **bonus action** to mark a creature you can see within 90 feet
@@ -79,13 +95,16 @@ While marked, whenever you hit the creature with a weapon attack or Unarmed Stri
 | 11th-16th | +2d6 |
 | 17th-20th | +2d8 |
 
-#### **Transferring the Mark**
-If a creature marked by your Hunter's Quarry dies, you can use a **bonus action** to transfer the mark to another creature you can see within 90 feet that belongs to one of your Monster Grimoire groups.  This transfer doesn't expend another use of this feature.
+#### **Transferring The Mark**
+
+If a creature marked by your Hunter's Quarry dies, you can use a **bonus action** to transfer the mark to another creature you can see within 90 feet that belongs to one of your Monster Grimoire groups. This transfer doesn't expend another use of this feature.
 
 #### **Swift Quiver Limitation**
-When you make attacks granted by the *swift quiver* spell or similar effects that grant bonus action ranged attacks, those attacks do **not** deal your Hunter's Quarry damage.  Only attacks made as part of your Attack action or through Ranger class features deal Quarry damage.
+
+When you make attacks granted by the *swift quiver* spell or similar effects that grant bonus action ranged attacks, those attacks do **not** deal your Hunter's Quarry damage. Only attacks made as part of your Attack action or through Ranger class features deal Quarry damage.
 
 #### **Uses**
+
 You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest.
 
 ---
@@ -100,9 +119,9 @@ While a creature **from one of your Monster Grimoire groups** is marked by your 
 
 ### **LEVEL 2: WEAPON MASTERY**
 
-Your training with weapons allows you to use the Mastery property of three kinds of Simple or Martial weapons of your choice.  Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices. 
+Your training with weapons allows you to use the Mastery property of three kinds of Simple or Martial weapons of your choice. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices. 
 
-When you reach certain Ranger levels, you gain the ability to use the Mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Ranger Features table:  two more at 7th level and one more at 13th level.
+When you reach certain Ranger levels, you gain the ability to use the Mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Ranger Features table: two more at 7th level and one more at 13th level.
 
 ---
 
@@ -112,10 +131,11 @@ Your experience hunting dangerous creatures has honed your reflexes to intercept
 
 When a creature **from one of your Monster Grimoire groups that is marked by your Hunter's Quarry** that you can see within 60 feet of you makes an attack, you can use your **reaction** to do one of the following:
 
-- **If it targets you:** Make one weapon attack or Unarmed Strike against that creature.  You make this attack before the triggering attack is resolved.
+- **If it targets you:** Make one weapon attack or Unarmed Strike against that creature. You make this attack before the triggering attack is resolved.
 - **If it targets another creature:** Impose a -2 penalty on the creature's attack roll. 
 
 #### **Regaining Your Reaction**
+
 - If you chose to make an attack and **you miss**, you regain the use of your reaction.
 - If you imposed a penalty and **the attack still hits** your ally, you regain the use of your reaction. 
 
@@ -125,7 +145,7 @@ You can use this feature **once per round** (even if you have multiple reactions
 
 ### **LEVEL 3: RANGER SUBCLASS**
 
-You choose a subclass that reflects your specialized techniques.  Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.
+You choose a subclass that reflects your specialized techniques. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.
 
 **Available Subclasses:**
 - Fey Wanderer
@@ -144,7 +164,7 @@ You can attack twice instead of once whenever you take the Attack action on your
 
 ### **LEVEL 6: ROVING**
 
-Your walking speed increases by 5 feet.  If you aren't wearing Heavy Armor, your walking speed instead increases by 10 feet. 
+Your walking speed increases by 5 feet. If you aren't wearing Heavy Armor, your walking speed instead increases by 10 feet. 
 
 You also gain a Climbing Speed and a Swimming Speed equal to your walking speed. 
 
@@ -179,9 +199,11 @@ This represents your ability to dance through the battlefield, weaving between e
 Primal forces now help fuel you on your journeys, granting you the following benefits:
 
 #### **Temporary Hit Points**
+
 As a Bonus Action, you can give yourself a number of Temporary Hit Points equal to 1d8 plus your Wisdom modifier (minimum of 1). You can use this Bonus Action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
 
 #### **Decrease Exhaustion**
+
 Whenever you finish a Short Rest, your Exhaustion level, if any, decreases by 1.
 
 ---
@@ -212,14 +234,15 @@ These additional reactions can **only be used for Ranger class features or subcl
 
 ### **LEVEL 13: NATURE'S VEIL**
 
-You invoke spirits of nature to magically hide yourself.  As a Bonus Action, you can give yourself the Invisible condition until the end of your next turn. 
+You invoke spirits of nature to magically hide yourself. As a Bonus Action, you can give yourself the Invisible condition until the end of your next turn. 
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest. 
 
-Additionally, you cannot be tracked by nonmagical means unless you choose to leave a trail.  Magical attempts to track you (such as through the *scrying* or *locate creature* spells) have Disadvantage on any check or save required. 
+Additionally, you cannot be tracked by nonmagical means unless you choose to leave a trail. Magical attempts to track you (such as through the *scrying* or *locate creature* spells) have Disadvantage on any check or save required. 
 
 #### **Hunter's Dash**
-While you have a creature from one of your Monster Grimoire groups marked by your Hunter's Quarry, you can take the Dash action as a bonus action on each of your turns.  This represents your singular focus and relentless pursuit of your marked prey.
+
+While you have a creature from one of your Monster Grimoire groups marked by your Hunter's Quarry, you can take the Dash action as a bonus action on each of your turns. This represents your singular focus and relentless pursuit of your marked prey.
 
 ---
 
@@ -236,17 +259,20 @@ You now have specialization against three of the five creature groups, represent
 Your deep knowledge of monstrous behavior allows you to detect and resist the supernatural influence of powerful creatures.
 
 #### **Detect Lairs**
-You can spend 1 minute concentrating (as if concentrating on a spell) to detect the direction to any creatures from your Monster Grimoire groups within 5 miles.  You learn the approximate number of such creatures and the highest Challenge Rating among them. 
+
+You can spend 1 minute concentrating (as if concentrating on a spell) to detect the direction to any creatures from your Monster Grimoire groups within 5 miles. You learn the approximate number of such creatures and the highest Challenge Rating among them. 
 
 Once you use this ability, you can't use it again until you finish a Long Rest.
 
 #### **Lair Resistance**
+
 You have Advantage on saving throws against lair actions and regional effects caused by any creature. 
 
 Additionally, you have Advantage on saving throws against Legendary Actions of creatures in your Monster Grimoire. 
 
 #### **Legendary Defense**
-When a creature uses a Legendary Action to make an attack against you, you can use your **reaction** to add your Wisdom modifier to your AC against that attack.  You make this choice after seeing the attack roll but before knowing whether it hits.
+
+When a creature uses a Legendary Action to make an attack against you, you can use your **reaction** to add your Wisdom modifier to your AC against that attack. You make this choice after seeing the attack roll but before knowing whether it hits.
 
 ---
 
@@ -264,7 +290,7 @@ Your attacks against marked prey become devastatingly accurate.
 
 You can add your **Wisdom modifier** to attack rolls against any creature marked by your Hunter's Quarry. 
 
-This stacks with your 19-20 critical hit range from Improved Grimoire, making you extremely likely to land critical hits against your chosen prey.  Remember that critical hits occur only on **natural rolls** of 19 or 20 on the d20.
+This stacks with your 19-20 critical hit range from Improved Grimoire, making you extremely likely to land critical hits against your chosen prey. Remember that critical hits occur only on **natural rolls** of 19 or 20 on the d20.
 
 ---
 
@@ -280,9 +306,10 @@ If you can see or hear a creature, you don't have Disadvantage on attack rolls a
 
 ### **LEVEL 20: APEX PREDATOR**
 
-You have become the ultimate hunter, capable of tracking and eliminating even the mightiest creatures.  When you reach this level, choose **one** of the following capstone options:
+You have become the ultimate hunter, capable of tracking and eliminating even the mightiest creatures. When you reach this level, choose **one** of the following capstone options:
 
 #### **Option 1: Relentless Hunter**
+
 Your Hunter's Quarry feature no longer has a use limit. You can mark creatures at will. 
 
 Additionally, creatures marked by your Hunter's Quarry are now critically hit on a **natural roll** of 18, 19, or 20 on the d20.
@@ -292,6 +319,7 @@ Additionally, creatures marked by your Hunter's Quarry are now critically hit on
 **Execution:** When you score a critical hit with exploding Quarry dice against a creature **that is below half its hit point maximum**, and you roll maximum damage on your **third (final) exploding die roll**, that creature must make a Constitution saving throw (DC = 10 + your Wisdom modifier).
 
 On a failed save, the creature takes additional damage equal to **the lower of the following:**
+
 - Half its current hit points
 - 100 damage
 
@@ -300,6 +328,7 @@ If this damage reduces the creature to 0 hit points, it dies instantly (death sa
 ---
 
 #### **Option 2: Dual Predator**
+
 You can maintain Hunter's Quarry on **two creatures simultaneously** instead of one. Both creatures must be from **different** Monster Grimoire groups (you cannot mark two creatures from the same group).
 
 You can use your bonus action or reaction to mark a second creature, and you can transfer either mark when a marked creature dies.
@@ -314,15 +343,16 @@ You gain the bonus to attack rolls from Precise Hunter (your Wisdom modifier) ag
 
 For example, if you deal 50 damage (including Quarry damage) to Creature A, Creature A takes 25 damage and Creature B also takes 25 damage.
 
-The creature that was **not** directly attacked (Creature B in the example above) can make a **Wisdom saving throw** (DC = 10 + your Wisdom modifier) to halve the damage it takes from Shared Fate.  On a success, it takes only half of its share (12 damage in the example above, instead of 25).
+The creature that was **not** directly attacked (Creature B in the example above) can make a **Wisdom saving throw** (DC = 10 + your Wisdom modifier) to halve the damage it takes from Shared Fate. On a success, it takes only half of its share (12 damage in the example above, instead of 25).
 
 **Execution:** When you score a critical hit with exploding Quarry dice against a creature **that is below half its hit point maximum**, and you roll maximum damage on your **third (final) exploding die roll**, that creature must make a Constitution saving throw (DC = 10 + your Wisdom modifier).
 
 On a failed save, the creature takes additional damage equal to **the lower of the following:**
+
 - Half its current hit points
 - 100 damage
 
-If this damage reduces the creature to 0 hit points, it dies instantly.  **If Shared Fate splits this Execution damage to the other marked creature, it can also make the Constitution save separately.**
+If this damage reduces the creature to 0 hit points, it dies instantly. **If Shared Fate splits this Execution damage to the other marked creature, it can also make the Constitution save separately.**
 
 ---
 
@@ -372,7 +402,7 @@ If this damage reduces the creature to 0 hit points, it dies instantly.  **If Sh
 **Math Example (Level 5):**
 - Proficiency bonus: +3 (can mark 3 creatures per long rest)
 - Average encounters per long rest: 6-8
-- Studied Response is useful in:  ~40% of encounters (only when fighting marked creatures)
+- Studied Response is useful in: ~40% of encounters (only when fighting marked creatures)
 
 **DPR Impact:**
 - **Before:** Studied Response added ~3-4 DPR in most fights
@@ -422,7 +452,7 @@ If this damage reduces the creature to 0 hit points, it dies instantly.  **If Sh
 - 4 attacks with +1d10 Hunter's Mark on all attacks
 - **DPR: ~29**
 
-**New power difference:  +31%** (down from +95%)
+**New power difference: +31%** (down from +95%)
 
 **Verdict:** ✅✅ **HUGE nerf, brings Tier 4 into acceptable range.**
 
@@ -494,7 +524,7 @@ If this damage reduces the creature to 0 hit points, it dies instantly.  **If Sh
 **Impact on Balance:**
 
 **At 17th level:**
-- Expected Wisdom:  18-20 (+4 to +5 bonus)
+- Expected Wisdom: 18-20 (+4 to +5 bonus)
 - **Before:** +2 to hit
 - **After:** +4 to +5 to hit
 
@@ -505,13 +535,14 @@ If this damage reduces the creature to 0 hit points, it dies instantly.  **If Sh
 **Is this too strong?**
 
 Let's compare to other 17th-level features:
+
 - **Paladin (Aura of Protection):** +5 to ALL saves for party within 10 feet
 - **Fighter (Action Surge 2/rest):** Can attack **8 times** in one turn twice per rest
 - **Rogue (none):** No new feature at 17th
 
 **Verdict:** ⚠️ **STRONG, but acceptable for 17th level.** This is your "nova" tier power spike, comparable to Paladin's expanded aura range.
 
-**HOWEVER:** This might push you over the target power level in Tier 4.  Let's check final DPR below. 
+**HOWEVER:** This might push you over the target power level in Tier 4. Let's check final DPR below. 
 
 ---
 
@@ -535,7 +566,7 @@ Let's compare to other 17th-level features:
 
 #### **9. Dual Predator - Shared Fate Mechanic**
 
-**Change:** Damage is split between both marked creatures.  The creature not directly attacked can make a Wisdom save to halve its share.
+**Change:** Damage is split between both marked creatures. The creature not directly attacked can make a Wisdom save to halve its share.
 
 **Impact on Balance:**
 
@@ -582,7 +613,7 @@ Let's compare to other 17th-level features:
 **Verdict:** ⚠️ **POTENTIALLY OVERPOWERED** if both enemies fail saves consistently.
 
 **Suggested nerf (if playtesting confirms it's too strong):**
-- Change Shared Fate to:  "The creature not attacked takes **half** the damage you dealt (after reductions), and can make a Wisdom save to reduce it to one-quarter."
+- Change Shared Fate to: "The creature not attacked takes **half** the damage you dealt (after reductions), and can make a Wisdom save to reduce it to one-quarter."
   - Example: 50 damage to Dragon A → Dragon B takes 25, or 12 on successful save
   - Expected damage to Dragon B: 25 × 60% = **15**, or 12 × 60% = **7 on save**
   - **Total DPR: 50 + 7 = 57** (much more reasonable)
@@ -627,7 +658,7 @@ Let's compare to other 17th-level features:
 
 ---
 
-#### **TIER 3 (LEVEL 13, with Guardian of Nature)**
+#### **TIER 3 (LEVEL 13, With Guardian of Nature)**
 
 **Your Ranger:**
 - 2 attacks (1d8+5) with advantage × 84% hit = 16
@@ -671,7 +702,7 @@ Let's compare to other 17th-level features:
 #### **TIER 4 (LEVEL 20 - RELENTLESS HUNTER, WITH SWIFT QUIVER)**
 
 **Your Ranger:**
-- 2 Attack action attacks:  deal Quarry damage
+- 2 Attack action attacks: deal Quarry damage
   - (1d8+5) × 90% hit = 18
   - +2d8 Quarry × 90% hit = 16
   - Subtotal: 34 DPR
@@ -679,7 +710,7 @@ Let's compare to other 17th-level features:
   - (1d8+5) × 90% hit = 18
   - Subtotal: 18 DPR
 - Crits (27% chance, exploding dice): +8 DPR
-- **Total:  ~60 DPR sustained**
+- **Total: ~60 DPR sustained**
 
 **2024 Ranger (with Swift Quiver):**
 - 4 attacks (1d8+5) × 65% hit = 26
@@ -691,7 +722,7 @@ Let's compare to other 17th-level features:
 
 **Execution burst potential:**
 - Proc chance: ~1% per combat (extremely rare)
-- When it procs:  +50-100 damage
+- When it procs: +50-100 damage
 - **Does not significantly impact average DPR**
 
 **Verdict:** ✅ **Balanced at 20th level with Swift Quiver nerf applied.**
@@ -703,24 +734,24 @@ Let's compare to other 17th-level features:
 **Your Ranger (current version with full Shared Fate):**
 - 2 Attack action attacks: 34 DPR to Creature A (as above)
 - Shared Fate: 34 × 0.6 (accounting for saves) = 20.4 DPR to Creature B
-- 2 Swift Quiver attacks:  18 DPR to Creature A
+- 2 Swift Quiver attacks: 18 DPR to Creature A
 - **Total to Creature A: 52 DPR**
 - **Total to Creature B: 20.4 DPR**
 - **Combined: 72.4 DPR**
 
-**Verdict:** ❌ **TOO HIGH.  Dual Predator is stronger than Relentless Hunter, which breaks the intended choice.**
+**Verdict:** ❌ **TOO HIGH. Dual Predator is stronger than Relentless Hunter, which breaks the intended choice.**
 
 **RECOMMENDED NERF:**
 Implement the suggested "half damage Shared Fate" modification:
-- Shared Fate:  Creature B takes **half** the damage you dealt to Creature A (after resistances/vulnerabilities)
+- Shared Fate: Creature B takes **half** the damage you dealt to Creature A (after resistances/vulnerabilities)
 - Creature B can make Wisdom save to reduce to **one-quarter**
 
 **With nerf:**
-- Creature A:  52 DPR
+- Creature A: 52 DPR
 - Creature B: 34 × 0.5 × 0.6 (accounting for saves) = 10.2 DPR
 - **Total: 62.2 DPR**
 
-**Difference from 2024 Ranger:  +46%** ✅ (acceptable, and situational since it requires 2 different Grimoire groups)
+**Difference from 2024 Ranger: +46%** ✅ (acceptable, and situational since it requires 2 different Grimoire groups)
 
 ---
 
@@ -747,7 +778,7 @@ Implement the suggested "half damage Shared Fate" modification:
 | **Utility** | Tracking, stealth, anti-tracking, 5th-level spells | 9th-level spells, flight, channel divinity | **Twilight** |
 | **Survivability** | Evasion, Escape the Horde, Legendary Defense, medium armor | Heavy armor, Shield spell, high HP | **Tie** |
 
-**Overall:** Twilight Cleric is **significantly more powerful** due to party-wide buffs.  Your Ranger is a strong solo damage dealer but doesn't break the game.
+**Overall:** Twilight Cleric is **significantly more powerful** due to party-wide buffs. Your Ranger is a strong solo damage dealer but doesn't break the game.
 
 ---
 
@@ -757,7 +788,7 @@ Implement the suggested "half damage Shared Fate" modification:
 - 2 attacks + 1 Dread Ambusher attack (first round): 3 attacks
 - Advantage in darkness (common via *pass without trace* + dim light)
 - +1d8 extra damage on first hit
-- With Swift Quiver:  5 attacks on round 1, 4 attacks thereafter
+- With Swift Quiver: 5 attacks on round 1, 4 attacks thereafter
 - Hunter's Mark on all attacks
 - **Round 1 DPR: ~55**
 - **Sustained DPR: ~45**
@@ -782,7 +813,7 @@ Implement the suggested "half damage Shared Fate" modification:
 - Unlimited opportunity attacks via echo
 - Action Surge for 8 attacks twice per rest
 - **Sustained DPR: ~52**
-- **Burst DPR:  ~104** (Action Surge rounds)
+- **Burst DPR: ~104** (Action Surge rounds)
 
 **Your Ranger:**
 - **Sustained DPR: ~60**
@@ -794,7 +825,7 @@ Implement the suggested "half damage Shared Fate" modification:
 - Echo Knight has better battlefield control (echo positioning)
 - You have better tracking/utility
 
-**Verdict:** ✅ **Roughly equal power.** Different strengths (you:  sustained damage, them: burst and control).
+**Verdict:** ✅ **Roughly equal power.** Different strengths (you: sustained damage, them: burst and control).
 
 ---
 
@@ -803,14 +834,14 @@ Implement the suggested "half damage Shared Fate" modification:
 **Level 20 Vengeance Paladin DPR:**
 - 2 attacks per round
 - Vow of Enmity for advantage (1/rest)
-- Smites on crits:  6d8 radiant damage per crit
-- Improved Divine Smite:  +1d8 radiant on all hits
+- Smites on crits: 6d8 radiant damage per crit
+- Improved Divine Smite: +1d8 radiant on all hits
 - With Haste: 3 attacks per round
 - **Sustained DPR: ~40**
 - **Burst DPR (with smites): ~80-100**
 
 **Your Ranger:**
-- **Sustained DPR:  ~60**
+- **Sustained DPR: ~60**
 - **Burst DPR: ~150** (if Execution procs)
 
 **Comparison:**
@@ -826,6 +857,7 @@ Implement the suggested "half damage Shared Fate" modification:
 ## **SUBCLASS SYNERGY ANALYSIS**
 
 ### **REMOVED SUBCLASSES:**
+
 - ~~Hunter~~ (features integrated into base class)
 - ~~Beast Master~~ (would trivialize encounters with companion + Dual Predator)
 
@@ -848,7 +880,7 @@ Implement the suggested "half damage Shared Fate" modification:
 - **Shadowy Dodge + Extra Reaction:** Two defensive reactions per round in darkness
 
 **Expected DPR at 20th:**
-- Base:  60 DPR
+- Base: 60 DPR
 - +Dread Ambusher round 1: +10 DPR
 - +Stalker's Flurry average: +5 DPR (when you miss)
 - **Total: ~70-75 DPR**
@@ -879,7 +911,7 @@ Implement the suggested "half damage Shared Fate" modification:
 
 **Expected DPR at 20th:**
 - Base: 60 DPR
-- +Dreadful Strikes:  +2. 5 DPR
+- +Dreadful Strikes: +2. 5 DPR
 - **Total: ~62. 5 DPR**
 
 **Verdict:** ✅ **Perfectly balanced.** Adds utility and a bit of damage, but doesn't break the game.
@@ -945,7 +977,7 @@ Implement the suggested "half damage Shared Fate" modification:
 **PROBLEM:** Monster Slayer's features **massively overlap** with your base class: 
 - **Hunter's Sense vs. Hunter's Lore:** Both reveal resistances/immunities
 - **Slayer's Prey vs. Hunter's Quarry:** Both add bonus damage to one creature
-- **Supernatural Defense vs.  Lair Sense:** Both help against powerful creatures
+- **Supernatural Defense vs. Lair Sense:** Both help against powerful creatures
 - **Slayer's Counter + Studied Response + Extra Reaction:** Potentially 3+ reactions per round
 
 **Expected DPR at 20th:**
@@ -988,7 +1020,7 @@ Implement the suggested "half damage Shared Fate" modification:
 - Drake can benefit from your Hunter's Dash (if you're riding it at 15th level)
 - 80ft fly speed + Dual Predator = extreme mobility and damage spread
 
-**Verdict:** ⚠️ **ALLOW WITH CAUTION.** Not game-breaking, but watch for Dual Predator + Drake's Breath combinations.  Consider ruling that Shared Fate damage doesn't apply to area damage (only to your weapon attacks).
+**Verdict:** ⚠️ **ALLOW WITH CAUTION.** Not game-breaking, but watch for Dual Predator + Drake's Breath combinations. Consider ruling that Shared Fate damage doesn't apply to area damage (only to your weapon attacks).
 
 ---
 
@@ -996,9 +1028,9 @@ Implement the suggested "half damage Shared Fate" modification:
 
 ---
 
-#### **KibblesTasty's Warlord (if reflavored as Ranger subclass)** ❌ **DO NOT ALLOW**
+#### **KibblesTasty's Warlord (if Reflavored as Ranger subclass)** ❌ **DO NOT ALLOW**
 
-**Why:** Warlord grants party-wide attack bonuses and extra attacks for allies.  Combined with your Dual Predator Shared Fate, this could create a feedback loop where allies trigger extra damage to both your marked targets.
+**Why:** Warlord grants party-wide attack bonuses and extra attacks for allies. Combined with your Dual Predator Shared Fate, this could create a feedback loop where allies trigger extra damage to both your marked targets.
 
 ---
 
@@ -1013,7 +1045,8 @@ Implement the suggested "half damage Shared Fate" modification:
 
 #### **Mage Hand Press Subclasses** ✅ **GENERALLY FINE**
 
-Mage Hand Press Rangers tend to be on the stronger side, but most are balanced around standard Ranger power level.  Your base class is stronger, so: 
+Mage Hand Press Rangers tend to be on the stronger side, but most are balanced around standard Ranger power level. Your base class is stronger, so: 
+
 - **Spellbreaker:** ✅ Balanced (anti-magic focus, doesn't spike DPR too much)
 - **Trapper:** ✅ Balanced (battlefield control, doesn't stack with your damage)
 
@@ -1022,15 +1055,18 @@ Mage Hand Press Rangers tend to be on the stronger side, but most are balanced a
 ## **FINAL SUBCLASS RECOMMENDATIONS**
 
 ### ✅ **ALLOW (Well-Balanced):**
+
 - Fey Wanderer
 - Horizon Walker
 - Swarmkeeper
 
 ### ⚠️ **ALLOW WITH CAUTION (Watch in Playtesting):**
+
 - Gloom Stalker (very strong, but not broken)
 - Drakewarden (strong in multi-target, consider ruling that Shared Fate doesn't apply to drake's area damage)
 
 ### ❌ **RECOMMEND BANNING (Overlap or Power Issues):**
+
 - Hunter (features integrated into base class)
 - Beast Master (companion + Dual Predator is too much)
 - Monster Slayer (100% thematic overlap with base class)
@@ -1067,6 +1103,7 @@ Mage Hand Press Rangers tend to be on the stronger side, but most are balanced a
 ✅ **This class achieves the goal of being 20-30% stronger than 2024 Ranger in Tiers 1-2**
 
 ⚠️ **Tiers 3-4 are 40-46% stronger, which is above target but acceptable** because:
+
 1. 2024 Ranger is widely considered weak in high tiers
 2. You're still below "broken" classes like Twilight Cleric
 3. Most of the power comes from spells (which any Ranger can access)
@@ -1122,11 +1159,13 @@ Lets finalize these changes first and then ill worry about a class document
 ## **CLARIFICATION 1: SHARED FATE DAMAGE SPLIT**
 
 ### **Your Original Intent:**
+
 - You attack Creature A and would deal 50 damage
 - Instead, you deal **25 to Creature A** and **25 to Creature B** (split evenly)
 - No save, damage is just split
 
 ### **My Suggested Alternative:**
+
 - You attack Creature A and deal **50 damage** to it
 - Creature B takes **25 damage** (half of what you dealt to A)
 - Creature B can make Wisdom save to reduce it to **12 damage** (quarter)
@@ -1145,7 +1184,7 @@ Lets finalize these changes first and then ill worry about a class document
 
 **DPR Analysis:**
 - You're effectively dealing **50 DPR to each creature**
-- **Total:  100 DPR** across both targets
+- **Total: 100 DPR** across both targets
 - Each creature dies in ~4 rounds (assuming 200 HP each)
 
 **Comparison:**
@@ -1165,7 +1204,7 @@ Lets finalize these changes first and then ill worry about a class document
 - **Total per round: 100 damage to A, 50 damage to B** (or 100 to A, 24 to B if both saves succeed)
 
 **DPR Analysis (assuming 60% save success rate):**
-- Creature A:  100 DPR
+- Creature A: 100 DPR
 - Creature B: 50 × 0.4 = 20 DPR (on average, accounting for saves)
 - **Total: 120 DPR** across both targets
 
@@ -1178,7 +1217,7 @@ Lets finalize these changes first and then ill worry about a class document
 
 ---
 
-#### **Option C:  Modified Split (Half to Each, With Save on Secondary)**
+#### **Option C: Modified Split (Half to Each, With Save on Secondary)**
 
 **Mechanic:**
 - You attack Creature A and would deal 50 damage
@@ -1189,23 +1228,23 @@ Lets finalize these changes first and then ill worry about a class document
 **Example Combat:**
 - Attack 1: 50 calculated → 25 to A, 25 to B (or 12 if B saves)
 - Attack 2: 50 calculated → 25 to A, 25 to B (or 12 if B saves)
-- **Total per round:  50 to A, 50 to B** (or 50 to A, 24 to B if both saves)
+- **Total per round: 50 to A, 50 to B** (or 50 to A, 24 to B if both saves)
 
 **DPR Analysis (60% save success):**
 - Creature A: 50 DPR
 - Creature B: 50 × 0.6 = 30 DPR
-- **Total:  80 DPR** across both targets
+- **Total: 80 DPR** across both targets
 
 **Comparison:**
 - **Level 20 Fighter:** 60 DPR total
 - **Your Dual Predator:** 80 DPR total
 - **Difference: +33% more total damage output**
 
-**Verdict:** ✅ **BALANCED** - You're dealing more total damage, but it's spread across 2 targets, and one of them gets a save.  This is comparable to area damage spells.
+**Verdict:** ✅ **BALANCED** - You're dealing more total damage, but it's spread across 2 targets, and one of them gets a save. This is comparable to area damage spells.
 
 ---
 
-### **RECOMMENDATION:  Option C (Modified Split with Save)**
+### **RECOMMENDATION: Option C (Modified Split with Save)**
 
 **Final Mechanic:**
 When you deal damage to one of your marked creatures with Dual Predator active: 
@@ -1215,7 +1254,7 @@ When you deal damage to one of your marked creatures with Dual Predator active:
 4. The creature you **did not** attack can make a **Wisdom saving throw** (DC = 10 + your Wisdom modifier) to take **half damage**
 
 **Example with numbers:**
-- You roll attack:  1d8 (longsword) + 5 (Dex) + 5 (Precise Hunter) + 2d8 (Quarry) = 28 damage total
+- You roll attack: 1d8 (longsword) + 5 (Dex) + 5 (Precise Hunter) + 2d8 (Quarry) = 28 damage total
 - Creature A (the one you attacked): Takes 14 damage (no save)
 - Creature B (marked but not attacked): Makes Wis save
   - **Fail:** Takes 14 damage
@@ -1231,7 +1270,7 @@ When you deal damage to one of your marked creatures with Dual Predator active:
 
 ## **CLARIFICATION 2: DIFFERENT GRIMOIRE GROUP REQUIREMENT**
 
-### **Do we still need this restriction?**
+### **Do We Still Need This restriction?**
 
 **With Original Split (no save):**
 - If you could mark 2 creatures from the **same** group (e.g., 2 Ancient Red Dragons), you'd be dealing 100 DPR total with no restrictions
@@ -1241,7 +1280,7 @@ When you deal damage to one of your marked creatures with Dual Predator active:
 - Marking 2 creatures from same group: 80 DPR total (with saves)
 - This is still strong, but not broken
 
-**My Recommendation:  KEEP THE RESTRICTION**
+**My Recommendation: KEEP THE RESTRICTION**
 
 **Why:**
 1. **Thematic:** You're supposed to be versatile, not hyper-specialized in one creature type
@@ -1256,6 +1295,7 @@ When you deal damage to one of your marked creatures with Dual Predator active:
 ## **CLARIFICATION 3: DUAL PREDATOR USES**
 
 ### **Your Intent:**
+
 - Marking 2 creatures uses **one** charge of Hunter's Quarry (not two)
 - You still have proficiency bonus uses per long rest (6 at 20th level with Relentless Hunter)
 - At 20th level with Dual Predator, you can mark 2 creatures once, and those marks remain until both creatures die or the hour expires
@@ -1272,7 +1312,7 @@ When you deal damage to one of your marked creatures with Dual Predator active:
 - If both Creatures A and B die, the effect ends and you must expend another use to mark 2 new creatures
 
 **Uses per Long Rest:**
-- At 20th level with Dual Predator:  Still proficiency bonus uses (6 uses)
+- At 20th level with Dual Predator: Still proficiency bonus uses (6 uses)
 - Each use lets you mark **up to 2 creatures** (from different groups)
 - If you only want to mark 1 creature, you can do that (doesn't "waste" the dual capacity)
 
@@ -1298,7 +1338,7 @@ When you deal damage to one of your marked creatures with Dual Predator active:
 
 "You can maintain Hunter's Quarry on **two creatures simultaneously**, provided they are from **different** Monster Grimoire groups. 
 
-When you use your Hunter's Quarry feature, you can choose to mark up to two creatures (from different Grimoire groups) within range.   This counts as a single use of the feature. 
+When you use your Hunter's Quarry feature, you can choose to mark up to two creatures (from different Grimoire groups) within range. This counts as a single use of the feature. 
 
 You can use your bonus action or reaction to transfer either mark when a marked creature dies, without expending another use (as long as you transfer to a creature from a different Grimoire group than your other marked creature).
 
@@ -1309,6 +1349,7 @@ If both marked creatures die, the effect ends and you must expend another use of
 ## **CLARIFICATION 4: PRECISE HUNTER BONUS**
 
 ### **Your Suggestion:**
+
 Change from **+Wisdom modifier** to **+half proficiency bonus (rounded down)**
 
 **Math:**
@@ -1338,7 +1379,7 @@ Change from **+Wisdom modifier** to **+half proficiency bonus (rounded down)**
 
 ---
 
-### **Does this nerf bring you closer to the 20-30% target?**
+### **Does This Nerf Bring You Closer to the 20-30% target?**
 
 **Current Tier 4 DPR with +5 to hit:**
 - Your Ranger: 60 DPR
@@ -1365,6 +1406,7 @@ At 17th level, this grants a **+3 bonus** to attack rolls against your marked pr
 ## **FINAL BALANCE ASSESSMENT WITH ALL CHANGES**
 
 ### **Dual Predator - Final Mechanics:**
+
 1. Mark 2 creatures from different Grimoire groups (1 use of Quarry)
 2. When you hit one, deal **half** your damage to it and **half** to the other
 3. Creature not attacked makes Wisdom save to halve again
@@ -1372,6 +1414,7 @@ At 17th level, this grants a **+3 bonus** to attack rolls against your marked pr
 5. Can transfer marks as normal
 
 ### **Precise Hunter:**
+
 - **+3 to hit** (half proficiency bonus) instead of +5 to hit (Wisdom mod)
 
 ---
@@ -1379,6 +1422,7 @@ At 17th level, this grants a **+3 bonus** to attack rolls against your marked pr
 ### **REVISED TIER 4 DPR (Level 20, with Swift Quiver)**
 
 #### **Relentless Hunter:**
+
 - 2 Attack action attacks with +3 to hit (85% hit chance):
   - Weapon: (1d8+5) × 85% = 16
   - Quarry: 2d8 × 85% = 14
@@ -1395,12 +1439,13 @@ At 17th level, this grants a **+3 bonus** to attack rolls against your marked pr
 ---
 
 #### **Dual Predator (with Modified Split + Save):**
+
 - 2 Attack action attacks: 
   - Creature A: 30 DPR (same as above, but split in half = 15)
   - Creature B: 30 × 0.5 × 0.6 (accounting for saves) = 9
   - Subtotal: 24 DPR per attack cycle
 - 2 Swift Quiver attacks:
-  - 16 DPR (split:  8 to each creature, saves apply)
+  - 16 DPR (split: 8 to each creature, saves apply)
   - After saves: 8 to A, 4. 8 to B
 - Crits (27% chance, exploding): +6 DPR (split between creatures)
 - **Total to Creature A: ~32 DPR**
@@ -1443,7 +1488,7 @@ At 17th level, this grants a **+3 bonus** to attack rolls against your marked pr
 
 3. **Precise Hunter:**
    - Changed from **+Wisdom modifier** to **+half proficiency bonus (rounded down)**
-   - At 17th-20th level:  **+3 to attack rolls** against Quarry
+   - At 17th-20th level: **+3 to attack rolls** against Quarry
 
 4. **Level 9 Feature:**
    - **Escape the Horde** (opportunity attacks against you have disadvantage)
@@ -1470,7 +1515,7 @@ At 17th level, this grants a **+3 bonus** to attack rolls against your marked pr
     - Can use bonus action to Dash while creature in Grimoire is marked by Quarry
 
 11. **Lair Sense Legendary Defense (Level 14):**
-    - Use reaction to add Wisdom mod to AC vs.  Legendary Action attacks
+    - Use reaction to add Wisdom mod to AC vs. Legendary Action attacks
     - Advantage on saves vs. Legendary Actions of Grimoire creatures
 
 12. **Land's Stride (Level 8):**
@@ -1482,42 +1527,54 @@ At 17th level, this grants a **+3 bonus** to attack rolls against your marked pr
 ## **FINAL VERDICT**
 
 ### **Power Level:**
+
 ✅ **Tier 1:** +14% (slightly below target, acceptable)
+
 ✅✅ **Tier 2:** +25% (PERFECT)
+
 ⚠️ **Tier 3:** +40% (above target, but acceptable for Tier 3 spike)
+
 ✅ **Tier 4 (Relentless):** +34% (slightly above target, acceptable for capstone)
+
 ✅✅ **Tier 4 (Dual):** +22% (PERFECT)
 
 ### **Overall:**
-The class is now **within or close to the 20-30% stronger target** across all tiers, with Tier 3 being the only outlier at +40%.   This is **acceptable** because:
-1.  Tier 3 (levels 11-16) is traditionally a power spike tier for all classes
+
+The class is now **within or close to the 20-30% stronger target** across all tiers, with Tier 3 being the only outlier at +40%. This is **acceptable** because:
+
+1. Tier 3 (levels 11-16) is traditionally a power spike tier for all classes
 2. You're still **below** broken outliers like Twilight Cleric
 3. The power comes from a combination of class features that work together, not one broken mechanic
 
 ### **Subclass Compatibility:**
+
 ✅ No allowed subclasses create broken combinations
+
 ✅ Monster Slayer and Drakewarden removed (overlap and balance concerns)
+
 ✅ Gloom Stalker remains the strongest combo, but is still balanced overall
 
 ### **Flavor & Identity:**
+
 ✅ Strong "monster hunter" theme with Grimoire, Quarry, and Hunter's Lore
+
 ✅ Distinct from Rogue (no full Cunning Action, but has Escape the Horde + Evasion)
+
 ✅ Distinct from Fighter (fewer attacks, but higher per-attack damage)
+
 ✅ Distinct from Paladin (no heavy armor/Smites, but better tracking/mobility)
 
 ---
 
 ## **READY FOR CLASS DOCUMENT? **
 
-All mechanics are finalized and balanced.   The class is: 
+All mechanics are finalized and balanced. The class is: 
+
 - **20-30% stronger than 2024 Ranger** (mostly achieved, Tier 3 is +40%)
 - **Below power ceiling** (Twilight Cleric, Peace Cleric, Hexadin)
 - **Thematically cohesive** (monster hunter, tracker, wilderness specialist)
 - **Compatible with most subclasses** (with noted exceptions removed)
 
 Would you like me to create a **final, print-ready class document** with all features, tables, and wording finalized? 
-
-
-
 
 this is not at all what i had created in the original json I provided. Let me be more clear: use the EXACT abilities and everything from the json I provided. do not use it as inspiration. we were initially using the ranger and monster hunter as inspiration to create a better version of the ranger class, and the last message in the json I provided is the culmination of that. Using the last output message from you from the json as the base for the class. Nothing else don't change anything. Then, using my first prompt in THIS chat, that starts with "First, move Hunter's Lore to…" and the other sources i've listed since (if needed), create the 3 documents I requested.

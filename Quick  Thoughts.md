@@ -1,7 +1,7 @@
 ---
 title: Quick Thoughts
 created: 2025/08/11 at 23:01
-updated: 2025/08/11 at 23:23
+updated: 2025/12/14 at 20:09
 aliases:
   - Quick Thoughts
 tags:
@@ -36,3 +36,9 @@ tags:
 	- [pCloud](https://www.pcloud.com/cloud-storage-pricing-plans.html?period=lifetime) $400 for 2TB *lifetime* or $100 yearly
 	- [iDrive](https://www.idrive.com/pricing) $150 for 2 years of 5TB, then $200 per 2 years = $100 per year
 	- [sync](https://www.sync.com/cloudwards/?_m=cws&sv1=affiliate) $58 (at least on the sale it is rn) yearly for 2TB
+
+1. **Eternals:** Celestials, Fiends
+2. **Nightmares:** Aberrations, Monstrosities
+3. **Primordials:** Dragons, Giants, Elementals
+4. **Naturals:** Beasts, Plants
+5. **Unnaturals:** Undead, Constructs, Oozes
