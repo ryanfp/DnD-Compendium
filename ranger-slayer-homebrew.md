@@ -44,6 +44,28 @@ You start with the following equipment, in addition to the equipment granted by 
 
 Alternatively, you can purchase your starting equipment with 125 gp.
 
+## Multiclassing
+
+If your group uses the optional multiclassing rules, here's what you need to know if you choose Ranger as one of your classes. 
+
+### Ability Score Minimum
+
+To qualify for a new class, you must have scores of at least 13 in the primary abilities of both your current class and your new class, as shown in the Multiclassing Prerequisites table.
+
+| Class | Ability Score Minimum |
+
+|: ------|:----------------------|
+
+| Ranger | Dexterity 13 and Wisdom 13 |
+
+### Proficiencies Gained
+
+If Ranger isn't your initial class, here are the proficiencies you gain when you take your first level as a Ranger:
+
+**Armor:** Light armor, medium armor, shields  
+**Weapons:** Simple weapons, martial weapons  
+**Skills:** Choose one from the Ranger's skill list 
+
 ---
 
 ## The Ranger
@@ -348,7 +370,7 @@ Magical attempts to track you (such as through the *scrying* or *locate creature
 
 ### Hide in Plain Sight
 
-Implementing all the knowledge and insight from your time spent in the wild, you can cast the *tiny hut* spell at will. Your tiny hut will generate camouflaged, seemingly constructed out of materials from the surrounding environment. Magical attempts to track the hut or its inhabitants (such as through the *scrying* or *locate creature* spells) have disadvantage. 
+Implementing all the knowledge and insight from your time spent in the wild, you can cast the *tiny hut* spell at will. Your tiny hut will generate camouflaged, seemingly constructed out of materials from the surrounding environment. The hut and its inhabitants gain the benefits of your **Untrackable** feature.
 
 ---
 
@@ -370,7 +392,7 @@ Your deep knowledge of monstrous behavior allows you to detect and resist the su
 
 ### Detect Lairs
 
-You can spend 1 minute concentrating (as if concentrating on a spell) to detect the direction to any creatures from your Monster Grimoire groups within 5 miles of you. You learn the approximate number of such creatures and the highest challenge rating among them.
+You can spend 1 minute concentrating (as if concentrating on a spell) to detect the cardinal or intercardinal directions to any creatures from your Monster Grimoire groups within 5 miles of you. You learn the approximate number of such creatures (+- 20%) and the highest challenge rating among them.
 
 Once you use this ability, you can't use it again until you finish a long rest.
 
@@ -449,7 +471,9 @@ And, you can choose **one** of the following features:
 
 ### Relentless Predator
 
-Your Hunter's Quarry feature no longer has a use limit. You can mark creatures at will as a reaction or bonus action. Your quarry has disadvantage on Dexterity (Stealth) checks to hide from you. 
+Your Hunter's Quarry feature no longer has a use limit and lasts until dispelled. You can mark creatures at will as a reaction or bonus action. Your quarry has disadvantage on Dexterity (Stealth) checks to hide from you.
+
+You can spend one hour to know the exact location of your quarry (if it is on the same plane as you) and you can provide a member of your party with the details to impose Disadvantage on its *scrying*  spell saving throw.
 
 ### Persistent Predator
 
@@ -462,30 +486,6 @@ You can use your bonus action or reaction to mark a second creature, and you can
 For example, if you deal 50 damage (including Quarry damage) to Creature A, Creature A takes 25 damage and Creature B also takes 25 damage.
 
 The creature that was **not** directly attacked (Creature B in the example above) can make a **Wisdom saving throw** (DC = 10 + your Wisdom modifier) or half of the damage the creature would receive, whichever is higher, to take **half damage** from Shared Fate on a success. 
-
----
-
-## Multiclassing
-
-If your group uses the optional multiclassing rules, here's what you need to know if you choose Ranger as one of your classes. 
-
-### Ability Score Minimum
-
-To qualify for a new class, you must have scores of at least 13 in the primary abilities of both your current class and your new class, as shown in the Multiclassing Prerequisites table.
-
-| Class | Ability Score Minimum |
-
-|: ------|:----------------------|
-
-| Ranger | Dexterity 13 and Wisdom 13 |
-
-### Proficiencies Gained
-
-If Ranger isn't your initial class, here are the proficiencies you gain when you take your first level as a Ranger:
-
-**Armor:** Light armor, medium armor, shields  
-**Weapons:** Simple weapons, martial weapons  
-**Skills:** Choose one from the Ranger's skill list
 
 ---
 
