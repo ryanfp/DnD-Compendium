@@ -1,7 +1,7 @@
 ---
 title: Ranger/Slayer (Homebrew Ranger Class)
 created: 2025/12/14 at 20:05
-updated: 2025/12/14 at 21:47
+updated: 2025/12/14 at 23:49
 aliases:
   - Ranger
   - Ranger/Slayer (Homebrew Ranger Class)
@@ -53,9 +53,7 @@ If your group uses the optional multiclassing rules, here's what you need to kno
 To qualify for a new class, you must have scores of at least 13 in the primary abilities of both your current class and your new class, as shown in the Multiclassing Prerequisites table.
 
 | Class | Ability Score Minimum |
-
-|: ------|:----------------------|
-
+|------|----------------------|
 | Ranger | Dexterity 13 and Wisdom 13 |
 
 ### Proficiencies Gained
@@ -64,14 +62,14 @@ If Ranger isn't your initial class, here are the proficiencies you gain when you
 
 **Armor:** Light armor, medium armor, shields  
 **Weapons:** Simple weapons, martial weapons  
-**Skills:** Choose one from the Ranger's skill list  
+**Skills:** Choose one from the Ranger's skill list
 
 ---
 
 ## The Ranger
 
 | Level | Proficiency Bonus | Features | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | Quarry Damage |
-|: -----:|:-----------------:|:---------|:---------------:|:---:|:---:|:---:|: ---:|:---:|:-------------:|
+|-----|-----------------|---------|---------------|---:|---|---| ---|---|-------------|
 | 1st | +2 | Spellcasting, Monster Grimoire, Hunter's Quarry | 2 | 2 | — | — | — | — | 1d6 |
 | 2nd | +2 | Weapon Mastery, Studied Response | 3 | 2 | — | — | — | — | 1d6 |
 | 3rd | +2 | Ranger Subclass | 4 | 3 | — | — | — | — | 1d6 |
@@ -127,7 +125,11 @@ If another Ranger feature gives you spells that you always have prepared, those 
 
 *1st-level Ranger feature*
 
-You maintain a detailed record of creatures you have studied and hunted, learning their weaknesses, behaviors, and habitats. This knowledge is organized into five broad classifications: 
+You create or inherit a repository of knowledge known as a Monster Grimoire. Each Ranger carries a grimoire, a manual on dangerous creatures. A Ranger's grimoire is an object entirely unique to them. It may be a leather tome recovered from a dusty library with notes made in the margins, a set of blood-stained scrolls inherited from a previous hunter, or a precious stone with a communing spirit held within.
+
+If a Ranger ever loses a grimoire, they have retained enough knowledge to not suffer immediate drawbacks. However, they can't add to the grimoire until it is restored and therefore can't take another Ranger level until a lost grimoire has been replaced. A grimoire can be recreated by spending 8 hours and 50 GP worth of materials such as books, scrolls, and ink.
+
+In your grimoire, you maintain a detailed record of creatures you have studied and hunted, learning their weaknesses, behaviors, and habitats. The creatures (and the collections of knowledge surrounding them) are organized into five broad classification groups: 
 
 1. **Eternals:** Celestials, Fiends
 2. **Nightmares:** Aberrations, Monstrosities
@@ -135,7 +137,32 @@ You maintain a detailed record of creatures you have studied and hunted, learnin
 4. **Naturals:** Beasts, Plants
 5. **Unnaturals:** Undead, Constructs, Oozes
 
-At 1st level, choose one of these groups to add to your Monster Grimoire. You add a second group at 6th level and a third group at 14th level.
+### Grimoire Benefits
+
+For each creature group in your Monster Grimoire, you gain the following benefits:
+
+You add your [Proficiency Bonus](https://5e.tools/variantrules.html#proficiency_xphb) to Intelligence and Wisdom checks you make that relate to the creature types in your grimoire. For example, if Undead are in your grimoire, you add your [Proficiency Bonus](https://5e.tools/variantrules.html#proficiency_xphb) to an Intelligence (History) check to recall lore about an Undead creature you're investigating or a Wisdom (Medicine) check to identify claw marks left on a corpse by an Undead creature. If you are already proficient in a skill when asked to make an Intelligence or Wisdom ability check relating to the monster types in your grimoire, you add double your [Proficiency Bonus](https://5e.tools/variantrules.html#proficiency_xphb) instead.
+
+When you gain this feature, you also learn one language based on the chart below. (You can add languages to this chart based on your own campaign world.)
+
+Monster Type Language
+|Monster Type|Languages|
+|---|---|
+|Aberration|Deep Speech or Undercommon|
+|Beast|Sylvan|
+|Celestial|Celestial|
+|Construct|Draconic|
+|Dragon|Draconic|
+|Elemental|Primordial|
+|Fey|Sylvan|
+|Fiend|Abyssal or Infernal|
+|Giant|Giant|
+|Monstrosity|Deep Speech|
+|Ooze|Deep Speech or Undercommon|
+|Plant|Sylvan|
+|Undead|Abyssal or Infernal|
+
+
 
 ### Grimoire Benefits
 
@@ -330,7 +357,7 @@ Whenever you finish a short rest, your exhaustion level, if any, decreases by 1.
 
 *11th-level Ranger feature*
 
-The extra damage from your Hunter's Quarry feature increases to 2d6 (see the Quarry Damage column of the Ranger table).
+The extra damage from your Hunter's Quarry feature increases to 2d6 (see the Quarry Damage column of the Ranger table) and the duration increases to 8 hours. 
 
 At 17th level, it increases again to 2d8.
 
@@ -410,7 +437,7 @@ When a creature uses a Legendary Action to make an attack against you, you can u
 
 *17th-level Ranger feature*
 
-The extra damage from your Hunter's Quarry feature increases to 2d8 (see the Quarry Damage column of the Ranger table).
+The extra damage from your Hunter's Quarry feature increases to 2d8 (see the Quarry Damage column of the Ranger table) and the duration increases to 24 hours.
 
 ---
 
@@ -473,7 +500,7 @@ And, you can choose **one** of the following features:
 
 Your Hunter's Quarry feature no longer has a use limit and lasts until dispelled. You can mark creatures at will as a reaction or bonus action. Your quarry has disadvantage on Dexterity (Stealth) checks to hide from you.
 
-You can spend one hour to know the exact location of your quarry (if it is on the same plane as you) and you can provide a member of your party with the details to impose Disadvantage on its *scrying*  spell saving throw.
+You can spend one hour to know the exact location of your quarry (if it is on the same plane as you) and you can provide a member of your party with the details to impose Disadvantage on its *scrying* spell saving throw.
 
 ### Persistent Predator
 
