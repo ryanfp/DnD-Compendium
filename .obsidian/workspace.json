@@ -77,6 +77,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Monster Classifications",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Monster Classifications.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Monster Classifications\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.185763352520139}"
+                },
+                {
                   "title": "Quick  Thoughts",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Quick  Thoughts.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Quick  Thoughts\"}",
@@ -141,7 +147,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monster Classifications.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -156,7 +162,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Monster Classifications"
+              "title": "Untitled"
             }
           },
           {
@@ -170,10 +176,16 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":50,\"ch\":0},\"to\":{\"line\":95,\"ch\":0}},\"scroll\":42.64707090796494}"
+                },
+                {
                   "title": "Ideal Ranger Write Up",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ideal Ranger Write Up.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Ideal Ranger Write Up\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":230,\"ch\":326},\"to\":{\"line\":228,\"ch\":0}},\"scroll\":198.7207026187649}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":230,\"ch\":326},\"to\":{\"line\":228,\"ch\":0}},\"scroll\":316.09710681660806}"
                 },
                 {
                   "title": "Untitled",
@@ -258,7 +270,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Ideal Ranger Write Up.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -273,11 +285,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Ideal Ranger Write Up"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -769,12 +781,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "7a45c6abedf43405",
+  "active": "b205233caf1d065c",
   "lastOpenFiles": [
+    "Monster Classifications.md",
     "Ideal Ranger Write Up.md",
     "Untitled.md",
     "Quick  Thoughts.md",
-    "Monster Classifications.md",
     "Ideal Ranger.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "5e Tools Website To-Do & Ideas.md",

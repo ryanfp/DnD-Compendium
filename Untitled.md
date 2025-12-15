@@ -1,7 +1,7 @@
 ---
 title: Ranger/Slayer (Homebrew Ranger Class)
 created: 2025/12/14 at 20:05
-updated: 2025/12/14 at 20:38
+updated: 2025/12/14 at 21:38
 aliases:
   - Ranger
   - Ranger/Slayer (Homebrew Ranger Class)
@@ -48,12 +48,10 @@ Alternatively, you can purchase your starting equipment with 125 gp.
 
 ## The Ranger
 
+
 | Level | Proficiency Bonus | Features | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | Quarry Damage |
-
 |: -----:|:-----------------:|:---------|:---------------:|:---:|:---:|:---:|: ---:|:---:|:-------------:|
-
 | 1st | +2 | Spellcasting, Monster Grimoire, Hunter's Quarry | 2 | 2 | — | — | — | — | 1d6 |
-
 | 2nd | +2 | Weapon Mastery, Studied Response | 3 | 2 | — | — | — | — | 1d6 |
 
 | 3rd | +2 | Ranger Subclass | 4 | 3 | — | — | — | — | 1d6 |
@@ -100,37 +98,27 @@ Alternatively, you can purchase your starting equipment with 125 gp.
 
 *1st-level Ranger feature*
 
-You have learned to channel primal magic through your connection to the wilderness. 
+You have learned to channel the magical essence of nature to cast spells. See [chapter 7](https://5e.tools/book.html#xphb,7) for the rules on spellcasting. The information below details how you use those rules with Ranger spells, which appear in the [Ranger spell list](https://5e.tools/spells.html#blankhash,flstclass:ranger=1) later in the class's description.
 
-### Spell Slots
+***Spell Slots.*** The Ranger Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).
 
-The Ranger table shows how many spell slots you have to cast your level 1+ spells. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest. 
+***Prepared Spells of Level 1+.*** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two [level 1 Ranger spells](https://5e.tools/spells.html#blankhash,flstclass:ranger=1,flstlevel:1=1). [Cure Wounds](https://5e.tools/spells.html#cure%20wounds_xphb) and [Ensnaring Strike](https://5e.tools/spells.html#ensnaring%20strike_xphb) are recommended.
 
-### Prepared Spells
+The number of spells on your list increases as you gain Ranger levels, as shown in the Prepared Spells column of the Ranger Features table. Whenever that number increases, choose additional Ranger spells until the number of spells on your list matches the number in the Ranger Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Ranger, your list of prepared spells can include six Ranger spells of level 1 or 2 in any combination.
 
-You prepare the list of Ranger spells that are available for you to cast, choosing from the Ranger spell list. When you do so, choose a number of Ranger spells equal to your Ranger level divided by 2 (rounded down, minimum 1) + your Wisdom modifier (minimum of one spell). The spells must be of a level for which you have spell slots. 
+If another Ranger feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Ranger spells for you.
 
-For example, if you are a 5th-level Ranger, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell *cure wounds*, you can cast it using a 1st-level or 2nd-level slot. 
+***Changing Your Prepared Spells.*** Whenever you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb), you can replace one spell on your list with another Ranger spell for which you have spell slots.
 
-### Changing Your Prepared Spells
-
-You can change your list of prepared spells when you finish a long rest. Preparing a new list of Ranger spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list. 
-
-### Spellcasting Ability
-
-Wisdom is your spellcasting ability for your Ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a Ranger spell you cast and when making an attack roll with one.
+***Spellcasting Ability.*** Wisdom is your spellcasting ability for your Ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a Ranger spell you cast and when making an attack roll with one.
 
 **Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
 
 **Spell attack modifier** = your proficiency bonus + your Wisdom modifier
 
-### Spellcasting Focus
+***Spellcasting Focus.*** You can use a [Druidic Focus](https://5e.tools/items.html#druidic%20focus_xphb) as a [Spellcasting Focus](https://5e.tools/variantrules.html#spellcasting%20focus_xphb) for your Ranger spells.
 
-You can use a druidic focus as a spellcasting focus for your Ranger spells.
-
-### Ritual Casting
-
-You can cast a Ranger spell as a ritual if that spell has the ritual tag and you have the spell prepared. 
+***Ritual Casting.*** You can cast a Ranger spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 
 ---
 
@@ -138,7 +126,7 @@ You can cast a Ranger spell as a ritual if that spell has the ritual tag and you
 
 *1st-level Ranger feature*
 
-You maintain a detailed record of creatures you have studied, learning their weaknesses, behaviors, and habitats. This knowledge is organized into five broad classifications: 
+You maintain a detailed record of creatures you have studied and hunted, learning their weaknesses, behaviors, and habitats. This knowledge is organized into five broad classifications: 
 
 1. **Eternals:** Celestials, Fiends
 2. **Nightmares:** Aberrations, Monstrosities
@@ -225,6 +213,13 @@ When a creature **from one of your Monster Grimoire groups** that you can see wi
 
 You can use this feature **once per round**, even if you have multiple reactions available.
 
+### **Regaining Your Reaction**
+
+- If you chose to make an attack and **you miss**, you regain the use of your reaction.
+- If you imposed a penalty and **the attack still hits** your ally, you regain the use of your reaction. 
+
+You can use this feature **once per round** (even if you have multiple reactions available).
+
 ---
 
 ## Ranger Subclass
@@ -288,19 +283,11 @@ If the creature is hidden from divination magic (such as by a *nondetection* spe
 
 *8th-level Ranger feature*
 
-Moving through nonmagical difficult terrain costs you no extra movement. 
+Moving through nonmagical Difficult Terrain costs you no extra movement. 
 
 You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
-In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such as those created by the *entangle* spell.
-
----
-
-### Escape the Horde
-
-Opportunity attacks against you have Disadvantage.
-
-This represents your ability to dance through the battlefield, weaving between enemies with the grace of a predator evading its prey's desperate strikes.
+In addition, you have Advantage on saving throws against plants that are magically created or manipulated to impede movement, such as those created by the *entangle* spell.
 
 ---
 
@@ -309,6 +296,16 @@ This represents your ability to dance through the battlefield, weaving between e
 *9th-level Ranger feature*
 
 Choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
+
+---
+
+## Escape the Horde
+
+*9th-level Ranger feature*
+
+Opportunity attacks against you have Disadvantage.
+
+This represents your ability to dance through the battlefield, weaving between enemies with the grace of a predator evading its prey's desperate strikes.
 
 ---
 
@@ -366,7 +363,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 ### Hide in Plain Sight
 
-Implementing all the knowledge and insight from your time spent in the wild, you can cast the *tiny hut* spell at will, once per long rest. 
+Implementing all the knowledge and insight from your time spent in the wild, you can cast the *tiny hut* spell at will. Your tiny hut will generate camouflaged, seemingly constructed out of materials from the surrounding environment. Magical attempts to track the hut or its inhabitants (such as through the *scrying* or *locate creature* spells) have disadvantage. 
 
 ### Untrackable
 
@@ -398,9 +395,13 @@ You can spend 1 minute concentrating (as if concentrating on a spell) to detect 
 
 Once you use this ability, you can't use it again until you finish a long rest.
 
-### Lair Resistance
+### **Lair Resistance**
 
-You have advantage on saving throws against lair actions and regional effects caused by any creature. 
+You have Advantage on saving throws against lair actions and regional effects caused by any creature. 
+
+### **Legendary Defense**
+
+When a creature uses a Legendary Action to make an attack against you, you can use your **reaction** to add your Wisdom modifier to your AC against that attack. You make this choice after seeing the attack roll but before knowing whether it hits.
 
 ---
 
@@ -452,9 +453,7 @@ You can do this up to **3 times per die** (so a d8 could potentially become 8 + 
 
 ### Execution
 
-When you roll **maximum damage on your third (final) exploding die roll** against a creature marked by your Hunter's Quarry **that is below half its hit point maximum**, that creature must make a Constitution saving throw. 
-
-**DC** = 10 + your Wisdom modifier
+When you score a critical hit with exploding Quarry dice against a creature **that is below half its hit point maximum**, and you roll maximum damage on your **third (final) exploding die roll**, that creature must make a Constitution saving throw (DC = 10 + your Wisdom modifier).
 
 On a failed save, the creature takes additional damage equal to **the lower of the following:**
 
@@ -462,6 +461,8 @@ On a failed save, the creature takes additional damage equal to **the lower of t
 - 100 damage
 
 If this damage reduces the creature to 0 hit points, it dies instantly. Death saving throws and features like Relentless Endurance don't prevent this death.
+
+**If Shared Fate splits this Execution damage to the other marked creature, it can also make the Constitution save separately.**
 
 And, you can choose **one** of the following features:
 
@@ -471,16 +472,15 @@ Your Hunter's Quarry feature no longer has a use limit. You can mark creatures a
 
 ### Persistent Predator
 
-You can now maintain your Hunter's Quarry on **two creatures simultaneously** instead of one. When you use your bonus action to mark a creature, you can choose to mark a second quarry as well without expending a use.
+You can maintain Hunter's Quarry on **two creatures simultaneously** instead of one. Both creatures must be from **different** Monster Grimoire groups (you cannot mark two creatures from the same group).
 
-When a creature marked by your Hunter's Quarry dies, you can transfer either mark to a new creature using your bonus action (or reaction if not on your turn) without expending another use. If both creatures marked by your Hunter’s Quarry die without transferring to another creature, you must spend a use of Hunter’s Quarry to mark another creature(s).
+You can use your bonus action or reaction to mark a second creature, and you can transfer either mark when a marked creature dies without expending another use. If both creatures marked by your Hunter’s Quarry die without transferring to another creature, you must spend a use of Hunter’s Quarry to mark another creature(s).
 
-When you deal damage to one of your marked creatures with Persistent Predator active: 
+**Shared Fate:** When you deal damage to one of your marked creatures, that damage is **split equally** between both marked creatures, regardless of which one you actually hit.
 
-1. Calculate total damage you would deal (weapon + Quarry + modifiers)
-2. Deal **half that damage** to the creature you attacked
-3. Deal **half that damage** to the other marked creature
-4. The creature you **did not** attack can make a **Wisdom saving throw** (DC = 10 + your Wisdom modifier) or half of the damage the creature would receive, whichever is higher, to take **half damage**
+For example, if you deal 50 damage (including Quarry damage) to Creature A, Creature A takes 25 damage and Creature B also takes 25 damage.
+
+The creature that was **not** directly attacked (Creature B in the example above) can make a **Wisdom saving throw** (DC = 10 + your Wisdom modifier) or half of the damage the creature would receive, whichever is higher, to take **half damage** from Shared Fate on a success. 
 
 ---
 
