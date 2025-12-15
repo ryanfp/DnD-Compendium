@@ -1,7 +1,7 @@
 ---
 title: Ranger 2024
 created: 2025/06/15 at 15:37
-updated: 2025/08/01 at 01:29
+updated: 2025/12/14 at 21:48
 permalink: ranger-2024
 source: "Player's Handbook (2024)"
 aliases:
@@ -10,7 +10,6 @@ aliases:
   - ranger-xphb
 tags:
   - class/ranger
-  - 
 cssclasses: json5e-class
 obsidianUIMode: preview
 ---

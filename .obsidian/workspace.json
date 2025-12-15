@@ -147,7 +147,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "ranger-slayer-homebrew.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -162,7 +162,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "ranger-slayer-homebrew"
             }
           },
           {
@@ -176,9 +176,15 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "Ideal Ranger Write Up",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ideal Ranger Write Up.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Ideal Ranger Write Up\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":349.4624864551919}"
+                },
+                {
+                  "title": "ranger-slayer-homebrew",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ranger-slayer-homebrew.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":50,\"ch\":0},\"to\":{\"line\":95,\"ch\":0}},\"scroll\":42.64707090796494}"
                 },
                 {
@@ -188,9 +194,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":230,\"ch\":326},\"to\":{\"line\":228,\"ch\":0}},\"scroll\":316.09710681660806}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "ranger-slayer-homebrew",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ranger-slayer-homebrew.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":348,\"ch\":102},\"to\":{\"line\":348,\"ch\":102}},\"scroll\":311.81699317936994}"
                 },
                 {
@@ -200,9 +206,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":107,\"ch\":133},\"to\":{\"line\":77,\"ch\":0}},\"scroll\":60.42959710235773}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "ranger-slayer-homebrew",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ranger-slayer-homebrew.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":289,\"ch\":20},\"to\":{\"line\":289,\"ch\":20}},\"scroll\":256.33839022066644}"
                 },
                 {
@@ -212,9 +218,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":188,\"ch\":0},\"to\":{\"line\":192,\"ch\":153}},\"scroll\":159.97463443821664}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "ranger-slayer-homebrew",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ranger-slayer-homebrew.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":466,\"ch\":68},\"to\":{\"line\":466,\"ch\":68}},\"scroll\":428.52528023734106}"
                 },
                 {
@@ -224,9 +230,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":1253,\"ch\":130},\"to\":{\"line\":1249,\"ch\":0}},\"scroll\":1218.2349078468203}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "ranger-slayer-homebrew",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ranger-slayer-homebrew.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":310,\"ch\":0},\"to\":{\"line\":310,\"ch\":0}},\"scroll\":248.10371301301683}"
                 },
                 {
@@ -236,9 +242,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":44},\"to\":{\"line\":44,\"ch\":44}},\"scroll\":0}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "ranger-slayer-homebrew",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ranger-slayer-homebrew.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":145,\"ch\":44},\"to\":{\"line\":141,\"ch\":0}},\"scroll\":114.69503001616117}"
                 },
                 {
@@ -270,8 +276,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideal Ranger Write Up.md",
-                "mode": "source",
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/ranger-2024.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -285,7 +291,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ideal Ranger Write Up"
+              "title": "ranger-2024"
             }
           }
         ],
@@ -783,9 +789,10 @@
   },
   "active": "b205233caf1d065c",
   "lastOpenFiles": [
-    "Monster Classifications.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/ranger-2024.md",
     "Ideal Ranger Write Up.md",
-    "Untitled.md",
+    "ranger-slayer-homebrew.md",
+    "Monster Classifications.md",
     "Quick  Thoughts.md",
     "Ideal Ranger.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
@@ -812,7 +819,6 @@
     "z_img/Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
     "z_img/Hourglass-Top-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/artificer.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/apothecary.md",
     "New folder",
     "3-Content/Compendiums/lists",
     "3-Content/Compendiums",

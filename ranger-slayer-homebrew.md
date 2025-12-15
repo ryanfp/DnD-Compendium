@@ -1,7 +1,7 @@
 ---
 title: Ranger/Slayer (Homebrew Ranger Class)
 created: 2025/12/14 at 20:05
-updated: 2025/12/14 at 21:38
+updated: 2025/12/14 at 21:47
 aliases:
   - Ranger
   - Ranger/Slayer (Homebrew Ranger Class)
@@ -29,7 +29,7 @@ As a Ranger, you gain the following class features.
 **Armor:** Light armor, medium armor, shields  
 **Weapons:** Simple weapons, martial weapons  
 **Tools:** None  
-**Saving Throws:** Strength, Dexterity  
+**Saving Throws:** Reflex
 **Skills:** Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, Survival
 
 ### Equipment
@@ -48,49 +48,28 @@ Alternatively, you can purchase your starting equipment with 125 gp.
 
 ## The Ranger
 
-
 | Level | Proficiency Bonus | Features | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | Quarry Damage |
 |: -----:|:-----------------:|:---------|:---------------:|:---:|:---:|:---:|: ---:|:---:|:-------------:|
 | 1st | +2 | Spellcasting, Monster Grimoire, Hunter's Quarry | 2 | 2 | — | — | — | — | 1d6 |
 | 2nd | +2 | Weapon Mastery, Studied Response | 3 | 2 | — | — | — | — | 1d6 |
-
 | 3rd | +2 | Ranger Subclass | 4 | 3 | — | — | — | — | 1d6 |
-
 | 4th | +2 | Ability Score Improvement | 4 | 3 | — | — | — | — | 1d6 |
-
 | 5th | +3 | Extra Attack | 6 | 4 | 2 | — | — | — | 1d8 |
-
 | 6th | +3 | Roving, Improved Grimoire | 6 | 4 | 2 | — | — | — | 1d8 |
-
 | 7th | +3 | Subclass Feature | 7 | 4 | 3 | — | — | — | 1d8 |
-
 | 8th | +3 | Land's Stride, Ability Score Improvement | 7 | 4 | 3 | — | — | — | 1d8 |
-
 | 9th | +4 | Deft Explorer, Expertise | 9 | 4 | 3 | 2 | — | — | 1d8 |
-
 | 10th | +4 | Tireless | 9 | 4 | 3 | 2 | — | — | 1d8 |
-
 | 11th | +4 | Improved Quarry, Extra Reaction, Subclass Feature | 10 | 4 | 3 | 3 | — | — | 2d6 |
-
 | 12th | +4 | Ability Score Improvement | 10 | 4 | 3 | 3 | — | — | 2d6 |
-
 | 13th | +5 | Nature's Veil | 11 | 4 | 3 | 3 | 1 | — | 2d6 |
-
 | 14th | +5 | Final Grimoire, Lair Sense | 11 | 4 | 3 | 3 | 1 | — | 2d6 |
-
 | 15th | +5 | Subclass Feature | 12 | 4 | 3 | 3 | 2 | — | 2d6 |
-
 | 16th | +5 | Ability Score Improvement | 12 | 4 | 3 | 3 | 2 | — | 2d6 |
-
 | 17th | +6 | Superior Quarry, Precise Hunter | 14 | 4 | 3 | 3 | 3 | 1 | 2d8 |
-
 | 18th | +6 | Feral Senses | 14 | 4 | 3 | 3 | 3 | 1 | 2d8 |
-
 | 19th | +6 | Ability Score Improvement | 15 | 4 | 3 | 3 | 3 | 2 | 2d8 |
-
-| 20th | +6 | Apex Predator | 15 | 4 | 3 | 3 | 3 | 2 | 2d8* |
-
-\**Unlimited uses*
+| 20th | +6 | Apex Predator | 15 | 4 | 3 | 3 | 3 | 2 | 2d8 |
 
 ---
 
@@ -112,9 +91,9 @@ If another Ranger feature gives you spells that you always have prepared, those 
 
 ***Spellcasting Ability.*** Wisdom is your spellcasting ability for your Ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a Ranger spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
+<center><b>Spell save DC</b> = 8 + your proficiency bonus + your Wisdom modifier</center>
 
-**Spell attack modifier** = your proficiency bonus + your Wisdom modifier
+<center><b>Spell attack modifier</b> = your proficiency bonus + your Wisdom modifier</center>
 
 ***Spellcasting Focus.*** You can use a [Druidic Focus](https://5e.tools/items.html#druidic%20focus_xphb) as a [Spellcasting Focus](https://5e.tools/variantrules.html#spellcasting%20focus_xphb) for your Ranger spells.
 
@@ -149,7 +128,7 @@ For each creature group in your Monster Grimoire, you gain the following benefit
 
 ## Hunter's Quarry
 
-*1st-level Ranger feature*
+*2nd-level Ranger feature*
 
 You can focus your hunting instincts on a specific creature, marking it for destruction. 
 
@@ -164,12 +143,12 @@ The mark lasts for 1 hour and doesn't require concentration.
 
 While marked, whenever you hit the creature with a weapon attack or Unarmed Strike, you deal extra damage to it according to the Hunter's Quarry Damage table below.
 
-| Ranger Level | Extra Damage |
-|--------------|--------------|
-| 1st-4th | +1d6 |
-| 5th-10th | +1d8 |
-| 11th-16th | +2d6 |
-| 17th-20th | +2d8 |
+| Ranger Level | Extra Damage | Duration |
+|--------------|--------------|--------------|
+| 1st-4th | +1d6 | 1 hour |
+| 5th-10th | +1d8 | 1 hour |
+| 11th-16th | +2d6 | 8 hours |
+| 17th-20th | +2d8 | 24 hours |
 
 ### **Transferring The Mark**
 
@@ -361,15 +340,15 @@ As a bonus action, you can give yourself the invisible condition until the end o
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest. 
 
-### Hide in Plain Sight
-
-Implementing all the knowledge and insight from your time spent in the wild, you can cast the *tiny hut* spell at will. Your tiny hut will generate camouflaged, seemingly constructed out of materials from the surrounding environment. Magical attempts to track the hut or its inhabitants (such as through the *scrying* or *locate creature* spells) have disadvantage. 
-
 ### Untrackable
 
 You cannot be tracked by nonmagical means unless you choose to leave a trail. 
 
 Magical attempts to track you (such as through the *scrying* or *locate creature* spells) are made with disadvantage on any check or saving throw required. 
+
+### Hide in Plain Sight
+
+Implementing all the knowledge and insight from your time spent in the wild, you can cast the *tiny hut* spell at will. Your tiny hut will generate camouflaged, seemingly constructed out of materials from the surrounding environment. Magical attempts to track the hut or its inhabitants (such as through the *scrying* or *locate creature* spells) have disadvantage. 
 
 ---
 
@@ -463,6 +442,8 @@ On a failed save, the creature takes additional damage equal to **the lower of t
 If this damage reduces the creature to 0 hit points, it dies instantly. Death saving throws and features like Relentless Endurance don't prevent this death.
 
 **If Shared Fate splits this Execution damage to the other marked creature, it can also make the Constitution save separately.**
+
+---
 
 And, you can choose **one** of the following features:
 
