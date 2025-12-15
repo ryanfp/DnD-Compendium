@@ -1516,3 +1516,8 @@ All mechanics are finalized and balanced.   The class is:
 - **Compatible with most subclasses** (with noted exceptions removed)
 
 Would you like me to create a **final, print-ready class document** with all features, tables, and wording finalized? 
+
+
+
+
+this is not at all what i had created in the original json I provided. Let me be more clear: use the EXACT abilities and everything from the json I provided. do not use it as inspiration. we were initially using the ranger and monster hunter as inspiration to create a better version of the ranger class, and the last message in the json I provided is the culmination of that. Using the last output message from you from the json as the base for the class. Nothing else don't change anything. Then, using my first prompt in THIS chat, that starts with "First, move Hunter's Lore to…" and the other sources i've listed since (if needed), create the 3 documents I requested.
