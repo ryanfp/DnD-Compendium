@@ -165,21 +165,40 @@ For each creature group in your Monster Grimoire, you gain the following benefit
 
 You can focus your hunting instincts on a specific creature, marking it for destruction. 
 
-### Marking a Creature
+### **Marking A Creature**
 
-When you see a creature that belongs to one of your Monster Grimoire groups, you can use your **bonus action** to mark it as your quarry. The mark lasts for 1 hour and doesn't require concentration. 
+You can mark a creature from one of your Monster Grimoire groups as your quarry: 
 
-While a creature is marked by your Hunter's Quarry, whenever you hit it with a weapon attack or an unarmed strike, you deal extra damage to the creature. The extra damage depends on your Ranger level, as shown in the Quarry Damage column of the Ranger table.
+- **On your turn:** Use a **bonus action** to mark a creature you can see within 90 feet
+- **On another creature's turn:** Use your **reaction** to mark a creature you can see within 90 feet
 
-### Transferring the Mark
+The mark lasts for 1 hour and doesn't require concentration. 
 
-If a creature marked by your Hunter's Quarry is reduced to 0 hit points or dies, you can use a **bonus action** on your turn, or a **reaction** when not, to transfer the mark to another creature you can see within 90 feet that belongs to one of your Monster Grimoire groups. This transfer doesn't expend another use of Hunter's Quarry.
+While marked, whenever you hit the creature with a weapon attack or Unarmed Strike, you deal extra damage to it according to the Hunter's Quarry Damage table below.
 
-### Uses
+| Ranger Level | Extra Damage |
+|--------------|--------------|
+| 1st-4th | +1d6 |
+| 5th-10th | +1d8 |
+| 11th-16th | +2d6 |
+| 17th-20th | +2d8 |
+
+### **Transferring The Mark**
+
+If a creature marked by your Hunter's Quarry is reduced to 0 hit points or dies, you can:
+
+- **On your turn:** Use a **bonus action** to transfer the mark to a creature you can see within 90 feet
+- **On another creature's turn:** Use your **reaction** to transfer the mark to a creature you can see within 90 feet 
+
+ This transfer doesn't expend another use of this feature.
+
+### **Swift Quiver Limitation**
+
+When you make attacks granted by the *swift quiver* spell or similar effects that grant bonus action ranged attacks, those attacks do **not** deal your Hunter's Quarry damage. Only attacks made as part of your Attack action or through Ranger class features deal Quarry damage.
+
+### **Uses**
 
 You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest.
-
-At 20th level, you can use this feature an unlimited number of times if you choose the “.
 
 ---
 
@@ -213,15 +232,6 @@ You can use this feature **once per round**, even if you have multiple reactions
 *3rd-level Ranger feature*
 
 You choose a subclass that reflects your specialized techniques and approaches to ranging. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.
-
-### Example Subclasses
-
-The following Ranger subclasses are available (at your DM's discretion):
-
-- **Beast Master:** Forms a mystical bond with a primal beast companion
-- **Fey Wanderer:** Draws on the whimsical and terrifying magic of the Feywild
-- **Gloom Stalker:** Hunts in darkness and shadow
-- **Hunter:** A versatile combatant who adapts to many threats
 
 ---
 
@@ -263,9 +273,8 @@ Additionally, you gain the following benefits when hunting creatures in your Gri
 
 ### Hunter's Lore
 
-When you mark a creature with your Hunter's Quarry feature, you instantly learn the following information about it:
+When you mark a creature with your Hunter's Quarry feature, you learn the following information about it:
 
-- Its creature type(s)
 - Its current hit points
 - Its Armor Class
 - Any damage resistances, immunities, or vulnerabilities it has
@@ -279,7 +288,7 @@ If the creature is hidden from divination magic (such as by a *nondetection* spe
 
 *8th-level Ranger feature*
 
-Moving through nonmagical difficult terrain costs you no extra movement if that difficult terrain is composed of plants. 
+Moving through nonmagical difficult terrain costs you no extra movement. 
 
 You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
@@ -337,9 +346,9 @@ Your weapon attacks and unarmed strikes against creatures in your Monster Grimoi
 
 *11th-level Ranger feature*
 
-You can take two reactions per round instead of one. However, you can take only one reaction per turn.
+You can take two reactions per round instead of one, but you can take only one reaction per turn.
 
-This allows you to use features like Studied Response alongside opportunity attacks or other defensive reactions, though you still can't take multiple reactions on the same turn.
+These additional reactions can **only be used for Ranger class features or subclass features** (such as Studied Response, defensive reactions granted by your subclass, or opportunity attacks if a Ranger feature specifically grants them). They cannot be used for non-Ranger features like spells, feats, or multiclass abilities.
 
 ---
 
@@ -354,6 +363,10 @@ You invoke spirits of nature to magically hide yourself and obscure your trail.
 As a bonus action, you can give yourself the invisible condition until the end of your next turn. 
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest. 
+
+### Hide in Plain Sight
+
+Implementing all the knowledge and insight from your time spent in the wild, you can cast the *tiny hut* spell at will, once per long rest. 
 
 ### Untrackable
 
