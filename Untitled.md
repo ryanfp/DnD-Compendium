@@ -1,10 +1,10 @@
 ---
 title: Ranger/Slayer (Homebrew Ranger Class)
 created: 2025/12/14 at 20:05
-updated: 2025/12/14 at 20:09
+updated: 2025/12/14 at 20:38
 aliases:
-  - Ranger/Slayer (Homebrew Ranger Class)
   - Ranger
+  - Ranger/Slayer (Homebrew Ranger Class)
 ---
 
 # Ranger/Slayer (Homebrew Ranger Class)
@@ -167,19 +167,19 @@ You can focus your hunting instincts on a specific creature, marking it for dest
 
 ### Marking a Creature
 
-When you see a creature that belongs to one of your Monster Grimoire groups, you can use your **reaction** to mark it as your quarry. The mark lasts for 1 hour and doesn't require concentration. 
+When you see a creature that belongs to one of your Monster Grimoire groups, you can use your **bonus action** to mark it as your quarry. The mark lasts for 1 hour and doesn't require concentration. 
 
 While a creature is marked by your Hunter's Quarry, whenever you hit it with a weapon attack or an unarmed strike, you deal extra damage to the creature. The extra damage depends on your Ranger level, as shown in the Quarry Damage column of the Ranger table.
 
 ### Transferring the Mark
 
-If a creature marked by your Hunter's Quarry is reduced to 0 hit points or dies, you can use a **bonus action** on your turn to transfer the mark to another creature you can see within 90 feet that belongs to one of your Monster Grimoire groups. This transfer doesn't expend another use of Hunter's Quarry.
+If a creature marked by your Hunter's Quarry is reduced to 0 hit points or dies, you can use a **bonus action** on your turn, or a **reaction** when not, to transfer the mark to another creature you can see within 90 feet that belongs to one of your Monster Grimoire groups. This transfer doesn't expend another use of Hunter's Quarry.
 
 ### Uses
 
 You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest.
 
-At 20th level, you can use this feature an unlimited number of times.
+At 20th level, you can use this feature an unlimited number of times if you choose the “.
 
 ---
 
@@ -273,10 +273,6 @@ When you mark a creature with your Hunter's Quarry feature, you instantly learn 
 
 If the creature is hidden from divination magic (such as by a *nondetection* spell or similar effect), you sense that it is protected from divination but learn nothing else. 
 
-### Critical Strikes
-
-Your weapon attacks and unarmed strikes against creatures in your Monster Grimoire score a critical hit on a roll of 19 or 20 on the d20.
-
 ---
 
 ## Land's Stride
@@ -291,13 +287,11 @@ In addition, you have advantage on saving throws against plants that are magical
 
 ---
 
-## Deft Explorer
+### Escape the Horde
 
-*9th-level Ranger feature*
+Opportunity attacks against you have Disadvantage.
 
-Your hunting experience has made you exceptionally mobile and evasive in combat.
-
-You can take a bonus action on each of your turns in combat to take the Dash, Disengage, or Hide action.
+This represents your ability to dance through the battlefield, weaving between enemies with the grace of a predator evading its prey's desperate strikes.
 
 ---
 
@@ -332,6 +326,10 @@ Whenever you finish a short rest, your exhaustion level, if any, decreases by 1.
 The extra damage from your Hunter's Quarry feature increases to 2d6 (see the Quarry Damage column of the Ranger table).
 
 At 17th level, it increases again to 2d8.
+
+### Improved Critical Strikes
+
+Your weapon attacks and unarmed strikes against creatures in your Monster Grimoire score a critical hit on a roll of 19 or 20 on the d20.
 
 ---
 
@@ -407,9 +405,7 @@ The extra damage from your Hunter's Quarry feature increases to 2d8 (see the Qua
 
 Your attacks against marked prey become devastatingly accurate.
 
-You gain a +2 bonus to attack rolls against any creature marked by your Hunter's Quarry feature.
-
-This bonus stacks with your 19–20 critical hit range from Improved Grimoire, making you extremely likely to land critical hits against your chosen quarry.
+You gain a +3 bonus to attack rolls against any creature marked by your Hunter's Quarry feature.
 
 ---
 
@@ -421,7 +417,7 @@ Your connection to nature and mastery of the hunt grant you preternatural awaren
 
 You gain blindsight with a range of 30 feet. 
 
-Additionally, if you can see or hear a creature, you don't have disadvantage on attack rolls against it if you can't see it.
+Additionally, if you can hear a creature, you don't have disadvantage on attack rolls against it if you can't see it.
 
 ---
 
@@ -429,17 +425,7 @@ Additionally, if you can see or hear a creature, you don't have disadvantage on 
 
 *20th-level Ranger feature*
 
-You have become the ultimate hunter, capable of tracking and eliminating even the mightiest creatures with supernatural precision.
-
-### Unlimited Quarry
-
-Your Hunter's Quarry feature no longer has a use limit. You can mark creatures at will. 
-
-### Dual Quarry
-
-You can now maintain your Hunter's Quarry on **two creatures simultaneously** instead of one. When you use your reaction to mark a creature, you can choose to mark it as a second quarry instead of replacing your first mark.
-
-When a creature marked by your Hunter's Quarry dies, you can transfer either mark to a new creature using your bonus action.
+You have become the ultimate hunter, capable of tracking and eliminating even the mightiest creatures with supernatural precision. You gain the following benefits:
 
 ### Enhanced Critical
 
@@ -447,7 +433,7 @@ Creatures marked by your Hunter's Quarry are now critically hit on a roll of 18,
 
 ### Exploding Quarry Dice
 
-When you roll damage for your Hunter's Quarry feature, if you roll the maximum number on any damage die, you can roll that die again and add it to the total damage.
+If you critically hit a creature marked by your Hunter’s Quarry feature, your damage dice explode. If you roll the maximum number on any damage die, you can roll that die again and add it to the total damage.
 
 You can do this up to **3 times per die** (so a d8 could potentially become 8 + 8 + 8 = 24).
 
@@ -463,6 +449,25 @@ On a failed save, the creature takes additional damage equal to **the lower of t
 - 100 damage
 
 If this damage reduces the creature to 0 hit points, it dies instantly. Death saving throws and features like Relentless Endurance don't prevent this death.
+
+And, you can choose **one** of the following features:
+
+### Relentless Predator
+
+Your Hunter's Quarry feature no longer has a use limit. You can mark creatures at will as a reaction or bonus action. Your quarry has disadvantage on Dexterity (Stealth) checks to hide from you. 
+
+### Persistent Predator
+
+You can now maintain your Hunter's Quarry on **two creatures simultaneously** instead of one. When you use your bonus action to mark a creature, you can choose to mark a second quarry as well without expending a use.
+
+When a creature marked by your Hunter's Quarry dies, you can transfer either mark to a new creature using your bonus action (or reaction if not on your turn) without expending another use. If both creatures marked by your Hunter’s Quarry die without transferring to another creature, you must spend a use of Hunter’s Quarry to mark another creature(s).
+
+When you deal damage to one of your marked creatures with Persistent Predator active: 
+
+1. Calculate total damage you would deal (weapon + Quarry + modifiers)
+2. Deal **half that damage** to the creature you attacked
+3. Deal **half that damage** to the other marked creature
+4. The creature you **did not** attack can make a **Wisdom saving throw** (DC = 10 + your Wisdom modifier) or half of the damage the creature would receive, whichever is higher, to take **half damage**
 
 ---
 

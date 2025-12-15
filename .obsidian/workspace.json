@@ -170,6 +170,30 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Ideal Ranger Write Up",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ideal Ranger Write Up.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Ideal Ranger Write Up\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":188,\"ch\":0},\"to\":{\"line\":192,\"ch\":153}},\"scroll\":159.97463443821664}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":466,\"ch\":68},\"to\":{\"line\":466,\"ch\":68}},\"scroll\":428.52528023734106}"
+                },
+                {
+                  "title": "Ideal Ranger Write Up",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ideal Ranger Write Up.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Ideal Ranger Write Up\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1253,\"ch\":130},\"to\":{\"line\":1249,\"ch\":0}},\"scroll\":1218.2349078468203}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":310,\"ch\":0},\"to\":{\"line\":310,\"ch\":0}},\"scroll\":248.10371301301683}"
+                },
+                {
                   "title": "Quick  Thoughts",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Quick  Thoughts.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Quick  Thoughts\"}",
@@ -723,10 +747,10 @@
   },
   "active": "7a45c6abedf43405",
   "lastOpenFiles": [
-    "Quick  Thoughts.md",
-    "Untitled.md",
-    "Monster Classifications.md",
     "Ideal Ranger Write Up.md",
+    "Untitled.md",
+    "Quick  Thoughts.md",
+    "Monster Classifications.md",
     "Ideal Ranger.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "5e Tools Website To-Do & Ideas.md",
