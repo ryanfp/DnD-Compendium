@@ -64,7 +64,7 @@ If Ranger isn't your initial class, here are the proficiencies you gain when you
 
 **Armor:** Light armor, medium armor, shields  
 **Weapons:** Simple weapons, martial weapons  
-**Skills:** Choose one from the Ranger's skill list 
+**Skills:** Choose one from the Ranger's skill list  
 
 ---
 
