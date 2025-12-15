@@ -141,37 +141,25 @@ In your grimoire, you maintain a detailed record of creatures you have studied a
 
 For each creature group in your Monster Grimoire, you gain the following benefits:
 
-You add your [Proficiency Bonus](https://5e.tools/variantrules.html#proficiency_xphb) to Intelligence and Wisdom checks you make that relate to the creature types in your grimoire. For example, if Undead are in your grimoire, you add your [Proficiency Bonus](https://5e.tools/variantrules.html#proficiency_xphb) to an Intelligence (History) check to recall lore about an Undead creature you're investigating or a Wisdom (Medicine) check to identify claw marks left on a corpse by an Undead creature. If you are already proficient in a skill when asked to make an Intelligence or Wisdom ability check relating to the monster types in your grimoire, you add double your [Proficiency Bonus](https://5e.tools/variantrules.html#proficiency_xphb) instead.
+- You add your [Proficiency Bonus](https://5e.tools/variantrules.html#proficiency_xphb) to Intelligence and Wisdom checks you make that relate to the creature types in your grimoire. For example, if Undead are in your grimoire, you add your [Proficiency Bonus](https://5e.tools/variantrules.html#proficiency_xphb) to an Intelligence (History) check to recall lore about an Undead creature you're investigating or a Wisdom (Medicine) check to identify claw marks left on a corpse by an Undead creature. If you are already proficient in a skill when asked to make an Intelligence or Wisdom ability check relating to the monster types in your grimoire, you add double your [Proficiency Bonus](https://5e.tools/variantrules.html#proficiency_xphb) instead.
 
-When you gain this feature, you also learn one language based on the chart below. (You can add languages to this chart based on your own campaign world.)
+- When you gain this feature, you also learn one language based on the chart below. (You can add languages to this chart based on your own campaign world.)
 
-Monster Type Language
-|Monster Type|Languages|
-|---|---|
-|Aberration|Deep Speech or Undercommon|
-|Beast|Sylvan|
-|Celestial|Celestial|
-|Construct|Draconic|
-|Dragon|Draconic|
-|Elemental|Primordial|
-|Fey|Sylvan|
-|Fiend|Abyssal or Infernal|
-|Giant|Giant|
-|Monstrosity|Deep Speech|
-|Ooze|Deep Speech or Undercommon|
-|Plant|Sylvan|
-|Undead|Abyssal or Infernal|
-
-
-
-### Grimoire Benefits
-
-For each creature group in your Monster Grimoire, you gain the following benefits:
-
-- You have advantage on Wisdom (Survival) checks to track creatures in that group. 
-- You have advantage on Intelligence checks to recall information about creatures in that group.
-- You have advantage on Wisdom (Perception) checks made to notice creatures in that group. 
-- You learn one language associated with creatures in that group (if applicable), as chosen by your DM.
+| Monster Type | Languages |
+| --- | --- |
+| Aberration | Deep Speech or Undercommon |
+| Beast | Sylvan |
+| Celestial | Celestial |
+| Construct | Draconic |
+| Dragon | Draconic |
+| Elemental | Primordial |
+| Fey | Sylvan |
+| Fiend | Abyssal or Infernal |
+| Giant | Giant |
+| Monstrosity | Deep Speech |
+| Ooze | Deep Speech or Undercommon |
+| Plant | Sylvan |
+| Undead | Abyssal or Infernal |
 
 ---
 
