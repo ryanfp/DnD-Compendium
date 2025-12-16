@@ -1,13 +1,12 @@
 ---
 title: Swarmkeeper
 created: 2025/06/15 at 15:37
-updated: 2025/08/01 at 01:29
+updated: 2025/12/15 at 00:52
 permalink: swarmkeeper-ranger
 source: "Tasha's Cauldron of Everything"
 aliases:
   - Swarmkeeper
 tags:
-  - 
   - subclass/ranger/swarmkeeper
 cssclasses: json5e-class
 obsidianUIMode: preview

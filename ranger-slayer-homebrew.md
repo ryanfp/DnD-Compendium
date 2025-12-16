@@ -150,15 +150,15 @@ For each creature group in your Monster Grimoire, you gain the following benefit
 | Aberration | Deep Speech or Undercommon |
 | Beast | Sylvan |
 | Celestial | Celestial |
-| Construct | Draconic |
+| Construct | Primordial |
 | Dragon | Draconic |
 | Elemental | Primordial |
 | Fey | Sylvan |
 | Fiend | Abyssal or Infernal |
-| Giant | Giant |
+| Giant | Giant or Goblin |
 | Monstrosity | Deep Speech |
 | Ooze | Deep Speech or Undercommon |
-| Plant | Sylvan |
+| Plant | Druidic |
 | Undead | Abyssal or Infernal |
 
 ---

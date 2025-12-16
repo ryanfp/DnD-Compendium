@@ -77,6 +77,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "swarmkeeper",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/swarmkeeper.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"swarmkeeper\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "ranger-slayer-homebrew",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ranger-slayer-homebrew.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ranger-slayer-homebrew\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
                   "title": "Monster Classifications",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Monster Classifications.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Monster Classifications\"}",
@@ -147,7 +159,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ranger-slayer-homebrew.md",
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/ranger-2024.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -162,7 +174,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ranger-slayer-homebrew"
+              "title": "ranger-2024"
             }
           },
           {
@@ -782,16 +794,15 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "task-board:Open task board": false
     }
   },
   "active": "b205233caf1d065c",
   "lastOpenFiles": [
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/swarmkeeper.md",
+    "ranger-slayer-homebrew.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/ranger-2024.md",
     "Ideal Ranger Write Up.md",
-    "ranger-slayer-homebrew.md",
     "Monster Classifications.md",
     "Quick  Thoughts.md",
     "Ideal Ranger.md",
@@ -818,7 +829,6 @@
     "z_img/masterclass-codex-alchemist-destruction.png",
     "z_img/Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
     "z_img/Hourglass-Top-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/artificer.md",
     "New folder",
     "3-Content/Compendiums/lists",
     "3-Content/Compendiums",

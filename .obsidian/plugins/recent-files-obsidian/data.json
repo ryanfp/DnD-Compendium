@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "ranger-slayer-homebrew",
-      "path": "ranger-slayer-homebrew.md"
-    },
-    {
       "basename": "ranger-2024",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/ranger-2024.md"
+    },
+    {
+      "basename": "swarmkeeper",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/swarmkeeper.md"
+    },
+    {
+      "basename": "ranger-slayer-homebrew",
+      "path": "ranger-slayer-homebrew.md"
     },
     {
       "basename": "Ideal Ranger Write Up",
@@ -195,10 +199,6 @@
     {
       "basename": "curse-of-immortality",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-immortality.md"
-    },
-    {
-      "basename": "curse-of-created",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-created.md"
     }
   ],
   "omittedPaths": [],
