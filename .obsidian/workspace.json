@@ -77,6 +77,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "ranger-2024",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/ranger-2024.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ranger-2024\"}",
+                  "eState": "{}"
+                },
+                {
                   "title": "swarmkeeper",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/swarmkeeper.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"swarmkeeper\"}",
@@ -159,7 +165,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/ranger-2024.md",
+                "file": "ranger-slayer-homebrew.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -174,7 +180,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ranger-2024"
+              "title": "ranger-slayer-homebrew"
             }
           },
           {
@@ -799,9 +805,9 @@
   },
   "active": "b205233caf1d065c",
   "lastOpenFiles": [
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/ranger-2024.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/swarmkeeper.md",
     "ranger-slayer-homebrew.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/ranger-2024.md",
     "Ideal Ranger Write Up.md",
     "Monster Classifications.md",
     "Quick  Thoughts.md",
