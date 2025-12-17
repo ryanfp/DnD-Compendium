@@ -77,6 +77,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "ranger-slayer-homebrew",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ranger-slayer-homebrew.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ranger-slayer-homebrew\"}",
+                  "eState": "{}"
+                },
+                {
                   "title": "ranger-2024",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/ranger-2024.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ranger-2024\"}",
@@ -165,8 +171,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ranger-slayer-homebrew.md",
-                "mode": "preview",
+                "file": "z_Scripts/Untitled.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -180,7 +186,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ranger-slayer-homebrew"
+              "title": "Untitled"
             }
           },
           {
@@ -800,14 +806,17 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "b205233caf1d065c",
   "lastOpenFiles": [
+    "ranger-slayer-homebrew.md",
+    "z_Scripts/Untitled.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/ranger-2024.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/swarmkeeper.md",
-    "ranger-slayer-homebrew.md",
     "Ideal Ranger Write Up.md",
     "Monster Classifications.md",
     "Quick  Thoughts.md",
@@ -831,7 +840,6 @@
     "3-Content/Compendiums/lists/list-optfeaturetype-di.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist 1.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/artificer-alchemist.md",
     "z_img/masterclass-codex-alchemist-destruction.png",
     "z_img/Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
     "z_img/Hourglass-Top-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "z_Scripts/Untitled.md"
+    },
+    {
       "basename": "ranger-slayer-homebrew",
       "path": "ranger-slayer-homebrew.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "curse-of-misfortune",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-misfortune.md"
-    },
-    {
-      "basename": "curse-of-immortality",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-immortality.md"
     }
   ],
   "omittedPaths": [],
