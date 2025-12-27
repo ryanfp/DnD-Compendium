@@ -40,6 +40,10 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 
 - rename Halflings to “Hobbits”
 - remove the GH:PP manuevers options, they seem OP
+- add 2014 background descriptions to the 2024 versions
+- see if it’s possible to have the races and subraces be a drop down list instead of separate entries
+- text part of entry not showing up in table view
+- remove any “Bnd” source because it seems badly written or overpowered
 
 ### 2014 Options
 
