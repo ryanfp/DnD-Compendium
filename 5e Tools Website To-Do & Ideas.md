@@ -40,7 +40,7 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 
 - rename Halflings to “Hobbits”
 - remove the GH:PP manuevers options, they seem OP
-- add 2014 background descriptions to the 2024 versions
+- ~~add 2014 background descriptions to the 2024 versions~~
 - see if it’s possible to have the races and subraces be a drop down list instead of separate entries
 - see if it’s possible to have the top row of the table view freeze or stay at the top
 
@@ -51,6 +51,7 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 - remove any “Bnd” source because it seems badly written or overpowered
 - tool proficiencies sometimes say “anyGamingSet” or “anyArtisansTool” or “anyMusicalInstrument”
 	- can we set this to output a nice version of that such as “any gaming set”?
+	- also happening with certain languages as well
 
 ### 2014 Options
 
