@@ -1,7 +1,7 @@
 ---
 title: 5eTools Website Guide/Goals
 created: 2025/11/29 at 21:58
-updated: 2025/12/04 at 20:21
+updated: 2026/01/04 at 00:56
 aliases:
   - 5eTools Website Guide/Goals
 ---
@@ -12,12 +12,12 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 
 ## To-Do List
 
-- [ ] Implement the 2014 rules as a sidegrade, as the current version only offers 2024
-	- [ ] Should only need certain topics/info which should be down in [[#2014 Options]]
+- [x] Implement the 2014 rules as a sidegrade, as the current version only offers 2024
+	- [x] Should only need certain topics/info which should be down in [[#2014 Options]]
 - [ ] Implement Homebrew options, listed in [[#Homebrew To-Add]]
 - [ ] Change site color palette to match Obsidian’s, possibly tweak it to change link colors, maybe different fonts too
 - [ ] Potentially change layout or add more functionality to better flow with the rest of the planned site changes
-- [ ] Properly delete unwanted site content (delete the actual files or contents in the files, not just blacklist)
+- [x] Properly delete unwanted site content (delete the actual files or contents in the files, not just blacklist)
 - [x] ~~Go through the~~Delete “JoeyJoestar Good and Evil json file ~~and remove all unwanted content”~~
 
 ## In-Progress
@@ -40,31 +40,10 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 
 - rename Halflings to “Hobbits”
 - remove the GH:PP manuevers options, they seem OP
-- ~~add 2014 background descriptions to the 2024 versions~~
 - see if it’s possible to have the races and subraces be a drop down list instead of separate entries
-- see if it’s possible to have the top row of the table view freeze or stay at the top
+- [x] see if it’s possible to have the top row of the table view freeze or stay at the top
 
 ## Issues
-
-- text part of entry not showing up in table view
-	- neither is equipment or “starting equipment”
-- remove any “Bnd” source because it seems badly written or overpowered
-- tool proficiencies sometimes say “anyGamingSet” or “anyArtisansTool” or “anyMusicalInstrument”
-	- can we set this to output a nice version of that such as “any gaming set”?
-	- also happening with certain languages as well
-
-### 2014 Options
-
-- Actions
-- Rules
-- Spells
-- Feats
-- Conditions
-	- also add “Dazed” homebrew condition as well [Dazed. An Alternative to the Stunned Condition in 5e D&D](https://www.hipstersanddragons.com/dazed-alternative-condition-to-stunned/)
-- Races
-	- Really only the “Half-” species as they’re absent from 2024
-		- Half-Elf
-		- Half-Orc
 
 ### Homebrew To-Add
 
