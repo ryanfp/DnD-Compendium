@@ -70,17 +70,17 @@
             "id": "b205233caf1d065c",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Campaign Settings",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaign Settings.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Campaign Settings\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "5e Tools Website To-Do & Ideas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5e Tools Website To-Do & Ideas.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"5e Tools Website To-Do & Ideas\"}",
+                  "eState": "{\"scroll\":23.075437733824824}"
                 },
                 {
                   "title": "Campaign Settings",
@@ -219,7 +219,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5e Tools Website To-Do & Ideas.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -234,7 +234,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5e Tools Website To-Do & Ideas"
+              "title": "Untitled"
             }
           }
         ],
@@ -732,8 +732,9 @@
   },
   "active": "b205233caf1d065c",
   "lastOpenFiles": [
-    "Campaign Settings.md",
     "5e Tools Website To-Do & Ideas.md",
+    "Untitled.md",
+    "Campaign Settings.md",
     "z_Scripts/Untitled.md",
     "Ideal Ranger Write Up.md",
     "Monster Classifications.md",
@@ -758,7 +759,6 @@
     "Home.md - Shortcut.lnk",
     "3-Content/Compendiums/lists/list-optfeaturetype-di.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist 1.md",
     "z_img/masterclass-codex-alchemist-destruction.png",
     "z_img/Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
     "z_img/Hourglass-Top-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
