@@ -77,6 +77,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "ranger-slayer-homebrew",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ranger-slayer-homebrew.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ranger-slayer-homebrew\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":137,\"ch\":44},\"to\":{\"line\":133,\"ch\":0}},\"scroll\":113.96393148642014}"
+                },
+                {
+                  "title": "5e Tools Website To-Do & Ideas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5e Tools Website To-Do & Ideas.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"5e Tools Website To-Do & Ideas\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":28},\"to\":{\"line\":43,\"ch\":28}},\"scroll\":20.896204328765354}"
+                },
+                {
                   "title": "Ideal Ranger Write Up",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ideal Ranger Write Up.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Ideal Ranger Write Up\"}",
@@ -232,7 +244,7 @@
               "type": "markdown",
               "state": {
                 "file": "5e Tools Website To-Do & Ideas.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -737,19 +749,21 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "b205233caf1d065c",
   "lastOpenFiles": [
+    "ranger-slayer-homebrew.md",
+    "5e Tools Website To-Do & Ideas.md",
     "Ideal Ranger Write Up.md",
     "Untitled.md",
-    "5e Tools Website To-Do & Ideas.md",
     "Campaign Settings.md",
     "z_Scripts/Untitled.md",
     "Monster Classifications.md",
     "Quick  Thoughts.md",
-    "ranger-slayer-homebrew.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/ranger-2024.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/swarmkeeper.md",
     "Ideal Ranger.md",
