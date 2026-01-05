@@ -27,12 +27,17 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 - [ ] finish creating full suite of “builder" files to help with homebrew creation
 - [ ] make sure to add the 3-save change site wide, converting any mention of the relevant ones into their successor, and also changing it in the schema to make sure it validates.
 	- [ ] also do this for the extra skills “Mechanics” and “Streetwise”
+	- [ ] add or figure out how to scale saving throws. Give proficiency to 1, half-PB to another? What about the 3rd?
+	- [ ] Decide if it’s fine to have 1-2 saving throws that you’re just bad at at high levels or find way to scale/balance that pain point out
+		- [ ] Could potentially be fine if some aspect of “save or suck” is reworked ala [[#Homebrew To-Add|fixing the Stunned condition via adding Dazed]]
 - [ ] go back through classes/subclasses on obsidian and make sure all new subclasses have been added or removed given new sources
 - [ ] add all missing subclasses to site
 - [ ] create cardcaster class
 	- [ ] see on Fiverr how much it would cost to contract someone with game knowledge
-	- [ ] use Harbinger from guy on reddit’s classes, Cardcaster from MASTERCLASS CODEX, Cardcaster subclasses for Warlocks from somewhere, and somewhere else? To create this class.
-	- [ ] Come up with a better name (Current iterations: *Oracle*, Sage, *Emissary*, Diviner)
+	- [ ] use Harbinger from guy on reddit’s classes, Cardcaster from MASTERCLASS CODEX, Cardcaster [subclasses for Warlocks](https://www.reddit.com/r/UnearthedArcana/s/gCl7Mfnsti) from somewhere, and [somewhere else](https://www.reddit.com/r/UnearthedArcana/s/wO053yyGAt)
+
+another cardcaster or oracle prophecy type class>)? To create this class.
+	- [ ] Come up with a better name (Current iterations: *Oracle*, Sage, *Emissary*, Diviner, *Thaumaturge*)
 - [ ] Figure out **MANY** balancing and rules changes
 	- [ ] whether to backport weapon masteries (if so, what to change/keep), how much is overlapped with maneuvers from LLEC and KTAMF?
 		- [ ] *how* to change masteries to make them universal or weapon based
@@ -47,9 +52,9 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 - [ ] Figure out the multiple skill changes, revisions or rebalances
 	- [ ] Add Mechanics skill - for technology, engineering and tinkering knowledge, of the non-arcane variety
 	- [ ] Add Streetwise skill - basically from 3.5e/4e, used for general know-how of maintaining a reputation among the people, measured in talking to barkeeps for info leads, blending into a crowd, knowing the local customs and delicacies, knowing who might the leader of certain organizations be or who *actually* runs the town
-	- [x] Figure out how I’m buffing or rebalancing Medicine
-		- [x] also many ideas are concentrated somewhere in email or Google Drive 
-		- [x] maximize healing?
+	- [ ] Figure out how I’m buffing or rebalancing Medicine
+		- [ ] also many ideas are concentrated somewhere in email or Google Drive 
+		- [ ] maximize healing?
 		- [ ] find way to make it meaningful for death saves/dying?
 		- [ ] maybe for resurrection it’s 3 consecutive checks
 			- [ ] Mind/Body/Soul —> Arcana/Medicine/Religion
@@ -60,8 +65,39 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 			- [ ] keep if swan song is still a thing?
 			- [ ] remove swan song if these are a thing?
 			- [ ] find way to make it feasible to be able to crawl or do other very small moves while still keeping the number of death save successes or failures a mystery
-		- [ ] dying condiiton integration?
-		- [ ] resurrection mechanics? prevelance of resurrection spells?
+		- [ ] dying condition integration?
+		- [ ] resurrection mechanics? prevalence of resurrection spells?
+- [ ] General Rebalancing in the form of:
+	- checking out the “Discord of Many Things” server’s “5e Rebuilds” thread for ideas
+	- using SwEcky’s, KibblesTasty, LevelUpA5e, guy from UA Reddit, and other’s rebuilds, see if there’s anything desirable
+- [ ] Add website features like:
+	- [ ] loading animation in the form of spinning d20
+	- [ ] low profile loading bar at the top of the screen
+	- [ ] light/dark mode toggle 
+	- [ ] redo navigation to look more modern, can use other peoples forks for inspo
+	- [ ] ability to drag and reorder table columns like Google Sheets?
+	- [ ] scheduling functionality integration (I believe *DungeonChurch* has this built-in, I should check)
+	- [ ] See if I can preload parts of the site like the main list or content even if it can’t be interacted with so as to give the appearance of fast loading
+	- [ ] Make adventure book covers smaller so as to fit more on the screen at once, or just fit more on the screen without doing that
+- [ ] Create Discord server with all desired functionality
+	- [ ] use given templates from tabs in FireFox
+	- [ ] make it look nice, give it roles, etc.
+	- [ ] Change link to discord in files to new one
+	- [ ] look up any bots or useful configurations
+	- [ ] MAKE SURE TO MAKE IT A COMMUNITY to get Q&A channels
+- [ ] Create matching patreon, ko-fi and bluesky pages for OverTheMoonDND
+- [ ] See how much it would take to contract Graphic Designer to make site logo in various sizes and formats
+- [ ] SOURCES AND HOMEBREW
+	- [ ] see what homebrew files need to be updated or changed
+		- [ ] Zaman’s probably
+		- [ ] Ryoko’s Guide
+		- [ ] Other Loot Taverns? since coming out of Kickstarter?
+	- [ ] See what homebrew sources from Obsidian/my brain are NOT present on 5etools
+		- [ ] Kibbles Generic Elemental Spells?
+- [ ] Finish figuring out currency conversion in general
+	- [ ] Conversion rate from vanilla copper/silver/gold is to silver/gold and then to my version of silver
+	- [ ] figure out formula for keeping the curve relatively the same
+	- [ ] [paizo.com - Forums: Homebrew and House Rules: Overly Complex Economy Rebalance Proposal](https://paizo.com/threads/rzs2khtr?Overly-Complex-Economy-Rebalance-Proposal)
 
 ## In-Progress
 
