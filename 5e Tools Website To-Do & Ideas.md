@@ -35,7 +35,6 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 - [ ] create cardcaster class
 	- [ ] see on Fiverr how much it would cost to contract someone with game knowledge
 	- [ ] use Harbinger from guy on reddit’s classes, Cardcaster from MASTERCLASS CODEX, Cardcaster [subclasses for Warlocks](https://www.reddit.com/r/UnearthedArcana/s/gCl7Mfnsti) from somewhere, and [somewhere else](https://www.reddit.com/r/UnearthedArcana/s/wO053yyGAt)
-
 another cardcaster or oracle prophecy type class>)? To create this class.
 	- [ ] Come up with a better name (Current iterations: *Oracle*, Sage, *Emissary*, Diviner, *Thaumaturge*)
 - [ ] Figure out **MANY** balancing and rules changes
@@ -50,6 +49,7 @@ another cardcaster or oracle prophecy type class>)? To create this class.
 - [ ] Figure out what I’m doing with Strength as an ability, how I would buff it and what benefits it would give
 	- [ ] Massive compilation of ideas somewhere
 - [ ] Figure out the multiple skill changes, revisions or rebalances
+	- [ ] [Interesting TTRPG mechanics - Fork My Brain](https://notes.nicolevanderhoeven.com/Interesting+TTRPG+mechanics)
 	- [ ] Add Mechanics skill - for technology, engineering and tinkering knowledge, of the non-arcane variety
 	- [ ] Add Streetwise skill - basically from 3.5e/4e, used for general know-how of maintaining a reputation among the people, measured in talking to barkeeps for info leads, blending into a crowd, knowing the local customs and delicacies, knowing who might the leader of certain organizations be or who *actually* runs the town
 	- [ ] Figure out how I’m buffing or rebalancing Medicine
@@ -98,6 +98,11 @@ another cardcaster or oracle prophecy type class>)? To create this class.
 	- [ ] Conversion rate from vanilla copper/silver/gold is to silver/gold and then to my version of silver
 	- [ ] figure out formula for keeping the curve relatively the same
 	- [ ] [paizo.com - Forums: Homebrew and House Rules: Overly Complex Economy Rebalance Proposal](https://paizo.com/threads/rzs2khtr?Overly-Complex-Economy-Rebalance-Proposal)
+	- [ ] [Methods & Madness: The WEIGHT of GOLD - is OD&D right again?](https://methodsetmadness.blogspot.com/2019/08/the-weight-of-gold-is-od-right-again.html)
+	- [ ] [Delta's D&D Hotspot: On Money](https://deltasdnd.blogspot.com/2010/03/on-money.html?m=1)
+	- [ ] [Delta's D&D Hotspot: Money Results](https://deltasdnd.blogspot.com/2010/05/money-results.html?m=1)
+- [ ] Renege on “stacking Advantage” mechanic and make it so it only stacks and takes away when there are conflicting sources. 
+	- [ ] e.g. you can only ever have *disadvantage* or *advantage* but if you have 2 sources of advantage and 1 of disadvantage, instead of fully cancelling out you would still have advantage (2-1=(+)1)
 
 ## In-Progress
 

@@ -244,7 +244,7 @@
               "type": "markdown",
               "state": {
                 "file": "5e Tools Website To-Do & Ideas.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -642,25 +642,6 @@
             }
           },
           {
-            "id": "c0c2fbf5da705f4c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {},
-              "icon": "viewIcon",
-              "title": "Markdown-Autocomplete"
-            }
-          },
-          {
             "id": "c8ddf2f537d6bbbf",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -682,7 +663,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       },
       {
         "id": "21f9e4c778ac3689",
@@ -750,8 +731,7 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "b205233caf1d065c",
