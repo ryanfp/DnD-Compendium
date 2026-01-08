@@ -1,16 +1,12 @@
 ---
-title: 5eTools Website Guide/Goals
-created: 2025/11/29 at 21:58
-updated: 2026/01/07 at 23:10
+title: ""
+created: 2026/01/07 at 23:07
+updated: 2026/01/07 at 23:08
 aliases:
-  - 5eTools Website Guide/Goals
+  - Untitled 1
 ---
 
-# 5eTools Website Guide/Goals
-
-Currently building a personal mirror to the popular and useful [5etools](https://5e.tools/index.html) website. 
-
-## Website Development
+## Personal Website Development
 
 ### UI & Design Updates
 
@@ -34,14 +30,14 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 - [ ] Implement content preloading for main list or page sections
 - [ ] Make adventure book covers smaller (or increase screen density)
 
-### Content Management
+### Site Content Management
 
 - [x] Properly delete unwanted content (actual file removal, not blacklist)
 - [x] Delete “JoeyJoestar Good and Evil json file”
 - [ ] Go back through classes/subclasses on Obsidian and update with new sources
 - [ ] Add missing subclasses to site
 
-### Integration
+### Branding & Community Integration
 
 - [ ] Create Discord server with desired roles, templates, bots, and community settings
     - [ ] Use templates from Firefox tabs
@@ -99,8 +95,6 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
         - [ ] Rework resurrection spells and revival prevalence
 - [ ] General Rebalancing
     - [ ] Use resources/threads: Discord of Many Things “5e Rebuilds”, SwEcky, KibblesTasty, LevelUpA5e, UA Reddit, other rebuilds
-- [ ] Refactor stacking Advantage system 
-    - [ ] Use offset stacking (e.g. 2 adv vs 1 disadv = net adv, never fully cancels except at parity)
 
 ### Source & Homebrew Management
 
@@ -119,6 +113,11 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
         - [Delta's D&D Hotspot: On Money](https://deltasdnd.blogspot.com/2010/03/on-money.html?m=1)
         - [Delta's D&D Hotspot: Money Results](https://deltasdnd.blogspot.com/2010/05/money-results.html?m=1)
 
+### Advantage/Disadvantage Mechanic
+
+- [ ] Refactor stacking Advantage system 
+    - [ ] Use offset stacking (e.g. 2 adv vs 1 disadv = net adv, never fully cancels except at parity)
+
 ---
 
 ## General Game Management & Running the Game
@@ -127,49 +126,3 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 - [ ] Scheduling: Integrate any existing modules (DungeonChurch fork)
 - [ ] Make Discord server as a community (Q&A channels, open bot configs, etc.)
 - [ ] Regularly update, refine, and balance rules and content
-
-## Ideas/Goals
-
-- Have a list of very common/useful D&D websites
-- maybe have a UI option to have all three tabs show at once like (traits, info and images)
-- [x] ]When combining Monster Hunter with Ranger, also generalize the monster types to allow more flexibility
-1. **Eternals:** Celestials, Fiends
-2. **Nightmares:** Aberrations, Monstrosities
-3. **Primordials:** Dragons, Giants, Elementals
-4. **Naturals:** Beasts, Plants
-5. **Unnaturals:** Undead, Constructs, Oozes
-	- finish finding out if merging the *Monster Hunter* class with Ranger steps too much on the Bloodhunter’s toes
-
-## Misc
-
-- rename Halflings to “Hobbits”
-- remove the GH:PP maneuvers options, they seem OP
-- see if it’s possible to have the races and subraces be a drop down list instead of separate entries (it is but it’s very complex and would take a long time)
-- [x] see if it’s possible to have the top row of the table view freeze or stay at the top
-
-- - - 
-
-## Issues
-
-### Homebrew To-Add
-
-- Add “Dazed” condition as an alternative to stunned or paralyzed
-
-### GitHub Repo Ideas
-
-- README Formatting
-	- Title at the top centered
-		- Short description under it with horizontal line
-		- then logo
-	- Buttons under all this
-		- WEBSITE STUFF
-			- license
-			- release version
-			- obsidian
-			- main site
-		- SOCIAL MEDIA
-			- patreon
-			- discord
-			- kofi
-			- twitter
-			- bluesky
