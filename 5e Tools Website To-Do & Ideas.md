@@ -103,6 +103,12 @@ another cardcaster or oracle prophecy type class>)? To create this class.
 	- [ ] [Delta's D&D Hotspot: Money Results](https://deltasdnd.blogspot.com/2010/05/money-results.html?m=1)
 - [ ] Renege on “stacking Advantage” mechanic and make it so it only stacks and takes away when there are conflicting sources. 
 	- [ ] e.g. you can only ever have *disadvantage* or *advantage* but if you have 2 sources of advantage and 1 of disadvantage, instead of fully cancelling out you would still have advantage (2-1=(+)1)
+- [ ] Add Patreon content to any homebrew base class
+	- [ ] Patreon Pugilist classes are currently in the SVM edition, move them to UAH edition
+	- [ ] Any LaserLlama
+	- [ ] Any KibblesTasty
+	- [ ] Any somanyrobots
+	- [ ] 
 
 ## In-Progress
 

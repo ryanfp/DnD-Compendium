@@ -394,7 +394,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.51625061035156
+    "width": 234.51625061035156
   },
   "right": {
     "id": "fc1490c296b0c5ab",
@@ -695,7 +695,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -730,7 +730,9 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "b205233caf1d065c",
