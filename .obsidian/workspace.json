@@ -77,6 +77,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Website Navigation Map",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Website Navigation Map.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Website Navigation Map\"}",
+                  "eState": "{}"
+                },
+                {
                   "title": "5e Tools Website To-Do & Ideas",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5e Tools Website To-Do & Ideas.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"5e Tools Website To-Do & Ideas\"}",
@@ -89,7 +95,7 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":109,\"ch\":61},\"to\":{\"line\":109,\"ch\":61}},\"scroll\":75.697392578125}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "Website Navigation Map",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Website Navigation Map.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":60.533122773646056}"
@@ -119,7 +125,7 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "Untitled",
+                  "title": "Website Navigation Map",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Website Navigation Map.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":66,\"ch\":12},\"to\":{\"line\":66,\"ch\":12}},\"scroll\":33.80529533795906}"
@@ -267,7 +273,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Website Navigation Map.md",
+                "file": "5e Tools Website To-Do & Ideas.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -282,7 +288,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Website Navigation Map"
+              "title": "5e Tools Website To-Do & Ideas"
             }
           }
         ],
@@ -759,11 +765,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "fcaa59025a7544d2",
+  "active": "b205233caf1d065c",
   "lastOpenFiles": [
+    "markdown-cheatsheet.md",
+    "Website Navigation Map.md",
     "Untitled 1.md",
     "5e Tools Website To-Do & Ideas.md",
-    "Website Navigation Map.md",
     "ranger-slayer-homebrew.md",
     "Ideal Ranger Write Up.md",
     "Campaign Settings.md",
@@ -787,7 +794,6 @@
     "Home.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Races.md",
     "Home.md - Shortcut.lnk",
-    "3-Content/Compendiums/lists/list-optfeaturetype-di.md",
     "z_img/masterclass-codex-alchemist-destruction.png",
     "z_img/Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
     "z_img/Hourglass-Top-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
