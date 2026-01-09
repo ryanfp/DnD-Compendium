@@ -274,7 +274,7 @@
               "type": "markdown",
               "state": {
                 "file": "5e Tools Website To-Do & Ideas.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -760,7 +760,9 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "b205233caf1d065c",

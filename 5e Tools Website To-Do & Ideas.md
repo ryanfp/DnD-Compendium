@@ -29,10 +29,14 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
     - [ ] Low profile loading bar at top
 - [ ] Implement light/dark mode toggle
 - [ ] Redo navigation for a more modern look; consult other forks for inspiration
-- [ ] Ability to drag and reorder table columns like Google Sheets
+- [x] ~~Ability to drag and reorder table columns like Google Sheets~~ Changed table column order for many pages to now have *Name* first. 
+	- [ ] ❌ Some pages have a large gap between the first and second column, maybe something to do with how I moved the columns around?
 - [ ] Integrate scheduling functionality (*DungeonChurch* may have this)
 - [ ] Implement content preloading for main list or page sections
 - [ ] Make adventure book covers smaller (or increase screen density)
+- [ ] Make tables have slightly alternating colors every other row
+- [ ] Make background two-toned
+- [ ] Make inline table borders a different color to make it more outlined
 
 ### Content Management
 
