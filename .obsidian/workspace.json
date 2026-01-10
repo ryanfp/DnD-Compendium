@@ -77,6 +77,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Quick  Thoughts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Quick  Thoughts.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Quick  Thoughts\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "5e Tools Website To-Do & Ideas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5e Tools Website To-Do & Ideas.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"5e Tools Website To-Do & Ideas\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Website Navigation Map",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Website Navigation Map.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Website Navigation Map\"}",
@@ -274,7 +286,7 @@
               "type": "markdown",
               "state": {
                 "file": "5e Tools Website To-Do & Ideas.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -760,25 +772,38 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "b205233caf1d065c",
   "lastOpenFiles": [
+    "z_img/image-19.png",
+    "z_img/image-18.png",
+    "z_img/image-17.png",
+    "z_img/image-16.png",
+    "z_img/image-15.png",
+    "z_img/image-14.png",
+    "z_img/image-13.png",
+    "z_img/image-12.png",
+    "z_img/image-11.png",
+    "z_img/image-10.png",
+    "z_img/image-9.png",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
+    "5e Tools Website To-Do & Ideas.md",
+    "Quick  Thoughts.md",
     "markdown-cheatsheet.md",
     "Website Navigation Map.md",
     "Untitled 1.md",
-    "5e Tools Website To-Do & Ideas.md",
     "ranger-slayer-homebrew.md",
     "Ideal Ranger Write Up.md",
     "Campaign Settings.md",
     "z_Scripts/Untitled.md",
     "Monster Classifications.md",
-    "Quick  Thoughts.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/ranger-2024.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/swarmkeeper.md",
     "Ideal Ranger.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "📚 - Information Compendium/books/compendium-of-beasts/3-alternate-beasts.md",
     "📚 - Information Compendium/books/compendium-of-beasts/2-laserllama-compendium-of-beasts-v2-0-0.md",
     "📚 - Information Compendium/books/compendium-of-beasts/1-compendium-of-beasts.md",
@@ -790,11 +815,7 @@
     "📚 - Information Compendium/Introduction.md",
     "📚 - Information Compendium/📝 - Rules & Mechanics/rules-and-meta.md",
     "Home.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Races.md",
     "Home.md - Shortcut.lnk",
-    "z_img/masterclass-codex-alchemist-destruction.png",
-    "z_img/Library-Add-Check-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
-    "z_img/Hourglass-Top-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
     "New folder",
     "3-Content/Compendiums/lists",
     "3-Content/Compendiums",
@@ -803,13 +824,6 @@
     "z_Scripts/Unconfirmed 254922.crdownload",
     "z_Scripts/Unconfirmed 630161.crdownload",
     "z_Scripts/Unconfirmed 276216.crdownload",
-    "z_Scripts/Unconfirmed 573939.crdownload",
-    "z_img/garden-icon.svg",
-    "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg",
-    "z_img/Pause-Circle-Fill--Streamline-Sharp-Fill-Material-Symbols (1).svg",
-    "z_img/Not-Started-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
-    "z_img/Build-Circle-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
-    "z_img/Pause-Circle-Fill--Streamline-Sharp-Fill-Material-Symbols.svg",
-    "z_img/not-started-8ja9wado78v9nl13qfbi8c.webp"
+    "z_Scripts/Unconfirmed 573939.crdownload"
   ]
 }

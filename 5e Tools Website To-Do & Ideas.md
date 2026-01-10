@@ -1,9 +1,11 @@
 ---
 title: 5eTools Website Guide/Goals
 created: 2025/11/29 at 21:58
-updated: 2026/01/07 at 23:10
+updated: 2026/01/09 at 21:25
 aliases:
   - 5eTools Website Guide/Goals
+tags:
+  - bg3
 ---
 
 # 5eTools Website Guide/Goals
@@ -20,6 +22,17 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
         - [ ] See if there’s anything else from *Dungeon Church*’s fork to incorporate
     - [ ] Use color palette generator website and research contrast/readability
     - [ ] Decide if font should be updated
+    - [ ] Add icons before certain callouts or as part of tags in text
+	    - [ ] ![[image-2.png]]Action - ![[image-1.png]]Bonus Action - ![[image-3.png]]Reaction - ![[image-11.png]]Movement Speed
+	    - [ ] Generic Actions
+	    - [ ] ![[image-15.png]]Advantage - ![[image-14.png]]Disadvantage - ![[image-16.png]]Difficulty Class (DC)
+	    - [ ] ![[image-9.png]]Saving Throws
+	    - [ ] Damage Types
+		    - [ ] ![[image-19.png]]Healing
+		    - [ ] ![[image-18.png]]Psychic
+	    - [ ] Difficult Terrain
+	    - [ ] Inspiration
+	    - [ ] ![[image-6.png]]Spell Slots - ![[image-7.png]]Spell Points - ![[image-12.png]]Psionics? - ![[image-8.png]]Ritual - ![[image-13.png]]Concentration
 
 ### Layout & Functionality
 
@@ -78,6 +91,15 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 - [ ] Add Patreon content to homebrew base classes
     - [ ] Move Patreon Pugilist classes from SVM to UAH edition
     - [ ] Add any LaserLlama, KibblesTasty, somanyrobots content
+- [ ] For weaker or less interesting classes, integrate some of their “X but just more X” subclasses into the base kit. 
+	- [ ] Ranger
+		- [ ] General
+			- [ ] [Land's Stride - bg3.wiki](https://bg3.wiki/wiki/Land%27s_Stride)
+			- [ ] [Natural Explorer - bg3.wiki](https://bg3.wiki/wiki/Natural_Explorer)
+			- [ ] [Favoured Enemy - bg3.wiki](https://bg3.wiki/wiki/Favoured_Enemy)
+		- [ ] Hunter
+			- [ ] [Whirlwind](https://bg3.wiki/wiki/Whirlwind_Attack)[Whirlwind Attack - bg3.wiki](https://bg3.wiki/wiki/Whirlwind_Attack) #bg3 
+			- [ ] [Volley](https://bg3.wiki/wiki/Volley)[Volley - bg3.wiki](https://bg3.wiki/wiki/Volley) #bg3
 
 ### Mechanics, Skills & Rules Balancing
 

@@ -1556,7 +1556,8 @@
     "class/illrigger": 37,
     "subclass/illrigger/painkiller": 3,
     "subclass/illrigger/sanguine-knight": 4,
-    "subclass/illrigger/shadowmaster": 5
+    "subclass/illrigger/shadowmaster": 5,
+    "bg3": 32
   },
   "_version": 3
 }
