@@ -26,11 +26,23 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 	    - [ ] ![[image-2.png]]Action - ![[image-1.png]]Bonus Action - ![[image-3.png]]Reaction - ![[image-11.png]]Movement Speed
 	    - [ ] ![[image-23.png]]Hit Points -  Blue Heart for Temp HP  or ![[image-29.png]]![[image-30.png]]- ![[image-25.png]]Armor Class - ![[image-26.png]] or ![[image-28.png]]Saving Throws - ![[image-27.png]]Attack Rolls
 	    - [ ] Generic Actions
+		    - [ ] 
 	    - [ ] ![[image-15.png]]Advantage - ![[image-14.png]]Disadvantage - ![[image-16.png]]Difficulty Class (DC)
-	    - [ ] Damage Types
-		    - [ ] ![[image-19.png]]Healing
-		    - [ ] ![[image-33.png]]
-		    - [ ] ![[image-18.png]]Psychic
+	    - [ ]  **- Damage Types -** 
+		    - [ ] ![[image-19.png]]Healing (HexCode# 30bbbb)
+		    - [ ] ![[image-43.png]]Bludgeoning (HexCode# 8c8c8c)
+		    - [ ] ![[image-44.png]]Piercing (HexCode# 8c8c8c)
+		    - [ ] ![[image-45.png]]Slashing (HexCode# 8c8c8c)
+		    - [ ] ![[image-33.png]]Acid (HexCode# 80b000)
+		    - [ ] ![[image-34.png]]Cold (HexCode# 3399cc)
+		    - [ ] ![[image-35.png]]Fire (HexCode# ee5500)
+		    - [ ] ![[image-36.png]]Force (HexCode# cc3333)
+		    - [ ] ![[image-37.png]]Lightning (HexCode# 3366cc)
+		    - [ ] ![[image-38.png]]Necrotic (HexCode# 40b050)
+		    - [ ] ![[image-39.png]]Poison (HexCode# 44bb00)
+		    - [ ] ![[image-40.png]]Psychic (HexCode# cc77aa)
+		    - [ ] ![[image-41.png]]Radiant (HexCode# ccaa00)
+		    - [ ] ![[image-42.png]]Thunder (HexCode# 8844bb)
 	    - [ ] ![[image-22.png]]Inspiration - ![[image-21.png]]Resting - ![[image-31.png]]Recharge - ![[image-32.png]]Difficult Terrain
 	    - [ ] ![[image-6.png]]Spell Slots - ![[image-7.png]]Spell Points - ![[image-12.png]]Psionics? - ![[image-8.png]]Ritual - ![[image-24.png]]Concentration - ![[image-20.png]]Exploit Die
 
