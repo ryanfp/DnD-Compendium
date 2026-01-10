@@ -43,7 +43,7 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 		    - [ ] ![[image-40.png]]Psychic (HexCode# cc77aa)
 		    - [ ] ![[image-41.png]]Radiant (HexCode# ccaa00)
 		    - [ ] ![[image-42.png]]Thunder (HexCode# 8844bb)
-	    - [ ] ![[image-22.png]]Inspiration - ![[image-21.png]]Resting - ![[image-31.png]]Recharge - ![[image-32.png]]Difficult Terrain
+	    - [ ] ![[image-22.png]]Inspiration - ![[image-21.png]]Resting - ![[image-31.png]]Recharge - ![[image-32.png]]Difficult Terrain - ![[image-47.png]]Duration
 	    - [ ] ![[image-6.png]]Spell Slots - ![[image-7.png]]Spell Points - ![[image-12.png]]Psionics? - ![[image-8.png]]Ritual - ![[image-24.png]]Concentration - ![[image-20.png]]Exploit Die
 
 ### Layout & Functionality

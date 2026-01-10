@@ -436,7 +436,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.51625061035156
+    "width": 326.51625061035156
   },
   "right": {
     "id": "fc1490c296b0c5ab",
@@ -777,8 +777,9 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "b205233caf1d065c",
+  "active": "fcaa59025a7544d2",
   "lastOpenFiles": [
+    "z_img/image-47.png",
     "3125-1696894472-1340313030.webp",
     "3125-1696894452-1192171480.webp",
     "z_img/image-46.png",
@@ -789,7 +790,6 @@
     "z_img/image-41.png",
     "z_img/image-40.png",
     "z_img/image-39.png",
-    "z_img/image-38.png",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "5e Tools Website To-Do & Ideas.md",
     "Quick  Thoughts.md",
