@@ -124,7 +124,7 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 		- [ ] [Second-Story Work - bg3.wiki](https://bg3.wiki/wiki/Second-Story_Work)
 		- [ ] [Assassinate: Ambush - bg3.wiki](https://bg3.wiki/wiki/Assassinate:_Ambush)
 		- [ ] [Assassinate: Initiative - bg3.wiki](https://bg3.wiki/wiki/Assassinate:_Initiative)
-		- [ ] 
+		- [ ] [Berserker - bg3.wiki](https://bg3.wiki/wiki/Berserker)
 
 ### Mechanics, Skills & Rules Balancing
 
