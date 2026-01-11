@@ -1,7 +1,7 @@
 ---
 title: 5eTools Website Guide/Goals
 created: 2025/11/29 at 21:58
-updated: 2026/01/09 at 21:25
+updated: 2026/01/10 at 23:57
 aliases:
   - 5eTools Website Guide/Goals
 tags:
@@ -24,11 +24,11 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
     - [ ] Decide if font should be updated
     - [ ] Add icons before certain callouts or as part of tags in text
 	    - [ ] ![[image-2.png]]Action - ![[image-1.png]]Bonus Action - ![[image-3.png]]Reaction - ![[image-11.png]]Movement Speed
-	    - [ ] ![[image-23.png]]Hit Points -  Blue Heart for Temp HP   - ![[image-25.png]]Armor Class - ![[image-26.png]] or ![[image-28.png]]Saving Throws - ![[image-27.png]]Attack Rolls
+	    - [ ] ![[image-23.png]]Hit Points - Blue Heart for Temp HP - ![[image-25.png]]![[image-51.png]]Armor Class - ![[image-26.png]] or ![[image-28.png]]Saving Throws - ![[image-27.png]]Attack Rolls
 	    - [ ] Generic Actions
 		    - [ ] 
 	    - [ ] ![[image-15.png]]Advantage - ![[image-14.png]]Disadvantage - ![[image-16.png]]Difficulty Class (DC)
-	    - [ ]  **- Damage Types -** 
+	    - [ ] **- Damage Types -** 
 		    - [ ] ![[image-19.png]]Healing (HexCode# 30bbbb)
 		    - [ ] ![[image-43.png]]Bludgeoning (HexCode# 8c8c8c)
 		    - [ ] ![[image-44.png]]Piercing (HexCode# 8c8c8c)
@@ -43,7 +43,7 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 		    - [ ] ![[image-40.png]]Psychic (HexCode# cc77aa)
 		    - [ ] ![[image-41.png]]Radiant (HexCode# ccaa00)
 		    - [ ] ![[image-42.png]]Thunder (HexCode# 8844bb)
-	    - [ ] ![[image-22.png]]Inspiration - ![[image-21.png]]Resting - ![[image-31.png]]Recharge - ![[image-32.png]]Difficult Terrain - ![[image-47.png]]Duration
+	    - [ ] ![[image-50.png]]Inspiration - ![[image-21.png]]Resting - ![[image-31.png]]Recharge - ![[image-32.png]]Difficult Terrain - ![[image-47.png]]Duration
 	    - [ ] ![[image-49.png]]Spell Slots - ![[image-7.png]]Spell Points - ![[image-48.png]]Psionics? - ![[image-8.png]]Ritual - ![[image-24.png]]Concentration - ![[image-20.png]]Exploit Die
 
 ### Layout & Functionality
