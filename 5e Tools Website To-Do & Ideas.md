@@ -108,6 +108,17 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
     - [ ] Add any LaserLlama, KibblesTasty, somanyrobots content
 - [ ] For weaker or less interesting classes, integrate some of their “X but just more X” subclasses into the base kit. 
 	- [ ] Ranger
+		- [ ] Two main things are proficiency in exploration and the environment and choosing a hunt, a target
+		- [ ] Keep Hunter’s Quarry changes
+			- [ ] create new ways to flavor the ability, maybe different effects that can be chosen upon marking
+				- [ ] sneaky mark
+				- [ ] bounty mark
+				- [ ] based on animals or mythical creatures
+					- [ ] pack tactics for wolves quarry
+					- [ ] poison damage on viper’s quarry
+					- [ ] dragons breath on dragons quarry
+					- [ ] owlbear temp HP
+			- [ ] Add way to mark a creature that you can’t see, like studying its tracks or something. Maybe it takes a Ritual spell or just 10 mins?
 		- [ ] General
 			- [ ] [Land's Stride - bg3.wiki](https://bg3.wiki/wiki/Land%27s_Stride)
 			- [ ] [Natural Explorer - bg3.wiki](https://bg3.wiki/wiki/Natural_Explorer)
