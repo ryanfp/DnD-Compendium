@@ -24,7 +24,7 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
     - [ ] Decide if font should be updated
     - [ ] Add icons before certain callouts or as part of tags in text
 	    - [ ] ![[image-2.png]]Action - ![[image-1.png]]Bonus Action - ![[image-3.png]]Reaction - ![[image-11.png]]Movement Speed
-	    - [ ] ![[image-23.png]]Hit Points -  Blue Heart for Temp HP  or ![[image-29.png]]![[image-30.png]]- ![[image-25.png]]Armor Class - ![[image-26.png]] or ![[image-28.png]]Saving Throws - ![[image-27.png]]Attack Rolls
+	    - [ ] ![[image-23.png]]Hit Points -  Blue Heart for Temp HP   - ![[image-25.png]]Armor Class - ![[image-26.png]] or ![[image-28.png]]Saving Throws - ![[image-27.png]]Attack Rolls
 	    - [ ] Generic Actions
 		    - [ ] 
 	    - [ ] ![[image-15.png]]Advantage - ![[image-14.png]]Disadvantage - ![[image-16.png]]Difficulty Class (DC)
@@ -44,7 +44,7 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 		    - [ ] ![[image-41.png]]Radiant (HexCode# ccaa00)
 		    - [ ] ![[image-42.png]]Thunder (HexCode# 8844bb)
 	    - [ ] ![[image-22.png]]Inspiration - ![[image-21.png]]Resting - ![[image-31.png]]Recharge - ![[image-32.png]]Difficult Terrain - ![[image-47.png]]Duration
-	    - [ ] ![[image-6.png]]Spell Slots - ![[image-7.png]]Spell Points - ![[image-12.png]]Psionics? - ![[image-8.png]]Ritual - ![[image-24.png]]Concentration - ![[image-20.png]]Exploit Die
+	    - [ ] ![[image-49.png]]Spell Slots - ![[image-7.png]]Spell Points - ![[image-48.png]]Psionics? - ![[image-8.png]]Ritual - ![[image-24.png]]Concentration - ![[image-20.png]]Exploit Die
 
 ### Layout & Functionality
 
