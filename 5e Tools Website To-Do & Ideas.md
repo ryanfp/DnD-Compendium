@@ -24,9 +24,12 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
     - [ ] Decide if font should be updated
     - [ ] Add icons before certain callouts or as part of tags in text
 	    - [ ] ![[image-2.png]]Action - ![[image-1.png]]Bonus Action - ![[image-3.png]]Reaction - ![[image-11.png]]Movement Speed
-	    - [ ] ![[image-23.png]]Hit Points - Blue Heart for Temp HP - ![[image-25.png]]![[image-51.png]]Armor Class - ![[image-26.png]] or ![[image-28.png]]Saving Throws - ![[image-27.png]]Attack Rolls
+	    - [ ] ![[image-23.png]]Hit Points - Blue Heart for Temp HP - ![[image-25.png]]![[image-51.png]]![[image-57.png]]Armor Class - ![[image-26.png]] or ![[image-28.png]]Saving Throws - ![[image-27.png]]Attack Rolls
 	    - [ ] Generic Actions
-		    - [ ] 
+		    - [ ] ![[image-52.png]]![[image-56.png]]![[image-58.png]]
+		    - [ ] ![[image-53.png]] [Dash](https://bg3.wiki/wiki/Dash_\(bonus_action\) "Dash (bonus action)")
+		    - [ ] ![[image-54.png]][Disengage](https://bg3.wiki/wiki/Disengage:_Bonus_Action "Disengage: Bonus Action")
+		    - [ ] ![[image-55.png]] [Help](https://bg3.wiki/wiki/Help_\(bonus_action\) "Help (bonus action)")
 	    - [ ] ![[image-15.png]]Advantage - ![[image-14.png]]Disadvantage - ![[image-16.png]]Difficulty Class (DC)
 	    - [ ] **- Damage Types -** 
 		    - [ ] ![[image-19.png]]Healing (HexCode# 30bbbb)
@@ -109,9 +112,19 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 			- [ ] [Land's Stride - bg3.wiki](https://bg3.wiki/wiki/Land%27s_Stride)
 			- [ ] [Natural Explorer - bg3.wiki](https://bg3.wiki/wiki/Natural_Explorer)
 			- [ ] [Favoured Enemy - bg3.wiki](https://bg3.wiki/wiki/Favoured_Enemy)
+			- [ ] [Exceptional Training - bg3.wiki](https://bg3.wiki/wiki/Exceptional_Training)
+			- [ ] [Escape the Horde - bg3.wiki](https://bg3.wiki/wiki/Escape_the_Horde)
+			- [ ] [Companion's Bond - bg3.wiki](https://bg3.wiki/wiki/Companion%27s_Bond)
+			- [ ] [Multiattack Defence - bg3.wiki](https://bg3.wiki/wiki/Multiattack_Defence)
+			- [ ] [Horde Breaker - bg3.wiki](https://bg3.wiki/wiki/Horde_Breaker)
 		- [ ] Hunter
 			- [ ] [Whirlwind](https://bg3.wiki/wiki/Whirlwind_Attack)[Whirlwind Attack - bg3.wiki](https://bg3.wiki/wiki/Whirlwind_Attack) #bg3 
 			- [ ] [Volley](https://bg3.wiki/wiki/Volley)[Volley - bg3.wiki](https://bg3.wiki/wiki/Volley) #bg3
+		- [ ] [Fast Hands - bg3.wiki](https://bg3.wiki/wiki/Fast_Hands)
+		- [ ] [Second-Story Work - bg3.wiki](https://bg3.wiki/wiki/Second-Story_Work)
+		- [ ] [Assassinate: Ambush - bg3.wiki](https://bg3.wiki/wiki/Assassinate:_Ambush)
+		- [ ] [Assassinate: Initiative - bg3.wiki](https://bg3.wiki/wiki/Assassinate:_Initiative)
+		- [ ] 
 
 ### Mechanics, Skills & Rules Balancing
 
