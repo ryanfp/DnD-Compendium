@@ -24,7 +24,7 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
     - [ ] Decide if font should be updated
     - [ ] Add icons before certain callouts or as part of tags in text
 	    - [ ] ![[image-2.png]]Action - ![[image-1.png]]Bonus Action - ![[image-3.png]]Reaction - ![[image-11.png]]Movement Speed
-	    - [ ] ![[image-23.png]]Hit Points - Blue Heart for Temp HP - ![[image-25.png]]![[image-51.png]]![[image-57.png]]Armor Class - ![[image-26.png]] or ![[image-28.png]]Saving Throws - ![[image-27.png]]Attack Rolls
+	    - [ ] ![[image-23.png]]Hit Points - Blue Heart for Temp HP - ![[image-25.png]]![[image-51.png]]![[image-57.png]]![[image-26.png]]Armor Class - ![[image-26.png]] or ![[image-28.png]]Saving Throws - ![[image-27.png]]Attack Rolls
 	    - [ ] Generic Actions
 		    - [ ] ![[image-52.png]]![[image-56.png]]![[image-58.png]]
 		    - [ ] ![[image-53.png]] [Dash](https://bg3.wiki/wiki/Dash_\(bonus_action\) "Dash (bonus action)")
