@@ -77,6 +77,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "5e Tools Website To-Do & Ideas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5e Tools Website To-Do & Ideas.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"5e Tools Website To-Do & Ideas\"}",
+                  "eState": "{\"scroll\":31.136978149414062}"
+                },
+                {
                   "title": "Quick  Thoughts",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Quick  Thoughts.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Quick  Thoughts\"}",
@@ -285,7 +291,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5e Tools Website To-Do & Ideas.md",
+                "file": "ranger-slayer-homebrew.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -300,7 +306,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5e Tools Website To-Do & Ideas"
+              "title": "ranger-slayer-homebrew"
             }
           }
         ],
@@ -779,6 +785,7 @@
   },
   "active": "b205233caf1d065c",
   "lastOpenFiles": [
+    "5e Tools Website To-Do & Ideas.md",
     "z_img/image-58.png",
     "z_img/image-57.png",
     "z_img/image-56.png",
@@ -788,10 +795,8 @@
     "z_img/image-52.png",
     "z_img/image-51.png",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
-    "5e Tools Website To-Do & Ideas.md",
     "z_img/image-50.png",
     "z_img/image-49.png",
-    "z_img/image-48.png",
     "Quick  Thoughts.md",
     "markdown-cheatsheet.md",
     "Website Navigation Map.md",
