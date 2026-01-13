@@ -308,9 +308,42 @@
               "icon": "lucide-file",
               "title": "ranger-slayer-homebrew"
             }
+          },
+          {
+            "id": "66647d951c7bdfc0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5e Tools Website To-Do & Ideas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "5e Tools Website To-Do & Ideas"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -778,11 +811,17 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "b205233caf1d065c",
+  "active": "66647d951c7bdfc0",
   "lastOpenFiles": [
+    "z_img/image-61.png",
+    "z_img/image-60.png",
+    "z_img/image-59.png",
+    "ranger-slayer-homebrew.md",
     "5e Tools Website To-Do & Ideas.md",
     "z_img/image-58.png",
     "z_img/image-57.png",
@@ -793,13 +832,10 @@
     "z_img/image-52.png",
     "z_img/image-51.png",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
-    "z_img/image-50.png",
-    "z_img/image-49.png",
     "Quick  Thoughts.md",
     "markdown-cheatsheet.md",
     "Website Navigation Map.md",
     "Untitled 1.md",
-    "ranger-slayer-homebrew.md",
     "Ideal Ranger Write Up.md",
     "Campaign Settings.md",
     "z_Scripts/Untitled.md",
