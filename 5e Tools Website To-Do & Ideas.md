@@ -26,7 +26,7 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 	    - [ ] ![[image-2.png]]Action - ![[image-1.png]]Bonus Action - ![[image-3.png]]Reaction - ![[image-11.png]]Movement Speed
 	    - [ ] ![[image-23.png]]Hit Points - Blue Heart for Temp HP - ![[image-25.png]]![[image-51.png]]![[image-57.png]]![[image-26.png]]Armor Class - ![[image-26.png]] or ![[image-28.png]]Saving Throws - ![[image-27.png]]Attack Rolls
 	    - [ ] Generic Actions
-		    - [ ] ![[image-52.png]]![[image-56.png]]![[image-58.png]]![[image-59.png]]![[image-60.png]]![[image-61.png]]
+		    - [ ] ![[image-52.png]]![[image-56.png|20x20]]![[image-58.png]]![[image-59.png]]![[image-60.png]]![[image-61.png]]
 		    - [ ] ![[image-53.png]] [Dash](https://bg3.wiki/wiki/Dash_\(bonus_action\) "Dash (bonus action)")
 		    - [ ] ![[image-54.png]][Disengage](https://bg3.wiki/wiki/Disengage:_Bonus_Action "Disengage: Bonus Action")
 		    - [ ] ![[image-55.png]] [Help](https://bg3.wiki/wiki/Help_\(bonus_action\) "Help (bonus action)")
@@ -46,7 +46,7 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 		    - [ ] ![[image-40.png]]Psychic (HexCode# cc77aa)
 		    - [ ] ![[image-41.png]]Radiant (HexCode# ccaa00)
 		    - [ ] ![[image-42.png]]Thunder (HexCode# 8844bb)
-	    - [ ] ![[image-50.png]]Inspiration - ![[image-21.png]]Resting - ![[image-31.png]]Recharge - ![[image-32.png]]Difficult Terrain - ![[image-47.png]]Duration
+	    - [ ] ![[image-50.png]]Inspiration - ![[image-21.png]]Resting - ![[image-31.png|25x25]]Recharge - ![[image-32.png]]Difficult Terrain - ![[image-47.png]]Duration
 	    - [ ] ![[image-49.png]]Spell Slots - ![[image-7.png]]Spell Points - ![[image-48.png]]Psionics? - ![[image-8.png]]Ritual - ![[image-24.png]]Concentration - ![[image-20.png]]Exploit Die
 
 ### Layout & Functionality

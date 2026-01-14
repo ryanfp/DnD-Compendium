@@ -313,8 +313,14 @@
             "id": "66647d951c7bdfc0",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "image-56",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_img/image-56.png\"},\"icon\":\"lucide-image\",\"title\":\"image-56\"}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -811,26 +817,23 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "task-board:Open task board": false
     }
   },
   "active": "66647d951c7bdfc0",
   "lastOpenFiles": [
+    "z_img/image-56.png",
+    "5e Tools Website To-Do & Ideas.md",
     "z_img/image-61.png",
     "z_img/image-60.png",
     "z_img/image-59.png",
     "ranger-slayer-homebrew.md",
-    "5e Tools Website To-Do & Ideas.md",
     "z_img/image-58.png",
     "z_img/image-57.png",
-    "z_img/image-56.png",
     "z_img/image-55.png",
     "z_img/image-54.png",
     "z_img/image-53.png",
     "z_img/image-52.png",
-    "z_img/image-51.png",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "Quick  Thoughts.md",
     "markdown-cheatsheet.md",
