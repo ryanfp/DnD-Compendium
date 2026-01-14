@@ -96,6 +96,12 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
     - [ ] Decide on “bad” saving throws at high level (is it fine, or tweak/provide compensation?)
         - [ ] Consider fixing “Stunned” via Dazed condition (see [[#Homebrew To-Add]])
 - [ ] Finish creating full suite of “builder" files for homebrew creation
+- [ ] Create a “Boss Fight Outcome” system table
+	- [ ] Fights can go from *really good* ←→Hopeful ←→ Neutral ←→ Dire ←→ Doomed
+	- [ ] Maybe based on certain mechanics like overall remaining health pool of the party, or downed PCs, maybe the boss is one or two rounds away from completing the ritual or something
+	- [ ] Can gate certain mechanics or introduce narrative flavor
+	- [ ] Create effects
+- [ ] **Flavor WISE** how can I work a spiritual “song of creation” into the world? It would be so cool if when someone swan songs I can narrate the song of creation changing it’s tune, with a building crescendo of a violin etc etc or narrate it at other times during the campaign
 
 ### Subclasses & Classes
 
