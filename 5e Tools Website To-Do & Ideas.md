@@ -1,7 +1,7 @@
 ---
 title: 5eTools Website Guide/Goals
 created: 2025/11/29 at 21:58
-updated: 2026/01/10 at 23:57
+updated: 2026/01/15 at 00:20
 aliases:
   - 5eTools Website Guide/Goals
 tags:
@@ -52,9 +52,10 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 ### Layout & Functionality
 
 - [ ] Potentially change layout or add more functionality to improve flow with planned site changes
-- [ ] Add loading animations and bars
+- [x] Add loading animations and bars
     - [ ] Spinning d20 animation
-    - [ ] Low profile loading bar at top
+    - [x] Low profile loading bar at top
+    - [ ] can make it so it only appears on pages that take 150ms or longer to load
 - [ ] Implement light/dark mode toggle
 - [ ] Redo navigation for a more modern look; consult other forks for inspiration
 - [x] ~~Ability to drag and reorder table columns like Google Sheets~~ Changed table column order for many pages to now have *Name* first. 
@@ -65,6 +66,10 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 - [ ] Make tables have slightly alternating colors every other row
 - [ ] Make background two-toned
 - [ ] Make inline table borders a different color to make it more outlined
+- [ ] make sure 3D dice functionality is working
+- [ ] Change the Chevron icon to a d20
+- [ ] See how much a commissin for site assets would be
+- [ ] 
 
 ### Content Management
 
@@ -72,6 +77,12 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 - [x] Delete “JoeyJoestar Good and Evil json file”
 - [ ] Go back through classes/subclasses on Obsidian and update with new sources
 - [ ] Add missing subclasses to site
+- [ ] See what discrepancies there are between Obsidian and 5etools database/jsons
+	- [ ] somanyrobots; Songs of the Spellbound Sea
+	- [ ] GMBinder; The Cipher
+	- [ ] MCDM’s Draw Steel; The Null
+	- [ ] Paths of Power; The Aegis
+	- [ ] ???
 
 ### Integration
 

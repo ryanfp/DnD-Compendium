@@ -77,6 +77,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "ranger-slayer-homebrew",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ranger-slayer-homebrew.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ranger-slayer-homebrew\"}",
+                  "eState": "{}"
+                },
+                {
                   "title": "5e Tools Website To-Do & Ideas",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5e Tools Website To-Do & Ideas.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"5e Tools Website To-Do & Ideas\"}",
@@ -291,8 +297,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ranger-slayer-homebrew.md",
-                "mode": "preview",
+                "file": "5e Tools Website To-Do & Ideas.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -306,7 +312,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ranger-slayer-homebrew"
+              "title": "5e Tools Website To-Do & Ideas"
             }
           },
           {
@@ -353,9 +359,42 @@
               "icon": "lucide-file",
               "title": "death_and_swan_song_rules_card_v1"
             }
+          },
+          {
+            "id": "63d6d6a167d216ec",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "markdown-cheatsheet.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "markdown-cheatsheet"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -823,18 +862,22 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "66647d951c7bdfc0",
+  "active": "b205233caf1d065c",
   "lastOpenFiles": [
-    "death_and_swan_song_system_v1.md",
+    "death_and_swan_song_rules_card_v1.md",
+    "markdown-cheatsheet.md",
     "5e Tools Website To-Do & Ideas.md",
+    "ranger-slayer-homebrew.md",
+    "death_and_swan_song_system_v1.md",
     "z_img/image-56.png",
     "z_img/image-61.png",
     "z_img/image-60.png",
     "z_img/image-59.png",
-    "ranger-slayer-homebrew.md",
     "z_img/image-58.png",
     "z_img/image-57.png",
     "z_img/image-55.png",
@@ -843,7 +886,6 @@
     "z_img/image-52.png",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "Quick  Thoughts.md",
-    "markdown-cheatsheet.md",
     "Website Navigation Map.md",
     "Untitled 1.md",
     "Ideal Ranger Write Up.md",
@@ -863,7 +905,6 @@
     "CurseForge Minecraft Links.md",
     "📚 - Information Compendium/Introduction.md",
     "📚 - Information Compendium/📝 - Rules & Mechanics/rules-and-meta.md",
-    "Home.md",
     "Home.md - Shortcut.lnk",
     "New folder",
     "3-Content/Compendiums/lists",
