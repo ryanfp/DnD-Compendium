@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "death_and_swan_song_rules_card_v1",
+      "path": "death_and_swan_song_rules_card_v1.md"
+    },
+    {
       "basename": "death_and_swan_song_system_v1",
       "path": "death_and_swan_song_system_v1.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "mad-bomber",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/mad-bomber.md"
-    },
-    {
-      "basename": "dynamo-engineer",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/dynamo-engineer.md"
     }
   ],
   "omittedPaths": [],

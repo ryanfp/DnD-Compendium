@@ -320,6 +320,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "death_and_swan_song_system_v1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"death_and_swan_song_system_v1.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"death_and_swan_song_system_v1\"}",
+                  "eState": "{\"scroll\":183.800341796875}"
+                },
+                {
                   "title": "5e Tools Website To-Do & Ideas",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5e Tools Website To-Do & Ideas.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"5e Tools Website To-Do & Ideas\"}",
@@ -330,9 +336,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "death_and_swan_song_system_v1.md",
-                "mode": "source",
-                "source": false,
+                "file": "death_and_swan_song_rules_card_v1.md",
+                "mode": "preview",
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -345,7 +351,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "death_and_swan_song_system_v1"
+              "title": "death_and_swan_song_rules_card_v1"
             }
           }
         ],
@@ -817,13 +823,12 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "task-board:Open task board": false
     }
   },
   "active": "66647d951c7bdfc0",
   "lastOpenFiles": [
+    "death_and_swan_song_system_v1.md",
     "5e Tools Website To-Do & Ideas.md",
     "z_img/image-56.png",
     "z_img/image-61.png",
