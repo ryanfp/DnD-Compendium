@@ -52,6 +52,8 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 ### Layout & Functionality
 
 - [ ] Potentially change layout or add more functionality to improve flow with planned site changes
+	- [ ] have a very rough draft of a color palette and .css file
+	- [ ] show screenshot of what it makes obsidian look like, it’s pretty rough
 - [x] Add loading animations and bars
     - [ ] Spinning d20 animation
     - [x] Low profile loading bar at top

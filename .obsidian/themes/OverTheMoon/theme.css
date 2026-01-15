@@ -1,0 +1,231 @@
+/* =========================================================
+   OverTheMoon D&D Theme for Obsidian Publish
+   Includes: Twilight Grimoire (dark) + Dustlight Tome (light)
+   Author: OverTheMoon D&D
+   Version: 1.0
+   Modes: dark, light
+   ========================================================= */
+
+/* ---------------------------------------------------------
+   OLD D&D THEME (Commented Out for Reference)
+--------------------------------------------------------- */
+/*
+.theme-dark {
+  --background-primary: #0f172a;
+  --text-primary: #f8fafc;
+  --accent-color: #c14343;
+  --link-color: #6cb79e;
+  --border-color: #1e293b;
+}
+*/
+
+/* ---------------------------------------------------------
+   TWILIGHT GRIMOIRE — DARK MODE
+--------------------------------------------------------- */
+:root, [data-theme="dark"], .theme-dark {
+  --bg-primary: #0E1117;
+  --bg-secondary: #1A1D24;
+  --bg-contrast: #22252E;
+  --bg-accent: #2D3038;
+
+  --text-primary: #E4E4E8;
+  --text-secondary: #B0B3B8;
+  --text-muted: #8A8D91;
+  --text-accent: #D77034;
+  --text-link: #A3B79F;
+  --text-success: #89B982;
+  --text-warning: #D29A38;
+  --text-danger: #B3423C;
+
+  --border-color: #2C2F36;
+  --border-contrast: #383B44;
+  --divider-color: rgba(255, 255, 255, 0.08);
+
+  --code-bg: #1B1E25;
+  --code-border: #32353C;
+  --code-text: #E4E4E8;
+  --code-accent: #D77034;
+  --code-keyword: #D29A38;
+  --code-function: #89B982;
+
+  --hover-bg: rgba(255, 255, 255, 0.05);
+  --active-bg: rgba(210, 154, 56, 0.1);
+  --focus-ring: #D29A38;
+  --selection-bg: rgba(137, 185, 130, 0.25);
+
+  --sidebar-bg: #16191F;
+  --sidebar-hover: #22252E;
+  --sidebar-active: #2C2F36;
+  --sidebar-text: #CFCFD4;
+  --sidebar-link: #A3B79F;
+  --sidebar-link-active: #D29A38;
+  --sidebar-heading: #D77034;
+
+  --card-bg: #1A1D24;
+  --card-border: #2D3038;
+  --card-shadow: 0 0 12px rgba(0, 0, 0, 0.4);
+  --card-title: #D77034;
+  --card-subtitle: #A3B79F;
+
+  --btn-primary-bg: #D29A38;
+  --btn-primary-hover: #E3B150;
+  --btn-primary-text: #0E1117;
+  --btn-secondary-bg: #2D3038;
+  --btn-secondary-text: #E4E4E8;
+  --btn-secondary-border: #3A3D45;
+
+  --table-bg: #1A1D24;
+  --table-border: #2C2F36;
+  --table-header-bg: #22252E;
+  --table-header-text: #D29A38;
+  --table-row-hover: rgba(210, 154, 56, 0.08);
+
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 10px;
+  --shadow-soft: 0 0 8px rgba(0, 0, 0, 0.3);
+  --shadow-strong: 0 0 18px rgba(0, 0, 0, 0.5);
+}
+
+/* ---------------------------------------------------------
+   DUSTLIGHT TOME — LIGHT MODE
+--------------------------------------------------------- */
+[data-theme="light"], .theme-light {
+  --bg-primary: #3A2B27;        /* dark leather background */
+  --bg-secondary: #4A3935;      /* sidebar leather tone */
+  --bg-contrast: #F2EAD8;       /* main parchment page */
+  --bg-accent: #CBBCA7;
+
+  --text-primary: #2B2A28;
+  --text-secondary: #4C4A47;
+  --text-muted: #6C6863;
+  --text-accent: #A75C2F;
+  --text-link: #657D63;
+  --text-success: #4E7250;
+  --text-warning: #B7882B;
+  --text-danger: #9F3C34;
+
+  --border-color: #C8BDAF;
+  --border-contrast: #B5A89A;
+  --divider-color: rgba(0, 0, 0, 0.08);
+
+  --code-bg: #E9E2D2;
+  --code-border: #D4C8B8;
+  --code-text: #2B2A28;
+  --code-accent: #A75C2F;
+  --code-keyword: #B7882B;
+  --code-function: #4E7250;
+
+  --hover-bg: rgba(0, 0, 0, 0.05);
+  --active-bg: rgba(183, 136, 43, 0.1);
+  --focus-ring: #B7882B;
+  --selection-bg: rgba(101, 125, 99, 0.25);
+
+  --sidebar-bg: #4A3935;
+  --sidebar-hover: #5A4742;
+  --sidebar-active: #6A564F;
+  --sidebar-text: #EAE3DC;
+  --sidebar-link: #A3B79F;
+  --sidebar-link-active: #A75C2F;
+  --sidebar-heading: #B7882B;
+
+  --card-bg: #F2EAD8;
+  --card-border: #CBBCA7;
+  --card-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
+  --card-title: #A75C2F;
+  --card-subtitle: #657D63;
+
+  --btn-primary-bg: #B7882B;
+  --btn-primary-hover: #C69E46;
+  --btn-primary-text: #FCFBF8;
+  --btn-secondary-bg: #E2DED6;
+  --btn-secondary-text: #2B2A28;
+  --btn-secondary-border: #C8C3BB;
+
+  --table-bg: #F4F1EC;
+  --table-border: #D7D2CA;
+  --table-header-bg: #E9E5DF;
+  --table-header-text: #A75C2F;
+  --table-row-hover: rgba(183, 136, 43, 0.08);
+
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 10px;
+  --shadow-soft: 0 0 6px rgba(0, 0, 0, 0.12);
+  --shadow-strong: 0 0 16px rgba(0, 0, 0, 0.18);
+}
+
+/* ---------------------------------------------------------
+   UNIVERSAL ELEMENTS
+--------------------------------------------------------- */
+body, .site-body, .markdown-preview-view {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: 'Inter', 'Segoe UI', sans-serif;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.main-content, .markdown-preview-sizer {
+  background: var(--bg-contrast);
+  color: var(--text-primary);
+  padding: 2rem;
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-soft);
+}
+
+a {
+  color: var(--text-link);
+  text-decoration: none;
+}
+a:hover {
+  color: var(--text-warning);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--text-accent);
+}
+
+.sidebar, .site-sidebar {
+  background-color: var(--sidebar-bg);
+  color: var(--sidebar-text);
+  transition: background-color 0.3s ease;
+}
+.sidebar a, .site-sidebar a {
+  color: var(--sidebar-link);
+}
+.sidebar a.active, .site-sidebar a.active {
+  color: var(--sidebar-link-active);
+}
+
+button, .site-button, .primary-button {
+  background-color: var(--btn-primary-bg);
+  color: var(--btn-primary-text);
+  border: none;
+  border-radius: var(--radius-md);
+  padding: 0.6rem 1.2rem;
+  transition: background-color 0.2s ease;
+}
+button:hover, .site-button:hover, .primary-button:hover {
+  background-color: var(--btn-primary-hover);
+}
+
+code, pre {
+  background-color: var(--code-bg);
+  border: 1px solid var(--code-border);
+  color: var(--code-text);
+  border-radius: var(--radius-sm);
+  padding: 0.25rem 0.5rem;
+}
+
+.table, table {
+  background: var(--table-bg);
+  border: 1px solid var(--table-border);
+  border-radius: var(--radius-sm);
+}
+table th {
+  background: var(--table-header-bg);
+  color: var(--table-header-text);
+}
+table tr:hover {
+  background: var(--table-row-hover);
+}
