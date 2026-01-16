@@ -394,7 +394,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -863,14 +863,13 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "b205233caf1d065c",
+  "active": "63d6d6a167d216ec",
   "lastOpenFiles": [
-    "markdown-cheatsheet.md",
     "5e Tools Website To-Do & Ideas.md",
+    "markdown-cheatsheet.md",
     "death_and_swan_song_rules_card_v1.md",
     "ranger-slayer-homebrew.md",
     "death_and_swan_song_system_v1.md",
