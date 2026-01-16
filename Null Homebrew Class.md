@@ -336,16 +336,13 @@ Gain 1 at level 4, 8, 12, 16 (plus more via subclass, feats, etc.)
 ## 🗂️ Subclass Ideas
 
 - **Voidshaper** – terrain & battlefield control within Null Field
-    
 - **Chronokinetic(DS)** – time warp effects within suppression field
-    
 - **Bastion of the Rift** – tank-style field with summon/banish play
-    
 - **Spellhunter** – disabler subclass focused on mental suppression and crowd control
-    
 - **Chrono/Pyro-Kinetic (Pyrostasis? Pyrostatic?)(DS)** – speeds or slows down molecules with brain powers, manifests fire and ice powers
-    
 - **Gravity/Geomancy (DS)** – environmental manipulation
+- **Metakinetic:** You learn to see through the illusions of the universe to more fully understand your body and its psionic potential. You gain one skill from the exploration group.
+
 ---
 
 ### ✅ **5. Movement & Spatial Manipulation Tools**
