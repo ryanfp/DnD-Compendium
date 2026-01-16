@@ -33,7 +33,6 @@ Where the arcane is **thread**, psionics are **seam** — the wall, not the tape
 
 ## 📦 Additional Fluff / Utility Features (Exploration & Social Pillars)
 
-We’ll fold these into class levels as flavor + function:
 
 | Level | Feature           | Effect                                                                                                                                               |
 | ----- | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -107,6 +106,7 @@ We’ll fold these into class levels as flavor + function:
 	- Changes to Force damage at Level 6
     
 - **Spectral Blows (Level 6):** Spend 1–2 psi to make 1–2 **bonus unarmed strikes (psychic damage)** when you take the Attack action
+	- When you take the attack action you manifest psionic/spectral fists to attack the same target you 
     
 - **Use Intelligence for attacks/damage** with unarmed and monk-like weapons
     
@@ -131,13 +131,9 @@ We’ll fold these into class levels as flavor + function:
 
 ### ✅ **2. Psi Regen on Short Rest**
 
-**Current:** Int mod per short rest
-**Status:** *Acceptable baseline*, especially with absorption-based regen in place
+**Base:** Int mod per short rest
 
-**Suggestions:**
-
-* At level 9+, allow a Null to **choose to meditate during short rest to regain +1d4 psi** (once/day)
-* Optional rule: If hoarding is still an issue in play, can add "Psi Leak" — lose 1 unused psi per hour unless spent or focused
+* At level 9+,  a Null can **choose to meditate during short rest to regain +1d4 psi** (once/day)
 
 ---
 
@@ -147,7 +143,6 @@ We’ll fold these into class levels as flavor + function:
     
 - Counts as movement but ignores terrain caused by magical/psionic sources
 - Movement is spectral, silent, and leaves a shimmer or static trail.
-    
 
 ---
 
@@ -216,30 +211,23 @@ We’ll fold these into class levels as flavor + function:
 
 You gain:
 
-* **Climbing and jumping no longer cost extra movement** (as Monk: Unarmored Movement)
+* **Climbing and jumping no longer cost extra movement** (like Monk: Unarmored Movement)
 * **You ignore difficult terrain** created by magical or psionic effects
-* **Evasion:** When subjected to a Dex save for half damage, you take **0 on success**, **half on failure**
+* **Evasion:** When subjected to a Dex save for half damage, you take **no damage on success**, or **half on a failure**
 
 ---
 
 ### **Kinetic Unweaving (Level 10)**
 
-* You are **permanently under the effect of *feather fall* and *jump***, requiring no action or concentration
-* You may move **extra distance** by spending psi points:
-
-  * Spend **1 psi per 5 ft** to exceed your movement cap (max 20 ft extra per turn)
+* You are **permanently under the effect of *feather fall* and *jump***, requiring no action or concentration, but you must spend 1 Psi Point for every 5 ft that you jump or fall. 
 
 ---
 
-### ✅ **Banishment (Level 14)**
-
-> Original was encounter-wide — too strong.
-
-**New Version: "Null Pulse"**
+### ✅ **Null Pulse (Level 14)**
 
 * While Null Field is active, you may expend 6 psi to **expunge** the field in a 60 ft radius:
 
-  * **All summoned, planar, or bound creatures** must make a **Cha save with disadvantage** or be **banished for 1 minute**
+  * **All summoned, planar, or bound creatures** must make a **CHA save with disadvantage** or be **banished for 1 minute**
   * Normal creatures in the zone must make **Con save or be silenced** until end of next turn
   * Ends Null Field
 
@@ -274,8 +262,6 @@ Gained at 4, 8, 12, 16
 
 ## 🛡️ **Defensive & Utility Features**
 
-### MCDM “Talent”-inspired:
-
 - **Mental Fortress (Level 6+):**
     
     - Immune to Charm, Frighten, Sleep
@@ -293,7 +279,7 @@ Gained at 4, 8, 12, 16
 
 ---
 
-## 🌌 **Narrative & Exploration Features (Tiered)**
+## 🌌 **Flavor/Narrative Features**
 
 - **Pocket Null (11):** Store suppressed items or briefly banish a creature (CR ≤ 2) to null space
     
@@ -316,11 +302,11 @@ Gained at 4, 8, 12, 16
     
 - While active, your Null Field expands to 1-mile suppression zone
     
-- Ends all magical effects in area unless they succeed DC 20 “persistence check”
+- Ends all magical effects in area unless they succeed DC 20 CHA save
     
 
 
-# 🧩 Modular Talent System: “Null Adaptations” (Updated)
+# 🧩 Null Adaptations
 
 Gain 1 at level 4, 8, 12, 16 (plus more via subclass, feats, etc.)
 
@@ -336,9 +322,7 @@ Gain 1 at level 4, 8, 12, 16 (plus more via subclass, feats, etc.)
 
 ---
 
-## 🧱 Design Philosophy: Tier & Theme Anchoring
-
-We’re following a **tiered design philosophy**:
+## 🧱 Goals
 
 |Tier|Levels|Theme|
 |---|---|---|
@@ -349,16 +333,17 @@ We’re following a **tiered design philosophy**:
 
 ---
 
-## 🗂️ Subclass Hooks & Next Steps (Optional Preview)
+## 🗂️ Subclass Ideas
 
 - **Voidshaper** – terrain & battlefield control within Null Field
     
 - **Chronokinetic** – time warp effects within suppression field
     
-- **Warden of the Rift** – tank-style field with summon/banish play
+- **Bastion of the Rift** – tank-style field with summon/banish play
     
-- **Mentalist Breaker** – disabler subclass focused on mental suppression and crowd control
+- **Spellhunter** – disabler subclass focused on mental suppression and crowd control
     
+- **Chrono/Pyro-Kinetic (Pyrostasis? Pyrostatic?)** – speeds or slows down molecules with brain powers, manifests fire and ice powers
 
 ---
 
