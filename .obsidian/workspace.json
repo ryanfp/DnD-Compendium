@@ -392,9 +392,42 @@
               "icon": "lucide-file",
               "title": "markdown-cheatsheet"
             }
+          },
+          {
+            "id": "7b3bfaec5ec8b104",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Null Homebrew Class.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Null Homebrew Class"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -863,13 +896,15 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "63d6d6a167d216ec",
+  "active": "7b3bfaec5ec8b104",
   "lastOpenFiles": [
-    "5e Tools Website To-Do & Ideas.md",
     "markdown-cheatsheet.md",
+    "Null Homebrew Class.md",
+    "5e Tools Website To-Do & Ideas.md",
     "death_and_swan_song_rules_card_v1.md",
     "ranger-slayer-homebrew.md",
     "death_and_swan_song_system_v1.md",
@@ -903,7 +938,6 @@
     "Modrinth Minecraft Links.md",
     "CurseForge Minecraft Links.md",
     "📚 - Information Compendium/Introduction.md",
-    "📚 - Information Compendium/📝 - Rules & Mechanics/rules-and-meta.md",
     "Home.md - Shortcut.lnk",
     "New folder",
     "3-Content/Compendiums/lists",
