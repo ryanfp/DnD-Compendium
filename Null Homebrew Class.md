@@ -337,14 +337,15 @@ Gain 1 at level 4, 8, 12, 16 (plus more via subclass, feats, etc.)
 
 - **Voidshaper** – terrain & battlefield control within Null Field
     
-- **Chronokinetic** – time warp effects within suppression field
+- **Chronokinetic(DS)** – time warp effects within suppression field
     
 - **Bastion of the Rift** – tank-style field with summon/banish play
     
 - **Spellhunter** – disabler subclass focused on mental suppression and crowd control
     
-- **Chrono/Pyro-Kinetic (Pyrostasis? Pyrostatic?)** – speeds or slows down molecules with brain powers, manifests fire and ice powers
-
+- **Chrono/Pyro-Kinetic (Pyrostasis? Pyrostatic?)(DS)** – speeds or slows down molecules with brain powers, manifests fire and ice powers
+    
+- **Gravity/Geomancy (DS)** – environmental manipulation
 ---
 
 ### ✅ **5. Movement & Spatial Manipulation Tools**
