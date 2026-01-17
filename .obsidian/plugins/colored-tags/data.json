@@ -1582,7 +1582,9 @@
     "colorpalette/color/yellow": 9,
     "colorpalette/gradient": 9,
     "night": 38,
-    "colorpalette/coffee": 10
+    "colorpalette/coffee": 10,
+    "colorpalette/dark-mode": 11,
+    "colorpalette/light-mode": 12
   },
   "_version": 3
 }

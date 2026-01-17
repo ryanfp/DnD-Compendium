@@ -371,6 +371,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":27},\"to\":{\"line\":17,\"ch\":27}}}"
+                },
+                {
+                  "title": "Untitled 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Untitled 2",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled 2.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 2\"}",
@@ -946,7 +958,7 @@
               "type": "markdown",
               "state": {
                 "file": "Color Palette/imgs/Untitled 1.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -1439,6 +1451,8 @@
   },
   "active": "63d6d6a167d216ec",
   "lastOpenFiles": [
+    "Color Palette/imgs/Untitled.md",
+    "Color Palette/imgs/Untitled 1.md",
     "Color Palette/imgs/Untitled 2.md",
     "Color Palette/imgs/Untitled 3.md",
     "Color Palette/imgs/Untitled 4.md",
@@ -1455,11 +1469,9 @@
     "Color Palette/imgs/Untitled 14.md",
     "Color Palette/imgs/Untitled 15.md",
     "Color Palette/imgs/Untitled 16.md",
-    "Color Palette/imgs/Untitled 1.md",
     "Color Palette/imgs/Untitled 3 1.md",
     "Color Palette/imgs/Untitled 2 1.md",
     "Color Palette/imgs/Untitled 1 1.md",
-    "Color Palette/imgs/Untitled.md",
     "markdown-cheatsheet.md",
     "z_img/image-85.png",
     "z_img/image-84.png",

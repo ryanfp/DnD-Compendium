@@ -5,6 +5,10 @@
       "path": "Color Palette/imgs/Untitled 1.md"
     },
     {
+      "basename": "Untitled",
+      "path": "Color Palette/imgs/Untitled.md"
+    },
+    {
       "basename": "Untitled 2",
       "path": "Color Palette/imgs/Untitled 2.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "Untitled 16",
       "path": "Color Palette/imgs/Untitled 16.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Color Palette/imgs/Untitled.md"
     },
     {
       "basename": "markdown-cheatsheet",
