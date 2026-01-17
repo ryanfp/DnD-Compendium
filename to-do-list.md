@@ -1,12 +1,16 @@
 ---
+title: To-Do List
+created: 2025/06/18 at 22:43
+updated: 2026/01/17 at 14:07
 permalink: to-do-list
-kanban: 
-tags: [completed, in-progress, not-started, started]
 aliases:
   - To-Do List
-created: 2025/06/18 at 22:43
-updated: 2025/07/23 at 23:49
-title: To-Do List
+tags:
+  - completed
+  - in-progress
+  - not-started
+  - started
+kanban: 
 ---
 
 # To-Do List

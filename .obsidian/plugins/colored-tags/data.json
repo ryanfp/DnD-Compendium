@@ -1612,7 +1612,12 @@
     "colorpal": 46,
     "colorpalette/tag/gold": 10,
     "colorpalette/tag/fall": 11,
-    "colorpalette/tag/sunset": 12
+    "colorpalette/tag/sunset": 12,
+    "colorpalette/tag/retro": 13,
+    "colorpalette/color/teal": 13,
+    "colorpalette/tag/pastel": 14,
+    "colorpalette/tag/earth": 15,
+    "colorpalette/tag/kids": 16
   },
   "_version": 3
 }
