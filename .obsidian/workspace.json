@@ -371,10 +371,58 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Quick  Thoughts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Quick  Thoughts.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Quick  Thoughts\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "3125-1696894452-1192171480",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_img/3125-1696894452-1192171480.webp\"},\"icon\":\"lucide-image\",\"title\":\"3125-1696894452-1192171480\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "3125-1696894472-1340313030",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_img/3125-1696894472-1340313030.webp\"},\"icon\":\"lucide-image\",\"title\":\"3125-1696894472-1340313030\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Untitled 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled 5.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 5\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Untitled 4 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled 4 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 4 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":27},\"to\":{\"line\":14,\"ch\":27}}}"
+                },
+                {
+                  "title": "Untitled 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled 4.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 4\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":30},\"to\":{\"line\":15,\"ch\":30}},\"scroll\":0}"
+                },
+                {
+                  "title": "Untitled 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled 3.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Untitled 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled 2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Untitled 1",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 1\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "Untitled",
@@ -1083,9 +1131,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5e Tools Website To-Do & Ideas.md",
+                "file": "Modrinth Minecraft Links.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -1098,7 +1146,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5e Tools Website To-Do & Ideas"
+              "title": "Modrinth Minecraft Links"
             }
           }
         ],
@@ -1153,7 +1201,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#bg3",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -1202,8 +1250,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a3116cdcaf599a64",
@@ -1235,7 +1282,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.51625061035156
+    "width": 312.51625061035156
   },
   "right": {
     "id": "fc1490c296b0c5ab",
@@ -1244,7 +1291,7 @@
       {
         "id": "309059b9c707bcf9",
         "type": "tabs",
-        "dimension": 42.369477911646584,
+        "dimension": 45.752508361204015,
         "children": [
           {
             "id": "c8ee4e8637678702",
@@ -1322,7 +1369,7 @@
             }
           },
           {
-            "id": "d4586a057132640c",
+            "id": "3a91a24b66c219be",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -1334,14 +1381,18 @@
               ]
             },
             "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
-            "id": "693cef2cdcb905a6",
+            "id": "c8ddf2f537d6bbbf",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -1353,10 +1404,12 @@
               ]
             },
             "state": {
-              "type": "modal-form-manage-forms-view",
-              "state": {},
-              "icon": "documents",
-              "title": "Manage forms"
+              "type": "file-properties",
+              "state": {
+                "file": "Modrinth Minecraft Links.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Modrinth Minecraft Links"
             }
           },
           {
@@ -1460,7 +1513,7 @@
             }
           },
           {
-            "id": "3a91a24b66c219be",
+            "id": "7bf5d45ec3a8d554",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -1472,65 +1525,19 @@
               ]
             },
             "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "c8ddf2f537d6bbbf",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "5e Tools Website To-Do & Ideas.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for 5e Tools Website To-Do & Ideas"
-            }
-          },
-          {
-            "id": "b66bf8b4ff8e71c6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "footnotes",
-              "state": {
-                "file": "5e Tools Website To-Do & Ideas.md"
-              },
-              "icon": "lucide-file-signature",
-              "title": "Footnotes"
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "21f9e4c778ac3689",
         "type": "tabs",
-        "dimension": 57.63052208835341,
+        "dimension": 54.247491638795985,
         "children": [
           {
             "id": "eadab09cc80380ca",
@@ -1552,8 +1559,30 @@
               "icon": "lines-of-text",
               "title": "Quiet Outline"
             }
+          },
+          {
+            "id": "f011785153e46839",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Modrinth Minecraft Links.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -1577,7 +1606,6 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
       "obsidian42-brat:BRAT": true,
       "obsidian-custom-frames:Open Obsidian Forum": true,
@@ -1598,35 +1626,38 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "63d6d6a167d216ec",
+  "active": "fcaa59025a7544d2",
   "lastOpenFiles": [
-    "Color Palette/imgs/Untitled 1.md",
+    "desktop.ini",
     "Quick  Thoughts.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/augen-trust-spy.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Races/elf-fey-star-darkmatter.md",
-    "Color Palette/imgs/Untitled.md",
+    "test.md",
+    "z_img/3125-1696894452-1192171480.webp",
+    "Null Homebrew Class.md",
+    "Monster Classifications.md",
+    "Homebrew In-Progress/ranger-slayer-homebrew.md",
+    "Homebrew In-Progress/Organization Hierarchy.md",
+    "Homebrew In-Progress/Null Homebrew Class.md",
+    "Homebrew In-Progress/Monster Classifications.md",
+    "Homebrew In-Progress/Ideal Ranger.md",
+    "Homebrew In-Progress/Ideal Ranger Write Up.md",
+    "Homebrew In-Progress/death_and_swan_song_system_v1.md",
+    "Homebrew In-Progress/death_and_swan_song_rules_card_v1.md",
+    "Homebrew In-Progress/Cipher Homebrew Class.md",
+    "Homebrew In-Progress",
+    "z_img/3125-1696894472-1340313030.webp",
+    "Color Palette/imgs/Untitled 5.md",
+    "📚 - Information Compendium/books/compendium-of-beasts/2-laserllama-compendium-of-beasts-v2-0-0.md",
+    "Color Palette/imgs/Untitled 4 1.md",
     "Color Palette/imgs/Untitled 4.md",
     "Color Palette/imgs/Untitled 3.md",
     "Color Palette/imgs/Untitled 2.md",
+    "Color Palette/imgs/Untitled 1.md",
+    "5e Tools Website To-Do & Ideas.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/augen-trust-spy.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Races/elf-fey-star-darkmatter.md",
+    "Color Palette/imgs/Untitled.md",
     "Color Palette/Color Palettes.base",
     "Color Palette/Color Palettes.md",
-    "Color Palette/imgs/Untitled 4 1.md",
-    "Color Palette/imgs/Untitled 5.md",
-    "Color Palette/imgs/Untitled 6.md",
-    "Color Palette/imgs/Untitled 7.md",
-    "Color Palette/imgs/Untitled 8.md",
-    "Color Palette/imgs/Untitled 9.md",
-    "Color Palette/imgs/Untitled 10.md",
-    "Color Palette/imgs/Untitled 11.md",
-    "Color Palette/imgs/Untitled 12.md",
-    "Color Palette/imgs/Untitled 13.md",
-    "Color Palette/imgs/Untitled 14.md",
-    "Color Palette/imgs/Untitled 15.md",
-    "Color Palette/imgs/Untitled 16.md",
-    "Color Palette/imgs/Untitled 3 1.md",
-    "Color Palette/imgs/Untitled 2 1.md",
-    "Color Palette/imgs/Untitled 1 1.md",
-    "markdown-cheatsheet.md",
     "z_img/image-85.png",
     "z_img/image-84.png",
     "z_img/image-83.png",
@@ -1635,8 +1666,6 @@
     "z_img/image-80.png",
     "z_img/image-79.png",
     "z_img/image-78.png",
-    "z_img/image-77.png",
-    "z_img/image-76.png",
     "Color Palette/imgs",
     "Color Palette",
     "Home.md - Shortcut.lnk",
@@ -1644,7 +1673,6 @@
     "3-Content/Compendiums/lists",
     "3-Content/Compendiums",
     "3-Content",
-    "test folder22",
-    "z_Scripts/Unconfirmed 254922.crdownload"
+    "test folder22"
   ]
 }

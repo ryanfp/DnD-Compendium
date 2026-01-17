@@ -33,6 +33,13 @@
     }
   },
   "fileIcons": {
+    "Homebrew In-Progress": {
+      "icon": "lucide-wrench",
+      "color": "orange",
+      "unsynced": [
+        "74b9081e8f8b76ce"
+      ]
+    },
     "z_Templates": {
       "icon": "lucide-log-in",
       "unsynced": [
@@ -103,20 +110,8 @@
         "74b9081e8f8b76ce"
       ]
     },
-    "📚 - Information Compendium/Spells": {
-      "icon": "lucide-wand-sparkles",
-      "unsynced": [
-        "74b9081e8f8b76ce"
-      ]
-    },
     "📚 - Information Compendium/⚔ - Features & Skills": {
       "icon": "lucide-stars",
-      "unsynced": [
-        "74b9081e8f8b76ce"
-      ]
-    },
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds": {
-      "icon": "lucide-house",
       "unsynced": [
         "74b9081e8f8b76ce"
       ]

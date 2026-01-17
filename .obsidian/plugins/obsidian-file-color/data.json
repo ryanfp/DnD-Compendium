@@ -36,6 +36,46 @@
       "id": "QiZEtw1ZJu58Op00fRET0",
       "name": "",
       "value": "#ffea00"
+    },
+    {
+      "id": "CAkWDeMwCcb0l4NeswYoV",
+      "name": "",
+      "value": "#fb8b23"
+    },
+    {
+      "id": "hZEXk8TP5-xxEXcVcFS0e",
+      "name": "",
+      "value": "#502aea"
+    },
+    {
+      "id": "7NhAtqpwc6oFXESxUl5Z_",
+      "name": "",
+      "value": "#ce88bf"
+    },
+    {
+      "id": "3sz-g0x7_0xBJ7o0EuyvP",
+      "name": "",
+      "value": "#c7ff2e"
+    },
+    {
+      "id": "x4017iJ8x0LoGJlYEhoB0",
+      "name": "",
+      "value": "#ffbd61"
+    },
+    {
+      "id": "TnWsYK3_-5d-9pLH3YxKY",
+      "name": "",
+      "value": "#f85ddc"
+    },
+    {
+      "id": "FiYlGcCufl0zVeLrXtv-G",
+      "name": "",
+      "value": "#000000"
+    },
+    {
+      "id": "rhMtCi2yH84_PZHzRNYmw",
+      "name": "",
+      "value": "#ffffff"
     }
   ],
   "fileColors": [
@@ -66,6 +106,26 @@
     {
       "path": "📚 - Information Compendium/👹 - Bestiary/👹 - Bestiary.md",
       "color": "6-Pm7JuNYHo5FHzP7QY4E"
+    },
+    {
+      "path": "Homebrew In-Progress",
+      "color": "CAkWDeMwCcb0l4NeswYoV"
+    },
+    {
+      "path": "z_Scripts",
+      "color": "FiYlGcCufl0zVeLrXtv-G"
+    },
+    {
+      "path": "Chat Logs",
+      "color": "FiYlGcCufl0zVeLrXtv-G"
+    },
+    {
+      "path": "z_img",
+      "color": "FiYlGcCufl0zVeLrXtv-G"
+    },
+    {
+      "path": "Script Backups",
+      "color": "FiYlGcCufl0zVeLrXtv-G"
     }
   ]
 }

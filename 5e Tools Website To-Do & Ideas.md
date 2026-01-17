@@ -1,11 +1,10 @@
 ---
 title: 5eTools Website Guide/Goals
 created: 2025/11/29 at 21:58
-updated: 2026/01/15 at 00:20
+updated: 2026/01/17 at 11:34
 aliases:
   - 5eTools Website Guide/Goals
-tags:
-  - bg3
+tags: []
 ---
 
 # 5eTools Website Guide/Goals
@@ -152,8 +151,8 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 			- [ ] [Multiattack Defence - bg3.wiki](https://bg3.wiki/wiki/Multiattack_Defence)
 			- [ ] [Horde Breaker - bg3.wiki](https://bg3.wiki/wiki/Horde_Breaker)
 		- [ ] Hunter
-			- [ ] [Whirlwind](https://bg3.wiki/wiki/Whirlwind_Attack)[Whirlwind Attack - bg3.wiki](https://bg3.wiki/wiki/Whirlwind_Attack) #bg3 
-			- [ ] [Volley](https://bg3.wiki/wiki/Volley)[Volley - bg3.wiki](https://bg3.wiki/wiki/Volley) #bg3
+			- [ ] [Whirlwind](https://bg3.wiki/wiki/Whirlwind_Attack)[Whirlwind Attack - bg3.wiki](https://bg3.wiki/wiki/Whirlwind_Attack) 
+			- [ ] [Volley](https://bg3.wiki/wiki/Volley)[Volley - bg3.wiki](https://bg3.wiki/wiki/Volley) 
 		- [ ] [Fast Hands - bg3.wiki](https://bg3.wiki/wiki/Fast_Hands)
 		- [ ] [Second-Story Work - bg3.wiki](https://bg3.wiki/wiki/Second-Story_Work)
 		- [ ] [Assassinate: Ambush - bg3.wiki](https://bg3.wiki/wiki/Assassinate:_Ambush)
