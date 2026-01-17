@@ -1,31 +1,43 @@
 {
   "presetFields": [
     {
-      "type": "Select",
-      "tagName": "select",
-      "icon": "right-triangle",
-      "tooltip": "Accepts a single value from a list",
-      "colorClass": "select",
+      "type": "Boolean",
+      "tagName": "boolean",
+      "icon": "toggle-left",
+      "tooltip": "Accepts true or false",
+      "colorClass": "boolean",
+      "options": {},
+      "name": "WebsiteDesign",
+      "id": "NpEXSn",
+      "path": ""
+    },
+    {
+      "type": "Boolean",
+      "tagName": "boolean",
+      "icon": "toggle-left",
+      "tooltip": "Accepts true or false",
+      "colorClass": "boolean",
+      "options": {},
+      "name": "ColorPalette?",
+      "id": "szq9m0",
+      "path": ""
+    },
+    {
+      "type": "Cycle",
+      "tagName": "cycle",
+      "icon": "switch",
+      "tooltip": "Cycles through values from a list",
+      "colorClass": "cycle",
       "options": {
         "sourceType": "ValuesList",
         "valuesList": {
-          "1": "test 1",
-          "2": "test 2",
-          "3": "test 3",
-          "4": "test 4"
+          "1": "dark-mode",
+          "2": "light-mode"
         }
       },
-      "name": "test",
-      "id": "AKrSeX",
-      "path": "",
-      "command": {
-        "id": "insert__presetField__test",
-        "icon": "source list",
-        "label": "Insert test field"
-      },
-      "style": {
-        "italic": true
-      }
+      "name": "Theme?",
+      "id": "j9NUx6",
+      "path": ""
     }
   ],
   "fileClassQueries": [],
@@ -34,7 +46,7 @@
   "classFilesPath": null,
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.1",
+  "settingsVersion": "5.4",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,

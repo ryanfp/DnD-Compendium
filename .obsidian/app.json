@@ -9,7 +9,7 @@
   "focusNewTab": true,
   "livePreview": false,
   "showLineNumber": true,
-  "propertiesInDocument": "hidden",
+  "propertiesInDocument": "source",
   "trashOption": "local",
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
