@@ -16,6 +16,7 @@ tags:
   - colorpalette/night
   - colorpalette/vintage
   - colorpalette/warm
+  - 
 ---
 
 ![[image-63.png]]

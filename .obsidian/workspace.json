@@ -371,6 +371,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Untitled 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":26},\"to\":{\"line\":15,\"ch\":26}}}"
+                },
+                {
                   "title": "Untitled",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
@@ -957,7 +963,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Color Palette/imgs/Untitled 1.md",
+                "file": "Color Palette/imgs/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -972,7 +978,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Untitled"
             }
           }
         ],
@@ -1370,10 +1376,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Color Palette/imgs/Untitled 1.md"
+                "file": "Color Palette/imgs/Untitled.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Untitled 1"
+              "title": "File properties for Untitled"
             }
           }
         ],
@@ -1444,15 +1450,13 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "task-board:Open task board": false
     }
   },
   "active": "63d6d6a167d216ec",
   "lastOpenFiles": [
-    "Color Palette/imgs/Untitled.md",
     "Color Palette/imgs/Untitled 1.md",
+    "Color Palette/imgs/Untitled.md",
     "Color Palette/imgs/Untitled 2.md",
     "Color Palette/imgs/Untitled 3.md",
     "Color Palette/imgs/Untitled 4.md",
