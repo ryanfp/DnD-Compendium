@@ -1,15 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-race
-tags:
-- 
-- race/elf/fey-star
+title: Elf (Fey; Star)
+created: 2025/06/15 at 22:47
+updated: 2026/01/17 at 11:30
 aliases:
-- Elf (Fey; Star)
+  - Elf (Fey; Star)
+tags:
+  - race/elf/fey-star
+cssclasses: json5e-race
+obsidianUIMode: preview
 ---
-# Elf (Fey; Star)
-*Source: Dark Matter p. 21*  
 
+# Elf (Fey; Star)
+
+*Source: Dark Matter p. 21*  
 
 - **Ability Scores**: Intelligence +1
 - **Size**: Medium

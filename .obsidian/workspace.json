@@ -374,6 +374,126 @@
                   "title": "Untitled 1",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Untitled 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled 4.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 4\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Untitled 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled 3.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Untitled 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled 2.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":8},\"to\":{\"line\":4,\"ch\":8}},\"scroll\":0}"
+                },
+                {
+                  "title": "Untitled 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled 1.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":23},\"to\":{\"line\":15,\"ch\":23}}}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Color Palettes",
+                  "icon": "lucide-layout-grid",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"Color Palette/Color Palettes.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-layout-grid\",\"title\":\"Color Palettes\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}}}"
+                },
+                {
+                  "title": "Color Palettes",
+                  "icon": "lucide-layout-grid",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"Color Palette/Color Palettes.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-layout-grid\",\"title\":\"Color Palettes\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Color Palettes",
+                  "icon": "lucide-table",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"Color Palette/Color Palettes.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"Color Palettes\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":null,\"left\":0},\"activeCell\":null}}}"
+                },
+                {
+                  "title": "Color Palettes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/Color Palettes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Color Palettes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Untitled 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled 4.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 4\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Untitled 4 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled 4 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 4 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Untitled 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled 4.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 4\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Untitled 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled 3.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":27},\"to\":{\"line\":16,\"ch\":27}},\"scroll\":0}"
+                },
+                {
+                  "title": "Untitled 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled 2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":26},\"to\":{\"line\":15,\"ch\":26}},\"scroll\":3.231412366313449}"
+                },
+                {
+                  "title": "Untitled 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Untitled 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 1\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":26},\"to\":{\"line\":15,\"ch\":26}}}"
                 },
                 {
@@ -963,7 +1083,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Color Palette/imgs/Untitled.md",
+                "file": "5e Tools Website To-Do & Ideas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -978,7 +1098,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "5e Tools Website To-Do & Ideas"
             }
           }
         ],
@@ -994,7 +1114,7 @@
       {
         "id": "18a6a72c97b9c3ec",
         "type": "tabs",
-        "dimension": 70.62457103637611,
+        "dimension": 40.17918676774638,
         "children": [
           {
             "id": "fcaa59025a7544d2",
@@ -1033,7 +1153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#bg3",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -1082,12 +1202,13 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a3116cdcaf599a64",
         "type": "tabs",
-        "dimension": 29.375428963623882,
+        "dimension": 59.82081323225362,
         "children": [
           {
             "id": "f068611f25fe0e60",
@@ -1114,7 +1235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.51625061035156
+    "width": 323.51625061035156
   },
   "right": {
     "id": "fc1490c296b0c5ab",
@@ -1376,14 +1497,35 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Color Palette/imgs/Untitled.md"
+                "file": "5e Tools Website To-Do & Ideas.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Untitled"
+              "title": "File properties for 5e Tools Website To-Do & Ideas"
+            }
+          },
+          {
+            "id": "b66bf8b4ff8e71c6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "5e Tools Website To-Do & Ideas.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       },
       {
         "id": "21f9e4c778ac3689",
@@ -1419,6 +1561,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "quickadd:QuickAdd": false,
       "callout-manager:Insert Callout": false,
       "omnisearch:Omnisearch": false,
@@ -1450,16 +1593,23 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "63d6d6a167d216ec",
   "lastOpenFiles": [
     "Color Palette/imgs/Untitled 1.md",
+    "Quick  Thoughts.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Backgrounds/augen-trust-spy.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Races/elf-fey-star-darkmatter.md",
     "Color Palette/imgs/Untitled.md",
-    "Color Palette/imgs/Untitled 2.md",
-    "Color Palette/imgs/Untitled 3.md",
     "Color Palette/imgs/Untitled 4.md",
+    "Color Palette/imgs/Untitled 3.md",
+    "Color Palette/imgs/Untitled 2.md",
+    "Color Palette/Color Palettes.base",
+    "Color Palette/Color Palettes.md",
     "Color Palette/imgs/Untitled 4 1.md",
     "Color Palette/imgs/Untitled 5.md",
     "Color Palette/imgs/Untitled 6.md",
@@ -1481,16 +1631,12 @@
     "z_img/image-84.png",
     "z_img/image-83.png",
     "z_img/image-82.png",
-    "Null Homebrew Class.md",
     "z_img/image-81.png",
     "z_img/image-80.png",
     "z_img/image-79.png",
     "z_img/image-78.png",
     "z_img/image-77.png",
     "z_img/image-76.png",
-    "Cipher Homebrew Class.md",
-    "Color Palette/Color Palettes.md",
-    "test.md",
     "Color Palette/imgs",
     "Color Palette",
     "Home.md - Shortcut.lnk",
@@ -1499,7 +1645,6 @@
     "3-Content/Compendiums",
     "3-Content",
     "test folder22",
-    "z_Scripts/Unconfirmed 254922.crdownload",
-    "z_Scripts/Unconfirmed 630161.crdownload"
+    "z_Scripts/Unconfirmed 254922.crdownload"
   ]
 }

@@ -1,11 +1,10 @@
 ---
 title: Quick Thoughts
 created: 2025/08/11 at 23:01
-updated: 2025/12/14 at 20:09
+updated: 2026/01/17 at 11:32
 aliases:
   - Quick Thoughts
-tags:
-  - a
+tags: []
 ---
 
 # Quick Thoughts

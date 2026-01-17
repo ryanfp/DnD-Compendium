@@ -1584,7 +1584,26 @@
     "night": 38,
     "colorpalette/coffee": 10,
     "colorpalette/dark-mode": 11,
-    "colorpalette/light-mode": 12
+    "colorpalette/light-mode": 12,
+    "color": 39,
+    "black": 40,
+    "colorpalette/color/red": 10,
+    "colo": 41,
+    "colorpalette/color/maroon": 11,
+    "colorpalette/color/orange": 12,
+    "colorpalette/theme": 13,
+    "colorpalette/theme/dark-mode": 1,
+    "colorpalette/theme/light-mode": 2,
+    "colorpalette/tag": 14,
+    "colorpalette/tag/night": 1,
+    "colorpalette/tag/vintage": 2,
+    "colorpalette/tag/dark": 3,
+    "colorpalette/tag/halloween": 4,
+    "colorpalette/tag/space": 5,
+    "colorpalette/tag/coffee": 6,
+    "colorpalette/tag/gradient": 7,
+    "colorpalette/tag/warm": 8,
+    "colorpalette/tag/winter": 9
   },
   "_version": 3
 }

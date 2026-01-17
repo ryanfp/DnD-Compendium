@@ -10,13 +10,7 @@ aliases:
   - augen-trust-spy-egw
   - augen-trust-spy-egw.md
 tags:
-  - anothertest
   - background
-  - 
-  - testing
-  - testingagain
-  - thising
-  - thisisalsoatestforpublsi
 cssclasses: json5e-background,
 obsidianUIMode: preview
 ---

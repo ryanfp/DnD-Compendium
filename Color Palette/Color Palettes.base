@@ -1,0 +1,9 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.path.contains("Color Palette/imgs/")
+    cardSize: 400
+    image: note.image
+    imageAspectRatio: 1.4
