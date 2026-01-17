@@ -1,4 +1,13 @@
+---
+title: Null Homebrew Class
+created: 2026/01/15 at 21:09
+updated: 2026/01/16 at 00:14
+aliases:
+  - Null Homebrew Class
+---
+
 # Null Homebrew Class
+
 *A homebrew mapping and reimagining of the Null class from MCDM’s Draw Steel*.
 
 # 💠 **The Null**
@@ -17,7 +26,7 @@ They stretch the space **between meaning**, between logic and reality — a kind
 
 Where the arcane is **thread**, psionics are **seam** — the wall, not the tapestry.
 
-### Nulls are born when psionic use becomes **catastrophic**:
+### Nulls Are Born when Psionic Use Becomes **catastrophic**
 
 * Rifts open into the **Far Realm**, madness bleeding into matter
 * **Planes shift** unpredictably, fused together or torn apart
@@ -32,7 +41,6 @@ Where the arcane is **thread**, psionics are **seam** — the wall, not the tape
 > “We are not power. We are the shape that holds power. When the shape breaks — so does the world.”
 
 ## 📦 Additional Fluff / Utility Features (Exploration & Social Pillars)
-
 
 | Level | Feature           | Effect                                                                                                                                               |
 | ----- | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -96,7 +104,6 @@ Where the arcane is **thread**, psionics are **seam** — the wall, not the tape
 - Regain **Proficiency Bonus + Spell Level** psi when Nullify succeeds (once/turn)
     
 - Cap psi point regain per round = Int mod
-    
 
 ---
 
@@ -109,7 +116,6 @@ Where the arcane is **thread**, psionics are **seam** — the wall, not the tape
 	- When you take the attack action you manifest psionic/spectral fists to attack the same target you 
     
 - **Use Intelligence for attacks/damage** with unarmed and monk-like weapons
-    
 
 ---
 
@@ -125,7 +131,6 @@ Where the arcane is **thread**, psionics are **seam** — the wall, not the tape
 	- If a spell is successfully nullified, **the caster still expends the slot or resource used to cast it.** Nullification occurs after activation but before resolution.
     
 - Triggers **Phase Step**
-    
 
 ---
 
@@ -133,7 +138,7 @@ Where the arcane is **thread**, psionics are **seam** — the wall, not the tape
 
 **Base:** Int mod per short rest
 
-* At level 9+,  a Null can **choose to meditate during short rest to regain +1d4 psi** (once/day)
+* At level 9+, a Null can **choose to meditate during short rest to regain +1d4 psi** (once/day)
 
 ---
 
@@ -165,7 +170,6 @@ Where the arcane is **thread**, psionics are **seam** — the wall, not the tape
     - Cannot benefit from buffs unless they pass a save
         
     - **Allies inside gain +1 to spell save DCs**
-        
 
 ---
 
@@ -201,7 +205,6 @@ Where the arcane is **thread**, psionics are **seam** — the wall, not the tape
 ---
 
 ### ✅ **Memory Drain (Level 6)**
-
 
 * “When you absorb a spell, gain **temporary proficiency** in a skill based on its school for 1 hour. If you already have proficiency, you gain **expertise** instead.”
 
@@ -247,7 +250,7 @@ Flavor: This is a *psionic detonation* — like collapsing a field into a wave o
         
 - **Psychic Binding (Level 18):**
     
-    - When a creature fails a save vs your suppression effects, you can spend a Psi Point to try and  Suppress them.
+    - When a creature fails a save vs your suppression effects, you can spend a Psi Point to try and Suppress them.
         
     - Lasts 1 minute or until save succeeded
     - Optional Discipline: **Collapse Field** — end Null Field early to attempt to Suppress **all enemies inside**, with disadvantage
@@ -275,7 +278,6 @@ Gained at 4, 8, 12, 16
     - Immune to divination/mind-reading unless permitted
         
     - Cannot be telepathically contacted without consent
-        
 
 ---
 
@@ -288,7 +290,6 @@ Gained at 4, 8, 12, 16
 - **Voidmark (Any Tier):** Sense planar instability or psionic ruptures
     
 - **Rift Tear (15+):** Spend psi to briefly open planar seam (teleport, banish, summon void form)
-    
 
 ---
 
@@ -303,8 +304,6 @@ Gained at 4, 8, 12, 16
 - While active, your Null Field expands to 1-mile suppression zone
     
 - Ends all magical effects in area unless they succeed DC 20 CHA save
-    
-
 
 # 🧩 Null Adaptations
 

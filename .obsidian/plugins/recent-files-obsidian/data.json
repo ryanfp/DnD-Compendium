@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Cipher Homebrew Class",
+      "path": "Cipher Homebrew Class.md"
+    },
+    {
       "basename": "Null Homebrew Class",
       "path": "Null Homebrew Class.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "xenoalchemist",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/xenoalchemist.md"
-    },
-    {
-      "basename": "venomsmith",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/venomsmith.md"
     }
   ],
   "omittedPaths": [],

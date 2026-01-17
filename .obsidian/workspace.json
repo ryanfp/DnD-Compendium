@@ -425,9 +425,42 @@
               "icon": "lucide-file",
               "title": "Null Homebrew Class"
             }
+          },
+          {
+            "id": "c1461e1b0c7e5ecd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cipher Homebrew Class.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cipher Homebrew Class"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -895,15 +928,14 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "task-board:Open task board": false
     }
   },
-  "active": "7b3bfaec5ec8b104",
+  "active": "c1461e1b0c7e5ecd",
   "lastOpenFiles": [
-    "markdown-cheatsheet.md",
     "Null Homebrew Class.md",
+    "Cipher Homebrew Class.md",
+    "markdown-cheatsheet.md",
     "5e Tools Website To-Do & Ideas.md",
     "death_and_swan_song_rules_card_v1.md",
     "ranger-slayer-homebrew.md",
@@ -937,7 +969,6 @@
     "Chat Logs/cursor_retrieve_permalink_and_automate.md",
     "Modrinth Minecraft Links.md",
     "CurseForge Minecraft Links.md",
-    "📚 - Information Compendium/Introduction.md",
     "Home.md - Shortcut.lnk",
     "New folder",
     "3-Content/Compendiums/lists",
