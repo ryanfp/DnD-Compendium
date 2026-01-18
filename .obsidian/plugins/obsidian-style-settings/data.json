@@ -144,7 +144,7 @@
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-lavender",
   "anuppuccin-theme-settings-extended@@anp-theme-ext-light": true,
   "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": true,
-  "anuppuccin-theme-settings-extended@@anp-theme-ext-amoled": true,
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-amoled": false,
   "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-rosebox",
   "ITS@@writing-document": false,
   "ITS@@paper": true,
@@ -152,5 +152,9 @@
   "ITS@@disable-source-styling": false,
   "ITS@@vault-name-color@@light": "#00FF75",
   "ITS@@vault-title-none": false,
-  "ITS@@deep-dark-accent@@light": "#189638"
+  "ITS@@deep-dark-accent@@light": "#189638",
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-sky",
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-solarized-light",
+  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-frappe"
 }

@@ -1,5 +1,5 @@
 {
-  "cssTheme": "Things",
+  "cssTheme": "ITS Theme",
   "accentColor": "#44445f",
   "enabledCssSnippets": [
     "supercharged-links-gen",
@@ -10,7 +10,8 @@
     "FantasyFonts",
     "S - Encoded Fonts",
     "S - Encoded Icons",
-    "dnd5e-only-admonitions"
+    "dnd5e-only-admonitions",
+    "extended-colorschemes"
   ],
   "showViewHeader": true,
   "showRibbon": true,

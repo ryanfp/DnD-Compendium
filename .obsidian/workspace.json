@@ -1144,7 +1144,6 @@
       "templates:Insert template": false,
       "obsidian42-brat:BRAT": true,
       "obsidian-custom-frames:Open Obsidian Forum": true,
-      "obsidian-5e-statblocks:Open Creature pane": false,
       "helpmate:HelpMate": true,
       "obsidian-import-json:JSON/CSV Importer": true,
       "obisidian-note-linker:Note Linker": false,
@@ -1156,9 +1155,7 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "task-board:Open task board": false
     }
   },
   "active": "66647d951c7bdfc0",
