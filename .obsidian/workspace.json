@@ -326,6 +326,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "5e Tools Website To-Do & Ideas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5e Tools Website To-Do & Ideas.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"5e Tools Website To-Do & Ideas\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "markdown-cheatsheet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"markdown-cheatsheet.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"markdown-cheatsheet\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
                   "title": "Untitled 15",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled 15.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 15\"}",
@@ -1151,6 +1163,8 @@
   },
   "active": "66647d951c7bdfc0",
   "lastOpenFiles": [
+    "5e Tools Website To-Do & Ideas.md",
+    "markdown-cheatsheet.md",
     "Color Palette/imgs/Untitled 15.md",
     "Color Palette/imgs/Untitled 14.md",
     "Color Palette/imgs/Untitled 13.md",
@@ -1172,12 +1186,10 @@
     "ideas.md",
     "README.md",
     "to-do-list.md",
-    "5e Tools Website To-Do & Ideas.md",
     "Homebrew In-Progress/Cipher Homebrew Class.md",
     "Modrinth Minecraft Links.md",
     "desktop.ini",
     "Quick  Thoughts.md",
-    "test.md",
     "z_img/3125-1696894452-1192171480.webp",
     "Homebrew In-Progress",
     "z_img/3125-1696894472-1340313030.webp",

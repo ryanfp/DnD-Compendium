@@ -59,6 +59,10 @@ settings:
         max: 15
         step: 1
     -
+        title: Disable Floating Status Bar
+        id: static-status-bar
+        type: class-toggle
+    -
         title: Sizing
         id: ITS-Sizing
         type: heading
@@ -302,7 +306,16 @@ settings:
     -
         title: Bottom Navbar Buttons
         id: navbar-bottom
-        type: class-toggle
+        type: class-select
+        allowEmpty: true
+        default: none
+        options: 
+            -
+                label: Plain Navbar
+                value: navbar-bottom-plain
+            - 
+                label: Floating Styling
+                value: navbar-bottom
     -
         title: Sidebar Ribbon
         id: ITS-Sidebar-Ribbon
@@ -1981,34 +1994,6 @@ settings:
         id: embed-mini-headers
         type: class-toggle
     -
-        title: Canvas
-        id: ITS-Canvas
-        type: heading
-        level: 2 
-        collapsed: true
-    -
-        title: Canvas Cards Styling
-        id: canvas-cards
-        type: class-toggle
-    -
-        title: Milanote Styling
-        id: canvas-milanote
-        type: class-toggle
-    -
-        title: Canvas Arrow Coloful Text
-        id: canvas-arrow-text-color
-        description: Make text on canvas arrows match the color of the arrows
-        type: class-toggle
-    -
-        title: Canvas Card Background Color Brightness
-        id: canvas-color-opacity
-        type: variable-number-slider
-        default: 0.07
-        format: ''
-        min: 0.04
-        max: 0.18
-        step: .02
-    -
         title: Properties / Metadata
         id: ITS-Metadata
         type: heading
@@ -2230,7 +2215,7 @@ settings:
         title: Tab Stack Shadow
         id: tab-stacked-shadow-color
         type: variable-themed-color
-        format: rgba
+        format: hex
         opacity: true
         default-dark: '#001c4a15'
         default-light: '#001c4a15'
@@ -2238,7 +2223,7 @@ settings:
         title: Popover Background Color
         id: popover-background
         type: variable-themed-color
-        format: rgb
+        format: hex
         default-dark: '#1a1e24'
         default-light: '#f8fbff'
     -
@@ -2766,6 +2751,72 @@ settings:
         level: 1
         collapsed: true
     -
+        title: Core Plugins
+        id: ITS-Core-Plugins
+        type: heading
+        level: 2
+        collapsed: false
+    -
+        title: Canvas
+        id: ITS-Canvas
+        type: heading
+        level: 3
+        collapsed: true
+    -
+        title: Canvas Cards Styling
+        id: canvas-cards
+        type: class-toggle
+    -
+        title: Milanote Styling
+        id: canvas-milanote
+        type: class-toggle
+    -
+        title: Canvas Arrow Colorful Text
+        id: canvas-arrow-text-color
+        description: Make text on canvas arrows match the color of the arrows
+        type: class-toggle
+    -
+        title: Canvas Card Background Color Brightness
+        id: canvas-color-opacity
+        type: variable-number-slider
+        default: 0.07
+        format: ''
+        min: 0.04
+        max: 0.18
+        step: .02
+    -
+        title: Bases
+        id: ITS-Bases
+        type: heading
+        level: 3
+        collapsed: true
+    - 
+        title: Disable Bases ITS Styling
+        id: bases-non-its-styling
+        type: class-toggle
+    - 
+        title: Disable Bases ITS Alt Columns/Rows Styling
+        id: bases-non-its-colrow-styling
+        type: class-toggle
+    -
+        title: Bases Border Lines
+        id: bases-border-lines
+        type: class-toggle
+    -
+        title: Notion Style Cards
+        id: bases-notion-cards
+        type: class-toggle
+    #-
+    #    title: Wrap Text in Bases Cells
+    #    id: bases-text-wrap
+    #    type: class-toggle
+    -
+        title: 3rd Party Plugins
+        id: ITS-3P-Plugins
+        type: heading
+        level: 2
+        collapsed: false
+    -
         title: Disable ITS Styled Statblocks
         id: default-statblock
         type: class-toggle
@@ -2774,10 +2825,14 @@ settings:
         id: breadcrumbs-block
         type: class-toggle
     -
+        title: Meta Bind Auto Size Fields
+        id: metabind-auto
+        type: class-toggle
+    -
         title: Dataview
         id: ITS-Plugins-Dataview
         type: heading
-        level: 2
+        level: 3
         collapsed: true
     -
         title: Dataview Regular Styled Tables
@@ -2791,7 +2846,7 @@ settings:
         title: Kanban Adjustments
         id: ITS-Plugins-Kanban
         type: heading
-        level: 2
+        level: 3
         collapsed: true
     -
         title: Boxed Style
@@ -2926,7 +2981,7 @@ body,
   --interactive-hover: var(--embed-bg);
   --interactive-accent: var(--bttn);
   --interactive-accent-hover: var(--bg);
-  --interactive-accent-hsl: var(--accent-h), var(--accent-s), var(accent-l);
+  --interactive-accent-hsl: var(--accent-h), var(--accent-s), var(--accent-l);
   --background-modifier-hover: var(--hvr-active);
   --background-modifier-success: var(--success-bg);
   --background-modifier-error: var(--failure-bg);
@@ -3129,6 +3184,7 @@ body.theme-light {
   --pill-radius: var(--radius-m);
   --bold-weight: 900;
   --bold-modifier: 500;
+  --navbar-radius: 0;
   --font-ui-smaller: 13.5px;
   --font-ui-small: 14px;
   --font-ui-medium: 15px;
@@ -3209,8 +3265,9 @@ input[type=range] {
   --modal-nav-item-background: transparent;
   --modal-nav-item-background-hover: var(--td);
   --setting-item-padding: 10px 15px;
-  --setting-item-background: transparent;
-  --setting-item-alt-background: var(--setting-item-background);
+  --setting-items-background: transparent;
+  --setting-items-alt-background: var(--setting-items-background);
+  --setting-items-alt-background-hover: var(--td);
   --setting-item-alt-background-hover: var(--td);
   --setting-item-heading-background: transparent;
   --setting-item-background-hover: var(--hvr);
@@ -3356,6 +3413,10 @@ button.mod-cta:hover {
 .status-bar {
   gap: var(--status-bar-gap);
   padding: var(--status-bar-padding);
+}
+
+.static-status-bar {
+  --status-bar-position: relative;
 }
 
 .theme-dark,
@@ -3785,9 +3846,12 @@ body {
 .is-focused .workspace-leaf.mod-active .view-header,
 .workspace-leaf .view-header {
   gap: 0;
-  margin: 0;
   padding: 0 var(--size-4-3);
   background: var(--file-header-background);
+}
+
+.workspace-leaf.mod-active .workspace-leaf-content {
+  background-color: var(--file-header-background);
 }
 
 .view-header-title-parent {
@@ -3843,6 +3907,27 @@ body {
   }
 }
 .is-mobile.is-mobile {
+  --touch-radius-xxs: var(--radius-s);
+  --touch-radius-xs: var(--radius-s);
+  --touch-radius-s: var(--radius-s);
+  --touch-radius-m: var(--radius-m);
+  --touch-radius-l: var(--radius-l);
+  --touch-radius-xl: var(--radius-xl);
+  --bases-embed-width: unset;
+  --bases-embed-border-width: 0;
+  --bases-embed-transform: 0;
+  --blur-s: 0;
+  --blur-m: 0;
+  --blue-l: 0;
+  --raised-blur: none;
+  --raised-shadow: unset;
+  --raised-background: var(--outer-bar);
+  --raised-mask-border-width: 0;
+  --raised-mask-composite: unset;
+  --raised-mask: unset;
+  --raised-mask-background: unset;
+  --blur-brightness: unset;
+  --file-header-background: unset;
   --interactive-accent: var(--lite-accent);
   --caret-color: var(--text-normal);
   --tag-background: var(--tag);
@@ -3944,6 +4029,14 @@ body {
 .is-mobile .markdown-rendered .list-collapse-indicator {
   margin-left: -2.3em;
   padding-right: 0em;
+}
+
+.is-mobile.is-mobile.is-mobile .mobile-toolbar-floating-options, .is-mobile.is-mobile.is-mobile .mobile-toolbar-options-list-container {
+  border-radius: var(--touch-radius-m);
+  background-color: transparent;
+}
+.is-mobile.is-mobile.is-mobile .view-header .view-actions {
+  border-radius: var(--touch-radius-m);
 }
 
 body {
@@ -4475,7 +4568,6 @@ body,
   --link-external-color-hover: var(--text-accent-hover);
   --link-font: inherit;
   --link-external-font: var(--link-font);
-  --link-weight: inherit;
   --link-border: none;
   --link-transform: none;
   --link-background: transparent;
@@ -4528,6 +4620,11 @@ a[href^=https]:hover,
   opacity: 0.5;
   font-weight: 100 !important;
   font-style: normal !important;
+}
+
+.cm-s-obsidian .cm-hmd-internal-link.cm-strong,
+strong a:is(.internal-link, .external-link) {
+  font-weight: calc(var(--link-weight) + var(--bold-modifier));
 }
 
 .theme-dark,
@@ -4584,13 +4681,13 @@ ul, ol {
   margin-block-end: 0;
 }
 
-body:not(.list-default-bullet) .list-bullet::after, body:not(.list-default-bullet) .list-bullet::before {
+body:not(.list-default-bullet) :is(li, .cm-formatting-list-ul) .list-bullet::after, body:not(.list-default-bullet) :is(li, .cm-formatting-list-ul) .list-bullet::before {
   display: none;
 }
 body:not(.list-default-bullet) ul > li:not(.task-list-item)::marker {
   margin-right: -10px;
 }
-body:not(.list-default-bullet) .is-live-preview .cm-formatting-list-ul::before, body:not(.list-default-bullet) ul > li:not(.task-list-item)::before {
+body:not(.list-default-bullet) .bases-list-container .list-bullet:after, body:not(.list-default-bullet) .is-live-preview .cm-formatting-list-ul::before, body:not(.list-default-bullet) ul > li:not(.task-list-item)::before {
   content: var(--bullet);
   font-family: var(--bullet-font);
   font-size: var(--font-text-size);
@@ -4605,6 +4702,7 @@ body:not(.list-default-bullet) ul > li:not(.task-list-item)::marker, body:not(.l
   color: transparent;
 }
 
+.bases-list-container .list-bullet:after,
 ul > li:not(.task-list-item)::before {
   float: inline-start;
   margin-inline-start: -21px;
@@ -4617,6 +4715,10 @@ ul > li:not(.task-list-item)::before {
 
 ul > li.task-list-item.task-list-item .task-list-item-checkbox {
   margin-inline-start: calc(var(--checkbox-size) * -1.4);
+}
+
+.bases-list-container .list-bullet:after {
+  margin-top: -4px;
 }
 
 .cm-formatting-list-ol,
@@ -5595,6 +5697,65 @@ body {
 }
 .workspace-split:not(.mod-root) .metadata-container {
   --metadata-divider-width: 0;
+}
+
+.bases-view {
+  --bases-cards-container-background: transparent;
+  --bases-table-header-background: var(--table-header-background);
+  --bases-table-header-color: var(--table-header-color);
+  --bases-table-column-alt-background: var(--table-column-alt-background);
+  --bases-table-row-alt-background: var(--table-column-alt-background);
+}
+.bases-view .bases-table-header-sort {
+  color: var(--text-dl);
+}
+.bases-view .bases-tr > .bases-td:nth-child(2n+2) {
+  background-color: var(--bases-table-column-alt-background);
+}
+.bases-view .bases-tr:nth-child(odd) {
+  background-color: var(--bases-table-row-alt-background);
+}
+
+.bases-toolbar-menu-item.mod-active {
+  background-color: var(--nav-item-background-active);
+  --icon-color: var(--text-dl);
+  color: var(--text-dl);
+  font-weight: 900;
+}
+
+.bases-td {
+  box-shadow: calc(var(--bases-table-column-border-width) * -1) 0 0 var(--bases-table-border-color);
+}
+
+.bases-tr {
+  box-shadow: 0 calc(var(--bases-table-row-border-width) * -1) 0 var(--bases-table-border-color);
+}
+.bases-tr:last-child {
+  border-bottom: var(--bases-table-row-border-width) solid var(--bases-table-border-color);
+}
+
+.bases-query-container .filter-row-component {
+  background-color: var(--background-modifier-form-field);
+}
+.bases-query-container .filter-group .filter-group {
+  background-color: var(--outer-bar);
+  box-shadow: var(--shadow-s);
+}
+
+.bases-header .is-active {
+  --icon-color-active: var(--accent);
+}
+
+.bases-group-heading {
+  color: var(--text-dl);
+}
+
+.bases-view .summary-function-name {
+  color: var(--inactive);
+}
+
+.bases-embed .bases-view {
+  scrollbar-gutter: auto;
 }
 
 body {
@@ -6718,6 +6879,27 @@ ul.auto-class-settings__match-group-list {
   margin-bottom: -4px;
 }
 
+code.mb-input {
+  padding: 0;
+  --code-size: var(--font-text-size);
+}
+
+.mb-select-input-element {
+  min-width: 5ch;
+}
+
+.metabind-auto .mb-input select, .metabind-auto .mb-input input:is([type=text], [type=number], [type=date]) {
+  min-width: 5ch;
+  width: 100%;
+  max-width: 100%;
+}
+.metabind-auto input.mb-slider-input {
+  padding: 0;
+  min-width: 4ch;
+  max-width: 100%;
+  margin: 0;
+}
+
 .qe-popup-menu .menu-item {
   --interactive-accent-hover: var(--dark-accent);
 }
@@ -7039,59 +7221,81 @@ span.image-embed:is([src*="#cover"], [src*="#cvr"]) img {
   object-fit: cover;
 }
 
-img[alt][alt]:not([alt*=relative])[alt*=hmicro] {
-  height: var(--micro);
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative]):is([alt*=wmicro],
+[alt*=wtiny],
+[alt*=wsmall],
+[alt*=ws-med],
+[alt*=wm-sm],
+[alt*=wmed],
+[alt*=wm-tl],
+[alt*=wtall],
+[alt*=wfull]) {
+  width: var(--image-adj-size-w);
 }
-img[alt][alt]:not([alt*=relative])[alt*=htiny] {
-  height: var(--tiny);
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative]):is([alt*=hmicro],
+[alt*=htiny],
+[alt*=hsmall],
+[alt*=hs-med],
+[alt*=hm-sm],
+[alt*=hmed],
+[alt*=hm-tl],
+[alt*=htall],
+[alt*=hfull]) {
+  height: var(--image-adj-size-h);
 }
-img[alt][alt]:not([alt*=relative])[alt*=hsmall] {
-  height: var(--small);
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=hmicro] {
+  --image-adj-size-h: var(--micro);
 }
-img[alt][alt]:not([alt*=relative])[alt*=hs-med] {
-  height: var(--small-med);
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=htiny] {
+  --image-adj-size-h: var(--tiny);
 }
-img[alt][alt]:not([alt*=relative])[alt*=hm-sm] {
-  height: var(--med-small);
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=hsmall] {
+  --image-adj-size-h: var(--small);
 }
-img[alt][alt]:not([alt*=relative])[alt*=hmed] {
-  height: var(--medium);
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=hs-med] {
+  --image-adj-size-h: var(--small-med);
 }
-img[alt][alt]:not([alt*=relative])[alt*=hm-tl] {
-  height: var(--med-tall);
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=hm-sm] {
+  --image-adj-size-h: var(--med-small);
 }
-img[alt][alt]:not([alt*=relative])[alt*=htall] {
-  height: var(--tall);
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=hmed] {
+  --image-adj-size-h: var(--medium);
 }
-img[alt][alt]:not([alt*=relative])[alt*=hfull] {
-  height: 100%;
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=hm-tl] {
+  --image-adj-size-h: var(--med-tall);
 }
-img[alt][alt]:not([alt*=relative])[alt*=wmicro] {
-  width: var(--micro);
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=htall] {
+  --image-adj-size-h: var(--tall);
 }
-img[alt][alt]:not([alt*=relative])[alt*=wtiny] {
-  width: var(--tiny);
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=hfull] {
+  --image-adj-size-h: 100%;
 }
-img[alt][alt]:not([alt*=relative])[alt*=wsmall] {
-  width: var(--small);
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=wmicro] {
+  --image-adj-size-w: var(--micro);
 }
-img[alt][alt]:not([alt*=relative])[alt*=ws-med] {
-  width: var(--small-med);
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=wtiny] {
+  --image-adj-size-w: var(--tiny);
 }
-img[alt][alt]:not([alt*=relative])[alt*=wm-sm] {
-  width: var(--med-small);
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=wsmall] {
+  --image-adj-size-w: var(--small);
 }
-img[alt][alt]:not([alt*=relative])[alt*=wmed] {
-  width: var(--medium);
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=ws-med] {
+  --image-adj-size-w: var(--small-med);
 }
-img[alt][alt]:not([alt*=relative])[alt*=wm-tl] {
-  width: var(--med-tall);
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=wm-sm] {
+  --image-adj-size-w: var(--med-small);
 }
-img[alt][alt]:not([alt*=relative])[alt*=wtall] {
-  width: var(--tall);
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=wmed] {
+  --image-adj-size-w: var(--medium);
 }
-img[alt][alt]:not([alt*=relative])[alt*=wfull] {
-  width: 100%;
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=wm-tl] {
+  --image-adj-size-w: var(--med-tall);
+}
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=wtall] {
+  --image-adj-size-w: var(--tall);
+}
+:is(.view-content, .popover) img[alt][alt]:not([alt*=relative])[alt*=wfull] {
+  --image-adj-size-w: 100%;
 }
 
 .image-embed[alt][alt*=relative],
@@ -7186,7 +7390,7 @@ div:not(.image-embed) > img[alt][alt*=relative] {
 /*Image Locations*/
 /*Center Image*/
 .img-adj-center.img-adj-center img,
-img:is([alt*=ctr], [alt*=center]) {
+img:is([alt~=ctr], [alt~=center]) {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -7198,16 +7402,18 @@ img:is([alt*=ctr], [alt*=center]) {
 }
 
 /*Left & Right*/
-.markdown-rendered img:is([alt*=left], [alt*=locl]), .markdown-rendered img:is([src*="#left"], [src*="#locl"]), .markdown-rendered .image-embed:is([alt*=left], [alt*=locl]), .markdown-rendered .image-embed:is([src*="#left"], [src*="#locl"]) {
+.markdown-rendered img:is([alt~=left], [alt~=locl]), .markdown-rendered img:is([src*="#left"], [src*="#locl"]), .markdown-rendered .image-embed:is([alt~=left], [alt~=locl]), .markdown-rendered .image-embed:is([src*="#left"], [src*="#locl"]) {
   float: left;
   margin-right: 2%;
   margin-top: 0px;
   margin-bottom: 0px;
+  float: inline-start;
 }
-.markdown-rendered img:is([alt*=right], [alt*=locr]), .markdown-rendered img:is([src*="#right"], [src*="#locr"]), .markdown-rendered .image-embed:is([alt*=right], [alt*=locr]), .markdown-rendered .image-embed:is([src*="#right"], [src*="#locr"]) {
+.markdown-rendered img:is([alt~=right], [alt~=locr]), .markdown-rendered img:is([src*="#right"], [src*="#locr"]), .markdown-rendered .image-embed:is([alt~=right], [alt~=locr]), .markdown-rendered .image-embed:is([src*="#right"], [src*="#locr"]) {
   float: right;
   margin-left: 2%;
   margin-bottom: 0px;
+  float: inline-end;
 }
 
 /*--Image Position--*/
@@ -7602,21 +7808,21 @@ img[alt~=border],
   width: 95%;
 }
 
-.internal-embed[alt*=right] {
+.internal-embed[alt~=right] {
   float: right;
   margin-left: 0.5em;
 }
 
-.internal-embed[alt*=left] {
+.internal-embed[alt~=left] {
   float: left;
   margin-right: 0.5em;
 }
 
-.internal-embed[alt*=center] {
+.internal-embed[alt~=center] {
   margin: auto;
 }
 
-:not(.lp-embed-float) .is-live-preview .internal-embed:is([alt*=right], [alt*=left]) {
+:not(.lp-embed-float) .is-live-preview .internal-embed:is([alt~=right], [alt~=left]) {
   float: unset;
 }
 
@@ -8961,8 +9167,14 @@ body:not(.check-color, .check-text) ul > li.task-list-item[data-task][data-task=
 .callout.callout.callout:is([data-callout-metadata~=color-blue],
 [data-callout-metadata~=c-blue],
 [data-callout-metadata~=background-color-blue],
+[data-callout-metadata~=bg-c-blue]) {
+  --callout-title: var(--callout-blue);
+}
+.callout.callout.callout:is([data-callout-metadata~=color-blue],
+[data-callout-metadata~=c-blue],
+[data-callout-metadata~=background-color-blue],
 [data-callout-metadata~=bg-c-blue]) > .callout-title {
-  --callout-color: var(--callout-blue);
+  --callout-color: var(--callout-title);
 }
 .callout.callout.callout:is([data-callout-metadata~=background-blue],
 [data-callout-metadata~=bg-blue],
@@ -8978,8 +9190,14 @@ body:not(.check-color, .check-text) ul > li.task-list-item[data-task][data-task=
 .callout.callout.callout:is([data-callout-metadata~=color-green],
 [data-callout-metadata~=c-green],
 [data-callout-metadata~=background-color-green],
+[data-callout-metadata~=bg-c-green]) {
+  --callout-title: var(--callout-green);
+}
+.callout.callout.callout:is([data-callout-metadata~=color-green],
+[data-callout-metadata~=c-green],
+[data-callout-metadata~=background-color-green],
 [data-callout-metadata~=bg-c-green]) > .callout-title {
-  --callout-color: var(--callout-green);
+  --callout-color: var(--callout-title);
 }
 .callout.callout.callout:is([data-callout-metadata~=background-green],
 [data-callout-metadata~=bg-green],
@@ -8995,8 +9213,14 @@ body:not(.check-color, .check-text) ul > li.task-list-item[data-task][data-task=
 .callout.callout.callout:is([data-callout-metadata~=color-orange],
 [data-callout-metadata~=c-orange],
 [data-callout-metadata~=background-color-orange],
+[data-callout-metadata~=bg-c-orange]) {
+  --callout-title: var(--callout-orange);
+}
+.callout.callout.callout:is([data-callout-metadata~=color-orange],
+[data-callout-metadata~=c-orange],
+[data-callout-metadata~=background-color-orange],
 [data-callout-metadata~=bg-c-orange]) > .callout-title {
-  --callout-color: var(--callout-orange);
+  --callout-color: var(--callout-title);
 }
 .callout.callout.callout:is([data-callout-metadata~=background-orange],
 [data-callout-metadata~=bg-orange],
@@ -9012,8 +9236,14 @@ body:not(.check-color, .check-text) ul > li.task-list-item[data-task][data-task=
 .callout.callout.callout:is([data-callout-metadata~=color-red],
 [data-callout-metadata~=c-red],
 [data-callout-metadata~=background-color-red],
+[data-callout-metadata~=bg-c-red]) {
+  --callout-title: var(--callout-red);
+}
+.callout.callout.callout:is([data-callout-metadata~=color-red],
+[data-callout-metadata~=c-red],
+[data-callout-metadata~=background-color-red],
 [data-callout-metadata~=bg-c-red]) > .callout-title {
-  --callout-color: var(--callout-red);
+  --callout-color: var(--callout-title);
 }
 .callout.callout.callout:is([data-callout-metadata~=background-red],
 [data-callout-metadata~=bg-red],
@@ -9029,8 +9259,14 @@ body:not(.check-color, .check-text) ul > li.task-list-item[data-task][data-task=
 .callout.callout.callout:is([data-callout-metadata~=color-purple],
 [data-callout-metadata~=c-purple],
 [data-callout-metadata~=background-color-purple],
+[data-callout-metadata~=bg-c-purple]) {
+  --callout-title: var(--callout-purple);
+}
+.callout.callout.callout:is([data-callout-metadata~=color-purple],
+[data-callout-metadata~=c-purple],
+[data-callout-metadata~=background-color-purple],
 [data-callout-metadata~=bg-c-purple]) > .callout-title {
-  --callout-color: var(--callout-purple);
+  --callout-color: var(--callout-title);
 }
 .callout.callout.callout:is([data-callout-metadata~=background-purple],
 [data-callout-metadata~=bg-purple],
@@ -9046,8 +9282,14 @@ body:not(.check-color, .check-text) ul > li.task-list-item[data-task][data-task=
 .callout.callout.callout:is([data-callout-metadata~=color-gray],
 [data-callout-metadata~=c-gray],
 [data-callout-metadata~=background-color-gray],
+[data-callout-metadata~=bg-c-gray]) {
+  --callout-title: var(--callout-gray);
+}
+.callout.callout.callout:is([data-callout-metadata~=color-gray],
+[data-callout-metadata~=c-gray],
+[data-callout-metadata~=background-color-gray],
 [data-callout-metadata~=bg-c-gray]) > .callout-title {
-  --callout-color: var(--callout-gray);
+  --callout-color: var(--callout-title);
 }
 .callout.callout.callout:is([data-callout-metadata~=background-gray],
 [data-callout-metadata~=bg-gray],
@@ -9063,8 +9305,14 @@ body:not(.check-color, .check-text) ul > li.task-list-item[data-task][data-task=
 .callout.callout.callout:is([data-callout-metadata~=color-yellow],
 [data-callout-metadata~=c-yellow],
 [data-callout-metadata~=background-color-yellow],
+[data-callout-metadata~=bg-c-yellow]) {
+  --callout-title: var(--callout-yellow);
+}
+.callout.callout.callout:is([data-callout-metadata~=color-yellow],
+[data-callout-metadata~=c-yellow],
+[data-callout-metadata~=background-color-yellow],
 [data-callout-metadata~=bg-c-yellow]) > .callout-title {
-  --callout-color: var(--callout-yellow);
+  --callout-color: var(--callout-title);
 }
 .callout.callout.callout:is([data-callout-metadata~=background-yellow],
 [data-callout-metadata~=bg-yellow],
@@ -9080,8 +9328,14 @@ body:not(.check-color, .check-text) ul > li.task-list-item[data-task][data-task=
 .callout.callout.callout:is([data-callout-metadata~=color-pink],
 [data-callout-metadata~=c-pink],
 [data-callout-metadata~=background-color-pink],
+[data-callout-metadata~=bg-c-pink]) {
+  --callout-title: var(--callout-pink);
+}
+.callout.callout.callout:is([data-callout-metadata~=color-pink],
+[data-callout-metadata~=c-pink],
+[data-callout-metadata~=background-color-pink],
 [data-callout-metadata~=bg-c-pink]) > .callout-title {
-  --callout-color: var(--callout-pink);
+  --callout-color: var(--callout-title);
 }
 .callout.callout.callout:is([data-callout-metadata~=background-pink],
 [data-callout-metadata~=bg-pink],
@@ -9097,8 +9351,14 @@ body:not(.check-color, .check-text) ul > li.task-list-item[data-task][data-task=
 .callout.callout.callout:is([data-callout-metadata~=color-brown],
 [data-callout-metadata~=c-brown],
 [data-callout-metadata~=background-color-brown],
+[data-callout-metadata~=bg-c-brown]) {
+  --callout-title: var(--callout-brown);
+}
+.callout.callout.callout:is([data-callout-metadata~=color-brown],
+[data-callout-metadata~=c-brown],
+[data-callout-metadata~=background-color-brown],
 [data-callout-metadata~=bg-c-brown]) > .callout-title {
-  --callout-color: var(--callout-brown);
+  --callout-color: var(--callout-title);
 }
 .callout.callout.callout:is([data-callout-metadata~=background-brown],
 [data-callout-metadata~=bg-brown],
@@ -9114,8 +9374,14 @@ body:not(.check-color, .check-text) ul > li.task-list-item[data-task][data-task=
 .callout.callout.callout:is([data-callout-metadata~=color-black],
 [data-callout-metadata~=c-black],
 [data-callout-metadata~=background-color-black],
+[data-callout-metadata~=bg-c-black]) {
+  --callout-title: var(--callout-black);
+}
+.callout.callout.callout:is([data-callout-metadata~=color-black],
+[data-callout-metadata~=c-black],
+[data-callout-metadata~=background-color-black],
 [data-callout-metadata~=bg-c-black]) > .callout-title {
-  --callout-color: var(--callout-black);
+  --callout-color: var(--callout-title);
 }
 .callout.callout.callout:is([data-callout-metadata~=background-black],
 [data-callout-metadata~=bg-black],
@@ -9131,8 +9397,14 @@ body:not(.check-color, .check-text) ul > li.task-list-item[data-task][data-task=
 .callout.callout.callout:is([data-callout-metadata~=color-white],
 [data-callout-metadata~=c-white],
 [data-callout-metadata~=background-color-white],
+[data-callout-metadata~=bg-c-white]) {
+  --callout-title: var(--callout-white);
+}
+.callout.callout.callout:is([data-callout-metadata~=color-white],
+[data-callout-metadata~=c-white],
+[data-callout-metadata~=background-color-white],
 [data-callout-metadata~=bg-c-white]) > .callout-title {
-  --callout-color: var(--callout-white);
+  --callout-color: var(--callout-title);
 }
 .callout.callout.callout:is([data-callout-metadata~=background-white],
 [data-callout-metadata~=bg-white],
@@ -9148,8 +9420,14 @@ body:not(.check-color, .check-text) ul > li.task-list-item[data-task][data-task=
 .callout.callout.callout:is([data-callout-metadata~=color-plain],
 [data-callout-metadata~=c-plain],
 [data-callout-metadata~=background-color-plain],
+[data-callout-metadata~=bg-c-plain]) {
+  --callout-title: var(--callout-plain);
+}
+.callout.callout.callout:is([data-callout-metadata~=color-plain],
+[data-callout-metadata~=c-plain],
+[data-callout-metadata~=background-color-plain],
 [data-callout-metadata~=bg-c-plain]) > .callout-title {
-  --callout-color: var(--callout-plain);
+  --callout-color: var(--callout-title);
 }
 .callout.callout.callout:is([data-callout-metadata~=background-plain],
 [data-callout-metadata~=bg-plain],
@@ -9348,11 +9626,11 @@ body:not(.check-color, .check-text) ul > li.task-list-item[data-task][data-task=
 .callout.callout[data-callout~=infobox]:not([data-callout-metadata~=show-title],
 [data-callout-metadata~=s-t],
 [data-callout-metadata~=show-icon],
-[data-callout-metadata~=s-i]) .callout-icon svg {
+[data-callout-metadata~=s-i]) > .callout-title .callout-icon > svg {
   width: 0;
   height: 0;
 }
-.callout.callout[data-callout~=infobox]:not(:hover):not(.is-collapsed) .callout-title {
+.callout.callout[data-callout~=infobox]:not(:hover):not(.is-collapsed) > .callout-title {
   background-color: transparent;
 }
 .callout.callout[data-callout~=infobox] > .callout-content > .callout[data-callout~=infobox]:not([data-callout-metadata~=no-t]):not(.is-collapsed) > .callout-title, .callout.callout[data-callout~=infobox]:is([data-callout-metadata~=show-title], [data-callout-metadata~=s-t]):not(.is-collapsed) > .callout-title {
@@ -9440,6 +9718,15 @@ body:not(.check-color, .check-text) ul > li.task-list-item[data-task][data-task=
 }
 .callout.callout[data-callout~=infobox][data-callout-metadata~=wikipedia] table tr:last-child {
   margin-bottom: 2px;
+}
+.callout.callout[data-callout~=infobox][data-callout-metadata~=table-border] {
+  --table-border-color: var(--background-modifier-border);
+}
+.callout.callout[data-callout~=infobox][data-callout-metadata~=table-border] th:first-child, .callout.callout[data-callout~=infobox][data-callout-metadata~=table-border] tr td:first-child {
+  border-left-color: transparent;
+}
+.callout.callout[data-callout~=infobox][data-callout-metadata~=table-border] th:last-child, .callout.callout[data-callout~=infobox][data-callout-metadata~=table-border] tr td:last-child {
+  border-right-color: transparent;
 }
 
 @media print {
@@ -10214,19 +10501,19 @@ body:not(.callout-no-metadata) .callout.callout[data-callout~=Metadata i][data-c
 .callout[data-callout*=column][data-callout-metadata~=list-global] .callout > .callout-content, .callout[data-callout*=column][data-callout-metadata~=list] > .callout-content {
   grid-template-columns: unset;
 }
-.callout[data-callout*=column][data-callout-metadata~=list-global] .callout > .callout-content ul, .callout[data-callout*=column][data-callout-metadata~=list-global] .callout > .callout-content > ul, .callout[data-callout*=column][data-callout-metadata~=list] > .callout-content ul, .callout[data-callout*=column][data-callout-metadata~=list] > .callout-content > ul {
+.callout[data-callout*=column][data-callout-metadata~=list-global] .callout > .callout-content :is(ul, ol), .callout[data-callout*=column][data-callout-metadata~=list-global] .callout > .callout-content > :is(ul, ol), .callout[data-callout*=column][data-callout-metadata~=list] > .callout-content :is(ul, ol), .callout[data-callout*=column][data-callout-metadata~=list] > .callout-content > :is(ul, ol) {
   columns: var(--columns);
 }
-.callout[data-callout*=column][data-callout-metadata~=list-global] .callout > .callout-content ul > li, .callout[data-callout*=column][data-callout-metadata~=list-global] .callout > .callout-content > ul > li, .callout[data-callout*=column][data-callout-metadata~=list] > .callout-content ul > li, .callout[data-callout*=column][data-callout-metadata~=list] > .callout-content > ul > li {
+.callout[data-callout*=column][data-callout-metadata~=list-global] .callout > .callout-content :is(ul, ol) > li, .callout[data-callout*=column][data-callout-metadata~=list-global] .callout > .callout-content > :is(ul, ol) > li, .callout[data-callout*=column][data-callout-metadata~=list] > .callout-content :is(ul, ol) > li, .callout[data-callout*=column][data-callout-metadata~=list] > .callout-content > :is(ul, ol) > li {
   break-inside: avoid;
 }
-.callout[data-callout*=column][data-callout-metadata~=list-global] .callout > .callout-content ul .list-bullet::after, .callout[data-callout*=column][data-callout-metadata~=list-global] .callout > .callout-content > ul .list-bullet::after, .callout[data-callout*=column][data-callout-metadata~=list] > .callout-content ul .list-bullet::after, .callout[data-callout*=column][data-callout-metadata~=list] > .callout-content > ul .list-bullet::after {
+.callout[data-callout*=column][data-callout-metadata~=list-global] .callout > .callout-content :is(ul, ol) .list-bullet::after, .callout[data-callout*=column][data-callout-metadata~=list-global] .callout > .callout-content > :is(ul, ol) .list-bullet::after, .callout[data-callout*=column][data-callout-metadata~=list] > .callout-content :is(ul, ol) .list-bullet::after, .callout[data-callout*=column][data-callout-metadata~=list] > .callout-content > :is(ul, ol) .list-bullet::after {
   position: relative;
 }
 .callout[data-callout*=column][data-callout-metadata~=list-x] > .callout-content {
   grid-template-columns: unset;
 }
-.callout[data-callout*=column][data-callout-metadata~=list-x] > .callout-content > ul {
+.callout[data-callout*=column][data-callout-metadata~=list-x] > .callout-content > :is(ul, ol) {
   display: grid;
   grid-template-columns: repeat(var(--columns), 1fr);
 }
@@ -10312,6 +10599,8 @@ body:not(.callout-no-metadata) .callout.callout[data-callout~=Metadata i][data-c
   --callout-content-padding: 10px;
   --callout-margin: 0;
   --timeline-shadow: var(--outline, var(--background-modifier-box-shadow));
+  --callout-content-background: var(--callout-background, rgb(var(--callout-color), 0.1));
+  --timeline-border: rgb(var(--callout-title, var(--callout-color)));
   --micro: 50px;
   --tiny: 100px;
   --small: 200px;
@@ -10321,7 +10610,7 @@ body:not(.callout-no-metadata) .callout.callout[data-callout~=Metadata i][data-c
   --med-tall: 600px;
   --tall: 700px;
   --c-timeline: calc(50% - 2px);
-  background-color: transparent;
+  background-color: transparent !important;
   margin: 0;
   border: 0;
   clear: both;
@@ -10346,11 +10635,10 @@ body:not(.callout-no-metadata) .callout.callout[data-callout~=Metadata i][data-c
   height: var(--icon-size);
   width: var(--icon-size);
 }
-.callout.callout[data-callout~=timeline] .callout-content {
-  background-color: rgb(var(--callout-color), 0.1);
-}
 .callout.callout[data-callout~=timeline][data-callout-metadata~=t-l] {
-  border-right: 4px solid rgb(var(--callout-color));
+  border-right: 4px solid var(--timeline-border);
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
   margin-right: var(--c-timeline);
   z-index: 0;
 }
@@ -10358,7 +10646,9 @@ body:not(.callout-no-metadata) .callout.callout[data-callout~=Metadata i][data-c
   box-shadow: -4px 4px 0 var(--timeline-shadow);
 }
 .callout.callout[data-callout~=timeline][data-callout-metadata~=t-r] {
-  border-left: 4px solid rgb(var(--callout-color));
+  border-left: 4px solid var(--timeline-border);
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
   margin-left: var(--c-timeline);
 }
 .callout.callout[data-callout~=timeline][data-callout-metadata~=t-r] > .callout-title, .callout.callout[data-callout~=timeline][data-callout-metadata~=t-r] > .callout-content {
@@ -10855,6 +11145,56 @@ body.canvas-milanote.canvas-milanote {
   color: rgb(var(--canvas-color));
 }
 
+.bases-non-its-colrow-styling .bases-view {
+  --bases-table-column-alt-background: transparent;
+  --bases-table-row-alt-background: transparent;
+}
+
+.bases-border-lines {
+  --bases-table-border-color: var(--table);
+}
+
+.bases-non-its-styling .bases-view.bases-view {
+  --bases-table-header-background: var(--note);
+  --bases-table-header-color: var(--text-normal);
+  --bases-table-column-alt-background: transparent;
+  --bases-table-row-alt-background: transparent;
+  --bases-table-border-color: var(--table-border-color);
+  --table-border-color: var(--table);
+}
+
+/* Notion-ize Cards */
+.bases-notion-cards .bases-cards-item {
+  gap: 0px;
+  padding: 0 0 var(--size-4-2) 0;
+  box-shadow: 0 0 5px var(--outline), 0 0 6px var(--outline);
+  transition: none;
+}
+.bases-notion-cards .bases-cards-item:hover {
+  background-color: var(--background-modifier-border-hover);
+}
+.bases-notion-cards .bases-cards-property {
+  display: flex;
+  align-items: center;
+  padding-inline-end: calc(var(--size-4-2) * 1.5);
+}
+.bases-notion-cards .bases-cards-property.mod-title {
+  padding-top: calc(var(--size-4-1) + 2px);
+  --link-color: var(--accent2-lite);
+}
+.bases-notion-cards .bases-cards-property.mod-title:hover {
+  --link-color: var(--lite-accent);
+}
+.bases-notion-cards .bases-cards-property:not(.mod-title) *:not(input) {
+  height: calc(var(--bases-cards-line-height) - 4px);
+}
+.bases-notion-cards .bases-cards-property:not(.mod-title) *:not(input) .bases-rendered-value {
+  padding: 0 var(--size-4-2) 0 2px;
+}
+.bases-notion-cards .bases-cards-label {
+  padding: 0 5px 0 var(--size-4-2);
+}
+
 .sizing-readable.sizing-readable {
   --font-ui-smaller: 13.5px;
   --font-ui-small: 14px;
@@ -11203,19 +11543,30 @@ iframe {
 }
 
 /*Bolded Right Side Table*/
-.table.table {
+.table.table,
+.table .bases-table {
   --table-style-column-header-background: var(--outer-bar);
   --table-style-column-header-bold-weight: var(--bold-weight);
   --table-style-column-header-bold-color: var(--bold-color);
 }
-.table.table td:nth-child(1) {
+.table.table .bases-tbody .bases-td:nth-child(1) .bases-table-cell *, .table.table td:nth-child(1) *,
+.table .bases-table .bases-tbody .bases-td:nth-child(1) .bases-table-cell *,
+.table .bases-table td:nth-child(1) * {
   font-weight: var(--table-style-column-header-bold-weight);
+}
+.table.table .bases-tbody .bases-td:nth-child(1) .bases-table-cell *:not(a), .table.table td:nth-child(1) *:not(a),
+.table .bases-table .bases-tbody .bases-td:nth-child(1) .bases-table-cell *:not(a),
+.table .bases-table td:nth-child(1) *:not(a) {
   color: var(--table-style-column-header-bold-color);
 }
-.table.table tr td:nth-child(1) {
+.table.table .bases-tbody .bases-td:nth-child(1), .table.table tr td:nth-child(1),
+.table .bases-table .bases-tbody .bases-td:nth-child(1),
+.table .bases-table tr td:nth-child(1) {
   background-color: var(--table-style-column-header-background);
 }
-.table.table tr:hover td:nth-child(1) {
+.table.table .bases-tr:hover .bases-td:nth-child(1), .table.table tr:hover td:nth-child(1),
+.table .bases-table .bases-tr:hover .bases-td:nth-child(1),
+.table .bases-table tr:hover td:nth-child(1) {
   background-color: var(--table-row-alt-background-hover);
 }
 
@@ -11881,6 +12232,13 @@ body {
   padding-top: 0;
 }
 
+.navbar-bottom-plain .workspace-drawer:is(.mod-left, .mod-right) .workspace-leaf-content, .navbar-bottom-plain .workspace-drawer:is(.mod-left, .mod-right) .view-content, .navbar-bottom-plain .workspace-split:is(.mod-left-split, .mod-right-split) .workspace-leaf-content, .navbar-bottom-plain .workspace-split:is(.mod-left-split, .mod-right-split) .view-content {
+  flex-direction: column-reverse;
+}
+.navbar-bottom-plain .workspace-drawer:is(.mod-left, .mod-right) .workspace-leaf-content > div:not(.nav-header), .navbar-bottom-plain .workspace-drawer:is(.mod-left, .mod-right) .view-content > div:not(.nav-header), .navbar-bottom-plain .workspace-split:is(.mod-left-split, .mod-right-split) .workspace-leaf-content > div:not(.nav-header), .navbar-bottom-plain .workspace-split:is(.mod-left-split, .mod-right-split) .view-content > div:not(.nav-header) {
+  margin-top: 10px;
+}
+
 .headings-center,
 .hc {
   --header-text-align: center;
@@ -11929,7 +12287,6 @@ body {
   --h4-border-line-height: 3px;
   --h5-border-line-height: 3px;
   --h6-border-line-height: 3px;
-  --header-border-line-left: block;
 }
 .hcl .HyperMD-header.cm-line,
 .hcl :is(h1,
@@ -11946,8 +12303,23 @@ h4,
 h5,
 h6) {
   display: flex;
-  width: 100%;
   align-items: center;
+}
+.hcl .HyperMD-header.cm-line:not(.cm-active),
+.hcl :is(h1,
+h2,
+h3,
+h4,
+h5,
+h6):not(.cm-active),
+.headings-center-lines .HyperMD-header.cm-line:not(.cm-active),
+.headings-center-lines :is(h1,
+h2,
+h3,
+h4,
+h5,
+h6):not(.cm-active) {
+  --header-border-line-left: block;
 }
 .hcl .HyperMD-header.cm-line:not(.HyperMD-header) > :not(.collapse-indicator), .hcl .HyperMD-header.cm-line > :not(.collapse-indicator):nth-child(2):not(:last-child):not(:first-child),
 .hcl :is(h1,

@@ -179,8 +179,8 @@
 
   --scrollbar-bg: var(--bg_dark2);
   --scrollbar-thumb-bg: var(--comment);
-  --scrollbar-active-thumb-bg: var(--bg_dark);
-  --scrollbar-width: 0px;
+  --scrollbar-active-thumb-bg: var(--comment);
+  --scrollbar-width: 7px;
 
   --h1-color: var(--red);
   --h2-color: var(--yellow);
@@ -357,10 +357,22 @@ body.h6-divider-on :is(.markdown-preview-sizer>div>h6, .markdown-rendered>h6, .H
 /* scrollbars */
 ::-webkit-scrollbar {
   width: var(--scrollbar-width);
+  background-color: transparent !important;
 }
 
+:hover::-webkit-scrollbar-thumb {
+  background-color: var(--scrollbar-thumb-bg) !important;
+}
+
+::-webkit-scrollbar-thumb:hover,
+::-webkit-scrollbar-thumb:active {
+  background-color: var(--scrollbar-active-thumb-bg) !important;
+}
+
+
 ::-webkit-scrollbar:horizontal {
-  height: var(--scrollbar-width);
+  height: 0;
+  background-color: transparent !important;
 }
 
 /* tooltip */
@@ -411,11 +423,6 @@ body {
 body:not(.table-width-obsidian-default) .markdown-source-view.mod-cm6 .cm-table-widget .table-wrapper,
 body:not(.table-width-obsidian-default) :is(.markdown-rendered, .markdown-source-view.mod-cm6.is-live-preview) table {
   width: 100% !important;
-}
-
-.markdown-source-view,
-.markdown-reading-view {
-  container-type: inline-size;
 }
 
 .table-width-customized .markdown-source-view.mod-cm6.is-live-preview .cm-content>.cm-table-widget,
@@ -837,6 +844,7 @@ body:not(.disable-alternative-checkboxes) li[data-task="<"]>p>input:checked {
   }
 }
 
+
 /* @settings
 
 name: Appearance 
@@ -1127,6 +1135,28 @@ settings:
 name: Editor
 id: Editor
 settings: 
+  - 
+    id: headings 
+    title: Tabs 
+    type: heading 
+    level: 1 
+    collapsed: true 
+  - 
+    id: tab-text-color-focused-active 
+    title: Tab Focus Color 
+    type: variable-themed-color 
+    format: rgb 
+    opacity: false 
+    default-light: '#'
+    default-dark: '#'
+  - 
+    id: tab-text-color-focused-active-current
+    title: Current Tab Focus Color 
+    type: variable-themed-color 
+    format: rgb 
+    opacity: false 
+    default-light: '#'
+    default-dark: '#'
   - 
     id: headings 
     title: Headings
@@ -2057,4 +2087,43 @@ settings:
     type: variable-text 
     default: ''
   -
+    id: scrollbar-heading 
+    title: Scrollbar 
+    type: heading
+    level: 2
+    collapsed: true
+  - 
+    id: scrollbar-bg 
+    title: Scrollbar Background
+    type: variable-themed-color
+    format: rgb
+    opacity: false
+    default-light: '#'
+    default-dark: '#'
+  - 
+    id: scrollbar-thumb-bg 
+    title: Scrollbar Thumb Background
+    type: variable-themed-color
+    format: rgb
+    opacity: false
+    default-light: '#'
+    default-dark: '#'
+  - 
+    id: scrollbar-active-thumb-bg
+    title: Scrollbar Active Thumb Background
+    type: variable-themed-color
+    format: rgb
+    opacity: false
+    default-light: '#'
+    default-dark: '#'
+  - 
+    id: scrollbar-width
+    title: Scrollbar Width
+    type: variable-number-slider
+    default: 7
+    min: 0
+    max: 20
+    step: 1
+    format: px
+  - 
 */
