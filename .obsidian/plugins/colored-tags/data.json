@@ -1617,7 +1617,8 @@
     "colorpalette/color/teal": 13,
     "colorpalette/tag/pastel": 14,
     "colorpalette/tag/earth": 15,
-    "colorpalette/tag/kids": 16
+    "colorpalette/tag/kids": 16,
+    "f57f17": 47
   },
   "_version": 3
 }

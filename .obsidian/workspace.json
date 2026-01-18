@@ -326,6 +326,60 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Untitled 6",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled 6.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 6\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":6.512416717141127}"
+                },
+                {
+                  "title": "Untitled 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled 5.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 5\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Untitled 4 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled 4 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 4 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Untitled 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled 4.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 4\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Untitled 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled 2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Untitled 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/imgs/Untitled.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":18.141732283464567}"
+                },
+                {
+                  "title": "Color Palettes",
+                  "icon": "lucide-layout-grid",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"Color Palette/Color Palettes.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-layout-grid\",\"title\":\"Color Palettes\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "markdown-cheatsheet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"markdown-cheatsheet.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"markdown-cheatsheet\"}",
+                  "eState": "{}"
+                },
+                {
                   "title": "5e Tools Website To-Do & Ideas",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5e Tools Website To-Do & Ideas.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"5e Tools Website To-Do & Ideas\"}",
@@ -666,8 +720,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "markdown-cheatsheet.md",
-                "mode": "preview",
+                "file": "Color Palette/imgs/Untitled 7.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -681,11 +735,44 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "markdown-cheatsheet"
+              "title": "Untitled 7"
+            }
+          },
+          {
+            "id": "d9f7aa5e8dda942e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Color Palette/imgs/Website CSS Map.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Website CSS Map"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -941,10 +1028,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "markdown-cheatsheet.md"
+                "file": "Color Palette/imgs/Website CSS Map.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for markdown-cheatsheet"
+              "title": "File properties for Website CSS Map"
             }
           },
           {
@@ -1110,7 +1197,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "markdown-cheatsheet.md"
+                "file": "Color Palette/imgs/Website CSS Map.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -1155,13 +1242,25 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "66647d951c7bdfc0",
+  "active": "d9f7aa5e8dda942e",
   "lastOpenFiles": [
-    "5e Tools Website To-Do & Ideas.md",
+    "Color Palette/imgs/Untitled 7.md",
+    "Color Palette/imgs/Website CSS Map.md",
+    "Color Palette/imgs/Untitled 6.md",
+    "Color Palette/imgs/Untitled 5.md",
+    "Color Palette/imgs/Untitled 4 1.md",
+    "Color Palette/imgs/Untitled 4.md",
+    "Color Palette/imgs/Untitled 2.md",
+    "Color Palette/imgs/Untitled 1.md",
+    "Color Palette/imgs/Untitled.md",
+    "Color Palette/Color Palettes.base",
     "markdown-cheatsheet.md",
+    "5e Tools Website To-Do & Ideas.md",
     "Color Palette/imgs/Untitled 15.md",
     "Color Palette/imgs/Untitled 14.md",
     "Color Palette/imgs/Untitled 13.md",
@@ -1171,26 +1270,16 @@
     "Color Palette/imgs/Untitled 10.md",
     "Color Palette/imgs/Untitled 9.md",
     "Color Palette/imgs/Untitled 8.md",
-    "Color Palette/imgs/Untitled 7.md",
-    "Color Palette/imgs/Untitled 6.md",
-    "Color Palette/imgs/Untitled 5.md",
-    "Color Palette/imgs/Untitled 4 1.md",
-    "Color Palette/imgs/Untitled 1.md",
-    "Color Palette/imgs/Untitled 2.md",
     "Color Palette/imgs/Untitled 3.md",
-    "Color Palette/imgs/Untitled 4.md",
     "Home.md",
     "ideas.md",
     "README.md",
     "to-do-list.md",
     "Homebrew In-Progress/Cipher Homebrew Class.md",
-    "Modrinth Minecraft Links.md",
     "desktop.ini",
-    "Quick  Thoughts.md",
     "z_img/3125-1696894452-1192171480.webp",
     "Homebrew In-Progress",
     "z_img/3125-1696894472-1340313030.webp",
-    "Color Palette/Color Palettes.base",
     "z_img/image-85.png",
     "z_img/image-84.png",
     "z_img/image-83.png",
