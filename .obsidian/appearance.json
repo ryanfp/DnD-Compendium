@@ -1,5 +1,5 @@
 {
-  "cssTheme": "Purple Aurora",
+  "cssTheme": "Things",
   "accentColor": "#44445f",
   "enabledCssSnippets": [
     "supercharged-links-gen",
@@ -10,8 +10,7 @@
     "FantasyFonts",
     "S - Encoded Fonts",
     "S - Encoded Icons",
-    "dnd5e-only-admonitions",
-    "extended-colorschemes"
+    "dnd5e-only-admonitions"
   ],
   "showViewHeader": true,
   "showRibbon": true,

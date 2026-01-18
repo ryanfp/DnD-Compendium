@@ -47,6 +47,11 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 		    - [ ] ![[image-42.png]]Thunder (HexCode# 8844bb)
 	    - [ ] ![[image-50.png]]Inspiration - ![[image-21.png]]Resting - ![[image-31.png|25x25]]Recharge - ![[image-32.png]]Difficult Terrain - ![[image-47.png]]Duration
 	    - [ ] ![[image-49.png]]Spell Slots - ![[image-7.png]]Spell Points - ![[image-48.png]]Psionics? - ![[image-8.png]]Ritual - ![[image-24.png]]Concentration - ![[image-20.png]]Exploit Die
+- [ ] Themes
+	- [ ] Obsidian Themes
+		- [ ] Light
+			- [ ] ITS Pathfinder Remastered
+			- [ ] Atom
 
 ### Layout & Functionality
 
