@@ -865,6 +865,18 @@
                 {
                   "title": "Quick To-Do",
                   "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Quick To-Do.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Quick To-Do\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Color Palettes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Color Palette/Color Palettes.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Color Palettes\"}",
+                  "eState": "{\"scroll\":7.334919690660321}"
+                },
+                {
+                  "title": "Quick To-Do",
+                  "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Quick To-Do.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Quick To-Do\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":27},\"to\":{\"line\":4,\"ch\":27}}}"
                 }
@@ -873,8 +885,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Color Palette/Color Palettes.md",
-                "mode": "preview",
+                "file": "5e Tools Website To-Do & Ideas.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -888,7 +900,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Color Palettes"
+              "title": "5e Tools Website To-Do & Ideas"
             }
           }
         ],
@@ -1148,10 +1160,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Color Palette/Color Palettes.md"
+                "file": "5e Tools Website To-Do & Ideas.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Color Palettes"
+              "title": "File properties for 5e Tools Website To-Do & Ideas"
             }
           },
           {
@@ -1317,7 +1329,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Color Palette/Color Palettes.md"
+                "file": "5e Tools Website To-Do & Ideas.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -1369,6 +1381,8 @@
   },
   "active": "1502f2517ecc2a63",
   "lastOpenFiles": [
+    "Quick To-Do.md",
+    "Color Palette/Color Palettes.md",
     "z_img/image-92.png",
     "z_img/image-91.png",
     "z_img/image-90.png",
@@ -1376,7 +1390,6 @@
     "z_img/image-88.png",
     "z_img/image-87.png",
     "z_img/image-86.png",
-    "Quick To-Do.md",
     "Quick  Thoughts.md",
     "Color Palette/imgs/Untitled 16.md",
     "Color Palette/imgs/Untitled 17.md",
@@ -1407,7 +1420,6 @@
     "Homebrew In-Progress",
     "z_img/3125-1696894472-1340313030.webp",
     "z_img/image-85.png",
-    "z_img/image-84.png",
     "Color Palette/imgs",
     "Color Palette",
     "Home.md - Shortcut.lnk",
