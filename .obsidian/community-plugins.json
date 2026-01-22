@@ -69,5 +69,6 @@
   "callout-manager",
   "image-converter",
   "obsidian-paste-image-rename",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "auto-keyword-linker"
 ]
