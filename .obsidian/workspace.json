@@ -1374,11 +1374,16 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "1502f2517ecc2a63",
   "lastOpenFiles": [
+    "markdown-cheatsheet.md",
+    "markdown-cheatsheet1.md",
+    "markdown-css-style-cheatsheet.md",
     "Quick To-Do.md",
     "Color Palette/Color Palettes.md",
     "z_img/image-92.png",
@@ -1410,9 +1415,6 @@
     "Color Palette/imgs/Untitled.md",
     "Color Palette/imgs/Website CSS Map.md",
     "Color Palette/Color Palettes.base",
-    "markdown-cheatsheet.md",
-    "5e Tools Website To-Do & Ideas.md",
-    "Home.md",
     "desktop.ini",
     "z_img/3125-1696894452-1192171480.webp",
     "Homebrew In-Progress",
