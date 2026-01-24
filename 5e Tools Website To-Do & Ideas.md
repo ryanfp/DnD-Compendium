@@ -263,13 +263,17 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 
 ### Homebrew To-Add
 
-- Add conditions 
-	- Dazed as an alternative to stunned or paralyzed
-	- Burning
+- Add/Change conditions 
+	- Dazed as an alternative to stunned or paralyzed (maybe make alternative to deafened too? Maybe thunder damage could use a buff idk)
+	- Burning = clear the Frostbite or Frozen condition, take 
 	- Shocked (use Electrocuted condition icon) = cannot take Reactions, and has Disadvantage on Ability Checks and Saving Throws that use Dexterity
-	- Frostbite = take 1d4 Cold damage when you attack with a weapon + 1 extra cold damage
-	- Frozen = become vulnerable to Bludgeoning, Thunder, and Fire damage, movement speed halved rounded up
-	- 
+	- Frostbite = take 1d4 Cold damage when you attack with a weapon + 1 extra cold damage (lose 1 stack per turn, any cold damage only inflicts 1 stack. 10 stacks max). 
+	- Frozen = (at 10 stacks of Frostbite) become vulnerable to Bludgeoning, Thunder, and Fire damage, movement speed halved rounded up. When taking that kind of damage, lose this condition.
+	- Corroded = has -2 to AC for duration, loses effect when hit with a melee attack/spell or gets the Wet condition
+	- Caustic = takes 1d4 Poison if they have not moved on their turn
+	- Make Surprised give you Disadvantage on Initiative rolls AND unable to take reactions
+	- Necrotic damage disrupts healing? Maybe it just decreases the amount gained
+	- Wet = Clear the Burning or Corroded condition. Tier of Resitance to Lightning and Cold Damage decreases by one (Immunity –> Resistance –> Neutral –> Vulnerable)Attacks that use Lightning or Cold damage have advantage, and you have Disadvantage on saving throws to resist the effects of Lightning or Lightning Damage. Take double the amount of stacks of Frostbite
 
 ### GitHub Repo Ideas
 
