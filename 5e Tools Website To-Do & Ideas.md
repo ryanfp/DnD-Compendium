@@ -18,7 +18,7 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 - [ ] Change site color palette to match Obsidian’s, possibly tweak link colors and fonts
     - [ ] Figure out a better color palette for UI; base mostly on *5etools* but change highlights
         - [ ] Add button highlights from *Dungeon Church*’s fork
-        - [ ] See if there’s anything else from *Dungeon Church*’s fork to incorporate
+        - [x] See if there’s anything else from *Dungeon Church*’s fork to incorporate
     - [ ] Use color palette generator website and research contrast/readability
     - [ ] Decide if font should be updated
     - [ ] Add icons before certain callouts or as part of tags in text
@@ -60,7 +60,7 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 	- [ ] have a very rough draft of a color palette and .css file
 	- [ ] show screenshot of what it makes obsidian look like, it’s pretty rough
 - [x] Add loading animations and bars
-    - [ ] Spinning d20 animation
+    - [-] Spinning d20 animation
     - [x] Low profile loading bar at top
     - [ ] can make it so it only appears on pages that take 150ms or longer to load
 - [ ] Implement light/dark mode toggle
@@ -73,7 +73,7 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 - [ ] Make tables have slightly alternating colors every other row
 - [ ] Make background two-toned
 - [ ] Make inline table borders a different color to make it more outlined
-- [ ] make sure 3D dice functionality is working
+- [x] make sure 3D dice functionality is working
 - [ ] Change the Chevron icon to a d20
 - [ ] See how much a commissin for site assets would be
 - [ ] 
