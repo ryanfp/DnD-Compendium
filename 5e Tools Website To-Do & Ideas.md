@@ -1,10 +1,11 @@
 ---
 title: 5eTools Website Guide/Goals
 created: 2025/11/29 at 21:58
-updated: 2026/01/17 at 11:34
+updated: 2026/01/24 at 01:55
 aliases:
   - 5eTools Website Guide/Goals
-tags: []
+tags:
+  - ffa03c
 ---
 
 # 5eTools Website Guide/Goals
@@ -12,6 +13,7 @@ tags: []
 Currently building a personal mirror to the popular and useful [5etools](https://5e.tools/index.html) website. 
 
 ## In-Progress
+
 - Class Design
 	- [?] Cipher
 	- [?] Oracle
@@ -261,7 +263,13 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 
 ### Homebrew To-Add
 
-- Add “Dazed” condition as an alternative to stunned or paralyzed
+- Add conditions 
+	- Dazed as an alternative to stunned or paralyzed
+	- Burning
+	- Shocked (use Electrocuted condition icon) = cannot take Reactions, and has Disadvantage on Ability Checks and Saving Throws that use Dexterity
+	- Frostbite = take 1d4 Cold damage when you attack with a weapon + 1 extra cold damage
+	- Frozen = become vulnerable to Bludgeoning, Thunder, and Fire damage, movement speed halved rounded up
+	- 
 
 ### GitHub Repo Ideas
 
