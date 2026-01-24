@@ -902,9 +902,30 @@
               "icon": "lucide-file",
               "title": "5e Tools Website To-Do & Ideas"
             }
+          },
+          {
+            "id": "33752cc6bc1abbc7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -1159,11 +1180,9 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "5e Tools Website To-Do & Ideas.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 5e Tools Website To-Do & Ideas"
+              "title": "File properties"
             }
           },
           {
@@ -1328,9 +1347,7 @@
             },
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "5e Tools Website To-Do & Ideas.md"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -1375,12 +1392,12 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "1502f2517ecc2a63",
+  "active": "33752cc6bc1abbc7",
   "lastOpenFiles": [
+    "5e Tools Website To-Do & Ideas.md",
     "markdown-cheatsheet.md",
     "markdown-cheatsheet1.md",
     "markdown-css-style-cheatsheet.md",
@@ -1413,7 +1430,6 @@
     "Color Palette/imgs/Untitled 2.md",
     "Color Palette/imgs/Untitled 1.md",
     "Color Palette/imgs/Untitled.md",
-    "Color Palette/imgs/Website CSS Map.md",
     "Color Palette/Color Palettes.base",
     "desktop.ini",
     "z_img/3125-1696894452-1192171480.webp",

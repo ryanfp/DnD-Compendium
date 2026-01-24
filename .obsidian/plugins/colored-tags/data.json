@@ -1618,7 +1618,23 @@
     "colorpalette/tag/pastel": 14,
     "colorpalette/tag/earth": 15,
     "colorpalette/tag/kids": 16,
-    "f57f17": 47
+    "f57f17": 47,
+    "bbb": 48,
+    "fff": 49,
+    "d29a38": 50,
+    "fdf1dc": 51,
+    "e69a28": 52,
+    "ccc": 53,
+    "20c20e": 54,
+    "f8f8f8": 55,
+    "ff0": 56,
+    "cc0": 57,
+    "pagecontent": 58,
+    "e9e9e9→": 59,
+    "006bc4": 60,
+    "337ab7": 61,
+    "adadad": 62,
+    "f5f5f5": 63
   },
   "_version": 3
 }
