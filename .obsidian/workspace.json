@@ -856,8 +856,14 @@
             "id": "1502f2517ecc2a63",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "damage-type-interactions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"damage-type-interactions.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"damage-type-interactions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -886,8 +892,8 @@
               "type": "markdown",
               "state": {
                 "file": "5e Tools Website To-Do & Ideas.md",
-                "mode": "preview",
-                "source": true,
+                "mode": "source",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -901,6 +907,39 @@
               },
               "icon": "lucide-file",
               "title": "5e Tools Website To-Do & Ideas"
+            }
+          },
+          {
+            "id": "f8d13e4cb0f97d90",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "damage-type-interactions.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "damage-type-interactions"
             }
           }
         ],
@@ -1380,9 +1419,10 @@
   },
   "active": "1502f2517ecc2a63",
   "lastOpenFiles": [
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
+    "damage-type-interactions.md",
     "5e Tools Website To-Do & Ideas.md",
     "Quick  Thoughts.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "markdown-cheatsheet.md",
     "markdown-cheatsheet1.md",
     "markdown-css-style-cheatsheet.md",
@@ -1412,7 +1452,6 @@
     "Color Palette/imgs/Untitled 4.md",
     "Color Palette/imgs/Untitled 3.md",
     "Color Palette/imgs/Untitled 2.md",
-    "Color Palette/imgs/Untitled 1.md",
     "Color Palette/Color Palettes.base",
     "desktop.ini",
     "z_img/3125-1696894452-1192171480.webp",

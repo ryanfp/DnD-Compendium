@@ -215,6 +215,9 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 - [ ] Refactor stacking Advantage system 
     - [ ] Use offset stacking (e.g. 2 adv vs 1 disadv = net adv, never fully cancels except at parity)
 - [ ] If a party member takes damage that reduces their Wild Shape form's Hit Points below 0, the remaining damage is applied to their original form. If the remaining damage is also enough to reduce their original form to 0 Hit Points, they die instantly, skipping the usual death saving throws.
+- [ ] [Rampage (Condition) - bg3.wiki](https://bg3.wiki/wiki/Rampage_(Condition))
+- [ ] [[damage-type-interactions|New Damage Type Interactions & Conditions]]
+- [ ] [D&D 5e rule changes - bg3.wiki](https://bg3.wiki/wiki/D%26D_5e_rule_changes)
 
 ### Source & Homebrew Management
 
