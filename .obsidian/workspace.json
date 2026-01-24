@@ -886,7 +886,7 @@
               "type": "markdown",
               "state": {
                 "file": "5e Tools Website To-Do & Ideas.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -1360,7 +1360,6 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
-      "templates:Insert template": false,
       "obsidian42-brat:BRAT": true,
       "obsidian-custom-frames:Open Obsidian Forum": true,
       "helpmate:HelpMate": true,
@@ -1375,8 +1374,7 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "1502f2517ecc2a63",
