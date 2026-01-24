@@ -142,6 +142,7 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
         - [ ] Consider fixing “Stunned” via Dazed condition (see [[#Homebrew To-Add]])
 - [ ] Finish creating full suite of “builder" files for homebrew creation
 - [ ] **Flavor WISE** how can I work a spiritual “song of creation” into the world? It would be so cool if when someone swan songs I can narrate the song of creation changing it’s tune, with a building crescendo of a violin etc etc or narrate it at other times during the campaign
+- [ ] Add MCDM Draw Steel’s *Negotiation* system
 
 ### Subclasses & Classes
 
