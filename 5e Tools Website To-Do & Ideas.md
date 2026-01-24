@@ -11,6 +11,27 @@ tags: []
 
 Currently building a personal mirror to the popular and useful [5etools](https://5e.tools/index.html) website. 
 
+## In-Progress
+- Class Design
+	- [?] Cipher
+	- [?] Oracle
+	- [ ] Aegis
+	- [?] Cardcaster
+	- [?] Ranger Revision
+- [ ] Implementing IndexedDB sitewide to improve performance
+- [ ?] Designing a “Which Class are You?” quiz to implement on the website
+- Redesigning the color palette of the whole site’s light and dark modes
+	- [!] Dark Mode (mostly done)
+	- [?] Light Mode
+- [ ] Changing the site header to be more modern
+- [ ] Integrating UI icons before keywords in text
+	- [!] get either SVG or PNGs of all files (if PNGs, multiple sizes are needed)
+- [ ] Include a “Class Emblem” on every class page
+	- [x] Have a mockup or sketches of desired class icons ready
+	- [ ] Hire someone to commission some svgs
+- [?] Integrate DungeonChurch’s index page button highlights
+
+
 ## Website Development
 
 ### UI & Design Updates
@@ -114,11 +135,6 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
     - [ ] Decide on “bad” saving throws at high level (is it fine, or tweak/provide compensation?)
         - [ ] Consider fixing “Stunned” via Dazed condition (see [[#Homebrew To-Add]])
 - [ ] Finish creating full suite of “builder" files for homebrew creation
-- [ ] Create a “Boss Fight Outcome” system table
-	- [ ] Fights can go from *really good* ←→Hopeful ←→ Neutral ←→ Dire ←→ Doomed
-	- [ ] Maybe based on certain mechanics like overall remaining health pool of the party, or downed PCs, maybe the boss is one or two rounds away from completing the ritual or something
-	- [ ] Can gate certain mechanics or introduce narrative flavor
-	- [ ] Create effects
 - [ ] **Flavor WISE** how can I work a spiritual “song of creation” into the world? It would be so cool if when someone swan songs I can narrate the song of creation changing it’s tune, with a building crescendo of a violin etc etc or narrate it at other times during the campaign
 
 ### Subclasses & Classes
@@ -232,8 +248,6 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 
 ## Misc
 
-- rename Halflings to “Hobbits”
-- remove the GH:PP maneuvers options, they seem OP
 - see if it’s possible to have the races and subraces be a drop down list instead of separate entries (it is but it’s very complex and would take a long time)
 - [x] see if it’s possible to have the top row of the table view freeze or stay at the top
 

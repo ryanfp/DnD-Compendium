@@ -156,5 +156,7 @@
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
   "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-sky",
   "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-solarized-light",
-  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-frappe"
+  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-frappe",
+  "ITS@@accent2-lite@@dark": "#FF7314",
+  "ITS@@inactive@@dark": "#BD560F"
 }
