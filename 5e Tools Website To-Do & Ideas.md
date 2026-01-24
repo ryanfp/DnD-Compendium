@@ -213,6 +213,7 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
     - [ ] Use resources/threads: Discord of Many Things “5e Rebuilds”, SwEcky, KibblesTasty, LevelUpA5e, UA Reddit, other rebuilds
 - [ ] Refactor stacking Advantage system 
     - [ ] Use offset stacking (e.g. 2 adv vs 1 disadv = net adv, never fully cancels except at parity)
+- [ ] If a party member takes damage that reduces their Wild Shape form's Hit Points below 0, the remaining damage is applied to their original form. If the remaining damage is also enough to reduce their original form to 0 Hit Points, they die instantly, skipping the usual death saving throws.
 
 ### Source & Homebrew Management
 
@@ -273,7 +274,7 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 	- Caustic = takes 1d4 Poison if they have not moved on their turn
 	- Make Surprised give you Disadvantage on Initiative rolls AND unable to take reactions
 	- Necrotic damage disrupts healing? Maybe it just decreases the amount gained
-	- Wet = Clear the Burning or Corroded condition. Tier of Resitance to Lightning and Cold Damage decreases by one (Immunity –> Resistance –> Neutral –> Vulnerable)Attacks that use Lightning or Cold damage have advantage, and you have Disadvantage on saving throws to resist the effects of Lightning or Lightning Damage. Take double the amount of stacks of Frostbite
+	- Wet = (Lasts until the end of your next turn) Clear the Burning or Corroded condition. Gain Resistance to Fire Damage. Tier of Resistance to Lightning and Cold Damage decreases by one (Immunity –> Resistance –> Neutral –> Vulnerable)Attacks that use Lightning or Cold damage have advantage, and you have Disadvantage on saving throws to resist the effects of Lightning or Lightning Damage. Take double the amount of stacks of Frostbite
 
 ### GitHub Repo Ideas
 
