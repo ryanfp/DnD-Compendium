@@ -30,7 +30,11 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 	- [x] Have a mockup or sketches of desired class icons ready
 	- [ ] Hire someone to commission some svgs
 - [?] Integrate DungeonChurch’s index page button highlights
-
+- BG3 wiki UI colors
+	- link text - #ffa03c
+	- link hover/visited rgb(190 120 40);
+	- link new - rgb(220 70 70);
+	- header/bold - rgb(238, 85, 0)
 
 ## Website Development
 
