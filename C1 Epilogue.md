@@ -18,17 +18,13 @@ I have found it fun for the players and I to sit around and each have a chance t
 describing the arc of their life after the big adventure. What did they go on to do, who did they do it with, and how are they remembered now that the dust has settled?
 
 
-The Festival of Fables:
 
-festival
-
-Storytellers entertain crowds under the stars, weaving tales of harvest spirits that protect the fields from blight and drought.
 
 *Festival of the Fabled Twilight*
 
 The town gets together once a year to celebrate prosperity, good fortune and the year to come. It was a prominent Phandalin tradition, once disregarded when the village was in disrepair and the people struggled to find optimism among their life. But since the players had created a spark in the community, they began the tradition anew. 
 
-Villagers stop work early and prepare a large communal feast in the town square. There’s music, laughing, drinking, people enjoying and celebrating the events of the past year. Mourning those lost. Appreciating the time we have with those around us. A makeshift stage is constructed outside the Townmaster’s Hall, where storytellers entertain the feasting crowd under the stars, recounting epic odysseys, weaving tales of harvbest spirits that guard the fields from blight and vermin. But tonight, a different story is being told. 
+Villagers stop work early and prepare a large communal feast in the town square as dusk descends upon the night. There’s music, laughing, drinking, people enjoying and celebrating the events of the past year. Mourning those lost. Appreciating the time we have with those around us. A makeshift stage is constructed outside the Townmaster’s Hall, where storytellers entertain the feasting crowd under the stars, recounting epic odysseys, weaving tales of harvbest spirits that guard the fields from blight and vermin. But tonight, a different story is being told. 
 
 In fact, the players are all there, listening to it. You had been invited back to the town where it all started, one to experience the festival again, but to appear as *honored guests* in this special anniversary edition. Five years since the events of the Cragmaw’s and the Fight for the Forge of Spells, they are regaling the town with the feats from your adventure (and embellishing a bit) as people jive and cheer with every  exclamation. 
 
@@ -38,7 +34,7 @@ Eventually, the festival comes to a close and the loud rancor of the feasting cr
 
 [CHARACTERS GIVE THEIR RP STORY]
 
-*And with that, this story comes to a close. But that doesn’t mean (their) story ends. Maybe one day, something or someone will need saving, forcing the group back togethe*
+*And with that, this story comes to a close. But that doesn’t mean (their) story ends. Maybe one day, something or someone will need saving, forcing the group back together again for one last adventure. One last heroic endeavor of epic proportions, one to rival that which came before. But that, would be a story for another time.*
 Twilight Feast:
 
 festival
@@ -190,17 +186,16 @@ I haven't had the time to actually write out an epilogue but for ash she plans t
 
 ### The Town
 
-With the nearby mine generating crazy amounts of revenue and foot traffic (and magic items at that), along with the help of Iarno and [Player Characters?], the town has seen a massive increase in urbanization, with the town’s buildings now encompassing the fields that used to sit at the outskirts, the roads are now smooth cobblestone, many of the houses have been built up from humble cottages
+With the nearby mine generating crazy amounts of revenue and foot traffic (and magic items at that), along with the help of Iarno and [Player Characters?], the town has seen a massive increase in urbanization, with the town’s buildings now encompassing the fields that used to sit at the outskirts, the roads are now smooth cobblestone, many of the houses have been built up from humble cottages. Tresandor Manor has been rebuilt and repurposed into a city watch command center that overlooks the town. Guardposts have been established at points of interest around the now small busting city, with magical wards put in place with the help of Iarno and Gwyn
 
 ### The Mine & The Rockseeker Brothers
 
-The mine has been doing fairly well for itself, filling a niche that noone knew was empty. Simple/Common magic items immediately saw a huge increase in supply and thus have become available to a much larger variety of people. 
+The mine has been doing fairly well for itself, filling a niche that noone knew was empty. Simple/Common magic items immediately saw a huge increase in supply and thus have become available to a much larger variety of people. The Rockseeker brothers have done what they can to memorialize their younger brother, dedicating the mine and their mission to ensuring noone ever has to meet the same fate again. “He Was the Best of Us” they say. That didn’t stop them from endeavoring into new schemes from time to time, but they were much busier than usual making sure they were restoring the mine and the surrounding area to a place of peace and prosperity. 
 
 ### Elsa & The Edermaths
 
-Elsa:
-Gwyn:
-Daran:
+**Elsa** actually partnered with her sister and the Rockseeker Brothers to open a common magic item store in town, providing items that could give small quality of life to the villagers, and also creating a point of interest within the town as a magic item vendor. Her sister helped choose, appraise and subsequently protect the items while the skills Elsa learned in her time as a barmaid at the Stonehill Inn turned her into a cunning saleswoman. 
+**Gwyn** in her spare time helps her sister with “*Edermath Apples, Artifacts and Apothecaries*”, but otherwise she has continued in her studies at Neverwinter College, and is thought by many to be groomed for her role as the next archmage. 
 
 ### Oscar
 
