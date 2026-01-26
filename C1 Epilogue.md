@@ -8,21 +8,9 @@ aliases:
 
 # Epilogue WriteUp
 
-I have found it fun for the players and I to sit around and each have a chance to share something about their PC, I may share some things about what happened rolling forward, maybe the players ask some questions and we also talk about special moments that we remembered.
 
-, by giving a paragraph or so about what happens to every major kingdom or conflict as a result of the PCs actions.
 
-1. What she's doing post-adventure and why
-    
-2. References to each of the other party members.
-    
-3. References to the scars she bears from the past adventures.
-    
-4. A hint at her future.
-
-describing the arc of their life after the big adventure. What did they go on to do, who did they do it with, and how are they remembered now that the dust has settled?
-
-*Festival of the Fabled Twilight*
+*Festival of the Fabled Harvest*
 
 The town gets together once a year to celebrate prosperity, good fortune and the year to come. It was a prominent Phandalin tradition, once disregarded when the village was in disrepair and the people struggled to find optimism among their life. But since the players had created a spark in the community, they began the tradition anew. 
 
@@ -48,6 +36,8 @@ As dusk descends, villagers gather to share heirloom recipes, igniting a friendl
 1. Finish Court scene and end with decision by the tribunal. Have characters embrace and briefly explain who (if any) will be leaving and where. 
 2. Fast-Forward 5 years, spend time describing how the world has changed and what NPCs of note are doing
 	1. How Neverwinter has changed
+		1. Neverwinter has, on the outside, remained the same. The internal structure and standard-operating-procedure of many facets of the Lord’s Alliance has been overhauled. They now remain inside the cities less and focus on reinforcing the local communities, hoping to prevent a mirror of the events of the party and Phandalin. They’ve worked with other major cities like Waterdeep to the north to reinforce the roads with lampposts, cobblestone and regular rest stops of small communities (mostly a tavern and general store + a guard tower and barracks) along the way. They regularly patrol to and from them to provide a presence to deter bandits and roadside ambushes. 
+		2. With no leader, power structure, or goal, the Cragmaws largely disbanded. Their mark on the land has begun to heal with the looming shadow of the Spider now gone forever. Life returned to a new normal. 
 	2. How Phandalin has changed
 	3. How the surrounding environment and other settlements have changed
 	4. What are Mirna, The Rockseeker Brothers, Sildar & Iarno, The Edermaths, Droop and Oscar doing?
