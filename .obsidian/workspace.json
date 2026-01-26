@@ -925,7 +925,7 @@
               "type": "markdown",
               "state": {
                 "file": "C1 Epilogue.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -1009,7 +1009,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -1265,10 +1265,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled.md"
+                "file": "C1 Epilogue.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Untitled"
+              "title": "File properties for C1 Epilogue"
             }
           },
           {
@@ -1434,7 +1434,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Untitled.md"
+                "file": "C1 Epilogue.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -1482,10 +1482,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "a54a355305bfe49b",
+  "active": "1b30f954e384aa54",
   "lastOpenFiles": [
-    "C1 Epilogue.md",
     "Untitled.md",
+    "C1 Epilogue.md",
     "damage-type-interactions.md",
     "5e Tools Website To-Do & Ideas.md",
     "Quick  Thoughts.md",

@@ -111,32 +111,26 @@ I loved hearing each of them read about the dreams and ambitions that their char
 - Lets them know he heard about something linking the far realms and the concept of the mind. Says he’s going to ‘follow a lead, maybe consult with Oscar first since he’s native to that plane’
 - **What does finding his memories mean to him? What does he hope to gain? Is he worried what he might end up remembering? What does he hope lies in wait at the precipice? Does he miss the party and the days of their adventures?**
 
-### Raf-i-L
+### [ X ] Raf-i-L
 
 - After the events, Raf primarily goes back home to spend time with his kids and family. Even though he enjoyed adventuring, he enjoys his life at home more. 
 - However, he does need to make ends meet, and the proceeds from the monthly mine payments are fully enough, so he occasionally does mercenary work (all he knows how to do)
 - He gets a taste of how his old life used to be, daring exploits, heroic quests, etc. 
 - He frequently visits the town with his family now that things are settling down, and in fact, frequently runs into Droop and his community on their travels. His kids and Droop’s kids have a semi-close relationship
-- **What **
-- Goes home to his family and sees his kids, spends time raising them
-- Does mercenary work on the side as he enjoys getting out and about and adventuring, misses the party. 
+- **What does Raf intend to do with the other part of his life? Does he have any wants or desires? What brings him fulfilment? Does he miss the party and the days of their adventures?**
 
-```
-1. I can write out a nice thing to read but he's just going to go home to help raise his kid, and do mercenary work on the side. he'll travel around occasionally especially if the group does reunions or to visit where people may have settled down.
-2. for now, i don't have his whole future planned out lol since maybe he can be revisited
-```
 
 ## NPCs
 
-### Mirna
+### [ X ] Mirna
 
 Mirna has reserved herself to a quiet, peaceful life since the events of the Fight for the Forge. Her son Nars left to join the Lord’s Alliance in Neverwinter (with recommendation from Sildar) and Nilsa has come into her own as a fierce and intelligent young woman. She appreciates how mundane her life is now, but she does miss the spark of excitement conflict brought to it. Doing what she can to honor Thel and keep moving forward, she has started an outreach program for refugees from various conflicts and disasters. The Thundertree Catastrophe of which she herself was a victim of, the orphans of the Rule of the Cragmaws, and countless others have been yearning for a sense of stability and a place of belonging. She does her best to provide that or guide them to a place that can. The Sleeping Giant inn has been providing temporary room and board to them while she gets their affairs in order.
 
-### Droop
+### [ X ] Droop
 
 After the events of the Fight for the Forge, Droop heard of the Cragmaws disbanding, and was able to take his family and village out of hiding. While their reputation as Goblins started off rocky with the surrounding towns, once they understood the Cragmaws were essentially a group of bandits, and not reflective of Goblins as a whole, their relationship thrived. His village was able to resume their merchant caravan ways, with small outposts set up inside the confines of the surrounding towns, such as Conyberry and Phandalin. His main role amongst the townspeople has been providing a mechanism to turn *decanters of endless water* into hydropower. His early prototypes (along with the machine work of Kada and her now eager to help son Bori) were enough to spring the town forward in technological advancement. His hopes for the new model are to surpass that of even the capabilities of Neverwinter’s Blacksmiths Guild. 
 
-### Sildar & Iarno
+### [ X ] Sildar & Iarno
 
 *Presumably Iarno doesn’t get heavy prison time or death penalty, but they have to have some form of retribution and punishment, so he’s sentenced to work as a community servant in Phandalin as penance*
 
@@ -146,20 +140,20 @@ It took a bit for Iarno to be accepted, but now, among his other duties, he help
 
 The couple has become close with Mirna and her family, becoming almost surrogate uncles along the way. Sildar has taught Nilsa how to effectively wield a sword and shoot a bow and arrow, while Iarno believes she may be a fine magical prodigy (much to her delight). Their time spent with her and other children throughout Phandalin have them considering adopting a child of their own soon. 
 
-### The Town
+### [ X ] The Town
 
 With the nearby mine generating crazy amounts of revenue and foot traffic (and magic items at that), along with the help of Iarno and [Player Characters?], the town has seen a massive increase in urbanization, with the town’s buildings now encompassing the fields that used to sit at the outskirts, the roads are now smooth cobblestone, many of the houses have been built up from humble cottages. Tresandor Manor has been rebuilt and repurposed into a city watch command center that overlooks the town. Guardposts have been established at points of interest around the now small busting city, with magical wards put in place with the help of Iarno and Gwyn protecting the city. 
 
-### The Mine & The Rockseeker Brothers
+### [ X ] The Mine & The Rockseeker Brothers
 
 The mine has been doing fairly well for itself, filling a niche that no-one knew was empty. Simple/Common magic items immediately saw a huge increase in supply and thus have become available to a much larger variety of people. The Rockseeker brothers have done what they can to memorialize their younger brother, dedicating the mine and their mission to ensuring no one ever has to meet the same fate again. “He Was the Best of Us” they say. That didn’t stop them from endeavoring into new schemes from time to time, but they were much busier than usual making sure they were restoring the mine and the surrounding area to a place of peace and prosperity. 
 
-### Elsa & The Edermaths
+### [ X ] Elsa & The Edermaths
 
 **Elsa** actually partnered with her sister and the Rockseeker Brothers to open a common magic item store in town, providing items that could give small quality of life to the villagers, and also creating a point of interest within the town as a magic item vendor. Her sister helped choose, appraise and subsequently protect the items while the skills Elsa learned in her time as a barmaid at the Stonehill Inn turned her into a cunning saleswoman. 
 **Gwyn** in her spare time helps her sister with “*Edermath Apples & Artifacts*”, but otherwise she has continued in her studies at Neverwinter College, and is thought by many to be groomed for her role as the next archmage. 
 
-### Oscar
+### [ X ] Oscar
 
 Oscar has been thriving in his totally brand new position as Arbiter of the mine. A small portion of his role sees him escorting visitors throughout a small subset of the facility, with his historical recap including when the mine was heroically saved after it was overrun and almost repurposed for nefarious purposes. This group of daring adventurers, who are also partial owners, have been exceedingly generous and are still giving back to the local community by 
 
