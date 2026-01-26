@@ -994,7 +994,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ffa03c",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -1043,7 +1043,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a3116cdcaf599a64",
@@ -1412,10 +1413,12 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "1502f2517ecc2a63",
+  "active": "48e9278cad46a598",
   "lastOpenFiles": [
     "damage-type-interactions.md",
     "5e Tools Website To-Do & Ideas.md",
