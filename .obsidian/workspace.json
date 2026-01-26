@@ -943,6 +943,39 @@
             }
           },
           {
+            "id": "a54a355305bfe49b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
             "id": "f8d13e4cb0f97d90",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -976,7 +1009,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -1232,10 +1265,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "C1 Epilogue.md"
+                "file": "Untitled.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for C1 Epilogue"
+              "title": "File properties for Untitled"
             }
           },
           {
@@ -1401,7 +1434,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "C1 Epilogue.md"
+                "file": "Untitled.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -1449,10 +1482,11 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "1b30f954e384aa54",
+  "active": "a54a355305bfe49b",
   "lastOpenFiles": [
-    "damage-type-interactions.md",
     "C1 Epilogue.md",
+    "Untitled.md",
+    "damage-type-interactions.md",
     "5e Tools Website To-Do & Ideas.md",
     "Quick  Thoughts.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
@@ -1483,7 +1517,6 @@
     "Color Palette/imgs/Untitled 5.md",
     "Color Palette/imgs/Untitled 4 1.md",
     "Color Palette/imgs/Untitled 4.md",
-    "Color Palette/imgs/Untitled 3.md",
     "Color Palette/Color Palettes.base",
     "desktop.ini",
     "z_img/3125-1696894452-1192171480.webp",
