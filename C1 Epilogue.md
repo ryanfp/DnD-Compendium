@@ -30,7 +30,7 @@ In fact, the players are all there, listening to it. You had been invited back t
 
 Eventually, the festival comes to a close and the loud rancor of the feasting crowd turns to a hum, as people hug and say their goodbyes, and wish them good fortune. The party eventually finds themselves back at their old cottage, now having been fully repaired, a renovated to modest standards ()considering the state of the rest of the town and the players standing). A bonfire is lit aside the tavern, and you all sit amongst each other (for some, the first time in a long while). You all get the feeling, this might be the last time you all see each other for a long time. Not having much time to talk personally at the festival, you all start telling each other what you’ve been up to since you’ve last seen each other. *And in that case, lets all roll initiative, one last time*
 
-*Treat this as a simple conversation between old friends over a warm fire, on a summers night. The crickets are chirping, fireflies are illuminating the surrounding fields. The smell of firewood overwhelmes your senses as you can still hear muffled laughs and shouts for throughout the town’s now numerous streets.*
+*Treat this as a simple conversation between old friends over a warm fire, on an early autumnal night in the crisp night air. Crickets are chirping, fireflies are illuminating the surrounding fields and the smell of firewood overwhelms your senses as you can still hear muffled laughs and shouts for throughout the town’s now numerous streets.*
 
 [CHARACTERS GIVE THEIR RP STORY]
 
@@ -48,7 +48,8 @@ As dusk descends, villagers gather to share heirloom recipes, igniting a friendl
 	2. How Phandalin has changed
 	3. How the surrounding environment and other settlements have changed
 	4. What are Mirna, The Rockseeker Brothers, Sildar & Iarno, The Edermaths, Droop and Oscar doing?
-	5. The town is hosting a 
+	5. The town is hosting a festival, etc
+3. 
 
 
 ```
@@ -63,71 +64,32 @@ I loved hearing each of them read about the dreams and ambitions that their char
 
 ## Characters
 
-### Felix
+### [ x ]  Felix
 
 - Felix continually pushes his luck post campaign, gets increasingly reckless
 - But he wants to help the little guys, get back to his roots of helping out those in need while doing it in his own way
 
-- Felix believed he was nigh untouchable towards the en
+- Felix believed he was nigh untouchable towards the end of the events of the campaign, he felt his skills couldn’t go to waste. 
+- However, seeing the good his work did, he didn’t want to indulge his own interests, he sprang back to work how he knew how. Stealing from the rich, and giving to the poor. 
+- Eventually, his deeds caught up to him, and he was set to be hanged (at the immense financial pressure of the nobles from whom he stole), until a certain insectoid Noble and well-respected Soldier intervened on his behalf. 
+- His sentence was reduced to reeducation courses on why stealing from people is bad, and mandatory community service at the nobles’ estates (this was also changed to Phandalin at Sildar’s request)
+- Having learned nothing, but still wanting to reduce drama in his life, he began offering his services as a *security consultant*, advising those on how best to prevent thievery. Providing new systems integrated with magical locks and sensors, his services became very lucrative and successful. (Oddly enough though, he seemed to always have access to a skeleton key for each of his customers)
+- **Where does Felix want to take this journey in the future? How does he feel about the way his life has gone? What things can he accomplish now?**
 
-```
-- my character is going to push his luck so much because he actually is starting to believe he is invisible
-- im not sure the consequences of that yet
-- maybe ill turn back to my life of crime but like in a robinhood way and die in a heist of the nobles who i robbed in my backstory
-- rolls a nat 1
-- well the quest to save glasstaff makes me want to return to helping out the little guys
-- but i cant help my tendency to rob, so ill start doing it for good instead of selfishness
-- and get wayyyy too cocky because my stealth stat and deception stats are so high
-- in true nat 1 fashion
-```
+### [ x ] Bumi
 
+- Bumi goes back with Ash to her druid circle to learn more about his powers, their origins and capabilities. Having never felt a connection to the druidic part of his identity, he’s able to find it among the members of Ash’s circle. 
+- Eventually, Bumi wanted to go back to Phandalin and run for Townmaster. Since nobody wanted the job, Harbin still was running unopposed all these years. *He can either have already run for mayor and won or be **going** to run for mayor after the epilogue*. 
+- He’s seen some members of the party over the years (mainly Ash, but sometimes Myth when he visits Phandalin), and maintains his relationship. He’s possibly even helped her on some of her “search-and-rescue” operations? (Up to you)
 
-### Bumi
+### [ x ] Myth
 
-- wants to go back with Ash to her druid circle and explore the origins and extent of his powers
-- also wants to stay connected to the town and eventually runs for mayor. He feels a connection as this was the first large-scale community he’s had since his village destruction
+- Myth still values helping people and wanted to continue adventuring with Phandalin remaining a big part of her home. 
+- She eventually starts helping Mirna with her work with refugees, using her Strength and Athleticism for rescue efforts (physical demeanor and combat prowess are used as a deterrent)
+- She has maintained a steady relationship with Elsa, and has also been serving as an escort for the convoys to and from Wave Echo Cave (that contain magic item shipments and gold)
+- Having learnt about trust and bonds, boundaries and the like, Myth goes back and confronts her family and kingdom at one point. Although they were unable to fully grasp her reasoning, they’ve agreed to not pursue her for her role as future Queen. They allow her to keep all titles and privileges, but have since ceased all catch-and-return orders (also partially because they all kept getting maimed or killed).
+- Has not seen much of Ne’ith since the events, but whenever they do meet, a strong sense of trust and knowing radiates from both. Two unlikely acquaintances, having learned the value of trust, forgiveness and humility together. 
 
-
-```
-So for Bumi I only really have like two things I want him to do in the epilogue, I want him to go with ash back to her Druid circle and learn more about his powers for awhile (your discretion for how long) and after he learn more about the Druid powers. I think he would return to phandalin and run for Mayor. And you can add whatever flavor you want in between
-
-1. bumi feels connected to the town I think bc it’s the first time since his village was destroyed he had a place to settle down. And like I said he wanted to come back and run for mayor to try and make Phandalin better.
-2. He already has a connection with myth so that’s his strongest connection but he definitely is cool with most of the party (Xyranna he just doesn’t really get hahahah)
-```
-
-### Myth
-
-- wants to continue helping people and going on quests, maintaining the Phandalin area as her home base
-- learnt alot about trust and bonds, boundaries and the like. Learned that letting people get close is okay and while it can lead to pain, the people make it better in the end
-- wants to pursue something with Elsa
-
-
-
-```
-- *what will your character do over the next 10 years?*
-
-myth would definitely continue to help people and go on quests for them idk she's a strong independent woman and maybe she would hang around phandalin as home base.
-
-- *what are some goals they had that remain unfulfilled?*
-
-she just wants to be independent so i think she’s done just that you can obviously add flavor here  
-
-- *what has your character learned over the course of their adventures?*
-
-this adventure specifically has taught myth a lot about trust. specifically with the neith situation and allowing a group of people to get into her close circle.
-
-- *how does this affect them and their loved ones?*
-
-right now she just has the group so i mean them leaving her will be hard but ideally she can still visit them and stuff
-
-- *what are some NPCs you’re interested in knowing more about or getting to know better?*
-
-ELSAAAAA
-
-- *are there any conflicts left unsolved that your character could be worried about?*
-
-i don’t think so but definitely flavor this up
-```
 
 ### Ash
 
