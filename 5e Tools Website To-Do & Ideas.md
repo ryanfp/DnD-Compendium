@@ -80,6 +80,7 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 			- [ ] ITS Pathfinder Remastered
 			- [ ] Atom
 - [ ] Add “Show Subclasses” collapse button near the top of the classes page to hide them like filters”
+- [ ] Change the Filter “collapse and expand” buttons from the current glyphicon to either a +/- or a differne tone
 
 ### Layout & Functionality
 
