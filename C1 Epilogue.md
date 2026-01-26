@@ -18,6 +18,42 @@ I have found it fun for the players and I to sit around and each have a chance t
 describing the arc of their life after the big adventure. What did they go on to do, who did they do it with, and how are they remembered now that the dust has settled?
 
 
+The Festival of Fables:
+
+festival
+
+Storytellers entertain crowds under the stars, weaving tales of harvest spirits that protect the fields from blight and drought.
+
+*Festival of the Fabled Twilight*
+
+The town gets together once a year to celebrate prosperity, good fortune and the year to come. It was a prominent Phandalin tradition, once disregarded when the village was in disrepair and the people struggled to find optimism among their life. But since the players had created a spark in the community, they began the tradition anew. 
+
+Villagers stop work early and prepare a large communal feast in the town square. There’s music, laughing, drinking, people enjoying and celebrating the events of the past year. Mourning those lost. Appreciating the time we have with those around us. A makeshift stage is constructed outside the Townmaster’s Hall, where storytellers entertain the feasting crowd under the stars, recounting epic odysseys, weaving tales of harvbest spirits that guard the fields from blight and vermin. But tonight, a different story is being told. 
+
+In fact, the players are all there, listening to it. You had been invited back to the town where it all started, one to experience the festival again, but to appear as *honored guests* in this special anniversary edition. Five years since the events of the Cragmaw’s and the Fight for the Forge of Spells, they are regaling the town with the feats from your adventure (and embellishing a bit) as people jive and cheer with every  exclamation. 
+
+Eventually, the festival comes to a close and the loud rancor of the feasting crowd turns to a hum, as people hug and say their goodbyes, and wish them good fortune. The party eventually finds themselves back at their old cottage, now having been fully repaired, a renovated to modest standards ()considering the state of the rest of the town and the players standing). A bonfire is lit aside the tavern, and you all sit amongst each other (for some, the first time in a long while). You all get the feeling, this might be the last time you all see each other for a long time. Not having much time to talk personally at the festival, you all start telling each other what you’ve been up to since you’ve last seen each other. *And in that case, lets all roll initiative, one last time*
+
+*Treat this as a simple conversation between old friends over a warm fire, on a summers night. The crickets are chirping, fireflies are illuminating the surrounding fields. The smell of firewood overwhelmes your senses as you can still hear muffled laughs and shouts for throughout the town’s now numerous streets.*
+
+[CHARACTERS GIVE THEIR RP STORY]
+
+*And with that, this story comes to a close. But that doesn’t mean (their) story ends. Maybe one day, something or someone will need saving, forcing the group back togethe*
+Twilight Feast:
+
+festival
+
+As dusk descends, villagers gather to share heirloom recipes, igniting a friendly rivalry over whose dish holds the true essence of the harvest.
+## Mapping
+
+1. Finish Court scene and end with decision by the tribunal. Have characters embrace and briefly explain who (if any) will be leaving and where. 
+2.  Fast-Forward 5 years, spend time describing how the world has changed and what NPCs of note are doing
+	1. How Neverwinter has changed
+	2. How Phandalin has changed
+	3. How the surrounding environment and other settlements have changed
+	4. What are Mirna, The Rockseeker Brothers, Sildar & Iarno, The Edermaths, Droop and Oscar doing?
+	5. The town is hosting a 
+
 
 ```
 enjoy small town life? 
