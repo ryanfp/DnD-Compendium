@@ -910,39 +910,6 @@
             }
           },
           {
-            "id": "1b30f954e384aa54",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1 Epilogue.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "C1 Epilogue"
-            }
-          },
-          {
             "id": "f8d13e4cb0f97d90",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -976,7 +943,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -1232,10 +1199,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Epilogue Story Map.md"
+                "file": "damage-type-interactions.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Epilogue Story Map"
+              "title": "File properties for damage-type-interactions"
             }
           },
           {
@@ -1401,7 +1368,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Epilogue Story Map.md"
+                "file": "damage-type-interactions.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -1449,68 +1416,10 @@
       "card-board:CardBoard": false
     }
   },
-  "floating": {
-    "id": "5f12eb73eb2884ed",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d7506e23422c9268",
-        "type": "window",
-        "children": [
-          {
-            "id": "ad3b05d0cadf8519",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a54a355305bfe49b",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Epilogue Story Map.md",
-                    "mode": "preview",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Epilogue Story Map"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 12,
-        "y": 13,
-        "width": 1028,
-        "height": 1174,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "a54a355305bfe49b",
+  "active": "f8d13e4cb0f97d90",
   "lastOpenFiles": [
-    "damage-type-interactions.md",
     "Epilogue Story Map.md",
+    "damage-type-interactions.md",
     "C1 Epilogue.md",
     "5e Tools Website To-Do & Ideas.md",
     "Quick  Thoughts.md",
