@@ -1,14 +1,12 @@
 ---
 title: Epilogue WriteUp
 created: 2026/01/26 at 13:20
-updated: 2026/01/26 at 16:35
+updated: 2026/01/26 at 18:49
 aliases:
   - Epilogue WriteUp
 ---
 
 # Epilogue WriteUp
-
-
 
 *Festival of the Fabled Harvest*
 
@@ -38,10 +36,6 @@ As dusk descends, villagers gather to share heirloom recipes, igniting a friendl
 	1. How Neverwinter has changed
 		1. Neverwinter has, on the outside, remained the same. The internal structure and standard-operating-procedure of many facets of the Lord’s Alliance has been overhauled. They now remain inside the cities less and focus on reinforcing the local communities, hoping to prevent a mirror of the events of the party and Phandalin. They’ve worked with other major cities like Waterdeep to the north to reinforce the roads with lampposts, cobblestone and regular rest stops of small communities (mostly a tavern and general store + a guard tower and barracks) along the way. They regularly patrol to and from them to provide a presence to deter bandits and roadside ambushes. 
 		2. With no leader, power structure, or goal, the Cragmaws largely disbanded. Their mark on the land has begun to heal with the looming shadow of the Spider now gone forever. Life returned to a new normal. 
-	2. How Phandalin has changed
-	3. How the surrounding environment and other settlements have changed
-	4. What are Mirna, The Rockseeker Brothers, Sildar & Iarno, The Edermaths, Droop and Oscar doing?
-	5. The town is hosting a festival, etc
 3. OOC discussion, what are some memorable moments? What are some questions you have unanswered?
 
 ```
@@ -108,7 +102,6 @@ I loved hearing each of them read about the dreams and ambitions that their char
 - He gets a taste of how his old life used to be, daring exploits, heroic quests, etc. 
 - He frequently visits the town with his family now that things are settling down, and in fact, frequently runs into Droop and his community on their travels. His kids and Droop’s kids have a semi-close relationship
 - **What does Raf intend to do with the other part of his life? Does he have any wants or desires? What brings him fulfilment? Does he miss the party and the days of their adventures?**
-
 
 ## NPCs
 

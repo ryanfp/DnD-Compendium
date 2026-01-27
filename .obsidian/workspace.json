@@ -957,7 +957,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Epilogue Story Map.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -972,7 +972,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Epilogue Story Map"
             }
           },
           {
@@ -1009,7 +1009,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -1265,10 +1265,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "C1 Epilogue.md"
+                "file": "Epilogue Story Map.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for C1 Epilogue"
+              "title": "File properties for Epilogue Story Map"
             }
           },
           {
@@ -1434,7 +1434,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "C1 Epilogue.md"
+                "file": "Epilogue Story Map.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -1444,7 +1444,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 471.5
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -1482,10 +1482,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "1b30f954e384aa54",
+  "active": "a54a355305bfe49b",
   "lastOpenFiles": [
-    "Untitled.md",
     "C1 Epilogue.md",
+    "Epilogue Story Map.md",
     "damage-type-interactions.md",
     "5e Tools Website To-Do & Ideas.md",
     "Quick  Thoughts.md",
