@@ -352,7 +352,14 @@
   },
   "bookmarkIcons": {},
   "tagIcons": {},
-  "propertyIcons": {},
+  "propertyIcons": {
+    "aliases": {
+      "icon": "lucide-copy"
+    },
+    "title": {
+      "icon": "lucide-book-open"
+    }
+  },
   "ribbonIcons": {},
   "fileRules": [],
   "folderRules": [

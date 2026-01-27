@@ -943,39 +943,6 @@
             }
           },
           {
-            "id": "a54a355305bfe49b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Epilogue Story Map.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Epilogue Story Map"
-            }
-          },
-          {
             "id": "f8d13e4cb0f97d90",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -1141,7 +1108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.51625061035156
+    "width": 260.5
   },
   "right": {
     "id": "fc1490c296b0c5ab",
@@ -1482,11 +1449,69 @@
       "card-board:CardBoard": false
     }
   },
+  "floating": {
+    "id": "5f12eb73eb2884ed",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d7506e23422c9268",
+        "type": "window",
+        "children": [
+          {
+            "id": "ad3b05d0cadf8519",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a54a355305bfe49b",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Epilogue Story Map.md",
+                    "mode": "preview",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Epilogue Story Map"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1532,
+        "y": 3,
+        "width": 1028,
+        "height": 1391,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "a54a355305bfe49b",
   "lastOpenFiles": [
-    "C1 Epilogue.md",
-    "Epilogue Story Map.md",
     "damage-type-interactions.md",
+    "Epilogue Story Map.md",
+    "C1 Epilogue.md",
     "5e Tools Website To-Do & Ideas.md",
     "Quick  Thoughts.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
