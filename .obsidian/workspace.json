@@ -943,7 +943,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -1199,10 +1199,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "damage-type-interactions.md"
+                "file": "5e Tools Website To-Do & Ideas.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for damage-type-interactions"
+              "title": "File properties for 5e Tools Website To-Do & Ideas"
             }
           },
           {
@@ -1368,7 +1368,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "damage-type-interactions.md"
+                "file": "5e Tools Website To-Do & Ideas.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -1416,10 +1416,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "f8d13e4cb0f97d90",
+  "active": "b205233caf1d065c",
   "lastOpenFiles": [
-    "Epilogue Story Map.md",
     "damage-type-interactions.md",
+    "Epilogue Story Map.md",
     "C1 Epilogue.md",
     "5e Tools Website To-Do & Ideas.md",
     "Quick  Thoughts.md",
