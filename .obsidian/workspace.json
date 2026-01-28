@@ -941,9 +941,42 @@
               "icon": "lucide-file",
               "title": "damage-type-interactions"
             }
+          },
+          {
+            "id": "8c93ea4324c7c00d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -1199,10 +1232,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "5e Tools Website To-Do & Ideas.md"
+                "file": "Untitled.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 5e Tools Website To-Do & Ideas"
+              "title": "File properties for Untitled"
             }
           },
           {
@@ -1368,7 +1401,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "5e Tools Website To-Do & Ideas.md"
+                "file": "Untitled.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -1411,17 +1444,16 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "task-board:Open task board": false
     }
   },
-  "active": "b205233caf1d065c",
+  "active": "8c93ea4324c7c00d",
   "lastOpenFiles": [
+    "Untitled.md",
+    "5e Tools Website To-Do & Ideas.md",
     "damage-type-interactions.md",
     "Epilogue Story Map.md",
     "C1 Epilogue.md",
-    "5e Tools Website To-Do & Ideas.md",
     "Quick  Thoughts.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "markdown-cheatsheet.md",
@@ -1450,7 +1482,6 @@
     "Color Palette/imgs/Untitled 6.md",
     "Color Palette/imgs/Untitled 5.md",
     "Color Palette/imgs/Untitled 4 1.md",
-    "Color Palette/imgs/Untitled 4.md",
     "Color Palette/Color Palettes.base",
     "desktop.ini",
     "z_img/3125-1696894452-1192171480.webp",
