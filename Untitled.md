@@ -1,4 +1,10 @@
-
+---
+title: ""
+created: 2026/01/27 at 01:35
+updated: 2026/01/27 at 20:29
+aliases:
+  - Untitled
+---
 
 you were doing css variable colors and stuff
 

@@ -918,13 +918,31 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Ideal Ranger",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew In-Progress/Ideal Ranger.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Ideal Ranger\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ideal Ranger Write Up",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew In-Progress/Ideal Ranger Write Up.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Ideal Ranger Write Up\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "damage-type-interactions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"damage-type-interactions.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"damage-type-interactions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "damage-type-interactions.md",
+                "file": "Homebrew In-Progress/Ideal Ranger Write Up.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -939,7 +957,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "damage-type-interactions"
+              "title": "Ideal Ranger Write Up"
             }
           },
           {
@@ -976,7 +994,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -1232,10 +1250,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled.md"
+                "file": "Homebrew In-Progress/Ideal Ranger Write Up.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Untitled"
+              "title": "File properties for Ideal Ranger Write Up"
             }
           },
           {
@@ -1444,14 +1462,18 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "8c93ea4324c7c00d",
+  "active": "f8d13e4cb0f97d90",
   "lastOpenFiles": [
+    "Homebrew In-Progress/Ideal Ranger.md",
+    "Homebrew In-Progress/Ideal Ranger Write Up.md",
+    "damage-type-interactions.md",
     "Untitled.md",
     "5e Tools Website To-Do & Ideas.md",
-    "damage-type-interactions.md",
     "Epilogue Story Map.md",
     "C1 Epilogue.md",
     "Quick  Thoughts.md",
@@ -1480,8 +1502,6 @@
     "Color Palette/imgs/Untitled 8.md",
     "Color Palette/imgs/Untitled 7.md",
     "Color Palette/imgs/Untitled 6.md",
-    "Color Palette/imgs/Untitled 5.md",
-    "Color Palette/imgs/Untitled 4 1.md",
     "Color Palette/Color Palettes.base",
     "desktop.ini",
     "z_img/3125-1696894452-1192171480.webp",
