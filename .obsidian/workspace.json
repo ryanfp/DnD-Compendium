@@ -992,9 +992,42 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "1356c60992467051",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -1250,10 +1283,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "5e Tools Website To-Do & Ideas.md"
+                "file": "Untitled 1.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 5e Tools Website To-Do & Ideas"
+              "title": "File properties for Untitled 1"
             }
           },
           {
@@ -1467,13 +1500,14 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "b205233caf1d065c",
+  "active": "eadab09cc80380ca",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Untitled.md",
+    "5e Tools Website To-Do & Ideas.md",
     "Homebrew In-Progress/Ideal Ranger Write Up.md",
     "Homebrew In-Progress/Ideal Ranger.md",
     "damage-type-interactions.md",
-    "Untitled.md",
-    "5e Tools Website To-Do & Ideas.md",
     "Epilogue Story Map.md",
     "C1 Epilogue.md",
     "Quick  Thoughts.md",
@@ -1501,7 +1535,6 @@
     "Color Palette/imgs/Untitled 9.md",
     "Color Palette/imgs/Untitled 8.md",
     "Color Palette/imgs/Untitled 7.md",
-    "Color Palette/imgs/Untitled 6.md",
     "Color Palette/Color Palettes.base",
     "desktop.ini",
     "z_img/3125-1696894452-1192171480.webp",
