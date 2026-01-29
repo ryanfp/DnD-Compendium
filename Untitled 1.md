@@ -1,10 +1,14 @@
+---
+title: Class Builder Version Comparison
+created: 2026/01/28 at 00:00
+updated: 2026/01/29 at 00:04
+aliases:
+  - Class Builder Version Comparison
+---
+
 # Class Builder Version Comparison
 
-  
-
 ## Quick Summary
-
-  
 
 | Feature | Original | Refined | V2 (Production) |
 |---------|----------|---------|-----------------|
@@ -20,11 +24,7 @@
 | Equipment Selection | Basic | Basic | Comprehensive UI |
 | 2024 Edition Support | ❌ | ✅ | ✅ |
 
-  
-
 ## When to Use Each
-
-  
 
 ### Original Builder (`5etools.buildClass`)
 
@@ -36,8 +36,6 @@
 
 - When you'll manually edit everything anyway
 
-  
-
 **Limitations:**
 
 - Missing many schema fields
@@ -48,8 +46,6 @@
 
 - No automatic item tagging
 
-  
-
 ### Refined Builder (`5etools.buildClassRefined`)
 
 **Use for:**
@@ -59,8 +55,6 @@
 - 2024 edition classes
 
 - When you need comprehensive schema coverage
-
-  
 
 **Limitations:**
 
@@ -74,8 +68,6 @@
 
 - Manual optional feature progression
 
-  
-
 ### V2 Builder (`5etools.buildClassV2`)
 
 **Use for:**
@@ -87,8 +79,6 @@
 - VTT compatibility (defaultData)
 
 - Publishing to 5etools homebrew repo
-
-  
 
 **Advantages:**
 
@@ -110,15 +100,9 @@
 
 - ✅ Comprehensive equipment selection UI
 
-  
-
 ## Feature Comparison
 
-  
-
 ### Field Ordering
-
-  
 
 **Original/Refined:**
 
@@ -143,8 +127,6 @@
 }
 
 ```
-
-  
 
 **V2 (matches production):**
 
@@ -188,11 +170,7 @@
 
 ```
 
-  
-
 ### Item Tagging
-
-  
 
 **Original/Refined:**
 
@@ -211,8 +189,6 @@
 // ❌ No proper tags, won't render correctly
 
 ```
-
-  
 
 **V2:**
 
@@ -242,11 +218,7 @@
 
 ```
 
-  
-
 ### Skills
-
-  
 
 **Original/Refined:**
 
@@ -264,8 +236,6 @@
 
 ```
 
-  
-
 **V2:**
 
 ```
@@ -281,8 +251,6 @@ Skills displayed as:
 [ ] Streetwise (Charisma) [Homebrew]
 
 ```
-
-  
 
 ```json
 
@@ -302,11 +270,7 @@ Skills displayed as:
 
 ```
 
-  
-
 ### Optional Features
-
-  
 
 **Refined:**
 
@@ -315,8 +279,6 @@ Skills displayed as:
 // Manual array input, no helper
 
 ```
-
-  
 
 **V2:**
 
@@ -334,8 +296,6 @@ Interactive prompts:
 
 ```
 
-  
-
 ```json
 
 "optionalfeatureProgression": {
@@ -352,11 +312,7 @@ Interactive prompts:
 
 ```
 
-  
-
 ### Prepared Spells
-
-  
 
 **Refined:**
 
@@ -365,8 +321,6 @@ Interactive prompts:
 // Manual formula entry, no guidance
 
 ```
-
-  
 
 **V2:**
 
@@ -384,8 +338,6 @@ Dropdown options:
 
 ```
 
-  
-
 ```json
 
 "preparedSpells": {
@@ -398,11 +350,7 @@ Dropdown options:
 
 ```
 
-  
-
 ### Equipment Selection
-
-  
 
 **Refined:**
 
@@ -411,8 +359,6 @@ Dropdown options:
 Simple input box, manual entry
 
 ```
-
-  
 
 **V2:**
 
@@ -432,11 +378,7 @@ Interactive workflow:
 
 ```
 
-  
-
 ## Migration Path
-
-  
 
 ### From Original to V2
 
@@ -445,8 +387,6 @@ Interactive workflow:
 2. Switch to V2 for any production homebrew
 
 3. V2 output can be imported to 5etools directly
-
-  
 
 ### From Refined to V2
 
@@ -458,8 +398,6 @@ Interactive workflow:
 
 4. Use V2 if you want automation + format compliance
 
-  
-
 ### Using Multiple Versions
 
 All three builders coexist:
@@ -470,15 +408,9 @@ All three builders coexist:
 
 - **V2**: Production publishing
 
-  
-
 Choose based on your needs for each class.
 
-  
-
 ## Output Compatibility
-
-  
 
 ### 5etools Renderer
 
@@ -488,8 +420,6 @@ Choose based on your needs for each class.
 
 - **V2**: Excellent (proper tags + structure)
 
-  
-
 ### VTT Import (Foundry, etc.)
 
 - **Original**: Poor (no defaultData)
@@ -497,8 +427,6 @@ Choose based on your needs for each class.
 - **Refined**: Poor (no defaultData)
 
 - **V2**: Excellent (full defaultData support)
-
-  
 
 ### 5etools Homebrew Repo
 
@@ -508,39 +436,25 @@ Choose based on your needs for each class.
 
 - **V2**: Ready to submit (with content filled in)
 
-  
-
 ## Recommendations
-
-  
 
 ### For Learning
 
 Start with **Refined** to understand schema structure, then move to **V2** for production.
 
-  
-
 ### For Speed
 
 Use **Original** for throwaway prototypes, **V2** for anything you'll keep.
-
-  
 
 ### For Publishing
 
 Always use **V2** - it matches official format and includes all VTT data.
 
-  
-
 ### For Complex Classes
 
 **V2** handles spellcasting, optional features, and multiclassing better than others.
 
-  
-
 ## Command Reference
-
-  
 
 ```
 
@@ -558,11 +472,7 @@ Ctrl+Shift+P (Cmd+Shift+P on Mac)
 
 ```
 
-  
-
 ## Future Development
-
-  
 
 ### Planned for V3
 
@@ -577,8 +487,6 @@ Ctrl+Shift+P (Cmd+Shift+P on Mac)
 - [ ] Background builder
 
 - [ ] Feat builder
-
-  
 
 ### Community Contributions
 

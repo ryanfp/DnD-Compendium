@@ -219,6 +219,8 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 - [ ] [Rampage (Condition) - bg3.wiki](https://bg3.wiki/wiki/Rampage_(Condition))
 - [ ] [[damage-type-interactions|New Damage Type Interactions & Conditions]]
 - [ ] [D&D 5e rule changes - bg3.wiki](https://bg3.wiki/wiki/D%26D_5e_rule_changes)
+- [ ] PB Short Rests per Long Rest
+	- [ ] Past 
 
 ### Source & Homebrew Management
 
