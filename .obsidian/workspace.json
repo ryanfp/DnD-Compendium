@@ -77,6 +77,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "death_and_swan_song_rules_card_v1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew In-Progress/death_and_swan_song_rules_card_v1.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"death_and_swan_song_rules_card_v1\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "5e Tools Website To-Do & Ideas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5e Tools Website To-Do & Ideas.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"5e Tools Website To-Do & Ideas\"}",
+                  "eState": "{\"scroll\":271.03389830508473}"
+                },
+                {
                   "title": "ranger-slayer-homebrew",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ranger-slayer-homebrew.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ranger-slayer-homebrew\"}",
@@ -297,7 +309,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5e Tools Website To-Do & Ideas.md",
+                "file": "Homebrew In-Progress/death_and_swan_song_system_v1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -312,7 +324,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5e Tools Website To-Do & Ideas"
+              "title": "death_and_swan_song_system_v1"
             }
           },
           {
@@ -1066,7 +1078,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -1322,10 +1334,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homebrew Errata Guide.md"
+                "file": "Homebrew In-Progress/death_and_swan_song_system_v1.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homebrew Errata Guide"
+              "title": "File properties for death_and_swan_song_system_v1"
             }
           },
           {
@@ -1539,11 +1551,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "5690e8dd530591f9",
+  "active": "b205233caf1d065c",
   "lastOpenFiles": [
-    "📚 - Information Compendium/📝 - Rules & Mechanics/rules-and-meta.md",
-    "Homebrew Errata Guide.md",
+    "Homebrew In-Progress/death_and_swan_song_rules_card_v1.md",
     "5e Tools Website To-Do & Ideas.md",
+    "Homebrew Errata Guide.md",
+    "📚 - Information Compendium/📝 - Rules & Mechanics/rules-and-meta.md",
     "Untitled 1.md",
     "Untitled.md",
     "Homebrew In-Progress/Ideal Ranger Write Up.md",
@@ -1573,7 +1586,6 @@
     "Color Palette/imgs/Untitled 12.md",
     "Color Palette/imgs/Untitled 11.md",
     "Color Palette/imgs/Untitled 10.md",
-    "Color Palette/imgs/Untitled 9.md",
     "Color Palette/Color Palettes.base",
     "desktop.ini",
     "z_img/3125-1696894452-1192171480.webp",

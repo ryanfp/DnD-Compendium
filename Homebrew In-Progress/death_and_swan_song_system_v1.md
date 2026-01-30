@@ -6,19 +6,8 @@ aliases:
   - Death, Dying, Death Moves, and Swan Song (Integrated Rules v1)
 ---
 
-# Death, Dying, Death Moves, and Swan Song (Integrated Rules v1)
+# Death, Dying, Death Moves, and Swan Song (v1)
 
-This document finalizes a **private death save** procedure, a table-facing **Dying** condition with **Desperate Actions**, optional **Dying Deeds** (costing failed saves), **Death Moves**, and the finalized **Swan Song** death move.
-
----
-
-## Design Goals
-
-- Keep **death saving throws private** (between DM and the dying player) while maintaining tension and verisimilitude.
-- Give downed characters **meaningful, cinematic choices** that do not leak the hidden death-save count.
-- Make **Swan Song** a rare, heroic, irreversible “last stand” that can plausibly swing a fight without becoming a default “win button.”
-
----
 
 ## Private Death Saves Procedure
 

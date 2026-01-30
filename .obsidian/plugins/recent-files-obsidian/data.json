@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "death_and_swan_song_system_v1",
+      "path": "Homebrew In-Progress/death_and_swan_song_system_v1.md"
+    },
+    {
+      "basename": "death_and_swan_song_rules_card_v1",
+      "path": "Homebrew In-Progress/death_and_swan_song_rules_card_v1.md"
+    },
+    {
+      "basename": "5e Tools Website To-Do & Ideas",
+      "path": "5e Tools Website To-Do & Ideas.md"
+    },
+    {
       "basename": "Homebrew Errata Guide",
       "path": "Homebrew Errata Guide.md"
     },
     {
       "basename": "rules-and-meta",
       "path": "📚 - Information Compendium/📝 - Rules & Mechanics/rules-and-meta.md"
-    },
-    {
-      "basename": "5e Tools Website To-Do & Ideas",
-      "path": "5e Tools Website To-Do & Ideas.md"
     },
     {
       "basename": "Untitled 1",
@@ -191,14 +199,6 @@
     {
       "basename": "cursor_retrieve_permalink_and_automate",
       "path": "Chat Logs/cursor_retrieve_permalink_and_automate.md"
-    },
-    {
-      "basename": "Introduction",
-      "path": "📚 - Information Compendium/Introduction.md"
-    },
-    {
-      "basename": "Races",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Races.md"
     }
   ],
   "omittedPaths": [],
