@@ -77,6 +77,60 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Untitled 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Quick To-Do",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Quick To-Do.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Quick To-Do\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Quick  Thoughts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Quick  Thoughts.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Quick  Thoughts\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.655598958333334}"
+                },
+                {
+                  "title": "death-dying-desperate-actions-rules",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew In-Progress/death-dying-desperate-actions-rules.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"death-dying-desperate-actions-rules\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":22},\"to\":{\"line\":21,\"ch\":22}}}"
+                },
+                {
+                  "title": "death_and_swan_song_rules_card_v1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew In-Progress/death_and_swan_song_rules_card_v1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"death_and_swan_song_rules_card_v1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "death-dying-desperate-actions-rules",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew In-Progress/death-dying-desperate-actions-rules.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"death_and_swan_song_system_v1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "incapacitated",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew In-Progress/incapacitated.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"incapacitated\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "death-dying-desperate-actions-rules",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew In-Progress/death-dying-desperate-actions-rules.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"death_and_swan_song_system_v1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":28},\"to\":{\"line\":22,\"ch\":28}},\"scroll\":0.5363611786969451}"
+                },
+                {
                   "title": "death_and_swan_song_rules_card_v1",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew In-Progress/death_and_swan_song_rules_card_v1.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"death_and_swan_song_rules_card_v1\"}",
@@ -309,7 +363,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew In-Progress/death_and_swan_song_system_v1.md",
+                "file": "Website Navigation Map.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -324,7 +378,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "death_and_swan_song_system_v1"
+              "title": "Website Navigation Map"
             }
           },
           {
@@ -1334,10 +1388,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homebrew In-Progress/death_and_swan_song_system_v1.md"
+                "file": "Website Navigation Map.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for death_and_swan_song_system_v1"
+              "title": "File properties for Website Navigation Map"
             }
           },
           {
@@ -1553,23 +1607,25 @@
   },
   "active": "b205233caf1d065c",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Untitled.md",
+    "Quick To-Do.md",
+    "Quick  Thoughts.md",
+    "Homebrew In-Progress/death-dying-desperate-actions-rules.md",
     "Homebrew In-Progress/death_and_swan_song_rules_card_v1.md",
+    "Homebrew In-Progress/incapacitated.md",
     "5e Tools Website To-Do & Ideas.md",
     "Homebrew Errata Guide.md",
     "📚 - Information Compendium/📝 - Rules & Mechanics/rules-and-meta.md",
-    "Untitled 1.md",
-    "Untitled.md",
     "Homebrew In-Progress/Ideal Ranger Write Up.md",
     "Homebrew In-Progress/Ideal Ranger.md",
     "damage-type-interactions.md",
     "Epilogue Story Map.md",
     "C1 Epilogue.md",
-    "Quick  Thoughts.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "markdown-cheatsheet.md",
     "markdown-cheatsheet1.md",
     "markdown-css-style-cheatsheet.md",
-    "Quick To-Do.md",
     "Color Palette/Color Palettes.md",
     "z_img/image-92.png",
     "z_img/image-91.png",
@@ -1584,8 +1640,6 @@
     "Color Palette/imgs/Untitled 14.md",
     "Color Palette/imgs/Untitled 13.md",
     "Color Palette/imgs/Untitled 12.md",
-    "Color Palette/imgs/Untitled 11.md",
-    "Color Palette/imgs/Untitled 10.md",
     "Color Palette/Color Palettes.base",
     "desktop.ini",
     "z_img/3125-1696894452-1192171480.webp",

@@ -1,27 +1,17 @@
 ---
-title: Death, Dying, Death Moves, and Swan Song (Integrated Rules v1)
+title: Death, Dying, Death Moves, and Swan Song (v1)
 created: 2026/01/14 at 01:01
-updated: 2026/01/14 at 01:25
+updated: 2026/01/29 at 21:23
 aliases:
   - Death, Dying, Death Moves, and Swan Song (Integrated Rules v1)
+  - Death, Dying, Death Moves, and Swan Song (v1)
 ---
 
 # Death, Dying, Death Moves, and Swan Song (v1)
 
+## Private Death Saves
 
-## Private Death Saves Procedure
-
-**Default:** Death saving throws are rolled **privately** (player → DM). The DM narrates a brief cue but does not disclose numbers.
-
-### Narrative Cues (DM-facing)
-
-Use cues that imply deterioration without revealing the exact count:
-
-- **No failures:** steady breath, clenched jaw, tracking eyes.
-- **One failure:** shallow breath, wavering focus, blood loss worsening.
-- **Two failures:** fading pulse, failing grip, glassy eyes, frantic breathing.
-
----
+Death saving throws are rolled **privately** between the player and the DM. The DM narrates a brief cue but does not disclose numbers. The DM can ask the player what memories or flashbacks they have, if any regrets weigh on their hearts, any moments yet experienced, etc.
 
 ## Dying (Condition)
 
@@ -29,8 +19,8 @@ A creature becomes **Dying** when it is reduced to **0 hit points** and isn’t 
 
 While **Dying**, you are:
 
-- **Prone**.
-- **Incapacitated**.
+- **[[prone|Prone]]**.
+- **[[incapacitated|Incapacitated]]**.
 - **Unable to move** (except via Desperate Actions).
 - **Barely conscious**: you can speak only in a whisper and only in short phrases.
 - You **automatically fail Strength and Dexterity saving throws**.
