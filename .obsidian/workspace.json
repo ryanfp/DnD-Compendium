@@ -316,6 +316,45 @@
             }
           },
           {
+            "id": "5690e8dd530591f9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "rules-and-meta",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/📝 - Rules & Mechanics/rules-and-meta.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"rules-and-meta\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":117.54507211538461}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homebrew Errata Guide.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homebrew Errata Guide"
+            }
+          },
+          {
             "id": "66647d951c7bdfc0",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -1027,7 +1066,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -1283,10 +1322,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "5e Tools Website To-Do & Ideas.md"
+                "file": "Homebrew Errata Guide.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 5e Tools Website To-Do & Ideas"
+              "title": "File properties for Homebrew Errata Guide"
             }
           },
           {
@@ -1495,14 +1534,18 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "b205233caf1d065c",
+  "active": "5690e8dd530591f9",
   "lastOpenFiles": [
+    "📚 - Information Compendium/📝 - Rules & Mechanics/rules-and-meta.md",
+    "Homebrew Errata Guide.md",
+    "5e Tools Website To-Do & Ideas.md",
     "Untitled 1.md",
     "Untitled.md",
-    "5e Tools Website To-Do & Ideas.md",
     "Homebrew In-Progress/Ideal Ranger Write Up.md",
     "Homebrew In-Progress/Ideal Ranger.md",
     "damage-type-interactions.md",
@@ -1531,8 +1574,6 @@
     "Color Palette/imgs/Untitled 11.md",
     "Color Palette/imgs/Untitled 10.md",
     "Color Palette/imgs/Untitled 9.md",
-    "Color Palette/imgs/Untitled 8.md",
-    "Color Palette/imgs/Untitled 7.md",
     "Color Palette/Color Palettes.base",
     "desktop.ini",
     "z_img/3125-1696894452-1192171480.webp",
