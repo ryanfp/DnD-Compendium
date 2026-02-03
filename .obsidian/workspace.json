@@ -1393,125 +1393,6 @@
               "icon": "lucide-info",
               "title": "File properties for Website Navigation Map"
             }
-          },
-          {
-            "id": "8d3cbb62f9815d24",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "modal-form-template-builder-view",
-              "state": {
-                "title": "Metadata",
-                "name": "metadata-edit",
-                "fields": [
-                  {
-                    "name": "type",
-                    "label": "Type",
-                    "description": "What is this piece of content?",
-                    "isRequired": true,
-                    "input": {
-                      "type": "select",
-                      "source": "fixed",
-                      "options": [
-                        {
-                          "value": "playerOption",
-                          "label": "Player Option"
-                        },
-                        {
-                          "value": "combat",
-                          "label": "Combat"
-                        },
-                        {
-                          "value": "rule",
-                          "label": "Rule/Mechanic"
-                        },
-                        {
-                          "value": "monster",
-                          "label": "Monster"
-                        }
-                      ]
-                    }
-                  },
-                  {
-                    "name": "playerOption",
-                    "label": "Player Options",
-                    "description": "What type of player option is it?",
-                    "isRequired": true,
-                    "condition": {
-                      "dependencyName": "type",
-                      "type": "isExactly",
-                      "value": "playerOption"
-                    },
-                    "input": {
-                      "type": "select",
-                      "source": "fixed",
-                      "options": [
-                        {
-                          "value": "class",
-                          "label": "Class"
-                        },
-                        {
-                          "value": "background",
-                          "label": "Background"
-                        },
-                        {
-                          "value": "feat",
-                          "label": "Feat"
-                        },
-                        {
-                          "value": "race",
-                          "label": "Race"
-                        },
-                        {
-                          "value": "skill",
-                          "label": "Skill"
-                        }
-                      ]
-                    }
-                  }
-                ],
-                "version": "1",
-                "template": {
-                  "parsedTemplate": [
-                    {
-                      "_tag": "text",
-                      "value": "<% \"---\" %>\n<%*\n  const modalForm = app.plugins.plugins.modalforms.api;\n  const result = await modalForm.openForm(\"taglist\");\n  tR += result.asFrontmatterString();\n-%>\n<% \"---\" %>"
-                    }
-                  ],
-                  "createInsertCommand": true,
-                  "createNoteCommand": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Template Builder"
-            }
-          },
-          {
-            "id": "7bf5d45ec3a8d554",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
           }
         ],
         "currentTab": 4
@@ -1600,7 +1481,9 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "b205233caf1d065c",
