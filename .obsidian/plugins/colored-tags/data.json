@@ -1635,7 +1635,12 @@
     "337ab7": 61,
     "adadad": 62,
     "f5f5f5": 63,
-    "ffa03c": 64
+    "ffa03c": 64,
+    "state": 65,
+    "stage": 66,
+    "stage/planning": 1,
+    "stage/in-progress": 2,
+    "stage/not-started": 3
   },
   "_version": 3
 }

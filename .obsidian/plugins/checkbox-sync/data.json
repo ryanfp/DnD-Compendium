@@ -1,0 +1,20 @@
+{
+  "tabSize": 4,
+  "enableAutomaticParentState": true,
+  "enableAutomaticChildState": true,
+  "checkedSymbols": [
+    "x"
+  ],
+  "uncheckedSymbols": [
+    " "
+  ],
+  "ignoreSymbols": [],
+  "unknownSymbolPolicy": "checked",
+  "enableAutomaticFileSync": false,
+  "consoleEnabled": false,
+  "pathGlobs": [
+    "z_Templates/",
+    "z_img/",
+    "z_Scripts"
+  ]
+}

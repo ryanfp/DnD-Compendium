@@ -6,6 +6,7 @@
       {
         "id": "0f4096b47ff804e0",
         "type": "tabs",
+        "dimension": 53.03482587064676,
         "children": [
           {
             "id": "c52ca86d1c1d3ec8",
@@ -475,7 +476,7 @@
               "type": "markdown",
               "state": {
                 "file": "Untitled 2.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -498,6 +499,7 @@
       {
         "id": "5056492b6a49b63e",
         "type": "tabs",
+        "dimension": 46.96517412935323,
         "children": [
           {
             "id": "9cd9ee30f772e8f7",
