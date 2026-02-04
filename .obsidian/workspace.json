@@ -477,7 +477,7 @@
               "state": {
                 "file": "Untitled 2.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
