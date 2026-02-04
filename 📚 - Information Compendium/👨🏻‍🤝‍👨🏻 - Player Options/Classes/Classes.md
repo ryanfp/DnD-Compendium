@@ -3836,7 +3836,7 @@ Enforcers excel at practical violence. Whether plying their trade as bounty hunt
 
 You are skilled in the art of taking your enemies off guard through unexpected tactics. Revelers use unfamiliar tinctures and tonics to replicate the effects of drunkenness in both themselves and enemies. You embrace long combat, inviting your enemies to make mistakes. You can also serve as a social infiltrator, scouting conversations in the same way that other rogues might scout an enemy base.
 
-#### **Knife Juggler**<sup>(ECHH)</sup> %% Fold %%
+#### **@@Knife Juggler**<sup>(ECHH)</sup> %% Fold %%
 
 Follow the daggers with your eyes, folks! Don’t lose sight of them now. In an amazing act of masterful dexterity, our mistress of the blades is juggling three…no, four! Four daggers now! When did she add another? Let’s see if you can catch it this time, folks. Watch closely. Five! Did you see it? Faster than lighting. Five razor-sharp daggers, tearing through the air. What a stupendous feat of daring deeds. Now, if we can have a volunteer. You! You sir! Yes, you, don’t worry, it’s perfectly safe. Come stand over here in front of this wooden plank. Don’t pay any mind to the blood stains. Oh, I’m kidding sir, come back, come back. Stand still, back straight, and hold your arms straight out to the sides. I’m going to place an apple on each of your upturned palms and this one, here, balanced on top of your head. No need to look nervous, sir. Are you still watching the daggers, folks? Don’t lose sight of them. Mistress! You haven’t been drinking again this morning, have you? Oh, I kid folks, I kid. Alright now, sir. Just. Don’t. Move.
 
@@ -3866,7 +3866,7 @@ Good is not nice, evil is not stupid. Whatever the organization or god a Divine 
 
 Masters of stealth, disguise, and mystical techniques, Shinobi often trained by esoteric sects or orders as spies, scouts, and assassins. 
 
-#### **Surgeon**<sup>(KT)</sup> %% Fold %%
+#### **^^Surgeon**<sup>(KT)</sup> %% Fold %%
 
 These are Rogues that come from the bloodiest walk of life… that of a medic. Few Rogues have sliced open more creatures than a Surgeon, and they leverage their masterful understanding of anatomy to cut open and sew close in equal measure. They have seen everything an adventuring life has to offer—roper bites, dragon burns, bore holes in skulls—and turned that array of knowledge into a complete understanding of what a creature can survive… and what it can’t. 
 
@@ -3891,10 +3891,10 @@ A chameleon is a ghost of the forest, able to change their skin to match their b
 You've nearly died. Sometime recently, or earlier in your life, you've fallen to the brink of death and felt your heartbeat stop. In that moment, far from hope, your spirit wandered the border of life death, where it entered the forbidden graveyard. Amidst the sepulchers and crypts of this haunted dimension, you bore witness to the secrets of life and death, speaking with the fallen whose gaze chilled your very soul. Somehow, you returned from that fallen plain, but it had stained you. Your spirit is filled with both the eerie power of darkness and the flowing force of life, granting you the ability to touch the souls of others directly. You might still be living, but your every step is one of a dead man walking.
 
 #### **Spidertouched**<sup>(CFSA)</sup> %% Fold %%
-
+*combine with spiderman*
 There are many assassins, spies, and tricksters throughout the endless planes who take on the motif of a spider as their symbol, but you are one of the few for whom this symbol is truly accurate. You've learned your craft from the Weaver of lies itself, an ancient creature spawned when the gods first deceived one another and the mortals they surveyed. Daddies that hold sway over the crawling creatures of the dark and guilds of assassins and spies may grant power such as these but no matter the origin you will take these forbidden techniques to your grave. Cloaked in the faces of others and bearing the deadly toxins of your teacher, you crawl along the shadows at the edges of the world, hunting for secrets and spinning webs of treachery.
 
-#### **Charlatan**<sup>(LAL)</sup> %% Fold %%
+#### **@@Charlatan**<sup>(LAL)</sup> %% Fold %%
 
 Charlatans are masters of planned deceit and misdirection. A Charlatan might prepare several disguises and waltz into a jewelry store, wait for a perfectly timed explosion to distract the proprietor, then replace a priceless tiara with a poorly-forged replica. Hot-footing it out the door, the Charlatan might switch outfits quicker than the proprietor can say “Oh my word, where’s that priceless tiara I tricked a down-on-her luck noble into selling for a pittance?”. The Charlatan might then direct the pursuing, nonplussed guards into a side alley, before fencing the heirloom and heading to a bar to celebrate a job well done. 
 
@@ -3904,20 +3904,20 @@ In combat, Charlatans appear as harmless bystanders before using concealed weapo
 
 You concentrate your efforts on perfecting your art, developing special marks to claim and cripple your targets. Rebel leaders, artists, spies, and other members of the political underworld might belong to this archetype. Originally a tactic for subterfuge and assassination for denizens of the Festerwood, those who employ these powerful works of art are famously difficult to pin down. The magical marks left behind become a calling card for any runetagger, and as their strength and notoriety grow from the deeds that they commit (both good and evil), so too does the renown for their art.
 
-#### **Grim Surgeon**<sup>(TGS)</sup> %% Fold %%
+#### **^^Grim Surgeon**<sup>(TGS)</sup> %% Fold %%
 
 You’ve developed a unique familiarity with knives, bodies, and blood in your line of work. Like a tinkerer’s knowledge of clockwork and gears, you’ve come to an understanding of how bodies are put together instead. Medical experts in rough or war-torn cities and villages may follow this archetype, but so do rogues who take a particular interest in either clerical or necromantic magic. A grim surgeon uses medical knowledge and strange blood magic to dismantle foes, restore allies, and control bodies like puppets.
 
-#### **Sky Wanderer**<sup>E</sup> %% Fold %%
-
+#### **!Sky Wanderer**<sup>E</sup> %% Fold %%
+*kinda sounds like airbender*
 You have mastered the art of manipulating the wind, allowing you to move swiftly and gracefully through the air. Rogues of this archetype can run on the wind, jump incredible distances, and even fly for short periods. They are resourceful fighters, utilizing whatever objects they find to defend themselves, manipulating them with their aeromancy to be used as weapons. These wonders of the sky are adventurers at heart, always seeking out new and exciting places to explore. They use their aeromancy to traverse treacherous landscapes and reach otherwise inaccessible areas their expertise in improvisation and their mastery of the wind make them formidable allies and dangerous foes
 
-#### **Apothecary**<sup>(UAH)</sup> %% Fold %%
-
+#### **!Apothecary**<sup>(UAH)</sup> %% Fold %%
+*combine with witchblade?*
 You have trained in the science of chemistry and learned to make a variety of concoctions that heal and harm. You may specialize in cruel poisons and admixtures that debilitate your enemy, restoratives and drugs that empower your allies, or dabble in both. Apothecaries often learn their craft under a mentor or at an academic institution, but it’s also possible to learn this science through books and experimentation.
 
-#### **Bouncer**<sup>(UAH)</sup> %% Fold %%
-
+#### **!Bouncer**<sup>(UAH)</sup> %% Fold %%
+*sounds alot like grifter*
 Most rogues focus on the elegant arts of infiltration, trickery, and mind games, but as a Bouncer, you prefer the simple but effective techniques of the back alleys — using anything within your reach as a weapon, even your foes themselves. You rely more on brute strength and an ability to tie your opponents in knots than cunning, though you know better than to discard any natural advantages. Other rogues may think you lack guile, but you’d rather have a reputation for an iron fist than a silver tongue.
 
 #### **Paramour**<sup>(UAH)</sup> %% Fold %%
@@ -3934,15 +3934,15 @@ While it is not uncommon for a rogue to have the background of being an orphan i
 
 As a Street Rat, you know that though life can be extremely difficult, you’ll never have to go through it alone. After all, if even the lowliest and most despised of creatures have purpose, love, and hope, then so can we all.
 
-#### **Zealous Inquisitor**<sup>(UAH)</sup> %% Fold %%
+#### **!!!Zealous Inquisitor**<sup>(UAH)</sup> %% Fold %%
 
 Deities enjoy having clerics, paladins, and crusaders spread their word and fight in their name, but these pious servants aren’t always willing to tarnish themselves in their god’s best interest. As a Zealous Inquisitor, you execute your deity’s will without compunction — punishing sinners, silencing heretics, and striking down abominations.
 
-#### **Waxwork Rogue**<sup>(OTG)</sup> %% Fold %%
+#### ~~**Waxwork Rogue**~~<sup>(OTG)</sup> %% Fold %%
 
 Waxwork rogues have a long history on the island of Obojima in dealing with the dangerous and the arcane. They’re known for having an array of tools and tricks to delve into the most perilous of places and almost always coming back with treasures and tales. To a Waxwork rogue, any challenge or danger can be solved with a bit of wax, a pinch of smarts, and a whole lot of magic.
 
-#### **Smuggler**<sup>(GTD)</sup> %% Fold %%
+#### **!Smuggler**<sup>(GTD)</sup> %% Fold %%
 
 Whenever someone has something of value, usually illegal, that they need delivered discreetly, they call a smuggler. These rogues are experts at concealing, stealing, and blending in unnoticed to the common folk. They are also uniquely skilled at turning opportunities around when things are not going their way, and using whatever means necessary to achieve their goals. These slippery rogues are crafty and cunning and should not be underestimated.
 
@@ -3952,8 +3952,8 @@ The Blades of Radiance, also called Steel Saints, are known to be one of the mos
 
 The Blades of Radiance receive an incredibly diverse range of missions. The most brutal of their members handle gruesome matters in a lethal fashion, whereas those of a more empathetic temperament are tasked with protecting their fellows. Despite this sundry in character, they all share one goal: safeguarding the Church and its members, no matter what.
 
-#### **Eldritch Shadow**<sup>(SGEH)</sup> %% Fold %%
-
+#### **!Eldritch Shadow**<sup>(SGEH)</sup> %% Fold %%
+*combine with other shadow subclasses*
 The origin of the Shadows is shrouded in mystery. Some say that it was first created by a group of nobles who stole a tome of forbidden magic from an errant cursedblood scholar, while others believe that the tome was granted to them by an entity that resides deep in the cosmos, in exchange for an unspoken vow. 
 
 Regardless of their organization’s origins, today, shadows are a closely guarded secret of the Silverblood Royalty, a tool meant for discreet political assassinations and silent espionage. Mere legends to the common folk, these rogues blend into the darkness, vanishing from sight, only to reappear unseen calling forth their dreadful rifles to dispatch their foes with deadly precision.
