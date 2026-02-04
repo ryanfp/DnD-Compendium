@@ -3788,11 +3788,11 @@ As a cat burglar, you’ve honed your ability to enter closed or restricted area
 
 So successful were these first catfolk burglars that other rogues soon began emulating their techniques. Walls become but minor inconveniences once you work out the best methods of scaling them and learn to mitigate injuries from falls. In time, cat burglars become adept at breaching any openings they find; after all, if a door was not meant to be opened, why would it have been placed there? Those who devote a lifetime to such endeavors eventually learn to spot and bypass even the cleverest traps and hidden doors, including those disguised or warded by magic.
 
-#### **Dawn Blade**<sup>(TOH)</sup> %% Fold %%
+#### **!!!Dawn Blade**<sup>(TOH)</sup> %% Fold %%
 
 Even churches and temples of deities of goodness and light have need of those willing to get their hands dirty and willing to sully their honor in service of what must be done. Dawn blades are devout rogues, drawing divine power from deities of light to strike as a sudden ray of searing sunlight in the darkness. They are often considered controversial by other adherents of their faith, yet the faith’s leadership understands such agents are sometimes necessary.
 
-#### **Sapper**<sup>(TOH)</sup> %% Fold %%
+#### **?Sapper**<sup>(TOH)</sup> %% Fold %%
 
 You focus as much on identifying the weak points of structures as on the weak points of creatures. Sappers are deployed with the soldiery to dig trenches, build bridges, and breach defenses. When troops move into a heavily defended area, it’s your job to make it happen as efficiently as possible.
 
@@ -3804,11 +3804,11 @@ The transport of goods, creatures, and even people can be a lucrative business, 
 
 In the eternal war between good and evil, between light and darkness, between life and death, there are many types of participants on each side. Soulspies are agents of the divine who lurk in the shadows, taking a less-visible role in the fight. Occasionally, they aid other agents of their deities, but most often they locate and manage or eliminate threats to their deities that more scrupulous agents might be unwilling or unable to handle.
 
-#### **Underfoot**<sup>(TOH)</sup> %% Fold %%
+#### **!Underfoot**<sup>(TOH)</sup> %% Fold %%
 
 Though most rogues prefer ambushing their opponents from the shadows, erina rogues ambush their opponents from below. These Underfoot use druidic magic and their natural aptitude for burrowing to defend their forest homes. The Underfoot are an elite order of burrow warriors in every erina colony. Using a combination of guerilla attacks and druidic magic, they are a force to be reckoned with, diving into fights nose-forward.
 
-#### **Improviser**<sup>(TCEE)</sup> %% Fold %%
+#### ~~**Improviser**~~<sup>(TCEE)</sup> %% Fold %%
 
 Improvisers strive to never be caught off guard and to be able to think of solutions most wouldn’t consider. Able to utilize their environment and mundane objects, these genius rogues can fashion complex traps and helpful tools at a moment’s notice. Many dabble in arcane magic to further augment their attacks and contraptions and often attempt to outsmart their enemies, preparing tactics far in advance of any conflict.
 
@@ -3818,7 +3818,7 @@ Places of divine power, both ancient and modern, call to the temple raiders. The
 
 Temple raiders come from a mix of origins, which explain their motivation in delving into places of power and the sources of the divine spark that aids them in their quest. Some are scholars, seeking and exploiting objects of historical religious impower. Others are grifters, seeking artifacts for personal gain and using stolen divine magic to aid their efforts. Still others are sent on their mission by the gods themselves, gifted with divine magic to disrupt places of worship of other faiths, recover lost temples of their own faith, or as a form of worship to gods of trickery and thievery.
 
-#### **Wayfinder**<sup>(TCEE)</sup> %% Fold %%
+#### **!Wayfinder**<sup>(TCEE)</sup> %% Fold %%
 
 You connect yourself with nature, enhancing your mobility and prowess with primal magic. Often found alongside druids, rangers, and other protectors of the wild, Wayfinders traverse the land to preserve the balance between nature and civilization.
 
@@ -3828,7 +3828,7 @@ Perhaps more than any other rogue, you understand the importance of community an
 
 The order of the witchblades teaches its members to brew a wide variety of hellbroths, deadly poisons, corrosive acids, and other such concoctions and decoctions. Armed with coated blades and explosive vials of both chemical and alchemical mixtures, they are prepared for any situation. No matter how much wealth a noble accrues, or how big and strong a monster grows, they are nothing compared to the merciless touch of nature - and you are its vessel. These debilitating, mind-numbing effects are produced by secret recipes, which are often only bequeathed from parent to child, or mentor to mentee. This oral tradition usually goes back to a particularly creative, and conveniently amoral alchemist, a back-alley apothecary, a trained physician, or even a disgruntled gardener. Whichever the case might be, you know your way around both a dagger and a cauldron. In the hands of a witchblade like you, a couple droplets can change the course of history.
 
-#### **Enforcer**<sup>(ToV)</sup> %% Fold %%
+#### ~~**Enforcer**~~<sup>(ToV)</sup> %% Fold %%
 
 Enforcers excel at practical violence. Whether plying their trade as bounty hunters, assassins, or mercenaries, rogues of this specialty strive to make their bloody craft efficient and effective.
 
@@ -3841,22 +3841,22 @@ You are skilled in the art of taking your enemies off guard through unexpected t
 Follow the daggers with your eyes, folks! Don’t lose sight of them now. In an amazing act of masterful dexterity, our mistress of the blades is juggling three…no, four! Four daggers now! When did she add another? Let’s see if you can catch it this time, folks. Watch closely. Five! Did you see it? Faster than lighting. Five razor-sharp daggers, tearing through the air. What a stupendous feat of daring deeds. Now, if we can have a volunteer. You! You sir! Yes, you, don’t worry, it’s perfectly safe. Come stand over here in front of this wooden plank. Don’t pay any mind to the blood stains. Oh, I’m kidding sir, come back, come back. Stand still, back straight, and hold your arms straight out to the sides. I’m going to place an apple on each of your upturned palms and this one, here, balanced on top of your head. No need to look nervous, sir. Are you still watching the daggers, folks? Don’t lose sight of them. Mistress! You haven’t been drinking again this morning, have you? Oh, I kid folks, I kid. Alright now, sir. Just. Don’t. Move.
 
 #### **Mnemonic**<sup>(ECHH)</sup> %% Fold %%
-
+*soulknife??*
 Stolen memories are only one part of the services you provide, but the idea is so evocative that the name always sticks. No, in fact you are a broker of any and all information: government secrets, suppressed memories, personal thoughts and desires, or otherwise. You pride yourself on providing your clients with information that can’t be found by anyone else, ideas so heavily guarded that they might only exist within the mind of one individual. That doesn’t matter to you though. You have your methods, and those that hire you know better than to ask.
 
-#### **Quickdraw**<sup>(CCS)</sup> %% Fold %%
-
+#### **?Quickdraw**<sup>(CCS)</sup> %% Fold %%
+*make a subclass for gunslinger?*
 Rogues of this archetype are master gunslingers and smooth-talking outlaws who always shoot first. They react with incredible speed, relying on their instincts and skills to shoot down any threat before it can even make a move.
 
-#### **Gadgeteer**<sup>(KT)</sup> %% Fold %%
-
+#### **?Gadgeteer**<sup>(KT)</sup> %% Fold %%
+*combine with gadgeteer*
 Swinging from a grappling hook before dropping a smoke bomb, rigging a stubborn lock to blow, or rejiggering traps to spring on those that set them, the Gadgeteer lives by fast paced innovation and thinking outside the box on the fly… sometimes literally. 
 
 Specializing tools that let themselves get in and out of trouble, they don’t fight fair, relying on things that go "boom", "zap" or "whirr". They live on the edge of their own explosions, though often rewriting the story in later retellings that they doffed their darkened goggles as they walked away slowly, omitting the singed seat of their trousers and yelping.
 
 #### **Assassin Revised**<sup>(KT)</sup> %% Fold %%
 
-#### **Divine Hand**<sup>(KT)</sup> %% Fold %%
+#### **!!!Divine Hand**<sup>(KT)</sup> %% Fold %%
 
 Not all priests are clerics. Not all problems can be solved by prayer and preaching. Sometimes a more subtle touch is needed to steer the world as the faith dictates, and that is the role of a Divine Hand. A blade in the night that commits the lesser evil for the greater good, or a quick end to someone that sniffed too close to the cult of a dark god’s business; both could be the work of these divinely guided rogues. 
 
@@ -3876,7 +3876,7 @@ Surgeons will tend to exhibit some degree of education, be it academic or hands 
 
 Rimeblades are an obscure breed of rogue, adventurers who are imbued with the icy touch of winter. Some may have narrowly survived a frozen fate, while others may have been touched by snow-spirits or cursed while robbing a glacial tomb. They still practice their roguish arts, but are able to summon blades of ice or conjure waves of frost to prepare their foes for a deadly strike.
 
-#### **Divine Herald**<sup>(XLNEE)</sup> %% Fold %%
+#### **!!!Divine Herald**<sup>(XLNEE)</sup> %% Fold %%
 
 Your strict upbringing has made you an unwavering and swift agent of divine retribution. You don’t simply exist to serve the priests of your order, you have a higher purpose and calling, to alleviate the world of false prophets and heretics.
 
