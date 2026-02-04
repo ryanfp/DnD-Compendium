@@ -1089,6 +1089,16 @@
               "icon": "lucide-info",
               "title": "File properties for Untitled 2"
             }
+          },
+          {
+            "id": "495da37d85ddf815",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
         ],
         "currentTab": 4
@@ -1178,8 +1188,7 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "29b4be69d1f4c07c",
