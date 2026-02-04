@@ -3764,7 +3764,7 @@ A life-changing event, such as being cursed by a drider warlock or being bitten 
 
 Swindlers, cheats, and most of all, grifters hang around taverns where people might have a looser grasp on their coins. The archetypal grifter knows that, with the right words and the right scheme, you can part anyone from their money, and even make it seem fair. Grifters are masters of cons, big and small, from counting cards and rolling loaded dice, to pyramid scheems and fraud. 
 
-#### **Shadow Master**<sup>(VSS)</sup> %% Fold %%
+#### ??**Shadow Master**<sup>(VSS)</sup> %% Fold %%
 
 Rogues that wish to gain membership in the furtive Order of Shadow Masters must perform twelve trials, train relentlessly and undergo the Umbral Rite,, a ritual of profound darkness that severs their shadow from their heels. In return, they grow pale and gaunt with empty holes for eyes, but you can manipulate the shadows as one does a marionette. They can summon inky blackness and see through impenetrable night, while their shadows skulk about the walls and floors, doing their every bidding. 
 
@@ -3778,12 +3778,12 @@ Thought titan slayers often adopt larger-than-life names and perform immense fea
 
 As a titan slayer, you have learned a number of techniques to dumbfound larger creatures so that you can target their vital areas and bring them down swiftly. You use your foes size against them, weaving between their limbs and striking when they least expect it. No challenge, no foe is too large for you, for as they say, “The bigger they are, the harder they fall”.
 
-#### **Shadow**<sup>(DAC)</sup> %% Fold %%
+#### ??**Shadow**<sup>(DAC)</sup> %% Fold %%
 
 Some rogues choose to delve into the intricacies of shadow magic, using its unique powers to enhance their skills in stealth and deception. These rogues are a very diverse subset, from simple thieves to hired killers to highly trained bounty hunters. By learning how to separate their shadow from their body, shadow rogues become difficult to catch and even harder to kill.
 
 #### **Cat Burglar**<sup>(TOH)</sup> %% Fold %%
-
+*merge into base class??*
 As a cat burglar, you’ve honed your ability to enter closed or restricted areas, drawing upon a tradition first developed among the catfolk, who often are innately curious and driven to learn what wonders, riches, or unusual friends and foes lie beyond their reach or just out of sight. In ages past, some allowed this inquisitiveness to guide them toward a rogue’s life devoted to bridging that gap by breaking into any and all structures, dungeons, or walled-off regions that prevented them from satisfying their curiosity. 
 
 So successful were these first catfolk burglars that other rogues soon began emulating their techniques. Walls become but minor inconveniences once you work out the best methods of scaling them and learn to mitigate injuries from falls. In time, cat burglars become adept at breaching any openings they find; after all, if a door was not meant to be opened, why would it have been placed there? Those who devote a lifetime to such endeavors eventually learn to spot and bypass even the cleverest traps and hidden doors, including those disguised or warded by magic.
@@ -3796,8 +3796,8 @@ Even churches and temples of deities of goodness and light have need of those wi
 
 You focus as much on identifying the weak points of structures as on the weak points of creatures. Sappers are deployed with the soldiery to dig trenches, build bridges, and breach defenses. When troops move into a heavily defended area, it’s your job to make it happen as efficiently as possible.
 
-#### **Smuggler**<sup>(TOH)</sup> %% Fold %%
-
+#### **!Smuggler**<sup>(TOH)</sup> %% Fold %%
+*mastermind rogue?*
 The transport of goods, creatures, and even people can be a lucrative business, particularly if you know how to avoid expensive import and export taxes, bridge, highway, and port tolls, and other legal requirements. Exotic poisons from far-off locales, banned or cursed magic items, and illicit drugs or bootleg liquor all fetch a high price on the black market. Thieves’ guilds, pirates, and criminal kingpins pay well to those who can avoid law enforcement when moving stolen goods, provide safe channels of communication, break associates free from jail cells or dungeons, or deliver supplies past guards. You’ve become adept at all of these things, perhaps even having developed a network of contacts as a criminal, noble, con artist, or sailor during an earlier part of your life.
 
 #### **Soulspy**<sup>(TOH)</sup> %% Fold %%
