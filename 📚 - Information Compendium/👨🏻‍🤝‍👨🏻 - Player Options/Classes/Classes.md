@@ -45,47 +45,6 @@ The Ultimate Adventurer’s Handbook (<sup>UAG</sup>)
 GM Binder (<sup>GMB</sup>)
 SoManyRobots (<sup>SMR</sup>)
 
-## [Accursed](📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/accursed.md)
-
-*Afflicted by a horrific curse but finds a way to take control, alleviating the worst of its effects and wielding its power for themselves. (**Source: The Ultimate Adventurer’s Handbook**)*
-
-*An accursed dedicates their time and willpower to find a way to make the magic of their curse work for them, though each in their own way. Some accurseds experiment in a lab or scour the world for forgotten lore, trying to find a ritual or alchemical concoction. Others turn to nature or faith, using prayer, meditation, or mindfulness to synthesize the curse's magic into their own being. And others still use sheer stubbornness to bend the curse to their will. Regardless of method, an accursed is one who has conquered their curse, drawing on its magic while managing its lingering side effects.*
-
-### <u>Subclasses - Conquered Curses</u> %% Fold %%
-
-*Through unfortunate circumstances, you were stricken with a curse that should have broken you. However, whether by sheer willpower, introspective meditation, or arcane study, you not only overcame the worst of the challenges your curse presented, but learned to harness its power.*
-
-#### **[Curse of Animation](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Accursed/curse-of-animation.md)** %% Fold %%
-
-While still alive, your skeleton was animated with dark magic by a cruel and powerful necromancer, causing it to have a desire to break free and rebel. This subclass deals with calcium manipulation to create bone-weapons and other augmentations/tools.
-
-#### **[Curse Of The Armament](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Accursed/curse-of-armament.md)** %% Fold %%
-
-You were cursed by a magical or sentient object. For some reason, you’ve chosen to remain attuned to this object. This subclass lets you increase in power by scaling your weapon attacks and giving it powerful abilities, such as auto-returning when thrown.
-
-#### **[Curse Of Combustion](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Accursed/curse-of-combustion.md)** %% Fold %%
-
-Your body is an explosive with a fuse of unknown length, most likely due to angering a divine or infernal being associated with fire. This subclass grants you abilities dealing with fire, such as becoming a ball of fire or granting you fire damage on hit.
-
-#### **[Curse of the Created](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Accursed/curse-of-created.md)** %% Fold %%
-
-You were not born, nor were you cursed. Instead you lurched to life with electricity crackling in the air around you. This subclass is based on Frankenstein, granting you lightning augments to abilities. 
-
-#### **[Curse Of Misfortune](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Accursed/curse-of-misfortune.md)** %% Fold %%
-
-Cursed with bad luck, however you can also manipulate dice rolls and other “games of chance”. 
-
-#### **[Curse of Mummification](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Accursed/curse-of-mummification.md)** %% Fold %%
-
-You were turned into a mummy upon death, giving you necrotic damage and fear abilities.
-
-#### **[Curse of Petrification](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Accursed/curse-of-petrification.md)** %% Fold %%
-
-You were turned into a statue, and can change into this form at will. Grants you damage resistance and powerful slams and other weight/inertia based abilities.
-
-#### **[Curse of Somnolence](📚%20-%20Information%20Compendium/👨🏻‍🤝‍👨🏻%20-%20Player%20Options/Classes/Accursed/curse-of-somnolence.md)** %% Fold %%
-
-You were cursed by a fey to sleep forever, fighting to stay awake and live your life. You can give enemies fatigue, learn one-time use spells and negate exhaustion penalties.
 
 ## [Alchemist](📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist.md)
 
@@ -2278,59 +2237,6 @@ Exceptionally rare, even among Magi, members of the Order of Spellswords master 
 
 Practitioners of what many consider a forbidden ninth school of magic, Magi of the Order of Travelers augment their skills with Chronomancy magic, the magic of time. As they grow in their understanding of these secret magic, Travelers become increasingly detached from their place in time, and turning to become strange wanderers who safeguard the flow of time. Legends speak of Travelers so skillful in their use of time magic who can conjure future versions of themselves to aid in combat and offer cryptic knowledge from the future. How will your Traveler Magus safeguard the flow of time?
 
-## Martyr
-
-*Martyrs are chosen by the gods, predestined to speed forth to a final destination: they are ordained to die for a great cause. They are prophets and oracles, great priests and liberators. Regardless of how much good they might accomplish in their lives, the end must always be the same: a glorious death, to be remembered in legend. No matter the circumstance, a martyr cannot avoid their destiny. While some martyrs gladly accept their holy approbation, others struggle against it. However, from the moment the gods choose their martyr, they shall intervene in the martyr's fate, pulling them inexorably towards their cause. The gods will settle for a lesser martyr if they must—if the one chosen is unwilling to follow their path—but they always prefer to uplift their martyr to the heights of sainthood before their inevitable death. (**Source: Valda’s Spire of Secrets**)*
-
-*As martyrs are ordained by the gods to die, their suffering is holy sacrament. Martyrs brought close to death grow more powerful, not less, and those that spill their own blood evoke waves of divine energy. In the view of the gods, such hardship only heightens martyrdom and hastens the martyr to their destiny. Paradoxically, martyrs are protected from death's precipice even as they are edged closer towards it. Every torment and persecution suffered by them is weighed with equal moments of respite offered by the gods. The gods do not mean to kill their charge early; a martyr should meet their fate only at the preordained time and place.* 
-
-### <u>Subclasses - Mortal Burdens</u> %% Fold %%
-
-*Martyrs are created and driven forth to right an inexorable wrong wrong in the world. On this quest, they are a direct instrument of the gods, and no matter how hard they try, they cannot escape the burden of their duty. *
-
-#### **Burden Of Atonement** %% Fold %%
-
-For all the wrong you have done in your life, the gods have graced you with an undeserved second chance. Your burden is to atone, to undo all the evils you have done in your life, and to seek redemption before the gods. How you accomplish this is your choice, so long as you remove any dark marks you leave behind. Ultimately, your final martyrdom might be a grand act, averting a great disaster or banishing a force of evil, or it might be as humble as redirecting the life of an evil person and causing them to seek redemption, passing the torch to a new martyr of atonement.
-
-#### **Burden Of Discord** %% Fold %%
-
-Martyrs of Discord are chosen at random to sow chaos and stoke evil wherever they travel. They light things on fire, commit petty crimes, and even murder when the fancy strikes. Given to their own predilections, martyrs of discord are unified only by their charge to disrupt the status quo as much as possible.
-
-No one is certain why the gods make martyrs of Discord in the first place. Perhaps it is at the whim of one capricious or evil god, or perhaps the gods desire a balance between chaos and law, and must sometimes stoke the fire to restore this balance.
-
-#### **Burden Of the End** %% Fold %%
-
-The gods have seen a great cataclysm on the horizon and tasked their martyr with protecting the world from catastrophe. The exact nature of the coming End may vary: sometimes the awakening or arrival of an evil entity, sometimes the discovery and abuse of a powerful artifact, and sometimes a singularly destructive event that endangers the gods themselves, but the martyr must be dedicated to give their lives to stop it. To this end, the gods imbue their martyr with ancient and powerful spells, tools once gifted only to prophets.
-
-When the coming cataclysm threatens the world, a martyr would be ill-served to ignore their call, for the cataclysm imperils them directly—as well as the lives of their family and companions. The life of a martyr is always forfeit, but the rest of the world can yet be saved.
-
-#### **Burden Of Mercy** %% Fold %%
-
-The gods have seen a great cataclysm on the horizon and tasked their martyr with protecting the world from catastrophe. The exact nature of the coming End may vary: sometimes the awakening or arrival of an evil entity, sometimes the discovery and abuse of a powerful artifact, and sometimes a singularly destructive event that endangers the gods themselves, but the martyr must be dedicated to give their lives to stop it. To this end, the gods imbue their martyr with ancient and powerful spells, tools once gifted only to prophets.
-
-When the coming cataclysm threatens the world, a martyr would be ill-served to ignore their call, for the cataclysm imperils them directly—as well as the lives of their family and companions. The life of a martyr is always forfeit, but the rest of the world can yet be saved.
-
-#### **Burden Of Rebirth** %% Fold %%
-
-The gods have seen a great cataclysm on the horizon and tasked their martyr with protecting the world from catastrophe. The exact nature of the coming End may vary: sometimes the awakening or arrival of an evil entity, sometimes the discovery and abuse of a powerful artifact, and sometimes a singularly destructive event that endangers the gods themselves, but the martyr must be dedicated to give their lives to stop it. To this end, the gods imbue their martyr with ancient and powerful spells, tools once gifted only to prophets.
-
-When the coming cataclysm threatens the world, a martyr would be ill-served to ignore their call, for the cataclysm imperils them directly—as well as the lives of their family and companions. The life of a martyr is always forfeit, but the rest of the world can yet be saved.
-
-#### **Burden Of Revolution** %% Fold %%
-
-Kings and leaders are bound by an unspoken covenant to the gods to govern their people justly and peacefully. When a monarch turns their back on the gods, embraces tyranny, or uses cruel measures against their own people, a martyr is called to end their reign. Rarely does a Martyr of Revolution come with peaceful measures, for when a king must fall, only the sword can provide the necessary leverage.
-
-Such martyrs are not only called to battle kings; any person of influence that oppresses others and abuses their power might wrong the gods enough to earn the ire of a martyr. In dark times, a martyr might be tasked with clearing a continent of despots and oppressors, calling for a full-scale military campaign of liberation.
-
-#### **Burden Of Truth** %% Fold %%
-
-Tasked with unveiling the world's deceptions and delivering to the people a profound truth, martyrs tasked with the Burden of Truth face an endless battle with disillusionment and lies. Such a martyr must earn the people's hearts and minds, turning their favors away from evil influences and toward divine ones. It is an uphill battle, but one that rarely requires grievous violence except in the most dire of circumstances.
-
-Martyrs of Truth are often deemed prophets, for their gods entrust them with knowledge of the future, insights into the past, and sagacious perspective on the present. Such information is proof of their messages' divine origin and is a necessary balm, for the truths such martyrs are called to preach are often a bitter pill for listeners to swallow.
-
-#### **Burden Of Tyranny** %% Fold %%
-
-When malevolent gods find the world pacified and defenseless, they send a martyr of tyranny to conquer its kingdoms, subjugate the weak, and spread misery with their blade. Once unleashed, this martyr stops at nothing to establish an empire to rule over with an iron fist. They demand bloodshed from their foes and pledges of absolute fealty from their allies, taking gleeful satisfaction with every power grab and malicious turn. It is not enough to rule: they must be feared, and any resistance must cower in their shadows. Only then will the gods let them die, likely stabbed in the back by someone crueler or more pitiless.
 
 ## Monk
 
@@ -5427,6 +5333,12 @@ and need to be sealed away to limit the chaos they spread.
 ## Stuff
 
 Sources:
+
+- Aegis - psionic shield tank/support
+- Cipher - psionic debuffer/disrupter skirmisher
+- Null - psionic monk with anti-magic and enhancement
+- Troubadour - half-caster equivalent of the bard, more focused on support
+
 
 - Amethyst Dragon Book %% fold %%
 	- ArtificerSpecializationsDragonforger
