@@ -9,6 +9,10 @@
       "path": "5e Tools Website To-Do & Ideas.md"
     },
     {
+      "basename": "Homebrew Errata Guide",
+      "path": "Homebrew Errata Guide.md"
+    },
+    {
       "basename": "Classes",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "incapacitated",
       "path": "Homebrew In-Progress/incapacitated.md"
-    },
-    {
-      "basename": "Homebrew Errata Guide",
-      "path": "Homebrew Errata Guide.md"
     },
     {
       "basename": "rules-and-meta",
