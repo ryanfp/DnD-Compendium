@@ -43,7 +43,7 @@ I just wanted to get everyone on the same page regarding D&D and wanted to set e
 
 
 
-## Running The Game
+## “Running The Game” & Goals
 
 Now, to set expectations:
 
@@ -64,6 +64,7 @@ culminating in what is basically a 5.1e or 5.75e (or whatever you wanna call it)
   - Bender (yes, like Avatar)
   - Psion
   - Jaeger
+  - Summoner
   - Warlord and the Gunslinger
 - Anywhere from 20-35 new subclasses for each of the base 13 classes
 - New spells, weapons, feats, backgrounds, races, monsters/enemies, and such
@@ -81,4 +82,46 @@ And some more that I’m sure I’m forgetting. **If this makes absolutely no se
 
 *GENERALLY*, I run games that focus more on the **Social** and **Combat** pillars of D&D (I’m trying to incorporate **Exploration** better, but we’ll see how that goes). I enjoy the grittiness and crunch of combat and tactics, so I will be doing my best to design encounters that reflect that. I’m hoping to be able to create meaningful choices both in and out of combat, where you’ll have to manage your resources and work together to overcome the obstacle. Obviously, this won’t be all the time or even *most* of the time, but that is what' I’ll be striving for. Which is to say:
 
-**IF YOU DO NOT ENJOY COMBAT OR GRITTINESS OR MANAGING HEALING/COMBAT RESOURCES AT ALL, YOU WILL NOT ENJOY MY GAMES**. 
+**IF YOU DO NOT ENJOY COMBAT OR GRITTINESS OR MANAGING HEALING/COMBAT RESOURCES AT ALL, YOU WILL NOT ENJOY MY GAMES**. If you are looking for a low-stakes, social-only/focused game with little to no combat encounters, **you will not have a good time.** 
+
+### Tone/Theme
+
+The campaign setting I plan to use as the basis for the campaign and any game I forsee myself running in the future is *Eberron* (if you’re familiar with it). It’s a high-magic setting that meshes a ton of genres such as:
+
+- High-Fantasy
+- Neo-Noir Thriller
+- Pulp Adventure
+- Swashbuckling Action
+- Political Intrigue
+- Post-War Society
+- Sword and Sorcery
+- Eldritch Horror
+- Magitech/Arcanepunk/Spellpunk/Dungeonpunk (however you wanna flavor it, you get the idea)
+
+Some popular media that were heavy influences:
+
+- Indiana Jones
+- Lord of the Rings
+- Blade Runner
+- Full Metal Alchemist: Brotherhood
+- Cowboy Bebop
+- Pirates of the Caribbean
+- Van Helsing
+- Tomb Raider
+- Game of Thrones
+- The Maltese Falcon
+- Casablanca
+- Howl’s Moving Castle
+- Treasure Planet
+
+Basically, think Legend of Korra *New Republic City* level tech with ancient Draconic Prophesies, huge corporate conglomerate crime families, a fractured world following a devastating war, with creationist moral dilemmas and the like. Like above:
+
+**IF YOU ARE NOT INTERESTED IN ANY OF THE THEMES OR INFLUENCES LISTED ABOVE, YOU WILL NOT ENJOY MY GAMES.** That’s not to say that other genres won’t be explored, or that it will *always* be the above, but that is the general idea going in. 
+
+### Medium
+
+Lastly, I run these games online, using the Foundry VTT. Unfortunately, we don’t live close enough to everyone to let us play in person, but I think Foundry is the next best thing. I run the games in Foundry, we join a Discord call and I stream the sessions (unlisted) for playback if desired. It’s able to run on some potatoes, so I wouldn’t worry about performance. 
+
+## Going Forward
+
+This is as in-depth as I will go for a couple months, bu
