@@ -960,7 +960,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 247.5
   },
   "right": {
     "id": "fc1490c296b0c5ab",
@@ -1093,6 +1093,15 @@
           {
             "id": "495da37d85ddf815",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
@@ -1154,7 +1163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 222.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -1187,14 +1196,16 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "29b4be69d1f4c07c",
   "lastOpenFiles": [
     "5e Tools Website To-Do & Ideas.md",
-    "Homebrew Errata Guide.md",
     "Untitled 2.md",
+    "Homebrew Errata Guide.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "Website Navigation Map.md",
     "Untitled 1.md",
