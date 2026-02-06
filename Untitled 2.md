@@ -1,7 +1,7 @@
 ---
 title: ""
 created: 2026/02/03 at 23:06
-updated: 2026/02/05 at 22:11
+updated: 2026/02/05 at 22:20
 aliases:
   - Announcement
   - Untitled 2
@@ -10,6 +10,7 @@ tags:
   - stage/completed
   - stage/in-progress
   - stage/not-started
+  - stage/on-hold
   - stage/planning
 ---
 
@@ -45,6 +46,17 @@ tags:
 - [ ] Fix/Change layout in certain parts of the website
 	- [x] Change table column order for multiple pages to have “Name” first #stage/completed 
 	- [ ] Fix those same tables now having very long widths #stage/not-started 
+	- [ ] Make adventure book covers smaller to fit more on screen #stage/not-started 
+	- [ ] Make currently transparent or solid colored tables have alternating color rows #stage/not-started 
+- [ ] Implement 3D Dice functionality & change dice rolltray icon
+	- [ ] Grab 3d dice files from *DungeonChurch* website for use, find out more about it #stage/completed 
+	- [ ] Grab dice library files from GitHub and add to repo #stage/completed 
+	- [ ] Implement files and .js #stage/completed 
+	- [x] Change chevron icon of dice roll tray
+		- [x] Get d20 svg for use as replacement icon #stage/completed 
+		- [x] Implement the svg for the rolltray icon #stage/on-hold
+			- [?] Possibly just use basic dice emoji or glyph to mirror the inline icon use I want to implement for dice rolls #stage/in-progress 
+	- [ ] 
 
 ## General Media
 

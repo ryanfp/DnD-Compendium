@@ -1643,7 +1643,8 @@
     "stage/not-started": 3,
     "stage/n": 4,
     "stage/completed": 5,
-    "stage/cancelled": 6
+    "stage/cancelled": 6,
+    "stage/on-hold": 7
   },
   "_version": 3
 }

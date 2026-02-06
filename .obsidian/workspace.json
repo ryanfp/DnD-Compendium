@@ -1084,10 +1084,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled 2.md"
+                "file": "5e Tools Website To-Do & Ideas.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Untitled 2"
+              "title": "File properties for 5e Tools Website To-Do & Ideas"
             }
           },
           {
@@ -1196,15 +1196,13 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "task-board:Open task board": false
     }
   },
-  "active": "29b4be69d1f4c07c",
+  "active": "9cd9ee30f772e8f7",
   "lastOpenFiles": [
-    "5e Tools Website To-Do & Ideas.md",
     "Untitled 2.md",
+    "5e Tools Website To-Do & Ideas.md",
     "Homebrew Errata Guide.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "Website Navigation Map.md",
