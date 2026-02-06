@@ -1,11 +1,13 @@
 ---
 title: ""
 created: 2026/02/03 at 23:06
-updated: 2026/02/05 at 21:33
+updated: 2026/02/05 at 22:11
 aliases:
-  - Untitled 2
   - Announcement
+  - Untitled 2
 tags:
+  - stage/cancelled
+  - stage/completed
   - stage/in-progress
   - stage/not-started
   - stage/planning
@@ -41,6 +43,8 @@ tags:
 	- [x] Loading bar at the top #stage/completed 
 	- [-] Spinning d20 somewhere on the page #stage/cancelled
 - [ ] Fix/Change layout in certain parts of the website
+	- [x] Change table column order for multiple pages to have “Name” first #stage/completed 
+	- [ ] Fix those same tables now having very long widths #stage/not-started 
 
 ## General Media
 

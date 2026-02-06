@@ -26,7 +26,7 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 	- [!] Dark Mode (mostly done)
 	- [?] Light Mode
 - [ ] Changing the site header to be more modern
-- [ ] Integrating UI icons before keywords in text
+- [x] Integrating UI icons before keywords in text
 	- [!] get either SVG or PNGs of all files (if PNGs, multiple sizes are needed)
 - [ ] Include a “Class Emblem” on every class page
 	- [x] Have a mockup or sketches of desired class icons ready
@@ -87,16 +87,14 @@ Currently building a personal mirror to the popular and useful [5etools](https:/
 - [ ] Potentially change layout or add more functionality to improve flow with planned site changes
 	- [ ] have a very rough draft of a color palette and .css file
 	- [ ] show screenshot of what it makes obsidian look like, it’s pretty rough
-- [x] Add loading animations and bars
+- [ ] Add loading animations and bars
     - [-] Spinning d20 animation
     - [x] Low profile loading bar at top
     - [ ] can make it so it only appears on pages that take 150ms or longer to load
 - [ ] Implement light/dark mode toggle
 - [ ] Redo navigation for a more modern look; consult other forks for inspiration
-- [x] ~~Ability to drag and reorder table columns like Google Sheets~~ Changed table column order for many pages to now have *Name* first. 
+- [ ] ~~Ability to drag and reorder table columns like Google Sheets~~ Changed table column order for many pages to now have *Name* first. 
 	- [ ] ❌ Some pages have a large gap between the first and second column, maybe something to do with how I moved the columns around?
-- [ ] Integrate scheduling functionality (*DungeonChurch* may have this)
-- [ ] Implement content preloading for main list or page sections
 - [ ] Make adventure book covers smaller (or increase screen density)
 - [ ] Make tables have slightly alternating colors every other row
 - [ ] Make background two-toned
