@@ -492,9 +492,42 @@
               "icon": "lucide-file",
               "title": "Untitled 2"
             }
+          },
+          {
+            "id": "fbecd96f2a25e51c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "test"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "5056492b6a49b63e",
@@ -1084,10 +1117,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled 2.md"
+                "file": "test.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Untitled 2"
+              "title": "File properties for test"
             }
           },
           {
@@ -1196,13 +1229,16 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "29b4be69d1f4c07c",
+  "active": "c8ddf2f537d6bbbf",
   "lastOpenFiles": [
-    "5e Tools Website To-Do & Ideas.md",
+    "test.md",
     "Untitled 2.md",
+    "5e Tools Website To-Do & Ideas.md",
     "Homebrew Errata Guide.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "Website Navigation Map.md",
@@ -1233,7 +1269,6 @@
     "Color Palette/imgs/Untitled 16.md",
     "Color Palette/imgs/Untitled 17.md",
     "Color Palette/imgs/Untitled 15.md",
-    "Color Palette/imgs/Untitled 14.md",
     "Color Palette/Color Palettes.base",
     "desktop.ini",
     "z_img/3125-1696894452-1192171480.webp",

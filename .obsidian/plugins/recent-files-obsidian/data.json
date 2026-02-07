@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "test",
+      "path": "test.md"
+    },
+    {
       "basename": "Untitled 2",
       "path": "Untitled 2.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "swarmkeeper",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/swarmkeeper.md"
-    },
-    {
-      "basename": "Feats",
-      "path": "📚 - Information Compendium/⚔ - Features & Skills/Feats/Feats.md"
     }
   ],
   "omittedPaths": [],
