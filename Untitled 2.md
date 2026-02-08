@@ -92,5 +92,26 @@ tags:
 		- [ ] Mark out dupes, OP options, etc
 		- [ ] Categorize into rough buckets (“Savage” for Barbs, “Devious” for Rogues)
 		- [ ] Combine remaining LL and A5e exploits into one, keep KT AMF in other
-	- [ ] Go through each base class, and compare 
+	- [ ] Go through each base class, and compare using (LaserLlama, KT 5e++, 5e/5.5e, A5e, Treatmonk, other 5e updates like SweCky, Project Excelsior, etc)
+		- [ ] Compare # of abiltiies, and power
+		- [ ] Decide what is good to keep, what should stay or be rebalanced
+		- [ ] Map remaining features to levels
+		- [ ] Go through levels, add social/exploration options to combat-only ones
+		- [ ] Classes
+			- [ ] Artificer
+			- [ ] Barbarian
+			- [ ] Bard
+			- [ ] Cleric
+			- [ ] Druid
+			- [ ] Fighter
+			- [ ] Monk
+			- [ ] Paladin
+			- [ ] Ranger #stage/in-progress 
+				- [ ] Gather abilities from different sources (LL, KT, 5e/5.5e, etc) ***Get A5e, KT 5e++, Treatmonk and DungeonDudes abilities too***
+				- [ ] Decide what is to be kept, rebalanced or removed #stage/in-progress 
+				- [ ] Map remaining features to levels #stage/planning 
+			- [ ] Rogue #stage/planning 
+			- [ ] Sorcerer
+			- [ ] Warlock
+			- [ ] Wizard
 
