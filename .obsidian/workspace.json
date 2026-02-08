@@ -502,13 +502,25 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "accursed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/accursed.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"accursed\"}",
+                  "eState": "{\"scroll\":245.3}"
+                },
+                {
+                  "title": "test",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"test.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"test\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -523,7 +535,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "curse-of-animation"
             }
           }
         ],
@@ -1117,10 +1129,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "test.md"
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for test"
+              "title": "File properties for curse-of-animation"
             }
           },
           {
@@ -1234,8 +1246,9 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "c8ddf2f537d6bbbf",
+  "active": "fbecd96f2a25e51c",
   "lastOpenFiles": [
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/accursed.md",
     "test.md",
     "Untitled 2.md",
     "5e Tools Website To-Do & Ideas.md",
@@ -1268,7 +1281,6 @@
     "z_img/image-86.png",
     "Color Palette/imgs/Untitled 16.md",
     "Color Palette/imgs/Untitled 17.md",
-    "Color Palette/imgs/Untitled 15.md",
     "Color Palette/Color Palettes.base",
     "desktop.ini",
     "z_img/3125-1696894452-1192171480.webp",

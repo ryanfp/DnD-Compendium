@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "curse-of-animation",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md"
+    },
+    {
+      "basename": "accursed",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/accursed.md"
+    },
+    {
       "basename": "test",
       "path": "test.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "image-56",
       "path": "z_img/image-56.png"
-    },
-    {
-      "basename": "ranger-2024",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/ranger-2024.md"
-    },
-    {
-      "basename": "swarmkeeper",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Ranger/swarmkeeper.md"
     }
   ],
   "omittedPaths": [],
