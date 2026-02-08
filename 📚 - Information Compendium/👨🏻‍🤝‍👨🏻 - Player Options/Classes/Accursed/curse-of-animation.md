@@ -1,14 +1,13 @@
 ---
 title: Curse of Animation
 created: 2025/05/14 at 21:46
-updated: 2025/08/01 at 00:57
+updated: 2026/02/08 at 14:45
 permalink: curse-of-animation-accursed
 source: "The Ultimate Adventurer's Handbook"
 aliases:
   - Curse of Animation
   - Curse of Animation - Accursed
 tags:
-  - 
   - subclass/accursed/animation
 cssclasses:
   - json5e-class

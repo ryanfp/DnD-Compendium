@@ -74,3 +74,23 @@ tags:
 	- [ ] Class Icons/Emblems
 		- [ ] SVG
 
+
+
+## Homebrew
+
+- [ ] Finish designing/creating all fully homebrewed classes
+	- [ ] Aegis
+	- [ ] Cipher
+	- [ ] Oracle/Cardcaster
+	- [ ] Null
+- [ ] Do overhaul of base class progression
+	- [ ] Decide if going to standardized 5.5e progression or leave as-is
+	- [ ] Incorporate KibblesTasty’s *Alternate Martial Progression* into system (maybe change the levels around a bit)
+	- [ ] Organize all exploits from all sources (LL Exploit Compendium, A5e, KT AMF)
+		- [ ] List out
+		- [ ] Tag for traits and classes
+		- [ ] Mark out dupes, OP options, etc
+		- [ ] Categorize into rough buckets (“Savage” for Barbs, “Devious” for Rogues)
+		- [ ] Combine remaining LL and A5e exploits into one, keep KT AMF in other
+	- [ ] Go through each base class, and compare 
+

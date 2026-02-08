@@ -539,7 +539,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "5056492b6a49b63e",
@@ -1129,10 +1129,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md"
+                "file": "Untitled 2.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for curse-of-animation"
+              "title": "File properties for Untitled 2"
             }
           },
           {
@@ -1241,11 +1241,14 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "fbecd96f2a25e51c",
+  "active": "29b4be69d1f4c07c",
   "lastOpenFiles": [
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/accursed.md",
     "test.md",
     "Untitled 2.md",
@@ -1278,7 +1281,6 @@
     "z_img/image-87.png",
     "z_img/image-86.png",
     "Color Palette/imgs/Untitled 16.md",
-    "Color Palette/imgs/Untitled 17.md",
     "Color Palette/Color Palettes.base",
     "desktop.ini",
     "z_img/3125-1696894452-1192171480.webp",
