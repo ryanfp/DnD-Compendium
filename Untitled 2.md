@@ -1,7 +1,7 @@
 ---
 title: ""
 created: 2026/02/03 at 23:06
-updated: 2026/02/05 at 22:20
+updated: 2026/02/08 at 21:43
 aliases:
   - Announcement
   - Untitled 2
@@ -73,8 +73,6 @@ tags:
 		- [ ] PNG
 	- [ ] Class Icons/Emblems
 		- [ ] SVG
-
-
 
 ## Homebrew
 
