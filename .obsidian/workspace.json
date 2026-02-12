@@ -475,7 +475,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Better Write-Up.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -490,7 +490,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "Better Write-Up"
             }
           },
           {
@@ -1129,10 +1129,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "5e Tools Website To-Do & Ideas.md"
+                "file": "Better Write-Up.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 5e Tools Website To-Do & Ideas"
+              "title": "File properties for Better Write-Up"
             }
           },
           {
@@ -1241,16 +1241,18 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "9cd9ee30f772e8f7",
+  "active": "29b4be69d1f4c07c",
   "lastOpenFiles": [
-    "Untitled 2.md",
+    "5e Tools Website To-Do & Ideas.md",
+    "Better Write-Up.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/accursed.md",
     "test.md",
-    "5e Tools Website To-Do & Ideas.md",
     "Homebrew Errata Guide.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "Website Navigation Map.md",
