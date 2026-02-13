@@ -112,4 +112,10 @@ tags:
 			- [ ] Sorcerer
 			- [ ] Warlock
 			- [ ] Wizard
-
+- [ ] Add multiple new conditions and interactions between them with existing mechanics/spells (Condition)
+	- [ ] Dazed = Alternative to Stunned. *Possibly makes them vulnerable to Thunder damage?* Normally, this just makes it so they cannot take reactions, and must take either an Action or a Bonus Action. Movement speed is halved. 
+	- [ ] Burning/Burned = take 1d4 Fire damage at the end of each turn, unless a featurte or ability says otherwise (can give higher die, like d6)
+	- [ ] Shocking/Shocked = cannot take Reactions, disadvantage on Dexterity checks and Reflex Saving Throws. Drop one item you are holding. 
+	- [ ] Frostbite/Frostbitten = take 1d4 + # of stacks Cold damage when you attack with a weapon or attempt to cast a spell with somatic components. Max 10 stacks, lose 1 stack per turn if doing nothing. Most sources inflict 1  stack.
+	- [ ] Frozen/Freezing = at 10 stacks of Frostbite, lose all stacks and gain the Frozen condition. Your movement speed is reduced to 10 ft, and you cannot Dash or  Disengage. You take 1d4+4 Cold damage every turn and when you attempt to cast a spell with Somatic componenets or attack with a weapon. You become vulnerable to Bludgeoning, Thunder, and Fire damage. When you take any of those damage types, lose this condition. 
+	- [ ] dddddddddddddddddddddddd
