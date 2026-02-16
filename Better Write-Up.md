@@ -1,10 +1,10 @@
 ---
 title: ""
 created: 2026/02/03 at 23:06
-updated: 2026/02/12 at 21:08
+updated: 2026/02/16 at 18:35
 aliases:
-  - Better Write-Up
   - Announcement
+  - Better Write-Up
   - Untitled 2
 tags:
   - stage/cancelled
@@ -123,7 +123,7 @@ tags:
 	- [ ] Burning/Burned = take 1d4 Fire damage at the start of each turn, unless a feature or ability says otherwise (can give higher die, like d6). Anyone can spend an Action or Bonus Action to clear the condition. When a creature that is Burning successfully grapples another creature, they obtain the Burning condition as well. A creature who is Burning has Disadvantage on Stealth (Dexterity) checks and sheds Dim light in a 10 ft radius
 	- [ ] Shocking/Shocked = cannot take Reactions, disadvantage on Dexterity checks and Reflex Saving Throws. Drop one item you are holding. 
 	- [ ] Frostbite/Frostbitten = take 1d4 + # of stacks Cold damage when you attack with a weapon or attempt to cast a spell with somatic components. Cannot take Bonus Actions. Max 10 stacks, lose 1 stack per turn if doing nothing. Most sources inflict 1 stack.
-	- [ ] Frozen/Freezing = at 10 stacks of Frostbite, lose all stacks and gain the Frozen condition. You become Immobilized.  You take 1d4+4 Cold damage every turn and when you attempt to cast a spell with Somatic components or attack with a weapon. You become vulnerable to Bludgeoning, Thunder, Force, and Fire damage. When you take any of those damage types, lose this condition. You can also attempt to break out of the ice with a DC X Athletics check or inflict 15 Bludgeoning or Fire damage to the ice. 
+	- [ ] Frozen/Freezing = at 10 stacks of Frostbite, lose all stacks and gain the Frozen condition. You become Immobilized. You take 1d4+4 Cold damage every turn and when you attempt to cast a spell with Somatic components or attack with a weapon. You become vulnerable to Bludgeoning, Thunder, Force, and Fire damage. When you take any of those damage types, lose this condition. You can also attempt to break out of the ice with a DC X Athletics check or inflict 15 Bludgeoning or Fire damage to the ice. 
 	- [ ] Wet/Soaked = Last for 10 rounds or until you move your full movement speed in one turn. Clears the Burning or Corroded conditions. Gain Resistance to Fire damage. Tier of Susceptibility for Lightning and Cold damage decreased by 1 (Immunity–>Resistance–>Neutral–>Vulnerable). Attacks that use Lightning or Cold damage have advantage, and you have Disadvantage on saving throws to resist the effects of Lightning or Lightning Damage. Take double the amount of stacks of Frostbite when receiving Cold damage. 
 	- [ ] Withered = (Necrotic) Healing you receive is halved. Disadvantage on Will and Fortitude Saving Throws. Lasts until the end of your next turn. Lesser or Greater Restoration, Remove Curse, etc. remove this condition. If you drop to 0 HP with this condition, gain one extra stack of the Wounded condition upon going down, and start with one extra failed death save (max 2). 
 	- [ ] Corroded = Take 1d4 Acid damage at the start of your turns. -2 AC for duration. You can also spend an action to clear the condition, or clear the condition when gaining the Wet condition. Taking damage refreshes the duration and increases the die size one step. 
