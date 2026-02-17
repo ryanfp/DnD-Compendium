@@ -4172,7 +4172,7 @@ One of your ancestors came from beyond the looking glass; a strange world where 
 
 #### ~~**Oozemaster Origin**<sup>(VSS)</sup>~~
 
-#### **Reincarnated Hero Origin**<sup>(VSS)</sup> %% Fold %%
+#### **??Reincarnated Hero Origin**<sup>(VSS)</sup> %% Fold %%
 
 Sorcerers gain their powers in mysterious ways that they seldom have control over. You are the reincarnation of a legendary hero, known to have slain many terrible foes. Being called back to life, be it by the gods, a very powerful mage, or a persistent curse on your soul, has left the indelible mark of sorcery upon you and awakened your ancient instincts for battle. 
 
@@ -4264,7 +4264,7 @@ Sorcerers of this origin are fueled by a deep connection to raw arcane energy, t
 
 Sometimes this is artificial in nature—an ironwrought drawing power from their arcane heart, for example—while other times this marks an individual that was exposed to the raw essence of aether, becoming infused and intrinsically linked to it. They are characterized by an easy affinity of warping magic and ease of manipulating it in its raw and purest forms.
 
-#### **Planetouched Origin**<sup>(KT)</sup> %% Fold %%
+#### **@@Planetouched Origin**<sup>(KT)</sup> %% Fold %%
 
 Connected to planes beyond their own, these sorcerers find the walls between the planes thinner, they pull power from beyond them or step through them with greater ease. Perhaps they were born in the ethereal plane or became connected to an outer plane, they now find themselves with one foot in the material and one foot beyond.
 
@@ -4294,7 +4294,7 @@ Your blood comes from a steadfast lineage, touched by the elemental forces of th
 
 Blessed with natural resilience and command over the stones on which they stand, most of these sorcerers are solid and deliberate in both action and thought. They are slow to act, but once set on a course they become stubborn and immovable from their chosen path.
 
-#### **Fey Magic Origin**<sup>(XLNEE)</sup> %% Fold %%
+#### **!!Fey Magic Origin**<sup>(XLNEE)</sup> %% Fold %%
 
 Your innate magic comes from fey magic that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their ancestry back to a lord or lady of the Plane of Faerie. Other fey sorcerers are descendants of warlocks who of made a pact with an archfey. The rarest of these sorcerers are those who travel to the Feywild and manage to absorb some of the plane’s natural magic by happenstance.
 
@@ -4306,7 +4306,7 @@ Your innate magic comes from a blood-born mutagenic curse that has untethered yo
 
 Somewhere in your bloodline, one of your ancestors made a pact with a powerful spirit of flame and predation known as the ash and wolf. This elemental creature is neither friend nor foe, but something primal and otherworldly. It is honored with ritualistic immolation and sacrifices of meat and metal. While the wolf may hold no hold over you, it may be interested in your affairs nevertheless, and your very existence could draw the eye of the wolf's eternal foe: the frostbound wild Huntsman. With smoke and cinders pouring from your hands with each spell you cast and a layer of ash gradually creeping over your body, you are the incarnation of a smoldering ember thrown upon a dry forest. Let your power burn forth like a wildfire.
 
-#### **Blackthorn Bloodline Origin**<sup>(CFSA)</sup> %% Fold %%
+#### **!!Blackthorn Bloodline Origin**<sup>(CFSA)</sup> %% Fold %%
 
 Somewhere in your lineage, an ancestor entered and made a pact with the blackthorn Grove, replacing their heart with one craft that from the essence of the Grove itself. Working with plants has always come naturally to you, but one day you are magical power awakened. In defense of your life or in pursuit of your hearts deepest desires, the strange arcana of the blackthorn Groves sprouted within your veins, giving you power to use as you see fit.
 
@@ -4324,15 +4324,15 @@ The mysterious weave and flow of magic is feared by many folk across Exandria. B
 
 The talents of a Runechild are rare, and sorcerers with this origin are sought after for study by mages and scholars alike, driven by a prevalent belief that the secrets of their runes can help understand the mysteries of magic. Others sometimes seek to enslave Runechild sorcerers, using their bodies as tortured spell batteries for diabolic pursuits. Runechild sorcerers were subjugated throughout the Age of Arcanum, and many of their contemporaries now search for ways to hide their essence—a task that isn’t easy given the revealing nature of their gifts.
 
-#### **Arcane Prodigy Origin**<sup>UAH</sup> %% Fold %%
+#### ~~**Arcane Prodigy Origin**<sup>UAH</sup>~~ %% Fold %%
 
 From your first attempt at casting a spell, you displayed an exceptional aptitude for magic. Since that time, the more you tried to learn magic through rote memorization and practiced study, the less your innate talent shone through. Sorcerers who are arcane prodigies eventually discover it’s better to let their natural genius guide their magic than relying on an academic understanding. Arcane prodigies don’t abandon the attempt to understand magic on a methodical level, but their prodigious talent for spellcasting relies on their unconscious grasp of the mystic laws that underpin all of existence.
 
-#### **Astral Born Origin**<sup>UAH</sup> %% Fold %%
+#### **@@Astral Born Origin**<sup>UAH</sup> %% Fold %%
 
 As an Astral Born, you draw your magic from the Astral Plane itself, a realm of dreams and thought that borders many others throughout the universe. Perhaps you were conceived in that realm, or your family heirloom is a gem designed to aid astral projection, or you were raised in the vicinity of a planar portal. Regardless of the reason, you find yourself able to tap into the Astral Plane’s physics-defying properties to achieve what others can only dream of.
 
-#### **Cursed Existence Origin**<sup>UAH</sup> %% Fold %%
+#### ~~**Cursed Existence Origin**<sup>UAH</sup>~~ %% Fold %%
 
 You or an ancestor were afflicted with a hereditary malediction, a horrible curse designed to cause misery. It may have been a punishment by a god for hubris, the work of a vengeful hag coven, or perhaps the result of a magical accident you happened to be caught in the middle of. No matter how the curse came to afflict you or your family line, you have discovered a method of accessing its powers, using it as a font of magical power. 
 
@@ -4340,11 +4340,11 @@ Some who become sorcerers through harnessing the power of their curse have disco
 
 Most people dread the cursed, fearing that the curse will pass to them through association with the afflicted. As a cursed sorcerer, it is your choice whether those fears are confirmed.
 
-#### **Greenheart Origin**<sup>UAH</sup> %% Fold %%
+#### **!!Greenheart Origin**<sup>UAH</sup> %% Fold %%
 
 Born to a dryad parent, infused with the eldritch power of an enchanted forest you were raised in, or influenced by a primal enchantment in your mother’s womb, the magic of the natural world runs through you. Unlike druids, you did not choose your connection to the natural world; the natural world chose its connection to you. Greenheart sorcerers often have dark brown and bright green features, and smell of the native flora of their homelands. Sorcerers of this origin are exceptionally resilient and observant of their surroundings.
 
-#### **Reincarnated Warrior Origin**<sup>UAH</sup> %% Fold %%
+#### **??Reincarnated Warrior Origin**<sup>UAH</sup> %% Fold %%
 
 Some legends are so widespread and revered that they will forever live on. Heroic warriors, in particular, capture the hearts and minds of the common folk, spurred by the songs and tales of bards across the world. Whether you know it or not, you are the soul of such a warrior born anew. You have a natural affinity for the tools of battle, and never feel more alive than when your blade is locked against another. 
 
@@ -4359,32 +4359,6 @@ At the onset of their journey and as they use their powers, Oni Kin begin to see
 #### **Delirium Soul Origin**<sup>(GTD)</sup> %% Fold %%
 
 Delirium is naturally drawn to magic and can twist and augment its presence in unnatural and unpredictable ways. Some who ventured into the ruins of Drakkenheim are twisted by the eldritch powers and emerge infused with contaminated energies. They become a living vessel for the Arcane Anomalies and twisting realities found within the ruins.
-
-## ~~*Soulshaper*~~
-
-*Soulshapers are mystical spiritualists who can effortlessly manipulate the spectral energy of their soul and the souls of others. Their powers are awakened by a moment of sudden enlightenment, rarely found through meditation but more commonly realized through a near-death experience. Their powers continue to develop based on the emotion that revealed them, from serene acceptance to a furious desire for revenge. (**Source: Crystalpunk Campaign Guide**)*
-
-*The moment of awakening is different for every soulshaper, but it is always a moment of intense emotion. For some, this is a moment of acceptance; a resignation to their death before being saved by an outside source. Soulshapers who awaken this way feel a sense of calm each time they channel their powers—after all, each moment they are alive is a bonus, and every effect they can have is one they may not have had otherwise. For others, it is a moment of pure terror, where they will do anything in their power to survive and their soul responds. These soulshapers channel their powers on pure adrenaline and instinct, recalling the moment when they brushed with death. Others still are so overcome with rage that they begin using their powers before they even realize what they are capable of. Their pure desire for revenge for whatever reason drives the use of their powers, and every time they channel their abilities, they return to that blood-boiling moment of fury.* 
-
-### <u>Subclasses - Spiritual Disciplines</u> %% Fold %%
-
-*Soulshapers can see the souls of the living and the dead, and can physically manipulate them. They are mediums between life and death, and between the Ethereal and Material Planes. Soulshapers use their powers for different purposes; some use their ability to physically manipulate souls to become Psychopomps or work with Soul Batteries, while others use their intimate knowledge of emotions to become negotiators, counselors or politicians. Some soulshapers who awaken their potential on the streets will use their powers nefariously, becoming thieves or scam artists with their abilities complimenting their natural talents.*
-
-#### **Soothsaying Discipline** %% Fold %%
-
-Those who follow the Discipline of Soothsaying focus on enhancing their connection to the ethereal, granting them clairvoyant abilities. These soulshapers serve as oracles that channel and decipher omens delivered by spirits in order to predict the future.
-
-#### **Witchcraft Discipline** %% Fold %%
-
-Those who follow the Discipline of Witchcraft train and experiment with their abilities to manipulate the souls of others. Some do this to enhance their combat capabilities, while others do it to see how far they can push their powers. In either case, live subjects are required for their experiments, which tend to push these soulshapers into lives of reclusivity, where they experiment with rats and other vermin to explore their spiritual powers.
-
-#### **Manifestation Discipline** %% Fold %%
-
-Those who follow the Discipline of Manifestation are brawlers who focus on the ability to summon a physical incarnation of their soul. The incarnation they manifest is often an augmented representation of themselves; stronger, faster, with a magnificent appearance shaped by their core emotions.
-
-#### **Soulblades Discipline** %% Fold %%
-
-Those who follow the Discipline of Soulblades specialize in manifesting their soul into spectral weaponry. The form of the weapons they conjure is often intricate and personal, driven by their core emotions. These soulshapers are often wanderers or thieves, who use their conjured soulblades to defend themselves when necessary.
 
 ## Tamer
 
