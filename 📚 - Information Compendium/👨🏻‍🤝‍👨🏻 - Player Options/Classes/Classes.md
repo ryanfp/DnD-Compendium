@@ -4204,7 +4204,7 @@ Your innate magic stems from the mingling of your bloodline with the blood of a 
 
 Your innate magic comes from the explosive power of raw alchemy and black powder. You parents may have been alchemists, whose long exposure to alchemical reagents mingled with a latent talent for magic in their bloodlines and caused you to be born with such abilities. Or you may have been experimented upon—with or without your permission—when you were younger and those alchemical experiments brought this unexpected magical power to the surface. Whatever the catalyst for your powers, they bring with them an affinity for black powder, allowing you magical prowess that exploits its power to your benefit.
 
-#### **Cold Blooded Origin**<sup>(TOH)</sup> %% Fold %%
+#### ~~**Cold Blooded Origin**<sup>(TOH)</sup>~~ %% Fold %%
 
 The serpentfolk slithered across the surface of the world in the primordial times before the warmblooded races became dominant. They worked their will upon the land and ocean and created works to show their mastery of the magical arts. Their artistry did not end with the landscape. They also experimented on any warm-blooded creatures they captured until they had warped and molded the creatures into new and deadly forms. 
 
@@ -4220,7 +4220,7 @@ Adventuring rifthoppers often concern themselves with investigating mysterious p
 
 One of the most omnipresent elements in the atmosphere is practically invisible and often ignored: spores. Plants of all varieties, fungal sentient life forms like mushroomfolk, and even animals emit these tiny pieces of life. You’ve always had an affinity for the natural world, and your innate magic is carried within the power of these omnipresent spores. Spore sorcerers are regularly found among the mushroomfolk and derro who grow large gardens of fungi deep beneath the surface of the world. Spore sorcerers can also be found in any area with an abundance of plant life, such as forests, swamps, and deep jungles.
 
-#### **Bestial Spirit Origin**<sup>(TCEE)</sup> %% Fold %%
+#### ~~**Bestial Spirit Origin**<sup>(TCEE)</sup>~~ %% Fold %%
 
 Power drawn from the great Beastlands or another plane of great bestial power has been passed down your lineage since an ancestor made a deal with a great animal god, or perhaps spent an amount of time within the great library. Either way, a powerful bestial spirit resides within you. Occasionally appearing as cat-like eyes, higher reflexes, excessive hair growth, or sharpened nails and teeth, this spirit brings about a new commune with nature and the animals that reside within.
 

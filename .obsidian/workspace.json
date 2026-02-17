@@ -1005,7 +1005,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 216.5
   },
   "right": {
     "id": "fc1490c296b0c5ab",
@@ -1208,7 +1208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -1246,7 +1246,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "b205233caf1d065c",
+  "active": "c52ca86d1c1d3ec8",
   "lastOpenFiles": [
     "Better Write-Up.md",
     "5e Tools Website To-Do & Ideas.md",
