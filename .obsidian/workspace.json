@@ -217,7 +217,8 @@
               "title": "curse-of-animation"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "5056492b6a49b63e",
@@ -872,8 +873,7 @@
               "title": "Classes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -1129,10 +1129,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
+                "file": "Better Write-Up.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Classes"
+              "title": "File properties for Better Write-Up"
             }
           },
           {
@@ -1246,15 +1246,15 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "c52ca86d1c1d3ec8",
+  "active": "29b4be69d1f4c07c",
   "lastOpenFiles": [
-    "Better Write-Up.md",
     "5e Tools Website To-Do & Ideas.md",
+    "Better Write-Up.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/accursed.md",
     "test.md",
     "Homebrew Errata Guide.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "Website Navigation Map.md",
     "Untitled 1.md",
     "Untitled.md",

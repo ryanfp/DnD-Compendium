@@ -135,3 +135,10 @@ tags:
 	- [ ] Bleeding = You take 1d4 Slashing damage at the start of your turn and you have disadvantage on Fortitude Saving Throws. Slashing and Piercing damage does an additional 1d4 of damage. You can take an Action to 
 	- [ ] Baned = You suffer a -1d4 penalty to all d20 tests. 
 - [ ] Druids can change into Chalenge rating zero creatures for free. It encourages them to get creative and it doesnt give them an advantage in combat. Also you can talk to animals regardless of what kind of druid you are but only if you can turn into it. So a level 3 Druid can't talk to fish, but a level 10 Druid can
+
+
+
+# Intake
+
+- Implement a “Preload All Content” button that allows you to store everything in localStorage for fast loading and offline access
+- 
