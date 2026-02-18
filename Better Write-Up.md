@@ -141,4 +141,6 @@ tags:
 # Intake
 
 - Implement a “Preload All Content” button that allows you to store everything in localStorage for fast loading and offline access
+- Move homebrew to mirror 5etools structure (into own repo)
+- Migrate CSS and SCSS changes to custom override file and keep bases intact
 - 
