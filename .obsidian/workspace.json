@@ -206,6 +206,39 @@
             }
           },
           {
+            "id": "488d8876dd075f9f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scam exposure.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "scam exposure"
+            }
+          },
+          {
             "id": "fbecd96f2a25e51c",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -251,7 +284,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "5056492b6a49b63e",
@@ -1162,10 +1195,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homebrew Lists.md"
+                "file": "scam exposure.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homebrew Lists"
+              "title": "File properties for scam exposure"
             }
           },
           {
@@ -1279,10 +1312,11 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "90f9f5970bdc28f0",
+  "active": "488d8876dd075f9f",
   "lastOpenFiles": [
-    "Better Write-Up.md",
     "Homebrew Lists.md",
+    "scam exposure.md",
+    "Better Write-Up.md",
     "5e Tools Website To-Do & Ideas.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md",
@@ -1306,7 +1340,6 @@
     "markdown-cheatsheet.md",
     "markdown-cheatsheet1.md",
     "markdown-css-style-cheatsheet.md",
-    "Color Palette/Color Palettes.md",
     "z_img/image-92.png",
     "z_img/image-91.png",
     "z_img/image-90.png",

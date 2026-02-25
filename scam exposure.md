@@ -1,0 +1,3 @@
+# Behance Comission Art Scam
+
+So, I would say I’m extremely new to art commissions and this whole scene in general, but after this experience I feel the need to bring it to light in case other people have interacted with them. I’ve also reported them on Behance, Paypal, and Twitter (if applicable). Long story short, I saw a reddit post advertising their portfolio in one of the art commission subreddits, and followed the link and liked what I saw. The stuff looked good, non-AI generated, and semi-consistent. 
