@@ -221,7 +221,7 @@
               "type": "markdown",
               "state": {
                 "file": "scam exposure.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -1307,9 +1307,7 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "task-board:Open task board": false
     }
   },
   "active": "488d8876dd075f9f",

@@ -47,21 +47,21 @@ Names of “Appreciations” or collaborators on Behance:
 - - -
 - [Kevin Studio](https://www.behance.net/kevin-studio)
  ![[image-101.png]]
-	 - [Tumblr](https://www.tumblr.com/kevinstudio1)
-	- ![[image-106.png]]
-	- [Twitter](https://x.com/Kevinstudio179)
-	- ![[image-108.png]]
-	- [Instagram](https://www.instagram.com/kevin.studio_179)
-	- ![[image-110.png]]
+- [Tumblr](https://www.tumblr.com/kevinstudio1)
+- ![[image-106.png]]
+- [Twitter](https://x.com/Kevinstudio179)
+- ![[image-108.png]]
+- [Instagram](https://www.instagram.com/kevin.studio_179)
+- ![[image-110.png]]
 - - -
  - [Canvas Essence Gallery](https://www.behance.net/CanvasEssenceGallery)
 ![[image-102.png]]
 - - -
 - [Kreative Art](https://www.behance.net/kreative_art)
 ![[image-103.png]]
-	- [Twitter](https://x.com/__adamclark__)
+- [Twitter](https://x.com/__adamclark__)
 - ![[image-104.png|300]]
-	- [Instagram](https://www.instagram.com/___adamclark___)
+- [Instagram](https://www.instagram.com/___adamclark___)
 - ![[image-105.png]]
 Associated Discord accounts: @kevinstudio_179
 Associated Email: kevinstudio179@gmail.com
@@ -83,40 +83,40 @@ When I look at the appreciations on *their* pages, these are the collaborators l
 - [Tom Creates](https://www.behance.net/tomcreates3d)
 ![[image-120.png]]
 (profile pic is the same just zoomed in)
-
+- - -
 - [Kevin Digital Studio](https://www.behance.net/kevindigital51)
 ![[image-113.png]]
 (name is the same again)
-
+- - -
 - [Kevin Crafted](https://www.behance.net/kevincrafted90)
 ![[image-115.png]]
-
+- - -
 - [Kevin Pixel Studio](https://www.behance.net/kevinpistudio179)
 ![[image-116.png]]
-
+- - -
 - [Streamby Kevin](https://www.behance.net/streambykevin110901)
 ![[image-122.png]]
 (same name again)
-
+- - -
 - [Kevin.M](https://www.behance.net/kevinmproduct0341)
 ![[image-123.png]]
 (same name)
-
+- - -
 - [Kevin Martin](https://www.behance.net/kevinmartin110903)
 ![[image-124.png]]
-
+- - -
 - [Michael Creates](https://www.behance.net/michaelcreates1)
 ![[image-125.png]]
-
+- - -
 - [James Walker](https://www.behance.net/jameswalker2401)
 ![[image-126.png]]
-
+- - -
 - [Infinite Artistry](https://www.behance.net/infinitartistr)
   ![[image-127.png]]
-- 
+- - -
 - [Sa’ad Hasan](https://www.behance.net/saadhasan10)
   ![[image-129.png]]
-- 
+- - -
 - [3D Glorified Designs](https://www.behance.net/3DGlorifieddesigns)
   ![[image-130.png]]
 (location is the same as multiple other accounts, Bloomingdale IL)
