@@ -26,7 +26,8 @@ Searching “@DigiWorldwide” returns nothing.
 
 Searching for the Behance profile name, the name of the profile on Discord, or the names of the “Appreciations” folders on Behance bring up nothing either. 
 
-![[image-95.png]] - Discord Profile of Scammer - Discord ID: 1032568864036356166
+![[image-95.png]] 
+Discord Profile of Scammer - Discord ID: 1032568864036356166
 
 [Behance Profile](https://www.behance.net/Art-Glorified/appreciated)
 
@@ -54,6 +55,8 @@ Names of “Appreciations” or collaborators on Behance:
 - ![[image-104.png]]
 	- [Instagram](https://www.instagram.com/___adamclark___)
 - ![[image-105.png]]
+Associated Discord accounts: @kevinstudio_179
+Associated Email: kevinstudio179@gmail.com
 
 When I look at the appreciations on *their* pages, these are the collaborators listed, which also looks to be part of the same scam. From what I’m guessing, this guy (or group of people) have made numerous accounts >10-15 that all scrape art from various sources, post it on their portfolios, vouch for each other and then try to scam people into commissions. Anyway, those collaborators are:
 
@@ -90,8 +93,16 @@ When I look at the appreciations on *their* pages, these are the collaborators l
 
 If you search their display names with quotes and “site:reddit.com” you will find *hundreds* of comments/posts from varying Reddit accounts across many different subreddits. 
 
+Reddit Accounts (will not be linking them):
+- @Giana_BS
+- 
+
+
 Some of the other Behance accounts I’ve found that were linked by Reddit accounts are:
 
 - [Infinite Artistry](https://www.behance.net/infinitartistr)
   ![[image-127.png]]
-- [Sa’ad Hasan]()
+- [Sa’ad Hasan](https://www.behance.net/saadhasan10)
+  ![[image-129.png]]
+- [3D Glorified Designs](https://www.behance.net/3DGlorifieddesigns)
+  ![[image-130.png]]
