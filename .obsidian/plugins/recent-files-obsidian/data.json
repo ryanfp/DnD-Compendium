@@ -5,6 +5,14 @@
       "path": "scam exposure.md"
     },
     {
+      "basename": "curse-of-animation",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md"
+    },
+    {
+      "basename": "()",
+      "path": "().md"
+    },
+    {
       "basename": "Homebrew Lists",
       "path": "Homebrew Lists.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Classes",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
-    },
-    {
-      "basename": "curse-of-animation",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md"
     },
     {
       "basename": "accursed",
@@ -195,10 +199,6 @@
     {
       "basename": "Cipher Homebrew Class",
       "path": "Homebrew In-Progress/Cipher Homebrew Class.md"
-    },
-    {
-      "basename": "3125-1696894452-1192171480",
-      "path": "z_img/3125-1696894452-1192171480.webp"
     }
   ],
   "omittedPaths": [],
