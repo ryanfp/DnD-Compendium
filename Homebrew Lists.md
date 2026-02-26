@@ -68,6 +68,8 @@ Gnomes
 	- Kethmer
 	- Sylmer
 	- Tivemer
+	- Lutinmer
+	- Lutimer
 - **Deep**
 	- Ultvemer (ULT-VE-MER)
 	- Svirnimer (SVERN-E-MER)
@@ -76,6 +78,7 @@ Gnomes
 	- Vairimer
 Goblins/Hobgoblins/Bugbears
 	- Grukmer
+	- Gossamer
 	- Hrazmer
 	- Grahmer
 	- Kharmer
@@ -91,14 +94,19 @@ Goblins/Hobgoblins/Bugbears
 	Aelmer
 	Thyraemer
 	Valemer
+	Evremer
+	Rusalmer
+	Evraemer
 (Eladrin)
 	Saenmer
 	Cirenmer
 	Eldenmer
+	Sylvamer
 Aerimer (Aereni)
 (Bright/Gold/Dawn)
 	Aerimer
 	Irilmer
+	Sidhemer
 (Sun Elf)
 	Solmer
 	Rhaemer
@@ -106,9 +114,11 @@ Aerimer (Aereni)
 (Star Elf)
 	Kosimer
 	Kosremer
+	Evremer
 (Shadow Elf / Shadar-Kai)
 	Nothimer
 	Shiremer
+	Shivathmer (Shivathos is counterpart to Sylvanus for the Shadowfell)
 
 **Naming Conventions**
 
@@ -132,3 +142,32 @@ Aerimer (Aereni)
 **Thar-** = starfire / constellation-light  
 **Noth-** = night-gloom (shadow without “evil” implied)  
 **Shir-** = shade-half-light (twilight-shadow, “between”)
+
+
+-var can mean *native folk*
+
+So, human related species or giant related species could use the -var suffix maybe also share with lizardfolk/dragonborn?
+
+**Humans**
+Jauttvar (Jotnar)
+Jautvarr
+Thrumvar
+Thurnvar
+
+**Giants**
+Hrymvar - Frost 
+Temevar - Storm
+Karnvar - Stone
+Skeldvar - Fire
+Hulvar - Hill
+Norinvar - Cloud??
+
+
+
+Girls:
+
+Elodie, Evelina, Seren, Sabina, Delphina, Amaris, Sylvie, Ghislaine, Mireille, Roselle, Zephyrine, Solange, Aquila, Seneca, Aldith, Zenobia
+
+Boys:
+
+Alban, Evariste, Sylvan, Blaise, Casimir, Lysander, Severin, Cassian, Livius, Firmin, Erasmus, Ignatius, Theron, Zenon, Xemino, Garsea
