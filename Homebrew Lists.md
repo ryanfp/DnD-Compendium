@@ -1,7 +1,7 @@
 ---
 title: Homebrew Lists
 created: 2026/02/24 at 18:21
-updated: 2026/02/26 at 00:12
+updated: 2026/02/26 at 15:37
 aliases:
   - Homebrew Lists
 ---
@@ -47,17 +47,26 @@ me, you have permission to warn other community members. If
 - Jotunn-kin? (Human)
 - Khoravar (Half-Elfs)
 
-#### Mer (Elvish/Fae Based Races)(BEcause they call the Fae ream “Aldmeri”)
+#### Mer (Elvish/Fae Based Races)(BEcause They Call the Fae Ream “Aldmeri”)
 
 _**Fae Realm Descendants/ Children of Aldmeri/The Aldmeri/Mer**_
+
 	Elves:
+
 	- **Altner** (High Elf)
+
 	- **Bosmer** (Wood Elf)[Bos = Wood/Forest] [People of the Forest]
+
 	- **Dunmer** (Dark Elf)(Drow) [Dun = Dull/Dusk] [People of the Dark]
+
 	- **Falmer** (Snow/Frost/Ice Elf) [Fal = Freeze] [People of the Snow]
+
 	- **Maomer** (Sea Elf) [Mao = Sea] [People of the Sea]
+
 - **Dwemer** (Dwarves) [Dwe = Deep] [People of the Deep]
+
 	- ****
+
 - **Chimer** (Changelings) [Chi = Change/Morph]
 - [Gnomes]
 	- **Svirnmer** (Deep Gnomes)
@@ -65,11 +74,17 @@ _**Fae Realm Descendants/ Children of Aldmeri/The Aldmeri/Mer**_
 - **Orsimer** (Orcs) or Urukmer
 
 Gnomes
+
 	- Kethmer
+
 	- Sylmer
+
 	- Tivemer
+
 	- Lutinmer
+
 	- Lutimer
+
 - **Deep**
 	- Ultvemer (ULT-VE-MER)
 	- Svirnimer (SVERN-E-MER)
@@ -143,7 +158,6 @@ Aerimer (Aereni)
 **Noth-** = night-gloom (shadow without “evil” implied)  
 **Shir-** = shade-half-light (twilight-shadow, “between”)
 
-
 -var can mean *native folk*
 
 So, human related species or giant related species could use the -var suffix maybe also share with lizardfolk/dragonborn?
@@ -161,8 +175,6 @@ Karnvar - Stone
 Skeldvar - Fire
 Hulvar - Hill
 Norinvar - Cloud??
-
-
 
 Girls:
 
