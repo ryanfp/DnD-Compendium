@@ -1,7 +1,7 @@
 ---
 title: Homebrew Lists
 created: 2026/02/24 at 18:21
-updated: 2026/02/25 at 22:00
+updated: 2026/02/26 at 00:12
 aliases:
   - Homebrew Lists
 ---
@@ -39,3 +39,26 @@ All languages that a player can know and that characters speak in the world.
 - Orcish
 
 me, you have permission to warn other community members. If
+
+### Race Names
+
+#### Men
+
+- Jotunn-kin? (Human)
+- Khoravar (Half-Elfs)
+
+#### Mer (Elvish/Fae Based Races)(BEcause they call the Fae ream “Aldmeri”)
+
+_**Fae Realm Descendants/ Children of Aldmeri/The Aldmeri/Mer**_
+	Elves:
+	- **Altner** (High Elf)
+	- **Bosmer** (Wood Elf)[Bos = Wood/Forest] [People of the Forest]
+	- **Dunmer** (Dark Elf)(Drow) [Dun = Dull/Dusk] [People of the Dark]
+	- **Falmer** (Snow/Frost/Ice Elf) [Fal = Freeze] [People of the Snow]
+	- **Maomer** (Sea Elf) [Mao = Sea] [People of the Sea]
+- **Dwemer** (Dwarves) [Dwe = Deep] [People of the Deep]
+	- **Svirmer**
+- **Chimer** (Changelings) [Chi = Change/Morph]
+- [Gnomes]
+- [Goblins/Hobgoblins]
+- **Orsimer** (Orcs)
