@@ -57,8 +57,78 @@ _**Fae Realm Descendants/ Children of Aldmeri/The Aldmeri/Mer**_
 	- **Falmer** (Snow/Frost/Ice Elf) [Fal = Freeze] [People of the Snow]
 	- **Maomer** (Sea Elf) [Mao = Sea] [People of the Sea]
 - **Dwemer** (Dwarves) [Dwe = Deep] [People of the Deep]
-	- **Svirmer**
+	- ****
 - **Chimer** (Changelings) [Chi = Change/Morph]
 - [Gnomes]
+	- **Svirnmer** (Deep Gnomes)
 - [Goblins/Hobgoblins]
-- **Orsimer** (Orcs)
+- **Orsimer** (Orcs) or Urukmer
+
+Gnomes
+	- Kethmer
+	- Sylmer
+	- Tivemer
+- **Deep**
+	- Ultvemer (ULT-VE-MER)
+	- Svirnimer (SVERN-E-MER)
+- **Wyrd**
+	- Veyremer (“VARE-EH-MER)
+	- Vairimer
+Goblins/Hobgoblins/Bugbears
+	- Grukmer
+	- Hrazmer
+	- Grahmer
+	- Kharmer
+	- Skaavimer
+	- Dhaakmer
+	- Vorimer
+	- Zanimer
+	- Brunmer
+	- Ghormer
+	- Urzimer
+	- Rukkmer
+(Astral)
+	Aelmer
+	Thyraemer
+	Valemer
+(Eladrin)
+	Saenmer
+	Cirenmer
+	Eldenmer
+Aerimer (Aereni)
+(Bright/Gold/Dawn)
+	Aerimer
+	Irilmer
+(Sun Elf)
+	Solmer
+	Rhaemer
+	Tirimer
+(Star Elf)
+	Kosimer
+	Kosremer
+(Shadow Elf / Shadar-Kai)
+	Nothimer
+	Shiremer
+
+**Naming Conventions**
+
+**Nim-** = small, quick-handed  
+**Keth-** = clever, contriving (craft/illusion-minded)  
+**Svir-** = under-stone, deep-burrow (lit. “below rock”)  
+**Glae-** = dim-glow, funguslight, under-lumen  
+**Vair-** = fate-bent, uncanny, “touched by threads”  
+**Grah-** = warren, burrow, crowded tunnels  
+**Khar-** = ordered host, drilled war-band (“ranked”)  
+**Vael-** = the silver void / astral breadth  
+**Saen-** = shifting-season, ever-turning (fey change)  
+**Vyr-** = green-rise (spring)  
+**Sul-** = high-heat (summer / sun at zenith)  
+**Aun-** = leaf-fall (autumn)  
+**Brun-** = cold-mist (winter)  
+**Aer-** = undying-ancestor (hallowed dead)  
+**Vaen-** = reverent/enshrined (honored line)  
+**Aur-** = dawn-gold (radiant light)  
+**Phel-** = pale-white (moon-ashen, bright-but-bloodless)  
+**Thar-** = starfire / constellation-light  
+**Noth-** = night-gloom (shadow without “evil” implied)  
+**Shir-** = shade-half-light (twilight-shadow, “between”)
