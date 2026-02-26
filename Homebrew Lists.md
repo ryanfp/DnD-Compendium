@@ -17,3 +17,23 @@ aliases:
 All Martials have access to Exploits, which are categorized based on their 
 
 [https://www.paypal.com/myaccount/activities/details/35B39680HG456381R](https://grabify.link/paypal.transaction-error.php?ref=8HLXX8)
+
+
+## Character Options
+
+### Languages
+
+All languages that a player can know and that characters speak in the world. 
+
+- Common
+- Umbral (Undercommon + Shadowfell equivalent)
+- Sylvan
+- Dwarvish
+- Gnomish
+- Elvish
+- Infernal
+- Celestial
+- Giant
+- Primordial (Auquan, Ignan, Auran, Terran)
+- Draconic
+- 
