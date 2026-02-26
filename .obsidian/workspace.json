@@ -251,7 +251,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "5056492b6a49b63e",
@@ -1162,10 +1162,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md"
+                "file": "Homebrew Lists.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for curse-of-animation"
+              "title": "File properties for Homebrew Lists"
             }
           },
           {
@@ -1279,8 +1279,9 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "fbecd96f2a25e51c",
+  "active": "90f9f5970bdc28f0",
   "lastOpenFiles": [
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md",
     "scam exposure.md",
     "z_img/image-147.png",
     "z_img/image-146.png",
@@ -1292,7 +1293,6 @@
     "z_img/image-140.png",
     "z_img/image-139.png",
     "z_img/image-138.png",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md",
     "Homebrew Lists.md",
     "().md",
     "Better Write-Up.md",

@@ -35,5 +35,7 @@ All languages that a player can know and that characters speak in the world.
 - Giant
 - Primordial (Auquan, Ignan, Auran, Terran)
 - Draconic
+- Goblin
+- Orcish
 
 me, you have permission to warn other community members. If
