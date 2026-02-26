@@ -1,7 +1,7 @@
 ---
 title: Behance Commission Art Scam
 created: 2026/02/24 at 22:03
-updated: 2026/02/25 at 20:29
+updated: 2026/02/25 at 23:01
 aliases:
   - Behance Commission Art Scam
 ---
@@ -214,12 +214,37 @@ The last thing I’ll say is that I *did* use an IP grabber to see where they we
 Here’s a related Facebook profile
 
 ![[image-137.png]]
+
 Email: devartistryuzair@gmail.com
+
 Instagram: devartistryuzair@gmail.com
+
 LinkedIn: ![[image-138.png]]
 
 ![[image-139.png]]
-they seem to 
+
+they seem to be running a scam on FIverr as well, using alternate accounts to boost their ratings
+
+![[image-140.png]]
+
+![[image-141.png]]
+
+[Upwork](https://www.upwork.com/agencies/1736016344045867008/)
+
+Other related facebook users:
+
+![[image-142.png]]
+
+![[image-143.png]]
+
+![[image-144.png]]
+
+![[image-145.png]]
+
+![[image-146.png]]
+
+![[image-147.png]]
+
 - - -
 
 Photo dump of other proof:
@@ -233,4 +258,5 @@ Photo dump of other proof:
 ![[image-135.png]]
 
 ![[image-136.png]]
+
 - - -

@@ -249,42 +249,9 @@
               "icon": "lucide-file",
               "title": "curse-of-animation"
             }
-          },
-          {
-            "id": "488d8876dd075f9f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scam exposure.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "scam exposure"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "5056492b6a49b63e",
@@ -1195,10 +1162,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "scam exposure.md"
+                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for scam exposure"
+              "title": "File properties for curse-of-animation"
             }
           },
           {
@@ -1312,22 +1279,21 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "488d8876dd075f9f",
+  "active": "fbecd96f2a25e51c",
   "lastOpenFiles": [
+    "scam exposure.md",
+    "z_img/image-147.png",
+    "z_img/image-146.png",
+    "z_img/image-145.png",
+    "z_img/image-144.png",
+    "z_img/image-143.png",
+    "z_img/image-142.png",
+    "z_img/image-141.png",
+    "z_img/image-140.png",
     "z_img/image-139.png",
     "z_img/image-138.png",
-    "z_img/image-137.png",
-    "z_img/image-136.png",
-    "z_img/image-135.png",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md",
     "Homebrew Lists.md",
-    "scam exposure.md",
-    "z_img/image-134.png",
-    "z_img/image-133.png",
-    "z_img/image-132.png",
-    "z_img/image-131.png",
-    "z_img/image-130.png",
-    "z_img/image-129.png",
     "().md",
     "Better Write-Up.md",
     "5e Tools Website To-Do & Ideas.md",
