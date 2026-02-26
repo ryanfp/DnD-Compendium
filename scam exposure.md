@@ -211,6 +211,15 @@ The last thing I’ll say is that I *did* use an IP grabber to see where they we
 
 ![[image-131.png]]
 
+Here’s a related Facebook profile
+
+![[image-137.png]]
+Email: devartistryuzair@gmail.com
+Instagram: devartistryuzair@gmail.com
+LinkedIn: ![[image-138.png]]
+
+![[image-139.png]]
+they seem to 
 - - -
 
 Photo dump of other proof:
