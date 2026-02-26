@@ -170,6 +170,7 @@ Reddit Accounts (will not be linking them):
 - @Giana_BS
 - @InerMachine
 - @CurtisChess
+- @GullibleSkirtz
 
 I ran a small bot to get all the active subreddits they’ve posted these in, and they’re as follows:
 
@@ -220,4 +221,7 @@ Photo dump of other proof:
 
 ![[image-134.png]]
 
+![[image-135.png]]
+
+![[image-136.png]]
 - - -

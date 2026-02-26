@@ -1,7 +1,7 @@
 ---
 title: Homebrew Lists
 created: 2026/02/24 at 18:21
-updated: 2026/02/24 at 22:03
+updated: 2026/02/25 at 22:00
 aliases:
   - Homebrew Lists
 ---
@@ -17,7 +17,6 @@ aliases:
 All Martials have access to Exploits, which are categorized based on their 
 
 [https://www.paypal.com/myaccount/activities/details/35B39680HG456381R](https://grabify.link/paypal.transaction-error.php?ref=8HLXX8)
-
 
 ## Character Options
 
@@ -36,4 +35,5 @@ All languages that a player can know and that characters speak in the world.
 - Giant
 - Primordial (Auquan, Ignan, Auran, Terran)
 - Draconic
-- 
+
+me, you have permission to warn other community members. If
