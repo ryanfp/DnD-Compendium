@@ -54,13 +54,9 @@ _**Fae Realm Descendants/ Children of Aldmeri/The Aldmeri/Mer**_
 	Elves:
 
 	- **Altner** (High Elf)
-
 	- **Bosmer** (Wood Elf)[Bos = Wood/Forest] [People of the Forest]
-
 	- **Dunmer** (Dark Elf)(Drow) [Dun = Dull/Dusk] [People of the Dark]
-
 	- **Falmer** (Snow/Frost/Ice Elf) [Fal = Freeze] [People of the Snow]
-
 	- **Maomer** (Sea Elf) [Mao = Sea] [People of the Sea]
 
 - **Dwemer** (Dwarves) [Dwe = Deep] [People of the Deep]
