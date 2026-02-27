@@ -1,11 +1,11 @@
 ---
 title: Intake
 created: 2026/02/03 at 23:06
-updated: 2026/02/24 at 18:21
+updated: 2026/02/26 at 22:50
 aliases:
-  - Intake
   - Announcement
   - Better Write-Up
+  - Intake
   - Untitled 2
 tags:
   - stage/cancelled
@@ -139,10 +139,10 @@ tags:
 	- [ ] Blessed = You add an additional 1d4 to all d20 tests.
 - [ ] Druids can change into Challenge rating zero creatures for free. It encourages them to get creative and it doesnt give them an advantage in combat. Also you can talk to animals regardless of what kind of druid you are but only if you can turn into it. So a level 3 Druid can't talk to fish, but a level 10 Druid can
 
-
 ### Spells
 
 - **Haste**: Now gives Advantage on Reflex saving throws. Effects consolidated to “Haste” condition. When the spell ends, it gives one level of exhaustion, and the target is Slowed as well for as long as the spell was affecting the target. Now also makes the one concentrating Slowed, but the effect is removed when the spell ends. Upcasting it extends the duration and AC bonus, but increases the levels of exhaustion gained after the spell ends by two for every spell level above 3rd. (4th level slot –> 3 levels, 5th level –> 5 levels)
+
 # Intake
 
 - Implement a “Preload All Content” button that allows you to store everything in localStorage for fast loading and offline access

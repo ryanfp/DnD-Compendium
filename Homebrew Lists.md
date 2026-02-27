@@ -178,7 +178,7 @@ Norinvar - Cloud??
 
 Girls:
 
-Elodie, Evelina, Seren, Sabina, Delphina, Amaris, Sylvie, Ghislaine, Mireille, Roselle, Zephyrine, Solange, Aquila, Seneca, Aldith, Zenobia
+Elodie, Evelina, Seren, Sabina, Delphina, Amaris, Sylvie, Mireille, Roselle, Zephyrine, Solange, Aquila, Seneca, Aldith, Zenobia
 
 Boys:
 
