@@ -72,7 +72,7 @@ _**Fae Realm Descendants/ Children of Aldmeri/The Aldmeri/Mer**_
 Gnomes
 
 	- Kethmer
-
+**Kethemer**
 	- Sylmer
 
 	- Tivemer
@@ -90,46 +90,46 @@ Gnomes
 Goblins/Hobgoblins/Bugbears
 	- Grukmer
 	- Gossamer
-	- Hrazmer
+	- Hrazmer**
 	- Grahmer
 	- Kharmer
 	- Skaavimer
 	- Dhaakmer
-	- Vorimer
+	- Vorimer**
 	- Zanimer
 	- Brunmer
 	- Ghormer
 	- Urzimer
-	- Rukkmer
+	- Rukkmer**
 (Astral)
 	Aelmer
 	Thyraemer
 	Valemer
 	Evremer
-	Rusalmer
+	**Rusalmer**
 	Evraemer
 (Eladrin)
-	Saenmer
+	**Saenmer**
 	Cirenmer
 	Eldenmer
 	Sylvamer
 Aerimer (Aereni)
 (Bright/Gold/Dawn)
-	Aerimer
 	Irilmer
 	Sidhemer
 (Sun Elf)
 	Solmer
+	**Solrilmer or Solrismer**
 	Rhaemer
 	Tirimer
 (Star Elf)
-	Kosimer
+	**Kosimer**
 	Kosremer
 	Evremer
 (Shadow Elf / Shadar-Kai)
 	Nothimer
 	Shiremer
-	Shivathmer (Shivathos is counterpart to Sylvanus for the Shadowfell)
+**Vathmer** (Shivathos is counterpart to Sylvanus for the Shadowfell)
 
 **Naming Conventions**
 
