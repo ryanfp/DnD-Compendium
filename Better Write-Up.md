@@ -120,7 +120,7 @@ tags:
 	- [ ] Defenseless = Attack rolls against you have advantage
 	- [ ] Helpless = Attack rolls against you are critical hits
 	- [ ] Distracted = You cannot take Reactions
-	- [ ] Dazed = Alternative to Stunned. *Possibly makes them vulnerable to Thunder damage?* Normally, this just makes it so they cannot take reactions, and must take either an Action or a Bonus Action. Movement speed is halved. 
+	- [ ] Dazed = Alternative to Stunned. *Possibly makes them vulnerable to Thunder damage?* Normally, this just makes it so they cannot take reactions, and must take either an Action or a Bonus Action. Slowed. 
 	- [ ] Burning/Burned = take 1d4 Fire damage at the start of each turn, unless a feature or ability says otherwise (can give higher die, like d6). Anyone can spend an Action or Bonus Action to clear the condition. When a creature that is Burning successfully grapples another creature, they obtain the Burning condition as well. A creature who is Burning has Disadvantage on Stealth (Dexterity) checks and sheds Dim light in a 10 ft radius
 	- [ ] Shocking/Shocked = cannot take Reactions, disadvantage on Dexterity checks and Reflex Saving Throws. Drop one item you are holding. 
 	- [ ] Frostbite/Frostbitten = take 1d4 + # of stacks Cold damage when you attack with a weapon or attempt to cast a spell with somatic components. Cannot take Bonus Actions. Max 10 stacks, lose 1 stack per turn if doing nothing. Most sources inflict 1 stack.
@@ -137,8 +137,12 @@ tags:
 	- [ ] Bleeding = You take 1d4 Slashing damage at the start of your turn and you have disadvantage on Fortitude Saving Throws. Slashing and Piercing damage does an additional 1d4 of damage. You can take an Action to 
 	- [ ] Baned = You suffer a -1d4 penalty to all d20 tests. 
 	- [ ] Blessed = You add an additional 1d4 to all d20 tests.
-- [ ] Druids can change into Chalenge rating zero creatures for free. It encourages them to get creative and it doesnt give them an advantage in combat. Also you can talk to animals regardless of what kind of druid you are but only if you can turn into it. So a level 3 Druid can't talk to fish, but a level 10 Druid can
+- [ ] Druids can change into Challenge rating zero creatures for free. It encourages them to get creative and it doesnt give them an advantage in combat. Also you can talk to animals regardless of what kind of druid you are but only if you can turn into it. So a level 3 Druid can't talk to fish, but a level 10 Druid can
 
+
+### Spells
+
+- **Haste**: Now gives Advantage on Reflex saving throws. Effects consolidated to “Haste” condition. When the spell ends, it gives one level of exhaustion, and the target is Slowed as well for as long as the spell was affecting the target. Now also makes the one concentrating Slowed, but the effect is removed when the spell ends. Upcasting it extends the duration and AC bonus, but increases the levels of exhaustion gained after the spell ends by two for every spell level above 3rd. (4th level slot –> 3 levels, 5th level –> 5 levels)
 # Intake
 
 - Implement a “Preload All Content” button that allows you to store everything in localStorage for fast loading and offline access
