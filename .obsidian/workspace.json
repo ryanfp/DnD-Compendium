@@ -173,45 +173,6 @@
             }
           },
           {
-            "id": "90f9f5970bdc28f0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Homebrew Lists",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Lists.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Homebrew Lists\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scam exposure.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "scam exposure"
-            }
-          },
-          {
             "id": "fbecd96f2a25e51c",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -257,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "5056492b6a49b63e",
@@ -1168,10 +1129,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "scam exposure.md"
+                "file": "Better Write-Up.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for scam exposure"
+              "title": "File properties for Better Write-Up"
             }
           },
           {
@@ -1280,15 +1241,17 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "90f9f5970bdc28f0",
+  "active": "29b4be69d1f4c07c",
   "lastOpenFiles": [
-    "Homebrew Lists.md",
-    "Better Write-Up.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md",
     "scam exposure.md",
+    "Homebrew Lists.md",
+    "Better Write-Up.md",
     "z_img/image-147.png",
     "z_img/image-146.png",
     "z_img/image-145.png",
