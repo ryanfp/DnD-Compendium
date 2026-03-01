@@ -12,4 +12,5 @@
 
 - [Warforged Colossus inspiration (One Thousand Years by TEK KOON SCOTT) : r/Eberron](https://www.reddit.com/r/Eberron/comments/1rf7vyc/warforged_colossus_inspiration_one_thousand_years/)
 - [Tips for making adventures feel Eberron'y : r/Eberron](https://www.reddit.com/r/Eberron/comments/1rgwmz2/tips_for_making_adventures_feel_eberrony/)
+- [Messengers of the Mist - My Homemade Campaign : r/Eberron](https://www.reddit.com/r/Eberron/comments/1rdvtsi/messengers_of_the_mist_my_homemade_campaign/)
 - 
