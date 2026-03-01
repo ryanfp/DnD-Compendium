@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 2",
+      "path": "Untitled 2.md"
+    },
+    {
       "basename": "Better Write-Up",
       "path": "Better Write-Up.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "to-do-list",
       "path": "to-do-list.md"
-    },
-    {
-      "basename": "Cipher Homebrew Class",
-      "path": "Homebrew In-Progress/Cipher Homebrew Class.md"
     }
   ],
   "omittedPaths": [],
