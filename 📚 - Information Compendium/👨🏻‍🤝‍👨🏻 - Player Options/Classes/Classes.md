@@ -1617,28 +1617,6 @@ Members of the Circle of the Petal are revered for their deep connection to the 
 
 As druids are often in tune with nature and the natural order, most see delirium as a scourge upon the world. However, a rare few see the truth: the eldritch stones are an essential part of the natural order, one which works at a cosmic scale. Druids of the Circle of Contamination use the blighted rocks and contaminating Haze as a conduit for supernatural evolution. They have embraced the chaotic power of Delirium as an extension of the inherent chaos in the natural order, spreading the Haze while wielding it as a powerful ally to fuel their spells.
 
-## ~~*Evolutionist*~~
-
-*Evolutionists are ambitious warriors; who rather than building their strength through practice and training, improve their natural talents by enhancing and upgrading their body. They reject the idea that they should play the hand they’re dealt, instead seeking to change the game. Where most accept the body they are given, evolutionists aim to control it and push it past its limits. Each evolutionist has different methods and motivations for upgrading their body, but they all are connected by one common goal: evolution. (**Source: Crystalpunk Campaign Setting**)* is this needed or good? Is the flavor worth it
-
-*Evolutionists are defined by their yearning to improve their bodies through methods that go beyond mere training. They achieve this through a variety of means, from inventive technology and alchemy to ancient magics or even pacts with otherworldly beings. No matter the method, an evolutionist begins to change and alter their form by augmenting their body or growing completely new appendages. These upgrades allow evolutionists to overpower their enemies, either through raw enhanced capability or through unique tactics enabled by their non-standard biology. Evolutionists live a life of continual growth, utilizing the abilities they gain to seek methods to enhance their bodies even further.* 
-
-### <u>Subclasses - Evolutionary Methods</u> %% Fold %%
-
-*An evolutionist’s method is fundamental to their being—it is the vital gateway that allows them to modify their body and the path which sets them apart from others of their kind. An evolutionist’s method is a defining factor in their appearance, the source of their power, and thorough representation of their identity. Without an evolutionary method, one would not be an evolutionist.*
-
-#### **Method Of Innovation** %% Fold %%
-
-You personally manufacture the form you desire, which consists of constructed enhancements and fabricated body parts. While most evolutionists of this method enhance themselves with intricate, magical technology, some prefer to instead use earthen, elemental augmentations or stitched pieces of monsters. Regardless, evolutionists of this method are resilient and innovative. They constantly tinker, repair, and fine tune themselves, continually building towards something greater.
-
-#### **Method Of Mutation** %% Fold %%
-
-Your body is greatly mutated: flesh morphed, resized, and reconfigured. Parts grown, and possibly changed in color. These mutations could be included through a vile practice of alchemy, a powerful curse, or a symbiotic relationship with a parasitic creature. No matter the method, these evolutionists live on the edge—constantly pushing their body to its limit. When they modify themselves, their bodies undergo chaotic, potent transformations that push the boundaries of their psyche.
-
-#### **Method Of Infusion** %% Fold %%
-
-Your form is intensely magical—infused within you is the power of pure arcana. You weave this power to shape magical, iridescent enhancements— translucent limbs, lustrous, glowing eyes, or even tattoo-like augmentations that wrap around your body. You could have received this power at birth, or it might have been imbued within you at some point in your life. Perhaps a higher being granted you such power. No matter its origin, its your process that allows for your enhancements—as you weave your body in the same way that a mage weaves their spells.
-
 ## Fighter
 
 *Fighters learn the basics of all combat styles. Every fighter can swing an axe, fence with a rapier, wield a longsword or a greatsword, use a bow, and even trap foes in a net with some degree of skill. Likewise, a fighter is adept with shields and every form of armor. Beyond that basic degree of familiarity, each fighter specializes in a certain style of combat. Some concentrate on archery, some on fighting with two weapons at once, and some on augmenting their martial skills with magic. This combination of broad general ability and extensive specialization makes fighters superior combatants on battlefields and in dungeons alike.*

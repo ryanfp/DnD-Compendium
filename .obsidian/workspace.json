@@ -6,7 +6,7 @@
       {
         "id": "0f4096b47ff804e0",
         "type": "tabs",
-        "dimension": 69.33601609657948,
+        "dimension": 65.23647001462702,
         "children": [
           {
             "id": "c52ca86d1c1d3ec8",
@@ -173,56 +173,17 @@
             }
           },
           {
-            "id": "fbecd96f2a25e51c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "accursed",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/accursed.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"accursed\"}",
-                  "eState": "{\"scroll\":245.3}"
-                },
-                {
-                  "title": "test",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"test.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"test\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "curse-of-animation"
-            }
-          },
-          {
             "id": "4704571bdb0e26d3",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Classes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Classes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1619,\"ch\":0},\"to\":{\"line\":1619,\"ch\":0}},\"scroll\":678.6821705426356}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -284,12 +245,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "5056492b6a49b63e",
         "type": "tabs",
-        "dimension": 30.663983903420522,
+        "dimension": 34.76352998537299,
         "children": [
           {
             "id": "9cd9ee30f772e8f7",
@@ -938,8 +899,42 @@
               "icon": "lucide-file",
               "title": "Classes"
             }
+          },
+          {
+            "id": "3c0f5290d8982a0c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 3"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -951,7 +946,7 @@
       {
         "id": "18a6a72c97b9c3ec",
         "type": "tabs",
-        "dimension": 40.17918676774638,
+        "dimension": 67.37320211960636,
         "children": [
           {
             "id": "fcaa59025a7544d2",
@@ -1044,7 +1039,7 @@
       {
         "id": "a3116cdcaf599a64",
         "type": "tabs",
-        "dimension": 59.82081323225362,
+        "dimension": 32.626797880393646,
         "children": [
           {
             "id": "f068611f25fe0e60",
@@ -1071,7 +1066,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 269.5
   },
   "right": {
     "id": "fc1490c296b0c5ab",
@@ -1314,8 +1309,10 @@
   },
   "active": "90ff919bec40b701",
   "lastOpenFiles": [
-    "Guide to Homebrew Class Building.md",
+    "Untitled 3.md",
     "Untitled 2.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
+    "Guide to Homebrew Class Building.md",
     "Better Write-Up.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md",
     "scam exposure.md",
@@ -1332,7 +1329,6 @@
     "z_img/image-138.png",
     "().md",
     "5e Tools Website To-Do & Ideas.md",
-    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/accursed.md",
     "test.md",
     "Homebrew Errata Guide.md",
@@ -1349,7 +1345,6 @@
     "Homebrew In-Progress/Ideal Ranger.md",
     "damage-type-interactions.md",
     "Epilogue Story Map.md",
-    "C1 Epilogue.md",
     "Color Palette/Color Palettes.base",
     "desktop.ini",
     "Homebrew In-Progress",

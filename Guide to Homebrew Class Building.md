@@ -1,3 +1,10 @@
+---
+title: Class Build Guide
+created: 2026/03/02 at 22:46
+updated: 2026/03/02 at 23:30
+aliases:
+  - Class Build Guide
+---
 
 # Class Build Guide
 

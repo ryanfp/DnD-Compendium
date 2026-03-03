@@ -15,75 +15,7 @@
                 {
                   "type": "group",
                   "ctime": 1751842827151,
-                  "items": [
-                    {
-                      "type": "group",
-                      "ctime": 1751842827151,
-                      "items": [
-                        {
-                          "type": "file",
-                          "ctime": 1751842827151,
-                          "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/accursed.md",
-                          "subpath": "#^-"
-                        },
-                        {
-                          "type": "file",
-                          "ctime": 1751842827151,
-                          "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md",
-                          "subpath": "#^-"
-                        },
-                        {
-                          "type": "file",
-                          "ctime": 1751842827151,
-                          "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-armament.md",
-                          "subpath": "#^-"
-                        },
-                        {
-                          "type": "file",
-                          "ctime": 1751842827151,
-                          "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-combustion.md",
-                          "subpath": "#^-"
-                        },
-                        {
-                          "type": "file",
-                          "ctime": 1751842827151,
-                          "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-created.md",
-                          "subpath": "#^-"
-                        },
-                        {
-                          "type": "file",
-                          "ctime": 1751842827151,
-                          "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-immortality.md",
-                          "subpath": "#^-"
-                        },
-                        {
-                          "type": "file",
-                          "ctime": 1751842827151,
-                          "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-misfortune.md",
-                          "subpath": "#^-"
-                        },
-                        {
-                          "type": "file",
-                          "ctime": 1751842827151,
-                          "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-mummification.md",
-                          "subpath": "#^-"
-                        },
-                        {
-                          "type": "file",
-                          "ctime": 1751842827151,
-                          "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-petrification.md",
-                          "subpath": "#^-"
-                        },
-                        {
-                          "type": "file",
-                          "ctime": 1751842827151,
-                          "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-somnolence.md",
-                          "subpath": "#^-"
-                        }
-                      ],
-                      "title": "\\\\Accursed"
-                    }
-                  ],
+                  "items": [],
                   "title": "Classes"
                 }
               ],
