@@ -249,9 +249,42 @@
               "icon": "lucide-file",
               "title": "Untitled 2"
             }
+          },
+          {
+            "id": "90ff919bec40b701",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guide to Homebrew Class Building.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Guide to Homebrew Class Building"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "5056492b6a49b63e",
@@ -1162,10 +1195,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled 2.md"
+                "file": "Guide to Homebrew Class Building.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Untitled 2"
+              "title": "File properties for Guide to Homebrew Class Building"
             }
           },
           {
@@ -1274,11 +1307,14 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "4704571bdb0e26d3",
+  "active": "90ff919bec40b701",
   "lastOpenFiles": [
+    "Guide to Homebrew Class Building.md",
     "Untitled 2.md",
     "Better Write-Up.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Accursed/curse-of-animation.md",
@@ -1314,7 +1350,6 @@
     "damage-type-interactions.md",
     "Epilogue Story Map.md",
     "C1 Epilogue.md",
-    "markdown-cheatsheet.md",
     "Color Palette/Color Palettes.base",
     "desktop.ini",
     "Homebrew In-Progress",
