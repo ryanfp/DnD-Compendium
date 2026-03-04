@@ -68,31 +68,6 @@
             }
           },
           {
-            "id": "5690e8dd530591f9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "rules-and-meta",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📚 - Information Compendium/📝 - Rules & Mechanics/rules-and-meta.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"rules-and-meta\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":117.54507211538461}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "5d38f907c542c2f2",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -282,7 +257,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       },
       {
         "id": "e6e218d8a1f50440",
@@ -1041,10 +1016,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homebrew In-Progress/Classes/HB-Barbarian.md"
+                "file": "5e Tools Website To-Do & Ideas.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for HB-Barbarian"
+              "title": "File properties for 5e Tools Website To-Do & Ideas"
             }
           },
           {
@@ -1158,10 +1133,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "16c897d054ec87c8",
+  "active": "5d38f907c542c2f2",
   "lastOpenFiles": [
-    "5e Tools Website To-Do & Ideas.md",
     "Homebrew In-Progress/Classes/HB-Barbarian.md",
+    "5e Tools Website To-Do & Ideas.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
     "Homebrew In-Progress/Classes/References/alternate-barbarian-llab.md",
     "Homebrew In-Progress/Classes/Class Building Index.md",

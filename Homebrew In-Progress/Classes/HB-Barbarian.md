@@ -41,7 +41,7 @@ tags:
 	When an ally you can see and hear makes a Deception or Persuasion check, you can use your reaction to support them with an intimidating display of strength or unsettling glower. Your ally rerolls the check, gaining an [expertise die](https://a5e.tools/node/77 "Click to view a local node.") on the roll.
 	
 	Once you have used this feature, you cannot do so again until you finish a [long rest](https://a5e.tools/rules/resting "Click to view a local node.") .
-- **Martial Presence**
+- ~~**Martial Presence**~~
 	At 6th level your methodology to battle seeps further into the way you interact with others—and how they interact with you. Choose one of the following:
 	
 	**Forceful**
@@ -91,10 +91,6 @@ tags:
 	_Prerequisite: 5th level_
 	
 	Your unfaltering actions inspire your teammates to greater efforts. You gain an [expertise die](https://a5e.tools/node/77 "Click to view a local node.") on Athletics or Acrobatics checks made to climb, jump, run, and swim. When your party makes a group Athletics or Acrobatics check, you may apply the results of your roll to yourself and one ally. You can choose which ally to apply your result to after everyone has rolled, but must do so before the Narrator says whether you succeed or fail.
-- **Violent Impulse**
-	Additionally at 3rd level, you can enter a Rage as a bonus action without expending one of your uses of rage. This rage lasts only until the start of your next turn. If you make a Strength ability check on your turn while you aren't raging, you can use this after rolling but before you determine the effect of the outcome to gain advantage on the check.
-	
-	Once you use this ability, you cannot do so again until you take a short or long rest.
 
 
 ## Features-by-Level
@@ -192,6 +188,26 @@ Features marked with
 	Primal fury increases the power of your strikes. Beginning at 9th level, attack rolls for your Strength-based weapon attacks score a critical hit on a roll of 19 or 20 on the d20.
 	
 	At certain Barbarian levels your critical hit range increases: at 13th level you score a critical hit on a roll of 18-20, and at 17th level you score a critical hit on a roll of 17-20.
+- **Martial Presence (Level 10)**
+	At 10th level your methodology to battle seeps further into the way you interact with others—and how they interact with you. Choose one of the following:
+	
+	**Forceful**
+	
+	People respond favorably to your vigor. You can always choose to use Constitution when making Persuasion checks.
+	
+	In addition, in every settlement you visit you inspire a number of followers equal to your proficiency bonus. Your followers perform minor tasks to help you while you are there, feed you and your allies, carry your belongings to nearby destinations, share their mount animals, reveal some of their secrets to try and gain your favor, and ask you for help before turning to the authorities with a problem
+	
+	**Mighty**
+	
+	You turn your toughness into a tool when imposing upon others. You can always choose to use Constitution when making Intimidation checks. 
+	
+	In addition, when you enter a tavern or other social gathering, you can make a DC 15 Intimidation check while loudly declaring that you are looking for something or someone. On a success, most of the people there look at and otherwise point out whoever they believe is the person you are looking for or the person most likely to know about what you are seeking.
+	
+	**Scary**
+	
+	It’s commonly thought that it’s best not to ask you for too much clarification or detail. You can always choose to use Constitution when making Deception checks.
+	
+	In addition, when you fail a Deception check against a creature, it makes a Will saving throw against a DC equal to your passive Deception score. On a failure, it thinks twice about your dishonesty and your Deception check becomes a success.
 - **Critical Strike (Level 11)**
 	You ruthlessly exploit the weakness of your foes. Starting at 11th level, when you score a critical hit with a weapon attack while you are Raging, you can use a Savage Exploit you know as part of that attack without expending an Exploit Die.
 - **Unstoppable (Level 11)**
@@ -210,7 +226,7 @@ Features marked with
 - **Persistent Rage (Level 15)**
 	Your Rage is a smoldering fire that never goes out. Beginning at 15th level, the duration of your Rage increases to 1 hour. 
 	
-	When you roll [Initiative](https://5e.tools/variantrules.html#initiative_xphb), you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can't do so again until you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).
+	When you roll Initiative, you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can't do so again until you finish a Long Rest.
 - **Feat (Level 16)**
 	When you reach 16th level, and again at 19th level, you can choose a feat available to you.
 - **Improved Critical (Level 17)**
@@ -247,6 +263,7 @@ Features marked with
 - [L5][Takes One to Know One] Added narrative feature
 - [L6][Warrior Born] Added narrative feature choice
 - [L7][Instinctive Pounce] Added *Instinctive Pounce* feature from 5.5e to level 7
+- [L10][Martial Presence] Added narrative feature choice
 - [L11][Unstoppable] Changed hit point regen to = your Barbarian level. Added caveat to only use once per SR/LR. However, you can choose to take 2 levels of Fatigue to use the feature again. Changed wording from “*make an Intelligence, Wisdom, or Charisma saving throw*” to “*make a Will saving throw*”
 - [L13][Critical Strike] Added feature that allows you to regain one expended Exploit Die when you score a critical hit
 - [L13][Lead the Pack] Added narrative feature for party utility
