@@ -1678,7 +1678,12 @@
     "compendium/src/5e/kibbleinventor": 79,
     "class/magus": 52,
     "compendium/src/5e/llmc": 80,
-    "compendium/src/5e/llps": 81
+    "compendium/src/5e/llps": 81,
+    "compendium/src/5e/pugilist2024": 82,
+    "compendium/src/5e/sterlingvermin": 83,
+    "class/spellblade": 53,
+    "compendium/src/5e/ksb": 84,
+    "compendium/src/5e/ktw": 85
   },
   "_version": 3
 }

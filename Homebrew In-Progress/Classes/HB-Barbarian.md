@@ -18,12 +18,12 @@ tags:
 
 - ~~Mindless. You have immunity to the Frightened condition.~~ (**While Raging**) #feature/addition
 - [Danger Sense]You gain Advantage in Reflex saving throws against effects that you can see or hear, such as traps and spells. To gain this benefit, you can't be Blinded, Deafened, or Incapacitated. #feature/change
-- [Feral Instinct]The fury within your blood alerts you to dangers. Starting at 5th level, you have advantage on initiative rolls, and whenever you roll initiative, you can choose to Rage. 
-  Moreover, if you are surprised when you roll initiative, you can act normally during the first round of combat so long as you Rage as part of rolling initiative. #feature/change
+~~- [Feral Instinct]The fury within your blood alerts you to dangers. Starting at 5th level, you have advantage on initiative rolls, and whenever you roll initiative, you can choose to Rage. 
+  Moreover, if you are surprised when you roll initiative, you can act normally during the first round of combat so long as you Rage as part of rolling initiative. #feature/change~~
 - As part of the Bonus Action you take to enter your Rage, you can move up to half your speed. #feature/addition
-- [Relentless Rage] If you drop to 0 [Hit Points](https://5e.tools/variantrules.html#hit%20points_xphb) while your Rage is active and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, your [Hit Points](https://5e.tools/variantrules.html#hit%20points_xphb) instead change to a number equal to twice your Barbarian level.
-  Each time you use this feature after the first, the DC increases by 5. When you finish a [Short](https://5e.tools/variantrules.html#short%20rest_xphb) or [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb), the DC resets to 10. #feature/change 
-- **Warrior Born**
+~~- [Relentless Rage] If you drop to 0 [Hit Points](https://5e.tools/variantrules.html#hit%20points_xphb) while your Rage is active and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, your [Hit Points](https://5e.tools/variantrules.html#hit%20points_xphb) instead change to a number equal to twice your Barbarian level.
+  Each time you use this feature after the first, the DC increases by 5. When you finish a [Short](https://5e.tools/variantrules.html#short%20rest_xphb) or [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb), the DC resets to 10. #feature/change ~~
+- ~~**Warrior Born**~~
 	Also at 3rd level, the ways of combat that have come naturally to you bring new and unexpected lessons. Choose one of the following.
 	
 	**Agitate**
@@ -95,7 +95,6 @@ tags:
 	Additionally at 3rd level, you can enter a Rage as a bonus action without expending one of your uses of rage. This rage lasts only until the start of your next turn. If you make a Strength ability check on your turn while you aren't raging, you can use this after rolling but before you determine the effect of the outcome to gain advantage on the check.
 	
 	Once you use this ability, you cannot do so again until you take a short or long rest.
-- Change Indomitable Might to also affect saving throws
 
 
 ## Features-by-Level
@@ -107,7 +106,7 @@ Features marked with
 - **Rage (Level 1)**
 	You fight with an unchecked primal ferocity in battle. Starting at 1st level, if you are not wearing heavy armor, you can use a bonus action on your turn to enter a Rage. While your Rage lasts, you gain the benefits and drawbacks listed below:
 	
-	- You have advantage on ability checks and saving throws that use your Strength or Constitution.
+	- You have advantage on Strength and Constitution ability checks and Fortitude and Reflex saving throws.
 	- Whenever you hit with a weapon attack that uses your Strength, you deal a bonus 1d4 damage. At certain levels in this class, this bonus damage increases to match the Exploit Die column on the Barbarian table above.
 	- You resist all bludgeoning, piercing, and slashing damage.
 	- You have advantage on saving throws to resist being Charmed or Frightened.
@@ -161,6 +160,24 @@ Features marked with
 	The fury within your blood alerts you to dangers. Starting at 5th level, you have advantage on initiative rolls, and whenever you roll initiative, you can choose to Rage.
 	
 	Moreover, if you are surprised when you roll initiative, you can act normally during the first round of combat so long as you Rage as part of rolling initiative.
+- **Warrior Born (Level 5)**
+	Also at 5th level, the ways of combat that have come naturally to you bring new and unexpected lessons. Choose one of the following.
+	
+	**Agitate**
+	
+	Many battles have taught you how to spot aggressive body language like a pursed eyebrow, tensed temple, or protruding vein, and you’ve mastered using these cues to unsettle others outside of combat. Make an Intimidation check opposed by the Insight check of a creature you can see and hear within 20 feet. On a success, you subtly press the creature to act out. What exactly the creature does—back away quickly, blurt out something compromising, draw a weapon, look towards a concealed or disguised companion, protectively touch something it is carrying—is at the Narrator’s discretion.
+	
+	Once you have used this feature, you cannot do so again until you finish a short or long rest .
+	
+	**Fearsome Reputation**
+	
+	Word spreads of your prodigious strength or how terrifying you can be in battle. Whenever you are in a settlement where you are known, at least one commoner approaches you with a modest gift or bribe and beseeches you to help settle a feud, move a large obstacle, or otherwise make use of your impressive might. In addition to their offering, they are eager to tell you about their home and neighbors.
+	
+	**Imposing Prowess**
+	
+	When an ally you can see and hear makes a Deception or Persuasion check, you can use your reaction to support them with an intimidating display of strength or unsettling glower. Your ally gains a bonus to the roll equal to your Strength or Constitution modifier, whichever is higher.
+	
+	Once you have used this feature, you cannot do so again until you finish a long rest.
 - **Feral Instinct (Level 7)**
 	You gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger. You have advantage on Dexterity saving throws against effects that you can see or hear, such as traps and spells. To gain this benefit, you can't be [blinded](https://5e.tools/conditionsdiseases.html#blinded_phb), [deafened](https://5e.tools/conditionsdiseases.html#deafened_phb), unconscious, or [incapacitated](https://5e.tools/conditionsdiseases.html#incapacitated_phb).
 	
@@ -191,6 +208,8 @@ Features marked with
 	When you roll [Initiative](https://5e.tools/variantrules.html#initiative_xphb), you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can't do so again until you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).
 - **Feat (Level 16)**
 	When you reach 16th level, and again at 19th level, you can choose a feat available to you.
+- **Improved Critical (Level 17)**
+	Primal fury increases the power of your strikes. Your Strength-based weapon attacks score a critical hit on a roll of 17-20.
 - **Indomitable Might (Level 18)**
 	Your legendary might and endurance rival the heroes of myth. Starting at 18th level, if you make an ability check or saving throw involving Strength or Constitution and the result of your roll is lower than your Strength score, you can use your Strength score in place of the result.
 - **Feat (Level 19)**
@@ -201,7 +220,8 @@ Features marked with
 	In addition, while raging you gain the following benefits:
 	
 	- **Your size increases by one category (from Small to Medium, or Medium to Large), to a maximum size of Large. ** 
-	- You gain temporary Hit Points equal to your PB when you begin Raging
+	- You can grapple creatures that are two sizes larger than you, though they have Advantage on the saving throw roll.
+	- You gain temporary Hit Points equal to your PB when you begin Raging.
 	- Creatures have disadvantage on saving throws made to resist your First and Second Degree Exploits.
 	- You deal double damage to objects and constructs.
 	- Your horizontal jump distance increases by 40 feet and your vertical jump distance increases by 20 feet, and you do not need a running start.

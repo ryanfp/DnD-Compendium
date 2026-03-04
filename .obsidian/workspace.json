@@ -296,7 +296,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "e6e218d8a1f50440",
@@ -1167,10 +1167,12 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "d994ed5e0add3fe1",
+  "active": "16c897d054ec87c8",
   "lastOpenFiles": [
     "Homebrew In-Progress/Classes/References/alternate-barbarian-llab.md",
     "Homebrew In-Progress/Classes/HB-Barbarian.md",
