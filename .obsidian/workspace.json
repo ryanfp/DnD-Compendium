@@ -86,24 +86,10 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homebrew Errata Guide.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Homebrew Errata Guide"
+              "title": "New tab"
             }
           },
           {
@@ -1174,8 +1160,10 @@
   },
   "active": "16c897d054ec87c8",
   "lastOpenFiles": [
-    "Homebrew In-Progress/Classes/References/alternate-barbarian-llab.md",
+    "5e Tools Website To-Do & Ideas.md",
     "Homebrew In-Progress/Classes/HB-Barbarian.md",
+    "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
+    "Homebrew In-Progress/Classes/References/alternate-barbarian-llab.md",
     "Homebrew In-Progress/Classes/Class Building Index.md",
     "Homebrew In-Progress/Classes/References/occultist-kt-o.md",
     "Homebrew In-Progress/Classes/References/magus-llmc.md",
@@ -1198,10 +1186,8 @@
     "Homebrew In-Progress/Classes/References/alternate-blood-hunter-llabh.md",
     "Homebrew In-Progress/Classes/References/alternate-bard-llabrd.md",
     "Homebrew In-Progress/Classes/References/alternate-artificer-llaart.md",
-    "Homebrew In-Progress/Classes/References/warlord-llaw.md",
     "Homebrew In-Progress/Classes/References",
     "Homebrew In-Progress/Classes/New folder",
-    "Homebrew In-Progress/Classes/HB-Artificer.md",
     "Homebrew In-Progress/Classes",
     "z_img/image-147.png",
     "z_img/image-146.png",

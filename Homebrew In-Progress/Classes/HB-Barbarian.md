@@ -61,7 +61,7 @@ tags:
 	It’s commonly thought that it’s best not to ask you for too much clarification or detail. You can always choose to use Constitution when making Deception checks.
 	
 	In addition, when you fail a Deception check against a creature, it makes a Wisdom [saving throw](https://a5e.tools/rules/saving-throw "Click to view a local node.") against a DC equal to your passive Deception score. On a failure, it thinks twice about your dishonesty and your Deception check becomes a success.
-- **Advanced Battle Defense**
+- ~~**Advanced Battle Defense**~~
 	By 7th level you have doubled down on your battle defense style. Choose one of the following.
 	
 	**Enhanced Vitality**
@@ -71,13 +71,13 @@ tags:
 	**Preternatural Agility**
 	
 	You can evade danger to an unbelievable degree. When you make a Dexterity [saving throw](https://a5e.tools/rules/saving-throw "Click to view a local node.") against an effect that deals half damage on a success, you take no damage on a success and half damage on a failure.
-- **Takes One To Know One**
+- ~~**Takes One To Know One**~~
 	You know another warrior when you see one. When you see a creature, you know if it is proficient with more than simple weapons or has access to combat maneuvers
 - **Prickly Mind**
 	Starting at 15th level, your reactions are so honed that you react even to magic trying to affect your mind. When you make a *Will* saving throw ~~to resist being charmed~~, you can use your reaction to deal an amount of psychic damage equal to one roll of your Exploit Die + your proficiency bonus to the creature ~~attempting to charm you~~. This backlash does not reveal the creature ~~that tried to charm you~~.
 	
 	In addition, you gain proficiency with *Will* ~~Wisdom~~ [saving throws](https://a5e.tools/rules/saving-throw "Click to view a local node.") .
-- **Paragon of Rage**
+- ~~**Paragon of Rage**~~
 	At 20th level, you have reached the peak of brawn and stamina. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.
 	
 	In addition, while raging you gain the following benefits:
@@ -87,7 +87,7 @@ tags:
 	- Creatures have disadvantage on saving throws made to resist your First and Second Degree Exploits.
 	- You deal double damage to objects and constructs.
 	- Your horizontal jump distance increases by 40 feet and your vertical jump distance increases by 20 feet, and you do not need a running start.
-- **Lead the Pack**
+- ~~**Lead the Pack**~~
 	_Prerequisite: 5th level_
 	
 	Your unfaltering actions inspire your teammates to greater efforts. You gain an [expertise die](https://a5e.tools/node/77 "Click to view a local node.") on Athletics or Acrobatics checks made to climb, jump, run, and swim. When your party makes a group Athletics or Acrobatics check, you may apply the results of your roll to yourself and one ally. You can choose which ally to apply your result to after everyone has rolled, but must do so before the Narrator says whether you succeed or fail.
@@ -160,7 +160,9 @@ Features marked with
 	The fury within your blood alerts you to dangers. Starting at 5th level, you have advantage on initiative rolls, and whenever you roll initiative, you can choose to Rage.
 	
 	Moreover, if you are surprised when you roll initiative, you can act normally during the first round of combat so long as you Rage as part of rolling initiative.
-- **Warrior Born (Level 5)**
+- **Takes One To Know One (Level 5)**
+	You know another warrior when you see one. When you see a creature, you know if it is proficient with more than simple weapons or has access to combat maneuvers
+- **Warrior Born (Level 6)**
 	Also at 5th level, the ways of combat that have come naturally to you bring new and unexpected lessons. Choose one of the following.
 	
 	**Agitate**
@@ -242,9 +244,14 @@ Features marked with
 - [L1][Rage] Added Advantage on saving throws to resist being Frightened or Charmed when Raging
 - [L1][Rage] Changed wording from “*Make a Strength check*” to “*Make a Strength check or Reflex saving throw*” for extending your rage
 - [L3][Primal Knowledge] Added *Primal Knowledge* from 5.5e to level 3
+- [L5][Takes One to Know One] Added narrative feature
+- [L6][Warrior Born] Added narrative feature choice
 - [L7][Instinctive Pounce] Added *Instinctive Pounce* feature from 5.5e to level 7
 - [L11][Unstoppable] Changed hit point regen to = your Barbarian level. Added caveat to only use once per SR/LR. However, you can choose to take 2 levels of Fatigue to use the feature again. Changed wording from “*make an Intelligence, Wisdom, or Charisma saving throw*” to “*make a Will saving throw*”
 - [L13][Critical Strike] Added feature that allows you to regain one expended Exploit Die when you score a critical hit
+- [L13][Lead the Pack] Added narrative feature for party utility
+- [L17][Enhanced Vitality] Added Evasion-like ability for Fortitude saving throws
+- [L20][Paragon of Wrath] Added more features to capstone ability that enhances Rage
 
 Feature Ct
 
