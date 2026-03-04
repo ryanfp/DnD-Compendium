@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Guide to Homebrew Class Building",
-      "path": "Guide to Homebrew Class Building.md"
+      "basename": "Class Building Index",
+      "path": "Homebrew In-Progress/Classes/Class Building Index.md"
     },
     {
-      "basename": "Untitled 3",
-      "path": "Untitled 3.md"
+      "basename": "Website Navigation Map",
+      "path": "Website Navigation Map.md"
     },
     {
       "basename": "Untitled 2",
-      "path": "Untitled 2.md"
+      "path": "Homebrew In-Progress/Untitled 2.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.md"
+    },
+    {
+      "basename": "Homebrew Errata Guide",
+      "path": "Homebrew In-Progress/Homebrew Errata Guide.md"
+    },
+    {
+      "basename": "Homebrew Lists",
+      "path": "Homebrew In-Progress/Homebrew Lists.md"
+    },
+    {
+      "basename": "Guide to Homebrew Class Building",
+      "path": "Homebrew In-Progress/Guide to Homebrew Class Building.md"
+    },
+    {
+      "basename": "damage-type-interactions",
+      "path": "Homebrew In-Progress/damage-type-interactions.md"
     },
     {
       "basename": "Classes",
@@ -25,36 +45,12 @@
       "path": "scam exposure.md"
     },
     {
-      "basename": "Homebrew Lists",
-      "path": "Homebrew Lists.md"
-    },
-    {
       "basename": "()",
       "path": "().md"
     },
     {
       "basename": "5e Tools Website To-Do & Ideas",
       "path": "5e Tools Website To-Do & Ideas.md"
-    },
-    {
-      "basename": "test",
-      "path": "test.md"
-    },
-    {
-      "basename": "Homebrew Errata Guide",
-      "path": "Homebrew Errata Guide.md"
-    },
-    {
-      "basename": "Website Navigation Map",
-      "path": "Website Navigation Map.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
     },
     {
       "basename": "Quick To-Do",
@@ -87,10 +83,6 @@
     {
       "basename": "Ideal Ranger",
       "path": "Homebrew In-Progress/Ideal Ranger.md"
-    },
-    {
-      "basename": "damage-type-interactions",
-      "path": "damage-type-interactions.md"
     },
     {
       "basename": "Epilogue Story Map",

@@ -19,5 +19,5 @@ First, gather all sources you are using for features. This can include other gam
 5. LaserLlama’s Alternate Classes
 6. Treatmonk Variant Classes
 7. DungeonDudes HB?
-8. SweKy
+8. SwecKy
 9. 
