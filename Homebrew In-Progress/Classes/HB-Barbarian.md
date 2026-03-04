@@ -23,6 +23,61 @@ tags:
 - As part of the Bonus Action you take to enter your Rage, you can move up to half your speed. #feature/addition
 - [Relentless Rage] If you drop to 0 [Hit Points](https://5e.tools/variantrules.html#hit%20points_xphb) while your Rage is active and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, your [Hit Points](https://5e.tools/variantrules.html#hit%20points_xphb) instead change to a number equal to twice your Barbarian level.
   Each time you use this feature after the first, the DC increases by 5. When you finish a [Short](https://5e.tools/variantrules.html#short%20rest_xphb) or [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb), the DC resets to 10. #feature/change 
+- **Warrior Born**
+	Also at 3rd level, the ways of combat that have come naturally to you bring new and unexpected lessons. Choose one of the following.
+	
+	**Agitate**
+	
+	Many battles have taught you how to spot aggressive body language like a pursed eyebrow, tensed temple, or protruding vein, and you’ve mastered using these cues to unsettle others outside of combat. Make an Intimidation check opposed by the Insight check of a creature you can see and hear within 20 feet. On a success, you subtly press the creature to act out. What exactly the creature does—back away quickly, blurt out something compromising, draw a weapon, look towards a concealed or disguised companion, protectively touch something it is carrying—is at the Narrator’s discretion.
+	
+	Once you have used this feature, you cannot do so again until you finish a [short or long rest](https://a5e.tools/rules/resting "Click to view a local node.") .
+	
+	**Fearsome Reputation**
+	
+	Word spreads of your prodigious strength or how terrifying you can be in battle. Whenever you are in a settlement, at least one commoner approaches you with a modest gift or bribe and beseeches you to help settle a feud, move a large obstacle, or otherwise make use of your impressive might. In addition to their offering, they are eager to tell you about their home and neighbors.
+	
+	**Imposing Prowess**
+	
+	When an ally you can see and hear makes a Deception or Persuasion check, you can use your reaction to support them with an intimidating display of strength or unsettling glower. Your ally rerolls the check, gaining an [expertise die](https://a5e.tools/node/77 "Click to view a local node.") on the roll.
+	
+	Once you have used this feature, you cannot do so again until you finish a [long rest](https://a5e.tools/rules/resting "Click to view a local node.") .
+- **Martial Presence**
+	At 6th level your methodology to battle seeps further into the way you interact with others—and how they interact with you. Choose one of the following:
+	
+	**Forceful**
+	
+	People respond favorably to your vigor. You can always choose to use Constitution when making Persuasion checks.
+	
+	In addition, in every settlement you visit you inspire a number of followers equal to your proficiency bonus. Your followers perform minor tasks to help you while you are there, feed you and your allies, carry your belongings to nearby destinations, share their mount animals, reveal some of their secrets to try and gain your favor, and ask you for help before turning to the authorities with a problem
+	
+	**Mighty**
+	
+	You turn your toughness into a tool when imposing upon others. You can always choose to use Constitution when making Intimidation checks. 
+	
+	In addition, when you enter a tavern or other social gathering, you can make a DC 15 Intimidation check while loudly declaring that you are looking for something or someone. On a success, most of the people there look at and otherwise point out whoever they believe is the person you are looking for or the person most likely to know about what you are seeking.
+	
+	**Scary**
+	
+	It’s commonly thought that it’s best not to ask you for too much clarification or detail. You can always choose to use Constitution when making Deception checks.
+	
+	In addition, when you fail a Deception check against a creature, it makes a Wisdom [saving throw](https://a5e.tools/rules/saving-throw "Click to view a local node.") against a DC equal to your passive Deception score. On a failure, it thinks twice about your dishonesty and your Deception check becomes a success.
+- **Advanced Battle Defense**
+	By 7th level you have doubled down on your battle defense style. Choose one of the following.
+	
+	**Enhanced Vitality**
+	
+	Choose Intelligence, Wisdom, or Charisma. When you make the chosen [saving throw](https://a5e.tools/rules/saving-throw "Click to view a local node.") against an effect that deals half damage on a success, you can choose to instead make a Constitution saving throw.
+	
+	**Preternatural Agility**
+	
+	You can evade danger to an unbelievable degree. When you make a Dexterity [saving throw](https://a5e.tools/rules/saving-throw "Click to view a local node.") against an effect that deals half damage on a success, you take no damage on a success and half damage on a failure.
+- **Takes One To Know One**
+	You know another warrior when you see one. When you see a creature, you know if it is proficient with more than simple weapons or has access to combat maneuvers
+- **Prickly Mind**
+	Starting at 15th level, your reactions are so honed that you react even to magic trying to affect your mind. When you make a saving throw to resist being charmed, you can use your reaction to deal an amount of psychic damage equal to your proficiency bonus to the creature attempting to charm you. This backlash does not reveal the creature that tried to charm you.
+	
+	In addition, you gain proficiency with Wisdom [saving throws](https://a5e.tools/rules/saving-throw "Click to view a local node.") .
+
 
 ## Features-by-Level
 
@@ -106,7 +161,12 @@ Features marked with
 	You ruthlessly exploit the weakness of your foes. Starting at 11th level, when you score a critical hit with a weapon attack while you are Raging, you can use a Savage Exploit you know as part of that attack without expending an Exploit Die.
 	
 	Moreover, when you score a critical hit, you regain one expended Exploit Die. 
-
+- **Unstoppable (Level 11)**
+	The white hot intensity of your Rage burns ever brighter. Also at 11th level, if you drop to 0 hit points while you are Raging, but you are not killed outright, you can choose to end your Rage to drop to an amount of Hit Points equal to your Barbarian level. You may use this feature once per Short or Long Rest. You can choose to gain 2 levels of Fatigue to use this feature again, up to a maximum of 5 levels of fatigue (3 times). 
+	
+	Also, if you make a Will saving throw while you are Raging, you gain a bonus to your roll equal to your Constitution modifier (minimum of +1).
+- **Feat (Level 12)**
+	When you reach 12th level, and again at 16th, and 19th level, you can choose a feat available to you.
 
 
 
@@ -122,3 +182,5 @@ Features marked with
 - [L3][Primal Knowledge] Added *Primal Knowledge* from 5.5e to level 3
 - [L7][Instinctive Pounce] Added *Instinctive Pounce* feature from 5.5e to level 7
 - [L11][Critical Strike] Added feature that allows you to regain one expended Exploit Die when you score a critical hit
+- [L11][Unstoppable] Changed hit point regen to = your Barbarian level. Added caveat to only use once per SR/LR. However, you can choose to take 2 levels of Fatigue to use the feature again. Changed wording from “*make an Intelligence, Wisdom, or Charisma saving throw*” to “*make a Will saving throw*”
+- 
