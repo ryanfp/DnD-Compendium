@@ -261,6 +261,39 @@
               "icon": "lucide-file",
               "title": "alternate-barbarian-llab"
             }
+          },
+          {
+            "id": "16c897d054ec87c8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homebrew In-Progress/Classes/HB-Barbarian.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "HB-Barbarian"
+            }
           }
         ],
         "currentTab": 5
@@ -273,7 +306,7 @@
           {
             "id": "5056492b6a49b63e",
             "type": "tabs",
-            "dimension": 54.765395894428146,
+            "dimension": 63.41642228739002,
             "children": [
               {
                 "id": "9cd9ee30f772e8f7",
@@ -728,7 +761,7 @@
           {
             "id": "ae30d43186a101f7",
             "type": "tabs",
-            "dimension": 45.23460410557185,
+            "dimension": 36.58357771260997,
             "children": [
               {
                 "id": "57a3dfd1d57214c1",
@@ -1134,9 +1167,7 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "task-board:Open task board": false
     }
   },
   "active": "d994ed5e0add3fe1",

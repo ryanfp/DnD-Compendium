@@ -1677,7 +1677,8 @@
     "class/inventor": 51,
     "compendium/src/5e/kibbleinventor": 79,
     "class/magus": 52,
-    "compendium/src/5e/llmc": 80
+    "compendium/src/5e/llmc": 80,
+    "compendium/src/5e/llps": 81
   },
   "_version": 3
 }

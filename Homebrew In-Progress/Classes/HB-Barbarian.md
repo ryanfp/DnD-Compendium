@@ -17,7 +17,7 @@ tags:
 *Treat it as mainly using the LL Alternate Class*
 
 - ~~Mindless. You have immunity to the Frightened condition.~~ (**While Raging**) #feature/addition
-- [Danger Sense]You gain Expertise in Reflex saving throws against effects that you can see or hear, such as traps and spells. To gain this benefit, you can't be Blinded, Deafened, or Incapacitated. This grants Advantage on Reflex saving throws at higher levels (undetermined) #feature/change
+- [Danger Sense]You gain Advantage in Reflex saving throws against effects that you can see or hear, such as traps and spells. To gain this benefit, you can't be Blinded, Deafened, or Incapacitated. #feature/change
 - [Feral Instinct]The fury within your blood alerts you to dangers. Starting at 5th level, you have advantage on initiative rolls, and whenever you roll initiative, you can choose to Rage. 
   Moreover, if you are surprised when you roll initiative, you can act normally during the first round of combat so long as you Rage as part of rolling initiative. #feature/change
 - As part of the Bonus Action you take to enter your Rage, you can move up to half your speed. #feature/addition
@@ -123,7 +123,6 @@ Features marked with
 	You can maintain your Rage for 10 minutes.
 	
 	You Rage the number of times shown in the Rages column of the Barbarian table for your level. You regain one expended use of your Rage whenever you finish a short rest and all uses of your Rage when you finish a long rest.
-
 - **Unarmored Defense (Level 1)**
 	While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.
 - **Reckless Attack (Level 2)**
@@ -134,14 +133,12 @@ Features marked with
 	The Barbarian table shows how many Exploit Dice you have to perform any Exploits you know. Most Exploits require you to expend these Dice in order to use them. You can only use one Exploit per attack, ability check, or saving throw, and you regain all Exploit Dice when you finish a short or long rest.
 	
 	Your Exploit Dice begin as d4s and increase in size as you gain levels in this class, as indicated in the Barbarian table.
-
 - **Savage Skill (Level 2)**
 	Primal instinct sharpens your skills. Whenever you make an ability check with a skill from the Barbarian skill list, you can expend an Exploit Die and add it to your roll. You can do so after you roll, but before you know if you succeed or fail.
 	- **Exploits Known**
 		At 2nd level, you learn two Savage Exploits from the list at the end of this class. The Exploits Known column of the Barbarian table shows when you learn additional Exploits. To learn an Exploit you must meet any prerequisites that it may have, like a minimum ability score or Barbarian level.
 		
 		Each time you gain a Barbarian level, you can replace one of the Savage Exploits you know with another Exploit of your choice, so long as you meet that Exploit's prerequisites.
-
 	- **Saving Throws**
 		If one of your Exploits requires a creature to make a saving throw, the Exploit saving throw DC is calculated as follows:
 		**Exploit save DC save DC**: Strength or Dexterity + Proficiency Bonus
@@ -155,8 +152,7 @@ Features marked with
 - **Primal Knowledge (Level 3)** 
 	You gain proficiency in another skill of your choice from the skill list available to Barbarians at level 1.
 	
-	In addition, while your Rage is active, you can channel primal power when you attempt certain tasks; whenever you make an ability check using one of the following skills, you can make it as a Strength check even if it normally uses a different ability: Acrobatics, Intimidation, Perception, Stealth, or Survival. When you use this ability, your Strength represents primal power coursing through you, honing your agility, bearing, and senses.
-
+	In addition, while your Rage is active, you can channel primal power when you attempt certain tasks; whenever you make an ability check using one of the following skills, you can make it as a Strength check even if it normally uses a different ability: Acrobatics, Intimidation, Perception, Nature, or Survival. When you use this ability, your Strength represents primal power coursing through you, honing your agility, bearing, and senses.
 - **Feat (Level 4)**
 	When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can choose a feat available to you.
 - **Extra Attack (Level 5)**
@@ -165,7 +161,6 @@ Features marked with
 	The fury within your blood alerts you to dangers. Starting at 5th level, you have advantage on initiative rolls, and whenever you roll initiative, you can choose to Rage.
 	
 	Moreover, if you are surprised when you roll initiative, you can act normally during the first round of combat so long as you Rage as part of rolling initiative.
-
 - **Feral Instinct (Level 7)**
 	You gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger. You have advantage on Dexterity saving throws against effects that you can see or hear, such as traps and spells. To gain this benefit, you can't be [blinded](https://5e.tools/conditionsdiseases.html#blinded_phb), [deafened](https://5e.tools/conditionsdiseases.html#deafened_phb), unconscious, or [incapacitated](https://5e.tools/conditionsdiseases.html#incapacitated_phb).
 	
@@ -180,16 +175,36 @@ Features marked with
 	At certain Barbarian levels your critical hit range increases: at 13th level you score a critical hit on a roll of 18-20, and at 17th level you score a critical hit on a roll of 17-20.
 - **Critical Strike (Level 11)**
 	You ruthlessly exploit the weakness of your foes. Starting at 11th level, when you score a critical hit with a weapon attack while you are Raging, you can use a Savage Exploit you know as part of that attack without expending an Exploit Die.
-	
-	Moreover, when you score a critical hit, you regain one expended Exploit Die. 
 - **Unstoppable (Level 11)**
 	The white hot intensity of your Rage burns ever brighter. Also at 11th level, if you drop to 0 hit points while you are Raging, but you are not killed outright, you can choose to end your Rage to drop to an amount of Hit Points equal to your Barbarian level. You may use this feature once per Short or Long Rest. You can choose to gain 2 levels of Fatigue to use this feature again, up to a maximum of 5 levels of fatigue (3 times). 
 	
 	Also, if you make a Will saving throw while you are Raging, you gain a bonus to your roll equal to your Constitution modifier (minimum of +1).
 - **Feat (Level 12)**
 	When you reach 12th level, and again at 16th, and 19th level, you can choose a feat available to you.
-
-
+- **Improved Critical (Level 13)**
+	Primal fury increases the power of your strikes. Your Strength-based weapon attacks score a critical hit on a roll of 18-20, and at 17th level you score a critical hit on a roll of 17-20.
+	
+	Moreover, when you score a critical hit, you regain one expended Exploit Die.
+- **Persistent Rage (Level 15)**
+	Your Rage is a smoldering fire that never goes out. Beginning at 15th level, the duration of your Rage increases to 1 hour. 
+	
+	When you roll [Initiative](https://5e.tools/variantrules.html#initiative_xphb), you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can't do so again until you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).
+- **Feat (Level 16)**
+	When you reach 16th level, and again at 19th level, you can choose a feat available to you.
+- **Indomitable Might (Level 18)**
+	Your legendary might and endurance rival the heroes of myth. Starting at 18th level, if you make an ability check or saving throw involving Strength or Constitution and the result of your roll is lower than your Strength score, you can use your Strength score in place of the result.
+- **Feat (Level 19)**
+	When you reach 19th level, you can choose a feat available to you.
+- **Paragon of Wrath (Level 20)**
+	You embody the raw power of the primal wilderness, and have exceeded the physical limits of normal mortals. At 20th level, you have reached the peak of brawn and stamina. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.
+	
+	In addition, while raging you gain the following benefits:
+	
+	- **Your size increases by one category (from Small to Medium, or Medium to Large), to a maximum size of Large. ** 
+	- You gain temporary Hit Points equal to your PB when you begin Raging
+	- Creatures have disadvantage on saving throws made to resist your First and Second Degree Exploits.
+	- You deal double damage to objects and constructs.
+	- Your horizontal jump distance increases by 40 feet and your vertical jump distance increases by 20 feet, and you do not need a running start.
 
 
 
@@ -202,6 +217,8 @@ Features marked with
 - [L1][Rage] Changed wording from “*Make a Strength check*” to “*Make a Strength check or Reflex saving throw*” for extending your rage
 - [L3][Primal Knowledge] Added *Primal Knowledge* from 5.5e to level 3
 - [L7][Instinctive Pounce] Added *Instinctive Pounce* feature from 5.5e to level 7
-- [L11][Critical Strike] Added feature that allows you to regain one expended Exploit Die when you score a critical hit
 - [L11][Unstoppable] Changed hit point regen to = your Barbarian level. Added caveat to only use once per SR/LR. However, you can choose to take 2 levels of Fatigue to use the feature again. Changed wording from “*make an Intelligence, Wisdom, or Charisma saving throw*” to “*make a Will saving throw*”
-- 
+- [L13][Critical Strike] Added feature that allows you to regain one expended Exploit Die when you score a critical hit
+
+Feature Ct
+
