@@ -202,6 +202,9 @@ Features marked with
 	Primal fury increases the power of your strikes. Your Strength-based weapon attacks score a critical hit on a roll of 18-20, and at 17th level you score a critical hit on a roll of 17-20.
 	
 	Moreover, when you score a critical hit, you regain one expended Exploit Die.
+- **Lead the Pack (Level 13)**
+	
+	Your unfaltering actions inspire your teammates to greater efforts. You gain Proficiency in Athletics and Acrobatics. If are already Proficient in both, you may choose one to gain Expertise in. When your party makes a group Athletics or Acrobatics check, you may apply the results of your roll to yourself and one ally. You can choose which ally to apply your result to after everyone has rolled, but must do so before the Narrator says whether you succeed or fail.
 - **Persistent Rage (Level 15)**
 	Your Rage is a smoldering fire that never goes out. Beginning at 15th level, the duration of your Rage increases to 1 hour. 
 	
@@ -210,6 +213,9 @@ Features marked with
 	When you reach 16th level, and again at 19th level, you can choose a feat available to you.
 - **Improved Critical (Level 17)**
 	Primal fury increases the power of your strikes. Your Strength-based weapon attacks score a critical hit on a roll of 17-20.
+- **Enhanced Vitality (Level 17)**
+	
+	When you are forced to make a Fortitude saving throw against an effect that deals half damage on a success, you take no damage on a success and half damage on a failure..
 - **Indomitable Might (Level 18)**
 	Your legendary might and endurance rival the heroes of myth. Starting at 18th level, if you make an ability check or saving throw involving Strength or Constitution and the result of your roll is lower than your Strength score, you can use your Strength score in place of the result.
 - **Feat (Level 19)**
