@@ -5,12 +5,16 @@
       "path": "Homebrew In-Progress/Classes/HB-Barbarian.md"
     },
     {
-      "basename": "HB-Artificer",
-      "path": "Homebrew In-Progress/Classes/HB-Artificer.md"
+      "basename": "alternate-barbarian-llab",
+      "path": "Homebrew In-Progress/Classes/References/alternate-barbarian-llab.md"
     },
     {
       "basename": "Class Building Index",
       "path": "Homebrew In-Progress/Classes/Class Building Index.md"
+    },
+    {
+      "basename": "HB-Artificer",
+      "path": "Homebrew In-Progress/Classes/HB-Artificer.md"
     },
     {
       "basename": "Guide to Homebrew Class Building",
@@ -195,10 +199,6 @@
     {
       "basename": "ideas",
       "path": "ideas.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],

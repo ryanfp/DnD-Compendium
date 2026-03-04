@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-class
-tags:
-- class/alternate-barbarian
-- compendium/src/5e/llab
+title: Alternate Barbarian
+created: 2026/03/03 at 22:00
+updated: 2026/03/03 at 22:25
 aliases:
-- Alternate Barbarian
+  - Alternate Barbarian
+tags:
+  - class/alternate-barbarian
+  - compendium/src/5e/llab
+cssclasses: json5e-class
+obsidianUIMode: preview
 ---
+
 # Alternate Barbarian
+
 *Source: Alternate Barbarian*  
 
 > [!tldr] Class and Feature Progression
@@ -25,18 +30,18 @@ aliases:
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Primal Path (Level 6)' class='internal-link'>Primal Path</a></td><td class="value">3</td><td class="value">3</td><td class="value">1d6</td><td class="value">3</td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Feral Instinct (Level 7)' class='internal-link'>Feral Instinct</a></td><td class="value">3</td><td class="value">4</td><td class="value">1d6</td><td class="value">3</td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability Score Improvement (Level 8)' class='internal-link'>Ability Score Improvement</a></td><td class="value">4</td><td class="value">4</td><td class="value">1d6</td><td class="value">3</td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Improved Critical (Level 9)' class='internal-link'>Improved Critical</a></td><td class="value">4</td><td class="value">5</td><td class="value">1d6</td><td class="value">3</td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Primal Path (Level 10)' class='internal-link'>Primal Path</a></td><td class="value">4</td><td class="value">5</td><td class="value">1d6</td><td class="value">3</td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Improved Critical (Level 9)' class='internal-link'>Improved Critical</a></td><td class="value">4</td><td class="value">5</td><td class="value">1d8</td><td class="value">3</td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Primal Path (Level 10)' class='internal-link'>Primal Path</a></td><td class="value">4</td><td class="value">5</td><td class="value">1d8</td><td class="value">3</td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Critical Strike (Level 11)' class='internal-link'>Critical Strike</a>, <a href='#Unstoppable (Level 11)' class='internal-link'>Unstoppable</a></td><td class="value">4</td><td class="value">6</td><td class="value">1d8</td><td class="value">4</td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability Score Improvement (Level 12)' class='internal-link'>Ability Score Improvement</a></td><td class="value">5</td><td class="value">6</td><td class="value">1d8</td><td class="value">4</td></tr>
-> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td><td class="value">5</td><td class="value">7</td><td class="value">1d8</td><td class="value">4</td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Primal Path (Level 14)' class='internal-link'>Primal Path</a></td><td class="value">5</td><td class="value">7</td><td class="value">1d8</td><td class="value">4</td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Persistent Rage (Level 15)' class='internal-link'>Persistent Rage</a></td><td class="value">5</td><td class="value">7</td><td class="value">1d8</td><td class="value">4</td></tr>
-> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability Score Improvement (Level 16)' class='internal-link'>Ability Score Improvement</a></td><td class="value">5</td><td class="value">7</td><td class="value">1d8</td><td class="value">4</td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td><td class="value">6</td><td class="value">8</td><td class="value">1d10</td><td class="value">5</td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Indomitable Might (Level 18)' class='internal-link'>Indomitable Might</a></td><td class="value">6</td><td class="value">8</td><td class="value">1d10</td><td class="value">5</td></tr>
-> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Ability Score Improvement (Level 19)' class='internal-link'>Ability Score Improvement</a></td><td class="value">6</td><td class="value">8</td><td class="value">1d10</td><td class="value">5</td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Primal Champion (Level 20)' class='internal-link'>Primal Champion</a></td><td class="value">Unlimited</td><td class="value">8</td><td class="value">1d10</td><td class="value">5</td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td><td class="value">5</td><td class="value">7</td><td class="value">1d10</td><td class="value">4</td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Primal Path (Level 14)' class='internal-link'>Primal Path</a></td><td class="value">5</td><td class="value">7</td><td class="value">1d10</td><td class="value">4</td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Persistent Rage (Level 15)' class='internal-link'>Persistent Rage</a></td><td class="value">5</td><td class="value">7</td><td class="value">1d10</td><td class="value">4</td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability Score Improvement (Level 16)' class='internal-link'>Ability Score Improvement</a></td><td class="value">5</td><td class="value">7</td><td class="value">1d10</td><td class="value">4</td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td><td class="value">6</td><td class="value">8</td><td class="value">1d12</td><td class="value">5</td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Indomitable Might (Level 18)' class='internal-link'>Indomitable Might</a></td><td class="value">6</td><td class="value">8</td><td class="value">1d12</td><td class="value">5</td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Ability Score Improvement (Level 19)' class='internal-link'>Ability Score Improvement</a></td><td class="value">6</td><td class="value">8</td><td class="value">1d12</td><td class="value">5</td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Primal Champion (Level 20)' class='internal-link'>Primal Champion</a></td><td class="value">Unlimited</td><td class="value">8</td><td class="value">1d12</td><td class="value">5</td></tr>
 > </tbody></table>
 
 ^class-progression
@@ -45,7 +50,7 @@ aliases:
 
 - **Hit Dice**: 1d12 per Alternate Barbarian level
 - **Hit Points at First Level:** 12 + CON
-- **Hit Points at Higher Levels:** add 7 OR 1d12 + CON  (minimum of 1)
+- **Hit Points at Higher Levels:** add 7 OR 1d12 + CON (minimum of 1)
 
 ## Starting Alternate Barbarian
 
@@ -73,7 +78,7 @@ When you gain a level in a class other than your first, you gain only some of th
 
 ## Barbarian
 
-The massive half-orc let out a blood- curdling battle cry as he leaped from the roof onto the back of the gargantuan blue dragon. As the great foe flew into the sky, he gripped the dragon's spines with a near- supernatural level of strength. No matter how much it twisted and turned, the dragon could not shake the warrior from his back. As the monster tired, the half-orc drew his greatsword and plunged it into the neck of the beast. After the dust cleared, the warrior emerged victorious from the crumpled heap of blue scales that had once terrorized the kingdom.
+The massive half-orc let out a bloodcurdling battle cry as he leaped from the roof onto the back of the gargantuan blue dragon. As the great foe flew into the sky, he gripped the dragon's spines with a nearsupernatural level of strength. No matter how much it twisted and turned, the dragon could not shake the warrior from his back. As the monster tired, the half-orc drew his greatsword and plunged it into the neck of the beast. After the dust cleared, the warrior emerged victorious from the crumpled heap of blue scales that had once terrorized the kingdom.
 
 As the goblins began to come over the ramparts, the young warrior emptied her mind and gave herself over to the bloodlust of battle. Her massive axe severed the head of the first goblin to climb the wall, and before its head hit the ground she had another goblin by the throat. As her foe begged for his puny life she let out a guttural roar and threw him from the top of the walls. Minutes later, she would come to her senses surrounded by the fallen bodies of those who had dared to assault the citadel of her ancestors.
 
@@ -91,7 +96,7 @@ The source of every barbarian's prowess in battle is the white hot Rage deep wit
 
 No matter how this primal Rage manifests itself, it grants all barbarians near-supernatural levels of might and allows them to shrug off blows that would fell a lesser warrior. The wild fury of Rage drives a barbarian to be the first to engage their foe, no matter how deadly. Many barbarians spend their lives seeking ever-greater foes to test the limits of their Rage, only satisfied when facing one who can match their strength.
 
-### Creating your Barbarian
+### Creating Your Barbarian
 
 When creating a barbarian, the most important thing for you to consider is how they first awakened their Rage. Did a lust for blood overtake you when your farm village was raided by bandits? Is your Rage fueled by a burning desire for revenge against a monster that killed someone you loved? Or, is your Rage a desire for someone who can match your strength?
 
