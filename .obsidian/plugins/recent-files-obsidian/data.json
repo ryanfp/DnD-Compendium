@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "HB-Barbarian",
+      "path": "Homebrew In-Progress/Classes/HB-Barbarian.md"
+    },
+    {
+      "basename": "HB-Artificer",
+      "path": "Homebrew In-Progress/Classes/HB-Artificer.md"
+    },
+    {
       "basename": "Class Building Index",
       "path": "Homebrew In-Progress/Classes/Class Building Index.md"
+    },
+    {
+      "basename": "Guide to Homebrew Class Building",
+      "path": "Homebrew In-Progress/Guide to Homebrew Class Building.md"
+    },
+    {
+      "basename": "artificer",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/artificer.md"
     },
     {
       "basename": "Website Navigation Map",
@@ -23,10 +39,6 @@
     {
       "basename": "Homebrew Lists",
       "path": "Homebrew In-Progress/Homebrew Lists.md"
-    },
-    {
-      "basename": "Guide to Homebrew Class Building",
-      "path": "Homebrew In-Progress/Guide to Homebrew Class Building.md"
     },
     {
       "basename": "damage-type-interactions",

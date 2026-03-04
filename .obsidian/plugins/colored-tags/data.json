@@ -1644,7 +1644,10 @@
     "stage/n": 4,
     "stage/completed": 5,
     "stage/cancelled": 6,
-    "stage/on-hold": 7
+    "stage/on-hold": 7,
+    "feature": 67,
+    "feature/addition": 1,
+    "feature/change": 2
   },
   "_version": 3
 }
