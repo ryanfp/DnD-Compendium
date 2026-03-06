@@ -156,7 +156,7 @@ You gain another Primal Path feature from your chosen subclass.
 You ruthlessly exploit the weakness of your foes. When you score a critical hit with a weapon attack while you are Raging, you can use a Savage Exploit you know as part of that attack without expending an Exploit Die.
 
 ### Unstoppable
-The white hot intensity of your Rage burns ever brighter. If you drop to 0 hit points while you are Raging, but you are not killed outright, you can choose to end your Rage to drop to an amount of hit points equal to your Barbarian level. You may use this feature once per short or long rest. You can choose to gain 2 levels of Fatigue to use this feature again, up to a maximum of 5 levels of fatigue (3 times).
+The white hot intensity of your Rage burns ever brighter. If you drop to 0 hit points while you are Raging, but you are not killed outright, you can choose to end your Rage to drop to 1 HP instead. You may use this feature once per short or long rest. You can choose to gain 2 levels of Fatigue to use this feature again, up to a maximum of 5 levels of fatigue (3 times).
 
 Also, if you make a Will saving throw while you are Raging, you gain a bonus to your roll equal to your Constitution modifier (minimum of +1).
 
@@ -170,10 +170,10 @@ You can choose a feat available to you.
 ### Improved Critical
 Your Strength-based weapon attacks score a critical hit on a roll of 18-20.
 
-Moreover, when you score a critical hit, you regain one expended Exploit Die.
-
 ### Lead the Pack
 Your unfaltering actions inspire your teammates to greater efforts. You gain proficiency in Athletics and Acrobatics. If you are already proficient in both, you may choose one to gain Expertise in. When your party makes a group Athletics or Acrobatics check, you may apply the results of your roll to yourself and one ally. You can choose which ally to apply your result to after everyone has rolled, but must do so before the Narrator says whether you succeed or fail.
+
+Moreover, you can choose to use your Strength instead of Dexterity for Acrobatics checks.
 
 
 ## Level 14
@@ -219,7 +219,6 @@ In addition, while raging you gain the following benefits:
 
 - Your size increases by one category (from Small to Medium, or Medium to Large), to a maximum size of Large.
 - You can grapple creatures that are two sizes larger than you, though they have Advantage on the saving throw roll.
-- You gain temporary hit points equal to your proficiency bonus when you begin Raging.
 - Creatures have disadvantage on saving throws made to resist your First and Second Degree Exploits.
 - You deal double damage to objects and constructs.
 - Your horizontal jump distance increases by 40 feet and your vertical jump distance increases by 20 feet, and you do not need a running start.
@@ -239,10 +238,10 @@ In addition, while raging you gain the following benefits:
 - [L7][Instinctive Pounce] Added *Instinctive Pounce* feature from 5.5e to level 7
 - [L10][Martial Presence] Added narrative feature choice
 - [L11][Unstoppable] 
-	  - Changed hit point regen to = your Barbarian level. 
 	  - Added caveat to only use once per SR/LR. However, you can choose to take 2 levels of Fatigue to use the feature again. 
 	  - Changed wording from “*make an Intelligence, Wisdom, or Charisma saving throw*” to “*make a Will saving throw*”
-- [L13][Critical Strike] Added feature that allows you to regain one expended Exploit Die when you score a critical hit
+- [L13][Critical Strike] ~~Added feature that allows you to regain one expended Exploit Die when you score a critical hit~~ Removed
+  - added feature that allows you to use STR instead of DEX for Acrobatics checks
 - [L13][Lead the Pack] Added narrative feature for party utility
 - [L17][Enhanced Vitality] Added Evasion-like ability for Fortitude saving throws
 - [L20][Paragon of Wrath] Added more features to capstone ability that enhances Rage

@@ -257,7 +257,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "e6e218d8a1f50440",
@@ -725,6 +725,30 @@
                     {
                       "state": "{}",
                       "eState": "{}"
+                    },
+                    {
+                      "title": "Untitled 1",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 1\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                    },
+                    {
+                      "title": "Untitled 2",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew In-Progress/Untitled 2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 2\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2.635978195033313}"
+                    },
+                    {
+                      "title": "alternate-barbarian-llab",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew In-Progress/Classes/References/alternate-barbarian-llab.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"alternate-barbarian-llab\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":210,\"ch\":0},\"to\":{\"line\":210,\"ch\":0}},\"scroll\":194.40950520833334}"
+                    },
+                    {
+                      "title": "Untitled",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":160,\"ch\":65},\"to\":{\"line\":160,\"ch\":65}},\"scroll\":146.92838541666666}"
                     }
                   ]
                 },
@@ -748,42 +772,9 @@
                   "icon": "lucide-file",
                   "title": "Untitled"
                 }
-              },
-              {
-                "id": "f159cfe414872a6e",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Untitled 2.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Untitled 2"
-                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 3
           },
           {
             "id": "ae30d43186a101f7",
@@ -1082,10 +1073,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled 2.md"
+                "file": "Untitled.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Untitled 2"
+              "title": "File properties for Untitled"
             }
           },
           {
@@ -1199,15 +1190,17 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "f159cfe414872a6e",
+  "active": "cd1a2287c2cc0591",
   "lastOpenFiles": [
-    "5e Tools Website To-Do & Ideas.md",
-    "Untitled 2.md",
-    "z_img/image-148.png",
+    "Homebrew In-Progress/Classes/References/alternate-barbarian-llab.md",
     "Untitled.md",
+    "Untitled 1.md",
+    "Homebrew In-Progress/Untitled 2.md",
+    "Untitled 2.md",
+    "5e Tools Website To-Do & Ideas.md",
+    "z_img/image-148.png",
     "Homebrew In-Progress/Classes/HB-Barbarian.md",
     "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
-    "Homebrew In-Progress/Classes/References/alternate-barbarian-llab.md",
     "Homebrew In-Progress/Classes/Class Building Index.md",
     "Homebrew In-Progress/Classes/References/occultist-kt-o.md",
     "Homebrew In-Progress/Classes/References/magus-llmc.md",
@@ -1226,7 +1219,6 @@
     "Homebrew In-Progress/Classes/References/alternate-paladin-llapal.md",
     "Homebrew In-Progress/Classes/References/alternate-monk-llam.md",
     "Homebrew In-Progress/Classes/References/alternate-fighter-llaf.md",
-    "Homebrew In-Progress/Classes/References/alternate-druid-lladru.md",
     "Homebrew In-Progress/Classes/References",
     "Homebrew In-Progress/Classes/New folder",
     "Homebrew In-Progress/Classes",
