@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 2",
+      "path": "Untitled 2.md"
+    },
+    {
+      "basename": "5e Tools Website To-Do & Ideas",
+      "path": "5e Tools Website To-Do & Ideas.md"
+    },
+    {
       "basename": "Untitled",
       "path": "Untitled.md"
     },
     {
       "basename": "HB-Barbarian",
       "path": "Homebrew In-Progress/Classes/HB-Barbarian.md"
-    },
-    {
-      "basename": "5e Tools Website To-Do & Ideas",
-      "path": "5e Tools Website To-Do & Ideas.md"
     },
     {
       "basename": "Classes",
@@ -195,10 +199,6 @@
     {
       "basename": "Color Palettes",
       "path": "Color Palette/Color Palettes.base"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     }
   ],
   "omittedPaths": [],
