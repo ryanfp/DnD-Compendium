@@ -1,9 +1,9 @@
 {
   "pdfExportSettings": {
-    "includeName": true,
+    "includeName": false,
     "pageSize": "Letter",
     "landscape": false,
-    "margin": "2",
+    "margin": "0",
     "downscalePercent": 100
   },
   "focusNewTab": true,

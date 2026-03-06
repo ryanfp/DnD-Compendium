@@ -252,7 +252,6 @@ Features marked with
 
 
 
-
 ## Changelog
 
 **Using LLAB as the baseline, will be adding 5e and 5.5e features to this chassis instead.**
@@ -264,7 +263,10 @@ Features marked with
 - [L6][Warrior Born] Added narrative feature choice
 - [L7][Instinctive Pounce] Added *Instinctive Pounce* feature from 5.5e to level 7
 - [L10][Martial Presence] Added narrative feature choice
-- [L11][Unstoppable] Changed hit point regen to = your Barbarian level. Added caveat to only use once per SR/LR. However, you can choose to take 2 levels of Fatigue to use the feature again. Changed wording from “*make an Intelligence, Wisdom, or Charisma saving throw*” to “*make a Will saving throw*”
+- [L11][Unstoppable] 
+	  - Changed hit point regen to = your Barbarian level. 
+	  - Added caveat to only use once per SR/LR. However, you can choose to take 2 levels of Fatigue to use the feature again. 
+	  - Changed wording from “*make an Intelligence, Wisdom, or Charisma saving throw*” to “*make a Will saving throw*”
 - [L13][Critical Strike] Added feature that allows you to regain one expended Exploit Die when you score a critical hit
 - [L13][Lead the Pack] Added narrative feature for party utility
 - [L17][Enhanced Vitality] Added Evasion-like ability for Fortitude saving throws
