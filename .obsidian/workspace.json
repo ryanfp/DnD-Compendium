@@ -1185,9 +1185,7 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "task-board:Open task board": false
     }
   },
   "active": "cd1a2287c2cc0591",
