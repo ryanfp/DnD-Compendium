@@ -1073,10 +1073,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled.md"
+                "file": "Homebrew In-Progress/Classes/References/alternate-barbarian-llab.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Untitled"
+              "title": "File properties for alternate-barbarian-llab"
             }
           },
           {
@@ -1186,27 +1186,27 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false,
       "storyteller-suite:Open storyteller dashboard": false,
-      "storyteller-suite:Apply template to story": false
+      "storyteller-suite:Apply template to story": false,
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "cd1a2287c2cc0591",
+  "active": "fcaa59025a7544d2",
   "lastOpenFiles": [
-    "StorytellerSuite/Templates/Notes/References",
-    "StorytellerSuite/Templates/Notes/Scenes",
-    "StorytellerSuite/Templates/Notes/Chapters",
-    "StorytellerSuite/Templates/Notes/MagicSystems",
-    "StorytellerSuite/Templates/Notes/Economies",
-    "StorytellerSuite/Templates/Notes/Cultures",
-    "StorytellerSuite/Templates/Notes/Groups",
-    "StorytellerSuite/Templates/Notes/Items",
-    "StorytellerSuite/Templates/Notes/Events",
-    "StorytellerSuite/Templates/Notes/Locations",
-    "StorytellerSuite/Templates/Notes/Characters",
-    "Homebrew In-Progress/Classes/References/alternate-barbarian-llab.md",
+    "🌎 - Worldbuilding & Lore/Chapters",
+    "🌎 - Worldbuilding & Lore/Items",
+    "🌎 - Worldbuilding & Lore/Story/MagicSystems",
+    "🌎 - Worldbuilding & Lore/Story/Economies",
+    "🌎 - Worldbuilding & Lore/Story/Factions",
+    "🌎 - Worldbuilding & Lore/Story/Cultures",
+    "🌎 - Worldbuilding & Lore/Story/Maps",
+    "🌎 - Worldbuilding & Lore/Story",
+    "🌎 - Worldbuilding & Lore/Scenes",
+    "🌎 - Worldbuilding & Lore/Campaign Settings/Chapters",
+    "🌎 - Worldbuilding & Lore/References",
     "Untitled.md",
+    "Homebrew In-Progress/Classes/References/alternate-barbarian-llab.md",
     "Untitled 1.md",
     "Homebrew In-Progress/Untitled 2.md",
     "Untitled 2.md",
