@@ -1240,8 +1240,7 @@
       "task-board:Open task board": false,
       "storyteller-suite:Open storyteller dashboard": false,
       "storyteller-suite:Apply template to story": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "7353047f2ae3f48d",
