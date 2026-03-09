@@ -1185,11 +1185,26 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false,
+      "storyteller-suite:Open storyteller dashboard": false,
+      "storyteller-suite:Apply template to story": false
     }
   },
   "active": "cd1a2287c2cc0591",
   "lastOpenFiles": [
+    "StorytellerSuite/Templates/Notes/References",
+    "StorytellerSuite/Templates/Notes/Scenes",
+    "StorytellerSuite/Templates/Notes/Chapters",
+    "StorytellerSuite/Templates/Notes/MagicSystems",
+    "StorytellerSuite/Templates/Notes/Economies",
+    "StorytellerSuite/Templates/Notes/Cultures",
+    "StorytellerSuite/Templates/Notes/Groups",
+    "StorytellerSuite/Templates/Notes/Items",
+    "StorytellerSuite/Templates/Notes/Events",
+    "StorytellerSuite/Templates/Notes/Locations",
+    "StorytellerSuite/Templates/Notes/Characters",
     "Homebrew In-Progress/Classes/References/alternate-barbarian-llab.md",
     "Untitled.md",
     "Untitled 1.md",
@@ -1216,10 +1231,6 @@
     "Homebrew In-Progress/Classes/References/alternate-ranger-llar.md",
     "Homebrew In-Progress/Classes/References/alternate-paladin-llapal.md",
     "Homebrew In-Progress/Classes/References/alternate-monk-llam.md",
-    "Homebrew In-Progress/Classes/References/alternate-fighter-llaf.md",
-    "Homebrew In-Progress/Classes/References",
-    "Homebrew In-Progress/Classes/New folder",
-    "Homebrew In-Progress/Classes",
     "z_img/image-147.png",
     "z_img/image-146.png",
     "z_img/image-145.png",
@@ -1228,13 +1239,6 @@
     "z_img/image-142.png",
     "z_img/image-141.png",
     "z_img/image-140.png",
-    "z_img/image-139.png",
-    "Color Palette/Color Palettes.base",
-    "desktop.ini",
-    "Homebrew In-Progress",
-    "Color Palette/imgs",
-    "Color Palette",
-    "Home.md - Shortcut.lnk",
-    "New folder"
+    "z_img/image-139.png"
   ]
 }

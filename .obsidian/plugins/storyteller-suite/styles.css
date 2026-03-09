@@ -1,0 +1,5811 @@
+/* =================================================================
+   STORYTELLER SUITE - UI/UX IMPROVEMENTS v2.0
+   November 2, 2025
+   ================================================================= */
+
+/* ============================================
+   LEAFLET CSS IMPORT (if not bundled via esbuild)
+   ============================================
+   If Leaflet CSS is not being bundled via esbuild,
+   uncomment the line below to import it directly.
+   Note: Currently imported in main.ts and renderer.ts
+   ============================================ */
+/* @import 'leaflet/dist/leaflet.css'; */
+
+/* ============================================
+   CRITICAL LEAFLET CSS FIXES FOR OBSIDIAN
+   ============================================
+   
+   Obsidian's global CSS applies styles to all img elements
+   that break Leaflet tile positioning. These overrides are
+   REQUIRED for Leaflet to work correctly in Obsidian plugins.
+   ============================================ */
+
+/* ===========================================
+   1. CORE LEAFLET CSS (if not bundled)
+   ===========================================
+   If you're not importing leaflet.css via your build system,
+   you need these core styles. The most critical ones are
+   included here.
+*/
+
+.leaflet-pane,
+.leaflet-tile,
+.leaflet-marker-icon,
+.leaflet-marker-shadow,
+.leaflet-tile-container,
+.leaflet-pane > svg,
+.leaflet-pane > canvas,
+.leaflet-zoom-box,
+.leaflet-image-layer,
+.leaflet-layer {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.leaflet-container {
+    overflow: hidden;
+    position: relative !important;
+    background: transparent !important;
+}
+
+.leaflet-tile,
+.leaflet-marker-icon,
+.leaflet-marker-shadow {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    -webkit-user-drag: none;
+}
+
+.leaflet-tile-container {
+    pointer-events: none;
+}
+
+/* ===========================================
+   2. OBSIDIAN-SPECIFIC IMAGE OVERRIDES
+   ===========================================
+   These are CRITICAL. Obsidian themes apply global img styles
+   that break Leaflet tiles. We must reset them.
+*/
+
+/* Reset ALL image styles within leaflet containers */
+.leaflet-container img {
+    max-width: none !important;
+    max-height: none !important;
+    width: auto !important;
+    height: auto !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    border: none !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    object-fit: unset !important;
+    display: block !important;
+}
+
+/* Specific tile image fixes */
+.leaflet-tile {
+    filter: inherit;
+    visibility: inherit;
+    max-width: none !important;
+    max-height: none !important;
+}
+
+.leaflet-tile-pane img {
+    max-width: none !important;
+    max-height: none !important;
+    object-fit: unset !important;
+    border-radius: 0 !important;
+}
+
+/* ===========================================
+   3. MAP VIEW CONTAINER STYLES
+   ===========================================
+   Your MapView needs proper flex layout and positioning.
+*/
+
+.storyteller-map-view {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.storyteller-map-toolbar {
+    display: flex;
+    align-items: center;
+    padding: 4px 8px;
+    border-bottom: 1px solid var(--background-modifier-border);
+    flex-shrink: 0;
+}
+
+.storyteller-map-toolbar-spacer {
+    flex: 1;
+}
+
+.storyteller-toolbar-btn {
+    margin: 0 2px;
+}
+
+.storyteller-map-selector {
+    display: flex;
+    align-items: center;
+    padding: 8px;
+    border-bottom: 1px solid var(--background-modifier-border);
+    flex-shrink: 0;
+}
+
+.storyteller-map-selector-label {
+    margin-right: 8px;
+}
+
+.storyteller-map-selector-dropdown {
+    flex: 1;
+    max-width: 300px;
+}
+
+/* CRITICAL: Map container positioning */
+.storyteller-map-container {
+    flex: 1;
+    position: relative !important;  /* REQUIRED for absolute children */
+    overflow: hidden !important;
+    min-height: 200px;
+}
+
+/* The actual Leaflet container inside */
+.storyteller-map-container .leaflet-map-container,
+.storyteller-map-container .leaflet-container {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    bottom: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    z-index: 1;
+}
+
+/* Entity Bar - Bottom toolbar for adding entities to map */
+.storyteller-map-entity-bar {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 12px;
+    border-top: 1px solid var(--background-modifier-border);
+    background: var(--background-secondary);
+    flex-shrink: 0;
+}
+
+.entity-bar-label {
+    font-weight: 600;
+    color: var(--text-normal);
+    margin-right: 4px;
+    font-size: var(--font-ui-smaller);
+}
+
+.entity-bar-btn {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 12px;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    background: var(--background-primary);
+    color: var(--text-normal);
+    cursor: pointer;
+    font-size: var(--font-ui-smaller);
+    transition: background 0.2s ease;
+}
+
+.entity-bar-btn:hover {
+    background: var(--background-modifier-hover);
+}
+
+.entity-bar-btn:active {
+    background: var(--background-modifier-active);
+}
+
+.entity-bar-btn svg {
+    width: 16px;
+    height: 16px;
+}
+
+.entity-bar-spacer {
+    flex: 1;
+}
+
+.entity-bar-quick-actions {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    margin-left: auto;
+}
+
+.entity-bar-btn-small {
+    padding: 4px 8px;
+    min-width: auto;
+}
+
+.storyteller-map-footer {
+    display: flex;
+    align-items: center;
+    padding: 4px 8px;
+    border-top: 1px solid var(--background-modifier-border);
+    font-size: var(--font-ui-smaller);
+    color: var(--text-muted);
+    flex-shrink: 0;
+}
+
+.storyteller-map-error {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    color: var(--text-error);
+    padding: 20px;
+    text-align: center;
+}
+
+/* ===========================================
+   4. ADDITIONAL LEAFLET COMPONENT RESETS
+   ===========================================
+   Ensure other Leaflet components aren't affected by Obsidian CSS
+*/
+
+.leaflet-control-container {
+    position: absolute;
+}
+
+.leaflet-control {
+    position: relative;
+    z-index: 800;
+    pointer-events: auto;
+}
+
+.leaflet-top,
+.leaflet-bottom {
+    position: absolute;
+    z-index: 1000;
+    pointer-events: none;
+}
+
+.leaflet-top {
+    top: 0;
+}
+
+.leaflet-right {
+    right: 0;
+}
+
+.leaflet-bottom {
+    bottom: 0;
+}
+
+.leaflet-left {
+    left: 0;
+}
+
+/* Popup and tooltip fixes */
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+    background: var(--background-primary);
+    color: var(--text-normal);
+}
+
+.leaflet-popup-content {
+    margin: 13px 19px;
+    line-height: 1.4;
+}
+
+/* Attribution styling for Obsidian */
+.leaflet-control-attribution {
+    background: var(--background-secondary);
+    color: var(--text-muted);
+    font-size: 10px;
+    padding: 0 5px;
+}
+
+.leaflet-control-attribution a {
+    color: var(--text-accent);
+}
+
+/* Zoom controls */
+.leaflet-control-zoom a {
+    background: var(--background-primary);
+    color: var(--text-normal);
+    border-color: var(--background-modifier-border);
+}
+
+.leaflet-control-zoom a:hover {
+    background: var(--background-secondary);
+}
+
+/* ===========================================
+   5. DARK MODE COMPATIBILITY
+   ===========================================
+*/
+
+.leaflet-container .dark-mode {
+    filter: brightness(0.6) invert(1) contrast(3) hue-rotate(200deg) saturate(0.3) brightness(0.7);
+}
+
+/* ===========================================
+   6. LOCATION PICKER STYLES
+   ===========================================
+*/
+
+.storyteller-location-picker {
+    position: relative;
+}
+
+.storyteller-location-picker .current-selection {
+    padding: 8px;
+    background: var(--background-secondary);
+    border-radius: 4px;
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.storyteller-location-picker .selection-label {
+    font-weight: 600;
+    color: var(--text-normal);
+}
+
+.storyteller-location-picker .selection-path {
+    flex: 1;
+    color: var(--text-muted);
+    font-size: 0.9em;
+}
+
+.storyteller-location-picker .clear-btn {
+    background: transparent;
+    border: none;
+    color: var(--text-muted);
+    cursor: pointer;
+    font-size: 1.2em;
+    padding: 0 4px;
+}
+
+.storyteller-location-picker .clear-btn:hover {
+    color: var(--text-error);
+}
+
+.storyteller-location-picker .selection-empty {
+    color: var(--text-muted);
+    font-style: italic;
+}
+
+.storyteller-location-picker .dropdown-trigger {
+    padding: 8px 12px;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: var(--background-primary);
+}
+
+.storyteller-location-picker .dropdown-trigger:hover {
+    background: var(--background-modifier-hover);
+}
+
+.storyteller-location-picker .dropdown-arrow {
+    font-size: 0.8em;
+    color: var(--text-muted);
+}
+
+.storyteller-location-picker .dropdown-content {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: var(--background-primary);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    max-height: 300px;
+    overflow-y: auto;
+    z-index: 100;
+    margin-top: 4px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.storyteller-location-picker .dropdown-content.hidden {
+    display: none;
+}
+
+.storyteller-location-picker .location-search {
+    width: 100%;
+    padding: 8px;
+    border: none;
+    border-bottom: 1px solid var(--background-modifier-border);
+    background: var(--background-primary);
+    color: var(--text-normal);
+}
+
+.storyteller-location-picker .location-tree {
+    padding: 4px 0;
+}
+
+.storyteller-location-picker .tree-item {
+    padding: 6px 8px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.storyteller-location-picker .tree-item:hover {
+    background: var(--background-modifier-hover);
+}
+
+.storyteller-location-picker .tree-children.hidden {
+    display: none;
+}
+
+.storyteller-location-picker .expand-icon {
+    width: 16px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.storyteller-location-picker .expand-spacer {
+    width: 16px;
+}
+
+.storyteller-location-picker .location-icon {
+    font-size: 1.1em;
+}
+
+.storyteller-location-picker .location-name {
+    flex: 1;
+}
+
+/* ===========================================
+   7. MAP POPUP STYLES
+   ===========================================
+*/
+
+.storyteller-map-popup .leaflet-popup-content-wrapper {
+    border-radius: 8px;
+    padding: 0;
+}
+
+.storyteller-location-popup {
+    min-width: 200px;
+}
+
+.popup-header {
+    padding: 12px;
+    border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.popup-path {
+    font-size: 11px;
+    color: var(--text-muted);
+    display: block;
+    margin-bottom: 4px;
+}
+
+.popup-title {
+    margin: 0;
+    font-size: 16px;
+}
+
+.popup-type {
+    font-size: 11px;
+    background: var(--background-secondary);
+    padding: 2px 6px;
+    border-radius: 4px;
+    text-transform: capitalize;
+    display: inline-block;
+    margin-top: 4px;
+}
+
+.popup-section {
+    padding: 8px 12px;
+    border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.popup-section h4 {
+    margin: 0 0 8px 0;
+    font-size: 12px;
+    color: var(--text-muted);
+    text-transform: uppercase;
+}
+
+.popup-entity-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.popup-entity-list li {
+    padding: 4px 0;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.popup-entity-list li:hover {
+    color: var(--text-accent);
+}
+
+.entity-icon {
+    font-size: 1.1em;
+}
+
+.entity-rel {
+    font-size: 11px;
+    color: var(--text-muted);
+}
+
+.popup-more {
+    font-style: italic;
+    color: var(--text-muted);
+    cursor: default;
+}
+
+.popup-more:hover {
+    color: var(--text-muted);
+}
+
+.popup-actions {
+    padding: 8px 12px;
+    display: flex;
+    gap: 8px;
+}
+
+.popup-btn {
+    flex: 1;
+    padding: 6px 8px;
+    font-size: 12px;
+    border-radius: 4px;
+    border: 1px solid var(--background-modifier-border);
+    background: var(--background-secondary);
+    cursor: pointer;
+    color: var(--text-normal);
+}
+
+.popup-btn:hover {
+    background: var(--background-modifier-hover);
+}
+
+.storyteller-entity-popup {
+    min-width: 180px;
+}
+
+/* ===========================================
+   7b. MAP MARKER STACKING STYLES
+   ===========================================
+*/
+
+/* Wrapper for marker content */
+.storyteller-marker-wrapper {
+    position: relative;
+    display: inline-block;
+}
+
+/* Badge showing entity count on location markers */
+.storyteller-entity-count-badge {
+    position: absolute;
+    top: -6px;
+    right: -6px;
+    min-width: 18px;
+    height: 18px;
+    padding: 0 4px;
+    background: #22c55e;
+    color: #fff;
+    font-size: 11px;
+    font-weight: 600;
+    border-radius: 9px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+    border: 2px solid #fff;
+    z-index: 10;
+}
+
+/* Badge showing stack count on entity markers */
+.storyteller-stack-badge {
+    position: absolute;
+    top: -4px;
+    right: -4px;
+    min-width: 16px;
+    height: 16px;
+    padding: 0 3px;
+    background: #8b5cf6;
+    color: #fff;
+    font-size: 10px;
+    font-weight: 600;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+    border: 2px solid #fff;
+    z-index: 10;
+}
+
+/* Stacked entity markers */
+.storyteller-entity-marker.stacked {
+    z-index: 500 !important;
+}
+
+/* Entity avatar positioning for stacked markers */
+.storyteller-entity-avatar {
+    position: relative;
+}
+
+/* Location marker with entities gets a subtle glow */
+.storyteller-location-marker.has-entities {
+    filter: drop-shadow(0 0 4px rgba(34, 197, 94, 0.5));
+}
+
+/* ===========================================
+   8. ADD ENTITY MODAL STYLES
+   ===========================================
+*/
+
+.storyteller-add-entity-modal {
+    padding: 20px;
+}
+
+.search-container {
+    margin-bottom: 16px;
+}
+
+.storyteller-search-input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    background: var(--background-primary);
+    color: var(--text-normal);
+}
+
+.relationship-container {
+    margin-bottom: 16px;
+}
+
+.relationship-container label {
+    display: block;
+    margin-bottom: 4px;
+    font-weight: 600;
+}
+
+.storyteller-select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    background: var(--background-primary);
+    color: var(--text-normal);
+}
+
+.results-container {
+    max-height: 300px;
+    overflow-y: auto;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    padding: 8px;
+}
+
+.entity-result-item {
+    padding: 8px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    border-radius: 4px;
+    margin-bottom: 4px;
+}
+
+.entity-result-item:hover {
+    background: var(--background-modifier-hover);
+}
+
+.entity-result-item .entity-icon {
+    font-size: 1.2em;
+}
+
+.entity-result-item .entity-name {
+    flex: 1;
+}
+
+.no-results {
+    padding: 16px;
+    text-align: center;
+    color: var(--text-muted);
+    font-style: italic;
+}
+
+/* ===========================================
+   9. LOCATION MODAL ADDITIONAL STYLES
+   ===========================================
+*/
+
+.storyteller-map-bindings,
+.storyteller-location-entities,
+.storyteller-child-locations {
+    margin: 12px 0;
+}
+
+.storyteller-map-bindings-list,
+.storyteller-entities-list,
+.storyteller-children-list {
+    list-style: none;
+    padding: 0;
+    margin: 8px 0;
+}
+
+.storyteller-map-bindings-list li,
+.storyteller-entities-list li,
+.storyteller-children-list li {
+    padding: 8px;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    margin-bottom: 4px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.storyteller-children-list li {
+    cursor: pointer;
+}
+
+.storyteller-children-list li:hover {
+    background: var(--background-modifier-hover);
+}
+
+.map-id,
+.entity-type,
+.child-name {
+    font-weight: 600;
+}
+
+.map-coords {
+    color: var(--text-muted);
+    font-size: 0.9em;
+}
+
+.entity-name,
+.map-id {
+    flex: 1;
+    font-weight: 500;
+}
+
+.remove-binding-btn,
+.remove-entity-btn {
+    margin-left: auto;
+    padding: 4px 8px;
+    font-size: 0.85em;
+    background: var(--background-modifier-error);
+    color: var(--text-error);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.remove-binding-btn:hover,
+.remove-entity-btn:hover {
+    background: var(--background-modifier-error-hover);
+}
+
+.no-bindings,
+.no-entities,
+.no-children {
+    padding: 16px;
+    text-align: center;
+    color: var(--text-muted);
+    font-style: italic;
+}
+
+.storyteller-location-history {
+    margin: 12px 0;
+}
+
+.storyteller-location-history-list {
+    list-style: none;
+    padding: 0;
+    margin: 8px 0;
+}
+
+.storyteller-location-history-list li {
+    padding: 6px 8px;
+    border-bottom: 1px solid var(--background-modifier-border);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.location-relationship {
+    color: var(--text-muted);
+    font-size: 0.9em;
+    font-style: italic;
+}
+
+/* ============================================
+   MAP CONTAINER BACKGROUND OVERRIDE
+   ============================================ */
+
+/* Error message styling for map initialization failures */
+.storyteller-error-message {
+  padding: 20px;
+  margin: 20px;
+  background: var(--background-modifier-error);
+  color: var(--text-error);
+  border: 1px solid var(--background-modifier-error-hover);
+  border-radius: 8px;
+  text-align: center;
+  font-size: 14px;
+}
+
+/* ============================================
+   MARKER CLUSTER STYLING
+   ============================================ */
+
+.marker-cluster-small {
+  background-color: rgba(51, 136, 255, 0.6);
+}
+
+.marker-cluster-small div {
+  background-color: rgba(51, 136, 255, 0.8);
+  color: white;
+  font-weight: bold;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+
+.marker-cluster-medium {
+  background-color: rgba(255, 165, 0, 0.6);
+}
+
+.marker-cluster-medium div {
+  background-color: rgba(255, 165, 0, 0.8);
+  color: white;
+  font-weight: bold;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+
+.marker-cluster-large {
+  background-color: rgba(255, 107, 107, 0.6);
+}
+
+.marker-cluster-large div {
+  background-color: rgba(255, 107, 107, 0.8);
+  color: white;
+  font-weight: bold;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+
+.marker-cluster {
+  border-radius: 50%;
+}
+
+/* ============================================
+   STORYTELLER MAP CONTAINER
+   ============================================ */
+
+/* Code block map container - for embedded maps in notes */
+.storyteller-map-container {
+  width: 100%;
+  height: 500px;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 1em 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  position: relative;
+}
+
+/* Ensure Leaflet container fills the storyteller container */
+.storyteller-map-container .leaflet-container {
+  width: 100%;
+  height: 100%;
+}
+
+/* Image overlay styling - improve image quality and rendering */
+.storyteller-map-image-overlay {
+  /* Improve image quality for high-res displays */
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: crisp-edges;
+  /* Prevent interaction with overlay to allow map dragging */
+  pointer-events: none;
+  /* Ensure proper opacity */
+  opacity: 1;
+}
+
+/* Leaflet image overlay - ensure it doesn't tile/repeat */
+.storyteller-map-container .leaflet-image-layer {
+  /* Prevent image from repeating */
+  background-repeat: no-repeat !important;
+  background-size: contain !important;
+  /* Ensure image uses object-fit instead of background */
+  object-fit: fill !important;
+  /* Ensure proper positioning */
+  object-position: 0 0 !important;
+}
+
+/* Image layer as background - ensure it covers entire area */
+.storyteller-map-container .leaflet-image-layer-background {
+  /* CRITICAL: Don't override Leaflet's positioning - it uses absolute positioning and transforms */
+  /* width and height are set by Leaflet based on bounds */
+  /* Leaflet uses CSS transforms to scale the image in place - don't interfere with this */
+  /* No background color - image should be the background */
+  background-color: transparent !important;
+  /* Ensure proper z-index - should be below markers but above tilePane background */
+  z-index: 200 !important;
+  /* Ensure image is visible */
+  opacity: 1 !important;
+  visibility: visible !important;
+  display: block !important;
+  /* CRITICAL: Don't override transform - Leaflet handles scaling via CSS transforms */
+  /* Don't set position: fixed or any positioning that would interfere with Leaflet's transforms */
+}
+
+/* Tile pane for image maps - should be transparent */
+.storyteller-map-container .leaflet-tile-pane {
+  background-color: transparent !important;
+  z-index: 100 !important;
+}
+
+/* Leaflet panes - ensure proper z-index stacking */
+.storyteller-map-container .leaflet-pane {
+  z-index: auto;
+}
+
+.storyteller-map-container .leaflet-overlay-pane {
+  z-index: 400;
+}
+
+.storyteller-map-container .leaflet-shadow-pane {
+  z-index: 500;
+}
+
+.storyteller-map-container .leaflet-marker-pane {
+  z-index: 600;
+}
+
+.storyteller-map-container .leaflet-popup-pane {
+  z-index: 700;
+}
+
+/* Map error styling */
+.storyteller-map-error {
+  padding: 1em;
+  border: 1px solid var(--background-modifier-error);
+  border-radius: 4px;
+  background-color: var(--background-modifier-error);
+  color: var(--text-error);
+  margin: 1em 0;
+}
+
+/* ============================================
+   STORYTELLER MAP MARKERS
+   ============================================ */
+
+.storyteller-map-marker {
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.storyteller-map-marker:hover {
+  transform: scale(1.1);
+  z-index: 1000;
+}
+
+.storyteller-map-marker svg {
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
+}
+
+/* ============================================
+   1. STANDARDIZED DESIGN SYSTEM
+   ============================================ */
+
+:root {
+  /* Typography Scale */
+  --sts-text-xs: 12px;
+  --sts-text-sm: 14px;
+  --sts-text-base: 16px;
+  --sts-text-lg: 18px;
+  --sts-text-xl: 20px;
+  --sts-text-2xl: 24px;
+  
+  /* Spacing Scale (8px base) */
+  --sts-space-1: 8px;
+  --sts-space-2: 16px;
+  --sts-space-3: 24px;
+  --sts-space-4: 32px;
+  --sts-space-5: 40px;
+  --sts-space-6: 48px;
+  
+  /* Touch Targets (WCAG 2.1 AA) */
+  --sts-touch-target: 44px;
+  --sts-touch-target-sm: 36px;
+  
+  /* Semantic Colors */
+  --sts-color-success: #10B981;
+  --sts-color-warning: #F59E0B;
+  --sts-color-error: #EF4444;
+  --sts-color-info: #3B82F6;
+  
+  /* Z-index Layers */
+  --sts-z-base: 1;
+  --sts-z-dropdown: 100;
+  --sts-z-sticky: 200;
+  --sts-z-modal: 1000;
+  --sts-z-tooltip: 1100;
+}
+
+/* Linked entities display */
+.storyteller-modal-linked-entities {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.storyteller-modal-list {
+    max-width: 100%;
+    overflow: hidden;
+}
+
+.storyteller-modal-list-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 4px 8px;
+    margin: 2px 0;
+    background: var(--background-secondary);
+    border-radius: var(--radius-s);
+    border: 1px solid var(--background-modifier-border);
+    max-width: 100%;
+    min-width: 0; /* Allow flex item to shrink below content size */
+    overflow: hidden;
+}
+
+.storyteller-modal-list-item span {
+    flex: 1;
+    font-size: var(--font-ui-small);
+    min-width: 0; /* Critical: allows text to shrink and ellipsis to work */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.storyteller-modal-list-remove {
+    margin-left: 8px;
+    color: var(--text-muted);
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 2px;
+    border-radius: var(--radius-xs);
+}
+
+.storyteller-modal-list-remove:hover {
+    background: var(--background-modifier-error-hover);
+    color: var(--text-error-hover);
+}
+
+.storyteller-modal-list-empty {
+    color: var(--text-muted);
+    font-style: italic;
+    font-size: var(--font-ui-small);
+}
+
+/* Parent location indicator */
+.storyteller-parent-indicator {
+    color: var(--text-muted);
+    font-weight: normal;
+    font-size: var(--font-ui-smaller);
+}
+
+/* Parent location in list item extra info */
+.storyteller-list-item-parent {
+    color: var(--text-accent);
+    font-size: var(--font-ui-smaller);
+    font-style: italic;
+}
+
+.storyteller-dashboard-tabs {
+  border-bottom: 1px solid var(--background-modifier-border);
+  padding: 6px 8px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.storyteller-tab-header {
+  color: var(--text-normal);
+  border: 1px solid transparent;
+  min-height: var(--sts-touch-target, 44px);
+  padding: 12px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}
+.storyteller-tab-header:hover {
+  border-color: var(--background-modifier-border);
+  background-color: var(--background-modifier-hover);
+  transform: translateY(-1px);
+}
+.storyteller-tab-header.active {
+  border-color: var(--interactive-accent);
+  background-color: var(--interactive-accent);
+  color: var(--text-on-accent);
+  font-weight: 600;
+}
+.storyteller-tab-more-btn {
+  padding: 12px 16px;
+  min-height: var(--sts-touch-target, 44px);
+}
+.storyteller-tab-more-menu {
+  min-width: 160px;
+}
+/*
+
+This CSS file will be included with your plugin, and
+available in the app when your plugin is enabled.
+
+If your plugin does not need CSS, delete this file.
+
+*/
+
+/* =================================================================
+   MOBILE RESPONSIVE FOUNDATION
+   ================================================================= */
+
+/* Mobile-first responsive breakpoints */
+:root {
+    --mobile-breakpoint: 768px;
+    --tablet-breakpoint: 1024px;
+    --touch-target-size: 44px;
+    --mobile-padding: 0.5rem;
+    --desktop-padding: 1rem;
+}
+
+/* ==============================================
+   NETWORK GRAPH VIEW PANEL STYLES
+   ============================================== */
+
+/* Main view container */
+.storyteller-network-graph-view {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background-color: var(--background-primary);
+}
+
+/* Toolbar - compact horizontal bar with icon buttons */
+.storyteller-graph-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 8px 12px;
+  background-color: var(--background-secondary);
+  border-bottom: 1px solid var(--background-modifier-border);
+  flex-shrink: 0;
+}
+
+.storyteller-graph-toolbar .clickable-icon,
+.storyteller-graph-toolbar .storyteller-toolbar-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: none;
+  border-radius: 6px;
+  background-color: transparent;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.storyteller-graph-toolbar .clickable-icon:hover,
+.storyteller-graph-toolbar .storyteller-toolbar-btn:hover {
+  background-color: var(--background-modifier-hover);
+  color: var(--text-normal);
+}
+
+.storyteller-graph-toolbar .clickable-icon:active,
+.storyteller-graph-toolbar .storyteller-toolbar-btn:active {
+  background-color: var(--background-modifier-active);
+}
+
+/* Export button - themed to match the panel */
+.storyteller-export-button {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 12px;
+  border: none;
+  border-radius: 6px;
+  background-color: var(--interactive-accent);
+  color: var(--text-on-accent);
+  font-size: var(--font-ui-small);
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.15s ease, transform 0.1s ease;
+  flex-direction: row-reverse; /* Icon after text */
+}
+
+.storyteller-export-button:hover {
+  background-color: var(--interactive-accent-hover);
+  transform: translateY(-1px);
+}
+
+.storyteller-export-button:active {
+  transform: translateY(0);
+}
+
+.storyteller-export-button svg {
+  width: 14px;
+  height: 14px;
+}
+
+/* Advanced filters section */
+.storyteller-graph-advanced-filters {
+  background-color: var(--background-secondary);
+  border-bottom: 1px solid var(--background-modifier-border);
+  flex-shrink: 0;
+}
+
+.storyteller-advanced-filters-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  cursor: pointer;
+  color: var(--text-muted);
+  font-size: var(--font-ui-small);
+  font-weight: 500;
+  user-select: none;
+  transition: background-color 0.15s ease;
+}
+
+.storyteller-advanced-filters-header:hover {
+  background-color: var(--background-modifier-hover);
+  color: var(--text-normal);
+}
+
+.storyteller-advanced-filters-header .collapse-icon {
+  display: flex;
+  transition: transform 0.2s ease;
+}
+
+.storyteller-advanced-filters-header.is-expanded .collapse-icon {
+  transform: rotate(90deg);
+}
+
+.storyteller-advanced-filters-content {
+  padding: 12px;
+  border-top: 1px solid var(--background-modifier-border);
+  background-color: var(--background-primary);
+}
+
+.storyteller-filter-row {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-bottom: 12px;
+}
+
+.storyteller-filter-row:last-child {
+  margin-bottom: 0;
+}
+
+.storyteller-filter-row label {
+  font-size: var(--font-ui-smaller);
+  font-weight: 500;
+  color: var(--text-muted);
+}
+
+.storyteller-filter-row input[type="text"],
+.storyteller-filter-row input[type="date"] {
+  padding: 8px 10px;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+  background-color: var(--background-primary);
+  color: var(--text-normal);
+  font-size: var(--font-ui-small);
+}
+
+.storyteller-filter-row input:focus {
+  border-color: var(--interactive-accent);
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(var(--interactive-accent-rgb), 0.2);
+}
+
+.storyteller-date-range {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.storyteller-date-range .date-separator {
+  color: var(--text-muted);
+}
+
+.storyteller-date-range input[type="date"] {
+  flex: 1;
+  min-width: 0;
+}
+
+/* Graph container */
+.storyteller-graph-container {
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+  min-height: 200px;
+}
+
+/* Footer status bar */
+.storyteller-graph-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 6px 12px;
+  background-color: var(--background-secondary);
+  border-top: 1px solid var(--background-modifier-border);
+  font-size: var(--font-ui-smaller);
+  color: var(--text-muted);
+  flex-shrink: 0;
+}
+
+.storyteller-graph-footer-status {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+/* ==============================================
+   IMPROVED FILTER PANEL LAYOUT
+   ============================================== */
+
+/* Full-width, better spaced filter layout */
+.storyteller-graph-entity-filters {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: var(--sts-space-2, 16px);
+  padding: var(--sts-space-2, 16px);
+  background-color: var(--background-secondary);
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.storyteller-entity-filter-btn {
+  min-height: var(--sts-touch-target, 44px) !important;
+  min-width: 100% !important;
+  padding: 12px 16px !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  font-size: var(--sts-text-sm, 14px) !important;
+  font-weight: 500;
+  border-radius: 8px;
+  border: 2px solid var(--background-modifier-border);
+  background-color: var(--background-primary);
+  color: var(--text-normal);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.storyteller-entity-filter-btn:hover {
+  background-color: var(--background-modifier-hover);
+  border-color: var(--interactive-accent);
+  transform: translateY(-1px);
+}
+
+.storyteller-entity-filter-btn.is-active {
+  background-color: var(--interactive-accent) !important;
+  color: var(--text-on-accent) !important;
+  border-color: var(--interactive-accent) !important;
+  font-weight: 600;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Mobile platform detection classes */
+.is-mobile {
+    /* Applied when on mobile devices */
+    --platform-type: mobile;
+}
+
+/* Enhanced mobile-specific navigation */
+.is-mobile .storyteller-dashboard-tabs {
+    /* More aggressive scroll snapping on mobile for better UX */
+    scroll-snap-type: x mandatory;
+    scroll-padding-inline: 1rem;
+}
+
+.is-mobile .storyteller-tab-header {
+    /* Ensure all tabs snap properly on mobile */
+    scroll-snap-align: center;
+    scroll-snap-stop: always;
+}
+
+.is-ios {
+    /* iOS-specific styles */
+    --platform-type: ios;
+}
+
+.is-android {
+    /* Android-specific styles */
+    --platform-type: android;
+}
+
+.is-desktop {
+    /* Desktop-specific styles */
+    --platform-type: desktop;
+}
+
+/* =================================================================
+   RESPONSIVE MODAL SYSTEM
+   ================================================================= */
+
+/* Base responsive modal styling */
+.storyteller-responsive-modal {
+    transition: opacity 0.2s ease-in-out, transform 0.2s ease-in-out, background-color 0.2s ease-in-out;
+}
+
+/* Mobile fullscreen modals */
+.storyteller-modal.mobile-fullscreen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    /* Use 100% instead of 100vh/100vw to avoid mobile viewport issues */
+    width: 100%;
+    height: 100%;
+    /* Fallback for older browsers, then modern dynamic viewport units for mobile */
+    height: 100vh;
+    height: 100dvh; /* Dynamic viewport height - accounts for mobile browser UI */
+    max-width: none;
+    max-height: none;
+    border-radius: 0;
+    margin: 0;
+    padding: 0;
+    transform: none;
+    /* Ensure content is contained and scrollable */
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.storyteller-modal.mobile-fullscreen .modal-content {
+    flex: 1 1 auto;
+    overflow-y: auto;
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
+    /* Account for device safe areas (notches, rounded corners) */
+    padding: env(safe-area-inset-top, 0) 1rem env(safe-area-inset-bottom, 0) 1rem;
+    /* Ensure minimum height for content visibility */
+    min-height: 0;
+}
+
+/* Mobile-optimized settings */
+.mobile-setting {
+    min-height: var(--touch-target-size);
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.mobile-setting .setting-item-info {
+    margin-bottom: 0.5rem;
+}
+
+.mobile-setting .setting-item-control {
+    margin-top: 0.5rem;
+    min-height: var(--touch-target-size);
+}
+
+/* Mobile buttons */
+.mobile-button {
+    min-height: var(--touch-target-size);
+    min-width: var(--touch-target-size);
+    padding: 0.75rem 1.5rem;
+    font-size: 1.1rem;
+    border-radius: 8px;
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.mobile-button-primary {
+    background-color: var(--interactive-accent);
+    color: var(--text-on-accent);
+    font-weight: 600;
+}
+
+/* Mobile input fields */
+.mobile-input, .mobile-textarea {
+    min-height: var(--touch-target-size);
+    font-size: 1.1rem;
+    padding: 12px;
+    border-radius: 8px;
+    border: 1px solid var(--background-modifier-border);
+    background-color: var(--background-primary);
+    color: var(--text-normal);
+    -webkit-appearance: none;
+    appearance: none;
+}
+
+.mobile-textarea {
+    min-height: 120px;
+    resize: vertical;
+}
+
+/* Mobile button bars */
+.mobile-button-bar {
+    position: sticky;
+    bottom: 0;
+    background-color: var(--background-primary);
+    border-top: 1px solid var(--background-modifier-border);
+    padding: 1rem;
+    padding-bottom: calc(1rem + env(safe-area-inset-bottom, 0)); /* Account for device safe areas */
+    margin: 1rem -1rem -1rem -1rem;
+    gap: 0.75rem;
+    z-index: var(--sts-z-sticky, 200);
+    /* Ensure button bar is always visible */
+    flex-shrink: 0;
+    /* Prevent content from pushing it off-screen */
+    align-self: flex-end;
+    width: 100%;
+}
+
+.vertical-button-bar {
+    display: flex;
+    flex-direction: column;
+}
+
+.horizontal-button-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.horizontal-button-bar .mobile-button {
+    flex: 1;
+    margin: 0 0.25rem;
+}
+
+/* ==============================================
+   LOADING STATES
+   ============================================== */
+
+.mobile-loading,
+.storyteller-loading {
+    position: relative;
+    pointer-events: none;
+    opacity: 0.6;
+}
+
+.mobile-loading::after,
+.storyteller-loading::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 32px;
+    height: 32px;
+    margin: -16px 0 0 -16px;
+    border: 3px solid var(--background-modifier-border);
+    border-radius: 50%;
+    border-top-color: var(--interactive-accent);
+    animation: storyteller-spin 0.8s linear infinite;
+}
+
+@keyframes storyteller-spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Loading skeleton for list items */
+.storyteller-skeleton {
+    background: linear-gradient(
+        90deg,
+        var(--background-secondary) 25%,
+        var(--background-modifier-hover) 50%,
+        var(--background-secondary) 75%
+    );
+    background-size: 200% 100%;
+    animation: storyteller-skeleton 1.5s ease-in-out infinite;
+    border-radius: 8px;
+}
+
+@keyframes storyteller-skeleton {
+    0% {
+        background-position: 200% 0;
+    }
+    100% {
+        background-position: -200% 0;
+    }
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* =================================================================
+   MOBILE BREAKPOINT ADAPTATIONS
+   ================================================================= */
+
+@media (max-width: 768px) {
+    /* Mobile styles */
+    
+    /* Make only Storyteller Suite modals full screen on mobile */
+    .storyteller-character-modal,
+    .storyteller-location-modal,
+    .storyteller-event-modal,
+    .storyteller-image-detail-modal,
+    .storyteller-list-modal,
+    .storyteller-dashboard-modal,
+    .storyteller-gallery-modal {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        /* Use 100% and dynamic viewport units for better mobile compatibility */
+        width: 100%;
+        height: 100%;
+        height: 100vh;
+        height: 100dvh; /* Dynamic viewport height - better for mobile */
+        max-width: none;
+        max-height: none;
+        border-radius: 0;
+        margin: 0;
+        padding: 0;
+        transform: none;
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    /* Mobile dashboard optimizations */
+    .storyteller-dashboard-view {
+        padding: 0.5rem;
+    }
+    
+    .dashboard-tab-content {
+        padding: 0.5rem 0;
+    }
+    
+    /* Mobile tab navigation improvements */
+    .storyteller-dashboard-tabs {
+        min-height: 48px; /* Larger touch target for mobile */
+        padding: 8px 12px;
+        /* Enhanced mobile touch scrolling */
+        -webkit-overflow-scrolling: touch;
+        overscroll-behavior-x: contain;
+        overscroll-behavior-y: auto;
+        scroll-behavior: smooth;
+        /* Allow tabs to wrap on mobile */
+        flex-wrap: wrap !important;
+        overflow-x: visible !important;
+        overflow-y: visible !important;
+        height: auto !important;
+        max-height: none !important;
+        gap: 8px;
+    }
+    
+    .storyteller-tab-header {
+        min-height: var(--sts-touch-target, 44px) !important; /* Apple HIG standard touch target */
+        padding: 12px 20px !important; /* Larger padding for mobile */
+        font-size: var(--sts-text-base, 16px) !important; /* Prevent iOS zoom */
+        min-width: auto !important; /* Allow flexible widths */
+        flex: 1 1 auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        /* Ensure proper touch targets */
+        touch-action: manipulation;
+        border-radius: 8px;
+    }
+    
+    /* Mobile tab ribbon improvements */
+    .mobile-dashboard .storyteller-tab-ribbon {
+        /* Enhanced wrapping behavior on mobile */
+        flex-wrap: wrap !important;
+        justify-content: flex-start !important;
+        align-content: flex-start !important;
+        width: 100% !important;
+        /* Ensure adequate spacing between wrapped rows */
+        row-gap: 8px !important;
+        column-gap: 4px !important;
+    }
+    
+    /* Card layouts become single column */
+    .entity-grid {
+        grid-template-columns: 1fr !important;
+        gap: 0.75rem;
+    }
+    
+    /* Mobile card styling */
+    .entity-card {
+        padding: 1rem;
+        border-radius: 12px;
+        min-height: var(--touch-target-size);
+    }
+    
+    /* Mobile typography */
+    .modal h2, .modal h3 {
+        font-size: 1.25rem;
+        line-height: 1.3;
+    }
+    
+    /* Mobile search and filter improvements */
+    /* Scoped to plugin containers to prevent bleeding into Obsidian UI */
+    .storyteller-responsive-modal .search-input,
+    .storyteller-responsive-modal input[type="text"],
+    .storyteller-responsive-modal input[type="search"],
+    .storyteller-responsive-modal input[type="date"],
+    .storyteller-responsive-modal textarea,
+    .storyteller-responsive-modal select,
+    .storyteller-modal .search-input,
+    .storyteller-modal input[type="text"],
+    .storyteller-modal input[type="search"],
+    .storyteller-modal input[type="date"],
+    .storyteller-modal textarea,
+    .storyteller-modal select,
+    .view-type-storyteller-dashboard-view .search-input,
+    .view-type-storyteller-dashboard-view input[type="text"],
+    .view-type-storyteller-dashboard-view input[type="search"],
+    .view-type-storyteller-dashboard-view input[type="date"],
+    .view-type-storyteller-dashboard-view textarea,
+    .view-type-storyteller-dashboard-view select {
+        font-size: 16px !important; /* Prevent iOS zoom */
+        min-height: var(--sts-touch-target, 44px);
+        padding: 12px 16px;
+        /* Improve touch interaction */
+        touch-action: manipulation;
+        /* Ensure proper focus behavior */
+        outline: none;
+        -webkit-appearance: none;
+        appearance: none;
+        /* Mobile stability improvements */
+        -webkit-user-select: text;
+        user-select: text;
+        /* Prevent input field jumping */
+        box-sizing: border-box;
+        border-radius: 8px;
+        border: 2px solid var(--background-modifier-border);
+        background-color: var(--background-primary);
+        color: var(--text-normal);
+        transition: all 0.2s ease;
+    }
+    
+    .storyteller-responsive-modal .search-input:focus,
+    .storyteller-responsive-modal input[type="text"]:focus,
+    .storyteller-responsive-modal input[type="search"]:focus,
+    .storyteller-responsive-modal input[type="date"]:focus,
+    .storyteller-responsive-modal textarea:focus,
+    .storyteller-responsive-modal select:focus,
+    .storyteller-modal .search-input:focus,
+    .storyteller-modal input[type="text"]:focus,
+    .storyteller-modal input[type="search"]:focus,
+    .storyteller-modal input[type="date"]:focus,
+    .storyteller-modal textarea:focus,
+    .storyteller-modal select:focus,
+    .view-type-storyteller-dashboard-view .search-input:focus,
+    .view-type-storyteller-dashboard-view input[type="text"]:focus,
+    .view-type-storyteller-dashboard-view input[type="search"]:focus,
+    .view-type-storyteller-dashboard-view input[type="date"]:focus,
+    .view-type-storyteller-dashboard-view textarea:focus,
+    .view-type-storyteller-dashboard-view select:focus {
+        /* Enhanced focus styling for mobile */
+        border-color: var(--interactive-accent);
+        box-shadow: 0 0 0 3px rgba(var(--interactive-accent-rgb, 100, 100, 255), 0.1);
+        /* Prevent zoom on focus */
+        font-size: 16px !important;
+        /* Maintain stable layout */
+        transform: none;
+    }
+    
+    /* Optimize search input containers for mobile */
+    .storyteller-controls-group .setting-item {
+        margin-bottom: 1rem;
+    }
+    
+    .storyteller-controls-group .setting-item-control {
+        width: 100%;
+    }
+    
+    .storyteller-controls-group .setting-item-control input[type="text"] {
+        width: 100%;
+        margin-bottom: 0.5rem;
+    }
+    
+    /* Mobile form layouts */
+    .setting-item {
+        flex-direction: column;
+        align-items: flex-start !important;
+    }
+    
+    .setting-item-info {
+        margin-bottom: 0.5rem;
+        width: 100%;
+    }
+    
+    .setting-item-control {
+        width: 100%;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    /* Tablet styles */
+    
+    .entity-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .modal {
+        max-width: 90vw;
+        max-height: 90vh;
+    }
+    
+    .horizontal-button-bar .mobile-button {
+        max-width: 200px;
+    }
+}
+
+@media (min-width: 1025px) {
+    /* Desktop styles - keep existing behavior */
+
+    .entity-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+/* =================================================================
+   DASHBOARD MODAL RESPONSIVE FIXES (Mobile/Tablet)
+   ================================================================= */
+
+/* Dashboard Modal Container - prevent overflow */
+.storyteller-dashboard-modal {
+    max-height: 90vh;
+    overflow-y: auto;
+}
+
+.storyteller-dashboard-modal .modal-content {
+    overflow-x: hidden;
+}
+
+/* Tab Container with proper scrolling and wrapping */
+.storyteller-tab-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding: 8px;
+    max-height: 40vh;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    /* Smooth scrolling on mobile */
+    scroll-behavior: smooth;
+    /* Prevent horizontal overflow */
+    overflow-x: hidden;
+}
+
+/* Tab Buttons - proper sizing for touch */
+.storyteller-tab-button {
+    min-width: 80px;
+    min-height: var(--sts-touch-target, 44px);
+    padding: 8px 12px;
+    white-space: nowrap;
+    border-radius: 8px;
+    border: 1px solid var(--background-modifier-border);
+    background-color: var(--background-primary);
+    color: var(--text-normal);
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-size: var(--font-ui-small);
+    font-weight: 500;
+    /* Touch interaction improvements */
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.storyteller-tab-button:hover {
+    background-color: var(--background-modifier-hover);
+    border-color: var(--interactive-accent);
+}
+
+.storyteller-tab-button.is-active {
+    background-color: var(--interactive-accent);
+    color: var(--text-on-accent);
+    border-color: var(--interactive-accent);
+    font-weight: 600;
+}
+
+/* Content Container */
+.storyteller-content-container {
+    flex: 1 1 auto;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    padding: 1rem;
+}
+
+/* Android-specific touch improvements */
+.is-android .storyteller-tab-container {
+    touch-action: pan-y;
+}
+
+.is-android .storyteller-dashboard-modal {
+    /* Better scroll performance on Android */
+    will-change: scroll-position;
+}
+
+/* =================================================================
+   ORIENTATION-SPECIFIC MOBILE STYLES
+   ================================================================= */
+
+/* Portrait orientation optimizations for tablets */
+@media (max-width: 768px) and (orientation: portrait) {
+    /* In portrait, prioritize vertical scrolling */
+    .storyteller-modal.mobile-fullscreen .modal-content {
+        padding-left: 0.75rem;
+        padding-right: 0.75rem;
+    }
+
+    /* Ensure button bars don't overlap content */
+    .mobile-button-bar {
+        padding: 0.75rem;
+        padding-bottom: calc(0.75rem + env(safe-area-inset-bottom, 0));
+    }
+
+    /* Make horizontal button bars stack in narrow portrait */
+    .horizontal-button-bar {
+        flex-direction: column;
+    }
+
+    .horizontal-button-bar .mobile-button {
+        width: 100%;
+        margin: 0.25rem 0;
+    }
+
+    /* Reduce map height in portrait to keep controls visible */
+    .storyteller-map-container {
+        max-height: 40vh;
+        max-height: 40dvh;
+    }
+
+    /* Dashboard-specific portrait fixes */
+    .storyteller-dashboard-modal {
+        max-width: 95vw;
+    }
+
+    .storyteller-tab-container {
+        max-height: 35vh;
+        /* Ensure tabs wrap in portrait */
+        flex-wrap: wrap !important;
+    }
+}
+
+/* Tablet-specific portrait mode improvements */
+@media (min-width: 600px) and (max-width: 1024px) and (orientation: portrait) {
+    /* Tablets in portrait - optimize for larger screens but vertical layout */
+    .tablet-optimized.is-mobile .storyteller-dashboard-modal {
+        padding: 12px;
+        max-width: 90vw;
+    }
+
+    .tablet-optimized.is-mobile .storyteller-tab-container {
+        max-height: 30vh;
+        padding: 12px;
+    }
+
+    .tablet-optimized.is-mobile .storyteller-tab-button {
+        min-width: 100px;
+        padding: 10px 16px;
+    }
+}
+
+/* Landscape orientation optimizations for tablets */
+@media (max-width: 1024px) and (orientation: landscape) {
+    /* In landscape, we have more horizontal space */
+    .horizontal-button-bar {
+        flex-direction: row;
+    }
+
+    /* Maps can be taller in landscape */
+    .storyteller-map-container {
+        max-height: 60vh;
+        max-height: 60dvh;
+    }
+}
+
+/* =================================================================
+   STYLUS & S PEN SUPPORT
+   ================================================================= */
+
+/* Improve touch/stylus interaction for all interactive elements */
+.storyteller-modal,
+.storyteller-modal button,
+.storyteller-modal input,
+.storyteller-modal select,
+.storyteller-modal textarea,
+.mobile-button,
+.storyteller-tab-header,
+.setting-item-control {
+    /* Allow both touch and stylus interactions */
+    touch-action: manipulation;
+    /* Disable browser's double-tap zoom for precise stylus control */
+}
+
+/* Map containers need special touch handling for pan/zoom */
+.storyteller-map-container {
+    /* Let Leaflet handle all pointer events to prevent scroll conflicts */
+    touch-action: none;
+}
+
+/* Better pointer support for different input methods */
+@media (pointer: coarse) {
+    /* Touch/stylus on tablets - increase touch targets */
+    .mobile-button,
+    .storyteller-tab-header,
+    button {
+        min-height: 48px; /* Larger touch targets */
+        min-width: 48px;
+    }
+}
+
+@media (pointer: fine) {
+    /* Mouse or precise stylus - allow smaller targets */
+    .mobile-button,
+    button {
+        min-height: 36px;
+        min-width: 36px;
+    }
+}
+
+/* Support for hover-capable styluses (S Pen Air Actions) */
+@media (hover: hover) and (pointer: fine) {
+    .mobile-button:hover,
+    button:hover {
+        opacity: 0.8;
+        transition: opacity 0.2s ease;
+    }
+}
+
+/* Prevent accidental text selection when using stylus for UI interaction */
+.mobile-button-bar,
+.storyteller-tab-header,
+.modal-button-container {
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+/* =================================================================
+   EXISTING PLUGIN STYLES (PRESERVED)
+   ================================================================= */
+
+.sts-card {
+	background-color: var(--background-modifier-hover);
+	border-radius: 8px;
+	padding: 1rem;
+	margin-bottom: 1rem;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+	/* Existing styles for a card layout, suitable for modals or custom views */
+}
+
+.sts-header {
+	font-size: 1.2rem;
+	font-weight: bold;
+	margin-bottom: 0.5rem;
+}
+
+.sts-label {
+	display: block;
+	font-weight: 600;
+	margin-top: 0.75rem;
+}
+
+.sts-dashboard {
+	display: flex;
+	flex-direction: column;
+	padding: 1rem;
+}
+
+.sts-button {
+	padding: 0.5rem 1rem;
+	border-radius: 4px;
+	background-color: var(--interactive-accent);
+	color: var(--text-on-accent);
+	cursor: pointer;
+	margin-bottom: 0.5rem;
+}
+
+.sts-button:hover {
+	background-color: var(--interactive-accent-hover);
+}
+
+.sts-modal-content {
+	padding: 1rem;
+	display: flex;
+	flex-direction: column;
+	gap: 1rem;
+	/* Ensure a clean modal layout for e.g. CharacterModal, LocationModal */
+}
+
+.sts-modal-header {
+	font-size: 1.25rem;
+	font-weight: bold;
+	margin-bottom: 0.5rem;
+}
+
+.sts-ribbon-icon {
+	/* Optional custom styling for the plugin’s ribbon icon. */
+}
+
+/* General Plugin Styles */
+.storyteller-suite-ribbon-class {
+  color: var(--text-accent); /* Example: Make icon use accent color */
+}
+
+/* ===========================================
+   MODAL OVERFLOW FIX - All Entity Modals
+   ===========================================
+   Prevent long file paths and text from causing
+   horizontal scrollbars in modal dialogs.
+*/
+
+/* General modal overflow prevention - matches all storyteller-*-modal classes */
+[class*="storyteller-"][class*="-modal"] {
+    overflow: hidden;
+}
+
+[class*="storyteller-"][class*="-modal"] .modal-content {
+    overflow-x: hidden;
+    overflow-y: auto;
+    max-width: 100%;
+}
+
+/* Setting item controls should not overflow */
+[class*="storyteller-"][class*="-modal"] .setting-item-control {
+    max-width: 100%;
+    min-width: 0;
+    overflow: hidden;
+}
+
+/* Ensure setting items themselves don't cause overflow */
+[class*="storyteller-"][class*="-modal"] .setting-item {
+    max-width: 100%;
+    min-width: 0;
+}
+
+/* Character Modal Styles */
+.mod.storyteller-character-modal {
+  /* Make modal slightly wider */
+  width: 600px;
+  max-width: 80%;
+}
+
+.storyteller-character-modal .modal-content {
+  padding: var(--size-4-4) var(--size-4-8); /* Consistent padding */
+}
+
+.storyteller-character-modal h2 {
+  margin-bottom: var(--size-4-6);
+  text-align: center;
+  color: var(--text-accent);
+}
+
+.storyteller-character-modal h3 {
+    margin-top: var(--size-4-6);
+    margin-bottom: var(--size-4-2);
+    border-bottom: 1px solid var(--background-modifier-border);
+    padding-bottom: var(--size-4-1);
+    color: var(--text-muted);
+}
+
+/* Style settings within the modal */
+.storyteller-character-modal .setting-item {
+  padding: var(--size-4-2) 0;
+  border-bottom: 1px solid var(--background-modifier-border-hover); /* Subtle separator */
+}
+.storyteller-character-modal .setting-item:last-child {
+    border-bottom: none;
+}
+
+/* Input field enhancements */
+.storyteller-character-modal .setting-item-control input[type="text"],
+.storyteller-character-modal .setting-item-control textarea {
+  width: 100%; /* Make inputs fill control area */
+  border: 1px solid var(--background-modifier-border);
+  padding: var(--size-4-2);
+  border-radius: var(--radius-s);
+}
+.storyteller-character-modal .setting-item-control input[type="text"]:focus,
+.storyteller-character-modal .setting-item-control textarea:focus {
+    border-color: var(--interactive-accent);
+    box-shadow: 0 0 0 1px var(--interactive-accent);
+}
+
+/* Larger text input for name */
+.storyteller-modal-input-large {
+    font-size: var(--font-ui-large);
+    padding: var(--size-4-3);
+}
+
+/* Textarea styling */
+.storyteller-modal-textarea {
+    min-height: 80px; /* Minimum height */
+    resize: vertical; /* Allow vertical resize */
+}
+
+/* Vertical layout for description/backstory */
+.storyteller-modal-setting-vertical .setting-item-info {
+    width: 100%;
+    margin-bottom: var(--size-4-1);
+}
+.storyteller-modal-setting-vertical .setting-item-control {
+    width: 100%;
+}
+
+/* Custom Fields Styling */
+.storyteller-custom-fields-container .setting-item {
+    padding: var(--size-4-1) 0; /* Less padding for custom fields */
+}
+.storyteller-custom-field-name {
+    flex: 1 1 30%; /* Allow name to take up some space */
+    font-style: italic;
+    color: var(--text-faint);
+}
+.storyteller-custom-field-control {
+    flex: 1 1 70%; /* Allow control to take up more space */
+    display: flex;
+    align-items: center;
+}
+.storyteller-custom-field-control input[type="text"] {
+    flex-grow: 1; /* Input takes available space */
+    margin-right: var(--size-4-2); /* Space before delete button */
+}
+
+/* Button styling */
+.storyteller-character-modal .setting-item .button.mod-cta {
+  background-color: var(--interactive-accent);
+  color: var(--text-on-accent);
+}
+.storyteller-character-modal .setting-item .button.mod-cta:hover {
+  background-color: var(--interactive-accent-hover);
+}
+
+/* --- General Modal Styling --- */
+.mod.storyteller-character-modal,
+.mod.storyteller-location-modal,
+.mod.storyteller-event-modal,
+.mod.storyteller-image-detail-modal,
+.mod.storyteller-list-modal,
+.mod.storyteller-dashboard-modal,
+.mod.storyteller-gallery-modal {
+  width: 700px; /* Wider default */
+  max-width: 90%;
+}
+
+.storyteller-character-modal .modal-content,
+.storyteller-location-modal .modal-content,
+.storyteller-event-modal .modal-content,
+.storyteller-image-detail-modal .modal-content,
+.storyteller-list-modal .modal-content,
+.storyteller-dashboard-modal .modal-content,
+.storyteller-gallery-modal .modal-content {
+  padding: var(--size-4-5) var(--size-4-8);
+}
+
+/* Modal Headers */
+.storyteller-character-modal h2,
+.storyteller-location-modal h2,
+.storyteller-event-modal h2,
+.storyteller-image-detail-modal h2,
+.storyteller-list-modal h2,
+.storyteller-dashboard-modal h2,
+.storyteller-gallery-modal h2 {
+  margin-bottom: var(--size-4-6);
+  padding-bottom: var(--size-4-2);
+  text-align: center;
+  color: var(--text-accent);
+  border-bottom: 1px solid var(--background-modifier-border);
+  font-size: var(--font-ui-large);
+}
+
+.storyteller-character-modal h3,
+.storyteller-location-modal h3,
+.storyteller-event-modal h3,
+.storyteller-image-detail-modal h3 {
+    margin-top: var(--size-4-6);
+    margin-bottom: var(--size-4-2);
+    border-bottom: 1px solid var(--background-modifier-border);
+    padding-bottom: var(--size-4-1);
+    color: var(--text-muted);
+    font-size: var(--font-ui-medium);
+    font-weight: 600;
+}
+
+/* Modal Settings Items */
+.storyteller-character-modal .setting-item,
+.storyteller-location-modal .setting-item,
+.storyteller-event-modal .setting-item,
+.storyteller-image-detail-modal .setting-item,
+.storyteller-list-modal .setting-item, /* For search/add buttons */
+.storyteller-dashboard-modal .setting-item,
+.storyteller-gallery-modal .setting-item /* For controls */
+ {
+  padding: var(--size-4-3) 0; /* Increased padding */
+  border-bottom: 1px solid var(--background-modifier-border-hover);
+}
+.storyteller-character-modal .setting-item:last-child,
+.storyteller-location-modal .setting-item:last-child,
+.storyteller-gallery-modal .setting-item:last-child {
+    border-bottom: none;
+}
+
+/* Input field enhancements */
+.storyteller-character-modal input[type="text"],
+.storyteller-location-modal input[type="text"],
+.storyteller-event-modal input[type="text"],
+.storyteller-image-detail-modal input[type="text"],
+.storyteller-list-modal input[type="text"], /* Search */
+.storyteller-gallery-modal input[type="text"], /* Filter */
+.storyteller-character-modal textarea,
+.storyteller-location-modal textarea,
+.storyteller-event-modal textarea,
+.storyteller-image-detail-modal textarea {
+  width: 100%;
+  border: 1px solid var(--background-modifier-border);
+  background-color: var(--background-secondary); /* Slightly different background */
+  padding: var(--size-4-2) var(--size-4-3);
+  border-radius: var(--radius-m); /* Medium radius */
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+.storyteller-character-modal input[type="text"]:focus,
+.storyteller-image-detail-modal textarea:focus {
+    border-color: var(--interactive-accent);
+    box-shadow: 0 0 0 2px var(--interactive-accent-translucent); /* Softer focus */
+    background-color: var(--background-primary);
+}
+
+/* Larger text input for name */
+.storyteller-modal-input-large {
+    font-size: var(--font-ui-large);
+    padding: var(--size-4-3);
+    font-weight: 600;
+}
+
+/* Textarea styling */
+.storyteller-modal-textarea {
+    min-height: 80px;
+    resize: vertical;
+    line-height: var(--line-height-normal);
+}
+
+/* Vertical layout for description/backstory etc. */
+.storyteller-modal-setting-vertical .setting-item-info {
+    width: 100%;
+    margin-bottom: var(--size-4-1);
+    font-weight: 500; /* Slightly bolder label */
+}
+.storyteller-modal-setting-vertical .setting-item-control {
+    width: 100%;
+}
+
+/* Custom Fields Styling (Apply to all relevant modals) */
+.storyteller-custom-fields-container .setting-item {
+    padding: var(--size-4-1) 0;
+}
+.storyteller-custom-field-name {
+    flex: 1 1 0;
+    min-width: 80px;
+    max-width: 150px;
+    font-style: normal; /* Remove italic */
+    color: var(--text-muted);
+    padding-right: var(--size-4-2);
+}
+.storyteller-custom-field-control {
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+}
+.storyteller-custom-field-control input[type="text"] {
+    flex-grow: 1;
+    margin-right: var(--size-4-2);
+}
+.storyteller-custom-field-control .button { /* Style delete button */
+    padding: var(--size-4-1);
+    min-width: auto;
+    height: auto;
+    color: var(--text-muted);
+}
+.storyteller-custom-field-control .button:hover {
+    color: var(--text-error);
+}
+
+/* Button styling */
+.setting-item .button.mod-cta {
+  background-color: var(--interactive-accent);
+  color: var(--text-on-accent);
+  font-weight: 600;
+  padding: var(--size-4-2) var(--size-4-4);
+  border-radius: var(--radius-m);
+}
+.setting-item .button.mod-cta:hover {
+  background-color: var(--interactive-accent-hover);
+}
+.setting-item .button.mod-warning {
+    color: var(--text-on-accent);
+    background-color: var(--interactive-warning);
+}
+.setting-item .button.mod-warning:hover {
+    background-color: var(--interactive-warning-hover);
+}
+.setting-item .button { /* General button style in settings */
+    margin-left: var(--size-4-2);
+}
+
+/* --- List Modal Styles --- */
+.storyteller-list-modal .setting-item { /* Search bar */
+    border-bottom: 1px solid var(--background-modifier-border);
+    padding-bottom: var(--size-4-3);
+    margin-bottom: var(--size-4-3);
+}
+.storyteller-list-container {
+    max-height: 60vh; /* Limit height and allow scrolling */
+    overflow-y: auto;
+    margin-bottom: var(--size-4-4);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: var(--radius-m);
+    padding: var(--size-4-2); /* Add some padding around the list itself */
+}
+.storyteller-list-item {
+    display: flex;
+    align-items: center;
+    padding: 12px 16px !important; /* Optimized padding */
+    border-bottom: 1px solid var(--background-modifier-border-hover);
+    transition: all 0.2s ease;
+    gap: 12px !important; /* Tighter gap */
+    /* Card Styling */
+    background-color: var(--background-secondary); /* Subtle background */
+    border-radius: 8px; /* Rounded corners */
+    margin-bottom: 12px; /* Space between cards */
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    border: 1px solid transparent; /* Prepare for hover border */
+    position: relative;
+}
+.storyteller-list-item:last-child {
+    border-bottom: none; /* Remove bottom border for last item */
+    margin-bottom: 0; /* No margin for last item if needed */
+}
+.storyteller-list-item:hover {
+    background-color: var(--background-modifier-hover);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); /* Enhanced shadow on hover */
+    border-color: var(--interactive-accent); /* Accent border on hover */
+    transform: translateY(-2px);
+}
+
+/* Quick actions appear on hover */
+.storyteller-list-item-actions {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    opacity: 0;
+    display: flex;
+    gap: 6px;
+    transition: opacity 0.2s ease;
+}
+
+.storyteller-list-item:hover .storyteller-list-item-actions {
+    opacity: 1;
+}
+
+.storyteller-list-item-actions .button {
+    min-height: 32px;
+    min-width: 32px;
+    padding: 6px;
+    border-radius: 6px;
+    font-size: 12px;
+}
+
+.storyteller-list-item-info {
+    flex-grow: 1;
+    min-width: 0;
+}
+
+.storyteller-list-item-info strong {
+    font-size: var(--font-ui-medium);
+    font-weight: 600;
+    color: var(--text-accent); /* Make name stand out */
+    display: block; /* Ensure it takes its own line if needed */
+    margin-bottom: var(--size-4-1); /* Space below name */
+}
+
+.storyteller-list-item-info p {
+    font-size: var(--font-ui-small);
+    color: var(--text-muted);
+    line-height: 1.4; /* Slightly increased line height */
+    margin-bottom: var(--size-4-2); /* Space below description */
+}
+
+/* --- Styles for Extra Info Line --- */
+.storyteller-list-item-extra {
+    font-size: var(--font-ui-smaller);
+    color: var(--text-faint);
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--size-4-2);
+}
+
+.storyteller-list-item-extra span {
+    padding: var(--size-4-0) var(--size-4-2); /* Padding for tags */
+    border-radius: var(--radius-s);
+    background-color: var(--background-modifier-border); /* Tag background */
+    color: var(--text-muted); /* Tag text color */
+    white-space: nowrap; /* Prevent tags from breaking mid-word */
+}
+
+/* Example: Styling for status tags */
+.storyteller-list-item-status {
+    /* background-color: var(--background-modifier-accent-hover); */
+    /* color: var(--text-accent); */
+    font-weight: 500;
+}
+
+/* --- Character List Item Specific Styles --- */
+.storyteller-character-item {
+    /* Adjust padding if needed */
+}
+
+.storyteller-list-item-pfp {
+    flex-shrink: 0; /* Prevent image container from shrinking */
+    width: 50px; /* Adjust size as needed */
+    height: 50px;
+    border-radius: 50%; /* Make it round */
+    overflow: hidden; /* Clip image to circle */
+    background-color: var(--background-modifier-border); /* Placeholder background */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: var(--font-ui-large);
+    font-weight: 600;
+    color: var(--text-muted);
+}
+
+.storyteller-list-item-pfp img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Cover the area */
+}
+
+.storyteller-pfp-placeholder {
+    /* Styles for the text placeholder */
+}
+
+/* --- Timeline Specific --- */
+.storyteller-timeline-view {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+/* Ensure toolbar and filters don't take unnecessary space */
+.storyteller-timeline-view .storyteller-timeline-toolbar,
+.storyteller-timeline-view .storyteller-timeline-filter-toggle,
+.storyteller-timeline-view .storyteller-timeline-advanced-filters {
+  flex-shrink: 0;
+}
+
+/* Footer should also not grow */
+.storyteller-timeline-view .storyteller-timeline-footer {
+  flex-shrink: 0;
+}
+
+.storyteller-timeline-date {
+    color: var(--text-faint);
+    font-size: var(--font-ui-smaller);
+}
+.storyteller-timeline-container {
+  /* Allow tooltips to overflow container */
+  overflow: visible !important;
+  position: relative;
+  /* Fill available space in timeline view */
+  flex: 1;
+  min-height: 0;
+}
+
+/* Restrict height only in modals */
+.storyteller-timeline-modal .storyteller-timeline-container {
+  max-height: 60vh;
+}
+
+/* Vis-timeline tooltip fixes - prevent cut-off */
+.vis-tooltip {
+  position: absolute !important;
+  z-index: 10000 !important;
+  background: var(--background-primary) !important;
+  border: 1px solid var(--background-modifier-border) !important;
+  border-radius: 6px !important;
+  padding: 8px 12px !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+  max-width: 350px !important;
+  word-wrap: break-word !important;
+  white-space: normal !important;
+  color: var(--text-normal) !important;
+  font-size: 13px !important;
+  line-height: 1.5 !important;
+  pointer-events: none !important;
+}
+
+/* Ensure vis-timeline container doesn't clip */
+.vis-timeline {
+  overflow: visible !important;
+}
+
+/* Make vis-timeline fill the container height in timeline view */
+.storyteller-timeline-view .vis-timeline {
+  height: 100% !important;
+}
+
+.storyteller-timeline-view .storyteller-timeline-container .vis-timeline {
+  height: 100% !important;
+}
+
+/* Modernize vis timeline look within plugin modal and view */
+.storyteller-timeline-modal .vis-timeline,
+.storyteller-timeline-view .vis-timeline {
+  border-radius: 8px;
+  border: 1px solid var(--background-modifier-border);
+  background: var(--background-primary);
+}
+.storyteller-timeline-modal .vis-item,
+.storyteller-timeline-view .vis-item {
+  border-radius: 6px;
+  border-width: 1px;
+  padding: 4px 8px;
+  color: var(--text-normal);
+  background: var(--background-secondary);
+  border-color: var(--interactive-accent);
+  transition: transform 120ms ease, box-shadow 120ms ease, background 120ms ease;
+  font-size: 13px;
+  line-height: 1.4;
+}
+.storyteller-timeline-modal .vis-item.is-approx,
+.storyteller-timeline-view .vis-item.is-approx {
+  border-style: dashed;
+  opacity: 0.85;
+}
+.storyteller-timeline-modal .vis-item:hover,
+.storyteller-timeline-view .vis-item:hover,
+.storyteller-timeline-modal .vis-item.vis-selected,
+.storyteller-timeline-view .vis-item.vis-selected {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.25);
+  z-index: 100;
+}
+.storyteller-timeline-modal .vis-range,
+.storyteller-timeline-view .vis-range {
+  border-radius: 6px;
+}
+
+/* Gantt bar styling - ensures proper bar display and visible labels */
+.vis-item.gantt-bar {
+  min-width: 100px;
+  min-height: 28px;
+  border-width: 2px;
+  border-radius: 4px;
+}
+
+.vis-item.gantt-bar .vis-item-content {
+  overflow: visible;
+  white-space: nowrap;
+  padding: 4px 8px;
+  font-weight: 500;
+}
+
+/* Override max-width restriction in Gantt mode */
+.storyteller-timeline-modal .vis-item.gantt-bar,
+.storyteller-timeline-view .vis-item.gantt-bar {
+  max-width: none;
+}
+
+.storyteller-timeline-modal .vis-grid.vis-odd,
+.storyteller-timeline-view .vis-grid.vis-odd,
+.storyteller-timeline-modal .vis-grid.vis-even,
+.storyteller-timeline-view .vis-grid.vis-even {
+  border-color: var(--background-modifier-border);
+}
+.storyteller-timeline-modal .vis-time-axis .vis-text,
+.storyteller-timeline-view .vis-time-axis .vis-text {
+  color: var(--text-muted);
+  visibility: visible;
+  display: inline-block;
+}
+.storyteller-timeline-modal .vis-current-time,
+.storyteller-timeline-view .vis-current-time {
+  background-color: var(--interactive-accent);
+}
+
+/* Event item text overflow handling - prevent bleeding into other items/eras */
+.storyteller-timeline-modal .vis-item .vis-item-content,
+.storyteller-timeline-view .vis-item .vis-item-content {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 100%;
+}
+
+/* For box-type items, limit width based on zoom level */
+.storyteller-timeline-modal .vis-item.vis-box,
+.storyteller-timeline-view .vis-item.vis-box {
+  max-width: 300px;
+  overflow: hidden;
+}
+
+/* Era background label styling */
+.storyteller-timeline-modal .vis-item.vis-background,
+.storyteller-timeline-view .vis-item.vis-background {
+  pointer-events: none;
+}
+
+.storyteller-timeline-modal .vis-item.vis-background .vis-item-content,
+.storyteller-timeline-view .vis-item.vis-background .vis-item-content {
+  color: var(--text-muted);
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  opacity: 0.7;
+  padding: 4px 8px;
+  position: absolute;
+  top: 2px;
+  left: 4px;
+}
+
+/* Milestone styling - golden/amber color scheme */
+.vis-item.timeline-milestone {
+  background: linear-gradient(135deg, #d4a017 0%, #ffd700 50%, #d4a017 100%) !important;
+  border-color: #b8860b !important;
+  color: #1a1a1a !important;
+  font-weight: 600;
+  box-shadow: 0 2px 8px rgba(212, 160, 23, 0.4);
+}
+
+/* Milestone stem - gold color */
+.vis-item.timeline-milestone .vis-line {
+  border-left-color: #d4a017 !important;
+  border-left-width: 2px !important;
+}
+
+/* Milestone dot - gold color */
+.vis-item.timeline-milestone .vis-dot {
+  border-color: #d4a017 !important;
+  background-color: #ffd700 !important;
+  box-shadow: 0 0 6px rgba(255, 215, 0, 0.6);
+}
+
+/* Milestone text - dark for contrast on gold background */
+.vis-item.timeline-milestone .vis-item-content {
+  color: #1a1a1a !important;
+}
+
+/* Milestone hover state */
+.vis-item.timeline-milestone:hover {
+  box-shadow: 0 4px 12px rgba(212, 160, 23, 0.6);
+  transform: translateY(-2px);
+}
+
+/* Gantt mode milestone styling - visible bar with text */
+.vis-item.gantt-milestone {
+  min-width: 100px;
+  min-height: 26px;
+  border-radius: 4px !important;
+  border-left: 4px solid #b8860b !important;
+}
+
+.vis-item.gantt-milestone .vis-item-content {
+  overflow: visible;
+  white-space: nowrap;
+  padding: 4px 8px;
+}
+
+/* Toolbar and legend */
+.storyteller-timeline-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5em;
+  padding: 0.5em;
+  background: var(--background-secondary);
+  border-bottom: 1px solid var(--background-modifier-border);
+  min-height: 44px;
+}
+
+.storyteller-timeline-toolbar .setting-item-control {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.storyteller-timeline-toolbar .clickable-icon,
+.storyteller-timeline-toolbar button,
+.storyteller-timeline-toolbar select,
+.storyteller-timeline-toolbar .dropdown {
+  flex: 0 0 auto;
+  margin: 0;
+}
+
+.storyteller-timeline-toolbar .storyteller-fork-container,
+.storyteller-timeline-toolbar .storyteller-track-selector {
+  display: flex;
+  align-items: center;
+  gap: 0.25em;
+  flex: 0 1 auto;
+}
+
+.storyteller-timeline-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 6px;
+}
+.storyteller-timeline-toolbar.setting-item {
+  border: 0;
+  margin: 0 0 6px 0;
+  padding: 0;
+}
+.storyteller-timeline-toolbar .setting-item-info {
+  display: none; /* remove empty label column so controls can center */
+}
+.storyteller-timeline-toolbar .setting-item-control {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+  justify-content: center; /* center controls horizontally */
+  width: 100%;
+}
+.storyteller-timeline-toolbar select {
+  max-width: 160px;
+}
+.storyteller-timeline-toolbar input[type="range"] {
+  width: 140px;
+}
+.storyteller-timeline-toolbar .button {
+  padding: 2px 10px;
+}
+.storyteller-timeline-details {
+  display: block;
+  margin-top: 8px;
+  border-top: 1px solid var(--background-modifier-border);
+  padding-top: 8px;
+}
+.storyteller-timeline-detail-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+.storyteller-timeline-detail-actions .button {
+  margin-left: 6px;
+}
+.storyteller-legend-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px;
+  color: var(--text-muted);
+  background: var(--background-secondary);
+  border-radius: 999px;
+  padding: 2px 8px;
+}
+.storyteller-legend-swatch {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border: 1px solid currentColor;
+  border-radius: 2px;
+}
+
+/* --- Dashboard Modal --- */
+.storyteller-dashboard-modal .setting-item-info {
+    flex-grow: 0; /* Don't let info push buttons */
+}
+.storyteller-dashboard-modal .setting-item-control {
+    justify-content: flex-end; /* Align buttons right */
+}
+.storyteller-dashboard-modal .setting-item-description {
+    width: 100%; /* Ensure description takes full width below name */
+    margin-top: var(--size-4-1);
+}
+
+/* --- Gallery Modal --- */
+.storyteller-gallery-modal {
+    width: 80vw; /* Much wider */
+    max-width: 1200px;
+}
+.storyteller-gallery-controls .setting-item {
+    border-bottom: 1px solid var(--background-modifier-border);
+    padding-bottom: var(--size-4-3);
+    margin-bottom: var(--size-4-3);
+}
+.storyteller-gallery-grid {
+    display: grid;
+    /* Adjust minmax values for desired item size */
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    row-gap: 5px;    /* Set vertical gap between rows */
+    column-gap: 15px;
+    padding: 10px 0; /* Padding above/below grid */
+  }
+  
+  .storyteller-gallery-item {
+    /* Keep existing properties: */
+    border: 1px solid var(--background-modifier-border);
+    border-radius: var(--radius-m);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    background-color: var(--background-secondary);
+    transition: transform 0.1s ease-in-out, box-shadow 0.1s ease-in-out;
+  
+    /* --- ADD THIS LINE --- */
+    align-self: start; /* Prevent item stretching vertically in the grid row */
+  }
+  
+  .storyteller-gallery-item:hover,
+  .storyteller-gallery-item:focus-within { /* Style when focused too */
+    transform: scale(1.03);
+    box-shadow: 0 0 5px var(--interactive-accent);
+    border-color: var(--interactive-accent);
+    outline: none; /* Remove default focus outline if styling focus */
+  }
+  
+  .storyteller-gallery-item-image {
+    width: 100%;
+    height: 120px; /* Give images a fixed height */
+    object-fit: cover; /* Cover the area, cropping if necessary */
+    display: block; /* Removes potential extra space below */
+    background-color: var(--background-secondary-alt); /* Placeholder bg */
+  }
+  
+  .storyteller-gallery-item-title {
+    padding: var(--size-4-1) var(--size-4-2); /* Small padding */
+    font-size: var(--font-ui-small);
+    text-align: center;
+    white-space: nowrap; /* Prevent title wrapping */
+    overflow: hidden; /* Hide overflow */
+    text-overflow: ellipsis; /* Show ... for overflow */
+    flex-shrink: 0; /* Prevent title from shrinking */
+    /* Optional: Set min-height to prevent layout shift if title is empty */
+    min-height: calc(var(--font-ui-small) + 2 * var(--size-4-1) + 2px);
+  }
+
+/* --- Image Detail Modal --- */
+.storyteller-image-detail-modal {
+    width: 800px;
+}
+.storyteller-image-detail-container {
+    display: flex;
+    gap: var(--size-4-6);
+}
+.storyteller-image-preview {
+    flex: 0 0 300px; /* Fixed width for preview */
+    text-align: center;
+}
+.storyteller-image-preview img {
+    max-width: 100%;
+    max-height: 300px;
+    object-fit: contain;
+    border-radius: var(--radius-m);
+    border: 1px solid var(--background-modifier-border);
+    margin-bottom: var(--size-4-2);
+}
+.storyteller-image-preview p { /* File path */
+    font-size: var(--font-ui-small);
+    color: var(--text-faint);
+    word-break: break-all;
+}
+.storyteller-image-form {
+    flex-grow: 1;
+}
+.storyteller-modal-actions { /* Container for save/delete buttons */
+    margin-top: var(--size-4-6);
+    padding-top: var(--size-4-4);
+    border-top: 1px solid var(--background-modifier-border);
+}
+.storyteller-modal-actions .setting-item {
+    border: none;
+    padding: 0;
+    justify-content: flex-end; /* Align buttons right */
+}
+
+/* --- Dashboard View Styles --- */
+/* Ensure the ItemView containerEl can expand properly */
+.view-type-storyteller-dashboard-view {
+  height: 100% !important;
+  overflow: visible !important;
+  display: flex !important;
+  flex-direction: column !important;
+}
+
+.storyteller-dashboard-view-container {
+  display: flex;
+  flex-direction: column; /* header, tabs, content */
+  height: 100%;
+  overflow: visible; /* Changed from hidden to visible */
+  box-sizing: border-box;
+  max-width: 100%;
+  width: 100%;
+  min-height: 0;
+  /* Create isolated stacking context for proper z-index layering */
+  isolation: isolate;
+  position: relative;
+}
+
+/* ==============================================
+   IMPROVED DASHBOARD HEADER v2.2
+   Theme-aware, polished header with visual hierarchy
+   ============================================== */
+
+.storyteller-dashboard-header {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  /* Use theme background */
+  background-color: var(--background-primary);
+  /* Theme-aware border */
+  border-bottom: 1px solid var(--background-modifier-border);
+  box-shadow: 0 1px 3px var(--background-modifier-box-shadow, rgba(0, 0, 0, 0.04));
+  padding: 0.75em 1em 0.5em 1em;
+  min-height: 3.5em;
+  margin-bottom: 0;
+  box-sizing: border-box;
+  width: 100%;
+  gap: 0.4em;
+  position: relative;
+  z-index: var(--layer-status-bar, 15);
+  flex-shrink: 0;
+  /* Accent bar at the top using theme accent */
+  border-top: 3px solid var(--interactive-accent);
+}
+
+/* Header Top Row */
+.storyteller-dashboard-header-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.75em;
+  width: 100%;
+}
+
+/* Controls group (Search, Filter, Buttons) - Horizontal Layout */
+.storyteller-controls-group {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75em;
+  margin-bottom: 1em;
+  width: 100%;
+}
+
+.storyteller-controls-group .setting-item {
+  border: none;
+  padding: 0;
+  margin: 0;
+  flex: 0 1 auto; /* Default to auto width */
+}
+
+/* Make search bar grow */
+.storyteller-controls-group .setting-item:first-child {
+  flex: 1 1 200px;
+}
+
+.storyteller-controls-group .setting-item-control {
+  padding-right: 0; /* Remove default padding */
+}
+
+
+.storyteller-dashboard-tabs {
+  position: relative; /* Changed from sticky to relative */
+  /* Use Obsidian's official z-index layer system - just below header */
+  z-index: calc(var(--layer-status-bar, 15) - 1);
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: flex-start; /* Changed from center to flex-start to properly align wrapped rows */
+  gap: 0.5em;
+  width: 100%;
+  min-height: 3em;
+  background: var(--background-secondary);
+  border-bottom: 2px solid var(--background-modifier-border);
+  padding: 0.25em 1em;
+  overflow-x: auto;
+  overflow-y: visible; /* Changed from hidden to visible to accommodate wrapped tabs */
+  -webkit-overflow-scrolling: touch;
+  white-space: nowrap;
+  /* Ensure proper sizing for wrapped content */
+  box-sizing: border-box;
+  /* Ensure it doesn't get clipped */
+  flex-shrink: 0;
+}
+
+/* Tab ribbon specific styles for proper wrapping */
+.storyteller-tab-ribbon {
+  /* Allow tabs to wrap when needed while maintaining horizontal scroll on mobile */
+  flex-wrap: wrap !important;
+  justify-content: center !important;
+  align-items: center !important;
+  align-content: flex-start !important;
+  width: 100% !important;
+  gap: 0.5rem !important;
+  row-gap: 6px !important;
+  /* Ensure proper sizing */
+  box-sizing: border-box !important;
+  min-height: 0 !important;
+  /* Reset any conflicting styles */
+  overflow: visible !important;
+}
+
+.storyteller-dashboard-content {
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow-y: auto; /* content area is the scroller */
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+  position: relative; /* Establish stacking context below header/tabs */
+  /* Ensure content stays below sticky elements */
+  z-index: 1;
+}
+
+.storyteller-dashboard-content .storyteller-list-container,
+.storyteller-dashboard-content .storyteller-gallery-grid,
+.storyteller-dashboard-content .storyteller-group-list-container {
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow-y: visible; /* lists are not independent scrollers in the dashboard */
+  overflow-x: hidden;
+  /* Override modal-specific caps inside the dashboard view */
+  max-height: none;
+}
+
+/* Ensure children in the groups list don’t overflow horizontally */
+.storyteller-dashboard-content .storyteller-group-list-container > * {
+  min-width: 0;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+/* Dashboard header & title */
+.storyteller-dashboard-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: var(--size-4-4);
+}
+.storyteller-dashboard-title { margin: 0; }
+.storyteller-kofi-link { margin-left: var(--size-4-4); }
+
+/* Utility class to hide elements */
+.storyteller-hidden { display: none !important; }
+
+.storyteller-dashboard-view-container,
+.storyteller-dashboard-content,
+.storyteller-dashboard-header,
+.storyteller-dashboard-content .storyteller-list-container,
+.storyteller-dashboard-content .storyteller-gallery-grid {
+  overflow-x: hidden !important;
+  min-width: 0 !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  box-sizing: border-box;
+}
+
+.storyteller-dashboard-content > *,
+.storyteller-dashboard-header > *,
+.storyteller-dashboard-tabs > *,
+.storyteller-dashboard-content .storyteller-list-container > *,
+.storyteller-dashboard-content .storyteller-gallery-grid > * {
+  min-width: 0 !important;
+  max-width: 100% !important;
+  box-sizing: border-box;
+}
+
+.storyteller-tab-header,
+.storyteller-dashboard-header button,
+.storyteller-dashboard-header select {
+  word-break: break-word;
+  white-space: normal;
+  min-width: 0;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+/* --- Groups Tab Card Layout --- */
+.storyteller-group-card {
+  background-color: var(--background-secondary);
+  border-radius: var(--radius-m);
+  box-shadow: 0 2px 6px rgba(var(--background-modifier-border-rgb, 0,0,0), 0.08);
+  margin-block-end: 1.2rem;
+  padding: 1rem 1.2rem;
+  transition: box-shadow 0.15s;
+  border: 1px solid var(--background-modifier-border);
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.storyteller-group-card:hover {
+  box-shadow: 0 4px 12px rgba(var(--background-modifier-border-rgb, 0,0,0), 0.16);
+}
+
+.storyteller-group-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+.storyteller-group-info {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+.storyteller-group-info strong {
+  color: var(--text-accent);
+  font-weight: 700;
+}
+.storyteller-group-info span {
+  color: var(--text-muted);
+  font-size: 1rem;
+  font-weight: 400;
+}
+.storyteller-group-desc {
+  color: var(--text-muted);
+  font-size: 1rem;
+  font-weight: 400;
+  margin-inline-start: 0.5em;
+}
+.storyteller-group-actions {
+  display: flex;
+  flex-direction: row;
+  gap: 0.5rem;
+}
+.storyteller-group-edit-btn {
+  min-width: 64px;
+  font-size: 1rem;
+  border-radius: var(--radius-s);
+}
+
+.storyteller-group-members {
+  margin-inline-start: 0.25rem;
+  padding-inline: 0.25rem 0.5rem;
+  color: var(--text-muted);
+  font-size: 0.98rem;
+}
+.storyteller-group-members-list {
+  margin: 0.2rem 0 0 0;
+  padding-inline-start: 1.2rem;
+  list-style-type: disc;
+}
+.storyteller-group-member-item {
+  margin-block: 0.1rem;
+  color: var(--text-normal);
+}
+
+/* RTL support */
+body.mod-rtl .storyteller-group-card {
+  direction: rtl;
+}
+body.mod-rtl .storyteller-group-members {
+  margin-inline-start: 0;
+  margin-inline-end: 1.5rem;
+}
+
+/* --- Collapsible Group Card States --- */
+.storyteller-group-toggle-btn {
+  background: none;
+  border: none;
+  color: var(--text-accent);
+  font-size: 1.2rem;
+  cursor: pointer;
+  margin-inline-end: 0.5rem;
+  outline: none;
+  transition: color 0.15s;
+}
+.storyteller-group-toggle-btn:focus {
+  color: var(--interactive-accent);
+  box-shadow: 0 0 0 2px var(--interactive-accent);
+  border-radius: var(--radius-s);
+}
+.storyteller-group-members.collapsed {
+  display: none;
+}
+.storyteller-group-card:focus {
+  outline: 2px solid var(--interactive-accent);
+  outline-offset: 2px;
+}
+
+/* --- Group Entity Section Headers and Sublists --- */
+.storyteller-group-entity-header {
+  font-size: 1.0rem;
+  font-weight: 700;
+  color: var(--text-accent);
+  margin: 0.25rem 0 0.15rem 0;
+  display: flex;
+  align-items: center;
+  gap: 0.4em;
+}
+.storyteller-group-entity-icon { font-size: 1.1em; }
+.storyteller-group-entity-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.storyteller-group-entity-item {
+  color: var(--text-normal);
+  margin-block: 0.15rem;
+  font-size: 0.98rem;
+}
+
+/* New: two-column responsive layout for group sections */
+.storyteller-group-section {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.25rem;
+}
+/* Balanced two-column layout only for sections, not the whole members wrapper */
+.storyteller-group-members { display: block; }
+.storyteller-group-section {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 2rem;
+  row-gap: 0.25rem;
+}
+@media (max-width: 560px) {
+  .storyteller-group-section { grid-template-columns: 1fr; }
+}
+
+/* Tidy toggle + header alignment */
+.storyteller-group-header {
+  align-items: center;
+}
+.storyteller-group-toggle-btn { order: 0; }
+.storyteller-group-info { flex: 1; order: 1; }
+.storyteller-group-actions { order: 2; }
+
+/* Group avatar */
+.storyteller-group-pfp {
+  width: 24px;
+  height: 24px;
+  border-radius: 4px;
+  object-fit: cover;
+  border: 1px solid var(--background-modifier-border);
+}
+
+/* Clickable list items */
+.storyteller-group-entity-item.is-link { cursor: pointer; color: var(--text-accent); }
+.storyteller-group-entity-item.is-link:hover { text-decoration: underline; }
+
+/* Responsive tweaks for very narrow sidebars */
+@media (max-width: 400px) {
+  .storyteller-dashboard-header {
+    padding: 0.25em 0.1em 0.25em 0.1em;
+    gap: 0.1em;
+  }
+  .storyteller-dashboard-title {
+    font-size: 1em;
+    padding-right: 0;
+  }
+  .storyteller-dashboard-header .storyteller-new-story-btn {
+    font-size: 0.9em;
+    padding: 0.15em 0.3em;
+  }
+  .storyteller-story-selector-group label {
+    font-size: 0.9em;
+  }
+}
+
+/* Selector + Button Group */
+.storyteller-selector-button-group {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  flex-wrap: nowrap;
+  min-width: 0;
+  max-width: 100%;
+  flex: 1 1 auto;
+}
+
+/* Header flex behavior override */
+.storyteller-dashboard-header-top {
+  min-width: 0;
+  box-sizing: border-box;
+}
+
+/* Dashboard Title - Theme-aware typography */
+.storyteller-dashboard-title {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  font-size: var(--h3-size, 1.25em);
+  font-family: var(--font-interface);
+  color: var(--text-normal);
+  font-weight: var(--font-bold, 700);
+  margin: 0;
+  letter-spacing: -0.01em;
+  min-width: 0;
+  flex: 0 1 auto;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: none;
+}
+
+/* Story Selector - Theme-aware dropdown styling */
+.storyteller-selector-button-group .storyteller-story-selector {
+  margin-left: 0;
+  background-color: var(--background-secondary);
+  color: var(--text-normal);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: var(--radius-m, 8px);
+  font-family: var(--font-interface);
+  font-size: var(--font-ui-small);
+  font-weight: 500;
+  padding: 0.5em 2.2em 0.5em 0.85em;
+  outline: none;
+  transition: all 0.15s ease;
+  /* Allow dropdown to expand to fit content */
+  min-width: 120px;
+  max-width: 100%;
+  width: auto;
+  /* Prevent text cutoff - show full text */
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  cursor: pointer;
+  /* Custom dropdown arrow using currentColor for theme compatibility */
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.6em center;
+  background-size: 12px;
+}
+
+.storyteller-selector-button-group .storyteller-story-selector:hover {
+  border-color: var(--interactive-accent);
+  background-color: var(--background-primary-alt, var(--background-primary));
+}
+
+.storyteller-selector-button-group .storyteller-story-selector:focus {
+  border-color: var(--interactive-accent);
+  box-shadow: 0 0 0 2px var(--background-modifier-border-focus, rgba(var(--interactive-accent-rgb, 124, 77, 255), 0.25));
+}
+
+/* Dropdown option styling for theme consistency */
+.storyteller-selector-button-group .storyteller-story-selector option {
+  background-color: var(--background-primary);
+  color: var(--text-normal);
+  padding: 0.5em;
+}
+
+/* New Story Button - Theme-aware CTA styling */
+.storyteller-selector-button-group .storyteller-new-story-btn {
+  flex-shrink: 0;
+  min-width: 0;
+  max-width: none;
+  white-space: nowrap;
+  /* Use theme accent color */
+  background-color: var(--interactive-accent);
+  color: var(--text-on-accent);
+  border: none;
+  border-radius: var(--radius-m, 6px);
+  font-family: var(--font-interface);
+  font-size: var(--font-ui-small);
+  font-weight: 600;
+  padding: 0.5em 1em;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  margin-left: 0.5em;
+}
+
+.storyteller-selector-button-group .storyteller-new-story-btn:hover {
+  background-color: var(--interactive-accent-hover);
+  filter: brightness(1.1);
+}
+
+.storyteller-selector-button-group .storyteller-new-story-btn:active {
+  filter: brightness(0.95);
+}
+
+@media (max-width: 600px) {
+  .storyteller-dashboard-header {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.5em;
+    padding: 0.5em 0.75em;
+    border-top-width: 2px;
+  }
+  
+  .storyteller-dashboard-title { 
+    flex: 1 1 100%; 
+    max-width: 100%; 
+    font-size: 1.1em;
+  }
+  
+  /* Horizontal layout for selector and button */
+  .storyteller-selector-button-group { 
+    width: 100%;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 0.5em;
+    flex-wrap: nowrap;
+  }
+  
+  .storyteller-selector-button-group .storyteller-new-story-btn { 
+    margin-left: 0;
+    flex: 0 0 auto;
+    padding: 0.4em 0.8em;
+  }
+  
+  .storyteller-selector-button-group .storyteller-story-selector {
+    max-width: none;
+    width: auto;
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+}
+
+/* Tutorial section styles */
+.storyteller-tutorial-section {
+  position: relative;
+}
+
+.storyteller-tutorial-section .setting-item-name {
+  -webkit-user-select: none;
+  user-select: none;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.storyteller-tutorial-section:hover .setting-item-name {
+  color: var(--interactive-accent);
+}
+
+.storyteller-tutorial-section .setting-item-info {
+  cursor: pointer;
+}
+
+/* Style for tutorial content */
+.storyteller-tutorial-section ul {
+  margin: 0.5em 0;
+  padding-left: 1.5em;
+}
+
+.storyteller-tutorial-section li {
+  margin-bottom: 0.3em;
+  line-height: 1.4;
+}
+
+.storyteller-tutorial-section p {
+  margin: 0.5em 0;
+}
+
+.storyteller-tutorial-section strong {
+  color: var(--text-accent);
+  font-weight: 600;
+}
+
+.storyteller-tutorial-section kbd {
+  background: var(--background-modifier-border);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 3px;
+  padding: 0.1em 0.3em;
+  font-size: 0.85em;
+  font-family: var(--font-monospace);
+}
+
+.storyteller-tutorial-section code {
+  background: var(--code-background);
+  color: var(--code-normal);
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+  font-family: var(--font-monospace);
+  font-size: 0.85em;
+}
+
+.storyteller-tutorial-section pre {
+  background: var(--code-background);
+  color: var(--code-normal);
+  padding: 1em;
+  border-radius: 5px;
+  overflow-x: auto;
+  margin: 0.5em 0;
+}
+
+.storyteller-tutorial-section pre code {
+  background: none;
+  padding: 0;
+  font-size: 0.8em;
+  line-height: 1.3;
+}
+
+/* Network Graph Styles */
+.storyteller-network-controls {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  background-color: var(--background-secondary);
+  border-radius: 8px;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  align-items: center;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.storyteller-network-filters {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  background-color: var(--background-secondary);
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.storyteller-entity-type-filters {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-top: 0.5rem;
+}
+
+.storyteller-network-canvas {
+  width: 100%;
+  background-color: var(--background-primary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 8px;
+  position: relative;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.storyteller-network-graph-container {
+  margin-bottom: 1rem;
+}
+
+.storyteller-network-legend {
+  padding: 1rem;
+  background-color: var(--background-secondary);
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.storyteller-network-legend h3 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+  color: var(--text-normal);
+  font-weight: 600;
+}
+
+.storyteller-network-legend h4 {
+  margin-top: 1rem;
+  margin-bottom: 0.75rem;
+  font-size: 1rem;
+  color: var(--text-normal);
+  font-weight: 600;
+}
+
+.storyteller-legend-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 0.5rem;
+}
+
+.storyteller-entity-legend {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 0.75rem;
+}
+
+.storyteller-legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.25rem 0;
+  font-size: 13px;
+}
+
+/* Network graph tooltip */
+.storyteller-network-tooltip {
+  position: absolute;
+  display: none;
+  background-color: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+  padding: 8px 12px;
+  pointer-events: none;
+  z-index: 1000;
+  max-width: 250px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  font-size: 12px;
+  line-height: 1.4;
+}
+
+/* Relationship Editor Modal */
+.storyteller-relationship-editor-modal .modal-content {
+  padding: 1rem;
+}
+
+.storyteller-relationship-editor-modal .setting-item {
+  border: none;
+  padding: 0.75rem 0;
+}
+
+/* ==============================================
+   IMPROVED EMPTY STATES
+   ============================================== */
+
+.storyteller-empty-state,
+.storyteller-network-empty-state {
+  padding: var(--sts-space-6, 48px);
+  text-align: center;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.storyteller-empty-state-icon {
+  font-size: 64px;
+  margin-bottom: var(--sts-space-3, 24px);
+  opacity: 0.5;
+}
+
+.storyteller-empty-state h3 {
+  font-size: var(--sts-text-xl, 20px);
+  font-weight: 600;
+  margin-bottom: 12px;
+  color: var(--text-normal);
+}
+
+.storyteller-empty-state-message {
+  font-size: var(--sts-text-base, 16px);
+  color: var(--text-muted);
+  margin-bottom: var(--sts-space-3, 24px);
+  line-height: 1.6;
+}
+
+.storyteller-empty-state-tips {
+  background-color: var(--background-secondary);
+  border-radius: 8px;
+  padding: var(--sts-space-2, 16px);
+  margin-bottom: var(--sts-space-3, 24px);
+  text-align: left;
+}
+
+.storyteller-empty-state-tip {
+  font-size: var(--sts-text-sm, 14px);
+  color: var(--text-muted);
+  padding: 8px 0;
+  border-left: 3px solid var(--interactive-accent);
+  padding-left: 12px;
+  margin-bottom: 8px;
+}
+
+.storyteller-empty-state-actions {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.storyteller-empty-state-actions .button {
+  min-height: var(--sts-touch-target, 44px);
+  padding: 12px 24px;
+  font-size: var(--sts-text-base, 16px);
+}
+
+/* Loading state */
+.storyteller-network-loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 400px;
+  color: var(--text-muted);
+  font-size: 16px;
+  padding: 2rem;
+}
+
+.storyteller-network-loading::after {
+  content: '';
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+  border: 2px solid var(--text-faint);
+  border-radius: 50%;
+  border-top-color: var(--interactive-accent);
+  animation: spin 1s linear infinite;
+}
+
+/* Cytoscape canvas styling */
+.storyteller-network-canvas canvas {
+  border-radius: 8px;
+}
+
+/* Priority 1: Status Bar for node/edge counts */
+.storyteller-graph-status-bar {
+  position: absolute;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: var(--background-secondary);
+  color: var(--text-normal);
+  padding: 6px 16px;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: 500;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  border: 1px solid var(--background-modifier-border);
+  z-index: 100;
+  pointer-events: none;
+  line-height: 1.4;
+}
+
+/* Priority 1: Improved Empty State */
+.storyteller-empty-state {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  max-width: 400px;
+  padding: 2rem;
+}
+
+.storyteller-empty-state-icon {
+  color: var(--text-faint);
+  margin-bottom: 1.5rem;
+  opacity: 0.6;
+}
+
+.storyteller-empty-state-icon svg {
+  width: 64px;
+  height: 64px;
+}
+
+.storyteller-empty-state h3 {
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--text-normal);
+  margin-bottom: 0.75rem;
+}
+
+.storyteller-empty-state-message {
+  font-size: 14px;
+  color: var(--text-muted);
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+}
+
+.storyteller-empty-state-tips {
+  margin-bottom: 1.5rem;
+}
+
+.storyteller-empty-state-tip {
+  font-size: 13px;
+  color: var(--text-muted);
+  background-color: var(--background-secondary);
+  padding: 0.75rem 1rem;
+  border-radius: 6px;
+  margin-bottom: 0.5rem;
+  text-align: left;
+  border-left: 3px solid var(--interactive-accent);
+}
+
+.storyteller-empty-state-actions {
+  display: flex;
+  gap: 0.75rem;
+  justify-content: center;
+}
+
+.storyteller-empty-state-actions button {
+  min-height: 44px; /* WCAG touch target size */
+  padding: 0.5rem 1.5rem;
+  font-size: 14px;
+}
+
+/* Loading state */
+.storyteller-network-loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 400px;
+  color: var(--text-muted);
+  font-size: 16px;
+  padding: 2rem;
+}
+
+.storyteller-network-loading::after {
+  content: '';
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+  border: 2px solid var(--text-faint);
+  border-radius: 50%;
+  border-top-color: var(--interactive-accent);
+  animation: spin 1s linear infinite;
+}
+
+/* Cytoscape canvas styling */
+.storyteller-network-canvas canvas {
+  border-radius: 8px;
+}
+
+/* Priority 1: Status Bar for node/edge counts */
+
+/* ============================================
+   TEMPLATE EDITOR MODALS
+   Variable Editor & Template Editor Styling
+   ============================================ */
+
+/* Template Editor Modal */
+.storyteller-template-editor-modal .modal {
+  width: 90vw;
+  max-width: 1000px;
+  height: 85vh;
+}
+
+.storyteller-template-editor {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  gap: 1rem;
+}
+
+/* Template Editor Header */
+.template-editor-header {
+  border-bottom: 1px solid var(--background-modifier-border);
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+}
+
+.template-editor-header h2 {
+  margin: 0 0 0.5rem 0;
+  color: var(--text-normal);
+}
+
+.template-editor-warning {
+  background: var(--background-modifier-error);
+  color: var(--text-error);
+  padding: 0.75rem;
+  border-radius: 6px;
+  margin-top: 0.5rem;
+  font-size: 0.9em;
+}
+
+/* Template Editor Tabs */
+.template-editor-tabs {
+  display: flex;
+  gap: 0.5rem;
+  border-bottom: 1px solid var(--background-modifier-border);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.template-editor-tab {
+  padding: 0.5rem 1rem;
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+  cursor: pointer;
+  color: var(--text-muted);
+  font-size: 0.95em;
+  transition: all 0.2s ease;
+}
+
+.template-editor-tab:hover {
+  background: var(--background-modifier-hover);
+  color: var(--text-normal);
+}
+
+.template-editor-tab.active {
+  background: var(--interactive-accent);
+  color: var(--text-on-accent);
+  border-color: var(--interactive-accent);
+}
+
+/* Template Editor Content */
+.template-editor-content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 0 0.5rem;
+}
+
+.template-editor-section {
+  padding: 0.5rem;
+}
+
+/* Entity Add Section */
+.template-entity-add-section {
+  display: flex;
+  gap: 0.75rem;
+  align-items: center;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  background: var(--background-secondary);
+  border-radius: 6px;
+}
+
+.template-entity-add-section select {
+  flex: 1;
+  padding: 0.5rem;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 4px;
+  background: var(--background-primary);
+  color: var(--text-normal);
+}
+
+/* Entities List */
+.template-entities-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.template-entity-type-section {
+  margin-bottom: 1.5rem;
+}
+
+.template-entity-type-section h4 {
+  margin: 0 0 0.75rem 0;
+  color: var(--text-accent);
+  font-size: 1.1em;
+  font-weight: 600;
+}
+
+/* Entity Card */
+.template-entity-card {
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+  padding: 1rem;
+  margin-bottom: 0.5rem;
+  transition: box-shadow 0.2s ease;
+}
+
+.template-entity-card:hover {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.template-entity-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.75rem;
+}
+
+.template-entity-name {
+  font-weight: 600;
+  color: var(--text-normal);
+  font-size: 1.05em;
+}
+
+.template-entity-actions {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.template-entity-btn,
+.template-entity-btn-danger {
+  padding: 0.4rem 0.8rem;
+  border-radius: 4px;
+  border: 1px solid var(--background-modifier-border);
+  background: var(--background-primary);
+  color: var(--text-normal);
+  cursor: pointer;
+  font-size: 0.85em;
+  transition: all 0.2s ease;
+}
+
+.template-entity-btn:hover {
+  background: var(--interactive-accent);
+  color: var(--text-on-accent);
+  border-color: var(--interactive-accent);
+}
+
+.template-entity-btn-danger:hover {
+  background: var(--text-error);
+  color: white;
+  border-color: var(--text-error);
+}
+
+.template-entity-preview {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.template-entity-description {
+  color: var(--text-muted);
+  font-size: 0.9em;
+  line-height: 1.4;
+  margin: 0;
+}
+
+.template-entity-meta {
+  color: var(--text-faint);
+  font-size: 0.85em;
+}
+
+/* Variables List */
+.template-variables-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.template-variable-card {
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+  padding: 1rem;
+  transition: box-shadow 0.2s ease;
+}
+
+.template-variable-card:hover {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.template-variable-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.template-variable-header strong {
+  color: var(--text-normal);
+  font-size: 1.05em;
+}
+
+.template-variable-actions {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.template-variable-btn,
+.template-variable-btn-danger {
+  padding: 0.4rem 0.8rem;
+  border-radius: 4px;
+  border: 1px solid var(--background-modifier-border);
+  background: var(--background-primary);
+  color: var(--text-normal);
+  cursor: pointer;
+  font-size: 0.85em;
+  transition: all 0.2s ease;
+}
+
+.template-variable-btn:hover {
+  background: var(--interactive-accent);
+  color: var(--text-on-accent);
+  border-color: var(--interactive-accent);
+}
+
+.template-variable-btn-danger:hover {
+  background: var(--text-error);
+  color: white;
+  border-color: var(--text-error);
+}
+
+.template-variable-syntax {
+  font-family: var(--font-monospace);
+  font-size: 0.9em;
+  color: var(--text-accent);
+  margin: 0.25rem 0;
+  background: var(--background-primary-alt);
+  padding: 0.25rem 0.5rem;
+  border-radius: 3px;
+  display: inline-block;
+}
+
+.template-variable-type {
+  color: var(--text-muted);
+  font-size: 0.85em;
+  margin: 0.25rem 0;
+}
+
+.template-variable-desc {
+  color: var(--text-muted);
+  font-size: 0.9em;
+  line-height: 1.4;
+  margin: 0.5rem 0 0 0;
+}
+
+.template-variable-default,
+.template-variable-options {
+  color: var(--text-faint);
+  font-size: 0.85em;
+  margin: 0.25rem 0;
+  font-style: italic;
+}
+
+/* Preview Tab */
+.template-preview-stats {
+  background: var(--background-secondary);
+  padding: 1rem;
+  border-radius: 6px;
+  margin-bottom: 1.5rem;
+  display: flex;
+  gap: 2rem;
+}
+
+.template-preview-stats p {
+  margin: 0;
+  font-size: 1.1em;
+  color: var(--text-normal);
+}
+
+.template-preview-entities {
+  margin-top: 1rem;
+}
+
+.template-preview-entities h4 {
+  margin: 0 0 1rem 0;
+  color: var(--text-normal);
+  font-size: 1.15em;
+}
+
+.template-preview-type-section {
+  margin-bottom: 1.5rem;
+}
+
+.template-preview-type-section h5 {
+  margin: 0 0 0.75rem 0;
+  color: var(--text-accent);
+  font-size: 1em;
+  font-weight: 600;
+}
+
+.template-preview-entity {
+  background: var(--background-secondary);
+  padding: 0.75rem;
+  border-radius: 4px;
+  margin-bottom: 0.5rem;
+  border-left: 3px solid var(--interactive-accent);
+}
+
+.template-preview-entity strong {
+  color: var(--text-normal);
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.template-preview-entity p {
+  margin: 0;
+  color: var(--text-muted);
+  font-size: 0.9em;
+  line-height: 1.4;
+}
+
+/* Empty State */
+.template-empty-state {
+  text-align: center;
+  padding: 2rem;
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+/* Template Editor Footer */
+.template-editor-footer {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.75rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--background-modifier-border);
+  margin-top: auto;
+}
+
+.template-editor-footer button {
+  padding: 0.6rem 1.5rem;
+  border-radius: 6px;
+  border: 1px solid var(--background-modifier-border);
+  background: var(--background-secondary);
+  color: var(--text-normal);
+  cursor: pointer;
+  font-size: 0.95em;
+  transition: all 0.2s ease;
+}
+
+.template-editor-footer button:hover {
+  background: var(--background-modifier-hover);
+}
+
+.template-editor-footer button.mod-cta {
+  background: var(--interactive-accent);
+  color: var(--text-on-accent);
+  border-color: var(--interactive-accent);
+}
+
+.template-editor-footer button.mod-cta:hover {
+  background: var(--interactive-accent-hover);
+}
+
+/* ============================================
+   TEMPLATE VARIABLE EDITOR MODAL
+   ============================================ */
+
+.storyteller-variable-editor-modal .modal {
+  width: 90vw;
+  max-width: 700px;
+  max-height: 85vh;
+}
+
+.variable-editor {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.variable-editor-header {
+  border-bottom: 1px solid var(--background-modifier-border);
+  padding-bottom: 1rem;
+}
+
+.variable-editor-header h2 {
+  margin: 0 0 0.5rem 0;
+  color: var(--text-normal);
+}
+
+.variable-editor-subtitle {
+  color: var(--text-muted);
+  font-size: 0.9em;
+  line-height: 1.4;
+  margin: 0;
+}
+
+.variable-editor-form {
+  flex: 1;
+  overflow-y: auto;
+  padding: 0 0.5rem;
+}
+
+/* Variable Options Section */
+.variable-options-section {
+  margin: 1.5rem 0;
+  padding: 1rem;
+  background: var(--background-secondary);
+  border-radius: 6px;
+}
+
+.variable-options-section h4 {
+  margin: 0 0 0.5rem 0;
+  color: var(--text-normal);
+  font-size: 1em;
+}
+
+.variable-options-textarea {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 4px;
+  background: var(--background-primary);
+  color: var(--text-normal);
+  font-family: var(--font-text);
+  resize: vertical;
+  margin-top: 0.5rem;
+}
+
+/* Variable Usage Section */
+.variable-usage-section {
+  margin: 1.5rem 0;
+  padding: 1rem;
+  background: var(--background-secondary-alt);
+  border-radius: 6px;
+  border-left: 3px solid var(--interactive-accent);
+}
+
+.variable-usage-section h4 {
+  margin: 0 0 0.75rem 0;
+  color: var(--text-normal);
+  font-size: 1em;
+}
+
+.variable-usage-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.variable-usage-item {
+  padding: 0.5rem 0.75rem;
+  background: var(--background-primary);
+  border-radius: 4px;
+}
+
+.variable-usage-location {
+  font-size: 0.9em;
+  color: var(--text-muted);
+  font-family: var(--font-monospace);
+}
+
+.variable-usage-empty {
+  padding: 1rem;
+  background: var(--background-secondary);
+  border-radius: 6px;
+  margin: 1rem 0;
+}
+
+.variable-usage-empty p {
+  margin: 0;
+  color: var(--text-muted);
+  font-size: 0.9em;
+}
+
+/* Example Preview Section */
+.variable-example-preview {
+  margin: 1.5rem 0;
+  padding: 1rem;
+  background: var(--background-primary-alt);
+  border-radius: 6px;
+}
+
+.variable-example-preview h4 {
+  margin: 0 0 0.75rem 0;
+  color: var(--text-normal);
+  font-size: 1em;
+}
+
+.variable-example-code {
+  display: block;
+  padding: 0.75rem;
+  background: var(--code-background);
+  color: var(--code-normal);
+  font-family: var(--font-monospace);
+  font-size: 0.9em;
+  border-radius: 4px;
+  overflow-x: auto;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  margin: 0.5rem 0;
+}
+
+/* Variable Editor Footer */
+.variable-editor-footer {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.75rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--background-modifier-border);
+  margin-top: auto;
+}
+
+.variable-editor-footer button {
+  padding: 0.6rem 1.5rem;
+  border-radius: 6px;
+  border: 1px solid var(--background-modifier-border);
+  background: var(--background-secondary);
+  color: var(--text-normal);
+  cursor: pointer;
+  font-size: 0.95em;
+  transition: all 0.2s ease;
+}
+
+.variable-editor-footer button:hover {
+  background: var(--background-modifier-hover);
+}
+
+.variable-editor-footer button.mod-cta {
+  background: var(--interactive-accent);
+  color: var(--text-on-accent);
+  border-color: var(--interactive-accent);
+}
+
+.variable-editor-footer button.mod-cta:hover {
+  background: var(--interactive-accent-hover);
+}
+
+/* ============================================
+   ENTITY DETAIL EDITOR MODAL
+   ============================================ */
+
+.storyteller-entity-detail-modal .modal {
+  width: 90vw;
+  max-width: 900px;
+  height: 85vh;
+}
+
+.entity-detail-editor {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  gap: 1rem;
+}
+
+.entity-detail-header {
+  border-bottom: 1px solid var(--background-modifier-border);
+  padding-bottom: 1rem;
+}
+
+.entity-detail-header h2 {
+  margin: 0 0 0.5rem 0;
+  color: var(--text-normal);
+}
+
+.entity-detail-subtitle {
+  color: var(--text-muted);
+  font-size: 0.9em;
+  line-height: 1.4;
+  margin: 0;
+}
+
+/* Entity Detail Tabs */
+.entity-detail-tabs {
+  display: flex;
+  gap: 0.5rem;
+  border-bottom: 1px solid var(--background-modifier-border);
+  padding-bottom: 0.5rem;
+}
+
+.entity-detail-tab {
+  padding: 0.5rem 1rem;
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+  cursor: pointer;
+  color: var(--text-muted);
+  font-size: 0.95em;
+  transition: all 0.2s ease;
+}
+
+.entity-detail-tab:hover {
+  background: var(--background-modifier-hover);
+  color: var(--text-normal);
+}
+
+.entity-detail-tab.active {
+  background: var(--interactive-accent);
+  color: var(--text-on-accent);
+  border-color: var(--interactive-accent);
+}
+
+/* Entity Detail Content */
+.entity-detail-content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 0 0.5rem;
+}
+
+.entity-detail-section {
+  padding: 0.5rem;
+}
+
+.entity-detail-section h3 {
+  margin: 0 0 1rem 0;
+  color: var(--text-normal);
+  font-size: 1.15em;
+}
+
+/* Section Editor */
+.entity-section-editor {
+  margin-bottom: 1.5rem;
+}
+
+.entity-section-editor h4 {
+  margin: 0 0 0.5rem 0;
+  color: var(--text-accent);
+  font-size: 1em;
+  font-weight: 600;
+}
+
+.entity-section-textarea {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 4px;
+  background: var(--background-primary);
+  color: var(--text-normal);
+  font-family: var(--font-text);
+  resize: vertical;
+  line-height: 1.5;
+}
+
+/* Custom Fields */
+.custom-fields-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+
+.custom-field-item {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  padding: 0.75rem;
+  background: var(--background-secondary);
+  border-radius: 4px;
+}
+
+.custom-field-name {
+  flex: 1;
+  padding: 0.5rem;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 4px;
+  background: var(--background-primary);
+  color: var(--text-normal);
+  font-family: var(--font-monospace);
+  font-size: 0.9em;
+}
+
+.custom-field-value {
+  flex: 2;
+  padding: 0.5rem;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 4px;
+  background: var(--background-primary);
+  color: var(--text-normal);
+}
+
+.custom-field-delete {
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 4px;
+  background: var(--background-primary);
+  color: var(--text-error);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.custom-field-delete:hover {
+  background: var(--text-error);
+  color: white;
+  border-color: var(--text-error);
+}
+
+.entity-detail-empty {
+  text-align: center;
+  padding: 2rem;
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+/* Entity Detail Footer */
+.entity-detail-footer {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.75rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--background-modifier-border);
+  margin-top: auto;
+}
+
+.entity-detail-footer button {
+  padding: 0.6rem 1.5rem;
+  border-radius: 6px;
+  border: 1px solid var(--background-modifier-border);
+  background: var(--background-secondary);
+  color: var(--text-normal);
+  cursor: pointer;
+  font-size: 0.95em;
+  transition: all 0.2s ease;
+}
+
+.entity-detail-footer button:hover {
+  background: var(--background-modifier-hover);
+}
+
+.entity-detail-footer button.mod-cta {
+  background: var(--interactive-accent);
+  color: var(--text-on-accent);
+  border-color: var(--interactive-accent);
+}
+
+.entity-detail-footer button.mod-cta:hover {
+  background: var(--interactive-accent-hover);
+}
+
+/* ============================================
+   MOBILE/TABLET RESPONSIVE ADJUSTMENTS
+   ============================================ */
+
+@media (max-width: 768px) {
+  .storyteller-template-editor-modal .modal,
+  .storyteller-variable-editor-modal .modal,
+  .storyteller-entity-detail-modal .modal {
+    width: 95vw;
+    height: 90vh;
+  }
+
+  .template-editor-tabs,
+  .entity-detail-tabs {
+    flex-wrap: wrap;
+  }
+
+  .template-editor-tab,
+  .entity-detail-tab {
+    flex: 1;
+    min-width: 120px;
+    text-align: center;
+    font-size: 0.85em;
+  }
+
+  .template-entity-add-section {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .template-preview-stats {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .custom-field-item {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .custom-field-name,
+  .custom-field-value {
+    width: 100%;
+  }
+}
+
+/* ============================================
+   TEMPLATE APPLICATION MODAL
+   Modal for collecting variable values when applying templates
+   ============================================ */
+
+.storyteller-template-application-modal .modal {
+  width: 90vw;
+  max-width: 700px;
+  max-height: 85vh;
+}
+
+.template-application {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+/* Header */
+.template-application-header {
+  border-bottom: 1px solid var(--background-modifier-border);
+  padding-bottom: 1rem;
+}
+
+.template-application-header h2 {
+  margin: 0 0 0.5rem 0;
+  color: var(--text-normal);
+}
+
+.template-application-subtitle {
+  color: var(--text-muted);
+  font-size: 0.9em;
+  line-height: 1.4;
+  margin: 0;
+}
+
+/* Template Info */
+.template-application-info {
+  background: var(--background-secondary);
+  padding: 1rem;
+  border-radius: 6px;
+  margin: 0.5rem 0;
+}
+
+.template-application-stats {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.75rem;
+}
+
+.template-stat {
+  font-size: 0.9em;
+  color: var(--text-muted);
+}
+
+.template-application-instruction {
+  margin: 0.75rem 0 0 0;
+  color: var(--text-normal);
+  font-weight: 500;
+}
+
+/* Variables Form */
+.template-application-form {
+  flex: 1;
+  overflow-y: auto;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.template-variable-input {
+  background: var(--background-primary);
+  padding: 0.75rem;
+  border-radius: 6px;
+  border: 1px solid var(--background-modifier-border);
+  transition: border-color 0.2s ease;
+}
+
+.template-variable-input:hover {
+  border-color: var(--interactive-accent);
+}
+
+.template-required-indicator {
+  color: var(--text-error);
+  font-weight: bold;
+  margin-left: 0.25rem;
+}
+
+.template-variable-example {
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid var(--background-modifier-border);
+}
+
+.template-variable-usage-hint {
+  color: var(--text-faint);
+  font-size: 0.85em;
+  font-style: italic;
+}
+
+/* No Variables Message */
+.template-application-no-variables {
+  padding: 2rem;
+  text-align: center;
+}
+
+.template-application-message {
+  color: var(--text-muted);
+  font-size: 0.95em;
+  margin: 0;
+}
+
+/* Footer */
+.template-application-footer {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.75rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--background-modifier-border);
+  margin-top: auto;
+}
+
+.template-application-footer button {
+  padding: 0.6rem 1.5rem;
+  border-radius: 6px;
+  border: 1px solid var(--background-modifier-border);
+  background: var(--background-secondary);
+  color: var(--text-normal);
+  cursor: pointer;
+  font-size: 0.95em;
+  transition: all 0.2s ease;
+}
+
+.template-application-footer button:hover {
+  background: var(--background-modifier-hover);
+}
+
+.template-application-footer button.mod-cta {
+  background: var(--interactive-accent);
+  color: var(--text-on-accent);
+  border-color: var(--interactive-accent);
+}
+
+.template-application-footer button.mod-cta:hover {
+  background: var(--interactive-accent-hover);
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+  .storyteller-template-application-modal .modal {
+    width: 95vw;
+    height: 90vh;
+  }
+
+  .template-application-stats {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .template-variable-input {
+    padding: 0.5rem;
+  }
+}
+
+/* ========================
+   Map View Styles
+   ======================== */
+
+/* Map View Container */
+.storyteller-map-view {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding: 0;
+    overflow: hidden;
+}
+
+/* Map Toolbar */
+.storyteller-map-toolbar {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 12px;
+    border-bottom: 1px solid var(--background-modifier-border);
+    flex-shrink: 0;
+    background: var(--background-primary);
+}
+
+.storyteller-map-toolbar .storyteller-toolbar-spacer {
+    flex-grow: 1;
+}
+
+.storyteller-map-toolbar .storyteller-toolbar-btn {
+    padding: 6px;
+    background: transparent;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.storyteller-map-toolbar .storyteller-toolbar-btn:hover {
+    background: var(--background-modifier-hover);
+}
+
+/* Map Selector */
+.storyteller-map-selector {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 12px;
+    border-bottom: 1px solid var(--background-modifier-border);
+    flex-shrink: 0;
+    background: var(--background-primary);
+}
+
+.storyteller-map-selector-label {
+    font-weight: 600;
+    color: var(--text-normal);
+    margin: 0;
+}
+
+.storyteller-map-selector-dropdown {
+    flex-grow: 1;
+    max-width: 400px;
+}
+
+.storyteller-map-selector-dropdown select {
+    width: 100%;
+}
+
+/* MapView Panel - Map Container - Fills remaining space */
+/* Scope this to .storyteller-map-view to avoid conflicts with code block containers */
+.storyteller-map-view .storyteller-map-container {
+    flex-grow: 1;
+    position: relative;
+    overflow: hidden;
+    background: var(--background-secondary);
+    /* Override code block styles when inside MapView */
+    height: auto !important;
+    border: none !important;
+    border-radius: 0 !important;
+    margin: 0 !important;
+    box-shadow: none !important;
+}
+
+.storyteller-map-view .storyteller-map-container .leaflet-map-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* Error display */
+.storyteller-map-error {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    color: var(--text-error);
+    font-size: 1.1em;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Map Footer */
+.storyteller-map-footer {
+    padding: 6px 12px;
+    border-top: 1px solid var(--background-modifier-border);
+    font-size: 0.9em;
+    color: var(--text-muted);
+    flex-shrink: 0;
+    background: var(--background-primary);
+}
+
+.storyteller-map-footer-status {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+/* Fullscreen support - when sidebars closed */
+.workspace-leaf.mod-active .storyteller-map-view {
+    height: 100%;
+}
+
+/* Ensure Leaflet controls are visible */
+.storyteller-map-view .leaflet-control {
+    z-index: 1000;
+}
+
+.storyteller-map-view .leaflet-popup {
+    z-index: 2000;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+    .storyteller-map-toolbar {
+        flex-wrap: wrap;
+        padding: 6px 8px;
+    }
+
+    .storyteller-map-selector {
+        flex-direction: column;
+        align-items: stretch;
+        padding: 8px;
+    }
+
+    .storyteller-map-selector-dropdown {
+        max-width: 100%;
+    }
+}
+
+/* ============================================
+   PLACEMENT MODE OVERLAY
+   ============================================
+   Styles for the click-to-place entity workflow
+   ============================================ */
+
+.storyteller-placement-overlay {
+    position: absolute;
+    top: 20px;
+    left: 0;
+    right: 0;
+    bottom: auto;
+    z-index: 9999;
+    pointer-events: none; /* Allow clicks to pass through to map */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.storyteller-placement-instruction {
+    background: var(--background-primary);
+    border: 1px solid var(--interactive-accent);
+    border-radius: 20px;
+    padding: 8px 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    animation: placement-fade-in 0.2s ease-out;
+    max-width: 90%;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.placement-icon {
+    font-size: 20px;
+    margin-bottom: 0;
+    animation: placement-pulse 2s ease-in-out infinite;
+}
+
+.placement-text {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--text-normal);
+    margin-bottom: 0;
+}
+
+.placement-hint {
+    font-size: 12px;
+    color: var(--text-muted);
+    font-style: italic;
+    margin-left: 4px;
+}
+
+@keyframes placement-fade-in {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes placement-pulse {
+    0%, 100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+}
+
+/* Location Selection Modal - Compact for map usage */
+.storyteller-location-selection-modal {
+    width: 400px !important;
+    max-width: 90vw !important;
+    height: auto !important;
+}
+
+.storyteller-location-selection-modal .prompt-input {
+    margin-bottom: 8px;
+}
+
+.storyteller-location-selection-modal .prompt-results {
+    max-height: 300px;
+}
+
+/* ===========================================
+   COMPILE TAB STYLES
+   ===========================================
+   Styles for the manuscript compilation interface
+*/
+
+.storyteller-compile-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.storyteller-compile-header h3 {
+    margin: 0;
+    font-size: 1.2em;
+}
+
+.storyteller-draft-selector {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.storyteller-draft-selector select {
+    padding: 4px 8px;
+    border-radius: 4px;
+    background: var(--background-secondary);
+    color: var(--text-normal);
+    border: 1px solid var(--background-modifier-border);
+    min-width: 150px;
+}
+
+.storyteller-draft-selector button {
+    padding: 4px 10px;
+    border-radius: 4px;
+    background: var(--interactive-accent);
+    color: var(--text-on-accent);
+    border: none;
+    cursor: pointer;
+}
+
+.storyteller-draft-selector button:hover {
+    background: var(--interactive-accent-hover);
+}
+
+.storyteller-compile-stats {
+    margin-bottom: 20px;
+}
+
+.storyteller-stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: 12px;
+}
+
+.storyteller-stat-item {
+    background: var(--background-secondary);
+    padding: 12px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.storyteller-stat-value {
+    font-size: 1.5em;
+    font-weight: 600;
+    color: var(--text-accent);
+}
+
+.storyteller-stat-label {
+    font-size: 0.85em;
+    color: var(--text-muted);
+    margin-top: 4px;
+}
+
+.storyteller-scene-order {
+    margin-bottom: 20px;
+}
+
+.storyteller-scene-order h4 {
+    margin-bottom: 12px;
+}
+
+.storyteller-ordered-scene-list {
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.storyteller-ordered-scene-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 12px;
+    background: var(--background-primary);
+    border-bottom: 1px solid var(--background-modifier-border);
+    transition: background 0.15s ease;
+}
+
+.storyteller-ordered-scene-item:last-child {
+    border-bottom: none;
+}
+
+.storyteller-ordered-scene-item:hover {
+    background: var(--background-secondary);
+}
+
+.storyteller-ordered-scene-item input[type="checkbox"] {
+    margin: 0;
+    flex-shrink: 0;
+}
+
+.storyteller-ordered-scene-info {
+    flex: 1;
+    cursor: pointer;
+    min-width: 0;
+}
+
+.storyteller-scene-name {
+    font-weight: 500;
+    color: var(--text-normal);
+}
+
+.storyteller-scene-chapter {
+    font-size: 0.85em;
+    color: var(--text-muted);
+    margin-left: 4px;
+}
+
+.storyteller-ordered-scene-actions {
+    display: flex;
+    gap: 4px;
+    flex-shrink: 0;
+}
+
+.storyteller-ordered-scene-actions button {
+    padding: 2px 6px;
+    font-size: 0.9em;
+    background: var(--background-modifier-hover);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    cursor: pointer;
+    color: var(--text-muted);
+    line-height: 1;
+}
+
+.storyteller-ordered-scene-actions button:hover {
+    background: var(--interactive-accent);
+    color: var(--text-on-accent);
+    border-color: var(--interactive-accent);
+}
+
+.storyteller-compile-actions {
+    margin-top: 20px;
+    padding-top: 16px;
+    border-top: 1px solid var(--background-modifier-border);
+}
+
+.storyteller-compile-actions h4 {
+    margin-bottom: 12px;
+}
+
+.storyteller-compile-actions button.mod-cta {
+    font-size: 1em;
+    padding: 10px 20px;
+}
+
+/* Word count status bar */
+.storyteller-word-count-status {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 0.85em;
+    color: var(--text-muted);
+}
+
+.storyteller-word-count-status.goal-reached {
+    color: var(--text-success);
+}
+
+/* Compile progress indicator */
+.storyteller-compile-progress {
+    margin-top: 12px;
+    padding: 12px;
+    background: var(--background-secondary);
+    border-radius: 8px;
+}
+
+.storyteller-compile-progress-bar {
+    height: 8px;
+    background: var(--background-modifier-border);
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.storyteller-compile-progress-fill {
+    height: 100%;
+    background: var(--interactive-accent);
+    transition: width 0.3s ease;
+}
+
+.storyteller-compile-progress-text {
+    margin-top: 8px;
+    font-size: 0.85em;
+    color: var(--text-muted);
+    text-align: center;
+}
+
+/* Scene order header with actions */
+.storyteller-scene-order-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 12px;
+}
+
+.storyteller-scene-order-header h4 {
+    margin: 0;
+}
+
+.storyteller-scene-order-actions {
+    display: flex;
+    gap: 6px;
+}
+
+.storyteller-scene-order-actions button {
+    padding: 4px 8px;
+    font-size: 0.9em;
+    background: var(--background-modifier-hover);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.storyteller-scene-order-actions button:hover {
+    background: var(--interactive-accent);
+    color: var(--text-on-accent);
+}
+
+/* Chapter dividers in scene list */
+.storyteller-chapter-divider {
+    padding: 8px 12px;
+    background: var(--background-secondary-alt);
+    border-bottom: 1px solid var(--background-modifier-border);
+    font-weight: 600;
+    font-size: 0.9em;
+    color: var(--text-accent);
+}
+
+.storyteller-chapter-label {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+/* Empty draft state */
+.storyteller-empty-draft {
+    padding: 24px;
+    text-align: center;
+    background: var(--background-secondary);
+    border-radius: 8px;
+}
+
+.storyteller-empty-draft p {
+    margin-bottom: 12px;
+    color: var(--text-muted);
+}
+
+/* Scene word count display */
+.storyteller-scene-wordcount {
+    font-size: 0.85em;
+    color: var(--text-muted);
+    margin-left: 4px;
+}
+
+/* Workflow selector */
+.storyteller-workflow-selector {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 12px;
+}
+
+.storyteller-workflow-select {
+    flex: 1;
+    padding: 6px 10px;
+    border-radius: 4px;
+    background: var(--background-secondary);
+    color: var(--text-normal);
+    border: 1px solid var(--background-modifier-border);
+    font-size: 0.95em;
+}
+
+.storyteller-workflow-description {
+    font-size: 0.85em;
+    color: var(--text-muted);
+    font-style: italic;
+    margin-bottom: 12px;
+    padding: 8px;
+    background: var(--background-secondary);
+    border-radius: 4px;
+}
+
+/* ============================================
+   CHAPTER-GROUPED SCENES & CHAPTERS UI
+   ============================================ */
+
+.storyteller-chapter-group {
+    margin-bottom: 8px;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 8px;
+    overflow: hidden;
+    background: var(--background-primary);
+}
+
+.storyteller-chapter-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 12px 14px;
+    background: var(--background-secondary);
+    cursor: pointer;
+    border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.storyteller-chapter-header:hover {
+    background: var(--background-secondary-alt);
+}
+
+.storyteller-chapter-header-compact {
+    padding: 8px 12px;
+}
+
+.storyteller-chapter-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+    transition: transform 0.15s ease;
+    color: var(--text-muted);
+}
+
+.storyteller-chapter-toggle.collapsed {
+    transform: rotate(-90deg);
+}
+
+.storyteller-chapter-toggle svg {
+    width: 16px;
+    height: 16px;
+}
+
+.storyteller-chapter-title-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex: 1;
+}
+
+.storyteller-chapter-title-row strong {
+    font-size: 1em;
+    color: var(--text-normal);
+}
+
+.storyteller-chapter-scene-count {
+    font-size: 0.8em;
+    color: var(--text-muted);
+    background: var(--background-modifier-border);
+    padding: 2px 8px;
+    border-radius: 10px;
+}
+
+.storyteller-chapter-summary {
+    font-size: 0.85em;
+    color: var(--text-muted);
+    margin: 4px 0 0 0;
+    line-height: 1.3;
+}
+
+.storyteller-chapter-scenes {
+    padding: 8px 12px 12px 36px;
+    background: var(--background-primary);
+}
+
+.storyteller-chapter-scenes .storyteller-list-item,
+.storyteller-chapter-scenes .storyteller-scene-item {
+    margin: 6px 0;
+    padding: 8px 12px;
+    background: var(--background-secondary);
+    border-radius: 6px;
+    border: 1px solid transparent;
+}
+
+.storyteller-chapter-scenes .storyteller-list-item:hover,
+.storyteller-chapter-scenes .storyteller-scene-item:hover {
+    border-color: var(--interactive-accent);
+    background: var(--background-secondary-alt);
+}
+
+.storyteller-scene-item .storyteller-list-item-info strong {
+    font-size: 0.95em;
+}
+
+.storyteller-scene-preview {
+    font-size: 0.8em;
+    color: var(--text-muted);
+    margin: 4px 0 0 0;
+    line-height: 1.3;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 400px;
+}
+
+.storyteller-no-scenes {
+    font-size: 0.85em;
+    color: var(--text-faint);
+    font-style: italic;
+    padding: 8px 0;
+    margin: 0;
+}
+
+.storyteller-add-scene-btn {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 10px;
+    margin-top: 8px;
+    color: var(--text-muted);
+    font-size: 0.85em;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: all 0.15s ease;
+}
+
+.storyteller-add-scene-btn:hover {
+    background: var(--background-secondary);
+    color: var(--interactive-accent);
+}
+
+.storyteller-add-scene-btn svg {
+    width: 14px;
+    height: 14px;
+}
+
+.storyteller-unassigned-group {
+    border-color: var(--text-faint);
+    opacity: 0.85;
+}
+
+.storyteller-unassigned-group .storyteller-chapter-header {
+    background: var(--background-primary-alt);
+}
+
+.storyteller-unassigned-badge {
+    background: var(--text-faint) !important;
+}
+
+.storyteller-status-badge {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-size: 0.75em;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.storyteller-status-draft {
+    background: var(--background-modifier-border);
+    color: var(--text-muted);
+}
+
+.storyteller-status-wip,
+.storyteller-status-in-progress {
+    background: rgba(var(--color-yellow-rgb), 0.2);
+    color: var(--color-yellow);
+}
+
+.storyteller-status-revised,
+.storyteller-status-editing {
+    background: rgba(var(--color-blue-rgb), 0.2);
+    color: var(--color-blue);
+}
+
+.storyteller-status-complete,
+.storyteller-status-done,
+.storyteller-status-final {
+    background: rgba(var(--color-green-rgb), 0.2);
+    color: var(--color-green);
+}
+
+.storyteller-assign-chapter-btn {
+    padding: 4px 8px;
+    font-size: 0.8em;
+    background: var(--interactive-accent);
+    color: var(--text-on-accent);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.storyteller-assign-chapter-btn:hover {
+    opacity: 0.9;
+}
+
+.storyteller-chapter-assign-select {
+    padding: 4px 8px;
+    font-size: 0.85em;
+    border-radius: 4px;
+    background: var(--background-secondary);
+    color: var(--text-normal);
+    border: 1px solid var(--interactive-accent);
+}
+
+/* ===========================================
+   GALLERY SECTION - Markdown Note Image Grid
+   ===========================================
+   Styles for the auto-generated ## Gallery section
+   in location/event markdown notes. Creates a
+   responsive CSS grid layout for image embeds.
+*/
+
+/* Target the Gallery section content in reading view */
+.markdown-reading-view h2:has(+ p .internal-embed),
+.markdown-preview-view h2:has(+ p .internal-embed) {
+    margin-bottom: 0.5em;
+}
+
+/* Gallery images container - paragraph following ## Gallery */
+.markdown-reading-view p:has(> .internal-embed.image-embed),
+.markdown-preview-view p:has(> .internal-embed.image-embed) {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+/* Individual gallery images */
+.markdown-reading-view p > .internal-embed.image-embed,
+.markdown-preview-view p > .internal-embed.image-embed {
+    margin: 0;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.markdown-reading-view p > .internal-embed.image-embed:hover,
+.markdown-preview-view p > .internal-embed.image-embed:hover {
+    transform: scale(1.02);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+}
+
+.markdown-reading-view p > .internal-embed.image-embed img,
+.markdown-preview-view p > .internal-embed.image-embed img {
+    display: block;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+/* ===========================================
+   FILTER CHIPS - Active Filter Display
+   ===========================================
+   Displays active filters as removable tags/chips
+   above the timeline for easy visibility and removal.
+*/
+
+.storyteller-filter-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding: 8px 12px;
+    min-height: 24px;
+}
+
+.storyteller-filter-chips:empty {
+    display: none;
+    padding: 0;
+    min-height: 0;
+}
+
+.filter-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 4px 10px;
+    background: var(--interactive-accent);
+    color: var(--text-on-accent);
+    border-radius: 16px;
+    font-size: var(--font-ui-smaller);
+    font-weight: 500;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.filter-chip:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.18);
+}
+
+.filter-chip-remove {
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1;
+    padding: 2px 4px;
+    border-radius: 50%;
+    transition: background 150ms ease;
+    opacity: 0.8;
+}
+
+.filter-chip-remove:hover {
+    background: rgba(0, 0, 0, 0.2);
+    opacity: 1;
+}
+
+
