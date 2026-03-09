@@ -69,7 +69,10 @@
   "factionFolderPath": "🌎 - Worldbuilding & Lore/Story/Factions",
   "magicSystemFolderPath": "🌎 - Worldbuilding & Lore/Story/MagicSystems",
   "enableSensoryProfiles": true,
-  "hiddenDashboardTabs": [],
+  "hiddenDashboardTabs": [
+    "references",
+    "magicsystems"
+  ],
   "templateStorageFolder": "StorytellerSuite/Templates",
   "showBuiltInTemplates": true,
   "showCommunityTemplates": false,

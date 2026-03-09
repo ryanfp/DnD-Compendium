@@ -6,7 +6,7 @@
       {
         "id": "0f4096b47ff804e0",
         "type": "tabs",
-        "dimension": 44.6611409068747,
+        "dimension": 63.84180790960452,
         "children": [
           {
             "id": "c52ca86d1c1d3ec8",
@@ -255,14 +255,47 @@
               "icon": "lucide-file",
               "title": "HB-Barbarian"
             }
+          },
+          {
+            "id": "9ed7da64a0bae6ee",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "test"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "e6e218d8a1f50440",
         "type": "split",
-        "dimension": 55.3388590931253,
+        "dimension": 36.15819209039548,
         "children": [
           {
             "id": "5056492b6a49b63e",
@@ -1073,10 +1106,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homebrew In-Progress/Classes/References/alternate-barbarian-llab.md"
+                "file": "test.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for alternate-barbarian-llab"
+              "title": "File properties for test"
             }
           },
           {
@@ -1097,9 +1130,28 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "7353047f2ae3f48d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "storyteller-dashboard-view",
+              "state": {},
+              "icon": "book-open",
+              "title": "Storyteller suite"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "21f9e4c778ac3689",
@@ -1152,7 +1204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 657.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -1192,8 +1244,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "fcaa59025a7544d2",
+  "active": "7353047f2ae3f48d",
   "lastOpenFiles": [
+    "test.md",
+    "Homebrew In-Progress/Classes/References/alternate-barbarian-llab.md",
     "🌎 - Worldbuilding & Lore/Chapters",
     "🌎 - Worldbuilding & Lore/Items",
     "🌎 - Worldbuilding & Lore/Story/MagicSystems",
@@ -1204,12 +1258,9 @@
     "🌎 - Worldbuilding & Lore/Story",
     "🌎 - Worldbuilding & Lore/Scenes",
     "🌎 - Worldbuilding & Lore/Campaign Settings/Chapters",
-    "🌎 - Worldbuilding & Lore/References",
     "Untitled.md",
-    "Homebrew In-Progress/Classes/References/alternate-barbarian-llab.md",
     "Untitled 1.md",
     "Homebrew In-Progress/Untitled 2.md",
-    "Untitled 2.md",
     "5e Tools Website To-Do & Ideas.md",
     "z_img/image-148.png",
     "Homebrew In-Progress/Classes/HB-Barbarian.md",
