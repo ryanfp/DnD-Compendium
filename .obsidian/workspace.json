@@ -222,42 +222,9 @@
               "icon": "lucide-file",
               "title": "alternate-barbarian-llab"
             }
-          },
-          {
-            "id": "16c897d054ec87c8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homebrew In-Progress/Classes/HB-Barbarian.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "HB-Barbarian"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "e6e218d8a1f50440",
@@ -1211,8 +1178,11 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "7353047f2ae3f48d",
+  "active": "90ff919bec40b701",
   "lastOpenFiles": [
+    "🌎 - Worldbuilding & Lore/Characters/Dusknoir.md",
+    "z_img/Dusknoir 2026-03-09 21.06.51.excalidraw.md",
+    "Homebrew In-Progress/Classes/HB-Barbarian.md",
     "🌎 - Worldbuilding & Lore/Characters/Grovyle.md",
     "🌎 - Worldbuilding & Lore/Events/Birth of the Progenitor Dragons.md",
     "test.md",
@@ -1244,9 +1214,6 @@
     "🌎 - Worldbuilding & Lore/Faiths",
     "🌎 - Worldbuilding & Lore/Factions/dragonmarked-houses/house-vol.md",
     "🌎 - Worldbuilding & Lore/Factions/dragonmarked-houses/house-sivis.md",
-    "🌎 - Worldbuilding & Lore/Factions/dragonmarked-houses/house-tharashk.md",
-    "🌎 - Worldbuilding & Lore/Factions/dragonmarked-houses/house-orien.md",
-    "🌎 - Worldbuilding & Lore/Factions/dragonmarked-houses/house-lyrandar.md",
     "🌎 - Worldbuilding & Lore/Factions/dragonmarked-houses",
     "🌎 - Worldbuilding & Lore/Factions",
     "z_img/image-148.png",

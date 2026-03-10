@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "alternate-barbarian-llab",
+      "path": "Homebrew In-Progress/Classes/References/alternate-barbarian-llab.md"
+    },
+    {
+      "basename": "Dusknoir",
+      "path": "🌎 - Worldbuilding & Lore/Characters/Dusknoir.md"
+    },
+    {
+      "basename": "Dusknoir 2026-03-09 21.06.51.excalidraw",
+      "path": "z_img/Dusknoir 2026-03-09 21.06.51.excalidraw.md"
+    },
+    {
       "basename": "HB-Barbarian",
       "path": "Homebrew In-Progress/Classes/HB-Barbarian.md"
     },
     {
       "basename": "test",
       "path": "test.md"
-    },
-    {
-      "basename": "alternate-barbarian-llab",
-      "path": "Homebrew In-Progress/Classes/References/alternate-barbarian-llab.md"
     },
     {
       "basename": "Untitled",
@@ -191,14 +199,6 @@
     {
       "basename": "Untitled",
       "path": "Color Palette/imgs/Untitled.md"
-    },
-    {
-      "basename": "Website CSS Map",
-      "path": "Color Palette/imgs/Website CSS Map.md"
-    },
-    {
-      "basename": "Color Palettes",
-      "path": "Color Palette/Color Palettes.base"
     }
   ],
   "omittedPaths": [],
