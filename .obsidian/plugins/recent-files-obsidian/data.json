@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "test",
+      "path": "test.md"
+    },
+    {
+      "basename": "quest",
+      "path": "z_Templates/DND/quest.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.md"
+    },
+    {
       "basename": "alternate-barbarian-llab",
       "path": "Homebrew In-Progress/Classes/References/alternate-barbarian-llab.md"
     },
@@ -15,18 +31,6 @@
     {
       "basename": "HB-Barbarian",
       "path": "Homebrew In-Progress/Classes/HB-Barbarian.md"
-    },
-    {
-      "basename": "test",
-      "path": "test.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.md"
     },
     {
       "basename": "Untitled 2",
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled 1",
       "path": "Color Palette/imgs/Untitled 1.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Color Palette/imgs/Untitled.md"
     }
   ],
   "omittedPaths": [],

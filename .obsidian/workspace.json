@@ -189,6 +189,42 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "quest",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/DND/quest.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"quest\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "test",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"test.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"test\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Untitled 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "quest",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/DND/quest.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":22},\"to\":{\"line\":29,\"ch\":22}}}"
+                },
+                {
+                  "title": "alternate-barbarian-llab",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew In-Progress/Classes/References/alternate-barbarian-llab.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"alternate-barbarian-llab\"}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Class Building Index",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew In-Progress/Classes/Class Building Index.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Class Building Index\"}",
@@ -205,9 +241,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew In-Progress/Classes/References/alternate-barbarian-llab.md",
-                "mode": "preview",
-                "source": false,
+                "file": "test.md",
+                "mode": "source",
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -220,7 +256,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "alternate-barbarian-llab"
+              "title": "test"
             }
           }
         ],
@@ -1174,17 +1210,23 @@
       "task-board:Open task board": false,
       "storyteller-suite:Open storyteller dashboard": false,
       "storyteller-suite:Apply template to story": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "90ff919bec40b701",
   "lastOpenFiles": [
+    "z_Templates/DND/quest.md",
+    "test.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Homebrew In-Progress/Classes/References/alternate-barbarian-llab.md",
+    "z_Templates/DND",
     "🌎 - Worldbuilding & Lore/Characters/Dusknoir.md",
     "z_img/Dusknoir 2026-03-09 21.06.51.excalidraw.md",
     "Homebrew In-Progress/Classes/HB-Barbarian.md",
     "🌎 - Worldbuilding & Lore/Characters/Grovyle.md",
     "🌎 - Worldbuilding & Lore/Events/Birth of the Progenitor Dragons.md",
-    "test.md",
     "🌎 - Worldbuilding & Lore/Story/Maps",
     "🌎 - Worldbuilding & Lore/Story/concepts/the-stain.md",
     "🌎 - Worldbuilding & Lore/Story/concepts/planar-anchors.md",
@@ -1205,16 +1247,11 @@
     "🌎 - Worldbuilding & Lore/MagicSystems",
     "🌎 - Worldbuilding & Lore/Faiths/Religion/silver-flame.md",
     "🌎 - Worldbuilding & Lore/Faiths/Religion/blood-of-vol.md",
-    "🌎 - Worldbuilding & Lore/Faiths/Pantheon/sovereign-host.md",
-    "🌎 - Worldbuilding & Lore/Faiths/Pantheon/dark-six.md",
     "🌎 - Worldbuilding & Lore/Faiths/Religion",
     "🌎 - Worldbuilding & Lore/Faiths/Pantheon",
     "🌎 - Worldbuilding & Lore/Faiths/Deities",
     "🌎 - Worldbuilding & Lore/Faiths",
-    "🌎 - Worldbuilding & Lore/Factions/dragonmarked-houses/house-vol.md",
-    "🌎 - Worldbuilding & Lore/Factions/dragonmarked-houses/house-sivis.md",
     "🌎 - Worldbuilding & Lore/Factions/dragonmarked-houses",
-    "🌎 - Worldbuilding & Lore/Factions",
     "z_img/image-148.png",
     "z_img/image-147.png",
     "z_img/image-146.png",
