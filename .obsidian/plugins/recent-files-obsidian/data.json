@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "HB-Barbarian",
+      "path": "Homebrew In-Progress/Classes/HB-Barbarian.md"
+    },
+    {
       "basename": "test",
       "path": "test.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "5e Tools Website To-Do & Ideas",
       "path": "5e Tools Website To-Do & Ideas.md"
-    },
-    {
-      "basename": "HB-Barbarian",
-      "path": "Homebrew In-Progress/Classes/HB-Barbarian.md"
     },
     {
       "basename": "Classes",

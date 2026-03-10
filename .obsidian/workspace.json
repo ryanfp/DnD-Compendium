@@ -255,42 +255,9 @@
               "icon": "lucide-file",
               "title": "HB-Barbarian"
             }
-          },
-          {
-            "id": "9ed7da64a0bae6ee",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "test"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "e6e218d8a1f50440",
@@ -1246,6 +1213,9 @@
   },
   "active": "7353047f2ae3f48d",
   "lastOpenFiles": [
+    "🌎 - Worldbuilding & Lore/Characters/Grovyle.md",
+    "🌎 - Worldbuilding & Lore/Events/Birth of the Progenitor Dragons.md",
+    "test.md",
     "🌎 - Worldbuilding & Lore/Story/Maps",
     "🌎 - Worldbuilding & Lore/Story/concepts/the-stain.md",
     "🌎 - Worldbuilding & Lore/Story/concepts/planar-anchors.md",
@@ -1277,11 +1247,8 @@
     "🌎 - Worldbuilding & Lore/Factions/dragonmarked-houses/house-tharashk.md",
     "🌎 - Worldbuilding & Lore/Factions/dragonmarked-houses/house-orien.md",
     "🌎 - Worldbuilding & Lore/Factions/dragonmarked-houses/house-lyrandar.md",
-    "🌎 - Worldbuilding & Lore/Factions/dragonmarked-houses/house-cannith.md",
-    "🌎 - Worldbuilding & Lore/Factions/the-mosaic.md",
     "🌎 - Worldbuilding & Lore/Factions/dragonmarked-houses",
     "🌎 - Worldbuilding & Lore/Factions",
-    "🌎 - Worldbuilding & Lore/Economies",
     "z_img/image-148.png",
     "z_img/image-147.png",
     "z_img/image-146.png",
