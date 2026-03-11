@@ -4526,7 +4526,7 @@ Rather than forging a pact inked by blood or bound to your soul, you have inheri
 
 Countless Legacies have imbued warlocks with ancient powers, and only a few remain today, but each posses a unique type of relic and bestows a unique type of transformation. How you use this transformation is ultimately up to you, but the legacy conspires to see you achieve greatness and advance it’s unknowable ancient goals. 
 
-#### **The Magician**<sup>(VSS)</sup> %% Fold %%
+#### ~~**The Magician**~~<sup>(VSS)</sup> %% Fold %%
 
 While all warlocks are skilled in the art of magic, very few are what most people would consider “magicians”, skilled in the arts of physical illusion, sleight of hand, and showmanship. Those with such talents might find themselves drawn to the mysterious Magician, believed to be a minor trickster deity (who most often takes the form of a white rabbit), long forgotten and bereft of worshippers. Under the Magician’s patronage, warlocks command an amalgamation of real and fake magic, such that it’s never clear if they’re casting spells, performing a ruse, or putting on a show. 
 
@@ -4534,11 +4534,11 @@ While all warlocks are skilled in the art of magic, very few are what most peopl
 
 #### ~~**Raven Queen**<sup>(UA)</sup>~~
 
-#### **The Archlich**<sup>(DAC)</sup> %% Fold %%
+#### **?The Archlich**<sup>(DAC)</sup> %% Fold %%
 
 You have made a pact with an archlich, a creature that has existed since the dawn of the last age and holds secrets of arcane magic that have been forgotten for thousands of years. Such a being desires only to expand its own power and influence, only using you as a pawn in its far larger scheme. Any lich powerful enough to form a pact has lived for many thousands of years, and many of them were involved in the invention of lichdom itself.
 
-#### **Ancient Dragons**<sup>(TOH)</sup> %% Fold %%
+#### **!!Ancient Dragons**<sup>(TOH)</sup> %% Fold %%
 
 You have made a pact with one or more ancient dragons or a dragon god. You wield a measure of their control over the elements and have insight into their deep mysteries. As your power and connection to your patron or patrons grows, you take on more draconic features, even sprouting scales and wings.
 
@@ -4554,7 +4554,7 @@ The Hunter in Darkness is an entity that sees all creatures as prey and enjoys i
 
 Though your patron isn’t mindless, it cares only for the thrill of the hunt and the spreading of fear. It cares not what you do with the power it grants you beyond that. Your connection with the Hunter can sometimes cause changes in your worldview. You might view every creature you meet as either predator or prey, or you might face problems with a “kill or be killed” attitude.
 
-#### **Old Wood**<sup>(TOH)</sup> %% Fold %%
+#### ~~**Old Wood**~~<sup>(TOH)</sup> %% Fold %%
 
 You have made a pact with the ancient intelligence of a primeval forest. Before the rise of human civilization, before the time of the elves, before even the dragons, there were the forests. Empires rise and fall around them, but the forests remain as a testament to nature’s endurance. 
 
@@ -4566,11 +4566,11 @@ Some who search for power settle on lesser gods or demon lords, others delve int
 
 Primordials stand in opposition to the Great Old Ones, the other side of the scale that maintains the balance of reality. Your primordial patron speaks to you in the language of omens, dreams, or intuition, and may call upon you to defend the natural world, to root out the forces of the Void, or even to manipulate seemingly random people or locations for reasons known only to their unfathomable purpose. While you can’t grasp the full measure of your patron’s designs, as long as your bond is strong, there is nothing that can stand in your way.
 
-#### **Wyrdweaver**<sup>(TOH)</sup> %% Fold %%
+#### ~~**Wyrdweaver**~~<sup>(TOH)</sup> %% Fold %%
 
 Your patron is probability itself, the personified wellspring of chance as embodied by chosen deities, entities, and eldritch beings across the planes. By binding yourself to the Wyrdweaver, you live by the roll of the dice and the flip of the coin, delighting in the randomness of life and the thrill of new experiences. You might find yourself driven to invade a lich’s keep to ask it about its favorite song, or you might leap onto a dragon’s back to have the right to call yourself a dragonrider. Life with a pact-bond to your patron might not be long, but it will be exciting.
 
-#### **Ancient Wyrm**<sup>(TCEE)</sup> %% Fold %%
+#### **!!Ancient Wyrm**<sup>(TCEE)</sup> %% Fold %%
 
 It has been your privilege to make a pact with an ancient dragon of untold power. They reside elsewhere--on an Elemental Plane, in the Elemental Chaos, or in a demiplane of their own creation, for example--but you are their emissary and agent on the Material Plane. Your patron has charged you with furthering their agenda, which generally amounts to glorifying their name, spreading respect for dragonkind, and gathering wealth on their behalf. In exchange for your loyalty and regular tribute, your patron grants you a sliver of their magical influence and prowess. 
 
@@ -4602,7 +4602,7 @@ Your patron is a formless entity given life by an endless hunger for death. Thes
 
 You have listened to the will of the stone, and made a pact with one of Eberron’s great earthen powers. The whispers of the daelkyr Orlassk corrupt many Warlocks to their cause, but similar magics may be the gifts of the greedy fey King Grayfinger or even the medusa Queen Sheshka of Cazhaak Draal. The gnomes of Lorghalan draw their power from their friendship with the earth elementals of their island; perhaps you have made peace with the earth itself.
 
-#### **The Muse**<sup>(FCG)</sup> %% Fold %%
+#### ~~**The Muse**~~<sup>(FCG)</sup> %% Fold %%
 
 Your patron is a spirit of inspiration, a being capable of bringing the best out in mortals. These entities seek to draw forth the pinnacle of mortal achievement, sometimes for altruistic purposes and other times for reasons more sinister. Your muse might be from the Upper Planes or a Leanan Sidhe from the Feywild. No matter the identity of your patron, your muse expects you to make something of great beauty with their gifts. If a long period of time passes without you creating something worthy, you may experience feelings of despair or longing that consume your thoughts, driving you back toward creation and the favor of your muse.
 
@@ -4636,7 +4636,7 @@ You have made pact with a tempestuous being, born of wind and rain: an ancient e
 
 Such powers tend to be far better at calling the chaotic power at their disposal than calming it, and many who ride the tempest will find the same is true for them, leaving destruction in their wake if they are not careful in how the use their power… if they even care about what remains in their wake.
 
-#### **The Dragon**<sup>(KT)</sup> %% Fold %%
+#### **!!The Dragon**<sup>(KT)</sup> %% Fold %%
 
 You’ve made a pact with a mighty dragon, who has bestowed you with a fraction of its terrifying power. The details of the arrangement varies widely—a metallic dragon may have made the pact to create a force of good or save a life, a chromatic dragon may have made their pact with you in exchange for service… or part of some manipulative plan that the minds of lesser mortals would struggle to comprehend. 
 
