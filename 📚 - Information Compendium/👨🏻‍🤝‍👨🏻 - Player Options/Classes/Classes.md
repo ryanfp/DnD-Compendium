@@ -4472,7 +4472,7 @@ Commanding the dark powers of the fallen, a Bone Warden watches over the endless
 
 *The beings that serve as patrons for warlocks are mighty inhabitants of other planes of existence — not gods, but almost godlike in their power. Various patrons give their warlocks access to different powers and invocations, and expect significant favors in return. Some patrons collect warlocks, doling out mystic knowledge relatively freely or boasting of their ability to bind mortals to their will. Other patrons bestow their power only grudgingly, and might make a pact with only one warlock. Warlocks who serve the same patron might view each other as allies, siblings, or rivals.*
 
-#### **The Archfey** %% Fold %%
+#### **$The Archfey** %% Fold %%
 
 Your patron is a lord or lady of the fey, a creature of legend who holds secrets that were forgotten before the mortal races were born. This being’s motivations are often inscrutable, and sometimes whimsical, and might involve a striving for greater magical power or the settling of age-old grudges. Beings of this sort include the Prince of Frost; the Queen of Air and Darkness, ruler of the Gloaming Court; Titania of the Summer Court; her consort Oberon, the Green Lord; Hyrsam, the Prince of Fools; and ancient hags.
 
@@ -4506,7 +4506,7 @@ You have plunged into a pact with the deeps. An entity of the ocean, the Element
 
 Entities of the deep that might empower a warlock include krakens, ancient water elementals, godlike hallucinations dreamed into being by kuo-toa, merfolk demigods, and sea hag covens.
 
-#### **The Genie** %% Fold %%
+#### **%The Genie** %% Fold %%
 
 You have made a pact with one of the rarest kinds of genie, a noble genie. Such entities rule vast fiefs on the Elemental Planes and have great influence over lesser genies and elemental creatures. Noble genies are varied in their motivations, but most are arrogant and wield power that rivals that of lesser deities. They delight in turning the table on mortals, who often bind genies into servitude, and readily enter into pacts that expand their reach.
 
@@ -4610,11 +4610,11 @@ Your patron is a spirit of inspiration, a being capable of bringing the best out
 
 An ancient specter, a mighty oni, or something else entirely, your patron grants you the power to manipulate the memories and perceptions of others to feed off of their regrets.
 
-#### **The Seeker**<sup>(ECHH)</sup> %% Fold %%
+#### **@@The Seeker**<sup>(ECHH)</sup> %% Fold %%
 
 The patrons of any two seeker warlocks are unlikely to share any common ground, other than the fact that they empowered a servant to act as their tool and agent, to find and retrieve whatever they require. Demon lords will seek lost lore the same as lesser divine beings of knowledge and craft, and to fulfill vastly different desires, while a tyrant or vengeful power might send seekers to find living targets.
 
-#### **The Lost Soul**<sup>(CCS)</sup> %% Fold %%
+#### **&&The Lost Soul**<sup>(CCS)</sup> %% Fold %%
 
 You have made a pact with a soul lost in the Ethereal Plane, a wanderer of the place between life and death. Trapped within an endless ethereal expanse, the lost soul may have motivations to correct whatever mistakes they made in life, and otherwise watches over you with curiosity. Using its powers, you become a master of its domain. 
 
@@ -4642,13 +4642,13 @@ You’ve made a pact with a mighty dragon, who has bestowed you with a fraction 
 
 Most often, these bonds are granted by ancient dragons steeped in immense power and knowledge, but sometimes partnerships of the lesser mortals and younger dragons have been recorded in more unique cases.
 
-#### **The Fey**<sup>(KT)</sup> %% Fold %%
+#### **$The Fey**<sup>(KT)</sup> %% Fold %%
 
 Your patron is a powerful being from the fanciful and chaotic fey realm. Pacts with fey are often strange and eclectic in nature, granting some small fraction of the vast but mysterious powers of the fey onto a mortal for often unknowable reasons… or perhaps trivial reasons mortal minds may find equally as baffling. 
 
 These sort of beings include powerful fairies, ancient hags, and fey lords of all types, ranging from beings curious and mischievous to horrifying and terrifying, from exuberant and joyful to seething piles of hatred given form. One never knows exactly what to expect when making a pact with a fey, but can safely assume their life will never be quite the same.
 
-#### **The Knowledge Keeper**<sup>(KT)</sup> %% Fold %%
+#### **@@The Knowledge Keeper**<sup>(KT)</sup> %% Fold %%
 
 You have made a pact with being of ancient knowledge. The actual nature of this being can vary greatly, it can be a Pact with a sentient library, an ancient spirit, or perhaps even a lost god of knowledge. This is a pact for a Warlock that seeks something beyond simple power: they seek knowledge—ancient and unknown knowledge that has once and will again exist. 
 
@@ -4666,7 +4666,7 @@ You have made a pact with a creature that revels in the madness and infinite pos
 
 Unlike devils with their carefully crafted words and contracts, your patron is beholden to nothing but its twisted whims. Many chaos warlocks find their powers to be a cruel curse, but those who embrace the chaos learn that unpredictability is their greatest source of strength.
 
-#### **The Noble Genie**<sup>(XLNEE)</sup> %% Fold %%
+#### **%The Noble Genie**<sup>(XLNEE)</sup> %% Fold %%
 
 Your pact is one that has been made by legendary advisors, philosophers, and tale-spinners of the desert lands, known throughout the land of Zakhara as sha’irs. Your patron is a noble genie, a creature whose spirit is infused with the primordial essence of the Elemental Planes. These creatures are the rarest and most powerful of their kind. They aim to achieve ultimate greatness, splendor, and the reverence of all beings. 
 
@@ -4678,7 +4678,7 @@ Malevolent beings such as mummies, vampires, and hags can unite the will of indi
 
 Regardless of their provenance, all swarms are faint echoes of the first Swarm. This inscrutable hivemind of insect-like creatures has infested the Ethereal Plane since time immemorial and perpetually gnaws at its walls, searching for a way into the Material Plane. No one can fathom the Swarm’s age or count its multitudes, but its purpose is clear: to assimilate all life. Warlocks who follow this patron share in its psionic power and can unleash its ethereal drones.
 
-#### **The Accursed Archive**<sup>(CFSA)</sup> %% Fold %%
+#### **@@The Accursed Archive**<sup>(CFSA)</sup> %% Fold %%
 
 In every library there is a book that has never been read, a section that has never been seen, and a hallway that leads to nowhere – yet, you have managed to read that tome of unspoken secrets, find that shelf of unholy blasphemies, and step beyond the dead-end corridor into the Accursed Archive, where you have become bound to the nightmare-inducing writings within. Demonology, blood magic, and the summoning of things from beyond are among the most mundane of topics here, but draw the eye and call to the hand nonetheless. By some malignant intelligence that selects only the most desperate, the most ambitious, and the most willing to sacrifice, the Accursed Archive collects souls to do it’s ruinous work": to share the terrible truths that reside upon it’s endless shelves, and bring chaos and upheaval to the outside world through the disclosure of these forgotten secrets. 
 
@@ -4690,9 +4690,9 @@ You’ve made a pact with a primal spirit of fire and the hunt — a scourge of 
 
 You’ve made a pact with the Eternal Citadel, a massive yet empty bastion that seems to wander between worlds, collecting travelers and releasing them once they agree to serve. The Eternal Citadel communicates through the silent transfer of emotions and feelings - an instinctual sense to follow a course of action, no matter how enigmatic it may seem. An unknown number of people have sworn their allegiance to the Citadel, and few ever meet, but they all serve the same end, known or otherwise: preservation against the forces that seek destruction. 
 
-#### **The Forbidden Graveyard**<sup>(CFSA)</sup> %% Fold %%
+#### **&&The Forbidden Graveyard**<sup>(CFSA)</sup> %% Fold %%
 
-You’ve stepped into the Forbidden Graveyard, a sanctuary found on the boundary between life and death, where the rare few whose minds are attuned to this place come to wander as their bodies heal or slip away into the cold clutches of the night. Those who embrace the experience and seal shut the Gate of Souls within find themselves gifted with an understanding of both the living and the dead. Unknown to all but those like you, the Gate requires repayment for this mercy, and only the souls of others will do. Choose wisely, for all who cross your path are marked for collection by the Graveyard. It is up to you to safeguard them from that dark plane or to send them there to the cold embrace of death.
+*Check for overlap with other Undead or Ethereal subclasses* You ’ve stepped into the Forbidden Graveyard, a sanctuary found on the boundary between life and death, where the rare few whose minds are attuned to this place come to wander as their bodies heal or slip away into the cold clutches of the night. Those who embrace the experience and seal shut the Gate of Souls within find themselves gifted with an understanding of both the living and the dead. Unknown to all but those like you, the Gate requires repayment for this mercy, and only the souls of others will do. Choose wisely, for all who cross your path are marked for collection by the Graveyard. It is up to you to safeguard them from that dark plane or to send them there to the cold embrace of death.
 
 #### **The Fallen Exile**<sup>(CFSA)</sup> %% Fold %%
 
