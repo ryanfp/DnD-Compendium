@@ -4630,7 +4630,7 @@ The most tame examples of these may have names or euphemisms that mortals know t
 
 The patron need not be aware of your existence or invested in it for their power to have affected you, fundamentally warping your mind and granting you powers. Most that would have this opportunity have their mind shattered, left tattered and insane by the experience, but you’ve managed to hang onto some semblance of sanity and wield the power grafted into your mind.
 
-#### **The Tempest**<sup>(KT)</sup> %% Fold %%
+#### **11The Tempest**<sup>(KT)</sup> %% Fold %%
 
 You have made pact with a tempestuous being, born of wind and rain: an ancient elemental, powerful storm giant, or perhaps a demigod of disagreeable weather. What they sought through you may vary, but the mere touch of their powers causes the storm winds to bend the knee. 
 
@@ -4704,7 +4704,7 @@ Don’t use as warlock subclass but make into the cardcaster???
 
 #### ~~**The Keeper of the Depths**<sup>(CFSA)</sup>~~
 
-#### **The Perfect Chord**<sup>(CFSA)</sup> %% Fold %%
+#### ~~**The Perfect Chord**~~<sup>(CFSA)</sup> %% Fold %%
 
 You have heard the most sublime sound in the world, and it has changed you forever. You’ve taken the resonance into your beating heart and it has brought meaning and inspiration to your days. The Perfect Chord resounds through the quiet places of the world as a clear and harmonious note that spirals with infinite complexity, gaining sentience and life with every sound it collects. It has no motive but to include every sound in the universe within itself, and it inspires others with an endless desire to find new forms of radiant music to call forth and collect. 
 
@@ -4714,7 +4714,7 @@ You have heard the most sublime sound in the world, and it has changed you forev
 
 Your patron is an otherworldly incarnation of fate that strides between planes; a living omen of ill luck and good fortune alike. Drawn to the dreams of mortals, it’s lesser reflections perch upon the chests of the unwary in their sleep, stealing breath and fragments of life from their victims as they feed upon the nightmares this brings. When they’ve had their fill, they return to their master, who sends them back again to hunt down the creatures that have escaped from the nightmares of those tormented by darker fates. You’ve drawn the attention of this creature, for good or ill, and have made your pact in the deepest shadows of the dark. Now, shadows boil around your hands, both inky black and snow white, tainted and blessed by the touch of the Inverse. You’ve been there, seen the sun of endless emptiness and the void of pure light that shines from beyond the stars, and you have felt the faze of nightmares that stare upon you with jealousy, and feeling their hate. They know that while you can depart unharmed, their nights are numbered. You’ve stolen their luck, and now you’ll use that power for your own ends.
 
-#### **The Stormlord**<sup>(CFSA)</sup> %% Fold %%
+#### **11The Stormlord**<sup>(CFSA)</sup> %% Fold %%
 
 You’ve made a pact with an ancient power known as the Storm Lord. Massive and timeless, this godlike entity sails the winds of the void through the darkest places between the skies of countless worlds. It is the spirit that consumes the purified souls of heroes as it welcomes them into it’s kingdom. It’s long tendrils of lightning cover the sky, heralding the violent tempest that follows. This entity finds silent amusement at seeing mortals in peril, and it tends to draw cults of shadowy beings to worship at it’s altars, performing dark rituals in the name of the Lord of Winds. You have stood before the Storm Lord, unbowed and unbroken, to make a pact that will shake the very fabric of reality. Sparks will leap from your fingertips and fog will rise from your breath as you strike down your enemies with the devastating and majestic power of the Master of the Unfallen Kingdom. 
 
@@ -4740,7 +4740,7 @@ Your patron is a powerful entity composed of a multitude of heads. These heads p
 
 #### ~~**The Ancient Beast**<sup>E</sup>~~
 
-#### **The Archmage**<sup>UAH</sup> %% Fold %%
+#### ~~**The Archmage**~~<sup>UAH</sup> %% Fold %%
 
 Your patron is an incredibly powerful magical practitioner — such as Blackstaff, Elminster, Fistandantilus, Gromphe Baenre, Mordenkainen, or Vecna — one whose skill and strength in the arcane arts has made them tantamount to a god. Such a mage may require minions to aid them in unlocking the great secrets of the multiverse, or perhaps they just need a subject for their eldritch experiments. 
 
@@ -4758,11 +4758,11 @@ You have pledged your allegiance to a spirit of mischief who delights in misdire
 
 You have made your pact with an entity that rules desolate tundras, ancient glaciers, and frozen mountain peaks, or even a portion of the Frostfell, the Quasi-Elemental Plane of Ice. The magic granted by your patron allows you to call upon the power of inhospitable places where the ice never melts and the frost expands to bury the frozen corpses of those foolish enough to brave its blizzards. Such beings — like Auril the Frostmaiden, the Ice Prince Cryonax, or legendary white dragons like Ingeloakastimizilian, better known as “Icingdeath” — seek to expand their arctic domains to freeze and rule the entirety of the planes they occupy, and will often recruit warlock minions to aid them in their conquest.
 
-#### **The Librarian**<sup>UAH</sup> %% Fold %%
+#### **@@The Librarian**<sup>UAH</sup> %% Fold %%
 
 You have made a pact with an enigmatic being that collects knowledge above all else. Whether it is a dragon with an unusual hoard, a fiendish purveyor of dark secrets, or the second face of a god of knowledge, your patron desires to know everything — and maybe, so do you. Your pact grants you the chance to learn far beyond your mortal scope, and as long as you seek what your patron does not yet know, such knowledge will remain within your reach.
 
-#### **The Titan**<sup>UAH</sup> %% Fold %%
+#### ~~**The Titan**~~<sup>UAH</sup> %% Fold %%
 
 Your patron is a being of unfathomable size, age, and strength, such as an astral dreadnought, an empyrean, a kraken like Slarkrethel, or a tarrasque. Titans such as these are quasi-deities created by gods, whether through the union of two deities, being manufactured on a divine forge, constituting from blood spilled from a god, or becoming manifested through divine will. Most often, the creators of a titan come to see it as a threat and imprison it with the intention of one day unleashing it on their enemies. 
 
