@@ -1,20 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Classes",
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
+      "basename": "celebi",
+      "path": "🌎 - Worldbuilding & Lore/Characters/npcs/celebi.md"
     },
     {
-      "basename": "quest",
-      "path": "z_Templates/DND/quest.md"
+      "basename": "blood-of-vol-priest-s1",
+      "path": "🌎 - Worldbuilding & Lore/Characters/npcs/blood-of-vol-priest-s1.md"
+    },
+    {
+      "basename": "ideas",
+      "path": "ideas.md"
+    },
+    {
+      "basename": "to-do-list",
+      "path": "to-do-list.md"
+    },
+    {
+      "basename": "Untitled 2",
+      "path": "Homebrew In-Progress/Untitled 2.md"
+    },
+    {
+      "basename": "Organization Hierarchy",
+      "path": "Homebrew In-Progress/Organization Hierarchy.md"
+    },
+    {
+      "basename": "Website Navigation Map",
+      "path": "Website Navigation Map.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.md"
     },
     {
       "basename": "Untitled",
       "path": "Untitled.md"
     },
     {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.md"
+      "basename": "5e Tools Website To-Do & Ideas",
+      "path": "5e Tools Website To-Do & Ideas.md"
+    },
+    {
+      "basename": "quest",
+      "path": "z_Templates/DND/quest.md"
+    },
+    {
+      "basename": "Classes",
+      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
     },
     {
       "basename": "alternate-barbarian-llab",
@@ -33,14 +65,6 @@
       "path": "Homebrew In-Progress/Classes/HB-Barbarian.md"
     },
     {
-      "basename": "Untitled 2",
-      "path": "Homebrew In-Progress/Untitled 2.md"
-    },
-    {
-      "basename": "5e Tools Website To-Do & Ideas",
-      "path": "5e Tools Website To-Do & Ideas.md"
-    },
-    {
       "basename": "Class Building Index",
       "path": "Homebrew In-Progress/Classes/Class Building Index.md"
     },
@@ -55,10 +79,6 @@
     {
       "basename": "artificer",
       "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/artificer.md"
-    },
-    {
-      "basename": "Website Navigation Map",
-      "path": "Website Navigation Map.md"
     },
     {
       "basename": "Homebrew Errata Guide",
@@ -79,10 +99,6 @@
     {
       "basename": "scam exposure",
       "path": "scam exposure.md"
-    },
-    {
-      "basename": "()",
-      "path": "().md"
     },
     {
       "basename": "Quick To-Do",
@@ -183,18 +199,6 @@
     {
       "basename": "Untitled 4",
       "path": "Color Palette/imgs/Untitled 4.md"
-    },
-    {
-      "basename": "Untitled 3",
-      "path": "Color Palette/imgs/Untitled 3.md"
-    },
-    {
-      "basename": "Untitled 2",
-      "path": "Color Palette/imgs/Untitled 2.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Color Palette/imgs/Untitled 1.md"
     }
   ],
   "omittedPaths": [],
