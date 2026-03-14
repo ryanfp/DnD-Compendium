@@ -137,6 +137,7 @@ tags:
 	- [ ] Bleeding = You take 1d4 Slashing damage at the start of your turn and you have disadvantage on Fortitude Saving Throws. Slashing and Piercing damage does an additional 1d4 of damage. You can take an Action to 
 	- [ ] Baned = You suffer a -1d4 penalty to all d20 tests. 
 	- [ ] Blessed = You add an additional 1d4 to all d20 tests.
+	- [ ] Doomed = The next time you go unconscious, you start with a number of failed death saves equal to the stacks of this condition. Max 3 stacks. If you go unconscious with 3 stacks of Doomed, you die instantly. 
 - [ ] Druids can change into Challenge rating zero creatures for free. It encourages them to get creative and it doesnt give them an advantage in combat. Also you can talk to animals regardless of what kind of druid you are but only if you can turn into it. So a level 3 Druid can't talk to fish, but a level 10 Druid can
 
 ### Spells

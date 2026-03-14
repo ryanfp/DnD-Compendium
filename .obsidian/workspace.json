@@ -314,7 +314,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "e6e218d8a1f50440",
@@ -1270,11 +1270,13 @@
       "task-board:Open task board": false,
       "storyteller-suite:Open storyteller dashboard": false,
       "storyteller-suite:Apply template to story": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "90ff919bec40b701",
+  "active": "29b4be69d1f4c07c",
   "lastOpenFiles": [
+    "🌎 - Worldbuilding & Lore/Characters/npcs/celebi.md",
     "🌎 - Worldbuilding & Lore/Characters/npcs/blood-of-vol-priest-s1.md",
     "ideas.md",
     "to-do-list.md",
@@ -1302,7 +1304,6 @@
     "🌎 - Worldbuilding & Lore/Story/concepts/irian-binding.md",
     "🌎 - Worldbuilding & Lore/Story/concepts/draconic-prophecy.md",
     "🌎 - Worldbuilding & Lore/Story/concepts/convergence.md",
-    "🌎 - Worldbuilding & Lore/Story/concepts/codex-mortis.md",
     "🌎 - Worldbuilding & Lore/Story/concepts",
     "🌎 - Worldbuilding & Lore/Story/campaign",
     "🌎 - Worldbuilding & Lore/MagicSystems",
