@@ -312,9 +312,19 @@
               "icon": "lucide-file",
               "title": "celebi"
             }
+          },
+          {
+            "id": "e339b5159e740498",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "e6e218d8a1f50440",
@@ -1270,11 +1280,10 @@
       "task-board:Open task board": false,
       "storyteller-suite:Open storyteller dashboard": false,
       "storyteller-suite:Apply template to story": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "29b4be69d1f4c07c",
+  "active": "e339b5159e740498",
   "lastOpenFiles": [
     "🌎 - Worldbuilding & Lore/Characters/npcs/celebi.md",
     "🌎 - Worldbuilding & Lore/Characters/npcs/blood-of-vol-priest-s1.md",
