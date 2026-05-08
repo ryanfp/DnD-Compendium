@@ -93,5 +93,10 @@
   "dailyWritingStats": [],
   "compileScriptsFolder": "StorytellerSuite/CompileScripts",
   "manuscriptOutputFolder": "StorytellerSuite/Manuscripts",
-  "disableLeafletGlobalExposure": false
+  "disableLeafletGlobalExposure": false,
+  "networkGraphZoom": 0.7379092812962361,
+  "networkGraphPan": {
+    "x": 81.26267176612507,
+    "y": 383.01869630995304
+  }
 }

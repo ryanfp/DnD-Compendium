@@ -316,11 +316,72 @@
           {
             "id": "e339b5159e740498",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "map test",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"map test.canvas\",\"viewState\":{\"x\":251.5,\"y\":92,\"zoom\":0}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"map test\"}",
+                  "eState": "{}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "map test.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "map test"
+            }
+          },
+          {
+            "id": "e95eee24d79514d6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "map test",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"map test.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"map test\"}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "map test.canvas",
+                "viewState": {
+                  "x": 230,
+                  "y": 140,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "map test"
             }
           }
         ],
@@ -1244,7 +1305,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 298.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -1283,8 +1344,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e339b5159e740498",
+  "active": "7353047f2ae3f48d",
   "lastOpenFiles": [
+    "🌎 - Worldbuilding & Lore/Story/MagicSystems",
+    "🌎 - Worldbuilding & Lore/Story/Economies",
+    "🌎 - Worldbuilding & Lore/Story/Cultures",
+    "map test.canvas",
+    "map test.md",
+    "Better Write-Up.md",
     "🌎 - Worldbuilding & Lore/Characters/npcs/celebi.md",
     "🌎 - Worldbuilding & Lore/Characters/npcs/blood-of-vol-priest-s1.md",
     "ideas.md",
@@ -1310,17 +1377,12 @@
     "🌎 - Worldbuilding & Lore/Story/concepts/the-stain.md",
     "🌎 - Worldbuilding & Lore/Story/concepts/planar-anchors.md",
     "🌎 - Worldbuilding & Lore/Story/concepts/orrery.md",
-    "🌎 - Worldbuilding & Lore/Story/concepts/irian-binding.md",
-    "🌎 - Worldbuilding & Lore/Story/concepts/draconic-prophecy.md",
-    "🌎 - Worldbuilding & Lore/Story/concepts/convergence.md",
     "🌎 - Worldbuilding & Lore/Story/concepts",
     "🌎 - Worldbuilding & Lore/Story/campaign",
     "🌎 - Worldbuilding & Lore/MagicSystems",
     "🌎 - Worldbuilding & Lore/Faiths/Religion",
     "🌎 - Worldbuilding & Lore/Faiths/Pantheon",
     "🌎 - Worldbuilding & Lore/Faiths/Deities",
-    "🌎 - Worldbuilding & Lore/Faiths",
-    "🌎 - Worldbuilding & Lore/Factions/dragonmarked-houses",
     "z_img/image-148.png",
     "z_img/image-147.png",
     "z_img/image-146.png",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "map test",
+      "path": "map test.md"
+    },
+    {
+      "basename": "map test",
+      "path": "map test.canvas"
+    },
+    {
       "basename": "Better Write-Up",
       "path": "Better Write-Up.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Untitled 5",
       "path": "Color Palette/imgs/Untitled 5.md"
-    },
-    {
-      "basename": "Untitled 4 1",
-      "path": "Color Palette/imgs/Untitled 4 1.md"
-    },
-    {
-      "basename": "Untitled 4",
-      "path": "Color Palette/imgs/Untitled 4.md"
     }
   ],
   "omittedPaths": [],
