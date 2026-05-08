@@ -312,80 +312,9 @@
               "icon": "lucide-file",
               "title": "celebi"
             }
-          },
-          {
-            "id": "e339b5159e740498",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "map test",
-                  "icon": "lucide-layout-dashboard",
-                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"map test.canvas\",\"viewState\":{\"x\":251.5,\"y\":92,\"zoom\":0}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"map test\"}",
-                  "eState": "{}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "map test.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "map test"
-            }
-          },
-          {
-            "id": "e95eee24d79514d6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "map test",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"map test.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"map test\"}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "map test.canvas",
-                "viewState": {
-                  "x": 230,
-                  "y": 140,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "map test"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "e6e218d8a1f50440",
@@ -1341,16 +1270,17 @@
       "task-board:Open task board": false,
       "storyteller-suite:Open storyteller dashboard": false,
       "storyteller-suite:Apply template to story": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "7353047f2ae3f48d",
+  "active": "90ff919bec40b701",
   "lastOpenFiles": [
+    "map test.canvas",
+    "map test.md",
     "🌎 - Worldbuilding & Lore/Story/MagicSystems",
     "🌎 - Worldbuilding & Lore/Story/Economies",
     "🌎 - Worldbuilding & Lore/Story/Cultures",
-    "map test.canvas",
-    "map test.md",
     "Better Write-Up.md",
     "🌎 - Worldbuilding & Lore/Characters/npcs/celebi.md",
     "🌎 - Worldbuilding & Lore/Characters/npcs/blood-of-vol-priest-s1.md",
@@ -1382,7 +1312,6 @@
     "🌎 - Worldbuilding & Lore/MagicSystems",
     "🌎 - Worldbuilding & Lore/Faiths/Religion",
     "🌎 - Worldbuilding & Lore/Faiths/Pantheon",
-    "🌎 - Worldbuilding & Lore/Faiths/Deities",
     "z_img/image-148.png",
     "z_img/image-147.png",
     "z_img/image-146.png",
