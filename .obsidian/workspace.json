@@ -43,13 +43,25 @@
                 }
               ]
             },
-            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
-              "pinned": true,
+              "type": "markdown",
+              "state": {
+                "file": "3-Save System.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "3-Save System"
             }
           },
           {
@@ -91,8 +103,7 @@
               "title": "Immediate Goals for Play"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -396,10 +407,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Immediate Goals for Play.md"
+                "file": "3-Save System.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Immediate Goals for Play"
+              "title": "File properties for 3-Save System"
             }
           }
         ],
@@ -496,10 +507,11 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "4d4c96f1fee84453",
+  "active": "c52ca86d1c1d3ec8",
   "lastOpenFiles": [
-    "Combat Enhancement Rolltables.md",
+    "3-Save System.md",
     "Immediate Goals for Play.md",
+    "Combat Enhancement Rolltables.md",
     "z_Inbox/Epilogue Story Map.md",
     "🌎 - Worldbuilding & Lore/Story/campaign/tier-2.md",
     "🌎 - Worldbuilding & Lore/Story/campaign/tier-1.md",
@@ -523,7 +535,6 @@
     "🌎 - Worldbuilding & Lore/Characters/npcs/blood-of-vol-priest-s1.md",
     "z_Inbox/C1 Epilogue.md",
     "z_Inbox/scam exposure.md",
-    "z_Inbox/Website Navigation Map.md",
     "map test.canvas",
     "Color Palette/Color Palettes.base",
     "z_Inbox",
