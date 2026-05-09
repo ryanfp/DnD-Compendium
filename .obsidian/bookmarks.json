@@ -22,30 +22,18 @@
               "title": "👨🏻‍🤝‍👨🏻 - Player Options"
             }
           ],
-          "title": "📚 - Information Compendium"
+          "title": "Compendium"
         },
         {
           "type": "group",
           "ctime": 1753239891978,
           "items": [],
-          "title": "⏰ - Archive"
-        },
-        {
-          "type": "group",
-          "ctime": 1753239891978,
-          "items": [],
-          "title": "🌎 - Worldbuilding & Lore"
+          "title": "Archive"
         },
         {
           "type": "file",
           "ctime": 1753239891978,
           "path": "Home.md",
-          "subpath": "#^-"
-        },
-        {
-          "type": "file",
-          "ctime": 1753239891978,
-          "path": "ideas.md",
           "subpath": "#^-"
         },
         {
@@ -121,12 +109,6 @@
           "subpath": "#^-"
         },
         {
-          "type": "file",
-          "ctime": 1753239891978,
-          "path": "to-do-list.md",
-          "subpath": "#^-"
-        },
-        {
           "type": "group",
           "ctime": 1753239891978,
           "items": [],
@@ -154,15 +136,16 @@
       "title": "sortspec"
     },
     {
-      "type": "folder",
-      "ctime": 1753415430688,
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Occultist"
+      "type": "file",
+      "ctime": 1755137188753,
+      "path": "Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
+      "title": "List of Classes"
     },
     {
       "type": "file",
-      "ctime": 1755137188753,
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md",
-      "title": "List of Classes"
+      "ctime": 1778365329879,
+      "path": "Immediate Goals for Play.md",
+      "title": "Goals for Campaign"
     }
   ]
 }

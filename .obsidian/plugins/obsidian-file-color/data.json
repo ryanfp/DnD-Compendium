@@ -80,19 +80,15 @@
   ],
   "fileColors": [
     {
-      "path": "🌎 - Worldbuilding & Lore",
-      "color": "18EvO1D6dnrsAmAvldByE"
-    },
-    {
-      "path": "📚 - Information Compendium",
+      "path": "Compendium",
       "color": "6r7Lg88CTwIJHfjXQtjcL"
     },
     {
-      "path": "📚 - Information Compendium/👨🏻‍🤝‍👨🏻 - Player Options",
+      "path": "Compendium/👨🏻‍🤝‍👨🏻 - Player Options",
       "color": "zqmq0C7UiDJwqroBcj2ev"
     },
     {
-      "path": "📚 - Information Compendium/⚔ - Features & Skills",
+      "path": "Compendium/⚔ - Features & Skills",
       "color": "18EvO1D6dnrsAmAvldByE"
     },
     {
@@ -100,11 +96,11 @@
       "color": "IlbPi6hZH2AmrR5pVce70"
     },
     {
-      "path": "📚 - Information Compendium/🎓 - Lore & Flavor",
+      "path": "Compendium/🎓 - Lore & Flavor",
       "color": "QiZEtw1ZJu58Op00fRET0"
     },
     {
-      "path": "📚 - Information Compendium/👹 - Bestiary/👹 - Bestiary.md",
+      "path": "Compendium/👹 - Bestiary/👹 - Bestiary.md",
       "color": "6-Pm7JuNYHo5FHzP7QY4E"
     },
     {
@@ -126,6 +122,10 @@
     {
       "path": "Script Backups",
       "color": "FiYlGcCufl0zVeLrXtv-G"
+    },
+    {
+      "path": "Archive",
+      "color": "QiZEtw1ZJu58Op00fRET0"
     }
   ]
 }

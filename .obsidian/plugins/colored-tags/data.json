@@ -1724,7 +1724,9 @@
     "concept/homebrew": 1,
     "concept/lore": 2,
     "concept/mechanic": 3,
-    "excalidraw": 77
+    "excalidraw": 77,
+    "quick-note": 78,
+    "quick-thoughts": 79
   },
   "_version": 3
 }
