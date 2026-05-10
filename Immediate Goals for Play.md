@@ -72,7 +72,7 @@ aliases:
 	- [ ] Short & Long Rests
 	- [ ] Exhaustion rules (Fatigue, Strife, recovering)
 	- [ ] Downtime
-	- [ ] Degrees of Success
+	- [x] Degrees of Success
 	- [ ] New Conditions
 		- [ ] **Slowed**
 		- [ ] **Hasted**
