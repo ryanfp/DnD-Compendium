@@ -5,12 +5,28 @@
       "path": "Homebrew Mechanics/Homebrew Conditions.md"
     },
     {
-      "basename": "Better Write-Up",
-      "path": "z_Inbox/Better Write-Up.md"
-    },
-    {
       "basename": "Immediate Goals for Play",
       "path": "Immediate Goals for Play.md"
+    },
+    {
+      "basename": "damage-type-interactions",
+      "path": "Homebrew In-Progress/damage-type-interactions.md"
+    },
+    {
+      "basename": "Homebrew Lists",
+      "path": "Homebrew In-Progress/Homebrew Lists.md"
+    },
+    {
+      "basename": "Homebrew Errata Guide",
+      "path": "Homebrew In-Progress/Homebrew Errata Guide.md"
+    },
+    {
+      "basename": "death-dying-desperate-actions-rules",
+      "path": "Homebrew In-Progress/death-dying-desperate-actions-rules.md"
+    },
+    {
+      "basename": "Better Write-Up",
+      "path": "z_Inbox/Better Write-Up.md"
     },
     {
       "basename": "5e Tools Website To-Do & Ideas",
@@ -19,18 +35,6 @@
     {
       "basename": "Desperate Actions",
       "path": "Homebrew Mechanics/Desperate Actions.md"
-    },
-    {
-      "basename": "damage-type-interactions",
-      "path": "Homebrew In-Progress/damage-type-interactions.md"
-    },
-    {
-      "basename": "Homebrew Errata Guide",
-      "path": "Homebrew In-Progress/Homebrew Errata Guide.md"
-    },
-    {
-      "basename": "Homebrew Lists",
-      "path": "Homebrew In-Progress/Homebrew Lists.md"
     },
     {
       "basename": "Degrees of Success",
@@ -127,10 +131,6 @@
     {
       "basename": "artificer",
       "path": "Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/artificer.md"
-    },
-    {
-      "basename": "death-dying-desperate-actions-rules",
-      "path": "Homebrew In-Progress/death-dying-desperate-actions-rules.md"
     },
     {
       "basename": "death_and_swan_song_rules_card_v1",

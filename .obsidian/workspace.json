@@ -101,17 +101,35 @@
             "id": "ba6d1265b7586e82",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "5e Tools Website To-Do & Ideas",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Inbox/5e Tools Website To-Do & Ideas.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"5e Tools Website To-Do & Ideas\"}",
-                  "eState": "{\"scroll\":244.77966101694915}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Homebrew Lists",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew In-Progress/Homebrew Lists.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Homebrew Lists\"}",
+                  "eState": "{\"scroll\":73.828125}"
+                },
+                {
+                  "title": "Homebrew Errata Guide",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew In-Progress/Homebrew Errata Guide.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Homebrew Errata Guide\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "death-dying-desperate-actions-rules",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew In-Progress/death-dying-desperate-actions-rules.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"death-dying-desperate-actions-rules\"}",
+                  "eState": "{\"scroll\":219.22222222222223}"
+                },
+                {
+                  "title": "Better Write-Up",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Inbox/Better Write-Up.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Better Write-Up\"}",
+                  "eState": "{\"scroll\":126.5}"
                 },
                 {
                   "title": "damage-type-interactions",
@@ -154,7 +172,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Inbox/Better Write-Up.md",
+                "file": "Homebrew In-Progress/damage-type-interactions.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -169,7 +187,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Better Write-Up"
+              "title": "damage-type-interactions"
             }
           }
         ],
@@ -647,14 +665,15 @@
   },
   "active": "10a85cd76f3a01ac",
   "lastOpenFiles": [
-    "z_Inbox/Better Write-Up.md",
     "Immediate Goals for Play.md",
     "Homebrew Mechanics/Homebrew Conditions.md",
+    "Homebrew In-Progress/damage-type-interactions.md",
+    "Homebrew In-Progress/Homebrew Lists.md",
+    "Homebrew In-Progress/Homebrew Errata Guide.md",
+    "Homebrew In-Progress/death-dying-desperate-actions-rules.md",
+    "z_Inbox/Better Write-Up.md",
     "z_Inbox/5e Tools Website To-Do & Ideas.md",
     "Homebrew Mechanics/Desperate Actions.md",
-    "Homebrew In-Progress/damage-type-interactions.md",
-    "Homebrew In-Progress/Homebrew Errata Guide.md",
-    "Homebrew In-Progress/Homebrew Lists.md",
     "Homebrew In-Progress/incapacitated.md",
     "Homebrew Mechanics/Conditions/Downed.md",
     "Homebrew Mechanics/Conditions",
@@ -674,7 +693,6 @@
     "🌎 - Worldbuilding & Lore/Story/concepts/irian-binding.md",
     "🌎 - Worldbuilding & Lore/Story/concepts/draconic-prophecy.md",
     "🌎 - Worldbuilding & Lore/Story/concepts/convergence.md",
-    "🌎 - Worldbuilding & Lore/Story/concepts/codex-mortis.md",
     "map test.canvas",
     "Color Palette/Color Palettes.base",
     "z_Inbox",

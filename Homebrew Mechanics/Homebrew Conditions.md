@@ -118,15 +118,6 @@ You have disadvantage on Initiative rolls and you have the rattled condition for
 
 *This section is for conditions that are completely new, or replace old conditions. These seek to increase depth of gameplay and interaction between systems. The goal is to not **overwhelm** the player, but **moderately integrate** these with the existing mechanics.*
 
-### Bewildered
-#### Associations:
-
-**Damage Type:**  
-**Spells/Abilities:** 
-
-#### Description
-
-- - -
 ### Bleeding
 #### Associations:
 
@@ -281,11 +272,15 @@ When you gain the shocked condition, you immediately drop one item you are holdi
 ### Stupefied
 #### Associations:
 
-**Damage Type:**  
+**Damage Type:**  Psychic
 **Spells/Abilities:** 
 
 #### Description
 
+Your thoughts and instincts are clouded. You have disadvantage on Intelligence, Wisdom, and Charisma-based checks and DCs, including Will saving throws, spell attack rolls, spell DCs, and skill checks that use these ability scores. You also suffer the following effects:
+
+- You can only take a Magic action to cast a Cantrip you know.
+- You have Disadvantage on Fortitude Saving Throws to maintain concentration on spells.
 - - -
 ### Weakened
 #### Associations:
@@ -327,6 +322,7 @@ While you have the wet condition, you are under the following effects:
 While under the withered condition, you suffer the following effects:
 
 - Healing you receive is halved.
+- Your HP maximum is reduced by the amount of Necrotic damage received that inflicted this condition on you.
 - You have disadvantage on Fortitude and Will saving throws.
 - 
 
@@ -338,3 +334,9 @@ While under the withered condition, you suffer the following effects:
 **Spells/Abilities:** 
 
 #### Description
+
+You gain one stack of this condition when you reach 0 HP. Each rolled death saving throw adds 1 and fails add +2 stacks. Max 5 stacks. 
+
+0 stacks go down +1 1 stack nest turn 1 stack roll failu
+
+ - When you are stabilized or gain 1 HP or more, all of your failed death saving throws are converted to the Wounded condition at a 2:1 rate. 
