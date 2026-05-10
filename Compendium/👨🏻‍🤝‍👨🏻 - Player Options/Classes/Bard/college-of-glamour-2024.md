@@ -64,7 +64,7 @@ The College of Glamour traces its origins to the beguiling magic of the Feywild.
 
 You always have the [Charm Person](/📚%20-%20Information%20Compendium/spells/charm-person-xphb.md) and [Mirror Image](/📚%20-%20Information%20Compendium/spells/mirror-image-xphb.md) spells prepared.
 
-In addition, immediately after you cast an Enchantment or Illusion spell using a spell slot, you can cause a creature you can see within 60 feet of yourself to make a Wisdom saving throw against your spell save DC. On a failed save, the target has the [Charmed](conditions.md#Charmed) or [Frightened](conditions.md#Frightened) condition (your choice) for 1 minute. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
+In addition, immediately after you cast an Enchantment or Illusion spell using a spell slot, you can cause a creature you can see within 60 feet of yourself to make a Wisdom saving throw against your spell save DC. On a failed save, the target has the [Charmed](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Charmed) or [Frightened](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened) condition (your choice) for 1 minute. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
 Once you use this benefit, you can't use it again until you finish a [Long Rest](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending one use of your Bardic Inspiration (no action required).
 
@@ -76,14 +76,14 @@ You can weave fey magic into a song or dance to fill others with vigor. As a [Bo
 
 You always have the [Command](/📚%20-%20Information%20Compendium/spells/command-xphb.md) spell prepared.
 
-As a [Bonus Action](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/bonus-action-xphb.md), you cast [Command](/📚%20-%20Information%20Compendium/spells/command-xphb.md) without expending a spell slot, and you take on an unearthly appearance for 1 minute or until your [Concentration](conditions.md#Concentration) ends. During this time, you can cast [Command](/📚%20-%20Information%20Compendium/spells/command-xphb.md) as a [Bonus Action](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/bonus-action-xphb.md) without expending a spell slot.
+As a [Bonus Action](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/bonus-action-xphb.md), you cast [Command](/📚%20-%20Information%20Compendium/spells/command-xphb.md) without expending a spell slot, and you take on an unearthly appearance for 1 minute or until your [Concentration](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Concentration) ends. During this time, you can cast [Command](/📚%20-%20Information%20Compendium/spells/command-xphb.md) as a [Bonus Action](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/bonus-action-xphb.md) without expending a spell slot.
 
-Any creature [Charmed](conditions.md#Charmed) by you automatically fails its saving throw against the [Command](/📚%20-%20Information%20Compendium/spells/command-xphb.md) you cast with this feature.
+Any creature [Charmed](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Charmed) by you automatically fails its saving throw against the [Command](/📚%20-%20Information%20Compendium/spells/command-xphb.md) you cast with this feature.
 
 Once you use this feature, you can't use it again until you finish a [Long Rest](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a level 3+ spell slot (no action required).
 
 ### Unbreakable Majesty (Level 14)
 
-As a [Bonus Action](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/bonus-action-xphb.md), you can assume a magically majestic presence for 1 minute or until you have the [Incapacitated](conditions.md#Incapacitated) condition. For the duration, whenever any creature hits you with an attack roll for the first time on a turn, the attacker must succeed on a Charisma saving throw against your spell save DC, or the attack misses instead, as the creature recoils from your majesty.
+As a [Bonus Action](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/bonus-action-xphb.md), you can assume a magically majestic presence for 1 minute or until you have the [Incapacitated](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated) condition. For the duration, whenever any creature hits you with an attack roll for the first time on a turn, the attacker must succeed on a Charisma saving throw against your spell save DC, or the attack misses instead, as the creature recoils from your majesty.
 
 Once you assume this majestic presence, you can't do so again until you finish a [Short](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/short-rest-xphb.md) or [Long Rest](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/long-rest-xphb.md).

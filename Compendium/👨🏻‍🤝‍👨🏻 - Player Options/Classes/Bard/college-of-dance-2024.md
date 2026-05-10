@@ -87,10 +87,10 @@ None of this feature's movement provokes [Opportunity Attacks](actions.md#Opport
 
 ### Tandem Footwork (Level 6)
 
-When you roll [Initiative](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/initiative-xphb.md), you can expend one use of your Bardic Inspiration if you don't have the [Incapacitated](conditions.md#Incapacitated) condition. When you do so, roll your Bardic Inspiration die; you and each ally within 30 feet of you who can see or hear you gains a bonus to [Initiative](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/initiative-xphb.md) equal to the number rolled.
+When you roll [Initiative](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/initiative-xphb.md), you can expend one use of your Bardic Inspiration if you don't have the [Incapacitated](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated) condition. When you do so, roll your Bardic Inspiration die; you and each ally within 30 feet of you who can see or hear you gains a bonus to [Initiative](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/initiative-xphb.md) equal to the number rolled.
 
 ### Leading Evasion (Level 14)
 
 When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. If any creatures within 5 feet of you are making the same Dexterity saving throw, you can share this benefit with them for that save.
 
-You can't use this feature if you have the [Incapacitated](conditions.md#Incapacitated) condition.
+You can't use this feature if you have the [Incapacitated](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated) condition.

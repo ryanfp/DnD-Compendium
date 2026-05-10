@@ -84,15 +84,15 @@ Starting at 1st level, your divine magic draws the blood from magically inflicte
 
 ### Channel Divinity: Crimson Bond (Level 2)
 
-Starting at 2nd level, you can use your Channel Divinity to form a supernatural bond with a creature you can see, or with a creature for which you possess a blood sample. This bond lasts for 1 hour or until your [concentration](conditions.md#Concentration) is broken (as if concentrating on a spell).
+Starting at 2nd level, you can use your Channel Divinity to form a supernatural bond with a creature you can see, or with a creature for which you possess a blood sample. This bond lasts for 1 hour or until your [concentration](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Concentration) is broken (as if concentrating on a spell).
 
-While the bond is in effect, you can use an action to learn the target's approximate distance and direction from you, as well as its current hit points and any conditions affecting it, as long as the target is within 10 miles of you. Alternatively, you can use your action to attempt to connect with the target's senses. You take `2d6` necrotic damage and the target makes a Constitution saving throw against your spell save DC. On a successful save, the bond ends. On a failure, you can choose to either see or hear through the target's senses for a number of minutes equal to your Wisdom modifier (minimum 1 minute). During this time, you are [blinded](conditions.md#Blinded) or [deafened](conditions.md#Deafened) (respectively) with regard to your own senses. When the connection ends, the bond is lost.
+While the bond is in effect, you can use an action to learn the target's approximate distance and direction from you, as well as its current hit points and any conditions affecting it, as long as the target is within 10 miles of you. Alternatively, you can use your action to attempt to connect with the target's senses. You take `2d6` necrotic damage and the target makes a Constitution saving throw against your spell save DC. On a successful save, the bond ends. On a failure, you can choose to either see or hear through the target's senses for a number of minutes equal to your Wisdom modifier (minimum 1 minute). During this time, you are [blinded](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Blinded) or [deafened](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Deafened) (respectively) with regard to your own senses. When the connection ends, the bond is lost.
 
 Regardless of the outcome, the target feels a wave of unease pass over it when it makes this save.
 
 ### Channel Divinity: Blood Puppet (Level 6)
 
-Starting at 6th level, you can use your Channel Divinity to briefly control a creature's actions—whether that creature is living or dead. As an action, you target a Large or smaller creature or corpse within 60 feet of you that has blood. A creature you target must succeed on a Wisdom saving throw against your spell save DC or become [charmed](conditions.md#Charmed) by you. An [unconscious](conditions.md#Unconscious) creature automatically fails its saving throw, and isn't [incapacitated](conditions.md#Incapacitated) while you control its actions. A corpse targeted by this effect gains a semblance of life that you control.
+Starting at 6th level, you can use your Channel Divinity to briefly control a creature's actions—whether that creature is living or dead. As an action, you target a Large or smaller creature or corpse within 60 feet of you that has blood. A creature you target must succeed on a Wisdom saving throw against your spell save DC or become [charmed](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Charmed) by you. An [unconscious](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Unconscious) creature automatically fails its saving throw, and isn't [incapacitated](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated) while you control its actions. A corpse targeted by this effect gains a semblance of life that you control.
 
 On the affected creature or animated corpse's turn, you can command it (no action required) to move up to half its speed and use its action to do one of the following:
 
@@ -100,9 +100,9 @@ On the affected creature or animated corpse's turn, you can command it (no actio
 - Make a single [attack](actions.md#Attack)  
 - Do nothing  
 
-An animated corpse or an [unconscious](conditions.md#Unconscious) creature takes its turn immediately after yours, but can't move or take actions unless you command it to do so. Its statistics are the same as when it was alive or conscious.
+An animated corpse or an [unconscious](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Unconscious) creature takes its turn immediately after yours, but can't move or take actions unless you command it to do so. Its statistics are the same as when it was alive or conscious.
 
-An affected living creature makes a new saving throw at the end of each of its turns, ending the effect on itself on a success. For any target, your control lasts for 1 minute or until your [concentration](conditions.md#Concentration) is broken (as if concentrating on a spell).
+An affected living creature makes a new saving throw at the end of each of its turns, ending the effect on itself on a success. For any target, your control lasts for 1 minute or until your [concentration](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Concentration) is broken (as if concentrating on a spell).
 
 ### Sanguine Recall (Level 6)
 

@@ -66,7 +66,7 @@ If you use Reckless Attack while your Rage is active, you deal extra damage to t
 
 ### Mindless Rage (Level 6)
 
-You have [Immunity](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/immunity-xphb.md) to the [Charmed](conditions.md#Charmed) and [Frightened](conditions.md#Frightened) conditions while your Rage is active. If you're [Charmed](conditions.md#Charmed) or [Frightened](conditions.md#Frightened) when you enter your Rage, the condition ends on you.
+You have [Immunity](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/immunity-xphb.md) to the [Charmed](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Charmed) and [Frightened](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened) conditions while your Rage is active. If you're [Charmed](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Charmed) or [Frightened](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened) when you enter your Rage, the condition ends on you.
 
 ### Retaliation (Level 10)
 
@@ -74,6 +74,6 @@ When you take damage from a creature that is within 5 feet of you, you can take 
 
 ### Intimidating Presence (Level 14)
 
-As a [Bonus Action](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/bonus-action-xphb.md), you can strike terror into others with your menacing presence and primal power. When you do so, each creature of your choice in a 30-foot [Emanation](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/emanation-area-of-effect-xphb.md) originating from you must make a Wisdom saving throw (DC 8 plus your Strength modifier and [Proficiency Bonus](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/proficiency-xphb.md)). On a failed save, a creature has the [Frightened](conditions.md#Frightened) condition for 1 minute. At the end of each of the [Frightened](conditions.md#Frightened) creature's turns, the creature repeats the save, ending the effect on itself on a success.
+As a [Bonus Action](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/bonus-action-xphb.md), you can strike terror into others with your menacing presence and primal power. When you do so, each creature of your choice in a 30-foot [Emanation](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/emanation-area-of-effect-xphb.md) originating from you must make a Wisdom saving throw (DC 8 plus your Strength modifier and [Proficiency Bonus](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/proficiency-xphb.md)). On a failed save, a creature has the [Frightened](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened) condition for 1 minute. At the end of each of the [Frightened](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened) creature's turns, the creature repeats the save, ending the effect on itself on a success.
 
 Once you use this feature, you can't use it again until you finish a [Long Rest](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/long-rest-xphb.md) unless you expend a use of your Rage (no action required) to restore your use of it.

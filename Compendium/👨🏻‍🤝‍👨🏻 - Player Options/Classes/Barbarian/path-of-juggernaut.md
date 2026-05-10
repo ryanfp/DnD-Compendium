@@ -71,7 +71,7 @@ Starting when you choose this path at 3rd level, your rage instills you with the
 
 ### Spirit of the Mountain (Level 3)
 
-At 3rd level, you harness your fury to anchor your feet to the ground, becoming a bulwark of strength. While you are raging, you can't be knocked [prone](conditions.md#Prone) or moved along the ground against your will.
+At 3rd level, you harness your fury to anchor your feet to the ground, becoming a bulwark of strength. While you are raging, you can't be knocked [prone](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Prone) or moved along the ground against your will.
 
 ### Demolishing Might (Level 6)
 
@@ -79,7 +79,7 @@ Starting at 6th level, your melee weapon attacks deal an extra `d8` damage to co
 
 ### Resolute Stance (Level 6)
 
-Also at 6th level, you can temporarily refocus your combat ability to make yourself a bulwark of defense. At the start of your turn (no action required), you can assume a defensive stance that lasts until the start of your next turn. While in this stance, you can't be [grappled](conditions.md#Grappled), attack rolls against you have disadvantage, and your weapon attacks are made with disadvantage.
+Also at 6th level, you can temporarily refocus your combat ability to make yourself a bulwark of defense. At the start of your turn (no action required), you can assume a defensive stance that lasts until the start of your next turn. While in this stance, you can't be [grappled](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Grappled), attack rolls against you have disadvantage, and your weapon attacks are made with disadvantage.
 
 ### Thunderous Blows (10th Level) (Level 10)
 
@@ -87,12 +87,12 @@ Starting at 10th level, you can push a creature up to 10 feet when you hit it wi
 
 ### Hurricane Strike (Level 10)
 
-Starting at 10th level, your blows can hurl foes through the air and into the attacks of your allies. As a reaction when you push a creature at least 5 feet, you can then leap into an unoccupied space next to the creature. If you do so, the creature must succeed on a Strength saving throw with a DC equal to 8 + your proficiency bonus + your Strength modifier or be knocked [prone](conditions.md#Prone). This leap costs no movement and does not provoke [opportunity attacks](actions.md#Opportunity%20Attack).
+Starting at 10th level, your blows can hurl foes through the air and into the attacks of your allies. As a reaction when you push a creature at least 5 feet, you can then leap into an unoccupied space next to the creature. If you do so, the creature must succeed on a Strength saving throw with a DC equal to 8 + your proficiency bonus + your Strength modifier or be knocked [prone](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Prone). This leap costs no movement and does not provoke [opportunity attacks](actions.md#Opportunity%20Attack).
 
 Additionally, whenever you push a creature into a space within 5 feet of one of your allies, the ally can use its reaction to make a melee weapon attack against that creature.
 
 ### Unstoppable (Level 14)
 
-At 14th level, your fury in battle makes you unstoppable. While you're raging, your speed cannot be reduced, and you are immune to the [frightened](conditions.md#Frightened), [paralyzed](conditions.md#Paralyzed), [prone](conditions.md#Prone), and [stunned](conditions.md#Stunned) conditions.
+At 14th level, your fury in battle makes you unstoppable. While you're raging, your speed cannot be reduced, and you are immune to the [frightened](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened), [paralyzed](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Paralyzed), [prone](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Prone), and [stunned](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Stunned) conditions.
 
-If you are [frightened](conditions.md#Frightened), [paralyzed](conditions.md#Paralyzed), or [stunned](conditions.md#Stunned), you can still use a bonus action to enter a rage (even if you can't otherwise take actions). You aren't affected by any of these conditions while you're raging.
+If you are [frightened](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened), [paralyzed](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Paralyzed), or [stunned](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Stunned), you can still use a bonus action to enter a rage (even if you can't otherwise take actions). You aren't affected by any of these conditions while you're raging.

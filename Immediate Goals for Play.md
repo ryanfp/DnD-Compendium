@@ -66,7 +66,7 @@ aliases:
 - [ ] Finalize Meta Mechanic Changes
 	- [x] 3-save system & related abilities
 	- [ ] Downed condition, dying, wounded condition
-	- [ ] death moves
+	- [x] death moves
 	- [ ] Swan song
 	- [ ] death and resurrection rituals
 	- [ ] Short & Long Rests

@@ -126,6 +126,6 @@ Starting at 18th level, you can use a bonus action and expend a charged rune to 
 - You have resistance to damage dealt by spells.  
 - Whenever you cast a spell of 1st level or higher, you regain hit points equal to the spell's level.  
 
-Your exemplar form lasts until the end of your turn. However, you can expend a charged rune at the end of your turn (no action required) to extend the duration until the end of your next turn. When your exemplar form ends, you are [stunned](conditions.md#Stunned) until the end of your next turn.
+Your exemplar form lasts until the end of your turn. However, you can expend a charged rune at the end of your turn (no action required) to extend the duration until the end of your next turn. When your exemplar form ends, you are [stunned](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Stunned) until the end of your next turn.
 
 Once you use this feature, you can't use it again until you complete a long rest.

@@ -96,7 +96,7 @@ Starting at 10th level, the creatures you conjure are malformed and bloated with
 
 _Source: Tal'Dorei Campaign Setting Reborn_
 
-The creature has immunity to necrotic and poison damage and to the [poisoned](conditions.md#Poisoned) condition.
+The creature has immunity to necrotic and poison damage and to the [poisoned](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Poisoned) condition.
 
 #### Toxic Demise
 

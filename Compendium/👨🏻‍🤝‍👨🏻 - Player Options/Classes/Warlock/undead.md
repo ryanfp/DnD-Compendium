@@ -84,8 +84,8 @@ The Undead lets you choose from an expanded list of spells when you learn a warl
 You manifest an aspect of your patron's dreadful power. As a bonus action, you transform for 1 minute. You gain the following benefits while transformed:
 
 - You gain temporary hit points equal to `d10` + your warlock level.  
-- Once during each of your turns, when you hit a creature with an attack roll, you can force it to make a Wisdom saving throw, and if the saving throw fails, the target is [frightened](conditions.md#Frightened) of you until the end of your next turn.  
-- You are immune to the [frightened](conditions.md#Frightened) condition.  
+- Once during each of your turns, when you hit a creature with an attack roll, you can force it to make a Wisdom saving throw, and if the saving throw fails, the target is [frightened](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened) of you until the end of your next turn.  
+- You are immune to the [frightened](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened) condition.  
 
 You can transform a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
@@ -105,15 +105,15 @@ In addition, once during each of your turns, when you hit a creature with an att
 
 Your connection to undeath and necrotic energy now saturates your body. You have resistance to necrotic damage. If you are transformed using your Form of Dread, you instead become immune to necrotic damage.
 
-In addition, when you would be reduced to 0 hit points, you can use your reaction to drop to 1 hit point instead and cause your body to erupt with deathly energy. Each creature of your choice that is within 30 feet of you takes necrotic damage equal to `2d10` + your warlock level. You then gain 1 level of [exhaustion](conditions.md#Exhaustion). Once you use this reaction, you can't do so again until you finish `d4` long rests.
+In addition, when you would be reduced to 0 hit points, you can use your reaction to drop to 1 hit point instead and cause your body to erupt with deathly energy. Each creature of your choice that is within 30 feet of you takes necrotic damage equal to `2d10` + your warlock level. You then gain 1 level of [exhaustion](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Exhaustion). Once you use this reaction, you can't do so again until you finish `d4` long rests.
 
 ### Spirit Projection (Level 14)
 
 *14th-level Undead feature*
 
-Your spirit can become untethered from your physical form. As an action, you can project your spirit from your body. The body you leave behind is [unconscious](conditions.md#Unconscious) and in a state of suspended animation.
+Your spirit can become untethered from your physical form. As an action, you can project your spirit from your body. The body you leave behind is [unconscious](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Unconscious) and in a state of suspended animation.
 
-Your spirit resembles your mortal form in almost every way, replicating your game statistics but not your possessions. Any damage or other effects that apply to your spirit or physical body affects the other. Your spirit can remain outside your body for up to 1 hour or until your [concentration](conditions.md#Concentration) is broken (as if [concentrating](conditions.md#Concentration) on a spell). When your projection ends, your spirit returns to your body or your body magically teleports to your spirit's space (your choice).
+Your spirit resembles your mortal form in almost every way, replicating your game statistics but not your possessions. Any damage or other effects that apply to your spirit or physical body affects the other. Your spirit can remain outside your body for up to 1 hour or until your [concentration](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Concentration) is broken (as if [concentrating](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Concentration) on a spell). When your projection ends, your spirit returns to your body or your body magically teleports to your spirit's space (your choice).
 
 While projecting your spirit, you gain the following benefits:
 

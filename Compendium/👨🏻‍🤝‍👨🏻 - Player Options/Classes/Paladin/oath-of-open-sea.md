@@ -122,11 +122,11 @@ As a bonus action, you channel the powerful might of the waves to bolster your a
 
 ### Aura of Liberation (Level 7)
 
-Starting at 7th level, you fill nearby creatures with the energy of movement. While you're not [incapacitated](conditions.md#Incapacitated), you and creatures of your choice within 10 feet of you cannot be [grappled](conditions.md#Grappled) or [restrained](conditions.md#Restrained), and ignore penalties on movement and attacks while underwater. Creatures that are already [grappled](conditions.md#Grappled) or [restrained](conditions.md#Restrained) when they enter the aura can spend 5 feet of movement to automatically escape unless they are bound by magic restraints.
+Starting at 7th level, you fill nearby creatures with the energy of movement. While you're not [incapacitated](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated), you and creatures of your choice within 10 feet of you cannot be [grappled](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Grappled) or [restrained](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Restrained), and ignore penalties on movement and attacks while underwater. Creatures that are already [grappled](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Grappled) or [restrained](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Restrained) when they enter the aura can spend 5 feet of movement to automatically escape unless they are bound by magic restraints.
 
 ### Stormy Waters (Level 15)
 
-At 15th level, you can call on the force of crashing waters as a reaction whenever a creature moves into or out of your reach. The creature takes `d12` bludgeoning damage and must succeed on a Strength saving throw against your spell save DC or be knocked [prone](conditions.md#Prone).
+At 15th level, you can call on the force of crashing waters as a reaction whenever a creature moves into or out of your reach. The creature takes `d12` bludgeoning damage and must succeed on a Strength saving throw against your spell save DC or be knocked [prone](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Prone).
 
 ### Aura of Liberation (18th Level) (Level 18)
 

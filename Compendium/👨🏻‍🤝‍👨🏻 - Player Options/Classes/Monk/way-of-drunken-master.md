@@ -71,7 +71,7 @@ Starting at 6th level, you can move in sudden, swaying ways. You gain the follow
 
 - **Leap to Your Feet**  
 
-    When you're [prone](conditions.md#Prone), you can stand up by spending 5 feet of movement, rather than half your speed.  
+    When you're [prone](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Prone), you can stand up by spending 5 feet of movement, rather than half your speed.  
 
 - **Redirect Attack**  
 

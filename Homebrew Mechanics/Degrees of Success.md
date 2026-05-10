@@ -47,7 +47,7 @@ Therefore, the degrees of success table is as follows:
 
 Now, with degrees of success, we can introduce alternate or additional effects (or the lack thereof) based on the result. In order to preserve balance, **we will not be doing a “double damage on spells” for crit fails on saves**. Spells are already very powerful, and without a much larger and in-depth system rework, that would increase the potency of many abilities beyond reproach. 
 
-However, what we *can* do, is introduce some of the new [[conditions]]  we’ve created/implemented as effects on critical failures or successes. 
+However, what we *can* do, is introduce some of the new [[Compendium/📝 - Rules & Mechanics/conditions]]  we’ve created/implemented as effects on critical failures or successes. 
 
 
 

@@ -114,4 +114,4 @@ While your Rage is active, any of your enemies within 5 feet of you have [Disadv
 
 #### Ram
 
-While your Rage is active, you can cause a Large or smaller creature to have the [Prone](conditions.md#Prone) condition when you hit it with a melee attack.
+While your Rage is active, you can cause a Large or smaller creature to have the [Prone](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Prone) condition when you hit it with a melee attack.

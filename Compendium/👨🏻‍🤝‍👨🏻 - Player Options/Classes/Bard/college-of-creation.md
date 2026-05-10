@@ -87,7 +87,7 @@ The size of the item you can create with this feature increases by one size cate
 
 As an action, you can animate one Large or smaller nonmagical item within 30 feet of you that isn't being worn or carried. The animate item uses the [Dancing Item](/📚%20-%20Information%20Compendium/bestiary/construct/dancing-item-tce.md) stat block, which uses your proficiency bonus (PB). The item is friendly to you and your companions and obeys your commands. It lives for 1 hour, until it is reduced to 0 hit points, or until you die.
 
-In combat, the item shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the [Dodge](actions.md#Dodge) action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are [incapacitated](conditions.md#Incapacitated), the item can take any action of its choice, not just [Dodge](actions.md#Dodge).
+In combat, the item shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the [Dodge](actions.md#Dodge) action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are [incapacitated](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated), the item can take any action of its choice, not just [Dodge](actions.md#Dodge).
 
 When you use your Bardic Inspiration feature, you can command the item as part of the same bonus action you use for Bardic Inspiration.
 

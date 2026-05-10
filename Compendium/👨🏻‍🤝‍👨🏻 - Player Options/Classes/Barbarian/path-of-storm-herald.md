@@ -112,7 +112,7 @@ At 14th level, the power of the storm you channel grows mightier, lashing out at
 
 - **Sea**  
 
-    When you hit a creature in your aura with an attack, you can use your reaction to force that creature to make a Strength saving throw. On a failed save, the creature is knocked [prone](conditions.md#Prone), as if struck by a wave.  
+    When you hit a creature in your aura with an attack, you can use your reaction to force that creature to make a Strength saving throw. On a failed save, the creature is knocked [prone](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Prone), as if struck by a wave.  
 
 - **Tundra**  
 

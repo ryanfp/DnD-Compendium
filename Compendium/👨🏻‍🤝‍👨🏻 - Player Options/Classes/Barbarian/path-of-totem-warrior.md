@@ -105,7 +105,7 @@ At 6th level, you gain a magical benefit based on the totem animal of your choic
 - **Elk**  
     _Source: Sword Coast Adventurer's Guide p. 122_  
 
-    Whether mounted or on foot, your travel pace is doubled, as is the travel pace of up to ten companions while they're within 60 feet of you and you're not [incapacitated](conditions.md#Incapacitated). The elk spirit helps you roam far and fast.  
+    Whether mounted or on foot, your travel pace is doubled, as is the travel pace of up to ten companions while they're within 60 feet of you and you're not [incapacitated](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated). The elk spirit helps you roam far and fast.  
 
 - **Tiger**  
     _Source: Sword Coast Adventurer's Guide p. 122_  
@@ -126,7 +126,7 @@ At 14th level, you gain a magical benefit based on a totem animal of your choice
 
 - **Bear**  
 
-    While you're raging, any creature within 5 feet of you that's hostile to you has disadvantage on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can't see or hear you or if it can't be [frightened](conditions.md#Frightened).  
+    While you're raging, any creature within 5 feet of you that's hostile to you has disadvantage on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can't see or hear you or if it can't be [frightened](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Frightened).  
 
 - **Eagle**  
 
@@ -135,7 +135,7 @@ At 14th level, you gain a magical benefit based on a totem animal of your choice
 - **Elk**  
     _Source: Sword Coast Adventurer's Guide p. 122_  
 
-    While raging, you can use a bonus action during your move to pass through the space of a Large or smaller creature. That creature must succeed on a Strength saving throw (DC 8 + your Strength bonus + your proficiency bonus) or be knocked [prone](conditions.md#Prone) and take bludgeoning damage equal to `d12` + your Strength modifier.  
+    While raging, you can use a bonus action during your move to pass through the space of a Large or smaller creature. That creature must succeed on a Strength saving throw (DC 8 + your Strength bonus + your proficiency bonus) or be knocked [prone](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Prone) and take bludgeoning damage equal to `d12` + your Strength modifier.  
 
 - **Tiger**  
     _Source: Sword Coast Adventurer's Guide p. 122_  
@@ -144,4 +144,4 @@ At 14th level, you gain a magical benefit based on a totem animal of your choice
 
 - **Wolf**  
 
-    While you're raging, you can use a bonus action on your turn to knock a Large or smaller creature [prone](conditions.md#Prone) when you hit it with melee weapon attack.
+    While you're raging, you can use a bonus action on your turn to knock a Large or smaller creature [prone](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Prone) when you hit it with melee weapon attack.

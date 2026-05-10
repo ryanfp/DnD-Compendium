@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desperate Actions.md",
+                "file": "Homebrew Mechanics/Desperate Actions.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -39,8 +39,54 @@
               "icon": "lucide-file",
               "title": "Desperate Actions"
             }
+          },
+          {
+            "id": "ba6d1265b7586e82",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Desperate Actions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/Desperate Actions.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Desperate Actions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Downed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/Conditions/Downed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Downed\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homebrew Mechanics/Homebrew Conditions.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homebrew Conditions"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1f0913803faa9af4",
@@ -61,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desperate Actions.md",
+                "file": "Homebrew Mechanics/Desperate Actions.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -78,8 +124,54 @@
               "icon": "lucide-file",
               "title": "Desperate Actions"
             }
+          },
+          {
+            "id": "10a85cd76f3a01ac",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Desperate Actions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/Desperate Actions.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Desperate Actions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Downed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/Conditions/Downed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Downed\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homebrew Mechanics/Homebrew Conditions.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homebrew Conditions"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -383,10 +475,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Desperate Actions.md"
+                "file": "Homebrew Mechanics/Homebrew Conditions.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Desperate Actions"
+              "title": "File properties for Homebrew Conditions"
             }
           }
         ],
@@ -483,12 +575,16 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "190687b5c12c6614",
+  "active": "ba6d1265b7586e82",
   "lastOpenFiles": [
-    "Desperate Actions.md",
-    "Degrees of Success.md",
+    "Homebrew Mechanics/Desperate Actions.md",
+    "Homebrew Mechanics/Homebrew Conditions.md",
+    "Homebrew Mechanics/Conditions/Downed.md",
+    "Homebrew Mechanics/Conditions",
+    "Homebrew Mechanics",
     "Immediate Goals for Play.md",
-    "3-Save System.md",
+    "Homebrew Mechanics/Degrees of Success.md",
+    "Homebrew Mechanics/3-Save System.md",
     "Combat Enhancement Rolltables.md",
     "z_Inbox/Epilogue Story Map.md",
     "🌎 - Worldbuilding & Lore/Story/campaign/tier-2.md",
@@ -509,8 +605,6 @@
     "🌎 - Worldbuilding & Lore/Characters/npcs/erandis-vol.md",
     "🌎 - Worldbuilding & Lore/Characters/npcs/emerald-claw-agent-2.md",
     "🌎 - Worldbuilding & Lore/Characters/npcs/emerald-claw-agent-1.md",
-    "🌎 - Worldbuilding & Lore/Characters/npcs/celebi.md",
-    "🌎 - Worldbuilding & Lore/Characters/npcs/blood-of-vol-priest-s1.md",
     "map test.canvas",
     "Color Palette/Color Palettes.base",
     "z_Inbox",
@@ -520,8 +614,6 @@
     "z_Templates/DND",
     "🌎 - Worldbuilding & Lore/Story/Maps",
     "🌎 - Worldbuilding & Lore/Story/concepts",
-    "🌎 - Worldbuilding & Lore/Story/campaign",
-    "🌎 - Worldbuilding & Lore/MagicSystems",
     "z_img/image-148.png",
     "z_img/image-147.png",
     "z_img/image-146.png",
