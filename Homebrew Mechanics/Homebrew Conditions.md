@@ -335,8 +335,34 @@ While under the withered condition, you suffer the following effects:
 
 #### Description
 
-You gain one stack of this condition when you reach 0 HP. Each rolled death saving throw adds 1 and fails add +2 stacks. Max 5 stacks. 
+You gain one stack of this condition when you reach 0 HP. There are a maximum of 5 stacks of wounded, and you gain more depending on the result of your death saving throws:
 
-0 stacks go down +1 1 stack nest turn 1 stack roll failu
+Base DC = 10
+
+- 20 - Critical Success: -1 stack of wounded and DC decreases by 2
+- 10-19 - Success: nothing
+- 2-9 - Failure: +1 stack of wounded
+- 1 - Critical Failure: +2 stacks of wounded and DC increases by 2
+
+When you regain HP or are stabilized, your current stacks of wounded linger. If you go down in combat again, upon reaching 0HP, they are converted to failed death saving throws at a 2:1 rate, and then you gain the +1 stack from reaching 0 HP (or +2 if it was a critical hit). 
+
+
 
  - When you are stabilized or gain 1 HP or more, all of your failed death saving throws are converted to the Wounded condition at a 2:1 rate. 
+ - When combat ends, all leftover stacks of wounded are converted to *levels of exhaustion* at a 2:1 rate, and the remainder is left. 
+
+**How to remove**
+
+You can get rid of this condition by healing to full HP and completing a Short Rest, or by completing a Long Rest. Alternatively, certain spells and effects remove certain stacks of this condition. The *spare the dying* cantrip removes one stack of wounded when stabilizing a creature, *lesser restoration* removes 2 stacks of wounded, and *greater restoration* removes **all** stacks of wounded. 
+
+
+###### Example Scenario
+
+**Scenario 1** 
+
+**Turn 1:** Bob has 0 stacks of wounded, and is at 5 HP. An enemy attacks him, and hits him for 7 damage, and is reduced to 0 HP. 
+
+Upon reaching 0 HP, he gains the downed condition, and gains +1 stack of the wounded condition. 
+*Current wounded count:* 1
+
+**Turn 2:** Bob has
