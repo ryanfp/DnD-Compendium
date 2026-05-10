@@ -74,17 +74,17 @@ aliases:
 	- [ ] Downtime
 	- [x] Degrees of Success
 	- [ ] New Conditions
-		- [ ] **Slowed**
+		- [x] **Slowed**
 		- [ ] **Hastened**
 			- When the spell ends, it gives one level of exhaustion, and the target is Slowed as well for as long as the spell was affecting the target. Now also makes the one concentrating Slowed, but the effect is removed when the spell ends.
 		- [x] **Defenseless**
 		- [x] **Helpless**
 		- [x] **Dazed** (replacement to Stunned)
 		- [x] **Burning**
-		- [ ] **Shocked/Electrocuted**
-		- [ ] **Frostbite**
-		- [ ] **Frozen**
-		- [ ] **Wet/Soaked**
+		- [x] **Shocked/Electrocuted**
+		- [x] **Frostbite**
+		- [x] **Frozen**
+		- [x] **Wet/Soaked**
 		- [ ] **Withered**
 		- [x] **Corroded**
 		- [ ] **Wounded**
@@ -93,8 +93,8 @@ aliases:
 		- [ ] **Weakened**
 		- [x] **Bleeding**
 		- [ ] **Bewildered**
-		- [ ] **Blessed**
-		- [ ] **Baned**
+		- [x] **Blessed**
+		- [x] **Baned**
 		- [ ] **Doomed**
 	- [ ] Experience/Proficiency Levels
 	- [ ] Extra Skills and Jurisdictions, Classes w/ Prof

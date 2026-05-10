@@ -404,7 +404,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 312.5
   },
   "right": {
     "id": "fc1490c296b0c5ab",
@@ -648,8 +648,8 @@
   "active": "10a85cd76f3a01ac",
   "lastOpenFiles": [
     "z_Inbox/Better Write-Up.md",
-    "Homebrew Mechanics/Homebrew Conditions.md",
     "Immediate Goals for Play.md",
+    "Homebrew Mechanics/Homebrew Conditions.md",
     "z_Inbox/5e Tools Website To-Do & Ideas.md",
     "Homebrew Mechanics/Desperate Actions.md",
     "Homebrew In-Progress/damage-type-interactions.md",

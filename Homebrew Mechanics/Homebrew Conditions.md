@@ -111,7 +111,7 @@ While you are under the slowed condition, your movement speed is reduced by half
 **Spells/Abilities:** 
 
 #### Description
-You have disadvantage on Initiative rolls and you cannot take Reactions the first round of combat in which you were surprised.
+You have disadvantage on Initiative rolls and you have the rattled condition for the first round of combat in which you were surprised.
 - - -
 
 ## New Conditions
@@ -258,14 +258,24 @@ While under the effects of the hastened condition, you have a +2 bonus to your A
 
 #### Description
 
+A creature that is immune to being dazed is immune to being rattled. While under the rattled condition, you suffer the following effects:
+
+- A rattled creature cannot benefit from bonus dice. 
+- A rattled creature cannot take reactions.
+
 - - -
 ### Shocked
 #### Associations:
 
-**Damage Type:**  
+**Damage Type:**  Lightning
 **Spells/Abilities:** 
 
 #### Description
+
+When you gain the shocked condition, you immediately drop one item you are holding in your hands in a random square 5 ft away from you (roll 1d8 to determine space), and suffer the following effects:
+
+- You have the Rattled condition
+- You have disadvantage on ability checks involving Dexterity and  Reflex saving throws.
 
 - - -
 ### Stupefied
@@ -285,6 +295,8 @@ While under the effects of the hastened condition, you have a +2 bonus to your A
 
 #### Description
 
+While under the weakened condition, you deal half damage with all attacks.
+
 - - -
 ### Wet
 #### Associations:
@@ -299,16 +311,24 @@ When gaining the wet condition, you lose the burning or corroded conditions, if 
 While you have the wet condition, you are under the following effects:
 
 - You have resistance to Fire damage
-- Your susceptability to Lightning and Cold
+- Your susceptibility to Lightning and Cold damage increases one tier (Immunity–>Resistance–>Neutral–>Vulnerable).
+- Attacks that use Lightning damage have advantage, and you have disadvantage on saving throws to resist the effects of Lightning or Lightning damage.
+- When you would receive stacks of the frostbite condition, you instead receive double the stacks you normally would. 
 
 - - -
 ### Withered
 #### Associations:
 
-**Damage Type:**  
+**Damage Type:**  Necrotic
 **Spells/Abilities:** 
 
 #### Description
+
+While under the withered condition, you suffer the following effects:
+
+- Healing you receive is halved.
+- You have disadvantage on Fortitude and Will saving throws.
+- 
 
 - - -
 ### Wounded
