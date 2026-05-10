@@ -127,7 +127,8 @@
               "title": "Better Write-Up"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1f0913803faa9af4",
@@ -353,8 +354,7 @@
               "title": "Immediate Goals for Play"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -487,6 +487,25 @@
               "icon": "lucide-info",
               "title": "File properties for Homebrew Conditions"
             }
+          },
+          {
+            "id": "ba222da5cb536d32",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
         ],
         "currentTab": 4
@@ -576,17 +595,14 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "storyteller-suite:Open storyteller dashboard": false,
-      "storyteller-suite:Apply template to story": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "38e57dd42ce941aa",
+  "active": "10a85cd76f3a01ac",
   "lastOpenFiles": [
-    "Immediate Goals for Play.md",
-    "Homebrew Mechanics/Homebrew Conditions.md",
     "z_Inbox/Better Write-Up.md",
+    "Homebrew Mechanics/Homebrew Conditions.md",
+    "Immediate Goals for Play.md",
     "z_Inbox/5e Tools Website To-Do & Ideas.md",
     "Homebrew Mechanics/Desperate Actions.md",
     "Homebrew In-Progress/damage-type-interactions.md",

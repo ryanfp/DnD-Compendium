@@ -10,8 +10,6 @@
 
 **Damage Type:**  N/A
 **Spells/Abilities:** *bane*
-**Mechanics:** 
-**Interactions:**
 
 #### Description
 The affected target suffers a 1d4 penalty to all d20 tests.
@@ -23,8 +21,6 @@ The affected target suffers a 1d4 penalty to all d20 tests.
 
 **Damage Type:**  N/A
 **Spells/Abilities:** *bless*
-**Mechanics:** 
-**Interactions:**
 
 #### Description
 The affected targets gains a 1d4 bonus to all d20 tests.
@@ -36,7 +32,7 @@ The affected targets gains a 1d4 bonus to all d20 tests.
 
 **Damage Type:**  N/A
 **Spells/Abilities:** Stunning Strike
-**Mechanics:** 
+
 **Interactions:** Replaces the *stunned* condition at a 1:1
 
 #### Description
@@ -58,8 +54,6 @@ When a *dazed* creature is affected by a spell or effect that gives them an extr
 
 **Damage Type:**  N/A
 **Spells/Abilities:** 
-**Mechanics:** 
-**Interactions:**
 
 #### Description
 Attack rolls against you have advantage.
@@ -71,8 +65,6 @@ Attack rolls against you have advantage.
 
 **Damage Type:**  
 **Spells/Abilities:** 
-**Mechanics:** 
-**Interactions:**
 
 #### Description
 Attack rolls from within 5 ft that hit are critical hits.
@@ -83,8 +75,6 @@ Attack rolls from within 5 ft that hit are critical hits.
 
 **Damage Type:**  
 **Spells/Abilities:** 
-**Mechanics:** 
-**Interactions:**
 
 #### Description
 Your speed becomes zero, and you can’t benefit from any bonuses to your speed. If you’re flying when you become immobilized, you fall. You have disadvantage on Reflex Saving Throws and Ability Checks using Dexterity.
@@ -96,8 +86,6 @@ Your speed becomes zero, and you can’t benefit from any bonuses to your speed.
 
 **Damage Type:**  
 **Spells/Abilities:** 
-**Mechanics:** 
-**Interactions:**
 
 #### Description
 While you have the Poisoned condition, you experience the following effect.
@@ -111,8 +99,6 @@ While you have the Poisoned condition, you experience the following effect.
 
 **Damage Type:**  
 **Spells/Abilities:** 
-**Mechanics:** 
-**Interactions:**
 
 #### Description
 
@@ -123,11 +109,9 @@ While you are under the slowed condition, your movement speed is reduced by half
 
 **Damage Type:**  
 **Spells/Abilities:** 
-**Mechanics:** 
-**Interactions:**
 
 #### Description
-
+You have disadvantage on Initiative rolls and you cannot take Reactions the first round of combat in which you were surprised.
 - - -
 
 ## New Conditions
@@ -139,8 +123,6 @@ While you are under the slowed condition, your movement speed is reduced by half
 
 **Damage Type:**  
 **Spells/Abilities:** 
-**Mechanics:** 
-**Interactions:**
 
 #### Description
 
@@ -148,16 +130,14 @@ While you are under the slowed condition, your movement speed is reduced by half
 ### Bleeding
 #### Associations:
 
-**Damage Type:**  
+**Damage Type:**  Slashing, Piercing
 **Spells/Abilities:** 
-**Mechanics:** 
-**Interactions:**
 
 #### Description
 
 Bleeding always includes a level. If a bleeding creature suffers another effect that causes bleeding, its current bleeding level increases by the amount specified in the effect’s description.
 
-At the end of each of its turns, a bleeding creature must make a Fortitude saving throw. The Difficulty is 11 + the bleeding level. On a success, the bleeding level is reduced by 1. After making the saving throw, the creature loses 1d6 health for each bleeding level.
+At the end of each of its turns, a bleeding creature must make a Fortitude saving throw. The Difficulty is 10 + the bleeding level. On a success, the bleeding level is reduced by 1. After making the saving throw, the creature loses 1d4 health for each bleeding level.
 
 A creature can staunch the bleeding using the Medicine skill.
 
@@ -169,23 +149,34 @@ The condition ends if a bleeding creature is restored to full health.
 ### Burning
 #### Associations:
 
-**Damage Type:**  
+**Damage Type:**  Fire
 **Spells/Abilities:** 
-**Mechanics:** 
-**Interactions:**
 
 #### Description
+
+While afflicted by the burning condition, you suffer the follow effects:
+
+**Burning Damage.** You suffer 1d4 Fire damage at the end of each round, unless a different amount is specified by the triggering ability. If you are already burning, but gain the condition again, the higher damage amount takes precedence.
+**Hard to Miss.** You shine bright light in a 5 ft radius and dim light in a 10 ft radius. You have disadvantage on Stealth (Dexterity) checks.
+
+Anyone can spend an Action or Bonus Action to clear the condition off of you, or you can spend an Action to clear it yourself. You also lose the burning condition when gaining the wet condition.
+
+When a creature that is burning successfully grapples another creature, they obtain the burning condition as well. 
 
 - - -
 ### Corroded
 #### Associations:
 
-**Damage Type:**  
+**Damage Type:**  Acid
 **Spells/Abilities:** 
-**Mechanics:** 
-**Interactions:**
 
 #### Description
+
+While you are afflicted by the corroded condition, you suffer the following effects:
+
+You take 1d4 Acid damage at the start of your turns, and you have -2 AC for the duration of the condition. 
+
+Anyone can spend an Action or Bonus Action to clear the condition off of you, or you can spend an Action to clear it yourself. You also lose the corroded condition when gaining the wet condition. Taking acid damage refreshes the duration and increases the die size one step.
 
 - - -
 ### Doomed
@@ -193,10 +184,10 @@ The condition ends if a bleeding creature is restored to full health.
 
 **Damage Type:**  
 **Spells/Abilities:** 
-**Mechanics:** 
-**Interactions:**
 
 #### Description
+
+The next time you go unconscious, you start with a number of failed death saves equal to the stacks of this condition. Max 3 stacks. If you go unconscious with 3 stacks of Doomed, you die instantly.
 
 - - -
 ### Downed
@@ -204,31 +195,40 @@ The condition ends if a bleeding creature is restored to full health.
 
 **Damage Type:**  
 **Spells/Abilities:** 
-**Mechanics:** 
-**Interactions:**
 
 #### Description
+
+When you drop to 0 HP in combat, you gain this condition. While under this condition, you can take a very limited number of “desperate actions”, and you can only speak falteringly. You have up to 3 uses of desperate actions, at which point you can spend a failed save to use another action per turn. You gain a stack of the wounded condition whenever you gain this condition. If the attack that caused you to reach 0 HP was a critical hit, you gain 2 stacks of wounded instead.
 
 - - -
 ### Frostbite
 #### Associations:
 
-**Damage Type:**  
+**Damage Type:**  Cold
 **Spells/Abilities:** 
-**Mechanics:** 
-**Interactions:**
 
+While you are under the frostbite condition, you suffer the following affects:
+
+**Frostbite Damage.** You take (1d4 + the # of stacks of this condition) Cold damage when you attack with a weapon or attempt to cast a spell with somatic components. 
+**Reduced Actions.** You cannot take Bonus Actions. 
+
+This condition has a max of 10 stacks, and you lose 1 stack per turn if doing nothing. Most sources inflict 2 stacks. You lose 2 stacks if you:
+
+- move more than half your movement speed 
+- light a torch
+- sit near a campfire or other lit object
+
+You lose the frostbite condition when you gain the burning condition. 
 #### Description
 
 - - -
 ### Frozen
 #### Associations:
 
-**Damage Type:**  
+**Damage Type:**  Cold
 **Spells/Abilities:** 
-**Mechanics:** 
-**Interactions:**
 
+While under the 
 #### Description
 
 - - -
@@ -237,8 +237,6 @@ The condition ends if a bleeding creature is restored to full health.
 
 **Damage Type:**  
 **Spells/Abilities:** 
-**Mechanics:** 
-**Interactions:**
 
 #### Description
 
@@ -248,8 +246,6 @@ The condition ends if a bleeding creature is restored to full health.
 
 **Damage Type:**  
 **Spells/Abilities:** 
-**Mechanics:** 
-**Interactions:**
 
 #### Description
 
@@ -259,8 +255,6 @@ The condition ends if a bleeding creature is restored to full health.
 
 **Damage Type:**  
 **Spells/Abilities:** 
-**Mechanics:** 
-**Interactions:**
 
 #### Description
 
@@ -270,8 +264,6 @@ The condition ends if a bleeding creature is restored to full health.
 
 **Damage Type:**  
 **Spells/Abilities:** 
-**Mechanics:** 
-**Interactions:**
 
 #### Description
 
@@ -281,8 +273,6 @@ The condition ends if a bleeding creature is restored to full health.
 
 **Damage Type:**  
 **Spells/Abilities:** 
-**Mechanics:** 
-**Interactions:**
 
 #### Description
 
@@ -292,8 +282,6 @@ The condition ends if a bleeding creature is restored to full health.
 
 **Damage Type:**  
 **Spells/Abilities:** 
-**Mechanics:** 
-**Interactions:**
 
 #### Description
 
@@ -303,8 +291,6 @@ The condition ends if a bleeding creature is restored to full health.
 
 **Damage Type:**  
 **Spells/Abilities:** 
-**Mechanics:** 
-**Interactions:**
 
 #### Description
 
@@ -314,7 +300,5 @@ The condition ends if a bleeding creature is restored to full health.
 
 **Damage Type:**  
 **Spells/Abilities:** 
-**Mechanics:** 
-**Interactions:**
 
 #### Description

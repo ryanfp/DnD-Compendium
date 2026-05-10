@@ -80,18 +80,18 @@ aliases:
 		- [x] **Defenseless**
 		- [x] **Helpless**
 		- [x] **Dazed** (replacement to Stunned)
-		- [ ] **Burning**
+		- [x] **Burning**
 		- [ ] **Shocked/Electrocuted**
 		- [ ] **Frostbite**
 		- [ ] **Frozen**
 		- [ ] **Wet/Soaked**
 		- [ ] **Withered**
-		- [ ] **Corroded**
+		- [x] **Corroded**
 		- [ ] **Wounded**
-		- [ ] **Downed**
+		- [x] **Downed**
 		- [ ] **Stupefied**
 		- [ ] **Weakened**
-		- [ ] **Bleeding**
+		- [x] **Bleeding**
 		- [ ] **Bewildered**
 		- [ ] **Blessed**
 		- [ ] **Baned**
