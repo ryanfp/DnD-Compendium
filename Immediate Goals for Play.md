@@ -64,7 +64,7 @@ aliases:
 	- [ ] Wizard
 	- [ ] Witch
 - [ ] Finalize Meta Mechanic Changes
-	- [ ] 3-save system & related abilities
+	- [x] 3-save system & related abilities
 	- [ ] Downed condition, dying, wounded condition
 	- [ ] death moves
 	- [ ] Swan song
@@ -72,6 +72,7 @@ aliases:
 	- [ ] Short & Long Rests
 	- [ ] Exhaustion rules (Fatigue, Strife, recovering)
 	- [ ] Downtime
+	- [ ] Degrees of Success
 	- [ ] New Conditions
 		- [ ] **Slowed**
 		- [ ] **Hasted**

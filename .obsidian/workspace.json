@@ -8,45 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c52ca86d1c1d3ec8",
+            "id": "ffbd6197ece37c16",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Immediate Goals for Play",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Immediate Goals for Play.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Immediate Goals for Play\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":74,\"ch\":25},\"to\":{\"line\":74,\"ch\":25}},\"scroll\":49.94050480769231}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Quick  Thoughts",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Inbox/Quick  Thoughts.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Quick  Thoughts\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Modrinth Minecraft Links",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Modrinth Minecraft Links.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Modrinth Minecraft Links\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "CurseForge Minecraft Links",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"CurseForge Minecraft Links.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"CurseForge Minecraft Links\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Introduction",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Compendium/Introduction.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Introduction\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Save System.md",
+                "file": "Degrees of Success.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -61,46 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3-Save System"
-            }
-          },
-          {
-            "id": "4d4c96f1fee84453",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Combat Enhancement Rolltables",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Combat Enhancement Rolltables.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Combat Enhancement Rolltables\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immediate Goals for Play.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Immediate Goals for Play"
+              "title": "Degrees of Success"
             }
           }
         ]
@@ -115,7 +58,7 @@
       {
         "id": "18a6a72c97b9c3ec",
         "type": "tabs",
-        "dimension": 39.71363978899774,
+        "dimension": 45.440844009042955,
         "children": [
           {
             "id": "fcaa59025a7544d2",
@@ -208,7 +151,7 @@
       {
         "id": "a3116cdcaf599a64",
         "type": "tabs",
-        "dimension": 60.28636021100227,
+        "dimension": 54.559155990957045,
         "children": [
           {
             "id": "f068611f25fe0e60",
@@ -407,10 +350,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3-Save System.md"
+                "file": "Degrees of Success.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 3-Save System"
+              "title": "File properties for Degrees of Success"
             }
           }
         ],
@@ -507,10 +450,11 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "c52ca86d1c1d3ec8",
+  "active": "ffbd6197ece37c16",
   "lastOpenFiles": [
-    "3-Save System.md",
     "Immediate Goals for Play.md",
+    "Degrees of Success.md",
+    "3-Save System.md",
     "Combat Enhancement Rolltables.md",
     "z_Inbox/Epilogue Story Map.md",
     "🌎 - Worldbuilding & Lore/Story/campaign/tier-2.md",
@@ -534,7 +478,6 @@
     "🌎 - Worldbuilding & Lore/Characters/npcs/celebi.md",
     "🌎 - Worldbuilding & Lore/Characters/npcs/blood-of-vol-priest-s1.md",
     "z_Inbox/C1 Epilogue.md",
-    "z_Inbox/scam exposure.md",
     "map test.canvas",
     "Color Palette/Color Palettes.base",
     "z_Inbox",
