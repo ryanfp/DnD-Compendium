@@ -207,19 +207,20 @@ When you drop to 0 HP in combat, you gain this condition. While under this condi
 **Damage Type:**  Cold
 **Spells/Abilities:** 
 
+#### Description
+
 While you are under the frostbite condition, you suffer the following affects:
 
 **Frostbite Damage.** You take (1d4 + the # of stacks of this condition) Cold damage when you attack with a weapon or attempt to cast a spell with somatic components. 
 **Reduced Actions.** You cannot take Bonus Actions. 
 
-This condition has a max of 10 stacks, and you lose 1 stack per turn if doing nothing. Most sources inflict 2 stacks. You lose 2 stacks if you:
+This condition has a max of 10 stacks, and you lose 1 stack per turn if doing nothing. Most sources inflict 2 stacks. You lose 2 stacks on your turn if you:
 
 - move more than half your movement speed 
 - light a torch
 - sit near a campfire or other lit object
 
-You lose the frostbite condition when you gain the burning condition. 
-#### Description
+You lose the frostbite condition when you gain the burning condition.
 
 - - -
 ### Frozen
@@ -227,19 +228,27 @@ You lose the frostbite condition when you gain the burning condition.
 
 **Damage Type:**  Cold
 **Spells/Abilities:** 
+**Interactions:** Frostbite condition
 
-While under the 
+When you reach 10 stacks of Frostbite, you lose all stacks of the Frostbite condition and gain the Frozen condition. While you have the Frozen condition, you suffer the following effects:
+
 #### Description
+
+**Stuck.** You have the Immobilized condition. 
+**Easy Target.** You have the Defenseless condition.
+**Vulnerable.** You gain vulnerability to Bludgeoning, Thunder and Fire damage. When you take any of those types of damage, you lose the Frozen condition. 
+
+You can also attempt to break out of the ice with a DC 15 Athletics check or if you or an ally inflict 15 Bludgeoning or Fire damage to the ice.
 
 - - -
 ### Hastened
 #### Associations:
 
 **Damage Type:**  
-**Spells/Abilities:** 
+**Spells/Abilities:** *haste*
 
 #### Description
-
+While under the effects of the hastened condition, you have a +2 bonus to your AC and your movement speed is doubled.
 - - -
 ### Rattled
 #### Associations:
@@ -284,6 +293,13 @@ While under the
 **Spells/Abilities:** 
 
 #### Description
+
+When gaining the wet condition, you lose the burning or corroded conditions, if you have them. This condition lasts for 10 rounds or until you move your full movement speed in one turn. Each time you gain the wet condition, the duration is refreshed back to 10 rounds.
+
+While you have the wet condition, you are under the following effects:
+
+- You have resistance to Fire damage
+- Your susceptability to Lightning and Cold
 
 - - -
 ### Withered

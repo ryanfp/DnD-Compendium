@@ -8,6 +8,51 @@
         "type": "tabs",
         "children": [
           {
+            "id": "8a3cba7aa4f7df30",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Epilogue Story Map",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Inbox/Epilogue Story Map.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Epilogue Story Map\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Immediate Goals for Play",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Immediate Goals for Play.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Immediate Goals for Play\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Immediate Goals for Play.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Immediate Goals for Play"
+            }
+          },
+          {
             "id": "38e57dd42ce941aa",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -128,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "1f0913803faa9af4",
@@ -191,7 +236,7 @@
       {
         "id": "18a6a72c97b9c3ec",
         "type": "tabs",
-        "dimension": 45.440844009042955,
+        "dimension": 62.487046632124354,
         "children": [
           {
             "id": "fcaa59025a7544d2",
@@ -284,7 +329,7 @@
       {
         "id": "a3116cdcaf599a64",
         "type": "tabs",
-        "dimension": 54.559155990957045,
+        "dimension": 37.512953367875646,
         "children": [
           {
             "id": "f068611f25fe0e60",
@@ -354,11 +399,12 @@
               "title": "Immediate Goals for Play"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 305.5
   },
   "right": {
     "id": "fc1490c296b0c5ab",
@@ -561,7 +607,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 212.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -595,7 +641,8 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "10a85cd76f3a01ac",

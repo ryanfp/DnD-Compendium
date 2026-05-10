@@ -75,7 +75,7 @@ aliases:
 	- [x] Degrees of Success
 	- [ ] New Conditions
 		- [ ] **Slowed**
-		- [ ] **Hasted**
+		- [ ] **Hastened**
 			- When the spell ends, it gives one level of exhaustion, and the target is Slowed as well for as long as the spell was affecting the target. Now also makes the one concentrating Slowed, but the effect is removed when the spell ends.
 		- [x] **Defenseless**
 		- [x] **Helpless**
