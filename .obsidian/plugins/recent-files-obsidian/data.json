@@ -5,12 +5,32 @@
       "path": "Homebrew Mechanics/Homebrew Conditions.md"
     },
     {
+      "basename": "Immediate Goals for Play",
+      "path": "Immediate Goals for Play.md"
+    },
+    {
+      "basename": "Better Write-Up",
+      "path": "z_Inbox/Better Write-Up.md"
+    },
+    {
+      "basename": "5e Tools Website To-Do & Ideas",
+      "path": "z_Inbox/5e Tools Website To-Do & Ideas.md"
+    },
+    {
       "basename": "Desperate Actions",
       "path": "Homebrew Mechanics/Desperate Actions.md"
     },
     {
-      "basename": "Immediate Goals for Play",
-      "path": "Immediate Goals for Play.md"
+      "basename": "damage-type-interactions",
+      "path": "Homebrew In-Progress/damage-type-interactions.md"
+    },
+    {
+      "basename": "Homebrew Errata Guide",
+      "path": "Homebrew In-Progress/Homebrew Errata Guide.md"
+    },
+    {
+      "basename": "Homebrew Lists",
+      "path": "Homebrew In-Progress/Homebrew Lists.md"
     },
     {
       "basename": "Degrees of Success",
@@ -41,20 +61,12 @@
       "path": "z_Inbox/Website Navigation Map.md"
     },
     {
-      "basename": "Better Write-Up",
-      "path": "z_Inbox/Better Write-Up.md"
-    },
-    {
       "basename": "Barbarian WIP",
       "path": "z_Inbox/Barbarian WIP.md"
     },
     {
       "basename": "Quick  Thoughts",
       "path": "z_Inbox/Quick  Thoughts.md"
-    },
-    {
-      "basename": "5e Tools Website To-Do & Ideas",
-      "path": "z_Inbox/5e Tools Website To-Do & Ideas.md"
     },
     {
       "basename": "README",
@@ -117,28 +129,12 @@
       "path": "Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/artificer.md"
     },
     {
-      "basename": "Homebrew Errata Guide",
-      "path": "Homebrew In-Progress/Homebrew Errata Guide.md"
-    },
-    {
-      "basename": "Homebrew Lists",
-      "path": "Homebrew In-Progress/Homebrew Lists.md"
-    },
-    {
-      "basename": "damage-type-interactions",
-      "path": "Homebrew In-Progress/damage-type-interactions.md"
-    },
-    {
       "basename": "death-dying-desperate-actions-rules",
       "path": "Homebrew In-Progress/death-dying-desperate-actions-rules.md"
     },
     {
       "basename": "death_and_swan_song_rules_card_v1",
       "path": "Homebrew In-Progress/death_and_swan_song_rules_card_v1.md"
-    },
-    {
-      "basename": "incapacitated",
-      "path": "Homebrew In-Progress/incapacitated.md"
     }
   ],
   "omittedPaths": [],

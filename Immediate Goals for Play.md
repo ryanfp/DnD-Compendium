@@ -77,9 +77,9 @@ aliases:
 		- [ ] **Slowed**
 		- [ ] **Hasted**
 			- When the spell ends, it gives one level of exhaustion, and the target is Slowed as well for as long as the spell was affecting the target. Now also makes the one concentrating Slowed, but the effect is removed when the spell ends.
-		- [ ] **Defenseless**
-		- [ ] **Helpless**
-		- [ ] **Dazed** (replacement to Stunned)
+		- [x] **Defenseless**
+		- [x] **Helpless**
+		- [x] **Dazed** (replacement to Stunned)
 		- [ ] **Burning**
 		- [ ] **Shocked/Electrocuted**
 		- [ ] **Frostbite**

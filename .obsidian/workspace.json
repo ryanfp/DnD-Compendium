@@ -8,40 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "190687b5c12c6614",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homebrew Mechanics/Desperate Actions.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Desperate Actions"
-            }
-          },
-          {
-            "id": "ba6d1265b7586e82",
+            "id": "38e57dd42ce941aa",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -84,31 +51,66 @@
               "icon": "lucide-file",
               "title": "Homebrew Conditions"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "1f0913803faa9af4",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "da30441d8f43cd0a",
+            "id": "ba6d1265b7586e82",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "5e Tools Website To-Do & Ideas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Inbox/5e Tools Website To-Do & Ideas.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"5e Tools Website To-Do & Ideas\"}",
+                  "eState": "{\"scroll\":244.77966101694915}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "damage-type-interactions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew In-Progress/damage-type-interactions.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"damage-type-interactions\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Homebrew Errata Guide",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew In-Progress/Homebrew Errata Guide.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Homebrew Errata Guide\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Homebrew Lists",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew In-Progress/Homebrew Lists.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Homebrew Lists\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Homebrew Conditions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/Homebrew Conditions.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Homebrew Conditions\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Desperate Actions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/Desperate Actions.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Desperate Actions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Downed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/Conditions/Downed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Downed\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew Mechanics/Desperate Actions.md",
-                "mode": "source",
+                "file": "z_Inbox/Better Write-Up.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -122,9 +124,15 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Desperate Actions"
+              "title": "Better Write-Up"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "1f0913803faa9af4",
+        "type": "tabs",
+        "children": [
           {
             "id": "10a85cd76f3a01ac",
             "type": "leaf",
@@ -170,8 +178,7 @@
               "title": "Homebrew Conditions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -575,14 +582,20 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "ba6d1265b7586e82",
+  "active": "38e57dd42ce941aa",
   "lastOpenFiles": [
-    "Homebrew Mechanics/Desperate Actions.md",
+    "Immediate Goals for Play.md",
     "Homebrew Mechanics/Homebrew Conditions.md",
+    "z_Inbox/Better Write-Up.md",
+    "z_Inbox/5e Tools Website To-Do & Ideas.md",
+    "Homebrew Mechanics/Desperate Actions.md",
+    "Homebrew In-Progress/damage-type-interactions.md",
+    "Homebrew In-Progress/Homebrew Errata Guide.md",
+    "Homebrew In-Progress/Homebrew Lists.md",
+    "Homebrew In-Progress/incapacitated.md",
     "Homebrew Mechanics/Conditions/Downed.md",
     "Homebrew Mechanics/Conditions",
     "Homebrew Mechanics",
-    "Immediate Goals for Play.md",
     "Homebrew Mechanics/Degrees of Success.md",
     "Homebrew Mechanics/3-Save System.md",
     "Combat Enhancement Rolltables.md",
@@ -599,12 +612,6 @@
     "🌎 - Worldbuilding & Lore/Story/concepts/draconic-prophecy.md",
     "🌎 - Worldbuilding & Lore/Story/concepts/convergence.md",
     "🌎 - Worldbuilding & Lore/Story/concepts/codex-mortis.md",
-    "🌎 - Worldbuilding & Lore/Characters/npcs/session-0-npc.md",
-    "🌎 - Worldbuilding & Lore/Characters/npcs/research-assistant-s1.md",
-    "🌎 - Worldbuilding & Lore/Characters/npcs/grovyle.md",
-    "🌎 - Worldbuilding & Lore/Characters/npcs/erandis-vol.md",
-    "🌎 - Worldbuilding & Lore/Characters/npcs/emerald-claw-agent-2.md",
-    "🌎 - Worldbuilding & Lore/Characters/npcs/emerald-claw-agent-1.md",
     "map test.canvas",
     "Color Palette/Color Palettes.base",
     "z_Inbox",
