@@ -39,9 +39,10 @@ The affected targets gains a 1d4 bonus to all d20 tests.
 While you have the *dazed* condition, you have the following effects:
 
 **No Concentration.** Your Concentration is broken.
+**Rattled.** You have the Rattled condition.
 **Speechless.** You can speak only falteringly.
 **Surprised.** If you're *dazed* when you roll Initiative, you gain the *surprised* condition (Disadvantage on the initiative roll).
-**Saving Throws Affected.** You disadvantage on Reflex saving throws.
+**Saving Throws Affected.** You disadvantage on Reflex and Will saving throws.
 
 A dazed creature can only do one of the following things on their turn: move, use an action, or use a bonus action. If a creature becomes dazed during their turn, their turn ends. The *cure ailment* power, *lesser restoration* spell, and *greater restoration* spell remove the *dazed* condition. At the GM's discretion, other powers, spells, or effects might also remove the *dazed* condition.
 
@@ -153,13 +154,8 @@ You have disadvantage on Initiative rolls and you have the rattled condition for
 
 #### Description
 
-Bleeding always includes a level. If a bleeding creature suffers another effect that causes bleeding, its current bleeding level increases by the amount specified in the effect’s description.
-
-At the end of each of its turns, a bleeding creature must make a Fortitude saving throw. The Difficulty is 10 + the bleeding level. On a success, the bleeding level is reduced by 1. After making the saving throw, the creature loses 1d4 health for each bleeding level.
-
-A creature can staunch the bleeding using the Medicine skill.
-
-The bleeding level is reduced by 1 for every 25% of its maximum health that the creature regains.
+While you are bleeding, you suffer 1d4 slashing damage at the start of each of your turns and you have disadvantage on Fortitude saving throws.
+A creature can staunch the bleeding using the Medicine skill or by receiving any healing.
 
 The condition ends if a bleeding creature is restored to full health.
 
