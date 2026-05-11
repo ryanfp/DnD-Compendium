@@ -65,7 +65,7 @@ aliases:
 	- [ ] Witch
 - [ ] Finalize Meta Mechanic Changes
 	- [x] 3-save system & related abilities
-	- [ ] Downed condition, dying, wounded condition
+	- [x] Downed condition, dying, wounded condition
 	- [x] death moves
 	- [ ] Swan song
 	- [ ] death and resurrection rituals
@@ -96,10 +96,10 @@ aliases:
 		- [x] **Baned**
 		- [x] **Doomed**
 	- [x] Experience/Proficiency Levels
-	- [ ] Extra Skills and Jurisdictions, Classes w/ Prof
-		- [ ] Engineering
-		- [ ] Culture
-		- [ ] Streetwise
+	- [x] Extra Skills and Jurisdictions, Classes w/ Prof
+		- [x] Engineering
+		- [x] Culture
+		- [x] Streetwise
 	- [ ] Weapons Table
 	- [ ] Armor Table
 	- [ ] Exploits

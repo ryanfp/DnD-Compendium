@@ -12,9 +12,9 @@ However, there has been a massive, multi-step overhaul of death and dying mechan
 
 When you go down in combat, and gain the *Downed* condition, you have the option to perform one of the following actions, once per turn:
 
-1. **Crawl.** You can crawl 5 ft to an adjacent square in an attempt to pull yourself out of harms way. If an adjacent square is Difficult Terrain, you cannot crawl towards that square, unless you are already in said Difficult Terrain. 
-2. **Shout.** You muster up enough strength to try and get the attention of an ally, or distract a nearby enemy. You shout a few words that can be heard within a 30 ft radius, as opposed to the 10 ft you normally can when *Downed*.
-3. **Brace.** You attempt to shield yourself from harm for 1 round. You brace yourself and turn any melee attack that would hit from a critical hit, into a normal hit. If you receive an amount of damage that equals or exceeds half of your total health, it still counts as a critical hit.
+1. **Crawl:** The character wills themselves to crawl up to 5 feet. This movement does not provoke opportunity attacks. If an adjacent square is Difficult Terrain, you cannot crawl towards that square, unless you are already in said Difficult Terrain.
+2. **Brace:** The character puts up the best defense they can muster. Attackers do not get advantage on attacks due to the Downed condition until the character's next turn, and the first attack from within 5 ft that does hit is turned into a normal hit instead. If you receive an amount of damage that equals or exceeds half of your total health, it still counts as a critical hit.
+3. **Shout:** The character cries out for their ally to assist them. One friendly creature within 30 feet may immediately move up to half of its movement speed directly toward the downed character. This movement does not provoke opportunity attacks.
 
 You have **3 uses** of Desperate Actions. Once you run out of your uses, you can spend a **failed death save** in order to use another. Will you spend a failed death save to crawl another 5 ft towards safety? Risk failing 3 saves in order to distract an enemy so an ally can gain the upper hand? Or, will you remain perfectly still, so as to not draw attention to yourself and risk mortal injury?
 

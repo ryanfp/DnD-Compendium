@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Homebrew Conditions",
+      "path": "Homebrew Mechanics/Homebrew Conditions.md"
+    },
+    {
+      "basename": "Immediate Goals for Play",
+      "path": "Immediate Goals for Play.md"
+    },
+    {
+      "basename": "Desperate Actions",
+      "path": "Homebrew Mechanics/Desperate Actions.md"
+    },
+    {
       "basename": "Homebrew Skills & Changes",
-      "path": "Homebrew Skills & Changes.md"
+      "path": "Homebrew Mechanics/Homebrew Skills & Changes.md"
+    },
+    {
+      "basename": "Combat Enhancement Rolltables",
+      "path": "Combat Enhancement Rolltables.md"
     },
     {
       "basename": "damage-type-interactions",
@@ -10,15 +26,7 @@
     },
     {
       "basename": "Proficiency Levels",
-      "path": "Proficiency Levels.md"
-    },
-    {
-      "basename": "Immediate Goals for Play",
-      "path": "Immediate Goals for Play.md"
-    },
-    {
-      "basename": "Homebrew Conditions",
-      "path": "Homebrew Mechanics/Homebrew Conditions.md"
+      "path": "Homebrew Mechanics/Proficiency Levels.md"
     },
     {
       "basename": "Homebrew Lists",
@@ -41,20 +49,12 @@
       "path": "z_Inbox/5e Tools Website To-Do & Ideas.md"
     },
     {
-      "basename": "Desperate Actions",
-      "path": "Homebrew Mechanics/Desperate Actions.md"
-    },
-    {
       "basename": "Degrees of Success",
       "path": "Homebrew Mechanics/Degrees of Success.md"
     },
     {
       "basename": "3-Save System",
       "path": "Homebrew Mechanics/3-Save System.md"
-    },
-    {
-      "basename": "Combat Enhancement Rolltables",
-      "path": "Combat Enhancement Rolltables.md"
     },
     {
       "basename": "Epilogue Story Map",

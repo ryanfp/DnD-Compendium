@@ -371,3 +371,42 @@ Characters can gain proficiency in the following skills. Each skill description 
 | 15 | Track in poor conditions; find safe camp in harsh weather; avoid common natural hazards. |
 | 20 | Navigate featureless terrain; track a target that’s actively trying to hide its trail. |
 | 25 | Keep a group alive through extreme conditions with minimal supplies and no safe refuge. |
+
+
+## Class Skills
+
+List of classes that will get access to the new skills at character creation:
+
+### Culture
+- Bard
+- Cleric
+- Gadgeteer
+- Illrigger
+- Justiciar
+- Magus
+- Paladin
+- Rogue
+- Savant
+- Troubadour
+- Vessel
+- Warlord
+
+### Engineering
+- Alchemist
+- Artificer
+- Gadgeteer
+- Magus
+- Rogue
+- Savant
+- Tamer
+- Warlord
+
+### Streetwise
+- Apothecary
+- Bard
+- Gunslinger
+- Inquisitor
+- Pugilist
+- Rogue
+- Troubadour
+- Witch

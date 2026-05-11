@@ -60,6 +60,19 @@ Attack rolls against you have advantage.
 
 - - - 
 
+### Grappled
+#### Associations:
+
+**Damage Type:**  N/A
+**Spells/Abilities:** 
+
+#### Description
+
+ **Restrained** You are Restrained, though you only have disadvantage on attack rolls against any target *other* than the grappler.
+**Movable.** The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
+
+- - -
+
 ### Helpless
 #### Associations:
 
@@ -94,6 +107,20 @@ While you have the Poisoned condition, you experience the following effect.
 **Lingering Damage.** You take 1d4 Poison damage at the start of each of your turns.
 
 - - -
+- 
+### Restrained
+#### Associations:
+
+**Damage Type:**  N/A
+**Spells/Abilities:** 
+
+#### Description
+
+**Speed 0.** You are Immobilized.
+**Attacks Affected.** Attack rolls against you have Advantage, and your attack rolls have Disadvantage.
+**Saving Throws Affected.** You have Disadvantage on Reflex saving throws.
+**Spells Affected.** You cannot cast spells which have somatic components.
+
 ### Slowed
 #### Associations:
 
@@ -189,7 +216,22 @@ The next time you go unconscious, you start with a number of failed death saves 
 
 #### Description
 
-When you drop to 0 HP in combat, you gain this condition. While under this condition, you can take a very limited number of “desperate actions”, and you can only speak falteringly. You have up to 3 uses of desperate actions, at which point you can spend a failed save to use another action per turn. You gain a stack of the wounded condition whenever you gain this condition. If the attack that caused you to reach 0 HP was a critical hit, you gain 2 stacks of wounded instead.
+When you drop to 0 HP in combat, you gain this condition and one stack of the wounded condition. While under this condition, you suffer the following effects:
+
+- You are Incapacitated and Immobilized
+- You are Defenseless
+- You are Helpless
+- You can speak only falteringly–no more than a few words at a time only audible within 10 ft.
+- You drop whatever you are holding and fall prone
+- You have disadvantage on all ability checks and automatically fail Reflex saving throws
+
+Before rolling your death save on each of your turns, the Downed character can take 1 Desperate Action:
+
+**Crawl:** The character wills themselves to crawl up to 5 feet. This movement does not provoke opportunity attacks. If an adjacent square is Difficult Terrain, you cannot crawl towards that square, unless you are already in said Difficult Terrain.
+**Brace:** The character puts up the best defense they can muster. Attackers do not get advantage on attacks due to the Downed condition until the character's next turn, and the first attack from within 5 ft that does hit is turned into a normal hit instead. If you receive an amount of damage that equals or exceeds half of your total health, it still counts as a critical hit.
+**Shout:** The character cries out for their ally to assist them. One friendly creature within 30 feet may immediately move up to half of its movement speed directly toward the downed character. This movement does not provoke opportunity attacks.
+
+You have up to 3 uses of desperate actions, at which point you can spend a failed save to use another action per turn.  If the attack that caused you to reach 0 HP was a critical hit, you gain 2 stacks of wounded instead.
 
 - - -
 ### Frostbite
