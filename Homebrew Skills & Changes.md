@@ -19,11 +19,9 @@ Characters can gain proficiency in the following skills. Each skill description 
 
 ### Acrobatics
 **Ability:** Dexterity  
-**Examples/Specialties:** balance, tumbling, parkour, escaping restraints, aerial stunts, contortion, landing safely  
-**Description:** Acrobatics measures agility, balance, and body control when your footing is uncertain or your movement is daring. It covers tightropes, slick roofs, moving vehicles, sudden drops, evasive rolls, and contorting through cramped spaces. Acrobatics often answers “Can I keep control of my body in motion?” rather than raw speed or endurance, and it’s commonly used during chases, hazardous terrain, and melee scrambles where positioning matters.  
-**Variants:**  
-- **Str (Acrobatics):** powering through athletic stunts that are more “forceful” than “graceful” (muscling a swing, catching a fall with sheer strength).  
-- **Wis (Acrobatics):** staying upright by instinct in chaotic movement (earthquake footing, sudden lurches).  
+**Specialties:** balancing, tumbling, parkour, escaping artistry, swinging, contortion, landing safely  
+**Description:**  An Acrobatics check allows a character to perform gymnastic feats such as rolling under a closing gate, swinging across a chasm on a rope, or keeping their balance on a narrow ledge. The most commonly used ability score is Dexterity. A character might use Strength to perform acrobatics while carrying a heavy burden, Constitution to do so against a heavy wind, or any other ability score as circumstances warrant.
+
 **Example Checks:**
 
 | DC | Situation (examples) |
@@ -38,11 +36,9 @@ Characters can gain proficiency in the following skills. Each skill description 
 
 ### Animal Handling
 **Ability:** Wisdom  
-**Examples/Specialties:** calming animals, riding, herding, training cues, reading animal mood, avoiding spooks, exotic beasts  
-**Description:** Animal Handling reflects your ability to read, calm, and direct beasts and similar creatures using body language, timing, and practical technique. It’s used to keep mounts steady under stress, interpret warning signs before a bite, manage herds, and teach simple behaviors. It doesn’t replace magic or long-term training, but it can prevent panic, earn trust, and create safe openings when dealing with animals in the moment.  
-**Variants:**  
-- **Cha (Animal Handling):** soothing or commanding through presence and confidence (a “good rider voice”).  
-- **Int (Animal Handling):** applying structured training knowledge, tack, and handling methods.  
+**Specialties:** calming animals, riding, herding, training cues, reading animal moods, driving, farming
+**Description:** Animal Handling reflects your ability to read, calm, train, and/or direct beasts and similar creatures using body language, timing, and practical technique. It’s used to keep mounts steady under stress, interpret warning signs before a bite, manage herds, and teach simple behaviors. It doesn’t replace magic or long-term training, but it can prevent panic, earn trust, and create safe openings when dealing with animals in the moment.  
+
 **Example Checks:**
 
 | DC | Situation (examples) |
@@ -57,11 +53,9 @@ Characters can gain proficiency in the following skills. Each skill description 
 
 ### Arcana
 **Ability:** Intelligence  
-**Examples/Specialties:** magical theory, spellcraft signs, planar lore, eldritch symbols, ritual practice, magical items (identification clues)  
-**Description:** Arcana represents learned knowledge of magic: how spells are structured, what strange symbols imply, how planar energies behave, and how supernatural effects leave fingerprints. Use it to recall facts about the schools of magic, recognize ritual components, interpret arcane inscriptions, and reason through magical cause-and-effect. Arcana doesn’t automatically dispel or counter, but it helps you understand what you’re dealing with and choose the right approach.  
-**Variants:**  
-- **Wis (Arcana):** noticing “something’s off” in an aura, ward, or enchantment through intuition and pattern recognition.  
-- **Cha (Arcana):** performing magic in a stylized, tradition-heavy way (presentation, command words, occult “authority”).  
+**Specialties:** magical theory, spellcraft, eldritch symbols, aberrations, constructs, detection, dragons, elementals, fey, forbidden knowledge, monstrosities, oozes, the planes, magical items (identification clues)  
+**Description:** Arcana measures a character’s knowledge of magic and magical creatures. It can also be used to sense whether an area has magical qualities. The most commonly used ability score is Intelligence. A character might use Dexterity to trace a complicated magical rune, or Wisdom to read very carefully and protect their sanity while interpreting forbidden eldritch secrets. Use it to recall facts about the schools of magic, recognize ritual components, interpret arcane inscriptions, and reason through magical cause-and-effect. 
+
 **Example Checks:**
 
 | DC | Situation (examples) |
@@ -76,11 +70,9 @@ Characters can gain proficiency in the following skills. Each skill description 
 
 ## Athletics
 **Ability:** Strength  
-**Examples/Specialties:** climbing, jumping, swimming, grappling, lifting, shoving, breaking objects, endurance feats  
-**Description:** Athletics measures physical power applied to movement and force—climbing under pressure, swimming against currents, leaping gaps, grappling, shoving, and hauling heavy loads. It’s used when your body is the tool and the challenge is raw force or sustained exertion. Athletics is also the go-to skill for controlling space physically—holding a door, forcing a passage, or dragging someone out of danger.  
-**Variants:**  
-- **Con (Athletics):** long-duration exertion (forced march sprint, extended swim, hauling in harsh conditions).  
-- **Dex (Athletics):** quick, technical climbs or leaps when precision matters more than brute force.  
+**Specialties:** climbing, jumping, swimming, grappling, lifting, shoving, breaking objects, running, throwing, endurance feats  
+**Description:** A character makes an Athletics check to perform unusually difficult feats of swimming, running, climbing, or jumping. The most commonly used ability score is Strength. A character might use Dexterity to climb a smooth wall for a short distance or to jump onto a moving creature, Constitution to perform an athletic activity for more than a minute, or Intelligence to keep track of opposing players in a complex sport.  
+
 **Example Checks:**
 
 | DC | Situation (examples) |
@@ -95,11 +87,9 @@ Characters can gain proficiency in the following skills. Each skill description 
 
 ### Culture
 **Ability:** Intelligence  
-**Examples/Specialties:** etiquette, laws-in-practice, bureaucracy, titles & rank, customs & taboos, festivals, trade norms, local institutions, dragonmarked houses, faith practices  
-**Description:** Culture represents your understanding of how societies function in daily life: customs, etiquette, taboos, laws as they’re actually enforced, titles and ranks, and the “unwritten rules” locals assume everyone knows. It helps you avoid social blunders, interpret formalities, understand procedures, and navigate civic life without tripping alarms—literal or political. Culture is the skill for “How do people do things here?” and “What happens if we break that norm?” even when the reason behind the norm is historical.  
-**Variants:**  
-- **Wis (Culture):** sensing social temperature, reading the room, and choosing the safest behavior under tension.  
-- **Cha (Culture):** leveraging ceremony and protocol to gain access (permits, introductions, invitations).  
+**Specialties:** etiquette, laws, linguistics, regional goods, courtly manners
+**Description:** A Culture check allows a character to know the customs, laws, trade in regional products, and etiquette of cultures other than their own (a character is presumed to know about their own culture and background without requiring an ability check.) Culture can also be used to communicate simple concepts with creatures whose language is unknown to a character. The most commonly used ability score is Intelligence. A character might use Wisdom to avoid social blunders, Dexterity to perform an unfamiliar dance, or Charisma to track down a seller of a hard-to-find item.
+ 
 **Example Checks:**
 
 | DC | Situation (examples) |
@@ -114,11 +104,9 @@ Characters can gain proficiency in the following skills. Each skill description 
 
 ### Deception
 **Ability:** Charisma  
-**Examples/Specialties:** lying, disguise behavior, misdirection, forged sincerity, fast-talk, covering tracks socially  
-**Description:** Deception measures your ability to mislead through words, demeanor, and timing. It covers bald-faced lies, half-truths, disguising motives, misdirecting attention, and maintaining a false identity under scrutiny. Deception isn’t just “what you say,” but how you sell it—confidence, consistency, and the ability to adapt when questioned.  
-**Variants:**  
-- **Int (Deception):** constructing airtight cover stories, fabricated documents’ “logic,” and consistent details.  
-- **Wis (Deception):** sensing what lie will land based on the target’s feelings and expectations.  
+**Specialties:** lying, disguise behavior, misdirection, boasting, ciphers, concealing emotions, mimicry  
+**Description:** The Deception skill is used when a character lies, misleads, or hides the truth whether verbally or otherwise. This ability check may be made against a DC set by the Narrator or may be opposed by a target’s Insight check. The most commonly used ability score is Charisma. A character might use Intelligence to compose a cipher or Constitution to conceal the effect of a wound or attack.
+
 **Example Checks:**
 
 | DC | Situation (examples) |
@@ -133,12 +121,9 @@ Characters can gain proficiency in the following skills. Each skill description 
 
 ### Engineering
 **Ability:** Intelligence  
-**Examples/Specialties:** architecture, mechanisms, materials, mathematics, chemistry, explosives, gadgetry, mechanical traps, siegecraft, infrastructure systems  
-**Description:** Engineering measures applied knowledge of construction, invention, mechanisms, and materials—bridges and beams, gears and locks, traps and countermeasures, chemical processes, and industrial systems. It’s used to diagnose structural weaknesses, design solutions under constraints, and understand how complex devices function (and fail). Engineering often answers “How is this built?” “What’s the weak point?” and “What’s the safest way to operate or sabotage this system?”  
-**Variants:**  
-- **Dex (Engineering):** delicate assembly, calibration, disarming mechanism components precisely.  
-- **Str (Engineering):** improvised construction or brute-force implementation when tools/crew are limited.  
-- **Wis (Engineering):** safe operation under stress (“what not to do” to avoid catastrophic failure).  
+**Specialties:** architecture, mechanisms, materials, mathematics, chemistry, explosives, gadgetry, mechanical traps, siegecraft, infrastructure systems  
+**Description:** Engineering measures applied knowledge of construction, invention, mechanisms, and materials, bridges and beams, gears and locks, traps and countermeasures, chemical processes, and industrial systems. It’s used to diagnose structural weaknesses, design solutions under constraints, and understand how complex devices function (and fail). An Engineering check allows a character to know a fact or advance a project involving building, invention, or mathematics. The most commonly used ability score is Intelligence. A character might use Dexterity to construct a tiny device or Strength to build a wall without assistance.  
+ 
 **Example Checks:**
 
 | DC | Situation (examples) |
@@ -153,11 +138,9 @@ Characters can gain proficiency in the following skills. Each skill description 
 
 ### History
 **Ability:** Intelligence  
-**Examples/Specialties:** ancient events, wars, dynasties, archaeology, lost civilizations, old treaties, historical figures, timelines, precedents  
-**Description:** History reflects your ability to recall and contextualize the past: events, empires, migrations, conflicts, and the long chains of cause-and-effect that made the present. Use it to recognize old symbols, identify ruins and relics, remember treaties and precedent, and understand how yesterday’s politics shapes today’s reality. History answers “What happened?” and “Why is it this way?”—especially when modern customs or borders have deep roots.  
-**Variants:**  
-- **Wis (History):** intuitive pattern recognition (“this feels like the last time this kind of uprising happened”).  
-- **Cha (History):** recounting history persuasively to influence others (rally speeches, legitimacy claims).  
+**Specialties:** arts, empires, genealogy, legends, wars, archaeology, historical figures
+**Description:** History reflects your ability to recall and contextualize the past: events, empires, migrations, conflicts, and the long chains of cause-and-effect that made the present. Intelligence is nearly always the ability score used with this skill.  
+
 **Example Checks:**
 
 | DC | Situation (examples) |
@@ -172,11 +155,9 @@ Characters can gain proficiency in the following skills. Each skill description 
 
 ### Insight
 **Ability:** Wisdom  
-**Examples/Specialties:** reading intentions, spotting lies (behavior), empathy, tension sensing, motive analysis, social prediction  
-**Description:** Insight is your ability to read people: interpret body language, tone, micro-reactions, and the emotional context behind words. It helps you determine whether someone is hiding something, what they want, what they fear, and what would move them. Insight doesn’t guarantee truth, but it reveals pressure points, contradictions, and authentic emotional signals.  
-**Variants:**  
-- **Int (Insight):** analyzing tells and motive patterns logically, especially in formal negotiations or interrogations.  
-- **Cha (Insight):** mirroring and rapport-building to draw out honest reactions.  
+**Specialties:** detecting lies, reading emotions, sensing motives, social prediction  
+**Description:** Insight is your ability to read people: interpret body language, tone, micro-reactions, and the emotional context behind words. It can be used for reading a creature’s intentions or motives. The most commonly used ability score is Wisdom. A character might use Dexterity to interrupt an enemy’s sudden action or Strength when squeezing an object to see how hard it will be to break.  
+
 **Example Checks:**
 
 | DC | Situation (examples) |
@@ -191,11 +172,9 @@ Characters can gain proficiency in the following skills. Each skill description 
 
 ### Intimidation
 **Ability:** Charisma  
-**Examples/Specialties:** threats, dominance, coercion, interrogation pressure, making examples, “cold authority”  
-**Description:** Intimidation measures your ability to influence behavior through fear, pressure, or overwhelming authority. It includes direct threats, implied consequences, controlled menace, and displays of power meant to make resistance feel costly. Intimidation can force compliance short-term, but it often creates resentment or backlash—especially in structured societies where reputation and consequences matter.  
-**Variants:**  
-- **Str (Intimidation):** physical presence, feats of strength, looming menace.  
-- **Int (Intimidation):** knowing exactly what to threaten (legal ruin, exposure, economic leverage).  
+**Specialties:** authority, coercion, ferocity, interrogation, subtle threats, weapon displays
+**Description:** Intimidation measures your ability to influence behavior through fear, pressure, or overwhelming authority. A character makes an Intimidation check to alter someone’s behavior by frightening or threatening them. A single Intimidation check can also be used as part of an interrogation, though further checks rarely offer different results. The Narrator sets the DC of the check based on the target’s bravery and the circumstances of the check; some creatures can’t be intimidated. The most commonly used ability scores for Intimidation checks are Charisma (for verbal threats) and Strength (for physical threats). A character might use Wisdom to discern a creature’s weak point, and a spellcaster might use their spellcasting ability score to summon frightening energies.
+
 **Example Checks:**
 
 | DC | Situation (examples) |
@@ -210,11 +189,9 @@ Characters can gain proficiency in the following skills. Each skill description 
 
 ### Investigation
 **Ability:** Intelligence  
-**Examples/Specialties:** searching, deduction, clue linking, forensics, patterns, puzzle-solving, archives, methodical inquiry  
-**Description:** Investigation is careful reasoning applied to evidence. It covers searching spaces thoroughly, connecting clues, reconstructing events, noticing patterns, and building a theory that fits the facts. Investigation answers “What does this imply?” rather than “Do I notice it?”—often picking up where Perception leaves off by turning observations into conclusions.  
-**Variants:**  
-- **Wis (Investigation):** intuitive reconstruction of events; “feel” for what’s missing or staged.  
-- **Cha (Investigation):** interviewing witnesses and steering questioning as a structured inquiry.  
+**Specialties:** searching, deduction, patterns, puzzle-solving, appraisal, deciphering, forensics, gathering rumors, research, trapfinding
+**Description:** Investigation is careful reasoning applied to evidence. Investigation is used for actively searching, looking for clues, gathering information, experimentation, and research. The most commonly used ability score is Intelligence. A character might use Charisma to gather rumors or Wisdom to intuit which tomes and books in a library will be the most efficacious.
+
 **Example Checks:**
 
 | DC | Situation (examples) |
@@ -229,11 +206,9 @@ Characters can gain proficiency in the following skills. Each skill description 
 
 ### Medicine
 **Ability:** Wisdom  
-**Examples/Specialties:** first aid, diagnosis, triage, anatomy, surgery basics, poisons & disease signs, battlefield care  
-**Description:** Medicine is practical healing knowledge: stabilizing the dying, diagnosing injuries and illness, treating wounds, and understanding anatomy well enough to make good decisions fast. It covers first aid, triage, recognizing causes of symptoms, and applying supplies correctly under stress. In this campaign, Medicine also interfaces with the **Wounded / death save / exhaustion** house rules—making trained medical aid a major tool for keeping people alive and reducing long-term consequences.  
-**Variants:**  
-- **Int (Medicine):** academic diagnosis, research-based treatment plans, forensic medicine (cause of death).  
-- **Dex (Medicine):** delicate procedures under pressure (splinting, suturing, precision treatment).  
+**Specialties:** anatomy, animals, autopsy, diseases, first aid, herbalism, poisons
+**Description:** A character can perform a Medicine check to stabilize a dying creature, treat or diagnose a disease or poison, or determine a cause of death. The most commonly used ability score is Wisdom. A character might use Intelligence to diagnose a rare poison or Constitution to nurse someone through a lengthy and dangerous illness.
+  
 **Example Checks:**
 
 | DC | Situation (examples) |
@@ -248,11 +223,9 @@ Characters can gain proficiency in the following skills. Each skill description 
 
 ### Nature
 **Ability:** Intelligence  
-**Examples/Specialties:** ecosystems, weather signs, flora & fauna, monster habitats, natural hazards, alchemy ingredients, druidic lore  
-**Description:** Nature reflects scholarly and practical knowledge of the natural world: animals and plants, climates, terrain, and ecological relationships. It’s used to recognize creatures, recall their behaviors and habitats, identify useful or dangerous plants, and interpret natural phenomena. Nature answers “What is this, and what does it do?”—especially when the wilderness is the clue.  
-**Variants:**  
-- **Wis (Nature):** reading immediate environmental signs (fresh tracks context, storm scent, animal alarm behavior).  
-- **Cha (Nature):** communicating expertise persuasively (teaching, guiding, commanding attention as an expert).  
+**Specialties:** astronomy, beast lore, ecosystems, farming, fey, natural hazards, plant lore, weather
+**Description:** The Nature skill measures a character’s knowledge of natural terrains, beasts, plants, and hazards. It can also be used to sense whether a creature is the product of this world or of another plane of existence. Unlike Survival, the Nature skill doesn’t necessarily imply practical experience with a phenomenon. The most commonly used ability score is Intelligence. A character might use Wisdom to recognize a hazard or Charisma to bring calm to an errant elemental presence disrupting an abandoned druid’s grove (or other place of great natural power).
+
 **Example Checks:**
 
 | DC | Situation (examples) |
@@ -267,11 +240,9 @@ Characters can gain proficiency in the following skills. Each skill description 
 
 ### Perception
 **Ability:** Wisdom  
-**Examples/Specialties:** spotting threats, hearing details, scanning crowds, vigilance, ambush detection, noticing movement  
-**Description:** Perception is your ability to notice what’s present: sights, sounds, smells, and small changes in the environment. It’s used to spot hidden creatures, notice suspicious behavior, hear distant movement, and detect hazards before they become problems. Perception answers “Do I notice it?”—and often determines whether you get a chance to respond before trouble hits.  
-**Variants:**  
-- **Int (Perception):** identifying what you’re seeing quickly (“that’s a forged uniform,” “that’s a pressure plate pattern”).  
-- **Cha (Perception):** scanning a crowd by social cues—who’s watching, who’s pretending not to watch.  
+**Specialties:** farsight, invisible objects, listening, scent  
+**Description:** A character’s Perception measures what they are able to see, hear, or otherwise sense (unlike Investigation, Perception doesn’t involve approaching, searching, or handling an object of study.) The most commonly used ability score is Wisdom. A character might use Constitution for a long stretch of sentinel duty, or Intelligence to pick up on changes to the type of stone bricks used deeper than elsewhere in a dungeon. 
+
 **Example Checks:**
 
 | DC | Situation (examples) |
@@ -286,12 +257,9 @@ Characters can gain proficiency in the following skills. Each skill description 
 
 ### Performance
 **Ability:** Charisma  
-**Examples/Specialties:** music, acting, oratory, dance, impersonation style, stagecraft, crowd control, distraction, reputation-building  
-**Description:** Performance is your ability to command attention and shape emotion through entertainment, presentation, and artistry. It covers playing an instrument, acting, dancing, telling stories, delivering speeches with flair, and creating scenes that make people feel something—laughter, awe, fear, loyalty. In play, Performance can be used to gather crowds, mask conversations, create distractions, sway a room’s mood before negotiations, and build a reputation that opens doors later.  
-**Variants:**  
-- **Dex (Performance):** dance, precise sleight-of-stage movements, physical acting, instrument virtuosity.  
-- **Wis (Performance):** reading the crowd and adjusting the act to keep them hooked or calm them down.  
-- **Int (Performance):** technical composition, directing, planning a show to achieve a specific social outcome.  
+**Specialties:** acting, composing, crowd control, dancing, distraction, fine art, singing, speaking, stagecraft, writing
+**Description:** Performance is your ability to command attention and shape emotion through entertainment, presentation, and artistry. A Performance check allows a character to entertain an audience with singing, acting, or the like. It also allows a character to write or compose music, literature, or other artistic endeavors to entertain future audiences. The most commonly used ability score is Charisma, especially for performances before an audience. Writing, composing, or painting might instead use Intelligence or Wisdom. A display of martial prowess might require Dexterity or Strength.
+  
 **Example Checks:**
 
 | DC | Situation (examples) |
@@ -306,11 +274,9 @@ Characters can gain proficiency in the following skills. Each skill description 
 
 ### Persuasion
 **Ability:** Charisma  
-**Examples/Specialties:** negotiation, diplomacy, bargaining, requests, mediation, networking, sincere influence  
-**Description:** Persuasion measures your ability to influence others through honesty, reason, and interpersonal skill. It’s used to negotiate deals, request help, smooth conflicts, and present arguments in ways people want to accept. Persuasion works best when there’s a real offer, a credible position, or shared interests—and it often succeeds by finding what the other side values and aligning with it.  
-**Variants:**  
-- **Int (Persuasion):** building airtight arguments, legal logic, structured negotiation strategy.  
-- **Wis (Persuasion):** empathetic appeal, choosing the right tone and timing to get buy-in.  
+**Specialties:** bribery, flattery, leadership, negotiation, peacemaking 
+**Description:** A character makes a Persuasion check to convince or influence someone through logic, flattery, or negotiation (unlike a Deception check, a Persuasion check is made in some degree of good faith.) The Narrator sets the DC of the Persuasion check based on what the character is asking for and how the target feels about the character; some persuasion attempts may be impossible.The most commonly used ability score is Charisma. Wisdom might be used for gauging what offers would sway a creature, or Intelligence if it is a matter entirely about logic.
+
 **Example Checks:**
 
 | DC | Situation (examples) |
@@ -325,11 +291,9 @@ Characters can gain proficiency in the following skills. Each skill description 
 
 ### Religion
 **Ability:** Intelligence  
-**Examples/Specialties:** deities and saints, rites and doctrine, cult signs, planes tied to faith, holy symbols, religious history, undead lore (theological context)  
-**Description:** Religion reflects knowledge of gods, beliefs, rituals, and the institutions that form around them. It’s used to recognize holy symbols, recall doctrine, understand sacred rites, identify cult behavior, and interpret religious artifacts or taboos. Religion can also apply to supernatural phenomena deeply rooted in faith traditions—especially when the correct ritual response matters.  
-**Variants:**  
-- **Wis (Religion):** practical ritual sense, devotional intuition, recognizing “wrongness” in sacred spaces.  
-- **Cha (Religion):** leading rites, preaching, or invoking authority within a faith community.  
+**Specialties:** alignment, celestials, cults, fiends, holy symbols, gods, morality, prophecy, rites and doctrine, undead
+**Description:** Religion measures a character’s knowledge of gods, religions, rites, and systems of morality. A character can also try to use it to sense if a place, person, or object has the Good or Evil alignment traits or a holy or unholy aura. The most commonly used ability score is Intelligence. Wisdom is used for sensing alignment and determining whether an action is moral according to a particular philosophy. Charisma can be used for preaching.  
+
 **Example Checks:**
 
 | DC | Situation (examples) |
@@ -344,11 +308,9 @@ Characters can gain proficiency in the following skills. Each skill description 
 
 ### Sleight of Hand
 **Ability:** Dexterity  
-**Examples/Specialties:** pickpocketing, palming items, concealing gestures, card tricks, quick swaps, cheating games  
-**Description:** Sleight of Hand measures fine motor skill and misdirection—doing something with your hands that others don’t notice until it’s too late. It covers palming items, lifting keys, swapping objects, concealing a gesture, and performing tricks that rely on timing and attention control. Sleight of Hand isn’t automatically lockpicking or disarming traps (that’s typically tools), but it’s often part of those scenes when manual finesse is the point.  
-**Variants:**  
-- **Cha (Sleight of Hand):** “stage” misdirection—drawing eyes away with patter or charm while hands work.  
-- **Int (Sleight of Hand):** executing a rehearsed con routine with planned beats and tells.  
+**Specialties:** distraction, pickpocketing, legerdemain  
+**Description:** A character makes a Sleight of Hand check to perform legerdemain, pickpocket, hide an object on another creature, make a concealed hand signal, or otherwise deceive the eyes with feats of agility. Dexterity is nearly always the ability score used with this skill.
+
 **Example Checks:**
 
 | DC | Situation (examples) |
@@ -363,11 +325,9 @@ Characters can gain proficiency in the following skills. Each skill description 
 
 ### Stealth
 **Ability:** Dexterity  
-**Examples/Specialties:** hiding, silent movement, shadowing, camouflage, ambush setup, avoiding notice in crowds  
-**Description:** Stealth measures your ability to avoid detection through silence, timing, cover, and blending in. It’s used to hide, move without being seen or heard, tail targets, bypass guards, and position for surprise. Stealth is not invisibility—you still need plausible cover and smart movement—but it lets you create opportunities where you act before others can react.  
-**Variants:**  
-- **Wis (Stealth):** picking routes, reading patrol patterns, moving when attention is elsewhere.  
-- **Cha (Stealth):** “social stealth” in plain sight—looking like you belong and not drawing attention.  
+**Specialties:** anonymity, camouflage, casing  
+**Description:** Stealth is used to hide or avoid notice. A creature’s Stealth check is usually opposed by a potential observer’s Perception check. The most commonly used ability score for Stealth is Dexterity. Constitution might be used for staying still for a very long time, Intelligence for casing out an unfrequented route, and Charisma for blending anonymously into a crowd. 
+
 **Example Checks:**
 
 | DC | Situation (examples) |
@@ -382,30 +342,26 @@ Characters can gain proficiency in the following skills. Each skill description 
 
 ### Streetwise
 **Ability:** Charisma  
-**Examples/Specialties:** rumors & gossip, contacts & favors, bribes, underworld etiquette, black markets, gangs, safe routes, “who’s who,” finding services fast  
-**Description:** Streetwise is your ability to navigate the living social web of a settlement: who has influence, where to get things done, what’s happening right now, and which neighborhoods or questions draw heat. It covers gathering rumors, locating fixers, leveraging informal networks, reading street-level tensions, and securing access through people rather than paperwork. Streetwise answers “Who knows?” “Who can do it?” and “How do we get this handled quietly?”  
-**Variants:**  
-- **Int (Streetwise):** knowing faction lines, turf, institutional connections, and how influence flows.  
-- **Wis (Streetwise):** sensing danger, noticing a setup, reading the neighborhood’s mood and attention.  
+**Specialties:** leads, contacts, favors, local networks, underworld etiquette, black markets, gangs, safe routes
+**Description:** The Streetwise skill allows a character to navigate the social and physical landscape of urban environments, such as finding a black market dealer, knowing which neighborhoods to avoid after dark, identifying gang signs or territorial markers, or tracking down a person of interest through word of mouth and local contacts. The most commonly used ability score is Charisma. A character might use Intelligence to recall the layout of a city's sewer system or the hierarchy of a thieves' guild, Wisdom to read the mood of a crowd or sense an ambush in an alleyway, or Constitution to survive and remain alert during long nights spent working contacts in dangerous districts. 
+
 **Example Checks:**
 
 | DC | Situation (examples) |
 |---:|---|
-| 5  | Learn the obvious “don’t go there” block; find a cheap safe-ish bed for the night. |
-| 10 | Gather a useful rumor in a few hours; find a fence or basic illicit market. |
-| 15 | Locate a specific fixer without drawing attention; learn bribe norms and who accepts them. |
-| 20 | Track down a hidden safehouse or smuggling lane; uncover who’s really behind a local problem. |
-| 25 | Arrange contact with major power players discreetly; make yourself effectively unfindable in a hostile city. |
+| 5  | Know which part of town to avoid after dark; find a common tavern or inn frequented by locals rather than travelers. |
+| 10 | Gather a useful rumor in a few hours; track down a fence willing to buy or sell questionable goods; identify gang territory by graffiti, signals, or local behavior. |
+| 15 | Arrange a discreet meeting with a mid-level criminal contact in an unfamiliar city; navigate a sewer or rooftop route to bypass a guarded district. |
+| 20 | Gain an audience with a local crime boss or guild leader without an introduction; uncover details of an ongoing criminal operation through street-level contacts alone. |
+| 25 | operate safely and unnoticed within a hostile underworld for an extended period; identify the hidden power structure of a city's criminal organizations after only a few days on the ground. |
 
 ---
 
 ### Survival
 **Ability:** Wisdom  
-**Examples/Specialties:** tracking, navigation, foraging, shelter, weather sense, hazard avoidance, hunting, travel logistics  
-**Description:** Survival measures practical wilderness competence: tracking creatures, navigating rough terrain, predicting short-term weather, finding food and water, building shelter, and avoiding natural hazards. It’s the skill for staying alive and moving effectively when there’s no infrastructure and the environment is actively trying to ruin your day.  
-**Variants:**  
-- **Int (Survival):** route planning, mapping, logistics, and applying learned knowledge of terrain and seasons.  
-- **Con (Survival):** enduring harsh exposure and maintaining function through fatigue (as checks, not saves).  
+**Specialties:** dungeoneering, foraging, hunting, tracking, wayfinding  
+**Description:** The Survival skill allows a character to perform the tasks necessary to thrive in the wilderness: hunting, tracking, avoiding natural hazards, and traveling without getting lost (unlike Nature, a Survival check doesn’t imply knowledge of the trouble you’re avoiding or tracking.) The most commonly used ability score is Wisdom. A character might use Constitution to weather a storm or Intelligence to follow a route marked on an old map.
+
 **Example Checks:**
 
 | DC | Situation (examples) |
@@ -415,69 +371,3 @@ Characters can gain proficiency in the following skills. Each skill description 
 | 15 | Track in poor conditions; find safe camp in harsh weather; avoid common natural hazards. |
 | 20 | Navigate featureless terrain; track a target that’s actively trying to hide its trail. |
 | 25 | Keep a group alive through extreme conditions with minimal supplies and no safe refuge. |
-
----
-
-# Appendix: Common Confusions & Conflict Rulings
-
-## A) Culture vs History vs Streetwise (the “Past / Present / People” split)
-Use these questions to pick the skill:
-- **History:** “What happened back then?” “Why did this become taboo?” “What’s the precedent/origin?”
-- **Culture:** “How does this work right now?” “What’s normal here?” “What happens if we break this rule today?”
-- **Streetwise:** “Who enforces/bends this?” “Who do we talk to?” “Where do we find the person/service?”
-
-**Overlap rule (recommended):** If **History** and **Culture** both reasonably apply, let the player choose the lens. Same DC, different information. If they beat the DC by **5+**, also give one useful detail from the other lens as a bonus.
-
-## B) Investigation vs Perception
-- **Perception:** spotting/hearing/notice in the moment (“Do I notice the hidden latch?”)
-- **Investigation:** reasoning and reconstruction (“If there’s a latch, where would it be and what does it do?”)
-
-Rule of thumb: Perception finds clues; Investigation explains them.
-
-## C) Athletics vs Acrobatics
-- **Athletics:** power, climbing, forcing movement, grapples, hauling
-- **Acrobatics:** balance, precision movement, landing safely, slipping free (when appropriate)
-
-If a player describes “muscling through,” Athletics; “staying in control,” Acrobatics.
-
-## D) Sleight of Hand vs Thieves’ Tools
-- **Sleight of Hand:** palming, swapping, concealing, manual trickery and misdirection
-- **Thieves’ Tools:** locks, trap mechanisms, tool-based bypasses
-
-Many scenes use both: Sleight of Hand to conceal the attempt; tools to do the bypass.
-
-## E) Engineering vs Investigation vs Arcana (devices & weird tech/magic)
-- **Engineering:** how it’s built, how it fails, weak points, safe operation, mechanical/chemical systems
-- **Investigation:** what evidence implies about the device/event; who used it; what happened
-- **Arcana:** magical principles, wards, spell-logic, planar interactions
-
-If it’s a physical system with moving parts/materials → Engineering first.  
-If it’s “what does this magical diagram do?” → Arcana.  
-If it’s “what does the scene tell us happened?” → Investigation.
-
-## F) Performance vs Persuasion/Deception/Intimidation
-- **Performance:** attention + emotion + mood (“I control the room.”)
-- **Persuasion:** sincere influence and negotiation (“I convince you.”)
-- **Deception:** misdirection/falsehood (“I mislead you.”)
-- **Intimidation:** fear/pressure (“I compel you.”)
-
-Use Performance when the goal is *crowd behavior, distraction, reputation, or emotional tone*—even if it later supports a Persuasion/Deception roll.
-
-## G) Insight vs Perception (reading people)
-- **Perception:** noticing a tell (“his hands are shaking”)
-- **Insight:** interpreting it (“he’s afraid of the topic, not of us”)
-
-## H) Nature vs Survival vs Animal Handling
-- **Nature:** what it is (creature/plant/ecosystem knowledge)
-- **Survival:** what to do (tracking, foraging, shelter, navigation)
-- **Animal Handling:** how to handle it (calm/train/direct beasts)
-
-## I) “Social Stealth”
-If you’re hiding by looking like you belong, consider **Cha (Stealth)**.  
-If you’re navigating the city through contacts and informal networks, it’s **Streetwise**.
-
-## J) When multiple skills apply
-If two skills genuinely fit and the approach supports either, you can:
-- let the player pick the skill, **or**
-- grant advantage if they can justify combining approaches, **or**
-- on a success, give different *kinds* of benefits depending on skill chosen (facts vs access vs mood).
