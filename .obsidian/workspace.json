@@ -35,7 +35,7 @@
               "type": "markdown",
               "state": {
                 "file": "Immediate Goals for Play.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -189,16 +189,9 @@
               "icon": "lucide-file",
               "title": "damage-type-interactions"
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "1f0913803faa9af4",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "10a85cd76f3a01ac",
+            "id": "07e3167c63b6d9b9",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -206,25 +199,53 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Desperate Actions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/Desperate Actions.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Desperate Actions\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Downed",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/Conditions/Downed.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Downed\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew Mechanics/Homebrew Conditions.md",
+                "file": "Homebrew Skills & Changes.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homebrew Skills & Changes"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "1f0913803faa9af4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5448df5c3efe358",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homebrew Skills & Changes.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -239,7 +260,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homebrew Conditions"
+              "title": "Homebrew Skills & Changes"
             }
           }
         ]
@@ -546,10 +567,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homebrew Mechanics/Homebrew Conditions.md"
+                "file": "Homebrew Skills & Changes.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homebrew Conditions"
+              "title": "File properties for Homebrew Skills & Changes"
             }
           },
           {
@@ -663,12 +684,14 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "10a85cd76f3a01ac",
+  "active": "f5448df5c3efe358",
   "lastOpenFiles": [
-    "Homebrew Mechanics/Untitled.md",
-    "Homebrew Mechanics/Homebrew Conditions.md",
-    "Immediate Goals for Play.md",
+    "Homebrew Skills & Changes.md",
     "Homebrew In-Progress/damage-type-interactions.md",
+    "Proficiency Levels.md",
+    "Immediate Goals for Play.md",
+    "Homebrew Mechanics/Homebrew Conditions.md",
+    "Homebrew Mechanics/Untitled.md",
     "Homebrew In-Progress/Homebrew Lists.md",
     "Homebrew In-Progress/Homebrew Errata Guide.md",
     "Homebrew In-Progress/death-dying-desperate-actions-rules.md",
@@ -691,8 +714,6 @@
     "🌎 - Worldbuilding & Lore/Story/concepts/the-stain.md",
     "🌎 - Worldbuilding & Lore/Story/concepts/planar-anchors.md",
     "🌎 - Worldbuilding & Lore/Story/concepts/orrery.md",
-    "🌎 - Worldbuilding & Lore/Story/concepts/irian-binding.md",
-    "🌎 - Worldbuilding & Lore/Story/concepts/draconic-prophecy.md",
     "map test.canvas",
     "Color Palette/Color Palettes.base",
     "z_Inbox",

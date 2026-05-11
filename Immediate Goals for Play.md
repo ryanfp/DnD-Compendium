@@ -73,9 +73,9 @@ aliases:
 	- [ ] Exhaustion rules (Fatigue, Strife, recovering)
 	- [ ] Downtime
 	- [x] Degrees of Success
-	- [ ] New Conditions
+	- [x] New Conditions
 		- [x] **Slowed**
-		- [ ] **Hastened**
+		- [x] **Hastened**
 			- When the spell ends, it gives one level of exhaustion, and the target is Slowed as well for as long as the spell was affecting the target. Now also makes the one concentrating Slowed, but the effect is removed when the spell ends.
 		- [x] **Defenseless**
 		- [x] **Helpless**
@@ -85,18 +85,17 @@ aliases:
 		- [x] **Frostbite**
 		- [x] **Frozen**
 		- [x] **Wet/Soaked**
-		- [ ] **Withered**
+		- [x] **Withered**
 		- [x] **Corroded**
-		- [ ] **Wounded**
+		- [x] **Wounded**
 		- [x] **Downed**
-		- [ ] **Stupefied**
-		- [ ] **Weakened**
+		- [x] **Stupefied**
+		- [x] **Weakened**
 		- [x] **Bleeding**
-		- [ ] **Bewildered**
 		- [x] **Blessed**
 		- [x] **Baned**
-		- [ ] **Doomed**
-	- [ ] Experience/Proficiency Levels
+		- [x] **Doomed**
+	- [x] Experience/Proficiency Levels
 	- [ ] Extra Skills and Jurisdictions, Classes w/ Prof
 		- [ ] Engineering
 		- [ ] Culture

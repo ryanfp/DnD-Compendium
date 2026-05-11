@@ -337,19 +337,19 @@ While under the withered condition, you suffer the following effects:
 
 You gain one stack of this condition when you reach 0 HP. There are a maximum of 5 stacks of wounded, and you gain more depending on the result of your death saving throws:
 
-Base DC = 10
+Base DC of Death Saving Throws = 10
 
 - 20 - Critical Success: -1 stack of wounded and DC decreases by 2
 - 10-19 - Success: nothing
 - 2-9 - Failure: +1 stack of wounded
 - 1 - Critical Failure: +2 stacks of wounded and DC increases by 2
 
-When you regain HP or are stabilized, your current stacks of wounded linger. If you go down in combat again, upon reaching 0HP, they are converted to failed death saving throws at a 2:1 rate, and then you gain the +1 stack from reaching 0 HP (or +2 if it was a critical hit). 
+When you regain HP or are stabilized, your current stacks of wounded linger. If you go down in combat again, upon reaching 0 HP, your stacks of wounded are converted to failed death saving throws at a 2:1 rate, and then you gain the +1 stack from reaching 0 HP (or +2 if it was a critical hit). 
 
 
 
  - When you are stabilized or gain 1 HP or more, all of your failed death saving throws are converted to the Wounded condition at a 2:1 rate. 
- - When combat ends, all leftover stacks of wounded are converted to *levels of exhaustion* at a 2:1 rate, and the remainder is left. 
+ - When combat ends, all leftover stacks of wounded are converted to *levels of exhaustion* at a 2:1 rate, and the remainder lingers. 
 
 **How to remove**
 
@@ -360,7 +360,7 @@ You can get rid of this condition by healing to full HP and completing a Short R
 
 ###### **Turn 1:** 
 
-Bob has 0 stacks of wounded, and is at 5 HP. An enemy attacks him, and hits him for 7 damage, and is reduced to 0 HP. 
+Bob has 0 stacks of wounded, and is at 5 HP. An enemy attacks him, and hits him for 7 damage. Bob is reduced to 0 HP. 
 
 Upon reaching 0 HP, he gains the downed condition, and gains +1 stack of the wounded condition. 
 *Current wounded count:* 1
@@ -380,4 +380,27 @@ Bob’s turn comes around again, he rolls another saving throw. His result is a 
 Bob’s turn comes around again, and he rolls a 20. This brings his death save count to 1 success and 2 fails. 
 *Current wounded count:* 3
 
-#####
+###### **Turn 5:**
+
+Bob rolls a 14. Death save count is 2 success, 2 fails.
+*Current wounded count:* 3
+
+###### **Turn 6:**
+
+Somehow, Bob’s teammates have not revived him or healed him yet. He rolls a 13, marking his 3rd success on death saves, and becomes stable. He has 3 stacks of wounded. 
+
+**If Bob stays like this until combat ends**
+
+Bob will have his 3 stacks of wounded converted to *exhaustion*[^1], resulting in him having:
+
+- 1 level of Fatigue
+- 1 level of Strife
+- 1 stack of wounded
+
+**If Bob regains consciousness and rejoins the fight**
+
+Bob will have 3 stacks of wounded. The next time he goes down, he converts his stacks to failed death saves (2:1 ratio), and *then* gains +1 stack of wounded. 
+
+Bob goes down again –> Bob is at 0 HP with 1 failed death save to start, and is left with 1 stack of wounded –> +1 stack of wounded from going down
+
+[^1]: Remember, both *Fatigue* and *Strife* count as Exhaustion in this ruleset. When specifically referring to “Exhaustion”, it is referring to both at the same time.
