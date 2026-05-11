@@ -356,13 +356,28 @@ When you regain HP or are stabilized, your current stacks of wounded linger. If 
 You can get rid of this condition by healing to full HP and completing a Short Rest, or by completing a Long Rest. Alternatively, certain spells and effects remove certain stacks of this condition. The *spare the dying* cantrip removes one stack of wounded when stabilizing a creature, *lesser restoration* removes 2 stacks of wounded, and *greater restoration* removes **all** stacks of wounded. 
 
 
-###### Example Scenario
+##### Example Scenario 1
 
-**Scenario 1** 
+###### **Turn 1:** 
 
-**Turn 1:** Bob has 0 stacks of wounded, and is at 5 HP. An enemy attacks him, and hits him for 7 damage, and is reduced to 0 HP. 
+Bob has 0 stacks of wounded, and is at 5 HP. An enemy attacks him, and hits him for 7 damage, and is reduced to 0 HP. 
 
 Upon reaching 0 HP, he gains the downed condition, and gains +1 stack of the wounded condition. 
 *Current wounded count:* 1
 
-**Turn 2:** Bob has
+###### **Turn 2:** 
+
+Bob’s turn comes up, he rolls a death saving throw. His result is 8, bringing his total failed death saves to 1. 
+*Current wounded count:* 2
+
+###### **Turn 3:**
+
+Bob’s turn comes around again, he rolls another saving throw. His result is a 1, bringing his total failed saves to 2. 
+*Current wounded count:* 4
+
+###### **Turn 4:**
+
+Bob’s turn comes around again, and he rolls a 20. This brings his death save count to 1 success and 2 fails. 
+*Current wounded count:* 3
+
+#####
