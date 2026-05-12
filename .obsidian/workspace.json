@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Homebrew Conditions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/Homebrew Conditions.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Homebrew Conditions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Desperate Actions",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/Desperate Actions.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Desperate Actions\"}",
@@ -76,7 +82,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew Mechanics/Homebrew Conditions.md",
+                "file": "Homebrew Mechanics/Homebrew Skills & Changes.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -91,7 +97,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homebrew Conditions"
+              "title": "Homebrew Skills & Changes"
             }
           },
           {
@@ -285,16 +291,9 @@
               "icon": "lucide-file",
               "title": "Ability Scores"
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "9d2f7dc658316064",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "a03986f142629718",
+            "id": "4fb303048cf1c57d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -302,6 +301,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Ability Scores",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/Ability Scores.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Ability Scores\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":213,\"ch\":43},\"to\":{\"line\":213,\"ch\":43}},\"scroll\":36.00240384615385}"
                 },
                 {
                   "title": "Immediate Goals for Play",
@@ -368,7 +373,113 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew Mechanics/Ability Scores.md",
+                "file": "Homebrew Mechanics/Character Creation Guidelines.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Character Creation Guidelines"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "9d2f7dc658316064",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a03986f142629718",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Ability Scores",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/Ability Scores.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Ability Scores\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":213,\"ch\":43},\"to\":{\"line\":213,\"ch\":43}},\"scroll\":36.00240384615385}"
+                },
+                {
+                  "title": "Immediate Goals for Play",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Immediate Goals for Play.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Immediate Goals for Play\"}",
+                  "eState": "{\"scroll\":4.878048780487805}"
+                },
+                {
+                  "title": "Proficiency Ranks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/Proficiency Ranks.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Proficiency Levels\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Homebrew Skills & Changes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/Homebrew Skills & Changes.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Homebrew Skills & Changes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Homebrew Conditions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/Homebrew Conditions.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Homebrew Conditions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Desperate Actions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/Desperate Actions.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Desperate Actions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Degrees of Success",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/Degrees of Success.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Degrees of Success\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "3-Save System",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/3-Save System.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"3-Save System\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Immediate Goals for Play",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Immediate Goals for Play.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Immediate Goals for Play\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":73.79447115384616}"
+                },
+                {
+                  "title": "Epilogue Story Map",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Inbox/Epilogue Story Map.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Epilogue Story Map\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Immediate Goals for Play",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Immediate Goals for Play.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Immediate Goals for Play\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homebrew Mechanics/Character Creation Guidelines.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -383,7 +494,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ability Scores"
+              "title": "Character Creation Guidelines"
             }
           },
           {
@@ -788,10 +899,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homebrew Mechanics/Ability Scores.md"
+                "file": "Homebrew Mechanics/Character Creation Guidelines.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Ability Scores"
+              "title": "File properties for Character Creation Guidelines"
             }
           },
           {
@@ -901,18 +1012,18 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "b649faa5b9392d92",
+  "active": "4fb303048cf1c57d",
   "lastOpenFiles": [
-    "Homebrew Mechanics/Proficiency Ranks.md",
-    "Homebrew Mechanics/Ability Scores.md",
-    "Homebrew In-Progress/damage-type-interactions.md",
     "Immediate Goals for Play.md",
+    "Homebrew Mechanics/Character Creation Guidelines.md",
+    "Homebrew Mechanics/Ability Scores.md",
     "Homebrew Mechanics/Homebrew Skills & Changes.md",
     "Homebrew Mechanics/Homebrew Conditions.md",
+    "Homebrew Mechanics/Proficiency Ranks.md",
+    "Homebrew In-Progress/damage-type-interactions.md",
     "Homebrew Mechanics/Desperate Actions.md",
     "Homebrew Mechanics/Degrees of Success.md",
     "Homebrew Mechanics/3-Save System.md",
@@ -934,7 +1045,6 @@
     "🌎 - Worldbuilding & Lore/Story/campaign/open-questions.md",
     "🌎 - Worldbuilding & Lore/Story/concepts/the-stain.md",
     "🌎 - Worldbuilding & Lore/Story/concepts/planar-anchors.md",
-    "🌎 - Worldbuilding & Lore/Story/concepts/orrery.md",
     "map test.canvas",
     "Color Palette/Color Palettes.base",
     "z_Inbox",

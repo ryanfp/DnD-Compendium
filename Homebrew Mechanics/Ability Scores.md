@@ -157,19 +157,25 @@ Intelligence is frequently used to recall details of the shared adventure world,
 
 ### Bonus Knowledge
 
-Having a higher Intelligence means having more knowledge than other characters. During character creation, as long as your Intelligence modifier is above 0, it contributes to the things you know. At character creation, you can choose one of the following benefits for each point of your Intelligence modifier above 0:
+Having a higher Intelligence means having more knowledge than other characters. During character creation, as long as your Intelligence modifier is above 0, it contributes to the things you know. At character creation, you gain an extra boon based on your INT modifier, based on the table below:
 
-- An extra language known.
-- A tool proficiency in one artisan’s tool, gaming kit, instrument, or vehicle.
-- A skill specialty in one of the following skills: Arcana, Culture, Engineering, History, Nature, Religion.
 
-If your Intelligence modifier changes, it affects your bonus knowledge. When your Intelligence modifier increases, you can choose an additional skill specialty in the skills listed above as if you always had the new modifier. If your Intelligence modifier decreases you must remove the last benefit from your bonus knowledge. If your Intelligence modifier drops below 0, you don’t lose more knowledge than you gained from bonus knowledge.
+| Int Score (Mod) | Proficiency |
+|:---------------:| ----------- |
+|       12        |       1 instrument, tool, or language       |
+|       14        |      1 lore-based skill, or tool + language       |
+|       16        |      1 lore-based skill, tool + language, weapon      |
+|       18        |      1 lore-based skill, 2 tool(s) + language(s), 4 weapons       |
+|       20        |       1 class skill, tool, or language      |
 
-If you lose bonus knowledge due to a decrease in Intelligence, at the Narrator’s discretion you might choose a new bonus knowledge the next time your Intelligence modifier increases (instead of regaining the lost bonus knowledge).
+Reaching a tier on this table grants you the benefits of all previous tiers. “Lore-based” skills are listed below as:
 
-### Spellcasting Ability
-
-Wizards and some warlocks use Intelligence as their spellcasting ability to determine their spell attack bonus and the saving throw DCs of the spells they cast. Intelligence also determines the number of spells a wizard can prepare each day.
+- Arcana
+- Culture
+- Engineering
+- History
+- Nature
+- Religion 
 
 ---
 
@@ -190,10 +196,6 @@ Wisdom is frequently used to notice details of the shared adventure world immedi
 - Tracking wild game through thick undergrowth.
 - Interpreting a gut-feeling about an upcoming course of action.
 
-### Spellcasting Ability
-
-Clerics, druids, and some warlocks use Wisdom as their [spellcasting](https://a5e.tools/rules/spellcasting "Click to view a local node.") ability, which determines their spell attack bonus and the [saving throw](https://a5e.tools/rules/saving-throw "Click to view a local node.") DCs of the spells they cast. Wisdom also determines the number of spells a cleric or druid can prepare each day.
-
 ---
 
 ## Charisma
@@ -210,7 +212,3 @@ Charisma is used in social situations to determine first impressions, to fit in 
 - Convincing a frightened child you mean them no harm.
 - Haggling with a shopkeeper for a better price.
 - Blending into a crowd to overhear rumors.
-
-### Spellcasting Ability
-
-Bards, heralds, sorcerers, and some warlocks use Charisma as their spellcasting ability, which determines their spell attack bonus and the saving throw DCs of the spells they cast. Charisma also determines the number of spells a herald can prepare each day.

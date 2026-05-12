@@ -1,20 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Ability Scores",
-      "path": "Homebrew Mechanics/Ability Scores.md"
-    },
-    {
-      "basename": "Proficiency Ranks",
-      "path": "Homebrew Mechanics/Proficiency Ranks.md"
-    },
-    {
-      "basename": "damage-type-interactions",
-      "path": "Homebrew In-Progress/damage-type-interactions.md"
+      "basename": "Character Creation Guidelines",
+      "path": "Homebrew Mechanics/Character Creation Guidelines.md"
     },
     {
       "basename": "Immediate Goals for Play",
       "path": "Immediate Goals for Play.md"
+    },
+    {
+      "basename": "Ability Scores",
+      "path": "Homebrew Mechanics/Ability Scores.md"
     },
     {
       "basename": "Homebrew Skills & Changes",
@@ -23,6 +19,14 @@
     {
       "basename": "Homebrew Conditions",
       "path": "Homebrew Mechanics/Homebrew Conditions.md"
+    },
+    {
+      "basename": "Proficiency Ranks",
+      "path": "Homebrew Mechanics/Proficiency Ranks.md"
+    },
+    {
+      "basename": "damage-type-interactions",
+      "path": "Homebrew In-Progress/damage-type-interactions.md"
     },
     {
       "basename": "Desperate Actions",

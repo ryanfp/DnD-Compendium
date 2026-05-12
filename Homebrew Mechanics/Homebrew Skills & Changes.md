@@ -68,7 +68,7 @@ Characters can gain proficiency in the following skills. Each skill description 
 
 ---
 
-## Athletics
+### Athletics
 **Ability:** Strength  
 **Specialties:** climbing, jumping, swimming, grappling, lifting, shoving, breaking objects, running, throwing, endurance feats  
 **Description:** A character makes an Athletics check to perform unusually difficult feats of swimming, running, climbing, or jumping. The most commonly used ability score is Strength. A character might use Dexterity to climb a smooth wall for a short distance or to jump onto a moving creature, Constitution to perform an athletic activity for more than a minute, or Intelligence to keep track of opposing players in a complex sport.  
