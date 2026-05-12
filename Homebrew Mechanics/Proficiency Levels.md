@@ -1,4 +1,4 @@
-# Levels of Proficiency
+# Proficiency Ranks
 
 ## In 5e/5.5e
 

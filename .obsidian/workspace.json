@@ -198,6 +198,42 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Homebrew Skills & Changes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/Homebrew Skills & Changes.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Homebrew Skills & Changes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Homebrew Conditions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/Homebrew Conditions.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Homebrew Conditions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Desperate Actions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/Desperate Actions.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Desperate Actions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Degrees of Success",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/Degrees of Success.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Degrees of Success\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "3-Save System",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/3-Save System.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"3-Save System\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Immediate Goals for Play",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Immediate Goals for Play.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Immediate Goals for Play\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":73.79447115384616}"
+                },
+                {
                   "title": "Epilogue Story Map",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Inbox/Epilogue Story Map.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Epilogue Story Map\"}",
@@ -214,7 +250,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immediate Goals for Play.md",
+                "file": "Homebrew Mechanics/Proficiency Levels.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -229,7 +265,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Immediate Goals for Play"
+              "title": "Proficiency Levels"
             }
           }
         ],
@@ -536,10 +572,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Immediate Goals for Play.md"
+                "file": "Homebrew Mechanics/Proficiency Levels.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Immediate Goals for Play"
+              "title": "File properties for Proficiency Levels"
             }
           },
           {
@@ -649,15 +685,18 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "fcaa59025a7544d2",
+  "active": "b649faa5b9392d92",
   "lastOpenFiles": [
-    "Homebrew Mechanics/Homebrew Conditions.md",
-    "Immediate Goals for Play.md",
-    "Homebrew Mechanics/Desperate Actions.md",
     "Homebrew Mechanics/Homebrew Skills & Changes.md",
+    "Homebrew Mechanics/Homebrew Conditions.md",
+    "Homebrew Mechanics/Desperate Actions.md",
+    "Homebrew Mechanics/Degrees of Success.md",
+    "Homebrew Mechanics/3-Save System.md",
+    "Immediate Goals for Play.md",
     "Combat Enhancement Rolltables.md",
     "Homebrew In-Progress/damage-type-interactions.md",
     "Homebrew Mechanics/Proficiency Levels.md",
@@ -671,8 +710,6 @@
     "Homebrew Mechanics/Conditions/Downed.md",
     "Homebrew Mechanics/Conditions",
     "Homebrew Mechanics",
-    "Homebrew Mechanics/Degrees of Success.md",
-    "Homebrew Mechanics/3-Save System.md",
     "z_Inbox/Epilogue Story Map.md",
     "🌎 - Worldbuilding & Lore/Story/campaign/tier-2.md",
     "🌎 - Worldbuilding & Lore/Story/campaign/tier-1.md",
