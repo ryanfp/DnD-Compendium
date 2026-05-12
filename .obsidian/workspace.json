@@ -198,6 +198,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Immediate Goals for Play",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Immediate Goals for Play.md\",\"mode\":\"preview\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Immediate Goals for Play\"}",
+                  "eState": "{\"scroll\":4.878048780487805}"
+                },
+                {
+                  "title": "Proficiency Levels",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/Proficiency Levels.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Proficiency Levels\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Homebrew Skills & Changes",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/Homebrew Skills & Changes.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Homebrew Skills & Changes\"}",
@@ -250,7 +262,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew Mechanics/Proficiency Levels.md",
+                "file": "Homebrew Mechanics/Ability Scores.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -265,7 +277,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Proficiency Levels"
+              "title": "Ability Scores"
             }
           }
         ],
@@ -572,10 +584,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homebrew Mechanics/Proficiency Levels.md"
+                "file": "Homebrew Mechanics/Ability Scores.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Proficiency Levels"
+              "title": "File properties for Ability Scores"
             }
           },
           {
@@ -691,16 +703,16 @@
   },
   "active": "b649faa5b9392d92",
   "lastOpenFiles": [
+    "Immediate Goals for Play.md",
+    "Homebrew Mechanics/Ability Scores.md",
+    "Homebrew Mechanics/Proficiency Levels.md",
     "Homebrew Mechanics/Homebrew Skills & Changes.md",
     "Homebrew Mechanics/Homebrew Conditions.md",
     "Homebrew Mechanics/Desperate Actions.md",
     "Homebrew Mechanics/Degrees of Success.md",
     "Homebrew Mechanics/3-Save System.md",
-    "Immediate Goals for Play.md",
     "Combat Enhancement Rolltables.md",
     "Homebrew In-Progress/damage-type-interactions.md",
-    "Homebrew Mechanics/Proficiency Levels.md",
-    "Homebrew Mechanics/Untitled.md",
     "Homebrew In-Progress/Homebrew Lists.md",
     "Homebrew In-Progress/Homebrew Errata Guide.md",
     "Homebrew In-Progress/death-dying-desperate-actions-rules.md",
