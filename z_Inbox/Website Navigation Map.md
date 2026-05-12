@@ -1,12 +1,12 @@
 ---
-title: Website Navigation
+title: Pf2e Website Navigation
 created: 2026/01/04 at 01:51
 updated: 2026/01/04 at 02:04
 aliases:
   - Website Navigation
 ---
 
-# Website Navigation
+# Pf2e Website Navigation
 
 ## Pf2e Tools
 

@@ -6,6 +6,7 @@
       {
         "id": "0f4096b47ff804e0",
         "type": "tabs",
+        "dimension": 37.69423558897243,
         "children": [
           {
             "id": "8a3cba7aa4f7df30",
@@ -390,13 +391,87 @@
               "icon": "lucide-file",
               "title": "Character Creation Guidelines"
             }
+          },
+          {
+            "id": "43fa43d7dd992297",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5e.tools Website Navigation.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "5e.tools Website Navigation"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
+      },
+      {
+        "id": "5e90b3ed8d44b9fb",
+        "type": "tabs",
+        "dimension": 39.69924812030075,
+        "children": [
+          {
+            "id": "e412e82fc9908b96",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5e.tools Website Navigation.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "5e.tools Website Navigation"
+            }
+          }
+        ]
       },
       {
         "id": "9d2f7dc658316064",
         "type": "tabs",
+        "dimension": 22.606516290726816,
         "children": [
           {
             "id": "a03986f142629718",
@@ -407,6 +482,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Character Creation Guidelines",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/Character Creation Guidelines.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Character Creation Guidelines\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":121},\"to\":{\"line\":21,\"ch\":121}}}"
                 },
                 {
                   "title": "Ability Scores",
@@ -479,7 +560,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew Mechanics/Character Creation Guidelines.md",
+                "file": "z_Inbox/Website Navigation Map.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -494,7 +575,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Character Creation Guidelines"
+              "title": "Website Navigation Map"
             }
           },
           {
@@ -775,7 +856,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 232.5
   },
   "right": {
     "id": "fc1490c296b0c5ab",
@@ -899,10 +980,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homebrew Mechanics/Character Creation Guidelines.md"
+                "file": "5e.tools Website Navigation.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Character Creation Guidelines"
+              "title": "File properties for 5e.tools Website Navigation"
             }
           },
           {
@@ -1012,13 +1093,16 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "4fb303048cf1c57d",
+  "active": "e412e82fc9908b96",
   "lastOpenFiles": [
-    "Immediate Goals for Play.md",
+    "z_Inbox/Website Navigation Map.md",
+    "5e.tools Website Navigation.md",
     "Homebrew Mechanics/Character Creation Guidelines.md",
+    "Immediate Goals for Play.md",
     "Homebrew Mechanics/Ability Scores.md",
     "Homebrew Mechanics/Homebrew Skills & Changes.md",
     "Homebrew Mechanics/Homebrew Conditions.md",
@@ -1043,8 +1127,6 @@
     "🌎 - Worldbuilding & Lore/Story/campaign/themes.md",
     "🌎 - Worldbuilding & Lore/Story/campaign/public-knowledge.md",
     "🌎 - Worldbuilding & Lore/Story/campaign/open-questions.md",
-    "🌎 - Worldbuilding & Lore/Story/concepts/the-stain.md",
-    "🌎 - Worldbuilding & Lore/Story/concepts/planar-anchors.md",
     "map test.canvas",
     "Color Palette/Color Palettes.base",
     "z_Inbox",
