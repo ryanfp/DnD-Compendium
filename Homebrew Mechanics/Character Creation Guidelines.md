@@ -20,3 +20,4 @@ To determine your character's ability scores, you first generate a set of six nu
 > 
 > - **Only one 15.** You may only allocate one score to 15 *before* racial bonuses apply.
 > - **One, and only one dump.** You <u>must</u> have one ability score below 10 and you may only have one at that level. 
+
