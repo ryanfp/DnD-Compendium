@@ -1,2 +1,195 @@
 # Ability Scores
 
+Each of a creature's abilities has a score, a number that defines the magnitude of that ability. An ability score is not just a measure of innate capabilities, but also encompasses a creature's training and competence in activities related to that ability.
+
+A score of 10 or 11 is the normal human average, but adventurers and many monsters are a cut above average in most abilities. A score of 18 is the highest that a person usually reaches. Adventurers can have scores as high as 20, and monsters and divine beings can have scores as high as 30.
+
+Each ability also has a modifier, derived from the score and ranging from -5 (for an ability score of 1) to +10 (for a score of 30). The Ability Scores and Modifiers table notes the ability modifiers for the range of possible ability scores, from 1 to 30.
+
+To determine an ability modifier without consulting the table, subtract 10 from the ability score and then divide the total by 2 (round down).
+
+Because ability modifiers affect almost every attack roll, ability check, and saving throw, ability modifiers come up in play more often than their associated scores.
+
+### Scores and Modifiers
+
+| Score | Modifier | Score | Modifier |
+|:-----:|:--------:|:-----:|:--------:|
+|   1   |    -5    | 16-17 |    +3    |
+|  2-3  |    -4    | 18-19 |    +4    |
+|  4-5  |    -3    | 20-21 |    +5    |
+|  6-7  |    -2    | 22-23 |    +6    |
+|  8-9  |    -1    | 24-25 |    +7    |
+| 10-11 |    +0    | 26-27 |    +8    |
+| 12-13 |    +1    | 28-29 |    +9    |
+| 14-15 |    +2    |   30  |    +10   |
+
+## Strength
+
+Strength measures the power of the physical body and the extent to which you can use your body to exert physical force.
+
+### Strength Checks
+
+Strength is used for any attempt to lift, push, pull, or break something, to force yourself through tight spaces, to jump, climb, or swim beyond your usual physical limits, and to otherwise apply brute force to a situation:
+
+- Forcing a stuck or locked door.
+- Bursting out of bonds.
+- Tearing a thick book in half.
+- Squeezing into a tunnel that is too small.
+- Hanging onto a moving wagon while being dragged along.
+- Tipping over a statue.
+- Holding up a collapsing mine shaft.
+- Stopping a rolling boulder.
+
+### Attack Rolls and Damage
+
+Strength is one of the default abilities when making melee attacks in hand-to-hand combat. When you make an attack roll using a weapon such as a mace, a battleaxe, or a javelin, you add your Strength modifier to the attack roll and the damage roll. Some weapons, such as the javelin, can also be thrown to make a ranged attack using Strength.
+
+### Lifting and Carrying
+
+Your Strength score determines how much weight you can bear. The following terms define what you can lift or carry.
+
+
+> [!attention] Disclaimer
+> Carrying capacity will eventually use a slot-based system, to streamline the tracking and bookkeeping while also keeping it and Strength relevant. For now, this can be safely ignored in favor of a “common-sense” tracking system.
+
+
+> **Carrying Capacity.** Your carrying capacity is your Strength score multiplied by 15. This is the weight (in pounds) you can carry as you go about day-to-day business. If you exceed your carrying capacity, you are encumbered (see Appendix: Conditions).
+> 
+> **Bulky Items.** You can carry a number of bulky items equal to 1 + your Strength modifier (minimum 1). If you exceed this number, you are encumbered.
+> 
+> **Supplies.** You can carry a number of Supplies equal to your Strength score in addition to the rest of your gear.
+> 
+> **Push, Drag, or Lift.** You can push, drag, or lift a weight in pounds up to twice your carrying capacity (30 times your Strength score). While pushing or dragging weight in excess of your carrying capacity you are encumbered.
+> 
+> **Size and Strength.** Tiny creatures can’t carry much, while Larger creatures can carry more. A Tiny creature’s carrying capacity is halved and it can’t carry bulky objects. For each size category above Medium, Larger creatures double their carrying capacity, the number of bulky items they can carry, and the amount they can push, drag, or lift. A creature can only be considered a maximum of one size larger or smaller when determining how much Supply and weight it can carry.
+
+---
+
+## Dexterity
+
+Dexterity measures your physical grace, balance, agility, and reflexes.
+
+### Dexterity Checks
+
+Dexterity is used for any attempt to move nimbly, quickly, or quietly, to keep from falling on tricky footing, or to perform physical tasks focused on deft-fingered movements rather than force:
+
+- Sneaking behind a distracted guard.
+- Staying on your feet on slick ice.
+- Concealing a playing card up your sleeve.
+- Steering a chariot around a tight turn.
+- Tinkering with a mechanical device.
+- Securely tying a prisoner.
+- Wriggling free of bonds.
+- Crafting a Tiny detailed object.
+
+### Attack Rolls and Damage
+
+Dexterity is the default ability when making some melee attacks and most ranged weapon attacks. When you make an attack roll using a ranged weapon like a crossbow, longbow, or sling, you add your Dexterity modifier to the attack roll and the damage roll. When using a melee weapon with the finesse property (such as a rapier or whip), you can choose to use your Dexterity modifier instead of your Strength modifier.
+
+### Armor Class
+
+The armor you wear determines whether you add any, some, or all of your Dexterity modifier to your Armor Class (see Chapter 4: Equipment).
+
+---
+
+## Constitution
+
+Constitution measures your physical health, stamina, and vitality.
+
+### Constitution Checks
+
+Constitution checks are uncommon because the endurance this ability represents is largely passive rather than involving a specific effort. Constitution is used for any attempt to physically push beyond normal limits over a period of time:
+
+- Remaining perfectly still for over an hour.
+- Holding your breath.
+- Marching without rest for many hours.
+- Staying awake for several days.
+- Enduring thirst and starvation.
+- Winning a pie eating competition.
+
+### Hit Points
+
+Your Constitution modifier contributes to your hit points. Whenever you roll Hit Dice to determine the increase to your hit point maximum when gaining a level or to recover hit points during a short rest, you add your Constitution modifier to each dice roll.
+
+If your Constitution modifier changes, your hit point maximum also changes as if you always had the new modifier. For example, a 10th level berserker with a Constitution of 17 equips a _[belt of dwarvenkind](https://a5e.tools/node/838 "Click to view a local node.")_ , increasing their Constitution score by 2 (to 19), and likewise their Constitution modifier by +1 (from +3 to +4). The berserker's hit point point maximum increases by 10 hit points (1 per character level) as though their Constitution modifier was always the new value. When they increase to 11th level, they roll a d12 Hit Die adding the +4 Constitution modifier, to determine their new hit point maximum. Should they remove the _belt of dwarvenkind_ afterward, their hit point maximum decreases by 11 hit points (1 per character level) because their Constitution modifier decreases by 1 (from +4 back to +3).
+
+---
+
+## Intelligence
+
+Intelligence measures mental swiftness and acuity, accuracy of recall, past education and learning, and the ability to reason.
+
+### Intelligence Checks
+
+Intelligence is frequently used to recall details of the shared adventure world, representing memory and education—knowledge obvious to a character even if unknown or forgotten by their player. It is also used when you need to draw on logic or deductive reasoning:
+
+- Recalling lore.
+- Estimating the value of a precious item.
+- Describing an object from memory.
+- Forging a document.
+- Winning a game of wits.
+- Deducing the link between clues and a killer.
+- Outsmarting a charlatan.
+- Using a little information to appear to be an expert.
+
+### Bonus Knowledge
+
+Having a higher Intelligence means having more knowledge than other characters. During character creation, for each point of your Intelligence modifier above 0 you can choose a skill specialty chosen from lore skills (Arcana, Culture, Engineering, History, Nature, Religion). If you are not proficient in any lore skills you either gain proficiency with a lore skill, choose an extra language known, or pick a tool proficiency in one artisan’s tool, gaming kit, instrument, or vehicle.
+
+As long as your Intelligence modifier is above 0, it contributes to the things you know. At character creation, you can choose one of the following benefits for each point of your Intelligence modifier above 0:
+
+- An extra language known.
+- A tool proficiency in one artisan’s tool, gaming kit, instrument, or vehicle.
+- A skill specialty in one of the following skills: Arcana, Culture, Engineering, History, Nature, Religion.
+
+If your Intelligence modifier changes, it affects your bonus knowledge. When your Intelligence modifier increases, you can choose an additional skill specialty in the skills listed above as if you always had the new modifier. If your Intelligence modifier decreases you must remove the last benefit from your bonus knowledge. If your Intelligence modifier drops below 0, you don’t lose more knowledge than you gained from bonus knowledge.
+
+If you lose bonus knowledge due to a decrease in Intelligence, at the Narrator’s discretion you might choose a new bonus knowledge the next time your Intelligence modifier increases (instead of regaining the lost bonus knowledge).
+
+### Spellcasting Ability
+
+Wizards and some warlocks use Intelligence as their spellcasting ability to determine their spell attack bonus and the saving throw DCs of the spells they cast. Intelligence also determines the number of spells a wizard can prepare each day.
+
+---
+
+## Wisdom
+
+Wisdom measures your attunement to the world around you: your intuition, mental endurance, and perceptiveness.
+
+### Wisdom Checks
+
+Wisdom is frequently used to notice details of the shared adventure world immediately around you, representing what you perceive in the moment—the present world obvious to your character as described by the Narrator. It is also used to understand feelings and emotions, read body language, offer appropriate care to others, and discern cryptic omens on an intuitive rather than logical level:
+
+- Calming a frightened animal.
+- Noticing a lie from the liar’s mannerisms.
+- Predicting an opponent’s next move.
+- Providing care for a sick companion.
+- Detecting an unusual odor or sound in the air.
+- Spotting an enemy waiting in ambush.
+- Tracking wild game through thick undergrowth.
+- Interpreting a gut-feeling about an upcoming course of action.
+
+### Spellcasting Ability
+
+Clerics, druids, and some warlocks use Wisdom as their [spellcasting](https://a5e.tools/rules/spellcasting "Click to view a local node.") ability, which determines their spell attack bonus and the [saving throw](https://a5e.tools/rules/saving-throw "Click to view a local node.") DCs of the spells they cast. Wisdom also determines the number of spells a cleric or druid can prepare each day.
+
+---
+
+## Charisma
+
+Charisma measures your ability to effectively interact with others, including your confidence and eloquence, as well as the power of your personality (be it charming, commanding, or forceful).
+
+### Charisma Checks
+
+Charisma is used in social situations to determine first impressions, to fit in or stand out, and to influence others:
+
+- Deceiving a monster of your true intentions.
+- Threatening a guard to allow you to pass.
+- Engaging in a dramatic performance to inspire a crowd.
+- Convincing a frightened child you mean them no harm.
+- Haggling with a shopkeeper for a better price.
+- Blending into a crowd to overhear rumors.
+
+### Spellcasting Ability
+
+Bards, heralds, sorcerers, and some warlocks use Charisma as their spellcasting ability, which determines their spell attack bonus and the saving throw DCs of the spells they cast. Charisma also determines the number of spells a herald can prepare each day.
