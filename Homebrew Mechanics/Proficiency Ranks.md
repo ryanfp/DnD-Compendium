@@ -49,24 +49,50 @@ Characters should get a few meaningful boosts to their saving throw experience t
 
 ## Gating Thresholds
 
-Another small mechanic is that the bonus that is granted to skills from abilities is gated by your proficiency rank if it is exceeded by your bonus granted from the avility score modifier. Meaning, if your Intelligence score is a 21 (with a +5 modifier), and you are not proficient in that skill, you can only add the bonus to the point that it matches the bonus from the proficney rank one above your current one. Some example scenarios:
+When making a skill check, the bonus you gain from the relevant ability modifier may be limited by your proficiency rank in that skill.
+
+If your ability modifier is higher than the bonus granted by the next proficiency rank above your current rank, you can only add an ability modifier bonus up to that amount. In other words, being naturally talented still helps, but a lack of training limits how much of that talent you can effectively apply to the skill.
+
+For example, if your Intelligence score is 21, giving you a +5 modifier, but you are **Untrained** in the relevant skill, you do not automatically add the full +5 to the check. Instead, your ability modifier bonus is capped at the bonus granted by the next highest proficiency rank, which is **Trained**.
 
 ### Scenario 1
 
-**Level 4**
-**PB = +2**
-**Intelligence = 21** = +5 Modifier
-**Insight skill proficiency rank:** Untrained
-**Next highest proficiency rank:** Trained (0.5 * PB)
+**Level:** 4  
+**Proficiency Bonus:** +2  
+**Intelligence:** 21, granting a +5 modifier  
+**Skill Proficiency Rank:** Untrained  
+**Next Highest Proficiency Rank:** Trained, equal to half your Proficiency Bonus
 
-Instead of normally being able to add +5 due to your INT score, and +0 from your proficiency rank, you can only add +1
+Since your next highest proficiency rank would grant a +1 bonus, your Intelligence modifier contribution is capped at +1 for this skill check.
 
-Here’s a table with higher levels, with the same stats otherwise. 
+So instead of adding **+5** from Intelligence and **+0** from proficiency, you add only **+1 total**.
 
+Using the same stats at higher levels:
 
 | Level | Proficiency Bonus | Total Bonus Modifier |
 | ----- | ----------------- | -------------------- |
-| 5     | +3                | 1                    |
-| 9     | +4                | 2                    |
-| 13    | +5                | 2                    |
-| 17    | +6                | 3                    |
+| 5     | +3                | +1                   |
+| 9     | +4                | +2                   |
+| 13    | +5                | +2                   |
+| 17    | +6                | +3                   |
+
+### Scenario 2
+
+**Level:** 9  
+**Proficiency Bonus:** +4  
+**Dexterity:** 18, granting a +4 modifier  
+**Skill Proficiency Rank:** Trained  
+**Next Highest Proficiency Rank:** Proficient, equal to your full Proficiency Bonus
+
+Since the next highest proficiency rank would grant a +4 bonus, your Dexterity modifier is not reduced. You may add the full **+4** from Dexterity.
+
+Because you are also **Trained**, you add your Trained proficiency bonus as normal.
+
+Your total bonus would be:
+
+**+4 from Dexterity**  
+**+2 from Trained proficiency**
+
+For a total skill check bonus of **+6**.
+
+In this case, your ability modifier does not exceed the cap set by the next highest proficiency rank, so no adjustment is needed.

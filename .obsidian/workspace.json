@@ -287,7 +287,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "9d2f7dc658316064",
@@ -485,8 +485,7 @@
               "title": "Proficiency Ranks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -789,10 +788,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homebrew Mechanics/Proficiency Ranks.md"
+                "file": "Homebrew Mechanics/Ability Scores.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Proficiency Ranks"
+              "title": "File properties for Ability Scores"
             }
           },
           {
@@ -906,10 +905,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "cc6071e03d5bf268",
+  "active": "b649faa5b9392d92",
   "lastOpenFiles": [
-    "Homebrew Mechanics/Ability Scores.md",
     "Homebrew Mechanics/Proficiency Ranks.md",
+    "Homebrew Mechanics/Ability Scores.md",
     "Homebrew In-Progress/damage-type-interactions.md",
     "Immediate Goals for Play.md",
     "Homebrew Mechanics/Homebrew Skills & Changes.md",

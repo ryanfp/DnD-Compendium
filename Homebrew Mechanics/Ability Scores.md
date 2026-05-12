@@ -52,6 +52,7 @@ Your Strength score determines how much weight you can bear. The following terms
 > [!attention] Disclaimer
 > Carrying capacity will eventually use a slot-based system, to streamline the tracking and bookkeeping while also keeping it and Strength relevant. For now, this can be safely ignored in favor of a “common-sense” tracking system.
 
+- - - 
 
 > **Carrying Capacity.** Your carrying capacity is your Strength score multiplied by 15. This is the weight (in pounds) you can carry as you go about day-to-day business. If you exceed your carrying capacity, you are encumbered (see Appendix: Conditions).
 > 
@@ -62,6 +63,28 @@ Your Strength score determines how much weight you can bear. The following terms
 > **Push, Drag, or Lift.** You can push, drag, or lift a weight in pounds up to twice your carrying capacity (30 times your Strength score). While pushing or dragging weight in excess of your carrying capacity you are encumbered.
 > 
 > **Size and Strength.** Tiny creatures can’t carry much, while Larger creatures can carry more. A Tiny creature’s carrying capacity is halved and it can’t carry bulky objects. For each size category above Medium, Larger creatures double their carrying capacity, the number of bulky items they can carry, and the amount they can push, drag, or lift. A creature can only be considered a maximum of one size larger or smaller when determining how much Supply and weight it can carry.
+
+- - - 
+
+
+> [!embed-ability] Added Boons
+> Here is a list of boons that have been added to Strength based on your score:
+>  - **Lifting/Grappling:** With a +STR 4 modifier and more, you count one size Larger for the purpose of Lifting and Grappling.
+> 
+> - **Pushing:** With a +STR 4 modifier and more, when you successfully Shove a creature, you can push it a number of feet equals to 5 times your STR modifier (minimum 5 feet).
+> 
+> - **Throwing:** When you take the Attack action to throw a weapon or improvised weapon, you gain extra Range equals to 5 times your STR modifiers (minimum 0). For example, with a STR +5 modifier, the range for the spear become 45/85 (instead of base 20/60).
+> 
+> - **Jumping:** When you make a Long Jump, you cover a number of feet up to 5 times your STR modifiers. When you make a High Jump, you leap into the air a number of feet equal to half your Long Jump distance (minimum of 5ft Long Jump / 1 ft High Jump).
+
+
+> [!tip] Advice
+> 
+> Strength has been buffed or tweaked in a few ways throughout the system to make it more desirable of a trait. FOr most of these changes, their effects are more detailed in their respective page, but a few are listed here:
+> 
+> - Medium Armor now uses Strength *OR* Dexterity for AC calculations, and Heavy Armor now uses Strength for AC calculations
+> - Armor and Weapons no longer are restricted to certain size creatures, they simply have a Strength score requirement
+> - A character with 17 Strength can wield Oversized weapons as found in the DMG
 
 ---
 
@@ -111,7 +134,7 @@ Constitution checks are uncommon because the endurance this ability represents i
 
 Your Constitution modifier contributes to your hit points. Whenever you roll Hit Dice to determine the increase to your hit point maximum when gaining a level or to recover hit points during a short rest, you add your Constitution modifier to each dice roll.
 
-If your Constitution modifier changes, your hit point maximum also changes as if you always had the new modifier. For example, a 10th level berserker with a Constitution of 17 equips a _[belt of dwarvenkind](https://a5e.tools/node/838 "Click to view a local node.")_ , increasing their Constitution score by 2 (to 19), and likewise their Constitution modifier by +1 (from +3 to +4). The berserker's hit point point maximum increases by 10 hit points (1 per character level) as though their Constitution modifier was always the new value. When they increase to 11th level, they roll a d12 Hit Die adding the +4 Constitution modifier, to determine their new hit point maximum. Should they remove the _belt of dwarvenkind_ afterward, their hit point maximum decreases by 11 hit points (1 per character level) because their Constitution modifier decreases by 1 (from +4 back to +3).
+If your Constitution modifier changes, your hit point maximum also changes as if you always had the new modifier. For example, a 10th level berserker with a Constitution of 17 equips a _belt of dwarvenkind_ , increasing their Constitution score by 2 (to 19), and likewise their Constitution modifier by +1 (from +3 to +4). The berserker's hit point point maximum increases by 10 hit points (1 per character level) as though their Constitution modifier was always the new value. When they increase to 11th level, they roll a d12 Hit Die adding the +4 Constitution modifier, to determine their new hit point maximum. Should they remove the _belt of dwarvenkind_ afterward, their hit point maximum decreases by 11 hit points (1 per character level) because their Constitution modifier decreases by 1 (from +4 back to +3).
 
 ---
 
@@ -134,9 +157,7 @@ Intelligence is frequently used to recall details of the shared adventure world,
 
 ### Bonus Knowledge
 
-Having a higher Intelligence means having more knowledge than other characters. During character creation, for each point of your Intelligence modifier above 0 you can choose a skill specialty chosen from lore skills (Arcana, Culture, Engineering, History, Nature, Religion). If you are not proficient in any lore skills you either gain proficiency with a lore skill, choose an extra language known, or pick a tool proficiency in one artisan’s tool, gaming kit, instrument, or vehicle.
-
-As long as your Intelligence modifier is above 0, it contributes to the things you know. At character creation, you can choose one of the following benefits for each point of your Intelligence modifier above 0:
+Having a higher Intelligence means having more knowledge than other characters. During character creation, as long as your Intelligence modifier is above 0, it contributes to the things you know. At character creation, you can choose one of the following benefits for each point of your Intelligence modifier above 0:
 
 - An extra language known.
 - A tool proficiency in one artisan’s tool, gaming kit, instrument, or vehicle.
