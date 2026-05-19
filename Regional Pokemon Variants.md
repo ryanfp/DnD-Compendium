@@ -1,5 +1,9 @@
 # Regional Variants
 
+D&D inspired region, but also has famous monsters from mythology
+- has Aether type from Pokemon Odyssey
+
+
 ## Good Inspo
 
 
@@ -42,4 +46,45 @@
 - ground/flying
 
 
-## 
+## D&D Based Region
+
+### Iconic Monster
+
+- Mind Flayer - Psychic
+- Owlbear
+- Mimic
+- Dragon
+- Ooze/Gelatinous Cube
+- Beholder
+- Lich
+- Goblin
+- Purple Worm (Sand Work/Leviathan)
+- Tarrasque
+- Displacer Beast - Dark/Fairy
+- Demogorgon
+- Aboleth
+- Flameskull
+- Drider
+
+### Not Iconic/Not D&D-based
+
+- Hellhound
+- Hydra
+- Manticore
+- Chimera
+- Unicorn
+- Gryphon
+- Hippogriff
+- Dragon Turtle
+- Phoenix
+- Jormungandr
+- Sphinx
+- Peryton
+- Kelpie/Hippocampus (Water/Fairy Rapidash maybe?)
+- Pegasus
+- Lindwyrm
+- Gullinbursti (Fire/Steel) boar
+- Tatzelwyrm (Tatzelfyrn - Grass/Dragon 2 stage –> Lindwyrm –> Niddhogg maybe?)
+- Basilisk
+- Quetzelcoutal
+- Gradungr
