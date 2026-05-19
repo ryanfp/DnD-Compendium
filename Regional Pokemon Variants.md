@@ -4,6 +4,8 @@ D&D inspired region, but also has famous monsters from mythology
 - has Aether type from Pokemon Odyssey
 
 
+
+
 ## Good Inspo
 
 
@@ -88,3 +90,44 @@ D&D inspired region, but also has famous monsters from mythology
 - Basilisk
 - Quetzelcoutal
 - Gradungr
+- Wulvers
+
+y of mine have thought of a regional form for Riolu/Lucario. A Rock type and then a Rock-Ghost type based on Anubis
+
+
+### Starter Trios
+
+#### Flying/Rock/Fighting
+- Water/Flying
+- Fire/Rock
+- Grass/Fighting
+
+#### Electric/Ice/Psychic
+- Water/Electric
+- Grass/Psychic
+- Fire/Ice
+
+#### Psychic/Dark/Fighting
+- Water/Psychic
+- Fire/Dark
+- Grass/Fighting
+
+#### Steel/Fighting/Fairy
+- Fire/Fairy
+- Grass/Steel
+- Water/Fighting
+
+OR
+
+- Grass/Fairy
+- Fire/Steel
+- Water/Fighting
+
+#### Poison/Fairy/Ground
+- Grass/Fairy
+- Fire/Ground
+- Water/Poison
+
+OR
+
+- Grass/
