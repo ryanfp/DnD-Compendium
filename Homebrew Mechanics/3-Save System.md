@@ -16,7 +16,7 @@ In OTM5e, Saving Throws will be categorized into the 3 following “buckets” o
 
 **Fortitude** : these saves deal with effects that debilitate and afflict the body. They measure your ability to stand up to physical punishment or attacks against your vitality and health. *Constitution* is the ability that governs this saving throw.
 
-**Reflex**: these saves measure how quickyl you can respond to a situation, how gracefully you can avoid the effects that have been thrown at you, and how steadfast you can become against that which would shake you. The *weighted* average of your *Strength* and *Dexterity* scores is calculated using the **modifiers** as follows:
+**Reflex**: these saves measure how quickly you can respond to a situation, how gracefully you can avoid the effects that have been thrown at you, and how steadfast you can become against that which would shake you. The *weighted* average of your *Strength* and *Dexterity* scores is calculated using the **modifiers** as follows:
 $$
 (((Higher * 2) + Lower) / 3)
 $$
