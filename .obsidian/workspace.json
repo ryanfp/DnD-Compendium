@@ -6,7 +6,7 @@
       {
         "id": "0f4096b47ff804e0",
         "type": "tabs",
-        "dimension": 37.69423558897243,
+        "dimension": 45.87951807228915,
         "children": [
           {
             "id": "8a3cba7aa4f7df30",
@@ -440,7 +440,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Lex Pokemon Markets.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -455,16 +455,49 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Lex Pokemon Markets"
+            }
+          },
+          {
+            "id": "0ad4b0b662e9de10",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regional Pokemon Variants.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Regional Pokemon Variants"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "5e90b3ed8d44b9fb",
         "type": "tabs",
-        "dimension": 39.69924812030075,
+        "dimension": 31.518072289156628,
         "children": [
           {
             "id": "e412e82fc9908b96",
@@ -504,7 +537,7 @@
       {
         "id": "9d2f7dc658316064",
         "type": "tabs",
-        "dimension": 22.606516290726816,
+        "dimension": 22.602409638554217,
         "children": [
           {
             "id": "a03986f142629718",
@@ -1013,10 +1046,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled.md"
+                "file": "Regional Pokemon Variants.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Untitled"
+              "title": "File properties for Regional Pokemon Variants"
             }
           },
           {
@@ -1126,12 +1159,14 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "6a4a0f3919d9d69e",
+  "active": "0ad4b0b662e9de10",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Regional Pokemon Variants.md",
+    "Lex Pokemon Markets.md",
     "5e.tools Website Navigation.md",
     "z_Inbox/Website Navigation Map.md",
     "Homebrew Mechanics/Character Creation Guidelines.md",
@@ -1158,7 +1193,6 @@
     "🌎 - Worldbuilding & Lore/Story/campaign/tier-2.md",
     "🌎 - Worldbuilding & Lore/Story/campaign/tier-1.md",
     "🌎 - Worldbuilding & Lore/Story/campaign/themes.md",
-    "🌎 - Worldbuilding & Lore/Story/campaign/public-knowledge.md",
     "map test.canvas",
     "Color Palette/Color Palettes.base",
     "z_Inbox",
