@@ -1052,10 +1052,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homebrew Mechanics/3-Save System.md"
+                "file": "Untitled.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 3-Save System"
+              "title": "File properties for Untitled"
             }
           },
           {
@@ -1165,11 +1165,72 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "0ad4b0b662e9de10",
+  "floating": {
+    "id": "4d18a46e745a5a9c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "724a315afbb879ae",
+        "type": "window",
+        "children": [
+          {
+            "id": "143516e3fb6e317d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ccdc73f2c3678557",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Untitled.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Untitled"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1436,
+        "y": 71,
+        "width": 952,
+        "height": 1324,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "ccdc73f2c3678557",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Homebrew Mechanics/3-Save System.md",
     "Regional Pokemon Variants.md",
     "Lex Pokemon Markets.md",
     "5e.tools Website Navigation.md",
@@ -1183,7 +1244,6 @@
     "Homebrew In-Progress/damage-type-interactions.md",
     "Homebrew Mechanics/Desperate Actions.md",
     "Homebrew Mechanics/Degrees of Success.md",
-    "Homebrew Mechanics/3-Save System.md",
     "Combat Enhancement Rolltables.md",
     "Homebrew In-Progress/Homebrew Lists.md",
     "Homebrew In-Progress/Homebrew Errata Guide.md",
@@ -1197,7 +1257,6 @@
     "z_Inbox/Epilogue Story Map.md",
     "🌎 - Worldbuilding & Lore/Story/campaign/tier-2.md",
     "🌎 - Worldbuilding & Lore/Story/campaign/tier-1.md",
-    "🌎 - Worldbuilding & Lore/Story/campaign/themes.md",
     "map test.canvas",
     "Color Palette/Color Palettes.base",
     "z_Inbox",
