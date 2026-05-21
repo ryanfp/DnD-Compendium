@@ -68,27 +68,28 @@ Movies/Shows
 
 Books/Authors
 
-- H.P Lovecraft (NOT HIS CAT DON’T ASK ABOUT HIS CAT)
+- H.P Lovecraft 
 - Shadow and Bone
 - Mistborn
 
 Video Games
 
-- Bloodborne
 - Dishonored
 - Bioshock
 - Bioshock: Infinite
-- Cyberpunk
-- Hollow Knight
-- Diablo series
 
 I’m sure that is an *EXHAUSTIVE* list, but it’s a very established world that is highly loved by many people from the community, and it also leaves so much room for inspiration and adding things to make it your own. I’m excited to run in it, and I hope everyone is too. *If these don’t interest you, and/or you prefer only some of them, this is something to consider.*
 
 ### **Tone:** 
+
 Complex. Some aspects will be very morally-gray and require hard choices with no clear good or bad. Some will be very "Heroic-Fantasy"-esque, with a clear villain and clear heroes. The story and world will react with the events of the story/influence from the party. There may be lighthearted moments, periods of peace and grandeur, or gritty, hopeless expeditions into the unknown for the greater good. Will explore maybe some touchy topics and ideologies, depending on how the story goes. *If you prefer cut-and-dry themes, or little nuance, this is something to consider.
 
 # What I Expect
-**Reasonable Commitment & Consideration:** shit comes up, people have lives, this is a hobby, I get it. I'm aiming to make this something that people *make* time for. Not a "sorry we got something going on this week I can't make session", but a "sorry I can't do that thing this week we have session that night", ya know? Obvi there's going to be more important things that come up, always. But please let us know. I want to try and treat this more seriously to make this a much better experience in more ways than one. If you might be unable to commit to a weekly session, and consistently make it, that would be something to think about. 
+
+### **Reasonable Commitment & Consideration:** 
+
+shit comes up, people have lives, this is a hobby, I get it. I'm aiming to make this something that people *make* time for. Not a "sorry we got something going on this week I can't make session", but a "sorry I can't do that thing this week we have session that night", ya know? Obvi there's going to be more important things that come up, always. But please let us know. I want to try and treat this more seriously to make this a much better experience in more ways than one. If you might be unable to commit to a weekly session, and consistently make it, that would be something to think about. 
+
 ### **Active Participant**
 
 Not in the sense that you *have* to roleplay or do certain things, but *engage* with the story. This would obviously be covered in session 0, but you will play characters that want to do things with the party, who want to or who have a reason (even if they may not like it/enjoy it) to stick with the party. *If you want to play a lone wolf character, this would be something to consider.*
@@ -96,6 +97,14 @@ Not in the sense that you *have* to roleplay or do certain things, but *engage* 
 ### **Respect the RP**
 
 We are not professional actors or voice actors, and I would hope you don’t expect me to be one. However, we are all trying our best to RP as we see fit, whether that is voices, mannerisms, or descriptive, third-person narration. Whatever the case, it is to be respected, the *immersion* is to be respected. There will be times for jokes, laughs, real-world quips and so on, but generally we should be keeping that to breaks and small moments or breaks in RP like waiting for turns in combat and such. *If you prefer to play a kind of “Beer & Pretzels” game, this is something to consider.*
+
+### No AI
+
+Ooooooh boy, yeah, had to mention it. Not gonna get too into it, but I’m not personally a fan of AI. I used in when it first came out before I knew the ramifications and the effect it’s had on society, and I’ve recently been forced into using it for work (IDEK how they thought I could jam AI into what I do to make it quicker so they could pay less people but whatever not relevant). Point is, I’m not here to debate the negatives or positives, it’s my opinion that the negatives far outweigh any positives, especially when it comes to creative spaces and hobbies. 
+
+As such, there is a **Zero-Tolerance AI Policy** in effect for *any* games that I run, and games that are run in this server. It’s my opinion, that if someone is taking the time to create a shared world with complex elements, then players should respect that time by putting in some of their own time, using their own brain to think of things. They don’t have to be perfect, or super cool and edgy, they should be *yours*. That’s what makes this hobby so awesome. If I wanted to play D&D with a computer, I’d load up Baldur’s Gate 3. 
+
+If I catch anyone using AI, I will bring it up in private to let them know it’s not cool and it’s a little disrespectful (if on purpose), etc. If anyone thinks something might be AI, it’s fine to mention it. If it was an honest mistake, that’s totally fine, again shit happens. But when I notice repeated behavior, or someone turns in a 4 page long generic backstory, there will be conversations to be had. Hopefully it won’t ever come to that point, but I’m fully prepared to remove players from games if they repeatedly and constantly ignore wishes of GMs to not use generative AI to produce slop for a hobby with friends. I can’t necessarily control what goes on with the tools that I use, like if an Obsidian plugin was built with AI, or if the website I forked had AI-written commits, I’m probably not gonna be happy about it–but there’s not much I can do at this point. I’ll worry about what I can control. *If you are extremely fond of AI/LLMs, I strongly urge you to reconsider and think about the consequences. I’m happy to privately discuss them if desired. If you NEED to use AI in this hobby or games you play in, please try to give yourself a chance to experience it without them. Your brain will thank you. If that is a dealbreaker for you, this is something to consider.*
 
 # What to Expect (as a Player)
 
@@ -128,23 +137,31 @@ Some things that will almost certainly **NEVER** be mentioned, or if they someho
 
 - Rape, Sexual Assault, Coercion
 - Slavery (only in the past, never talked about in a good light, if someone does they will 100% be a villain lmao)
-- Racism (most people are accepting of most races, the prejudice people will exude will be more akin to colonizers, or towards other nationalities. Nobody will turn away Tieflings or Drow, some people may whisper if a [Insert Race Analogous to Native/Indigenous People] were to walk into a tavern, or be standoff-ish if a [Rival Nation Citizen] were to ask for accommodations)
+- Racism (most people are accepting of most races, the prejudice people will exude will be more akin to colonizers, or towards other nationalities. Nobody will turn away Tieflings or Drow, some people may whisper amongst themselves if a [Insert Race Analogous to Native/Indigenous People] were to walk into a tavern, or be standoff-ish if a [Rival Nation Citizen] were to ask for accommodations).
+
+*If you think that having/using safety tools/trigger warnings for games or making sure that everyone is comfortable during a hobby they enjoy is lame or stupid or woke, you probably don’t belong in this server, let alone the campaign.*
   
-  ### Pillars of Play
+### Pillars of Play
   
 **Combat**
   
-  I enjoy combat. I enjoy tactical, gritty, meaningful and interesting combat. I do NOT enjoy meaningless meat grinders or combat-for-the-sake-of-combat. I will aim to use a good balance of Combat, Social, Exploration, and Puzzles, but there may be some sessions which are entirely combat, or multiple. Obviously, other sessions may be entirely roleplay. 
+I enjoy combat. I enjoy tactical, gritty, meaningful and interesting combat. I do NOT enjoy meaningless meat grinders or combat-for-the-sake-of-combat. I will aim to use a good balance of Combat, Social, Exploration, and Puzzles, but there may be some sessions which are entirely combat, or multiple. Obviously, other sessions may be entirely roleplay. 
   
-  For the combat that is run, I aim to have it be challenging (most of the time), rewarding and engaging. I will not pull punches. As you go up in level and/or face more intelligent/competent enemies, *there will be a threat of dying*. It will not be so hard such that you need to spend 20 minutes debating over the optimal move, but you will need to coordinate and work with your team to exploit vulnerabilities, execute certain tactics, etc. 
+For the combat that is run, I aim to have it be challenging (most of the time), rewarding and engaging. I will not pull punches. As you go up in level and/or face more intelligent/competent enemies, *there will be a threat of dying*. It will not be so hard such that you need to spend 20 minutes debating over the optimal move, but you will need to coordinate and work with your team to exploit vulnerabilities, execute certain tactics, etc. 
   
-  Also, on the notion of dying: death is almost never the end. I would work with the player, and feel out what they want to do. There can always be a quest to bring a soul back, or some other story element to keep that player in the game, enjoying their time. Just trust the story, that’s all. *If you heavily dislike combat to the point where you rarely ever want to engage in it, if you only like combat if it’s very low stakes and there is no real challenge or threat to dying, or if you like combat SO MUCH that it’s the **ONLY** pillar, this is something to heavily consider.*
+Also, on the notion of dying: death is almost never the end. I would work with the player, and feel out what they want to do. There can always be a quest to bring a soul back, or some other story element to keep that player in the game, enjoying their time. Just trust the story, that’s all. *If you heavily dislike combat to the point where you rarely ever want to engage in it, if you only like combat if it’s very low stakes and there is no real challenge or threat to dying, or if you like combat SO MUCH that it’s the **ONLY** pillar, this is something to heavily consider.*
   
 **Roleplay**
 
-Not
+Not much to say here, I accept all forms of roleplay whether it’s deep in-character accents and immersion, simple mannerisms, or third-person descriptions, all are fine. I will do my best to encourage and hope that people will flourish and come to enjoy themselves, but I know it can be awkward at first. We’re all (most likely) still learning. 
 
-C: 16
-D: 9
-F: 5 (Technically 6, I withdrew)
+We’ll do our best to roleplay often and sometimes there will be sessions where it is only roleplay or social encounters. There may be times where there is very little to at all roleplay or social encounters. *If you are someone who NEEDs to roleplay every single session, or you hate roleplay so much, this is something to consider.*
+
+**Story**
+
+The story will be a balance between a railroad and a sandbox. There is a *shape* of a story, some key plot points or goals certain characters will have, guides on how they could react, multiple different orders in which they could take certain things, etc. but I will NOT *force* the party towards a certain goal or direction. I may *guide* them at certain times, but I will never choose for them.
+
+Now, there may be times *in a session* where there’s like “cutscenes” where I mostly narrate stuff that happens, but it will not be consequential events that should have been player choices. You will be able to contribute to the world as much as I can (ideally). **Actions will have consequences.** I’m not saying that the world will be 100% realistic and ya know tax fraud will put you in jail, but meaningful actions will have consequences–the world is aiming to be a living one. Events may or may not happen while we are not in session. 
+
+### Campaign
   
