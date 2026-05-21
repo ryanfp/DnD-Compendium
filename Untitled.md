@@ -101,4 +101,46 @@ We are not professional actors or voice actors, and I would hope you don’t exp
 
 ### **Prior Knowledge**
 
-I
+No prior knowledge is needed! For the setting, the system, or me! I will slowly ease players into the setting so as to not overwhelm and lore dump. We will be starting at level 1, gradually ramping up and then doing our best to linger in the “sweet spot” levels. We’ll use a hybrid, milestone levelling system. 
+
+### Rules Intepretation & Homebrew
+
+Oh boy. If you know me, you know for some reason I start scratching like a crack fiend when I see a game that can be modded, but isn’t. Such is the case with D&D. I have pretty hefty changes to the system (from either 5e or 5.5e), that I’ve opted to start calling it something else entirely – OTM5e? (*shrug*). There will be heavy homebrew but it will be built to be as intuitive and seamless as possible. It will be integrated with Foundry (our VTT) and the resources I will provide so that it’s all easily accessible and searchable. If you have little to no experience with D&D and it’s rules, truthfully it might be easier for you, because there’s less to “re-learn”. *If you prefer to run a mostly vanilla game, or if you prefer the official 5e/5.5e and/or you do not like homebrew, this is **definitely** something to consider.*
+
+I also try to take a somewhat loose approach to certain rules. Making up cool abilities that may thematically fit an environment or monster, or player ally is COOL and FUN! And that’s okay. An example I’ll give (shoutout Felix) is in a previous campaign a player was invisible, in a boss room. They wanted to sneak as close to one of the HVTs as possible, when they rolled high (or rolled a Nat 20, I can’t remember) they asked if they could get right next to the enemy, aim their crossbow point blank at the side of their head, and shoot. Me thinking that would be cool as fuck but also super broken gave them the opportunity to take heavy penalties in the combat that would follow in exchange for a powerful surprise attack. He literally oneshot the enemy. He did 1 point over his total health. Very small example but like c’mon, let the rule of cool play out. I may be less lenient than that in this game, but I will work *with* players to do some awesome things, not *against* them. *However, if you prefer to run or play a very strict RAW approach, sticking to the rules whenever possible, you know what I’m gonna say.*
+
+### Safety Tools
+
+We will use lines, veils, etc. I will make sure the metaphorical table is welcoming and safe for everyone. However, there may be certain things native and pertinent to the setting that are somewhat non-negotiable, due to the nature of the story. Some things that **WILL** be in the story (but may be lightly touched upon, or briefly mentioned) are:
+
+- War
+- Loss
+- Genocide
+- Famine
+- Life & Death, Creation/Divinity
+- Torture
+- Exploitation
+- Civil Rights
+- Colonization
+- Imperialism
+
+Some things that will almost certainly **NEVER** be mentioned, or if they somehow are, are cut-to-black or literally given one line of reference (yes, sorry I have to touch on these. Just covering all bases, you never know):
+
+- Rape, Sexual Assault, Coercion
+- Slavery (only in the past, never talked about in a good light, if someone does they will 100% be a villain lmao)
+- Racism (most people are accepting of most races, the prejudice people will exude will be more akin to colonizers, or towards other nationalities. Nobody will turn away Tieflings or Drow, some people may whisper if a [Insert Race Analogous to Native/Indigenous People] were to walk into a tavern, or be standoff-ish if a [Rival Nation Citizen] were to ask for accommodations)
+  
+  ### Pillars of Play
+  
+**Combat**
+  
+  I enjoy combat. I enjoy tactical, gritty, meaningful and interesting combat. I do NOT enjoy meaningless meat grinders or combat-for-the-sake-of-combat. I will aim to use a good balance of Combat, Social, Exploration, and Puzzles, but there may be some sessions which are entirely combat, or multiple. Obviously, other sessions may be entirely roleplay. 
+  
+  For the combat that is run, I aim to have it be challenging (most of the time), rewarding and engaging. I will not pull punches. As you go up in level and/or face more intelligent/competent enemies, *there will be a threat of dying*. It will not be so hard such that you need to spend 20 minutes debating over the optimal move, but you will need to coordinate and work with your team to exploit vulnerabilities, execute certain tactics, etc. 
+  
+  Also, on the notion of dying: death is almost never the end. I would work with the player, and feel out what they want to do. There can always be a quest to bring a soul back, or some other story element to keep that player in the game, enjoying their time. Just trust the story, that’s all. *If you heavily dislike combat to the point where you rarely ever want to engage in it, if you only like combat if it’s very low stakes and there is no real challenge or threat to dying, or if you like combat SO MUCH that it’s the **ONLY** pillar, this is something to heavily consider.*
+  
+**Roleplay**
+
+Not
+  
