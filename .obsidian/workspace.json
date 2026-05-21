@@ -1198,7 +1198,7 @@
                   "state": {
                     "file": "Untitled.md",
                     "mode": "source",
-                    "source": false,
+                    "source": true,
                     "backlinks": true,
                     "backlinkOpts": {
                       "collapseAll": false,
@@ -1218,8 +1218,8 @@
           }
         ],
         "direction": "vertical",
-        "x": -1436,
-        "y": 71,
+        "x": -971,
+        "y": 13,
         "width": 952,
         "height": 1324,
         "maximize": false,
