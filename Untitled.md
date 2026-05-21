@@ -23,7 +23,7 @@ Teeters between **Noblebright/Nobledark**, think of a world that combines 1920s 
 
 The world is as it is, because it is *desperately* in need of heroes. Who will answer the call? *If you prefer Grimdark or Heroic/Epic Fantasy worlds, this is something to consider.*
 
-### **Theme:** 
+### **Theme** 
 All of this may or may not be touched on, but based on the world as it was created (Eberron), and my own touches, these are major sources of inspiration or driving themes throughout:
 
 - Mystery
@@ -35,36 +35,22 @@ All of this may or may not be touched on, but based on the world as it was creat
 - Post-War 
 - Sword and Sorcery
 
-### <u>Inspirational Media</u>
+### Inspirational Media
 
 Movies/Shows
 
 - **Full Metal Alchemist: Brotherhood**
-- Brotherhood of the Wolf
 - **Casablanca**
-- From Hell
 - **The Maltese Falcon**
 - The Mummy
-- The Name of the Rose
 - Pirates of the Caribbean
 - **Raiders of the Lost Ark**
-- The Last Crusade
-- Sleepy Hollow
-- Fifth Element
-- Notorious
-- Blade Runner
 - **Blade Runner 2049**
-- Inglorious Basterds
 - **Pulp Fiction**
 - Cowboy Bepop
 - **The Legend of Korra**
 - Altered Carbon
-- Annihilation
-- Seven Samurai
-- Van Helsing
-- Firefly
 - Star Wars: The Clone Wars
-- Peaky Blinders
 
 Books/Authors
 
@@ -80,15 +66,15 @@ Video Games
 
 I’m sure that is an *EXHAUSTIVE* list, but it’s a very established world that is highly loved by many people from the community, and it also leaves so much room for inspiration and adding things to make it your own. I’m excited to run in it, and I hope everyone is too. *If these don’t interest you, and/or you prefer only some of them, this is something to consider.*
 
-### **Tone:** 
+### **Tone** 
 
 Complex. Some aspects will be very morally-gray and require hard choices with no clear good or bad. Some will be very "Heroic-Fantasy"-esque, with a clear villain and clear heroes. The story and world will react with the events of the story/influence from the party. There may be lighthearted moments, periods of peace and grandeur, or gritty, hopeless expeditions into the unknown for the greater good. Will explore maybe some touchy topics and ideologies, depending on how the story goes. *If you prefer cut-and-dry themes, or little nuance, this is something to consider.
 
 # What I Expect
 
-### **Reasonable Commitment & Consideration:** 
+### **Reasonable Commitment & Consideration** 
 
-shit comes up, people have lives, this is a hobby, I get it. I'm aiming to make this something that people *make* time for. Not a "sorry we got something going on this week I can't make session", but a "sorry I can't do that thing this week we have session that night", ya know? Obvi there's going to be more important things that come up, always. But please let us know. I want to try and treat this more seriously to make this a much better experience in more ways than one. If you might be unable to commit to a weekly session, and consistently make it, that would be something to think about. 
+Shit comes up, people have lives, this is a hobby, I get it. I'm aiming to make this something that people *make* time for. Not a "sorry we got something going on this week I can't make session", but a "sorry I can't do that thing this week we have session that night", ya know? Obvi there's going to be more important things that come up, always. But please let us know. I want to try and treat this more seriously to make this a much better experience in more ways than one. If you might be unable to commit to a weekly session, and consistently make it, that would be something to think about. 
 
 ### **Active Participant**
 
@@ -108,19 +94,35 @@ If I catch anyone using AI, I will bring it up in private to let them know it’
 
 # What to Expect (as a Player)
 
+## Meta Knowledge
+
 ### **Prior Knowledge**
 
 No prior knowledge is needed! For the setting, the system, or me! I will slowly ease players into the setting so as to not overwhelm and lore dump. We will be starting at level 1, gradually ramping up and then doing our best to linger in the “sweet spot” levels. We’ll use a hybrid, milestone levelling system. 
 
-### Rules Intepretation & Homebrew
+### Rules Interpretation & Homebrew
 
-Oh boy. If you know me, you know for some reason I start scratching like a crack fiend when I see a game that can be modded, but isn’t. Such is the case with D&D. I have pretty hefty changes to the system (from either 5e or 5.5e), that I’ve opted to start calling it something else entirely – OTM5e? (*shrug*). There will be heavy homebrew but it will be built to be as intuitive and seamless as possible. It will be integrated with Foundry (our VTT) and the resources I will provide so that it’s all easily accessible and searchable. If you have little to no experience with D&D and it’s rules, truthfully it might be easier for you, because there’s less to “re-learn”. *If you prefer to run a mostly vanilla game, or if you prefer the official 5e/5.5e and/or you do not like homebrew, this is **definitely** something to consider.*
+Oh boy. If you know me, you know for some reason I start scratching like a crack fiend when I see a game that can be modded, but isn’t. Such is the case with D&D. I have pretty hefty changes to the system (from either 5e or 5.5e), that I’ve opted to start calling it something else entirely – OTM5e? (*shrug*). There will be heavy homebrew but it will be built to be as intuitive and seamless as possible. It will be integrated with Foundry (our VTT) and the resources I will provide so that it’s all easily accessible and searchable. If you have little to no experience with D&D and it’s rules, truthfully it might be easier for you, because there’s less to “re-learn”. If you’re intrigued or hesitant, I can provide some examples of rule changes or additions to give a better idea. Full details or scope will come at official Session 0. *If you prefer to run a mostly vanilla game, or if you prefer the official 5e/5.5e and/or you do not like homebrew, this is **definitely** something to consider.*
 
 I also try to take a somewhat loose approach to certain rules. Making up cool abilities that may thematically fit an environment or monster, or player ally is COOL and FUN! And that’s okay. An example I’ll give (shoutout Felix) is in a previous campaign a player was invisible, in a boss room. They wanted to sneak as close to one of the HVTs as possible, when they rolled high (or rolled a Nat 20, I can’t remember) they asked if they could get right next to the enemy, aim their crossbow point blank at the side of their head, and shoot. Me thinking that would be cool as fuck but also super broken gave them the opportunity to take heavy penalties in the combat that would follow in exchange for a powerful surprise attack. He literally oneshot the enemy. He did 1 point over his total health. Very small example but like c’mon, let the rule of cool play out. I may be less lenient than that in this game, but I will work *with* players to do some awesome things, not *against* them. *However, if you prefer to run or play a very strict RAW approach, sticking to the rules whenever possible, you know what I’m gonna say.*
 
+### **Method**
+
+We use Foundry VTT hosted on the “ForgeVTT.com” website for our games, with discord for video calls. I will most likely record and stream to an unlisted YouTube channel (as I’ve done in my previous campaign). I like it for many reasons, if not to look back on stupid shit we did ten years ago and have a good time. 
+
+### **Payment/Money Expectations**
+
+There is no money that is *expected*. It would obviously be *nice*, as many of the tools I use for the games I run cost money, but it’s not expected. I will have a Patreon set up, with a tier specifically set for what would each player need to pay if split equally to cover the cost of monthly expenses. **IF** players **WANT** to subscribe to that, it would be much appreciated. There will be other tiers for higher or lower amounts if you want to contribute more or are feeling generous, but again, none is expected.
+
+## Comfortability w/ Content
+
 ### Safety Tools
 
-We will use lines, veils, etc. I will make sure the metaphorical table is welcoming and safe for everyone. However, there may be certain things native and pertinent to the setting that are somewhat non-negotiable, due to the nature of the story. Some things that **WILL** be in the story (but may be lightly touched upon, or briefly mentioned) are:
+We will use lines, veils, etc. I will make sure the metaphorical table is welcoming and safe for everyone. However, there may be certain things native and pertinent to the setting that are somewhat non-negotiable, due to the nature of the story. 
+
+### Possible Topics
+
+Some things that **WILL** be in the story (but may be lightly touched upon, or briefly mentioned) are:
 
 - War
 - Loss
@@ -133,6 +135,8 @@ We will use lines, veils, etc. I will make sure the metaphorical table is welcom
 - Colonization
 - Imperialism
 
+### (Usually) NOT Possible Topics
+
 Some things that will almost certainly **NEVER** be mentioned, or if they somehow are, are cut-to-black or literally given one line of reference (yes, sorry I have to touch on these. Just covering all bases, you never know):
 
 - Rape, Sexual Assault, Coercion
@@ -141,9 +145,9 @@ Some things that will almost certainly **NEVER** be mentioned, or if they someho
 
 *If you think that having/using safety tools/trigger warnings for games or making sure that everyone is comfortable during a hobby they enjoy is lame or stupid or woke, you probably don’t belong in this server, let alone the campaign.*
   
-### Pillars of Play
+## Pillars of Play
   
-**Combat**
+### **Combat**
   
 I enjoy combat. I enjoy tactical, gritty, meaningful and interesting combat. I do NOT enjoy meaningless meat grinders or combat-for-the-sake-of-combat. I will aim to use a good balance of Combat, Social, Exploration, and Puzzles, but there may be some sessions which are entirely combat, or multiple. Obviously, other sessions may be entirely roleplay. 
   
@@ -151,17 +155,24 @@ For the combat that is run, I aim to have it be challenging (most of the time), 
   
 Also, on the notion of dying: death is almost never the end. I would work with the player, and feel out what they want to do. There can always be a quest to bring a soul back, or some other story element to keep that player in the game, enjoying their time. Just trust the story, that’s all. *If you heavily dislike combat to the point where you rarely ever want to engage in it, if you only like combat if it’s very low stakes and there is no real challenge or threat to dying, or if you like combat SO MUCH that it’s the **ONLY** pillar, this is something to heavily consider.*
   
-**Roleplay**
+### **Roleplay**
 
 Not much to say here, I accept all forms of roleplay whether it’s deep in-character accents and immersion, simple mannerisms, or third-person descriptions, all are fine. I will do my best to encourage and hope that people will flourish and come to enjoy themselves, but I know it can be awkward at first. We’re all (most likely) still learning. 
 
 We’ll do our best to roleplay often and sometimes there will be sessions where it is only roleplay or social encounters. There may be times where there is very little to at all roleplay or social encounters. *If you are someone who NEEDs to roleplay every single session, or you hate roleplay so much, this is something to consider.*
 
-**Story**
+### **Story**
 
 The story will be a balance between a railroad and a sandbox. There is a *shape* of a story, some key plot points or goals certain characters will have, guides on how they could react, multiple different orders in which they could take certain things, etc. but I will NOT *force* the party towards a certain goal or direction. I may *guide* them at certain times, but I will never choose for them.
 
 Now, there may be times *in a session* where there’s like “cutscenes” where I mostly narrate stuff that happens, but it will not be consequential events that should have been player choices. You will be able to contribute to the world as much as I can (ideally). **Actions will have consequences.** I’m not saying that the world will be 100% realistic and ya know tax fraud will put you in jail, but meaningful actions will have consequences–the world is aiming to be a living one. Events may or may not happen while we are not in session. 
 
-### Campaign
-  
+# Campaign
+
+I know that was an incredible mouthful, but that being said. the campaign hook/teaser is below. Obviously it’s designed to make it sound enticing, but please consider if the stuff above influences your opinion/desire to potentially join. 
+
+## **Synopsis**
+
+*Nations are reeling. A world is in Mourning. The Last War has ended with a tenuous peace treaty, after a cataclysmic event of unknown origin shook the people of Khorvaire. As the broken nations silently vie for power and avoid reigniting a devastating war, the party is pulled into a conspiracy that stretches beyond politics and borders.*
+
+*What depths will they go to, what lines will they cross, to ensure The Last War remains just that?*
