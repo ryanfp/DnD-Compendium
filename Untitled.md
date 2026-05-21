@@ -143,4 +143,8 @@ Some things that will almost certainly **NEVER** be mentioned, or if they someho
 **Roleplay**
 
 Not
+
+C: 16
+D: 9
+F: 5 (Technically 6, I withdrew)
   
