@@ -3,22 +3,34 @@
 
 - - - 
 
+Just as a disclaimer, some of this stuff can be amended if we talk about things. We’re all friends, we’re all mature adults, if everyone collectively dislikes a rule or ruling, we can change it. If everyone is really interested in implementing a new rule or trying out a different version, we can talk about it, maybe implement it. These are the current guidelines, but they are not fully set in stone–at least some of them aren’t. 
+
 # What I'm Planning
 
 ## Meta Details
 
-### **Frequency:** 
-weekly, 3-hour sessions. *If you expect to be too busy or unable to commit to, this is something to consider.*
+### **Frequency** 
 
-### **Length:** 
+Weekly, 3-hour sessions. 
+
+### **Length** 
+
 *Ideally*, levels 1-20. But, I'm flexible and will always accommodate someone leaving for any reason, and potentially filling the spot with new players if one opens up. Shooing for the high levels tho. *If you prefer only low levels, or only high levels, or generally don’t have interest in long-term progression, this is something to consider.*
 
-### **Players:** 
+### **Pacing**
+
+Generally, levelling will be slow. Granted this also depends on the party’s progression through the story and other milestones, but when you get up there in levels it may be 10+ sessions between levels. Expect slower levelling, more measured and careful pacing, etc. I want to have this last and let players experience all aspects of D&D character progression that are oftentimes rushed through or never reached.
+
+### **Players** 
+
 3-4, if **exactly** 5 players are interested, I will do a 5-person party. 5 max though. I wish I could do 3 versions of the same campaign but I'm only one person. I'll be running and helping set up other games hopefully so we can all get a chance to play. No FOMO allowed!! *If you prefer games with low or high player count (2-3, or 6-7, respectively), this is something to consider.*
+
+- - -
 
 ## Story/World
 
-### **Fantasy:** 
+### **Fantasy** 
+
 Teeters between **Noblebright/Nobledark**, think of a world that combines 1920s post-WWI era America, with Cold War era politics, Arcanepunk and FlintlockFantasy (but *Magitech*, oooooh). High-magic, it is pervasive. 
 
 The world is as it is, because it is *desperately* in need of heroes. Who will answer the call? *If you prefer Grimdark or Heroic/Epic Fantasy worlds, this is something to consider.*
@@ -70,6 +82,8 @@ I’m sure that is an *EXHAUSTIVE* list, but it’s a very established world tha
 
 Complex. Some aspects will be very morally-gray and require hard choices with no clear good or bad. Some will be very "Heroic-Fantasy"-esque, with a clear villain and clear heroes. The story and world will react with the events of the story/influence from the party. There may be lighthearted moments, periods of peace and grandeur, or gritty, hopeless expeditions into the unknown for the greater good. Will explore maybe some touchy topics and ideologies, depending on how the story goes. *If you prefer cut-and-dry themes, or little nuance, this is something to consider.
 
+- - -
+
 # What I Expect
 
 ### **Reasonable Commitment & Consideration** 
@@ -82,7 +96,9 @@ Not in the sense that you *have* to roleplay or do certain things, but *engage* 
 
 ### **Respect the RP**
 
-We are not professional actors or voice actors, and I would hope you don’t expect me to be one. However, we are all trying our best to RP as we see fit, whether that is voices, mannerisms, or descriptive, third-person narration. Whatever the case, it is to be respected, the *immersion* is to be respected. There will be times for jokes, laughs, real-world quips and so on, but generally we should be keeping that to breaks and small moments or breaks in RP like waiting for turns in combat and such. *If you prefer to play a kind of “Beer & Pretzels” game, this is something to consider.*
+We are not professional actors or voice actors, and I would hope you don’t expect me to be one. However, we are all trying our best to RP as we see fit, whether that is voices, mannerisms, or descriptive, third-person narration. Whatever the case, it is to be respected, the *immersion* is to be respected. There will be times for jokes, laughs, real-world quips and so on, but generally we should be keeping that to breaks and small moments or breaks in RP like waiting for turns in combat and such. *If you prefer to play a kind of “Beer & Pretzels” game, where it is very lighthearted and we’re mostly there to joke around, this is something to consider.*
+
+- - -
 
 ### No AI
 
@@ -90,7 +106,11 @@ Ooooooh boy, yeah, had to mention it. Not gonna get too into it, but I’m not p
 
 As such, there is a **Zero-Tolerance AI Policy** in effect for *any* games that I run, and games that are run in this server. It’s my opinion, that if someone is taking the time to create a shared world with complex elements, then players should respect that time by putting in some of their own time, using their own brain to think of things. They don’t have to be perfect, or super cool and edgy, they should be *yours*. That’s what makes this hobby so awesome. If I wanted to play D&D with a computer, I’d load up Baldur’s Gate 3. 
 
-If I catch anyone using AI, I will bring it up in private to let them know it’s not cool and it’s a little disrespectful (if on purpose), etc. If anyone thinks something might be AI, it’s fine to mention it. If it was an honest mistake, that’s totally fine, again shit happens. But when I notice repeated behavior, or someone turns in a 4 page long generic backstory, there will be conversations to be had. Hopefully it won’t ever come to that point, but I’m fully prepared to remove players from games if they repeatedly and constantly ignore wishes of GMs to not use generative AI to produce slop for a hobby with friends. I can’t necessarily control what goes on with the tools that I use, like if an Obsidian plugin was built with AI, or if the website I forked had AI-written commits, I’m probably not gonna be happy about it–but there’s not much I can do at this point. I’ll worry about what I can control. *If you are extremely fond of AI/LLMs, I strongly urge you to reconsider and think about the consequences. I’m happy to privately discuss them if desired. If you NEED to use AI in this hobby or games you play in, please try to give yourself a chance to experience it without them. Your brain will thank you. If that is a dealbreaker for you, this is something to consider.*
+If I find anyone using AI (or suspect they are), I will bring it up in private to let them know if they didn’t know, and that it’s not cool/ it’s a little disrespectful if on purpose. If anyone thinks something might be using AI for stuff, it’s fine to mention it in-private. If it was an honest mistake, that’s totally fine, again shit happens. But when I notice repeated behavior, or someone turns in a 4 page long generic backstory that sounds nothing like them and tries to pass it off as their own, there will be conversations to be had. 
+
+Hopefully it won’t ever come to that point, but I’m fully prepared to remove players from games if they repeatedly and constantly ignore wishes of GMs to not use generative AI to produce slop for a hobby with friends. I can’t necessarily control what goes on with the tools that I use, like if an Obsidian plugin was built with AI, or if the website I forked had AI-written commits, I’m probably not gonna be happy about it–but there’s not much I can do at this point. I’ll worry about what I can control. *If you are extremely fond of AI/LLMs, I strongly urge you to reconsider and think about the consequences they pose to our world and society. I’m happy to privately discuss them if desired. If you NEED to use AI in this hobby or games you play in, please try to give yourself a chance to experience it without them. Your brain will thank you. If that is a dealbreaker for you, this is something to consider.*
+
+- - -
 
 # What to Expect (as a Player)
 
@@ -114,6 +134,8 @@ We use Foundry VTT hosted on the “ForgeVTT.com” website for our games, with 
 
 There is no money that is *expected*. It would obviously be *nice*, as many of the tools I use for the games I run cost money, but it’s not expected. I will have a Patreon set up, with a tier specifically set for what would each player need to pay if split equally to cover the cost of monthly expenses. **IF** players **WANT** to subscribe to that, it would be much appreciated. There will be other tiers for higher or lower amounts if you want to contribute more or are feeling generous, but again, none is expected.
 
+- - -
+
 ## Comfortability w/ Content
 
 ### Safety Tools
@@ -132,8 +154,7 @@ Some things that **WILL** be in the story (but may be lightly touched upon, or b
 - Torture
 - Exploitation
 - Civil Rights
-- Colonization
-- Imperialism
+- Colonization/Imperialism
 
 ### (Usually) NOT Possible Topics
 
@@ -144,6 +165,8 @@ Some things that will almost certainly **NEVER** be mentioned, or if they someho
 - Racism (most people are accepting of most races, the prejudice people will exude will be more akin to colonizers, or towards other nationalities. Nobody will turn away Tieflings or Drow, some people may whisper amongst themselves if a [Insert Race Analogous to Native/Indigenous People] were to walk into a tavern, or be standoff-ish if a [Rival Nation Citizen] were to ask for accommodations).
 
 *If you think that having/using safety tools/trigger warnings for games or making sure that everyone is comfortable during a hobby they enjoy is lame or stupid or woke, you probably don’t belong in this server, let alone the campaign.*
+
+- - -
   
 ## Pillars of Play
   
@@ -167,9 +190,11 @@ The story will be a balance between a railroad and a sandbox. There is a *shape*
 
 Now, there may be times *in a session* where there’s like “cutscenes” where I mostly narrate stuff that happens, but it will not be consequential events that should have been player choices. You will be able to contribute to the world as much as I can (ideally). **Actions will have consequences.** I’m not saying that the world will be 100% realistic and ya know tax fraud will put you in jail, but meaningful actions will have consequences–the world is aiming to be a living one. Events may or may not happen while we are not in session. 
 
+- - -
+
 # Campaign
 
-I know that was an incredible mouthful, but that being said. the campaign hook/teaser is below. Obviously it’s designed to make it sound enticing, but please consider if the stuff above influences your opinion/desire to potentially join. 
+I know that was an incredible mouthful, but that being said. the campaign hook/teaser is below. Obviously it’s designed to make it sound enticing, but please consider if the stuff above influences your opinion/desire to potentially join. But, for those of you who’ve made it this far, please let me know if you have any questions. You should fish react to the last message to let me know you’ve actually read this lmao, thanks, ‘preciate it. 
 
 ## **Synopsis**
 
