@@ -196,8 +196,10 @@ Now, there may be times *in a session* where there’s like “cutscenes” wher
 
 I know that was an incredible mouthful, but that being said. the campaign hook/teaser is below. Obviously it’s designed to make it sound enticing, but please consider if the stuff above influences your opinion/desire to potentially join. But, for those of you who’ve made it this far, please let me know if you have any questions. You should fish react to the last message to let me know you’ve actually read this lmao, thanks, ‘preciate it. 
 
-## **Synopsis**
+Anyways, introducing
 
-*Nations are reeling. A world is in Mourning. The Last War has ended with a tenuous peace treaty, after a cataclysmic event of unknown origin shook the people of Khorvaire. As the broken nations silently vie for power and avoid reigniting a devastating war, the party is pulled into a conspiracy that stretches beyond politics and borders.*
+## Adventures in Zeitgeist #1: Embers of the Accords
 
-*What depths will they go to, what lines will they cross, to ensure The Last War remains just that?*
+> _Nations are reeling. A world is Mourning. The Last War has ended with a tenuous peace, after a cataclysmic event of unknown origin shook the people of Khorvaire. As broken nations silently vie for power and avoid reigniting a devastating war, the party is pulled into a conspiracy that stretches far beyond politics and borders._ _The oracles and skyseers — prophets among those who still practice the old faith — witness omens among the moons of Eberron, and they warn that a new age is nigh. But what cannot be foreseen, hidden beyond the Ring of Siberys, is the face of this coming era. The spirit of the age. The Zeitgeist._ _What depths will they go to, what lines will they cross, what prophecies will they defy, what will they sacrifice, to ensure The Last War remains just that?_
+
+Adventures in Zeitgeist will aim to be a recurring campaign group that centers in this world. Once this one is finished (however long it takes), the next will have a different story, different time period, but be tied to important events of the era. The Zeitgeist, if you will. just a reminder, I'm combining alot of elements from popular D&D media/adventure modules, so if something looks or sounds famililar try to stop yourself from reading further if you don't want to be spoiled mkay thanks hahahaha
