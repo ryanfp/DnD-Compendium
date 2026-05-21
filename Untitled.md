@@ -136,7 +136,7 @@ There is no money that is *expected*. It would obviously be *nice*, as many of t
 
 - - -
 
-## Comfortability w/ Content
+## Comfortability
 
 ### Safety Tools
 
