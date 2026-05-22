@@ -424,81 +424,9 @@
               "icon": "lucide-file",
               "title": "5e.tools Website Navigation"
             }
-          },
-          {
-            "id": "6a4a0f3919d9d69e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lex Pokemon Markets.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Lex Pokemon Markets"
-            }
-          },
-          {
-            "id": "0ad4b0b662e9de10",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Regional Pokemon Variants",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Regional Pokemon Variants.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Regional Pokemon Variants\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":119,\"ch\":2},\"to\":{\"line\":119,\"ch\":2}},\"scroll\":110.22894965277777}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homebrew Mechanics/3-Save System.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "3-Save System"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       },
       {
         "id": "5e90b3ed8d44b9fb",
@@ -1052,10 +980,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Homebrew Mechanics/3-Save System.md"
+                "file": "5e.tools Website Navigation.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 3-Save System"
+              "title": "File properties for 5e.tools Website Navigation"
             }
           },
           {
@@ -1165,7 +1093,8 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
   "floating": {
@@ -1226,12 +1155,12 @@
       }
     ]
   },
-  "active": "0ad4b0b662e9de10",
+  "active": "43fa43d7dd992297",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Homebrew Mechanics/3-Save System.md",
-    "Regional Pokemon Variants.md",
     "Lex Pokemon Markets.md",
+    "Homebrew Mechanics/3-Save System.md",
+    "Untitled.md",
+    "Regional Pokemon Variants.md",
     "5e.tools Website Navigation.md",
     "z_Inbox/Website Navigation Map.md",
     "Homebrew Mechanics/Character Creation Guidelines.md",
