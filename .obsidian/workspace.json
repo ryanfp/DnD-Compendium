@@ -1052,10 +1052,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled.md"
+                "file": "Homebrew Mechanics/3-Save System.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Untitled"
+              "title": "File properties for 3-Save System"
             }
           },
           {
@@ -1165,8 +1165,7 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "calendarium:Open Calendarium": false
     }
   },
   "floating": {
@@ -1227,7 +1226,7 @@
       }
     ]
   },
-  "active": "ccdc73f2c3678557",
+  "active": "0ad4b0b662e9de10",
   "lastOpenFiles": [
     "Untitled.md",
     "Homebrew Mechanics/3-Save System.md",
