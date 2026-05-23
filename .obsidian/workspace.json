@@ -1093,8 +1093,7 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "calendarium:Open Calendarium": false
     }
   },
   "floating": {
@@ -1157,9 +1156,9 @@
   },
   "active": "43fa43d7dd992297",
   "lastOpenFiles": [
+    "Untitled.md",
     "Lex Pokemon Markets.md",
     "Homebrew Mechanics/3-Save System.md",
-    "Untitled.md",
     "Regional Pokemon Variants.md",
     "5e.tools Website Navigation.md",
     "z_Inbox/Website Navigation Map.md",
