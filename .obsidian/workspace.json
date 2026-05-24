@@ -401,15 +401,21 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "5e.tools Website Navigation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5e.tools Website Navigation.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"5e.tools Website Navigation\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5e.tools Website Navigation.md",
+                "file": "Immediate Goals for Play.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -422,7 +428,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5e.tools Website Navigation"
+              "title": "Immediate Goals for Play"
             }
           }
         ],
@@ -980,10 +986,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "5e.tools Website Navigation.md"
+                "file": "Immediate Goals for Play.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 5e.tools Website Navigation"
+              "title": "File properties for Immediate Goals for Play"
             }
           },
           {
@@ -1093,7 +1099,8 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
   "floating": {
@@ -1145,7 +1152,7 @@
           }
         ],
         "direction": "vertical",
-        "x": -975,
+        "x": 1585,
         "y": 6,
         "width": 952,
         "height": 1324,
@@ -1156,11 +1163,11 @@
   },
   "active": "43fa43d7dd992297",
   "lastOpenFiles": [
+    "5e.tools Website Navigation.md",
     "Untitled.md",
     "Lex Pokemon Markets.md",
     "Homebrew Mechanics/3-Save System.md",
     "Regional Pokemon Variants.md",
-    "5e.tools Website Navigation.md",
     "z_Inbox/Website Navigation Map.md",
     "Homebrew Mechanics/Character Creation Guidelines.md",
     "Immediate Goals for Play.md",

@@ -129,8 +129,8 @@ aliases:
 - [ ] Make subtle changes to palette and consolidate theming
 	- [ ] Gold ornamental designs with green accents
 	- [ ] orange links and headers
-- [ ] Unlink homebrew repo and main repo
-- [ ] Update both repos
+- [x] Unlink homebrew repo and main repo
+- [x] Update both repos
 
 ### Story
 
