@@ -143,3 +143,4 @@ aliases:
 - [ ] Map out first 1-2 sessions
 - [ ] Create character web
 - [ ] Create premise/core-question, other essential elements
+`dice: XdX`
