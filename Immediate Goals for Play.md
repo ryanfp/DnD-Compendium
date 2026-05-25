@@ -125,10 +125,10 @@ aliases:
 - [ ] Convert mentions of 6-save system into 3-save system
 - [ ] Create Foundry module to change 6-save into 3-save
 - [ ] Implement saves on character sheets
-- [ ] Revert color palette CSS changes + move to standalone file
+- [x] Revert color palette CSS changes + move to standalone file
 - [ ] Make subtle changes to palette and consolidate theming
 	- [ ] Gold ornamental designs with green accents
-	- [ ] orange links and headers
+	- [x] orange links and headers
 - [x] Unlink homebrew repo and main repo
 - [x] Update both repos
 
