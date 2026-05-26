@@ -986,10 +986,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Immediate Goals for Play.md"
+                "file": "Untitled.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Immediate Goals for Play"
+              "title": "File properties for Untitled"
             }
           },
           {
@@ -1161,8 +1161,9 @@
       }
     ]
   },
-  "active": "43fa43d7dd992297",
+  "active": "ccdc73f2c3678557",
   "lastOpenFiles": [
+    "Immediate Goals for Play.md",
     "5e.tools Website Navigation.md",
     "Untitled.md",
     "Lex Pokemon Markets.md",
@@ -1170,7 +1171,6 @@
     "Regional Pokemon Variants.md",
     "z_Inbox/Website Navigation Map.md",
     "Homebrew Mechanics/Character Creation Guidelines.md",
-    "Immediate Goals for Play.md",
     "Homebrew Mechanics/Ability Scores.md",
     "Homebrew Mechanics/Homebrew Skills & Changes.md",
     "Homebrew Mechanics/Homebrew Conditions.md",

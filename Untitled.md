@@ -205,3 +205,10 @@ Anyways, introducing
 Adventures in Zeitgeist will aim to be a recurring campaign group that centers in this world. Once this one is finished (however long it takes), the next will have a different story, different time period, but be tied to important events of the era. The Zeitgeist, if you will. 
 
 -# just a reminder, I'm combining alot of elements from popular D&D media/adventure modules, so if something looks or sounds famililar try to stop yourself from reading further if you don't want to be spoiled mkay thanks hahahaha
+
+
+
+- [AdventureWorks Sample Databases - SQL Server \| Microsoft Learn](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
+	- [GitHub - microsoft/sql-server-samples: Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge · GitHub](https://github.com/microsoft/sql-server-samples/tree/master)
+- [Releases · BrentOzarULTD/Stack-Overflow-Database](https://github.com/BrentOzarULTD/Stack-Overflow-Database/releases)
+- [IMDb Non-Commercial Datasets \| IMDb Developer](https://developer.imdb.com/non-commercial-datasets/#plain)
