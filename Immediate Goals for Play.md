@@ -129,6 +129,10 @@ aliases:
 - [ ] Make subtle changes to palette and consolidate theming
 	- [ ] Gold ornamental designs with green accents
 	- [x] orange links and headers
+- [x] Get full site functionality back up and running
+	- [x] Debug Bestiary page loading issues
+	- [x] Diagnose Content Blocklist page loading issues
+	- [x] Fix the issues
 - [x] Unlink homebrew repo and main repo
 - [x] Update both repos
 
