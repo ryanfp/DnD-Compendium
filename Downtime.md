@@ -36,7 +36,7 @@ Characters may wish to work together to complete downtime activities. At the GM
 
 Adventurers with tool proficiencies may use their downtime to create weapons, armor, or other items. The Craft activity can be used to create weapons, armor, tools, clothing, other equipment, or a work of art.
 
-All crafted items require materials. Poor quality items can be made with materials equal to ⅛th the base cost of the item that the character wishes to create. Normal quality work requires materials equal to ¼ the base cost. If a character wishes to craft a fine item, they must acquire fine materials equal to ½ the item’s base cost. If a character wishes to craft a masterwork item, the materials cost is equal to the base cost of the item.
+All crafted items require materials. Poor quality items can be made with materials equal to ⅛ the the base cost of the item that the character wishes to create. Normal quality work requires materials equal to ¼ the base cost. If a character wishes to craft a fine item, they must acquire fine materials equal to ½ the item’s base cost. If a character wishes to craft a masterwork item, the materials cost is equal to the base cost of the item.
 
 **Special Materials.** Rarely a smith might happen upon special materials. These materials can only rarely be purchased and must often be found. When attempting to craft using [adamantine, mithral, or other wondrous materials](https://a5e.tools/rules/materials) , increase the DC to craft the item by 2. See the Materials section of Chapter 4: Equipment for more details.
 
