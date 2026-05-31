@@ -6,7 +6,7 @@
       {
         "id": "0f4096b47ff804e0",
         "type": "tabs",
-        "dimension": 45.879518072289144,
+        "dimension": 37.976190476190474,
         "children": [
           {
             "id": "8a3cba7aa4f7df30",
@@ -447,7 +447,7 @@
               "type": "markdown",
               "state": {
                 "file": "Downtime.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -470,7 +470,7 @@
       {
         "id": "5e90b3ed8d44b9fb",
         "type": "tabs",
-        "dimension": 31.51807228915663,
+        "dimension": 48.214285714285715,
         "children": [
           {
             "id": "e412e82fc9908b96",
@@ -504,13 +504,47 @@
               "icon": "lucide-file",
               "title": "5e.tools Website Navigation"
             }
+          },
+          {
+            "id": "a806784ad4447ca4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Downtime.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Downtime"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9d2f7dc658316064",
         "type": "tabs",
-        "dimension": 22.60240963855422,
+        "dimension": 13.80952380952381,
         "children": [
           {
             "id": "a03986f142629718",
@@ -895,7 +929,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 232.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc1490c296b0c5ab",
@@ -1098,7 +1133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 212.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -1136,7 +1172,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "ec72046933e7ed4d",
+  "active": "a806784ad4447ca4",
   "lastOpenFiles": [
     "Downtime.md",
     "Immediate Goals for Play.md",
