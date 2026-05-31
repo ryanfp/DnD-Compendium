@@ -430,9 +430,42 @@
               "icon": "lucide-file",
               "title": "Immediate Goals for Play"
             }
+          },
+          {
+            "id": "ec72046933e7ed4d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Downtime.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Downtime"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "5e90b3ed8d44b9fb",
@@ -986,10 +1019,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Immediate Goals for Play.md"
+                "file": "Downtime.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Immediate Goals for Play"
+              "title": "File properties for Downtime"
             }
           },
           {
@@ -1103,10 +1136,11 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "43fa43d7dd992297",
+  "active": "ec72046933e7ed4d",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Downtime.md",
     "Immediate Goals for Play.md",
+    "Untitled.md",
     "5e.tools Website Navigation.md",
     "Lex Pokemon Markets.md",
     "Homebrew Mechanics/3-Save System.md",
@@ -1132,7 +1166,6 @@
     "Homebrew Mechanics",
     "z_Inbox/Epilogue Story Map.md",
     "🌎 - Worldbuilding & Lore/Story/campaign/tier-2.md",
-    "🌎 - Worldbuilding & Lore/Story/campaign/tier-1.md",
     "map test.canvas",
     "Color Palette/Color Palettes.base",
     "z_Inbox",
