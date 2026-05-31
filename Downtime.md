@@ -12,7 +12,7 @@ When considering these key details, think about significant life events for the
 
 Some adventurers choose to live lavishly between quests while others are content to rent a room at their favorite drinking establishment. When calculating expenses, see Chapter 4: Equipment. A character’s lifestyle (poor, moderate, or rich) impacts some of their downtime activities.
 
-An adventurer’s lifestyle can also impact their interactions with those around them. The GM may provide [advantage](https://a5e.tools/node/130 "Click to view a local node.") or [disadvantage](https://a5e.tools/node/137 "Click to view a local node.") on Intelligence, Wisdom, and Charisma checks made against people that perceive a PC to be of a different lifestyle than themselves, depending upon the circumstances — an adventurer with a poor lifestyle has a harder time getting along with rich nobles and vice versa.
+An adventurer’s lifestyle can also impact their interactions with those around them. The GM may provide [advantage](https://a5e.tools/node/130) or [disadvantage](https://a5e.tools/node/137) on Intelligence, Wisdom, and Charisma checks made against people that perceive a PC to be of a different lifestyle than themselves, depending upon the circumstances — an adventurer with a poor lifestyle has a harder time getting along with rich nobles and vice versa.
 
 ---
 
@@ -38,7 +38,7 @@ Adventurers with tool proficiencies may use their downtime to create weapons, a
 
 All crafted items require materials. Poor quality items can be made with materials equal to ⅛th the base cost of the item that the character wishes to create. Normal quality work requires materials equal to ¼ the base cost. If a character wishes to craft a fine item, they must acquire fine materials equal to ½ the item’s base cost. If a character wishes to craft a masterwork item, the materials cost is equal to the base cost of the item.
 
-**Special Materials.** Rarely a smith might happen upon special materials. These materials can only rarely be purchased and must often be found. When attempting to craft using [adamantine, mithral, or other wondrous materials](https://a5e.tools/rules/materials "Click to view a local node.") , increase the DC to craft the item by 2. See the Materials section of Chapter 4: Equipment for more details.
+**Special Materials.** Rarely a smith might happen upon special materials. These materials can only rarely be purchased and must often be found. When attempting to craft using [adamantine, mithral, or other wondrous materials](https://a5e.tools/rules/materials) , increase the DC to craft the item by 2. See the Materials section of Chapter 4: Equipment for more details.
 
 **Time Required.** The time required varies depending upon what a character is attempting to craft, as per Table: Crafting Time. At the end of the required time, the character makes a check based upon the desired quality level. On a success, the materials are consumed and they create the item. On a failure, they create an item of one quality level lower than they desired or may salvage the materials. When a character fails by 5 or more, they produce a poor quality item and the materials are consumed.
 
@@ -46,7 +46,7 @@ All crafted items require materials. Poor quality items can be made with materi
 
 **Engineering.** The Craft downtime activity can also be used for buildings, engineering devices, and other projects. Each check requires a week of work and access to an amount of gold worth of materials. The DC and materials cost are determined by the project’s complexity. The scope of the project determines how many checks are required to complete it.
 
-#### **Crafting Items**
+#### **Crafting Rarity**
 
 |**Quality**|**Time**|**DC**|**Materials**|**Production Cost**|**Sell Price**|**Benefit**|
 |---|:---:|:---:|:---:|:---:|---|---|
@@ -57,6 +57,8 @@ All crafted items require materials. Poor quality items can be made with materi
 ^crafting-rarity
 
 See the core rulebook for tables **Engineering Items** and **Engineering Time**.
+
+#### **Crafting Items**
 
 |  **Item** | **Craft Time**  |
 | :---: | --- |
@@ -88,7 +90,7 @@ At the Narrator’s discretion, these points can also be spent to introduce a s
 
 **Limitations.** The Narrator may decide that there is simply no way that a piece of information can be gleaned by the Gather Information activity. In this case, the Narrator should inform the player before attempting the check.
 
-Gather Information
+#### **Gather Information**
 
 |**Obscurity**|**DC**|**Time**|**Cost**|**Examples**|
 |---|:---:|---|---|---|
@@ -100,14 +102,101 @@ Gather Information
 
 ---
 
+### Carousing (Partying)     
+
+*XGE pg. 126-128*
+
+**Summary.** Carousing is the act of partying. At the cost of a workweek and 10 to 250 gp to spare, you can carouse with the local townsfolk and as a “reward” gain favor with individuals. Be careful though, if you’re a mean drunk you may create some enemies instead of friends.
+
+**Resources.** Carousing covers a workweek of fine food, strong drink, and socializing. A character can attempt to carouse among lower-, middle-, or upper-class folk. A character can carouse with lower-class for 10 gp to cover expenses, or 50 gp for middle class. Carousing with the upper class requires 250 gp for the workweek and access to the local nobility.
+
+Not all characters can mingle with nobility. If you have the nobility background, or if your DM deems your character worthy enough to do so, you may spend your time carousing with the nobility of the city.
+
+Alternatively, a character can use a disguise kit and the Deception skill to pass as a noble in order to carouse with the local nobility.
+
+**Resolution.** After a workweek of carousing a character stands to make contacts within the selected social class. The character makes a Charisma (Persuasion) check to determine what type or how many contacts they made.
+
+The contacts one makes from carousing can be allies but they can also be enemies. Hostile contacts will often try to create barriers for the character and spend their time making the character’s life harder. An allied contact will often grant the character aid if aid is asked for, but never at the risk of their own life.
+
+Lower-class contacts include criminals, laborers, mercenaries, the town guard, and any other folk who frequent cheap taverns.
+
+Middle-class contacts include guild members, spell-casters, town officials, and other folk who frequent well kept establishments.
+
+Upper-class contacts include nobles and their personal servants. Carousing with such folk usually occurs in formal banquets, state dinners, and the like.
+
+An allied contact can only grant aid once. They remain friendly after granting aid, but are not obligated to grant any more help.
+
+A hostile contact will only hinder the character once. They remain unfriendly and could threaten becoming a recurring issue for the character if they are wronged again
+
+The characters Charisma (Persuasion) check will determine who they make contact with based on a table the DM uses inside Xanathar’s Guide to Everything. Additionally, a player can work with the DM to specify an NPC they wish to gain contact with as a result from their carousing.
+
+- - -
+
+### Crime
+*XGE pg. 130*
+
+**Summary.** Sometimes it pays to be bad. This activity gives characters a chance to make coin at the risk of getting arrested. It will cost you between 25 gp and 1000 gp as well as a full week to participate in this activity.
+
+**Resources.** A character must spend one week and at least 25 gp gathering information on potential targets before committing the intended crime.
+
+**Resolution.** The character must make a series of checks, with the DC for all the checks chosen by the character according to the amount of profit sought from the crime.
+
+To attempt a crime, the character must make three checks: Dexterity (Stealth), Dexterity using thieves’ tools, and the player’s choice of Intelligence (Investigation), Wisdom (Perception), or Charisma (Deception).
+
+If none of the above checks are successful, the character is caught and jailed. The character must pay a fine equal to the profit the crime would have earned and must spend one week in jail for each 25 gp of the fine.
+
+If only one check is successful, the heist fails but the character escapes.
+
+If two checks are successful, the heist is a partial success, netting the character half payout.
+
+If all three checks are successful, the character earns the full value of the loot.
+
+#### **Crime**
+
+|Difficulty|Value|
+|---|---|
+|Low|50 gp, robbery of a struggling merchant|
+|Medium|100 gp, robbery of a thriving merchant|
+|High|200 gp, robbery of a noble|
+|Very High|1,000 gp, robbery of one of the richest figures in town|
+^crime
+
+- - -
+
+### Gambling
+*XGE pg. 130-131*
+
+**Summary.** Requires one workweek and at least 10 gp. Be careful as it could result in a net loss if you’re unlucky.
+
+**Resources.** This activity requires one workweek of effort plus a stake of at least 10 gp, to a maximum of 1,000 gp.
+
+**Resolution.** The character must make a series of checks, with a DC determined at random based on the quality of the competition that the character runs into. Part of the risk of gambling is not knowing who might be sitting at the other side of the table.
+
+The character makes three checks: Wisdom (Insight), Charisma (Deception), and Charisma (Intimidation). If the character has proficiency with an appropriate gaming set, that tool proficiency can replace the relevant skill in any of the checks.
+
+- - -
+
+### Pit Fighting     
+*XGE pg. 131*
+
+**Summary.** Pit fighting includes boxing, wrestling, and other nonlethal forms of combat in an organized setting with predetermined matches. All it costs you is one workweek of downtime and absolutely no coin cost to enter.
+
+**Resources.** Engaging in this activity requires one workweek of effort from a character.
+
+**Resolution.** The character must make a series of checks, with a DC determined at random based on the quality of the opposition that the character runs into. A big part of the challenge in pit fighting lies in the unknown nature of a character’s opponents.
+
+The character makes three checks: Strength (Athletics), Dexterity (Acrobatics), and a special constitution check that has a bonus equal to a roll of the character’s largest Hit Die (this roll doesn’t spend that die). If desired, the character can replace one of these skill checks with an attack roll using one of the character’s weapons.
+
+- - -
+
 ### Recovery
 
 Sometimes it is necessary to recover from the dangers faced by an adventurer. In order to take the Recover activity, a character must have or temporarily pay for at least a moderate lifestyle. Each week that a character takes the Recover activity, they may:
 
-- Make a Constitution [saving throw](https://a5e.tools/rules/saving-throw "Click to view a local node.") against one effect that is preventing them from regaining hit points.
-- Make one additional [saving throw](https://a5e.tools/rules/saving-throw "Click to view a local node.") against one [disease](https://a5e.tools/rules/diseases "Click to view a local node.") or [poison](https://a5e.tools/rules/poisons "Click to view a local node.") currently affecting them.
+- Make a Constitution [saving throw](https://a5e.tools/rules/saving-throw) against one effect that is preventing them from regaining hit points.
+- Make one additional [saving throw](https://a5e.tools/rules/saving-throw) against one [disease](https://a5e.tools/rules/diseases) or [poison](https://a5e.tools/rules/poisons) currently affecting them.
 
-If a character is tended to by someone with a healer’s satchel, they have [advantage](https://a5e.tools/node/130 "Click to view a local node.") on the above checks.
+If a character is tended to by someone with a healer’s satchel, they have [advantage](https://a5e.tools/node/130) on the above checks.
 
 ---
 
@@ -119,15 +208,16 @@ Religious Devotion allows a character to engage in acts of piety in an attempt 
 
 If a character acts against the interests or philosophy of a deity during an adventure, any points of favor are immediately lost.
 
-|   |   |   |   |
-|---|---|---|---|
-Religious Devotion
+#### **Religious Devotion**
+
 |**Philosophical Similarity**|**DC**|**Offering***|**Description**|
+|---|:---:|---|---|
 |Strongly Aligned|10|10 gp|The character's personal ethos and actions closely mirror the deity’s philosophy and teachings.|
 |Aligned|15|25 gp|The character's personal ethos and actions are generally similar to the deity’s philosophy and teachings.|
 |Neutral|20|50 gp|The character’s personal ethos and actions do not align with or oppose the deity they are beseeching.|
 |Opposed|25|100 gp|The character’s personal ethos and actions are generally counter to the deity’s philosophy and teachings.|
 |Strongly Opposed|30|500 gp|The character's personal ethos and actions run directly counter to the deity’s philosophy and teachings.|
+^religious-devotion
 
 _*The Narrator may allow specific actions by the character to reduce or eliminate this cost._
 
@@ -143,14 +233,15 @@ On a success, they learn what they are looking for along with a point of Key Kn
 
 The cost of research is reflective of bribes, library fees, and other related expenses. At the Narrator’s discretion, a character may dispense with these if they already have access to a library that may contain the information.
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-Research
+#### Research
+
 |**Obscurity**|**DC**|**Time**|**Cost**|**Examples**|
+|---|:---:|---|---|---|
 |Uncommon|10|1 week|10 gp|The original name of a particular village|
 |Esoteric|15|2 weeks|25 gp|The original owner of a piece of land or business, the location of an ancient tomb|
 |Hidden|20|3 weeks|100 gp|The true history of the founding of a dynasty, the real lineage of the local ruler|
 |Secret|25|5 weeks|500+ gp|The name of a fiend, the location of a city destroyed by the gods in the last age|
+^research
 
 ---
 
@@ -162,14 +253,15 @@ The character makes an ability check using their spellcasting ability and Arcan
 
 Each check requires 1 week and the amount of indicated materials. A character requires a number of successful study weeks as listed on Table: Rare Spell Crafting. If a character succeeds the check by 5 or more, that week counts as 2 weeks for the purposes of completion. On a failure, the character makes no progress that week and the materials are consumed, and on a failure by 5 or more the materials are consumed and a week of progress is lost. The rare spell is finished when the final check succeeds.
 
-|   |   |   |
-|---|---|---|
-Rare Spell Modifications
+#### **Spell Modifications**
+
 |**Modification**|**DC Modifier**|**Effect**|
-|Altered Effect|+0|The spell’s primary effect is changed. This can be used to add or alter a spell's damage type, affect what the spell targets, or otherwise modify its core effect. Examples include an _[invisibility](https://a5e.tools/spell/invisibility "Click to view a local node.")_ spell that targets objects instead of creatures, a _[fireball](https://a5e.tools/spell/fireball "Click to view a local node.")_ that deals cold damage, or a _[lightning bolt](https://a5e.tools/spell/lightning-bolt "Click to view a local node.")_ that has a cone area.|
-|Lingering Effect|+1|The spell has a secondary effect that occurs after the spell has ended. Examples include a _[fireball](https://a5e.tools/spell/fireball "Click to view a local node.")_ that causes the target to take ongoing fire damage or a _[slow](https://a5e.tools/spell/slow "Click to view a local node.")_ spell that leaves a target _[fatigued](https://a5e.tools/rules/conditions "Click to view a local node.")_ after its duration has ended.|
-|Additional Effect|+2|An additional effect is added to the spell’s primary function. Examples include an _[ice storm](https://a5e.tools/spell/ice-storm "Click to view a local node.")_ that freezes a target in place for the duration.|
-|Additional Target|+2|The spell has the means to target additional creatures. Examples include a [paralyzing](https://a5e.tools/rules/conditions "Click to view a local node.") effect that spreads by touch or a suggestion to new targets through conversation.|
+|---|:---:|---|
+|Altered Effect|+0|The spell’s primary effect is changed. This can be used to add or alter a spell's damage type, affect what the spell targets, or otherwise modify its core effect. Examples include an _[invisibility](https://a5e.tools/spell/invisibility)_ spell that targets objects instead of creatures, a _[fireball](https://a5e.tools/spell/fireball)_ that deals cold damage, or a _[lightning bolt](https://a5e.tools/spell/lightning-bolt)_ that has a cone area.|
+|Lingering Effect|+1|The spell has a secondary effect that occurs after the spell has ended. Examples include a _[fireball](https://a5e.tools/spell/fireball)_ that causes the target to take ongoing fire damage or a _[slow](https://a5e.tools/spell/slow)_ spell that leaves a target _[fatigued](https://a5e.tools/rules/conditions)_ after its duration has ended.|
+|Additional Effect|+2|An additional effect is added to the spell’s primary function. Examples include an _[ice storm](https://a5e.tools/spell/ice-storm)_ that freezes a target in place for the duration.|
+|Additional Target|+2|The spell has the means to target additional creatures. Examples include a [paralyzing](https://a5e.tools/rules/conditions) effect that spreads by touch or a suggestion to new targets through conversation.|
+^spell-modifications
 
 In order to invent a rare spell, a character must have access to the appropriate type of library. Wizards and sorcerers require a collection of arcane tomes. Clerics and heralds must have access to books of esoteric lore and theological texts. Druids need a sacred place of nature untouched by civilization. Bards utilize folios of magical compositions. Warlocks require forbidden texts and works of the occult.
 
@@ -177,12 +269,10 @@ Creating rare spells should be a collaboration with the Narrator. As always, th
 
 In addition to crafting rare spells, it is possible to create entirely new spells. This process typically requires years of work and often represents the pinnacle of a spellcaster’s career. If a character wishes to create their own spell, it should require at least 2 months per spell level and 500 gold per spell level each week. DCs for such checks and the other specifics are determined by the Narrator, using the rules for crafting rare spells as a guideline.
 
-  
+#### **Rare Spell Crafting**
 
-|   |   |   |   |
-|---|---|---|---|
-**Rare Spell Crafting**
 |**Spell Level**|**DC**|**Cost Per Week**|**Successful Study Weeks**|
+|---|---|---|---|
 |1st|15|100 gp|2|
 |2nd|16|150 gp|3|
 |3rd|17|200 gp|4|
@@ -192,7 +282,7 @@ In addition to crafting rare spells, it is possible to create entirely new spel
 |7th|21|1,500 gp|8|
 |8th|22|3,000 gp|9|
 |9th|23|5,000 gp|10|
-
+^rare-spell-crafting
 ---
 
 ### Train
@@ -207,17 +297,18 @@ The Train activity allows a character to learn a new weapon, language, or tool 
 
 **Feat.** To swap a feat gained through leveling to another feat, a character may spend a number of months equal to 8 – their proficiency bonus and pay 50 gold pieces each month to acquire practice materials and advice from experts in the feat they are learning.
 
-**Archetype.** A character can change to a different archetype for their class by spending 12 weeks mastering the new archetype, at which point they are able to select it. When they do, any class features gained from their previous archetype are lost and replaced by the class features of their new archetype. Changing from one class to another requires the use of powerful realityaltering magic (like the _[wish](https://a5e.tools/spell/wish "Click to view a local node.")_ spell or the direct intervention of a deity).
+**Archetype.** A character can change to a different archetype for their class by spending 12 weeks mastering the new archetype, at which point they are able to select it. When they do, any class features gained from their previous archetype are lost and replaced by the class features of their new archetype. Changing from one class to another requires the use of powerful realityaltering magic (like the _[wish](https://a5e.tools/spell/wish)_ spell or the direct intervention of a deity).
 
-|   |   |   |
-|---|---|---|
- 
+#### Training
+
 |**Activity**|**Time**|**Cost**|
+|---|---|---|
 |New language or tool proficiency|12 - Int modifier months|50/month|
 |New weapon proficiency|6 - Str or Dex modifier months|50/month|
 |Relearn class features|1 week (1st-5th)  <br>2 weeks (6th-10th)  <br>3 weeks (11th-15th)  <br>4 weeks (15th-20th)|No cost|
 |Swap feat|8 - proficiency bonus months|50/month|
 |Change archetype|12 weeks|No cost|
+^training
 
 ---
 
@@ -225,16 +316,16 @@ The Train activity allows a character to learn a new weapon, language, or tool 
 
 A character can use the Work activity to pay their cost of living expenses and earn some coin between adventures. Work is broken down into two categories. On a successful check after spending a week on this downtime activity, a character supports a lifestyle (poor, moderate, or rich), and earns gold as listed on Table: Work.
 
-**Legal Work.** Legal work allows a character to practice a trade or profession without fear of consequence. The character selects a tool proficiency or skill approved by the Narrator and makes an ability check, consulting Table: Work to determine the lifestyle their profits support and the extra gold earned. On a result of 5 or less, a character earns nothing, supports no lifestyle, and has [disadvantage](https://a5e.tools/node/137 "Click to view a local node.") on the next Work check that they make using the same skill or tool.
+**Legal Work.** Legal work allows a character to practice a trade or profession without fear of consequence. The character selects a tool proficiency or skill approved by the Narrator and makes an ability check, consulting Table: Work to determine the lifestyle their profits support and the extra gold earned. On a result of 5 or less, a character earns nothing, supports no lifestyle, and has [disadvantage](https://a5e.tools/node/137) on the next Work check that they make using the same skill or tool.
 
 **Illegal Work**. Illegal work allows a character to sustain themselves and make some coin by engaging in petty crime. First, a character selects the type of crime that they would like to engage in and selects an appropriate skill or ability check approved by the Narrator. They then select the difficulty of criminal activities as per Table: Work.
 
 On a failed check, a character receives no earnings and must cover the cost of their lifestyle themselves. If they fail by 5 or more, the character must lay low and cannot take a downtime activity for the following week, and on a failure by 10 or more they are caught and suffer consequences or complications determined by the Narrator.
 
-|   |   |   |   |
-|---|---|---|---|
-**Work**
+#### **Work**
+
 |**Difficulty**|**DC**|**Lifestyle**|**Earnings**|
+|---|:---:|---|---|
 |Easy|10|Poor|1d6 gp|
 |Average|15|Moderate|3d6 gp|
 |Hard|20|Rich|6d6 gp|
