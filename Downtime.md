@@ -80,7 +80,20 @@ See the core rulebook for tables **Engineering Items** and **Engineering Time**.
 
 The Gather Information activity is used to uncover secure or secret information about individuals, events, organizations, or other things that still exist within living memory. Gather Information is typically done by word-of-mouth on the street or in taverns.
 
-The character specifies a particular individual, event, organization, or place from which they wish to learn more declares a specific piece of information that they’re seeking to learn, making an Investigation check. The time, DC, and costs are included below. 
+The character specifies a particular individual, event, organization, or place from which they wish to learn more declares a specific piece of information that they’re seeking to learn, and how they plan to acquire it. The time, DC, and costs are included below. 
+
+
+> [!tip] Use of Skills
+> As the GM, let the player explain how they plan to extract the desired information, and what skill they plan to use. If a player, needs ideas or is unsure, offer them this advice:
+> 
+> **Skill Ideas**
+>  *A player can be very creative with their methods, but their choice of skill is slightly limited. They may not be able to use their Athletics for gathering information, to name one. For example, a player might…*
+> - use their **Investigation** to find and trace together clues from various sources
+> - use their **Streetwise** to cozy up to locals and get information through word of mouth
+> - use their **Performance** to pretend to be a fellow drunk at a bar to eavesdrop on loose-lipped townsfolk
+> - etc.
+
+After the downtime slot is spent, the player makes a roll adjudicated by the GM. On a success, a player gains +1 progress towards their goal, while a **[[Degrees of Success#^pf2e-degrees-of-success|Critical Success]]** 
 
 On a success, the character learns what they are looking for along with a point of Key Knowledge. Success by 5 or more grants an additional fact or useful piece of information and an additional point of Key Knowledge. Failure means that the character learns nothing, and on a failure by 5 or more they instead learn an incorrect piece of information that could lead them astray or cause some trouble.
 

@@ -463,9 +463,42 @@
               "icon": "lucide-file",
               "title": "Downtime"
             }
+          },
+          {
+            "id": "69a4fd4e29860f2e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homebrew Mechanics/Degrees of Success.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Degrees of Success"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "5e90b3ed8d44b9fb",
@@ -1167,12 +1200,14 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "a806784ad4447ca4",
+  "active": "69a4fd4e29860f2e",
   "lastOpenFiles": [
     "Downtime.md",
+    "Homebrew Mechanics/Degrees of Success.md",
     "Immediate Goals for Play.md",
     "Untitled.md",
     "5e.tools Website Navigation.md",
@@ -1187,7 +1222,6 @@
     "Homebrew Mechanics/Proficiency Ranks.md",
     "Homebrew In-Progress/damage-type-interactions.md",
     "Homebrew Mechanics/Desperate Actions.md",
-    "Homebrew Mechanics/Degrees of Success.md",
     "Combat Enhancement Rolltables.md",
     "Homebrew In-Progress/Homebrew Lists.md",
     "Homebrew In-Progress/Homebrew Errata Guide.md",
