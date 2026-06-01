@@ -93,7 +93,7 @@ The character specifies a particular individual, event, organization, or place 
 > - use their **Performance** to pretend to be a fellow drunk at a bar to eavesdrop on loose-lipped townsfolk
 > - etc.
 
-After the downtime slot is spent, the player makes a roll adjudicated by the GM. On a success, a player gains +1 progress towards their goal, while a **[[Degrees of Success#^pf2e-degrees-of-success|Critical Success]]** 
+After the downtime slot is spent, the player makes a roll adjudicated by the GM. On a success, a player gains +1 progress towards their goal, while a **[[Degrees of Success#^degrees-of-success|Critical Success]]** 
 
 On a success, the character learns what they are looking for along with a point of Key Knowledge. Success by 5 or more grants an additional fact or useful piece of information and an additional point of Key Knowledge. Failure means that the character learns nothing, and on a failure by 5 or more they instead learn an incorrect piece of information that could lead them astray or cause some trouble.
 

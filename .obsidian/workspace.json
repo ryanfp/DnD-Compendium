@@ -498,7 +498,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "5e90b3ed8d44b9fb",
@@ -1204,10 +1204,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "69a4fd4e29860f2e",
+  "active": "ec72046933e7ed4d",
   "lastOpenFiles": [
-    "Downtime.md",
     "Homebrew Mechanics/Degrees of Success.md",
+    "Downtime.md",
     "Immediate Goals for Play.md",
     "Untitled.md",
     "5e.tools Website Navigation.md",
