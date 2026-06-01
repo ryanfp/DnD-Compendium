@@ -72,7 +72,7 @@ See the core rulebook for tables **Engineering Items** and **Engineering Time**.
 |Tool or equipment|2 per week|
 ^crafting-items
 
-*Rare weapons may require longer crafting times determined by the Narrator.*
+*Rare weapons may require longer crafting times determined by the GM.*
 
 ---
 
@@ -97,13 +97,11 @@ After the downtime slot is spent, the player makes a roll adjudicated by the GM.
 
 A **Critical Failure** does not cause a player to *lose* progress, but they do not *gain* any. At the GM’s discretion, the player may learn an incorrect piece of information that could lead them astray or cause some trouble. 
 
-Once the conditions are met, the character learns what they are looking for along with a point of **Key Knowledge**. Success by 5 or more grants an additional fact or useful piece of information and an additional point of Key Knowledge. Failure means that the character learns nothing, and on a failure by 5 or more they instead learn an incorrect piece of information that could lead them astray or cause some trouble.
-
 **Key Knowledge.** Key Knowledge represents clues, secrets, or other insights into a particular location, individual, or event. Each point of Key Knowledge is specific to an individual, creature, or location. These points may be spent to gain advantage on an attack roll or ability check made in relation to the subject.
 
-At the Narrator’s discretion, these points can also be spent to introduce a small fact to the story. Perhaps a character learns of a friendly bartender while Gathering Information about the next town or discovers a potentially safe cavern while Researching the dungeon they plan to enter.
+At the GM’s discretion, these points can also be spent to introduce a small fact to the story. Perhaps a character learns of a friendly bartender while Gathering Information about the next town or discovers a potentially safe cavern while Researching the dungeon they plan to enter.
 
-**Limitations.** The Narrator may decide that there is simply no way that a piece of information can be gleaned by the Gather Information activity. In this case, the Narrator should inform the player before attempting the check.
+**Limitations.** The GM may decide that there is simply no way that a piece of information can be gleaned by the Gather Information activity. In this case, the GM should inform the player before attempting the check.
 
 #### **Gather Information**
 
@@ -219,7 +217,7 @@ If a character is tended to by someone with a healer’s satchel, they have [adv
 
 Religious Devotion allows a character to engage in acts of piety in an attempt to appease the gods and earn their favor. In order to engage in this downtime activity, a character must have access to a shrine, temple, or other sacred site and spend the required gold on sacred offerings to make a Nature or Religion check against a DC from Table: Religious Devotion. On a success, the character gains 1 point of favor, plus 1 additional point of favor for every 5 points their result exceeds the DC.
 
-**Favor.** A point of favor can be spent to represent a minor but helpful boon that aligns with a deity’s portfolio. A point of favor from a war god might allow a character to find a weapon after they’ve been disarmed, while a point of favor from a nature god might make it easier to find a safe place to camp. The specific details are left up to the Narrator, but in general, this should represent advantage on a roll, the discovery of a small but useful item, or a helpful chance encounter. For 2 favor points, the Narrator may allow a character to benefit from the effects of a 1st-level spell that aligns with a deity’s portfolio. Narrators are free to come up with other uses.
+**Favor.** A point of favor can be spent to represent a minor but helpful boon that aligns with a deity’s portfolio. A point of favor from a war god might allow a character to find a weapon after they’ve been disarmed, while a point of favor from a nature god might make it easier to find a safe place to camp. The specific details are left up to the GM, but in general, this should represent advantage on a roll, the discovery of a small but useful item, or a helpful chance encounter. For 2 favor points, the GM may allow a character to benefit from the effects of a 1st-level spell that aligns with a deity’s portfolio. GMs are free to come up with other uses.
 
 If a character acts against the interests or philosophy of a deity during an adventure, any points of favor are immediately lost.
 
@@ -234,7 +232,7 @@ If a character acts against the interests or philosophy of a deity during an ad
 |Strongly Opposed|30|500 gp|The character's personal ethos and actions run directly counter to the deity’s philosophy and teachings.|
 ^religious-devotion
 
-_*The Narrator may allow specific actions by the character to reduce or eliminate this cost._
+_*The GM may allow specific actions by the character to reduce or eliminate this cost._
 
 ---
 
@@ -246,7 +244,7 @@ In order to conduct the Research activity, a character must have access to a lib
 
 On a success, they learn what they are looking for along with a point of Key Knowledge (see Gather Information). Success by 5 or more grants an additional fact or useful piece of information and an additional point of Key Knowledge. Failure means that the character learns nothing, and on a failure by 5 or more they instead learn an incorrect piece of information that could lead them astray or cause some trouble.
 
-The cost of research is reflective of bribes, library fees, and other related expenses. At the Narrator’s discretion, a character may dispense with these if they already have access to a library that may contain the information.
+The cost of research is reflective of bribes, library fees, and other related expenses. At the GM’s discretion, a character may dispense with these if they already have access to a library that may contain the information.
 
 #### Research
 
@@ -262,7 +260,7 @@ The cost of research is reflective of bribes, library fees, and other related e
 
 ### Spellcraft
 
-This downtime activity allows spellcasters to create rare spells by refining their knowledge. Pick a common version of a spell that the character knows and choose one modification from the modifications table. Alternatively, with the Narrator’s permission a character may choose one rare spell from Chapter 11: Spellcasting provided it is of a level they can cast.
+This downtime activity allows spellcasters to create rare spells by refining their knowledge. Pick a common version of a spell that the character knows and choose one modification from the modifications table. Alternatively, with the GM’s permission a character may choose one rare spell from Chapter 11: Spellcasting provided it is of a level they can cast.
 
 The character makes an ability check using their spellcasting ability and Arcana (sorcerer, warlock, wizard), Nature (druid), Performance (bard), or Religion (cleric, herald). The DC of the check is based on the spell level as per Table: Rare Spell Crafting and is increased by the desired modification.
 
@@ -280,9 +278,9 @@ Each check requires 1 week and the amount of indicated materials. A character r
 
 In order to invent a rare spell, a character must have access to the appropriate type of library. Wizards and sorcerers require a collection of arcane tomes. Clerics and heralds must have access to books of esoteric lore and theological texts. Druids need a sacred place of nature untouched by civilization. Bards utilize folios of magical compositions. Warlocks require forbidden texts and works of the occult.
 
-Creating rare spells should be a collaboration with the Narrator. As always, the Narrator must approve any new rare spell. When in doubt, use preexisting rare spell effects for inspiration.
+Creating rare spells should be a collaboration with the GM. As always, the GM must approve any new rare spell. When in doubt, use preexisting rare spell effects for inspiration.
 
-In addition to crafting rare spells, it is possible to create entirely new spells. This process typically requires years of work and often represents the pinnacle of a spellcaster’s career. If a character wishes to create their own spell, it should require at least 2 months per spell level and 500 gold per spell level each week. DCs for such checks and the other specifics are determined by the Narrator, using the rules for crafting rare spells as a guideline.
+In addition to crafting rare spells, it is possible to create entirely new spells. This process typically requires years of work and often represents the pinnacle of a spellcaster’s career. If a character wishes to create their own spell, it should require at least 2 months per spell level and 500 gold per spell level each week. DCs for such checks and the other specifics are determined by the GM, using the rules for crafting rare spells as a guideline.
 
 #### **Rare Spell Crafting**
 
@@ -331,11 +329,11 @@ The Train activity allows a character to learn a new weapon, language, or tool 
 
 A character can use the Work activity to pay their cost of living expenses and earn some coin between adventures. Work is broken down into two categories. On a successful check after spending a week on this downtime activity, a character supports a lifestyle (poor, moderate, or rich), and earns gold as listed on Table: Work.
 
-**Legal Work.** Legal work allows a character to practice a trade or profession without fear of consequence. The character selects a tool proficiency or skill approved by the Narrator and makes an ability check, consulting Table: Work to determine the lifestyle their profits support and the extra gold earned. On a result of 5 or less, a character earns nothing, supports no lifestyle, and has [disadvantage](https://a5e.tools/node/137) on the next Work check that they make using the same skill or tool.
+**Legal Work.** Legal work allows a character to practice a trade or profession without fear of consequence. The character selects a tool proficiency or skill approved by the GM and makes an ability check, consulting Table: Work to determine the lifestyle their profits support and the extra gold earned. On a result of 5 or less, a character earns nothing, supports no lifestyle, and has [disadvantage](https://a5e.tools/node/137) on the next Work check that they make using the same skill or tool.
 
-**Illegal Work**. Illegal work allows a character to sustain themselves and make some coin by engaging in petty crime. First, a character selects the type of crime that they would like to engage in and selects an appropriate skill or ability check approved by the Narrator. They then select the difficulty of criminal activities as per Table: Work.
+**Illegal Work**. Illegal work allows a character to sustain themselves and make some coin by engaging in petty crime. First, a character selects the type of crime that they would like to engage in and selects an appropriate skill or ability check approved by the GM. They then select the difficulty of criminal activities as per Table: Work.
 
-On a failed check, a character receives no earnings and must cover the cost of their lifestyle themselves. If they fail by 5 or more, the character must lay low and cannot take a downtime activity for the following week, and on a failure by 10 or more they are caught and suffer consequences or complications determined by the Narrator.
+On a failed check, a character receives no earnings and must cover the cost of their lifestyle themselves. If they fail by 5 or more, the character must lay low and cannot take a downtime activity for the following week, and on a failure by 10 or more they are caught and suffer consequences or complications determined by the GM.
 
 #### **Work**
 
