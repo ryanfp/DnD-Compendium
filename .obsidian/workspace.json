@@ -6,7 +6,7 @@
       {
         "id": "0f4096b47ff804e0",
         "type": "tabs",
-        "dimension": 39.918740477399695,
+        "dimension": 40.97070397901181,
         "children": [
           {
             "id": "8a3cba7aa4f7df30",
@@ -503,7 +503,7 @@
       {
         "id": "5e90b3ed8d44b9fb",
         "type": "tabs",
-        "dimension": 46.2671406805485,
+        "dimension": 45.21206821163096,
         "children": [
           {
             "id": "e412e82fc9908b96",
@@ -548,7 +548,7 @@
                   "title": "alchemist",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"alchemist\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":18},\"to\":{\"line\":45,\"ch\":2}},\"scroll\":0}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":9},\"to\":{\"line\":20,\"ch\":34}},\"scroll\":38.63270833333333}"
                 },
                 {
                   "state": "{}",
@@ -583,7 +583,7 @@
       {
         "id": "9d2f7dc658316064",
         "type": "tabs",
-        "dimension": 13.814118842051803,
+        "dimension": 13.817227809357234,
         "children": [
           {
             "id": "a03986f142629718",
@@ -1191,7 +1191,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "a806784ad4447ca4",
+  "active": "ec72046933e7ed4d",
   "lastOpenFiles": [
     "Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist.md",
     "Downtime.md",

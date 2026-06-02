@@ -84,7 +84,7 @@ The character specifies a particular individual, event, organization, or place 
 
 
 > [!tip] Use of Skills
-> As the GM, let the player explain how they plan to extract the desired information, and what skill they plan to use. If a player, needs ideas or is unsure, offer them this advice:
+> As the GM, let the player explain how they plan to extract the desired information, and what skill they plan to use. If a player needs ideas or is unsure, offer them this advice:
 > 
 > **Skill Ideas**
 >  *A player can be very creative with their methods, but their choice of skill is slightly limited. They may not be able to use their Athletics for gathering information, to name one. For example, a player might…*
@@ -105,112 +105,101 @@ At the GM’s discretion, these points can also be spent to introduce a small f
 
 #### **Gather Information**
 
-|**Obscurity**|**DC**|**Goal**|**Cost (per slot)**|**Examples**|
-|---|:---:|---|---|---|
-|Uncommon|10|10 successes|10 gp|The bar where a local crime boss conducts business, where a local noble likes to drink|
-|Esoteric|15|15 successes|25 gp|The name of the best fence in a particular city, where to go to get illicit magic ingredients|
-|Hidden|20|20 successes|100 gp|The location of the duke’s secret prison, the name of a dragon’s agent in a city|
-|Secret|25|30 successes|500+ gp|The identity of the leader of a guild of assassins, what the king keeps in the secret room below his chambers|
+| **Obscurity** | **DC** | **Goal**     | **Cost (per slot)** | **Examples**                                                                                                  |
+| ------------- | :----: | ------------ | ------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Uncommon      |   10   | 10 successes | 10 gp               | The bar where a local crime boss conducts business, where a local noble likes to drink                        |
+| Esoteric      |   15   | 15 successes | 25 gp               | The name of the best fence in a particular city, where to go to get illicit magic ingredients                 |
+| Hidden        |   20   | 20 successes | 100 gp              | The location of the duke’s secret prison, the name of a dragon’s agent in a city                              |
+| Secret        |   25   | 30 successes | 500+ gp             | The identity of the leader of a guild of assassins, what the king keeps in the secret room below his chambers |
 ^gather-information
 
 ---
 
 ### Carousing (Partying)     
 
-*XGE pg. 126-128*
+**Summary.** Carousing is the act of partying. At the cost of a downtime slot and 10 to 250 gp to spare, you can carouse with the local townsfolk and as a “reward” gain favor with individuals. Be careful though, .
 
-**Summary.** Carousing is the act of partying. At the cost of a downtime slot and 10 to 250 gp to spare, you can carouse with the local townsfolk and as a “reward” gain favor with individuals. Be careful though, if you’re a mean drunk you may create some enemies instead of friends.
-
-**Resources.** Carousing covers a downtime slot of fine food, strong drink, and socializing. A character can attempt to carouse among lower-, middle-, or upper-class folk. A character can carouse with lower-class for 10 gp to cover expenses, or 50 gp for middle class. Carousing with the upper class requires 250 gp for the workweek and access to the local nobility.
+**Resources.** Carousing covers a downtime slot of fine food, strong drink, and socializing. A character can attempt to carouse among lower-, middle-, or upper-class folk. Carousing with the upper class requires more money and access to the local nobility.
 
 Not all characters can mingle with nobility. If you have the nobility background, or if your DM deems your character worthy enough to do so, you may spend your time carousing with the nobility of the city.
 
 Alternatively, a character can use a disguise kit and the Deception skill to pass as a noble in order to carouse with the local nobility.
 
-**Resolution.** After a workweek of carousing a character stands to make contacts within the selected social class. The character makes a Charisma (Persuasion) check to determine what type or how many contacts they made.
+**Resolution.** After carousing a character stands to make progress towards bonding within the selected social class. The character makes skill check to determine what type or how many contacts they made.
+
+> [!tip] Use of Skills
+> As the GM, let the player explain what they plan to experience or enjoy, and what skill they plan to use. If a player needs ideas or is unsure, offer them this advice:
+> 
+> **Skill Ideas**
+>  *A player can be very creative with their methods, but their choice of skill is slightly limited. For example, a player might…*
+> - use their **Persuasion** to convince local nobles their party could be a good investment
+> - use their **Sleight of Hand** to weight a gamble towards their desired allies
+> - use their **Performance** to serenade a local tavern with tales of their heroism
+> - etc.
+
+After the downtime slot is spent, the player makes a roll adjudicated by the GM. On a success, a player gains +1 progress towards their goal, while a **[Critical Success](app://obsidian.md/Degrees%20of%20Success#^degrees-of-success)** will grant **+2** progress towards their goal and a **Favor** from someone they bonded with. Once the player reaches the given threshold for their task, they gain the listed benefits and the activity is otherwise resolved.
+
+A **Critical Failure** does not cause a player to _lose_ progress, but they do not _gain_ any. At the GM’s discretion, the player may create some enemies instead of friends if they’re a mean drunk.
+
+**Favors.** Favors represents small gestures or otherwise benign IOUs that you gain from the local townsfolk, and they can scale in various ways depending on the difficulty and methods of your activities. At the GM’s discretion, these points can be spent to add small story beats or simple interactions to the story. It may include them owing you a round of drinks at a tavern, or a place to sleep for the night as thanks for helping them walk home, or maybe a large discount at their business after pulling them out of a tavern brawl. 
 
 #### **Carousing**
-|            |     |      | Cost  |        |       |                                                                        |
-| ---------- | --- | ---- | ----- | ------ | ----- | ---------------------------------------------------------------------- |
-| Difficulty | DC  | Goal | Lower | Middle | Upper | Example                                                                |
-| Easy       | 10  | 5    | 2gp   | 5gp    | 25gp  | Gain 1 ally/contact                                                    |
-| Medium     | 15  | 10   | 10gp  | 25gp   | 100gp | Gain 2-3 allies/contacts, or 1 close ally/contact                      |
-| Hard       | 20  | 20   | 25gp  | 100gp  | 250gp | Gain a plethora of contacts, 2-3 close allies/contacts, or 1 confidant |
-^carousing
 
-<table>
-    <thead>
-        <tr>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th colspan=3>Cost by Class</th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Difficulty</td>
-            <td>DC</td>
-            <td>Goal</td>
-            <td>Lower</td>
-            <td>Middle</td>
-            <td>Upper</td>
-            <td>Example</td>
-        </tr>
-        <tr>
-            <td>Easy</td>
-            <td>10</td>
-            <td>5</td>
-            <td>2gp</td>
-            <td>5gp</td>
-            <td>25gp</td>
-            <td>Gain 1 ally/contact</td>
-        </tr>
-        <tr>
-            <td>Medium</td>
-            <td>15</td>
-            <td>10</td>
-            <td>10gp</td>
-            <td>25gp</td>
-            <td>100gp</td>
-            <td>Gain 2-3 allies/contacts, or 1 close ally/contact</td>
-        </tr>
-        <tr>
-            <td>Hard</td>
-            <td>20</td>
-            <td>20</td>
-            <td>25gp</td>
-            <td>100gp</td>
-            <td>250gp</td>
-            <td>Gain a plethora of contacts, 2-3 close allies/contacts, or 1 confidant</td>
-        </tr>
-    </tbody>
+<table class="carousing"> 
+	<thead> 
+		<tr> 
+			<th style="border: none;"></th> 
+			<th style="border: none;"></th> 
+			<th style="border: none;"></th> 
+			<th colspan="3" style="text-align: center;">Cost by Class</th> 
+			<th style="border: none;"></th>
+		</tr> 
+		<tr> 
+			<th style="text-align: center;">Difficulty</th> 
+			<th style="text-align: center;">DC</th> 
+			<th style="text-align: center;">Goal</th> 
+			<th style="text-align: center;">Lower</th> 
+			<th style="text-align: center;">Middle</th> 
+			<th style="text-align: center;">Upper</th> 
+			<th style="text-align: center;">Example</th> 
+		</tr> 
+	</thead> 
+	<tbody> 
+		<tr> 
+			<td>Easy</td> 
+			<td style="text-align: center;">10</td> 
+			<td>5 successes</td> 
+			<td style="text-align: center;">2gp</td> 
+			<td style="text-align: center;">5gp</td> 
+			<td style="text-align: center;">25gp</td> 
+			<td>Gain 1 ally/contact</td> 
+		</tr> 
+		<tr> 
+			<td>Medium</td> 
+			<td style="text-align: center;">15</td> 
+			<td>10 successes</td> 
+			<td style="text-align: center;">10gp</td> 
+			<td style="text-align: center;">25gp</td> 
+			<td style="text-align: center;">100gp</td> 
+			<td>Gain 2-3 allies/contacts, or 1 close ally/contact</td> 
+		</tr> 
+		<tr> 
+			<td>Hard</td> 
+			<td style="text-align: center;">20</td> 
+			<td>20 successes</td> 
+			<td style="text-align: center;">25gp</td> 
+			<td style="text-align: center;">100gp</td> 
+			<td style="text-align: center;">250gp</td> 
+			<td>Gain a plethora of contacts, 2-3 close allies/contacts, or 1 confidant</td> 
+		</tr> 
+	</tbody> 
 </table>
-
-
-<table class="carousing">
-<thead>
-<tr><th colspan='6'></th></tr>
-<tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Formulae Known</th><th class="value">Discoveries Known</th><th class="value">Reagent Dice</th></tr>
-</thead><tbody>
-<tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Natural Philosopher (Level 1)' class='internal-link'>Natural Philosopher</a>, <a href='#Bombs (Level 1)' class='internal-link'>Bombs</a></td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td></tr>
-<tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Bomb Formulae (Level 2)' class='internal-link'>Bomb Formulae</a>, <a href='#Field of Study (Level 2)' class='internal-link'>Field of Study</a></td><td class="value">3</td><td class="value">⏤</td><td class="value">⏤</td></tr>
-<tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Reagent (Level 3)' class='internal-link'>Reagent</a></td><td class="value">3</td><td class="value">⏤</td><td class="value">3d10</td></tr>
-<tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Discoveries (Level 4)' class='internal-link'>Discoveries</a>, <a href='#Ability Score Improvement (Level 4)' class='internal-link'>Ability Score Improvement</a></td><td class="value">3</td><td class="value">2</td><td class="value">4d10</td></tr>
-<tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Flashbang (Level 5)' class='internal-link'>Flashbang</a></td><td class="value">4</td><td class="value">2</td><td class="value">5d10</td></tr>
-<tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Field of Study Feature (Level 6)' class='internal-link'>Field of Study Feature</a></td><td class="value">4</td><td class="value">3</td><td class="value">6d10</td></tr>
-</tbody></table>
 
 
 
 The contacts one makes from carousing can be allies but they can also be enemies. Hostile contacts will often try to create barriers for the character and spend their time making the character’s life harder. An allied contact will often grant the character aid if aid is asked for, but never at the risk of their own life.
 
-Lower-class contacts include criminals, laborers, mercenaries, the town guard, and any other folk who frequent cheap taverns.
 
-Middle-class contacts include guild members, spell-casters, town officials, and other folk who frequent well kept establishments.
-
-Upper-class contacts include nobles and their personal servants. Carousing with such folk usually occurs in formal banquets, state dinners, and the like.
 
 An allied contact can only grant aid once. They remain friendly after granting aid, but are not obligated to grant any more help.
 
