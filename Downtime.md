@@ -1,4 +1,4 @@
-# Downtime 
+# Downtime
 
 ## Between Adventures
 
@@ -115,7 +115,7 @@ At the GM’s discretion, these points can also be spent to introduce a small f
 
 ---
 
-### Carousing (Partying)     
+### Carousing (Partying)
 
 **Summary.** Carousing is the act of partying. At the cost of a downtime slot and 10 to 250 gp to spare, you can carouse with the local townsfolk and as a “reward” gain favor with individuals. Be careful though, .
 
@@ -124,24 +124,6 @@ At the GM’s discretion, these points can also be spent to introduce a small f
 Not all characters can mingle with nobility. If you have the nobility background, or if your DM deems your character worthy enough to do so, you may spend your time carousing with the nobility of the city.
 
 Alternatively, a character can use a disguise kit and the Deception skill to pass as a noble in order to carouse with the local nobility.
-
-**Resolution.** After carousing a character stands to make progress towards bonding within the selected social class. The character makes skill check to determine what type or how many contacts they made.
-
-> [!tip] Use of Skills
-> As the GM, let the player explain what they plan to experience or enjoy, and what skill they plan to use. If a player needs ideas or is unsure, offer them this advice:
-> 
-> **Skill Ideas**
->  *A player can be very creative with their methods, but their choice of skill is slightly limited. For example, a player might…*
-> - use their **Persuasion** to convince local nobles their party could be a good investment
-> - use their **Sleight of Hand** to weight a gamble towards their desired allies
-> - use their **Performance** to serenade a local tavern with tales of their heroism
-> - etc.
-
-After the downtime slot is spent, the player makes a roll adjudicated by the GM. On a success, a player gains +1 progress towards their goal, while a **[Critical Success](app://obsidian.md/Degrees%20of%20Success#^degrees-of-success)** will grant **+2** progress towards their goal and a **Favor** from someone they bonded with. Once the player reaches the given threshold for their task, they gain the listed benefits and the activity is otherwise resolved.
-
-A **Critical Failure** does not cause a player to _lose_ progress, but they do not _gain_ any. At the GM’s discretion, the player may create some enemies instead of friends if they’re a mean drunk.
-
-**Favors.** Favors represents small gestures or otherwise benign IOUs that you gain from the local townsfolk, and they can scale in various ways depending on the difficulty and methods of your activities. At the GM’s discretion, these points can be spent to add small story beats or simple interactions to the story. It may include them owing you a round of drinks at a tavern, or a place to sleep for the night as thanks for helping them walk home, or maybe a large discount at their business after pulling them out of a tavern brawl. 
 
 #### **Carousing**
 
@@ -195,17 +177,31 @@ A **Critical Failure** does not cause a player to _lose_ progress, but they 
 	</tbody> 
 </table>
 
+**Resolution.** After carousing a character stands to make progress towards bonding within the selected social class. The character makes skill check to determine what type or how many contacts they made.
 
+> [!tip] Use of Skills
+> As the GM, let the player explain what they plan to experience or enjoy, and what skill they plan to use. If a player needs ideas or is unsure, offer them this advice:
+> 
+> **Skill Ideas**
+>  *A player can be very creative with their methods, but their choice of skill is slightly limited. For example, a player might…*
+> - use their **Persuasion** to convince local nobles their party could be a good investment
+> - use their **Sleight of Hand** to weight a gamble towards their desired allies
+> - use their **Performance** to serenade a local tavern with tales of their heroism
+> - etc.
 
-The contacts one makes from carousing can be allies but they can also be enemies. Hostile contacts will often try to create barriers for the character and spend their time making the character’s life harder. An allied contact will often grant the character aid if aid is asked for, but never at the risk of their own life.
+After the downtime slot is spent, the player makes a roll adjudicated by the GM. On a success, a player gains +1 progress towards their goal, while a **[Critical Success](app://obsidian.md/Degrees%20of%20Success#^degrees-of-success)** will grant **+2** progress towards their goal and a **Favor** from someone they bonded with. Once the player reaches the given threshold for their task, they gain the listed benefits and the activity is otherwise resolved.
 
+A **Critical Failure** does not cause a player to _lose_ progress, but they do not _gain_ any. At the GM’s discretion, the player may create some enemies instead of friends if they’re a mean drunk.
 
+**Favors.** Favors represents small gestures or otherwise benign IOUs that you gain from the local townsfolk, and they can scale in various ways depending on the difficulty and methods of your activities. At the GM’s discretion, these points can be spent to add small story beats or simple interactions to the story. It may include them owing you a round of drinks at a tavern, or a place to sleep for the night as thanks for helping them walk home, or maybe a large discount at their business after pulling them out of a tavern brawl. 
 
-An allied contact can only grant aid once. They remain friendly after granting aid, but are not obligated to grant any more help.
+The contacts one makes from carousing can be allies but they can also be enemies. Hostile contacts will often try to create barriers for the character and spend their time making the character’s life harder. An allied contact will often grant the character aid if aid is asked for, but never at the risk of their own life. The type of contacts you make also depends on the *class* of those you interact with:
 
-A hostile contact will only hinder the character once. They remain unfriendly and could threaten becoming a recurring issue for the character if they are wronged again
+- **Lower-class** contacts include criminals, laborers, mercenaries, the town guard, and any other folk who frequent cheap taverns.
+- **Middle-class** contacts include guild members, spell-casters, town officials, and other folk who frequent well kept establishments.
+- **Upper-class** contacts include nobles and their personal servants. Carousing with such folk usually occurs in formal banquets, state dinners, and the like.
 
-The characters Charisma (Persuasion) check will determine who they make contact with based on a table the DM uses inside Xanathar’s Guide to Everything. Additionally, a player can work with the DM to specify an NPC they wish to gain contact with as a result from their carousing.
+An allied contact can only grant aid once. They remain friendly after granting aid, but are not obligated to grant any more help. A hostile contact will only hinder the character once. They remain unfriendly and could threaten becoming a recurring issue for the character if they are wronged again
 
 - - -
 
@@ -253,7 +249,7 @@ The character makes three checks: Wisdom (Insight), Charisma (Deception), and Ch
 
 - - -
 
-### Pit Fighting     
+### Pit Fighting
 *XGE pg. 131*
 
 **Summary.** Pit fighting includes boxing, wrestling, and other nonlethal forms of combat in an organized setting with predetermined matches. All it costs you is one workweek of downtime and absolutely no coin cost to enter.
@@ -359,9 +355,24 @@ In addition to crafting rare spells, it is possible to create entirely new spel
 |7th|21|1,500 gp|8|
 |8th|22|3,000 gp|9|
 |9th|23|5,000 gp|10|
-^rare-spell-crafting
----
+### Work
 
+A character can use the Work activity to pay their cost of living expenses and earn some coin between adventures. Work is broken down into two categories. On a successful check after spending a week on this downtime activity, a character supports a lifestyle (poor, moderate, or rich), and earns gold as listed on Table: Work.
+
+**Legal Work.** Legal work allows a character to practice a trade or profession without fear of consequence. The character selects a tool proficiency or skill approved by the GM and makes an ability check, consulting Table: Work to determine the lifestyle their profits support and the extra gold earned. On a result of 5 or less, a character earns nothing, supports no lifestyle, and has [disadvantage](https://a5e.tools/node/137) on the next Work check that they make using the same skill or tool.
+
+**Illegal Work**. Illegal work allows a character to sustain themselves and make some coin by engaging in petty crime. First, a character selects the type of crime that they would like to engage in and selects an appropriate skill or ability check approved by the GM. They then select the difficulty of criminal activities as per Table: Work.
+
+On a failed check, a character receives no earnings and must cover the cost of their lifestyle themselves. If they fail by 5 or more, the character must lay low and cannot take a downtime activity for the following week, and on a failure by 10 or more they are caught and suffer consequences or complications determined by the GM.
+
+#### **Work**
+
+|**Difficulty**|**DC**|**Lifestyle**|**Earnings**|
+|---|:---:|---|---|
+|Easy|10|Poor|1d6 gp|
+|Average|15|Moderate|3d6 gp|
+|Hard|20|Rich|6d6 gp|
+|Very Hard|25|Rich|10d6 gp|
 ### Train
 
 The Train activity allows a character to learn a new weapon, language, or tool proficiency, or it can be used to swap a class feature or feat that they learned previously.
@@ -389,21 +400,5 @@ The Train activity allows a character to learn a new weapon, language, or tool 
 
 ---
 
-### Work
+## ^rare-spell-crafting
 
-A character can use the Work activity to pay their cost of living expenses and earn some coin between adventures. Work is broken down into two categories. On a successful check after spending a week on this downtime activity, a character supports a lifestyle (poor, moderate, or rich), and earns gold as listed on Table: Work.
-
-**Legal Work.** Legal work allows a character to practice a trade or profession without fear of consequence. The character selects a tool proficiency or skill approved by the GM and makes an ability check, consulting Table: Work to determine the lifestyle their profits support and the extra gold earned. On a result of 5 or less, a character earns nothing, supports no lifestyle, and has [disadvantage](https://a5e.tools/node/137) on the next Work check that they make using the same skill or tool.
-
-**Illegal Work**. Illegal work allows a character to sustain themselves and make some coin by engaging in petty crime. First, a character selects the type of crime that they would like to engage in and selects an appropriate skill or ability check approved by the GM. They then select the difficulty of criminal activities as per Table: Work.
-
-On a failed check, a character receives no earnings and must cover the cost of their lifestyle themselves. If they fail by 5 or more, the character must lay low and cannot take a downtime activity for the following week, and on a failure by 10 or more they are caught and suffer consequences or complications determined by the GM.
-
-#### **Work**
-
-|**Difficulty**|**DC**|**Lifestyle**|**Earnings**|
-|---|:---:|---|---|
-|Easy|10|Poor|1d6 gp|
-|Average|15|Moderate|3d6 gp|
-|Hard|20|Rich|6d6 gp|
-|Very Hard|25|Rich|10d6 gp|
