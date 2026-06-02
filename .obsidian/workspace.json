@@ -542,8 +542,14 @@
             "id": "a806784ad4447ca4",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "alchemist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"alchemist\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":18},\"to\":{\"line\":45,\"ch\":2}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -1091,25 +1097,6 @@
               "icon": "lucide-info",
               "title": "File properties for Downtime"
             }
-          },
-          {
-            "id": "ba222da5cb536d32",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
           }
         ],
         "currentTab": 4
@@ -1165,7 +1152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -1203,13 +1191,14 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "ec72046933e7ed4d",
+  "active": "a806784ad4447ca4",
   "lastOpenFiles": [
-    "Homebrew Mechanics/Degrees of Success.md",
+    "Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist.md",
     "Downtime.md",
+    "5e.tools Website Navigation.md",
+    "Homebrew Mechanics/Degrees of Success.md",
     "Immediate Goals for Play.md",
     "Untitled.md",
-    "5e.tools Website Navigation.md",
     "Lex Pokemon Markets.md",
     "Homebrew Mechanics/3-Save System.md",
     "Regional Pokemon Variants.md",
@@ -1232,7 +1221,6 @@
     "Homebrew Mechanics/Conditions",
     "Homebrew Mechanics",
     "z_Inbox/Epilogue Story Map.md",
-    "🌎 - Worldbuilding & Lore/Story/campaign/tier-2.md",
     "map test.canvas",
     "Color Palette/Color Palettes.base",
     "z_Inbox",

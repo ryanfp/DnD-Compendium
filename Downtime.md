@@ -130,14 +130,79 @@ Alternatively, a character can use a disguise kit and the Deception skill to pas
 **Resolution.** After a workweek of carousing a character stands to make contacts within the selected social class. The character makes a Charisma (Persuasion) check to determine what type or how many contacts they made.
 
 #### **Carousing**
-
-| ****   | **DC** | **Goal**     | **Cost (per slot)** | **Examples**                                                                                                  |
-| ------ | :----: | ------------ | ------------------- | ------------------------------------------------------------------------------------------------------------- |
-| Lower  |   10   | 10 successes | 10 gp               | The bar where a local crime boss conducts business, where a local noble likes to drink                        |
-| Middle |   15   | 15 successes | 25 gp               | The name of the best fence in a particular city, where to go to get illicit magic ingredients                 |
-| Upper  |   20   | 20 successes | 100 gp              | The location of the duke’s secret prison, the name of a dragon’s agent in a city                              |
-
+|            |     |      | Cost  |        |       |                                                                        |
+| ---------- | --- | ---- | ----- | ------ | ----- | ---------------------------------------------------------------------- |
+| Difficulty | DC  | Goal | Lower | Middle | Upper | Example                                                                |
+| Easy       | 10  | 5    | 2gp   | 5gp    | 25gp  | Gain 1 ally/contact                                                    |
+| Medium     | 15  | 10   | 10gp  | 25gp   | 100gp | Gain 2-3 allies/contacts, or 1 close ally/contact                      |
+| Hard       | 20  | 20   | 25gp  | 100gp  | 250gp | Gain a plethora of contacts, 2-3 close allies/contacts, or 1 confidant |
 ^carousing
+
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th colspan=3>Cost by Class</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Difficulty</td>
+            <td>DC</td>
+            <td>Goal</td>
+            <td>Lower</td>
+            <td>Middle</td>
+            <td>Upper</td>
+            <td>Example</td>
+        </tr>
+        <tr>
+            <td>Easy</td>
+            <td>10</td>
+            <td>5</td>
+            <td>2gp</td>
+            <td>5gp</td>
+            <td>25gp</td>
+            <td>Gain 1 ally/contact</td>
+        </tr>
+        <tr>
+            <td>Medium</td>
+            <td>15</td>
+            <td>10</td>
+            <td>10gp</td>
+            <td>25gp</td>
+            <td>100gp</td>
+            <td>Gain 2-3 allies/contacts, or 1 close ally/contact</td>
+        </tr>
+        <tr>
+            <td>Hard</td>
+            <td>20</td>
+            <td>20</td>
+            <td>25gp</td>
+            <td>100gp</td>
+            <td>250gp</td>
+            <td>Gain a plethora of contacts, 2-3 close allies/contacts, or 1 confidant</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<table class="carousing">
+<thead>
+<tr><th colspan='6'></th></tr>
+<tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Formulae Known</th><th class="value">Discoveries Known</th><th class="value">Reagent Dice</th></tr>
+</thead><tbody>
+<tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Natural Philosopher (Level 1)' class='internal-link'>Natural Philosopher</a>, <a href='#Bombs (Level 1)' class='internal-link'>Bombs</a></td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td></tr>
+<tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Bomb Formulae (Level 2)' class='internal-link'>Bomb Formulae</a>, <a href='#Field of Study (Level 2)' class='internal-link'>Field of Study</a></td><td class="value">3</td><td class="value">⏤</td><td class="value">⏤</td></tr>
+<tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Reagent (Level 3)' class='internal-link'>Reagent</a></td><td class="value">3</td><td class="value">⏤</td><td class="value">3d10</td></tr>
+<tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Discoveries (Level 4)' class='internal-link'>Discoveries</a>, <a href='#Ability Score Improvement (Level 4)' class='internal-link'>Ability Score Improvement</a></td><td class="value">3</td><td class="value">2</td><td class="value">4d10</td></tr>
+<tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Flashbang (Level 5)' class='internal-link'>Flashbang</a></td><td class="value">4</td><td class="value">2</td><td class="value">5d10</td></tr>
+<tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Field of Study Feature (Level 6)' class='internal-link'>Field of Study Feature</a></td><td class="value">4</td><td class="value">3</td><td class="value">6d10</td></tr>
+</tbody></table>
+
+
 
 The contacts one makes from carousing can be allies but they can also be enemies. Hostile contacts will often try to create barriers for the character and spend their time making the character’s life harder. An allied contact will often grant the character aid if aid is asked for, but never at the risk of their own life.
 
