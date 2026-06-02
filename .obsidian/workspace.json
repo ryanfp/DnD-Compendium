@@ -6,7 +6,7 @@
       {
         "id": "0f4096b47ff804e0",
         "type": "tabs",
-        "dimension": 40.97070397901181,
+        "dimension": 40.9707039790118,
         "children": [
           {
             "id": "8a3cba7aa4f7df30",
@@ -447,7 +447,7 @@
               "type": "markdown",
               "state": {
                 "file": "Downtime.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -1097,6 +1097,16 @@
               "icon": "lucide-info",
               "title": "File properties for Downtime"
             }
+          },
+          {
+            "id": "a2301d59c81ea3d9",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
         ],
         "currentTab": 4
@@ -1185,9 +1195,7 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "task-board:Open task board": false
     }
   },
   "active": "ec72046933e7ed4d",
