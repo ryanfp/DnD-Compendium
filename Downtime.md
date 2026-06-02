@@ -105,12 +105,12 @@ At the GM’s discretion, these points can also be spent to introduce a small f
 
 #### **Gather Information**
 
-|**Obscurity**|**DC**|**Time**|**Cost**|**Examples**|
+|**Obscurity**|**DC**|**Goal**|**Cost (per slot)**|**Examples**|
 |---|:---:|---|---|---|
-|Uncommon|10|1 week|10 gp|The bar where a local crime boss conducts business, where a local noble likes to drink|
-|Esoteric|15|2 weeks|25 gp|The name of the best fence in a particular city, where to go to get illicit magic ingredients|
-|Hidden|20|3 weeks|100 gp|The location of the duke’s secret prison, the name of a dragon’s agent in a city|
-|Secret|25|5 weeks|500+ gp|The identity of the leader of a guild of assassins, what the king keeps in the secret room below his chambers|
+|Uncommon|10|10 successes|10 gp|The bar where a local crime boss conducts business, where a local noble likes to drink|
+|Esoteric|15|15 successes|25 gp|The name of the best fence in a particular city, where to go to get illicit magic ingredients|
+|Hidden|20|20 successes|100 gp|The location of the duke’s secret prison, the name of a dragon’s agent in a city|
+|Secret|25|30 successes|500+ gp|The identity of the leader of a guild of assassins, what the king keeps in the secret room below his chambers|
 ^gather-information
 
 ---
@@ -119,15 +119,25 @@ At the GM’s discretion, these points can also be spent to introduce a small f
 
 *XGE pg. 126-128*
 
-**Summary.** Carousing is the act of partying. At the cost of a workweek and 10 to 250 gp to spare, you can carouse with the local townsfolk and as a “reward” gain favor with individuals. Be careful though, if you’re a mean drunk you may create some enemies instead of friends.
+**Summary.** Carousing is the act of partying. At the cost of a downtime slot and 10 to 250 gp to spare, you can carouse with the local townsfolk and as a “reward” gain favor with individuals. Be careful though, if you’re a mean drunk you may create some enemies instead of friends.
 
-**Resources.** Carousing covers a workweek of fine food, strong drink, and socializing. A character can attempt to carouse among lower-, middle-, or upper-class folk. A character can carouse with lower-class for 10 gp to cover expenses, or 50 gp for middle class. Carousing with the upper class requires 250 gp for the workweek and access to the local nobility.
+**Resources.** Carousing covers a downtime slot of fine food, strong drink, and socializing. A character can attempt to carouse among lower-, middle-, or upper-class folk. A character can carouse with lower-class for 10 gp to cover expenses, or 50 gp for middle class. Carousing with the upper class requires 250 gp for the workweek and access to the local nobility.
 
 Not all characters can mingle with nobility. If you have the nobility background, or if your DM deems your character worthy enough to do so, you may spend your time carousing with the nobility of the city.
 
 Alternatively, a character can use a disguise kit and the Deception skill to pass as a noble in order to carouse with the local nobility.
 
 **Resolution.** After a workweek of carousing a character stands to make contacts within the selected social class. The character makes a Charisma (Persuasion) check to determine what type or how many contacts they made.
+
+#### **Carousing**
+
+| ****   | **DC** | **Goal**     | **Cost (per slot)** | **Examples**                                                                                                  |
+| ------ | :----: | ------------ | ------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Lower  |   10   | 10 successes | 10 gp               | The bar where a local crime boss conducts business, where a local noble likes to drink                        |
+| Middle |   15   | 15 successes | 25 gp               | The name of the best fence in a particular city, where to go to get illicit magic ingredients                 |
+| Upper  |   20   | 20 successes | 100 gp              | The location of the duke’s secret prison, the name of a dragon’s agent in a city                              |
+
+^carousing
 
 The contacts one makes from carousing can be allies but they can also be enemies. Hostile contacts will often try to create barriers for the character and spend their time making the character’s life harder. An allied contact will often grant the character aid if aid is asked for, but never at the risk of their own life.
 

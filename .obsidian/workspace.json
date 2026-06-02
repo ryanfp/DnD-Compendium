@@ -447,8 +447,8 @@
               "type": "markdown",
               "state": {
                 "file": "Downtime.md",
-                "mode": "preview",
-                "source": true,
+                "mode": "source",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
