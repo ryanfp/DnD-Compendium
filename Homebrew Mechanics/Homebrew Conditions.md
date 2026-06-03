@@ -242,6 +242,7 @@ While you are under the frostbite condition, you suffer the following affects:
 
 **Frostbite Damage.** You take (1d4 + the # of stacks of this condition) Cold damage when you attack with a weapon or attempt to cast a spell with somatic components. 
 **Reduced Actions.** You cannot take Bonus Actions. 
+**Reduced Speed.** Your movement speed is reduced by 5 ft * the # of stacks of this condition
 
 This condition has a max of 10 stacks, and you lose 1 stack per turn if doing nothing. Most sources inflict 2 stacks. You lose 2 stacks on your turn if you:
 

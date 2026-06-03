@@ -440,14 +440,20 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Downtime",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Downtime.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Downtime\"}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Downtime.md",
-                "mode": "preview",
+                "file": "Homebrew Mechanics/Homebrew Conditions.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -461,7 +467,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Downtime"
+              "title": "Homebrew Conditions"
             }
           },
           {
@@ -757,8 +763,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5,
-    "collapsed": true
+    "width": 232.5
   },
   "right": {
     "id": "fc1490c296b0c5ab",
@@ -882,10 +887,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Downtime.md"
+                "file": "Homebrew Mechanics/Homebrew Conditions.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Downtime"
+              "title": "File properties for Homebrew Conditions"
             }
           },
           {
@@ -1000,10 +1005,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "a806784ad4447ca4",
+  "active": "ec72046933e7ed4d",
   "lastOpenFiles": [
-    "Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist.md",
     "Downtime.md",
+    "Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist.md",
     "5e.tools Website Navigation.md",
     "Homebrew Mechanics/Degrees of Success.md",
     "Immediate Goals for Play.md",
