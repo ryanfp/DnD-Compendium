@@ -6,7 +6,7 @@
       {
         "id": "0f4096b47ff804e0",
         "type": "tabs",
-        "dimension": 41.785714285714285,
+        "dimension": 39.82742960944596,
         "children": [
           {
             "id": "8a3cba7aa4f7df30",
@@ -509,7 +509,7 @@
       {
         "id": "5e90b3ed8d44b9fb",
         "type": "tabs",
-        "dimension": 58.214285714285715,
+        "dimension": 60.172570390554036,
         "children": [
           {
             "id": "e412e82fc9908b96",
@@ -763,7 +763,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 232.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc1490c296b0c5ab",
@@ -966,8 +967,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -1000,12 +1000,10 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "task-board:Open task board": false
     }
   },
-  "active": "ec72046933e7ed4d",
+  "active": "a806784ad4447ca4",
   "lastOpenFiles": [
     "Homebrew Mechanics/Homebrew Conditions.md",
     "Downtime.md",

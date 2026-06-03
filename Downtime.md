@@ -105,12 +105,12 @@ At the GM’s discretion, these points can also be spent to introduce a small f
 
 #### **Gather Information**
 
-| **Obscurity** | **DC** | **Goal**     | **Cost (per slot)** | **Examples**                                                                                                  |
-| ------------- | :----: | ------------ | ------------------- | ------------------------------------------------------------------------------------------------------------- |
-| Uncommon      |   10   | 10 successes | 10 gp               | The bar where a local crime boss conducts business, where a local noble likes to drink                        |
-| Esoteric      |   15   | 15 successes | 25 gp               | The name of the best fence in a particular city, where to go to get illicit magic ingredients                 |
-| Hidden        |   20   | 20 successes | 100 gp              | The location of the duke’s secret prison, the name of a dragon’s agent in a city                              |
-| Secret        |   25   | 30 successes | 500+ gp             | The identity of the leader of a guild of assassins, what the king keeps in the secret room below his chambers |
+| **Obscurity** | **DC** | **Goal** | **Cost (per slot)** | **Examples** |
+| ------------- | :----: | -------- | ------------------- | ------------ |
+| Uncommon | 10 | 10 successes | 10 gp | The bar where a local crime boss conducts business, where a local noble likes to drink |
+| Esoteric | 15 | 15 successes | 25 gp | The name of the best fence in a particular city, where to go to get illicit magic ingredients |
+| Hidden | 20 | 20 successes | 100 gp | The location of the duke’s secret prison, the name of a dragon’s agent in a city |
+| Secret | 25 | 30 successes | 500+ gp | The identity of the leader of a guild of assassins, what the king keeps in the secret room below his chambers |
 ^gather-information
 
 ---
@@ -430,7 +430,7 @@ The Train activity allows a character to learn a new weapon, language, or tool 
 | Aristocratic  |   25   | 500+ gp             |          3          |
 ^indulging
  
-**Resolution.** After the slot, the character makes a check against the DC for how hard or how 
+**Resolution.** After the slot, the character experiences benefits for how hard or how lavishly they enjoyed themselves. If games of chance were involved, the player makes a check against the DC based on the **Lifestyle** column. 
  
 > [!tip] Use of Skills
 > As the GM, let the player describe how they're cutting loose, and what skill they lean on. If a player needs ideas or is unsure, offer them this advice:
