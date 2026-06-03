@@ -296,27 +296,41 @@ _*The GM may allow specific actions by the character to reduce or eliminate this
 
 ---
 
+
 ### Research
-
-Research is used to uncover obscure information about individuals, events, organizations, or other things that have faded beyond living memory but still exist in recorded history. Alternatively, Research can be used to find facts or information contained within bureaucratic records.
-
-In order to conduct the Research activity, a character must have access to a library or libraries that might conceivably contain the information that they are searching for — a noble villa’s private library might contain original ownership records, but is unlikely to contain information regarding alien interlopers from the last age. The character makes an Arcana or History check (determined by the topic of Research) against the DC listed on Table: Research, taking an appropriate amount of time and spending the indicated amount of gold.
-
-On a success, they learn what they are looking for along with a point of Key Knowledge (see Gather Information). Success by 5 or more grants an additional fact or useful piece of information and an additional point of Key Knowledge. Failure means that the character learns nothing, and on a failure by 5 or more they instead learn an incorrect piece of information that could lead them astray or cause some trouble.
-
-The cost of research is reflective of bribes, library fees, and other related expenses. At the GM’s discretion, a character may dispense with these if they already have access to a library that may contain the information.
-
-#### Research
-
-|**Obscurity**|**DC**|**Time**|**Cost**|**Examples**|
-|---|:---:|---|---|---|
-|Uncommon|10|1 week|10 gp|The original name of a particular village|
-|Esoteric|15|2 weeks|25 gp|The original owner of a piece of land or business, the location of an ancient tomb|
-|Hidden|20|3 weeks|100 gp|The true history of the founding of a dynasty, the real lineage of the local ruler|
-|Secret|25|5 weeks|500+ gp|The name of a fiend, the location of a city destroyed by the gods in the last age|
+ 
+**Summary.** Research is used to uncover obscure information about individuals, events, organizations, or other things that have faded beyond living memory but still exist in recorded history. Alternatively, Research can be used to find facts or information contained within bureaucratic records. It costs a slot and 10 to 500+ gp per slot in fees and bribes.
+ 
+**Resources.** In order to conduct the Research activity, a character must have access to a library or collection that could plausibly hold what they seek — a noble villa’s private library might contain original ownership records, but is unlikely to contain information regarding alien interlopers from the last age. The cost reflects library fees, scribes, and bribes. At the GM’s discretion, a character may dispense with these if they already have access to a library that may contain the information. 
+ 
+#### **Research**
+ 
+| **Obscurity** | **DC** | **Time** | **Cost** | **Examples**                                                                       |
+| ------------- | :----: | -------- | -------- | ---------------------------------------------------------------------------------- |
+| Uncommon      |   10   | 1 week   | 10 gp    | The original name of a particular village, or a creature                           |
+| Esoteric      |   15   | 2 weeks  | 25 gp    | The original owner of a piece of land or business, the location of an ancient tomb |
+| Hidden        |   20   | 3 weeks  | 100 gp   | The true history of the founding of a dynasty, the real lineage of the local ruler |
+| Secret        |   25   | 5 weeks  | 500+ gp  | The name of a fiend, the location of a city destroyed by the gods in the last age  |
 ^research
-
----
+ 
+**Resolution.** After the downtime slot is spent in study, the player makes a roll adjudicated by the GM.
+ 
+> [!tip] Use of Skills
+> As the GM, let the player explain what records they're combing and what skill fits the topic. If a player needs ideas or is unsure, offer them this advice:
+>
+> **Skill Ideas**
+>  *The topic usually decides the skill. For example, a player might…*
+> - use their **History** to trace events, lineages, and the rise and fall of world powers
+> - use their **Arcana** to parse magical theory, read ancient tomes, or consult with high-ranking mages
+> - use their **Culture** to untangle the customs, laws, and rivalries of a people
+> - use their **Nature** for bestiaries or resources on botany
+> - etc.
+ 
+On a success, the player gains +1 progress towards their goal, while a **Critical Success** grants **+2** progress and a point of **Key Knowledge** (see Gather Information). A failure does not cause the player to lose progress, they just instead gain no progress towards their goal. However, on a **Critical Failure**, the player may instead learn an incorrect piece of information that could lead them astray or cause some trouble. Once the player reaches the threshold for the determined obscurity, they uncover what they sought and the activity is resolved. 
+ 
+**Limitations.** As with Gather Information, the GM may rule that a fact simply cannot be found in any library the character can reach. In that case, the GM should say so before the player commits a slot.
+ 
+- - -
 
 ### Spellcraft
 
@@ -400,5 +414,33 @@ The Train activity allows a character to learn a new weapon, language, or tool 
 
 ---
 
-## ^rare-spell-crafting
+### Indulging
+ 
+**Summary.** Sometimes you just need to cut loose. Indulging is a slot spent drinking, gambling, feasting, and reveling for no other reason but to enjoy it and shed the weight of the life of an adventurer. It costs 5 to 100 gp, plus whatever you choose to wager (if gambling). 
+ 
+**Resources.** Indulging requires somewhere safe and comfortable to drop your guard, like a settlement, a friendly inn, or a festival. Unlike most activities, Indulging is resolved **each slot on its own**, like a single night out; it does not build toward a Goal. The character chooses how hard they party based upon the desired lifestyle, pays the cost, and may place a **wager** if there are games of chance to be found.
+ 
+#### **Indulging**
+ 
+| **Lifestyle** | **DC** | **Cost (per slot)** | **Strife Relieved** |
+| ------------- | :----: | ------------------- | :-----------------: |
+| Modest        |   10   | 5 gp                |          0          |
+| Comfortable   |   15   | 25 gp               |          1          |
+| Wealthy       |   20   | 100 gp              |          2          |
+| Aristocratic  |   25   | 500+ gp             |          3          |
+^indulging
+ 
+**Resolution.** After the slot, the character makes a check against the DC for how hard or how 
+ 
+> [!tip] Use of Skills
+> As the GM, let the player describe how they're cutting loose, and what skill they lean on. If a player needs ideas or is unsure, offer them this advice:
+>
+> **Skill Ideas**
+> - use their **Deception** to trick participants into betting against them–only to win the wager
+> - use their **Performance** to throw themselves into the revelry
+> - use their **Insight** to read the game table and the room
+> - a **gaming set** proficiency can stand in when the night centers on games of chance
+ 
+On a **success**, the character unwinds: reduce their **Strife** by the amount listed (minimum 0), and if they placed a wager, they win an amount equal to it. On a **Critical Success**, it's the best night in memory: the player gains Inspiration, and wins **double** any wager that was placed. Maybe something more valuable was put on the line…
 
+On a **failure**, the fun doesn't land. No Strife is relieved, and any wager is lost. On a **Critical Failure**, the character overdoes it. They relieve no Strife and instead gain 1 level from not respecting their limits  (a vicious hangover, a night in the gutter), lose any wager, and the GM may add a complication — a debt, a brawl, or waking somewhere they don't recognize.
