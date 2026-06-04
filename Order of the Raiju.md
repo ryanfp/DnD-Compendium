@@ -29,15 +29,15 @@ _*if a spell deals or mentions a damage type or element that is not lightning an
 **Static.** You channel electricity through your body, tracked as **Static**. Your maximum equals your **proficiency bonus**. You start combat with 0 static, and any Static you haven't spent fades 1 minute after combat ends. You gain Static the following way:
 
 - _**Channel the Current.**_ The first time on each of your turns that you **hit a creature with a Spellstrike**, or deal lightning or thunder damage to a creature, you gain **1 Static**.
+- _**Lightning Rod.**_ When you receive Lightning damage, you gain **+1 Static**. You also have **resistance to lightning damage**, and are immune to the **Shocked** condition. 
 
-You also gain the following features:
+You also gain the following feature:
 
-_**Lightning Rod.**_ You have **resistance to lightning damage**, and are immune to the **Shocked** condition. 
 **_Rolling Thunder._** Whenever you deal lightning or thunder damage on your turn, you can take the **Dash** or **Disengage** action as a Bonus Action.
 
 ### Thunderclap and Flash
 
-_3rd-level Order of the Raiju feature
+_3rd-level Order of the Raiju feature_
 
 You move as a bolt of lightning. When you have any Static charges, you can spend 1 to, as part of the attack action, expend up to **half your movement speed** (rounded down) to move blindingly fast and strike your opponent. On a hit, you deal an extra 1d8 Lightning damage to the target. You may spend static this way for as many times as you have attacks. 
 
@@ -46,55 +46,43 @@ You can teleport this way once before or after **each** melee attack you make, s
 > #### Fusing with Ethereal Step (6th level)
 > 
 > When you gain the **Ethereal Step** feature, it changes for you: you can use your Ethereal Step feature *before* you take any action, and you no longer have to spend your movement to activate the **Thunderclap and Flash** feature. Instead, you teleport a distance up to your maximum movement speed, and reappear at your choice of target. It appears as if you ttransformed into a bolt of lightning to move at breakneck speeds.
-> If you use the **Thunderclap and Flash** feature after 
+> 
+> **Rolling Thunder.** If you use the **Thunderclap and Flash** feature after using **Ethereal Step**, you also generate a sonic boom when you reappear. Enemies within 5 ft of your position must make a Dexterity saving throw against your **Spell Save DC**, taking 2d10 Thunder damage and becoming Rattled on a failure, or taking half as much damage and not becoming Rattled on a success. (Essentially a less powerful, free cast of *thunder step*)
 
+### Thunder Swarm
 
+_7th-level Order of the Raiju feature_
 
-_tempestuous blade_
-_thunder step_
+When you use an Order of the Raiju feature on your turn, you become a blur of afterimages: you gain the effects of the **mirror image** spell until the start of your next turn, requiring no concentration. You also gain the following features:
 
+- Once per turn, whenever a duplicate is destroyed by an attack that would otherwise have hit you, you gain **1 Static**.
+- When the duration would end, you can spend **1 Static** (per duplicate) to make your remaining duplicates persist until the start of your following turn. Using an Order of the Raiju feature again instead refreshes you back to three duplicates.
 
-- whenever** you take lightning damage you gain **2 Static** (after resistance). This can occur any number of times.
+### Conduit
+ 
+*7th-level Order of the Raiju feature*
+ 
+When a creature you can see within **15 feet** of you is about to take lightning damage, you can use your **reaction** to move up to **half your speed** toward it and take that lightning damage **in its place**.
 
+**_Improved Lightning Rod:_** Whenever you take Lightning damage, you gain **+2 Static**, up to your maximum.
 
-
-
-### Lightning Breathing: Third Form
-
-_7th-level Order of the Raiju feature — Thunder Swarm_
-
-When you use a Lightning Breathing Form on your turn, you become a blur of afterimages: you gain the effects of the **mirror image** spell (three duplicates), requiring no concentration. These duplicates last **until the end of your next turn**.
-
-- Whenever a duplicate is destroyed by an attack that would otherwise have hit you, you gain **1 Static**.
-- When the duration would end, you can spend **1 Static** to make your remaining duplicates persist until the end of your following turn (repeatable). Using a Form again instead refreshes you back to three duplicates.
-
-### Lightning Breathing: Sixth Form
-
-_7th-level Order of the Raiju feature — Rumble and Flash_
-
-When you take the Attack action, you can replace one melee weapon attack with **Rumble and Flash**. Expend one **Exploit Die** and **3 Static**: you gain the effects of casting **lightning bolt** at its base level — a 100-foot line, 5 feet wide, originating from you — without expending a spell slot, using your Magus spell save DC. Add the rolled Exploit Die to the lightning damage one creature of your choice takes.
-
-This is the template for the Order's martial-magic Forms: a maneuver you _perform_, that manifests a spell's effect through the strike. (At your option, you may channel _call lightning_ the same way once you learn it, expending an Exploit Die and Static equal to its level.)
-
-### Lightning Breathing: Sixfold Path
+### Sixfold Path
 
 _15th-level Order of the Raiju feature_
 
-Your strikes multiply like a thunderhead.
+Your strikes multiply like the branches of a lightning bolt. You gain the following features:
 
-- _**Sixfold.**_ When you use **First Form** (Thunderclap and Flash), you can spend **1 Static** to make one additional teleport + melee weapon attack as part of the same action. You can do this a number of times per turn up to **half your proficiency bonus (rounded down)**.
-- _**Quicksilver.**_ Your walking speed increases by **15 feet**, and the teleport distance of First Form and Ethereal Step increases by **15 feet**.
-- _**Storm-Eater.**_ When you would take lightning damage, you can use your reaction to take **none** of it and instead gain Static equal to the triggering spell's level (minimum 2), up to your maximum.
+_**Sixfold.**_ When you use **Thunderclap and Flash**, you can spend **1 Static** to make one additional teleport + melee weapon attack as part of the same action. You can do this a number of times per round up to your Static limit (max 6). Your additional teleports do not trigger the additional effects of the **Rolling Thunder** feature.
+_**Galvanize._** Whenever you spend Static on your turn, your movement speed increases by **5 feet for each Static spent**, until the start of your next turn.
 
-\page
 
-### Lightning Breathing: Seventh Form
+### Lightning Sovereign
 
-_20th-level Order of the Raiju feature — God of Fire Thunder_
+_20th-level Order of the Raiju feature_
 
-You are a living storm, and your lightning brooks no resistance.
+You gain the following features:
 
-_**Lightning Sovereign (passive).**_ Your lightning damage ignores **Resistance** to lightning, and treats **Immunity** to lightning as Resistance. Your own resistance to lightning becomes **immunity**.
+_**The Stormlord.**_ Your Lightning damage ignores **Resistances**, and treats **Immunities** as Resistances. Your own resistance to lightning becomes **immunity**.
 
 _**Honoikazuchi, the Thunder Dragon.**_ As part of the Attack action, you can spend **all of your Static (minimum 5)** to dash up to your speed in a straight line — manifesting a dragon of blue-and-gold lightning along your path. You can do this only once per long rest unless you spend all of your Static again to repeat it.
 
