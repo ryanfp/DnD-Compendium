@@ -648,9 +648,42 @@
               "icon": "lucide-file",
               "title": "Order of the Raiju"
             }
+          },
+          {
+            "id": "55cf490fef834217",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archmage Brainstorming.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Archmage Brainstorming"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -953,10 +986,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Order of the Raiju.md"
+                "file": "Archmage Brainstorming.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Order of the Raiju"
+              "title": "File properties for Archmage Brainstorming"
             }
           },
           {
@@ -1070,8 +1103,9 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "9fc0646ccfa309a3",
+  "active": "55cf490fef834217",
   "lastOpenFiles": [
+    "Archmage Brainstorming.md",
     "Order of the Raiju.md",
     "Downtime.md",
     "Homebrew Mechanics/Homebrew Conditions.md",
@@ -1097,7 +1131,6 @@
     "z_Inbox/Better Write-Up.md",
     "z_Inbox/5e Tools Website To-Do & Ideas.md",
     "Homebrew In-Progress/incapacitated.md",
-    "Homebrew Mechanics/Conditions/Downed.md",
     "Homebrew Mechanics/Conditions",
     "Homebrew Mechanics",
     "map test.canvas",
