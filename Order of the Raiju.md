@@ -4,40 +4,60 @@
 
 ## Order of the Raiju
 
-### Thunder Breathing
+### Raiju Spells
 
 *3rd-level Order of the Raiju feature*
 
-You learn additional spells at the Magus levels noted below. They count as Magus spells for you, don't count against your Spells Known, and can't be swapped on level-up.
-_tempestuous blade_
+You learn certain spells at the Magus levels noted in the table below. These spells do not count against your total number of Spells Known and cannot be switched upon gaining a level:
+
 ##### Raiju Spells
 
 |Magus Level|Spells|
 |:-:|:--|
 |3rd|*thunderwave*, _witch bolt_|
 |5th|_blur_, _shatter_|
-|7th|_thunder step_, *call lightning* |
-|9th|_lightning bolt_|
-|11th|_call lightning_|
+|7th|_ashardalon's stride*_, *lightning bolt* |
+|9th|_freedom of movement_, *storm sphere* |
+|11th|_jallarzi’s storm of radiance_, _steel wind strike*_|
 
-**Static.** You channel raw charge, tracked as **Static**. Your maximum equals your **proficiency bonus**. You lose all Static when you finish a long rest, and any Static you haven't spent fades 1 minute after combat ends. You gain Static two ways:
+_*if a spell deals or mentions a damage type or element that is not lightning and/or thunder, it is replaced by lightning. If a spell mentions a damage type and thunder, only the first damage type is replaced by lightning_
 
-- _**Channel the Current (floor).**_ The first time on each of your turns that you **hit a creature with a Spellstrike**, or deal lightning or thunder damage to a creature, you gain **1 Static**. _(Triggers on the Spellstrike hit, so lightning-immune enemies can't shut your engine off.)_
-- _**Lightning Rod (kicker).**_ You have **resistance to lightning damage**, and whenever you take lightning damage you gain **2 Static** (after resistance). This can occur any number of times.
+### Static Electricity
 
-**Rolling Thunder.** Whenever you deal lightning or thunder damage on your turn, you can take the **Dash** or **Disengage** action this turn without using an action.
+*3rd-level Order of the Raiju feature*
 
-### Lightning Breathing: First Form
+**Static.** You channel electricity through your body, tracked as **Static**. Your maximum equals your **proficiency bonus**. You start combat with 0 static, and any Static you haven't spent fades 1 minute after combat ends. You gain Static the following way:
 
-_3rd-level Order of the Raiju feature — Thunderclap and Flash_
+- _**Channel the Current.**_ The first time on each of your turns that you **hit a creature with a Spellstrike**, or deal lightning or thunder damage to a creature, you gain **1 Static**.
 
-You move as a bolt of lightning. When you make a melee weapon attack on your turn, you can immediately **teleport up to your speed to an unoccupied space you can see**, expending **half your speed** (round down) of movement. You can teleport this way once before or after **each** melee attack you make, so the number of these dashes grows as you gain attacks (one at 3rd level, two once you have Extra Attack at 5th, and so on). This teleport ignores difficult terrain and doesn't provoke opportunity attacks.
+You also gain the following features:
 
-> ##### Fusing with Ethereal Step (6th level)
+_**Lightning Rod.**_ You have **resistance to lightning damage**, and are immune to the **Shocked** condition. 
+**_Rolling Thunder._** Whenever you deal lightning or thunder damage on your turn, you can take the **Dash** or **Disengage** action as a Bonus Action.
+
+### Thunderclap and Flash
+
+_3rd-level Order of the Raiju feature
+
+You move as a bolt of lightning. When you have any Static charges, you can spend 1 to, as part of the attack action, expend up to **half your movement speed** (rounded down) to move blindingly fast and strike your opponent. On a hit, you deal an extra 1d8 Lightning damage to the target. You may spend static this way for as many times as you have attacks. 
+
+You can teleport this way once before or after **each** melee attack you make, so the number of these dashes grows as you gain attacks (one at 3rd level, two once you have Extra Attack at 5th, and so on). This teleport ignores difficult terrain and doesn't provoke opportunity attacks.
+
+> #### Fusing with Ethereal Step (6th level)
 > 
-> When you gain the **Ethereal Step / Ethereal Jaunt** feature, it changes for you: you can use it **even if you have not cast a spell or used Spellstrike**, its distance becomes equal to **your speed** (ignoring the slot-based formula), and each time you use it you gain **1 Static**. First Form is the bread-and-butter that sets up Spellstrike; Ethereal Step is the exit.
+> When you gain the **Ethereal Step** feature, it changes for you: you can use your Ethereal Step feature *before* you take any action, and you no longer have to spend your movement to activate the **Thunderclap and Flash** feature. Instead, you teleport a distance up to your maximum movement speed, and reappear at your choice of target. It appears as if you ttransformed into a bolt of lightning to move at breakneck speeds.
+> If you use the **Thunderclap and Flash** feature after 
 
-\column
+
+
+_tempestuous blade_
+_thunder step_
+
+
+- whenever** you take lightning damage you gain **2 Static** (after resistance). This can occur any number of times.
+
+
+
 
 ### Lightning Breathing: Third Form
 
