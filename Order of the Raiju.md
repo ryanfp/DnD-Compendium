@@ -2,27 +2,23 @@
 
 *An Esoteric Order for the LaserLlama **Magus** class inspired by Zenitsu from Demon Slayer, and many other instances of badass characters doing cool things with lightning and swords.*
 
-## Order of the Levinblade
-
-To the Levinblade, the sword and the storm are the same motion. They do not cast lightning so much as _become_ it — a smell of ozone, a crack of displaced air, an afterimage standing where the swordsman was a heartbeat ago. Their art is built on speed so total that a single drawn cut answers a thunderclap.
+## Order of the Raiju
 
 ### Thunder Breathing
 
-_3rd-level Order of the Levinblade feature_
+*3rd-level Order of the Raiju feature*
 
 You learn additional spells at the Magus levels noted below. They count as Magus spells for you, don't count against your Spells Known, and can't be swapped on level-up.
-
-##### Levinblade Spells
+_tempestuous blade_
+##### Raiju Spells
 
 |Magus Level|Spells|
 |:-:|:--|
-|3rd|_thunderwave_, _blur_|
-|5th|_dragon's breath_*, _gust of wind_|
-|7th|_shatter_|
+|3rd|*thunderwave*, _witch bolt_|
+|5th|_blur_, _shatter_|
+|7th|_thunder step_, *call lightning* |
 |9th|_lightning bolt_|
 |11th|_call lightning_|
-
-* _Dragon's breath_ always deals lightning damage for you.
 
 **Static.** You channel raw charge, tracked as **Static**. Your maximum equals your **proficiency bonus**. You lose all Static when you finish a long rest, and any Static you haven't spent fades 1 minute after combat ends. You gain Static two ways:
 
@@ -33,7 +29,7 @@ You learn additional spells at the Magus levels noted below. They count as Magus
 
 ### Lightning Breathing: First Form
 
-_3rd-level Order of the Levinblade feature — Thunderclap and Flash_
+_3rd-level Order of the Raiju feature — Thunderclap and Flash_
 
 You move as a bolt of lightning. When you make a melee weapon attack on your turn, you can immediately **teleport up to your speed to an unoccupied space you can see**, expending **half your speed** (round down) of movement. You can teleport this way once before or after **each** melee attack you make, so the number of these dashes grows as you gain attacks (one at 3rd level, two once you have Extra Attack at 5th, and so on). This teleport ignores difficult terrain and doesn't provoke opportunity attacks.
 
@@ -45,7 +41,7 @@ You move as a bolt of lightning. When you make a melee weapon attack on your tur
 
 ### Lightning Breathing: Third Form
 
-_7th-level Order of the Levinblade feature — Thunder Swarm_
+_7th-level Order of the Raiju feature — Thunder Swarm_
 
 When you use a Lightning Breathing Form on your turn, you become a blur of afterimages: you gain the effects of the **mirror image** spell (three duplicates), requiring no concentration. These duplicates last **until the end of your next turn**.
 
@@ -54,7 +50,7 @@ When you use a Lightning Breathing Form on your turn, you become a blur of after
 
 ### Lightning Breathing: Sixth Form
 
-_7th-level Order of the Levinblade feature — Rumble and Flash_
+_7th-level Order of the Raiju feature — Rumble and Flash_
 
 When you take the Attack action, you can replace one melee weapon attack with **Rumble and Flash**. Expend one **Exploit Die** and **3 Static**: you gain the effects of casting **lightning bolt** at its base level — a 100-foot line, 5 feet wide, originating from you — without expending a spell slot, using your Magus spell save DC. Add the rolled Exploit Die to the lightning damage one creature of your choice takes.
 
@@ -62,7 +58,7 @@ This is the template for the Order's martial-magic Forms: a maneuver you _perfor
 
 ### Lightning Breathing: Sixfold Path
 
-_15th-level Order of the Levinblade feature_
+_15th-level Order of the Raiju feature_
 
 Your strikes multiply like a thunderhead.
 
@@ -74,7 +70,7 @@ Your strikes multiply like a thunderhead.
 
 ### Lightning Breathing: Seventh Form
 
-_20th-level Order of the Levinblade feature — God of Fire Thunder_
+_20th-level Order of the Raiju feature — God of Fire Thunder_
 
 You are a living storm, and your lightning brooks no resistance.
 
@@ -104,7 +100,7 @@ This is why the subclass is never lightning-dependent: every charge mechanic has
 
 - **Martial Forms that manifest spell effects** → Sixth Form (and its general template); the leveled lightning spells are delivered as maneuvers via Static + Exploit Die rather than slots.
 - **First Form = real teleport, half movement, bread-and-butter, scales with attacks, fuses with Ethereal Step** → First Form + its 6th-level fusion clause + the 15th-level _Sixfold_.
-- **Active mirror image instead of passive blur; duplicate hit → Static; lasts to end of next turn unless maintained** → Third Form. _Blur_ is demoted to a 3rd-level Levinblade spell.
+- **Active mirror image instead of passive blur; duplicate hit → Static; lasts to end of next turn unless maintained** → Third Form. _Blur_ is demoted to a 3rd-level Raiju spell.
 - **Capstone degrades enemy lightning resistance/immunity** → _Lightning Sovereign_.
 - **Lightning-dragon finale** → _Honoikazuchi_.
 - **Resistance kept; no temp HP; speed scaling instead** → kicker stays resistance, _Quicksilver_ adds the speed growth.

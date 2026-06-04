@@ -6,7 +6,7 @@
       {
         "id": "0f4096b47ff804e0",
         "type": "tabs",
-        "dimension": 39.82742960944596,
+        "dimension": 39.3600812595226,
         "children": [
           {
             "id": "8a3cba7aa4f7df30",
@@ -502,14 +502,47 @@
               "icon": "lucide-file",
               "title": "Degrees of Success"
             }
+          },
+          {
+            "id": "45b930b173be5015",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Order of the Raiju.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Order of the Raiju"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       },
       {
         "id": "5e90b3ed8d44b9fb",
         "type": "tabs",
-        "dimension": 60.172570390554036,
+        "dimension": 60.63991874047739,
         "children": [
           {
             "id": "e412e82fc9908b96",
@@ -584,7 +617,7 @@
             }
           },
           {
-            "id": "45b930b173be5015",
+            "id": "9fc0646ccfa309a3",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -600,7 +633,7 @@
               "state": {
                 "file": "Order of the Raiju.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -1037,7 +1070,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "45b930b173be5015",
+  "active": "9fc0646ccfa309a3",
   "lastOpenFiles": [
     "Order of the Raiju.md",
     "Downtime.md",
