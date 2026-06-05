@@ -342,7 +342,9 @@ If a character is tended to by someone with a healer’s satchel or medicine kit
 
 _*The GM may allow specific actions by the character to reduce or eliminate this cost._
 
-**Resolution.** After the downtime slot is spent in study, the player makes a roll adjudicated by the GM. On a success, the character gains 1 point of favor. On a **Critical Success**, the character gains plus 1 additional point of favor for every 5 points their result exceeds the DC.
+**Resolution.** After the downtime slot is spent in study, the player makes a roll adjudicated by the GM. On a success, the character gains 1 point of favor. On a **Critical Success**, the character gains  **+1** additional points of favor.
+
+A failure does not cause the player to lose progress, they just instead gain no progress towards their goal. However, on a **Critical Failure**, a player may instead incur the wrath or disdain of their deity, or their congregation. 
  
 > [!tip] Use of Skills
 > As the GM, let the player explain what records they're combing and what skill fits the topic. If a player needs ideas or is unsure, offer them this advice:

@@ -944,6 +944,16 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "9d0eeb2439f108fb",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
         ],
         "currentTab": 5
@@ -1033,8 +1043,7 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "a806784ad4447ca4",
