@@ -234,6 +234,60 @@ If all three checks are successful, the character earns the full value of the lo
 |Very High|1,000 gp, robbery of one of the richest figures in town|
 ^crime
 
+### Crime
+ 
+**Summary.** Sometimes it pays to be bad. Crime lets a character plan and pull off a score for profit, at the risk of getting caught. It costs a setup of 50 to 500 gp and as many downtime slots as the job demands.
+ 
+**Resources.** Before committing to a job, a character must spend money for setup. This could be resources for casing the target–surveillance and information– or a “deposit” on a fence, vehicles, tools, or bribes. This setup cost is spent whether the score succeeds or fails. The character picks a mark according to the profit they seek; the DC and the number of successful slots scale with how valuable the score is and how well-guarded it is.
+ 
+#### **Crime**
+ 
+| **Difficulty** | **DC** | **Goal**  | **Setup** | **The Score** |
+| -------------- | :----: | ------------ | --------- | ------------- |
+| Low | 10 | 5 successes | 50 gp | 250 gp — a struggling merchant, a back-room strongbox |
+| Medium | 15 | 10 successes | 100 gp  | 500 gp — a thriving merchant, a guild safe |
+| High | 20 | 20 successes | 250 gp | ~1,250 gp — a noble's manor, a counting-house |
+| Very High | 25 | 30 successes | 500 gp | ~2,500 gp — one of the richest figures in town, a vault |
+^crime
+ 
+**Resolution.** The character chooses a target and an approach, then commits the job over one or more slots. Over the course of their job, the player **must** use the following skills or proficiencies *at least* (roughly) half of the time, with each skill or tool being used at least 10% of the time. 
+
+#### Required Proficiencies
+
+- Investigation
+- Deception
+- Persuasion
+- thieves’ tools
+
+| Difficulty | DC  | Goal         | Skill Threshold | Req. Uses per Skill |
+| ---------- | --- | ------------ | --------------- | ------------------- |
+| Low        | 10  | 5 successes  | 2+ uses         | 1                   |
+| Medium     | 15  | 10 successes | 5+ uses         | 1                   |
+| High       | 20  | 20 successes | 10+ uses        | 2                   |
+| Very Hard  | 25  | 30 successes | 15+ uses        | 3                   |
+^required-proficiencies
+
+For an explanation, see the table below:
+ 
+> [!tip] Use of Skills
+> As the GM, let the player explain how they intend to pull off the score, and what skill they plan to use. If a player needs ideas or is unsure, offer them this advice:
+>
+> **Skill Ideas**
+>  *A player can be creative with their approach. For example, a player might…*
+> - use their **Stealth** to slip in and out unseen
+> - use their **thieves' tools** to defeat locks, traps, and alarms
+> - use their **Deception** to talk past a guard or run a con on the mark
+> - use their **Investigation** or **Perception** to case the target first
+> - etc.
+ 
+After the downtime slot is spent, the player makes a roll adjudicated by the GM. On a success, the player gains +1 progress towards their goal, while a **Critical Success** grants **+2** progress and a point of **Key Knowledge** about the mark or the local underworld. Once the player reaches the threshold for their chosen target, the score comes off and they gain the loot — which need not be coin: a stolen ledger, a blackmail letter, a forged seal, a key, or a minor magic item can be the prize. A **Critical Failure** does not cause the player to lose progress, but at the GM's discretion the job draws heat — a witness, a suspicious guard, or a rival crew that now knows their face.
+ 
+> [!warning] Getting Caught (optional)
+> If a character racks up **3 Critical Failures** before reaching their Goal, the job is blown — they are caught and jailed. They pay a fine equal to the score's value and spend one week behind bars per 25 gp of that fine. This three-strikes count is the only thing Crime asks you to track beyond your successes; drop it entirely if you'd rather handle arrest as pure GM fiat.
+ 
+---
+
+
 - - -
 
 ### Gambling
@@ -305,12 +359,12 @@ _*The GM may allow specific actions by the character to reduce or eliminate this
  
 #### **Research**
  
-| **Obscurity** | **DC** | **Time** | **Cost** | **Examples**                                                                       |
+| **Obscurity** | **DC** | **Time** | **Cost** | **Examples**  |
 | ------------- | :----: | -------- | -------- | ---------------------------------------------------------------------------------- |
-| Uncommon      |   10   | 1 week   | 10 gp    | The original name of a particular village, or a creature                           |
-| Esoteric      |   15   | 2 weeks  | 25 gp    | The original owner of a piece of land or business, the location of an ancient tomb |
-| Hidden        |   20   | 3 weeks  | 100 gp   | The true history of the founding of a dynasty, the real lineage of the local ruler |
-| Secret        |   25   | 5 weeks  | 500+ gp  | The name of a fiend, the location of a city destroyed by the gods in the last age  |
+| Uncommon   |   10   | 1 week   | 10 gp | The original name of a particular village, or a creature  |
+| Esoteric   |   15   | 2 weeks  | 25 gp | The original owner of a piece of land or business, the location of an ancient tomb |
+| Hidden |   20   | 3 weeks  | 100 gp   | The true history of the founding of a dynasty, the real lineage of the local ruler |
+| Secret |   25   | 5 weeks  | 500+ gp  | The name of a fiend, the location of a city destroyed by the gods in the last age  |
 ^research
  
 **Resolution.** After the downtime slot is spent in study, the player makes a roll adjudicated by the GM.
@@ -399,11 +453,11 @@ The Train activity allows a character to learn a new weapon, language, or tool 
 
 #### Training
 
-| **Activity**                     | **Time**                       | **Cost** |
+| **Activity**   | **Time** | **Cost** |
 | -------------------------------- | ------------------------------ | -------- |
-| New language or tool proficiency | 12 - Int modifier months       | 50/month |
-| New weapon proficiency           | 6 - Str or Dex modifier months | 50/month |
-| Swap feat                        | 8 - proficiency bonus months   | 50/month |
+| New language or tool proficiency | 12 - Int modifier months | 50/month |
+| New weapon proficiency | 6 - Str or Dex modifier months | 50/month |
+| Swap feat  | 8 - proficiency bonus months   | 50/month |
 
 ^training
 
@@ -419,10 +473,10 @@ The Train activity allows a character to learn a new weapon, language, or tool 
  
 | **Lifestyle** | **DC** | **Cost (per slot)** | **Strife Relieved** |
 | ------------- | :----: | ------------------- | :-----------------: |
-| Modest        |   10   | 5 gp                |          0          |
-| Comfortable   |   15   | 25 gp               |          1          |
-| Wealthy       |   20   | 100 gp              |          2          |
-| Aristocratic  |   25   | 500+ gp             |          3          |
+| Modest |   10   | 5 gp  |          0   |
+| Comfortable   |   15   | 25 gp |          1   |
+| Wealthy |   20   | 100 gp   |          2   |
+| Aristocratic  |   25   | 500+ gp  |          3   |
 ^indulging
  
 **Resolution.** After the slot, the character experiences benefits for how hard or how lavishly they enjoyed themselves. If games of chance were involved, the player makes a check against the DC based on the **Lifestyle** column. 

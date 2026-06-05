@@ -4,13 +4,13 @@ List of Activities:
 
 - [ ] Craft
   - using *Heliana’s* System
-- [ ] Gather Information
-- [ ] Research
-- [ ] Carousing (Networking)
+- [x] Gather Information
+- [x] Research
+- [x] Carousing (Networking)
 - [ ] Indulging (Partying)
-	- [ ] Gambling
+- [ ] Gambling
 - [ ] Crime
-- [ ] Seek Glory
+- [ ] Glory Seeking
 - [ ] Religious Devotion
 - [ ] Spellcraft
 - [ ] Word
@@ -20,3 +20,5 @@ List of Activities:
 	- [ ] Language
 	- [ ] Tool
 	- [ ] Feat
+- [ ] Sparring
+	- (Train Exploits)

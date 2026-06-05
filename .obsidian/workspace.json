@@ -887,10 +887,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "small checklist-delete.md"
+                "file": "Downtime.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for small checklist-delete"
+              "title": "File properties for Downtime"
             }
           },
           {
@@ -970,7 +970,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "small checklist-delete.md"
+                "file": "Downtime.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -1018,10 +1018,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "be2893377ad60d60",
+  "active": "ec72046933e7ed4d",
   "lastOpenFiles": [
-    "Downtime.md",
     "small checklist-delete.md",
+    "Downtime.md",
     "z_img/image-149.png",
     "Homebrew Mechanics/Degrees of Success.md",
     "Order of the Raiju.md",
