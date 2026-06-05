@@ -206,48 +206,19 @@ An allied contact can only grant aid once. They remain friendly after granting a
 - - -
 
 ### Crime
-*XGE pg. 130*
-
-**Summary.** Sometimes it pays to be bad. This activity gives characters a chance to make coin at the risk of getting arrested. It will cost you between 25 gp and 1000 gp as well as a full week to participate in this activity.
-
-**Resources.** A character must spend one week and at least 25 gp gathering information on potential targets before committing the intended crime.
-
-**Resolution.** The character must make a series of checks, with the DC for all the checks chosen by the character according to the amount of profit sought from the crime.
-
-To attempt a crime, the character must make three checks: Dexterity (Stealth), Dexterity using thieves’ tools, and the player’s choice of Intelligence (Investigation), Wisdom (Perception), or Charisma (Deception).
-
-If none of the above checks are successful, the character is caught and jailed. The character must pay a fine equal to the profit the crime would have earned and must spend one week in jail for each 25 gp of the fine.
-
-If only one check is successful, the heist fails but the character escapes.
-
-If two checks are successful, the heist is a partial success, netting the character half payout.
-
-If all three checks are successful, the character earns the full value of the loot.
-
-#### **Crime**
-
-|Difficulty|Value|
-|---|---|
-|Low|50 gp, robbery of a struggling merchant|
-|Medium|100 gp, robbery of a thriving merchant|
-|High|200 gp, robbery of a noble|
-|Very High|1,000 gp, robbery of one of the richest figures in town|
-^crime
-
-### Crime
  
 **Summary.** Sometimes it pays to be bad. Crime lets a character plan and pull off a score for profit, at the risk of getting caught. It costs a setup of 50 to 500 gp and as many downtime slots as the job demands.
  
-**Resources.** Before committing to a job, a character must spend money for setup. This could be resources for casing the target–surveillance and information– or a “deposit” on a fence, vehicles, tools, or bribes. This setup cost is spent whether the score succeeds or fails. The character picks a mark according to the profit they seek; the DC and the number of successful slots scale with how valuable the score is and how well-guarded it is.
+**Resources.** Before committing to a job, a character must spend money for setup. This could be resources for casing the target—surveillance and information—or a “deposit” on a fence, vehicles, tools, or bribes. This setup cost is spent whether the score succeeds or fails. The character picks a mark according to the profit they seek; the DC and the number of successful slots scale with how valuable the score is and how well-guarded it is.
  
 #### **Crime**
  
 | **Difficulty** | **DC** | **Goal**     | Suspicion Limit | **Setup** | **The Score**                                           |
 | -------------- | :----: | ------------ | --------------- | --------- | ------------------------------------------------------- |
-| Low            |   10   | 5 successes  | 10              | 50 gp     | 250 gp — a struggling merchant, a back-room strongbox   |
-| Medium         |   15   | 10 successes | 8               | 100 gp    | 500 gp — a thriving merchant, a guild safe              |
-| High           |   20   | 20 successes | 6               | 250 gp    | ~1,250 gp — a noble's manor, a counting-house           |
-| Very High      |   25   | 30 successes | 4               | 500 gp    | ~2,500 gp — one of the richest figures in town, a vault |
+| Low  | 10 | 5 successes  | 10 | 50 gp  | 250 gp — a struggling merchant, a back-room strongbox   |
+| Medium | 15 | 10 successes | 8 | 100 gp | 500 gp — a thriving merchant, a guild safe              |
+| High | 20 | 20 successes | 6 | 250 gp | ~1,250 gp — a noble's manor, a counting-house      |
+| Very High | 25 | 30 successes | 4 | 500 gp | ~2,500 gp — one of the richest figures in town, a vault |
 ^crime
  
 **Resolution.** The character chooses a target and an approach, then commits the job over one or more slots. Over the course of their job, the player **must** use the following skills or proficiencies *at least* (roughly) half of the time, with each skill or tool being used at least 10% of the time. 

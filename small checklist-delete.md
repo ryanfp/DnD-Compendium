@@ -9,7 +9,7 @@ List of Activities:
 - [x] Carousing (Networking)
 - [ ] Indulging (Partying)
 - [ ] Gambling
-- [ ] Crime
+- [x] Crime
 - [ ] Glory Seeking
 - [ ] Religious Devotion
 - [ ] Spellcraft
