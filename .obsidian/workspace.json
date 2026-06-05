@@ -925,9 +925,28 @@
               "icon": "lucide-file",
               "title": "small checklist-delete"
             }
+          },
+          {
+            "id": "b022e0fa02d94fd8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "21f9e4c778ac3689",
@@ -1020,8 +1039,9 @@
   },
   "active": "ec72046933e7ed4d",
   "lastOpenFiles": [
-    "small checklist-delete.md",
+    "Immediate Goals for Play.md",
     "Downtime.md",
+    "small checklist-delete.md",
     "z_img/image-149.png",
     "Homebrew Mechanics/Degrees of Success.md",
     "Order of the Raiju.md",
@@ -1029,7 +1049,6 @@
     "Homebrew Mechanics/Homebrew Conditions.md",
     "Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist.md",
     "5e.tools Website Navigation.md",
-    "Immediate Goals for Play.md",
     "Untitled.md",
     "Lex Pokemon Markets.md",
     "Homebrew Mechanics/3-Save System.md",

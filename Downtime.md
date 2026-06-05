@@ -242,12 +242,12 @@ If all three checks are successful, the character earns the full value of the lo
  
 #### **Crime**
  
-| **Difficulty** | **DC** | **Goal**  | **Setup** | **The Score** |
-| -------------- | :----: | ------------ | --------- | ------------- |
-| Low | 10 | 5 successes | 50 gp | 250 gp — a struggling merchant, a back-room strongbox |
-| Medium | 15 | 10 successes | 100 gp  | 500 gp — a thriving merchant, a guild safe |
-| High | 20 | 20 successes | 250 gp | ~1,250 gp — a noble's manor, a counting-house |
-| Very High | 25 | 30 successes | 500 gp | ~2,500 gp — one of the richest figures in town, a vault |
+| **Difficulty** | **DC** | **Goal**     | Suspicion Limit | **Setup** | **The Score**                                           |
+| -------------- | :----: | ------------ | --------------- | --------- | ------------------------------------------------------- |
+| Low            |   10   | 5 successes  | 10              | 50 gp     | 250 gp — a struggling merchant, a back-room strongbox   |
+| Medium         |   15   | 10 successes | 8               | 100 gp    | 500 gp — a thriving merchant, a guild safe              |
+| High           |   20   | 20 successes | 6               | 250 gp    | ~1,250 gp — a noble's manor, a counting-house           |
+| Very High      |   25   | 30 successes | 4               | 500 gp    | ~2,500 gp — one of the richest figures in town, a vault |
 ^crime
  
 **Resolution.** The character chooses a target and an approach, then commits the job over one or more slots. Over the course of their job, the player **must** use the following skills or proficiencies *at least* (roughly) half of the time, with each skill or tool being used at least 10% of the time. 
@@ -259,6 +259,8 @@ If all three checks are successful, the character earns the full value of the lo
 - Persuasion
 - thieves’ tools
 
+For an explanation, see the table below:
+
 | Difficulty | DC  | Goal         | Skill Threshold | Req. Uses per Skill |
 | ---------- | --- | ------------ | --------------- | ------------------- |
 | Low        | 10  | 5 successes  | 2+ uses         | 1                   |
@@ -266,8 +268,6 @@ If all three checks are successful, the character earns the full value of the lo
 | High       | 20  | 20 successes | 10+ uses        | 2                   |
 | Very Hard  | 25  | 30 successes | 15+ uses        | 3                   |
 ^required-proficiencies
-
-For an explanation, see the table below:
  
 > [!tip] Use of Skills
 > As the GM, let the player explain how they intend to pull off the score, and what skill they plan to use. If a player needs ideas or is unsure, offer them this advice:
@@ -280,10 +280,12 @@ For an explanation, see the table below:
 > - use their **Investigation** or **Perception** to case the target first
 > - etc.
  
-After the downtime slot is spent, the player makes a roll adjudicated by the GM. On a success, the player gains +1 progress towards their goal, while a **Critical Success** grants **+2** progress and a point of **Key Knowledge** about the mark or the local underworld. Once the player reaches the threshold for their chosen target, the score comes off and they gain the loot — which need not be coin: a stolen ledger, a blackmail letter, a forged seal, a key, or a minor magic item can be the prize. A **Critical Failure** does not cause the player to lose progress, but at the GM's discretion the job draws heat — a witness, a suspicious guard, or a rival crew that now knows their face.
+After the downtime slot is spent, the player makes a roll adjudicated by the GM. On a success, the player gains +1 progress towards their goal, while a **Critical Success** grants **+2** progress and makes the **Suspicion Level** go down by **1**. Once the player reaches the threshold for their chosen target, the score comes off and they gain the loot — which need not be coin: a stolen ledger, a blackmail letter, a forged seal, a key, or a minor magic item can be the prize. 
+
+A **Critical Failure** does not cause the player to lose progress, but the **Suspicion Level** goes up by 1. As the Suspicion Level goes up, the job draws heat. Maybe there’s a potential double-cross, a suspicious guard, or a rival crew that now knows the player’s face.
  
-> [!warning] Getting Caught (optional)
-> If a character racks up **3 Critical Failures** before reaching their Goal, the job is blown — they are caught and jailed. They pay a fine equal to the score's value and spend one week behind bars per 25 gp of that fine. This three-strikes count is the only thing Crime asks you to track beyond your successes; drop it entirely if you'd rather handle arrest as pure GM fiat.
+> [!warning] Getting Caught
+> If a character racks up enough Critical Failures–to the point where the **Suspicion Level** reaches its max– before reaching their Goal, the job is blown. They are caught or the target makes sufficient moves or notifies the appropriate authorities. The consequences may be decided upon at the GM’s discretion. 
  
 ---
 
