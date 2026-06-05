@@ -20,7 +20,7 @@
   "ITS@@file-explorer-flat": true,
   "ITS@@hr-center-vertically": true,
   "ITS@@hide-header-underline": false,
-  "ITS@@heading-indicator": true,
+  "ITS@@heading-indicator": false,
   "ITS@@slrvb-b": false,
   "ITS@@slrvb-g": false,
   "ITS@@t-d": false,

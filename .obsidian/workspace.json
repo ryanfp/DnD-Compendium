@@ -6,7 +6,7 @@
       {
         "id": "0f4096b47ff804e0",
         "type": "tabs",
-        "dimension": 39.36008125952261,
+        "dimension": 45.149822244794315,
         "children": [
           {
             "id": "8a3cba7aa4f7df30",
@@ -502,47 +502,14 @@
               "icon": "lucide-file",
               "title": "Degrees of Success"
             }
-          },
-          {
-            "id": "45b930b173be5015",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Order of the Raiju.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Order of the Raiju"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       },
       {
         "id": "5e90b3ed8d44b9fb",
         "type": "tabs",
-        "dimension": 60.6399187404774,
+        "dimension": 54.850177755205685,
         "children": [
           {
             "id": "e412e82fc9908b96",
@@ -615,75 +582,9 @@
               "icon": "lucide-file",
               "title": "Downtime"
             }
-          },
-          {
-            "id": "9fc0646ccfa309a3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Order of the Raiju.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Order of the Raiju"
-            }
-          },
-          {
-            "id": "55cf490fef834217",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archmage Brainstorming.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Archmage Brainstorming"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -871,7 +772,7 @@
       {
         "id": "309059b9c707bcf9",
         "type": "tabs",
-        "dimension": 45.752508361204015,
+        "dimension": 51.686217008797655,
         "children": [
           {
             "id": "c8ee4e8637678702",
@@ -986,14 +887,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Order of the Raiju.md"
+                "file": "small checklist-delete.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Order of the Raiju"
+              "title": "File properties for small checklist-delete"
             }
           },
           {
-            "id": "a2301d59c81ea3d9",
+            "id": "be2893377ad60d60",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -1005,19 +906,33 @@
               ]
             },
             "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "type": "markdown",
+              "state": {
+                "file": "small checklist-delete.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "small checklist-delete"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "21f9e4c778ac3689",
         "type": "tabs",
-        "dimension": 54.247491638795985,
+        "dimension": 48.313782991202345,
         "children": [
           {
             "id": "eadab09cc80380ca",
@@ -1055,7 +970,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Untitled.md"
+                "file": "small checklist-delete.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -1065,7 +980,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 528.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -1103,15 +1018,17 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "45b930b173be5015",
+  "active": "be2893377ad60d60",
   "lastOpenFiles": [
-    "Archmage Brainstorming.md",
-    "Order of the Raiju.md",
     "Downtime.md",
+    "small checklist-delete.md",
+    "z_img/image-149.png",
+    "Homebrew Mechanics/Degrees of Success.md",
+    "Order of the Raiju.md",
+    "Archmage Brainstorming.md",
     "Homebrew Mechanics/Homebrew Conditions.md",
     "Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist.md",
     "5e.tools Website Navigation.md",
-    "Homebrew Mechanics/Degrees of Success.md",
     "Immediate Goals for Play.md",
     "Untitled.md",
     "Lex Pokemon Markets.md",
@@ -1129,8 +1046,6 @@
     "Homebrew In-Progress/Homebrew Errata Guide.md",
     "Homebrew In-Progress/death-dying-desperate-actions-rules.md",
     "z_Inbox/Better Write-Up.md",
-    "z_Inbox/5e Tools Website To-Do & Ideas.md",
-    "Homebrew In-Progress/incapacitated.md",
     "Homebrew Mechanics/Conditions",
     "Homebrew Mechanics",
     "map test.canvas",
@@ -1150,7 +1065,6 @@
     "z_img/image-143.png",
     "z_img/image-142.png",
     "z_img/image-141.png",
-    "z_img/image-140.png",
-    "z_img/image-139.png"
+    "z_img/image-140.png"
   ]
 }

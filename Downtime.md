@@ -395,21 +395,16 @@ The Train activity allows a character to learn a new weapon, language, or tool 
 
 **Weapon**. Learning a new weapon proficiency requires a character spend a number of months equal to 6 - their Strength or Dexterity modifier (whichever is highest) training and pay 50 gold pieces per month to retain a tutor. At the end of this time period, the character acquires the weapon proficiency.
 
-**Relearning.** A character may also relearn class features. This activity does not require spending any gold. The time required is 1 week to change a feature gained at 1st–5th level, 2 weeks to change a feature gained at 6th–10th level, 3 weeks to change a feature gained at 11th–15th level, and 4 weeks to change a feature gained at 15th–20th level. This activity cannot be used to swap out spells that have been entered into a spellbook.
-
 **Feat.** To swap a feat gained through leveling to another feat, a character may spend a number of months equal to 8 – their proficiency bonus and pay 50 gold pieces each month to acquire practice materials and advice from experts in the feat they are learning.
-
-**Archetype.** A character can change to a different archetype for their class by spending 12 weeks mastering the new archetype, at which point they are able to select it. When they do, any class features gained from their previous archetype are lost and replaced by the class features of their new archetype. Changing from one class to another requires the use of powerful realityaltering magic (like the _[wish](https://a5e.tools/spell/wish)_ spell or the direct intervention of a deity).
 
 #### Training
 
-|**Activity**|**Time**|**Cost**|
-|---|---|---|
-|New language or tool proficiency|12 - Int modifier months|50/month|
-|New weapon proficiency|6 - Str or Dex modifier months|50/month|
-|Relearn class features|1 week (1st-5th)  <br>2 weeks (6th-10th)  <br>3 weeks (11th-15th)  <br>4 weeks (15th-20th)|No cost|
-|Swap feat|8 - proficiency bonus months|50/month|
-|Change archetype|12 weeks|No cost|
+| **Activity**                     | **Time**                       | **Cost** |
+| -------------------------------- | ------------------------------ | -------- |
+| New language or tool proficiency | 12 - Int modifier months       | 50/month |
+| New weapon proficiency           | 6 - Str or Dex modifier months | 50/month |
+| Swap feat                        | 8 - proficiency bonus months   | 50/month |
+
 ^training
 
 ---
