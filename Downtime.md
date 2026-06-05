@@ -213,11 +213,11 @@ An allied contact can only grant aid once. They remain friendly after granting a
  
 #### **Crime**
  
-| **Difficulty** | **DC** | **Goal**     | Suspicion Limit | **Setup** | **The Score**                                           |
+| **Difficulty** | **DC** | **Goal** | **Suspicion Limit** | **Setup** | **Rewards**          |
 | -------------- | :----: | ------------ | --------------- | --------- | ------------------------------------------------------- |
 | Low  | 10 | 5 successes  | 10 | 50 gp  | 250 gp — a struggling merchant, a back-room strongbox   |
-| Medium | 15 | 10 successes | 8 | 100 gp | 500 gp — a thriving merchant, a guild safe              |
-| High | 20 | 20 successes | 6 | 250 gp | ~1,250 gp — a noble's manor, a counting-house      |
+| Medium | 15 | 10 successes | 8 | 100 gp | 500 gp — a thriving merchant, a guild safe  |
+| High | 20 | 20 successes | 6 | 250 gp | ~1,250 gp — a noble's manor, a counting-house   |
 | Very High | 25 | 30 successes | 4 | 500 gp | ~2,500 gp — one of the richest figures in town, a vault |
 ^crime
  
@@ -226,18 +226,18 @@ An allied contact can only grant aid once. They remain friendly after granting a
 #### Required Proficiencies
 
 - Investigation
-- Deception
-- Persuasion
+- Deception or Persuasion
+- Stealth or Sleight of Hand
 - thieves’ tools
 
 For an explanation, see the table below:
 
-| Difficulty | DC  | Goal         | Skill Threshold | Req. Uses per Skill |
-| ---------- | --- | ------------ | --------------- | ------------------- |
-| Low        | 10  | 5 successes  | 2+ uses         | 1                   |
-| Medium     | 15  | 10 successes | 5+ uses         | 1                   |
-| High       | 20  | 20 successes | 10+ uses        | 2                   |
-| Very Hard  | 25  | 30 successes | 15+ uses        | 3                   |
+| Difficulty | DC  | Goal   | Skill Threshold | Req. Uses per Skill |
+| ---------- | --- | ------ | --------------- | ------------------ |
+| Low  | 10  | 5 successes  | 2+ uses   | 1 |
+| Medium  | 15  | 10 successes | 5+ uses   | 1 |
+| High | 20  | 20 successes | 10+ uses  | 2 |
+| Very Hard  | 25  | 30 successes | 15+ uses  | 3 |
 ^required-proficiencies
  
 > [!tip] Use of Skills
@@ -276,37 +276,58 @@ The character makes three checks: Wisdom (Insight), Charisma (Deception), and Ch
 
 - - -
 
-### Pit Fighting
-*XGE pg. 131*
+### Glory Seeking
 
-**Summary.** Pit fighting includes boxing, wrestling, and other nonlethal forms of combat in an organized setting with predetermined matches. All it costs you is one workweek of downtime and absolutely no coin cost to enter.
-
-**Resources.** Engaging in this activity requires one workweek of effort from a character.
-
-**Resolution.** The character must make a series of checks, with a DC determined at random based on the quality of the opposition that the character runs into. A big part of the challenge in pit fighting lies in the unknown nature of a character’s opponents.
-
-The character makes three checks: Strength (Athletics), Dexterity (Acrobatics), and a special constitution check that has a bonus equal to a roll of the character’s largest Hit Die (this roll doesn’t spend that die). If desired, the character can replace one of these skill checks with an attack roll using one of the character’s weapons.
+**Summary.** Whether in the fighting pits, a tournament melee, a public duel, boxing match, or a daring feat staged for a crowd, this activity turns spectacle into coin and fame. It costs a slot and any entry fee, and rewards fame and valor, and loot aplenty.
+ 
+**Resources.** The character needs a venue and pays any entry fee. They choose a circuit according to the renown they're chasing; the DC and Goal scale with the prestige of the stage. Part of the challenge is the unknown, a character rarely knows the quality of their opposition until the bell rings, so the GM may keep the true DC hidden until the first check.
+ 
+#### **Pit Fighting & Showmanship**
+ 
+| **Difficulty** | **DC** | **Goal**  | **Entry** | **Purse** | **Fame on Completion**  |
+| -------------- | :----: | -------- | --------- | --------- | ------------------------ |
+| Easy | 10 | 5 successes  | — | 2d6 × 5 gp  | Local talk; the regulars know your name   |
+| Medium | 15 | 10 successes | 10 gp| 4d6 × 5 gp  | A **Favor** from a fan, patron, or sponsor |
+| Hard  | 20 | 20 successes | 50 gp| 6d6 × 10 gp | **+1 Prestige** (GM's discretion)   |
+| Deadly | 25 | 30 successes | 250 gp | 8d6 × 25 gp | **+1 Prestige**   |
+^pit-fighting
+ 
+**Resolution.** Each slot, the character competes in the day's events.
+ 
+> [!tip] Use of Skills
+> As the GM, let the player describe how they fight or perform, and what skill they use. If a player needs ideas or is unsure, offer them this advice:
+>
+> **Skill Ideas**
+> - use their **Athletics** to overpower an opponent in the ring
+> - use their **Acrobatics** to dazzle the crowd with footwork and flourishes
+> - use their **Performance** to play the audience and sell the show
+> - make an **attack roll** or a **Reflex** save to simply outlast and out-hit them
+> - etc.
+ 
+After the downtime slot is spent, the player makes a roll adjudicated by the GM. On a success, the player gains +1 progress towards their goal, while a **Critical Success** grants **+2** progress and a **Favor** from someone in the crowd, maybe a fan, a patron, or a would-be sponsor. Once the player reaches the threshold for their circuit, they win the prize and the fame listed. A **Critical Failure** does not cause the player to lose progress, but they suffer a public setback at the GM's discretion. Maybe the crowd finds their performance disappointing, or they experience a humbling defeat, a level of fatigue from a beating, or a rival's grudge.
+ 
+**Prestige.** This activity is one of the few that can raise a character's **Prestige rating**(a measure of how famous or infamous they are). A higher Prestige lets a character call in favors and get an audience with more important people (see *Prestige Rating*). Lower circuits build local fame and Favors rather than full Prestige.
 
 - - -
 
-### Recovery
+### Recuperate
 
-Sometimes it is necessary to recover from the dangers faced by an adventurer. In order to take the Recover activity, a character must have or temporarily pay for at least a moderate lifestyle. Each week that a character takes the Recover activity, they may:
+Sometimes it is necessary to recover from the dangers faced by an adventurer, or to otherwise relax and enjoy the quiet respite between dangerous escapades. In order to take the Recover activity, a character must have or temporarily pay for at least a moderate lifestyle. Each downtime slot that a character takes the Recover activity, they may:
 
-- Make a Constitution [saving throw](https://a5e.tools/rules/saving-throw) against one effect that is preventing them from regaining hit points.
-- Make one additional [saving throw](https://a5e.tools/rules/saving-throw) against one [disease](https://a5e.tools/rules/diseases) or [poison](https://a5e.tools/rules/poisons) currently affecting them.
+- Make a Fortitude saving throw against one effect that is preventing them from regaining hit points.
+- Make one additional saving throw against one disease or poison currently affecting them.
 
-If a character is tended to by someone with a healer’s satchel, they have [advantage](https://a5e.tools/node/130) on the above checks.
+If a character is tended to by someone with a healer’s satchel or medicine kit, they have advantage on the above checks. If a character is at least Proficient in Medicine, they may substitute the results of one of the above rolls with the result of that. 
+
+**Long Rest.** If a character spends both downtime slots of a day during a long rest taking the Recover activity, they recover from one level of Exhaustion. 
 
 ---
 
 ### Religious Devotion
 
-Religious Devotion allows a character to engage in acts of piety in an attempt to appease the gods and earn their favor. In order to engage in this downtime activity, a character must have access to a shrine, temple, or other sacred site and spend the required gold on sacred offerings to make a Nature or Religion check against a DC from Table: Religious Devotion. On a success, the character gains 1 point of favor, plus 1 additional point of favor for every 5 points their result exceeds the DC.
+**Summary.** Religious Devotion allows a character to engage in acts of piety in an attempt to appease the gods and earn their favor. A player can spend their time performing sacred ceremonies such as weddings, funerals, rituals, and sacrifices. They may also simply spend their time helping whichever temple or church, devoting themselves towards a cause associated with their deity, or spending time in prayer.
 
-**Favor.** A point of favor can be spent to represent a minor but helpful boon that aligns with a deity’s portfolio. A point of favor from a war god might allow a character to find a weapon after they’ve been disarmed, while a point of favor from a nature god might make it easier to find a safe place to camp. The specific details are left up to the GM, but in general, this should represent advantage on a roll, the discovery of a small but useful item, or a helpful chance encounter. For 2 favor points, the GM may allow a character to benefit from the effects of a 1st-level spell that aligns with a deity’s portfolio. GMs are free to come up with other uses.
-
-If a character acts against the interests or philosophy of a deity during an adventure, any points of favor are immediately lost.
+**Resources** In order to engage in this downtime activity, a character must have access to a shrine, temple, or other sacred site and spend the required gold on sacred offerings or supplies for the ceremonies listed to make a Nature or Religion check against a DC from the Religious Devotion table. 
 
 #### **Religious Devotion**
 
@@ -320,6 +341,22 @@ If a character acts against the interests or philosophy of a deity during an ad
 ^religious-devotion
 
 _*The GM may allow specific actions by the character to reduce or eliminate this cost._
+
+**Resolution.** After the downtime slot is spent in study, the player makes a roll adjudicated by the GM. On a success, the character gains 1 point of favor. On a **Critical Success**, the character gains plus 1 additional point of favor for every 5 points their result exceeds the DC.
+ 
+> [!tip] Use of Skills
+> As the GM, let the player explain what records they're combing and what skill fits the topic. If a player needs ideas or is unsure, offer them this advice:
+>
+> **Skill Ideas**
+>  *The topic usually decides the skill. For example, a player might…*
+> - use their **History** to trace events, lineages, and the rise and fall of world powers
+> - use their **Arcana** to parse magical theory, read ancient tomes, or consult with high-ranking mages
+> - use their **Culture** to untangle the customs, laws, and rivalries of a people
+> - use their **Nature** for bestiaries or resources on botany
+> - etc.
+**Favor.** A point of favor can be spent to represent a minor but helpful boon that aligns with a deity’s portfolio. A point of favor from a war god might allow a character to find a weapon after they’ve been disarmed, while a point of favor from a nature god might make it easier to find a safe place to camp. The specific details are left up to the GM, but in general, this should represent advantage on a roll, the discovery of a small but useful item, or a helpful chance encounter. For 2 favor points, the GM may allow a character to benefit from the effects of a 1st-level spell that aligns with a deity’s portfolio. GMs are free to come up with other uses.
+
+If a character acts against the interests or philosophy of a deity during an adventure, any points of favor are immediately lost.
 
 ---
 

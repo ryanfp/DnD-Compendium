@@ -8,9 +8,10 @@ List of Activities:
 - [x] Research
 - [x] Carousing (Networking)
 - [ ] Revelry (Partying)
+- [x] Recuperate
 - [ ] Gambling
 - [x] Crime
-- [ ] Glory Seeking
+- [x] Glory Seeking
 - [ ] Religious Devotion
 - [ ] Spellcraft
 - [ ] Word
