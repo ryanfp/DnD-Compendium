@@ -7,7 +7,7 @@ List of Activities:
 - [x] Gather Information
 - [x] Research
 - [x] Carousing (Networking)
-- [ ] Indulging (Partying)
+- [ ] Revelry (Partying)
 - [ ] Gambling
 - [x] Crime
 - [ ] Glory Seeking
@@ -22,3 +22,4 @@ List of Activities:
 	- [ ] Feat
 - [ ] Sparring
 	- (Train Exploits)
+- Revolution

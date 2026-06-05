@@ -115,9 +115,9 @@ At the GM’s discretion, these points can also be spent to introduce a small f
 
 ---
 
-### Carousing (Partying)
+### Carousing (Networking)
 
-**Summary.** Carousing is the act of partying. At the cost of a downtime slot and 10 to 250 gp to spare, you can carouse with the local townsfolk and as a “reward” gain favor with individuals. Be careful though, .
+**Summary.** Carousing is the act of spending time doing entertaining things with local townsfolk, with the express purpose of networking. At the cost of a downtime slot and 10 to 250 gp to spare, you can carouse with the local townsfolk and as a “reward” gain favor with individuals. Be careful though, .
 
 **Resources.** Carousing covers a downtime slot of fine food, strong drink, and socializing. A character can attempt to carouse among lower-, middle-, or upper-class folk. Carousing with the upper class requires more money and access to the local nobility.
 
@@ -436,7 +436,7 @@ The Train activity allows a character to learn a new weapon, language, or tool 
 
 ---
 
-### Indulging
+### Revelry
  
 **Summary.** Sometimes you just need to cut loose. Indulging is a slot spent drinking, gambling, feasting, and reveling for no other reason but to enjoy it and shed the weight of the life of an adventurer. It costs 5 to 100 gp, plus whatever you choose to wager (if gambling). 
  
