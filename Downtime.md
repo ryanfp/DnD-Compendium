@@ -556,9 +556,9 @@ When Unrest reaches the **Tipping Point**, the accumulated Unrest, the agitator'
  
 ## Animal Training
  
-A loyal beast is worth a dozen hirelings and asks for nothing but feeding. **Animal Training** lets a character turn a wild or green animal into a dependable companion, mount, guardian, or performer.
+A loyal beast is worth a dozen hirelings and asks for nothing but food, care, and affection. **Animal Training** lets a character turn a wild animal into a dependable companion, mount, guardian, or performer.
  
-The character must first acquire the animal (by purchase per the equipment list, or by capture). They then choose a **role** for it and train toward the number of successful weeks listed on Table: Animal Training, paying the weekly upkeep for food, shelter, and care. Each week they make a Wisdom (Animal Handling) check against the listed DC. A character with a relevant background or an herbalism kit, or who raised the animal from infancy, makes this check with advantage.
+The character must first acquire the animal (by purchase, capture, or friendship). They then choose a **role** for it and train toward the number of successful weeks listed on Table: Animal Training, paying the weekly upkeep for food, shelter, and care. Each week they make a Wisdom (Animal Handling) check against the listed DC. A character with a relevant background or an herbalism kit, or who raised the animal from infancy, makes this check with advantage.
  
 - **Success.** 1 successful week toward the total.
 - **Success by 5 or more.** Counts as 2 successful weeks.
