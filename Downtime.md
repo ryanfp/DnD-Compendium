@@ -396,10 +396,10 @@ Wizards and Sorcerers require a collection of arcane tomes. Clerics and Paladi
 
 | **Modification** |**DC Mod**|**Effect**|**Examples** |
 | ---------- | :--------: | ------------- | ----------------- |
-| Altered Effect    |     +1     | The spell’s primary effect is changed. This can be used to add or alter a spell's damage type, affect what the spell targets, or otherwise modify its core effect. | A *fireball* that inflicts Cold damage instead of Fire; a *lightning bolt* reshaped into a cone; *invisibility* cast on an object instead of a creature. |
-| Lingering Effect  |     +2     | A minor secondary effect lingers for a short time after the spell resolves.                         | A *fireball* that leaves targets Burning; a *cone of cold* that leaves a target Slowed; an *inflict wounds* that leaves the target Withered.   |
-| Additional Effect |     +3     | A second effect is layered onto the spell's main function, taking hold at the same time.            | An *ice storm* that also inflicts Frostbite; a *thunderwave* that leaves targets Rattled; a *shocking grasp* that leaves the target Shocked.   |
-| Additional Target |     +4     | The spell gains the means to affect one or more additional creatures.                               | An *Immobilizing* hold that spreads to a creature within 5 ft; a *suggestion* that passes to new listeners through conversation |
+| Altered Effect    |     +0     | The spell’s primary effect is changed. This can be used to add or alter a spell's damage type, affect what the spell targets, or otherwise modify its core effect. | A *fireball* that inflicts Cold damage instead of Fire; a *lightning bolt* reshaped into a cone; *invisibility* cast on an object instead of a creature. |
+| Lingering Effect  |     +1     | A minor secondary effect lingers for a short time after the spell resolves.                         | A *fireball* that leaves targets Burning; a *cone of cold* that leaves a target Slowed; an *inflict wounds* that leaves the target Withered.   |
+| Additional Effect |     +2     | A second effect is layered onto the spell's main function, taking hold at the same time.            | An *ice storm* that also inflicts Frostbite; a *thunderwave* that leaves targets Rattled; a *shocking grasp* that leaves the target Shocked.   |
+| Additional Target |     +3     | The spell gains the means to affect one or more additional creatures.                               | An *Immobilizing* hold that spreads to a creature within 5 ft; a *suggestion* that passes to new listeners through conversation |
 ^spell-modifications
  
 #### **Rare Spell Crafting**
@@ -424,7 +424,7 @@ Wizards and Sorcerers require a collection of arcane tomes. Clerics and Paladi
 > - use **Arcana** for a sorcerer, warlock, or wizard
 > - use **Nature** for a druid
 > - use **Performance** for a bard
-> - use **Religion** for a cleric or herald
+> - use **Religion** for a cleric or paladin
  
 Each check requires 1 week and the indicated materials. A character needs the number of successful study weeks listed for the spell's level. If a check succeeds by 5 or more, that week counts as 2. On a failure, no progress is made and the materials are consumed; on a failure by 5 or more, the materials are consumed and a week of progress is lost. The rare spell is finished when the final check succeeds.
  
