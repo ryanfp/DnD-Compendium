@@ -7,14 +7,13 @@ List of Activities:
 - [x] Gather Information
 - [x] Research
 - [x] Carousing (Networking)
-- [ ] Revelry (Partying)
+- [x] Revelry (Partying)
 - [x] Recuperate
-- [ ] Gambling
 - [x] Crime
 - [x] Glory Seeking
-- [ ] Religious Devotion
+- [x] Religious Devotion
 - [ ] Spellcraft
-- [ ] Word
+- [ ] Work
 - [ ] Train (Proficiency)
 	- [ ] Weapon
 	- [ ] Armor

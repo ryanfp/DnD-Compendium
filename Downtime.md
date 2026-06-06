@@ -263,17 +263,6 @@ A **Critical Failure** does not cause the player to lose progress, but the **Sus
 
 - - -
 
-### Gambling
-*XGE pg. 130-131*
-
-**Summary.** Requires one workweek and at least 10 gp. Be careful as it could result in a net loss if you’re unlucky.
-
-**Resources.** This activity requires one workweek of effort plus a stake of at least 10 gp, to a maximum of 1,000 gp.
-
-**Resolution.** The character must make a series of checks, with a DC determined at random based on the quality of the competition that the character runs into. Part of the risk of gambling is not knowing who might be sitting at the other side of the table.
-
-The character makes three checks: Wisdom (Insight), Charisma (Deception), and Charisma (Intimidation). If the character has proficiency with an appropriate gaming set, that tool proficiency can replace the relevant skill in any of the checks.
-
 - - -
 
 ### Glory Seeking
@@ -339,9 +328,9 @@ If a character is tended to by someone with a healer’s satchel or medicine kit
 |Opposed|25|100 gp|The character’s personal ethos and actions are generally counter to the deity’s philosophy and teachings.|
 |Strongly Opposed|30|500 gp|The character's personal ethos and actions run directly counter to the deity’s philosophy and teachings.|
 ^religious-devotion
+_*The GM may allow specific actions by the character to reduce or eliminate this cost._
 
-
-**Resolution.** After the slot of devotion, the player makes a check adjudicated by the GM.
+**Resolution.** After the downtime slot is spent in devotion, the player makes a roll adjudicated by the GM. 
  
 > [!tip] Use of Skills
 > Devotion is shown differently across faiths. Let the player describe their worship and pick the fitting skill:
@@ -349,32 +338,13 @@ If a character is tended to by someone with a healer’s satchel or medicine kit
 > - use their **Nature** for primal, animistic, or seasonal devotion to gods of the wild
 > - etc.
  
-On a success, the character gains 1 point of **Favor**. On a **Critical Success**, they gain 2 points of Favor. On a failure, the offering is spent but no Favor is earned; on a **Critical Failure**, the offering is spent and the GM may deliver a small portent of divine displeasure.
+On a success, the character gains 1 point of favor. On a **Critical Success**, the character gains  **+1** additional points of favor. 
+
+On a failure, the offering is spent but no Favor is earned; on a **Critical Failure**, the offering is spent and the GM may deliver a small portent of divine displeasure.
  
-**Favor.** A point of Favor is a minor but helpful boon aligned with the deity's portfolio — a war god might let you find a weapon after being disarmed; a nature god might guide you to a safe campsite. In general this is advantage on a roll, a small useful item, or a fortunate chance encounter. For 2 points, the GM may grant the effect of an aligned 1st-level spell. If a character acts against the deity's interests or philosophy, all Favor is immediately lost.
+**Favor.** A point of favor can be spent to represent a minor but helpful boon that aligns with a deity’s portfolio. A point of favor from a war god might allow a character to find a weapon after they’ve been disarmed, while a point of favor from a nature god might make it easier to find a safe place to camp. The specific details are left up to the GM, but in general, this should represent advantage on a roll, the discovery of a small but useful item, or a helpful chance encounter. For 2 favor points, the GM may allow a character to benefit from the effects of a 1st-level spell that aligns with a deity’s portfolio. GMs are free to come up with other uses.
 
-
-
-_*The GM may allow specific actions by the character to reduce or eliminate this cost._
-
-**Resolution.** After the downtime slot is spent in study, the player makes a roll adjudicated by the GM. On a success, the character gains 1 point of favor. On a **Critical Success**, the character gains  **+1** additional points of favor.
-
-A failure does not cause the player to lose progress, they just instead gain no progress towards their goal. However, on a **Critical Failure**, a player may instead incur the wrath or disdain of their deity, or their congregation. 
- 
-> [!tip] Use of Skills
-> As the GM, let the player explain what records they're combing and what skill fits the topic. If a player needs ideas or is unsure, offer them this advice:
->
-> **Skill Ideas**
->  *The topic usually decides the skill. For example, a player might…*
-> - use their **History** to trace events, lineages, and the rise and fall of world powers
-> - use their **Arcana** to parse magical theory, read ancient tomes, or consult with high-ranking mages
-> - use their **Culture** to untangle the customs, laws, and rivalries of a people
-> - use their **Nature** for bestiaries or resources on botany
-> - etc.
-
-**Favor.** A point of favor can be spent to represent a minor but helpful boon that aligns with a deity’s portfolio. A point of favor from a war god might allow a character to find a weapon after they’ve been disarmed, while a point of favor from a nature god might make it easier to find a safe place to camp. The specific details are left up to the GM, but in general, this should represent advantage on a roll, the discovery of a small but useful item, or a helpful chance encounter. For 2 favor points, the GM may allow a character to benefit from the effects of a 1st-level spell that aligns with a deity’s portfolio. GMs are free to come up with other uses.
-
-If a character acts against the interests or philosophy of a deity during an adventure, any points of favor are immediately lost.
+If a character acts against the interests or philosophy of a deity during an adventure, any points of favor are immediately lost.
 
 ---
 
@@ -416,6 +386,54 @@ On a success, the player gains +1 progress towards their goal, while a **Critica
 
 ### Spellcraft
 
+**Summary.** This downtime activity allows spellcasters to create rare spells by refining their knowledge. Pick a common version of a spell that the character knows and choose one modification from the modifications table. Alternatively, with the GM’s permission a character may choose one rare spell, provided it is of a level they can cast.
+ 
+**Resources.** To craft a rare spell, a character chooses a common spell they know and one modification from Table: Spell Modifications (or, with the GM’s permission, a rare spell of a level they can cast). In order to invent a rare spell, a character must have access to the appropriate type of library and pay the per-week materials cost. 
+
+Wizards and Sorcerers require a collection of arcane tomes. Clerics and Paladins must have access to books of esoteric lore and theological texts. Druids need a sacred place of nature untouched by civilization. Bards utilize folios of magical compositions. Warlocks require forbidden texts and works of the occult. Etc.
+ 
+#### **Spell Modifications**
+
+| **Modification** |**DC Mod**|**Effect**|**Examples** |
+| ---------- | :--------: | ------------- | ----------------- |
+| Altered Effect    |     +1     | The spell’s primary effect is changed. This can be used to add or alter a spell's damage type, affect what the spell targets, or otherwise modify its core effect. | A *fireball* that inflicts Cold damage instead of Fire; a *lightning bolt* reshaped into a cone; *invisibility* cast on an object instead of a creature. |
+| Lingering Effect  |     +2     | A minor secondary effect lingers for a short time after the spell resolves.                         | A *fireball* that leaves targets Burning; a *cone of cold* that leaves a target Slowed; an *inflict wounds* that leaves the target Withered.   |
+| Additional Effect |     +3     | A second effect is layered onto the spell's main function, taking hold at the same time.            | An *ice storm* that also inflicts Frostbite; a *thunderwave* that leaves targets Rattled; a *shocking grasp* that leaves the target Shocked.   |
+| Additional Target |     +4     | The spell gains the means to affect one or more additional creatures.                               | An *Immobilizing* hold that spreads to a creature within 5 ft; a *suggestion* that passes to new listeners through conversation |
+^spell-modifications
+ 
+#### **Rare Spell Crafting**
+ 
+| **Spell Level** | **DC** | **Cost / Week** | **Successful Weeks** |
+| --------------- | :----: | --------------- | :------------------: |
+| 1st             |   15   | 100 gp          |          2           |
+| 2nd             |   16   | 150 gp          |          3           |
+| 3rd             |   17   | 200 gp          |          4           |
+| 4th             |   18   | 300 gp          |          5           |
+| 5th             |   19   | 500 gp          |          6           |
+| 6th             |   20   | 1,000 gp        |          7           |
+| 7th             |   21   | 1,500 gp        |          8           |
+| 8th             |   22   | 3,000 gp        |          9           |
+| 9th             |   23   | 5,000 gp        |          10          |
+^rare-spell-crafting
+ 
+**Resolution.** The DC equals the base DC for the spell's level plus the chosen modification's DC modifier.
+ 
+> [!tip] Use of Skills
+> The check uses the character's spellcasting ability, paired with the skill of their tradition:
+> - use **Arcana** for a sorcerer, warlock, or wizard
+> - use **Nature** for a druid
+> - use **Performance** for a bard
+> - use **Religion** for a cleric or herald
+ 
+Each check requires 1 week and the indicated materials. A character needs the number of successful study weeks listed for the spell's level. If a check succeeds by 5 or more, that week counts as 2. On a failure, no progress is made and the materials are consumed; on a failure by 5 or more, the materials are consumed and a week of progress is lost. The rare spell is finished when the final check succeeds.
+ 
+**Inventing New Spells.** Creating an entirely new spell is the pinnacle of a caster's career — at least 2 months and 500 gp per spell level each week, with DCs and specifics set by the GM using these rules as a guide. As with all rare spells, the GM must approve the result; when in doubt, model it on an existing rare spell.
+
+
+
+- - -
+
 This downtime activity allows spellcasters to create rare spells by refining their knowledge. Pick a common version of a spell that the character knows and choose one modification from the modifications table. Alternatively, with the GM’s permission a character may choose one rare spell from Chapter 11: Spellcasting provided it is of a level they can cast.
 
 The character makes an ability check using their spellcasting ability and Arcana (sorcerer, warlock, wizard), Nature (druid), Performance (bard), or Religion (cleric, herald). The DC of the check is based on the spell level as per Table: Rare Spell Crafting and is increased by the desired modification.
@@ -424,12 +442,12 @@ Each check requires 1 week and the amount of indicated materials. A character r
 
 #### **Spell Modifications**
 
-|**Modification**|**DC Modifier**|**Effect**|
-|---|:---:|---|
-|Altered Effect|+0|The spell’s primary effect is changed. This can be used to add or alter a spell's damage type, affect what the spell targets, or otherwise modify its core effect. Examples include an _[invisibility](https://a5e.tools/spell/invisibility)_ spell that targets objects instead of creatures, a _[fireball](https://a5e.tools/spell/fireball)_ that deals cold damage, or a _[lightning bolt](https://a5e.tools/spell/lightning-bolt)_ that has a cone area.|
-|Lingering Effect|+1|The spell has a secondary effect that occurs after the spell has ended. Examples include a _[fireball](https://a5e.tools/spell/fireball)_ that causes the target to take ongoing fire damage or a _[slow](https://a5e.tools/spell/slow)_ spell that leaves a target _[fatigued](https://a5e.tools/rules/conditions)_ after its duration has ended.|
-|Additional Effect|+2|An additional effect is added to the spell’s primary function. Examples include an _[ice storm](https://a5e.tools/spell/ice-storm)_ that freezes a target in place for the duration.|
-|Additional Target|+2|The spell has the means to target additional creatures. Examples include a [paralyzing](https://a5e.tools/rules/conditions) effect that spreads by touch or a suggestion to new targets through conversation.|
+| **Modification**  | **DC Modifier** | **Effect**                                                                                                                                                                                                                                                                                                                              |
+| ----------------- | :-------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Altered Effect    |       +0        | The spell’s primary effect is changed. This can be used to add or alter a spell's damage type, affect what the spell targets, or otherwise modify its core effect. Examples include an _invisibility_ spell that targets objects instead of creatures, a _fireball_ that deals cold damage, or a _lightning bolt_ that has a cone area. |
+| Lingering Effect  |       +1        | The spell has a secondary effect that occurs after the spell has ended. Examples include a _fireball_ that causes the target to take ongoing fire damage or a _slow_ spell that leaves a target _fatigued_ after its duration has ended.                                                                                                |
+| Additional Effect |       +2        | An additional effect is added to the spell’s primary function. Examples include an _ice storm_ that freezes a target in place for the duration.                                                                                                                                                                                         |
+| Additional Target |       +2        | The spell has the means to target additional creatures. Examples include a paralyzing effect that spreads by touch or a suggestion to new targets through conversation.                                                                                                                                                                 |
 ^spell-modifications
 
 In order to invent a rare spell, a character must have access to the appropriate type of library. Wizards and sorcerers require a collection of arcane tomes. Clerics and heralds must have access to books of esoteric lore and theological texts. Druids need a sacred place of nature untouched by civilization. Bards utilize folios of magical compositions. Warlocks require forbidden texts and works of the occult.
@@ -451,6 +469,9 @@ In addition to crafting rare spells, it is possible to create entirely new spel
 |7th|21|1,500 gp|8|
 |8th|22|3,000 gp|9|
 |9th|23|5,000 gp|10|
+
+
+
 ### Work
 
 A character can use the Work activity to pay their cost of living expenses and earn some coin between adventures. Work is broken down into two categories. On a successful check after spending a week on this downtime activity, a character supports a lifestyle (poor, moderate, or rich), and earns gold as listed on Table: Work.
@@ -495,7 +516,7 @@ The Train activity allows a character to learn a new weapon, language, or tool 
  
 **Summary.** Sometimes you just need to cut loose. Indulging is a slot spent drinking, gambling, feasting, and reveling for no other reason but to enjoy it and shed the weight of the life of an adventurer. It costs 5 to 100 gp, plus whatever you choose to wager (if gambling). 
  
-**Resources.** Indulging requires somewhere safe and comfortable to drop your guard, like a settlement, a friendly inn, or a festival. Unlike most activities, Indulging is resolved **each slot on its own**, like a single night out; it does not build toward a Goal. The character chooses how hard they party based upon the desired lifestyle, pays the cost, and may place a **wager** if there are games of chance to be found.
+**Resources.** Indulging requires somewhere safe and comfortable to drop your guard, like a settlement, a friendly inn, or a festival. The character chooses how hard they party based upon the desired lifestyle, pays the cost, and may place a **wager** if there are games of chance to be found.
  
 #### **Indulging**
  
@@ -518,6 +539,6 @@ The Train activity allows a character to learn a new weapon, language, or tool 
 > - use their **Insight** to read the game table and the room
 > - a **gaming set** proficiency can stand in when the night centers on games of chance
  
-On a **success**, the character unwinds: reduce their **Strife** by the amount listed (minimum 0), and if they placed a wager, they win an amount equal to it. On a **Critical Success**, it's the best night in memory: the player gains Inspiration, and wins **double** any wager that was placed. Maybe something more valuable was put on the line…
+On a **success**, the character unwinds: reduce their **Strife** by the amount listed (minimum 0), and if they placed a wager, they win an amount equal to double the cost of the initial wager. On a **Critical Success**, it's the best night in memory: the player gains Inspiration, and wins **quadrupel** any wager that was placed. Maybe something more valuable was put on the line…
 
-On a **failure**, the fun doesn't land. No Strife is relieved, and any wager is lost. On a **Critical Failure**, the character overdoes it. They relieve no Strife and instead gain 1 level from not respecting their limits  (a vicious hangover, a night in the gutter), lose any wager, and the GM may add a complication — a debt, a brawl, or waking somewhere they don't recognize.
+On a **failure**, the fun doesn't land. No Strife is relieved, and any wager is lost. On a **Critical Failure**, the character overdoes it. They relieve no Strife and instead gain 1 level from not respecting their limits  (a vicious hangover, a night in the gutter), lose any wager, and the GM may add a complication, such as a debt, a brawl, or waking up somewhere they don't recognize.
