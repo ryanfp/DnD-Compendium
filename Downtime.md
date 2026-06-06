@@ -560,11 +560,11 @@ A loyal beast is worth a dozen hirelings and asks for nothing but food, care, an
  
 The character must first acquire the animal (by purchase, capture, or friendship). They then choose a **role** for it and train toward the number of successful weeks listed on Table: Animal Training, paying the weekly upkeep for food, shelter, and care. Each week they make a Wisdom (Animal Handling) check against the listed DC. A character with a relevant background or an herbalism kit, or who raised the animal from infancy, makes this check with advantage.
  
-- **Success.** 1 successful week toward the total.
-- **Success by 5 or more.** Counts as 2 successful weeks.
-- **Failure.** No progress this week.
-- **Failure by 5 or more.** A setback: the animal regresses (lose one previously completed week), or — if it is large or dangerous — it lashes out, with consequences at the Narrator's discretion.
-**Roles.** When training is complete, the animal learns a **role** and obeys the commands tied to it. A trained animal will follow a one-action verbal or gestural command in combat (Come, Stay, Attack, Guard, Fetch, Carry/Mount, Perform), will not spook from ordinary danger, and recognizes its handler. Suggested roles: **Mount**, **Guardian**, **Hunter**, **Messenger**, **Performer**, **War Beast**.
+- **Success.** +1 progress toward the total amount.
+- **Critical Success.** +2 progress towards the total, and [BOON].
+- **Failure.** No progress.
+- **Critical Failure.** No progress and the upkeep cost is doubled for this slot and the next.
+
  
 **Limits.** A creature of Intelligence 6 or higher cannot be "trained" in this way — dealing with it is a matter of relationship, negotiation, or magic, not Animal Handling.
  

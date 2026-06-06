@@ -615,6 +615,39 @@
               "icon": "lucide-file",
               "title": "5e.tools Website Navigation"
             }
+          },
+          {
+            "id": "8227ebe8733bbcef",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "saving throw mockup.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "saving throw mockup"
+            }
           }
         ],
         "currentTab": 1
@@ -1091,8 +1124,10 @@
   },
   "active": "a806784ad4447ca4",
   "lastOpenFiles": [
-    "5e.tools Website Navigation.md",
+    "saving throw mockup.md",
+    "z_img/image-150.png",
     "Downtime.md",
+    "5e.tools Website Navigation.md",
     "small checklist-delete.md",
     "Immediate Goals for Play.md",
     "z_img/image-149.png",
@@ -1116,7 +1151,6 @@
     "Homebrew In-Progress/Homebrew Lists.md",
     "Homebrew In-Progress/Homebrew Errata Guide.md",
     "Homebrew In-Progress/death-dying-desperate-actions-rules.md",
-    "z_Inbox/Better Write-Up.md",
     "Homebrew Mechanics/Conditions",
     "Homebrew Mechanics",
     "map test.canvas",
@@ -1135,7 +1169,6 @@
     "z_img/image-144.png",
     "z_img/image-143.png",
     "z_img/image-142.png",
-    "z_img/image-141.png",
-    "z_img/image-140.png"
+    "z_img/image-141.png"
   ]
 }
