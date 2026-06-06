@@ -403,21 +403,21 @@ Wizards and Sorcerers require a collection of arcane tomes. Clerics and Paladi
 ^spell-modifications
  
 #### **Rare Spell Crafting**
- 
-| **Spell Level** | **DC** | **Cost / Week** | **Successful Weeks** |
+
+| **Spell Level** | **DC** | **Cost / Slot** | **Successful Slots** |
 | --------------- | :----: | --------------- | :------------------: |
-| 1st             |   15   | 100 gp          |          2           |
-| 2nd             |   16   | 150 gp          |          3           |
-| 3rd             |   17   | 200 gp          |          4           |
-| 4th             |   18   | 300 gp          |          5           |
-| 5th             |   19   | 500 gp          |          6           |
-| 6th             |   20   | 1,000 gp        |          7           |
-| 7th             |   21   | 1,500 gp        |          8           |
-| 8th             |   22   | 3,000 gp        |          9           |
-| 9th             |   23   | 5,000 gp        |          10          |
+| 1st             |   14   | 20 gp           |          10          |
+| 2nd             |   15   | 30 gp           |          15          |
+| 3rd             |   16   | 40 gp           |          20          |
+| 4th             |   17   | 60 gp           |          25          |
+| 5th             |   18   | 100 gp          |          30          |
+| 6th             |   19   | 200 gp          |          35          |
+| 7th             |   20   | 300 gp          |          40          |
+| 8th             |   21   | 600 gp          |          45          |
+| 9th             |   22   | 1,000 gp        |          50          |
 ^rare-spell-crafting
- 
-**Resolution.** The DC equals the base DC for the spell's level plus the chosen modification's DC modifier.
+
+**Resolution.** After the downtime slot is spent in study, the player makes a roll adjudicated by the GM. The DC equals the base DC for the spell's level plus the chosen modification's DC modifier.
  
 > [!tip] Use of Skills
 > The check uses the character's spellcasting ability, paired with the skill of their tradition:
@@ -426,55 +426,42 @@ Wizards and Sorcerers require a collection of arcane tomes. Clerics and Paladi
 > - use **Performance** for a bard
 > - use **Religion** for a cleric or paladin
  
-Each check requires 1 week and the indicated materials. A character needs the number of successful study weeks listed for the spell's level. If a check succeeds by 5 or more, that week counts as 2. On a failure, no progress is made and the materials are consumed; on a failure by 5 or more, the materials are consumed and a week of progress is lost. The rare spell is finished when the final check succeeds.
+On a **success**, the character gains +1 progress towards their goal, and on a **Critical Success** the character gains +2 progress and retains the required materials for the slot (money and components). On a failure, no progress is made and the materials are consumed; while a **Critical Failure** also inflicts one level of Strife. The rare spell is finished when the final check succeeds.
  
-**Inventing New Spells.** Creating an entirely new spell is the pinnacle of a caster's career — at least 2 months and 500 gp per spell level each week, with DCs and specifics set by the GM using these rules as a guide. As with all rare spells, the GM must approve the result; when in doubt, model it on an existing rare spell.
-
-
+**Inventing New Spells.** In addition to crafting rare spells, it is possible to create entirely new spells. This process typically requires years of work and often represents the pinnacle of a spellcaster’s career, with DCs and specifics set by the GM using these rules as a guide. As with all rare spells, the GM must approve the result; when in doubt, model it on an existing rare spell. In general, to create a new spell entirely would have the same DCs, but **double** the cost and needed slots, as the [[Downtime#^rare-spell-crafting|Table:Rare Spell Crafting]].
 
 - - -
 
-This downtime activity allows spellcasters to create rare spells by refining their knowledge. Pick a common version of a spell that the character knows and choose one modification from the modifications table. Alternatively, with the GM’s permission a character may choose one rare spell from Chapter 11: Spellcasting provided it is of a level they can cast.
-
-The character makes an ability check using their spellcasting ability and Arcana (sorcerer, warlock, wizard), Nature (druid), Performance (bard), or Religion (cleric, herald). The DC of the check is based on the spell level as per Table: Rare Spell Crafting and is increased by the desired modification.
-
-Each check requires 1 week and the amount of indicated materials. A character requires a number of successful study weeks as listed on Table: Rare Spell Crafting. If a character succeeds the check by 5 or more, that week counts as 2 weeks for the purposes of completion. On a failure, the character makes no progress that week and the materials are consumed, and on a failure by 5 or more the materials are consumed and a week of progress is lost. The rare spell is finished when the final check succeeds.
-
-#### **Spell Modifications**
-
-| **Modification**  | **DC Modifier** | **Effect**                                                                                                                                                                                                                                                                                                                              |
-| ----------------- | :-------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Altered Effect    |       +0        | The spell’s primary effect is changed. This can be used to add or alter a spell's damage type, affect what the spell targets, or otherwise modify its core effect. Examples include an _invisibility_ spell that targets objects instead of creatures, a _fireball_ that deals cold damage, or a _lightning bolt_ that has a cone area. |
-| Lingering Effect  |       +1        | The spell has a secondary effect that occurs after the spell has ended. Examples include a _fireball_ that causes the target to take ongoing fire damage or a _slow_ spell that leaves a target _fatigued_ after its duration has ended.                                                                                                |
-| Additional Effect |       +2        | An additional effect is added to the spell’s primary function. Examples include an _ice storm_ that freezes a target in place for the duration.                                                                                                                                                                                         |
-| Additional Target |       +2        | The spell has the means to target additional creatures. Examples include a paralyzing effect that spreads by touch or a suggestion to new targets through conversation.                                                                                                                                                                 |
-^spell-modifications
-
-In order to invent a rare spell, a character must have access to the appropriate type of library. Wizards and sorcerers require a collection of arcane tomes. Clerics and heralds must have access to books of esoteric lore and theological texts. Druids need a sacred place of nature untouched by civilization. Bards utilize folios of magical compositions. Warlocks require forbidden texts and works of the occult.
-
-Creating rare spells should be a collaboration with the GM. As always, the GM must approve any new rare spell. When in doubt, use preexisting rare spell effects for inspiration.
-
-In addition to crafting rare spells, it is possible to create entirely new spells. This process typically requires years of work and often represents the pinnacle of a spellcaster’s career. If a character wishes to create their own spell, it should require at least 2 months per spell level and 500 gold per spell level each week. DCs for such checks and the other specifics are determined by the GM, using the rules for crafting rare spells as a guideline.
-
-#### **Rare Spell Crafting**
-
-|**Spell Level**|**DC**|**Cost Per Week**|**Successful Study Weeks**|
-|---|---|---|---|
-|1st|15|100 gp|2|
-|2nd|16|150 gp|3|
-|3rd|17|200 gp|4|
-|4th|18|300 gp|5|
-|5th|19|500 gp|6|
-|6th|20|1,000 gp|7|
-|7th|21|1,500 gp|8|
-|8th|22|3,000 gp|9|
-|9th|23|5,000 gp|10|
-
-
-
 ### Work
 
-A character can use the Work activity to pay their cost of living expenses and earn some coin between adventures. Work is broken down into two categories. On a successful check after spending a week on this downtime activity, a character supports a lifestyle (poor, moderate, or rich), and earns gold as listed on Table: Work.
+**Summary.** Work is honest labor. A character can use the Work activity to pay their cost of living expenses and earn some coin between adventures. It costs a slot and earns gold by the day's effort. 
+ 
+**Resources.** A character selects which work they intend to do, picks a skill or tool proficiency approved by the GM, and chooses a difficulty from Table: Work. The harder the work, the better it pays and the finer the lifestyle it sustains.
+ 
+#### **Work**
+ 
+| **Difficulty** | **DC** | **Lifestyle Supported** | **Earnings (per slot)** |
+| -------------- | :----: | ----------------------- | ----------------------- |
+| Easy           |   10   | Poor                    | 1d2 gp                  |
+| Average        |   15   | Moderate                | 1d4 gp                  |
+| Hard           |   20   | Rich                    | 1d8 gp                  |
+| Very Hard      |   25   | Rich                    | 2d6 gp                  |
+^work
+ 
+**Resolution.** After the slot of labor, the player makes a check adjudicated by the GM.
+ 
+> [!tip] Use of Skills
+> Let the player describe the work they're doing and the skill or tool it calls on:
+> - use a **tool proficiency** (smith's tools, carpenter's tools, a gaming set) to ply a trade
+> - use **Persuasion** or **Performance** to earn as a merchant, advocate, or entertainer
+> - use **Culture** to work
+> - etc.
+ 
+**Legal Work.** On a success, the character earns the gold listed and supports their chosen lifestyle for the slot's labor. On a failure, they earn nothing and cover their own living costs; on a **Critical Failure**, they earn nothing, support no lifestyle, and have disadvantage on their next Work check using the same skill or tool.
+
+
+
+ Work is broken down into two categories. On a successful check after spending a week on this downtime activity, a character supports a lifestyle (poor, moderate, or rich), and earns gold as listed on Table: Work.
 
 **Legal Work.** Legal work allows a character to practice a trade or profession without fear of consequence. The character selects a tool proficiency or skill approved by the GM and makes an ability check, consulting Table: Work to determine the lifestyle their profits support and the extra gold earned. On a result of 5 or less, a character earns nothing, supports no lifestyle, and has [disadvantage](https://a5e.tools/node/137) on the next Work check that they make using the same skill or tool.
 

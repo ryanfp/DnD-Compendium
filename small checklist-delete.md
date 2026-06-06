@@ -12,7 +12,7 @@ List of Activities:
 - [x] Crime
 - [x] Glory Seeking
 - [x] Religious Devotion
-- [ ] Spellcraft
+- [x] Spellcraft
 - [ ] Work
 - [ ] Train (Proficiency)
 	- [ ] Weapon
