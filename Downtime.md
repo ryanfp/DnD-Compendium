@@ -30,6 +30,7 @@ For even longer periods of downtime, the GM can extend the downtime to seasons�
 
 Characters may wish to work together to complete downtime activities. At the GM’s discretion, one character may assist another (as the Help action). Both characters must spend their downtime on the chosen activity.
 
+
 - - -
 
 ### Craft
@@ -442,10 +443,10 @@ On a **success**, the character gains +1 progress towards their goal, and on a *
  
 | **Difficulty** | **DC** | **Lifestyle Supported** | **Earnings (per slot)** |
 | -------------- | :----: | ----------------------- | ----------------------- |
-| Easy           |   10   | Poor                    | 1d2 gp                  |
-| Average        |   15   | Moderate                | 1d4 gp                  |
-| Hard           |   20   | Rich                    | 1d8 gp                  |
-| Very Hard      |   25   | Rich                    | 2d6 gp                  |
+| Easy           |   10   | Poor                    | DC + 1d6 gp                  |
+| Average        |   15   | Moderate                | DC + 1d10 gp                  |
+| Hard           |   20   | Rich                    | DC + 2d6 gp                  |
+| Very Hard      |   25   | Aristocratic                    | DC + 2d12 gp                  |
 ^work
  
 **Resolution.** After the slot of labor, the player makes a check adjudicated by the GM.
@@ -454,29 +455,13 @@ On a **success**, the character gains +1 progress towards their goal, and on a *
 > Let the player describe the work they're doing and the skill or tool it calls on:
 > - use a **tool proficiency** (smith's tools, carpenter's tools, a gaming set) to ply a trade
 > - use **Persuasion** or **Performance** to earn as a merchant, advocate, or entertainer
-> - use **Culture** to work
+> - use **Culture** to work at a local government office
 > - etc.
  
-**Legal Work.** On a success, the character earns the gold listed and supports their chosen lifestyle for the slot's labor. On a failure, they earn nothing and cover their own living costs; on a **Critical Failure**, they earn nothing, support no lifestyle, and have disadvantage on their next Work check using the same skill or tool.
+On a **success**, the character earns the gold listed and supports their chosen lifestyle for the slot's labor. On a **Critical Success**, the character gains **double** the listed earnings–maybe they get a sizable tip, or a small bonus from their business/boss. On a failure, they don’t earn the bonus earnings equal to their DC; on a **Critical Failure**, they earn no bonus, and have disadvantage on the roll to determine their earnings.
 
+- - -
 
-
- Work is broken down into two categories. On a successful check after spending a week on this downtime activity, a character supports a lifestyle (poor, moderate, or rich), and earns gold as listed on Table: Work.
-
-**Legal Work.** Legal work allows a character to practice a trade or profession without fear of consequence. The character selects a tool proficiency or skill approved by the GM and makes an ability check, consulting Table: Work to determine the lifestyle their profits support and the extra gold earned. On a result of 5 or less, a character earns nothing, supports no lifestyle, and has [disadvantage](https://a5e.tools/node/137) on the next Work check that they make using the same skill or tool.
-
-**Illegal Work**. Illegal work allows a character to sustain themselves and make some coin by engaging in petty crime. First, a character selects the type of crime that they would like to engage in and selects an appropriate skill or ability check approved by the GM. They then select the difficulty of criminal activities as per Table: Work.
-
-On a failed check, a character receives no earnings and must cover the cost of their lifestyle themselves. If they fail by 5 or more, the character must lay low and cannot take a downtime activity for the following week, and on a failure by 10 or more they are caught and suffer consequences or complications determined by the GM.
-
-#### **Work**
-
-|**Difficulty**|**DC**|**Lifestyle**|**Earnings**|
-|---|:---:|---|---|
-|Easy|10|Poor|1d6 gp|
-|Average|15|Moderate|3d6 gp|
-|Hard|20|Rich|6d6 gp|
-|Very Hard|25|Rich|10d6 gp|
 ### Train
 
 The Train activity allows a character to learn a new weapon, language, or tool proficiency, or it can be used to swap a class feature or feat that they learned previously.

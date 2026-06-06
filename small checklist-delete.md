@@ -13,7 +13,7 @@ List of Activities:
 - [x] Glory Seeking
 - [x] Religious Devotion
 - [x] Spellcraft
-- [ ] Work
+- [x] Work
 - [ ] Train (Proficiency)
 	- [ ] Weapon
 	- [ ] Armor
