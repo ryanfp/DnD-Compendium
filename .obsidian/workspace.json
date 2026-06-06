@@ -1018,7 +1018,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 528.5
+    "width": 379.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -1052,7 +1052,8 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "a806784ad4447ca4",

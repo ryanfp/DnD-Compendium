@@ -340,6 +340,21 @@ If a character is tended to by someone with a healer’s satchel or medicine kit
 |Strongly Opposed|30|500 gp|The character's personal ethos and actions run directly counter to the deity’s philosophy and teachings.|
 ^religious-devotion
 
+
+**Resolution.** After the slot of devotion, the player makes a check adjudicated by the GM.
+ 
+> [!tip] Use of Skills
+> Devotion is shown differently across faiths. Let the player describe their worship and pick the fitting skill:
+> - use their **Religion** for liturgy, scripture, formal rites, and theological study
+> - use their **Nature** for primal, animistic, or seasonal devotion to gods of the wild
+> - etc.
+ 
+On a success, the character gains 1 point of **Favor**. On a **Critical Success**, they gain 2 points of Favor. On a failure, the offering is spent but no Favor is earned; on a **Critical Failure**, the offering is spent and the GM may deliver a small portent of divine displeasure.
+ 
+**Favor.** A point of Favor is a minor but helpful boon aligned with the deity's portfolio — a war god might let you find a weapon after being disarmed; a nature god might guide you to a safe campsite. In general this is advantage on a roll, a small useful item, or a fortunate chance encounter. For 2 points, the GM may grant the effect of an aligned 1st-level spell. If a character acts against the deity's interests or philosophy, all Favor is immediately lost.
+
+
+
 _*The GM may allow specific actions by the character to reduce or eliminate this cost._
 
 **Resolution.** After the downtime slot is spent in study, the player makes a roll adjudicated by the GM. On a success, the character gains 1 point of favor. On a **Critical Success**, the character gains  **+1** additional points of favor.
@@ -356,6 +371,7 @@ A failure does not cause the player to lose progress, they just instead gain no 
 > - use their **Culture** to untangle the customs, laws, and rivalries of a people
 > - use their **Nature** for bestiaries or resources on botany
 > - etc.
+
 **Favor.** A point of favor can be spent to represent a minor but helpful boon that aligns with a deity’s portfolio. A point of favor from a war god might allow a character to find a weapon after they’ve been disarmed, while a point of favor from a nature god might make it easier to find a safe place to camp. The specific details are left up to the GM, but in general, this should represent advantage on a roll, the discovery of a small but useful item, or a helpful chance encounter. For 2 favor points, the GM may allow a character to benefit from the effects of a 1st-level spell that aligns with a deity’s portfolio. GMs are free to come up with other uses.
 
 If a character acts against the interests or philosophy of a deity during an adventure, any points of favor are immediately lost.
