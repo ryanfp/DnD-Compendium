@@ -22,4 +22,5 @@ List of Activities:
 	- [ ] Feat
 - [ ] Sparring
 	- (Train Exploits)
-- Revolution
+- Revolution/Stir Unrest
+- Animal Training

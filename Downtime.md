@@ -514,3 +514,70 @@ The Train activity allows a character to learn a new weapon, language, or tool 
 On a **success**, the character unwinds: reduce their **Strife** by the amount listed (minimum 0), and if they placed a wager, they win an amount equal to double the cost of the initial wager. On a **Critical Success**, it's the best night in memory: the player gains Inspiration, and wins **quadrupel** any wager that was placed. Maybe something more valuable was put on the line…
 
 On a **failure**, the fun doesn't land. No Strife is relieved, and any wager is lost. On a **Critical Failure**, the character overdoes it. They relieve no Strife and instead gain 1 level from not respecting their limits  (a vicious hangover, a night in the gutter), lose any wager, and the GM may add a complication, such as a debt, a brawl, or waking up somewhere they don't recognize.
+
+- - -
+
+## Stir Unrest
+ 
+A single agitator with a printing press, a grievance, and a little funding can do what an army cannot. **Stir Unrest** is a long project that builds popular discontent in a community toward a **Tipping Point**, at which the populace acts — a strike, a riot, a coup, a secession, a revolution.
+ 
+The character chooses a **scope** as per Table: Stir Unrest and pays the listed weekly cost on pamphlets, safehouses, bribes, and the care and feeding of a clandestine network. Each week they make one check, approved by the Narrator to fit their method: Charisma (Persuasion) to rally, Charisma (Deception) to spread propaganda, Charisma (Intimidation) to coerce, or Intelligence (Investigation) to organize cells and supply lines.
+ 
+- **Success.** The movement grows. Gain **1d4 Unrest**.
+- **Success by 5 or more.** A breakthrough. Gain **2d4 Unrest**.
+- **Failure.** No progress, and the character draws the eye of the authorities: gain **1 Heat**.
+- **Failure by 5 or more.** A cell is exposed. Lose **1d4 Unrest**, gain **2 Heat**, and an ally or Contact may be arrested or turned.
+**Suppression.** The ruling power pushes back. At the end of each downtime period, the Narrator removes Unrest equal to the regime's **Stability** — suggested values: **1** for a weak, distracted, or sympathetic authority; **2–3** for a stable one; **4+** for a vigilant or tyrannical one. Bread, circuses, crackdowns, scapegoats, and counter-propaganda are the in-fiction levers a frightened ruler pulls. Stirring unrest is a tug-of-war, not a staircase.
+ 
+**Tipping Point Thresholds.** As Unrest crosses fractions of the Tipping Point, the mood of the community shifts:
+ 
+| Threshold | Stage | Effect in the community |
+| --------- | ----- | ----------------------- |
+| 25%  | Discontent | Grumbling, graffiti, pamphlets. Advantage on further Stir Unrest checks here. |
+| 50%  | Agitation  | Protests and slowdowns. Guards are stretched: advantage on Crime, Stealth, and Gather Information in the area. |
+| 75%  | Turmoil    | Strikes and riots. The authority may negotiate, concede, or escalate to open repression. |
+| 100% | Uprising   | The populace acts. Resolve as a set-piece or adventure, not a single roll. |
+ 
+When Unrest reaches the **Tipping Point**, the accumulated Unrest, the agitator's Contacts, and their allies all become assets in the climactic event — this is the moment the campaign has been building toward, and it should play out at the table, not on a table.
+ 
+*Stir Unrest*
+ 
+| Scope | DC | Cost / week | Tipping Point |
+| ----- | -- | ----------- | ------------- |
+| Hamlet / neighborhood | 10 | 25 gp     | 5  |
+| Town / district       | 15 | 100 gp    | 10 |
+| City                  | 20 | 500 gp    | 20 |
+| Realm / region        | 25 | 2,000 gp  | 40 |
+ 
+> [!note] Design note
+> This is the most campaign-shaping activity here, so it's built as a multi-week **tug-of-war** rather than a payout: Suppression means a half-hearted effort against a strong regime *loses ground*, which makes funding, method, and timing matter. With +1d4/week against a Tipping Point of 5–40 and Stability shaving 1–4 off each period, a sympathetic hamlet can tip in a couple of weeks while toppling a vigilant realm is the work of a season or more — exactly the cadence A5E's Extended Downtime rules are designed for. The thresholds hand out *fictional* leverage (stretched guards, easier crime, a regime willing to deal) so the build-up is felt in play long before the Uprising. Pairs naturally with faction agendas: rival factions can run their own Stir Unrest in opposition, contributing to or draining the same Unrest pool.
+ 
+---
+ 
+## Animal Training
+ 
+A loyal beast is worth a dozen hirelings and asks for nothing but feeding. **Animal Training** lets a character turn a wild or green animal into a dependable companion, mount, guardian, or performer.
+ 
+The character must first acquire the animal (by purchase per the equipment list, or by capture). They then choose a **role** for it and train toward the number of successful weeks listed on Table: Animal Training, paying the weekly upkeep for food, shelter, and care. Each week they make a Wisdom (Animal Handling) check against the listed DC. A character with a relevant background or an herbalism kit, or who raised the animal from infancy, makes this check with advantage.
+ 
+- **Success.** 1 successful week toward the total.
+- **Success by 5 or more.** Counts as 2 successful weeks.
+- **Failure.** No progress this week.
+- **Failure by 5 or more.** A setback: the animal regresses (lose one previously completed week), or — if it is large or dangerous — it lashes out, with consequences at the Narrator's discretion.
+**Roles.** When training is complete, the animal learns a **role** and obeys the commands tied to it. A trained animal will follow a one-action verbal or gestural command in combat (Come, Stay, Attack, Guard, Fetch, Carry/Mount, Perform), will not spook from ordinary danger, and recognizes its handler. Suggested roles: **Mount**, **Guardian**, **Hunter**, **Messenger**, **Performer**, **War Beast**.
+ 
+**Limits.** A creature of Intelligence 6 or higher cannot be "trained" in this way — dealing with it is a matter of relationship, negotiation, or magic, not Animal Handling.
+ 
+*Animal Training*
+ 
+| Creature | DC | Upkeep / week | Successful Weeks |
+| -------- | -- | ------------- | ---------------- |
+| Common beast (CR 0, Int ≤ 3)        | 10 | 5 gp  | 2 |
+| Capable beast (CR 1/8–1/2)          | 15 | 10 gp | 4 |
+| Formidable beast (CR 1–3)           | 20 | 25 gp | 6 |
+| Exotic / cunning beast (CR 4+, Int 4–5) | 25 | 50 gp | 8 |
+ 
+> [!note] Design note
+> Built exactly like A5E's multi-check projects (Spellcraft, Engineering): a fixed number of successful weeks, with "success by 5" doubling progress to reward a high Animal Handling specialist. CR/Intelligence gating keeps a 1st-level druid from training a griffon in a fortnight while leaving the door open for it as a season-long campaign goal. If you use a companion/mount subsystem (e.g. a Beastheart's companion or a ranger's animal), treat this activity as the way to *upgrade* an existing companion's role or teach it a new command rather than to create one from scratch.
+ 
+---
