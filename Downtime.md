@@ -577,7 +577,5 @@ The character must first acquire the animal (by purchase per the equipment list,
 | Formidable beast (CR 1–3)           | 20 | 25 gp | 6 |
 | Exotic / cunning beast (CR 4+, Int 4–5) | 25 | 50 gp | 8 |
  
-> [!note] Design note
-> Built exactly like A5E's multi-check projects (Spellcraft, Engineering): a fixed number of successful weeks, with "success by 5" doubling progress to reward a high Animal Handling specialist. CR/Intelligence gating keeps a 1st-level druid from training a griffon in a fortnight while leaving the door open for it as a season-long campaign goal. If you use a companion/mount subsystem (e.g. a Beastheart's companion or a ranger's animal), treat this activity as the way to *upgrade* an existing companion's role or teach it a new command rather than to create one from scratch.
  
 ---

@@ -6,7 +6,7 @@
       {
         "id": "0f4096b47ff804e0",
         "type": "tabs",
-        "dimension": 45.149822244794315,
+        "dimension": 51.83438155136268,
         "children": [
           {
             "id": "8a3cba7aa4f7df30",
@@ -509,7 +509,7 @@
       {
         "id": "5e90b3ed8d44b9fb",
         "type": "tabs",
-        "dimension": 54.850177755205685,
+        "dimension": 48.16561844863732,
         "children": [
           {
             "id": "e412e82fc9908b96",
@@ -582,9 +582,42 @@
               "icon": "lucide-file",
               "title": "Downtime"
             }
+          },
+          {
+            "id": "d423174f65b02e06",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5e.tools Website Navigation.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "5e.tools Website Navigation"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -1051,12 +1084,10 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "task-board:Open task board": false
     }
   },
-  "active": "be2893377ad60d60",
+  "active": "d423174f65b02e06",
   "lastOpenFiles": [
     "Downtime.md",
     "small checklist-delete.md",
