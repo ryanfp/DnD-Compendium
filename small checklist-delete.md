@@ -16,10 +16,11 @@ List of Activities:
 - [x] Work
 - [ ] Train (Proficiency)
 	- [ ] Weapon
-	- [ ] Armor
+	- [ ] ~~Armor~~
 	- [ ] Language
-	- [ ] Tool
-	- [ ] Feat
+	- [x] Tool
+	- [ ] ~~Feat~~
+	- [x] Skill
 - [ ] Sparring
 	- (Train Exploits)
 - Revolution/Stir Unrest

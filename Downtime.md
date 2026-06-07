@@ -484,39 +484,39 @@ The Train activity allows a character to learn a new weapon, language, or tool 
 
 ---
 
-### Train (Skill or Tool Proficiency)
+### Train 
+
+#### Skill or Tool Proficiency
  
-**Summary.** Invest downtime under a qualified trainer to advance your proficiency tier in a skill or tool, progressing from Untrained through Trained, Proficient, Expert, and Master. Progress is cumulative — a single track from 0 to 200, with milestone unlocks at each tier. Unlike most project activities, training is long-form (measured in weeks or months) and bridges into slot play at 1 week = 5 slots.
+**Summary.** Invest downtime under a qualified trainer to advance your proficiency tier in a skill or tool, progressing from Untrained through Trained, Proficient, Expert, and Master. Progress is cumulative from 0 to 200, with milestone unlocks at each tier. 
  
-**Resources.** Requires a trainer at or above the target proficiency tier in the specific skill or tool being taught. Cost per slot increases with each tier. You must meet the level gate before you can begin training toward a tier, and you cannot skip tiers. Progress-to-Goal.
+**Resources.** Requires a trainer at or above the target proficiency tier in the specific skill or tool being taught. Cost per slot increases with each tier. You must meet the level gate before you can begin training toward a tier, and you cannot skip tiers. 
  
-#### **Training Progression**
+##### **Training Progression**
  
-| **Tier** | **Bonus** | **Progress Threshold** | **Incremental** | **Cost / Slot** | **Total Cost** | **Level Gate** | **DC** |
-| :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: |
-| Trained | ½ × PB | 25 | 25 | 5 gp | 125 gp | — | 10 |
-| Proficient | 1 × PB | 50 | 25 | 10 gp | 250 gp | 5+ | 14 |
-| Expert | 1½ × PB | 100 | 50 | 25 gp | 1,250 gp | 9+ | 18 |
-| Master | 2 × PB | 200 | 100 | 50 gp | 5,000 gp | 13+ | 22 |
+| **Tier**   | **DC** | **Total Progress** | **Cost / Slot** | **Level Gate** |
+|:---------- |:------:|:------------------:|:---------------:|:--------------:|
+| Trained    |   10   |         25         |      5 gp       |       —        |
+| Proficient |   14   |         50         |      10 gp      |       5+       |
+| Expert     |   18   |        100         |      25 gp      |       9+       |
+| Master     |   22   |        200         |      50 gp      |      13+       |
 ^train-progression
  
-#### **Trainer Boost**
+##### **Trainer Boost**
  
-A trainer whose proficiency tier exceeds the tier you are training toward accelerates your progress. For each tier the trainer exceeds the target, you gain +1 additional progress per successful check. This multiplier applies to all progress gained, including from a Critical Success.
- 
-> **Progress Multiplier = 1 + (Trainer Tier − Target Tier)**
+A trainer whose proficiency tier exceeds the tier you are training toward accelerates your progress. For each tier the trainer exceeds the target, you gain +1 additional progress per successful check. This multiplier applies to all progress gained, including from a **Critical Success**.
  
 | **Trainer Tier** | **→ Trained** | **→ Proficient** | **→ Expert** | **→ Master** |
-| :-- | :--: | :--: | :--: | :--: |
-| Trained | ×1 | — | — | — |
-| Proficient | ×2 | ×1 | — | — |
-| Expert | ×3 | ×2 | ×1 | — |
-| Master | ×4 | ×3 | ×2 | ×1 |
-^train-boost
+| :--------------- | :-----------: | :--------------: | :----------: | :----------: |
+| Trained          |      ×1       |        —         |      —       |      —       |
+| Proficient       |      ×2       |        ×1        |      —       |      —       |
+| Expert           |      ×3       |        ×2        |      ×1      |      —       |
+| Master           |      ×4       |        ×3        |      ×2      |      ×1      |
+^training-boost
  
-*Example: A Master trainer teaching a character from Untrained toward Trained grants ×4 progress — each success yields 4 progress, each Critical Success yields 8. The same Master trainer teaching Expert → Master grants only ×1 (normal). Mastery cannot be rushed.*
+*Example: A Master trainer teaching a character from Untrained toward Trained grants ×4 progress. Each success yields 4 progress, while each Critical Success yields 8. The same Master trainer teaching Expert → Master grants only normal progress.*
  
-**Resolution.** At the end of the slot, the player makes an Ability Check using the skill or tool they are training in, against the DC of their current target tier.
+**Resolution.** After the downtime slot is spent, the player makes a roll adjudicated by the GM. The player makes a check using the skill or tool they are training in, against the DC of their current target tier.
  
 > [!tip] Use of Skills
 > As the GM, let the player explain how their training session went and what skill they plan to use. The default check is the skill or tool being trained — a character training Stealth rolls a Dexterity (Stealth) check; one training smith's tools rolls an appropriate smith's tools check. 
@@ -526,46 +526,89 @@ A trainer whose proficiency tier exceeds the tier you are training toward accele
 > - use their **Arcana** to study the theoretical underpinnings of a magical tool
 > - use their **Performance** to demonstrate technique back to the trainer as proof of internalization
 > - etc.
- 
-After the downtime slot is spent, the player makes a roll adjudicated by the GM. 
 
-On a success, the player gains +1 progress towards their goal (modified by any Trainer Boost), while a **Critical Success** grants **+2** progress (also modified by Trainer Boost) and Advantage on their next training check for this skill or tool. Once the player reaches the threshold for their target tier, they gain the listed proficiency bonus and may immediately begin training toward the next tier if they meet its level gate. 
+On a success, the player gains +1 progress towards their goal, while a **Critical Success** grants **+2** progress and Advantage on their next training check for this skill or tool. Once the player reaches the threshold for their target tier, they achieve the new proficiency rank and may immediately begin training toward the next tier if they meet its level gate. 
 
-A **Critical Failure** does not cause the player to lose progress, but they gain none; at the GM's discretion, the character suffers a training setback — a minor injury sustained during drills (1 level of Fatigue), a bad habit that must be corrected (Disadvantage on their next training check), or a strained relationship with the trainer that requires a Charisma check to mend before continuing.
- 
-**Cumulative Progress.** Training uses a single progress track per skill or tool, running from 0 to 200. When your progress reaches a tier's threshold, you immediately gain that tier's proficiency bonus and the tier is permanently unlocked. All prior progress counts toward higher tiers — a character who reaches Trained (25 progress) needs only 25 more progress to reach Proficient (50 total), not a fresh 50.
- 
-> [!note] Class Features and Proficiency Tiers
-> Class features that grant proficiency in a skill or tool (e.g., a Rogue's starting skills) set the character to Proficient in that skill — they add their full Proficiency Bonus. Features that grant "expertise" or "double your proficiency bonus" at early levels (such as **Expertise** at Rogue 1 or Bard 3) set the tier to Expert (1½ × PB), not Master. Features that grant expertise at higher levels (11+) may grant Master at the GM's discretion. A character who gains a tier through a class feature does not retroactively spend downtime or gold — the feature represents training inherent in that class's progression. Their progress track is set to the threshold of the granted tier for the purpose of further advancement.
- 
-> [!note] Proficiency Bonus by Tier — Quick Reference
-> All values rounded down. PB increases at levels 5, 9, 13, and 17.
->
-> | **Level** | **PB** | **Trained (½)** | **Proficient (×1)** | **Expert (1½)** | **Master (×2)** |
-> | :--: | :--: | :--: | :--: | :--: | :--: |
-> | 1–4 | +2 | +1 | +2 | +3 | +4 |
-> | 5–8 | +3 | +1 | +3 | +4 | +6 |
-> | 9–12 | +4 | +2 | +4 | +6 | +8 |
-> | 13–16 | +5 | +2 | +5 | +7 | +10 |
-> | 17–20 | +6 | +3 | +6 | +9 | +12 |
- 
+A failure does not cause the player to lose progress, instead they gain none. While a **Critical Failure** causes the character to suffer a training setback. Maybe a minor injury was sustained during drills, giving them a level of Fatigue, or a bad habit that must be corrected, giving them Disadvantage on their next training check.
+
 > [!warning] Finding Trainers
-> Trainers must hold at least the target tier in the specific skill or tool being taught. Trained and Proficient trainers are common in most settlements — guild artisans, local scholars, militia sergeants. Expert trainers are rarer, typically found in major cities, specialist academies, or among veteran adventurers. Master trainers are exceptional individuals — the finest swordsmiths, legendary scouts, archmage-level scholars — and locating one may be an adventure in itself. The GM determines trainer availability as a worldbuilding lever; the scarcity of high-tier trainers is an intentional limiting factor on the system.
+> Trainers must hold at least the target tier in the specific skill or tool being taught. Trained and Proficient level trainers are common in most settlements, they may be guild artisans, local scholars, or military commanders. 
+> 
+> Expert trainers are rarer, typically found in major cities, specialist academies, or found among veteran adventurers. Master trainers are exceptional individuals. They are the finest swordsmiths, legendary scouts, archmage-level scholars, and locating one may be an adventure in and of itself.
+
+#### Train (Language)
  
-> [!warning] Expected Timeline — GM Reference
-> The following assumes a primary-skill character (ability mod +3 to +5 depending on level) training at-tier (×1 multiplier) with no feat bonuses. Success rates assume the flat DCs above.
->
-> | **Tier** | **Incremental Progress** | **~Success Rate** | **~Slots to Complete** | **~Weeks** |
-> | :-- | :--: | :--: | :--: | :--: |
-> | Trained | 25 | 65–70% | 36–38 | 7–8 |
-> | Proficient | 25 | 55–60% | 42–45 | 8–9 |
-> | Expert | 50 | 55–65% | 77–91 | 15–18 |
-> | Master | 100 | 55–60% | 167–182 | 33–36 |
-> | **Untrained → Master** | **200** | — | **~320–356** | **~64–71** |
->
-> With a Master trainer from Untrained, the total compresses to roughly 150–180 slots (30–36 weeks) due to the boost on the early tiers. Master-tier training is never boosted and always dominates the timeline.
+**Summary.** Study a new language under a tutor until fluency is achieved. Cheaper and less demanding than skill training, but a long-term investment — a character's Intelligence naturally determines the pace. Progress-to-Goal; each slot represents study sessions, conversation practice, and immersion exercises.
+ 
+**Resources.** Requires a tutor fluent in the target language, or a reliable alternative means of study (a comprehensive phrasebook, an immersive cultural environment, a *comprehend languages*-speaking ally willing to drill conversation). Cost: **3 gp per slot.** Without a tutor, the character may still train using an alternate means, but all checks are made with Disadvantage. Goal: **100 progress.** No level gate.
 
+- - -
+ 
+##### **Language Training**
+ 
+| **Goal** | **DC** | **Cost / Slot** | **Check** |
+| :--: | :--: | :--: | :-- |
+| 100 | 12 | 3 gp | Intelligence (any relevant skill) |
+^train-language
+ 
+**Resolution.** At the end of the slot, the player makes an Intelligence check against DC 12. The GM may allow a relevant skill to apply.
+ 
+> [!tip] Use of Skills
+> As the GM, let the player explain how they spent their study session and what approach they used. **Skill Ideas** — use their **Culture** to absorb idioms and social register through cultural immersion; use their **History** to study the language's etymological roots and written tradition; use their **Deception** to practice blending in with native speakers by mimicking accent and cadence; etc.
+ 
+After the downtime slot is spent, the player makes a roll adjudicated by the GM. On a success, the player gains +1 progress towards their goal, while a **Critical Success** grants **+2** progress and Advantage on their next training check for this language. Once the player reaches 100 progress, they gain proficiency in the language and the activity is resolved. A **Critical Failure** does not cause the player to lose progress, but they gain none; at the GM's discretion, the character suffers a study setback — an embarrassing miscommunication that shakes their confidence (Disadvantage on their next training check), or an accidental cultural offense that strains their access to a tutor or practice community.
+ 
+> [!note] Expected Timeline by Intelligence Modifier
+> Assumes training with a tutor (no Disadvantage). Slots listed are expected total attempts, not just successful checks.
+>
+> | **Int Mod** | **Success Rate** | **~Slots** | **~Weeks** | **~Months** | **Total Cost** |
+> | :--: | :--: | :--: | :--: | :--: | :--: |
+> | +0 | 45% | 222 | 44 | 11 | 666 gp |
+> | +1 | 50% | 200 | 40 | 10 | 600 gp |
+> | +2 | 55% | 182 | 36 | 9 | 546 gp |
+> | +3 | 60% | 167 | 33 | 8 | 501 gp |
+> | +4 | 65% | 154 | 31 | 8 | 462 gp |
+> | +5 | 70% | 143 | 29 | 7 | 429 gp |
+>
+> Without a tutor (Disadvantage), expect roughly 1.5–2× the listed timeframe. The original A5E rule of (12 − Int mod) months is closely preserved: a +3 Int character finishes in ~8 months, a +0 in ~11.
+ 
+- - -
+ 
+#### Train (Weapon Proficiency)
+ 
+**Summary.** Drill with a new weapon under a trainer's guidance until basic proficiency is achieved. Faster and cheaper than language or skill training — martial fundamentals are physical pattern-building rather than a body of knowledge. Progress-to-Goal; each slot represents sparring bouts, form drills, and target practice.
+ 
+**Resources.** Requires a trainer proficient with the target weapon. Access to the weapon or a practice equivalent is assumed. Cost: **3 gp per slot.** Goal: **30 progress.** No level gate.
+ 
+##### **Weapon Training**
+ 
+| **Goal** | **DC** | **Cost / Slot** | **Check** |
+| :--: | :--: | :--: | :-- |
+| 30 | 12 | 3 gp | Strength or Dexterity (whichever is higher) |
+^train-weapon
+ 
+**Resolution.** At the end of the slot, the player makes a Strength or Dexterity check (whichever is higher, or whichever the weapon primarily uses) against DC 12. The GM may allow a relevant skill to apply.
+ 
+> [!tip] Use of Skills
+> As the GM, let the player explain how their training session went and what approach they used. **Skill Ideas** — use their **Athletics** to power through endurance drills and build muscle memory for heavy weapons; use their **Acrobatics** to practice the footwork and quick transitions of a finesse weapon; use their **Perception** to study the trainer's form and identify subtleties of timing and distance; etc.
+ 
+After the downtime slot is spent, the player makes a roll adjudicated by the GM. On a success, the player gains +1 progress towards their goal, while a **Critical Success** grants **+2** progress and Advantage on their next training check for this weapon. Once the player reaches 30 progress, they gain proficiency with the weapon and the activity is resolved. A **Critical Failure** does not cause the player to lose progress, but they gain none; at the GM's discretion, the character suffers a training injury — a bruised rib or pulled muscle (1 level of Fatigue), or a flinch reflex that must be corrected (Disadvantage on their next training check).
+ 
+> [!note] Expected Timeline by Ability Modifier
+> Assumes training with a tutor. Uses the higher of Strength or Dexterity modifier.
+>
+> | **Str/Dex Mod** | **Success Rate** | **~Slots** | **~Weeks** | **~Months** | **Total Cost** |
+> | :--: | :--: | :--: | :--: | :--: | :--: |
+> | +0 | 45% | 67 | 13 | 3 | 201 gp |
+> | +1 | 50% | 60 | 12 | 3 | 180 gp |
+> | +2 | 55% | 55 | 11 | 3 | 165 gp |
+> | +3 | 60% | 50 | 10 | 2.5 | 150 gp |
+> | +4 | 65% | 46 | 9 | 2 | 138 gp |
+> | +5 | 70% | 43 | 9 | 2 | 129 gp |
+>
+> Weapon training is roughly 3× faster than language training and 4–6× faster than skill training to Proficient, reflecting that martial fundamentals are drilled physically rather than studied. The original A5E rule of (6 − Str/Dex mod) months is compressed slightly at the low end but closely matched for mid-to-high ability characters.
 
+- - -
 
 ### Revelry
  
@@ -594,17 +637,17 @@ A **Critical Failure** does not cause the player to lose progress, but they gain
 > - use their **Insight** to read the game table and the room
 > - a **gaming set** proficiency can stand in when the night centers on games of chance
  
-On a **success**, the character unwinds: reduce their **Strife** by the amount listed (minimum 0), and if they placed a wager, they win an amount equal to double the cost of the initial wager. On a **Critical Success**, it's the best night in memory: the player gains Inspiration, and wins **quadrupel** any wager that was placed. Maybe something more valuable was put on the line…
+On a **success**, the character unwinds: reduce their **Strife** by the amount listed (minimum 0), and if they placed a wager, they win an amount equal to double the cost of the initial wager. On a **Critical Success**, it's the best night in memory: the player gains Inspiration, and wins **quadruple** any wager that was placed. Maybe something more valuable was put on the line…
 
-On a **failure**, the fun doesn't land. No Strife is relieved, and any wager is lost. On a **Critical Failure**, the character overdoes it. They relieve no Strife and instead gain 1 level from not respecting their limits  (a vicious hangover, a night in the gutter), lose any wager, and the GM may add a complication, such as a debt, a brawl, or waking up somewhere they don't recognize.
+On a **failure**, the fun doesn't land. No Strife is relieved, and any wager is lost. On a **Critical Failure**, the character overdoes it. They relieve no Strife and instead gain 1 level from not respecting their limits  (a vicious hangover, a night in the gutter), lose any wager, and the GM may add a complication, such as a debt they owe to a barkeep, a brawl that got too wild, or the player may find themselves waking up somewhere they don't recognize.
 
 - - -
 
 ## Stir Unrest
  
-A single agitator with a printing press, a grievance, and a little funding can do what an army cannot. **Stir Unrest** is a long project that builds popular discontent in a community toward a **Tipping Point**, at which the populace acts — a strike, a riot, a coup, a secession, a revolution.
+**Summary.** A single agitator with a printing press, a grievance, and a little funding can do what an army cannot. This is a long project that builds or reinforces popular discontent in a community toward a tipping point, at which the populace acts. The people may organize a strike, stage a riot, plot a coup, a secession, a revolution, etc.
  
-The character chooses a **scope** as per Table: Stir Unrest and pays the listed weekly cost on pamphlets, safehouses, bribes, and the care and feeding of a clandestine network. Each week they make one check, approved by the Narrator to fit their method: Charisma (Persuasion) to rally, Charisma (Deception) to spread propaganda, Charisma (Intimidation) to coerce, or Intelligence (Investigation) to organize cells and supply lines.
+**Resources.** The character chooses a **scope** as per Table: Stir Unrest and pays the listed cost on materials and labor. Pamphlets, safehouses, bribes, and the care and feeding of a clandestine network. Each slot they make one check, approved by the GM to fit their method: Charisma (Persuasion) to rally, Charisma (Deception) to spread propaganda, Charisma (Intimidation) to coerce, or Intelligence (Investigation) to organize cells and supply lines.
  
 - **Success.** The movement grows. Gain **1d4 Unrest**.
 - **Success by 5 or more.** A breakthrough. Gain **2d4 Unrest**.
