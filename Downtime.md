@@ -484,6 +484,89 @@ The Train activity allows a character to learn a new weapon, language, or tool 
 
 ---
 
+### Train (Skill or Tool Proficiency)
+ 
+**Summary.** Invest downtime under a qualified trainer to advance your proficiency tier in a skill or tool, progressing from Untrained through Trained, Proficient, Expert, and Master. Progress is cumulative — a single track from 0 to 200, with milestone unlocks at each tier. Unlike most project activities, training is long-form (measured in weeks or months) and bridges into slot play at 1 week = 5 slots.
+ 
+**Resources.** Requires a trainer at or above the target proficiency tier in the specific skill or tool being taught. Cost per slot increases with each tier. You must meet the level gate before you can begin training toward a tier, and you cannot skip tiers. Progress-to-Goal.
+ 
+#### **Training Progression**
+ 
+| **Tier** | **Bonus** | **Progress Threshold** | **Incremental** | **Cost / Slot** | **Total Cost** | **Level Gate** | **DC** |
+| :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: |
+| Trained | ½ × PB | 25 | 25 | 5 gp | 125 gp | — | 10 |
+| Proficient | 1 × PB | 50 | 25 | 10 gp | 250 gp | 5+ | 14 |
+| Expert | 1½ × PB | 100 | 50 | 25 gp | 1,250 gp | 9+ | 18 |
+| Master | 2 × PB | 200 | 100 | 50 gp | 5,000 gp | 13+ | 22 |
+^train-progression
+ 
+#### **Trainer Boost**
+ 
+A trainer whose proficiency tier exceeds the tier you are training toward accelerates your progress. For each tier the trainer exceeds the target, you gain +1 additional progress per successful check. This multiplier applies to all progress gained, including from a Critical Success.
+ 
+> **Progress Multiplier = 1 + (Trainer Tier − Target Tier)**
+ 
+| **Trainer Tier** | **→ Trained** | **→ Proficient** | **→ Expert** | **→ Master** |
+| :-- | :--: | :--: | :--: | :--: |
+| Trained | ×1 | — | — | — |
+| Proficient | ×2 | ×1 | — | — |
+| Expert | ×3 | ×2 | ×1 | — |
+| Master | ×4 | ×3 | ×2 | ×1 |
+^train-boost
+ 
+*Example: A Master trainer teaching a character from Untrained toward Trained grants ×4 progress — each success yields 4 progress, each Critical Success yields 8. The same Master trainer teaching Expert → Master grants only ×1 (normal). Mastery cannot be rushed.*
+ 
+**Resolution.** At the end of the slot, the player makes an Ability Check using the skill or tool they are training in, against the DC of their current target tier.
+ 
+> [!tip] Use of Skills
+> As the GM, let the player explain how their training session went and what skill they plan to use. The default check is the skill or tool being trained — a character training Stealth rolls a Dexterity (Stealth) check; one training smith's tools rolls an appropriate smith's tools check. 
+> 
+> **Skill Ideas**
+> - use their **Athletics** to drill combat forms with a weapon trainer
+> - use their **Arcana** to study the theoretical underpinnings of a magical tool
+> - use their **Performance** to demonstrate technique back to the trainer as proof of internalization
+> - etc.
+ 
+After the downtime slot is spent, the player makes a roll adjudicated by the GM. 
+
+On a success, the player gains +1 progress towards their goal (modified by any Trainer Boost), while a **Critical Success** grants **+2** progress (also modified by Trainer Boost) and Advantage on their next training check for this skill or tool. Once the player reaches the threshold for their target tier, they gain the listed proficiency bonus and may immediately begin training toward the next tier if they meet its level gate. 
+
+A **Critical Failure** does not cause the player to lose progress, but they gain none; at the GM's discretion, the character suffers a training setback — a minor injury sustained during drills (1 level of Fatigue), a bad habit that must be corrected (Disadvantage on their next training check), or a strained relationship with the trainer that requires a Charisma check to mend before continuing.
+ 
+**Cumulative Progress.** Training uses a single progress track per skill or tool, running from 0 to 200. When your progress reaches a tier's threshold, you immediately gain that tier's proficiency bonus and the tier is permanently unlocked. All prior progress counts toward higher tiers — a character who reaches Trained (25 progress) needs only 25 more progress to reach Proficient (50 total), not a fresh 50.
+ 
+> [!note] Class Features and Proficiency Tiers
+> Class features that grant proficiency in a skill or tool (e.g., a Rogue's starting skills) set the character to Proficient in that skill — they add their full Proficiency Bonus. Features that grant "expertise" or "double your proficiency bonus" at early levels (such as **Expertise** at Rogue 1 or Bard 3) set the tier to Expert (1½ × PB), not Master. Features that grant expertise at higher levels (11+) may grant Master at the GM's discretion. A character who gains a tier through a class feature does not retroactively spend downtime or gold — the feature represents training inherent in that class's progression. Their progress track is set to the threshold of the granted tier for the purpose of further advancement.
+ 
+> [!note] Proficiency Bonus by Tier — Quick Reference
+> All values rounded down. PB increases at levels 5, 9, 13, and 17.
+>
+> | **Level** | **PB** | **Trained (½)** | **Proficient (×1)** | **Expert (1½)** | **Master (×2)** |
+> | :--: | :--: | :--: | :--: | :--: | :--: |
+> | 1–4 | +2 | +1 | +2 | +3 | +4 |
+> | 5–8 | +3 | +1 | +3 | +4 | +6 |
+> | 9–12 | +4 | +2 | +4 | +6 | +8 |
+> | 13–16 | +5 | +2 | +5 | +7 | +10 |
+> | 17–20 | +6 | +3 | +6 | +9 | +12 |
+ 
+> [!warning] Finding Trainers
+> Trainers must hold at least the target tier in the specific skill or tool being taught. Trained and Proficient trainers are common in most settlements — guild artisans, local scholars, militia sergeants. Expert trainers are rarer, typically found in major cities, specialist academies, or among veteran adventurers. Master trainers are exceptional individuals — the finest swordsmiths, legendary scouts, archmage-level scholars — and locating one may be an adventure in itself. The GM determines trainer availability as a worldbuilding lever; the scarcity of high-tier trainers is an intentional limiting factor on the system.
+ 
+> [!warning] Expected Timeline — GM Reference
+> The following assumes a primary-skill character (ability mod +3 to +5 depending on level) training at-tier (×1 multiplier) with no feat bonuses. Success rates assume the flat DCs above.
+>
+> | **Tier** | **Incremental Progress** | **~Success Rate** | **~Slots to Complete** | **~Weeks** |
+> | :-- | :--: | :--: | :--: | :--: |
+> | Trained | 25 | 65–70% | 36–38 | 7–8 |
+> | Proficient | 25 | 55–60% | 42–45 | 8–9 |
+> | Expert | 50 | 55–65% | 77–91 | 15–18 |
+> | Master | 100 | 55–60% | 167–182 | 33–36 |
+> | **Untrained → Master** | **200** | — | **~320–356** | **~64–71** |
+>
+> With a Master trainer from Untrained, the total compresses to roughly 150–180 slots (30–36 weeks) due to the boost on the early tiers. Master-tier training is never boosted and always dominates the timeline.
+
+
+
 ### Revelry
  
 **Summary.** Sometimes you just need to cut loose. Indulging is a slot spent drinking, gambling, feasting, and reveling for no other reason but to enjoy it and shed the weight of the life of an adventurer. It costs 5 to 100 gp, plus whatever you choose to wager (if gambling). 
