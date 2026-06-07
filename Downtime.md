@@ -395,12 +395,12 @@ Wizards and Sorcerers require a collection of arcane tomes. Clerics and Paladi
  
 #### **Spell Modifications**
 
-| **Modification** |**DC Mod**|**Effect**|**Examples** |
-| ---------- | :--------: | ------------- | ----------------- |
+| **Modification**  | **DC Mod** | **Effect**                                                                                                                                                         | **Examples**                                                                                                                                             |
+| ----------------- | :--------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Altered Effect    |     +0     | The spell’s primary effect is changed. This can be used to add or alter a spell's damage type, affect what the spell targets, or otherwise modify its core effect. | A *fireball* that inflicts Cold damage instead of Fire; a *lightning bolt* reshaped into a cone; *invisibility* cast on an object instead of a creature. |
-| Lingering Effect  |     +1     | A minor secondary effect lingers for a short time after the spell resolves.                         | A *fireball* that leaves targets Burning; a *cone of cold* that leaves a target Slowed; an *inflict wounds* that leaves the target Withered.   |
-| Additional Effect |     +2     | A second effect is layered onto the spell's main function, taking hold at the same time.            | An *ice storm* that also inflicts Frostbite; a *thunderwave* that leaves targets Rattled; a *shocking grasp* that leaves the target Shocked.   |
-| Additional Target |     +3     | The spell gains the means to affect one or more additional creatures.                               | An *Immobilizing* hold that spreads to a creature within 5 ft; a *suggestion* that passes to new listeners through conversation |
+| Lingering Effect  |     +1     | The spell has a secondary effect that occurs after the spell has ended.                                                                                            | A *fireball* that leaves targets Burning; a *cone of cold* that leaves a target Slowed; an *inflict wounds* that leaves the target Withered.             |
+| Additional Effect |     +2     | An additional effect is added to the spell’s primary function.                                                                                                     | An *ice storm* that inflicts Frostbite for the duration.                                                                                                 |
+| Additional Target |     +3     | The spell gains the means to affect one or more additional creatures.                                                                                              | An *Immobilizing* hold that spreads to a creature within 5 ft; a *suggestion* that passes to new listeners through conversation                          |
 ^spell-modifications
  
 #### **Rare Spell Crafting**
@@ -572,45 +572,41 @@ On a success, the player gains +1 progress towards their goal, while a **Critica
 
 ### Train 
 
-#### Signature Maneuvers
-
-**Summary.** This downtime activity allows spellcasters to create rare spells by refining their knowledge. Pick a common version of a spell that the character knows and choose one modification from the modifications table. Alternatively, with the GM’s permission a character may choose one rare spell, provided it is of a level they can cast.
- 
-**Resources.** To craft a rare spell, a character chooses a common spell they know and one modification from Table: Spell Modifications (or, with the GM’s permission, a rare spell of a level they can cast). In order to invent a rare spell, a character must have access to the appropriate type of library and pay the per-week materials cost. 
+#### Signature Exploits
 
 Wizards and Sorcerers require a collection of arcane tomes. Clerics and Paladins must have access to books of esoteric lore and theological texts. Druids need a sacred place of nature untouched by civilization. Bards utilize folios of magical compositions. Warlocks require forbidden texts and works of the occult. Etc.
 
 
 
-**Summary.** This activitiy allows martial adepts to refine their exploits into signature exploits. Signature exploits are a version uniquely their own, sharpened with small advantages such as greater force, an added effect, or a second target. Refinement requires dedicated training and is the martial twin of Spellcraft.
+**Summary.** This activity allows martial adepts to refine their exploits into signature exploits. Signature exploits are a version uniquely their own, sharpened with small advantages such as greater force, an added effect, or a second target. Characters must pick an exploit they know and choose  one modification from the modifications table. Alternatively, with the GM’s permission a character may choose one signature exploit, provided it is of a degree they can perform.
  
-**Resources.** To refine a maneuver, a character must know the maneuver and be able to use it (having access to its tradition and the exertion to spend), train under a **trainer** of the appropriate Mastery rank, have a place to train and a sparring partner, and pay the per-slot cost listed in the Mastery table — the trainer's fee, practice gear, and the equipment such drilling wears out. Progress-to-Goal. One check per slot. Each rank is a separate project; progress does not carry between ranks.
+**Resources.** To refine an exploit, a character must know the exploit and be able to perform it, train under a trainer  and/or have a place to train and a sparring partner, and pay the per-slot cost listed in the Mastery table. 
  
-#### **Signature Maneuver Modifications**
+#### **Exploit Modifications**
  
 | **Modification** | **DC Mod** | **Effect** | **Examples** |
 | :-- | :--: | :-- | :-- |
-| Altered Effect | +0 | Change a non-numeric facet of the maneuver — its damage type, the save ability, or the ability used to perform it — without changing its power. | A **cleaving swing** that deals Cold damage and inflicts Frostbite instead of its base type; a **razor whip** that targets Strength instead of Dexterity. |
-| Reduced Exertion | +1 | Reduce the maneuver's exertion cost by 1 (minimum 0). May only be applied once. | A **thundering roar** that costs 1 exertion instead of 2; a **whirlwind strike** that costs 2 instead of 3. |
+| Altered Effect | +0 | Change a non-numeric facet of the exploit — its damage type, the save ability, or the ability used to perform it — without changing its power. | A **cleaving swing** that deals Cold damage and inflicts Frostbite instead of its base type; a **razor whip** that targets Strength instead of Dexterity. |
+| Reduced Exertion | +1 | Reduce the exploit's exertion cost by 1 (minimum 0). May only be applied once. | A **thundering roar** that costs 1 exertion instead of 2; a **whirlwind strike** that costs 2 instead of 3. |
 | Increased Effect | +1 | Improve one number by the smallest sensible step: +1 expertise die of damage, +5 ft of forced movement or reach, +1 to a granted bonus, or +1 round of duration. | A **menacing attack** that pushes 10 ft instead of 5 ft; a **defensive stance** that grants +2 AC instead of +1. |
 | Lingering Effect | +1 | A minor part of the effect persists for 1 round after it would normally end. | A **disarming assault** that leaves the target Rattled for 1 extra round; a **sweeping strike** that leaves targets Dazed. |
 | Additional Effect | +2 | A small secondary effect on a success — a push, a condition, or temporary hit points. | A **gouging strike** that also inflicts Bleeding; a **shield bash** that also leaves the target Weakened; a **rallying cry** that also grants a few temporary hit points. |
-| Additional Target | +2 | The maneuver affects one additional creature within its reach or range. | A **battering roar** that Rattles two targets; a **lunging strike** that hits a second creature within 5 ft. |
-| Improved Action | +2 | Shift the maneuver's action economy once — for example, Bonus Action instead of Action (once per turn), or folding it into another Attack. | A **rallying cry** delivered as a Bonus Action instead of an Action; a **parrying counter** that can be used without spending a Reaction. |
-^signature-maneuver-modifications
+| Additional Target | +2 | The exploit affects one additional creature within its reach or range. | A **battering roar** that Rattles two targets; a **lunging strike** that hits a second creature within 5 ft. |
+| Improved Action | +2 | Shift the exploit's action economy once — for example, Bonus Action instead of Action (once per turn), or folding it into another Attack. | A **rallying cry** delivered as a Bonus Action instead of an Action; a **parrying counter** that can be used without spending a Reaction. |
+^signature-exploit-modifications
  
-#### **Signature Maneuver Mastery**
+#### **Signature Exploit Mastery**
  
 | **Rank** | **Trainer Required** | **Modifications** | **Rank DC Mod** | **Successful Slots** | **Cost / Slot** |
 | :-- | :-- | :--: | :--: | :--: | :--: |
-| Untrained | — | 0 (base maneuver) | — | — | — |
+| Untrained | — | 0 (base exploit) | — | — | — |
 | Trained | Trained+ | 1 | +0 | 20 | 5 gp |
 | Proficient | Proficient+ | 2 | +1 | 30 | 10 gp |
 | Expert | Expert+ | 3 | +2 | 40 | 20 gp |
 | Master | Master+ | 4 | +3 | 50 | 40 gp |
-^signature-maneuver-mastery
+^signature-exploit-mastery
  
-#### **Maneuver Training DC (by Degree)**
+#### **Exploit Training DC (by Degree)**
  
 | **Degree** | **Base DC** |
 | :-- | :--: |
@@ -620,16 +616,16 @@ Wizards and Sorcerers require a collection of arcane tomes. Clerics and Paladi
 | 3rd degree | 18 |
 | 4th degree | 20 |
 | 5th degree | 22 |
-^maneuver-training-dc
+^exploit-training-dc
  
 > *Training DC = base DC (degree) + modification DC mod + rank DC mod*
  
-**Resolution.** Choose a maneuver you know and the single modification you wish to train at the new rank. The **Training DC** equals the base DC for the maneuver's degree, plus the modification's DC modifier, plus the target rank's DC modifier. At the end of the slot, the player makes an Ability Check using the score that governs their maneuvers, against the Training DC.
+**Resolution.** Choose a exploit you know and the single modification you wish to train at the new rank. The **Training DC** equals the base DC for the exploit's degree, plus the modification's DC modifier, plus the target rank's DC modifier. At the end of the slot, the player makes an Ability Check using the score that governs their exploits, against the Training DC.
  
 > [!tip] Use of Skills
 > As the GM, let the player explain how their training session went and what skill they plan to use. **Skill Ideas** — use their **Athletics** for forceful traditions (Adamant Mountain, Tempered Iron); use their **Acrobatics** for fluid traditions (Rapid Current, Mist & Shade, Mirror's Glint); use their **Animal Handling** for mounted or bestial traditions (Spirited Steed, Tooth & Claw); etc.
  
-After the downtime slot is spent, the player makes a roll adjudicated by the GM. On a success, the player gains +1 progress towards their goal (modified by any Trainer Boost), while a **Critical Success** grants **+2** progress (also modified by Trainer Boost) and Advantage on the character's next training check for this maneuver. Once the player reaches the Successful Slots threshold for their target rank, the new modification is locked into the Signature Maneuver and the rank-up is complete. A **Critical Failure** does not cause the player to lose progress, but they gain none; at the GM's discretion, the character suffers a training injury — a pulled muscle or bruised rib (1 level of Fatigue), a bad habit drilled in that must be corrected (Disadvantage on the next training check), or a sparring mishap that strains the relationship with the trainer.
+After the downtime slot is spent, the player makes a roll adjudicated by the GM. On a success, the player gains +1 progress towards their goal (modified by any Trainer Boost), while a **Critical Success** grants **+2** progress (also modified by Trainer Boost) and Advantage on the character's next training check for this exploit. Once the player reaches the Successful Slots threshold for their target rank, the new modification is locked into the Signature Exploit and the rank-up is complete. A **Critical Failure** does not cause the player to lose progress, but they gain none; at the GM's discretion, the character suffers a training injury — a pulled muscle or bruised rib (1 level of Fatigue), a bad habit drilled in that must be corrected (Disadvantage on the next training check), or a sparring mishap that strains the relationship with the trainer.
  
 #### **Trainer Boost**
  
@@ -647,16 +643,16 @@ A trainer whose Mastery rank exceeds the rank being trained accelerates progress
  
 *A Master trainer teaching a character toward Trained rank grants ×4 progress — the fundamentals come fast under an expert eye. Teaching Expert → Master grants only ×1. True mastery cannot be rushed.*
  
-**Example.** Borvald knows **cleaving swing**, a 1st-degree Adamant Mountain maneuver that costs 2 exertion. He finds a Trained mentor and drills **Reduced Exertion** into it. His Training DC is 14 (1st degree) + 1 (Reduced Exertion) + 0 (Trained rank) = **DC 15**, and he needs **20 successful slots** at 5 gp each. When he finishes, his Signature **cleaving swing** costs only 1 exertion. Later, he seeks a Proficient master to reach the next rank, adding **Increased Effect** (+1 expertise die of damage) at DC 14 + 1 + 1 = **DC 16** over **30 successful slots** — and his technique becomes deadlier still.
+**Example.** Borvald knows **cleaving swing**, a 1st-degree Adamant Mountain exploit that costs 2 exertion. He finds a Trained mentor and drills **Reduced Exertion** into it. His Training DC is 14 (1st degree) + 1 (Reduced Exertion) + 0 (Trained rank) = **DC 15**, and he needs **20 successful slots** at 5 gp each. When he finishes, his Signature **cleaving swing** costs only 1 exertion. Later, he seeks a Proficient master to reach the next rank, adding **Increased Effect** (+1 expertise die of damage) at DC 14 + 1 + 1 = **DC 16** over **30 successful slots** — and his technique becomes deadlier still.
  
-> [!note] Designing a Signature Maneuver
-> As with rare spells, every Signature Maneuver should be approved by the GM. Keep each modification small — a single step of improvement, never a wholesale rewrite — and never reduce a maneuver's exertion below 0. The modifications stack into one customized version of the maneuver, which the character uses in place of the original. As a soft cap, a character can maintain a number of Signature Maneuvers equal to their Proficiency Bonus; most adepts perfect only one or two in a lifetime.
+> [!note] Designing a Signature Exploit
+> As with rare spells, every Signature Exploit should be approved by the GM. Keep each modification small — a single step of improvement, never a wholesale rewrite — and never reduce a exploit's exertion below 0. The modifications stack into one customized version of the exploit, which the character uses in place of the original. As a soft cap, a character can maintain a number of Signature Exploits equal to their Proficiency Bonus; most adepts perfect only one or two in a lifetime.
  
 > [!warning] Finding Trainers
-> A trainer must hold at least the target Mastery rank in the same maneuver — or, at the GM's discretion, in its tradition. Trained and Proficient practitioners are found in most fighting schools, mercenary companies, and city guard academies. Expert trainers are veterans of renown — retired champions, war-order officers, or wandering swordmasters. Master trainers are legendary figures; finding one may require a quest of its own, and they rarely teach for coin alone. A character who reaches Master may serve as a trainer for others, up to that rank.
+> A trainer must hold at least the target Mastery rank in the same exploit — or, at the GM's discretion, in its tradition. Trained and Proficient practitioners are found in most fighting schools, mercenary companies, and city guard academies. Expert trainers are veterans of renown — retired champions, war-order officers, or wandering swordmasters. Master trainers are legendary figures; finding one may require a quest of its own, and they rarely teach for coin alone. A character who reaches Master may serve as a trainer for others, up to that rank.
  
-> [!note] Inventing New Maneuvers
-> In addition to refining existing maneuvers, it is possible to create entirely new ones. This typically represents a career-defining achievement for a martial adept, with DCs and specifics set by the GM using these rules as a guide. As with rare spells, to invent a new maneuver entirely would have the same DCs, but **double** the cost and needed slots, as the Signature Maneuver Mastery table.
+> [!note] Inventing New Exploits
+> In addition to refining existing exploits, it is possible to create entirely new ones. This typically represents a career-defining achievement for a martial adept, with DCs and specifics set by the GM using these rules as a guide. As with rare spells, to invent a new exploit entirely would have the same DCs, but **double** the cost and needed slots, as the Signature Exploit Mastery table.
 
 ### Revelry
  

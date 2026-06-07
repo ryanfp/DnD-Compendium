@@ -6,7 +6,7 @@
       {
         "id": "0f4096b47ff804e0",
         "type": "tabs",
-        "dimension": 49.21383647798743,
+        "dimension": 33.30380868024801,
         "children": [
           {
             "id": "8a3cba7aa4f7df30",
@@ -507,9 +507,55 @@
         "currentTab": 5
       },
       {
+        "id": "74895d23a1689b21",
+        "type": "tabs",
+        "dimension": 30.558015943312668,
+        "children": [
+          {
+            "id": "05ce7709bb8a8250",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Homebrew Conditions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/Homebrew Conditions.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Homebrew Conditions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":236,\"ch\":22},\"to\":{\"line\":236,\"ch\":22}},\"scroll\":142.48958333333334}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Downtime.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Downtime"
+            }
+          }
+        ]
+      },
+      {
         "id": "5e90b3ed8d44b9fb",
         "type": "tabs",
-        "dimension": 50.78616352201257,
+        "dimension": 36.13817537643932,
         "children": [
           {
             "id": "e412e82fc9908b96",
@@ -829,7 +875,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 232.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc1490c296b0c5ab",
@@ -1084,7 +1131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -1122,7 +1169,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "a806784ad4447ca4",
+  "active": "05ce7709bb8a8250",
   "lastOpenFiles": [
     "small checklist-delete.md",
     "Downtime.md",
