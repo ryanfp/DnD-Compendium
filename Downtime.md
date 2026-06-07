@@ -462,29 +462,10 @@ On a **success**, the character earns the gold listed and supports their chosen 
 
 - - -
 
-### Train
-
-The Train activity allows a character to learn a new weapon, language, or tool proficiency, or it can be used to swap a class feature or feat that they learned previously.
-
-**Language or Tool**. Learning a new language or tool proficiency requires a character to spend a number of months equal to 12 - their Intelligence modifier and pay 50 gold pieces per month to retain a tutor. If a character does not wish to pay for or does not have access to a tutor, they must have another reliable means of learning and the time required is doubled. At the end of this period, the character acquires the proficiency.
-
-**Weapon**. Learning a new weapon proficiency requires a character spend a number of months equal to 6 - their Strength or Dexterity modifier (whichever is highest) training and pay 50 gold pieces per month to retain a tutor. At the end of this time period, the character acquires the weapon proficiency.
-
-**Feat.** To swap a feat gained through leveling to another feat, a character may spend a number of months equal to 8 – their proficiency bonus and pay 50 gold pieces each month to acquire practice materials and advice from experts in the feat they are learning.
-
-#### Training
-
-| **Activity**   | **Time** | **Cost** |
-| -------------------------------- | ------------------------------ | -------- |
-| New language or tool proficiency | 12 - Int modifier months | 50/month |
-| New weapon proficiency | 6 - Str or Dex modifier months | 50/month |
-| Swap feat  | 8 - proficiency bonus months   | 50/month |
-
-^training
 
 ---
 
-### Train 
+### Learn 
 
 #### Skill or Tool Proficiency
  
@@ -536,79 +517,146 @@ A failure does not cause the player to lose progress, instead they gain none. Wh
 > 
 > Expert trainers are rarer, typically found in major cities, specialist academies, or found among veteran adventurers. Master trainers are exceptional individuals. They are the finest swordsmiths, legendary scouts, archmage-level scholars, and locating one may be an adventure in and of itself.
 
-#### Train (Language)
- 
-**Summary.** Study a new language under a tutor until fluency is achieved. Cheaper and less demanding than skill training, but a long-term investment — a character's Intelligence naturally determines the pace. Progress-to-Goal; each slot represents study sessions, conversation practice, and immersion exercises.
- 
-**Resources.** Requires a tutor fluent in the target language, or a reliable alternative means of study (a comprehensive phrasebook, an immersive cultural environment, a *comprehend languages*-speaking ally willing to drill conversation). Cost: **3 gp per slot.** Without a tutor, the character may still train using an alternate means, but all checks are made with Disadvantage. Goal: **100 progress.** No level gate.
-
 - - -
+
+#### Language
+ 
+**Summary.** Study a new language under a tutor until fluency is achieved. 
+ 
+**Resources.** Requires a tutor fluent in the target language, or a reliable alternative means of study. Once the character decides to spend their time learning a language, they must pay the upfront cost and find their means of study.
  
 ##### **Language Training**
  
 | **Goal** | **DC** | **Cost / Slot** | **Check** |
 | :--: | :--: | :--: | :-- |
-| 100 | 12 | 3 gp | Intelligence (any relevant skill) |
+| 150 - (INT mod * 20) | 12 | 5 gp | Intelligence (any relevant skill) |
 ^train-language
  
-**Resolution.** At the end of the slot, the player makes an Intelligence check against DC 12. The GM may allow a relevant skill to apply.
+**Resolution.** At the end of the slot, the player makes an Intelligence-related skill check against a DC of 12.
  
 > [!tip] Use of Skills
-> As the GM, let the player explain how they spent their study session and what approach they used. **Skill Ideas** — use their **Culture** to absorb idioms and social register through cultural immersion; use their **History** to study the language's etymological roots and written tradition; use their **Deception** to practice blending in with native speakers by mimicking accent and cadence; etc.
+> As the GM, let the player explain how they spent their study session and what approach they used. 
+> 
+> **Skill Ideas** 
+> - use their **Culture** to absorb idioms and social register through cultural immersion
+> - use their **History** to study the language's etymological roots and written tradition
+> - use their **Arcana** to read ancient tomes written by fiends or celestials
+> - etc.
  
-After the downtime slot is spent, the player makes a roll adjudicated by the GM. On a success, the player gains +1 progress towards their goal, while a **Critical Success** grants **+2** progress and Advantage on their next training check for this language. Once the player reaches 100 progress, they gain proficiency in the language and the activity is resolved. A **Critical Failure** does not cause the player to lose progress, but they gain none; at the GM's discretion, the character suffers a study setback — an embarrassing miscommunication that shakes their confidence (Disadvantage on their next training check), or an accidental cultural offense that strains their access to a tutor or practice community.
- 
-> [!note] Expected Timeline by Intelligence Modifier
-> Assumes training with a tutor (no Disadvantage). Slots listed are expected total attempts, not just successful checks.
->
-> | **Int Mod** | **Success Rate** | **~Slots** | **~Weeks** | **~Months** | **Total Cost** |
-> | :--: | :--: | :--: | :--: | :--: | :--: |
-> | +0 | 45% | 222 | 44 | 11 | 666 gp |
-> | +1 | 50% | 200 | 40 | 10 | 600 gp |
-> | +2 | 55% | 182 | 36 | 9 | 546 gp |
-> | +3 | 60% | 167 | 33 | 8 | 501 gp |
-> | +4 | 65% | 154 | 31 | 8 | 462 gp |
-> | +5 | 70% | 143 | 29 | 7 | 429 gp |
->
-> Without a tutor (Disadvantage), expect roughly 1.5–2× the listed timeframe. The original A5E rule of (12 − Int mod) months is closely preserved: a +3 Int character finishes in ~8 months, a +0 in ~11.
+After the downtime slot is spent, the player makes a roll adjudicated by the GM. 
+
+On a success, the player gains +1 progress towards their goal, while a **Critical Success** grants **+2** progress and Advantage on their next training check for this language. Once the player reaches 100 progress, they gain proficiency in the language and the activity is resolved. 
+
+A failure does not cause the player to lose progress, they instead gain none. On a **Critical Failure**, the character must pay double the cost for the downtime slot.
  
 - - -
+
+#### Weapon Proficiency
  
-#### Train (Weapon Proficiency)
+**Summary.** A character drills with a new weapon under a trainer's guidance until basic proficiency is achieved. 
  
-**Summary.** Drill with a new weapon under a trainer's guidance until basic proficiency is achieved. Faster and cheaper than language or skill training — martial fundamentals are physical pattern-building rather than a body of knowledge. Progress-to-Goal; each slot represents sparring bouts, form drills, and target practice.
- 
-**Resources.** Requires a trainer proficient with the target weapon. Access to the weapon or a practice equivalent is assumed. Cost: **3 gp per slot.** Goal: **30 progress.** No level gate.
+**Resources.** Requires a trainer proficient with the target weapon. Access to the weapon or a practice equivalent is assumed. Once the character chooses the weapon they want to train with, they must pay the upfront cost and find their sparring partner or other means of training.
  
 ##### **Weapon Training**
  
 | **Goal** | **DC** | **Cost / Slot** | **Check** |
 | :--: | :--: | :--: | :-- |
-| 30 | 12 | 3 gp | Strength or Dexterity (whichever is higher) |
+| 100 - (STR/DEX mod * 20) | 12 | 5 gp | Attack roll with chosen weapon |
 ^train-weapon
  
-**Resolution.** At the end of the slot, the player makes a Strength or Dexterity check (whichever is higher, or whichever the weapon primarily uses) against DC 12. The GM may allow a relevant skill to apply.
- 
-> [!tip] Use of Skills
-> As the GM, let the player explain how their training session went and what approach they used. **Skill Ideas** — use their **Athletics** to power through endurance drills and build muscle memory for heavy weapons; use their **Acrobatics** to practice the footwork and quick transitions of a finesse weapon; use their **Perception** to study the trainer's form and identify subtleties of timing and distance; etc.
- 
-After the downtime slot is spent, the player makes a roll adjudicated by the GM. On a success, the player gains +1 progress towards their goal, while a **Critical Success** grants **+2** progress and Advantage on their next training check for this weapon. Once the player reaches 30 progress, they gain proficiency with the weapon and the activity is resolved. A **Critical Failure** does not cause the player to lose progress, but they gain none; at the GM's discretion, the character suffers a training injury — a bruised rib or pulled muscle (1 level of Fatigue), or a flinch reflex that must be corrected (Disadvantage on their next training check).
- 
-> [!note] Expected Timeline by Ability Modifier
-> Assumes training with a tutor. Uses the higher of Strength or Dexterity modifier.
->
-> | **Str/Dex Mod** | **Success Rate** | **~Slots** | **~Weeks** | **~Months** | **Total Cost** |
-> | :--: | :--: | :--: | :--: | :--: | :--: |
-> | +0 | 45% | 67 | 13 | 3 | 201 gp |
-> | +1 | 50% | 60 | 12 | 3 | 180 gp |
-> | +2 | 55% | 55 | 11 | 3 | 165 gp |
-> | +3 | 60% | 50 | 10 | 2.5 | 150 gp |
-> | +4 | 65% | 46 | 9 | 2 | 138 gp |
-> | +5 | 70% | 43 | 9 | 2 | 129 gp |
->
-> Weapon training is roughly 3× faster than language training and 4–6× faster than skill training to Proficient, reflecting that martial fundamentals are drilled physically rather than studied. The original A5E rule of (6 − Str/Dex mod) months is compressed slightly at the low end but closely matched for mid-to-high ability characters.
+**Resolution.** After the downtime slot is spent, the player makes a roll adjudicated by the GM. The player makes an Attack roll with the chosen weapon against a DC of 12. 
+
+On a success, the player gains +1 progress towards their goal, while a **Critical Success** grants **+2** progress and Advantage on their next training check for this weapon. A failure does not cause the player to lose progress, they instead gain none. On a **Critical Failure** the character must pay double the slot cost.
 
 - - -
+
+### Train 
+
+#### Signature Maneuvers
+
+**Summary.** This downtime activity allows spellcasters to create rare spells by refining their knowledge. Pick a common version of a spell that the character knows and choose one modification from the modifications table. Alternatively, with the GM’s permission a character may choose one rare spell, provided it is of a level they can cast.
+ 
+**Resources.** To craft a rare spell, a character chooses a common spell they know and one modification from Table: Spell Modifications (or, with the GM’s permission, a rare spell of a level they can cast). In order to invent a rare spell, a character must have access to the appropriate type of library and pay the per-week materials cost. 
+
+Wizards and Sorcerers require a collection of arcane tomes. Clerics and Paladins must have access to books of esoteric lore and theological texts. Druids need a sacred place of nature untouched by civilization. Bards utilize folios of magical compositions. Warlocks require forbidden texts and works of the occult. Etc.
+
+
+
+**Summary.** This activitiy allows martial adepts to refine their exploits into signature exploits. Signature exploits are a version uniquely their own, sharpened with small advantages such as greater force, an added effect, or a second target. Refinement requires dedicated training and is the martial twin of Spellcraft.
+ 
+**Resources.** To refine a maneuver, a character must know the maneuver and be able to use it (having access to its tradition and the exertion to spend), train under a **trainer** of the appropriate Mastery rank, have a place to train and a sparring partner, and pay the per-slot cost listed in the Mastery table — the trainer's fee, practice gear, and the equipment such drilling wears out. Progress-to-Goal. One check per slot. Each rank is a separate project; progress does not carry between ranks.
+ 
+#### **Signature Maneuver Modifications**
+ 
+| **Modification** | **DC Mod** | **Effect** | **Examples** |
+| :-- | :--: | :-- | :-- |
+| Altered Effect | +0 | Change a non-numeric facet of the maneuver — its damage type, the save ability, or the ability used to perform it — without changing its power. | A **cleaving swing** that deals Cold damage and inflicts Frostbite instead of its base type; a **razor whip** that targets Strength instead of Dexterity. |
+| Reduced Exertion | +1 | Reduce the maneuver's exertion cost by 1 (minimum 0). May only be applied once. | A **thundering roar** that costs 1 exertion instead of 2; a **whirlwind strike** that costs 2 instead of 3. |
+| Increased Effect | +1 | Improve one number by the smallest sensible step: +1 expertise die of damage, +5 ft of forced movement or reach, +1 to a granted bonus, or +1 round of duration. | A **menacing attack** that pushes 10 ft instead of 5 ft; a **defensive stance** that grants +2 AC instead of +1. |
+| Lingering Effect | +1 | A minor part of the effect persists for 1 round after it would normally end. | A **disarming assault** that leaves the target Rattled for 1 extra round; a **sweeping strike** that leaves targets Dazed. |
+| Additional Effect | +2 | A small secondary effect on a success — a push, a condition, or temporary hit points. | A **gouging strike** that also inflicts Bleeding; a **shield bash** that also leaves the target Weakened; a **rallying cry** that also grants a few temporary hit points. |
+| Additional Target | +2 | The maneuver affects one additional creature within its reach or range. | A **battering roar** that Rattles two targets; a **lunging strike** that hits a second creature within 5 ft. |
+| Improved Action | +2 | Shift the maneuver's action economy once — for example, Bonus Action instead of Action (once per turn), or folding it into another Attack. | A **rallying cry** delivered as a Bonus Action instead of an Action; a **parrying counter** that can be used without spending a Reaction. |
+^signature-maneuver-modifications
+ 
+#### **Signature Maneuver Mastery**
+ 
+| **Rank** | **Trainer Required** | **Modifications** | **Rank DC Mod** | **Successful Slots** | **Cost / Slot** |
+| :-- | :-- | :--: | :--: | :--: | :--: |
+| Untrained | — | 0 (base maneuver) | — | — | — |
+| Trained | Trained+ | 1 | +0 | 20 | 5 gp |
+| Proficient | Proficient+ | 2 | +1 | 30 | 10 gp |
+| Expert | Expert+ | 3 | +2 | 40 | 20 gp |
+| Master | Master+ | 4 | +3 | 50 | 40 gp |
+^signature-maneuver-mastery
+ 
+#### **Maneuver Training DC (by Degree)**
+ 
+| **Degree** | **Base DC** |
+| :-- | :--: |
+| Basic | 12 |
+| 1st degree | 14 |
+| 2nd degree | 16 |
+| 3rd degree | 18 |
+| 4th degree | 20 |
+| 5th degree | 22 |
+^maneuver-training-dc
+ 
+> *Training DC = base DC (degree) + modification DC mod + rank DC mod*
+ 
+**Resolution.** Choose a maneuver you know and the single modification you wish to train at the new rank. The **Training DC** equals the base DC for the maneuver's degree, plus the modification's DC modifier, plus the target rank's DC modifier. At the end of the slot, the player makes an Ability Check using the score that governs their maneuvers, against the Training DC.
+ 
+> [!tip] Use of Skills
+> As the GM, let the player explain how their training session went and what skill they plan to use. **Skill Ideas** — use their **Athletics** for forceful traditions (Adamant Mountain, Tempered Iron); use their **Acrobatics** for fluid traditions (Rapid Current, Mist & Shade, Mirror's Glint); use their **Animal Handling** for mounted or bestial traditions (Spirited Steed, Tooth & Claw); etc.
+ 
+After the downtime slot is spent, the player makes a roll adjudicated by the GM. On a success, the player gains +1 progress towards their goal (modified by any Trainer Boost), while a **Critical Success** grants **+2** progress (also modified by Trainer Boost) and Advantage on the character's next training check for this maneuver. Once the player reaches the Successful Slots threshold for their target rank, the new modification is locked into the Signature Maneuver and the rank-up is complete. A **Critical Failure** does not cause the player to lose progress, but they gain none; at the GM's discretion, the character suffers a training injury — a pulled muscle or bruised rib (1 level of Fatigue), a bad habit drilled in that must be corrected (Disadvantage on the next training check), or a sparring mishap that strains the relationship with the trainer.
+ 
+#### **Trainer Boost**
+ 
+A trainer whose Mastery rank exceeds the rank being trained accelerates progress. For each rank the trainer exceeds the target, the character gains +1 additional progress per successful check. This multiplier applies to all progress gained, including from a Critical Success.
+ 
+> **Progress Multiplier = 1 + (Trainer Rank − Target Rank)**
+ 
+| **Trainer Rank** | **→ Trained** | **→ Proficient** | **→ Expert** | **→ Master** |
+| :-- | :--: | :--: | :--: | :--: |
+| Trained | ×1 | — | — | — |
+| Proficient | ×2 | ×1 | — | — |
+| Expert | ×3 | ×2 | ×1 | — |
+| Master | ×4 | ×3 | ×2 | ×1 |
+^signature-trainer-boost
+ 
+*A Master trainer teaching a character toward Trained rank grants ×4 progress — the fundamentals come fast under an expert eye. Teaching Expert → Master grants only ×1. True mastery cannot be rushed.*
+ 
+**Example.** Borvald knows **cleaving swing**, a 1st-degree Adamant Mountain maneuver that costs 2 exertion. He finds a Trained mentor and drills **Reduced Exertion** into it. His Training DC is 14 (1st degree) + 1 (Reduced Exertion) + 0 (Trained rank) = **DC 15**, and he needs **20 successful slots** at 5 gp each. When he finishes, his Signature **cleaving swing** costs only 1 exertion. Later, he seeks a Proficient master to reach the next rank, adding **Increased Effect** (+1 expertise die of damage) at DC 14 + 1 + 1 = **DC 16** over **30 successful slots** — and his technique becomes deadlier still.
+ 
+> [!note] Designing a Signature Maneuver
+> As with rare spells, every Signature Maneuver should be approved by the GM. Keep each modification small — a single step of improvement, never a wholesale rewrite — and never reduce a maneuver's exertion below 0. The modifications stack into one customized version of the maneuver, which the character uses in place of the original. As a soft cap, a character can maintain a number of Signature Maneuvers equal to their Proficiency Bonus; most adepts perfect only one or two in a lifetime.
+ 
+> [!warning] Finding Trainers
+> A trainer must hold at least the target Mastery rank in the same maneuver — or, at the GM's discretion, in its tradition. Trained and Proficient practitioners are found in most fighting schools, mercenary companies, and city guard academies. Expert trainers are veterans of renown — retired champions, war-order officers, or wandering swordmasters. Master trainers are legendary figures; finding one may require a quest of its own, and they rarely teach for coin alone. A character who reaches Master may serve as a trainer for others, up to that rank.
+ 
+> [!note] Inventing New Maneuvers
+> In addition to refining existing maneuvers, it is possible to create entirely new ones. This typically represents a career-defining achievement for a martial adept, with DCs and specifics set by the GM using these rules as a guide. As with rare spells, to invent a new maneuver entirely would have the same DCs, but **double** the cost and needed slots, as the Signature Maneuver Mastery table.
 
 ### Revelry
  

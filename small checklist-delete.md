@@ -14,14 +14,12 @@ List of Activities:
 - [x] Religious Devotion
 - [x] Spellcraft
 - [x] Work
-- [ ] Train (Proficiency)
-	- [ ] Weapon
-	- [ ] ~~Armor~~
-	- [ ] Language
+- [x] Learn (Proficiency)
+	- [x] Language
 	- [x] Tool
-	- [ ] ~~Feat~~
 	- [x] Skill
-- [ ] Sparring
-	- (Train Exploits)
+- [x] Train
+	- ( Exploits)
+	- [x] Weapon
 - Revolution/Stir Unrest
 - Animal Training
