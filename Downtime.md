@@ -581,51 +581,45 @@ Wizards and Sorcerers require a collection of arcane tomes. Clerics and Paladi
 **Summary.** This activity allows martial adepts to refine their exploits into signature exploits. Signature exploits are a version uniquely their own, sharpened with small advantages such as greater force, an added effect, or a second target. Characters must pick an exploit they know and choose  one modification from the modifications table. Alternatively, with the GM’s permission a character may choose one signature exploit, provided it is of a degree they can perform.
  
 **Resources.** To refine an exploit, a character must know the exploit and be able to perform it, train under a trainer  and/or have a place to train and a sparring partner, and pay the per-slot cost listed in the Mastery table. 
- 
+
 #### **Exploit Modifications**
  
-| **Modification** | **DC Mod** | **Effect** | **Examples** |
-| :-- | :--: | :-- | :-- |
-| Altered Effect | +0 | Change a non-numeric facet of the exploit — its damage type, the save ability, or the ability used to perform it — without changing its power. | A **cleaving swing** that deals Cold damage and inflicts Frostbite instead of its base type; a **razor whip** that targets Strength instead of Dexterity. |
-| Reduced Exertion | +1 | Reduce the exploit's exertion cost by 1 (minimum 0). May only be applied once. | A **thundering roar** that costs 1 exertion instead of 2; a **whirlwind strike** that costs 2 instead of 3. |
-| Increased Effect | +1 | Improve one number by the smallest sensible step: +1 expertise die of damage, +5 ft of forced movement or reach, +1 to a granted bonus, or +1 round of duration. | A **menacing attack** that pushes 10 ft instead of 5 ft; a **defensive stance** that grants +2 AC instead of +1. |
-| Lingering Effect | +1 | A minor part of the effect persists for 1 round after it would normally end. | A **disarming assault** that leaves the target Rattled for 1 extra round; a **sweeping strike** that leaves targets Dazed. |
-| Additional Effect | +2 | A small secondary effect on a success — a push, a condition, or temporary hit points. | A **gouging strike** that also inflicts Bleeding; a **shield bash** that also leaves the target Weakened; a **rallying cry** that also grants a few temporary hit points. |
-| Additional Target | +2 | The exploit affects one additional creature within its reach or range. | A **battering roar** that Rattles two targets; a **lunging strike** that hits a second creature within 5 ft. |
-| Improved Action | +2 | Shift the exploit's action economy once — for example, Bonus Action instead of Action (once per turn), or folding it into another Attack. | A **rallying cry** delivered as a Bonus Action instead of an Action; a **parrying counter** that can be used without spending a Reaction. |
-^signature-exploit-modifications
+| **Modification**  | **DC Mod** | **Effect**                                                                                                                                  | Examples                                                                                                                                                                            |
+| ----------------- | :--------: | ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Altered Effect    |     +0     | The exploit’s primary effect is changed. This can be the condition it inflicts, the saving throw it forces, or the type of damage it deals. |                                                                                                                                                                                     |
+| Increased Effect  |     +1     | The exploit’s statistics or effects marginally increase.                                                                                    | Improve one of the Exploit's numbers by the smallest sensible step: +5 ft of range or forced movement, +1 to a bonus it grants (e.g. +2 AC instead of +1), or +1 round of duration. |
+| Debuffed Save     |     +1     | Impose a small negative modifier to the saving throw the exploit forces.                                                                    | The target makes the saving throw the Exploit forces at a penalty, subtracting one Exploit Die from its result.                                                                     |
+| Increase Potency  |     +2     | Increase the rolled exploit die’s quantity by 1.                                                                                            | Where the Exploit has you roll one Exploit Die for an effect (damage, temporary hit points, a bonus), you roll two instead.                                                         |
+| Additional Effect |     +2     | In addition to its normal function, the Exploit inflicts one Condition or leaves its area as Difficult Terrain.                             |                                                                                                                                                                                     |
+| Extra Target      |     +2     | The Exploit affects one additional enemy within its range or reach.                                                                         |                                                                                                                                                                                     |
+^exploit-modifications
  
-#### **Signature Exploit Mastery**
+#### **Signature Exploit Crafting**
  
-| **Rank** | **Trainer Required** | **Modifications** | **Rank DC Mod** | **Successful Slots** | **Cost / Slot** |
-| :-- | :-- | :--: | :--: | :--: | :--: |
-| Untrained | — | 0 (base exploit) | — | — | — |
-| Trained | Trained+ | 1 | +0 | 20 | 5 gp |
-| Proficient | Proficient+ | 2 | +1 | 30 | 10 gp |
-| Expert | Expert+ | 3 | +2 | 40 | 20 gp |
-| Master | Master+ | 4 | +3 | 50 | 40 gp |
-^signature-exploit-mastery
+| **Exploit Degree** | **DC** | **Cost / Slot** | **Successful Slots** |
+| ------------------ | :----: | --------------- | :------------------: |
+| 1st-degree         |   15   | 20 gp           |          10          |
+| 2nd-degree         |   17   | 40 gp           |          20          |
+| 3rd-degree         |   19   | 100 gp          |          30          |
+| 4th-degree         |   21   | 300 gp          |          40          |
+| 5th-degree         |   23   | 1,000 gp        |          50          |
+^signature-exploit-crafting
  
-#### **Exploit Training DC (by Degree)**
+**Resolution.** Choose an Exploit you know and the single modification you wish to train. The **Training DC** equals the base DC for the Exploit's degree plus the chosen modification's DC modifier.
  
-| **Degree** | **Base DC** |
-| :-- | :--: |
-| Basic | 12 |
-| 1st degree | 14 |
-| 2nd degree | 16 |
-| 3rd degree | 18 |
-| 4th degree | 20 |
-| 5th degree | 22 |
-^exploit-training-dc
- 
-> *Training DC = base DC (degree) + modification DC mod + rank DC mod*
- 
-**Resolution.** Choose a exploit you know and the single modification you wish to train at the new rank. The **Training DC** equals the base DC for the exploit's degree, plus the modification's DC modifier, plus the target rank's DC modifier. At the end of the slot, the player makes an Ability Check using the score that governs their exploits, against the Training DC.
+> *Training DC = degree base DC + modification DC mod*
  
 > [!tip] Use of Skills
-> As the GM, let the player explain how their training session went and what skill they plan to use. **Skill Ideas** — use their **Athletics** for forceful traditions (Adamant Mountain, Tempered Iron); use their **Acrobatics** for fluid traditions (Rapid Current, Mist & Shade, Mirror's Glint); use their **Animal Handling** for mounted or bestial traditions (Spirited Steed, Tooth & Claw); etc.
+> The training check uses whatever the Exploit itself relies on, plus your proficiency bonus:
+> - use **Strength** or **Dexterity** for most martial Exploits (whichever the Exploit's save or attack uses)
+> - use your **Leadership** score, or **Persuasion** / **Intimidation**, for Warlord Orders and social Exploits
+> - use whatever ability, skill, or tool the Exploit's description names — **Intelligence** for *Eloquent Speech*, a **Poisoner's Kit** for *Craft Simple Poison*, **Wisdom (Perception)** for *Primal Senses*, and so on
  
-After the downtime slot is spent, the player makes a roll adjudicated by the GM. On a success, the player gains +1 progress towards their goal (modified by any Trainer Boost), while a **Critical Success** grants **+2** progress (also modified by Trainer Boost) and Advantage on the character's next training check for this exploit. Once the player reaches the Successful Slots threshold for their target rank, the new modification is locked into the Signature Exploit and the rank-up is complete. A **Critical Failure** does not cause the player to lose progress, but they gain none; at the GM's discretion, the character suffers a training injury — a pulled muscle or bruised rib (1 level of Fatigue), a bad habit drilled in that must be corrected (Disadvantage on the next training check), or a sparring mishap that strains the relationship with the trainer.
+After each downtime slot spent drilling, the player makes the check. On a success, they gain +1 progress toward the successful-slot total; a **Critical Success** grants **+2**. On a failure, no progress is made and the slot's cost is still spent. On a **Critical Failure**, no progress is lost, but a setback occurs (see below). When progress reaches the listed total, the modification is locked in and the Exploit becomes a **Signature Exploit**, used in place of the original.
+ 
+ 
+> [!note] Critical Failure setback
+> As with rare spell crafting, a Critical Failure costs no progress — the setback lands on cost, story, or condition instead: a ruined batch of practice gear and consumables (lose the next slot's cost as well), an overtraining injury (a level of Fatigue, or the Bleeding condition), or a rival catching wind of the technique you're developing.
  
 #### **Trainer Boost**
  
@@ -643,13 +637,6 @@ A trainer whose Mastery rank exceeds the rank being trained accelerates progress
  
 *A Master trainer teaching a character toward Trained rank grants ×4 progress — the fundamentals come fast under an expert eye. Teaching Expert → Master grants only ×1. True mastery cannot be rushed.*
  
-**Example.** Borvald knows **cleaving swing**, a 1st-degree Adamant Mountain exploit that costs 2 exertion. He finds a Trained mentor and drills **Reduced Exertion** into it. His Training DC is 14 (1st degree) + 1 (Reduced Exertion) + 0 (Trained rank) = **DC 15**, and he needs **20 successful slots** at 5 gp each. When he finishes, his Signature **cleaving swing** costs only 1 exertion. Later, he seeks a Proficient master to reach the next rank, adding **Increased Effect** (+1 expertise die of damage) at DC 14 + 1 + 1 = **DC 16** over **30 successful slots** — and his technique becomes deadlier still.
- 
-> [!note] Designing a Signature Exploit
-> As with rare spells, every Signature Exploit should be approved by the GM. Keep each modification small — a single step of improvement, never a wholesale rewrite — and never reduce a exploit's exertion below 0. The modifications stack into one customized version of the exploit, which the character uses in place of the original. As a soft cap, a character can maintain a number of Signature Exploits equal to their Proficiency Bonus; most adepts perfect only one or two in a lifetime.
- 
-> [!warning] Finding Trainers
-> A trainer must hold at least the target Mastery rank in the same exploit — or, at the GM's discretion, in its tradition. Trained and Proficient practitioners are found in most fighting schools, mercenary companies, and city guard academies. Expert trainers are veterans of renown — retired champions, war-order officers, or wandering swordmasters. Master trainers are legendary figures; finding one may require a quest of its own, and they rarely teach for coin alone. A character who reaches Master may serve as a trainer for others, up to that rank.
  
 > [!note] Inventing New Exploits
 > In addition to refining existing exploits, it is possible to create entirely new ones. This typically represents a career-defining achievement for a martial adept, with DCs and specifics set by the GM using these rules as a guide. As with rare spells, to invent a new exploit entirely would have the same DCs, but **double** the cost and needed slots, as the Signature Exploit Mastery table.
