@@ -6,7 +6,7 @@
       {
         "id": "0f4096b47ff804e0",
         "type": "tabs",
-        "dimension": 49.21383647798742,
+        "dimension": 49.21383647798743,
         "children": [
           {
             "id": "8a3cba7aa4f7df30",
@@ -509,7 +509,7 @@
       {
         "id": "5e90b3ed8d44b9fb",
         "type": "tabs",
-        "dimension": 50.78616352201258,
+        "dimension": 50.78616352201257,
         "children": [
           {
             "id": "e412e82fc9908b96",
@@ -1117,7 +1117,8 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "a806784ad4447ca4",
