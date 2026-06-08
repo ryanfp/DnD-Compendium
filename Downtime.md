@@ -589,57 +589,35 @@ Wizards and Sorcerers require a collection of arcane tomes. Clerics and Paladi
 | Altered Effect    |     +0     | The exploit’s primary effect is changed. This can be the condition it inflicts, the saving throw it forces, or the type of damage it deals. |                                                                                                                                                                                     |
 | Increased Effect  |     +1     | The exploit’s statistics or effects marginally increase.                                                                                    | Improve one of the Exploit's numbers by the smallest sensible step: +5 ft of range or forced movement, +1 to a bonus it grants (e.g. +2 AC instead of +1), or +1 round of duration. |
 | Debuffed Save     |     +1     | Impose a small negative modifier to the saving throw the exploit forces.                                                                    | The target makes the saving throw the Exploit forces at a penalty, subtracting one Exploit Die from its result.                                                                     |
-| Increase Potency  |     +2     | Increase the rolled exploit die’s quantity by 1.                                                                                            | Where the Exploit has you roll one Exploit Die for an effect (damage, temporary hit points, a bonus), you roll two instead.                                                         |
-| Additional Effect |     +2     | In addition to its normal function, the Exploit inflicts one Condition or leaves its area as Difficult Terrain.                             |                                                                                                                                                                                     |
-| Extra Target      |     +2     | The Exploit affects one additional enemy within its range or reach.                                                                         |                                                                                                                                                                                     |
+| Increase Potency  |     +2     | Increase the rolled exploit die’s quantity by 1.                                                                                            |                                                                                                                                                                                     |
+| Additional Effect |     +2     | An additional effect is added to the exploit’s primary function.                                                                            | In addition to its normal function, the Exploit inflicts one Condition or leaves its area as Difficult Terrain.                                                                     |
+| Extra Target      |     +3     | The exploit gains the means to affect one or more additional creatures.                                                                     | The Exploit affects one additional enemy within its range or reach.                                                                                                                 |
 ^exploit-modifications
  
 #### **Signature Exploit Crafting**
  
 | **Exploit Degree** | **DC** | **Cost / Slot** | **Successful Slots** |
 | ------------------ | :----: | --------------- | :------------------: |
-| 1st-degree         |   15   | 20 gp           |          10          |
-| 2nd-degree         |   17   | 40 gp           |          20          |
-| 3rd-degree         |   19   | 100 gp          |          30          |
-| 4th-degree         |   21   | 300 gp          |          40          |
-| 5th-degree         |   23   | 1,000 gp        |          50          |
+| 1st-degree         |   14   | 20 gp           |          10          |
+| 2nd-degree         |   16   | 50 gp           |          20          |
+| 3rd-degree         |   18   | 100 gp          |          30          |
+| 4th-degree         |   20   | 250 gp          |          40          |
+| 5th-degree         |   22   | 500 gp          |          50          |
 ^signature-exploit-crafting
  
-**Resolution.** Choose an Exploit you know and the single modification you wish to train. The **Training DC** equals the base DC for the Exploit's degree plus the chosen modification's DC modifier.
- 
-> *Training DC = degree base DC + modification DC mod*
+**Resolution.** After the downtime slot is spent training, the player makes a roll adjudicated by the GM. Choose an Exploit you know and the single modification you wish to apply. The DC equals the base DC for the Exploit's degree plus the chosen modification's DC modifier.
  
 > [!tip] Use of Skills
 > The training check uses whatever the Exploit itself relies on, plus your proficiency bonus:
 > - use **Strength** or **Dexterity** for most martial Exploits (whichever the Exploit's save or attack uses)
 > - use your **Leadership** score, or **Persuasion** / **Intimidation**, for Warlord Orders and social Exploits
-> - use whatever ability, skill, or tool the Exploit's description names — **Intelligence** for *Eloquent Speech*, a **Poisoner's Kit** for *Craft Simple Poison*, **Wisdom (Perception)** for *Primal Senses*, and so on
+> - use whatever ability, skill, or tool the Exploit's description names — **Intelligence (Deception or Persuasion)** for *Eloquent Speech*, a **Poisoner's Kit** for *Craft Simple Poison*, **Wisdom (Perception)** for *Primal Senses*, and so on
  
-After each downtime slot spent drilling, the player makes the check. On a success, they gain +1 progress toward the successful-slot total; a **Critical Success** grants **+2**. On a failure, no progress is made and the slot's cost is still spent. On a **Critical Failure**, no progress is lost, but a setback occurs (see below). When progress reaches the listed total, the modification is locked in and the Exploit becomes a **Signature Exploit**, used in place of the original.
+On a **success**, they gain +1 progress towards their goal; and on a **Critical Success** the character gains **+2** progress and retains the cost for the used slot. On a failure, no progress is made and the slot's cost is still spent. While a **Critical Failure** inflicts one level of Fatigue. When progress reaches the listed total, the modification is locked in and the Exploit becomes a **Signature Exploit**, and added to the list of that character’s known Exploits. It does not count against their known total.
  
- 
-> [!note] Critical Failure setback
-> As with rare spell crafting, a Critical Failure costs no progress — the setback lands on cost, story, or condition instead: a ruined batch of practice gear and consumables (lose the next slot's cost as well), an overtraining injury (a level of Fatigue, or the Bleeding condition), or a rival catching wind of the technique you're developing.
- 
-#### **Trainer Boost**
- 
-A trainer whose Mastery rank exceeds the rank being trained accelerates progress. For each rank the trainer exceeds the target, the character gains +1 additional progress per successful check. This multiplier applies to all progress gained, including from a Critical Success.
- 
-> **Progress Multiplier = 1 + (Trainer Rank − Target Rank)**
- 
-| **Trainer Rank** | **→ Trained** | **→ Proficient** | **→ Expert** | **→ Master** |
-| :-- | :--: | :--: | :--: | :--: |
-| Trained | ×1 | — | — | — |
-| Proficient | ×2 | ×1 | — | — |
-| Expert | ×3 | ×2 | ×1 | — |
-| Master | ×4 | ×3 | ×2 | ×1 |
-^signature-trainer-boost
- 
-*A Master trainer teaching a character toward Trained rank grants ×4 progress — the fundamentals come fast under an expert eye. Teaching Expert → Master grants only ×1. True mastery cannot be rushed.*
- 
- 
-> [!note] Inventing New Exploits
-> In addition to refining existing exploits, it is possible to create entirely new ones. This typically represents a career-defining achievement for a martial adept, with DCs and specifics set by the GM using these rules as a guide. As with rare spells, to invent a new exploit entirely would have the same DCs, but **double** the cost and needed slots, as the Signature Exploit Mastery table.
+**Inventing New Exploits.** In addition to refining existing exploits, it is possible to create entirely new ones. This typically represents a career-defining achievement for a martial adept, with DCs and specifics set by the GM using these rules as a guide. As with rare spells, to invent a new exploit entirely would have the same DCs, but **double** the cost and needed slots, as the [[Downtime#^signature-exploit-crafting|Table: Signature Exploit Crafting]].
+
+- - -
 
 ### Revelry
  

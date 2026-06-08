@@ -19,7 +19,7 @@ List of Activities:
 	- [x] Tool
 	- [x] Skill
 - [x] Train
-	- ( Exploits)
+	- [x] ]( Exploits)
 	- [x] Weapon
 - Revolution/Stir Unrest
 - Animal Training
