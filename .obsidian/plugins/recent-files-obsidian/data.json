@@ -5,6 +5,10 @@
       "path": "Homebrew Mechanics/Homebrew Conditions.md"
     },
     {
+      "basename": "Downtime",
+      "path": "Downtime.md"
+    },
+    {
       "basename": "Character Creation Guidelines",
       "path": "Homebrew Mechanics/Character Creation Guidelines.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Homebrew Skills & Changes",
       "path": "Homebrew Mechanics/Homebrew Skills & Changes.md"
-    },
-    {
-      "basename": "Downtime",
-      "path": "Downtime.md"
     },
     {
       "basename": "small checklist-delete",

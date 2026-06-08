@@ -11,6 +11,10 @@
 - Confused
 - Distracted
 - Goaded
+- Agonized
+- Enervated
+- Enraged
+- 
 
 
 ## Revised/Reworked/Codified Conditions
