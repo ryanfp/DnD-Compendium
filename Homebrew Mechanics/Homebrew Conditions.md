@@ -1,20 +1,5 @@
 # New/Revised Conditions
 
-
-- Distressed
-- Disrupted
-- ~~Maimed~~
-- ~~Frenzied~~
-- ~~Reckless~~
-- Confused
-- Distracted
-- Goaded
-- Agonized
-- Enervated
-- Enraged
-- 
-
-
 ## Revised/Reworked/Codified Conditions
 
 *This section is for conditions that have been slightly changed or optimized, as well as those that have been in the game and referenced often, but never codified as an “official” condition. In that instance, this change seeks to simplify rules in exchange for a slightly higher initial learning curve*
@@ -170,10 +155,10 @@ You have disadvantage on Initiative rolls and you have the rattled condition for
 
 #### Description
 
-While you are bleeding, you suffer 1d4 slashing damage at the start of each of your turns and you have disadvantage on Fortitude saving throws.
-A creature can staunch the bleeding using the Medicine skill or by receiving any healing.
 
-The condition ends if a bleeding creature is restored to full health.
+While you are bleeding, you suffer 1d4 slashing damage at the start of each of your turns and you have disadvantage on Fortitude saving throws.
+**Ending the Condition.** While Bleeding, you can make a `DC 15 Fortitude saving throw` at the end of each of your turns, ending the condition on yourself on a success. The condition also ends if you, or a creature within 5 feet of you, use an Action to make a `DC 12 Medicine check`, or if you regain hit points from any healing.
+
 
 - - -
 ### Burning
@@ -198,22 +183,16 @@ When a creature that is burning successfully grapples another creature, they obt
 ### Confused
 
 - **Indecisive.** A confused creature is Rattled.
-- On its turn a confused creature rolls on the Table:Confused to determine what it does. 
+- **Random Actions.** On its turn, a Confused creature rolls on the Table:Confused to determine what it does. 
 
+|d8|Effect |
+| :---: | -- |
+|1| The Confused creature takes the Dodge action and ends its turn.                                                                                                                                                                                                                                            |
+| 2-3 | The Confused creature takes no Action or Bonus Action and uses all of its movement to move in a randomly determined direction. Roll a d8 to determine which cardinal/sub-cardinal direction they move.                                                                                                     |
+| 4-5 | The Confused creature can take either an Action or Bonus Action, and then moves half of its movement speed in a randomly determined direction. Roll a d8 to determine which cardinal/sub-cardinal direction they move.                                                                                     |
+| 6-7 | The Confused creature takes the Attack action or the Magic action against a randomly determined creature within it’s reach or range. The creature can only perform an Exploit of 2nd degree or lower, or cast a spell of 3rd level or lower. If a creature cannot perform either Action, it ends its turn. |
+| 8   | The Confused creature can act normally.                                                                                                                                                                                                                                                                    |
 
-| d8  | Effect                                                                                                                                                                                                                                       |
-| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | The Confused creature takes the Dodge action and ends its turn.                                                                                                                                                                              |
-| 2-3 | The Confused creature takes no Action or Bonus Action and uses all of its movement to move in a randomly determined direction. Roll a d8 to determine which cardinal/sub-cardinal direction they move.                                       |
-| 4-5 | The Confused creature can take either an Action or Bonus Action, and then moves half of its movement speed in a randomly determined direction. Roll a d8 to determine which cardinal/sub-cardinal direction they move.                       |
-| 6-7 | The Confused creature takes the Attack action or the Magic action against a randomly determined creature within it’s reach or range. The creature can only perform an Exploit of 2nd degree or lower, or cast a spell of 3rd level or lower. |
-| 8   | The Confused creature can act normally                                                                                                                                                                                                       |
-
-
-- On a 1, a confused creature does nothing. 
-- On a 2
-- On a 5 or 6, a confused creature takes no action or bonus action and uses all its movement to move in a randomly determined direction. 
-- On a 7 or 8, a confused creature makes a melee attack against a randomly determined creature within its reach or does nothing if it can't make such an attack.
 
 ### Corroded
 #### Associations:
@@ -230,6 +209,13 @@ You take 1d4 Acid damage at the start of your turns, and you have -2 AC for the 
 Anyone can spend an Action or Bonus Action to clear the condition off of you, or you can spend an Action to clear it yourself. You also lose the corroded condition when gaining the wet condition. Taking acid damage refreshes the duration and increases the die size one step.
 
 - - -
+
+### Disrupted
+
+**Backlash.** You suffer Psychic damage equal to `2 * triggering Spell level` when you attempt to cast a spell, or maintain concentration on a spell. 
+**Chance to Fail.** You must succeed on a Fortitude saving throw equal to your own Spell Save DC, or the spell fails, without expending the slot. If you **Critically Fail** the saving throw, the slot is expended.
+**Rattled Immunity.** A creature that is Immune to the Rattled condition is Immune to the Disrupted condition. 
+
 ### Doomed
 #### Associations:
 
@@ -252,7 +238,7 @@ The next time you go unconscious, you start with a number of failed death saves 
 When you drop to 0 HP in combat, you gain this condition and one stack of the wounded condition. While under this condition, you suffer the following effects:
 
 - You are Incapacitated and Immobilized
-- You are Defenseless
+- You are Exposed and your Attack rolls have Disadvantage.
 - You are Helpless
 - You can speak only falteringly–no more than a few words at a time only audible within 10 ft.
 - You drop whatever you are holding and fall prone
@@ -317,6 +303,12 @@ You can also attempt to break out of the ice with a DC 15 Athletics check or if 
 
 - - -
 
+### Goaded
+
+**Fixated.** You have Disadvantage on Attack rolls against any creature that is not the one that Goaded you. You also have Disadvantage on Investigation and Perception checks to perceive or examine creatures or objects other than the source of your fixation.
+**Enraged.** If you can see or hear the enemy that goaded you within 60 ft, you must end your turn closer than you started towards that enemy.
+**Condition Immunities.** You are Immune to the Charmed, Frightened, and the Frenzied condition.
+****
 ### Hastened
 #### Associations:
 
@@ -341,6 +333,7 @@ A creature that is immune to being dazed is immune to being rattled. While under
 
 - A rattled creature cannot benefit from bonus dice. 
 - A rattled creature cannot take reactions.
+- **Dazed Immunity.** If you are Immune to the Dazed condition, you are Immune to the Rattled condition.
 
 - - -
 
