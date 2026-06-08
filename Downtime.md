@@ -399,7 +399,7 @@ Wizards and Sorcerers require a collection of arcane tomes. Clerics and Paladi
 | ----------------- | :--------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Altered Effect    |     +0     | The spell’s primary effect is changed. This can be used to add or alter a spell's damage type, affect what the spell targets, or otherwise modify its core effect. | A *fireball* that inflicts Cold damage instead of Fire; a *lightning bolt* reshaped into a cone; *invisibility* cast on an object instead of a creature. |
 | Lingering Effect  |     +1     | The spell has a secondary effect that occurs after the spell has ended.                                                                                            | A *fireball* that leaves targets Burning; a *cone of cold* that leaves a target Slowed; an *inflict wounds* that leaves the target Withered.             |
-| Additional Effect |     +2     | An additional effect is added to the spell’s primary function.                                                                                                     | An *ice storm* that inflicts Frostbite for the duration.                                                                                                 |
+| Additional Effect | +2 | An additional effect is added to the spell’s primary function.                                                                                                     | An *ice storm* that inflicts Frostbite for the duration.                                                                                                 |
 | Additional Target |     +3     | The spell gains the means to affect one or more additional creatures.                                                                                              | An *Immobilizing* hold that spreads to a creature within 5 ft; a *suggestion* that passes to new listeners through conversation                          |
 ^spell-modifications
  
@@ -574,27 +574,23 @@ On a success, the player gains +1 progress towards their goal, while a **Critica
 
 #### Signature Exploits
 
-Wizards and Sorcerers require a collection of arcane tomes. Clerics and Paladins must have access to books of esoteric lore and theological texts. Druids need a sacred place of nature untouched by civilization. Bards utilize folios of magical compositions. Warlocks require forbidden texts and works of the occult. Etc.
-
-
-
 **Summary.** This activity allows martial adepts to refine their exploits into signature exploits. Signature exploits are a version uniquely their own, sharpened with small advantages such as greater force, an added effect, or a second target. Characters must pick an exploit they know and choose  one modification from the modifications table. Alternatively, with the GM’s permission a character may choose one signature exploit, provided it is of a degree they can perform.
  
-**Resources.** To refine an exploit, a character must know the exploit and be able to perform it, train under a trainer  and/or have a place to train and a sparring partner, and pay the per-slot cost listed in the Mastery table. 
+**Resources.** To refine an exploit, a character must know the exploit and be able to perform it, train under a trainer and/or have a place to train and a sparring partner, and pay the per-slot cost listed in the Mastery table. 
 
-#### **Exploit Modifications**
+##### **Exploit Modifications**
  
-| **Modification**  | **DC Mod** | **Effect**                                                                                                                                  | Examples                                                                                                                                                             |
-| ----------------- | :--------: | ------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Altered Effect    |     +0     | The exploit’s primary effect is changed. This can be the condition it inflicts, the saving throw it forces, or the type of damage it deals. | A *breathless critical* that inflicts the Rattled condition instead of the Slowed condition, a *crushing grip* that inflicts piercing damage instead of bludgeoning. |
-| Increased Effect  |     +1     | The exploit’s statistics or effects marginally increase.                                                                                    | A *feint* that increases its range to 20 ft (from 15), a *ringing strike*  that affects the target for 2 minutes (instead of 1).                                     |
-| Debuffed Save     |     +1     | Impose a small negative modifier to the saving throw the exploit forces.                                                                    | The target makes the saving throw the Exploit forces at a penalty, subtracting one Exploit Die (base 1d4) from its result.                                           |
-| Increase Potency  |     +2     | Increase the rolled exploit die’s quantity by 1.                                                                                            | A *wild charge* that deals two Exploit Dice worth of damage                                                                                                          |
-| Additional Effect |     +2     | An additional effect is added to the exploit’s primary function.                                                                            | <br>In addition to its normal function, the Exploit inflicts one Condition or leaves its area as Difficult Terrain.                                                  |
-| Extra Target      |     +3     | The exploit gains the means to affect one or more additional creatures.                                                                     | The Exploit affects one additional enemy within its range or reach.                                                                                                  |
+| **Modification**  | **DC Mod** | **Effect**                                                                                                                                  | Examples                                                                                                                                                                 |
+| ----------------- | :--------: | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Altered Effect    |     +0     | The exploit’s primary effect is changed. This can be the condition it inflicts, the saving throw it forces, or the type of damage it deals. | A *breathless critical* that inflicts the Immobilized condition instead of the Slowed condition, a *crushing grip* that inflicts piercing damage instead of bludgeoning. |
+| Increased Effect  |     +1     | The exploit’s statistics or effects marginally increase.                                                                                    | A *feint* that increases its range to 20 ft (from 15), a *ringing strike*  that affects the target for 2 minutes (instead of 1).                                         |
+| Debuffed Save     |     +1     | Impose a small negative modifier to the saving throw the exploit forces.                                                                    | The target makes the saving throw the Exploit forces at a penalty, subtracting one Exploit Die (base 1d4) from its result.                                               |
+| Increase Potency  |     +2     | Increase the rolled exploit die’s quantity by 1.                                                                                            | A *wild charge* that deals two Exploit Dice worth of damage.                                                                                                             |
+| Additional Effect |     +2     | An additional effect is added to the exploit’s primary function.                                                                            | A *gale slash* that also inflicts the Rattled condition, an *immovable stance* that turns the area directly adjacent to you into Difficult Terrain.                      |
+| Extra Target      |     +3     | The exploit gains the means to affect one or more additional creatures.                                                                     | The Exploit affects one additional enemy within its range or reach.                                                                                                      |
 ^exploit-modifications
  
-#### **Signature Exploit Crafting**
+##### **Signature Exploit Crafting**
  
 | **Exploit Degree** | **DC** | **Cost / Slot** | **Successful Slots** |
 | ------------------ | :----: | --------------- | :------------------: |
@@ -611,7 +607,7 @@ Wizards and Sorcerers require a collection of arcane tomes. Clerics and Paladi
 > The training check uses whatever the Exploit itself relies on, plus your proficiency bonus:
 > - use **Strength** or **Dexterity** for most martial Exploits (whichever the Exploit's save or attack uses)
 > - use your **Leadership** score, or **Persuasion** / **Intimidation**, for Warlord Orders and social Exploits
-> - use whatever ability, skill, or tool the Exploit's description names — **Intelligence (Deception or Persuasion)** for *Eloquent Speech*, a **Poisoner's Kit** for *Craft Simple Poison*, **Wisdom (Perception)** for *Primal Senses*, and so on
+> - use whatever ability, skill, or tool the Exploit's description names — **Intelligence (Deception or Persuasion)** for *eloquent speech*, a **Poisoner's Kit** for *craft simple poison*, **Wisdom (Perception)** for *primal senses*, and so on
  
 On a **success**, they gain +1 progress towards their goal; and on a **Critical Success** the character gains **+2** progress and retains the cost for the used slot. On a failure, no progress is made and the slot's cost is still spent. While a **Critical Failure** inflicts one level of Fatigue. When progress reaches the listed total, the modification is locked in and the Exploit becomes a **Signature Exploit**. It is added to the list of that character’s known Exploits. It does not count against their known total.
  
