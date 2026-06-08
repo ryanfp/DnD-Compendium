@@ -198,10 +198,22 @@ When a creature that is burning successfully grapples another creature, they obt
 ### Confused
 
 - **Indecisive.** A confused creature is Rattled.
-- On its turn a confused creature rolls a d8 to determine what it does. 
-    - On a 1 to 4, a confused creature does nothing. 
-    - On a 5 or 6, a confused creature takes no action or bonus action and uses all its movement to move in a randomly determined direction. 
-    - On a 7 or 8, a confused creature makes a melee attack against a randomly determined creature within its reach or does nothing if it can't make such an attack.
+- On its turn a confused creature rolls on the Table:Confused to determine what it does. 
+
+
+| d8  | Effect                                                                                                                                                                                                                                       |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | The Confused creature takes the Dodge action and ends its turn.                                                                                                                                                                              |
+| 2-3 | The Confused creature takes no Action or Bonus Action and uses all of its movement to move in a randomly determined direction. Roll a d8 to determine which cardinal/sub-cardinal direction they move.                                       |
+| 4-5 | The Confused creature can take either an Action or Bonus Action, and then moves half of its movement speed in a randomly determined direction. Roll a d8 to determine which cardinal/sub-cardinal direction they move.                       |
+| 6-7 | The Confused creature takes the Attack action or the Magic action against a randomly determined creature within it’s reach or range. The creature can only perform an Exploit of 2nd degree or lower, or cast a spell of 3rd level or lower. |
+| 8   | The Confused creature can act normally                                                                                                                                                                                                       |
+
+
+- On a 1, a confused creature does nothing. 
+- On a 2
+- On a 5 or 6, a confused creature takes no action or bonus action and uses all its movement to move in a randomly determined direction. 
+- On a 7 or 8, a confused creature makes a melee attack against a randomly determined creature within its reach or does nothing if it can't make such an attack.
 
 ### Corroded
 #### Associations:

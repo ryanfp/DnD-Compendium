@@ -97,7 +97,7 @@
               "state": {
                 "file": "Homebrew Mechanics/Homebrew Conditions.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
