@@ -1,13 +1,11 @@
 # New/Revised Conditions
 
 
-- Exposed
-- Vulnerable
 - Distressed
 - Disrupted
-- Maimed
-- Frenzied
-- Reckless
+- ~~Maimed~~
+- ~~Frenzied~~
+- ~~Reckless~~
 - Confused
 - Distracted
 - Goaded
@@ -67,7 +65,7 @@ When a *dazed* creature is affected by a spell or effect that gives them an extr
 
 - - -
 
-### Defenseless
+### Exposed
 #### Associations:
 
 **Damage Type:**  N/A
@@ -157,6 +155,7 @@ While you are under the slowed condition, your movement speed is reduced by half
 
 #### Description
 You have disadvantage on Initiative rolls and you have the rattled condition for the first round of combat in which you were surprised.
+
 - - -
 
 ## New Conditions
@@ -195,6 +194,15 @@ Anyone can spend an Action or Bonus Action to clear the condition off of you, or
 When a creature that is burning successfully grapples another creature, they obtain the burning condition as well. 
 
 - - -
+
+### Confused
+
+- **Indecisive.** A confused creature is Rattled.
+- On its turn a confused creature rolls a d8 to determine what it does. 
+    - On a 1 to 4, a confused creature does nothing. 
+    - On a 5 or 6, a confused creature takes no action or bonus action and uses all its movement to move in a randomly determined direction. 
+    - On a 7 or 8, a confused creature makes a melee attack against a randomly determined creature within its reach or does nothing if it can't make such an attack.
+
 ### Corroded
 #### Associations:
 
@@ -288,6 +296,15 @@ When you reach 10 stacks of Frostbite, you lose all stacks of the Frostbite cond
 You can also attempt to break out of the ice with a DC 15 Athletics check or if you or an ally inflict 15 Bludgeoning or Fire damage to the ice.
 
 - - -
+
+### Frenzied
+
+**Dangerous.** You have the Reckless condition.
+**Cornered.** You have the Hastened condition.
+**Chaotic.** You have the Confused condition.
+
+- - -
+
 ### Hastened
 #### Associations:
 
@@ -297,6 +314,9 @@ You can also attempt to break out of the ice with a DC 15 Athletics check or if 
 #### Description
 While under the effects of the hastened condition, you have a +2 bonus to your AC and your movement speed is doubled.
 - - -
+### Maimed
+**Injured.** You have the Bleeding condition.
+**Inhibited.** You have the Slowed condition.
 ### Rattled
 #### Associations:
 
@@ -311,6 +331,14 @@ A creature that is immune to being dazed is immune to being rattled. While under
 - A rattled creature cannot take reactions.
 
 - - -
+
+### Reckless
+
+**Dangerous.** You have Advantage on attack rolls.
+**Foolhardy.** Attackers have Advantage on attack rolls against you.
+
+- - -
+
 ### Shocked
 #### Associations:
 
