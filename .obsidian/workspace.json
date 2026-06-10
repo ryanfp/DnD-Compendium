@@ -6,7 +6,7 @@
       {
         "id": "0f4096b47ff804e0",
         "type": "tabs",
-        "dimension": 47.604938271604944,
+        "dimension": 43.90123456790124,
         "children": [
           {
             "id": "4fb303048cf1c57d",
@@ -229,7 +229,7 @@
       {
         "id": "5e90b3ed8d44b9fb",
         "type": "tabs",
-        "dimension": 52.39506172839506,
+        "dimension": 56.09876543209876,
         "children": [
           {
             "id": "e412e82fc9908b96",
@@ -942,12 +942,10 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "task-board:Open task board": false
     }
   },
-  "active": "4fb303048cf1c57d",
+  "active": "bdc2b4b78d00ad58",
   "lastOpenFiles": [
     "Immediate Goals for Play.md",
     "Homebrew Mechanics/Untitled.md",

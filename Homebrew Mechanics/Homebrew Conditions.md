@@ -319,6 +319,7 @@ You can also attempt to break out of the ice with a DC 15 Athletics check or if 
 #### Description
 While under the effects of the hastened condition, you have a +2 bonus to your AC and your movement speed is doubled.
 - - -
+
 ### Maimed
 **Injured.** You have the Bleeding condition.
 **Inhibited.** You have the Slowed condition.
@@ -359,6 +360,16 @@ When you gain the shocked condition, you immediately drop one item you are holdi
 - You have disadvantage on ability checks involving Dexterity and  Reflex saving throws.
 
 - - -
+
+### Silenced
+
+While you are Silenced, you experience the following effects:
+
+- **Speechless.** You cannot speak.
+- **Spellcasting Affected.** Spells that require a Verbal component automatically fail.
+
+- - -
+
 ### Stupefied
 #### Associations:
 
@@ -395,10 +406,11 @@ When gaining the wet condition, you lose the burning or corroded conditions, if 
 
 While you have the wet condition, you are under the following effects:
 
-- **Fireproof.** Your susceptibility to Fire damage decreases by one tier (Vulnerable–>Susceptible–>Neutral–>Resistant–>Immun).
-- Your susceptibility to Lightning and Cold damage increases one tier (Immunity–>Resistance–>Neutral–>Susceptible–>Vulnerable).
-- Attacks that use Lightning damage have advantage, and you have disadvantage on saving throws to resist the effects of Lightning or Lightning damage.
-- When you would receive stacks of the frostbite condition, you instead receive double the stacks you normally would. 
+**Fireproof.** Your susceptibility to Fire damage decreases by one tier (Vulnerable–>Susceptible–>Neutral–>Resistant–>Immune).
+**Resistance Affected.** Your susceptibility to Lightning and Cold damage increases one tier (Immunity–>Resistance–>Neutral–>Susceptible–>Vulnerable).
+**Conductor.** Attacks that use Lightning damage have advantage, and you have disadvantage on saving throws to resist the effects of Lightning or Lightning damage.
+**Hypothermia.** When you would receive stacks of the frostbite condition, you instead receive double the stacks you normally would. 
+**Ending the Condition.** The condition ends after you dry off, either through the use of spells like Prestidigitation or as a part of a short or long rest. 
 
 - - -
 ### Withered
