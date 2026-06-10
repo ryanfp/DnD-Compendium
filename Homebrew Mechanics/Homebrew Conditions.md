@@ -157,7 +157,8 @@ You have disadvantage on Initiative rolls and you have the rattled condition for
 
 
 While you are bleeding, you suffer 1d4 slashing damage at the start of each of your turns and you have disadvantage on Fortitude saving throws.
-**Ending the Condition.** While Bleeding, you can make a `DC 15 Fortitude saving throw` at the end of each of your turns, ending the condition on yourself on a success. The condition also ends if you, or a creature within 5 feet of you, use an Action to make a `DC 12 Medicine check`, or if you regain hit points from any healing.
+
+**Ending the Condition.** While Bleeding, you can make a `DC 15 Fortitude saving throw` at the end of each of your turns, ending the condition on yourself on a success. The condition also ends if you, or a creature within 5 feet of you, use an Action to make a `DC 15 Medicine check`, or if you regain hit points from any healing.
 
 
 - - -
@@ -172,9 +173,8 @@ While you are bleeding, you suffer 1d4 slashing damage at the start of each of y
 While afflicted by the burning condition, you suffer the follow effects:
 
 **Burning Damage.** You suffer 1d4 Fire damage at the end of each round, unless a different amount is specified by the triggering ability. If you are already burning, but gain the condition again, the higher damage amount takes precedence.
-**Hard to Miss.** You shine bright light in a 5 ft radius and dim light in a 10 ft radius. You have disadvantage on Stealth (Dexterity) checks.
-
-Anyone can spend an Action or Bonus Action to clear the condition off of you, or you can spend an Action to clear it yourself. You also lose the burning condition when gaining the wet condition.
+**Hard to Miss.** You shine bright light in a 10 ft radius and dim light in an additional 10 ft radius. You have disadvantage on Stealth (Dexterity) checks.
+**Ending the Condition.** Anyone can spend an Action or Bonus Action to clear the condition off of you, or you can spend an Action to clear it yourself. You can also forego all of your movement and drop Prone, ending the condition. You also lose the burning condition when gaining the wet condition.
 
 When a creature that is burning successfully grapples another creature, they obtain the burning condition as well. 
 
@@ -261,14 +261,15 @@ You have up to 3 uses of desperate actions, at which point you can spend a faile
 
 #### Description
 
-While you are under the frostbite condition, you suffer the following affects:
+This condition has a max of 10 stacks, and you lose 1 stack per turn if doing nothing. Most sources inflict 2 stacks. While you are under the frostbite condition, you suffer the following affects:
 
-**Frostbite Damage.** You take (1d4 + the # of stacks of this condition) Cold damage when you attack with a weapon or attempt to cast a spell with somatic components. 
-**Reduced Actions.** You cannot take Bonus Actions. 
-**Reduced Speed.** Your movement speed is reduced by 5 ft * the # of stacks of this condition
+**Speed Reduced.** Your speed is reduced by 5 ft for every stack of the Frostbite condition you have. If the number of reduced speed exceeds your total movement speed, your speed is 0. 
+**Reduced Actions.** You cannot take Bonus Actions.
+**Frostbite Damage.** You take (1d4 + the # of stacks of this condition) Cold damage when you attack with a weapon or attempt to cast a spell with somatic components.
 
-This condition has a max of 10 stacks, and you lose 1 stack per turn if doing nothing. Most sources inflict 2 stacks. You lose 2 stacks on your turn if you:
-
+**Condition Resistance.** If you are Immune to Cold damage, you are Immune to the Frostbite condition. If you are Resistant to Cold damage, you have Advantage on Saving Throws to resist the Frostbite condition.
+**Ending the Condition.** You lose one stack per turn by default. Each time you take Fire damage, you lose one stack. Alternatively, you can lose 2 stacks on your turn if you:
+ 
 - move more than half your movement speed 
 - light a torch
 - sit near a campfire or other lit object
@@ -287,9 +288,9 @@ When you reach 10 stacks of Frostbite, you lose all stacks of the Frostbite cond
 
 #### Description
 
-**Stuck.** You have the Immobilized condition. 
-**Easy Target.** You have the Defenseless condition.
+**Stuck.** You have the Restrained condition. 
 **Vulnerable.** You gain vulnerability to Bludgeoning, Thunder and Fire damage. When you take any of those types of damage, you lose the Frozen condition. 
+**Condition Resistance.** If you are Immune to Cold damage, you are Immune to the Frozen condition. If you are Resistant to Cold damage, you have Advantage on Saving Throws to resist the Frozen condition.
 
 You can also attempt to break out of the ice with a DC 15 Athletics check or if you or an ally inflict 15 Bludgeoning or Fire damage to the ice.
 
@@ -394,8 +395,8 @@ When gaining the wet condition, you lose the burning or corroded conditions, if 
 
 While you have the wet condition, you are under the following effects:
 
-- You have resistance to Fire damage
-- Your susceptibility to Lightning and Cold damage increases one tier (Immunity–>Resistance–>Neutral–>Vulnerable).
+- **Fireproof.** Your susceptibility to Fire damage decreases by one tier (Vulnerable–>Susceptible–>Neutral–>Resistant–>Immun).
+- Your susceptibility to Lightning and Cold damage increases one tier (Immunity–>Resistance–>Neutral–>Susceptible–>Vulnerable).
 - Attacks that use Lightning damage have advantage, and you have disadvantage on saving throws to resist the effects of Lightning or Lightning damage.
 - When you would receive stacks of the frostbite condition, you instead receive double the stacks you normally would. 
 

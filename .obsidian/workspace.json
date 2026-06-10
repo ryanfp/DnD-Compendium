@@ -6,7 +6,7 @@
       {
         "id": "0f4096b47ff804e0",
         "type": "tabs",
-        "dimension": 46.787771377935314,
+        "dimension": 47.604938271604944,
         "children": [
           {
             "id": "4fb303048cf1c57d",
@@ -229,7 +229,7 @@
       {
         "id": "5e90b3ed8d44b9fb",
         "type": "tabs",
-        "dimension": 53.212228622064686,
+        "dimension": 52.39506172839506,
         "children": [
           {
             "id": "e412e82fc9908b96",
@@ -943,7 +943,8 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "4fb303048cf1c57d",
