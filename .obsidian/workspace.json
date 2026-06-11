@@ -124,6 +124,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Exhaustion",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/Exhaustion.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Exhaustion\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Immediate Goals for Play",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Immediate Goals for Play.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Immediate Goals for Play\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":73,\"ch\":25},\"to\":{\"line\":73,\"ch\":25}},\"scroll\":10.788364249578414}"
+                },
+                {
                   "title": "5e.tools Website Navigation",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5e.tools Website Navigation.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"5e.tools Website Navigation\"}",
@@ -134,7 +146,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immediate Goals for Play.md",
+                "file": "Homebrew Mechanics/Resting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -149,79 +161,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Immediate Goals for Play"
-            }
-          },
-          {
-            "id": "69a4fd4e29860f2e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homebrew Mechanics/Degrees of Success.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Degrees of Success"
-            }
-          },
-          {
-            "id": "05ce7709bb8a8250",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Homebrew Conditions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/Homebrew Conditions.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Homebrew Conditions\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":236,\"ch\":22},\"to\":{\"line\":236,\"ch\":22}},\"scroll\":142.48958333333334}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Downtime.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Downtime"
+              "title": "Resting"
             }
           }
         ],
@@ -263,45 +203,6 @@
               },
               "icon": "lucide-file",
               "title": "5e.tools Website Navigation"
-            }
-          },
-          {
-            "id": "a806784ad4447ca4",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "alchemist",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"alchemist\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":9},\"to\":{\"line\":20,\"ch\":34}},\"scroll\":38.63270833333333}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Downtime.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Downtime"
             }
           },
           {
@@ -950,12 +851,13 @@
   },
   "active": "43fa43d7dd992297",
   "lastOpenFiles": [
+    "Homebrew Mechanics/Exhaustion.md",
+    "Homebrew Mechanics/Resting.md",
+    "Immediate Goals for Play.md",
+    "5e.tools Website Navigation.md",
     "Downtime.md",
     "Homebrew Mechanics/Homebrew Conditions.md",
-    "5e.tools Website Navigation.md",
     "saving throw mockup.md",
-    "Immediate Goals for Play.md",
-    "Homebrew Mechanics/Untitled.md",
     "Homebrew Mechanics/Character Creation Guidelines.md",
     "Homebrew Mechanics/Ability Scores.md",
     "Homebrew Mechanics/Proficiency Ranks.md",
@@ -977,7 +879,6 @@
     "Combat Enhancement Rolltables.md",
     "Homebrew In-Progress/Homebrew Lists.md",
     "Homebrew In-Progress/Homebrew Errata Guide.md",
-    "Homebrew In-Progress/death-dying-desperate-actions-rules.md",
     "Homebrew Mechanics/Conditions",
     "Homebrew Mechanics",
     "map test.canvas",

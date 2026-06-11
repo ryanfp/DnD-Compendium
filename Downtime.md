@@ -710,28 +710,5 @@ As Unrest crosses fractions of the Tipping Point, the mood of the community shif
  
 ---
  
-### Animal Training
- 
-A loyal beast is worth a dozen hirelings and asks for nothing but food, care, and affection. **Animal Training** lets a character turn a wild animal into a dependable companion, mount, guardian, or performer.
- 
-The character must first acquire the animal (by purchase, capture, or friendship). They then choose a **role** for it and train toward the number of successful weeks listed on Table: Animal Training, paying the weekly upkeep for food, shelter, and care. Each week they make a Wisdom (Animal Handling) check against the listed DC. A character with a relevant background or an herbalism kit, or who raised the animal from infancy, makes this check with advantage.
- 
-- **Success.** +1 progress toward the total amount.
-- **Critical Success.** +2 progress towards the total, and [BOON].
-- **Failure.** No progress.
-- **Critical Failure.** No progress and the upkeep cost is doubled for this slot and the next.
 
- 
-**Limits.** A creature of Intelligence 6 or higher cannot be "trained" in this way — dealing with it is a matter of relationship, negotiation, or magic, not Animal Handling.
- 
-*Animal Training*
- 
-| Creature | DC | Upkeep / week | Successful Weeks |
-| -------- | -- | ------------- | ---------------- |
-| Common beast (CR 0, Int ≤ 3)        | 10 | 5 gp  | 2 |
-| Capable beast (CR 1/8–1/2)          | 15 | 10 gp | 4 |
-| Formidable beast (CR 1–3)           | 20 | 25 gp | 6 |
-| Exotic / cunning beast (CR 4+, Int 4–5) | 25 | 50 gp | 8 |
- 
- 
 ---
