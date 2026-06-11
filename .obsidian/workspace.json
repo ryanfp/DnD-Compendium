@@ -224,7 +224,8 @@
               "title": "Downtime"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5e90b3ed8d44b9fb",
@@ -943,14 +944,15 @@
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "bdc2b4b78d00ad58",
+  "active": "43fa43d7dd992297",
   "lastOpenFiles": [
+    "Homebrew Mechanics/Homebrew Conditions.md",
     "Immediate Goals for Play.md",
     "Homebrew Mechanics/Untitled.md",
-    "Homebrew Mechanics/Homebrew Conditions.md",
     "Downtime.md",
     "Homebrew Mechanics/Character Creation Guidelines.md",
     "Homebrew Mechanics/Ability Scores.md",

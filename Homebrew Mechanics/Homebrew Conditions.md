@@ -2,7 +2,149 @@
 
 ## Existing Conditions
 
+### Blinded
 
+While you have the Blinded condition, you experience the following effects.
+
+***Can't See.*** You can't see and automatically fail any ability check that requires sight.
+
+***Attacks Affected.*** Attack rolls against you have Advantage, and your attack rolls have Disadvantage.
+
+---
+
+### Bloodied
+
+A creature is Bloodied while it has half its Hit Points or fewer remaining.
+
+---
+
+### Charmed
+
+While you have the Charmed condition, you experience the following effects.
+
+***Can't Harm the Charmer.*** You can't attack the charmer or target the charmer with damaging abilities or magical effects.
+
+***Social Advantage.*** The charmer has Advantage on any ability check to interact with you socially.
+
+---
+
+### Concentration
+
+Some spells and other effects require Concentration to remain active, as specified in their descriptions. If the effect's creator loses Concentration, the effect ends. If the effect has a maximum duration, the effect's description specifies how long the creator can concentrate on it: up to 1 minute, 1 hour, or some other duration. The creator can end Concentration at any time (no action required). The following factors break Concentration.
+
+***Another Concentration Effect.*** You lose Concentration on an effect the moment you start casting a spell that requires Concentration or activate another effect that requires Concentration.
+
+***Damage.*** If you take damage, you must succeed on a Constitution saving throw to maintain Concentration. The DC equals 10 or half the damage taken (round down), whichever number is higher, up to a maximum DC of 30.
+
+***Incapacitated or Dead.*** Your Concentration ends if you have the Incapacitated condition or you die.
+
+---
+
+### Deafened
+
+While you have the Deafened condition, you experience the following effect.
+
+***Can't Hear.*** You can't hear and automatically fail any ability check that requires hearing.
+
+---
+
+### Frightened
+
+While you have the Frightened condition, you experience the following effects.
+
+***Ability Checks and Attacks Affected.*** You have Disadvantage on ability checks and attack rolls while the source of fear is within line of sight.
+
+***Can't Approach.*** You can't willingly move closer to the source of fear.
+
+---
+
+### Incapacitated
+
+While you have the Incapacitated condition, you experience the following effects.
+
+***Inactive.*** You can't take any action, Bonus Action, or Reaction.
+
+***No Concentration.*** Your Concentration is broken.
+
+***Speechless.*** You can't speak.
+
+***Surprised.*** You have the Surprised condition.
+
+---
+
+### Invisible
+
+While you have the Invisible condition, you experience the following effects.
+
+***Surprise.*** If you're Invisible when you roll Initiative, you have Advantage on the roll.
+
+***Concealed.*** You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed. Your location can still be detected by any noise it makes or any tracks it leaves.
+
+***Attacks Affected.*** Attack rolls against you have Disadvantage, and your attack rolls have Advantage. If a creature can somehow see you, you don't gain this benefit against that creature.
+
+---
+
+### Paralyzed
+
+While you have the Paralyzed condition, you experience the following effects.
+
+***Incapacitated.*** You have the Incapacitated condition.
+
+***Speed 0.*** Your have the Immobilized condition.
+
+***Attacks Affected.*** You have the Exposed condition.
+
+***Automatic Critical Hits.*** You have the Helpless condition.
+
+***Saving Throws Affected.*** You automatically fail Reflex saving throws.
+
+---
+
+### Petrified
+
+While you have the Petrified condition, you experience the following effects.
+
+***Turned to Inanimate Substance.*** You are transformed, along with any nonmagical objects you are wearing and carrying, into a solid inanimate substance (usually stone). Your weight increases by a factor of ten, and you cease aging. While in this state, you are unaware of your surroundings.
+
+***Incapacitated.*** You have the Incapacitated condition.
+
+***Speed 0.*** Your have the Immobilized condition.
+
+***Attacks Affected.*** You have the Exposed condition.
+
+***Saving Throws Affected.*** You automatically fail Reflex saving throws.
+
+***Resist Damage.*** You have Resistance to all damage.
+
+***Poison Immunity.*** You have Immunity to the Poisoned condition.
+
+---
+
+### Prone
+
+While you have the Prone condition, you experience the following effects.
+
+***Restricted Movement.*** Your only movement options are to crawl or to spend an amount of movement equal to half your Speed (round down) to right yourself and thereby end the condition. If your Speed is 0, you can't right yourself.
+
+***Attacks Affected.*** You have Disadvantage on attack rolls. An attack roll against you has Advantage if the attacker is within 5 feet of you. Otherwise, that attack roll has Disadvantage.
+
+---
+
+### Unconscious
+
+While you have the Unconscious condition, you experience the following effects.
+
+***Inert.*** You have the Incapacitated and Prone conditions, and you drop whatever you're holding. When this condition ends, you remain Prone.
+
+***Speed 0.*** Your have the Immobilized condition.
+
+***Attacks Affected.*** You have the Exposed condition.
+
+***Automatic Critical Hits.*** You have the Helpless condition.
+
+***Saving Throws Affected.*** You automatically fail Reflex saving throws.
+
+***Unaware.*** You're unaware of your surroundings.
 
 
 ## Revised/Reworked/Codified Conditions
@@ -53,6 +195,8 @@ A dazed creature can only do one of the following things on their turn: move, us
 
 When a *dazed* creature is affected by a spell or effect that gives them an extra action on their turn (like the haste spell or the fighter's Action Surge feature), they can still take this extra action, in addition to the movement, action, or bonus action allowed by the *dazed* condition.
 
+Some creatures in this book have immunity to the dazed condition. At the GM's discretion, a creature published in the core rules or another supplement who has immunity to the paralyzed or stunned condition also has immunity to the dazed condition.
+
 - - -
 
 ### Exposed
@@ -67,15 +211,16 @@ Attack rolls against you have advantage.
 - - - 
 
 ### Grappled
-#### Associations:
 
-**Damage Type:**  N/A
-**Spells/Abilities:** 
+While you have the Grappled condition, you experience the following effects.
 
-#### Description
+***Speed 0.*** You are Immobilized.
 
- **Restrained** You are Restrained, though you only have disadvantage on attack rolls against any target *other* than the grappler.
-**Movable.** The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
+***Attacks Affected.*** You have Disadvantage on attack rolls against any target other than the grappler.
+
+***Movable.*** The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
+
+***Ending a Grapple.*** A Grappled creature can use its action to make a Strength (Athletics) or Dexterity (Acrobatics) check against the grapple's escape DC, ending the condition on itself on a success. The condition also ends if the grappler has the Incapacitated condition or if the distance between the Grappled target and the grappler exceeds the grapple's range. In addition, the grappler can release the target at any time (no action required).
 
 - - -
 
@@ -123,7 +268,7 @@ While you have the Poisoned condition, you experience the following effect.
 #### Description
 
 **Speed 0.** You are Immobilized.
-**Attacks Affected.** Attack rolls against you have Advantage, and your attack rolls have Disadvantage.
+**Attacks Affected.** You are Exposed, and your attack rolls have Disadvantage.
 **Saving Throws Affected.** You have Disadvantage on Reflex saving throws.
 **Spells Affected.** You cannot cast spells which have somatic components.
 
@@ -144,7 +289,8 @@ While you are under the slowed condition, your movement speed is reduced by half
 **Spells/Abilities:** 
 
 #### Description
-You have disadvantage on Initiative rolls and you have the rattled condition for the first round of combat in which you were surprised.
+
+You have disadvantage on Initiative rolls and you have the rattled condition for the first round of combat.
 
 - - -
 
@@ -367,6 +513,7 @@ When you gain the shocked condition, you immediately drop one item you are holdi
 
 - You have the Rattled condition
 - You have disadvantage on ability checks involving Dexterity and  Reflex saving throws.
+- You must spend an Action to draw, stow, or pick up an object.
 
 - - -
 
