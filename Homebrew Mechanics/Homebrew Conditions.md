@@ -1,5 +1,10 @@
 # New/Revised Conditions
 
+## Existing Conditions
+
+
+
+
 ## Revised/Reworked/Codified Conditions
 
 *This section is for conditions that have been slightly changed or optimized, as well as those that have been in the game and referenced often, but never codified as an “official” condition. In that instance, this change seeks to simplify rules in exchange for a slightly higher initial learning curve*
@@ -158,7 +163,8 @@ You have disadvantage on Initiative rolls and you have the rattled condition for
 
 While you are bleeding, you suffer 1d4 slashing damage at the start of each of your turns and you have disadvantage on Fortitude saving throws.
 
-**Ending the Condition.** While Bleeding, you can make a `DC 15 Fortitude saving throw` at the end of each of your turns, ending the condition on yourself on a success. The condition also ends if you, or a creature within 5 feet of you, use an Action to make a `DC 15 Medicine check`, or if you regain hit points from any healing.
+**Ending the Condition.** While Bleeding, you can make a `DC 15 Fortitude saving throw` at the end of each of your turns, ending the condition on yourself on a success. The condition also ends if you, or a creature within 5 feet of you, use an Action to make a `DC 15 Medicine check`, or if you receive any source of healing.
+**Healing.** While you have the Bleeding condition, the first source of healing you receive is instead used to end the condition. Any single source of healing is not received and wholyl spent on ending the condition.
 
 
 - - -
@@ -175,8 +181,11 @@ While afflicted by the burning condition, you suffer the follow effects:
 **Burning Damage.** You suffer 1d4 Fire damage at the end of each round, unless a different amount is specified by the triggering ability. If you are already burning, but gain the condition again, the higher damage amount takes precedence.
 **Hard to Miss.** You shine bright light in a 10 ft radius and dim light in an additional 10 ft radius. You have disadvantage on Stealth (Dexterity) checks.
 **Ending the Condition.** Anyone can spend an Action or Bonus Action to clear the condition off of you, or you can spend an Action to clear it yourself. You can also forego all of your movement and drop Prone, ending the condition. You also lose the burning condition when gaining the wet condition.
+**Transferring Fire.** When a creature that is burning successfully grapples another creature, they obtain the burning condition as well, at the same damage level as the original user. 
 
-When a creature that is burning successfully grapples another creature, they obtain the burning condition as well. 
+Putting out the fire causing a creature to be ablaze varies in difficulty depending on what caused the fire. Nonmagical flame can be doused easily—a creature can take an action to douse the fire if the fire is within their reach, or if they have other means of dousing flame from further away, such as the *control flames* spell. If the flame is submerged in water or a similarly smothering fluid, it is doused automatically.
+
+Magical flame can be more difficult to douse, depending on the source. For example, the *searing smite* spell can be doused as easily as any nonmagical fire but the flames from the *immolation* spell can only be doused by ending the spell, either with a successful saving throw or an effect like *dispel magic*.
 
 - - -
 
@@ -380,7 +389,7 @@ While you are Silenced, you experience the following effects:
 
 Your thoughts and instincts are clouded. You have disadvantage on Intelligence, Wisdom, and Charisma-based checks and DCs, including Will saving throws, spell attack rolls, spell DCs, and skill checks that use these ability scores. You also suffer the following effects:
 
-- You can only take a Magic action to cast a Cantrip you know.
+- You can only take a Magic action to cast a Cantrip with a casting time of 1 action.
 - You have Disadvantage on Fortitude Saving Throws to maintain concentration on spells.
 - - -
 ### Weakened
