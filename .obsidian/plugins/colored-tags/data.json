@@ -1727,7 +1727,11 @@
     "excalidraw": 77,
     "quick-note": 78,
     "quick-thoughts": 79,
-    "crafting-items": 80
+    "crafting-items": 80,
+    "condition": 81,
+    "condition/existing": 1,
+    "condition/revised": 2,
+    "condition/new": 3
   },
   "_version": 3
 }

@@ -224,8 +224,7 @@
               "title": "Downtime"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5e90b3ed8d44b9fb",
@@ -476,7 +475,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -948,20 +947,20 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "43fa43d7dd992297",
+  "active": "a806784ad4447ca4",
   "lastOpenFiles": [
     "Homebrew Mechanics/Homebrew Conditions.md",
+    "Downtime.md",
+    "5e.tools Website Navigation.md",
+    "saving throw mockup.md",
     "Immediate Goals for Play.md",
     "Homebrew Mechanics/Untitled.md",
-    "Downtime.md",
     "Homebrew Mechanics/Character Creation Guidelines.md",
     "Homebrew Mechanics/Ability Scores.md",
     "Homebrew Mechanics/Proficiency Ranks.md",
     "Homebrew Mechanics/Homebrew Skills & Changes.md",
     "small checklist-delete.md",
-    "saving throw mockup.md",
     "z_img/image-150.png",
-    "5e.tools Website Navigation.md",
     "z_img/image-149.png",
     "Homebrew Mechanics/Degrees of Success.md",
     "Order of the Raiju.md",

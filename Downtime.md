@@ -648,44 +648,76 @@ On a **failure**, the fun doesn't land. No Strife is relieved, and any wager is 
 
 - - -
 
-## Stir Unrest
+### Stir Unrest
  
 **Summary.** A single agitator with a printing press, a grievance, and a little funding can do what an army cannot. This is a long project that builds or reinforces popular discontent in a community toward a tipping point, at which the populace acts. The people may organize a strike, stage a riot, plot a coup, a secession, a revolution, etc.
  
 **Resources.** The character chooses a **scope** as per Table: Stir Unrest and pays the listed cost on materials and labor. Pamphlets, safehouses, bribes, and the care and feeding of a clandestine network. Each slot they make one check, approved by the GM to fit their method: Charisma (Persuasion) to rally, Charisma (Deception) to spread propaganda, Charisma (Intimidation) to coerce, or Intelligence (Investigation) to organize cells and supply lines.
  
-- **Success.** The movement grows. Gain **1d4 Unrest**.
-- **Success by 5 or more.** A breakthrough. Gain **2d4 Unrest**.
-- **Failure.** No progress, and the character draws the eye of the authorities: gain **1 Heat**.
-- **Failure by 5 or more.** A cell is exposed. Lose **1d4 Unrest**, gain **2 Heat**, and an ally or Contact may be arrested or turned.
-**Suppression.** The ruling power pushes back. At the end of each downtime period, the Narrator removes Unrest equal to the regime's **Stability** — suggested values: **1** for a weak, distracted, or sympathetic authority; **2–3** for a stable one; **4+** for a vigilant or tyrannical one. Bread, circuses, crackdowns, scapegoats, and counter-propaganda are the in-fiction levers a frightened ruler pulls. Stirring unrest is a tug-of-war, not a staircase.
+### Stir Unrest
  
-**Tipping Point Thresholds.** As Unrest crosses fractions of the Tipping Point, the mood of the community shifts:
+**Summary.** A single agitator with a printing press, a grievance, and a little funding can do what an army cannot. This is a long project that builds or reinforces popular discontent in a community toward a tipping point, at which the populace acts. The people may organize a strike, stage a riot, plot a coup, a secession, a revolution, etc.
  
-| Threshold | Stage | Effect in the community |
-| --------- | ----- | ----------------------- |
-| 25%  | Discontent | Grumbling, graffiti, pamphlets. Advantage on further Stir Unrest checks here. |
-| 50%  | Agitation  | Protests and slowdowns. Guards are stretched: advantage on Crime, Stealth, and Gather Information in the area. |
-| 75%  | Turmoil    | Strikes and riots. The authority may negotiate, concede, or escalate to open repression. |
-| 100% | Uprising   | The populace acts. Resolve as a set-piece or adventure, not a single roll. |
+**Resources.** The character chooses a **scope** as per Table: Stir Unrest and pays the listed cost on materials and labor. Pamphlets, safehouses, bribes, and the care and feeding of a clandestine network. Each slot they make one check, approved by the GM to fit their method: Charisma (Persuasion) to rally, Charisma (Deception) to spread propaganda, Charisma (Intimidation) to coerce, or Intelligence (Investigation) to organize strikes and supply lines.
  
-When Unrest reaches the **Tipping Point**, the accumulated Unrest, the agitator's Contacts, and their allies all become assets in the climactic event — this is the moment the campaign has been building toward, and it should play out at the table, not on a table.
+#### **Stir Unrest**
  
-*Stir Unrest*
+| **Scope** | **DC** | **Cost / Slot** | **Tipping Point** |
+| :-- | :--: | :--: | :--: |
+| Hamlet / neighborhood | 10 | 5 gp | 5 |
+| Town / district | 15 | 20 gp | 10 |
+| City | 20 | 100 gp | 20 |
+| Realm / region | 25 | 400 gp | 40 |
+^stir-unrest
  
-| Scope | DC | Cost / week | Tipping Point |
-| ----- | -- | ----------- | ------------- |
-| Hamlet / neighborhood | 10 | 25 gp     | 5  |
-| Town / district       | 15 | 100 gp    | 10 |
-| City                  | 20 | 500 gp    | 20 |
-| Realm / region        | 25 | 2,000 gp  | 40 |
+**Resolution.** At the end of the slot, the player makes a roll adjudicated by the GM, against the DC for their chosen scope.
  
-> [!note] Design note
-> This is the most campaign-shaping activity here, so it's built as a multi-week **tug-of-war** rather than a payout: Suppression means a half-hearted effort against a strong regime *loses ground*, which makes funding, method, and timing matter. With +1d4/week against a Tipping Point of 5–40 and Stability shaving 1–4 off each period, a sympathetic hamlet can tip in a couple of weeks while toppling a vigilant realm is the work of a season or more — exactly the cadence A5E's Extended Downtime rules are designed for. The thresholds hand out *fictional* leverage (stretched guards, easier crime, a regime willing to deal) so the build-up is felt in play long before the Uprising. Pairs naturally with faction agendas: rival factions can run their own Stir Unrest in opposition, contributing to or draining the same Unrest pool.
+> [!tip] Use of Skills
+> As the GM, let the player explain how they are stoking discontent and what skill they plan to use. 
+> 
+> **Skill Ideas** 
+> - use their **Persuasion** to rally sympathizers in taverns and town squares
+> - use their **Deception** to spread propaganda and disinformation targeting the regime
+> - use their **Intimidation** to coerce fence-sitters and silence informants
+> - use their **Investigation** to organize cells, dead drops, and supply lines
+> - etc.
+
+On a success, the player gains +1 progress towards their goal, while a **Critical Success** grants **+2** progress and removes 1 . Once the player reaches the threshold for their target tier, they achieve the new proficiency rank and may immediately begin training toward the next tier if they meet its level gate. 
+
+A failure does not cause the player to lose progress, instead they gain none. While a **Critical Failure** causes the character to suffer a training setback. Maybe a minor injury was sustained during drills, giving them a level of Fatigue, or a bad habit that must be corrected, giving them Disadvantage on their next training check.
+
+- **Critical Success.** A breakthrough. Gain **2d4 Unrest.**
+- **Success.** The movement grows. Gain **1d4 Unrest.**
+- **Failure.** No progress, and the character draws the eye of the authorities: gain **1 Heat.**
+- **Critical Failure.** A cell is exposed. Lose **1d4 Unrest**, gain **2 Heat**, and an ally or Contact may be arrested or turned.
+**Heat.** Heat represents how much attention the authorities are paying to the agitator personally. The GM tracks Heat privately and uses it to trigger complications — investigations, surveillance, attempted arrests, or informants planted in the network. Heat does not decay on its own; the agitator must take active steps to reduce it (laying low for a full week of downtime, relocating operations, sacrificing a scapegoat). The GM determines what those steps cost.
+ 
+**Suppression.** The ruling power pushes back. At the end of each week (every 5 slots), the GM removes Unrest equal to the regime's **Stability** rating. Suggested values: **1** for a weak, distracted, or sympathetic authority; **2–3** for a stable one; **4+** for a vigilant or tyrannical one. Bread, circuses, crackdowns, scapegoats, and counter-propaganda are the in-fiction levers a frightened ruler pulls. Stirring unrest is a tug-of-war, not a staircase.
+ 
+#### **Tipping Point Thresholds**
+ 
+As Unrest crosses fractions of the Tipping Point, the mood of the community shifts:
+ 
+| **Threshold** | **Stage** | **Effect** |
+| :--: | :-- | :-- |
+| 25% | Discontent | Grumbling, graffiti, pamphlets. Advantage on further Stir Unrest checks in this community. |
+| 50% | Agitation | Protests and slowdowns. Guards are stretched: Advantage on Crime, Stealth, and Gather Information checks in the area. |
+| 75% | Turmoil | Strikes and riots. The authority may negotiate, concede, or escalate to open repression. |
+| 100% | Uprising | The populace acts. Resolve as a set-piece or adventure, not a single roll. |
+^stir-unrest-thresholds
+ 
+When Unrest reaches the Tipping Point, the accumulated Unrest, the agitator's Contacts, and their allies all become assets in the climactic event — this is the moment the campaign has been building toward, and it should play out at the table, not on a table.
+ 
+> [!warning] Stir Unrest is a Campaign Arc
+> This activity is designed to run in the background across weeks or months of play, not to be resolved in a single downtime stretch. The Suppression mechanic means the agitator must sustain pressure — a few slots of effort followed by an adventure arc lets the regime claw back progress. Plan accordingly: a City-scope revolution (Tipping Point 20) against a stable regime (Stability 2) requires the agitator to average more than 2 Unrest per week just to break even. Multiple agitators, or destabilizing the regime first, may be necessary.
+ 
+> [!note] Heat Thresholds — GM Guidance
+> Heat has no fixed mechanical breakpoints — the GM uses it narratively. As a rough guide: **1–2 Heat** draws casual notice (increased guard patrols, questions asked at taverns); **3–4 Heat** triggers active investigation (the agitator's name is known, safe houses may be watched); **5+ Heat** means the authorities are hunting them directly (wanted posters, bounties, raids). A Critical Failure at high Heat should feel dangerous — this is the point where a real-world revolutionary gets caught.
+ 
  
 ---
  
-## Animal Training
+### Animal Training
  
 A loyal beast is worth a dozen hirelings and asks for nothing but food, care, and affection. **Animal Training** lets a character turn a wild animal into a dependable companion, mount, guardian, or performer.
  

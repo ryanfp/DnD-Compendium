@@ -1,664 +1,719 @@
 # New/Revised Conditions
 
-## Existing Conditions
+### Baned
+
+#condition/new
+
+> [!note] Associations **Damage Type:** N/A **Spells/Abilities:** _bane_
+
+While you have the Baned condition, you experience the following effect.
+
+_**Hindered.**_ You subtract 1d4 from your D20 Tests.
+
+---
+
+### Bleeding
+
+#condition/new
+
+> [!note] Associations **Damage Type:** Slashing, Piercing
+
+While you have the Bleeding condition, you experience the following effects.
+
+_**Lingering Damage.**_ You take 1d4 Slashing damage at the start of each of your turns.
+
+_**Saving Throws Affected.**_ You have Disadvantage on Fortitude saving throws.
+
+_**Ending the Condition.**_ At the end of each of your turns, you can make a DC 15 Fortitude saving throw, ending the condition on yourself on a success. The condition also ends if you, or a creature within 5 feet of you, takes an action to make a DC 15 Medicine check, or if you receive any source of healing.
+
+_**Healing.**_ The first source of healing you receive while Bleeding is spent entirely on ending the condition rather than restoring Hit Points.
+
+---
+
+### Blessed
+
+#condition/new
+
+> [!note] Associations **Damage Type:** N/A **Spells/Abilities:** _bless_
+
+While you have the Blessed condition, you experience the following effect.
+
+_**Favored.**_ You add 1d4 to your D20 Tests.
+
+---
 
 ### Blinded
 
+#condition/existing
+
 While you have the Blinded condition, you experience the following effects.
 
-***Can't See.*** You can't see and automatically fail any ability check that requires sight.
+_**Can't See.**_ You can't see and automatically fail any ability check that requires sight.
 
-***Attacks Affected.*** Attack rolls against you have Advantage, and your attack rolls have Disadvantage.
+_**Attacks Affected.**_ Attack rolls against you have Advantage, and your attack rolls have Disadvantage.
 
 ---
 
 ### Bloodied
 
+#condition/existing
+
 A creature is Bloodied while it has half its Hit Points or fewer remaining.
+
+---
+
+### Burning
+
+#condition/new
+
+> [!note] Associations **Damage Type:** Fire
+
+While you have the Burning condition, you experience the following effects.
+
+_**Burning Damage.**_ You take 1d4 Fire damage at the end of each round, unless the triggering ability specifies a different amount. If you're already Burning and gain the condition again, the higher damage amount takes precedence.
+
+_**Hard to Miss.**_ You shed Bright Light in a 10-foot radius and Dim Light for an additional 10 feet, and you have Disadvantage on Dexterity (Stealth) checks.
+
+_**Transferring Fire.**_ When you're Burning and you successfully grapple another creature, that creature also gains the Burning condition at the same damage level.
+
+_**Ending the Condition.**_ A creature can take an action or Bonus Action to clear the condition from you, or you can take an action to clear it yourself. You can also drop Prone and forgo all your movement to end the condition. You lose the Burning condition when you gain the Wet condition.
+
+Putting out the fire varies in difficulty depending on its source. Nonmagical flame can be doused easily—a creature can take an action to douse it if the fire is within reach, or use another means of dousing flame at range, such as the _control flames_ spell. Flame submerged in water or a similarly smothering fluid is doused automatically.
+
+Magical flame can be more difficult to douse, depending on the source. The _searing smite_ spell can be doused as easily as any nonmagical fire, but the flames of the _immolation_ spell can be doused only by ending the spell, such as with a successful saving throw or an effect like _dispel magic_.
 
 ---
 
 ### Charmed
 
+#condition/existing
+
 While you have the Charmed condition, you experience the following effects.
 
-***Can't Harm the Charmer.*** You can't attack the charmer or target the charmer with damaging abilities or magical effects.
+_**Can't Harm the Charmer.**_ You can't attack the charmer or target the charmer with damaging abilities or magical effects.
 
-***Social Advantage.*** The charmer has Advantage on any ability check to interact with you socially.
+_**Social Advantage.**_ The charmer has Advantage on any ability check to interact with you socially.
 
 ---
 
 ### Concentration
 
+#condition/existing
+
 Some spells and other effects require Concentration to remain active, as specified in their descriptions. If the effect's creator loses Concentration, the effect ends. If the effect has a maximum duration, the effect's description specifies how long the creator can concentrate on it: up to 1 minute, 1 hour, or some other duration. The creator can end Concentration at any time (no action required). The following factors break Concentration.
 
-***Another Concentration Effect.*** You lose Concentration on an effect the moment you start casting a spell that requires Concentration or activate another effect that requires Concentration.
+_**Another Concentration Effect.**_ You lose Concentration on an effect the moment you start casting a spell that requires Concentration or activate another effect that requires Concentration.
 
-***Damage.*** If you take damage, you must succeed on a Constitution saving throw to maintain Concentration. The DC equals 10 or half the damage taken (round down), whichever number is higher, up to a maximum DC of 30.
+_**Damage.**_ If you take damage, you must succeed on a Constitution saving throw to maintain Concentration. The DC equals 10 or half the damage taken (round down), whichever number is higher, up to a maximum DC of 30.
 
-***Incapacitated or Dead.*** Your Concentration ends if you have the Incapacitated condition or you die.
+_**Incapacitated or Dead.**_ Your Concentration ends if you have the Incapacitated condition or you die.
+
+---
+
+### Confused
+
+#condition/new
+
+While you have the Confused condition, you experience the following effects.
+
+_**Indecisive.**_ You have the Rattled condition.
+
+_**Random Actions.**_ On your turn, roll on the Confused Behavior table to determine what you do.
+
+|d8|Effect|
+|:-:|---|
+|1|The Confused creature takes the Dodge action and ends its turn.|
+|2-3|The Confused creature takes no action or Bonus Action and uses all of its movement to move in a randomly determined direction. Roll a d8 to determine which cardinal/sub-cardinal direction it moves.|
+|4-5|The Confused creature can take either an action or a Bonus Action, and then moves half its Speed in a randomly determined direction. Roll a d8 to determine which cardinal/sub-cardinal direction it moves.|
+|6-7|The Confused creature takes the Attack action or the Magic action against a randomly determined creature within its reach or range. The creature can only perform an Exploit of 2nd degree or lower, or cast a spell of 3rd level or lower. If a creature cannot perform either action, it ends its turn.|
+|8|The Confused creature can act normally.|
+
+---
+
+### Corroded
+
+#condition/new
+
+> [!note] Associations **Damage Type:** Acid
+
+While you have the Corroded condition, you experience the following effects.
+
+_**Lingering Damage.**_ You take 1d4 Acid damage at the start of each of your turns.
+
+_**Lowered Defenses.**_ You take a -2 penalty to your Armor Class for the duration.
+
+_**Ending the Condition.**_ A creature can take an action or Bonus Action to clear the condition from you, or you can take an action to clear it yourself. You lose the Corroded condition when you gain the Wet condition.
+
+_**Escalating Acid.**_ Taking Acid damage refreshes the duration and increases the damage die by one step.
+
+---
+
+### Dazed
+
+#condition/revised
+
+> [!note] Associations **Spells/Abilities:** Stunning Strike **Interactions:** Replaces the Stunned condition at a 1:1.
+
+While you have the Dazed condition, you experience the following effects.
+
+_**Limited Actions.**_ On your turn, you can take only one of the following: move, take an action, or take a Bonus Action. If you become Dazed during your turn, your turn ends.
+
+_**No Concentration.**_ Your Concentration is broken.
+
+_**Rattled.**_ You have the Rattled condition.
+
+_**Saving Throws Affected.**_ You have Disadvantage on Reflex and Will saving throws.
+
+_**Speechless.**_ You can speak only falteringly.
+
+_**Surprised.**_ If you're Dazed when you roll Initiative, you have the Surprised condition.
+
+When a Dazed creature is affected by a spell or effect that grants it an extra action on its turn (such as the _haste_ spell or the fighter's Action Surge feature), it can still take that extra action, in addition to the movement, action, or Bonus Action allowed by the Dazed condition.
+
+The _cure ailment_ power, _lesser restoration_ spell, and _greater restoration_ spell remove the Dazed condition. At the GM's discretion, other powers, spells, or effects might also remove it.
+
+Some creatures have Immunity to the Dazed condition. At the GM's discretion, a creature that has Immunity to the Paralyzed or Stunned condition also has Immunity to the Dazed condition.
 
 ---
 
 ### Deafened
 
+#condition/existing
+
 While you have the Deafened condition, you experience the following effect.
 
-***Can't Hear.*** You can't hear and automatically fail any ability check that requires hearing.
+_**Can't Hear.**_ You can't hear and automatically fail any ability check that requires hearing.
+
+---
+
+### Disrupted
+
+#condition/new
+
+While you have the Disrupted condition, you experience the following effects.
+
+_**Backlash.**_ Whenever you attempt to cast a spell or maintain Concentration on a spell, you take Psychic damage equal to twice the level of the triggering spell.
+
+_**Chance to Fail.**_ Whenever you cast a spell, you must succeed on a Fortitude saving throw against your own spell save DC, or the spell fails without expending the spell slot. If you Critically Fail this saving throw, the spell slot is expended.
+
+_**Rattled Immunity.**_ If you're immune to the Rattled condition, you're immune to the Disrupted condition.
+
+---
+
+### Doomed
+
+#condition/new
+
+While you have the Doomed condition, you experience the following effects.
+
+_**Foreboding.**_ The next time you fall Unconscious, you begin with a number of failed death saving throws equal to your stacks of Doomed (maximum 3 stacks).
+
+_**Mortal Peril.**_ If you fall Unconscious while you have 3 stacks of Doomed, you die instantly.
+
+---
+
+### Downed
+
+#condition/new
+
+You gain the Downed condition and one stack of the Wounded condition when you drop to 0 Hit Points in combat. If the attack that reduced you to 0 Hit Points was a Critical Hit, you gain 2 stacks of the Wounded condition instead. While you have the Downed condition, you experience the following effects.
+
+_**Inert.**_ You have the Incapacitated and Immobilized conditions, you drop whatever you're holding, and you fall Prone.
+
+_**Defenseless.**_ You have the Exposed and Helpless conditions, and your attack rolls have Disadvantage.
+
+_**Barely Conscious.**_ You can speak only falteringly, in no more than a few words audible within 10 feet.
+
+_**Checks and Saves Affected.**_ You have Disadvantage on all ability checks and automatically fail Reflex saving throws.
+
+Before rolling your death saving throw on your turn, you can take one Desperate Action.
+
+#### Desperate Actions
+
+_**Crawl.**_ You crawl up to 5 feet. This movement doesn't provoke Opportunity Attacks. You can't crawl into Difficult Terrain unless you're already in it.
+
+_**Brace.**_ You put up the best defense you can muster. You temporarily lose the Exposed condition until your next turn, and the first attack from within 5 feet that hits you becomes a normal hit instead of a Critical Hit. If you take damage equal to or greater than half your Hit Point maximum, it still counts as a Critical Hit.
+
+_**Shout.**_ You cry out for aid. One ally within 30 feet can immediately move up to half its Speed directly toward you. This movement doesn't provoke Opportunity Attacks.
+
+***Inspire.*** You instill courage into an ally. Choose a creature you can see within 30 ft. You give that ally one Inspiration Die.
+
+You can take up to 3 Desperate Actions. After that, you can spend a failed death saving throw to take a Desperate Action on your turn.
+
+---
+
+### Exposed
+
+#condition/new
+
+While you have the Exposed condition, you experience the following effect.
+
+_**Attacks Affected.**_ Attack rolls against you have Advantage.
+
+---
+
+### Frenzied
+
+#condition/new
+
+While you have the Frenzied condition, you experience the following effects.
+
+_**Dangerous.**_ You have the Reckless condition.
+
+_**Cornered.**_ You have the Hastened condition.
+
+_**Chaotic.**_ You have the Confused condition.
 
 ---
 
 ### Frightened
 
+#condition/existing
+
 While you have the Frightened condition, you experience the following effects.
 
-***Ability Checks and Attacks Affected.*** You have Disadvantage on ability checks and attack rolls while the source of fear is within line of sight.
+_**Ability Checks and Attacks Affected.**_ You have Disadvantage on ability checks and attack rolls while the source of fear is within line of sight.
 
-***Can't Approach.*** You can't willingly move closer to the source of fear.
+_**Can't Approach.**_ You can't willingly move closer to the source of fear.
+
+---
+
+### Frostbite
+
+#condition/new
+
+> [!note] Associations **Damage Type:** Cold
+
+Frostbite stacks up to a maximum of 10, and most sources inflict 2 stacks. While you have the Frostbite condition, you experience the following effects.
+
+_**Speed Reduced.**_ Your Speed is reduced by 5 feet for each stack of Frostbite you have. If this reduction exceeds your Speed, your Speed becomes 0.
+
+_**Reduced Actions.**_ You can't take Bonus Actions.
+
+_**Frostbite Damage.**_ You take Cold damage equal to 1d4 plus the number of Frostbite stacks you have whenever you make a weapon attack or attempt to cast a spell with a Somatic component.
+
+_**Condition Resistance.**_ If you're immune to Cold damage, you're immune to the Frostbite condition. If you're resistant to Cold damage, you have Advantage on saving throws to resist the Frostbite condition.
+
+_**Ending the Condition.**_ By default, you lose 1 stack of Frostbite each turn, and you lose 1 stack each time you take Fire damage. Alternatively, you can lose 2 stacks on your turn if you move more than half your Speed, light a torch, or sit near a campfire or other lit source. You lose all stacks of Frostbite when you gain the Burning condition.
+
+---
+
+### Frozen
+
+#condition/new
+
+> [!note] Associations **Damage Type:** Cold **Interactions:** Frostbite condition
+
+When you reach 10 stacks of Frostbite, you lose all stacks of Frostbite and gain the Frozen condition. While you have the Frozen condition, you experience the following effects.
+
+_**Stuck.**_ You have the Restrained condition.
+
+_**Helpless.**_ You Helpless against Bludgeoning, Thunder, and Fire damage. When you take damage of any of those types, you lose the Frozen condition.
+
+_**Condition Resistance.**_ If you're immune to Cold damage, you're immune to the Frozen condition. If you're resistant to Cold damage, you have Advantage on saving throws to resist the Frozen condition.
+
+_**Breaking Free.**_ You can attempt a DC 15 Strength (Athletics) check to break free. The condition also ends if you or an ally deals 15 Bludgeoning or Fire damage to the ice.
+
+---
+
+### Goaded
+
+#condition/new
+
+While you have the Goaded condition, you experience the following effects.
+
+_**Fixated.**_ You have Disadvantage on attack rolls against any creature other than the one that Goaded you. You also have Disadvantage on Investigation and Perception checks to perceive or examine creatures or objects other than the source of your fixation.
+
+_**Enraged.**_ If you can see or hear the enemy that Goaded you within 60 feet, you must end your turn closer to that enemy than you started.
+
+_**Condition Immunities.**_ You're immune to the Charmed, Frightened, and Frenzied conditions.
+
+---
+
+### Grappled
+
+#condition/revised
+
+While you have the Grappled condition, you experience the following effects.
+
+_**Speed 0.**_ You have the Immobilized condition.
+
+_**Attacks Affected.**_ You have Disadvantage on attack rolls against any target other than the grappler.
+
+_**Movable.**_ The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
+
+_**Ending a Grapple.**_ A Grappled creature can use its action to make a Strength (Athletics) or Dexterity (Acrobatics) check against the grapple's escape DC, ending the condition on itself on a success. The condition also ends if the grappler has the Incapacitated condition or if the distance between the Grappled target and the grappler exceeds the grapple's range. In addition, the grappler can release the target at any time (no action required).
+
+---
+
+### Hastened
+
+#condition/new
+
+> [!note] Associations **Spells/Abilities:** _haste_
+
+While you have the Hastened condition, you experience the following effects.
+
+_**Swift.**_ Your Speed is doubled.
+
+_**Evasive.**_ You have a +2 bonus to your Armor Class.
+
+---
+
+### Helpless
+
+#condition/new
+
+While you have the Helpless condition, you experience the following effect.
+
+_**Automatic Critical Hits.**_ An attack roll that hits you is a Critical Hit if the attacker is within 5 feet of you.
+
+---
+
+### Immobilized
+
+#condition/new
+
+While you have the Immobilized condition, you experience the following effects.
+
+_**Speed 0.**_ Your Speed is 0, and you can't benefit from any bonus to your Speed. If you're flying when you become Immobilized, you fall.
+
+_**Saving Throws and Checks Affected.**_ You have Disadvantage on Dexterity-based ability checks and Reflex saving throws.
 
 ---
 
 ### Incapacitated
 
+#condition/existing
+
 While you have the Incapacitated condition, you experience the following effects.
 
-***Inactive.*** You can't take any action, Bonus Action, or Reaction.
+_**Inactive.**_ You can't take any action, Bonus Action, or Reaction.
 
-***No Concentration.*** Your Concentration is broken.
+_**No Concentration.**_ Your Concentration is broken.
 
-***Speechless.*** You can't speak.
+_**Speechless.**_ You can't speak.
 
-***Surprised.*** You have the Surprised condition.
+_**Surprised.**_ You have the Surprised condition.
 
 ---
 
 ### Invisible
 
+#condition/existing
+
 While you have the Invisible condition, you experience the following effects.
 
-***Surprise.*** If you're Invisible when you roll Initiative, you have Advantage on the roll.
+_**Surprise.**_ If you're Invisible when you roll Initiative, you have Advantage on the roll.
 
-***Concealed.*** You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed. Your location can still be detected by any noise it makes or any tracks it leaves.
+_**Concealed.**_ You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed. Your location can still be detected by any noise it makes or any tracks it leaves.
 
-***Attacks Affected.*** Attack rolls against you have Disadvantage, and your attack rolls have Advantage. If a creature can somehow see you, you don't gain this benefit against that creature.
+_**Attacks Affected.**_ Attack rolls against you have Disadvantage, and your attack rolls have Advantage. If a creature can somehow see you, you don't gain this benefit against that creature.
+
+---
+
+### Maimed
+
+#condition/new
+
+While you have the Maimed condition, you experience the following effects.
+
+_**Injured.**_ You have the Bleeding condition.
+
+_**Inhibited.**_ You have the Slowed condition.
 
 ---
 
 ### Paralyzed
 
+#condition/revised
+
 While you have the Paralyzed condition, you experience the following effects.
 
-***Incapacitated.*** You have the Incapacitated condition.
+_**Incapacitated.**_ You have the Incapacitated condition.
 
-***Speed 0.*** Your have the Immobilized condition.
+_**Speed 0.**_ You have the Immobilized condition.
 
-***Attacks Affected.*** You have the Exposed condition.
+_**Attacks Affected.**_ You have the Exposed condition.
 
-***Automatic Critical Hits.*** You have the Helpless condition.
+_**Automatic Critical Hits.**_ You have the Helpless condition.
 
-***Saving Throws Affected.*** You automatically fail Reflex saving throws.
+_**Saving Throws Affected.**_ You automatically fail Reflex saving throws.
 
 ---
 
 ### Petrified
 
+#condition/revised
+
 While you have the Petrified condition, you experience the following effects.
 
-***Turned to Inanimate Substance.*** You are transformed, along with any nonmagical objects you are wearing and carrying, into a solid inanimate substance (usually stone). Your weight increases by a factor of ten, and you cease aging. While in this state, you are unaware of your surroundings.
+_**Turned to Inanimate Substance.**_ You are transformed, along with any nonmagical objects you are wearing and carrying, into a solid inanimate substance (usually stone). Your weight increases by a factor of ten, and you cease aging. While in this state, you are unaware of your surroundings.
 
-***Incapacitated.*** You have the Incapacitated condition.
+_**Incapacitated.**_ You have the Incapacitated condition.
 
-***Speed 0.*** Your have the Immobilized condition.
+_**Speed 0.**_ You have the Immobilized condition.
 
-***Attacks Affected.*** You have the Exposed condition.
+_**Attacks Affected.**_ You have the Exposed condition.
 
-***Saving Throws Affected.*** You automatically fail Reflex saving throws.
+_**Saving Throws Affected.**_ You automatically fail Reflex saving throws.
 
-***Resist Damage.*** You have Resistance to all damage.
+_**Resist Damage.**_ You have Resistance to all damage.
 
-***Poison Immunity.*** You have Immunity to the Poisoned condition.
+_**Poison Immunity.**_ You have Immunity to the Poisoned condition.
+
+---
+
+### Poisoned
+
+#condition/revised
+
+While you have the Poisoned condition, you experience the following effects.
+
+_**Ability Checks and Attacks Affected.**_ You have Disadvantage on attack rolls and ability checks.
+
+_**Lingering Damage.**_ You take 1d4 Poison damage at the start of each of your turns.
 
 ---
 
 ### Prone
 
+#condition/existing
+
 While you have the Prone condition, you experience the following effects.
 
-***Restricted Movement.*** Your only movement options are to crawl or to spend an amount of movement equal to half your Speed (round down) to right yourself and thereby end the condition. If your Speed is 0, you can't right yourself.
+_**Restricted Movement.**_ Your only movement options are to crawl or to spend an amount of movement equal to half your Speed (round down) to right yourself and thereby end the condition. If your Speed is 0, you can't right yourself.
 
-***Attacks Affected.*** You have Disadvantage on attack rolls. An attack roll against you has Advantage if the attacker is within 5 feet of you. Otherwise, that attack roll has Disadvantage.
+_**Attacks Affected.**_ You have Disadvantage on attack rolls. An attack roll against you has Advantage if the attacker is within 5 feet of you. Otherwise, that attack roll has Disadvantage.
+
+---
+
+### Rattled
+
+#condition/new
+
+While you have the Rattled condition, you experience the following effects.
+
+_**No Bonus Dice.**_ You can't benefit from Bonus Dice.
+
+_**No Reactions.**_ You can't take Reactions.
+
+_**Dazed Immunity.**_ If you're immune to the Dazed condition, you're immune to the Rattled condition.
+
+---
+
+### Reckless
+
+#condition/new
+
+While you have the Reckless condition, you experience the following effects.
+
+_**Dangerous.**_ You have Advantage on attack rolls.
+
+_**Foolhardy.**_ Attack rolls against you have Advantage.
+
+---
+
+### Restrained
+
+#condition/revised
+
+While you have the Restrained condition, you experience the following effects.
+
+_**Speed 0.**_ You have the Immobilized condition.
+
+_**Attacks Affected.**_ You have the Exposed condition, and your attack rolls have Disadvantage.
+
+_**Spellcasting Affected.**_ You can't cast spells that have a Somatic component.
+
+---
+
+### Shocked
+
+#condition/new
+
+> [!note] Associations **Damage Type:** Lightning
+
+When you gain the Shocked condition, you immediately drop one item you're holding into a random space within 5 feet of you (roll 1d8 to determine the direction). While you have the Shocked condition, you experience the following effects.
+
+_**Rattled.**_ You have the Rattled condition.
+
+_**Saving Throws and Checks Affected.**_ You have Disadvantage on Dexterity-based ability checks and Reflex saving throws.
+
+_**Fumbling.**_ You must take an action to draw, stow, or pick up an object.
+
+---
+
+### Silenced
+
+#condition/new
+
+While you have the Silenced condition, you experience the following effects.
+
+_**Speechless.**_ You can't speak.
+
+_**Spellcasting Affected.**_ Spells that require a Verbal component automatically fail.
+
+---
+
+### Slowed
+
+#condition/new
+
+While you have the Slowed condition, you experience the following effects.
+
+_**Speed Halved.**_ Your Speed is halved.
+
+_**Lowered Defenses.**_ You take a -2 penalty to your Armor Class.
+
+---
+
+### Stupefied
+
+#condition/new
+
+> [!note] Associations **Damage Type:** Psychic
+
+While you have the Stupefied condition, your thoughts and instincts are clouded, and you experience the following effects.
+
+_**Mind Clouded.**_ You have Disadvantage on Intelligence, Wisdom, and Charisma-based checks and DCs, including Will saving throws, spell attack rolls, spell save DCs, and skill checks that use those ability scores.
+
+_**Limited Casting.**_ You can take the Magic action only to cast a cantrip with a casting time of 1 action.
+
+_**Concentration Affected.**_ You have Disadvantage on Fortitude saving throws to maintain Concentration on spells.
+
+---
+
+### Surprised
+
+#condition/revised
+
+While you have the Surprised condition, you experience the following effects.
+
+_**Caught Off Guard.**_ You have Disadvantage on Initiative rolls.
+
+_**Rattled.**_ You have the Rattled condition until the end of the first round of combat.
 
 ---
 
 ### Unconscious
 
+#condition/revised
+
 While you have the Unconscious condition, you experience the following effects.
 
-***Inert.*** You have the Incapacitated and Prone conditions, and you drop whatever you're holding. When this condition ends, you remain Prone.
+_**Inert.**_ You have the Incapacitated and Prone conditions, and you drop whatever you're holding. When this condition ends, you remain Prone.
 
-***Speed 0.*** Your have the Immobilized condition.
+_**Speed 0.**_ You have the Immobilized condition.
 
-***Attacks Affected.*** You have the Exposed condition.
+_**Attacks Affected.**_ You have the Exposed condition.
 
-***Automatic Critical Hits.*** You have the Helpless condition.
+_**Automatic Critical Hits.**_ You have the Helpless condition.
 
-***Saving Throws Affected.*** You automatically fail Reflex saving throws.
+_**Saving Throws Affected.**_ You automatically fail Reflex saving throws.
 
-***Unaware.*** You're unaware of your surroundings.
+_**Unaware.**_ You're unaware of your surroundings.
 
+---
 
-## Revised/Reworked/Codified Conditions
-
-*This section is for conditions that have been slightly changed or optimized, as well as those that have been in the game and referenced often, but never codified as an “official” condition. In that instance, this change seeks to simplify rules in exchange for a slightly higher initial learning curve*
-
-### Baned
-
-#### Associations:
-
-**Damage Type:**  N/A
-**Spells/Abilities:** *bane*
-
-#### Description
-The affected target suffers a 1d4 penalty to all d20 tests.
-- - -
-
-### Blessed
-
-#### Associations:
-
-**Damage Type:**  N/A
-**Spells/Abilities:** *bless*
-
-#### Description
-The affected targets gains a 1d4 bonus to all d20 tests.
-- - - 
-
-### Dazed
-
-#### Associations:
-
-**Damage Type:**  N/A
-**Spells/Abilities:** Stunning Strike
-
-**Interactions:** Replaces the *stunned* condition at a 1:1
-
-#### Description
-While you have the *dazed* condition, you have the following effects:
-
-**No Concentration.** Your Concentration is broken.
-**Rattled.** You have the Rattled condition.
-**Speechless.** You can speak only falteringly.
-**Surprised.** If you're *dazed* when you roll Initiative, you gain the *surprised* condition (Disadvantage on the initiative roll).
-**Saving Throws Affected.** You disadvantage on Reflex and Will saving throws.
-
-A dazed creature can only do one of the following things on their turn: move, use an action, or use a bonus action. If a creature becomes dazed during their turn, their turn ends. The *cure ailment* power, *lesser restoration* spell, and *greater restoration* spell remove the *dazed* condition. At the GM's discretion, other powers, spells, or effects might also remove the *dazed* condition.
-
-When a *dazed* creature is affected by a spell or effect that gives them an extra action on their turn (like the haste spell or the fighter's Action Surge feature), they can still take this extra action, in addition to the movement, action, or bonus action allowed by the *dazed* condition.
-
-Some creatures in this book have immunity to the dazed condition. At the GM's discretion, a creature published in the core rules or another supplement who has immunity to the paralyzed or stunned condition also has immunity to the dazed condition.
-
-- - -
-
-### Exposed
-#### Associations:
-
-**Damage Type:**  N/A
-**Spells/Abilities:** 
-
-#### Description
-Attack rolls against you have advantage.
-
-- - - 
-
-### Grappled
-
-While you have the Grappled condition, you experience the following effects.
-
-***Speed 0.*** You are Immobilized.
-
-***Attacks Affected.*** You have Disadvantage on attack rolls against any target other than the grappler.
-
-***Movable.*** The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
-
-***Ending a Grapple.*** A Grappled creature can use its action to make a Strength (Athletics) or Dexterity (Acrobatics) check against the grapple's escape DC, ending the condition on itself on a success. The condition also ends if the grappler has the Incapacitated condition or if the distance between the Grappled target and the grappler exceeds the grapple's range. In addition, the grappler can release the target at any time (no action required).
-
-- - -
-
-### Helpless
-#### Associations:
-
-**Damage Type:**  
-**Spells/Abilities:** 
-
-#### Description
-Attack rolls from within 5 ft that hit are critical hits.
-
-- - - 
-### Immobilized
-#### Associations:
-
-**Damage Type:**  
-**Spells/Abilities:** 
-
-#### Description
-Your speed becomes zero, and you can’t benefit from any bonuses to your speed. If you’re flying when you become immobilized, you fall. You have disadvantage on Reflex Saving Throws and Ability Checks using Dexterity.
-
-- - - 
-
-### Poisoned
-#### Associations:
-
-**Damage Type:**  
-**Spells/Abilities:** 
-
-#### Description
-While you have the Poisoned condition, you experience the following effect.
-
-**Ability Checks and Attacks Affected.** You have Disadvantage on attack rolls and ability checks.
-**Lingering Damage.** You take 1d4 Poison damage at the start of each of your turns.
-
-- - -
-- 
-### Restrained
-#### Associations:
-
-**Damage Type:**  N/A
-**Spells/Abilities:** 
-
-#### Description
-
-**Speed 0.** You are Immobilized.
-**Attacks Affected.** You are Exposed, and your attack rolls have Disadvantage.
-**Saving Throws Affected.** You have Disadvantage on Reflex saving throws.
-**Spells Affected.** You cannot cast spells which have somatic components.
-
-### Slowed
-#### Associations:
-
-**Damage Type:**  
-**Spells/Abilities:** 
-
-#### Description
-
-While you are under the slowed condition, your movement speed is reduced by half and you take a -2 penalty to AC.
-- - - 
-### Surprised
-#### Associations:
-
-**Damage Type:**  
-**Spells/Abilities:** 
-
-#### Description
-
-You have disadvantage on Initiative rolls and you have the rattled condition for the first round of combat.
-
-- - -
-
-## New Conditions
-
-*This section is for conditions that are completely new, or replace old conditions. These seek to increase depth of gameplay and interaction between systems. The goal is to not **overwhelm** the player, but **moderately integrate** these with the existing mechanics.*
-
-### Bleeding
-#### Associations:
-
-**Damage Type:**  Slashing, Piercing
-**Spells/Abilities:** 
-
-#### Description
-
-
-While you are bleeding, you suffer 1d4 slashing damage at the start of each of your turns and you have disadvantage on Fortitude saving throws.
-
-**Ending the Condition.** While Bleeding, you can make a `DC 15 Fortitude saving throw` at the end of each of your turns, ending the condition on yourself on a success. The condition also ends if you, or a creature within 5 feet of you, use an Action to make a `DC 15 Medicine check`, or if you receive any source of healing.
-**Healing.** While you have the Bleeding condition, the first source of healing you receive is instead used to end the condition. Any single source of healing is not received and wholyl spent on ending the condition.
-
-
-- - -
-### Burning
-#### Associations:
-
-**Damage Type:**  Fire
-**Spells/Abilities:** 
-
-#### Description
-
-While afflicted by the burning condition, you suffer the follow effects:
-
-**Burning Damage.** You suffer 1d4 Fire damage at the end of each round, unless a different amount is specified by the triggering ability. If you are already burning, but gain the condition again, the higher damage amount takes precedence.
-**Hard to Miss.** You shine bright light in a 10 ft radius and dim light in an additional 10 ft radius. You have disadvantage on Stealth (Dexterity) checks.
-**Ending the Condition.** Anyone can spend an Action or Bonus Action to clear the condition off of you, or you can spend an Action to clear it yourself. You can also forego all of your movement and drop Prone, ending the condition. You also lose the burning condition when gaining the wet condition.
-**Transferring Fire.** When a creature that is burning successfully grapples another creature, they obtain the burning condition as well, at the same damage level as the original user. 
-
-Putting out the fire causing a creature to be ablaze varies in difficulty depending on what caused the fire. Nonmagical flame can be doused easily—a creature can take an action to douse the fire if the fire is within their reach, or if they have other means of dousing flame from further away, such as the *control flames* spell. If the flame is submerged in water or a similarly smothering fluid, it is doused automatically.
-
-Magical flame can be more difficult to douse, depending on the source. For example, the *searing smite* spell can be doused as easily as any nonmagical fire but the flames from the *immolation* spell can only be doused by ending the spell, either with a successful saving throw or an effect like *dispel magic*.
-
-- - -
-
-### Confused
-
-- **Indecisive.** A confused creature is Rattled.
-- **Random Actions.** On its turn, a Confused creature rolls on the Table:Confused to determine what it does. 
-
-|d8|Effect |
-| :---: | -- |
-|1| The Confused creature takes the Dodge action and ends its turn.                                                                                                                                                                                                                                            |
-| 2-3 | The Confused creature takes no Action or Bonus Action and uses all of its movement to move in a randomly determined direction. Roll a d8 to determine which cardinal/sub-cardinal direction they move.                                                                                                     |
-| 4-5 | The Confused creature can take either an Action or Bonus Action, and then moves half of its movement speed in a randomly determined direction. Roll a d8 to determine which cardinal/sub-cardinal direction they move.                                                                                     |
-| 6-7 | The Confused creature takes the Attack action or the Magic action against a randomly determined creature within it’s reach or range. The creature can only perform an Exploit of 2nd degree or lower, or cast a spell of 3rd level or lower. If a creature cannot perform either Action, it ends its turn. |
-| 8   | The Confused creature can act normally.                                                                                                                                                                                                                                                                    |
-
-
-### Corroded
-#### Associations:
-
-**Damage Type:**  Acid
-**Spells/Abilities:** 
-
-#### Description
-
-While you are afflicted by the corroded condition, you suffer the following effects:
-
-You take 1d4 Acid damage at the start of your turns, and you have -2 AC for the duration of the condition. 
-
-Anyone can spend an Action or Bonus Action to clear the condition off of you, or you can spend an Action to clear it yourself. You also lose the corroded condition when gaining the wet condition. Taking acid damage refreshes the duration and increases the die size one step.
-
-- - -
-
-### Disrupted
-
-**Backlash.** You suffer Psychic damage equal to `2 * triggering Spell level` when you attempt to cast a spell, or maintain concentration on a spell. 
-**Chance to Fail.** You must succeed on a Fortitude saving throw equal to your own Spell Save DC, or the spell fails, without expending the slot. If you **Critically Fail** the saving throw, the slot is expended.
-**Rattled Immunity.** A creature that is Immune to the Rattled condition is Immune to the Disrupted condition. 
-
-### Doomed
-#### Associations:
-
-**Damage Type:**  
-**Spells/Abilities:** 
-
-#### Description
-
-The next time you go unconscious, you start with a number of failed death saves equal to the stacks of this condition. Max 3 stacks. If you go unconscious with 3 stacks of Doomed, you die instantly.
-
-- - -
-### Downed
-#### Associations:
-
-**Damage Type:**  
-**Spells/Abilities:** 
-
-#### Description
-
-When you drop to 0 HP in combat, you gain this condition and one stack of the wounded condition. While under this condition, you suffer the following effects:
-
-- You are Incapacitated and Immobilized
-- You are Exposed and your Attack rolls have Disadvantage.
-- You are Helpless
-- You can speak only falteringly–no more than a few words at a time only audible within 10 ft.
-- You drop whatever you are holding and fall prone
-- You have disadvantage on all ability checks and automatically fail Reflex saving throws
-
-Before rolling your death save on each of your turns, the Downed character can take 1 Desperate Action:
-
-**Crawl:** The character wills themselves to crawl up to 5 feet. This movement does not provoke opportunity attacks. If an adjacent square is Difficult Terrain, you cannot crawl towards that square, unless you are already in said Difficult Terrain.
-**Brace:** The character puts up the best defense they can muster. Attackers do not get advantage on attacks due to the Downed condition until the character's next turn, and the first attack from within 5 ft that does hit is turned into a normal hit instead. If you receive an amount of damage that equals or exceeds half of your total health, it still counts as a critical hit.
-**Shout:** The character cries out for their ally to assist them. One friendly creature within 30 feet may immediately move up to half of its movement speed directly toward the downed character. This movement does not provoke opportunity attacks.
-
-You have up to 3 uses of desperate actions, at which point you can spend a failed save to use another action per turn.  If the attack that caused you to reach 0 HP was a critical hit, you gain 2 stacks of wounded instead.
-
-- - -
-### Frostbite
-#### Associations:
-
-**Damage Type:**  Cold
-**Spells/Abilities:** 
-
-#### Description
-
-This condition has a max of 10 stacks, and you lose 1 stack per turn if doing nothing. Most sources inflict 2 stacks. While you are under the frostbite condition, you suffer the following affects:
-
-**Speed Reduced.** Your speed is reduced by 5 ft for every stack of the Frostbite condition you have. If the number of reduced speed exceeds your total movement speed, your speed is 0. 
-**Reduced Actions.** You cannot take Bonus Actions.
-**Frostbite Damage.** You take (1d4 + the # of stacks of this condition) Cold damage when you attack with a weapon or attempt to cast a spell with somatic components.
-
-**Condition Resistance.** If you are Immune to Cold damage, you are Immune to the Frostbite condition. If you are Resistant to Cold damage, you have Advantage on Saving Throws to resist the Frostbite condition.
-**Ending the Condition.** You lose one stack per turn by default. Each time you take Fire damage, you lose one stack. Alternatively, you can lose 2 stacks on your turn if you:
- 
-- move more than half your movement speed 
-- light a torch
-- sit near a campfire or other lit object
-
-You lose the frostbite condition when you gain the burning condition.
-
-- - -
-### Frozen
-#### Associations:
-
-**Damage Type:**  Cold
-**Spells/Abilities:** 
-**Interactions:** Frostbite condition
-
-When you reach 10 stacks of Frostbite, you lose all stacks of the Frostbite condition and gain the Frozen condition. While you have the Frozen condition, you suffer the following effects:
-
-#### Description
-
-**Stuck.** You have the Restrained condition. 
-**Vulnerable.** You gain vulnerability to Bludgeoning, Thunder and Fire damage. When you take any of those types of damage, you lose the Frozen condition. 
-**Condition Resistance.** If you are Immune to Cold damage, you are Immune to the Frozen condition. If you are Resistant to Cold damage, you have Advantage on Saving Throws to resist the Frozen condition.
-
-You can also attempt to break out of the ice with a DC 15 Athletics check or if you or an ally inflict 15 Bludgeoning or Fire damage to the ice.
-
-- - -
-
-### Frenzied
-
-**Dangerous.** You have the Reckless condition.
-**Cornered.** You have the Hastened condition.
-**Chaotic.** You have the Confused condition.
-
-- - -
-
-### Goaded
-
-**Fixated.** You have Disadvantage on Attack rolls against any creature that is not the one that Goaded you. You also have Disadvantage on Investigation and Perception checks to perceive or examine creatures or objects other than the source of your fixation.
-**Enraged.** If you can see or hear the enemy that goaded you within 60 ft, you must end your turn closer than you started towards that enemy.
-**Condition Immunities.** You are Immune to the Charmed, Frightened, and the Frenzied condition.
-****
-### Hastened
-#### Associations:
-
-**Damage Type:**  
-**Spells/Abilities:** *haste*
-
-#### Description
-While under the effects of the hastened condition, you have a +2 bonus to your AC and your movement speed is doubled.
-- - -
-
-### Maimed
-**Injured.** You have the Bleeding condition.
-**Inhibited.** You have the Slowed condition.
-### Rattled
-#### Associations:
-
-**Damage Type:**  
-**Spells/Abilities:** 
-
-#### Description
-
-A creature that is immune to being dazed is immune to being rattled. While under the rattled condition, you suffer the following effects:
-
-- A rattled creature cannot benefit from bonus dice. 
-- A rattled creature cannot take reactions.
-- **Dazed Immunity.** If you are Immune to the Dazed condition, you are Immune to the Rattled condition.
-
-- - -
-
-### Reckless
-
-**Dangerous.** You have Advantage on attack rolls.
-**Foolhardy.** Attackers have Advantage on attack rolls against you.
-
-- - -
-
-### Shocked
-#### Associations:
-
-**Damage Type:**  Lightning
-**Spells/Abilities:** 
-
-#### Description
-
-When you gain the shocked condition, you immediately drop one item you are holding in your hands in a random square 5 ft away from you (roll 1d8 to determine space), and suffer the following effects:
-
-- You have the Rattled condition
-- You have disadvantage on ability checks involving Dexterity and  Reflex saving throws.
-- You must spend an Action to draw, stow, or pick up an object.
-
-- - -
-
-### Silenced
-
-While you are Silenced, you experience the following effects:
-
-- **Speechless.** You cannot speak.
-- **Spellcasting Affected.** Spells that require a Verbal component automatically fail.
-
-- - -
-
-### Stupefied
-#### Associations:
-
-**Damage Type:**  Psychic
-**Spells/Abilities:** 
-
-#### Description
-
-Your thoughts and instincts are clouded. You have disadvantage on Intelligence, Wisdom, and Charisma-based checks and DCs, including Will saving throws, spell attack rolls, spell DCs, and skill checks that use these ability scores. You also suffer the following effects:
-
-- You can only take a Magic action to cast a Cantrip with a casting time of 1 action.
-- You have Disadvantage on Fortitude Saving Throws to maintain concentration on spells.
-- - -
 ### Weakened
-#### Associations:
 
-**Damage Type:**  
-**Spells/Abilities:** 
+#condition/new
 
-#### Description
+While you have the Weakened condition, you experience the following effect.
 
-While under the weakened condition, you deal half damage with all attacks.
+_**Feeble.**_ You deal half damage with all your attacks.
 
-- - -
+---
+
 ### Wet
-#### Associations:
 
-**Damage Type:**  
-**Spells/Abilities:** 
+#condition/new
 
-#### Description
+When you gain the Wet condition, you lose the Burning and Corroded conditions, if you have them. The Wet condition lasts for 10 rounds or until you move your full Speed in a single turn; gaining the condition again refreshes its duration to 10 rounds. While you have the Wet condition, you experience the following effects.
 
-When gaining the wet condition, you lose the burning or corroded conditions, if you have them. This condition lasts for 10 rounds or until you move your full movement speed in one turn. Each time you gain the wet condition, the duration is refreshed back to 10 rounds.
+_**Fireproof.**_ Your susceptibility to Fire damage decreases by one tier (Vulnerable → Susceptible → Neutral → Resistant → Immune).
 
-While you have the wet condition, you are under the following effects:
+_**Resistance Affected.**_ Your susceptibility to Lightning and Cold damage increases by one tier (Immune → Resistant → Neutral → Susceptible → Vulnerable).
 
-**Fireproof.** Your susceptibility to Fire damage decreases by one tier (Vulnerable–>Susceptible–>Neutral–>Resistant–>Immune).
-**Resistance Affected.** Your susceptibility to Lightning and Cold damage increases one tier (Immunity–>Resistance–>Neutral–>Susceptible–>Vulnerable).
-**Conductor.** Attacks that use Lightning damage have advantage, and you have disadvantage on saving throws to resist the effects of Lightning or Lightning damage.
-**Hypothermia.** When you would receive stacks of the frostbite condition, you instead receive double the stacks you normally would. 
-**Ending the Condition.** The condition ends after you dry off, either through the use of spells like Prestidigitation or as a part of a short or long rest. 
+_**Conductor.**_ Attack rolls that deal Lightning damage have Advantage against you, and you have Disadvantage on saving throws to resist Lightning or its effects.
 
-- - -
+_**Hypothermia.**_ When you would gain stacks of the Frostbite condition, you instead gain double that number of stacks.
+
+_**Ending the Condition.**_ The condition ends when you dry off, such as through a spell like _prestidigitation_ or as part of a Short Rest or Long Rest.
+
+---
+
 ### Withered
-#### Associations:
 
-**Damage Type:**  Necrotic
-**Spells/Abilities:** 
+#condition/new
 
-#### Description
+> [!note] Associations **Damage Type:** Necrotic
 
-While under the withered condition, you suffer the following effects:
+While you have the Withered condition, you experience the following effects.
 
-- Healing you receive is halved.
-- Your HP maximum is reduced by the amount of Necrotic damage received that inflicted this condition on you.
-- You have disadvantage on Fortitude and Will saving throws.
-- 
+_**Halved Healing.**_ Healing you receive is halved.
 
-- - -
+_**Reduced Vitality.**_ Your Hit Point maximum is reduced by an amount equal to the Necrotic damage that inflicted this condition on you.
+
+_**Saving Throws Affected.**_ You have Disadvantage on Fortitude and Will saving throws.
+
+---
+
 ### Wounded
-#### Associations:
 
-**Damage Type:**  
-**Spells/Abilities:** 
+#condition/new
 
-#### Description
+You gain one stack of the Wounded condition when you reach 0 Hit Points. Wounded stacks up to a maximum of 5, and you gain additional stacks depending on the result of your death saving throws (the base DC of a death saving throw is 10).
 
-You gain one stack of this condition when you reach 0 HP. There are a maximum of 5 stacks of wounded, and you gain more depending on the result of your death saving throws:
+|Death Save Result|Outcome|
+|---|---|
+|20 (Critical Success)|Lose 1 stack of Wounded; the DC decreases by 2.|
+|10-19 (Success)|No change.|
+|2-9 (Failure)|Gain 1 stack of Wounded.|
+|1 (Critical Failure)|Gain 2 stacks of Wounded; the DC increases by 2.|
 
-Base DC of Death Saving Throws = 10
+When you regain Hit Points or are stabilized, your current stacks of Wounded linger. If you go down in combat again, upon reaching 0 Hit Points your stacks of Wounded are converted to failed death saving throws at a 2:1 rate, and then you gain +1 stack from reaching 0 Hit Points (or +2 if it was a Critical Hit).
 
-- 20 - Critical Success: -1 stack of wounded and DC decreases by 2
-- 10-19 - Success: nothing
-- 2-9 - Failure: +1 stack of wounded
-- 1 - Critical Failure: +2 stacks of wounded and DC increases by 2
+- When you are stabilized or regain 1 or more Hit Points, all of your failed death saving throws are converted to the Wounded condition at a 2:1 rate.
+- When combat ends, all leftover stacks of Wounded are converted to _levels of exhaustion_ at a 2:1 rate, and the remainder lingers.
 
-When you regain HP or are stabilized, your current stacks of wounded linger. If you go down in combat again, upon reaching 0 HP, your stacks of wounded are converted to failed death saving throws at a 2:1 rate, and then you gain the +1 stack from reaching 0 HP (or +2 if it was a critical hit). 
+_**Ending the Condition.**_ You remove this condition by healing to full Hit Points and completing a Short Rest, or by completing a Long Rest. Alternatively, certain spells and effects remove stacks of this condition: the _spare the dying_ cantrip removes 1 stack of Wounded when stabilizing a creature, _lesser restoration_ removes 2 stacks of Wounded, and _greater restoration_ removes **all** stacks of Wounded.
 
+#### Example Scenario 1
 
+##### Turn 1
 
- - When you are stabilized or gain 1 HP or more, all of your failed death saving throws are converted to the Wounded condition at a 2:1 rate. 
- - When combat ends, all leftover stacks of wounded are converted to *levels of exhaustion* at a 2:1 rate, and the remainder lingers. 
+Bob has 0 stacks of Wounded and is at 5 Hit Points. An enemy attacks him and hits him for 7 damage, reducing him to 0 Hit Points. Upon reaching 0 Hit Points, he gains the Downed condition and +1 stack of the Wounded condition. _Current Wounded count:_ 1
 
-**How to remove**
+##### Turn 2
 
-You can get rid of this condition by healing to full HP and completing a Short Rest, or by completing a Long Rest. Alternatively, certain spells and effects remove certain stacks of this condition. The *spare the dying* cantrip removes one stack of wounded when stabilizing a creature, *lesser restoration* removes 2 stacks of wounded, and *greater restoration* removes **all** stacks of wounded. 
+Bob's turn comes up, and he rolls a death saving throw. His result is 8, bringing his total failed death saves to 1. _Current Wounded count:_ 2
 
+##### Turn 3
 
-##### Example Scenario 1
+Bob's turn comes around again, and he rolls another saving throw. His result is a 1, bringing his total failed saves to 2. _Current Wounded count:_ 4
 
-###### **Turn 1:** 
+##### Turn 4
 
-Bob has 0 stacks of wounded, and is at 5 HP. An enemy attacks him, and hits him for 7 damage. Bob is reduced to 0 HP. 
+Bob's turn comes around again, and he rolls a 20. This brings his death save count to 1 success and 2 fails. _Current Wounded count:_ 3
 
-Upon reaching 0 HP, he gains the downed condition, and gains +1 stack of the wounded condition. 
-*Current wounded count:* 1
+##### Turn 5
 
-###### **Turn 2:** 
+Bob rolls a 14. His death save count is 2 successes, 2 fails. _Current Wounded count:_ 3
 
-Bob’s turn comes up, he rolls a death saving throw. His result is 8, bringing his total failed death saves to 1. 
-*Current wounded count:* 2
+##### Turn 6
 
-###### **Turn 3:**
+Somehow, Bob's teammates have not revived or healed him yet. He rolls a 13, marking his 3rd success on death saves, and becomes stable. He has 3 stacks of Wounded.
 
-Bob’s turn comes around again, he rolls another saving throw. His result is a 1, bringing his total failed saves to 2. 
-*Current wounded count:* 4
-
-###### **Turn 4:**
-
-Bob’s turn comes around again, and he rolls a 20. This brings his death save count to 1 success and 2 fails. 
-*Current wounded count:* 3
-
-###### **Turn 5:**
-
-Bob rolls a 14. Death save count is 2 success, 2 fails.
-*Current wounded count:* 3
-
-###### **Turn 6:**
-
-Somehow, Bob’s teammates have not revived him or healed him yet. He rolls a 13, marking his 3rd success on death saves, and becomes stable. He has 3 stacks of wounded. 
-
-**If Bob stays like this until combat ends**
-
-Bob will have his 3 stacks of wounded converted to *exhaustion*[^1], resulting in him having:
+**If Bob stays like this until combat ends.** Bob has his 3 stacks of Wounded converted to _exhaustion_[^1], resulting in:
 
 - 1 level of Fatigue
 - 1 level of Strife
-- 1 stack of wounded
+- 1 stack of Wounded
 
-**If Bob regains consciousness and rejoins the fight**
+**If Bob regains consciousness and rejoins the fight.** Bob has 3 stacks of Wounded. The next time he goes down, he converts his stacks to failed death saves (2:1 ratio), and _then_ gains +1 stack of Wounded:
 
-Bob will have 3 stacks of wounded. The next time he goes down, he converts his stacks to failed death saves (2:1 ratio), and *then* gains +1 stack of wounded. 
+Bob goes down again → Bob is at 0 Hit Points with 1 failed death save to start, and is left with 1 stack of Wounded → +1 stack of Wounded from going down.
 
-Bob goes down again –> Bob is at 0 HP with 1 failed death save to start, and is left with 1 stack of wounded –> +1 stack of wounded from going down
-
-[^1]: Remember, both *Fatigue* and *Strife* count as Exhaustion in this ruleset. When specifically referring to “Exhaustion”, it is referring to both at the same time.
+[^1]: Remember, both _Fatigue_ and _Strife_ count as Exhaustion in this ruleset. When specifically referring to "Exhaustion," it is referring to both at the same time.
