@@ -224,7 +224,8 @@
               "title": "Downtime"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5e90b3ed8d44b9fb",
@@ -856,7 +857,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "21f9e4c778ac3689",
@@ -947,10 +948,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "a806784ad4447ca4",
+  "active": "43fa43d7dd992297",
   "lastOpenFiles": [
-    "Homebrew Mechanics/Homebrew Conditions.md",
     "Downtime.md",
+    "Homebrew Mechanics/Homebrew Conditions.md",
     "5e.tools Website Navigation.md",
     "saving throw mockup.md",
     "Immediate Goals for Play.md",

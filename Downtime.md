@@ -214,12 +214,12 @@ An allied contact can only grant aid once. They remain friendly after granting a
  
 #### **Crime**
  
-| **Difficulty** | **DC** | **Goal** | **Suspicion Limit** | **Setup** | **Rewards**          |
-| -------------- | :----: | ------------ | --------------- | --------- | ------------------------------------------------------- |
-| Low  | 10 | 5 successes  | 10 | 50 gp  | 250 gp — a struggling merchant, a back-room strongbox   |
-| Medium | 15 | 10 successes | 8 | 100 gp | 500 gp — a thriving merchant, a guild safe  |
-| High | 20 | 20 successes | 6 | 250 gp | ~1,250 gp — a noble's manor, a counting-house   |
-| Very High | 25 | 30 successes | 4 | 500 gp | ~2,500 gp — one of the richest figures in town, a vault |
+| **Difficulty** | **DC** | **Goal**     | **Suspicion Limit** | **Setup** | **Rewards**                                             |
+| -------------- | :----: | ------------ | :-------------------: | :---------: | ------------------------------------------------------- |
+| Low            |   10   | 5 successes  | 10                  | 50 gp     | 250 gp — a struggling merchant, a back-room strongbox   |
+| Medium         |   15   | 10 successes | 8                   | 100 gp    | 500 gp — a thriving merchant, a guild safe              |
+| High           |   20   | 20 successes | 6                   | 250 gp    | ~1,250 gp — a noble's manor, a counting-house           |
+| Very High      |   25   | 30 successes | 4                   | 500 gp    | ~2,500 gp — one of the richest figures in town, a vault |
 ^crime
  
 **Resolution.** The character chooses a target and an approach, then commits the job over one or more slots. Over the course of their job, the player **must** use the following skills or proficiencies *at least* (roughly) half of the time, with each skill or tool being used at least 10% of the time. 
@@ -252,12 +252,12 @@ For an explanation, see the table below:
 > - use their **Investigation** or **Perception** to case the target first
 > - etc.
  
-After the downtime slot is spent, the player makes a roll adjudicated by the GM. On a success, the player gains +1 progress towards their goal, while a **Critical Success** grants **+2** progress and makes the **Suspicion Level** go down by **1**. Once the player reaches the threshold for their chosen target, the score comes off and they gain the loot — which need not be coin: a stolen ledger, a blackmail letter, a forged seal, a key, or a minor magic item can be the prize. 
+After the downtime slot is spent, the player makes a roll adjudicated by the GM. On a success, the player gains +1 progress towards their goal, while a **Critical Success** grants **+2** progress and makes the **Suspicion Level** go down by **1**. Once the player reaches the threshold for their chosen target,  they gain the loot. The rewards gained can be anything, not just coin. 
 
 A **Critical Failure** does not cause the player to lose progress, but the **Suspicion Level** goes up by 1. As the Suspicion Level goes up, the job draws heat. Maybe there’s a potential double-cross, a suspicious guard, or a rival crew that now knows the player’s face.
  
 > [!warning] Getting Caught
-> If a character racks up enough Critical Failures–to the point where the **Suspicion Level** reaches its max– before reaching their Goal, the job is blown. They are caught or the target makes sufficient moves or notifies the appropriate authorities. The consequences may be decided upon at the GM’s discretion. 
+> If a character racks up enough Critical Failures—to the point where the **Suspicion Level** reaches its max—before reaching their goal, the job is blown. They are caught or the target makes sufficient moves or notifies the appropriate authorities. The consequences may be decided upon at the GM’s discretion. 
  
 ---
 
@@ -650,24 +650,18 @@ On a **failure**, the fun doesn't land. No Strife is relieved, and any wager is 
 
 ### Stir Unrest
  
-**Summary.** A single agitator with a printing press, a grievance, and a little funding can do what an army cannot. This is a long project that builds or reinforces popular discontent in a community toward a tipping point, at which the populace acts. The people may organize a strike, stage a riot, plot a coup, a secession, a revolution, etc.
- 
-**Resources.** The character chooses a **scope** as per Table: Stir Unrest and pays the listed cost on materials and labor. Pamphlets, safehouses, bribes, and the care and feeding of a clandestine network. Each slot they make one check, approved by the GM to fit their method: Charisma (Persuasion) to rally, Charisma (Deception) to spread propaganda, Charisma (Intimidation) to coerce, or Intelligence (Investigation) to organize cells and supply lines.
- 
-### Stir Unrest
- 
-**Summary.** A single agitator with a printing press, a grievance, and a little funding can do what an army cannot. This is a long project that builds or reinforces popular discontent in a community toward a tipping point, at which the populace acts. The people may organize a strike, stage a riot, plot a coup, a secession, a revolution, etc.
+**Summary.** A single agitator with a printing press, a grievance, and a little funding can do what an army cannot. This is a long project that builds or reinforces discontent in a community toward a tipping point, at which the populace acts. The people may organize a strike, stage a riot, plot a coup, a secession, a revolution, etc.
  
 **Resources.** The character chooses a **scope** as per Table: Stir Unrest and pays the listed cost on materials and labor. Pamphlets, safehouses, bribes, and the care and feeding of a clandestine network. Each slot they make one check, approved by the GM to fit their method: Charisma (Persuasion) to rally, Charisma (Deception) to spread propaganda, Charisma (Intimidation) to coerce, or Intelligence (Investigation) to organize strikes and supply lines.
  
 #### **Stir Unrest**
  
-| **Scope** | **DC** | **Cost / Slot** | **Tipping Point** |
-| :-- | :--: | :--: | :--: |
-| Hamlet / neighborhood | 10 | 5 gp | 5 |
-| Town / district | 15 | 20 gp | 10 |
-| City | 20 | 100 gp | 20 |
-| Realm / region | 25 | 400 gp | 40 |
+| **Scope**        | **DC** | **Cost / Slot** | Suspicion Limit | **Successes** |
+| :--------------- | :----: | :-------------: | :-------------: | :-----------: |
+| Hamlet / Village |   10   |      10 gp      | 5               |      10       |
+| Town             |   15   |      25 gp      | 10              |      20       |
+| City             |   20   |     100 gp      | 15              |      40       |
+| Metropolis       |   25   |     250 gp      | 20              |      60       |
 ^stir-unrest
  
 **Resolution.** At the end of the slot, the player makes a roll adjudicated by the GM, against the DC for their chosen scope.
@@ -682,37 +676,36 @@ On a **failure**, the fun doesn't land. No Strife is relieved, and any wager is 
 > - use their **Investigation** to organize cells, dead drops, and supply lines
 > - etc.
 
-On a success, the player gains +1 progress towards their goal, while a **Critical Success** grants **+2** progress and removes 1 . Once the player reaches the threshold for their target tier, they achieve the new proficiency rank and may immediately begin training toward the next tier if they meet its level gate. 
+On a success, the player gains +1 progress towards their goal, while a **Critical Success** grants **+2** progress and removes 1 Suspicion. 
 
-A failure does not cause the player to lose progress, instead they gain none. While a **Critical Failure** causes the character to suffer a training setback. Maybe a minor injury was sustained during drills, giving them a level of Fatigue, or a bad habit that must be corrected, giving them Disadvantage on their next training check.
+A failure does not cause the player to lose progress, instead they gain none. While a **Critical Failure** causes the local area to gain 1 Suspicion.
 
-- **Critical Success.** A breakthrough. Gain **2d4 Unrest.**
-- **Success.** The movement grows. Gain **1d4 Unrest.**
-- **Failure.** No progress, and the character draws the eye of the authorities: gain **1 Heat.**
-- **Critical Failure.** A cell is exposed. Lose **1d4 Unrest**, gain **2 Heat**, and an ally or Contact may be arrested or turned.
-**Heat.** Heat represents how much attention the authorities are paying to the agitator personally. The GM tracks Heat privately and uses it to trigger complications — investigations, surveillance, attempted arrests, or informants planted in the network. Heat does not decay on its own; the agitator must take active steps to reduce it (laying low for a full week of downtime, relocating operations, sacrificing a scapegoat). The GM determines what those steps cost.
- 
-**Suppression.** The ruling power pushes back. At the end of each week (every 5 slots), the GM removes Unrest equal to the regime's **Stability** rating. Suggested values: **1** for a weak, distracted, or sympathetic authority; **2–3** for a stable one; **4+** for a vigilant or tyrannical one. Bread, circuses, crackdowns, scapegoats, and counter-propaganda are the in-fiction levers a frightened ruler pulls. Stirring unrest is a tug-of-war, not a staircase.
+**Suspicion.** Heat represents how much attention the authorities are paying to the agitator personally, as well as potential discontent or uncertainty the general populace feels about the growing movement. The GM uses it to trigger complications, such as investigations, surveillance, attempted arrests, or informants planted in the network. 
+
+**Removing Suspicion.** The character can spend a downtime slot, at double the cost, to focus on only removing Suspicion. The DCs for the checks remain the same, but on a Success, 1 Suspicion is removed. On a Critical Success, 2 Suspicion is removed. There are no penalties for failures, while a Critical Failure will instead add 1 Suspicion.
+
+> [!warning] Getting Caught
+> If a character racks up enough Critical Failures—to the point where the **Suspicion Level** reaches its max—before reaching their goal, the jig is up. They are caught or the authorities have cracked down enough and stomped out the unrest. The consequences may be decided upon at the GM’s discretion.
  
 #### **Tipping Point Thresholds**
  
 As Unrest crosses fractions of the Tipping Point, the mood of the community shifts:
  
-| **Threshold** | **Stage** | **Effect** |
+| **Threshold** | **Stage** | **Potential Effect** |
 | :--: | :-- | :-- |
-| 25% | Discontent | Grumbling, graffiti, pamphlets. Advantage on further Stir Unrest checks in this community. |
-| 50% | Agitation | Protests and slowdowns. Guards are stretched: Advantage on Crime, Stealth, and Gather Information checks in the area. |
-| 75% | Turmoil | Strikes and riots. The authority may negotiate, concede, or escalate to open repression. |
-| 100% | Uprising | The populace acts. Resolve as a set-piece or adventure, not a single roll. |
+| 25% | Discontent | Grumbling, graffiti, pamphlets. The people are waking up to their material conditions. |
+| 50% | Agitation | Protests and slowdowns. Guards are stretched: Advantage on Crime, Streetwise, and Gather Information checks in the area. |
+| 75% | Turmoil | Strikes and riots. The voices of the unheard cry out for justice. The authority may negotiate, concede, or escalate to open repression and wanton violence. |
+| 100% | Uprising | The populace acts. Society reaches a point of no return and change must be had. |
 ^stir-unrest-thresholds
  
-When Unrest reaches the Tipping Point, the accumulated Unrest, the agitator's Contacts, and their allies all become assets in the climactic event — this is the moment the campaign has been building toward, and it should play out at the table, not on a table.
- 
-> [!warning] Stir Unrest is a Campaign Arc
-> This activity is designed to run in the background across weeks or months of play, not to be resolved in a single downtime stretch. The Suppression mechanic means the agitator must sustain pressure — a few slots of effort followed by an adventure arc lets the regime claw back progress. Plan accordingly: a City-scope revolution (Tipping Point 20) against a stable regime (Stability 2) requires the agitator to average more than 2 Unrest per week just to break even. Multiple agitators, or destabilizing the regime first, may be necessary.
- 
-> [!note] Heat Thresholds — GM Guidance
-> Heat has no fixed mechanical breakpoints — the GM uses it narratively. As a rough guide: **1–2 Heat** draws casual notice (increased guard patrols, questions asked at taverns); **3–4 Heat** triggers active investigation (the agitator's name is known, safe houses may be watched); **5+ Heat** means the authorities are hunting them directly (wanted posters, bounties, raids). A Critical Failure at high Heat should feel dangerous — this is the point where a real-world revolutionary gets caught.
+
+> [!note] Suspicion Thresholds
+> Suspicion has no fixed effects to be given out, but the GM can use it narratively. As a rough guide, we can imagine some potential events or behaviors that occur at each threshold: 
+> 
+> **25%** draws casual notice (increased guard patrols, questions asked at taverns)
+> **50%** triggers active investigation (the agitator's name is known, safe houses may be watched)
+> **75%** means the authorities are hunting them directly (wanted posters, bounties, raids).
  
  
 ---

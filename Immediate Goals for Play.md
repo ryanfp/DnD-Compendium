@@ -72,7 +72,7 @@ aliases:
 	- [ ] death and resurrection rituals
 	- [ ] Short & Long Rests
 	- [ ] Exhaustion rules (Fatigue, Strife, recovering)
-	- [ ] Downtime
+	- [x] Downtime
 	- [x] Degrees of Success
 	- [x] New Conditions
 		- [x] **Slowed**
