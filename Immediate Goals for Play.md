@@ -71,7 +71,7 @@ aliases:
 	- [ ] Swan song
 	- [ ] death and resurrection rituals
 	- [x] Short & Long Rests
-	- [ ] Exhaustion rules (Fatigue, Strife, recovering)
+	- [x] Exhaustion rules (Fatigue, Strife, recovering)
 	- [x] Downtime
 	- [x] Degrees of Success
 	- [x] New Conditions

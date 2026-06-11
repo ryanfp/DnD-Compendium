@@ -2,6 +2,12 @@
 
 In lieu of the Exhaustion mechanics presented in 5e or 5.5e, we use a modified version of the Fatigue and Strife tracks from Advanced 5e (A5e). These new versions split Exhaustion into a mental and physical track, and create more opportunities for integration with other mechanics. 
 
+When an ability, condition, or feature refers to “Exhaustion”, it means that *both* effects are being referred to. 
+
+For example, when a condition may say “You gain 1 level of Exhaustion”, that is a shorthand way to say “You gain 1 level of Fatigue, and 1 level of Strife”.
+
+When reaching either 6 levels in one condition, or 9 levels total, you die.
+
 ## Fatigue
 
 _The ranger finally reached the walled town, and staggered through the gates. The villagers gasped at the sight, for she was clearly starving, covered in dozens of minor wounds, and on the edge of collapse. Friendly hands reached out to offer her food and rest._
