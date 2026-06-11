@@ -70,7 +70,7 @@ aliases:
 	- [x] death moves
 	- [ ] Swan song
 	- [ ] death and resurrection rituals
-	- [ ] Short & Long Rests
+	- [x] Short & Long Rests
 	- [ ] Exhaustion rules (Fatigue, Strife, recovering)
 	- [x] Downtime
 	- [x] Degrees of Success

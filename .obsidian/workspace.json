@@ -6,7 +6,7 @@
       {
         "id": "0f4096b47ff804e0",
         "type": "tabs",
-        "dimension": 42.172839506172835,
+        "dimension": 34.51851851851852,
         "children": [
           {
             "id": "4fb303048cf1c57d",
@@ -17,6 +17,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Downtime",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/Downtime.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Downtime\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Homebrew Conditions",
@@ -101,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew Mechanics/Downtime.md",
+                "file": "Immediate Goals for Play.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -116,7 +122,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Downtime"
+              "title": "Immediate Goals for Play"
             }
           },
           {
@@ -169,13 +175,47 @@
               "icon": "lucide-file",
               "title": "Resting"
             }
+          },
+          {
+            "id": "a16f47d6c8d3cadb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exhaustion.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Exhaustion"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "5e90b3ed8d44b9fb",
         "type": "tabs",
-        "dimension": 57.82716049382716,
+        "dimension": 65.48148148148148,
         "children": [
           {
             "id": "e412e82fc9908b96",
@@ -431,9 +471,42 @@
               "icon": "lucide-file",
               "title": "Resting"
             }
+          },
+          {
+            "id": "19aa87a042e69266",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exhaustion.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Exhaustion"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -905,14 +978,15 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "4fb303048cf1c57d",
+  "active": "a16f47d6c8d3cadb",
   "lastOpenFiles": [
-    "Homebrew Mechanics/Homebrew Conditions.md",
-    "Homebrew Mechanics/Resting.md",
-    "Homebrew Mechanics/Exhaustion.md",
+    "Exhaustion.md",
     "Immediate Goals for Play.md",
-    "5e.tools Website Navigation.md",
     "Homebrew Mechanics/Downtime.md",
+    "Homebrew Mechanics/Resting.md",
+    "Homebrew Mechanics/Homebrew Conditions.md",
+    "Homebrew Mechanics/Exhaustion.md",
+    "5e.tools Website Navigation.md",
     "saving throw mockup.md",
     "Homebrew Mechanics/Character Creation Guidelines.md",
     "Homebrew Mechanics/Ability Scores.md",
@@ -934,7 +1008,6 @@
     "Homebrew Mechanics/Desperate Actions.md",
     "Combat Enhancement Rolltables.md",
     "Homebrew In-Progress/Homebrew Lists.md",
-    "Homebrew In-Progress/Homebrew Errata Guide.md",
     "Homebrew Mechanics/Conditions",
     "Homebrew Mechanics",
     "map test.canvas",

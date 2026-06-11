@@ -1,52 +1,14 @@
 # Resting Mechanics
 
-Rests are crucial for characters to regain their resources, including Hit Points, class features, and spell slots.
+Rests are crucial for characters to regain their resources, including Hit Points, class features, and spell slots. Ending a 24-hour period without finishing a Short or Long Rest imposes a **DC 12 + days spent without a short or long rest** Fortitude saving throw. 
 
-## Short Rest
+## Rally
 
-A Short Rest is a 1-hour period of downtime, during which a creature does nothing more strenuous than reading, talking, eating, or standing watch. To start a Short Rest, you must have at least 1 Hit Point.
+Certain adventures thrive on the adrenaline of the chase or the ever-present fear of ambush. As it stands, the need to take a Short Rest can prove difficult during long dungeon crawls, while the reduced benefits of a Breather may not offer much of a power increase. This lends itself to a nice tone of personal stress and risk versus reward. However, sometimes a rest is necessary for the party to continue, even if the current rush of the story's clock won't allow for the time that a Short Rest requires.
 
-***Benefits of the Rest.*** When you finish the rest, you gain the following benefits:
+A Rally involves one or more characters spending 10 minutes to steel their resolve in the face of coming peril, letting their adrenaline fuel the need to push on. A character who undertakes a Rally gains the benefit of a Short Rest, but any hit points restored by spending Hit Dice are halved. Moreover, the character gains one level of Exhaustion.
 
-- **Spend Hit Point Dice.** You can spend one or more of your Hit Point Dice to regain Hit Points. For each Hit Point Die you spend in this way, roll the die and add your Constitution modifier to it. You regain Hit Points equal to the total (minimum of 1 Hit Point). You can decide to spend an additional Hit Point Die after each roll.
-- **Exhaustion Reduced.** If you have any levels of Fatigue or Strife (and only if their individual levels are 2 or below), their levels decrease by 1.
-- **Special Feature.** Some features are recharged by a Short Rest. If you have such a feature, it recharges in the way specified in its description.
-
-***Interrupting the Rest.*** A Short Rest is stopped by the following interruptions:
-
-- Rolling Initiative
-- Casting a spell other than a cantrip
-- Taking any damage
-
-An interrupted Short Rest confers no benefits.
-
----
-
-## Long Rest
-
-A Long Rest is a period of extended downtime—at least 8 hours—available to any creature. During a Long Rest, you sleep for at least 6 hours and perform no more than 2 hours of light activity, such as reading, talking, eating, or standing watch.
-
-During sleep, you have the Unconscious condition. After you finish a Long Rest, you must wait at least 16 hours before starting another one.
-
-***Benefits of the Rest.*** To start a Long Rest, you must have at least 1 Hit Point. When you finish the rest, you gain the following benefits:
-
-- **Regain All HP.** You regain all lost Hit Points and all spent Hit Point Dice. If your Hit Point maximum was reduced, it returns to normal.
-- **Ability Scores Restored.** If any of your ability scores were reduced, they return to normal.
-- **Exhaustion Reduced.** If you have the Exhaustion condition, its level decreases by 1.
-- **Special Feature.** Some features are recharged by a Long Rest. If you have such a feature, it recharges in the way specified in its description.
-
-***Interrupting the Rest.*** A Long Rest is stopped by the following interruptions:
-
-- Rolling Initiative
-- Casting a spell other than a cantrip
-- Taking any damage.
-- 1 hour of walking or other physical exertion.
-
-If you rested at least 1 hour before the interruption you gain the benefits of a Short Rest.
-
-You can resume a Long Rest immediately after an interruption. If you do so, the rest requires 1 additional hour per interruption to finish.
-
----
+Once a character takes a Rally, they must finish a Long Rest before they can do so again.
 
 ## Breather
 
@@ -59,6 +21,7 @@ A Breather is a 1-hour period of relaxation, where a creature does nothing more 
 When you finish the Breather, you gain the following benefits:
 
 ***Heal.*** You can spend one or more of your Hit Point Dice to regain Hit Points. For each Hit Point Dice spent in this way, roll the Hit Point Dice and add your Constitution modifier to it. You regain Hit Points equal to the total (minimum of 1 Hit Point). You can decide to spend an additional Hit Point Dice after each roll.
+
 _**Recharge.**_ You can spend one or more Hit Point Dice to regain one use of any Short Rest ability. One spent Hit Point Dice amounts to one regained use, you do not need to roll or add your Constitution modifier to it. You can decide to spend additional Hit Point Dice after the roll.
 
 - If you have Exploits, you regain one Exploit Dice. 
@@ -79,8 +42,6 @@ A Breather is stopped by the following interruptions:
 
 An interrupted Breather confers no benefits and must be restarted to gain any benefits.
 
-
-
 ## Short Rest
 
 A Short Rest is an extended period of rest—at least 8 hours—available to any creature. During a Short Rest, you sleep for at least 6 hours and perform no more than 2 hours of light activity, such as reading, talking, eating, or standing watch.
@@ -89,10 +50,9 @@ A Short Rest can occur in any location where you can sleep without interruption.
 
 - - -
 
-
 ### Benefits of a Short Rest
 
-To start a Short Rest, you must have at least 1 Hit Point. When you finish the rest, you gain the following benefits:
+To start a Short Rest, you must have at least 1 Hit Point and spend at least 1 Supply. When you finish the rest, you gain the following benefits:
 
 ***Regain Half Hit Point Dice.*** You regain a number of spent Hit Point Dice equal to half of the total number of spent Hit Point Dice (minimum of 1). For example, if you have 10 Hit Point Dice, and you’ve spent 8, you regain up to 4 spent Hit Point Dice.
 
@@ -116,25 +76,29 @@ An interrupted Short Rest confers no benefits. The interrupted Short Rest must b
 
 ## Long Rest
 
-A Long Rest is a period of extended downtime—at least 72 hours (or 3 days and 2 nights)—available to any creature. During a Long Rest, you sleep for at least two-to-three 6-hour periods separated by 16 hours of light activity, such as reading, talking, eating, crafting, trading, or performing downtime activities.
+A Long Rest is a period of extended downtime—at least 72 hours (or 3 days and 2 nights)—available to any creature. During a Long Rest, you sleep for at least one 6-hour period separated by light activity—such as reading, talking, eating, crafting, trading, or performing downtime activities—per day.
 
 A Long Rest can only occur in Safe Havens—locations that provide shelter, warmth, comfort, and resources like food and water. This could be a settlement, homestead, stronghold, inn, castle, or large city. A Long Rest cannot be completed in areas of discomfort or danger, such as a wilderness, dungeon, alley, or sewer. If the location is dangerous enough that characters feel the need to post watch, it cannot accommodate a Long Rest. In some situations, characters may feel safe enough in a location that it may qualify as a Safe Haven, but the story or circumstances may say otherwise. In those cases, it’s up to GM discretion.
 
 During sleep, you have the Unconscious condition. After you finish a Long Rest, you must wait at least 16 hours before starting another one or a Short Rest. You must wait at least 48 hours before gaining the benefits of a Long Rest again. 
 
+- - -
+
 ### Benefits of a Long Rest
 
-To start a Long Rest, you must have at least 1 Hit Point. When you finish the rest, you gain the following benefits:
+To start a Long Rest, you must have at least 1 Hit Point and spend at least 3 Supply per 24 hours spent as part of the Long Rest (if you do not spend the appropriate Supply, you suffer a level of Fatigue at the end of the Long Rest). When you finish the rest, you gain the following benefits:
 
 ***Regain All HP.*** You regain all lost Hit Points and all spent Hit Point Dice. If your Hit Point maximum was reduced, it returns to normal.
 
 ***Ability Scores Restored.*** If any of your ability scores were reduced, they return to normal.
 
-***Exhaustion Recovered.*** If you have any levels of Fatigue or Strife, their levels decrease by 1 for every 24 hours spent as part of the Long Rest. You can recover more levels of Fatigue or Strife by spending both Downtime Slots in a day on the Re
+***Exhaustion Recovered.*** If you have any levels of Fatigue or Strife, their levels decrease by 1 for every 24 hours spent as part of the Long Rest. You can recover more levels of Fatigue or Strife by spending both Downtime Slots in a day on the Recuperate activity.
 
-***Grievous Wounds Recovered.*** If you have one or more Grievous Wounds, you or another creature can attempt to treat them.
+***Wounds Recovered.*** If you have one or more levels of the Wounded condition, you lose all of them when finishing the rest.
 
 ***Special Feature.*** Some features are recharged by a Long Rest. If you have such a feature, it recharges in the way specified in its description.
+
+- - -
 
 ### Interrupting the Long Rest
 
@@ -155,5 +119,5 @@ If you rested at least 8 hours, including at least 6 hours of sleep, before the 
 >
 >Even more important than survivability with this new resting variant is story-driven decision making. In order to take a Long Rest, characters must not just rest longer, they must rest in a place of safety. This can mean making a hard choice: should we push further into the monster's lair or the Hostile territory, or should we retreat to a place of safety?
 >
->It also places an emphasis on the characters making it a priority to find, cultivate, or maybe even create a place of safety. That threatened village may not mean much to the characters in terms of the connections they've made, but it means much more when it might be the only place they are able to rest in the area. You'll find that the people and places of Etharis become much more important to the players when their valuable adventuring resources hinge on having a safe place to sleep.
+>It also places an emphasis on the characters making it a priority to find, cultivate, or maybe even create a place of safety. That threatened village may not mean much to the characters in terms of the connections they've made, but it means much more when it might be the only place they are able to rest in the area. You'll find that the people and places of Eberron become much more important to the players when their valuable adventuring resources hinge on having a safe place to sleep.
 >
