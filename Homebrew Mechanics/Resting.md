@@ -10,38 +10,6 @@ A Rally involves one or more characters spending 10 minutes to steel their resol
 
 Once a character takes a Rally, they must finish a Long Rest before they can do so again.
 
-## Breather
-
-A Breather is a 1-hour period of relaxation, where a creature does nothing more strenuous than reading, talking, eating, or standing watch. A Breather can occur anywhere. To start a Breather, you must have at least 1 Hit Point.
-
-- - -
-
-### Benefits of a Breather
-
-When you finish the Breather, you gain the following benefits:
-
-***Heal.*** You can spend one or more of your Hit Point Dice to regain Hit Points. For each Hit Point Dice spent in this way, roll the Hit Point Dice and add your Constitution modifier to it. You regain Hit Points equal to the total (minimum of 1 Hit Point). You can decide to spend an additional Hit Point Dice after each roll.
-
-_**Recharge.**_ You can spend one or more Hit Point Dice to regain one use of any Short Rest ability. One spent Hit Point Dice amounts to one regained use, you do not need to roll or add your Constitution modifier to it. You can decide to spend additional Hit Point Dice after the roll.
-
-- If you have Exploits, you regain one Exploit Dice. 
-- If you have Pact Magic, a Hit Point Dice gives you one spell slot back.
-- If you have Psi Points, you regain one Psi Point.
-- If an item or ability specifies it regains 1dX number of charges on a Short Rest, it instead regains 1 charge.
-
-- - -
-
-
-### Interrupting a Breather
-
-A Breather is stopped by the following interruptions:
-
-- Rolling Initiative
-- Casting a spell other than a cantrip
-- Taking any damage
-
-An interrupted Breather confers no benefits and must be restarted to gain any benefits.
-
 ## Short Rest
 
 A Short Rest is an extended period of rest—at least 8 hours—available to any creature. During a Short Rest, you sleep for at least 6 hours and perform no more than 2 hours of light activity, such as reading, talking, eating, or standing watch.
