@@ -19,7 +19,7 @@ Characters can gain proficiency in the following skills. Each skill description 
 
 ### Acrobatics
 **Ability:** Dexterity  
-**Specialties:** balancing, tumbling, parkour, escaping artistry, swinging, contortion, landing safely  
+**Specialties:** balancing, tumbling, parkour, escape artistry, swinging, contortion, landing safely  
 **Description:**  An Acrobatics check allows a character to perform gymnastic feats such as rolling under a closing gate, swinging across a chasm on a rope, or keeping their balance on a narrow ledge. The most commonly used ability score is Dexterity. A character might use Strength to perform acrobatics while carrying a heavy burden, Constitution to do so against a heavy wind, or any other ability score as circumstances warrant.
 
 **Example Checks:**
@@ -88,7 +88,7 @@ Characters can gain proficiency in the following skills. Each skill description 
 ### Culture
 **Ability:** Intelligence  
 **Specialties:** etiquette, laws, linguistics, regional goods, courtly manners
-**Description:** A Culture check allows a character to know the customs, laws, trade in regional products, and etiquette of cultures other than their own (a character is presumed to know about their own culture and background without requiring an ability check.) Culture can also be used to communicate simple concepts with creatures whose language is unknown to a character. The most commonly used ability score is Intelligence. A character might use Wisdom to avoid social blunders, Dexterity to perform an unfamiliar dance, or Charisma to track down a seller of a hard-to-find item.
+**Description:** A Culture check allows a character to know the customs, laws, trade in regional products, and etiquette of cultures other than their own (a character is presumed to know about their own culture and background without requiring an ability check). Culture can also be used to communicate simple concepts with creatures whose language is unknown to a character. The most commonly used ability score is Intelligence. A character might use Wisdom to avoid social blunders, Dexterity to perform an unfamiliar dance, or Charisma to track down a seller of a hard-to-find item.
  
 **Example Checks:**
 

@@ -1,6 +1,6 @@
 # Resting Mechanics
 
-Rests are crucial for characters to regain their resources, including Hit Points, class features, and spell slots. Ending a 24-hour period without finishing a Short or Long Rest imposes a **DC 12 + days spent without a short or long rest** Fortitude saving throw. 
+Rests are crucial for characters to regain their resources, including Hit Points, class features, and spell slots. Ending a 24-hour period without finishing a Short or Long Rest imposes a `DC 12 + days spent without a short or long rest` Fortitude saving throw. 
 
 ## Rally
 
@@ -48,6 +48,8 @@ A Short Rest is an extended period of rest—at least 8 hours—available to any
 
 A Short Rest can occur in any location where you can sleep without interruption. This might take place in a dangerous location that has been temporarily secured and guarded. During sleep, you have the Unconscious condition. After you finish a Short Rest, you must wait at least 8 hours before starting another one or starting a Long Rest.
 
+Narratively, a Short Rest may often take long than 8 hours in game time. At the GM’s discretion, they may offer the characters the option of 1 Downtime Slot that they can occupy with any Downtime Activity of their choice.
+
 - - -
 
 ### Benefits of a Short Rest
@@ -94,10 +96,11 @@ To start a Long Rest, you must have at least 1 Hit Point and spend at least 3 Su
 
 ***Exhaustion Recovered.*** If you have any levels of Fatigue or Strife, their levels decrease by 1 for every 24 hours spent as part of the Long Rest. You can recover more levels of Fatigue or Strife by spending both Downtime Slots in a day on the Recuperate activity.
 
-***Wounds Recovered.*** If you have one or more levels of the Wounded condition, you lose all of them when finishing the rest.
+***Wounds Recovered.*** If you have one or more levels of the [[Homebrew Conditions#Wounded|Wounded]] condition, you lose all of them when finishing the rest.
 
 ***Special Feature.*** Some features are recharged by a Long Rest. If you have such a feature, it recharges in the way specified in its description.
 
+_**Downtime Slots.**_ A Long Rest provides 2 Downtime Slots per day for each character to use to their advantage—per day—to a total of 6. A character can choose to spend the slots performing any [[Downtime|Downtime Activity]], and it will not interrupt or diminish their Long Rest. 
 - - -
 
 ### Interrupting the Long Rest

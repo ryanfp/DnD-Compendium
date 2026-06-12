@@ -662,6 +662,8 @@ _**Saving Throws Affected.**_ You have Disadvantage on Fortitude and Will saving
 
 ## Wounded
 
+^436213
+
 #condition/new
 
 You gain one stack of the Wounded condition when you reach 0 Hit Points. Wounded stacks up to a maximum of 5, and you gain additional stacks depending on the result of your death saving throws (the base DC of a death saving throw is 10).
