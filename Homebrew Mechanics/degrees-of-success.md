@@ -1,3 +1,11 @@
+---
+title: Degrees of Success
+created: 2026/05/10 at 00:20
+updated: 2026/06/12 at 20:08
+aliases:
+  - Degrees of Success
+---
+
 # Degrees of Success
 
 ## At a Glance
@@ -12,17 +20,16 @@ Normally, in D&D, there are no degrees of success–as written. The Dungeon Mast
 
 In OTM5e, I’ve opted to take a few mechanics from Pf2e, namely their *Degrees of Success* mechanics, and tweak them a bit. 
 
-
 > [!info]+ Pathfinder 2e
 > Normally, there are 4 degrees of success, as follows:
-> 
-> 
+>
 > | Roll          | Result           |
 > | ------------- | ---------------- |
 > | ≥ 10 Above DC | Critical Success |
 > | Above DC, <10 | Success          |
 > | Below DC, <10 | Failure          |
 > |  ≥ 10 Below DC             | Critical Failure |
+>
 > ^pf2e-degrees-of-success
 > 
 > With a roll of a Natural 20 or Natural 1 increasing or decreasing the degree of success by 1, respectively.
@@ -37,6 +44,7 @@ Therefore, the degrees of success table is as follows:
 | Above DC, <12                   | Success          |
 | Below DC, <12                   | Failure          |
 | ≥ 12 Below DC OR **Natural 1**  | Critical Failure |
+
 ^degrees-of-success
 
 **THESE DO NOT APPLY TO ATTACK ROLLS, YOU STILL ONLY CRIT ON NATURAL 20 AS NORMAL**
@@ -47,7 +55,4 @@ Therefore, the degrees of success table is as follows:
 
 Now, with degrees of success, we can introduce alternate or additional effects (or the lack thereof) based on the result. In order to preserve balance, **we will not be doing a “double damage on spells” for crit fails on saves**. Spells are already very powerful, and without a much larger and in-depth system rework, that would increase the potency of many abilities beyond reproach. 
 
-However, what we *can* do, is introduce some of the new [[Compendium/📝 - Rules & Mechanics/conditions]]  we’ve created/implemented as effects on critical failures or successes. 
-
-
-
+However, what we *can* do, is introduce some of the new [[Compendium/📝 - Rules & Mechanics/conditions]] we’ve created/implemented as effects on critical failures or successes. 

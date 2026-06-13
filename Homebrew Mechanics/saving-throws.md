@@ -1,3 +1,11 @@
+---
+title: Saving Throws
+created: 2026/05/09 at 18:39
+updated: 2026/06/12 at 20:08
+aliases:
+  - Saving Throws
+---
+
 # Saving Throws
 
 ## At a Glance
@@ -26,28 +34,31 @@ $$
 $$
 ((1stHighest + 2ndHighest)/2)
 $$
+
 - - - 
 
 By grouping the saves this way, we ensure the most equal distribution of saves possible, while also helping to incentivize putting points into more “undesirable” stats at character creation. 
 
-
 ## In Game
-
 
 ### Proficiencies
 
-All character classes that were given a strong and weak save, have had their corresponding save proficiencies granted as follows[^1]:
+All character classes that were given a strong and weak save, have had their corresponding save proficiencies granted as follows:[^1]
 
 **Strong Saves**
 
 Constitution –> Fortitude
+
 Dexterity –> Reflex
+
 Wisdom –> Will
 
 **Weak Saves**
 
 Strength –> Reflex
+
 Intelligence –> Will
+
 Wisdom –> Will
 
 In the case of **both** saves ending up in the same bucket, a fitting, thematic replacement save was chosen on a case-by-case basis.
@@ -58,13 +69,11 @@ In the case of **both** saves ending up in the same bucket, a fitting, thematic 
 
 All instances of each abilities former saving throws have been consolidated into their new buckets. Meaning, any effect, spell, ability, feature, trap, etc. that forced a:
 
-**Strength** saving throw –>  **Reflex**
+**Strength** saving throw –> **Reflex**
 **Dexterity** saving throw –> **Reflex**
 **Constitution** saving throw –> **Fortitude**
 **Intelligence** saving throw –> **Will**
 **Wisdom** saving throw –> **Will**
 **Charisma** saving throw –> **Will**
-
-
 
 [^1]: Unless otherwise specified, this is how saves were distributed. Special such cases for certain homebrew classes were given to try and keep them balanced.

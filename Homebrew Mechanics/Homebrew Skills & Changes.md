@@ -1,3 +1,11 @@
+---
+title: Homebrew Skill Additions & Changes
+created: 2026/05/11 at 00:18
+updated: 2026/06/12 at 20:08
+aliases:
+  - Homebrew Skill Additions & Changes
+---
+
 # Homebrew Skill Additions & Changes
 
 ## Skill Specialties
@@ -18,6 +26,7 @@ While the list of skills below is fairly comprehensive, the GM may expand the li
 Characters can gain proficiency in the following skills. Each skill description includes examples of uses with several ability scores. The GM determines which ability score is called for in a given situation.
 
 ### Acrobatics
+
 **Ability:** Dexterity  
 **Specialties:** balancing, tumbling, parkour, escape artistry, swinging, contortion, landing safely  
 **Description:**  An Acrobatics check allows a character to perform gymnastic feats such as rolling under a closing gate, swinging across a chasm on a rope, or keeping their balance on a narrow ledge. The most commonly used ability score is Dexterity. A character might use Strength to perform acrobatics while carrying a heavy burden, Constitution to do so against a heavy wind, or any other ability score as circumstances warrant.
@@ -35,6 +44,7 @@ Characters can gain proficiency in the following skills. Each skill description 
 ---
 
 ### Animal Handling
+
 **Ability:** Wisdom  
 **Specialties:** calming animals, riding, herding, training cues, reading animal moods, driving, farming
 **Description:** Animal Handling reflects your ability to read, calm, train, and/or direct beasts and similar creatures using body language, timing, and practical technique. It’s used to keep mounts steady under stress, interpret warning signs before a bite, manage herds, and teach simple behaviors. It doesn’t replace magic or long-term training, but it can prevent panic, earn trust, and create safe openings when dealing with animals in the moment.  
@@ -52,6 +62,7 @@ Characters can gain proficiency in the following skills. Each skill description 
 ---
 
 ### Arcana
+
 **Ability:** Intelligence  
 **Specialties:** magical theory, spellcraft, eldritch symbols, aberrations, constructs, detection, dragons, elementals, fey, forbidden knowledge, monstrosities, oozes, the planes, magical items (identification clues)  
 **Description:** Arcana measures a character’s knowledge of magic and magical creatures. It can also be used to sense whether an area has magical qualities. The most commonly used ability score is Intelligence. A character might use Dexterity to trace a complicated magical rune, or Wisdom to read very carefully and protect their sanity while interpreting forbidden eldritch secrets. Use it to recall facts about the schools of magic, recognize ritual components, interpret arcane inscriptions, and reason through magical cause-and-effect. 
@@ -69,6 +80,7 @@ Characters can gain proficiency in the following skills. Each skill description 
 ---
 
 ### Athletics
+
 **Ability:** Strength  
 **Specialties:** climbing, jumping, swimming, grappling, lifting, shoving, breaking objects, running, throwing, endurance feats  
 **Description:** A character makes an Athletics check to perform unusually difficult feats of swimming, running, climbing, or jumping. The most commonly used ability score is Strength. A character might use Dexterity to climb a smooth wall for a short distance or to jump onto a moving creature, Constitution to perform an athletic activity for more than a minute, or Intelligence to keep track of opposing players in a complex sport.  
@@ -86,6 +98,7 @@ Characters can gain proficiency in the following skills. Each skill description 
 ---
 
 ### Culture
+
 **Ability:** Intelligence  
 **Specialties:** etiquette, laws, linguistics, regional goods, courtly manners
 **Description:** A Culture check allows a character to know the customs, laws, trade in regional products, and etiquette of cultures other than their own (a character is presumed to know about their own culture and background without requiring an ability check). Culture can also be used to communicate simple concepts with creatures whose language is unknown to a character. The most commonly used ability score is Intelligence. A character might use Wisdom to avoid social blunders, Dexterity to perform an unfamiliar dance, or Charisma to track down a seller of a hard-to-find item.
@@ -103,6 +116,7 @@ Characters can gain proficiency in the following skills. Each skill description 
 ---
 
 ### Deception
+
 **Ability:** Charisma  
 **Specialties:** lying, disguise behavior, misdirection, boasting, ciphers, concealing emotions, mimicry  
 **Description:** The Deception skill is used when a character lies, misleads, or hides the truth whether verbally or otherwise. This ability check may be made against a DC set by the Narrator or may be opposed by a target’s Insight check. The most commonly used ability score is Charisma. A character might use Intelligence to compose a cipher or Constitution to conceal the effect of a wound or attack.
@@ -120,6 +134,7 @@ Characters can gain proficiency in the following skills. Each skill description 
 ---
 
 ### Engineering
+
 **Ability:** Intelligence  
 **Specialties:** architecture, mechanisms, materials, mathematics, chemistry, explosives, gadgetry, mechanical traps, siegecraft, infrastructure systems  
 **Description:** Engineering measures applied knowledge of construction, invention, mechanisms, and materials, bridges and beams, gears and locks, traps and countermeasures, chemical processes, and industrial systems. It’s used to diagnose structural weaknesses, design solutions under constraints, and understand how complex devices function (and fail). An Engineering check allows a character to know a fact or advance a project involving building, invention, or mathematics. The most commonly used ability score is Intelligence. A character might use Dexterity to construct a tiny device or Strength to build a wall without assistance.  
@@ -137,6 +152,7 @@ Characters can gain proficiency in the following skills. Each skill description 
 ---
 
 ### History
+
 **Ability:** Intelligence  
 **Specialties:** arts, empires, genealogy, legends, wars, archaeology, historical figures
 **Description:** History reflects your ability to recall and contextualize the past: events, empires, migrations, conflicts, and the long chains of cause-and-effect that made the present. Intelligence is nearly always the ability score used with this skill.  
@@ -154,6 +170,7 @@ Characters can gain proficiency in the following skills. Each skill description 
 ---
 
 ### Insight
+
 **Ability:** Wisdom  
 **Specialties:** detecting lies, reading emotions, sensing motives, social prediction  
 **Description:** Insight is your ability to read people: interpret body language, tone, micro-reactions, and the emotional context behind words. It can be used for reading a creature’s intentions or motives. The most commonly used ability score is Wisdom. A character might use Dexterity to interrupt an enemy’s sudden action or Strength when squeezing an object to see how hard it will be to break.  
@@ -171,6 +188,7 @@ Characters can gain proficiency in the following skills. Each skill description 
 ---
 
 ### Intimidation
+
 **Ability:** Charisma  
 **Specialties:** authority, coercion, ferocity, interrogation, subtle threats, weapon displays
 **Description:** Intimidation measures your ability to influence behavior through fear, pressure, or overwhelming authority. A character makes an Intimidation check to alter someone’s behavior by frightening or threatening them. A single Intimidation check can also be used as part of an interrogation, though further checks rarely offer different results. The Narrator sets the DC of the check based on the target’s bravery and the circumstances of the check; some creatures can’t be intimidated. The most commonly used ability scores for Intimidation checks are Charisma (for verbal threats) and Strength (for physical threats). A character might use Wisdom to discern a creature’s weak point, and a spellcaster might use their spellcasting ability score to summon frightening energies.
@@ -188,6 +206,7 @@ Characters can gain proficiency in the following skills. Each skill description 
 ---
 
 ### Investigation
+
 **Ability:** Intelligence  
 **Specialties:** searching, deduction, patterns, puzzle-solving, appraisal, deciphering, forensics, gathering rumors, research, trapfinding
 **Description:** Investigation is careful reasoning applied to evidence. Investigation is used for actively searching, looking for clues, gathering information, experimentation, and research. The most commonly used ability score is Intelligence. A character might use Charisma to gather rumors or Wisdom to intuit which tomes and books in a library will be the most efficacious.
@@ -205,6 +224,7 @@ Characters can gain proficiency in the following skills. Each skill description 
 ---
 
 ### Medicine
+
 **Ability:** Wisdom  
 **Specialties:** anatomy, animals, autopsy, diseases, first aid, herbalism, poisons
 **Description:** A character can perform a Medicine check to stabilize a dying creature, treat or diagnose a disease or poison, or determine a cause of death. The most commonly used ability score is Wisdom. A character might use Intelligence to diagnose a rare poison or Constitution to nurse someone through a lengthy and dangerous illness.
@@ -222,6 +242,7 @@ Characters can gain proficiency in the following skills. Each skill description 
 ---
 
 ### Nature
+
 **Ability:** Intelligence  
 **Specialties:** astronomy, beast lore, ecosystems, farming, fey, natural hazards, plant lore, weather
 **Description:** The Nature skill measures a character’s knowledge of natural terrains, beasts, plants, and hazards. It can also be used to sense whether a creature is the product of this world or of another plane of existence. Unlike Survival, the Nature skill doesn’t necessarily imply practical experience with a phenomenon. The most commonly used ability score is Intelligence. A character might use Wisdom to recognize a hazard or Charisma to bring calm to an errant elemental presence disrupting an abandoned druid’s grove (or other place of great natural power).
@@ -239,6 +260,7 @@ Characters can gain proficiency in the following skills. Each skill description 
 ---
 
 ### Perception
+
 **Ability:** Wisdom  
 **Specialties:** farsight, invisible objects, listening, scent  
 **Description:** A character’s Perception measures what they are able to see, hear, or otherwise sense (unlike Investigation, Perception doesn’t involve approaching, searching, or handling an object of study.) The most commonly used ability score is Wisdom. A character might use Constitution for a long stretch of sentinel duty, or Intelligence to pick up on changes to the type of stone bricks used deeper than elsewhere in a dungeon. 
@@ -256,6 +278,7 @@ Characters can gain proficiency in the following skills. Each skill description 
 ---
 
 ### Performance
+
 **Ability:** Charisma  
 **Specialties:** acting, composing, crowd control, dancing, distraction, fine art, singing, speaking, stagecraft, writing
 **Description:** Performance is your ability to command attention and shape emotion through entertainment, presentation, and artistry. A Performance check allows a character to entertain an audience with singing, acting, or the like. It also allows a character to write or compose music, literature, or other artistic endeavors to entertain future audiences. The most commonly used ability score is Charisma, especially for performances before an audience. Writing, composing, or painting might instead use Intelligence or Wisdom. A display of martial prowess might require Dexterity or Strength.
@@ -273,6 +296,7 @@ Characters can gain proficiency in the following skills. Each skill description 
 ---
 
 ### Persuasion
+
 **Ability:** Charisma  
 **Specialties:** bribery, flattery, leadership, negotiation, peacemaking 
 **Description:** A character makes a Persuasion check to convince or influence someone through logic, flattery, or negotiation (unlike a Deception check, a Persuasion check is made in some degree of good faith.) The Narrator sets the DC of the Persuasion check based on what the character is asking for and how the target feels about the character; some persuasion attempts may be impossible.The most commonly used ability score is Charisma. Wisdom might be used for gauging what offers would sway a creature, or Intelligence if it is a matter entirely about logic.
@@ -290,6 +314,7 @@ Characters can gain proficiency in the following skills. Each skill description 
 ---
 
 ### Religion
+
 **Ability:** Intelligence  
 **Specialties:** alignment, celestials, cults, fiends, holy symbols, gods, morality, prophecy, rites and doctrine, undead
 **Description:** Religion measures a character’s knowledge of gods, religions, rites, and systems of morality. A character can also try to use it to sense if a place, person, or object has the Good or Evil alignment traits or a holy or unholy aura. The most commonly used ability score is Intelligence. Wisdom is used for sensing alignment and determining whether an action is moral according to a particular philosophy. Charisma can be used for preaching.  
@@ -307,6 +332,7 @@ Characters can gain proficiency in the following skills. Each skill description 
 ---
 
 ### Sleight of Hand
+
 **Ability:** Dexterity  
 **Specialties:** distraction, pickpocketing, legerdemain  
 **Description:** A character makes a Sleight of Hand check to perform legerdemain, pickpocket, hide an object on another creature, make a concealed hand signal, or otherwise deceive the eyes with feats of agility. Dexterity is nearly always the ability score used with this skill.
@@ -324,6 +350,7 @@ Characters can gain proficiency in the following skills. Each skill description 
 ---
 
 ### Stealth
+
 **Ability:** Dexterity  
 **Specialties:** anonymity, camouflage, casing  
 **Description:** Stealth is used to hide or avoid notice. A creature’s Stealth check is usually opposed by a potential observer’s Perception check. The most commonly used ability score for Stealth is Dexterity. Constitution might be used for staying still for a very long time, Intelligence for casing out an unfrequented route, and Charisma for blending anonymously into a crowd. 
@@ -341,6 +368,7 @@ Characters can gain proficiency in the following skills. Each skill description 
 ---
 
 ### Streetwise
+
 **Ability:** Charisma  
 **Specialties:** leads, contacts, favors, local networks, underworld etiquette, black markets, gangs, safe routes
 **Description:** The Streetwise skill allows a character to navigate the social and physical landscape of urban environments, such as finding a black market dealer, knowing which neighborhoods to avoid after dark, identifying gang signs or territorial markers, or tracking down a person of interest through word of mouth and local contacts. The most commonly used ability score is Charisma. A character might use Intelligence to recall the layout of a city's sewer system or the hierarchy of a thieves' guild, Wisdom to read the mood of a crowd or sense an ambush in an alleyway, or Constitution to survive and remain alert during long nights spent working contacts in dangerous districts. 
@@ -358,6 +386,7 @@ Characters can gain proficiency in the following skills. Each skill description 
 ---
 
 ### Survival
+
 **Ability:** Wisdom  
 **Specialties:** dungeoneering, foraging, hunting, tracking, wayfinding  
 **Description:** The Survival skill allows a character to perform the tasks necessary to thrive in the wilderness: hunting, tracking, avoiding natural hazards, and traveling without getting lost (unlike Nature, a Survival check doesn’t imply knowledge of the trouble you’re avoiding or tracking.) The most commonly used ability score is Wisdom. A character might use Constitution to weather a storm or Intelligence to follow a route marked on an old map.
@@ -372,12 +401,12 @@ Characters can gain proficiency in the following skills. Each skill description 
 | 20 | Navigate featureless terrain; track a target that’s actively trying to hide its trail. |
 | 25 | Keep a group alive through extreme conditions with minimal supplies and no safe refuge. |
 
-
 ## Class Skills
 
 List of classes that will get access to the new skills at character creation:
 
 ### Culture
+
 - Bard
 - Cleric
 - Gadgeteer
@@ -392,6 +421,7 @@ List of classes that will get access to the new skills at character creation:
 - Warlord
 
 ### Engineering
+
 - Alchemist
 - Artificer
 - Gadgeteer
@@ -402,6 +432,7 @@ List of classes that will get access to the new skills at character creation:
 - Warlord
 
 ### Streetwise
+
 - Apothecary
 - Bard
 - Gunslinger

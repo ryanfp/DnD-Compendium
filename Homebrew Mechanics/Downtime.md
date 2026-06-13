@@ -1,3 +1,11 @@
+---
+title: Downtime
+created: 2026/05/30 at 23:06
+updated: 2026/06/12 at 20:08
+aliases:
+  - Downtime
+---
+
 # Downtime
 
 ## Between Adventures
@@ -30,7 +38,6 @@ For even longer periods of downtime, the GM can extend the downtime to seasons�
 
 Characters may wish to work together to complete downtime activities. At the GM’s discretion, one character may assist another (as the Help action). Both characters must spend their downtime on the chosen activity.
 
-
 - - -
 
 ### Craft
@@ -55,6 +62,7 @@ All crafted items require materials. Poor quality items can be made with materi
 |Normal|Normal|15|¼|-|Up to full|-|
 |Fine|x2|20|½|+25 gp|At least full price|Can be enchanted to become a magic item of up to uncommon rarity|
 |Masterwork|x3|25|Normal|+125 gp|No less than double full price|Never has damage vulnerabilities, and can be enchanted to become a magic item of any rarity|
+
 ^crafting-rarity
 
 See the core rulebook for tables **Engineering Items** and **Engineering Time**.
@@ -71,6 +79,7 @@ See the core rulebook for tables **Engineering Items** and **Engineering Time**.
 |Medium armor|2 weeks|
 |Heavy armor|4 weeks|
 |Tool or equipment|2 per week|
+
 ^crafting-items
 
 *Rare weapons may require longer crafting times determined by the GM.*
@@ -83,7 +92,6 @@ The Gather Information activity is used to uncover secure or secret information
 
 The character specifies a particular individual, event, organization, or place from which they wish to learn more declares a specific piece of information that they’re seeking to learn, and how they plan to acquire it. The time, DC, and costs are included below. 
 
-
 > [!tip] Use of Skills
 > As the GM, let the player explain how they plan to extract the desired information, and what skill they plan to use. If a player needs ideas or is unsure, offer them this advice:
 > 
@@ -94,7 +102,7 @@ The character specifies a particular individual, event, organization, or place 
 > - use their **Performance** to pretend to be a fellow drunk at a bar to eavesdrop on loose-lipped townsfolk
 > - etc.
 
-After the downtime slot is spent, the player makes a roll adjudicated by the GM. On a success, a player gains +1 progress towards their goal, while a **[[Degrees of Success#^degrees-of-success|Critical Success]]** will grant **+2** progress towards their goal and a point of **Key Knowledge**. Once the player reaches the given threshold for their task, they gain the listed benefits and the activity is otherwise resolved. 
+After the downtime slot is spent, the player makes a roll adjudicated by the GM. On a success, a player gains +1 progress towards their goal, while a **[[degrees-of-success|Critical Success]]** will grant **+2** progress towards their goal and a point of **Key Knowledge**. Once the player reaches the given threshold for their task, they gain the listed benefits and the activity is otherwise resolved. 
 
 A **Critical Failure** does not cause a player to *lose* progress, but they do not *gain* any. At the GM’s discretion, the player may learn an incorrect piece of information that could lead them astray or cause some trouble. 
 
@@ -112,6 +120,7 @@ At the GM’s discretion, these points can also be spent to introduce a small f
 | Esoteric | 15 | 15 successes | 25 gp | The name of the best fence in a particular city, where to go to get illicit magic ingredients |
 | Hidden | 20 | 20 successes | 100 gp | The location of the duke’s secret prison, the name of a dragon’s agent in a city |
 | Secret | 25 | 30 successes | 500+ gp | The identity of the leader of a guild of assassins, what the king keeps in the secret room below his chambers |
+
 ^gather-information
 
 ---
@@ -207,21 +216,22 @@ An allied contact can only grant aid once. They remain friendly after granting a
 - - -
 
 ### Crime
- 
+
 **Summary.** Sometimes it pays to be bad. Crime lets a character plan and pull off a score for profit, at the risk of getting caught. It costs a setup of 50 to 500 gp and as many downtime slots as the job demands.
  
 **Resources.** Before committing to a job, a character must spend money for setup. This could be resources for casing the target—surveillance and information—or a “deposit” on a fence, vehicles, tools, or bribes. This setup cost is spent whether the score succeeds or fails. The character picks a mark according to the profit they seek; the DC and the number of successful slots scale with how valuable the score is and how well-guarded it is.
- 
+
 #### **Crime**
- 
+
 | **Difficulty** | **DC** | **Goal**     | **Suspicion Limit** | **Setup** | **Rewards**                                             |
 | -------------- | :----: | ------------ | :-------------------: | :---------: | ------------------------------------------------------- |
 | Low            |   10   | 5 successes  | 10                  | 50 gp     | 250 gp — a struggling merchant, a back-room strongbox   |
 | Medium         |   15   | 10 successes | 8                   | 100 gp    | 500 gp — a thriving merchant, a guild safe              |
 | High           |   20   | 20 successes | 6                   | 250 gp    | ~1,250 gp — a noble's manor, a counting-house           |
 | Very High      |   25   | 30 successes | 4                   | 500 gp    | ~2,500 gp — one of the richest figures in town, a vault |
+
 ^crime
- 
+
 **Resolution.** The character chooses a target and an approach, then commits the job over one or more slots. Over the course of their job, the player **must** use the following skills or proficiencies *at least* (roughly) half of the time, with each skill or tool being used at least 10% of the time. 
 
 #### Required Proficiencies
@@ -239,8 +249,9 @@ For an explanation, see the table below:
 | Medium  | 15  | 10 successes | 5+ uses   | 1 |
 | High | 20  | 20 successes | 10+ uses  | 2 |
 | Very Hard  | 25  | 30 successes | 15+ uses  | 3 |
+
 ^required-proficiencies
- 
+
 > [!tip] Use of Skills
 > As the GM, let the player explain how they intend to pull off the score, and what skill they plan to use. If a player needs ideas or is unsure, offer them this advice:
 >
@@ -251,16 +262,15 @@ For an explanation, see the table below:
 > - use their **Deception** to talk past a guard or run a con on the mark
 > - use their **Investigation** or **Perception** to case the target first
 > - etc.
- 
-After the downtime slot is spent, the player makes a roll adjudicated by the GM. On a success, the player gains +1 progress towards their goal, while a **Critical Success** grants **+2** progress and makes the **Suspicion Level** go down by **1**. Once the player reaches the threshold for their chosen target,  they gain the loot. The rewards gained can be anything, not just coin. 
+
+After the downtime slot is spent, the player makes a roll adjudicated by the GM. On a success, the player gains +1 progress towards their goal, while a **Critical Success** grants **+2** progress and makes the **Suspicion Level** go down by **1**. Once the player reaches the threshold for their chosen target, they gain the loot. The rewards gained can be anything, not just coin. 
 
 A **Critical Failure** does not cause the player to lose progress, but the **Suspicion Level** goes up by 1. As the Suspicion Level goes up, the job draws heat. Maybe there’s a potential double-cross, a suspicious guard, or a rival crew that now knows the player’s face.
- 
+
 > [!warning] Getting Caught
 > If a character racks up enough Critical Failures—to the point where the **Suspicion Level** reaches its max—before reaching their goal, the job is blown. They are caught or the target makes sufficient moves or notifies the appropriate authorities. The consequences may be decided upon at the GM’s discretion. 
- 
----
 
+---
 
 - - -
 
@@ -271,19 +281,20 @@ A **Critical Failure** does not cause the player to lose progress, but the **Sus
 **Summary.** Whether in the fighting pits, a tournament melee, a public duel, boxing match, or a daring feat staged for a crowd, this activity turns spectacle into coin and fame. It costs a slot and any entry fee, and rewards fame and valor, and loot aplenty.
  
 **Resources.** The character needs a venue and pays any entry fee. They choose a circuit according to the renown they're chasing; the DC and Goal scale with the prestige of the stage. Part of the challenge is the unknown, a character rarely knows the quality of their opposition until the bell rings, so the GM may keep the true DC hidden until the first check.
- 
+
 #### **Pit Fighting & Showmanship**
- 
+
 | **Difficulty** | **DC** | **Goal**  | **Entry** | **Purse** | **Fame on Completion**  |
 | -------------- | :----: | -------- | --------- | --------- | ------------------------ |
 | Easy | 10 | 5 successes  | — | 2d6 × 5 gp  | Local talk; the regulars know your name   |
 | Medium | 15 | 10 successes | 10 gp| 4d6 × 5 gp  | A **Favor** from a fan, patron, or sponsor |
 | Hard  | 20 | 20 successes | 50 gp| 6d6 × 10 gp | **+1 Prestige** (GM's discretion)   |
 | Deadly | 25 | 30 successes | 250 gp | 8d6 × 25 gp | **+1 Prestige**   |
+
 ^pit-fighting
- 
+
 **Resolution.** Each slot, the character competes in the day's events.
- 
+
 > [!tip] Use of Skills
 > As the GM, let the player describe how they fight or perform, and what skill they use. If a player needs ideas or is unsure, offer them this advice:
 >
@@ -293,9 +304,9 @@ A **Critical Failure** does not cause the player to lose progress, but the **Sus
 > - use their **Performance** to play the audience and sell the show
 > - make an **attack roll** or a **Reflex** save to simply outlast and out-hit them
 > - etc.
- 
+
 After the downtime slot is spent, the player makes a roll adjudicated by the GM. On a success, the player gains +1 progress towards their goal, while a **Critical Success** grants **+2** progress and a **Favor** from someone in the crowd, maybe a fan, a patron, or a would-be sponsor. Once the player reaches the threshold for their circuit, they win the prize and the fame listed. A **Critical Failure** does not cause the player to lose progress, but they suffer a public setback at the GM's discretion. Maybe the crowd finds their performance disappointing, or they experience a humbling defeat, a level of fatigue from a beating, or a rival's grudge.
- 
+
 **Prestige.** This activity is one of the few that can raise a character's **Prestige rating**(a measure of how famous or infamous they are). A higher Prestige lets a character call in favors and get an audience with more important people (see *Prestige Rating*). Lower circuits build local fame and Favors rather than full Prestige.
 
 - - -
@@ -328,46 +339,48 @@ If a character is tended to by someone with a healer’s satchel or medicine kit
 |Neutral|20|50 gp|The character’s personal ethos and actions do not align with or oppose the deity they are beseeching.|
 |Opposed|25|100 gp|The character’s personal ethos and actions are generally counter to the deity’s philosophy and teachings.|
 |Strongly Opposed|30|500 gp|The character's personal ethos and actions run directly counter to the deity’s philosophy and teachings.|
+
 ^religious-devotion
+
 _*The GM may allow specific actions by the character to reduce or eliminate this cost._
 
 **Resolution.** After the downtime slot is spent in devotion, the player makes a roll adjudicated by the GM. 
- 
+
 > [!tip] Use of Skills
 > Devotion is shown differently across faiths. Let the player describe their worship and pick the fitting skill:
 > - use their **Religion** for liturgy, scripture, formal rites, and theological study
 > - use their **Nature** for primal, animistic, or seasonal devotion to gods of the wild
 > - etc.
- 
-On a success, the character gains 1 point of favor. On a **Critical Success**, the character gains  **+1** additional points of favor. 
+
+On a success, the character gains 1 point of favor. On a **Critical Success**, the character gains **+1** additional points of favor. 
 
 On a failure, the offering is spent but no Favor is earned; on a **Critical Failure**, the offering is spent and the GM may deliver a small portent of divine displeasure.
- 
+
 **Favor.** A point of favor can be spent to represent a minor but helpful boon that aligns with a deity’s portfolio. A point of favor from a war god might allow a character to find a weapon after they’ve been disarmed, while a point of favor from a nature god might make it easier to find a safe place to camp. The specific details are left up to the GM, but in general, this should represent advantage on a roll, the discovery of a small but useful item, or a helpful chance encounter. For 2 favor points, the GM may allow a character to benefit from the effects of a 1st-level spell that aligns with a deity’s portfolio. GMs are free to come up with other uses.
 
 If a character acts against the interests or philosophy of a deity during an adventure, any points of favor are immediately lost.
 
 ---
 
-
 ### Research
- 
+
 **Summary.** Research is used to uncover obscure information about individuals, events, organizations, or other things that have faded beyond living memory but still exist in recorded history. Alternatively, Research can be used to find facts or information contained within bureaucratic records. It costs a slot and 10 to 500+ gp per slot in fees and bribes.
  
 **Resources.** In order to conduct the Research activity, a character must have access to a library or collection that could plausibly hold what they seek — a noble villa’s private library might contain original ownership records, but is unlikely to contain information regarding alien interlopers from the last age. The cost reflects library fees, scribes, and bribes. At the GM’s discretion, a character may dispense with these if they already have access to a library that may contain the information. 
- 
+
 #### **Research**
- 
+
 | **Obscurity** | **DC** | **Time** | **Cost** | **Examples**  |
 | ------------- | :----: | -------- | -------- | ---------------------------------------------------------------------------------- |
 | Uncommon   |   10   | 1 week   | 10 gp | The original name of a particular village, or a creature  |
 | Esoteric   |   15   | 2 weeks  | 25 gp | The original owner of a piece of land or business, the location of an ancient tomb |
 | Hidden |   20   | 3 weeks  | 100 gp   | The true history of the founding of a dynasty, the real lineage of the local ruler |
 | Secret |   25   | 5 weeks  | 500+ gp  | The name of a fiend, the location of a city destroyed by the gods in the last age  |
+
 ^research
- 
+
 **Resolution.** After the downtime slot is spent in study, the player makes a roll adjudicated by the GM.
- 
+
 > [!tip] Use of Skills
 > As the GM, let the player explain what records they're combing and what skill fits the topic. If a player needs ideas or is unsure, offer them this advice:
 >
@@ -378,11 +391,11 @@ If a character acts against the interests or philosophy of a deity during an adv
 > - use their **Culture** to untangle the customs, laws, and rivalries of a people
 > - use their **Nature** for bestiaries or resources on botany
 > - etc.
- 
+
 On a success, the player gains +1 progress towards their goal, while a **Critical Success** grants **+2** progress and a point of **Key Knowledge** (see Gather Information). A failure does not cause the player to lose progress, they just instead gain no progress towards their goal. However, on a **Critical Failure**, the player may instead learn an incorrect piece of information that could lead them astray or cause some trouble. Once the player reaches the threshold for the determined obscurity, they uncover what they sought and the activity is resolved. 
- 
+
 **Limitations.** As with Gather Information, the GM may rule that a fact simply cannot be found in any library the character can reach. In that case, the GM should say so before the player commits a slot.
- 
+
 - - -
 
 ### Spellcraft
@@ -392,7 +405,7 @@ On a success, the player gains +1 progress towards their goal, while a **Critica
 **Resources.** To craft a rare spell, a character chooses a common spell they know and one modification from Table: Spell Modifications (or, with the GM’s permission, a rare spell of a level they can cast). In order to invent a rare spell, a character must have access to the appropriate type of library and pay the per-week materials cost. 
 
 Wizards and Sorcerers require a collection of arcane tomes. Clerics and Paladins must have access to books of esoteric lore and theological texts. Druids need a sacred place of nature untouched by civilization. Bards utilize folios of magical compositions. Warlocks require forbidden texts and works of the occult. Etc.
- 
+
 #### **Spell Modifications**
 
 | **Modification**  | **DC Mod** | **Effect**                                                                                                                                                         | **Examples**                                                                                                                                             |
@@ -401,8 +414,9 @@ Wizards and Sorcerers require a collection of arcane tomes. Clerics and Paladi
 | Lingering Effect  |     +1     | The spell has a secondary effect that occurs after the spell has ended.                                                                                            | A *fireball* that leaves targets Burning; a *cone of cold* that leaves a target Slowed; an *inflict wounds* that leaves the target Withered.             |
 | Additional Effect | +2 | An additional effect is added to the spell’s primary function.                                                                                                     | An *ice storm* that inflicts Frostbite for the duration.                                                                                                 |
 | Additional Target |     +3     | The spell gains the means to affect one or more additional creatures.                                                                                              | An *Immobilizing* hold that spreads to a creature within 5 ft; a *suggestion* that passes to new listeners through conversation                          |
+
 ^spell-modifications
- 
+
 #### **Rare Spell Crafting**
 
 | **Spell Level** | **DC** | **Cost / Slot** | **Successful Slots** |
@@ -416,19 +430,20 @@ Wizards and Sorcerers require a collection of arcane tomes. Clerics and Paladi
 | 7th             |   20   | 300 gp          |          40          |
 | 8th             |   21   | 600 gp          |          45          |
 | 9th             |   22   | 1,000 gp        |          50          |
+
 ^rare-spell-crafting
 
 **Resolution.** After the downtime slot is spent in study, the player makes a roll adjudicated by the GM. The DC equals the base DC for the spell's level plus the chosen modification's DC modifier.
- 
+
 > [!tip] Use of Skills
 > The check uses the character's spellcasting ability, paired with the skill of their tradition:
 > - use **Arcana** for a sorcerer, warlock, or wizard
 > - use **Nature** for a druid
 > - use **Performance** for a bard
 > - use **Religion** for a cleric or paladin
- 
+
 On a **success**, the character gains +1 progress towards their goal, and on a **Critical Success** the character gains +2 progress and retains the required materials for the slot (money and components). On a failure, no progress is made and the materials are consumed; while a **Critical Failure** also inflicts one level of Strife. The rare spell is finished when the final check succeeds.
- 
+
 **Inventing New Spells.** In addition to crafting rare spells, it is possible to create entirely new spells. This process typically requires years of work and often represents the pinnacle of a spellcaster’s career, with DCs and specifics set by the GM using these rules as a guide. As with all rare spells, the GM must approve the result; when in doubt, model it on an existing rare spell. In general, to create a new spell entirely would have the same DCs, but **double** the cost and needed slots, as the [[Downtime#^rare-spell-crafting|Table:Rare Spell Crafting]].
 
 - - -
@@ -438,67 +453,69 @@ On a **success**, the character gains +1 progress towards their goal, and on a *
 **Summary.** Work is honest labor. A character can use the Work activity to pay their cost of living expenses and earn some coin between adventures. It costs a slot and earns gold by the day's effort. 
  
 **Resources.** A character selects which work they intend to do, picks a skill or tool proficiency approved by the GM, and chooses a difficulty from Table: Work. The harder the work, the better it pays and the finer the lifestyle it sustains.
- 
+
 #### **Work**
- 
+
 | **Difficulty** | **DC** | **Lifestyle Supported** | **Earnings (per slot)** |
 | -------------- | :----: | ----------------------- | ----------------------- |
 | Easy           |   10   | Poor                    | DC + 1d6 gp                  |
 | Average        |   15   | Moderate                | DC + 1d10 gp                  |
 | Hard           |   20   | Rich                    | DC + 2d6 gp                  |
 | Very Hard      |   25   | Aristocratic                    | DC + 2d12 gp                  |
+
 ^work
- 
+
 **Resolution.** After the slot of labor, the player makes a check adjudicated by the GM.
- 
+
 > [!tip] Use of Skills
 > Let the player describe the work they're doing and the skill or tool it calls on:
 > - use a **tool proficiency** (smith's tools, carpenter's tools, a gaming set) to ply a trade
 > - use **Persuasion** or **Performance** to earn as a merchant, advocate, or entertainer
 > - use **Culture** to work at a local government office
 > - etc.
- 
+
 On a **success**, the character earns the gold listed and supports their chosen lifestyle for the slot's labor. On a **Critical Success**, the character gains **double** the listed earnings–maybe they get a sizable tip, or a small bonus from their business/boss. On a failure, they don’t earn the bonus earnings equal to their DC; on a **Critical Failure**, they earn no bonus, and have disadvantage on the roll to determine their earnings.
 
 - - -
 
-
 ---
 
-### Learn 
+### Learn
 
 #### Skill or Tool Proficiency
- 
+
 **Summary.** Invest downtime under a qualified trainer to advance your proficiency tier in a skill or tool, progressing from Untrained through Trained, Proficient, Expert, and Master. Progress is cumulative from 0 to 200, with milestone unlocks at each tier. 
  
 **Resources.** Requires a trainer at or above the target proficiency tier in the specific skill or tool being taught. Cost per slot increases with each tier. You must meet the level gate before you can begin training toward a tier, and you cannot skip tiers. 
- 
+
 ##### **Training Progression**
- 
+
 | **Tier**   | **DC** | **Total Progress** | **Cost / Slot** | **Level Gate** |
 |:---------- |:------:|:------------------:|:---------------:|:--------------:|
 | Trained    |   10   |         25         |      5 gp       |       —        |
 | Proficient |   14   |         50         |      10 gp      |       5+       |
 | Expert     |   18   |        100         |      25 gp      |       9+       |
 | Master     |   22   |        200         |      50 gp      |      13+       |
+
 ^train-progression
- 
+
 ##### **Trainer Boost**
- 
+
 A trainer whose proficiency tier exceeds the tier you are training toward accelerates your progress. For each tier the trainer exceeds the target, you gain +1 additional progress per successful check. This multiplier applies to all progress gained, including from a **Critical Success**.
- 
+
 | **Trainer Tier** | **→ Trained** | **→ Proficient** | **→ Expert** | **→ Master** |
 | :--------------- | :-----------: | :--------------: | :----------: | :----------: |
 | Trained          |      ×1       |        —         |      —       |      —       |
 | Proficient       |      ×2       |        ×1        |      —       |      —       |
 | Expert           |      ×3       |        ×2        |      ×1      |      —       |
 | Master           |      ×4       |        ×3        |      ×2      |      ×1      |
+
 ^training-boost
- 
+
 *Example: A Master trainer teaching a character from Untrained toward Trained grants ×4 progress. Each success yields 4 progress, while each Critical Success yields 8. The same Master trainer teaching Expert → Master grants only normal progress.*
  
 **Resolution.** After the downtime slot is spent, the player makes a roll adjudicated by the GM. The player makes a check using the skill or tool they are training in, against the DC of their current target tier.
- 
+
 > [!tip] Use of Skills
 > As the GM, let the player explain how their training session went and what skill they plan to use. The default check is the skill or tool being trained — a character training Stealth rolls a Dexterity (Stealth) check; one training smith's tools rolls an appropriate smith's tools check. 
 > 
@@ -520,20 +537,21 @@ A failure does not cause the player to lose progress, instead they gain none. Wh
 - - -
 
 #### Language
- 
+
 **Summary.** Study a new language under a tutor until fluency is achieved. 
  
 **Resources.** Requires a tutor fluent in the target language, or a reliable alternative means of study. Once the character decides to spend their time learning a language, they must pay the upfront cost and find their means of study.
- 
+
 ##### **Language Training**
- 
+
 | **Goal** | **DC** | **Cost / Slot** | **Check** |
 | :--: | :--: | :--: | :-- |
 | 150 - (INT mod * 20) | 12 | 5 gp | Intelligence (any relevant skill) |
+
 ^train-language
- 
+
 **Resolution.** At the end of the slot, the player makes an Intelligence-related skill check against a DC of 12.
- 
+
 > [!tip] Use of Skills
 > As the GM, let the player explain how they spent their study session and what approach they used. 
 > 
@@ -542,44 +560,45 @@ A failure does not cause the player to lose progress, instead they gain none. Wh
 > - use their **History** to study the language's etymological roots and written tradition
 > - use their **Arcana** to read ancient tomes written by fiends or celestials
 > - etc.
- 
+
 After the downtime slot is spent, the player makes a roll adjudicated by the GM. 
 
 On a success, the player gains +1 progress towards their goal, while a **Critical Success** grants **+2** progress and Advantage on their next training check for this language. Once the player reaches 100 progress, they gain proficiency in the language and the activity is resolved. 
 
 A failure does not cause the player to lose progress, they instead gain none. On a **Critical Failure**, the character must pay double the cost for the downtime slot.
- 
+
 - - -
 
 #### Weapon Proficiency
- 
+
 **Summary.** A character drills with a new weapon under a trainer's guidance until basic proficiency is achieved. 
  
 **Resources.** Requires a trainer proficient with the target weapon. Access to the weapon or a practice equivalent is assumed. Once the character chooses the weapon they want to train with, they must pay the upfront cost and find their sparring partner or other means of training.
- 
+
 ##### **Weapon Training**
- 
+
 | **Goal** | **DC** | **Cost / Slot** | **Check** |
 | :--: | :--: | :--: | :-- |
 | 100 - (STR/DEX mod * 20) | 12 | 5 gp | Attack roll with chosen weapon |
+
 ^train-weapon
- 
+
 **Resolution.** After the downtime slot is spent, the player makes a roll adjudicated by the GM. The player makes an Attack roll with the chosen weapon against a DC of 12. 
 
 On a success, the player gains +1 progress towards their goal, while a **Critical Success** grants **+2** progress and Advantage on their next training check for this weapon. A failure does not cause the player to lose progress, they instead gain none. On a **Critical Failure** the character must pay double the slot cost.
 
 - - -
 
-### Train 
+### Train
 
 #### Signature Exploits
 
-**Summary.** This activity allows martial adepts to refine their exploits into signature exploits. Signature exploits are a version uniquely their own, sharpened with small advantages such as greater force, an added effect, or a second target. Characters must pick an exploit they know and choose  one modification from the modifications table. Alternatively, with the GM’s permission a character may choose one signature exploit, provided it is of a degree they can perform.
+**Summary.** This activity allows martial adepts to refine their exploits into signature exploits. Signature exploits are a version uniquely their own, sharpened with small advantages such as greater force, an added effect, or a second target. Characters must pick an exploit they know and choose one modification from the modifications table. Alternatively, with the GM’s permission a character may choose one signature exploit, provided it is of a degree they can perform.
  
 **Resources.** To refine an exploit, a character must know the exploit and be able to perform it, train under a trainer and/or have a place to train and a sparring partner, and pay the per-slot cost listed in the Mastery table. 
 
 ##### **Exploit Modifications**
- 
+
 | **Modification**  | **DC Mod** | **Effect**                                                                                                                                  | Examples                                                                                                                                                                 |
 | ----------------- | :--------: | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Altered Effect    |     +0     | The exploit’s primary effect is changed. This can be the condition it inflicts, the saving throw it forces, or the type of damage it deals. | A *breathless critical* that inflicts the Immobilized condition instead of the Slowed condition, a *crushing grip* that inflicts piercing damage instead of bludgeoning. |
@@ -588,10 +607,11 @@ On a success, the player gains +1 progress towards their goal, while a **Critica
 | Increase Potency  |     +2     | Increase the rolled exploit die’s quantity by 1.                                                                                            | A *wild charge* that deals two Exploit Dice worth of damage.                                                                                                             |
 | Additional Effect |     +2     | An additional effect is added to the exploit’s primary function.                                                                            | A *gale slash* that also inflicts the Rattled condition, an *immovable stance* that turns the area directly adjacent to you into Difficult Terrain.                      |
 | Extra Target      |     +3     | The exploit gains the means to affect one or more additional creatures.                                                                     | The Exploit affects one additional enemy within its range or reach.                                                                                                      |
+
 ^exploit-modifications
- 
+
 ##### **Signature Exploit Crafting**
- 
+
 | **Exploit Degree** | **DC** | **Cost / Slot** | **Successful Slots** |
 | ------------------ | :----: | --------------- | :------------------: |
 | 1st-degree         |   14   | 20 gp           |          10          |
@@ -599,40 +619,42 @@ On a success, the player gains +1 progress towards their goal, while a **Critica
 | 3rd-degree         |   18   | 100 gp          |          30          |
 | 4th-degree         |   20   | 250 gp          |          40          |
 | 5th-degree         |   22   | 500 gp          |          50          |
+
 ^signature-exploit-crafting
- 
+
 **Resolution.** After the downtime slot is spent training, the player makes a roll adjudicated by the GM. Choose an Exploit you know and the single modification you wish to apply. The DC equals the base DC for the Exploit's degree plus the chosen modification's DC modifier.
- 
+
 > [!tip] Use of Skills
 > The training check uses whatever the Exploit itself relies on, plus your proficiency bonus:
 > - use **Strength** or **Dexterity** for most martial Exploits (whichever the Exploit's save or attack uses)
 > - use your **Leadership** score, or **Persuasion** / **Intimidation**, for Warlord Orders and social Exploits
 > - use whatever ability, skill, or tool the Exploit's description names — **Intelligence (Deception or Persuasion)** for *eloquent speech*, a **Poisoner's Kit** for *craft simple poison*, **Wisdom (Perception)** for *primal senses*, and so on
- 
+
 On a **success**, they gain +1 progress towards their goal; and on a **Critical Success** the character gains **+2** progress and retains the cost for the used slot. On a failure, no progress is made and the slot's cost is still spent. While a **Critical Failure** inflicts one level of Fatigue. When progress reaches the listed total, the modification is locked in and the Exploit becomes a **Signature Exploit**. It is added to the list of that character’s known Exploits. It does not count against their known total.
- 
+
 **Inventing New Exploits.** In addition to refining existing exploits, it is possible to create entirely new ones. This typically represents a career-defining achievement for a martial adept, with DCs and specifics set by the GM using these rules as a guide. As with rare spells, to invent a new exploit entirely would have the same DCs, but **double** the cost and needed slots, as the [[Downtime#^signature-exploit-crafting|Table: Signature Exploit Crafting]].
 
 - - -
 
 ### Revelry
- 
+
 **Summary.** Sometimes you just need to cut loose. Indulging is a slot spent drinking, gambling, feasting, and reveling for no other reason but to enjoy it and shed the weight of the life of an adventurer. It costs 5 to 100 gp, plus whatever you choose to wager (if gambling). 
  
 **Resources.** Indulging requires somewhere safe and comfortable to drop your guard, like a settlement, a friendly inn, or a festival. The character chooses how hard they party based upon the desired lifestyle, pays the cost, and may place a **wager** if there are games of chance to be found.
- 
+
 #### **Indulging**
- 
+
 | **Lifestyle** | **DC** | **Cost (per slot)** | **Strife Relieved** |
 | ------------- | :----: | ------------------- | :-----------------: |
 | Modest |   10   | 5 gp  |          0   |
 | Comfortable   |   15   | 25 gp |          1   |
 | Wealthy |   20   | 100 gp   |          2   |
 | Aristocratic  |   25   | 500+ gp  |          3   |
+
 ^indulging
- 
+
 **Resolution.** After the slot, the character experiences benefits for how hard or how lavishly they enjoyed themselves. If games of chance were involved, the player makes a check against the DC based on the **Lifestyle** column. 
- 
+
 > [!tip] Use of Skills
 > As the GM, let the player describe how they're cutting loose, and what skill they lean on. If a player needs ideas or is unsure, offer them this advice:
 >
@@ -641,31 +663,32 @@ On a **success**, they gain +1 progress towards their goal; and on a **Critical 
 > - use their **Performance** to throw themselves into the revelry
 > - use their **Insight** to read the game table and the room
 > - a **gaming set** proficiency can stand in when the night centers on games of chance
- 
+
 On a **success**, the character unwinds: reduce their **Strife** by the amount listed (minimum 0), and if they placed a wager, they win an amount equal to double the cost of the initial wager. On a **Critical Success**, it's the best night in memory: the player gains Inspiration, and wins **quadruple** any wager that was placed. Maybe something more valuable was put on the line…
 
-On a **failure**, the fun doesn't land. No Strife is relieved, and any wager is lost. On a **Critical Failure**, the character overdoes it. They relieve no Strife and instead gain 1 level from not respecting their limits  (a vicious hangover, a night in the gutter), lose any wager, and the GM may add a complication, such as a debt they owe to a barkeep, a brawl that got too wild, or the player may find themselves waking up somewhere they don't recognize.
+On a **failure**, the fun doesn't land. No Strife is relieved, and any wager is lost. On a **Critical Failure**, the character overdoes it. They relieve no Strife and instead gain 1 level from not respecting their limits (a vicious hangover, a night in the gutter), lose any wager, and the GM may add a complication, such as a debt they owe to a barkeep, a brawl that got too wild, or the player may find themselves waking up somewhere they don't recognize.
 
 - - -
 
 ### Stir Unrest
- 
+
 **Summary.** A single agitator with a printing press, a grievance, and a little funding can do what an army cannot. This is a long project that builds or reinforces discontent in a community toward a tipping point, at which the populace acts. The people may organize a strike, stage a riot, plot a coup, a secession, a revolution, etc.
  
 **Resources.** The character chooses a **scope** as per Table: Stir Unrest and pays the listed cost on materials and labor. Pamphlets, safehouses, bribes, and the care and feeding of a clandestine network. Each slot they make one check, approved by the GM to fit their method: Charisma (Persuasion) to rally, Charisma (Deception) to spread propaganda, Charisma (Intimidation) to coerce, or Intelligence (Investigation) to organize strikes and supply lines.
- 
+
 #### **Stir Unrest**
- 
+
 | **Scope**        | **DC** | **Cost / Slot** | Suspicion Limit | **Successes** |
 | :--------------- | :----: | :-------------: | :-------------: | :-----------: |
 | Hamlet / Village |   10   |      10 gp      | 5               |      10       |
 | Town             |   15   |      25 gp      | 10              |      20       |
 | City             |   20   |     100 gp      | 15              |      40       |
 | Metropolis       |   25   |     250 gp      | 20              |      60       |
+
 ^stir-unrest
- 
+
 **Resolution.** At the end of the slot, the player makes a roll adjudicated by the GM, against the DC for their chosen scope.
- 
+
 > [!tip] Use of Skills
 > As the GM, let the player explain how they are stoking discontent and what skill they plan to use. 
 > 
@@ -686,19 +709,19 @@ A failure does not cause the player to lose progress, instead they gain none. Wh
 
 > [!warning] Getting Caught
 > If a character racks up enough Critical Failures—to the point where the **Suspicion Level** reaches its max—before reaching their goal, the jig is up. They are caught or the authorities have cracked down enough and stomped out the unrest. The consequences may be decided upon at the GM’s discretion.
- 
+
 #### **Tipping Point Thresholds**
- 
+
 As Unrest crosses fractions of the Tipping Point, the mood of the community shifts:
- 
+
 | **Threshold** | **Stage** | **Potential Effect** |
 | :--: | :-- | :-- |
 | 25% | Discontent | Grumbling, graffiti, pamphlets. The people are waking up to their material conditions. |
 | 50% | Agitation | Protests and slowdowns. Guards are stretched: Advantage on Crime, Streetwise, and Gather Information checks in the area. |
 | 75% | Turmoil | Strikes and riots. The voices of the unheard cry out for justice. The authority may negotiate, concede, or escalate to open repression and wanton violence. |
 | 100% | Uprising | The populace acts. Society reaches a point of no return and change must be had. |
+
 ^stir-unrest-thresholds
- 
 
 > [!note] Suspicion Thresholds
 > Suspicion has no fixed effects to be given out, but the GM can use it narratively. As a rough guide, we can imagine some potential events or behaviors that occur at each threshold: 
@@ -706,9 +729,7 @@ As Unrest crosses fractions of the Tipping Point, the mood of the community shif
 > **25%** draws casual notice (increased guard patrols, questions asked at taverns)
 > **50%** triggers active investigation (the agitator's name is known, safe houses may be watched)
 > **75%** means the authorities are hunting them directly (wanted posters, bounties, raids).
- 
- 
+
 ---
- 
 
 ---

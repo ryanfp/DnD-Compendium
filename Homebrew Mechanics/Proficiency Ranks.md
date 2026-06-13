@@ -1,8 +1,12 @@
 ---
-aliases:
-  - Proficiency Levels
 title: Proficiency Ranks
+created: 2026/05/11 at 00:07
+updated: 2026/06/12 at 20:08
+aliases:
+  - Proficiency Ranks
+  - Proficiency Levels
 ---
+
 # Proficiency Ranks
 
 ## In 5e/5.5e
@@ -19,7 +23,6 @@ My rules, however, seek to rectify this and increase the depth and interaction w
 
 As such, there are now **multiple** different tiers of experience that anyone could have for a given interaction. They, along with their bonuses, are as follows:
 
-
 | Experience Level | Synonym     | Bonus       |
 | ---------------- | ----------- | ----------- |
 | Untrained        |             | +0          |
@@ -32,13 +35,12 @@ As such, there are now **multiple** different tiers of experience that anyone co
 
 For skills, you will gain the normal amount of proficiencies during character creation, and then a proportional amount of skills you are *trained* in, as well. 
 
-
-
 | Starting Proficiencies | Starting Trained Skills |
 | ---------------------- | ----------------------- |
 | 2 skills               | 0 trained               |
 | 3 skills               | 1 trained               |
 | 4 skills               | 2 trained               |
+
 - - - 
 
 ### Saving Throws

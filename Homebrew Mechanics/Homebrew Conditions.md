@@ -1,3 +1,15 @@
+---
+title: Conditions
+created: 2026/05/10 at 01:04
+updated: 2026/06/12 at 20:08
+aliases:
+  - Conditions
+tags:
+  - condition/existing
+  - condition/new
+  - condition/revised
+---
+
 # Conditions
 
 ## Baned
@@ -9,8 +21,6 @@
 While you have the Baned condition, you experience the following effect.
 
 _**Hindered.**_ You subtract 1d4 from your D20 Tests.
-
-
 
 ## Bleeding
 
@@ -28,8 +38,6 @@ _**Ending the Condition.**_ At the end of each of your turns, you can make a DC 
 
 _**Healing.**_ The first source of healing you receive while Bleeding is spent entirely on ending the condition rather than restoring Hit Points.
 
-
-
 ## Blessed
 
 #condition/new
@@ -39,8 +47,6 @@ _**Healing.**_ The first source of healing you receive while Bleeding is spent e
 While you have the Blessed condition, you experience the following effect.
 
 _**Favored.**_ You add 1d4 to your D20 Tests.
-
-
 
 ## Blinded
 
@@ -52,15 +58,11 @@ _**Can't See.**_ You can't see and automatically fail any ability check that req
 
 _**Attacks Affected.**_ Attack rolls against you have Advantage, and your attack rolls have Disadvantage.
 
-
-
 ## Bloodied
 
 #condition/existing
 
 A creature is Bloodied while it has half its Hit Points or fewer remaining.
-
-
 
 ## Burning
 
@@ -82,8 +84,6 @@ Putting out the fire varies in difficulty depending on its source. Nonmagical fl
 
 Magical flame can be more difficult to douse, depending on the source. The _searing smite_ spell can be doused as easily as any nonmagical fire, but the flames of the _immolation_ spell can be doused only by ending the spell, such as with a successful saving throw or an effect like _dispel magic_.
 
-
-
 ## Charmed
 
 #condition/existing
@@ -93,8 +93,6 @@ While you have the Charmed condition, you experience the following effects.
 _**Can't Harm the Charmer.**_ You can't attack the charmer or target the charmer with damaging abilities or magical effects.
 
 _**Social Advantage.**_ The charmer has Advantage on any ability check to interact with you socially.
-
-
 
 ## Concentration
 
@@ -107,8 +105,6 @@ _**Another Concentration Effect.**_ You lose Concentration on an effect the mome
 _**Damage.**_ If you take damage, you must succeed on a Constitution saving throw to maintain Concentration. The DC equals 10 or half the damage taken (round down), whichever number is higher, up to a maximum DC of 30.
 
 _**Incapacitated or Dead.**_ Your Concentration ends if you have the Incapacitated condition or you die.
-
-
 
 ## Confused
 
@@ -128,8 +124,6 @@ _**Random Actions.**_ On your turn, roll on the Confused Behavior table to deter
 |6-7|The Confused creature takes the Attack action or the Magic action against a randomly determined creature within its reach or range. The creature can only perform an Exploit of 2nd degree or lower, or cast a spell of 3rd level or lower. If a creature cannot perform either action, it ends its turn.|
 |8|The Confused creature can act normally.|
 
-
-
 ## Corroded
 
 #condition/new
@@ -145,8 +139,6 @@ _**Lowered Defenses.**_ You take a -2 penalty to your Armor Class for the durati
 _**Ending the Condition.**_ A creature can take an action or Bonus Action to clear the condition from you, or you can take an action to clear it yourself. You lose the Corroded condition when you gain the Wet condition.
 
 _**Escalating Acid.**_ Taking Acid damage refreshes the duration and increases the damage die by one step.
-
-
 
 ## Dazed
 
@@ -174,8 +166,6 @@ The _cure ailment_ power, _lesser restoration_ spell, and _greater restoration_ 
 
 Some creatures have Immunity to the Dazed condition. At the GM's discretion, a creature that has Immunity to the Paralyzed or Stunned condition also has Immunity to the Dazed condition.
 
-
-
 ## Deafened
 
 #condition/existing
@@ -183,8 +173,6 @@ Some creatures have Immunity to the Dazed condition. At the GM's discretion, a c
 While you have the Deafened condition, you experience the following effect.
 
 _**Can't Hear.**_ You can't hear and automatically fail any ability check that requires hearing.
-
-
 
 ## Disrupted
 
@@ -198,8 +186,6 @@ _**Chance to Fail.**_ Whenever you cast a spell, you must succeed on a Fortitude
 
 _**Rattled Immunity.**_ If you're immune to the Rattled condition, you're immune to the Disrupted condition.
 
-
-
 ## Doomed
 
 #condition/new
@@ -209,8 +195,6 @@ While you have the Doomed condition, you experience the following effects.
 _**Foreboding.**_ The next time you fall Unconscious, you begin with a number of failed death saving throws equal to your stacks of Doomed (maximum 3 stacks).
 
 _**Mortal Peril.**_ If you fall Unconscious while you have 3 stacks of Doomed, you die instantly.
-
-
 
 ## Downed
 
@@ -226,7 +210,7 @@ _**Barely Conscious.**_ You can speak only falteringly, in no more than a few wo
 
 _**Checks and Saves Affected.**_ You have Disadvantage on all ability checks and automatically fail Reflex saving throws.
 
-Before rolling your death saving throw on your turn, you can take one Desperate Action.
+Before rolling your death saving throw on your turn, you can take one [[desperate-actions|Desperate Action]].
 
 ### Desperate Actions
 
@@ -240,8 +224,6 @@ _**Shout.**_ You cry out for aid. One ally within 30 feet can immediately move u
 
 You can take up to 3 Desperate Actions. After that, you can spend a failed death saving throw to take a Desperate Action on your turn.
 
-
-
 ## Exposed
 
 #condition/new
@@ -249,8 +231,6 @@ You can take up to 3 Desperate Actions. After that, you can spend a failed death
 While you have the Exposed condition, you experience the following effect.
 
 _**Attacks Affected.**_ Attack rolls against you have Advantage.
-
-
 
 ## Frenzied
 
@@ -264,8 +244,6 @@ _**Cornered.**_ You have the Hastened condition.
 
 _**Chaotic.**_ You have the Confused condition.
 
-
-
 ## Frightened
 
 #condition/existing
@@ -275,8 +253,6 @@ While you have the Frightened condition, you experience the following effects.
 _**Ability Checks and Attacks Affected.**_ You have Disadvantage on ability checks and attack rolls while the source of fear is within line of sight.
 
 _**Can't Approach.**_ You can't willingly move closer to the source of fear.
-
-
 
 ## Frostbite
 
@@ -296,8 +272,6 @@ _**Condition Resistance.**_ If you're immune to Cold damage, you're immune to th
 
 _**Ending the Condition.**_ By default, you lose 1 stack of Frostbite each turn, and you lose 1 stack each time you take Fire damage. Alternatively, you can lose 2 stacks on your turn if you move more than half your Speed, light a torch, or sit near a campfire or other lit source. You lose all stacks of Frostbite when you gain the Burning condition.
 
-
-
 ## Frozen
 
 #condition/new
@@ -314,8 +288,6 @@ _**Condition Resistance.**_ If you're immune to Cold damage, you're immune to th
 
 _**Breaking Free.**_ You can attempt a DC 15 Strength (Athletics) check to break free. The condition also ends if you or an ally deals 15 Bludgeoning or Fire damage to the ice.
 
-
-
 ## Goaded
 
 #condition/new
@@ -327,8 +299,6 @@ _**Fixated.**_ You have Disadvantage on attack rolls against any creature other 
 _**Enraged.**_ If you can see or hear the enemy that Goaded you within 60 feet, you must end your turn closer to that enemy than you started.
 
 _**Condition Immunities.**_ You're immune to the Charmed, Frightened, and Frenzied conditions.
-
-
 
 ## Grappled
 
@@ -344,8 +314,6 @@ _**Movable.**_ The grappler can drag or carry you when it moves, but every foot 
 
 _**Ending a Grapple.**_ A Grappled creature can use its action to make a Strength (Athletics) or Dexterity (Acrobatics) check against the grapple's escape DC, ending the condition on itself on a success. The condition also ends if the grappler has the Incapacitated condition or if the distance between the Grappled target and the grappler exceeds the grapple's range. In addition, the grappler can release the target at any time (no action required).
 
-
-
 ## Hastened
 
 #condition/new
@@ -358,8 +326,6 @@ _**Swift.**_ Your Speed is doubled.
 
 _**Evasive.**_ You have a +2 bonus to your Armor Class.
 
-
-
 ## Helpless
 
 #condition/new
@@ -367,8 +333,6 @@ _**Evasive.**_ You have a +2 bonus to your Armor Class.
 While you have the Helpless condition, you experience the following effect.
 
 _**Automatic Critical Hits.**_ An attack roll that hits you is a Critical Hit if the attacker is within 5 feet of you.
-
-
 
 ## Immobilized
 
@@ -379,8 +343,6 @@ While you have the Immobilized condition, you experience the following effects.
 _**Speed 0.**_ Your Speed is 0, and you can't benefit from any bonus to your Speed. If you're flying when you become Immobilized, you fall.
 
 _**Saving Throws and Checks Affected.**_ You have Disadvantage on Dexterity-based ability checks and Reflex saving throws.
-
-
 
 ## Incapacitated
 
@@ -396,8 +358,6 @@ _**Speechless.**_ You can't speak.
 
 _**Surprised.**_ You have the Surprised condition.
 
-
-
 ## Invisible
 
 #condition/existing
@@ -410,8 +370,6 @@ _**Concealed.**_ You aren't affected by any effect that requires its target to b
 
 _**Attacks Affected.**_ Attack rolls against you have Disadvantage, and your attack rolls have Advantage. If a creature can somehow see you, you don't gain this benefit against that creature.
 
-
-
 ## Maimed
 
 #condition/new
@@ -421,8 +379,6 @@ While you have the Maimed condition, you experience the following effects.
 _**Injured.**_ You have the Bleeding condition.
 
 _**Inhibited.**_ You have the Slowed condition.
-
-
 
 ## Paralyzed
 
@@ -439,8 +395,6 @@ _**Attacks Affected.**_ You have the Exposed condition.
 _**Automatic Critical Hits.**_ You have the Helpless condition.
 
 _**Saving Throws Affected.**_ You automatically fail Reflex saving throws.
-
-
 
 ## Petrified
 
@@ -462,8 +416,6 @@ _**Resist Damage.**_ You have Resistance to all damage.
 
 _**Poison Immunity.**_ You have Immunity to the Poisoned condition.
 
-
-
 ## Poisoned
 
 #condition/revised
@@ -474,8 +426,6 @@ _**Ability Checks and Attacks Affected.**_ You have Disadvantage on attack rolls
 
 _**Lingering Damage.**_ You take 1d4 Poison damage at the start of each of your turns.
 
-
-
 ## Prone
 
 #condition/existing
@@ -485,8 +435,6 @@ While you have the Prone condition, you experience the following effects.
 _**Restricted Movement.**_ Your only movement options are to crawl or to spend an amount of movement equal to half your Speed (round down) to right yourself and thereby end the condition. If your Speed is 0, you can't right yourself.
 
 _**Attacks Affected.**_ You have Disadvantage on attack rolls. An attack roll against you has Advantage if the attacker is within 5 feet of you. Otherwise, that attack roll has Disadvantage.
-
-
 
 ## Rattled
 
@@ -500,8 +448,6 @@ _**No Reactions.**_ You can't take Reactions.
 
 _**Dazed Immunity.**_ If you're immune to the Dazed condition, you're immune to the Rattled condition.
 
-
-
 ## Reckless
 
 #condition/new
@@ -511,8 +457,6 @@ While you have the Reckless condition, you experience the following effects.
 _**Dangerous.**_ You have Advantage on attack rolls.
 
 _**Foolhardy.**_ Attack rolls against you have Advantage.
-
-
 
 ## Restrained
 
@@ -525,8 +469,6 @@ _**Speed 0.**_ You have the Immobilized condition.
 _**Attacks Affected.**_ You have the Exposed condition, and your attack rolls have Disadvantage.
 
 _**Spellcasting Affected.**_ You can't cast spells that have a Somatic component.
-
-
 
 ## Shocked
 
@@ -542,8 +484,6 @@ _**Saving Throws and Checks Affected.**_ You have Disadvantage on Dexterity-base
 
 _**Fumbling.**_ You must take an action to draw, stow, or pick up an object.
 
-
-
 ## Silenced
 
 #condition/new
@@ -554,8 +494,6 @@ _**Speechless.**_ You can't speak.
 
 _**Spellcasting Affected.**_ Spells that require a Verbal component automatically fail.
 
-
-
 ## Slowed
 
 #condition/new
@@ -565,8 +503,6 @@ While you have the Slowed condition, you experience the following effects.
 _**Speed Halved.**_ Your Speed is halved.
 
 _**Lowered Defenses.**_ You take a -2 penalty to your Armor Class.
-
-
 
 ## Stupefied
 
@@ -582,8 +518,6 @@ _**Limited Casting.**_ You can take the Magic action only to cast a cantrip with
 
 _**Concentration Affected.**_ You have Disadvantage on Fortitude saving throws to maintain Concentration on spells.
 
-
-
 ## Surprised
 
 #condition/revised
@@ -593,8 +527,6 @@ While you have the Surprised condition, you experience the following effects.
 _**Caught Off Guard.**_ You have Disadvantage on Initiative rolls.
 
 _**Rattled.**_ You have the Rattled condition until the end of the first round of combat.
-
-
 
 ## Unconscious
 
@@ -614,8 +546,6 @@ _**Saving Throws Affected.**_ You automatically fail Reflex saving throws.
 
 _**Unaware.**_ You're unaware of your surroundings.
 
-
-
 ## Weakened
 
 #condition/new
@@ -623,8 +553,6 @@ _**Unaware.**_ You're unaware of your surroundings.
 While you have the Weakened condition, you experience the following effect.
 
 _**Feeble.**_ You deal half damage with all your attacks.
-
-
 
 ## Wet
 
@@ -642,8 +570,6 @@ _**Hypothermia.**_ When you would gain stacks of the Frostbite condition, you in
 
 _**Ending the Condition.**_ The condition ends when you dry off, such as through a spell like _prestidigitation_ or as part of a Short Rest or Long Rest.
 
-
-
 ## Withered
 
 #condition/new
@@ -657,8 +583,6 @@ _**Halved Healing.**_ Healing you receive is halved.
 _**Reduced Vitality.**_ Your Hit Point maximum is reduced by an amount equal to the Necrotic damage that inflicted this condition on you.
 
 _**Saving Throws Affected.**_ You have Disadvantage on Fortitude and Will saving throws.
-
-
 
 ## Wounded
 
@@ -708,7 +632,7 @@ Bob rolls a 14. His death save count is 2 successes, 2 fails. _Current Wounded c
 
 Somehow, Bob's teammates have not revived or healed him yet. He rolls a 13, marking his 3rd success on death saves, and becomes stable. He has 3 stacks of Wounded.
 
-**If Bob stays like this until combat ends.** Bob has his 3 stacks of Wounded converted to _exhaustion_[^1], resulting in:
+**If Bob stays like this until combat ends.** Bob has his 3 stacks of Wounded converted to _exhaustion_,[^1] resulting in:
 
 - 1 level of Fatigue
 - 1 level of Strife

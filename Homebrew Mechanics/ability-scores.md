@@ -1,3 +1,11 @@
+---
+title: Ability Scores
+created: 2026/05/11 at 22:59
+updated: 2026/06/12 at 20:08
+aliases:
+  - Ability Scores
+---
+
 # Ability Scores
 
 Each of a creature's abilities has a score, a number that defines the magnitude of that ability. An ability score is not just a measure of innate capabilities, but also encompasses a creature's training and competence in activities related to that ability.
@@ -48,7 +56,6 @@ Strength is one of the default abilities when making melee attacks in hand-to-ha
 
 Your Strength score determines how much weight you can bear. The following terms define what you can lift or carry.
 
-
 > [!attention] Disclaimer
 > Carrying capacity will eventually use a slot-based system, to streamline the tracking and bookkeeping while also keeping it and Strength relevant. For now, this can be safely ignored in favor of a “common-sense” tracking system.
 
@@ -66,7 +73,6 @@ Your Strength score determines how much weight you can bear. The following terms
 
 - - - 
 
-
 > [!embed-ability] Added Boons
 > Here is a list of boons that have been added to Strength based on your score:
 >  - **Lifting/Grappling:** With a +STR 4 modifier and more, you count one size Larger for the purpose of Lifting and Grappling.
@@ -76,7 +82,6 @@ Your Strength score determines how much weight you can bear. The following terms
 > - **Throwing:** When you take the Attack action to throw a weapon or improvised weapon, you gain extra Range equals to 5 times your STR modifiers (minimum 0). For example, with a STR +5 modifier, the range for the spear become 45/85 (instead of base 20/60).
 > 
 > - **Jumping:** When you make a Long Jump, you cover a number of feet up to 5 times your STR modifiers. When you make a High Jump, you leap into the air a number of feet equal to half your Long Jump distance (minimum of 5ft Long Jump / 1 ft High Jump).
-
 
 > [!tip] Advice
 > 
@@ -158,7 +163,6 @@ Intelligence is frequently used to recall details of the shared adventure world,
 ### Bonus Knowledge
 
 Having a higher Intelligence means having more knowledge than other characters. During character creation, as long as your Intelligence modifier is above 0, it contributes to the things you know. At character creation, you gain an extra boon based on your INT modifier, based on the table below:
-
 
 | Int Score (Mod) | Proficiency |
 |:---------------:| ----------- |
