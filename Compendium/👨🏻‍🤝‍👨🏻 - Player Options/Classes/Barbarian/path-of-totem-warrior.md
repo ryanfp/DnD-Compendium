@@ -100,7 +100,7 @@ At 6th level, you gain a magical benefit based on the totem animal of your choic
 
 - **Eagle**  
 
-    You gain the eyesight of an eagle. You can see up to 1 mile away with no difficulty, able to discern even fine details as though looking at something no more than 100 feet away from you. Additionally, dim light doesn't impose disadvantage on your Wisdom ([Perception](skills.md#Perception)) checks.  
+    You gain the eyesight of an eagle. You can see up to 1 mile away with no difficulty, able to discern even fine details as though looking at something no more than 100 feet away from you. Additionally, dim light doesn't impose disadvantage on your Wisdom ([Perception](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Perception)) checks.  
 
 - **Elk**  
     _Source: Sword Coast Adventurer's Guide p. 122_  
@@ -110,7 +110,7 @@ At 6th level, you gain a magical benefit based on the totem animal of your choic
 - **Tiger**  
     _Source: Sword Coast Adventurer's Guide p. 122_  
 
-    You gain proficiency in two skills from the following list: [Athletics](skills.md#Athletics), [Acrobatics](skills.md#Acrobatics), [Stealth](skills.md#Stealth), and [Survival](skills.md#Survival). The cat spirit hones your survival instincts.  
+    You gain proficiency in two skills from the following list: [Athletics](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Athletics), [Acrobatics](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Acrobatics), [Stealth](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Stealth), and [Survival](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Survival). The cat spirit hones your survival instincts.  
 
 - **Wolf**  
 

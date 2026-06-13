@@ -111,7 +111,7 @@ When you take this oath at 3rd level, you gain the following two Channel Divinit
 
 ### Emissary of Peace (Level 3)
 
-You can use your Channel Divinity to augment your presence with divine power. As a bonus action, you grant yourself a +5 bonus to Charisma ([Persuasion](skills.md#Persuasion)) checks for the next 10 minutes.
+You can use your Channel Divinity to augment your presence with divine power. As a bonus action, you grant yourself a +5 bonus to Charisma ([Persuasion](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Persuasion)) checks for the next 10 minutes.
 
 ### Rebuke the Violent (Level 3)
 

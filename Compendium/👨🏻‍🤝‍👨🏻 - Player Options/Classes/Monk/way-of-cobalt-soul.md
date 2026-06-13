@@ -73,15 +73,15 @@ If you wish to impose this effect on a creature without injuring it, you can att
 
 ### Mystical Erudition (Level 6)
 
-Also by 6th level, you have extensively studied the history and lore within the archives of the "Cobalt Soul". You learn one language of your choice, and you gain proficiency with one of the following skills of your choice: [Arcana](skills.md#Arcana), [History](skills.md#History), [Investigation](skills.md#Investigation), [Nature](skills.md#Nature), or [Religion](skills.md#Religion). If you already have proficiency in one of the listed skills, you can instead choose to double your proficiency bonus for any ability check you make that uses the chosen proficiency.
+Also by 6th level, you have extensively studied the history and lore within the archives of the "Cobalt Soul". You learn one language of your choice, and you gain proficiency with one of the following skills of your choice: [Arcana](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Arcana), [History](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#History), [Investigation](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Investigation), [Nature](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Nature), or [Religion](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Religion). If you already have proficiency in one of the listed skills, you can instead choose to double your proficiency bonus for any ability check you make that uses the chosen proficiency.
 
 ### Mystical Erudition (11th Level) (Level 11)
 
-You gain an additional language and an additional skill proficiency from the list: [Arcana](skills.md#Arcana), [History](skills.md#History), [Investigation](skills.md#Investigation), [Nature](skills.md#Nature), or [Religion](skills.md#Religion)—(or you can double the bonus of an existing proficiency from the list) at 11th level.
+You gain an additional language and an additional skill proficiency from the list: [Arcana](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Arcana), [History](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#History), [Investigation](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Investigation), [Nature](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Nature), or [Religion](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Religion)—(or you can double the bonus of an existing proficiency from the list) at 11th level.
 
 ### Mystical Erudition (17th Level) (Level 17)
 
-You gain an additional language and an additional skill proficiency from the list: [Arcana](skills.md#Arcana), [History](skills.md#History), [Investigation](skills.md#Investigation), [Nature](skills.md#Nature), or [Religion](skills.md#Religion)—(or you can double the bonus of an existing proficiency from the list) at 17th level.
+You gain an additional language and an additional skill proficiency from the list: [Arcana](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Arcana), [History](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#History), [Investigation](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Investigation), [Nature](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Nature), or [Religion](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Religion)—(or you can double the bonus of an existing proficiency from the list) at 17th level.
 
 ### Mind of Mercury (Level 11)
 

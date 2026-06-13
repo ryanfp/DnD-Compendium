@@ -87,7 +87,7 @@ You can use the shadow as an action. When you do so, it vanishes, magically tran
 
 While you're in the disguise, you gain access to all information that the humanoid would freely share with a casual acquaintance. Such information includes general details on its background and personal life, but doesn't include secrets. The information is enough that you can pass yourself off as the person by drawing on its memories.
 
-Another creature can see through this disguise by succeeding on a Wisdom ([Insight](skills.md#Insight)) check contested by your Charisma ([Deception](skills.md#Deception)) check. You gain a +5 bonus to your check.
+Another creature can see through this disguise by succeeding on a Wisdom ([Insight](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Insight)) check contested by your Charisma ([Deception](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Deception)) check. You gain a +5 bonus to your check.
 
 Once you capture a shadow with this feature, you can't capture another one with it until you finish a short or long rest.
 

@@ -89,7 +89,7 @@ The bear spirit grants you and your allies its might and endurance. Each creatur
 
 _Source: Xanathar's Guide to Everything_
 
-The hawk spirit is a consummate hunter, aiding you and your allies with its keen sight. When a creature makes an attack roll against a target in the spirit's aura, you can use your reaction to grant advantage to that attack roll. In addition, you and your allies have advantage on Wisdom ([Perception](skills.md#Perception)) checks while in the aura.
+The hawk spirit is a consummate hunter, aiding you and your allies with its keen sight. When a creature makes an attack roll against a target in the spirit's aura, you can use your reaction to grant advantage to that attack roll. In addition, you and your allies have advantage on Wisdom ([Perception](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Perception)) checks while in the aura.
 
 #### Unicorn Spirit
 

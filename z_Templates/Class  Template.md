@@ -72,7 +72,7 @@
 ## Starting Barbarian
 
 - **Saving Throw Proficiencies**: Constitution, Strength
-- **Skill Proficiencies**: *Choose 2:* [Animal Handling](skills.md#Animal%20Handling), [Athletics](skills.md#Athletics), [Intimidation](skills.md#Intimidation), [Nature](skills.md#Nature), [Perception](skills.md#Perception), or [Survival](skills.md#Survival)
+- **Skill Proficiencies**: *Choose 2:* [Animal Handling](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Animal%20Handling), [Athletics](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Athletics), [Intimidation](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Intimidation), [Nature](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Nature), [Perception](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Perception), or [Survival](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
 - **Armor Training**: [Light armor](item-types.md#Light%20Armor), [Medium armor](item-types.md#Medium%20Armor), and [Shields](/📚%20-%20Information%20Compendium/items/shield-xphb.md)
 
@@ -153,7 +153,7 @@ You gain a Barbarian subclass of your choice. A subclass is a specialization tha
 
 You gain proficiency in another skill of your choice from the skill list available to Barbarians at level 1.
 
-In addition, while your Rage is active, you can channel primal power when you attempt certain tasks; whenever you make an ability check using one of the following skills, you can make it as a Strength check even if it normally uses a different ability: [Acrobatics](skills.md#Acrobatics), [Intimidation](skills.md#Intimidation), [Perception](skills.md#Perception), [Stealth](skills.md#Stealth), or [Survival](skills.md#Survival). When you use this ability, your Strength represents primal power coursing through you, honing your agility, bearing, and senses.
+In addition, while your Rage is active, you can channel primal power when you attempt certain tasks; whenever you make an ability check using one of the following skills, you can make it as a Strength check even if it normally uses a different ability: [Acrobatics](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Acrobatics), [Intimidation](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Intimidation), [Perception](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Perception), [Stealth](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Stealth), or [Survival](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Survival). When you use this ability, your Strength represents primal power coursing through you, honing your agility, bearing, and senses.
 
 ### Feat (Level 4)
 

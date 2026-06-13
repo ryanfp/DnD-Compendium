@@ -65,7 +65,7 @@ While you aren't wearing armor or wielding a [Shield](/📚%20-%20Information%20
 
 ### Dance Virtuoso (Level 3)
 
-You have [Advantage](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/advantage-xphb.md) on any Charisma ([Performance](skills.md#Performance)) check you make that involves you dancing.
+You have [Advantage](/📚%20-%20Information%20Compendium/📝%20-%20Rules%20&%20Mechanics/variant-rules/advantage-xphb.md) on any Charisma ([Performance](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Performance)) check you make that involves you dancing.
 
 ### Unarmored Defense (Level 3)
 

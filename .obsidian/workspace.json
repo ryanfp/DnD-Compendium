@@ -77,17 +77,65 @@
             "id": "e0d80523e0746f37",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Homebrew Conditions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/Homebrew Conditions.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Homebrew Conditions\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":222,\"ch\":0},\"to\":{\"line\":223,\"ch\":0}},\"scroll\":194.99479166666666}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Immediate Goals for Play",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Immediate Goals for Play.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Immediate Goals for Play\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":112,\"ch\":17},\"to\":{\"line\":112,\"ch\":17}},\"scroll\":87.56670673076923}"
+                },
+                {
+                  "title": "resting",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/resting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"resting\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":305},\"to\":{\"line\":15,\"ch\":305}}}"
+                },
+                {
+                  "title": "proficiency-ranks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/proficiency-ranks.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"proficiency-ranks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":21},\"to\":{\"line\":7,\"ch\":21}}}"
+                },
+                {
+                  "title": "skills",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/skills.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"skills\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":2},\"to\":{\"line\":12,\"ch\":2}}}"
+                },
+                {
+                  "title": "desperate-actions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/desperate-actions.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"desperate-actions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "homebrew-conditions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/homebrew-conditions.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"homebrew-conditions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":8},\"to\":{\"line\":4,\"ch\":8}}}"
+                },
+                {
+                  "title": "exhaustion",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/exhaustion.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"exhaustion\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "downtime",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/downtime.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"downtime\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "desperate-actions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/desperate-actions.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"desperate-actions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":136},\"to\":{\"line\":20,\"ch\":136}},\"scroll\":14.036202438123384}"
                 },
                 {
                   "title": "degrees-of-success",
@@ -142,7 +190,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew Mechanics/desperate-actions.md",
+                "file": "Homebrew Mechanics/negotiations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -157,7 +205,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "desperate-actions"
+              "title": "negotiations"
             }
           }
         ],
@@ -336,11 +384,12 @@
               "title": "Immediate Goals for Play"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 256.5
   },
   "right": {
     "id": "fc1490c296b0c5ab",
@@ -635,21 +684,24 @@
   },
   "active": "e0d80523e0746f37",
   "lastOpenFiles": [
-    "Homebrew Mechanics/Homebrew Conditions.md",
+    "Immediate Goals for Play.md",
+    "Homebrew Mechanics/negotiations.md",
+    "ability-scores.md",
+    "swan-song.md",
+    "Homebrew Mechanics/resting.md",
+    "Homebrew Mechanics/proficiency-ranks.md",
+    "Homebrew Mechanics/skills.md",
     "Homebrew Mechanics/desperate-actions.md",
+    "Homebrew Mechanics/homebrew-conditions.md",
+    "Homebrew Mechanics/exhaustion.md",
+    "Homebrew Mechanics/downtime.md",
     "Homebrew Mechanics/degrees-of-success.md",
     "Homebrew Mechanics/death-dying-resurrection.md",
     "Homebrew Mechanics/character-creation.md",
     "Homebrew Mechanics/saving-throws.md",
     "Homebrew Mechanics/ability-scores.md",
-    "Immediate Goals for Play.md",
     "5e.tools Website Navigation.md",
     "saving throw mockup.md",
-    "Homebrew Mechanics/Resting.md",
-    "Homebrew Mechanics/Exhaustion.md",
-    "Homebrew Mechanics/Homebrew Skills & Changes.md",
-    "Homebrew Mechanics/Downtime.md",
-    "Homebrew Mechanics/Proficiency Ranks.md",
     "small checklist-delete.md",
     "z_img/image-150.png",
     "z_img/image-149.png",
@@ -660,9 +712,6 @@
     "Lex Pokemon Markets.md",
     "Regional Pokemon Variants.md",
     "z_Inbox/Website Navigation Map.md",
-    "Homebrew In-Progress/damage-type-interactions.md",
-    "Combat Enhancement Rolltables.md",
-    "Homebrew In-Progress/Homebrew Lists.md",
     "Homebrew Mechanics/Conditions",
     "Homebrew Mechanics",
     "map test.canvas",

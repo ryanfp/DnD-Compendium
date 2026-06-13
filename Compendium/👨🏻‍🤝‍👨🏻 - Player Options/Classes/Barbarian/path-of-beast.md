@@ -93,7 +93,7 @@ You can also alter your form to help you adapt to your surroundings. When you fi
 
 - You gain a swimming speed equal to your walking speed, and you can breathe underwater.  
 - You gain a climbing speed equal to your walking speed, and you can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
-- When you jump, you can make a Strength ([Athletics](skills.md#Athletics)) check and extend your jump by a number of feet equal to the check's total. You can make this special check only once per turn.  
+- When you jump, you can make a Strength ([Athletics](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Athletics)) check and extend your jump by a number of feet equal to the check's total. You can make this special check only once per turn.  
 
 ### Infectious Fury (Level 10)
 

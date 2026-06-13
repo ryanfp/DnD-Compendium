@@ -444,7 +444,7 @@ Wizards and Sorcerers require a collection of arcane tomes. Clerics and Paladi
 
 On a **success**, the character gains +1 progress towards their goal, and on a **Critical Success** the character gains +2 progress and retains the required materials for the slot (money and components). On a failure, no progress is made and the materials are consumed; while a **Critical Failure** also inflicts one level of Strife. The rare spell is finished when the final check succeeds.
 
-**Inventing New Spells.** In addition to crafting rare spells, it is possible to create entirely new spells. This process typically requires years of work and often represents the pinnacle of a spellcaster’s career, with DCs and specifics set by the GM using these rules as a guide. As with all rare spells, the GM must approve the result; when in doubt, model it on an existing rare spell. In general, to create a new spell entirely would have the same DCs, but **double** the cost and needed slots, as the [[Downtime#^rare-spell-crafting|Table:Rare Spell Crafting]].
+**Inventing New Spells.** In addition to crafting rare spells, it is possible to create entirely new spells. This process typically requires years of work and often represents the pinnacle of a spellcaster’s career, with DCs and specifics set by the GM using these rules as a guide. As with all rare spells, the GM must approve the result; when in doubt, model it on an existing rare spell. In general, to create a new spell entirely would have the same DCs, but **double** the cost and needed slots, as the [[downtime#^rare-spell-crafting|Table:Rare Spell Crafting]].
 
 - - -
 
@@ -632,7 +632,7 @@ On a success, the player gains +1 progress towards their goal, while a **Critica
 
 On a **success**, they gain +1 progress towards their goal; and on a **Critical Success** the character gains **+2** progress and retains the cost for the used slot. On a failure, no progress is made and the slot's cost is still spent. While a **Critical Failure** inflicts one level of Fatigue. When progress reaches the listed total, the modification is locked in and the Exploit becomes a **Signature Exploit**. It is added to the list of that character’s known Exploits. It does not count against their known total.
 
-**Inventing New Exploits.** In addition to refining existing exploits, it is possible to create entirely new ones. This typically represents a career-defining achievement for a martial adept, with DCs and specifics set by the GM using these rules as a guide. As with rare spells, to invent a new exploit entirely would have the same DCs, but **double** the cost and needed slots, as the [[Downtime#^signature-exploit-crafting|Table: Signature Exploit Crafting]].
+**Inventing New Exploits.** In addition to refining existing exploits, it is possible to create entirely new ones. This typically represents a career-defining achievement for a martial adept, with DCs and specifics set by the GM using these rules as a guide. As with rare spells, to invent a new exploit entirely would have the same DCs, but **double** the cost and needed slots, as the [[downtime#^signature-exploit-crafting|Table: Signature Exploit Crafting]].
 
 - - -
 

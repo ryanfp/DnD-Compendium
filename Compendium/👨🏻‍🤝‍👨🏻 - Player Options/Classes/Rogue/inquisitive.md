@@ -57,21 +57,21 @@ As an archetypal Inquisitive, you excel at rooting out secrets and unraveling my
 
 ### Ear for Deceit (Level 3)
 
-When you choose this archetype at 3rd level, you develop a talent for picking out lies. Whenever you make a Wisdom ([Insight](skills.md#Insight)) check to determine whether a creature is lying, treat a roll of 7 or lower on the `d20` as an 8.
+When you choose this archetype at 3rd level, you develop a talent for picking out lies. Whenever you make a Wisdom ([Insight](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Insight)) check to determine whether a creature is lying, treat a roll of 7 or lower on the `d20` as an 8.
 
 ### Eye for Detail (Level 3)
 
-Starting at 3rd level, you can use a bonus action to make a Wisdom ([Perception](skills.md#Perception)) check to spot a hidden creature or object or to make an Intelligence ([Investigation](skills.md#Investigation)) check to uncover or decipher clues.
+Starting at 3rd level, you can use a bonus action to make a Wisdom ([Perception](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Perception)) check to spot a hidden creature or object or to make an Intelligence ([Investigation](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Investigation)) check to uncover or decipher clues.
 
 ### Insightful Fighting (Level 3)
 
-At 3rd level, you gain the ability to decipher an opponent's tactics and develop a counter to them. As a bonus action, you can make a Wisdom ([Insight](skills.md#Insight)) check against a creature you can see that isn't [incapacitated](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated), contested by the target's Charisma ([Deception](skills.md#Deception)) check. If you succeed, you can use your Sneak Attack against that target even if you don't have advantage on the attack roll, but not if you have disadvantage on it.
+At 3rd level, you gain the ability to decipher an opponent's tactics and develop a counter to them. As a bonus action, you can make a Wisdom ([Insight](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Insight)) check against a creature you can see that isn't [incapacitated](Compendium/📝%20-%20Rules%20&%20Mechanics/conditions.md#Incapacitated), contested by the target's Charisma ([Deception](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Deception)) check. If you succeed, you can use your Sneak Attack against that target even if you don't have advantage on the attack roll, but not if you have disadvantage on it.
 
 This benefit lasts for 1 minute or until you successfully use this feature against a different target.
 
 ### Steady Eye (Level 9)
 
-Starting at 9th level, you have advantage on any Wisdom ([Perception](skills.md#Perception)) or Intelligence ([Investigation](skills.md#Investigation)) check if you move no more than half your speed on the same turn.
+Starting at 9th level, you have advantage on any Wisdom ([Perception](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Perception)) or Intelligence ([Investigation](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Investigation)) check if you move no more than half your speed on the same turn.
 
 ### Unerring Eye (Level 13)
 

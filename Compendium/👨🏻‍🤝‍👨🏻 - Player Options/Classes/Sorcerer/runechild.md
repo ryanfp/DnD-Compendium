@@ -105,7 +105,7 @@ In addition, when you are forced to make a Strength, Dexterity, or Constitution 
 
 Also at 6th level, you can reveal hidden glyphs and enchantments that surround you. As an action, you expend one charged rune to reveal hidden or invisible arcane traps, marks, runes, wards, sensors, or glyphs within 60 feet of you. They glow with dim light in a 5-foot radius for 1 minute.
 
-You have advantage on Intelligence ([Arcana](skills.md#Arcana)) checks to discern the nature of any magic revealed in this way for the duration. If the glyphs you reveal mean something in a language you can't read, you can understand them while they are glowing as if you knew that language.
+You have advantage on Intelligence ([Arcana](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Arcana)) checks to discern the nature of any magic revealed in this way for the duration. If the glyphs you reveal mean something in a language you can't read, you can understand them while they are glowing as if you knew that language.
 
 ### Glyph of Aegis (14th Level) (Level 14)
 

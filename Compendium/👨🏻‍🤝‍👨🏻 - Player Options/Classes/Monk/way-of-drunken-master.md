@@ -59,7 +59,7 @@ A drunken master often enjoys playing the fool to bring gladness to the desponde
 
 ### Bonus Proficiencies (Level 3)
 
-When you choose this tradition at 3rd level, you gain proficiency in the [Performance](skills.md#Performance) skill if you don't already have it. Your martial arts technique mixes combat training with the precision of a dancer and the antics of a jester. You also gain proficiency with [brewer's supplies](/📚%20-%20Information%20Compendium/items/brewers-supplies.md) if you don't already have it.
+When you choose this tradition at 3rd level, you gain proficiency in the [Performance](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Performance) skill if you don't already have it. Your martial arts technique mixes combat training with the precision of a dancer and the antics of a jester. You also gain proficiency with [brewer's supplies](/📚%20-%20Information%20Compendium/items/brewers-supplies.md) if you don't already have it.
 
 ### Drunken Technique (Level 3)
 

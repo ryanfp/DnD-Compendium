@@ -71,7 +71,7 @@ Once you use this feature, you can't use it again until you finish a short or lo
 
 ### Blighted Shape (Level 2)
 
-Also at 2nd level, your physical form begins to show effects of the corruption you wield, tracing blackened veins across your skin, producing gnarled, bony protrusions, or other eerie phenomena. You gain proficiency in the Charisma ([Intimidation](skills.md#Intimidation)) skill.
+Also at 2nd level, your physical form begins to show effects of the corruption you wield, tracing blackened veins across your skin, producing gnarled, bony protrusions, or other eerie phenomena. You gain proficiency in the Charisma ([Intimidation](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Intimidation)) skill.
 
 Additionally, while you are transformed by your Wild Shape feature, you gain a +2 bonus to AC as gnarled spines protrude from your body. Your beast form also gains [darkvision](senses.md#Darkvision) with a radius of 60 feet, or an additional 60 feet of [darkvision](senses.md#Darkvision) if it already has that sense.
 

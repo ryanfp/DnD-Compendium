@@ -1,12 +1,16 @@
 ---
-title: Homebrew Skill Additions & Changes
+title: Skill Additions & Changes
 created: 2026/05/11 at 00:18
 updated: 2026/06/12 at 20:08
 aliases:
   - Homebrew Skill Additions & Changes
+  - Homebrew Skills
+  - Skills
+  - Skill Changes
+  - Skill Additions
 ---
 
-# Homebrew Skill Additions & Changes
+# Skill Additions & Changes
 
 ## Skill Specialties
 

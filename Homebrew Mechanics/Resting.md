@@ -4,6 +4,11 @@ created: 2026/06/10 at 23:41
 updated: 2026/06/12 at 20:08
 aliases:
   - Resting Mechanics
+  - Resting
+  - Short Rest
+  - Long Rest
+  - Night's Rest
+  - Rally
 ---
 
 # Resting Mechanics
@@ -14,7 +19,7 @@ Rests are crucial for characters to regain their resources, including Hit Points
 
 Certain adventures thrive on the adrenaline of the chase or the ever-present fear of ambush. As it stands, the need to take a Long Rest can prove difficult during long dungeon crawls, while the reduced benefits of a Short Rest may not offer much of a power increase. This lends itself to a nice tone of personal stress and risk versus reward. However, sometimes a rest is necessary for the party to continue, even if the current rush of the story's clock won't allow for the time that a Short Rest requires.
 
-A Rally involves one or more characters spending 10 minutes to steel their resolve in the face of coming peril, letting their adrenaline fuel the need to push on. A character who undertakes a Rally gains the benefit of a Short Rest, but any hit points restored by spending Hit Dice are halved. Moreover, the character gains one level of [[Homebrew Mechanics/Exhaustion|Exhaustion]].
+A Rally involves one or more characters spending 10 minutes to steel their resolve in the face of coming peril, letting their adrenaline fuel the need to push on. A character who undertakes a Rally gains the benefit of a Short Rest, but any hit points restored by spending Hit Dice are halved. Moreover, the character gains one level of [[Homebrew Mechanics/exhaustion|exhaustion]].
 
 Once a character takes a Rally, they must finish a Long Rest before they can do so again.
 
@@ -97,11 +102,11 @@ To start a Long Rest, you must have at least 1 Hit Point and spend at least 3 Su
 
 ***Exhaustion Recovered.*** If you have any levels of Fatigue or Strife, their levels decrease by 1 for every 24 hours spent as part of the Long Rest. You can recover more levels of Fatigue or Strife by spending both Downtime Slots in a day on the Recuperate activity.
 
-***Wounds Recovered.*** If you have one or more levels of the [[Homebrew Conditions#Wounded|Wounded]] condition, you lose all of them when finishing the rest.
+***Wounds Recovered.*** If you have one or more levels of the [[homebrew-conditions#Wounded|Wounded]] condition, you lose all of them when finishing the rest.
 
 ***Special Feature.*** Some features are recharged by a Long Rest. If you have such a feature, it recharges in the way specified in its description.
 
-_**Downtime Slots.**_ A Long Rest provides 2 Downtime Slots per day for each character to use to their advantage—per day—to a total of 6. A character can choose to spend the slots performing any [[Downtime|Downtime Activity]], and it will not interrupt or diminish their Long Rest. 
+_**Downtime Slots.**_ A Long Rest provides 2 Downtime Slots per day for each character to use to their advantage—per day—to a total of 6. A character can choose to spend the slots performing any [[downtime|Downtime Activity]], and it will not interrupt or diminish their Long Rest. 
 
 ### Interrupting the Long Rest
 

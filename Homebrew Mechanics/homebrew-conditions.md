@@ -4,6 +4,7 @@ created: 2026/05/10 at 01:04
 updated: 2026/06/12 at 20:08
 aliases:
   - Conditions
+  - Homebrew Conditions
 tags:
   - condition/existing
   - condition/new

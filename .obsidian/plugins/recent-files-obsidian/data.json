@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "negotiations",
+      "path": "Homebrew Mechanics/negotiations.md"
+    },
+    {
+      "basename": "Immediate Goals for Play",
+      "path": "Immediate Goals for Play.md"
+    },
+    {
+      "basename": "ability-scores",
+      "path": "ability-scores.md"
+    },
+    {
+      "basename": "swan-song",
+      "path": "swan-song.md"
+    },
+    {
+      "basename": "resting",
+      "path": "Homebrew Mechanics/resting.md"
+    },
+    {
+      "basename": "proficiency-ranks",
+      "path": "Homebrew Mechanics/proficiency-ranks.md"
+    },
+    {
+      "basename": "skills",
+      "path": "Homebrew Mechanics/skills.md"
+    },
+    {
       "basename": "desperate-actions",
       "path": "Homebrew Mechanics/desperate-actions.md"
     },
     {
-      "basename": "Homebrew Conditions",
-      "path": "Homebrew Mechanics/Homebrew Conditions.md"
+      "basename": "homebrew-conditions",
+      "path": "Homebrew Mechanics/homebrew-conditions.md"
+    },
+    {
+      "basename": "exhaustion",
+      "path": "Homebrew Mechanics/exhaustion.md"
+    },
+    {
+      "basename": "downtime",
+      "path": "Homebrew Mechanics/downtime.md"
     },
     {
       "basename": "degrees-of-success",
@@ -29,36 +65,12 @@
       "path": "Homebrew Mechanics/ability-scores.md"
     },
     {
-      "basename": "Immediate Goals for Play",
-      "path": "Immediate Goals for Play.md"
-    },
-    {
       "basename": "5e.tools Website Navigation",
       "path": "5e.tools Website Navigation.md"
     },
     {
       "basename": "saving throw mockup",
       "path": "saving throw mockup.md"
-    },
-    {
-      "basename": "Resting",
-      "path": "Homebrew Mechanics/Resting.md"
-    },
-    {
-      "basename": "Exhaustion",
-      "path": "Homebrew Mechanics/Exhaustion.md"
-    },
-    {
-      "basename": "Homebrew Skills & Changes",
-      "path": "Homebrew Mechanics/Homebrew Skills & Changes.md"
-    },
-    {
-      "basename": "Downtime",
-      "path": "Homebrew Mechanics/Downtime.md"
-    },
-    {
-      "basename": "Proficiency Ranks",
-      "path": "Homebrew Mechanics/Proficiency Ranks.md"
     },
     {
       "basename": "small checklist-delete",
@@ -187,18 +199,6 @@
     {
       "basename": "Dusknoir 2026-03-09 21.06.51.excalidraw",
       "path": "z_img/Dusknoir 2026-03-09 21.06.51.excalidraw.md"
-    },
-    {
-      "basename": "Class Building Index",
-      "path": "Homebrew In-Progress/Classes/Class Building Index.md"
-    },
-    {
-      "basename": "Guide to Homebrew Class Building",
-      "path": "Homebrew In-Progress/Guide to Homebrew Class Building.md"
-    },
-    {
-      "basename": "artificer",
-      "path": "Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Artificer/artificer.md"
     }
   ],
   "omittedPaths": [],

@@ -61,7 +61,7 @@ Starting at 3rd level, you are difficult to pin down during a fight. You can mov
 
 ### Survivalist (Level 3)
 
-When you choose this archetype at 3rd level, you gain proficiency in the [Nature](skills.md#Nature) and [Survival](skills.md#Survival) skills if you don't already have it. Your proficiency bonus is doubled for any ability check you make that uses either of those proficiencies.
+When you choose this archetype at 3rd level, you gain proficiency in the [Nature](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Nature) and [Survival](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Survival) skills if you don't already have it. Your proficiency bonus is doubled for any ability check you make that uses either of those proficiencies.
 
 ### Superior Mobility (Level 9)
 

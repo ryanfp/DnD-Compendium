@@ -117,7 +117,7 @@ As a bonus action, you channel the powerful might of the waves to bolster your a
 > 
 > Fog and other effects can obscure vision for you, your enemies, and your allies. When you heavily obscure an area using your Marine Layer Channel Divinity option, all creatures within the area have their vision completely blocked, and creatures outside the area can't see in. Creatures that can't see automatically fail ability checks that require sight. Also, attack rolls against creatures that can't see have advantage, and their own attack rolls have disadvantage.
 > 
-> Creatures in a lightly obscured area have disadvantage only on Wisdom ([Perception](skills.md#Perception)) checks that rely on sight. The rules for when your vision is obscured are described completely in the fifth edition core rules.
+> Creatures in a lightly obscured area have disadvantage only on Wisdom ([Perception](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Perception)) checks that rely on sight. The rules for when your vision is obscured are described completely in the fifth edition core rules.
 ^rules-tip-visibility
 
 ### Aura of Liberation (Level 7)
@@ -136,7 +136,7 @@ When you reach 18th level in this class, the aura affects creatures within 30 fe
 
 At 20th level, you learn to channel the spirits of historic sea captains to briefly become a paragon of heroic adventure. As an action, you embrace these spirits of the sea to gain the following benefits for 1 minute:
 
-- You have advantage on Strength ([Athletics](skills.md#Athletics)) checks and you gain a climbing speed equal to your walking speed. If you already have a climbing speed, it is doubled.  
+- You have advantage on Strength ([Athletics](Compendium/📝%20-%20Rules%20&%20Mechanics/skills.md#Athletics)) checks and you gain a climbing speed equal to your walking speed. If you already have a climbing speed, it is doubled.  
 - If you are within 5 feet of a creature and no other creatures are within 5 feet of you, you have advantage on attack rolls against that creature.  
 - You can take the [Dash](actions.md#Dash) or [Disengage](actions.md#Disengage) action as a bonus action.  
 - You have advantage on Dexterity checks and Dexterity saving throws against effects you can see.  
