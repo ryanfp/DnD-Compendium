@@ -349,8 +349,42 @@
               "icon": "lucide-file",
               "title": "negotiations"
             }
+          },
+          {
+            "id": "a0935bc001b0c447",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "npc-disposition.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "npc-disposition"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -822,10 +856,11 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "9c74f951261e3793",
+  "active": "a0935bc001b0c447",
   "lastOpenFiles": [
-    "Immediate Goals for Play.md",
+    "npc-disposition.md",
     "Homebrew Mechanics/negotiations.md",
+    "Immediate Goals for Play.md",
     "ability-scores.md",
     "swan-song.md",
     "Homebrew Mechanics/resting.md",
@@ -851,7 +886,6 @@
     "Untitled.md",
     "Lex Pokemon Markets.md",
     "Regional Pokemon Variants.md",
-    "z_Inbox/Website Navigation Map.md",
     "Homebrew Mechanics/Conditions",
     "Homebrew Mechanics",
     "map test.canvas",

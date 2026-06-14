@@ -16,7 +16,7 @@ Think of negotiation as something like learning a new system for combat, explora
 
 Negotiation is a framework for important roleplaying encounters in which the heroes want to convince an NPC to take a particular course of action, such as lending the heroes an artifact or pardoning a prisoner. This framework tracks the NPC's interest in the hero's arguments and their patience, so that the GM knows what the NPC is willing to offer and when it's time to end the scene. This framework shouldn't replace roleplaying (though it certainly can if your group doesn't enjoy that part of RPGs). It's here to help players and GMs understand the structure of a give and take conversation and give some rules that can make a high-stakes conversation even more dramatic!
 
-### When to Negotiate[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#when-to-negotiate "Permanent link")
+### When to Negotiate
 
 In order for a negotiation to occur, an NPC must have an interest in negotiating with the heroes—but must also have a reason to not simply jump on board with whatever the heroes propose. Negotiations happen only when an NPC has that internal tension between interest and reluctance. For example, if the characters ask a king to send his army into a neighboring kingdom to battle a demon incursion, the king needs to be conflicted. He wants to stop the incursion, but he doesn't want to risk the lives of his soldiers defending a foreign nation while leaving their own people unprotected. If the heroes want the help of the king's army, they need to negotiate.
 
@@ -26,7 +26,7 @@ By contrast, negotiations typically involve all the heroes interacting with one 
 
 To negotiate successfully, the heroes must make persuasive arguments to convince NPCs to do what they want. "Do it or we kill you" is a threat that might well accompany a single Intimidation roll, but it's not a negotiating tactic.
 
-#### Limits of Negotiation[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#limits-of-negotiation "Permanent link")
+#### Limits of Negotiation
 
 Some players might instinctively feel that the negotiation rules should give them something akin to mind-control superpowers. They're not used to imagining NPCs complexly, and might attempt to negotiate in situations where negotiation is either completely unreasonable or literally impossible. No matter how persuasive or well-spoken a hero is, there's no argument to be made that might convince the vile Lord to give up his pursuit of evil and become a gardener. A negotiation typically can't convince a queen to hand over her crown to the heroes and name them the new rulers of the land, or inspire a dragon to fork over every piece of treasure in their hoard. Negotiations only work when the heroes ask for something from an NPC that the NPC is willing to seriously consider giving them.
 
@@ -36,7 +36,7 @@ Some players might instinctively feel that the negotiation rules should give the
 
 If some players want to use the negotiation system as a means to an end by having their characters say, "Just do what we tell you, or else!", you can remind them that that's not how most people, including NPCs, work. Any heroes who open with that attitude are likely to lose the negotiation before it begins.
 
-#### The Threat of Violence[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#the-threat-of-violence "Permanent link")
+#### The Threat of Violence
 
 In the real world, negotiations rarely come with a threat of immediate violence. Ambassadors don't usually get into fistfights. But this is a fantasy RPG, featuring heroes who are armed to the teeth and able to alter reality with their minds. The threat of violence is already implied. Everyone involved knows that the characters could draw steel at any moment.
 
@@ -44,56 +44,58 @@ The GM typically assumes that the underlying potential for events to turn violen
 
 Negotiation is about persuading someone to help you willingly because you've convinced them that meeting your objectives is a good idea. Working with you is wise or logical, or might make them look good. A hero can absolutely threaten someone with violence and force them to do what they want, but this is an incredibly temporary state. A threatened NPC isn't willingly doing what they've been asked. They're doing it on threat of violence, and will comply only while that threat is evident—after which, they'll likely go back to their previous behavior as soon as they think they can get away with it.
 
-### Negotiation Stats[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#negotiation-stats "Permanent link")
+### Negotiation Stats
 
 During negotiation, the GM assigns NPCs four temporary statistics and features—interest, patience, motivations, and pitfalls. The heroes can strike a favorable deal if they maximize an NPC's interest by making arguments that invoke the NPC's motivations and avoid their pitfalls—but they have to do all that before the NPC's patience wears out.
 
-#### Interest[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#interest "Permanent link")
+#### Interest
 
 An NPC's interest represents how eager they are to make a deal with the heroes. Interest is graded on a scale of 0 (no interest) to 5 (the most possible interest). When a negotiation begins, an NPC's interest is between 1 and 4. If the NPC's interest goes to 5, they make a final offer and the negotiation ends. If the NPC's interest drops to 0, they end a negotiation without offering the heroes any deal.
 
 Interest increases and decreases during the negotiation based on the arguments the heroes make.
 
-#### Patience[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#patience "Permanent link")
+#### Patience
 
 An NPC's patience represents how much time and effort they're willing to devote to a negotiation. Patience is graded on a scale of 0 to 5, with each NPC starting a negotiation with their patience higher than 0. If an NPC's patience reaches 0, the NPC makes a final offer and negotiation ends.
 
 Patience can decrease each time the heroes make an argument during a negotiation.
 
-##### Language and Patience[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#language-and-patience "Permanent link")
+##### Language and Patience
 
 If one or more heroes negotiating with an NPC can communicate in the NPC's native language (not including Common), then the NPC's patience increases by 1 at the start of the negotiation (to a maximum of 5). If three or more heroes negotiating with an NPC can communicate in the NPC's native language, the NPC's patience increases by 2 (to a maximum of 5).
 
-#### Motivations[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#motivations "Permanent link")
+#### Motivations
 
-Each NPC has at least two motivations the heroes can appeal to with their arguments. Arguments that appeal to an NPC's motivation require an easier power roll to increase the NPC's interest. Arguments that don't appeal to a motivation require a more difficult power roll. See [Making Arguments](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#page-301-0) below for more information.
+Each NPC has at least two motivations the heroes can appeal to with their arguments. Arguments that appeal to an NPC's motivation require an easier power roll to increase the NPC's interest. Arguments that don't appeal to a motivation require a more difficult power roll.
 
 Each motivation can be successfully appealed to only once during a negotiation. To successfully appeal to a motivation, the heroes must use the motivation in an argument without mentioning one of the NPC's pitfalls or being caught in a lie.
 
-#### Pitfalls[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#pitfalls "Permanent link")
+#### Pitfalls
 
-Pitfalls are motivations that spark ire, discomfort, shame, fear, or some other negative response in an NPC. Using a pitfall in an argument causes an NPC's interest and patience to wane. Each NPC has at least one pitfall, and many have at least two.
+Pitfalls are values that spark ire, discomfort, shame, fear, or some other negative response in an NPC. Using a pitfall in an argument causes an NPC's interest and patience to wane. Each NPC has at least one pitfall, and many have at least two.
 
 Pitfalls and motivations are two sides of the same concept. They're presented below as a single list, because what might be a motivation for one NPC is a pitfall for another. Whenever the heroes make an argument, they risk stumbling into one of an NPC's pitfalls unless they do their research beforehand or read the NPC well.
 
-#### List of Motivations and Pitfalls[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#list-of-motivations-and-pitfalls "Permanent link")
+#### List of Values
 
 An NPC can have any of the following twelve motivations or pitfalls.
 
-##### Benevolence[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#benevolence "Permanent link")
+##### Benevolence
 
-An NPC with the benevolence motivation believes in sharing what they have with others. However, an NPC involved in a negotiation must be limited in their benevolence, so that they don't just give the heroes what they need.
+
+
+**Motivation:** An NPC with the benevolence motivation believes in sharing what they have with others. However, an NPC involved in a negotiation must be limited in their benevolence, so that they don't just give the heroes what they need.
 
 Sometimes an NPC's benevolence might extend only to a specific group of people, so that a benevolent pirate captain might share their plunder freely with the rest of their crew—but they're still plundering! Other times, an NPC's charity might be limited by the fact that they don't have much to give. A benevolent NPC might be hesitant to give the heroes help because they believe their limited resources are more necessary or could do more good somewhere else.
 
-An NPC with the benevolence pitfall has a cynical view of the world, believing that no creature has a right to anything just by being alive. The idea of helping others because it's the right thing to do is a preposterous, immature, or inexperienced idea to be laughed off or snuffed out.
+ An NPC with the benevolence pitfall has a cynical view of the world, believing that no creature has a right to anything just by being alive. The idea of helping others because it's the right thing to do is a preposterous, immature, or inexperienced idea to be laughed off or snuffed out.
 
 Arguments that appeal to a benevolence motivation contend that if the NPC strikes a deal with the heroes, the people the NPC cares about will benefit from the deal. Example arguments include the following:
 
 - "If you lend us the Sword of Agathor, we can make Capital safer for your guild by using it to lay your enemies low."
 - "If you can teleport us into the dragon's cave, we'll give you half the wyrm's hoard once we cut off the creature's head. That could benefit generations of students at your academy!"
 
-##### Discovery[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#discovery "Permanent link")
+##### Discovery
 
 An NPC with the discovery motivation wants to learn new lore, explore forgotten places, break ground with new experiments, or uncover artifacts lost to time. Their curiosity and quest for knowledge might be driven by a specific goal, such as seeking the cure for a rare disease or a portal to a specific far-off world. Or they could be a naturally inquisitive person who simply wants to understand all they can about the timescape.
 
@@ -104,7 +106,7 @@ Arguments that appeal to a discovery motivation contend that striking a deal wit
 - "Allow us to use your cipher to translate the only copy of the _Codex Mortis_, and then we'll let you read the book when we're done."
 - "We know the journey to Decant Isle is dangerous, but we're going into uncharted territory. We thought that your crew of sailors might want to be among the few mortals to lay eyes on the place."
 
-##### Freedom[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#freedom "Permanent link")
+##### Freedom
 
 An NPC with the freedom motivation wants no authority above them and desires no authority over others. They might already have personal freedom and wish to maintain that status quo, or they might wish to liberate themself or others from someone else's authority.
 
@@ -115,7 +117,7 @@ Arguments that appeal to a freedom motivation contend that by helping the heroes
 - "I know you want to have the queen's authority revoked forever. She has no heirs. Give us the key to her study so that we can prove her corruption and give you a chance to topple the monarchy henceforth."
 - "If you promise to give us ten vials of Assassin's Kiss, we'll see to it that the baron's prison is emptied."
 
-##### Greed[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#greed "Permanent link")
+##### Greed
 
 An NPC with the greed motivation desires wealth and resources above almost anything else. Sometimes these NPCs are misers, much like wyrms who hoard coins and gems but never spend or donate them. Others flaunt their wealth, viewing it as a sign of their station in life.
 
@@ -128,7 +130,7 @@ Arguments that appeal to a greed motivation contend that helping the heroes will
 - "You should help us battle the overmind. Xorranox's wealth is legendary, and we'll see to it that you get your fair share."
 - "Give us a week to do research among your private collection of books, and we'll give you another ten unique tomes we found in an ancient star elf sanctuary."
 
-##### Higher Authority[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#higher-authority "Permanent link")
+##### Higher Authority
 
 An NPC with the higher authority motivation remains staunchly loyal to a person or force they perceive as more important than themself. This higher authority could be an organization, a deity or being of great power, a formal leader such as a noble or monarch, a mystical presence or force the NPC might not fully understand, or a person the NPC sees as an informal authority figure (an older sibling, a personal hero, and so forth).
 
@@ -139,7 +141,7 @@ Arguments that appeal to a higher authority motivation contend that it's in the 
 - "All great creations honor your god, Malus. If you teach me to forge the Hammer of Azdul, that will be a great honor to bestow upon your god."
 - "You know what Jarith the Bold would do? He'd guide us through the vast wasteland of the desert to reach the tower. Will you be our Jarith?"
 
-##### Justice[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#justice "Permanent link")
+##### Justice
 
 An NPC with the justice motivation wants to see the righteous rewarded and the wicked punished, however subjective their sense of who or what is good and evil. A priest who venerates a god of nature might believe that all who protect plants and animals are righteous, and that those who harvest natural resources as miners and lumberjacks do must die. Having a justice motivation doesn't necessarily make an NPC kind or charitable.
 
@@ -150,7 +152,7 @@ Arguments that appeal to a justice motivation position the heroes on the good si
 - "You despise those who steal from nature. Allow us peacefully into your wode so we may bottle the Blessed Spring's water. We're going to use it to stop an army from felling every tree and tearing up the earth wherever they go."
 - "You think nobles are lazy barons who get rich off the backs of peasants. We want to dethrone Lord Saxton. Lend us your crew of thieves, and we'll make sure that when Saxton falls, the people can choose their own leaders."
 
-##### Legacy[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#legacy "Permanent link")
+##### Legacy
 
 An NPC with the legacy motivation desires fame while alive and acclaim that lasts long after their death. They hope others will know and remember their deeds, great or terrible. Some of these NPCs might even seek immortality through deification or undeath, so that the eventual shedding of their mortal coil doesn't prevent them from continuing to make history.
 
@@ -161,8 +163,7 @@ Arguments that appeal to a legacy motivation contend that striking a deal with t
 - "If you give us the vizier's itinerary, I'll compose a song about your bravery in defying him, then sing it in every tavern from here to Ix!"
 - "Yes, losing the battle is a possibility. If we do, the gnolls will still come for you eventually. But if we crush our foes, imagine the honors, the histories, the poems, the statues—all of it created for you because your siege engines turned the tide."
 
-##### Peace[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#peace "Permanent link")
-
+##### Peace
 An NPC with the peace motivation wants calm in their life. Under typical circumstances, they want to be left alone to run their business, farm, kingdom, criminal empire, or whatever small slice of the timescape is theirs. Some such NPCs don't have peace and need help obtaining it, while others want their peaceful status quo to be maintained.
 
 An NPC with the peace pitfall hates being bored. They want excitement, drama, and danger in their life. For them, there's nothing worse than the status quo.
@@ -172,7 +173,7 @@ Arguments that appeal to a peace motivation contend that helping the heroes will
 - "You have a good thing going here. A little burgling of nobles, some alcohol smuggling, and some illegal gambling dens. No one's getting hurt, but Constable Cofax is closing in on you. We could redirect him toward some real danger to the community, if you can help us set a trap for the Watchmaker."
 - "I know you don't sell to outsiders, but we need that helm. I'm going to use it to turn back a group of hobgoblins marching this way. They're not going to be as friendly as us."
 
-##### Power[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#power "Permanent link")
+##### Power
 
 An NPC with the power motivation covets the authority of others. They want to increase their influence, no matter how great it already is, and maintain their domain. They might seek power through conquering others, the collection of artifacts, or through the infusion of supernatural rituals—though why choose one method when all three together achieve the best results? Some such NPCs are world-traversing tyrants, but the petty administrators of village organizations and shrines can covet power just as hungrily.
 
@@ -183,7 +184,7 @@ Arguments that appeal to a power motivation contend that working with the heroes
 - "Everyone knows you should be running the watch, Percy. The old lady's retiring, and our friend Baron Kuglar is naming the replacement. Now, you let us into the restricted armory, and we'll put in a good word."
 - "We know he's your brother, Your Highness, but he's older—first in line for the throne. If you help us prove he's in a cult, you become the favorite son."
 
-##### Protection[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#protection "Permanent link")
+##### Protection
 
 An NPC with the protection motivation has land, people, information, items, or an organization they want protected above all else. Keeping
 
@@ -196,7 +197,7 @@ Arguments that appeal to a protection motivation contend that helping the heroes
 - "Dead soldiers grow the necromancer's ranks. Total annihilation is the only way to defeat her. March with us now, while her army is small, and we'll defeat her. Or you could gamble that someone else tries, fails, and suddenly she's at the border, ready to overrun your kingdom with an army tenfold larger than what it is now."
 - "I understand your grandchild is hell-bent on joining the service. I happen to have a magic suit of armor that could help them ward off the blows of monsters and ruffians. I'd be happy to give it to you, in exchange for borrowing your griffons for a few days. After all, I won't need the armor if I can simply fly over the marsh's monsters."
 
-##### Revelry[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#revelry "Permanent link")
+##### Revelry
 
 An NPC with the revelry motivation just wants to have fun. They enjoy socializing at parties, thrill-seeking, or indulging in other hedonistic activities. Getting pleasure out of life while spending time with people they like is paramount to such NPCs.
 
@@ -207,7 +208,7 @@ Arguments that appeal to the revelry motivation contend that striking a deal wit
 - "How would you like to have the most exclusive songs for your exclusive birthday celebration next week? I'll write you a whole original set list, free of charge… provided you extend me and my band here an invitation."
 - "I know you don't want to forge five Chronokinesis Crowns. How's this instead? You do that for me, and I'll give you the fourteen kegs of whiskey we found in a steel-dwarf ruin. This stuff is old, unique, and forget-your-first-name potent. You can crack a keg with your friends to celebrate a job well done."
 
-##### Vengeance[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#vengeance "Permanent link")
+##### Vengeance
 
 An NPC with the vengeance motivation wants to harm another who has hurt them. Their desire for revenge could be proportional to the harm that was inflicted upon them, or they might wish to pay back their pain with interest. In some cases, a desire for vengeance can be satisfied only by the death of another, but an NPC might wish to pay back their own suffering with embarrassment, career failure, or some other less permanent pain.
 
@@ -222,25 +223,25 @@ Arguments that appeal to the vengeance motivation contend that the NPC can gain 
 > 
 > Just like the heroes, NPCs in negotiations are complex individuals who can change over time. It's possible that the heroes might have to negotiate with the same NPC for several different favors during the course of a campaign, over which time the NPC's motivations and pitfalls might change. If the heroes turn a bandit captain with the greed and power motivations into a temporary ally, that criminal might learn from them, changing their ways to rob only those who exploit the poor and giving those earnings to people in need. The next time the heroes negotiate with the bandit captain, they have the benevolence and protection motivations.
 
-### Opening a Negotiation[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#opening-a-negotiation "Permanent link")
+### Opening a Negotiation
 
 A negotiation begins when the heroes ask something of an NPC and the GM deems that the circumstances require a negotiation. Those circumstances always involve the heroes requiring assistance that could change the course of the adventure, and having the NPC conflicted about working with them. Unlike combat, which can be thrust upon the heroes by violent allies or unexpected circumstances, the heroes must be the ones to willingly start a negotiation. Characters must want something from an NPC. Otherwise they have no reason to negotiate!
 
 The GM can decide that an NPC who has something the players want could show up at their door and ask if the heroes want to negotiate. But it's always okay for the characters to say, "Not interested," and refuse to do so.
 
-#### Stop Combat, Start Negotiation[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#stop-combat-start-negotiation "Permanent link")
+#### Stop Combat, Start Negotiation
 
 If a hero wants to halt hostilities to negotiate with the other side, they can use a maneuver to make a hard Presence test (or another applicable test, as the GM determines) in an attempt to stop combat and start a negotiation. The test has a chance of success only if the GM believes the other side is willing and capable of negotiating. A foe who has the upper hand, who hates the heroes beyond measure, or who lacks sapience is unlikely to negotiate.
 
-#### Starting Stats[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#starting-stats "Permanent link")
+#### Starting Stats
 
 An NPC's starting negotiation stats depend on their attitude toward the heroes, as shown on the Negotiation Starting Attitudes table, and can be adjusted by the GM as they see fit. A naturally irascible NPC might have lower patience, while a hostile NPC with a greater-than-expected stake in the negotiation topic might have a higher-than-typical interest.
 
-### Uncovering Motivations[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#uncovering-motivations "Permanent link")
+### Uncovering Motivations
 
 If a hero wishes to figure out an NPC's motivations, they can begin by simply asking, "What do you want out of this deal?" In response, the
 
-###### Negotiation Starting Attitudes Table[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#negotiation-starting-attitudes-table "Permanent link")
+###### Negotiation Starting Attitudes Table
 
 |Attitude|Description|Interest|Patience|
 |---|---|---|---|

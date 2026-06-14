@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "npc-disposition",
+      "path": "npc-disposition.md"
+    },
+    {
       "basename": "negotiations",
       "path": "Homebrew Mechanics/negotiations.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "alternate-barbarian-llab",
       "path": "Homebrew In-Progress/Classes/References/alternate-barbarian-llab.md"
-    },
-    {
-      "basename": "Dusknoir 2026-03-09 21.06.51.excalidraw",
-      "path": "z_img/Dusknoir 2026-03-09 21.06.51.excalidraw.md"
     }
   ],
   "omittedPaths": [],
