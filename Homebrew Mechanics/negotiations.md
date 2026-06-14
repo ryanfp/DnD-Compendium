@@ -12,55 +12,57 @@ aliases:
 
 Negotiation gives the heroes a chance to get what they want without combat… or at least without further combat! You might negotiate with a king to obtain military support against an incursion of demons in a neighboring country. You could enter into talks with a bandit leader to convince her to stop attacking merchant caravans on the road, and instead target nobles loyal to a tyrant. You might attempt to convince an archmage to allow you access to their secret library so you can research the location of a dragon-slaying axe. Negotiation covers all these scenarios and more.
 
-Think of negotiation as something like learning a new system for combat, exploration, or investigation in an RPG. This set of rules provides a framework for roleplaying. The negotiation rules are meant to be read by players and Directors, so that both understand the rules of negotiation. If you've never played a game with a dedicated negotiation system like this, you might need to run it once or twice before you master it, similar to learning any new subsystem in an RPG. If a player hasn't read these rules, the Director and other players who have can explain them to that player during their first negotiation.
+Think of negotiation as something like learning a new system for combat, exploration, or investigation in an RPG. This set of rules provides a framework for roleplaying. The negotiation rules are meant to be read by players and GMs, so that both understand the rules of negotiation. If you've never played a game with a dedicated negotiation system like this, you might need to run it once or twice before you master it, similar to learning any new subsystem in an RPG. If a player hasn't read these rules, the GM and other players who have can explain them to that player during their first negotiation.
 
-Negotiation is a framework for important roleplaying encounters in which the heroes want to convince an NPC to take a particular course of action, such as lending the heroes an artifact or pardoning a prisoner. This framework tracks the NPC's interest in the hero's arguments and their patience, so that the Director know what the NPC is willing to offer and when it's time to end the scene. This framework shouldn't replace roleplaying (though it certainly can if your group doesn't enjoy that part of RPGs). It's here to help players and Directors understand the structure of a give and take conversation and give some rules that can make a high-stakes conversation even more dramatic!
+Negotiation is a framework for important roleplaying encounters in which the heroes want to convince an NPC to take a particular course of action, such as lending the heroes an artifact or pardoning a prisoner. This framework tracks the NPC's interest in the hero's arguments and their patience, so that the GM knows what the NPC is willing to offer and when it's time to end the scene. This framework shouldn't replace roleplaying (though it certainly can if your group doesn't enjoy that part of RPGs). It's here to help players and GMs understand the structure of a give and take conversation and give some rules that can make a high-stakes conversation even more dramatic!
 
 ### When to Negotiate[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#when-to-negotiate "Permanent link")
 
 In order for a negotiation to occur, an NPC must have an interest in negotiating with the heroes—but must also have a reason to not simply jump on board with whatever the heroes propose. Negotiations happen only when an NPC has that internal tension between interest and reluctance. For example, if the characters ask a king to send his army into a neighboring kingdom to battle a demon incursion, the king needs to be conflicted. He wants to stop the incursion, but he doesn't want to risk the lives of his soldiers defending a foreign nation while leaving their own people unprotected. If the heroes want the help of the king's army, they need to negotiate.
 
-Heroes aren't expected to use the negotiation rules every time one character tries to convince an NPC to see things their way. For instance, if a hero wants information about a cult leader from a captured cultist, a single roll using Insight or Intimidate is likely all that's needed. A character who wants to flirt with the local alchemist to obtain a free Healing Potion likely just needs to make a Persuasion roll.
+Heroes aren't expected to use the negotiation rules every time one character tries to convince an NPC to see things their way. For instance, if a hero wants information about a cult leader from a captured cultist, a single roll using Insight or Intimidation is likely all that's needed. A character who wants to flirt with the local alchemist to obtain a free *Healing Potion* likely just needs to make a Persuasion roll.
 
 By contrast, negotiations typically involve all the heroes interacting with one or more important named NPCs who can provide information, items, or services that dramatically change the course of an adventure. Often, this involves the heroes seeking an item of great power, a retainer or companion, the services of an influential organization or nation, or a plot-twist-worthy piece of information. Convincing a lich to lend the party the legendary _Codex Mortis_, trying to convince a dragon to halt an attack on a wizard's tower, or talking the leaders of an enemy army into standing down means that a negotiation is in order.
 
-To negotiate successfully, the heroes must make persuasive arguments to convince NPCs to do what they want. "Do it or we kill you" is a threat that might well accompany a single Might test using the Intimidate skill, but it's not a negotiating tactic.
+To negotiate successfully, the heroes must make persuasive arguments to convince NPCs to do what they want. "Do it or we kill you" is a threat that might well accompany a single Intimidation roll, but it's not a negotiating tactic.
 
 #### Limits of Negotiation[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#limits-of-negotiation "Permanent link")
 
-Some players might instinctively feel that the negotiation rules should give them something akin to mind-control superpowers. They're not used to imagining NPCs complexly, and might attempt to negotiate in situations where negotiation is either completely unreasonable or literally impossible. No matter how persuasive or well-spoken a hero is, there's no argument to be made that might convince the vile Lord Syuul to give up his pursuit of evil and become a gardener. A negotiation typically can't convince a queen to hand over her crown to the heroes and name them the new rulers of the land, or inspire a dragon to fork over every piece of treasure in their hoard. Negotiations only work when the heroes ask for something from an NPC that the NPC is willing to seriously consider giving them.
+Some players might instinctively feel that the negotiation rules should give them something akin to mind-control superpowers. They're not used to imagining NPCs complexly, and might attempt to negotiate in situations where negotiation is either completely unreasonable or literally impossible. No matter how persuasive or well-spoken a hero is, there's no argument to be made that might convince the vile Lord to give up his pursuit of evil and become a gardener. A negotiation typically can't convince a queen to hand over her crown to the heroes and name them the new rulers of the land, or inspire a dragon to fork over every piece of treasure in their hoard. Negotiations only work when the heroes ask for something from an NPC that the NPC is willing to seriously consider giving them.
 
-**Negotiation is not a process that changes an NPC's character.** Rather, the heroes are trying to make an NPC understand how behaving differently would be in character. You might well be able to get the hitherto loyal lieutenant of an evil boss to reconsider the error of their ways. That's a classic dramatic trope. But even then, you're not changing their character—you're convincing them that their current evil ways are out of character. "Is this who you are? Is this how you want to be remembered?!"
+**Negotiation is not a process that changes an NPC's character.** Rather, the heroes are trying to make an NPC understand how behaving differently would be in character. You might well be able to get the hitherto loyal lieutenant of an evil boss to reconsider the error of their ways. That's a classic dramatic trope. But even then, you're not changing their character—you're convincing them that their current evil ways are out of character. 
+
+>  "Is this who you are? Is this how you want to be remembered?!"
 
 If some players want to use the negotiation system as a means to an end by having their characters say, "Just do what we tell you, or else!", you can remind them that that's not how most people, including NPCs, work. Any heroes who open with that attitude are likely to lose the negotiation before it begins.
 
 #### The Threat of Violence[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#the-threat-of-violence "Permanent link")
 
-In the real world, negotiations rarely come with a threat of immediate violence. Ambassadors don't usually get into fistfights. But this is a heroic fantasy RPG, featuring heroes who are armed to the teeth and able to alter reality with their minds. The threat of violence is already implied. Everyone involved knows that the characters could draw steel at any moment.
+In the real world, negotiations rarely come with a threat of immediate violence. Ambassadors don't usually get into fistfights. But this is a fantasy RPG, featuring heroes who are armed to the teeth and able to alter reality with their minds. The threat of violence is already implied. Everyone involved knows that the characters could draw steel at any moment.
 
-The Director typically assumes that the underlying potential for events to turn violent is already factored into every negotiation. However, if the heroes decide to bring that threat to the forefront, then they've exited the realm of negotiation and have entered into a different type of relationship—and it's probably time to draw steel.
+The GM typically assumes that the underlying potential for events to turn violent is already factored into every negotiation. However, if the heroes decide to bring that threat to the forefront, then they've exited the realm of negotiation and have entered into a different type of relationship—and it's probably time to draw steel.
 
 Negotiation is about persuading someone to help you willingly because you've convinced them that meeting your objectives is a good idea. Working with you is wise or logical, or might make them look good. A hero can absolutely threaten someone with violence and force them to do what they want, but this is an incredibly temporary state. A threatened NPC isn't willingly doing what they've been asked. They're doing it on threat of violence, and will comply only while that threat is evident—after which, they'll likely go back to their previous behavior as soon as they think they can get away with it.
 
 ### Negotiation Stats[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#negotiation-stats "Permanent link")
 
-During negotiation, the Director assigns NPCs four temporary statistics and features—interest, patience, motivations, and pitfalls. The heroes can strike a favorable deal if they maximize an NPC's interest by making arguments that invoke the NPC's motivations and avoid their pitfalls—but they have to do all that before the NPC's patience wears out.
+During negotiation, the GM assigns NPCs four temporary statistics and features—interest, patience, motivations, and pitfalls. The heroes can strike a favorable deal if they maximize an NPC's interest by making arguments that invoke the NPC's motivations and avoid their pitfalls—but they have to do all that before the NPC's patience wears out.
 
 #### Interest[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#interest "Permanent link")
 
-An NPC's interest represents how eager they are to make a deal with the heroes. Interest is graded on a scale of 0 (no interest) to 5 (the most possible interest). When a negotiation begins, an NPC's interest is between 1 and 4. If the NPC's interest goes to 5, they make a final offer and the negotiation ends (see [Keep Going or Stop](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#page-303-0), below). If the NPC's interest drops to 0, they end a negotiation without offering the heroes any deal.
+An NPC's interest represents how eager they are to make a deal with the heroes. Interest is graded on a scale of 0 (no interest) to 5 (the most possible interest). When a negotiation begins, an NPC's interest is between 1 and 4. If the NPC's interest goes to 5, they make a final offer and the negotiation ends. If the NPC's interest drops to 0, they end a negotiation without offering the heroes any deal.
 
 Interest increases and decreases during the negotiation based on the arguments the heroes make.
 
 #### Patience[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#patience "Permanent link")
 
-An NPC's patience represents how much time and effort they're willing to devote to a negotiation. Patience is graded on a scale of 0 to 5, with each NPC starting a negotiation with their patience higher than 0. If an NPC's patience reaches 0, the NPC makes a final offer and negotiation ends (see [Keep Going or Stop](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#page-303-0)).
+An NPC's patience represents how much time and effort they're willing to devote to a negotiation. Patience is graded on a scale of 0 to 5, with each NPC starting a negotiation with their patience higher than 0. If an NPC's patience reaches 0, the NPC makes a final offer and negotiation ends.
 
 Patience can decrease each time the heroes make an argument during a negotiation.
 
 ##### Language and Patience[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#language-and-patience "Permanent link")
 
-If one or more heroes negotiating with an NPC can communicate in the NPC's native language (not including Caelian), then the NPC's patience increases by 1 at the start of the negotiation (to a maximum of 5). If three or more heroes negotiating with an NPC can communicate in the NPC's native language, the NPC's patience increases by 2 (to a maximum of 5). [Chapter 4: Background](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#page-67-0) has information on some of the languages in the game.
+If one or more heroes negotiating with an NPC can communicate in the NPC's native language (not including Common), then the NPC's patience increases by 1 at the start of the negotiation (to a maximum of 5). If three or more heroes negotiating with an NPC can communicate in the NPC's native language, the NPC's patience increases by 2 (to a maximum of 5).
 
 #### Motivations[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#motivations "Permanent link")
 
@@ -222,17 +224,17 @@ Arguments that appeal to the vengeance motivation contend that the NPC can gain 
 
 ### Opening a Negotiation[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#opening-a-negotiation "Permanent link")
 
-A negotiation begins when the heroes ask something of an NPC and the Director deems that the circumstances require a negotiation. Those circumstances always involve the heroes requiring assistance that could change the course of the adventure, and having the NPC conflicted about working with them. Unlike combat, which can be thrust upon the heroes by violent allies or unexpected circumstances, the heroes must be the ones to willingly start a negotiation. Characters must want something from an NPC. Otherwise they have no reason to negotiate!
+A negotiation begins when the heroes ask something of an NPC and the GM deems that the circumstances require a negotiation. Those circumstances always involve the heroes requiring assistance that could change the course of the adventure, and having the NPC conflicted about working with them. Unlike combat, which can be thrust upon the heroes by violent allies or unexpected circumstances, the heroes must be the ones to willingly start a negotiation. Characters must want something from an NPC. Otherwise they have no reason to negotiate!
 
-The Director can decide that an NPC who has something the players want could show up at their door and ask if the heroes want to negotiate. But it's always okay for the characters to say, "Not interested," and refuse to do so.
+The GM can decide that an NPC who has something the players want could show up at their door and ask if the heroes want to negotiate. But it's always okay for the characters to say, "Not interested," and refuse to do so.
 
 #### Stop Combat, Start Negotiation[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#stop-combat-start-negotiation "Permanent link")
 
-If a hero wants to halt hostilities to negotiate with the other side, they can use a maneuver to make a hard Presence test (or another applicable test, as the Director determines) in an attempt to stop combat and start a negotiation. The test has a chance of success only if the Director believes the other side is willing and capable of negotiating. A foe who has the upper hand, who hates the heroes beyond measure, or who lacks sapience is unlikely to negotiate.
+If a hero wants to halt hostilities to negotiate with the other side, they can use a maneuver to make a hard Presence test (or another applicable test, as the GM determines) in an attempt to stop combat and start a negotiation. The test has a chance of success only if the GM believes the other side is willing and capable of negotiating. A foe who has the upper hand, who hates the heroes beyond measure, or who lacks sapience is unlikely to negotiate.
 
 #### Starting Stats[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#starting-stats "Permanent link")
 
-An NPC's starting negotiation stats depend on their attitude toward the heroes, as shown on the Negotiation Starting Attitudes table, and can be adjusted by the Director as they see fit. A naturally irascible NPC might have lower patience, while a hostile NPC with a greater-than-expected stake in the negotiation topic might have a higher-than-typical interest.
+An NPC's starting negotiation stats depend on their attitude toward the heroes, as shown on the Negotiation Starting Attitudes table, and can be adjusted by the GM as they see fit. A naturally irascible NPC might have lower patience, while a hostile NPC with a greater-than-expected stake in the negotiation topic might have a higher-than-typical interest.
 
 ### Uncovering Motivations[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#uncovering-motivations "Permanent link")
 
@@ -249,7 +251,7 @@ If a hero wishes to figure out an NPC's motivations, they can begin by simply as
 |Friendly|The heroes seem like the NPC's people. The NPC is willing to give them the benefit of the doubt.|3|4|
 |Trusting|The NPC has reason to take the heroes at their word and will help if the characters don't screw this up.|3|5|
 
-NPC can willingly hint at or reveal one of their motivations, usually by asking for something. For instance, a monarch NPC with the greed motivation and a penchant for collecting rare animals might suggest that the heroes retrieving a griffon egg would earn the monarch's gratitude. The Director can also decide that during the natural course of the negotiation, the NPC might offer up similar suggestions without the heroes asking, provided the NPC already has an interest of 3 or higher.
+NPC can willingly hint at or reveal one of their motivations, usually by asking for something. For instance, a monarch NPC with the greed motivation and a penchant for collecting rare animals might suggest that the heroes retrieving a griffon egg would earn the monarch's gratitude. The GM can also decide that during the natural course of the negotiation, the NPC might offer up similar suggestions without the heroes asking, provided the NPC already has an interest of 3 or higher.
 
 If an NPC isn't as forthcoming, or if the heroes want to learn one of the NPC's pitfalls, a hero can make a Reason, Intuition, or Presence test while interacting with the NPC during the negotiation, based on the tactics used to draw out the NPC. The test has the following outcomes:
 
@@ -285,13 +287,13 @@ If an argument doesn't include a pitfall and appeals to one of the NPC's motivat
 - **12-16:** The NPC's interest increases by 1, and their patience decreases by 1.
 - **17+:** The NPC's interest increases by 1, and their patience doesn't change.
 
-At the Director's discretion, a particularly well-roleplayed or well-reasoned argument automatically counts as a tier 3 outcome without a test. Good roleplaying should be rewarded!
+At the GM's discretion, a particularly well-roleplayed or well-reasoned argument automatically counts as a tier 3 outcome without a test. Good roleplaying should be rewarded!
 
 If the heroes attempt to appeal to a motivation that's already been appealed to, the NPC's interest remains the same and their patience decreases by 1.
 
 > **Appealing to Multiple Motivations**
 > 
-> If a hero makes an argument that appears to appeal to more than one of an NPC's motivations, the Director can ask for clarification. After listing the motivations it seemed as though the player was trying to appeal to, they can ask the player to pick one from the list. If the player had another motivation in mind, it's up to the Director whether the argument appealed to that specific motivation or not.
+> If a hero makes an argument that appears to appeal to more than one of an NPC's motivations, the GM can ask for clarification. After listing the motivations it seemed as though the player was trying to appeal to, they can ask the player to pick one from the list. If the player had another motivation in mind, it's up to the GM whether the argument appealed to that specific motivation or not.
 
 #### No Motivation or Pitfall[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#no-motivation-or-pitfall "Permanent link")
 
@@ -309,7 +311,7 @@ If the heroes try to use the same argument without a pitfall or motivation twice
 
 #### Caught in a Lie[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#caught-in-a-lie "Permanent link")
 
-If a hero lies to an NPC with an argument that fails to increase the NPC's interest, the Director can decide that the NPC catches the lie and is offended by it. The NPC's interest decreases by 1, in addition to any decrease imposed by the failure.
+If a hero lies to an NPC with an argument that fails to increase the NPC's interest, the GM can decide that the NPC catches the lie and is offended by it. The NPC's interest decreases by 1, in addition to any decrease imposed by the failure.
 
 > **Everyone Can Participate**
 > 
@@ -325,11 +327,11 @@ Renown determines whether a hero's fame (or infamy) has any sway over an NPC. A 
 
 During a negotiation, an NPC has an **Impression score** that determines the amount of Renown needed to influence them with fame alone (see [Renown](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#page-364-6) in [Chapter 13: Rewards](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#page-327-1)). This score matters only if the NPC knows of the heroes. A dragon who slumbered away the last hundred years and was just woken up to negotiate can't be influenced by a hero's Renown. (By the way, it's a terrible idea to wake a dragon, even if they do know you're famous.) If the NPC does know of the hero and has an Impression score that is equal to or lower than the hero's Renown, the NPC can be influenced by that hero's reputation.
 
-The higher an NPC's Impression score, the harder they are to influence with Renown. A small-time brigand has a lower Impression score than a monarch who meets with powerful and famous people all the time. The NPCs and Impression table provides examples of different archetypical NPC Impression scores. If a creature has a level, then their Impression score equals their level unless the Director deems otherwise.
+The higher an NPC's Impression score, the harder they are to influence with Renown. A small-time brigand has a lower Impression score than a monarch who meets with powerful and famous people all the time. The NPCs and Impression table provides examples of different archetypical NPC Impression scores. If a creature has a level, then their Impression score equals their level unless the GM deems otherwise.
 
 ##### Fame or Infamy?[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#fame-or-infamy "Permanent link")
 
-If a hero has enough Renown for their score to influence an NPC during negotiation, the Director decides if the hero is famous or infamous to the NPC. If the NPC appreciates a character's deeds and views them as a hero who makes the world a better place, that hero is famous to them. If the NPC believes the hero's accomplishments make the world worse and views them as an enemy, the hero is infamous to the NPC.
+If a hero has enough Renown for their score to influence an NPC during negotiation, the GM decides if the hero is famous or infamous to the NPC. If the NPC appreciates a character's deeds and views them as a hero who makes the world a better place, that hero is famous to them. If the NPC believes the hero's accomplishments make the world worse and views them as an enemy, the hero is infamous to the NPC.
 
 ###### NPCs and Impresion Table[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#npcs-and-impresion-table "Permanent link")
 
@@ -376,7 +378,7 @@ The NPC should let the heroes know that this is the best offer they can make.
 
 If the NPC's interest is 4, they offer the heroes everything they asked for but won't sweeten the deal. The NPC also accepts anything the heroes have offered as part of the deal with this outcome.
 
-For example, if the heroes offered to help spring a guild thief from prison in exchange for the elite assassins of the thieves' guild standing against Lord Saxton, the guildmaster agrees to those terms without attempting to adjust anything. This likely ends the negotiation, but it's possible that the heroes could push for a little more, provided the NPC has the patience for another argument. A Director could prompt the heroes to push for more by having the NPC ask a leading question, such as, "Is there anything else?" or "What else do you want from me?"
+For example, if the heroes offered to help spring a guild thief from prison in exchange for the elite assassins of the thieves' guild standing against Lord Saxton, the guildmaster agrees to those terms without attempting to adjust anything. This likely ends the negotiation, but it's possible that the heroes could push for a little more, provided the NPC has the patience for another argument. A GM could prompt the heroes to push for more by having the NPC ask a leading question, such as, "Is there anything else?" or "What else do you want from me?"
 
 #### Interest 3 ("Yes, but…")[¶](https://steelcompendium.io/compendium/main/Rules/Chapters/Negotiation/#interest-3-yes-but "Permanent link")
 
@@ -440,71 +442,71 @@ Zola is glad that people are finally opposing Lord Saxton, but is angry that no 
 
 Here's how the negotiation with Zola might play out.
 
-**Director (Djordi):** _The windows are boarded up, allowing no light to enter the seemingly abandoned Goat's Eye tavern. The whole place smells of charred wood, evidence of the fire that burned most of the building's interior three years ago. As the door shuts behind you, light from a hooded lantern on the opposite side of the tavern suddenly fills the room. Amid the blackened walls and pillars, you note where six burly ruffians flank your group on both sides. The human holding the lantern smiles. "Welcome. I'm Zola. Willoughby told me you were coming. Have a seat." She motions to a few crates arranged in a circle around a wide barrel._
+**GM (Djordi):** _The windows are boarded up, allowing no light to enter the seemingly abandoned Goat's Eye tavern. The whole place smells of charred wood, evidence of the fire that burned most of the building's interior three years ago. As the door shuts behind you, light from a hooded lantern on the opposite side of the tavern suddenly fills the room. Amid the blackened walls and pillars, you note where six burly ruffians flank your group on both sides. The human holding the lantern smiles. "Welcome. I'm Zola. Willoughby told me you were coming. Have a seat." She motions to a few crates arranged in a circle around a wide barrel._
 
 **James (playing Korvo, a shadow):** _I have a seat and say, "Korvo at your service, Ms. Honeycut. And these here are the finest companions a polder could ask for: Linn, Jorn, and Val."_
 
-**Director:** _Zola nods to each of you in turn, then says, "You'll excuse me if I dispense with more pleasantries. These days, no place is safe for the Clock. We keep moving. So tell me, what are you here for?"_
+**GM:** _Zola nods to each of you in turn, then says, "You'll excuse me if I dispense with more pleasantries. These days, no place is safe for the Clock. We keep moving. So tell me, what are you here for?"_
 
 **Alyssa (playing Jorn, a tactician):** _"We're building an army to take down Saxton once and for all."_
 
 In this scenario, all the heroes have a Renown of 2 except for Jorn, who has a Renown of 3 and is therefore famous to Zola.
 
-**Director:** _Zola gives a mirthless chuckle as she shakes her head. "Oh is that all? I have to tell you, I don't think the four of you stand much of a chance. Unless you're hiding a legion or two of dwarves in your pockets. Yes, you have Jorn the Mighty with you, but you'll need more than one famous warrior to win the day."_
+**GM:** _Zola gives a mirthless chuckle as she shakes her head. "Oh is that all? I have to tell you, I don't think the four of you stand much of a chance. Unless you're hiding a legion or two of dwarves in your pockets. Yes, you have Jorn the Mighty with you, but you'll need more than one famous warrior to win the day."_
 
 **Alyssa:** _Ah! So she has heard of me at least! Thanks, Renown._
 
 **Grace (playing Val, a conduit):** _"We don't. But we do have Lord Edmund—the true heir to the Bedegar throne."_
 
-**Director:** _Zola nods, impressed. "I'm glad the boy is safe, but that's all he is—a boy, not an army."_
+**GM:** _Zola nods, impressed. "I'm glad the boy is safe, but that's all he is—a boy, not an army."_
 
 **Matt (playing Linn, a talent):** _"He's a boy people will rally around. We have no army, but that's why we're here. We're planning on changing that. Can you spare any soldiers for our cause?"_
 
-The negotiation officially starts. The heroes have stated what they want from Zola. The Director begins by prompting them to make an argument.
+The negotiation officially starts. The heroes have stated what they want from Zola. The GM begins by prompting them to make an argument.
 
-**Director:** _Zola leans back on her crate. "There it is. The Clock has sacrificed much against Saxton. Why should we risk more to help? No one was here to help us months ago when we stood up to tyranny."_
+**GM:** _Zola leans back on her crate. "There it is. The Clock has sacrificed much against Saxton. Why should we risk more to help? No one was here to help us months ago when we stood up to tyranny."_
 
 **Alyssa:** _I nod along as Zola speaks, listening before I say, "We didn't hear of your struggle until after Saxton had already hanged many of your brave people. We're here now. How can we help?"_
 
-Before making an argument, Alyssa is attempting to learn what Zola's motivations are by simply asking. The Director decides to reveal one of Zola's motivations: protection.
+Before making an argument, Alyssa is attempting to learn what Zola's motivations are by simply asking. The GM decides to reveal one of Zola's motivations: protection.
 
-**Director:** _"If I were to make a deal with you, and that's a big 'if,' I'd need assurances that you can end this. Proof would be even better. The protection of my people is my top priority. We can earn freedom from Saxton once we regain our strength."_
+**GM:** _"If I were to make a deal with you, and that's a big 'if,' I'd need assurances that you can end this. Proof would be even better. The protection of my people is my top priority. We can earn freedom from Saxton once we regain our strength."_
 
 **James:** _Aha! I got this, folks. I stand atop my crate and say, "Well, we can surely offer that, Ms. Honeycut. We have convinced Lord Edmund to_
 
 _grant amnesty to any who swear to serve him." I'd like to roll a Presence test to convince her._
 
-**Director:** _Hold it there, champ. Zola's eyes narrow as you speak, and she holds up a hand to cut you off. "I will not swear to serve any ruler, no matter how benevolent. I'll consider being a partner, but even that outlook is grim if you tell me again that I need to bend the knee."_
+**GM:** _Hold it there, champ. Zola's eyes narrow as you speak, and she holds up a hand to cut you off. "I will not swear to serve any ruler, no matter how benevolent. I'll consider being a partner, but even that outlook is grim if you tell me again that I need to bend the knee."_
 
-Korvo inadvertently made an argument using a pitfall by appealing to a higher authority. The Director notes that Zola's interest drops to 1 and her patience drops to 3. Zola gave a pretty firm "No" response here, which is what an NPC with an interest of 1 would say. However, the Director phrased Zola's response in such a way that the heroes know they can keep making arguments if they wish, since her patience hasn't run out.
+Korvo inadvertently made an argument using a pitfall by appealing to a higher authority. The GM notes that Zola's interest drops to 1 and her patience drops to 3. Zola gave a pretty firm "No" response here, which is what an NPC with an interest of 1 would say. However, the GM phrased Zola's response in such a way that the heroes know they can keep making arguments if they wish, since her patience hasn't run out.
 
 **James:** _Sorry! I thought that'd work. Seems like higher authority is a pitfall for her_.
 
 **Grace:** _Let's try to avoid any others. Val says, "We're sorry, Zola. We don't want to do anything else to offend you." I'd like to make an Intuition test and use my Read Person skill to gauge her reaction and try to discern any other pitfalls._
 
-**Director:** _Cool. Hard difficulty._
+**GM:** _Cool. Hard difficulty._
 
 **Grace:** _I got a 17! Success._
 
-**Director:** _Zola sits back, chuckling. "There's two things I can't stand anyone telling me to kiss a ring and merry fools who would rather go drinking than fight for their freedom. Luckily, you're not the latter." You can tell that revelry also won't go over well with Zola._
+**GM:** _Zola sits back, chuckling. "There's two things I can't stand anyone telling me to kiss a ring and merry fools who would rather go drinking than fight for their freedom. Luckily, you're not the latter." You can tell that revelry also won't go over well with Zola._
 
 The heroes now know both of Zola's pitfalls: higher authority and revelry.
 
 **Matt:** _Linn is going to say, "We're recruiting more than just the Clock. We have a good chance of recruiting the elves of the wode and the orcs of Forest Rend, and we're already training the people of Gravesford to put up a fight. If we strike before Saxton can fully build his forces, we all stand a better chance of survival. If you don't stand with us, Saxton will still come for you. He's already coming for you. The Clock stands less of a chance alone."_
 
-**Director:** _I think that's a Reason test, since you're using logic to point out that you have a better chance together than on your own. It's easy too, since you're appealing to one of her motivations._
+**GM:** _I think that's a Reason test, since you're using logic to point out that you have a better chance together than on your own. It's easy too, since you're appealing to one of her motivations._
 
 **Matt:** _Great! Can I use Lead here, since I'm demonstrating our ability to bring people together?_
 
-**Director:** _I'll allow it._
+**GM:** _I'll allow it._
 
 **Matt:** _That's a 14!_
 
-Because Linn appealed to a motivation, Zola's interest increases to 2, and her patience drops to 2. The Director gives a "No, but…" response based on Zola's interest. At this point, the heroes haven't promised anything, so she offers them something for free.
+Because Linn appealed to a motivation, Zola's interest increases to 2, and her patience drops to 2. The GM gives a "No, but…" response based on Zola's interest. At this point, the heroes haven't promised anything, so she offers them something for free.
 
-**Director:** _Zola nods along as you speak. "You're correct, but I'm not sure I can spare the people. I'll tell you what I can do. I have spies watching Saxton still. I can give you information about his troops' movements. Will that suffice?"_
+**GM:** _Zola nods along as you speak. "You're correct, but I'm not sure I can spare the people. I'll tell you what I can do. I have spies watching Saxton still. I can give you information about his troops' movements. Will that suffice?"_
 
-The Director makes it clear in Zola's response that the negotiation can still continue if that's what the players want.
+The GM makes it clear in Zola's response that the negotiation can still continue if that's what the players want.
 
 **Alyssa:** _I don't think so, right?_
 
@@ -518,35 +520,35 @@ The Director makes it clear in Zola's response that the negotiation can still co
 
 **James:** _Is there anything I know about Zola's reputation? I have the Criminal Underworld skill._
 
-**Director:** _Make a Reason test._
+**GM:** _Make a Reason test._
 
 **James:** _That's an 18! Success!_
 
-**Director:** _Korvo would know that Zola got the name Honeycut because she's generous with the guild's earnings. She gives all her fellow thieves a nice cut of every job._
+**GM:** _Korvo would know that Zola got the name Honeycut because she's generous with the guild's earnings. She gives all her fellow thieves a nice cut of every job._
 
 Korvo's success has revealed Zola's benevolence motivation.
 
 **James:** _Brilliant! I think I probably would've shared that with the group before this._
 
-**Director:** _Yeah, that makes sense._
+**GM:** _Yeah, that makes sense._
 
 **Alyssa:** _Great. Jorn will say, "It would be worthwhile in other ways for your crew if you joined our side."_
 
-**Director:** _Zola's interest is piqued. "What makes you say that?"_
+**GM:** _Zola's interest is piqued. "What makes you say that?"_
 
 **Alyssa:** _"Even before his coup, Saxton had a considerable amount of wealth. If he's deposed, those riches need to go somewhere. The Clock will get a cut—a honey of a cut, you might say. Edmund has also promised to share his family's fortune with any who stand with him against Saxton—no oath of fealty necessary. After the young lord reclaims the throne, that is."_
 
-**Director:** _You're appealing to one of her motivations, so make a Presence test._
+**GM:** _You're appealing to one of her motivations, so make a Presence test._
 
 **Alyssa:** _Can I use my Persuade skill too?_
 
-**Director:** _Absolutely. And you gain an edge because you're famous to her._
+**GM:** _Absolutely. And you gain an edge because you're famous to her._
 
 **Alyssa:** _I needed that edge. I got a 12!_
 
-Because Jorn appealed to a motivation, Zola's interest increases to 3, and her patience is reduced to 1. The Director gives a "Yes, but…" response while making it clear that the negotiation can still continue.
+Because Jorn appealed to a motivation, Zola's interest increases to 3, and her patience is reduced to 1. The GM gives a "Yes, but…" response while making it clear that the negotiation can still continue.
 
-**Director:** _Zola contemplates this for a moment. She nods, "I'm starting to see the benefits. I think I can spare some folks to help you, but you have to help them first. See, my best warriors are locked up in Bedegar Keep. They're supposed to be hanged in two days. If you free them, I'll see to it they stand with you against Saxton. We were making a plan to free them ourselves but could frankly use the help."_
+**GM:** _Zola contemplates this for a moment. She nods, "I'm starting to see the benefits. I think I can spare some folks to help you, but you have to help them first. See, my best warriors are locked up in Bedegar Keep. They're supposed to be hanged in two days. If you free them, I'll see to it they stand with you against Saxton. We were making a plan to free them ourselves but could frankly use the help."_
 
 **Grace:** _We could push the Clock to do it themselves, but I can't see Val turning her back on people in need._
 
