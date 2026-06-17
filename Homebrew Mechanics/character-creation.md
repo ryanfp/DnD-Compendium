@@ -26,4 +26,5 @@ To determine your character's ability scores, you first generate a set of six nu
 > Please note there are certain limitations to how you can allocate your ability scores. For example:
 > 
 > - **Only one 15.** You may only allocate one score to 15 *before* racial bonuses apply.
-> - **One, and only one dump.** You <u>must</u> have one ability score below 10 and you may only have one at that level. 
+> - **Only one dump.** You <u>must</u> have one ability score below 10 and you may only have one at that level. 
+> - **Flexible Bonus.** Racial Attribute bonuses are removed, and you have a universal +3 you can apply in any combination to any ability, **EXCEPT** a +3 to one stat. Any other combination is allowed.
