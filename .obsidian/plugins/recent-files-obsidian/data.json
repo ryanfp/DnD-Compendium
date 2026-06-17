@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "ability-scores",
+      "path": "Homebrew Mechanics/ability-scores.md"
+    },
+    {
+      "basename": "Immediate Goals for Play",
+      "path": "Immediate Goals for Play.md"
+    },
+    {
       "basename": "negotiations",
       "path": "Homebrew Mechanics/negotiations.md"
     },
     {
       "basename": "npc-disposition",
       "path": "Homebrew Mechanics/npc-disposition.md"
-    },
-    {
-      "basename": "Immediate Goals for Play",
-      "path": "Immediate Goals for Play.md"
     },
     {
       "basename": "ability-scores 1",
@@ -63,10 +67,6 @@
     {
       "basename": "saving-throws",
       "path": "Homebrew Mechanics/saving-throws.md"
-    },
-    {
-      "basename": "ability-scores",
-      "path": "Homebrew Mechanics/ability-scores.md"
     },
     {
       "basename": "5e.tools Website Navigation",
