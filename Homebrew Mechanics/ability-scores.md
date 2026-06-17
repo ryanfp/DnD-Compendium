@@ -75,13 +75,14 @@ Your Strength score determines how much weight you can bear. The following terms
 
 > [!embed-ability] Added Boons
 > Here is a list of boons that have been added to Strength based on your score:
->  - **Lifting/Grappling:** With a +STR 4 modifier and more, you count one size Larger for the purpose of Lifting and Grappling.
 > 
-> - **Pushing:** With a +STR 4 modifier and more, when you successfully Shove a creature, you can push it a number of feet equals to 5 times your STR modifier (minimum 5 feet).
-> 
-> - **Throwing:** When you take the Attack action to throw a weapon or improvised weapon, you gain extra Range equals to 5 times your STR modifiers (minimum 0). For example, with a STR +5 modifier, the range for the spear become 45/85 (instead of base 20/60).
-> 
-> - **Jumping:** When you make a Long Jump, you cover a number of feet up to 5 times your STR modifiers. When you make a High Jump, you leap into the air a number of feet equal to half your Long Jump distance (minimum of 5ft Long Jump / 1 ft High Jump).
+> | MOD |   Augmented Ability   | Effect                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| :-: | :-------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| +1  | **Lifting/Grappling** | When you take the Attack action to throw a weapon or improvised weapon, you gain extra Range equals to 5 times your STR modifier (minimum 0). For example, with a +5 STR modifier, the range for the spear become 45/85 (instead of base 20/60).                                                                                                                                                                                              |
+| +2  |  **Jumping/Pushing**  | **Jumping.** When you make a Long Jump, you cover a number of feet up to 5 times your STR modifiers. When you make a High Jump, you leap into the air a number of feet equal to half your Long Jump distance (minimum of 5ft Long Jump / 1 ft High Jump).<br><br>**Pushing.** With a +4 STR modifier and more, when you successfully Shove a creature, you can push it a number of feet equals to 5 times your STR modifier (minimum 5 feet). |
+| +3  |       **Speed**       | You gain a +5 bonus to your Movement Speed.                                                                                                                                                                                                                                                                                                                                                                                                   |
+| +4  | **Lifting/Grappling** | With a +STR 4 modifier and more, you count one size Larger for the purpose of Lifting and Grappling.                                                                                                                                                                                                                                                                                                                                          |
+| +5  |      **Weight**       | You no longer suffer the movement penalties for wielding a *Tower Shield* or wearing the heaviest armor.                                                                                                                                                                                                                                                                                                                                      |
 
 > [!tip] Advice
 > 
@@ -139,7 +140,7 @@ Constitution checks are uncommon because the endurance this ability represents i
 
 Your Constitution modifier contributes to your hit points. Whenever you roll Hit Dice to determine the increase to your hit point maximum when gaining a level or to recover hit points during a short rest, you add your Constitution modifier to each dice roll.
 
-If your Constitution modifier changes, your hit point maximum also changes as if you always had the new modifier. For example, a 10th level berserker with a Constitution of 17 equips a _belt of dwarvenkind_ , increasing their Constitution score by 2 (to 19), and likewise their Constitution modifier by +1 (from +3 to +4). The berserker's hit point point maximum increases by 10 hit points (1 per character level) as though their Constitution modifier was always the new value. When they increase to 11th level, they roll a d12 Hit Die adding the +4 Constitution modifier, to determine their new hit point maximum. Should they remove the _belt of dwarvenkind_ afterward, their hit point maximum decreases by 11 hit points (1 per character level) because their Constitution modifier decreases by 1 (from +4 back to +3).
+If your Constitution modifier changes, your hit point maximum also changes as if you always had the new modifier. For example, a 10th level berserker with a Constitution of 17 equips a _Belt of Dwarvenkind_ , increasing their Constitution score by 2 (to 19), and likewise their Constitution modifier by +1 (from +3 to +4). The berserker's hit point point maximum increases by 10 hit points (1 per character level) as though their Constitution modifier was always the new value. When they increase to 11th level, they roll a d12 Hit Die adding the +4 Constitution modifier, to determine their new hit point maximum. Should they remove the _Belt of Dwarvenkind_ afterward, their hit point maximum decreases by 11 hit points (1 per character level) because their Constitution modifier decreases by 1 (from +4 back to +3).
 
 ---
 
@@ -166,11 +167,11 @@ Having a higher Intelligence means having more knowledge than other characters. 
 
 | Int Score (Mod) | Proficiency |
 |:---------------:| ----------- |
-|       12        |       1 instrument, tool, or language       |
-|       14        |      1 lore-based skill, or tool + language       |
-|       16        |      1 lore-based skill, tool + language, weapon      |
-|       18        |      1 lore-based skill, 2 tool(s) + language(s), 4 weapons       |
-|       20        |       1 class skill, tool, or language      |
+|       12 (+1)       |       1 instrument, tool, or language       |
+|       14 (+2)       |      1 lore-based skill, or tool + language       |
+|       16 (+3)       |      1 lore-based skill, tool + language, weapon      |
+|       18 (+4)       |      1 lore-based skill, 2 tool(s) + language(s), 4 weapons       |
+|       20 (+5)       |       1 class skill, tool, or language      |
 
 Reaching a tier on this table grants you the benefits of all previous tiers. “Lore-based” skills are listed below as:
 

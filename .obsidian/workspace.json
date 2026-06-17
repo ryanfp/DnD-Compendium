@@ -400,6 +400,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "ability-scores",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/ability-scores.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ability-scores\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":173,\"ch\":14},\"to\":{\"line\":173,\"ch\":14}},\"scroll\":174.19270833333334}"
+                },
+                {
                   "title": "negotiations",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/negotiations.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"negotiations\"}",
@@ -512,7 +518,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew Mechanics/ability-scores.md",
+                "file": "Homebrew Mechanics/character-creation.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -527,7 +533,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ability-scores"
+              "title": "character-creation"
             }
           }
         ],
@@ -1006,10 +1012,11 @@
   },
   "active": "46e1d7d29f2a4e9c",
   "lastOpenFiles": [
+    "Homebrew Mechanics/ability-scores.md",
+    "Homebrew Mechanics/ability-scores 1.md",
     "Immediate Goals for Play.md",
     "Homebrew Mechanics/negotiations.md",
     "Homebrew Mechanics/npc-disposition.md",
-    "Homebrew Mechanics/ability-scores 1.md",
     "Homebrew Mechanics/swan-song.md",
     "Homebrew Mechanics/resting.md",
     "Homebrew Mechanics/proficiency-ranks.md",
@@ -1022,7 +1029,6 @@
     "Homebrew Mechanics/death-dying-resurrection.md",
     "Homebrew Mechanics/character-creation.md",
     "Homebrew Mechanics/saving-throws.md",
-    "Homebrew Mechanics/ability-scores.md",
     "5e.tools Website Navigation.md",
     "saving throw mockup.md",
     "small checklist-delete.md",

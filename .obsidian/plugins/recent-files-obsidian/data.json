@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "character-creation",
+      "path": "Homebrew Mechanics/character-creation.md"
+    },
+    {
       "basename": "ability-scores",
       "path": "Homebrew Mechanics/ability-scores.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "npc-disposition",
       "path": "Homebrew Mechanics/npc-disposition.md"
-    },
-    {
-      "basename": "ability-scores 1",
-      "path": "Homebrew Mechanics/ability-scores 1.md"
     },
     {
       "basename": "swan-song",
@@ -59,10 +59,6 @@
     {
       "basename": "death-dying-resurrection",
       "path": "Homebrew Mechanics/death-dying-resurrection.md"
-    },
-    {
-      "basename": "character-creation",
-      "path": "Homebrew Mechanics/character-creation.md"
     },
     {
       "basename": "saving-throws",
