@@ -65,7 +65,7 @@ aliases:
 	- [ ] Witch
 - [ ] Finalize Meta Mechanic Changes
 	- [x] 3-save system & related abilities
-	- [ ] Changes to abilities and character creation (STR, DEX, etc.)
+	- [x] Changes to abilities and character creation (STR, DEX, etc.)
 	- [x] Downed condition, dying, wounded condition
 	- [x] death moves
 	- [ ] Swan song

@@ -1,7 +1,14 @@
+---
+title: NPC Disposition
+created: 2026/06/14 at 16:05
+updated: 2026/06/18 at 00:30
+aliases:
+  - NPC Disposition
+---
+
 # NPC Disposition
 
 ## Levels
-
 
 | Number | Disposition | Description |     |
 | :------: | ----------- | ----------- | --- |
@@ -10,8 +17,6 @@
 | 0      | Neutral     |             |     |
 | +1     | Polite      |             |     |
 | +2     | Friendly    |             |     |
-
-
 
 | Interest | Result   |      Effect      |
 | :--------: | -------- | :----------------: |
@@ -22,7 +27,6 @@
 |    1     | No       |        -         |
 |       0  | No, and  | Negotiation Ends |
 
-
 NPC starts at 2 Interest and 2 Patience, Disposition gives a bonus to allocate points towards either Interest or Patience (add 2 to Patience for a total of 4, or 1 to Patience and Interest to a total of 3 each).
 
 Interest and Patience run on a track of 0-5, with 0 representing a failure when reached and 5 representing a success when reached.
@@ -30,7 +34,6 @@ Interest and Patience run on a track of 0-5, with 0 representing a failure when 
 Characters can only make rolls once before other players get to roll. If the same player makes a roll again, they suffer double Disadvantage (two instances of Disadvantage, only cancelled out by two forms of Advantage. Only two dice are rolled still). 
 
 The same skill cannot be used in a negotiation without suffering super Disadvantage as well. 
-
 
 Potential Mechanics:
 

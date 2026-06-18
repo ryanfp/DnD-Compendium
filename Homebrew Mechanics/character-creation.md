@@ -42,8 +42,10 @@ You have a budget of **29 points**. Every score starts at 8; raising a score spe
  
 ### Bonus
  
-After your scores are set, distribute **+3** among your abilities, with **no more than +2 to any one score**. No score may exceed **16**.
- 
+After your scores are set, distribute **+3** among your abilities, with **no more than +2 to any one score**. No score may exceed **16**. This leaves your options as:
+
+- +1 to 3 different stats
+- +2 to one stat, and +1 to another
 - - -
  
 ### Standard Arrays
@@ -56,10 +58,3 @@ Prefer not to fiddle? Take one of the spreads below and assign the numbers to yo
 | **Polymath** *(2 key stats)*      | 16, 16, 14, 12, 10, 8 | classes split across two abilities   |
 | **Generalist** *(3+ key stats)* | 14, 14, 14, 14, 14, 8 | hungry, multi-ability classes        |
 ^standard-arrays
- 
-> [!warning] Limits
-> Please note there are certain limitations to how you can allocate your ability scores. For example:
-> 
-> - **Only one 15.** You may only allocate one score to 15 *before* racial bonuses apply.
-> - **Only one dump.** You <u>must</u> have one ability score below 10 and you may only have one at that level. 
-> - **Flexible Bonus.** Racial Attribute bonuses are removed, and you have a universal +3 you can apply in any combination to any ability, **EXCEPT** a +3 to one stat. Any other combination is allowed.
