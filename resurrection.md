@@ -8,6 +8,33 @@ aliases:
 
 # Resurrection and Revivification
 
+
+- 1 check –> 3 checks
+	- Mind/Body/Spirit (1 for each)
+- GM rolls a d20 for each part, using the character’s Saving Throw bonuses
+	- (essentially, the GM rolls a Saving Throw as the character)
+- party or NPC contributions can affect the outcome of the GM roll
+  
+> [!summary]+ **Resurrection Contributions**
+> 
+> | Result                             | Effect                                                  |
+> | -------------------- | ------------------------------- |
+> | **Critical Success** | +3 and Advantage on the GM roll |
+> | **Success**          | +2 to GM roll                   |
+> | **Failure**              | -1 to GM roll                   |
+> | **Critical Failure** | -2 to GM roll                   |
+> ^resurrection-contributions
+
+- if the GM crit fails on the resurrection rolls, the party must make a last-ditch effort to save the ritual or it fails
+	- a player may take on 2 levels of Exhaustion and make some kind of sacrifice to turn the roll into a normal failure
+		- give up a favorite item, trinket, weapon
+		- confess something not previously disclosed
+		- expend all uses of a class feature that recharges on a Long Rest until after the **next** Long Rest
+		- beseech a deity they had previously sworn off
+	- 
+
+
+
 ## Alternative Resurrection Rules
 
 Character death often becomes no more than a minor inconvenience in some campaigns. Once an adventuring party reaches a certain level, the spells available to return fallen comrades from the afterlife—including *revivify*, *raise dead*, and *resurrection*—make death no more than a temporary setback, potentially undermining one of the most significant elements of danger and threat in the campaign story. For players and GMs who wish to elevate the gravity of character death, the optional rules in this section offer three different approaches.
