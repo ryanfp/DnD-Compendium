@@ -68,28 +68,26 @@ Your Strength score determines how much weight you can bear. The following terms
 > **Supplies.** You can carry a number of Supplies equal to your Strength score in addition to the rest of your gear.
 > 
 > **Push, Drag, or Lift.** You can push, drag, or lift a weight in pounds up to twice your carrying capacity (30 times your Strength score). While pushing or dragging weight in excess of your carrying capacity you are encumbered.
-> 
-> **Size and Strength.** Tiny creatures can’t carry much, while Larger creatures can carry more. A Tiny creature’s carrying capacity is halved and it can’t carry bulky objects. For each size category above Medium, Larger creatures double their carrying capacity, the number of bulky items they can carry, and the amount they can push, drag, or lift. A creature can only be considered a maximum of one size larger or smaller when determining how much Supply and weight it can carry.
 
 - - - 
 
 > [!embed-ability] Added Boons
 > Here is a list of boons that have been added to Strength based on your score:
 > 
-> | MOD |   Augmented Ability   | Effect                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| :-: | :-------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| +1  | **Lifting/Grappling** | When you take the Attack action to throw a weapon or improvised weapon, you gain extra Range equals to 5 times your STR modifier (minimum 0). For example, with a +5 STR modifier, the range for the spear become 45/85 (instead of base 20/60).                                                                                                                                                                                              |
-| +2  |  **Jumping/Pushing**  | **Jumping.** When you make a Long Jump, you cover a number of feet up to 5 times your STR modifiers. When you make a High Jump, you leap into the air a number of feet equal to half your Long Jump distance (minimum of 5ft Long Jump / 1 ft High Jump).<br><br>**Pushing.** With a +4 STR modifier and more, when you successfully Shove a creature, you can push it a number of feet equals to 5 times your STR modifier (minimum 5 feet). |
-| +3  |       **Speed**       | You gain a +5 bonus to your Movement Speed.                                                                                                                                                                                                                                                                                                                                                                                                   |
-| +4  | **Lifting/Grappling** | With a +STR 4 modifier and more, you count one size Larger for the purpose of Lifting and Grappling.                                                                                                                                                                                                                                                                                                                                          |
-| +5  |      **Weight**       | You no longer suffer the movement penalties for wielding a *Tower Shield* or wearing the heaviest armor.                                                                                                                                                                                                                                                                                                                                      |
+> | MOD |   Augmented Ability   | Effect  |
+|:---:|:-----------:| ------ |
+| +1  |     -   | N/A    |
+| +2  | **Thrown Weapon Range** | When you take the Attack action to throw a weapon or improvised weapon, you gain extra Range equals to 5 times your STR modifier (minimum 0). For example, with a +5 STR modifier, the range for the spear become 45/85 (instead of base 20/60).    |
+| +3  |   **Jumping/Pushing**   | **Jumping.** When you make a Long Jump, you cover a number of feet up to 5 times your STR modifiers. When you make a High Jump, you leap into the air a number of feet equal to half your Long Jump distance (minimum of 5ft Long Jump / 1 ft High Jump).<br><br>**Pushing.** With a +4 STR modifier and more, when you successfully Shove a creature, you can push it a number of feet equals to 5 times your STR modifier (minimum 5 feet). |
+| +4  |  **Lifting/Grappling**  | With a +STR 4 modifier and more, you count one size Larger for the purpose of Lifting and Grappling.    |
+| +5  |       **Weight**        | You no longer suffer the movement penalties for wielding a *Tower Shield* or wearing the heaviest armor.     |
 
 > [!tip] Advice
 > 
 > Strength has been buffed or tweaked in a few ways throughout the system to make it more desirable of a trait. FOr most of these changes, their effects are more detailed in their respective page, but a few are listed here:
 > 
 > - Medium Armor now uses Strength *OR* Dexterity for AC calculations, and Heavy Armor now uses Strength for AC calculations
-> - Armor and Weapons no longer are restricted to certain size creatures, they simply have a Strength score requirement
+> - Armor and Weapons are no longer restricted to certain size creatures, they simply have a Strength score requirement
 > - A character with 17 Strength can wield Oversized weapons as found in the DMG
 
 ---
