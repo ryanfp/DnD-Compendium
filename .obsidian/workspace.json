@@ -6,7 +6,7 @@
       {
         "id": "5e90b3ed8d44b9fb",
         "type": "tabs",
-        "dimension": 42.06309464196294,
+        "dimension": 51.527290936404604,
         "children": [
           {
             "id": "d423174f65b02e06",
@@ -57,7 +57,7 @@
               "type": "markdown",
               "state": {
                 "file": "resurrection.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -80,7 +80,7 @@
       {
         "id": "1c1b4763fa4737a4",
         "type": "tabs",
-        "dimension": 57.93690535803706,
+        "dimension": 48.472709063595396,
         "children": [
           {
             "id": "9c74f951261e3793",
@@ -762,7 +762,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "e39a334b7fb77f52",
+  "active": "180d77e24db8c884",
   "lastOpenFiles": [
     "Homebrew Mechanics/conditions.md",
     "resurrection.md",
