@@ -102,7 +102,7 @@ To start a Long Rest, you must have at least 1 Hit Point and spend at least 3 Su
 
 ***Exhaustion Recovered.*** If you have any levels of Fatigue or Strife, their levels decrease by 1 for every 24 hours spent as part of the Long Rest. You can recover more levels of Fatigue or Strife by spending both Downtime Slots in a day on the Recuperate activity.
 
-***Wounds Recovered.*** If you have one or more levels of the [[homebrew-conditions#Wounded|Wounded]] condition, you lose all of them when finishing the rest.
+***Wounds Recovered.*** If you have one or more levels of the [[Homebrew Mechanics/conditions#Wounded|Wounded]] condition, you lose all of them when finishing the rest.
 
 ***Special Feature.*** Some features are recharged by a Long Rest. If you have such a feature, it recharges in the way specified in its description.
 

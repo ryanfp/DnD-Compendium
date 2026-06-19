@@ -5,6 +5,10 @@
       "path": "resurrection.md"
     },
     {
+      "basename": "conditions",
+      "path": "Homebrew Mechanics/conditions.md"
+    },
+    {
       "basename": "death-dying",
       "path": "Homebrew Mechanics/death-dying.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "desperate-actions",
       "path": "Homebrew Mechanics/desperate-actions.md"
-    },
-    {
-      "basename": "homebrew-conditions",
-      "path": "Homebrew Mechanics/homebrew-conditions.md"
     },
     {
       "basename": "exhaustion",

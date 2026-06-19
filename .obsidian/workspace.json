@@ -131,7 +131,7 @@
                 {
                   "title": "homebrew-conditions",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/homebrew-conditions.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"homebrew-conditions\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/conditions.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"homebrew-conditions\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":8},\"to\":{\"line\":4,\"ch\":8}}}"
                 },
                 {
@@ -254,6 +254,39 @@
               },
               "icon": "lucide-file",
               "title": "resurrection"
+            }
+          },
+          {
+            "id": "beb791fb2e113993",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homebrew Mechanics/conditions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conditions"
             }
           }
         ],
@@ -731,6 +764,7 @@
   },
   "active": "e39a334b7fb77f52",
   "lastOpenFiles": [
+    "Homebrew Mechanics/conditions.md",
     "resurrection.md",
     "Homebrew Mechanics/death-dying.md",
     "Immediate Goals for Play.md",
@@ -746,7 +780,6 @@
     "Homebrew Mechanics/proficiency-ranks.md",
     "Homebrew Mechanics/skills.md",
     "Homebrew Mechanics/desperate-actions.md",
-    "Homebrew Mechanics/homebrew-conditions.md",
     "Homebrew Mechanics/exhaustion.md",
     "Homebrew Mechanics/downtime.md",
     "Homebrew Mechanics/degrees-of-success.md",

@@ -21,7 +21,7 @@ However, there has been a massive, multi-step overhaul of death and dying mechan
 When you go down in combat, and gain the *Downed* condition, you have the option to perform one of the following actions, once per turn:
 
 - _**Crawl.**_ The character wills themselves to crawl up to 5 feet. This movement does not provoke opportunity attacks. If an adjacent square is Difficult Terrain, you cannot crawl towards that square, unless you are already in said Difficult Terrain.
-- _**Brace.**_ The character puts up the best defense they can muster. You temporarily lose the [[homebrew-conditions#Exposed|Exposed]] condition until the character's next turn, and the first attack from within 5 ft that does hit is turned into a normal hit instead. If you receive an amount of damage that equals or exceeds half of your total health, it still counts as a critical hit.
+- _**Brace.**_ The character puts up the best defense they can muster. You temporarily lose the [[Homebrew Mechanics/conditions#Exposed|Exposed]] condition until the character's next turn, and the first attack from within 5 ft that does hit is turned into a normal hit instead. If you receive an amount of damage that equals or exceeds half of your total health, it still counts as a critical hit.
 - _**Shout.**_ The character cries out for their ally to assist them. One friendly creature within 30 feet may immediately move up to half of its movement speed directly toward the downed character. This movement does not provoke opportunity attacks.
 - ***Inspire.*** You instill courage into an ally. Choose a creature you can see within 30 ft. You give that ally one Inspiration Die.
 

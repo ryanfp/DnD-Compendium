@@ -5,6 +5,7 @@ updated: 2026/06/12 at 20:08
 aliases:
   - Conditions
   - Homebrew Conditions
+  - homebrew-conditions
 tags:
   - condition/existing
   - condition/new
