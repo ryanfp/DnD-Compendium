@@ -69,7 +69,7 @@ aliases:
 	- [x] Downed condition, dying, wounded condition
 	- [x] death moves
 	- [ ] Swan song
-	- [ ] death and resurrection rituals
+	- [x] death and resurrection rituals
 	- [x] Short & Long Rests
 	- [x] Exhaustion rules (Fatigue, Strife, recovering)
 	- [x] Downtime

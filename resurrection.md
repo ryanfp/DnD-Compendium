@@ -4,65 +4,17 @@ created: 2026/06/18 at 00:33
 updated: 2026/06/18 at 00:34
 aliases:
   - Resurrection and Revivification
+  - Resurrection Ritual
+  - resurrection rituals
+  - resurrection-ritual
+  - revive ritual
 ---
 
 # Resurrection and Revivification
 
-
-- 1 check –> 3 checks
-	- Mind/Body/Spirit (1 for each)
-- GM rolls a d20 for each part, using the character’s Saving Throw bonuses to determine a situational bonus for the GM roll
-	- DC is 12 + the number of times a character has 
-	- Fortitude for the Body
-	- Reflex for the Mind
-	- Will for the Soul
-
-| Proficiency Tier | Bonus to Roll |
-| ---------------- | ------------- |
-| Untrained        | +0            |
-| Trained          | +1            |
-| Proficient       | +2            |
-| Expert           | +3            |
-
-- party or NPC contributions can affect the outcome of the GM roll
-  
-> [!summary]+ **Resurrection Contributions**
-> 
-> | Result                             | Effect                                                  |
-> | -------------------- | ------------------------------- |
-> | **Critical Success** | +3 and Advantage on the GM roll |
-> | **Success**          | +2 to GM roll                   |
-> | **Failure**              | -1 to GM roll                   |
-> | **Critical Failure** | -2 to GM roll                   |
-> ^resurrection-contributions
-
-- if the GM critically fails on the Resurrection Checks, the party must make a last-ditch effort to save the ritual or it fails
-	- a player may take on 2 levels of Exhaustion and make some kind of sacrifice to turn the roll into a normal failure
-		- give up a favorite item, trinket, weapon
-		- confess something not previously disclosed
-		- expend all uses of a class feature that recharges on a Long Rest until after the **next** Long Rest
-		- beseech a deity they had previously sworn off
-	- 
-
-
-
-## Alternative Resurrection Rules
+## Resurrection Rules
 
 Character death often becomes no more than a minor inconvenience in some campaigns. Once an adventuring party reaches a certain level, the spells available to return fallen comrades from the afterlife—including *revivify*, *raise dead*, and *resurrection*—make death no more than a temporary setback, potentially undermining one of the most significant elements of danger and threat in the campaign story. For players and GMs who wish to elevate the gravity of character death, the optional rules in this section offer three different approaches.
-
----
-
-#### Harrowing Return
-
-In games that use this house rule, the process of a character dying and being pulled back into their body becomes a traumatic experience. The magic that pulls the spirit from beyond the dark veil of death takes a toll on that spirit each time, changing a person in unexpected and profound ways.
-
-This rule is best for campaigns with dark and horrific themes. It adds a dose of grim bleakness that might not feel at home in epic and heroic stories. Players and GMs who want to make use of this rule *should talk about it beforehand*, and if any player says no or doesn't offer enthusiastic support, it's best to not use it. It's also important for GMs to check in with the players whenever this rule comes into play, just to make sure everyone is still having fun with the darker themes.
-
-
-
-
-## Consequences
-
 
 ---
 
@@ -144,7 +96,7 @@ A *remove curse* spell temporarily suppresses a consequence of being brought bac
 
 ### Body
  
-A failed Body check means the flesh did not fully take. The character lives, but death left its mark on you and it will not be so easily healed. If a successful resurrection ritual has a failure from this roll, roll on the following table to determine it’s effects on you as you grapple with your brush with death.
+A failed Body check means the flesh did not fully take. You live, but death left its mark on you, and it will not be so easily healed. If you return from a resurrection ritual but it was this check that failed, roll on the table below to determine its effects on you as you grapple with your brush with death.
  
 |   #   | Consequence            | What it does                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | :---: | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -160,7 +112,7 @@ A failed Body check means the flesh did not fully take. The character lives, but
  
 ### Mind
  
-The character returned, but death rode back in their memory and their drives.
+A failed Mind check means the your psyche is fractured. You live, but the trauma of your experience looms over you. If you return from a resurrection ritual but it was this check that failed, roll on the table below to determine its effects on you as you toil with your brush with death.
  
 |   #   | Consequence                  | What it does                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | :---: | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -175,7 +127,8 @@ The character returned, but death rode back in their memory and their drives.
 ---
  
 ### Spirit
-The flesh and the self held, but the soul's tie to the living world came back wrong.
+
+A failed Spirit check means the your essence is torn. You live, but the fiber of your very being is altered or corrupted. If you return from a resurrection ritual but it was this check that failed, roll on the table below to determine its effects on you as you come to terms with your brush with death.
  
 |   #   | Consequence             | What it does                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | :---: | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

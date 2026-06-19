@@ -465,7 +465,8 @@
               "title": "Immediate Goals for Play"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -764,10 +765,10 @@
   },
   "active": "180d77e24db8c884",
   "lastOpenFiles": [
-    "Homebrew Mechanics/conditions.md",
-    "resurrection.md",
-    "Homebrew Mechanics/death-dying.md",
     "Immediate Goals for Play.md",
+    "resurrection.md",
+    "Homebrew Mechanics/conditions.md",
+    "Homebrew Mechanics/death-dying.md",
     "Homebrew Mechanics/negotiations.md",
     "Homebrew Mechanics/npc-disposition.md",
     "Homebrew Mechanics/character-creation.md",
