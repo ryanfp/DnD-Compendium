@@ -56,8 +56,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resurrection.md",
-                "mode": "preview",
+                "file": "Homebrew Mechanics/resurrection.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -238,7 +238,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resurrection.md",
+                "file": "Homebrew Mechanics/resurrection.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -465,8 +465,7 @@
               "title": "Immediate Goals for Play"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -758,15 +757,13 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false,
-      "card-board:CardBoard": false
+      "task-board:Open task board": false
     }
   },
-  "active": "180d77e24db8c884",
+  "active": "fcaa59025a7544d2",
   "lastOpenFiles": [
     "Immediate Goals for Play.md",
-    "resurrection.md",
+    "Homebrew Mechanics/resurrection.md",
     "Homebrew Mechanics/conditions.md",
     "Homebrew Mechanics/death-dying.md",
     "Homebrew Mechanics/negotiations.md",
