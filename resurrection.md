@@ -11,8 +11,19 @@ aliases:
 
 - 1 check –> 3 checks
 	- Mind/Body/Spirit (1 for each)
-- GM rolls a d20 for each part, using the character’s Saving Throw bonuses
-	- (essentially, the GM rolls a Saving Throw as the character)
+- GM rolls a d20 for each part, using the character’s Saving Throw bonuses to determine a situational bonus for the GM roll
+	- DC is 12 + the number of times a character has 
+	- Fortitude for the Body
+	- Reflex for the Mind
+	- Will for the Soul
+
+| Proficiency Tier | Bonus to Roll |
+| ---------------- | ------------- |
+| Untrained        | +0            |
+| Trained          | +1            |
+| Proficient       | +2            |
+| Expert           | +3            |
+
 - party or NPC contributions can affect the outcome of the GM roll
   
 > [!summary]+ **Resurrection Contributions**
@@ -25,7 +36,7 @@ aliases:
 > | **Critical Failure** | -2 to GM roll                   |
 > ^resurrection-contributions
 
-- if the GM crit fails on the resurrection rolls, the party must make a last-ditch effort to save the ritual or it fails
+- if the GM critically fails on the resurrection rolls, the party must make a last-ditch effort to save the ritual or it fails
 	- a player may take on 2 levels of Exhaustion and make some kind of sacrifice to turn the roll into a normal failure
 		- give up a favorite item, trinket, weapon
 		- confess something not previously disclosed
