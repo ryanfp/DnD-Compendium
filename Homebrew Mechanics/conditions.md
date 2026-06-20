@@ -50,9 +50,9 @@ While you have the Blessed condition, you experience the following effect.
 
 _**Favored.**_ You add 1d4 to your D20 Tests.
 
-## Blinded
+## Blinded ![[image-151.png]]
 
-#condition/existing
+#condition/existing 
 
 While you have the Blinded condition, you experience the following effects.
 
@@ -66,7 +66,7 @@ _**Attacks Affected.**_ Attack rolls against you have Advantage, and your attack
 
 A creature is Bloodied while it has half its Hit Points or fewer remaining.
 
-## Burning
+## Burning ![[image-163.png]]
 
 #condition/new
 
@@ -86,7 +86,7 @@ Putting out the fire varies in difficulty depending on its source. Nonmagical fl
 
 Magical flame can be more difficult to douse, depending on the source. The _searing smite_ spell can be doused as easily as any nonmagical fire, but the flames of the _immolation_ spell can be doused only by ending the spell, such as with a successful saving throw or an effect like _dispel magic_.
 
-## Charmed
+## Charmed ![[image-152.png]]
 
 #condition/existing
 
@@ -142,7 +142,7 @@ _**Ending the Condition.**_ A creature can take an action or Bonus Action to cle
 
 _**Escalating Acid.**_ Taking Acid damage refreshes the duration and increases the damage die by one step.
 
-## Dazed
+## Dazed ![[image-162.png]]
 
 #condition/revised
 
@@ -246,7 +246,7 @@ _**Cornered.**_ You have the Hastened condition.
 
 _**Chaotic.**_ You have the Confused condition.
 
-## Frightened
+## Frightened ![[image-153.png]]
 
 #condition/existing
 
@@ -256,7 +256,7 @@ _**Ability Checks and Attacks Affected.**_ You have Disadvantage on ability chec
 
 _**Can't Approach.**_ You can't willingly move closer to the source of fear.
 
-## Frostbite
+## Frostbite ![[image-165.png]]
 
 #condition/new
 
@@ -274,7 +274,7 @@ _**Condition Resistance.**_ If you're immune to Cold damage, you're immune to th
 
 _**Ending the Condition.**_ By default, you lose 1 stack of Frostbite each turn, and you lose 1 stack each time you take Fire damage. Alternatively, you can lose 2 stacks on your turn if you move more than half your Speed, light a torch, or sit near a campfire or other lit source. You lose all stacks of Frostbite when you gain the Burning condition.
 
-## Frozen
+## Frozen ![[image-166.png]]
 
 #condition/new
 
@@ -346,7 +346,7 @@ _**Speed 0.**_ Your Speed is 0, and you can't benefit from any bonus to your Spe
 
 _**Saving Throws and Checks Affected.**_ You have Disadvantage on Dexterity-based ability checks and Reflex saving throws.
 
-## Incapacitated
+## Incapacitated ![[image-154.png]]
 
 #condition/existing
 
@@ -360,7 +360,7 @@ _**Speechless.**_ You can't speak.
 
 _**Surprised.**_ You have the Surprised condition.
 
-## Invisible
+## Invisible ![[image-155.png]]
 
 #condition/existing
 
@@ -382,7 +382,7 @@ _**Injured.**_ You have the Bleeding condition.
 
 _**Inhibited.**_ You have the Slowed condition.
 
-## Paralyzed
+## Paralyzed ![[image-156.png]]
 
 #condition/revised
 
@@ -398,7 +398,7 @@ _**Automatic Critical Hits.**_ You have the Helpless condition.
 
 _**Saving Throws Affected.**_ You automatically fail Reflex saving throws.
 
-## Petrified
+## Petrified ![[image-157.png]]
 
 #condition/revised
 
@@ -418,7 +418,7 @@ _**Resist Damage.**_ You have Resistance to all damage.
 
 _**Poison Immunity.**_ You have Immunity to the Poisoned condition.
 
-## Poisoned
+## Poisoned ![[image-158.png]]
 
 #condition/revised
 
@@ -428,7 +428,7 @@ _**Ability Checks and Attacks Affected.**_ You have Disadvantage on attack rolls
 
 _**Lingering Damage.**_ You take 1d4 Poison damage at the start of each of your turns.
 
-## Prone
+## Prone ![[image-159.png]]
 
 #condition/existing
 
@@ -460,7 +460,7 @@ _**Dangerous.**_ You have Advantage on attack rolls.
 
 _**Foolhardy.**_ Attack rolls against you have Advantage.
 
-## Restrained
+## Restrained ![[image-160.png]]
 
 #condition/revised
 
@@ -472,7 +472,7 @@ _**Attacks Affected.**_ You have the Exposed condition, and your attack rolls ha
 
 _**Spellcasting Affected.**_ You can't cast spells that have a Somatic component.
 
-## Shocked
+## Shocked ![[image-164.png]]
 
 #condition/new
 
@@ -530,7 +530,7 @@ _**Caught Off Guard.**_ You have Disadvantage on Initiative rolls.
 
 _**Rattled.**_ You have the Rattled condition until the end of the first round of combat.
 
-## Unconscious
+## Unconscious ![[image-161.png]]
 
 #condition/revised
 

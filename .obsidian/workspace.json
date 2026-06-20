@@ -6,7 +6,7 @@
       {
         "id": "5e90b3ed8d44b9fb",
         "type": "tabs",
-        "dimension": 51.527290936404604,
+        "dimension": 38.30746119178768,
         "children": [
           {
             "id": "d423174f65b02e06",
@@ -80,7 +80,7 @@
       {
         "id": "1c1b4763fa4737a4",
         "type": "tabs",
-        "dimension": 48.472709063595396,
+        "dimension": 61.69253880821232,
         "children": [
           {
             "id": "9c74f951261e3793",
@@ -221,39 +221,6 @@
               },
               "icon": "lucide-file",
               "title": "death-dying"
-            }
-          },
-          {
-            "id": "e39a334b7fb77f52",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homebrew Mechanics/resurrection.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "resurrection"
             }
           },
           {
@@ -465,7 +432,8 @@
               "title": "Immediate Goals for Play"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -757,12 +725,22 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "task-board:Open task board": false,
-      "calendarium:Open Calendarium": false
+      "task-board:Open task board": false
     }
   },
-  "active": "fcaa59025a7544d2",
+  "active": "beb791fb2e113993",
   "lastOpenFiles": [
+    "z_img/image-166.png",
+    "z_img/image-165.png",
+    "z_img/image-164.png",
+    "z_img/image-163.png",
+    "z_img/image-162.png",
+    "z_img/image-161.png",
+    "z_img/image-160.png",
+    "z_img/image-159.png",
+    "z_img/image-158.png",
+    "z_img/image-157.png",
+    "z_img/image-156.png",
     "Immediate Goals for Play.md",
     "Homebrew Mechanics/resurrection.md",
     "Homebrew Mechanics/conditions.md",
@@ -784,13 +762,10 @@
     "Homebrew Mechanics/degrees-of-success.md",
     "5e.tools Website Navigation.md",
     "small checklist-delete.md",
-    "z_img/image-150.png",
-    "z_img/image-149.png",
     "Order of the Raiju.md",
     "Archmage Brainstorming.md",
     "Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Alchemist/alchemist.md",
     "Untitled.md",
-    "Lex Pokemon Markets.md",
     "Homebrew Mechanics/Conditions",
     "Homebrew Mechanics",
     "map test.canvas",
@@ -801,14 +776,6 @@
     "🌎 - Worldbuilding & Lore/Story/Cultures",
     "z_Templates/DND",
     "🌎 - Worldbuilding & Lore/Story/Maps",
-    "🌎 - Worldbuilding & Lore/Story/concepts",
-    "z_img/image-148.png",
-    "z_img/image-147.png",
-    "z_img/image-146.png",
-    "z_img/image-145.png",
-    "z_img/image-144.png",
-    "z_img/image-143.png",
-    "z_img/image-142.png",
-    "z_img/image-141.png"
+    "🌎 - Worldbuilding & Lore/Story/concepts"
   ]
 }
