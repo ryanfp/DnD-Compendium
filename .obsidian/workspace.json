@@ -232,13 +232,25 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "swan-song",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/swan-song.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"swan-song\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "conditions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Homebrew Mechanics/conditions.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"conditions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":3},\"to\":{\"line\":12,\"ch\":3}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew Mechanics/conditions.md",
+                "file": "Homebrew In-Progress/death_and_swan_song_rules_card_v1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -253,7 +265,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "conditions"
+              "title": "death_and_swan_song_rules_card_v1"
             }
           }
         ],
@@ -432,7 +444,8 @@
               "title": "Immediate Goals for Play"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -731,6 +744,9 @@
   },
   "active": "beb791fb2e113993",
   "lastOpenFiles": [
+    "Homebrew Mechanics/swan-song.md",
+    "Immediate Goals for Play.md",
+    "Homebrew Mechanics/conditions.md",
     "z_img/image-166.png",
     "z_img/image-165.png",
     "z_img/image-164.png",
@@ -741,10 +757,7 @@
     "z_img/image-159.png",
     "z_img/image-158.png",
     "z_img/image-157.png",
-    "z_img/image-156.png",
-    "Immediate Goals for Play.md",
     "Homebrew Mechanics/resurrection.md",
-    "Homebrew Mechanics/conditions.md",
     "Homebrew Mechanics/death-dying.md",
     "Homebrew Mechanics/negotiations.md",
     "Homebrew Mechanics/npc-disposition.md",
@@ -754,7 +767,6 @@
     "Homebrew Mechanics/saving-throws.md",
     "saving throw mockup.md",
     "Homebrew Mechanics/ability-scores 1.md",
-    "Homebrew Mechanics/swan-song.md",
     "Homebrew Mechanics/proficiency-ranks.md",
     "Homebrew Mechanics/skills.md",
     "Homebrew Mechanics/desperate-actions.md",
