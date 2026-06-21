@@ -90,7 +90,7 @@ You do not die. Instead:
 
 ---
 
-## Swan Song (Final)
+## Swan Song
 
 **Swan Song** is a rare Death Move that turns a dying character into a short-lived legend.
 

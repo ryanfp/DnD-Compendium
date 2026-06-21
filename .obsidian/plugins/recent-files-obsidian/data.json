@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "death_and_swan_song_rules_card_v1",
-      "path": "Homebrew In-Progress/death_and_swan_song_rules_card_v1.md"
-    },
-    {
       "basename": "swan-song",
       "path": "Homebrew Mechanics/swan-song.md"
+    },
+    {
+      "basename": "inspiration",
+      "path": "Homebrew Mechanics/inspiration.md"
+    },
+    {
+      "basename": "death-dying-desperate-actions-rules",
+      "path": "Homebrew In-Progress/death-dying-desperate-actions-rules.md"
+    },
+    {
+      "basename": "death_and_swan_song_rules_card_v1",
+      "path": "Homebrew In-Progress/death_and_swan_song_rules_card_v1.md"
     },
     {
       "basename": "Immediate Goals for Play",
@@ -129,10 +137,6 @@
       "path": "Homebrew In-Progress/Homebrew Errata Guide.md"
     },
     {
-      "basename": "death-dying-desperate-actions-rules",
-      "path": "Homebrew In-Progress/death-dying-desperate-actions-rules.md"
-    },
-    {
       "basename": "Better Write-Up",
       "path": "z_Inbox/Better Write-Up.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Organization Hierarchy",
       "path": "Homebrew In-Progress/Organization Hierarchy.md"
-    },
-    {
-      "basename": "Classes",
-      "path": "Compendium/👨🏻‍🤝‍👨🏻 - Player Options/Classes/Classes.md"
     }
   ],
   "omittedPaths": [],
